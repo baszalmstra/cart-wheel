@@ -13,7 +13,7 @@ def test_cli_convert_wheel_success(sample_wheel: Path, tmp_path: Path, capsys):
     """Successful conversion returns exit code 0."""
     output_dir = tmp_path / "output"
 
-    result = main([str(sample_wheel), "-o", str(output_dir)])
+    result = main(["convert", str(sample_wheel), "-o", str(output_dir)])
 
     assert result == 0
     captured = capsys.readouterr()
@@ -24,7 +24,7 @@ def test_cli_convert_wheel_creates_output(sample_wheel: Path, tmp_path: Path):
     """Conversion creates .conda file with correct name."""
     output_dir = tmp_path / "output"
 
-    main([str(sample_wheel), "-o", str(output_dir)])
+    main(["convert", str(sample_wheel), "-o", str(output_dir)])
 
     conda_files = list(output_dir.glob("*.conda"))
     assert len(conda_files) == 1
@@ -35,7 +35,7 @@ def test_cli_default_output_directory(sample_wheel: Path, tmp_path: Path, monkey
     """Output defaults to current directory."""
     monkeypatch.chdir(tmp_path)
 
-    result = main([str(sample_wheel)])
+    result = main(["convert", str(sample_wheel)])
 
     assert result == 0
     conda_files = list(tmp_path.glob("*.conda"))
@@ -46,7 +46,7 @@ def test_cli_verbose_output(sample_wheel: Path, tmp_path: Path, capsys):
     """Verbose flag shows parsing details."""
     output_dir = tmp_path / "output"
 
-    main([str(sample_wheel), "-o", str(output_dir), "-v"])
+    main(["convert", str(sample_wheel), "-o", str(output_dir), "-v"])
 
     captured = capsys.readouterr()
     assert "Parsing wheel:" in captured.out
@@ -60,7 +60,7 @@ def test_cli_output_path_in_message(sample_wheel: Path, tmp_path: Path, capsys):
     """Output message includes path to created file."""
     output_dir = tmp_path / "output"
 
-    main([str(sample_wheel), "-o", str(output_dir)])
+    main(["convert", str(sample_wheel), "-o", str(output_dir)])
 
     captured = capsys.readouterr()
     assert ".conda" in captured.out
@@ -83,7 +83,7 @@ def test_cli_nonexistent_wheel_error(tmp_path: Path, capsys):
     """Missing wheel file returns error."""
     fake_wheel = tmp_path / "nonexistent.whl"
 
-    result = main([str(fake_wheel)])
+    result = main(["convert", str(fake_wheel)])
 
     assert result == 1
     captured = capsys.readouterr()
@@ -96,7 +96,7 @@ def test_cli_non_wheel_file_error(tmp_path: Path, capsys):
     not_a_wheel = tmp_path / "file.txt"
     not_a_wheel.write_text("not a wheel")
 
-    result = main([str(not_a_wheel)])
+    result = main(["convert", str(not_a_wheel)])
 
     assert result == 1
     captured = capsys.readouterr()
@@ -115,7 +115,7 @@ def test_cli_rejects_non_pure_python_wheel(tmp_wheel, tmp_path: Path, capsys):
     )
     output_dir = tmp_path / "output"
 
-    result = main([str(wheel_path), "-o", str(output_dir)])
+    result = main(["convert", str(wheel_path), "-o", str(output_dir)])
 
     assert result == 1
     captured = capsys.readouterr()
@@ -135,7 +135,7 @@ def test_cli_wheel_with_spaces_in_path(tmp_wheel, tmp_path: Path):
     wheel_path.rename(new_path)
 
     output_dir = tmp_path / "output"
-    result = main([str(new_path), "-o", str(output_dir)])
+    result = main(["convert", str(new_path), "-o", str(output_dir)])
 
     assert result == 0
 
@@ -144,7 +144,7 @@ def test_cli_output_directory_created(sample_wheel: Path, tmp_path: Path):
     """Nested output directories are created automatically."""
     output_dir = tmp_path / "nested" / "dirs" / "output"
 
-    result = main([str(sample_wheel), "-o", str(output_dir)])
+    result = main(["convert", str(sample_wheel), "-o", str(output_dir)])
 
     assert result == 0
     assert output_dir.exists()
@@ -154,7 +154,7 @@ def test_cli_minimal_wheel_conversion(minimal_wheel: Path, tmp_path: Path):
     """Minimal wheels with sparse metadata convert successfully."""
     output_dir = tmp_path / "output"
 
-    result = main([str(minimal_wheel), "-o", str(output_dir)])
+    result = main(["convert", str(minimal_wheel), "-o", str(output_dir)])
 
     assert result == 0
     conda_files = list(output_dir.glob("*.conda"))
@@ -170,7 +170,7 @@ def test_cli_converts_dependencies_with_extras(tmp_wheel, tmp_path: Path):
     )
     output_dir = tmp_path / "output"
 
-    result = main([str(wheel_path), "-o", str(output_dir)])
+    result = main(["convert", str(wheel_path), "-o", str(output_dir)])
 
     assert result == 0
     conda_files = list(output_dir.glob("*.conda"))
@@ -186,7 +186,7 @@ def test_cli_converts_environment_markers(tmp_wheel, tmp_path: Path):
     )
     output_dir = tmp_path / "output"
 
-    result = main([str(wheel_path), "-o", str(output_dir)])
+    result = main(["convert", str(wheel_path), "-o", str(output_dir)])
 
     assert result == 0
     conda_files = list(output_dir.glob("*.conda"))
@@ -202,7 +202,7 @@ def test_cli_unsupported_marker_error(tmp_wheel, tmp_path: Path, capsys):
     )
     output_dir = tmp_path / "output"
 
-    result = main([str(wheel_path), "-o", str(output_dir)])
+    result = main(["convert", str(wheel_path), "-o", str(output_dir)])
 
     assert result == 1
     captured = capsys.readouterr()

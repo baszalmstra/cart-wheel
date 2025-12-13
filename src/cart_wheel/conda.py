@@ -461,10 +461,13 @@ def build_conda_package(
 
     # link.json - for noarch python packages
     if metadata.is_pure_python:
+        noarch_data: dict = {
+            "type": "python",
+        }
+        if metadata.console_scripts or metadata.gui_scripts:
+            noarch_data["entry_points"] = metadata.console_scripts + metadata.gui_scripts
         link_json = {
-            "noarch": {
-                "type": "python",
-            },
+            "noarch": noarch_data,
             "package_metadata_version": 1,
         }
         info_files["info/link.json"] = json.dumps(link_json, indent=2).encode("utf-8")

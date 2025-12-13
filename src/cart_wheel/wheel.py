@@ -1,7 +1,10 @@
 """Wheel parsing utilities."""
 
+import configparser
+import zipfile
 from collections.abc import Sequence
 from dataclasses import dataclass, field
+from io import StringIO
 from pathlib import Path
 
 from packaging.utils import parse_wheel_filename
@@ -25,6 +28,10 @@ class WheelMetadata:
     doc_url: str | None = None
     dev_url: str | None = None
     source_url: str | None = None
+
+    # Entry points
+    console_scripts: list[str] = field(default_factory=list)
+    gui_scripts: list[str] = field(default_factory=list)
 
     # Wheel-specific info
     wheel_path: Path | None = None
@@ -73,6 +80,32 @@ def _parse_project_urls(project_urls: Sequence[str] | None) -> dict[str, str]:
     return urls
 
 
+def _parse_entry_points(wheel_path: Path, dist_info_name: str) -> dict[str, list[str]]:
+    """Parse entry_points.txt from a wheel file.
+
+    Returns a dict with keys like 'console_scripts', 'gui_scripts' mapping to
+    lists of entry point strings like 'command = module:function'.
+    """
+    entry_points: dict[str, list[str]] = {}
+    entry_points_path = f"{dist_info_name}/entry_points.txt"
+
+    with zipfile.ZipFile(wheel_path, "r") as zf:
+        try:
+            content = zf.read(entry_points_path).decode("utf-8")
+        except KeyError:
+            return entry_points
+
+    parser = configparser.ConfigParser()
+    parser.read_string(content)
+
+    for section in parser.sections():
+        entry_points[section] = [
+            f"{name} = {value}" for name, value in parser.items(section)
+        ]
+
+    return entry_points
+
+
 def parse_wheel(wheel_path: Path) -> WheelMetadata:
     """Parse metadata from a wheel file."""
     whl = Wheel(str(wheel_path))
@@ -95,6 +128,10 @@ def parse_wheel(wheel_path: Path) -> WheelMetadata:
     name = whl.name or str(filename_name)
     version = whl.version or str(filename_version)
 
+    # Parse entry points
+    dist_info_name = f"{name.replace('-', '_')}-{version}.dist-info"
+    entry_points = _parse_entry_points(wheel_path, dist_info_name)
+
     return WheelMetadata(
         name=name,
         version=version,
@@ -107,6 +144,8 @@ def parse_wheel(wheel_path: Path) -> WheelMetadata:
         doc_url=project_urls.get("documentation"),
         dev_url=project_urls.get("repository"),
         source_url=project_urls.get("source"),
+        console_scripts=entry_points.get("console_scripts", []),
+        gui_scripts=entry_points.get("gui_scripts", []),
         wheel_path=wheel_path,
         is_pure_python=is_pure,
         python_tag=python_tag,

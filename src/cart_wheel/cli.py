@@ -8,31 +8,8 @@ from .conda import build_conda_package
 from .wheel import parse_wheel
 
 
-def main(argv: list[str] | None = None) -> int:
-    """Main entry point for cart-wheel CLI."""
-    parser = argparse.ArgumentParser(
-        prog="cart-wheel",
-        description="Convert Python wheels to conda packages",
-    )
-    parser.add_argument(
-        "wheel",
-        type=Path,
-        help="Path to the .whl file to convert",
-    )
-    parser.add_argument(
-        "-o", "--output-dir",
-        type=Path,
-        default=Path("."),
-        help="Output directory for the .conda file (default: current directory)",
-    )
-    parser.add_argument(
-        "-v", "--verbose",
-        action="store_true",
-        help="Print verbose output",
-    )
-
-    args = parser.parse_args(argv)
-
+def cmd_convert(args: argparse.Namespace) -> int:
+    """Convert a wheel to conda package."""
     wheel_path: Path = args.wheel
     output_dir: Path = args.output_dir
 
@@ -66,7 +43,7 @@ def main(argv: list[str] | None = None) -> int:
             print(f"  Dependencies: {len(metadata.dependencies)}")
 
         if args.verbose:
-            print(f"Building conda package...")
+            print("Building conda package...")
 
         conda_path = build_conda_package(metadata, output_dir)
 
@@ -76,6 +53,41 @@ def main(argv: list[str] | None = None) -> int:
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
         return 1
+
+
+def main(argv: list[str] | None = None) -> int:
+    """Main entry point for cart-wheel CLI."""
+    parser = argparse.ArgumentParser(
+        prog="cart-wheel",
+        description="Convert Python wheels to conda packages",
+    )
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    # convert subcommand
+    convert_parser = subparsers.add_parser(
+        "convert",
+        help="Convert a wheel to conda package",
+    )
+    convert_parser.add_argument(
+        "wheel",
+        type=Path,
+        help="Path to the .whl file to convert",
+    )
+    convert_parser.add_argument(
+        "-o", "--output-dir",
+        type=Path,
+        default=Path("."),
+        help="Output directory for the .conda file (default: current directory)",
+    )
+    convert_parser.add_argument(
+        "-v", "--verbose",
+        action="store_true",
+        help="Print verbose output",
+    )
+    convert_parser.set_defaults(func=cmd_convert)
+
+    args = parser.parse_args(argv)
+    return args.func(args)
 
 
 if __name__ == "__main__":
