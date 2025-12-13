@@ -24,3 +24,6 @@ htmlcov/
 test_wheels/
 test_output/
 *.conda
+
+# Channel output (local builds)
+output/

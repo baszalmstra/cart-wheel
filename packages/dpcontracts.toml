@@ -1,0 +1,6 @@
+# Package configuration for dpcontracts
+# No pure Python wheels available - platform-specific only
+version_constraint = ""
+skip_versions = []
+
+wheels = []

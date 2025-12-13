@@ -1,0 +1,16 @@
+# Cart-wheel global configuration
+
+# Default number of versions to convert per package
+default_versions = 5
+
+# Platforms to build for (pure python goes to noarch)
+platforms = ["noarch"]
+
+# Output directory for local channel (gitignored)
+output_dir = "output"
+
+# State directory (committed to track channel contents)
+state_dir = "state"
+
+# Packages directory
+packages_dir = "packages"

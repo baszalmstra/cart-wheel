@@ -34,6 +34,7 @@ class ConversionResult:
     extra_depends: dict[str, list[str]] = field(default_factory=dict)
     entry_points: list[str] = field(default_factory=list)
     subdir: str = "noarch"
+    original_requirements: list[str] = field(default_factory=list)
 
 
 # Platform marker mappings to conda platform flags
@@ -89,6 +90,33 @@ def _convert_marker_atom(variable: str, op: str, value: str) -> str:
     if variable == "platform_version":
         return f"__PLATFORM_VERSION__{op}{value}"
 
+    if variable == "platform_python_implementation":
+        # Conda packages are typically for CPython
+        # Include dep unconditionally for CPython, skip for other implementations
+        if op == "==":
+            if value.lower() == "cpython":
+                return "__CPYTHON_ALWAYS"  # Special marker to include unconditionally
+            else:
+                return "__SKIP_DEP"  # Skip deps for PyPy, etc.
+        elif op == "!=":
+            if value.lower() == "cpython":
+                return "__SKIP_DEP"  # Skip if NOT CPython
+            else:
+                return "__CPYTHON_ALWAYS"  # Include if NOT other implementations
+
+    if variable == "implementation_name":
+        # Similar to platform_python_implementation
+        if op == "==":
+            if value.lower() == "cpython":
+                return "__CPYTHON_ALWAYS"
+            else:
+                return "__SKIP_DEP"
+        elif op == "!=":
+            if value.lower() == "cpython":
+                return "__SKIP_DEP"
+            else:
+                return "__CPYTHON_ALWAYS"
+
     raise DependencyConversionError(
         f"Cannot convert marker variable '{variable}': unsupported"
     )
@@ -100,10 +128,19 @@ def _convert_marker_tree(tree: list) -> str:
     platform_flags = []
     platform_version_idx = None
     platform_version_value = None
+    has_skip_dep = False
+    has_cpython_always = False
 
     for item in tree:
         if isinstance(item, list):
-            converted_items.append(("part", f"({_convert_marker_tree(item)})"))
+            sub_result = _convert_marker_tree(item)
+            # Propagate special markers from sub-expressions
+            if sub_result == "__SKIP_DEP":
+                has_skip_dep = True
+            elif sub_result == "__CPYTHON_ALWAYS":
+                has_cpython_always = True
+            else:
+                converted_items.append(("part", f"({sub_result})"))
         elif isinstance(item, str):
             converted_items.append(("op", item))
         elif isinstance(item, tuple) and len(item) == 3:
@@ -114,7 +151,11 @@ def _convert_marker_tree(tree: list) -> str:
 
             converted = _convert_marker_atom(variable, op, value)
 
-            if converted in ("__win", "__linux", "__osx", "__unix"):
+            if converted == "__SKIP_DEP":
+                has_skip_dep = True
+            elif converted == "__CPYTHON_ALWAYS":
+                has_cpython_always = True
+            elif converted in ("__win", "__linux", "__osx", "__unix"):
                 platform_flags.append(len(converted_items))
                 converted_items.append(("platform", converted))
             elif converted.startswith("__PLATFORM_VERSION__"):
@@ -125,6 +166,18 @@ def _convert_marker_tree(tree: list) -> str:
                 converted_items.append(("part", converted))
         else:
             converted_items.append(("part", str(item)))
+
+    # Handle special CPython markers
+    # If we have an "and" with __SKIP_DEP, skip the whole thing
+    # If we have an "and" with __CPYTHON_ALWAYS, just return the other conditions
+    # If we only have the special marker, return it directly
+    if has_skip_dep:
+        # Any "and" with skip means skip; "or" would need more complex handling
+        # For simplicity, if skip_dep appears at all, we skip
+        return "__SKIP_DEP"
+    if has_cpython_always and len(converted_items) == 0:
+        # Only the CPython marker, no other conditions
+        return "__CPYTHON_ALWAYS"
 
     if platform_version_value is not None:
         if len(platform_flags) == 1:
@@ -257,6 +310,11 @@ def _convert_dependencies(
                 if remaining_marker:
                     remaining_marker_obj = Marker(remaining_marker)
                     condition = _marker_to_condition(remaining_marker_obj)
+                    # Handle special markers for CPython
+                    if condition == "__SKIP_DEP":
+                        continue  # Skip this dependency
+                    elif condition == "__CPYTHON_ALWAYS":
+                        condition = None  # Include unconditionally
 
                 conda_dep = _requirement_to_conda_dep(req, condition)
                 if extra_name not in extras:
@@ -265,6 +323,11 @@ def _convert_dependencies(
                 continue
 
             condition = _marker_to_condition(req.marker)
+            # Handle special markers for CPython
+            if condition == "__SKIP_DEP":
+                continue  # Skip this dependency
+            elif condition == "__CPYTHON_ALWAYS":
+                condition = None  # Include unconditionally
             conda_deps.append(_requirement_to_conda_dep(req, condition))
         else:
             conda_deps.append(_requirement_to_conda_dep(req))
@@ -526,6 +589,7 @@ def convert_wheel(
             extra_depends=extra_depends,
             entry_points=entry_points,
             subdir=wheel_metadata.conda_subdir,
+            original_requirements=wheel_metadata.dependencies,
         )
     finally:
         # Cleanup temp file

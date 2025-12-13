@@ -65,6 +65,37 @@ class WheelMetadata:
             return "noarch"
 
 
+def _extract_license(msg) -> str | None:
+    """Extract license from metadata message.
+
+    Checks in order:
+    1. License-Expression header (PEP 639)
+    2. License header (legacy)
+    3. Classifier strings (fallback)
+    """
+    # PEP 639 style
+    license_expr = msg.get("License-Expression")
+    if license_expr:
+        return license_expr
+
+    # Legacy style
+    license_header = msg.get("License")
+    if license_header:
+        return license_header
+
+    # Extract from classifiers as fallback
+    classifiers = msg.get_all("Classifier") or []
+    for classifier in classifiers:
+        if classifier.startswith("License :: "):
+            # Extract the license name from classifier
+            # e.g., "License :: OSI Approved :: MIT License" -> "MIT License"
+            parts = classifier.split(" :: ")
+            if len(parts) >= 3:
+                return parts[-1]
+
+    return None
+
+
 def _parse_metadata_bytes(content: bytes) -> dict:
     """Parse wheel METADATA file content.
 
@@ -95,12 +126,29 @@ def _parse_metadata_bytes(content: bytes) -> dict:
         "version": msg.get("Version", ""),
         "summary": msg.get("Summary"),
         "description": msg.get_payload() or None,  # Body is the description
-        "license": msg.get("License"),
+        "license": _extract_license(msg),
         "requires_python": msg.get("Requires-Python"),
         "requires_dist": requires_dist,
         "home_page": msg.get("Home-page"),
         "project_urls": project_urls,
     }
+
+
+def parse_dependencies_from_metadata(content: bytes) -> list[str]:
+    """Parse just the dependencies from METADATA content.
+
+    This is a lightweight alternative to full wheel parsing when
+    we only need the dependency list (e.g., from PEP 658 metadata).
+
+    Args:
+        content: Raw bytes of METADATA file.
+
+    Returns:
+        List of Requires-Dist strings.
+    """
+    parser = Parser()
+    msg = parser.parsestr(content.decode("utf-8"))
+    return msg.get_all("Requires-Dist") or []
 
 
 def _parse_wheel_bytes(content: bytes) -> dict:
