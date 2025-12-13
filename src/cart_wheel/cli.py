@@ -4,8 +4,7 @@ import argparse
 import sys
 from pathlib import Path
 
-from .conda import build_conda_package
-from .wheel import parse_wheel
+from .conda import convert_wheel
 
 
 def cmd_convert(args: argparse.Namespace) -> int:
@@ -18,36 +17,26 @@ def cmd_convert(args: argparse.Namespace) -> int:
         return 1
 
     if not wheel_path.suffix == ".whl":
-        print(f"Error: File does not appear to be a wheel: {wheel_path}", file=sys.stderr)
+        print(
+            f"Error: File does not appear to be a wheel: {wheel_path}", file=sys.stderr
+        )
         return 1
 
     try:
         if args.verbose:
-            print(f"Parsing wheel: {wheel_path}")
+            print(f"Converting wheel: {wheel_path}")
 
-        metadata = parse_wheel(wheel_path)
-
-        if not metadata.is_pure_python:
-            print(
-                f"Error: Only pure Python wheels are supported. "
-                f"This wheel has platform tag: {metadata.platform_tag}",
-                file=sys.stderr,
-            )
-            return 1
+        result = convert_wheel(wheel_path, output_dir)
 
         if args.verbose:
-            print(f"  Name: {metadata.name}")
-            print(f"  Version: {metadata.version}")
-            print(f"  Pure Python: {metadata.is_pure_python}")
-            print(f"  Platform: {metadata.platform_tag}")
-            print(f"  Dependencies: {len(metadata.dependencies)}")
+            print(f"  Name: {result.name}")
+            print(f"  Version: {result.version}")
+            print(f"  Subdir: {result.subdir}")
+            print(f"  Dependencies: {len(result.dependencies)}")
+            if result.entry_points:
+                print(f"  Entry points: {len(result.entry_points)}")
 
-        if args.verbose:
-            print("Building conda package...")
-
-        conda_path = build_conda_package(metadata, output_dir)
-
-        print(f"Created: {conda_path}")
+        print(f"Created: {result.path}")
         return 0
 
     except Exception as e:
@@ -74,13 +63,15 @@ def main(argv: list[str] | None = None) -> int:
         help="Path to the .whl file to convert",
     )
     convert_parser.add_argument(
-        "-o", "--output-dir",
+        "-o",
+        "--output-dir",
         type=Path,
         default=Path("."),
         help="Output directory for the .conda file (default: current directory)",
     )
     convert_parser.add_argument(
-        "-v", "--verbose",
+        "-v",
+        "--verbose",
         action="store_true",
         help="Print verbose output",
     )

@@ -4,11 +4,10 @@ import pytest
 from packaging.markers import Marker
 
 from cart_wheel.conda import (
-    _marker_to_condition,
-    _extract_extra_from_marker,
     DependencyConversionError,
+    _extract_extra_from_marker,
+    _marker_to_condition,
 )
-
 
 # _marker_to_condition tests
 

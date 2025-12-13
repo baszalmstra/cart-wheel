@@ -6,8 +6,8 @@ import pytest
 
 from cart_wheel.cli import main
 
-
 # Basic CLI tests
+
 
 def test_cli_convert_wheel_success(sample_wheel: Path, tmp_path: Path, capsys):
     """Successful conversion returns exit code 0."""
@@ -43,16 +43,16 @@ def test_cli_default_output_directory(sample_wheel: Path, tmp_path: Path, monkey
 
 
 def test_cli_verbose_output(sample_wheel: Path, tmp_path: Path, capsys):
-    """Verbose flag shows parsing details."""
+    """Verbose flag shows conversion details."""
     output_dir = tmp_path / "output"
 
     main(["convert", str(sample_wheel), "-o", str(output_dir), "-v"])
 
     captured = capsys.readouterr()
-    assert "Parsing wheel:" in captured.out
+    assert "Converting wheel:" in captured.out
     assert "Name:" in captured.out
     assert "Version:" in captured.out
-    assert "Pure Python:" in captured.out
+    assert "Subdir:" in captured.out
     assert "Dependencies:" in captured.out
 
 
@@ -79,6 +79,7 @@ def test_cli_help_option(capsys):
 
 # Error handling tests
 
+
 def test_cli_nonexistent_wheel_error(tmp_path: Path, capsys):
     """Missing wheel file returns error."""
     fake_wheel = tmp_path / "nonexistent.whl"
@@ -104,8 +105,8 @@ def test_cli_non_wheel_file_error(tmp_path: Path, capsys):
     assert "wheel" in captured.err.lower()
 
 
-def test_cli_rejects_non_pure_python_wheel(tmp_wheel, tmp_path: Path, capsys):
-    """Platform-specific wheels are rejected."""
+def test_cli_converts_platform_specific_wheel(tmp_wheel, tmp_path: Path, capsys):
+    """Platform-specific wheels are converted with correct subdir."""
     wheel_path = tmp_wheel(
         name="native_pkg",
         version="1.0.0",
@@ -115,15 +116,17 @@ def test_cli_rejects_non_pure_python_wheel(tmp_wheel, tmp_path: Path, capsys):
     )
     output_dir = tmp_path / "output"
 
-    result = main(["convert", str(wheel_path), "-o", str(output_dir)])
+    result = main(["convert", str(wheel_path), "-o", str(output_dir), "-v"])
 
-    assert result == 1
+    assert result == 0
     captured = capsys.readouterr()
-    assert "Error:" in captured.err
-    assert "pure Python" in captured.err
+    assert "Subdir: win-64" in captured.out
+    conda_files = list(output_dir.glob("*.conda"))
+    assert len(conda_files) == 1
 
 
 # Edge case tests
+
 
 def test_cli_wheel_with_spaces_in_path(tmp_wheel, tmp_path: Path):
     """Paths with spaces are handled correctly."""

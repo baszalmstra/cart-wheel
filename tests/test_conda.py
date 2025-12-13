@@ -12,15 +12,14 @@ import zstandard as zstd
 from packaging.requirements import Requirement
 
 from cart_wheel.conda import (
-    build_conda_package,
+    ConversionResult,
     _create_tar_zst,
     _requirement_to_conda_dep,
-    DependencyConversionError,
+    convert_wheel,
 )
-from cart_wheel.wheel import WheelMetadata, parse_wheel
-
 
 # Helper functions
+
 
 def _extract_info_file(conda_path: Path, filename: str) -> bytes:
     """Extract a file from the info archive of a .conda package."""
@@ -52,8 +51,10 @@ def _extract_pkg_file(conda_path: Path, filename: str) -> bytes:
         else:
             raise ValueError("No pkg archive found")
 
+    # Use streaming decompression (streaming compression doesn't include size in header)
     dctx = zstd.ZstdDecompressor()
-    pkg_tar = dctx.decompress(pkg_zst)
+    with dctx.stream_reader(io.BytesIO(pkg_zst)) as reader:
+        pkg_tar = reader.read()
 
     with tarfile.open(fileobj=io.BytesIO(pkg_tar)) as tar:
         member = tar.extractfile(filename)
@@ -63,6 +64,7 @@ def _extract_pkg_file(conda_path: Path, filename: str) -> bytes:
 
 
 # _create_tar_zst tests
+
 
 def test_create_tar_zst_valid_zstd():
     """Output is valid zstd-compressed tar."""
@@ -120,6 +122,7 @@ def test_create_tar_zst_empty_dict():
 
 
 # _requirement_to_conda_dep tests
+
 
 def test_requirement_to_conda_dep_simple():
     """Simple requirement without version."""
@@ -183,63 +186,73 @@ def test_requirement_to_conda_dep_with_condition():
     assert result == "pywin32 >=300; if __win"
 
 
-# build_conda_package tests
+# convert_wheel tests
 
-def test_build_conda_package_creates_file(sample_wheel: Path, tmp_path: Path):
+
+def test_convert_wheel_creates_file(sample_wheel: Path, tmp_path: Path):
     """Output .conda file is created."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    assert result.exists()
-    assert result.suffix == ".conda"
+    assert result.path.exists()
+    assert result.path.suffix == ".conda"
 
 
-def test_build_conda_package_file_name_format(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_returns_conversion_result(sample_wheel: Path, tmp_path: Path):
+    """convert_wheel returns ConversionResult with metadata."""
+    output_dir = tmp_path / "output"
+
+    result = convert_wheel(sample_wheel, output_dir)
+
+    assert isinstance(result, ConversionResult)
+    assert result.name == "sample-package"
+    assert result.version == "2.0.0"
+    assert result.subdir == "noarch"
+    assert isinstance(result.dependencies, list)
+    assert isinstance(result.extra_depends, dict)
+
+
+def test_convert_wheel_file_name_format(sample_wheel: Path, tmp_path: Path):
     """Output filename follows conda naming convention."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    assert result.name == "sample-package-2.0.0-py_0.conda"
+    assert result.path.name == "sample-package-2.0.0-py_0.conda"
 
 
-def test_build_conda_package_valid_zip(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_valid_zip(sample_wheel: Path, tmp_path: Path):
     """Output is valid ZIP with required archives."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    with zipfile.ZipFile(result) as z:
+    with zipfile.ZipFile(result.path) as z:
         names = z.namelist()
         assert "metadata.json" in names
         assert any("info-" in n and ".tar.zst" in n for n in names)
         assert any("pkg-" in n and ".tar.zst" in n for n in names)
 
 
-def test_build_conda_package_metadata_json(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_metadata_json(sample_wheel: Path, tmp_path: Path):
     """metadata.json has correct format version."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    with zipfile.ZipFile(result) as z:
+    with zipfile.ZipFile(result.path) as z:
         meta = json.loads(z.read("metadata.json"))
         assert meta["conda_pkg_format_version"] == 2
 
 
-def test_build_conda_package_index_json_contents(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_index_json_contents(sample_wheel: Path, tmp_path: Path):
     """index.json contains required package metadata."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    index = _extract_info_file(result, "info/index.json")
+    index = _extract_info_file(result.path, "info/index.json")
     index_data = json.loads(index)
 
     assert index_data["name"] == "sample-package"
@@ -250,14 +263,13 @@ def test_build_conda_package_index_json_contents(sample_wheel: Path, tmp_path: P
     assert index_data["noarch"] == "python"
 
 
-def test_build_conda_package_index_json_dependencies(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_index_json_dependencies(sample_wheel: Path, tmp_path: Path):
     """index.json includes wheel dependencies."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    index = _extract_info_file(result, "info/index.json")
+    index = _extract_info_file(result.path, "info/index.json")
     index_data = json.loads(index)
 
     deps = index_data["depends"]
@@ -266,55 +278,51 @@ def test_build_conda_package_index_json_dependencies(sample_wheel: Path, tmp_pat
     assert any("click" in d for d in deps)
 
 
-def test_build_conda_package_excludes_extra_dependencies(sample_wheel: Path, tmp_path: Path):
-    """Dependencies conditional on extras are excluded."""
-    metadata = parse_wheel(sample_wheel)
+def test_convert_wheel_excludes_extra_dependencies(sample_wheel: Path, tmp_path: Path):
+    """Dependencies conditional on extras are excluded from main deps."""
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    index = _extract_info_file(result, "info/index.json")
+    index = _extract_info_file(result.path, "info/index.json")
     index_data = json.loads(index)
 
     deps = index_data["depends"]
-    # typing-extensions has `extra == 'dev'` marker, should be excluded
+    # typing-extensions has `extra == 'dev'` marker, should be in extra_depends
     assert not any("typing-extensions" in d for d in deps)
 
 
-def test_build_conda_package_license_present(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_license_present(sample_wheel: Path, tmp_path: Path):
     """License is included when present in wheel."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    index = _extract_info_file(result, "info/index.json")
+    index = _extract_info_file(result.path, "info/index.json")
     index_data = json.loads(index)
 
     assert index_data["license"] == "Apache-2.0"
 
 
-def test_build_conda_package_license_missing(minimal_wheel: Path, tmp_path: Path):
+def test_convert_wheel_license_missing(minimal_wheel: Path, tmp_path: Path):
     """License is omitted when not in wheel metadata."""
-    metadata = parse_wheel(minimal_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(minimal_wheel, output_dir)
 
-    index = _extract_info_file(result, "info/index.json")
+    index = _extract_info_file(result.path, "info/index.json")
     index_data = json.loads(index)
 
     assert "license" not in index_data
 
 
-def test_build_conda_package_paths_json_format(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_paths_json_format(sample_wheel: Path, tmp_path: Path):
     """paths.json has correct structure."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    paths = _extract_info_file(result, "info/paths.json")
+    paths = _extract_info_file(result.path, "info/paths.json")
     paths_data = json.loads(paths)
 
     assert "paths" in paths_data
@@ -322,14 +330,13 @@ def test_build_conda_package_paths_json_format(sample_wheel: Path, tmp_path: Pat
     assert paths_data["paths_version"] == 1
 
 
-def test_build_conda_package_paths_json_entry_format(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_paths_json_entry_format(sample_wheel: Path, tmp_path: Path):
     """paths.json entries have required fields."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    paths = _extract_info_file(result, "info/paths.json")
+    paths = _extract_info_file(result.path, "info/paths.json")
     paths_data = json.loads(paths)
 
     entry = paths_data["paths"][0]
@@ -340,14 +347,13 @@ def test_build_conda_package_paths_json_entry_format(sample_wheel: Path, tmp_pat
     assert entry["path_type"] == "hardlink"
 
 
-def test_build_conda_package_installer_is_conda(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_installer_is_conda(sample_wheel: Path, tmp_path: Path):
     """INSTALLER file contains 'conda'."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    paths = _extract_info_file(result, "info/paths.json")
+    paths = _extract_info_file(result.path, "info/paths.json")
     paths_data = json.loads(paths)
 
     installer_paths = [p for p in paths_data["paths"] if "INSTALLER" in p["_path"]]
@@ -357,40 +363,37 @@ def test_build_conda_package_installer_is_conda(sample_wheel: Path, tmp_path: Pa
     assert installer_paths[0]["sha256"] == expected_hash
 
 
-def test_build_conda_package_original_installer_replaced(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_original_installer_replaced(sample_wheel: Path, tmp_path: Path):
     """Original wheel INSTALLER is replaced with 'conda'."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
     pkg_content = _extract_pkg_file(
-        result, "site-packages/sample_package-2.0.0.dist-info/INSTALLER"
+        result.path, "site-packages/sample_package-2.0.0.dist-info/INSTALLER"
     )
     assert pkg_content == b"conda\n"
 
 
-def test_build_conda_package_about_json_summary(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_about_json_summary(sample_wheel: Path, tmp_path: Path):
     """about.json includes package summary."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    about = _extract_info_file(result, "info/about.json")
+    about = _extract_info_file(result.path, "info/about.json")
     about_data = json.loads(about)
 
     assert about_data["summary"] == "A sample package for testing"
 
 
-def test_build_conda_package_about_json_urls(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_about_json_urls(sample_wheel: Path, tmp_path: Path):
     """about.json includes project URLs."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    about = _extract_info_file(result, "info/about.json")
+    about = _extract_info_file(result.path, "info/about.json")
     about_data = json.loads(about)
 
     assert about_data["home"] == "https://example.com"
@@ -398,129 +401,111 @@ def test_build_conda_package_about_json_urls(sample_wheel: Path, tmp_path: Path)
     assert about_data["source_url"] == "https://github.com/example/sample"
 
 
-def test_build_conda_package_about_json_description(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_about_json_description(sample_wheel: Path, tmp_path: Path):
     """about.json includes long description."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    about = _extract_info_file(result, "info/about.json")
+    about = _extract_info_file(result.path, "info/about.json")
     about_data = json.loads(about)
 
     assert "# Sample Package" in about_data["description"]
 
 
-def test_build_conda_package_link_json(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_link_json(sample_wheel: Path, tmp_path: Path):
     """link.json marks package as noarch python."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    link = _extract_info_file(result, "info/link.json")
+    link = _extract_info_file(result.path, "info/link.json")
     link_data = json.loads(link)
 
     assert link_data["noarch"]["type"] == "python"
     assert link_data["package_metadata_version"] == 1
 
 
-def test_build_conda_package_files_list(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_files_list(sample_wheel: Path, tmp_path: Path):
     """info/files lists all package files."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
-    files = _extract_info_file(result, "info/files")
+    files = _extract_info_file(result.path, "info/files")
     files_list = files.decode().strip().split("\n")
 
     assert any("site-packages" in f for f in files_list)
 
 
-def test_build_conda_package_creates_output_directory(sample_wheel: Path, tmp_path: Path):
+def test_convert_wheel_creates_output_directory(sample_wheel: Path, tmp_path: Path):
     """Output directory is created if it doesn't exist."""
-    metadata = parse_wheel(sample_wheel)
     output_dir = tmp_path / "nested" / "output" / "dir"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(sample_wheel, output_dir)
 
     assert output_dir.exists()
-    assert result.exists()
+    assert result.path.exists()
 
 
-def test_build_conda_package_raises_without_wheel_path(tmp_path: Path):
-    """ValueError raised when wheel_path is None."""
-    metadata = WheelMetadata(name="test", version="1.0.0", wheel_path=None)
-
-    with pytest.raises(ValueError, match="wheel_path"):
-        build_conda_package(metadata, tmp_path)
-
-
-def test_build_conda_package_converts_python_version_marker(tmp_wheel, tmp_path: Path):
+def test_convert_wheel_converts_python_version_marker(tmp_wheel, tmp_path: Path):
     """Python version markers are converted to conda conditions."""
     wheel_path = tmp_wheel(
         name="marker_pkg",
         version="1.0.0",
         requires_dist=["typing-extensions; python_version < '3.11'"],
     )
-    metadata = parse_wheel(wheel_path)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(wheel_path, output_dir)
 
-    index = _extract_info_file(result, "info/index.json")
+    index = _extract_info_file(result.path, "info/index.json")
     index_data = json.loads(index)
     deps = index_data["depends"]
 
-    # Should have conditional dependency
-    typing_dep = [d for d in deps if "typing-extensions" in d][0]
+    typing_dep = next(d for d in deps if "typing-extensions" in d)
     assert "; if python <3.11" in typing_dep
 
 
-def test_build_conda_package_converts_platform_marker(tmp_wheel, tmp_path: Path):
+def test_convert_wheel_converts_platform_marker(tmp_wheel, tmp_path: Path):
     """Platform markers are converted to conda conditions."""
     wheel_path = tmp_wheel(
         name="platform_pkg",
         version="1.0.0",
         requires_dist=["pywin32; sys_platform == 'win32'"],
     )
-    metadata = parse_wheel(wheel_path)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(wheel_path, output_dir)
 
-    index = _extract_info_file(result, "info/index.json")
+    index = _extract_info_file(result.path, "info/index.json")
     index_data = json.loads(index)
     deps = index_data["depends"]
 
-    # Should have conditional dependency with __win
-    pywin32_dep = [d for d in deps if "pywin32" in d][0]
+    pywin32_dep = next(d for d in deps if "pywin32" in d)
     assert "; if __win" in pywin32_dep
 
 
-def test_build_conda_package_converts_extras_in_dependency(tmp_wheel, tmp_path: Path):
+def test_convert_wheel_converts_extras_in_dependency(tmp_wheel, tmp_path: Path):
     """Extras in dependencies are converted to conda format."""
     wheel_path = tmp_wheel(
         name="extras_pkg",
         version="1.0.0",
         requires_dist=["requests[security]>=2.0"],
     )
-    metadata = parse_wheel(wheel_path)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(wheel_path, output_dir)
 
-    index = _extract_info_file(result, "info/index.json")
+    index = _extract_info_file(result.path, "info/index.json")
     index_data = json.loads(index)
     deps = index_data["depends"]
 
-    # Should have requests with extras in conda format
-    requests_dep = [d for d in deps if "requests" in d][0]
+    requests_dep = next(d for d in deps if "requests" in d)
     assert requests_dep == "requests[extras=[security]] >=2.0"
 
 
-def test_build_conda_package_collects_extras(tmp_wheel, tmp_path: Path):
+def test_convert_wheel_collects_extras(tmp_wheel, tmp_path: Path):
     """Extra-conditional dependencies are collected into extras field."""
     wheel_path = tmp_wheel(
         name="extras_pkg",
@@ -533,21 +518,24 @@ def test_build_conda_package_collects_extras(tmp_wheel, tmp_path: Path):
             "isort; extra == 'dev'",
         ],
     )
-    metadata = parse_wheel(wheel_path)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(wheel_path, output_dir)
 
-    index = _extract_info_file(result, "info/index.json")
+    # Check ConversionResult
+    assert "test" in result.extra_depends
+    assert "docs" in result.extra_depends
+    assert "dev" in result.extra_depends
+
+    # Check index.json
+    index = _extract_info_file(result.path, "info/index.json")
     index_data = json.loads(index)
 
-    # Main depends should only have requests (and python)
     deps = index_data["depends"]
     assert any("requests" in d for d in deps)
     assert not any("pytest" in d for d in deps)
     assert not any("sphinx" in d for d in deps)
 
-    # Extras should be populated
     extra_depends = index_data["extra_depends"]
     assert "test" in extra_depends
     assert "pytest" in extra_depends["test"]
@@ -555,11 +543,9 @@ def test_build_conda_package_collects_extras(tmp_wheel, tmp_path: Path):
     assert "sphinx" in extra_depends["docs"]
     assert "dev" in extra_depends
     assert len(extra_depends["dev"]) == 2
-    assert "black" in extra_depends["dev"]
-    assert "isort" in extra_depends["dev"]
 
 
-def test_build_conda_package_extras_with_conditions(tmp_wheel, tmp_path: Path):
+def test_convert_wheel_extras_with_conditions(tmp_wheel, tmp_path: Path):
     """Extras can have conditional dependencies."""
     wheel_path = tmp_wheel(
         name="extras_cond_pkg",
@@ -570,23 +556,50 @@ def test_build_conda_package_extras_with_conditions(tmp_wheel, tmp_path: Path):
             "pytest; extra == 'test'",
         ],
     )
-    metadata = parse_wheel(wheel_path)
     output_dir = tmp_path / "output"
 
-    result = build_conda_package(metadata, output_dir)
+    result = convert_wheel(wheel_path, output_dir)
 
-    index = _extract_info_file(result, "info/index.json")
+    index = _extract_info_file(result.path, "info/index.json")
     index_data = json.loads(index)
 
-    # Extras should have conditional dependency
     extra_depends = index_data["extra_depends"]
     assert "dev" in extra_depends
     pywin32_dep = extra_depends["dev"][0]
     assert "pywin32" in pywin32_dep
     assert "; if __win" in pywin32_dep
 
-    # Non-conditional extra should not have condition
     assert "test" in extra_depends
     pytest_dep = extra_depends["test"][0]
     assert pytest_dep == "pytest"
     assert "; if" not in pytest_dep
+
+
+def test_convert_wheel_from_iterable(sample_wheel: Path, tmp_path: Path):
+    """convert_wheel works with iterable of bytes."""
+    output_dir = tmp_path / "output"
+
+    def read_chunks():
+        with open(sample_wheel, "rb") as f:
+            while chunk := f.read(65536):
+                yield chunk
+
+    result = convert_wheel(read_chunks(), output_dir, filename=sample_wheel.name)
+
+    assert result.path.exists()
+    assert result.name == "sample-package"
+
+
+def test_convert_wheel_requires_filename_for_iterable(
+    sample_wheel: Path, tmp_path: Path
+):
+    """convert_wheel raises error if filename missing for iterable."""
+    output_dir = tmp_path / "output"
+
+    def read_chunks():
+        with open(sample_wheel, "rb") as f:
+            while chunk := f.read(65536):
+                yield chunk
+
+    with pytest.raises(ValueError, match="filename is required"):
+        convert_wheel(read_chunks(), output_dir)

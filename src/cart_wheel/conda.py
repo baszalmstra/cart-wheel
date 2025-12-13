@@ -1,24 +1,39 @@
 """Conda package building utilities."""
 
-import hashlib
 import io
 import json
 import re
-import tarfile
+import tempfile
+import zipfile
+from collections.abc import Iterable
+from dataclasses import dataclass, field
 from pathlib import Path
-from zipfile import ZipFile, ZIP_STORED
 
 import zstandard as zstd
 from packaging.markers import Marker
 from packaging.requirements import Requirement
 
-from .wheel import WheelMetadata
+from .streaming import FileMetadata, StreamingTarZstWriter
+from .wheel import parse_wheel_metadata
 
 
 class DependencyConversionError(Exception):
     """Raised when a wheel dependency cannot be converted to conda format."""
 
     pass
+
+
+@dataclass
+class ConversionResult:
+    """Result of converting a wheel to conda package."""
+
+    path: Path
+    name: str
+    version: str
+    dependencies: list[str] = field(default_factory=list)
+    extra_depends: dict[str, list[str]] = field(default_factory=dict)
+    entry_points: list[str] = field(default_factory=list)
+    subdir: str = "noarch"
 
 
 # Platform marker mappings to conda platform flags
@@ -37,19 +52,7 @@ _PLATFORM_SYSTEM_MAP = {
 
 
 def _convert_marker_atom(variable: str, op: str, value: str) -> str:
-    """Convert a single marker comparison to conda condition.
-
-    Args:
-        variable: The marker variable (e.g., 'python_version', 'sys_platform')
-        op: The operator (e.g., '==', '>=', '<')
-        value: The comparison value
-
-    Returns:
-        Conda condition string for this atom
-
-    Raises:
-        DependencyConversionError: If the marker variable is unsupported
-    """
+    """Convert a single marker comparison to conda condition."""
     if variable == "python_version":
         return f"python {op}{value}"
 
@@ -57,29 +60,21 @@ def _convert_marker_atom(variable: str, op: str, value: str) -> str:
         if op == "==":
             if value in _PLATFORM_MAP:
                 return _PLATFORM_MAP[value]
-            raise DependencyConversionError(
-                f"Unknown sys_platform value: {value}"
-            )
+            raise DependencyConversionError(f"Unknown sys_platform value: {value}")
         elif op == "!=":
             if value in _PLATFORM_MAP:
                 return f"not {_PLATFORM_MAP[value]}"
-            raise DependencyConversionError(
-                f"Unknown sys_platform value: {value}"
-            )
+            raise DependencyConversionError(f"Unknown sys_platform value: {value}")
 
     if variable == "platform_system":
         if op == "==":
             if value in _PLATFORM_SYSTEM_MAP:
                 return _PLATFORM_SYSTEM_MAP[value]
-            raise DependencyConversionError(
-                f"Unknown platform_system value: {value}"
-            )
+            raise DependencyConversionError(f"Unknown platform_system value: {value}")
         elif op == "!=":
             if value in _PLATFORM_SYSTEM_MAP:
                 return f"not {_PLATFORM_SYSTEM_MAP[value]}"
-            raise DependencyConversionError(
-                f"Unknown platform_system value: {value}"
-            )
+            raise DependencyConversionError(f"Unknown platform_system value: {value}")
 
     if variable == "os_name":
         if op == "==":
@@ -92,40 +87,26 @@ def _convert_marker_atom(variable: str, op: str, value: str) -> str:
                 return "__unix"
 
     if variable == "platform_version":
-        # platform_version alone cannot be converted - needs platform context
-        # Return a placeholder that will be combined with platform flag later
         return f"__PLATFORM_VERSION__{op}{value}"
 
-    # Unsupported marker variable
     raise DependencyConversionError(
         f"Cannot convert marker variable '{variable}': unsupported"
     )
 
 
 def _convert_marker_tree(tree: list) -> str:
-    """Recursively convert a marker tree to conda condition string.
-
-    Args:
-        tree: The marker tree (list of atoms, operators, and nested lists)
-
-    Returns:
-        Conda condition string
-    """
-    # First pass: convert all items
-    converted_items = []  # List of (type, value) tuples
-    platform_flags = []  # Track indices of platform flags
+    """Recursively convert a marker tree to conda condition string."""
+    converted_items = []
+    platform_flags = []
     platform_version_idx = None
     platform_version_value = None
 
     for item in tree:
         if isinstance(item, list):
-            # Nested expression
             converted_items.append(("part", f"({_convert_marker_tree(item)})"))
         elif isinstance(item, str):
-            # Boolean operator ('and' or 'or')
             converted_items.append(("op", item))
         elif isinstance(item, tuple) and len(item) == 3:
-            # Comparison: (Variable, Op, Value)
             var_obj, op_obj, val_obj = item
             variable = str(var_obj)
             op = str(op_obj)
@@ -145,20 +126,15 @@ def _convert_marker_tree(tree: list) -> str:
         else:
             converted_items.append(("part", str(item)))
 
-    # Handle platform_version combination
     if platform_version_value is not None:
         if len(platform_flags) == 1:
-            # Combine single platform flag with version
             flag_idx = platform_flags[0]
             flag_value = converted_items[flag_idx][1]
             combined = f"{flag_value} {platform_version_value}"
 
-            # Build result, skipping the separate platform and version entries
-            # and the 'and' operator between them
             result_parts = []
             skip_indices = {flag_idx, platform_version_idx}
 
-            # Also skip the operator between platform and version
             min_idx = min(flag_idx, platform_version_idx)
             max_idx = max(flag_idx, platform_version_idx)
             for i in range(min_idx + 1, max_idx):
@@ -166,10 +142,9 @@ def _convert_marker_tree(tree: list) -> str:
                     skip_indices.add(i)
                     break
 
-            for i, (item_type, item_value) in enumerate(converted_items):
+            for i, (_item_type, item_value) in enumerate(converted_items):
                 if i in skip_indices:
                     if i == flag_idx:
-                        # Insert the combined value at the platform flag position
                         result_parts.append(combined)
                     continue
                 result_parts.append(item_value)
@@ -177,16 +152,14 @@ def _convert_marker_tree(tree: list) -> str:
             return " ".join(result_parts)
         elif len(platform_flags) == 0:
             raise DependencyConversionError(
-                "platform_version requires a platform marker (sys_platform, platform_system, or os_name)"
+                "platform_version requires a platform marker"
             )
-        # Multiple platform flags with version - unusual, just include everything
 
-    # Normal case: just build the result
     result_parts = []
     for item_type, item_value in converted_items:
         if item_type == "version":
             raise DependencyConversionError(
-                "platform_version requires a platform marker (sys_platform, platform_system, or os_name)"
+                "platform_version requires a platform marker"
             )
         result_parts.append(item_value)
 
@@ -194,69 +167,57 @@ def _convert_marker_tree(tree: list) -> str:
 
 
 def _marker_to_condition(marker: Marker) -> str:
-    """Convert a PEP 508 environment marker to a conda condition string.
-
-    Args:
-        marker: A packaging.markers.Marker object
-
-    Returns:
-        A conda condition string (without the leading '; if ')
-
-    Raises:
-        DependencyConversionError: If the marker cannot be converted
-    """
-    # Access the internal marker tree structure
-    # _markers is a list containing tuples (Variable, Op, Value) and strings ('and', 'or')
-    tree = marker._markers
-
-    return _convert_marker_tree(tree)
+    """Convert a PEP 508 environment marker to a conda condition string."""
+    return _convert_marker_tree(marker._markers)
 
 
 def _extract_extra_from_marker(marker: Marker) -> tuple[str | None, str | None]:
-    """Extract the extra name and any remaining condition from a marker.
-
-    Args:
-        marker: A packaging.markers.Marker object
-
-    Returns:
-        A tuple of (extra_name, remaining_condition).
-        - If marker is purely `extra == 'name'`: ("name", None)
-        - If marker is `extra == 'name' and <condition>`: ("name", "<condition>")
-        - If marker doesn't involve extras: (None, None)
-    """
+    """Extract the extra name and any remaining condition from a marker."""
     marker_str = str(marker)
 
-    # Match patterns like: extra == 'dev' or extra == "dev" (pure extra)
     pure_match = re.fullmatch(r"extra\s*==\s*['\"]([^'\"]+)['\"]", marker_str.strip())
     if pure_match:
         return (pure_match.group(1), None)
 
-    # Match patterns like: extra == 'dev' and <other conditions>
-    # The marker could be: extra == 'dev' and python_version < '3.11'
     and_match = re.match(
         r"extra\s*==\s*['\"]([^'\"]+)['\"]\s+and\s+(.+)",
         marker_str.strip(),
     )
     if and_match:
-        extra_name = and_match.group(1)
-        remaining = and_match.group(2)
-        return (extra_name, remaining)
+        return (and_match.group(1), and_match.group(2))
 
-    # Also check for: <other conditions> and extra == 'dev'
     and_match_reverse = re.match(
         r"(.+)\s+and\s+extra\s*==\s*['\"]([^'\"]+)['\"]",
         marker_str.strip(),
     )
     if and_match_reverse:
-        remaining = and_match_reverse.group(1)
-        extra_name = and_match_reverse.group(2)
-        return (extra_name, remaining)
+        return (and_match_reverse.group(2), and_match_reverse.group(1))
 
     return (None, None)
 
 
+def _requirement_to_conda_dep(req: Requirement, condition: str | None = None) -> str:
+    """Convert a packaging Requirement to a conda dependency string."""
+    name = req.name.lower().replace("_", "-")
+    dep = name
+
+    if req.extras:
+        extras_list = ",".join(sorted(req.extras))
+        dep = f"{dep}[extras=[{extras_list}]]"
+
+    if req.specifier:
+        dep = f"{dep} {req.specifier}"
+
+    if condition:
+        dep = f"{dep}; if {condition}"
+
+    return dep
+
+
 def _create_tar_zst(file_dict: dict[str, bytes]) -> bytes:
     """Create a zstd-compressed tarball from a dict of {path: content}."""
+    import tarfile
+
     tar_buffer = io.BytesIO()
     with tarfile.open(fileobj=tar_buffer, mode="w") as tar:
         for name, content in file_dict.items():
@@ -264,139 +225,36 @@ def _create_tar_zst(file_dict: dict[str, bytes]) -> bytes:
             info.size = len(content)
             tar.addfile(info, io.BytesIO(content))
 
-    tar_bytes = tar_buffer.getvalue()
-
-    # Compress with zstd
     cctx = zstd.ZstdCompressor(level=19)
-    return cctx.compress(tar_bytes)
+    return cctx.compress(tar_buffer.getvalue())
 
 
-def _requirement_to_conda_dep(req: Requirement, condition: str | None = None) -> str:
-    """Convert a packaging Requirement to a conda dependency string.
-
-    Args:
-        req: A packaging.requirements.Requirement object
-        condition: Optional conda condition string to append (e.g., "__win")
-
-    Returns:
-        A conda dependency string, optionally with extras and condition suffix
-
-    Note:
-        Extras in the requirement (e.g., requests[security]) are converted to
-        conda format: requests[extras=[security]]
-    """
-    # Normalize name: lowercase, underscores to hyphens
-    name = req.name.lower().replace("_", "-")
-
-    # Build the dependency string
-    dep = name
-
-    # Add extras if present (e.g., requests[security] -> requests[extras=[security]])
-    if req.extras:
-        extras_list = ",".join(sorted(req.extras))
-        dep = f"{dep}[extras=[{extras_list}]]"
-
-    # Add version specifier if present
-    if req.specifier:
-        dep = f"{dep} {req.specifier}"
-
-    # Add condition if provided
-    if condition:
-        dep = f"{dep}; if {condition}"
-
-    return dep
-
-
-def build_conda_package(
-    metadata: WheelMetadata,
-    output_dir: Path,
-) -> Path:
-    """Build a .conda package from wheel metadata.
-
-    Args:
-        metadata: Parsed wheel metadata
-        output_dir: Directory to write the .conda file to
+def _convert_dependencies(
+    dependencies: list[str],
+    requires_python: str | None,
+) -> tuple[list[str], dict[str, list[str]]]:
+    """Convert wheel dependencies to conda format.
 
     Returns:
-        Path to the created .conda file
+        Tuple of (main_dependencies, extra_depends)
     """
-    if not metadata.wheel_path:
-        raise ValueError("WheelMetadata must have wheel_path set")
-
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    # Collect files from wheel
-    pkg_files: dict[str, bytes] = {}
-    info_files: dict[str, bytes] = {}
-
-    # Track file metadata for paths.json
-    paths_data = []
-
-    with ZipFile(metadata.wheel_path, "r") as whl:
-        for zip_info in whl.infolist():
-            if zip_info.is_dir():
-                continue
-
-            # Skip INSTALLER file - we'll add our own
-            if zip_info.filename.endswith("/INSTALLER"):
-                continue
-
-            content = whl.read(zip_info.filename)
-
-            # Determine destination path
-            # Wheel files go into site-packages
-            dest_path = f"site-packages/{zip_info.filename}"
-
-            pkg_files[dest_path] = content
-
-            # Calculate SHA256
-            sha256 = hashlib.sha256(content).hexdigest()
-
-            paths_data.append({
-                "_path": dest_path,
-                "path_type": "hardlink",
-                "sha256": sha256,
-                "size_in_bytes": len(content),
-            })
-
-    # Add INSTALLER file marking this as conda-installed
-    dist_info_name = f"{metadata.name.replace('-', '_')}-{metadata.version}.dist-info"
-    installer_path = f"site-packages/{dist_info_name}/INSTALLER"
-    installer_content = b"conda\n"
-    pkg_files[installer_path] = installer_content
-    paths_data.append({
-        "_path": installer_path,
-        "path_type": "hardlink",
-        "sha256": hashlib.sha256(installer_content).hexdigest(),
-        "size_in_bytes": len(installer_content),
-    })
-
-    # Build info files
-    # index.json - main metadata
-    dependencies = []
-
-    # Add python dependency
-    if metadata.requires_python:
-        dependencies.append(f"python {metadata.requires_python.replace(' ', '')}")
-    else:
-        dependencies.append("python")
-
-    # Convert wheel dependencies to conda format
-    # Also collect optional dependencies (extras)
+    conda_deps = []
     extras: dict[str, list[str]] = {}
 
-    for req_str in metadata.dependencies:
+    # Add python dependency
+    if requires_python:
+        conda_deps.append(f"python {requires_python.replace(' ', '')}")
+    else:
+        conda_deps.append("python")
+
+    for req_str in dependencies:
         req = Requirement(req_str)
 
         if req.marker:
-            # Check if marker involves an extra (optional dependency)
             extra_name, remaining_marker = _extract_extra_from_marker(req.marker)
             if extra_name:
-                # This is an optional dependency for an extra
-                # If there's a remaining condition, convert it
                 condition = None
                 if remaining_marker:
-                    # Create a Marker object from the remaining string to convert it
                     remaining_marker_obj = Marker(remaining_marker)
                     condition = _marker_to_condition(remaining_marker_obj)
 
@@ -406,94 +264,269 @@ def build_conda_package(
                 extras[extra_name].append(conda_dep)
                 continue
 
-            # Convert environment marker to conda condition
             condition = _marker_to_condition(req.marker)
-            dependencies.append(_requirement_to_conda_dep(req, condition))
+            conda_deps.append(_requirement_to_conda_dep(req, condition))
         else:
-            dependencies.append(_requirement_to_conda_dep(req))
+            conda_deps.append(_requirement_to_conda_dep(req))
 
-    index_json = {
-        "name": metadata.conda_name,
-        "version": metadata.version,
-        "build": "py_0",  # Simple build string for wheel conversions
-        "build_number": 0,
-        "depends": dependencies,
-        "subdir": metadata.conda_subdir,
-    }
+    return conda_deps, extras
 
-    if extras:
-        index_json["extra_depends"] = extras
 
-    if metadata.license:
-        index_json["license"] = metadata.license
+def _iter_file(path: Path, chunk_size: int = 65536) -> Iterable[bytes]:
+    """Yield chunks from a file."""
+    with open(path, "rb") as f:
+        while chunk := f.read(chunk_size):
+            yield chunk
 
-    if metadata.is_pure_python:
-        index_json["noarch"] = "python"
 
-    info_files["info/index.json"] = json.dumps(index_json, indent=2).encode("utf-8")
+class _ChunksAsFile:
+    """Wrap an iterator of bytes chunks as a file-like object."""
 
-    # paths.json
-    paths_json = {
-        "paths": paths_data,
-        "paths_version": 1,
-    }
-    info_files["info/paths.json"] = json.dumps(paths_json, indent=2).encode("utf-8")
+    def __init__(self, chunks: Iterable[bytes]):
+        self._chunks = iter(chunks)
+        self._buffer = b""
 
-    # files - simple list
-    files_content = "\n".join(p["_path"] for p in paths_data)
-    info_files["info/files"] = files_content.encode("utf-8")
+    def read(self, size: int = -1) -> bytes:
+        if size < 0:
+            result = self._buffer + b"".join(self._chunks)
+            self._buffer = b""
+            return result
 
-    # about.json
-    about_json = {}
-    if metadata.summary:
-        about_json["summary"] = metadata.summary
-    if metadata.description:
-        about_json["description"] = metadata.description
-    if metadata.home_url:
-        about_json["home"] = metadata.home_url
-    if metadata.doc_url:
-        about_json["doc_url"] = metadata.doc_url
-    if metadata.dev_url:
-        about_json["dev_url"] = metadata.dev_url
-    if metadata.source_url:
-        about_json["source_url"] = metadata.source_url
-    info_files["info/about.json"] = json.dumps(about_json, indent=2).encode("utf-8")
+        while len(self._buffer) < size:
+            try:
+                self._buffer += next(self._chunks)
+            except StopIteration:
+                break
 
-    # link.json - for noarch python packages
-    if metadata.is_pure_python:
-        noarch_data: dict = {
-            "type": "python",
-        }
-        if metadata.console_scripts or metadata.gui_scripts:
-            noarch_data["entry_points"] = metadata.console_scripts + metadata.gui_scripts
-        link_json = {
-            "noarch": noarch_data,
-            "package_metadata_version": 1,
-        }
-        info_files["info/link.json"] = json.dumps(link_json, indent=2).encode("utf-8")
+        result = self._buffer[:size]
+        self._buffer = self._buffer[size:]
+        return result
 
-    # Create the .conda file (ZIP with two tar.zst files inside)
-    conda_name = f"{metadata.conda_name}-{metadata.version}-py_0.conda"
-    conda_path = output_dir / conda_name
 
-    # Create compressed archives
-    info_tar_zst = _create_tar_zst(info_files)
-    pkg_tar_zst = _create_tar_zst(pkg_files)
+def convert_wheel(
+    source: Path | Iterable[bytes],
+    output_dir: Path,
+    filename: str | None = None,
+) -> ConversionResult:
+    """Convert a wheel to conda package in single streaming pass.
 
-    # Write the .conda file
-    with ZipFile(conda_path, "w", compression=ZIP_STORED) as conda_zip:
-        # metadata.json at the root (required by .conda format)
-        conda_metadata = {
-            "conda_pkg_format_version": 2,
-        }
-        conda_zip.writestr("metadata.json", json.dumps(conda_metadata))
+    Args:
+        source: Path to wheel file or iterable of bytes chunks.
+        output_dir: Directory to write the .conda file to.
+        filename: Original wheel filename (required if source is an iterable).
 
-        # Info archive
-        info_name = f"info-{metadata.conda_name}-{metadata.version}-py_0.tar.zst"
-        conda_zip.writestr(info_name, info_tar_zst)
+    Returns:
+        ConversionResult with path and metadata of created package.
+    """
+    from stream_unzip import stream_unzip
 
-        # Package archive
-        pkg_name = f"pkg-{metadata.conda_name}-{metadata.version}-py_0.tar.zst"
-        conda_zip.writestr(pkg_name, pkg_tar_zst)
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-    return conda_path
+    # Determine filename and source chunks
+    if isinstance(source, Path):
+        wheel_filename = source.name
+        chunks = _iter_file(source)
+    else:
+        if filename is None:
+            raise ValueError("filename is required when source is an iterable")
+        wheel_filename = filename
+        chunks = source
+
+    # Use temp file for pkg archive (handles large wheels)
+    # Create temp file and close immediately (Windows keeps files locked)
+    pkg_tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".tar.zst")
+    pkg_tmp_path = Path(pkg_tmp.name)
+    pkg_tmp.close()
+
+    try:
+        buffered_metadata: dict[str, bytes] = {}
+        file_metadata: list[FileMetadata] = []
+        dist_info_prefix: str | None = None
+
+        # Stream through wheel, writing to pkg archive
+        with open(pkg_tmp_path, "wb") as pkg_file:
+            with StreamingTarZstWriter(pkg_file) as pkg_writer:
+                # stream_unzip yields (filename_bytes, size, file_chunks) tuples
+                for file_name_bytes, file_size, file_chunks in stream_unzip(chunks):
+                    # Decode filename (ZIP filenames are UTF-8 or CP437)
+                    file_name = file_name_bytes.decode("utf-8")
+
+                    # Skip directories
+                    if file_name.endswith("/"):
+                        continue
+
+                    # Detect dist-info prefix from first .dist-info file
+                    if dist_info_prefix is None and ".dist-info/" in file_name:
+                        dist_info_prefix = file_name.split("/")[0]
+
+                    # Skip INSTALLER - we add our own
+                    if file_name.endswith("/INSTALLER"):
+                        # Must consume chunks even if skipping
+                        for _ in file_chunks:
+                            pass
+                        continue
+
+                    dest_path = f"site-packages/{file_name}"
+
+                    # Check if this is a metadata file we need to buffer
+                    is_metadata = dist_info_prefix is not None and file_name in {
+                        f"{dist_info_prefix}/METADATA",
+                        f"{dist_info_prefix}/WHEEL",
+                        f"{dist_info_prefix}/entry_points.txt",
+                    }
+
+                    if is_metadata:
+                        # Buffer small metadata files
+                        content = b"".join(file_chunks)
+                        buffered_metadata[file_name] = content
+                        pkg_writer.add_file(dest_path, content)
+                    elif file_size is not None:
+                        # Size known, can stream directly
+                        pkg_writer.add_stream(
+                            dest_path, _ChunksAsFile(file_chunks), file_size
+                        )
+                    else:
+                        # Size unknown, must buffer
+                        content = b"".join(file_chunks)
+                        pkg_writer.add_file(dest_path, content)
+
+                if dist_info_prefix is None:
+                    raise ValueError("No .dist-info directory found in wheel")
+
+                # Add INSTALLER file
+                installer_path = f"site-packages/{dist_info_prefix}/INSTALLER"
+                pkg_writer.add_file(installer_path, b"conda\n")
+
+                file_metadata = pkg_writer.get_file_metadata()
+
+            # Parse metadata from buffered content
+            metadata_content = buffered_metadata.get(f"{dist_info_prefix}/METADATA")
+            wheel_content = buffered_metadata.get(f"{dist_info_prefix}/WHEEL")
+            entry_points_content = buffered_metadata.get(
+                f"{dist_info_prefix}/entry_points.txt"
+            )
+
+            if not metadata_content or not wheel_content:
+                raise ValueError("Missing required METADATA or WHEEL file")
+
+            wheel_metadata = parse_wheel_metadata(
+                metadata_content=metadata_content,
+                wheel_content=wheel_content,
+                entry_points_content=entry_points_content,
+                filename=wheel_filename,
+            )
+
+            # Convert dependencies
+            dependencies, extra_depends = _convert_dependencies(
+                wheel_metadata.dependencies,
+                wheel_metadata.requires_python,
+            )
+
+            # Build info archive
+            info_files: dict[str, bytes] = {}
+
+            # index.json
+            index_json: dict = {
+                "name": wheel_metadata.conda_name,
+                "version": wheel_metadata.version,
+                "build": "py_0",
+                "build_number": 0,
+                "depends": dependencies,
+                "subdir": wheel_metadata.conda_subdir,
+            }
+
+            if extra_depends:
+                index_json["extra_depends"] = extra_depends
+
+            if wheel_metadata.license:
+                index_json["license"] = wheel_metadata.license
+
+            if wheel_metadata.is_pure_python:
+                index_json["noarch"] = "python"
+
+            info_files["info/index.json"] = json.dumps(index_json, indent=2).encode()
+
+            # paths.json
+            paths_json = {
+                "paths": [
+                    {
+                        "_path": fm.path,
+                        "path_type": "hardlink",
+                        "sha256": fm.sha256,
+                        "size_in_bytes": fm.size,
+                    }
+                    for fm in file_metadata
+                ],
+                "paths_version": 1,
+            }
+            info_files["info/paths.json"] = json.dumps(paths_json, indent=2).encode()
+
+            # files list
+            files_content = "\n".join(fm.path for fm in file_metadata)
+            info_files["info/files"] = files_content.encode()
+
+            # about.json
+            about_json: dict = {}
+            if wheel_metadata.summary:
+                about_json["summary"] = wheel_metadata.summary
+            if wheel_metadata.description:
+                about_json["description"] = wheel_metadata.description
+            if wheel_metadata.home_url:
+                about_json["home"] = wheel_metadata.home_url
+            if wheel_metadata.doc_url:
+                about_json["doc_url"] = wheel_metadata.doc_url
+            if wheel_metadata.dev_url:
+                about_json["dev_url"] = wheel_metadata.dev_url
+            if wheel_metadata.source_url:
+                about_json["source_url"] = wheel_metadata.source_url
+            info_files["info/about.json"] = json.dumps(about_json, indent=2).encode()
+
+            # link.json
+            if wheel_metadata.is_pure_python:
+                noarch_data: dict = {"type": "python"}
+                entry_points = (
+                    wheel_metadata.console_scripts + wheel_metadata.gui_scripts
+                )
+                if entry_points:
+                    noarch_data["entry_points"] = entry_points
+                link_json = {
+                    "noarch": noarch_data,
+                    "package_metadata_version": 1,
+                }
+                info_files["info/link.json"] = json.dumps(link_json, indent=2).encode()
+
+            info_tar_zst = _create_tar_zst(info_files)
+
+            # Write final .conda file
+            conda_name = (
+                f"{wheel_metadata.conda_name}-{wheel_metadata.version}-py_0.conda"
+            )
+            conda_path = output_dir / conda_name
+
+            with zipfile.ZipFile(
+                conda_path, "w", compression=zipfile.ZIP_STORED
+            ) as conda_zip:
+                conda_zip.writestr(
+                    "metadata.json", json.dumps({"conda_pkg_format_version": 2})
+                )
+
+                info_name = f"info-{wheel_metadata.conda_name}-{wheel_metadata.version}-py_0.tar.zst"
+                conda_zip.writestr(info_name, info_tar_zst)
+
+                pkg_name = f"pkg-{wheel_metadata.conda_name}-{wheel_metadata.version}-py_0.tar.zst"
+                conda_zip.write(pkg_tmp_path, pkg_name)
+
+            entry_points = wheel_metadata.console_scripts + wheel_metadata.gui_scripts
+
+        return ConversionResult(
+            path=conda_path,
+            name=wheel_metadata.conda_name,
+            version=wheel_metadata.version,
+            dependencies=dependencies,
+            extra_depends=extra_depends,
+            entry_points=entry_points,
+            subdir=wheel_metadata.conda_subdir,
+        )
+    finally:
+        # Cleanup temp file
+        pkg_tmp_path.unlink(missing_ok=True)

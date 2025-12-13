@@ -1,6 +1,5 @@
 """Pytest fixtures for cart-wheel tests."""
 
-import io
 import zipfile
 from pathlib import Path
 

@@ -5,8 +5,8 @@ description = "Convert Python wheels to conda packages"
 requires-python = ">=3.10"
 dependencies = [
     "zstandard>=0.21.0",
-    "pkginfo>=1.12.1",
     "packaging>=25.0",
+    "stream-unzip>=0.0.95",
 ]
 
 [project.scripts]
@@ -31,24 +31,53 @@ backend = { name = "pixi-build-python", version = "0.4.*" }
 hatchling = "*"
 
 [tool.pixi.package.run-dependencies]
-pkginfo = ">=1.12.1"
 packaging = ">=25.0"
+stream-unzip = ">=0.0.95"
 
 [tool.pixi.dependencies]
 cart-wheel = { path = "." }
+stream-unzip = ">=0.0.95,<0.0.100"
 
 [tool.pixi.tasks]
 convert = "cart-wheel"
 
-[tool.pixi.feature.test.dependencies]
+[tool.pixi.feature.dev.dependencies]
 pytest = ">=8.0"
+ruff = "*"
+stream-unzip = ">=0.0.95,<0.0.100"
+pip = ">=25.3,<26"
 
-[tool.pixi.feature.test.tasks]
+[tool.pixi.feature.dev.tasks]
 test = "pytest tests -v"
+lint = "ruff check src tests"
+format = "ruff format src tests"
+fix = "ruff check --fix src tests"
 
 [tool.pixi.environments]
 default = { features = [], solve-group = "default" }
-test = { features = ["test"], solve-group = "default" }
+dev = { features = ["dev"], solve-group = "default" }
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+
+[tool.ruff.lint]
+select = [
+    "E",     # pycodestyle errors
+    "W",     # pycodestyle warnings
+    "F",     # pyflakes
+    "I",     # isort
+    "UP",    # pyupgrade
+    "B",     # flake8-bugbear
+    "C4",    # flake8-comprehensions
+    "RUF",   # ruff-specific
+]
+ignore = [
+    "E501",  # line too long (handled by formatter)
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["cart_wheel"]
