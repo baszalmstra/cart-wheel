@@ -1,0 +1,12 @@
+# Package configuration for pytest-html
+conda_forge = "pytest-html"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_html-4.1.1-py3-none-any.whl" },
+  { filename = "pytest_html-4.1.0-py3-none-any.whl" },
+  { filename = "pytest_html-4.0.2-py3-none-any.whl" },
+  { filename = "pytest_html-4.0.1-py3-none-any.whl" },
+  { filename = "pytest_html-4.0.0-py3-none-any.whl" },
+]

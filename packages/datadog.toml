@@ -1,0 +1,12 @@
+# Package configuration for datadog
+conda_forge = "datadog"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "datadog-0.52.1-py2.py3-none-any.whl" },
+  { filename = "datadog-0.52.0-py2.py3-none-any.whl" },
+  { filename = "datadog-0.51.0-py2.py3-none-any.whl" },
+  { filename = "datadog-0.50.2-py2.py3-none-any.whl" },
+  { filename = "datadog-0.50.1-py2.py3-none-any.whl" },
+]

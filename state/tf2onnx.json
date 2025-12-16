@@ -1,0 +1,110 @@
+{
+  "tf2onnx-1.16.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90fb5f62575896d47884d27dc313cfebff36b8783e1094335ad00824ce923a8a",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "onnx",
+        "requests",
+        "six",
+        "flatbuffers",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.14.1)",
+      "onnx (>=1.4.1)",
+      "requests",
+      "six",
+      "flatbuffers (>=1.12)",
+      "protobuf (~=3.20)"
+    ]
+  },
+  "tf2onnx-1.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5d1d601b644503f904b20973fafc20bdf6eaa9ce1370a3aae748c2f25632133b",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "onnx",
+        "requests",
+        "six",
+        "flatbuffers",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.14.1)",
+      "onnx (>=1.4.1)",
+      "requests",
+      "six",
+      "flatbuffers (>=1.12)",
+      "protobuf (~=3.20.2)"
+    ]
+  },
+  "tf2onnx-1.15.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24ec9a4092a1d116533f9af36ef615657ccf6275c077eca2eb0739f7c52c5ed6",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "onnx",
+        "requests",
+        "six",
+        "flatbuffers",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.14.1)",
+      "onnx (>=1.4.1)",
+      "requests",
+      "six",
+      "flatbuffers (>=1.12)",
+      "protobuf (~=3.20.2)"
+    ]
+  },
+  "tf2onnx-1.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c01e8026f20c6c98880ad6cfc19ffeaa2343b349f692d2f601ae64d89c05795",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "onnx",
+        "requests",
+        "six",
+        "flatbuffers",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.14.1)",
+      "onnx (>=1.4.1)",
+      "requests",
+      "six",
+      "flatbuffers (<3.0,>=1.12)",
+      "protobuf (~=3.20.2)"
+    ]
+  },
+  "tf2onnx-1.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9721a38020260e5ee9d6396295edbbfcaedd22c07cfd6f2cda2698defde9b63",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "onnx",
+        "requests",
+        "six",
+        "flatbuffers"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.14.1)",
+      "onnx (>=1.4.1)",
+      "requests",
+      "six",
+      "flatbuffers (<3.0,>=1.12)"
+    ]
+  }
+}

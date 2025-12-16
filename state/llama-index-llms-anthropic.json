@@ -1,0 +1,72 @@
+{
+  "llama_index_llms_anthropic-0.10.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f80200c3653eb00199c658d616b076ebff02d60546c94044fed72432087dda63",
+    "dependencies": {
+      "required": [
+        "anthropic",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "anthropic[bedrock,vertex]>=0.75.0",
+      "llama-index-core<0.15,>=0.14.5"
+    ]
+  },
+  "llama_index_llms_anthropic-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6ba3a26994dd218638f927bb4614e4149fea532fbd33637ad5e135d5c0e6dca4",
+    "dependencies": {
+      "required": [
+        "anthropic",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "anthropic[bedrock,vertex]>=0.69.0",
+      "llama-index-core<0.15,>=0.14.5"
+    ]
+  },
+  "llama_index_llms_anthropic-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1cdf3356880a44e151f821ab13364ad339648e58a8cd95dc4f8c77927609dbcc",
+    "dependencies": {
+      "required": [
+        "anthropic",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "anthropic[bedrock,vertex]>=0.69.0",
+      "llama-index-core<0.15,>=0.14.5"
+    ]
+  },
+  "llama_index_llms_anthropic-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "663843040b79688e6a89b865c8a93f477f85b23c308b5b5ee91a323231854cda",
+    "dependencies": {
+      "required": [
+        "anthropic",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "anthropic[bedrock,vertex]>=0.69.0",
+      "llama-index-core<0.15,>=0.14.5"
+    ]
+  },
+  "llama_index_llms_anthropic-0.9.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6691d989d37c46dfeca518bcda869109d5c26c544694356434d4af46c43406ae",
+    "dependencies": {
+      "required": [
+        "anthropic",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "anthropic[bedrock,vertex]>=0.69.0",
+      "llama-index-core<0.15,>=0.14.3"
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "apeye-1.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44e58a9104ec189bf42e76b3a7fe91e2b2879d96d48e9a77e5e32ff699c9204e",
+    "dependencies": {
+      "required": [
+        "apeye-core",
+        "domdf-python-tools",
+        "platformdirs",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apeye-core>=1.0.0b2",
+      "domdf-python-tools>=2.6.0",
+      "platformdirs>=2.3.0",
+      "requests>=2.24.0",
+      "cachecontrol[filecache]>=0.12.6 ; extra == \"all\"",
+      "lockfile>=0.12.2 ; extra == \"all\"",
+      "cachecontrol[filecache]>=0.12.6 ; extra == \"limiter\"",
+      "lockfile>=0.12.2 ; extra == \"limiter\""
+    ]
+  },
+  "apeye-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "32f10f5629c39a0d2a4bc00b16827b43b912c56510395329cb4cc823954ec2be",
+    "dependencies": {
+      "required": [
+        "apeye-core",
+        "cryptography",
+        "domdf-python-tools",
+        "platformdirs",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apeye-core>=1.0.0b2",
+      "cryptography<40; implementation_name == \"pypy\" and python_version <= \"3.7\"",
+      "domdf-python-tools>=2.6.0",
+      "platformdirs>=2.3.0",
+      "requests>=2.24.0",
+      "cachecontrol[filecache]>=0.12.6 ; extra == \"all\"",
+      "lockfile>=0.12.2 ; extra == \"all\"",
+      "cachecontrol[filecache]>=0.12.6 ; extra == \"limiter\"",
+      "lockfile>=0.12.2 ; extra == \"limiter\""
+    ]
+  },
+  "apeye-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ce991a5c7d1ccedd46f067fcd53eccfa4b0b62a50d8802340b427941603b839",
+    "dependencies": {
+      "required": [
+        "apeye-core",
+        "domdf-python-tools",
+        "platformdirs",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apeye-core>=1.0.0b2",
+      "domdf-python-tools>=2.6.0",
+      "platformdirs>=2.3.0",
+      "requests>=2.24.0",
+      "cachecontrol[filecache]>=0.12.6 ; extra == \"all\"",
+      "lockfile>=0.12.2 ; extra == \"all\"",
+      "cachecontrol[filecache]>=0.12.6 ; extra == \"limiter\"",
+      "lockfile>=0.12.2 ; extra == \"limiter\""
+    ]
+  },
+  "apeye-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d6b08c96457e4e0457088c247417fc336ebf83ab88645c508562aaeaf3077954",
+    "dependencies": {
+      "required": [
+        "domdf-python-tools",
+        "idna",
+        "platformdirs",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "domdf-python-tools>=2.6.0",
+      "idna>=2.5",
+      "platformdirs>=2.3.0",
+      "requests>=2.24.0",
+      "cachecontrol[filecache]>=0.12.6 ; extra == \"all\"",
+      "lockfile>=0.12.2 ; extra == \"all\"",
+      "cachecontrol[filecache]>=0.12.6 ; extra == \"limiter\"",
+      "lockfile>=0.12.2 ; extra == \"limiter\""
+    ]
+  },
+  "apeye-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c6d31a5e6de7b355fb6d40ce75215c06d6b434f11f2c2813e5712198ff8cf85",
+    "dependencies": {
+      "required": [
+        "appdirs",
+        "domdf-python-tools",
+        "idna",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "appdirs (>=1.4.4)",
+      "domdf-python-tools (>=2.3.0)",
+      "idna (>=2.5)",
+      "requests (>=2.24.0)",
+      "cachecontrol[filecache] (>=0.12.6) ; extra == 'all'",
+      "lockfile (>=0.12.2) ; extra == 'all'",
+      "cachecontrol[filecache] (>=0.12.6) ; extra == 'limiter'",
+      "lockfile (>=0.12.2) ; extra == 'limiter'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for faker
+conda_forge = "faker"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "faker-38.2.0-py3-none-any.whl" },
+  { filename = "faker-38.1.0-py3-none-any.whl" },
+  { filename = "faker-38.0.0-py3-none-any.whl" },
+  { filename = "faker-37.12.0-py3-none-any.whl" },
+  { filename = "faker-37.11.0-py3-none-any.whl" },
+]

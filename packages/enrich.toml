@@ -1,0 +1,12 @@
+# Package configuration for enrich
+conda_forge = "enrich"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "enrich-1.2.7-py3-none-any.whl" },
+  { filename = "enrich-1.2.6-py3-none-any.whl" },
+  { filename = "enrich-1.2.5-py3-none-any.whl" },
+  { filename = "enrich-1.2.4-py3-none-any.whl" },
+  { filename = "enrich-1.2.3-py3-none-any.whl" },
+]

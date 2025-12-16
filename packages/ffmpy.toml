@@ -1,0 +1,12 @@
+# Package configuration for ffmpy
+conda_forge = "ffmpy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ffmpy-1.0.0-py3-none-any.whl" },
+  { filename = "ffmpy-0.6.4-py3-none-any.whl" },
+  { filename = "ffmpy-0.6.3-py3-none-any.whl" },
+  { filename = "ffmpy-0.6.2-py3-none-any.whl" },
+  { filename = "ffmpy-0.6.1-py3-none-any.whl" },
+]

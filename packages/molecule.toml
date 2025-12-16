@@ -1,0 +1,12 @@
+# Package configuration for molecule
+conda_forge = "molecule"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "molecule-25.12.0-py3-none-any.whl" },
+  { filename = "molecule-25.11.1-py3-none-any.whl" },
+  { filename = "molecule-25.11.0-py3-none-any.whl" },
+  { filename = "molecule-25.9.0-py3-none-any.whl" },
+  { filename = "molecule-25.7.0-py3-none-any.whl" },
+]

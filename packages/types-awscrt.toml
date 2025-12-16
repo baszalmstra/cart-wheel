@@ -1,0 +1,12 @@
+# Package configuration for types-awscrt
+conda_forge = "boto3-stubs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_awscrt-0.30.0-py3-none-any.whl" },
+  { filename = "types_awscrt-0.29.2-py3-none-any.whl" },
+  { filename = "types_awscrt-0.29.1-py3-none-any.whl" },
+  { filename = "types_awscrt-0.29.0-py3-none-any.whl" },
+  { filename = "types_awscrt-0.28.4-py3-none-any.whl" },
+]

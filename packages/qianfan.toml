@@ -1,0 +1,11 @@
+# Package configuration for qianfan
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "qianfan-0.4.12.3-py3-none-any.whl" },
+  { filename = "qianfan-0.4.12.2-py3-none-any.whl" },
+  { filename = "qianfan-0.4.12.1-py3-none-any.whl" },
+  { filename = "qianfan-0.4.12-py3-none-any.whl" },
+  { filename = "qianfan-0.4.11-py3-none-any.whl" },
+]

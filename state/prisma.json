@@ -1,0 +1,162 @@
+{
+  "prisma-0.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de949cc94d3d91243615f22ff64490aa6e2d7cb81aabffce53d92bd3977c09a4",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "jinja2",
+        "pydantic",
+        "click",
+        "python-dotenv",
+        "typing-extensions",
+        "tomlkit",
+        "nodeenv",
+        "strenum",
+        "cached-property"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.19.0",
+      "jinja2>=2.11.2",
+      "pydantic<3,>=1.10.0",
+      "click>=7.1.2",
+      "python-dotenv>=0.12.0",
+      "typing-extensions>=4.5.0",
+      "tomlkit",
+      "nodeenv",
+      "StrEnum; python_version < \"3.11\"",
+      "cached-property; python_version < \"3.8\"",
+      "nodejs-bin; extra == \"all\"",
+      "nodejs-bin; extra == \"node\""
+    ]
+  },
+  "prisma-0.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "778ca6d9c43295a31a0cc116bf26bb3f91f444a718b660827d8e14d050caba4b",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "jinja2",
+        "pydantic",
+        "click",
+        "python-dotenv",
+        "typing-extensions",
+        "tomlkit",
+        "nodeenv",
+        "strenum",
+        "cached-property"
+      ]
+    },
+    "original_requirements": [
+      "httpx >=0.19.0",
+      "jinja2 >=2.11.2",
+      "pydantic <3,>=1.10.0",
+      "click >=7.1.2",
+      "python-dotenv >=0.12.0",
+      "typing-extensions >=4.5.0",
+      "tomlkit",
+      "nodeenv",
+      "StrEnum ; python_version < \"3.11\"",
+      "cached-property ; python_version < \"3.8\"",
+      "nodejs-bin ; extra == 'all'",
+      "nodejs-bin ; extra == 'node'"
+    ]
+  },
+  "prisma-0.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b79ad69bdf09b217431904c1250c36421233ea394a230f1665f5699fd842ea20",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "jinja2",
+        "pydantic",
+        "click",
+        "python-dotenv",
+        "typing-extensions",
+        "tomlkit",
+        "nodeenv",
+        "strenum",
+        "cached-property"
+      ]
+    },
+    "original_requirements": [
+      "httpx >=0.19.0",
+      "jinja2 >=2.11.2",
+      "pydantic <3,>=1.10.0",
+      "click >=7.1.2",
+      "python-dotenv >=0.12.0",
+      "typing-extensions >=4.5.0",
+      "tomlkit",
+      "nodeenv",
+      "StrEnum ; python_version < \"3.11\"",
+      "cached-property ; python_version < \"3.8\"",
+      "nodejs-bin ; extra == 'all'",
+      "nodejs-bin ; extra == 'node'"
+    ]
+  },
+  "prisma-0.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9544f1d54c4a8ffda3d434b2185658572c67a3edd9e3829523040488b7d0252a",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "jinja2",
+        "pydantic",
+        "click",
+        "python-dotenv",
+        "typing-extensions",
+        "tomlkit",
+        "nodeenv",
+        "strenum",
+        "cached-property"
+      ]
+    },
+    "original_requirements": [
+      "httpx >=0.19.0",
+      "jinja2 >=2.11.2",
+      "pydantic <3,>=1.10.0",
+      "click >=7.1.2",
+      "python-dotenv >=0.12.0",
+      "typing-extensions >=4.5.0",
+      "tomlkit",
+      "nodeenv",
+      "StrEnum ; python_version < \"3.11\"",
+      "cached-property ; python_version < \"3.8\"",
+      "nodejs-bin ; extra == 'all'",
+      "nodejs-bin ; extra == 'node'"
+    ]
+  },
+  "prisma-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b90438bb8030f71a33bfb66fdf2ce1e342a28ee524e4c2702d9f73643571d6f",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "jinja2",
+        "pydantic",
+        "click",
+        "python-dotenv",
+        "typing-extensions",
+        "tomlkit",
+        "nodeenv",
+        "strenum",
+        "cached-property"
+      ]
+    },
+    "original_requirements": [
+      "httpx >=0.19.0",
+      "jinja2 >=2.11.2",
+      "pydantic <3,>=1.8.0",
+      "click >=7.1.2",
+      "python-dotenv >=0.12.0",
+      "typing-extensions >=4.0.1",
+      "tomlkit",
+      "nodeenv",
+      "StrEnum ; python_version < \"3.11\"",
+      "cached-property ; python_version < \"3.8\"",
+      "nodejs-bin ; extra == 'all'",
+      "nodejs-bin ; extra == 'node'"
+    ]
+  }
+}

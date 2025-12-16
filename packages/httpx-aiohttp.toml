@@ -1,0 +1,12 @@
+# Package configuration for httpx-aiohttp
+conda_forge = "httpx-aiohttp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "httpx_aiohttp-0.1.12-py3-none-any.whl" },
+  { filename = "httpx_aiohttp-0.1.11-py3-none-any.whl" },
+  { filename = "httpx_aiohttp-0.1.10-py3-none-any.whl" },
+  { filename = "httpx_aiohttp-0.1.9-py3-none-any.whl" },
+  { filename = "httpx_aiohttp-0.1.8-py3-none-any.whl" },
+]

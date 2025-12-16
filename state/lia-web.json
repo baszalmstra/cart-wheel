@@ -1,0 +1,66 @@
+{
+  "lia_web-0.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "237c779c943cd4341527fc0adfcc3d8068f992ee051f4ef059b8474ee087f641",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.14.0"
+    ]
+  },
+  "lia_web-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5963767663891d8e776550df45ae49e8faf7a220be743989c6719f36801e8985",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.14.0"
+    ]
+  },
+  "lia_web-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ef5a10c43bd6e4270038a4bc594d49efcde9a4d8b5ad0439eb2133ddec3e381",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=2.11.3",
+      "typing-extensions>=4.14.0"
+    ]
+  },
+  "lia_web-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2964cf16a9453cc367247cc832acde27106a943200c471d82270210325f741ce",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=2.11.3",
+      "typing-extensions>=4.14.0"
+    ]
+  },
+  "lia_web-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "26bbefc40d70ed91f3a976c9ed36e7438210d043de092dd21d12466242120b9a",
+    "dependencies": {
+      "required": [
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=2.11.3"
+    ]
+  }
+}

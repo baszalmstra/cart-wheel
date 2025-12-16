@@ -1,0 +1,146 @@
+{
+  "tableschema_sql-2.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf2da48bef2e7ad7d912cdcc0992c32d74a66cc900bf32809cfc89b647acd5d3",
+    "dependencies": {
+      "required": [
+        "six",
+        "sqlalchemy",
+        "pybloom-live",
+        "tabulator",
+        "tableschema",
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9)",
+      "sqlalchemy (<3,>=1.4)",
+      "pybloom-live (>=2.2)",
+      "tabulator (>=1.1)",
+      "tableschema (>=1.0)",
+      "cryptography",
+      "coverage ; extra == 'develop'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "psycopg2 ; extra == 'develop'",
+      "pymysql ; extra == 'develop'",
+      "python-dotenv ; extra == 'develop'"
+    ]
+  },
+  "tableschema_sql-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e96d4bc5059ad6b0b17cca9765ada23fcd1594f9c4f0a1d8cd70cdf79a3b5f3",
+    "dependencies": {
+      "required": [
+        "six",
+        "sqlalchemy",
+        "pybloom-live",
+        "tabulator",
+        "tableschema",
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9)",
+      "sqlalchemy (<3,>=2.0)",
+      "pybloom-live (>=2.2)",
+      "tabulator (>=1.1)",
+      "tableschema (>=1.0)",
+      "cryptography",
+      "coverage ; extra == 'develop'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "psycopg2 ; extra == 'develop'",
+      "pymysql ; extra == 'develop'",
+      "python-dotenv ; extra == 'develop'"
+    ]
+  },
+  "tableschema_sql-1.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "12e1843668dc7bc28c71317655526a41487cad31c7a15cb577cbbbb7d24fa72c",
+    "dependencies": {
+      "required": [
+        "six",
+        "sqlalchemy",
+        "pybloom-live",
+        "tabulator",
+        "tableschema"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9)",
+      "sqlalchemy (>=1.0)",
+      "pybloom-live (>=2.2)",
+      "tabulator (>=1.1)",
+      "tableschema (>=1.0)",
+      "coverage ; extra == 'develop'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "psycopg2 ; extra == 'develop'",
+      "pymysql ; extra == 'develop'",
+      "python-dotenv ; extra == 'develop'"
+    ]
+  },
+  "tableschema_sql-1.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b8beff39c0ce09c2d429c2bd4ccf398f432ebf1203dce6a72c594e118177a9a",
+    "dependencies": {
+      "required": [
+        "six",
+        "sqlalchemy",
+        "pybloom-live",
+        "tabulator",
+        "tableschema"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9)",
+      "sqlalchemy (>=1.0)",
+      "pybloom-live (>=2.2)",
+      "tabulator (>=1.1)",
+      "tableschema (>=1.0)",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "psycopg2 ; extra == 'develop'",
+      "pymysql ; extra == 'develop'",
+      "tox ; extra == 'develop'",
+      "python-dotenv ; extra == 'develop'"
+    ]
+  },
+  "tableschema_sql-1.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa33983bbb6d9f928f81efa3e8b1b76c18c9f3a620064c4da4eaf17f174c9267",
+    "dependencies": {
+      "required": [
+        "six",
+        "sqlalchemy",
+        "pybloom-live",
+        "tabulator",
+        "tableschema"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9)",
+      "sqlalchemy (>=1.0)",
+      "pybloom-live (>=2.2)",
+      "tabulator (>=1.1)",
+      "tableschema (>=1.0)",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "psycopg2 ; extra == 'develop'",
+      "pymysql ; extra == 'develop'",
+      "tox ; extra == 'develop'",
+      "python-dotenv ; extra == 'develop'"
+    ]
+  }
+}

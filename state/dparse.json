@@ -1,0 +1,86 @@
+{
+  "dparse-0.6.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fbab4d50d54d0e739fbb4dedfc3d92771003a5b9aa8545ca7a7045e3b174af57",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "tomli; python_version < '3.11'",
+      "pipenv; extra == 'all'",
+      "poetry; extra == 'all'",
+      "pyyaml; extra == 'all'",
+      "pyyaml; extra == 'conda'",
+      "pipenv; extra == 'pipenv'",
+      "poetry; extra == 'poetry'"
+    ]
+  },
+  "dparse-0.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d8fe18714056ca632d98b24fbfc4e9791d4e47065285ab486182288813a5318",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "tomli ; python_version < \"3.11\"",
+      "pyyaml ; extra == 'conda'",
+      "pipenv (<=2022.12.19) ; extra == 'pipenv'"
+    ]
+  },
+  "dparse-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8097076f1dd26c377f30d4745e6ec18fef42f3bf493933b842ac5bafad8c345f",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "toml",
+      "pyyaml ; extra == 'conda'",
+      "pipenv ; extra == 'pipenv'"
+    ]
+  },
+  "dparse-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c7ea8434fde5d9216bcfff70d0016ec1df9fad66c05d6b5f447e0f765eb7299",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "toml",
+      "pyyaml ; extra == 'conda'",
+      "pipenv ; extra == 'pipenv'"
+    ]
+  },
+  "dparse-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3cb489bd06bfa8d285c85f7dec69d9ee8f89c29dd5f4ab48e159746dc13b78b2",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "toml",
+      "pyyaml ; extra == 'conda'",
+      "pipenv ; extra == 'pipenv'"
+    ]
+  }
+}

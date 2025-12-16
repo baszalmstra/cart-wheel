@@ -1,0 +1,12 @@
+# Package configuration for sortedcontainers
+conda_forge = "sortedcontainers"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sortedcontainers-2.4.0-py2.py3-none-any.whl" },
+  { filename = "sortedcontainers-2.3.0-py2.py3-none-any.whl" },
+  { filename = "sortedcontainers-2.2.2-py2.py3-none-any.whl" },
+  { filename = "sortedcontainers-2.2.1-py2.py3-none-any.whl" },
+  { filename = "sortedcontainers-2.2.0-py2.py3-none-any.whl" },
+]

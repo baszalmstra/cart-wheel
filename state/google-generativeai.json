@@ -1,0 +1,172 @@
+{
+  "google_generativeai-0.8.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22b420817fb263f8ed520b33285f45976d5b21e904da32b80d4fd20c055123a2",
+    "dependencies": {
+      "required": [
+        "google-ai-generativelanguage",
+        "google-api-core",
+        "google-api-python-client",
+        "google-auth",
+        "protobuf",
+        "pydantic",
+        "tqdm",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "google-ai-generativelanguage==0.6.15",
+      "google-api-core",
+      "google-api-python-client",
+      "google-auth>=2.15.0",
+      "protobuf",
+      "pydantic",
+      "tqdm",
+      "typing-extensions",
+      "absl-py; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "nose2; extra == \"dev\"",
+      "pandas; extra == \"dev\"",
+      "pytype; extra == \"dev\"",
+      "pyyaml; extra == \"dev\"",
+      "Pillow; extra == \"dev\"",
+      "ipython; extra == \"dev\""
+    ]
+  },
+  "google_generativeai-0.8.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e987b33ea6decde1e69191ddcaec6ef974458864d243de7191db50c21a7c5b82",
+    "dependencies": {
+      "required": [
+        "google-ai-generativelanguage",
+        "google-api-core",
+        "google-api-python-client",
+        "google-auth",
+        "protobuf",
+        "pydantic",
+        "tqdm",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "google-ai-generativelanguage==0.6.15",
+      "google-api-core",
+      "google-api-python-client",
+      "google-auth>=2.15.0",
+      "protobuf",
+      "pydantic",
+      "tqdm",
+      "typing-extensions",
+      "absl-py; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "nose2; extra == \"dev\"",
+      "pandas; extra == \"dev\"",
+      "pytype; extra == \"dev\"",
+      "pyyaml; extra == \"dev\"",
+      "Pillow; extra == \"dev\"",
+      "ipython; extra == \"dev\""
+    ]
+  },
+  "google_generativeai-0.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1108ff89d5b8e59f51e63d1a8bf84701cd84656e17ca28d73aeed745e736d9b7",
+    "dependencies": {
+      "required": [
+        "google-ai-generativelanguage",
+        "google-api-core",
+        "google-api-python-client",
+        "google-auth",
+        "protobuf",
+        "pydantic",
+        "tqdm",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "google-ai-generativelanguage ==0.6.10",
+      "google-api-core",
+      "google-api-python-client",
+      "google-auth >=2.15.0",
+      "protobuf",
+      "pydantic",
+      "tqdm",
+      "typing-extensions",
+      "absl-py ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "nose2 ; extra == 'dev'",
+      "pandas ; extra == 'dev'",
+      "pytype ; extra == 'dev'",
+      "pyyaml ; extra == 'dev'",
+      "Pillow ; extra == 'dev'",
+      "ipython ; extra == 'dev'"
+    ]
+  },
+  "google_generativeai-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fabc0e2e8d2bfb6fdb1653e91dba83fecb2a2a6878883b80017def90fda8032d",
+    "dependencies": {
+      "required": [
+        "google-ai-generativelanguage",
+        "google-api-core",
+        "google-api-python-client",
+        "google-auth",
+        "protobuf",
+        "pydantic",
+        "tqdm",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "google-ai-generativelanguage ==0.6.10",
+      "google-api-core",
+      "google-api-python-client",
+      "google-auth >=2.15.0",
+      "protobuf",
+      "pydantic",
+      "tqdm",
+      "typing-extensions",
+      "absl-py ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "nose2 ; extra == 'dev'",
+      "pandas ; extra == 'dev'",
+      "pytype ; extra == 'dev'",
+      "pyyaml ; extra == 'dev'",
+      "Pillow ; extra == 'dev'",
+      "ipython ; extra == 'dev'"
+    ]
+  },
+  "google_generativeai-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b031877f24d51af0945207657c085896a0a886eceec7a1cb7029327b0aa6e2f6",
+    "dependencies": {
+      "required": [
+        "google-ai-generativelanguage",
+        "google-api-core",
+        "google-api-python-client",
+        "google-auth",
+        "protobuf",
+        "pydantic",
+        "tqdm",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "google-ai-generativelanguage ==0.6.9",
+      "google-api-core",
+      "google-api-python-client",
+      "google-auth >=2.15.0",
+      "protobuf",
+      "pydantic",
+      "tqdm",
+      "typing-extensions",
+      "absl-py ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "nose2 ; extra == 'dev'",
+      "pandas ; extra == 'dev'",
+      "pytype ; extra == 'dev'",
+      "pyyaml ; extra == 'dev'",
+      "Pillow ; extra == 'dev'",
+      "ipython ; extra == 'dev'"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for jaraco.logging
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaraco_logging-3.4.0-py3-none-any.whl" },
+  { filename = "jaraco.logging-3.3.0-py3-none-any.whl" },
+  { filename = "jaraco.logging-3.2.1-py3-none-any.whl" },
+  { filename = "jaraco.logging-3.2.0-py3-none-any.whl" },
+  { filename = "jaraco.logging-3.1.2-py3-none-any.whl" },
+]

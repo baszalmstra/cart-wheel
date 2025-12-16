@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-dataproc-metastore
+conda_forge = "google-cloud-dataproc-metastore"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_dataproc_metastore-1.20.0-py3-none-any.whl" },
+  { filename = "google_cloud_dataproc_metastore-1.19.0-py3-none-any.whl" },
+  { filename = "google_cloud_dataproc_metastore-1.18.3-py3-none-any.whl" },
+  { filename = "google_cloud_dataproc_metastore-1.18.2-py3-none-any.whl" },
+  { filename = "google_cloud_dataproc_metastore-1.18.1-py2.py3-none-any.whl" },
+]

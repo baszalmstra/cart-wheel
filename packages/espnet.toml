@@ -1,0 +1,12 @@
+# Package configuration for espnet
+conda_forge = "espnet"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "espnet-202511-py3-none-any.whl" },
+  { filename = "espnet-202509-py3-none-any.whl" },
+  { filename = "espnet-202506-py3-none-any.whl" },
+  { filename = "espnet-202412-py3-none-any.whl" },
+  { filename = "espnet-202402-py3-none-any.whl" },
+]

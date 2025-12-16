@@ -1,0 +1,12 @@
+# Package configuration for jmespath
+conda_forge = "jmespath"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jmespath-1.0.1-py3-none-any.whl" },
+  { filename = "jmespath-1.0.0-py3-none-any.whl" },
+  { filename = "jmespath-0.10.0-py2.py3-none-any.whl" },
+  { filename = "jmespath-0.9.5-py2.py3-none-any.whl" },
+  { filename = "jmespath-0.9.4-py2.py3-none-any.whl" },
+]

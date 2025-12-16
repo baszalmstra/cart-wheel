@@ -1,0 +1,155 @@
+{
+  "dython-0.7.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "887d6aab1e08ac2ae44d2b08bd30cb893441ac468770977f7d300c1da2efebc8",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "seaborn",
+        "scipy",
+        "matplotlib",
+        "scikit-learn",
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=2.2.6",
+      "pandas>=2.3.3",
+      "seaborn>=0.13.2",
+      "scipy>=1.15.3",
+      "matplotlib>=3.10.6",
+      "scikit-learn>=1.7.2",
+      "psutil>=7.1.0",
+      "pytest>=8.3.2; extra == \"dev\"",
+      "hypothesis>=6.111.0; extra == \"dev\"",
+      "black>=24.8.0; extra == \"dev\"",
+      "pre-commit>=3.8.0; extra == \"dev\"",
+      "pytest-enabler>=3.1.1; extra == \"dev\""
+    ]
+  },
+  "dython-0.7.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7281b90fd5da44152eab6ca2525f0ff1e031818b2a776b5dc7e018ed2311f4e9",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "seaborn",
+        "scipy",
+        "matplotlib",
+        "scikit-learn",
+        "psutil",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.23.0",
+      "pandas>=1.4.2",
+      "seaborn>=0.12.0",
+      "scipy>=1.7.1",
+      "matplotlib>=3.6.0",
+      "scikit-learn>=0.24.2",
+      "psutil>=5.9.1",
+      "setuptools",
+      "pytest>=8.3.2; extra == \"dev\"",
+      "hypothesis>=6.111.0; extra == \"dev\"",
+      "black>=24.8.0; extra == \"dev\"",
+      "pre-commit>=3.8.0; extra == \"dev\"",
+      "pytest-enabler>=3.1.1; extra == \"dev\""
+    ]
+  },
+  "dython-0.7.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8aa397651c2fedacddf293cd8370401f1bbbced88f1295fb7fdb36504c88adf",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "seaborn",
+        "scipy",
+        "matplotlib",
+        "scikit-learn",
+        "psutil",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.23.0",
+      "pandas>=1.4.2",
+      "seaborn>=0.12.0",
+      "scipy>=1.7.1",
+      "matplotlib>=3.6.0",
+      "scikit-learn>=0.24.2",
+      "psutil>=5.9.1",
+      "setuptools",
+      "pytest>=8.3.2; extra == \"dev\"",
+      "hypothesis>=6.111.0; extra == \"dev\"",
+      "black>=24.8.0; extra == \"dev\"",
+      "pre-commit>=3.8.0; extra == \"dev\"",
+      "pytest-enabler>=3.1.1; extra == \"dev\""
+    ]
+  },
+  "dython-0.7.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f35ff8e7d50da0bd7c88ee75a3bc1cafa5ec5a81b3bf72290a4e56cc2083460a",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "seaborn",
+        "scipy",
+        "matplotlib",
+        "scikit-learn",
+        "psutil",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.23.0",
+      "pandas>=1.4.2",
+      "seaborn>=0.12.0",
+      "scipy>=1.7.1",
+      "matplotlib>=3.6.0",
+      "scikit-learn>=0.24.2",
+      "psutil>=5.9.1",
+      "setuptools",
+      "pytest>=8.3.2; extra == \"dev\"",
+      "hypothesis>=6.111.0; extra == \"dev\"",
+      "black>=24.8.0; extra == \"dev\"",
+      "pre-commit>=3.8.0; extra == \"dev\"",
+      "pytest-enabler>=3.1.1; extra == \"dev\""
+    ]
+  },
+  "dython-0.7.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "70c29e4724486f7881814d941ead55347521359d712b08937b91a24f51efbf82",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "seaborn",
+        "scipy",
+        "matplotlib",
+        "scikit-learn",
+        "psutil",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.23.0",
+      "pandas>=1.4.2",
+      "seaborn>=0.12.0",
+      "scipy>=1.7.1",
+      "matplotlib>=3.6.0",
+      "scikit-learn>=0.24.2",
+      "psutil>=5.9.1",
+      "setuptools",
+      "pytest[testing]>=8.3.2; extra == \"dev\"",
+      "hypothesis>=6.111.0; extra == \"dev\"",
+      "black>=24.8.0; extra == \"dev\"",
+      "pre-commit>=3.8.0; extra == \"dev\"",
+      "pytest-enabler>=3.1.1; extra == \"dev\""
+    ]
+  }
+}

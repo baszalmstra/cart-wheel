@@ -1,0 +1,72 @@
+{
+  "pylint_pytest-1.1.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a532c1709c161406b8459bfc414c57a32a4ab488efd4bc97a22a21cb235331f",
+    "dependencies": {
+      "required": [
+        "pylint",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pylint >=2",
+      "pytest <=8.2.0,>=4.6"
+    ]
+  },
+  "pylint_pytest-1.1.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5d687a2f4b17e85654fc2a8f04944761efb11cb15dc46d008f420c377b149151",
+    "dependencies": {
+      "required": [
+        "pylint",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pylint >=2",
+      "pytest >=4.6"
+    ]
+  },
+  "pylint_pytest-1.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e9d2a778918ee0f11a763d30758008b75ad33ab234f55b83954dbcce8c8db62c",
+    "dependencies": {
+      "required": [
+        "pylint",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pylint <3",
+      "pytest >=4.6"
+    ]
+  },
+  "pylint_pytest-1.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "27789d309dbfdd159a91c6217d4db8ed833a27f3657411e812e97da49a077637",
+    "dependencies": {
+      "required": [
+        "pylint",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pylint <3",
+      "pytest >=4.6"
+    ]
+  },
+  "pylint_pytest-1.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "316738d91ac06b435eb85715ce4e69d1159b27be4ed0e7e3c2d0f3827b7bf2c3",
+    "dependencies": {
+      "required": [
+        "pylint",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pylint <3",
+      "pytest >=4.6"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for zulip
+conda_forge = "zulip"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zulip-0.9.1-py3-none-any.whl" },
+  { filename = "zulip-0.9.0-py3-none-any.whl" },
+  { filename = "zulip-0.8.2-py3-none-any.whl" },
+  { filename = "zulip-0.8.1-py3-none-any.whl" },
+  { filename = "zulip-0.8.0-py3-none-any.whl" },
+]

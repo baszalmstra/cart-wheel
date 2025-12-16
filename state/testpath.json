@@ -1,0 +1,53 @@
+{
+  "testpath-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ada9f80a2ac6fb0391aa7cdb1a7d11cfa8429f693eda83f74dde570fe6fa639",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == \"test\""
+    ]
+  },
+  "testpath-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8044f9a0bab6567fc644a3593164e872543bb44225b0e24846e2c89237937589",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == \"test\"",
+      "pathlib2 ; extra == \"test\" and ( python_version == \"2.7\")"
+    ]
+  },
+  "testpath-0.4.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bfcf9411ef4bf3db7579063e0546938b1edda3d69f4e1fb8756991f5951f85d4",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pathlib2; extra == \"test\" and ( python_version == \"2.7\")"
+    ]
+  },
+  "testpath-0.4.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c37791fd70f4386d1a85852e7dde06531b87557e47a3788a0ff0cff84fff9dc4",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pathlib2; extra == \"test\" and ( python_version == \"2.7\")"
+    ]
+  },
+  "testpath-0.4.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "46c89ebb683f473ffe2aab0ed9f12581d4d078308a3cb3765d79c6b2317b0109",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pathlib2; extra == \"test\" and ( python_version == \"2.7\")"
+    ]
+  }
+}

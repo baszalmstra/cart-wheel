@@ -1,0 +1,70 @@
+{
+  "sanic_testing-24.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1027184735e88230891aa0461fff84093abfa3bff0f4d29c0f78f42e59efada",
+    "dependencies": {
+      "required": [
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "httpx >=0.18",
+      "pytest ; extra == 'dev'",
+      "sanic >=22.12 ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "setuptools ; (python_version > \"3.11\") and extra == 'dev'"
+    ]
+  },
+  "sanic_testing-23.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d809911fca49cba93e1df9de5c6ab8d95d91bdc03b18ba8a25b4e0b66c4e4c73",
+    "dependencies": {
+      "required": [
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "httpx >=0.18",
+      "pytest ; extra == 'dev'",
+      "sanic >=22.12 ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "setuptools ; (python_version > \"3.11\") and extra == 'dev'"
+    ]
+  },
+  "sanic_testing-23.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c74a5e2393ae17a960cd65988d15a43b26d31b54c09011e0df387f1816d2080f",
+    "dependencies": {
+      "required": [
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "httpx (>=0.18)"
+    ]
+  },
+  "sanic_testing-23.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd05f8102ed0bba4b7b797f77b0fbb4ea34d71fd36c9df3ac81b5d3ac3eeacfc",
+    "dependencies": {
+      "required": [
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "httpx (<0.24,>=0.18)"
+    ]
+  },
+  "sanic_testing-22.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2cc3338207c6aab4cdc6b89264744a3d51ea66685fe1f30f81f9c376f3ee93a3",
+    "dependencies": {
+      "required": [
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "httpx (<0.24,>=0.18)"
+    ]
+  }
+}

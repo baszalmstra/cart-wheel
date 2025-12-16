@@ -1,0 +1,24 @@
+{
+  "plotly_cloud-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "abb86b4fe70dc2dbfb3f3eb4bddd3bf589b432b51085cc6d51b51921109aac1f",
+    "dependencies": {
+      "required": [
+        "dash",
+        "httpx",
+        "nest-asyncio",
+        "rich",
+        "tomli-w",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "dash>=2.0.0",
+      "httpx<1.0.0,>=0.24.0",
+      "nest-asyncio>=1.6.0",
+      "rich>=10.0.0",
+      "tomli-w>=1.2.0",
+      "tomli>=2.2.1"
+    ]
+  }
+}

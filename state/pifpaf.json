@@ -1,0 +1,147 @@
+{
+  "pifpaf-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa4bf56e06d002fb2e99e2747485ed9b7d2cce8da079e6feb1eeb612cf1e1bc8",
+    "dependencies": {
+      "required": [
+        "daiquiri",
+        "click",
+        "jinja2",
+        "fixtures",
+        "packaging",
+        "psutil",
+        "xattr"
+      ]
+    },
+    "original_requirements": [
+      "daiquiri",
+      "click",
+      "jinja2",
+      "fixtures",
+      "packaging",
+      "psutil",
+      "xattr; sys_platform != \"win32\"",
+      "requests; extra == \"test\"",
+      "stestr; extra == \"test\"",
+      "testtools; extra == \"test\"",
+      "mock; extra == \"test\"",
+      "uwsgi; extra == \"gnocchi\""
+    ]
+  },
+  "pifpaf-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6fb8d1f70b5755c19d284679e2cc5008c6a7486fc30df1648ad04da7eaf80b2c",
+    "dependencies": {
+      "required": [
+        "daiquiri",
+        "click",
+        "jinja2",
+        "fixtures",
+        "packaging",
+        "psutil",
+        "xattr"
+      ]
+    },
+    "original_requirements": [
+      "daiquiri",
+      "click",
+      "jinja2",
+      "fixtures",
+      "packaging",
+      "psutil",
+      "xattr; sys_platform != \"win32\"",
+      "requests; extra == \"test\"",
+      "stestr; extra == \"test\"",
+      "testtools; extra == \"test\"",
+      "mock; extra == \"test\"",
+      "uwsgi; extra == \"gnocchi\""
+    ]
+  },
+  "pifpaf-3.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dbe5e5f46a5aa51883a5d086f2bb5ae5aca55d8d7d60da964c0f4814000d1e08",
+    "dependencies": {
+      "required": [
+        "daiquiri",
+        "click",
+        "jinja2",
+        "fixtures",
+        "packaging",
+        "psutil",
+        "xattr"
+      ]
+    },
+    "original_requirements": [
+      "daiquiri",
+      "click",
+      "jinja2",
+      "fixtures",
+      "packaging",
+      "psutil",
+      "xattr; sys_platform != \"win32\"",
+      "uwsgi; extra == \"gnocchi\"",
+      "requests; extra == \"test\"",
+      "stestr; extra == \"test\"",
+      "testtools; extra == \"test\"",
+      "mock; extra == \"test\""
+    ]
+  },
+  "pifpaf-3.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2f8521f80cb5046c56db976185600183138850ba29d42e080e330f03d58b6444",
+    "dependencies": {
+      "required": [
+        "daiquiri",
+        "click",
+        "jinja2",
+        "fixtures",
+        "packaging",
+        "psutil",
+        "xattr"
+      ]
+    },
+    "original_requirements": [
+      "daiquiri",
+      "click",
+      "jinja2",
+      "fixtures",
+      "packaging",
+      "psutil",
+      "xattr; sys_platform != \"win32\"",
+      "uwsgi; extra == \"gnocchi\"",
+      "requests; extra == \"test\"",
+      "stestr; extra == \"test\"",
+      "testtools; extra == \"test\"",
+      "mock; extra == \"test\""
+    ]
+  },
+  "pifpaf-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c6fdd9916fb2b55d2ed3c7385e332185e69a42410a4c8b2705bcac212270368",
+    "dependencies": {
+      "required": [
+        "daiquiri",
+        "click",
+        "jinja2",
+        "fixtures",
+        "packaging",
+        "psutil",
+        "xattr"
+      ]
+    },
+    "original_requirements": [
+      "daiquiri",
+      "click",
+      "jinja2",
+      "fixtures",
+      "packaging",
+      "psutil",
+      "xattr; sys_platform != \"win32\"",
+      "uwsgi; extra == \"gnocchi\"",
+      "requests; extra == \"test\"",
+      "stestr; extra == \"test\"",
+      "testtools; extra == \"test\"",
+      "mock; extra == \"test\""
+    ]
+  }
+}

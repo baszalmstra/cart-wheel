@@ -1,0 +1,12 @@
+# Package configuration for colored
+conda_forge = "colored"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "colored-2.3.1-py3-none-any.whl" },
+  { filename = "colored-2.3.0-py3-none-any.whl" },
+  { filename = "colored-2.2.5-py3-none-any.whl" },
+  { filename = "colored-2.2.4-py3-none-any.whl" },
+  { filename = "colored-2.2.3-py3-none-any.whl" },
+]

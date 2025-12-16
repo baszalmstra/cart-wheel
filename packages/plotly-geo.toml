@@ -1,0 +1,7 @@
+# Package configuration for plotly-geo
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "plotly_geo-1.0.0-py3-none-any.whl" },
+]

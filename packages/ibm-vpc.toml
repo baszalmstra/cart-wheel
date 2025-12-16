@@ -1,0 +1,11 @@
+# Package configuration for ibm-vpc
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ibm_vpc-0.31.0-py3-none-any.whl" },
+  { filename = "ibm_vpc-0.30.0-py3-none-any.whl" },
+  { filename = "ibm_vpc-0.29.1-py3-none-any.whl" },
+  { filename = "ibm_vpc-0.29.0-py3-none-any.whl" },
+  { filename = "ibm_vpc-0.28.1-py3-none-any.whl" },
+]

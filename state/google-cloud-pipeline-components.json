@@ -1,0 +1,152 @@
+{
+  "google_cloud_pipeline_components-2.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aea2d526b3d562246beb7a4ca983e48983448c7b8b04a4f7053374f08a927104",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "kfp",
+        "google-cloud-aiplatform",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core (!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5)",
+      "kfp (<3.0.0,>=2.6.0)",
+      "google-cloud-aiplatform (<2,>=1.14.0)",
+      "Jinja2 (<4,>=3.1.2)",
+      "protobuf (<5,>=4.21.1) ; extra == 'docs'",
+      "grpcio-status (<=1.47.0) ; extra == 'docs'",
+      "commonmark (==0.9.1) ; extra == 'docs'",
+      "autodocsumm (==0.2.9) ; extra == 'docs'",
+      "sphinx (<6.0.0,>=5.0.2) ; extra == 'docs'",
+      "sphinx-immaterial (==0.9.0) ; extra == 'docs'",
+      "sphinx-rtd-theme (==2.0.0) ; extra == 'docs'",
+      "m2r2 (==0.3.3.post2) ; extra == 'docs'",
+      "sphinx-notfound-page (==0.8.3) ; extra == 'docs'",
+      "mock (>=4.0.0) ; extra == 'tests'",
+      "flake8 (>=3.0.0) ; extra == 'tests'",
+      "pytest (>=6.0.0) ; extra == 'tests'"
+    ]
+  },
+  "google_cloud_pipeline_components-2.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "33d967541e726cae5466d2e46ca7d1c6e411b8d29a94a296fda13a6d75f9097d",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "kfp",
+        "google-cloud-aiplatform",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core (!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5)",
+      "kfp (<3.0.0,>=2.6.0)",
+      "google-cloud-aiplatform (<2,>=1.14.0)",
+      "Jinja2 (<4,>=3.1.2)",
+      "protobuf (<5,>=4.21.1) ; extra == 'docs'",
+      "grpcio-status (<=1.47.0) ; extra == 'docs'",
+      "commonmark (==0.9.1) ; extra == 'docs'",
+      "autodocsumm (==0.2.9) ; extra == 'docs'",
+      "sphinx (<6.0.0,>=5.0.2) ; extra == 'docs'",
+      "sphinx-immaterial (==0.9.0) ; extra == 'docs'",
+      "sphinx-rtd-theme (==2.0.0) ; extra == 'docs'",
+      "m2r2 (==0.3.3.post2) ; extra == 'docs'",
+      "sphinx-notfound-page (==0.8.3) ; extra == 'docs'",
+      "mock (>=4.0.0) ; extra == 'tests'",
+      "flake8 (>=3.0.0) ; extra == 'tests'",
+      "pytest (>=6.0.0) ; extra == 'tests'"
+    ]
+  },
+  "google_cloud_pipeline_components-2.20.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77b3b735dc13f6868e3ed9281af3f195a1becbae0960755bb142286d784a06bd",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "kfp",
+        "google-cloud-aiplatform",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5",
+      "kfp<3.0.0,>=2.6.0",
+      "google-cloud-aiplatform<2,>=1.14.0",
+      "Jinja2<4,>=3.1.2",
+      "flake8>=3.0.0; extra == \"tests\"",
+      "mock>=4.0.0; extra == \"tests\"",
+      "pytest>=6.0.0; extra == \"tests\"",
+      "autodocsumm==0.2.9; extra == \"docs\"",
+      "commonmark==0.9.1; extra == \"docs\"",
+      "grpcio-status<=1.47.0; extra == \"docs\"",
+      "m2r2==0.3.3.post2; extra == \"docs\"",
+      "protobuf<5,>=4.21.1; extra == \"docs\"",
+      "sphinx-immaterial==0.9.0; extra == \"docs\"",
+      "sphinx-notfound-page==0.8.3; extra == \"docs\"",
+      "sphinx-rtd-theme==2.0.0; extra == \"docs\"",
+      "sphinx<6.0.0,>=5.0.2; extra == \"docs\""
+    ]
+  },
+  "google_cloud_pipeline_components-2.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62740b6df99f1371716166f93750da16f10461f0c0ca50a5ee1318fea1c19ce5",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "kfp",
+        "google-cloud-aiplatform",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5",
+      "kfp<3.0.0,>=2.6.0",
+      "google-cloud-aiplatform<2,>=1.14.0",
+      "Jinja2<4,>=3.1.2",
+      "flake8>=3.0.0; extra == \"tests\"",
+      "mock>=4.0.0; extra == \"tests\"",
+      "pytest>=6.0.0; extra == \"tests\"",
+      "autodocsumm==0.2.9; extra == \"docs\"",
+      "commonmark==0.9.1; extra == \"docs\"",
+      "grpcio-status<=1.47.0; extra == \"docs\"",
+      "m2r2==0.3.3.post2; extra == \"docs\"",
+      "protobuf<5,>=4.21.1; extra == \"docs\"",
+      "sphinx-immaterial==0.9.0; extra == \"docs\"",
+      "sphinx-notfound-page==0.8.3; extra == \"docs\"",
+      "sphinx-rtd-theme==2.0.0; extra == \"docs\"",
+      "sphinx<6.0.0,>=5.0.2; extra == \"docs\""
+    ]
+  },
+  "google_cloud_pipeline_components-2.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0ebe8eea7100800fd2a7be2a02a10081071f2a4e421c9758a6a50ed74dfcad0",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "kfp",
+        "google-cloud-aiplatform",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core (!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.5)",
+      "kfp (<2.11.0,>=2.6.0)",
+      "google-cloud-aiplatform (<2,>=1.14.0)",
+      "Jinja2 (<4,>=3.1.2)",
+      "protobuf (<5,>=4.21.1) ; extra == 'docs'",
+      "grpcio-status (<=1.47.0) ; extra == 'docs'",
+      "commonmark (==0.9.1) ; extra == 'docs'",
+      "autodocsumm (==0.2.9) ; extra == 'docs'",
+      "sphinx (<6.0.0,>=5.0.2) ; extra == 'docs'",
+      "sphinx-immaterial (==0.9.0) ; extra == 'docs'",
+      "sphinx-rtd-theme (==2.0.0) ; extra == 'docs'",
+      "m2r2 (==0.3.3.post2) ; extra == 'docs'",
+      "sphinx-notfound-page (==0.8.3) ; extra == 'docs'",
+      "mock (>=4.0.0) ; extra == 'tests'",
+      "flake8 (>=3.0.0) ; extra == 'tests'",
+      "pytest (>=6.0.0) ; extra == 'tests'"
+    ]
+  }
+}

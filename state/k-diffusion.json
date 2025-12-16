@@ -1,0 +1,220 @@
+{
+  "k_diffusion-0.1.1.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4bdcc74e35dd66df5d25433ea76b19edeaeaf2aad05ed97438be447cf4f5ee1",
+    "dependencies": {
+      "required": [
+        "accelerate",
+        "clean-fid",
+        "clip-anytorch",
+        "dctorch",
+        "einops",
+        "jsonmerge",
+        "kornia",
+        "pillow",
+        "safetensors",
+        "scikit-image",
+        "scipy",
+        "torch",
+        "torchdiffeq",
+        "torchsde",
+        "torchvision",
+        "tqdm",
+        "wandb"
+      ]
+    },
+    "original_requirements": [
+      "accelerate",
+      "clean-fid",
+      "clip-anytorch",
+      "dctorch",
+      "einops",
+      "jsonmerge",
+      "kornia",
+      "Pillow",
+      "safetensors",
+      "scikit-image",
+      "scipy",
+      "torch >=2.0",
+      "torchdiffeq",
+      "torchsde",
+      "torchvision",
+      "tqdm",
+      "wandb"
+    ]
+  },
+  "k_diffusion-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2cec8d769194bcd9e013c01b959dc20d18320d82bb6bff90f175ccbd33956a84",
+    "dependencies": {
+      "required": [
+        "accelerate",
+        "clean-fid",
+        "clip-anytorch",
+        "dctorch",
+        "einops",
+        "jsonmerge",
+        "kornia",
+        "pillow",
+        "safetensors",
+        "scikit-image",
+        "scipy",
+        "torch",
+        "torchdiffeq",
+        "torchsde",
+        "torchvision",
+        "tqdm",
+        "wandb"
+      ]
+    },
+    "original_requirements": [
+      "accelerate",
+      "clean-fid",
+      "clip-anytorch",
+      "dctorch",
+      "einops",
+      "jsonmerge",
+      "kornia",
+      "Pillow",
+      "safetensors",
+      "scikit-image",
+      "scipy",
+      "torch >=2.0",
+      "torchdiffeq",
+      "torchsde",
+      "torchvision",
+      "tqdm",
+      "wandb"
+    ]
+  },
+  "k_diffusion-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "509d9e765dfff9ad996036f48bd8630a02db5528daafa033a5519b00cc7cbff3",
+    "dependencies": {
+      "required": [
+        "accelerate",
+        "clean-fid",
+        "clip-anytorch",
+        "dctorch",
+        "einops",
+        "jsonmerge",
+        "kornia",
+        "pillow",
+        "rotary-embedding-torch",
+        "safetensors",
+        "scikit-image",
+        "scipy",
+        "torch",
+        "torchdiffeq",
+        "torchsde",
+        "torchvision",
+        "tqdm",
+        "wandb"
+      ]
+    },
+    "original_requirements": [
+      "accelerate",
+      "clean-fid",
+      "clip-anytorch",
+      "dctorch",
+      "einops",
+      "jsonmerge",
+      "kornia",
+      "Pillow",
+      "rotary-embedding-torch",
+      "safetensors",
+      "scikit-image",
+      "scipy",
+      "torch >=2.0",
+      "torchdiffeq",
+      "torchsde",
+      "torchvision",
+      "tqdm",
+      "wandb"
+    ]
+  },
+  "k_diffusion-0.0.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "762436e845d70d0f922a2d1fa6bdab1ac55732a35a2a4c13ea7443c53921a611",
+    "dependencies": {
+      "required": [
+        "accelerate",
+        "clean-fid",
+        "clip-anytorch",
+        "einops",
+        "jsonmerge",
+        "kornia",
+        "pillow",
+        "resize-right",
+        "scikit-image",
+        "scipy",
+        "torch",
+        "torchdiffeq",
+        "torchsde",
+        "torchvision",
+        "tqdm",
+        "wandb"
+      ]
+    },
+    "original_requirements": [
+      "accelerate",
+      "clean-fid",
+      "clip-anytorch",
+      "einops",
+      "jsonmerge",
+      "kornia",
+      "Pillow",
+      "resize-right",
+      "scikit-image",
+      "scipy",
+      "torch",
+      "torchdiffeq",
+      "torchsde",
+      "torchvision",
+      "tqdm",
+      "wandb"
+    ]
+  },
+  "k_diffusion-0.0.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8e392c98ea881cf19a1e2ebec1569fa12c7f31d23c325b3d3bb185f9f10560fb",
+    "dependencies": {
+      "required": [
+        "accelerate",
+        "clean-fid",
+        "clip-anytorch",
+        "einops",
+        "jsonmerge",
+        "kornia",
+        "pillow",
+        "resize-right",
+        "scikit-image",
+        "scipy",
+        "torch",
+        "torchdiffeq",
+        "torchsde",
+        "torchvision",
+        "tqdm",
+        "wandb"
+      ]
+    },
+    "original_requirements": [
+      "accelerate",
+      "clean-fid",
+      "clip-anytorch",
+      "einops",
+      "jsonmerge",
+      "kornia",
+      "Pillow",
+      "resize-right",
+      "scikit-image",
+      "scipy",
+      "torch",
+      "torchdiffeq",
+      "torchsde",
+      "torchvision",
+      "tqdm",
+      "wandb"
+    ]
+  }
+}

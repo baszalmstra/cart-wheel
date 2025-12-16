@@ -1,0 +1,11 @@
+# Package configuration for snowflake-legacy
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "snowflake_legacy-1.0.2-py3-none-any.whl" },
+  { filename = "snowflake_legacy-1.0.1-py3-none-any.whl" },
+  { filename = "snowflake_legacy-1.0.0-py3-none-any.whl" },
+  { filename = "snowflake_legacy-0.13.1-py3-none-any.whl" },
+  { filename = "snowflake_legacy-0.13.0-py3-none-any.whl" },
+]

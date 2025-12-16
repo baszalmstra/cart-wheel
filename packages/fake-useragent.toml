@@ -1,0 +1,12 @@
+# Package configuration for fake-useragent
+conda_forge = "fake-useragent"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fake_useragent-2.2.0-py3-none-any.whl" },
+  { filename = "fake_useragent-2.1.0-py3-none-any.whl" },
+  { filename = "fake_useragent-2.0.3-py3-none-any.whl" },
+  { filename = "fake_useragent-2.0.2-py3-none-any.whl" },
+  { filename = "fake_useragent-2.0.1-py3-none-any.whl" },
+]

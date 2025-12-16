@@ -1,0 +1,11 @@
+# Package configuration for langchain-google-vertexai
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_google_vertexai-3.2.0-py3-none-any.whl" },
+  { filename = "langchain_google_vertexai-3.1.1-py3-none-any.whl" },
+  { filename = "langchain_google_vertexai-3.1.0-py3-none-any.whl" },
+  { filename = "langchain_google_vertexai-3.0.3-py3-none-any.whl" },
+  { filename = "langchain_google_vertexai-3.0.2-py3-none-any.whl" },
+]

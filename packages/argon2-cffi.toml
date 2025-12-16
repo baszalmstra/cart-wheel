@@ -1,0 +1,11 @@
+# Package configuration for argon2-cffi
+conda_forge = "argon2-cffi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "argon2_cffi-25.1.0-py3-none-any.whl" },
+  { filename = "argon2_cffi-23.1.0-py3-none-any.whl" },
+  { filename = "argon2_cffi-21.3.0-py3-none-any.whl" },
+  { filename = "argon2_cffi-21.2.0-py3-none-any.whl" },
+]

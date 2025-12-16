@@ -1,0 +1,76 @@
+{
+  "azure_batch-14.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "115ccff0007852784ccf8fc12f5f3d415ed80513be306da7a8938ca82d948ee7",
+    "dependencies": {
+      "required": [
+        "msrestazure",
+        "azure-common"
+      ]
+    },
+    "original_requirements": [
+      "msrestazure <2.0.0,>=0.4.32",
+      "azure-common ~=1.1"
+    ]
+  },
+  "azure_batch-14.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "83a364ec644d5a6e89698b165035083fabe1269ae58f1fb6472ff2531ac12244",
+    "dependencies": {
+      "required": [
+        "msrestazure",
+        "azure-common"
+      ]
+    },
+    "original_requirements": [
+      "msrestazure <2.0.0,>=0.4.32",
+      "azure-common ~=1.1"
+    ]
+  },
+  "azure_batch-14.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3dee0571c3b25e4d46a9f2c4ca910f1837d518bd64cd2fd7d867ea770e054574",
+    "dependencies": {
+      "required": [
+        "msrestazure",
+        "azure-common"
+      ]
+    },
+    "original_requirements": [
+      "msrestazure (<2.0.0,>=0.4.32)",
+      "azure-common (~=1.1)"
+    ]
+  },
+  "azure_batch-13.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6d2647f579c7de50a20fa8cd9121aca5ab9b102340dd9a900d212f1f377ef2d4",
+    "dependencies": {
+      "required": [
+        "msrestazure",
+        "azure-common"
+      ]
+    },
+    "original_requirements": [
+      "msrestazure (<2.0.0,>=0.4.32)",
+      "azure-common (~=1.1)"
+    ]
+  },
+  "azure_batch-12.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10470ab3aa43ec416569b68c1167fe7bea1ea53b54c7fea8842c51ec8a68fd76",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "msrestazure",
+        "azure-common",
+        "azure-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.6.21)",
+      "msrestazure (<2.0.0,>=0.4.32)",
+      "azure-common (~=1.1)",
+      "azure-nspkg ; python_version<'3.0'"
+    ]
+  }
+}

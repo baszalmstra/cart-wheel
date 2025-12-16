@@ -1,0 +1,12 @@
+# Package configuration for pypiserver
+conda_forge = "pypiserver"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pypiserver-2.4.0-py2.py3-none-any.whl" },
+  { filename = "pypiserver-2.3.2-py2.py3-none-any.whl" },
+  { filename = "pypiserver-2.3.1-py2.py3-none-any.whl" },
+  { filename = "pypiserver-2.3.0-py2.py3-none-any.whl" },
+  { filename = "pypiserver-2.2.0-py2.py3-none-any.whl" },
+]

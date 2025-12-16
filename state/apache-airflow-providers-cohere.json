@@ -1,0 +1,76 @@
+{
+  "apache_airflow_providers_cohere-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0bcf07b55b2a9293c910163880afd3d36f5161e7348004705e9388cd7633ebd",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "cohere"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "cohere>=5.13.4"
+    ]
+  },
+  "apache_airflow_providers_cohere-1.5.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0610cde1d12d5c7fbb531fe13b23dec432bd36f8781860f55476f5bde284a8b4",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "cohere"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "cohere>=5.13.4"
+    ]
+  },
+  "apache_airflow_providers_cohere-1.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ebfe4905b18b78d9337d904ae7c4973ab736a6a0cacf7eb6987cad837630823",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "cohere"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "cohere>=5.13.4"
+    ]
+  },
+  "apache_airflow_providers_cohere-1.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3094f72ff8cf05ec337ab1488619f2857ba597009423e55b1e6fb1952fd05aa5",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "cohere"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "cohere>=5.13.4"
+    ]
+  },
+  "apache_airflow_providers_cohere-1.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c93ff5f98149e3c7577c874b413556b9c3d9058a82fb0a16ef1e6e778d65ba69",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "cohere"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "cohere>=5.13.4"
+    ]
+  }
+}

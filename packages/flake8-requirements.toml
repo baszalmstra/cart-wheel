@@ -1,0 +1,12 @@
+# Package configuration for flake8-requirements
+conda_forge = "flake8-requirements"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_requirements-2.3.0-py3-none-any.whl" },
+  { filename = "flake8_requirements-2.2.1-py3-none-any.whl" },
+  { filename = "flake8_requirements-2.2.0-py3-none-any.whl" },
+  { filename = "flake8_requirements-2.1.1-py3-none-any.whl" },
+  { filename = "flake8_requirements-2.1.0-py3-none-any.whl" },
+]

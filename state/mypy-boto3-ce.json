@@ -1,0 +1,62 @@
+{
+  "mypy_boto3_ce-1.42.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c0c509198b0ba892788f2e395096af99116e3d1584411f37ec8904a7f90b559",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_ce-1.42.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e0d58bbf13ac9d90257911093d1dc86a8a54f03afe43ba4d551655de5336f78",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_ce-1.42.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "092e36cc642a0093a59ede32046f605ba6445c9cbbc8e354e4210078cc25583f",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_ce-1.41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "192fca071fc723b13914ae35d0f2ed4d35f9ea259c591a8ea1cfec0ada4ffc34",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_ce-1.40.60-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc5c440a607b41103c984c8d58077535f3f7b83f17ad6eca1943ad93bf6e8297",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

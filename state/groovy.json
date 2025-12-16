@@ -1,0 +1,85 @@
+{
+  "groovy-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7f7975bab18c729a257a8b1ae9dcd70b7cafb1720481beae47719af57c35fa64",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == 'dev'",
+      "ruff==0.9.3; extra == 'dev'"
+    ]
+  },
+  "groovy-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "372787bddf166c7e93c9429226504c8753864ec57dfccec48f6b0c2317e99b74",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == 'dev'",
+      "ruff==0.9.3; extra == 'dev'"
+    ]
+  },
+  "groovy-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19a5201194f5b075127fa63f0dcac2db77e9ab464072685b3ea19a97f0e338fb",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == 'dev'",
+      "ruff==0.9.3; extra == 'dev'"
+    ]
+  },
+  "groovy-0.0.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "48b48e1671dd472e5d7dfe9c50fcf58512526e954e22fde818950894afa3ff57",
+    "dependencies": {
+      "required": [
+        "click",
+        "gradio",
+        "huggingface-hub",
+        "screeninfo",
+        "selenium"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "gradio",
+      "huggingface-hub",
+      "screeninfo",
+      "selenium",
+      "pytest; extra == 'dev'",
+      "ruff==0.9.3; extra == 'dev'",
+      "helium; extra == 'full'",
+      "python-dotenv; extra == 'full'",
+      "smolagents[litellm]; extra == 'full'"
+    ]
+  },
+  "groovy-0.0.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01001c3b8ef0fde682a70c3703b28afb30e26a47d6d52eff02c3dd6ceb68f030",
+    "dependencies": {
+      "required": [
+        "click",
+        "gradio",
+        "huggingface-hub",
+        "screeninfo",
+        "selenium"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "gradio",
+      "huggingface-hub",
+      "screeninfo",
+      "selenium",
+      "pytest; extra == 'dev'",
+      "ruff==0.9.3; extra == 'dev'",
+      "helium; extra == 'full'",
+      "python-dotenv; extra == 'full'",
+      "smolagents[litellm]; extra == 'full'"
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "zope_location-6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae2cdfe7c4de03577f55218672dfdcdcf8068666b59d45532408506cdd774e1d",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.interface",
+        "zope.schema",
+        "zope.proxy"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.interface>=4.0.2",
+      "zope.schema>=4.2.2",
+      "zope.proxy>=4.0.1",
+      "zope.configuration; extra == \"zcml\"",
+      "zope.component>=4.0.1; extra == \"component\"",
+      "zope.copy>=4.0; extra == \"copy\"",
+      "zope.testrunner>=6.4; extra == \"test-minimal\"",
+      "zope.testrunner>=6.4; extra == \"test-component\"",
+      "zope.component>=4.0.1; extra == \"test-component\"",
+      "zope.configuration; extra == \"test-component\"",
+      "zope.testrunner>=6.4; extra == \"test\"",
+      "zope.configuration; extra == \"test\"",
+      "zope.component>=4.0.1; extra == \"test\"",
+      "zope.copy>=4.0; extra == \"test\"",
+      "repoze.sphinx.autointerface; extra == \"docs\"",
+      "Sphinx; extra == \"docs\"",
+      "zope.component>=4.0.1; extra == \"docs\"",
+      "zope.configuration; extra == \"docs\""
+    ]
+  },
+  "zope.location-5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e67aaba85d108a9e2228f01fa2aced55325a3a26c28a3ab6c03c8281708aef20",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.interface",
+        "zope.schema",
+        "zope.proxy"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.interface>=4.0.2",
+      "zope.schema>=4.2.2",
+      "zope.proxy>=4.0.1",
+      "zope.configuration; extra == \"zcml\"",
+      "zope.component>=4.0.1; extra == \"component\"",
+      "zope.copy>=4.0; extra == \"copy\"",
+      "zope.testrunner; extra == \"test-minimal\"",
+      "zope.testrunner; extra == \"test-component\"",
+      "zope.component>=4.0.1; extra == \"test-component\"",
+      "zope.configuration; extra == \"test-component\"",
+      "zope.testrunner; extra == \"test\"",
+      "zope.configuration; extra == \"test\"",
+      "zope.component>=4.0.1; extra == \"test\"",
+      "zope.copy>=4.0; extra == \"test\"",
+      "repoze.sphinx.autointerface; extra == \"docs\"",
+      "Sphinx; extra == \"docs\"",
+      "zope.component>=4.0.1; extra == \"docs\"",
+      "zope.configuration; extra == \"docs\""
+    ]
+  },
+  "zope.location-5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c7184fd5950f76b39c2df76ed9bd23d458877985ebad5a5b649e0b2ebbe37f0",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.interface",
+        "zope.schema",
+        "zope.proxy"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.interface (>=4.0.2)",
+      "zope.schema (>=4.2.2)",
+      "zope.proxy (>=4.0.1)",
+      "zope.component (>=4.0.1) ; extra == 'component'",
+      "Sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "zope.configuration ; extra == 'docs'",
+      "zope.component (>=4.0.1) ; extra == 'docs'",
+      "zope.configuration ; extra == 'test'",
+      "zope.component (>=4.0.1) ; extra == 'test'",
+      "zope.copy (>=4.0) ; extra == 'test'",
+      "zope.testrunner ; extra == 'test'",
+      "zope.configuration ; extra == 'zcml'"
+    ]
+  },
+  "zope.location-4.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a7fd62954dfedade2e460342bcd8120016bf16a0ebba8b372458aa98c77bb49",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.interface",
+        "zope.schema",
+        "zope.proxy"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.interface (>=4.0.2)",
+      "zope.schema (>=4.2.2)",
+      "zope.proxy (>=4.0.1)",
+      "zope.component (>=4.0.1) ; extra == 'component'",
+      "Sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "zope.configuration ; extra == 'docs'",
+      "zope.component (>=4.0.1) ; extra == 'docs'",
+      "zope.configuration ; extra == 'test'",
+      "zope.component (>=4.0.1) ; extra == 'test'",
+      "zope.copy (>=4.0) ; extra == 'test'",
+      "zope.testrunner ; extra == 'test'",
+      "zope.configuration ; extra == 'zcml'"
+    ]
+  },
+  "zope.location-4.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e5cbfb5e397820e6c21c2ac66cc44e7946bdaa4af336e4dbb613fea818a068c",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.interface",
+        "zope.proxy",
+        "zope.schema"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.interface (>=4.0.2)",
+      "zope.proxy (>=4.0.1)",
+      "zope.schema (>=4.2.2)",
+      "zope.component (>=4.0.1); extra == 'component'",
+      "Sphinx; extra == 'docs'",
+      "repoze.sphinx.autointerface; extra == 'docs'",
+      "zope.component (>=4.0.1); extra == 'docs'",
+      "zope.configuration; extra == 'docs'",
+      "zope.component (>=4.0.1); extra == 'test'",
+      "zope.configuration; extra == 'test'",
+      "zope.copy (>=4.0); extra == 'test'",
+      "zope.testrunner; extra == 'test'",
+      "zope.configuration; extra == 'zcml'"
+    ]
+  }
+}

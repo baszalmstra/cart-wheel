@@ -1,0 +1,12 @@
+# Package configuration for pytest-metadata
+conda_forge = "pytest-metadata"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_metadata-3.1.1-py3-none-any.whl" },
+  { filename = "pytest_metadata-3.1.0-py3-none-any.whl" },
+  { filename = "pytest_metadata-3.0.0-py3-none-any.whl" },
+  { filename = "pytest_metadata-2.0.4-py3-none-any.whl" },
+  { filename = "pytest_metadata-2.0.3-py3-none-any.whl" },
+]

@@ -1,0 +1,102 @@
+{
+  "asgi_csrf-0.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03ac140115f39d4295288a9adf74fdc6ae607f6ef44abee8466520458207242b",
+    "dependencies": {
+      "required": [
+        "itsdangerous",
+        "python-multipart"
+      ]
+    },
+    "original_requirements": [
+      "itsdangerous",
+      "python-multipart >=0.0.13",
+      "pytest ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "httpx >=0.16 ; extra == 'test'",
+      "starlette ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "asgi-lifespan ; extra == 'test'"
+    ]
+  },
+  "asgi_csrf-0.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf2f0464f7a5342dad0656dd78e670741461ed6ee584391d28a0a4b61ac6daaf",
+    "dependencies": {
+      "required": [
+        "itsdangerous",
+        "python-multipart"
+      ]
+    },
+    "original_requirements": [
+      "itsdangerous",
+      "python-multipart",
+      "pytest ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "httpx >=0.16 ; extra == 'test'",
+      "starlette ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "asgi-lifespan ; extra == 'test'"
+    ]
+  },
+  "asgi_csrf-0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e974cffb8a4ab84a28a0088acbf7a4ecc5be4a64f08dcbe19c60dea103da01c0",
+    "dependencies": {
+      "required": [
+        "itsdangerous",
+        "python-multipart"
+      ]
+    },
+    "original_requirements": [
+      "itsdangerous",
+      "python-multipart",
+      "pytest ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "httpx (>=0.16) ; extra == 'test'",
+      "starlette ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "asgi-lifespan ; extra == 'test'"
+    ]
+  },
+  "asgi_csrf-0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b72f8418e64a18684b5870506cf3ece1d18e85b8057fce569a888b67bbe31243",
+    "dependencies": {
+      "required": [
+        "itsdangerous",
+        "python-multipart"
+      ]
+    },
+    "original_requirements": [
+      "itsdangerous",
+      "python-multipart",
+      "pytest ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "httpx (>=0.16) ; extra == 'test'",
+      "starlette ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "asgi-lifespan ; extra == 'test'"
+    ]
+  },
+  "asgi_csrf-0.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5fe59dc8c0994e7d50b89d9ebbdb1a2639c66d965b20010393eca3617215d0f2",
+    "dependencies": {
+      "required": [
+        "itsdangerous",
+        "python-multipart"
+      ]
+    },
+    "original_requirements": [
+      "itsdangerous",
+      "python-multipart",
+      "pytest ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "httpx (>=0.16) ; extra == 'test'",
+      "starlette ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "asgi-lifespan ; extra == 'test'"
+    ]
+  }
+}

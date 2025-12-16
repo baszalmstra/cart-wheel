@@ -1,0 +1,12 @@
+# Package configuration for sanic-cors
+conda_forge = "sanic-cors"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Sanic_Cors-2.2.0-py2.py3-none-any.whl" },
+  { filename = "Sanic_Cors-2.1.0-py2.py3-none-any.whl" },
+  { filename = "Sanic_Cors-2.0.1-py2.py3-none-any.whl" },
+  { filename = "Sanic_Cors-2.0.0-py2.py3-none-any.whl" },
+  { filename = "Sanic_Cors-1.0.1-py2.py3-none-any.whl" },
+]

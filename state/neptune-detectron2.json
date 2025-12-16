@@ -1,0 +1,99 @@
+{
+  "neptune_detectron2-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "75c6cd0e7787003a0c5fe33e9cbdd36e8d43383e47f787dfd620fe1bbc8e8ebd",
+    "dependencies": {
+      "required": [
+        "fvcore",
+        "importlib-metadata",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "fvcore (<0.1.5.post20221220)",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "numpy (<1.24.0)",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "torch (>=1.13.0,<2.0.0) ; extra == \"dev\"",
+      "torchvision (>=0.14.0,<0.15.0) ; extra == \"dev\""
+    ]
+  },
+  "neptune_detectron2-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "036d4d1251f45104d7028527de1760ff25446a22f0961fe6f2a3ec1be57a5630",
+    "dependencies": {
+      "required": [
+        "fvcore",
+        "importlib-metadata",
+        "neptune-client",
+        "numpy",
+        "torch",
+        "torchvision"
+      ]
+    },
+    "original_requirements": [
+      "fvcore (<0.1.5.post20221220)",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune-client (>=0.16.17)",
+      "numpy (<1.24.0)",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "torch (>=1.13.0,<2.0.0)",
+      "torchvision (>=0.14.0,<0.15.0)"
+    ]
+  },
+  "neptune_detectron2-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ded8aa3bb20491b4410542e944289f8f69ed90b3bfb40677cb6e2581737f4be3",
+    "dependencies": {
+      "required": [
+        "fvcore",
+        "importlib-metadata",
+        "neptune-client",
+        "numpy",
+        "torch",
+        "torchvision"
+      ]
+    },
+    "original_requirements": [
+      "fvcore (<0.1.5.post20221220)",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune-client (>=0.16.16)",
+      "numpy (<1.24.0)",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "torch (>=1.13.0,<2.0.0)",
+      "torchvision (>=0.14.0,<0.15.0)"
+    ]
+  },
+  "neptune_detectron2-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37c140c85a8ae1a8a47331c0fa8641c21b73a70d59b20865e15fd665822d824d",
+    "dependencies": {
+      "required": [
+        "fvcore",
+        "importlib-metadata",
+        "neptune-client",
+        "numpy",
+        "torch",
+        "torchvision"
+      ]
+    },
+    "original_requirements": [
+      "fvcore (<0.1.5.post20221220)",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune-client (>=0.10.0)",
+      "numpy (<1.24.0)",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "torch (>=1.13.0,<2.0.0)",
+      "torchvision (>=0.14.0,<0.15.0)"
+    ]
+  }
+}

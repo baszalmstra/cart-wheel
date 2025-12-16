@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_eventkit-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d2d36d5bd9e0a13887a6ac7cdd36675985ebe2a9cb3cdf8cec0725670c92c60",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1"
+    ]
+  },
+  "pyobjc_framework_eventkit-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1771062ab40d26e878cbf27bdf1f9fe539854c62eea8b44d7be9218dc7d6ce67",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0"
+    ]
+  },
+  "pyobjc_framework_eventkit-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c303207610d9c742f4090799f60103cede466002f3c89cf66011c8bf1987750b",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1"
+    ]
+  },
+  "pyobjc_framework_EventKit-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "934e31f4c82f887e1bf01f96d33de4c7c6727de3fdb55bc739e1c686c10cc151",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0"
+    ]
+  },
+  "pyobjc_framework_EventKit-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9dcadf1fc7f21d8bf9b81a9226849bd8a11fe0427c0ea39cd98ec5b60a85970c",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2"
+    ]
+  }
+}

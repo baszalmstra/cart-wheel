@@ -1,0 +1,9 @@
+# Package configuration for outdated
+conda_forge = "outdated"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "outdated-0.2.2-py2.py3-none-any.whl" },
+  { filename = "outdated-0.2.1-py3-none-any.whl" },
+]

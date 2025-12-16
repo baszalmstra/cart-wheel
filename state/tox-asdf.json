@@ -1,0 +1,22 @@
+{
+  "tox_asdf-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18b40e396b70ed9cfb68af2c9463cfd3d38d2786a32872d37a0fe58392e4535f",
+    "dependencies": {
+      "required": [
+        "tox"
+      ]
+    },
+    "original_requirements": [
+      "tox (>=2.0)",
+      "mock (>=2.0.0) ; extra == 'test'",
+      "pytest (>=4.0.0) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "pytest-sugar ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "wheel ; extra == 'test'",
+      "pluggy (>=0.7) ; extra == 'test'"
+    ]
+  }
+}

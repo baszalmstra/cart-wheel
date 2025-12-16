@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-dlp
+conda_forge = "google-cloud-dlp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_dlp-3.33.0-py3-none-any.whl" },
+  { filename = "google_cloud_dlp-3.32.0-py3-none-any.whl" },
+  { filename = "google_cloud_dlp-3.31.0-py3-none-any.whl" },
+  { filename = "google_cloud_dlp-3.30.0-py3-none-any.whl" },
+  { filename = "google_cloud_dlp-3.29.0-py3-none-any.whl" },
+]

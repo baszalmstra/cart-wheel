@@ -1,0 +1,10 @@
+# Package configuration for face
+conda_forge = "face"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "face-24.0.0-py3-none-any.whl" },
+  { filename = "face-22.0.0-py3-none-any.whl" },
+  { filename = "face-20.1.1-py3-none-any.whl" },
+]

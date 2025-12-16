@@ -1,0 +1,11 @@
+# Package configuration for oslo.utils
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oslo_utils-9.2.0-py3-none-any.whl" },
+  { filename = "oslo_utils-9.1.0-py3-none-any.whl" },
+  { filename = "oslo_utils-9.0.0-py3-none-any.whl" },
+  { filename = "oslo.utils-8.2.0-py3-none-any.whl" },
+  { filename = "oslo.utils-8.1.0-py3-none-any.whl" },
+]

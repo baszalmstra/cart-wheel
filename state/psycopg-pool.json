@@ -1,0 +1,68 @@
+{
+  "psycopg_pool-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e44329155c410b5e8666372db44276a8b1ebd8c90f1c3026ebba40d4bc81063",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.6",
+      "anyio>=4.0; extra == \"test\"",
+      "mypy>=1.14; extra == \"test\"",
+      "pproxy>=2.7; extra == \"test\"",
+      "pytest>=6.2.5; extra == \"test\"",
+      "pytest-cov>=3.0; extra == \"test\"",
+      "pytest-randomly>=3.5; extra == \"test\""
+    ]
+  },
+  "psycopg_pool-3.2.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5474137f3a58e697e0141d0311e70ec067fc4466031496d7f9ef3e2c28a1dc09",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.6"
+    ]
+  },
+  "psycopg_pool-3.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b47bb59d887ef5da522eb63746b9f70e2faf967d34aac4f56ffc65e9606728f",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.6"
+    ]
+  },
+  "psycopg_pool-3.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5887318a9f6af906d041a0b1dc1c60f8f0dda8340c2572b74e10907b51ed5da7",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.6"
+    ]
+  },
+  "psycopg_pool-3.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "522b9befae8631550217fd2ae9904622daaf4b28a0a36ccfcc87ba3d2abc7100",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.6"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "sphinx_markdown_builder-0.6.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "35b555760c48d4a38fe4b27813cb5ca636bbd22d8ef0742ac6959043f8000840",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "tabulate",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=5.1.0",
+      "tabulate",
+      "docutils",
+      "sphinx>=9.0.4; extra == \"dev\"",
+      "bumpver; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "pylint; extra == \"dev\"",
+      "pip-tools; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "coveralls; extra == \"dev\"",
+      "sphinxcontrib-plantuml; extra == \"dev\"",
+      "sphinxcontrib.httpdomain; extra == \"dev\""
+    ]
+  },
+  "sphinx_markdown_builder-0.6.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f04ab42d52449363228b9104569c56b778534f9c41a168af8cfc721a1e0e3edc",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "tabulate",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=5.1.0",
+      "tabulate",
+      "docutils",
+      "sphinx>=5.3.0; extra == \"dev\"",
+      "bumpver; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "pylint; extra == \"dev\"",
+      "pip-tools; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "coveralls; extra == \"dev\"",
+      "sphinxcontrib-plantuml; extra == \"dev\"",
+      "sphinxcontrib.httpdomain; extra == \"dev\""
+    ]
+  },
+  "sphinx_markdown_builder-0.6.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6d52b63d2b7b3504ca664773e805b0ee8957239f2ca86103e793d96103970839",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "tabulate",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=5.1.0",
+      "tabulate",
+      "docutils",
+      "sphinx>=5.3.0; extra == \"dev\"",
+      "bumpver; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "pylint; extra == \"dev\"",
+      "pip-tools; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "coveralls; extra == \"dev\"",
+      "sphinxcontrib-plantuml; extra == \"dev\"",
+      "sphinxcontrib.httpdomain; extra == \"dev\""
+    ]
+  },
+  "sphinx_markdown_builder-0.6.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e6fd4626c6daf1c25a464fd7d6d64e4a97e69abca1684fb2a12fba44cb6db363",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "tabulate",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=5.1.0)",
+      "tabulate",
+      "docutils",
+      "sphinx (>=5.3.0) ; extra == 'dev'",
+      "bumpver ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "pip-tools ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "coveralls ; extra == 'dev'",
+      "sphinx-needs ; extra == 'dev'",
+      "sphinxcontrib-plantuml ; extra == 'dev'",
+      "sphinxcontrib.httpdomain ; extra == 'dev'"
+    ]
+  },
+  "sphinx_markdown_builder-0.6.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "59c8e841b56bbf04a2c11e1984f7258fa28a20c0257aa54ea3ae7a0013a27d4a",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "tabulate",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=2.2.0)",
+      "tabulate",
+      "docutils",
+      "bumpver ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "pip-tools ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "coveralls ; extra == 'dev'",
+      "sphinx-needs ; extra == 'dev'",
+      "sphinxcontrib-plantuml ; extra == 'dev'"
+    ]
+  }
+}

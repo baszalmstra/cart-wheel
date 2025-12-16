@@ -1,0 +1,12 @@
+# Package configuration for pytest-socket
+conda_forge = "pytest-socket"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_socket-0.7.0-py3-none-any.whl" },
+  { filename = "pytest_socket-0.6.0-py3-none-any.whl" },
+  { filename = "pytest_socket-0.5.1-py3-none-any.whl" },
+  { filename = "pytest_socket-0.5.0-py3-none-any.whl" },
+  { filename = "pytest_socket-0.4.1-py3-none-any.whl" },
+]

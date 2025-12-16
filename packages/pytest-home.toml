@@ -1,0 +1,11 @@
+# Package configuration for pytest-home
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_home-0.6.0-py3-none-any.whl" },
+  { filename = "pytest_home-0.5.1-py3-none-any.whl" },
+  { filename = "pytest_home-0.5.0-py3-none-any.whl" },
+  { filename = "pytest_home-0.4.0-py3-none-any.whl" },
+  { filename = "pytest_home-0.3.0-py3-none-any.whl" },
+]

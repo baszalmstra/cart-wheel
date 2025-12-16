@@ -1,0 +1,12 @@
+# Package configuration for plumbum
+conda_forge = "plumbum"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "plumbum-1.10.0-py3-none-any.whl" },
+  { filename = "plumbum-1.9.0-py3-none-any.whl" },
+  { filename = "plumbum-1.8.3-py3-none-any.whl" },
+  { filename = "plumbum-1.8.2-py3-none-any.whl" },
+  { filename = "plumbum-1.8.1-py3-none-any.whl" },
+]

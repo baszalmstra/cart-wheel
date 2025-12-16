@@ -1,0 +1,143 @@
+{
+  "python_daemon-3.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b906833cef63502994ad48e2eab213259ed9bb18d54fa8774dcba2ff7864cec6",
+    "dependencies": {
+      "required": [
+        "lockfile"
+      ]
+    },
+    "original_requirements": [
+      "lockfile>=0.10",
+      "pip-check; extra == \"static-analysis\"",
+      "pycodestyle~=2.12; extra == \"static-analysis\"",
+      "pydocstyle~=6.3; extra == \"static-analysis\"",
+      "pyupgrade~=3.17; extra == \"static-analysis\"",
+      "isort~=5.13; extra == \"static-analysis\"",
+      "python-daemon[doc]; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "build; extra == \"build\"",
+      "docutils; extra == \"build\"",
+      "changelog-chug; extra == \"build\"",
+      "python-daemon[build,static-analysis]; extra == \"test\"",
+      "testtools; extra == \"test\"",
+      "testscenarios>=0.4; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "python-daemon[build]; extra == \"dist\"",
+      "twine; extra == \"dist\"",
+      "python-daemon[dist,test]; extra == \"devel\""
+    ]
+  },
+  "python_daemon-3.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b44866efe923c278ac5a052b6b87d4736fc53221b671cd3a7ec7c1f94ed19f47",
+    "dependencies": {
+      "required": [
+        "lockfile"
+      ]
+    },
+    "original_requirements": [
+      "lockfile>=0.10",
+      "pip-check; extra == \"static-analysis\"",
+      "pycodestyle~=2.12; extra == \"static-analysis\"",
+      "pydocstyle~=6.3; extra == \"static-analysis\"",
+      "pyupgrade~=3.17; extra == \"static-analysis\"",
+      "isort~=5.13; extra == \"static-analysis\"",
+      "python-daemon[doc]; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "build; extra == \"build\"",
+      "docutils; extra == \"build\"",
+      "changelog-chug; extra == \"build\"",
+      "python-daemon[build,static-analysis]; extra == \"test\"",
+      "testtools; extra == \"test\"",
+      "testscenarios>=0.4; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "python-daemon[build]; extra == \"dist\"",
+      "twine; extra == \"dist\"",
+      "python-daemon[dist,test]; extra == \"devel\""
+    ]
+  },
+  "python_daemon-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a66b5896f0aed5807a25c6128268eb496488b1f9c6927c487710049ba16be32a",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "lockfile"
+      ]
+    },
+    "original_requirements": [
+      "setuptools>=62.4.0",
+      "lockfile>=0.10",
+      "python-daemon[doc]; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "build; extra == \"build\"",
+      "docutils; extra == \"build\"",
+      "changelog-chug; extra == \"build\"",
+      "python-daemon[dist,test]; extra == \"devel\"",
+      "python-daemon[build]; extra == \"dist\"",
+      "twine; extra == \"dist\"",
+      "Sphinx~=4.4; extra == \"doc\"",
+      "pip-check; extra == \"static-analysis\"",
+      "pycodestyle~=2.12; extra == \"static-analysis\"",
+      "pydocstyle~=6.3; extra == \"static-analysis\"",
+      "pyupgrade~=3.17; extra == \"static-analysis\"",
+      "isort~=5.13; extra == \"static-analysis\"",
+      "python-daemon[build,static-analysis]; extra == \"test\"",
+      "testtools; extra == \"test\"",
+      "testscenarios>=0.4; extra == \"test\"",
+      "coverage; extra == \"test\""
+    ]
+  },
+  "python_daemon-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "42bb848a3260a027fa71ad47ecd959e471327cb34da5965962edd5926229f341",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "lockfile",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "lockfile (>=0.10)",
+      "setuptools (>=62.4.0)",
+      "coverage ; extra == 'devel'",
+      "docutils ; extra == 'devel'",
+      "isort ; extra == 'devel'",
+      "testscenarios (>=0.4) ; extra == 'devel'",
+      "testtools ; extra == 'devel'",
+      "twine ; extra == 'devel'",
+      "coverage ; extra == 'test'",
+      "docutils ; extra == 'test'",
+      "testscenarios (>=0.4) ; extra == 'test'",
+      "testtools ; extra == 'test'"
+    ]
+  },
+  "python_daemon-2.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01d26358598f8c3f5fc6de553e2f3080ffc59cf89102d7ee8098f33c72b3c04c",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "lockfile",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "lockfile (>=0.10)",
+      "setuptools",
+      "coverage ; extra == 'devel'",
+      "docutils ; extra == 'devel'",
+      "testscenarios (>=0.4) ; extra == 'devel'",
+      "testtools ; extra == 'devel'",
+      "twine ; extra == 'devel'",
+      "coverage ; extra == 'test'",
+      "docutils ; extra == 'test'",
+      "testscenarios (>=0.4) ; extra == 'test'",
+      "testtools ; extra == 'test'"
+    ]
+  }
+}

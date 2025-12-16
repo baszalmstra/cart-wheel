@@ -1,0 +1,66 @@
+{
+  "flake8_tidy_imports-4.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ab1e31a5ce07518a31c0a34cd92551f4c27639ae2c35a21364680a0318da312e",
+    "dependencies": {
+      "required": [
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "flake8>=3.8"
+    ]
+  },
+  "flake8_tidy_imports-4.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "607a76a7c2a9dec682e214f0692d4e7876862a618b766cef8f16979efac1ce22",
+    "dependencies": {
+      "required": [
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "flake8 >=3.8"
+    ]
+  },
+  "flake8_tidy_imports-4.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b0387fb2ea200441bd142309e716fb7b8f4b0937bdf5f8b7c0c118a5f5e2b8ed",
+    "dependencies": {
+      "required": [
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3.8.0)"
+    ]
+  },
+  "flake8_tidy_imports-4.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bdbd6ea3750089c5d0f4a27a554e8890ecfe6d1b9b60b6c0f1ffbfd00e161c58",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3.8.0)",
+      "importlib-metadata ; python_version < \"3.8\""
+    ]
+  },
+  "flake8_tidy_imports-4.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "25bd9799358edefa0e010ce2c587b093c3aba942e96aeaa99b6d0500ae1bf09c",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3.8.0)",
+      "importlib-metadata ; python_version < \"3.8\""
+    ]
+  }
+}

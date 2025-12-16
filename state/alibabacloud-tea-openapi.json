@@ -1,0 +1,46 @@
+{
+  "alibabacloud_tea_openapi-0.4.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:39.361560+00:00",
+    "conda_file": "alibabacloud-tea-openapi-0.4.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "alibabacloud-credentials",
+        "alibabacloud-gateway-spi",
+        "alibabacloud-tea-util",
+        "cryptography",
+        "darabonba-core"
+      ]
+    },
+    "original_requirements": [
+      "alibabacloud-credentials (<2.0.0,>=1.0.2)",
+      "alibabacloud-gateway-spi (<1.0.0,>=0.0.2)",
+      "alibabacloud-tea-util (<1.0.0,>=0.3.13)",
+      "cryptography (<45.0.0,>=3.0.0)",
+      "darabonba-core (<2.0.0,>=1.0.3)"
+    ]
+  },
+  "alibabacloud_tea_openapi-0.4.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:39.321758+00:00",
+    "conda_file": "alibabacloud-tea-openapi-0.4.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "alibabacloud-credentials",
+        "alibabacloud-gateway-spi",
+        "alibabacloud-tea-util",
+        "cryptography",
+        "darabonba-core"
+      ]
+    },
+    "original_requirements": [
+      "alibabacloud-credentials (<2.0.0,>=1.0.2)",
+      "alibabacloud-gateway-spi (<1.0.0,>=0.0.2)",
+      "alibabacloud-tea-util (<1.0.0,>=0.3.13)",
+      "cryptography (<45.0.0,>=3.0.0)",
+      "darabonba-core (<2.0.0,>=1.0.3)"
+    ]
+  }
+}

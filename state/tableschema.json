@@ -1,0 +1,172 @@
+{
+  "tableschema-1.21.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "afc85b969d86ca5f8635404c0a666febfec3623b12bdf43218c5fa41688f41d6",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "cached-property",
+        "python-dateutil",
+        "jsonschema",
+        "unicodecsv",
+        "isodate",
+        "rfc3986",
+        "dataflows-tabulator"
+      ]
+    },
+    "original_requirements": [
+      "six>=1.9",
+      "click>=3.3",
+      "requests>=2.5",
+      "cached-property>=1.5",
+      "python-dateutil>=2.4",
+      "jsonschema>=2.5",
+      "unicodecsv>=0.14",
+      "isodate>=0.5.4",
+      "rfc3986>=1.1.0",
+      "dataflows-tabulator>=1.54.1",
+      "mock; extra == \"develop\"",
+      "pylama; extra == \"develop\"",
+      "pytest; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\""
+    ]
+  },
+  "tableschema-1.20.11-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6e041406c0ee95e9d4621e7548d41a9d6b75829dd8597b02cb07791f790992fe",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "cached-property",
+        "python-dateutil",
+        "jsonschema",
+        "unicodecsv",
+        "isodate",
+        "rfc3986",
+        "dataflows-tabulator"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.9",
+      "click >=3.3",
+      "requests >=2.5",
+      "cached-property >=1.5",
+      "python-dateutil >=2.4",
+      "jsonschema >=2.5",
+      "unicodecsv >=0.14",
+      "isodate >=0.5.4",
+      "rfc3986 >=1.1.0",
+      "dataflows-tabulator >=1.54.1",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'"
+    ]
+  },
+  "tableschema-1.20.10-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b5a2300162f5a61efc5c5c9ed8b7891d350d77047b925686d97f69f1ace0e1b",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "cached-property",
+        "python-dateutil",
+        "jsonschema",
+        "unicodecsv",
+        "isodate",
+        "rfc3986",
+        "dataflows-tabulator"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.9",
+      "click >=3.3",
+      "requests >=2.5",
+      "cached-property >=1.5",
+      "python-dateutil >=2.4",
+      "jsonschema >=2.5",
+      "unicodecsv >=0.14",
+      "isodate >=0.5.4",
+      "rfc3986 >=1.1.0",
+      "dataflows-tabulator >=1.54.1",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'"
+    ]
+  },
+  "tableschema-1.20.9-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b75e0906a193b5097fca655841dc1dfe51f7e7f8785ce34ba865423842bea1b",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "cached-property",
+        "python-dateutil",
+        "jsonschema",
+        "unicodecsv",
+        "isodate",
+        "rfc3986",
+        "dataflows-tabulator"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.9",
+      "click >=3.3",
+      "requests >=2.5",
+      "cached-property >=1.5",
+      "python-dateutil >=2.4",
+      "jsonschema >=2.5",
+      "unicodecsv >=0.14",
+      "isodate >=0.5.4",
+      "rfc3986 >=1.1.0",
+      "dataflows-tabulator >=1.54.1",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'"
+    ]
+  },
+  "tableschema-1.20.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "849769a1925552d43a5b64423315d600d24a46f8caa63be77a0cf5d4be6b252b",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "cached-property",
+        "python-dateutil",
+        "jsonschema",
+        "unicodecsv",
+        "isodate",
+        "rfc3986",
+        "tabulator"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.9",
+      "click >=3.3",
+      "requests >=2.5",
+      "cached-property >=1.5",
+      "python-dateutil >=2.4",
+      "jsonschema >=2.5",
+      "unicodecsv >=0.14",
+      "isodate >=0.5.4",
+      "rfc3986 >=1.1.0",
+      "tabulator >=1.51.3",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'"
+    ]
+  }
+}

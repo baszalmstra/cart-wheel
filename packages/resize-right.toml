@@ -1,0 +1,8 @@
+# Package configuration for resize-right
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "resize_right-0.0.2-py3-none-any.whl" },
+  { filename = "resize_right-0.0.1-py3-none-any.whl" },
+]

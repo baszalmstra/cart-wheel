@@ -1,0 +1,165 @@
+{
+  "pyhanko-0.32.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "04bb04e7791aeed626e32264b2eb273ed73104f7ad3a47e27a69b7faedfd3451",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "tzlocal",
+        "pyhanko-certvalidator",
+        "requests",
+        "pyyaml",
+        "cryptography",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto>=1.5.1",
+      "tzlocal>=4.3",
+      "pyhanko-certvalidator<0.30,>=0.29.0",
+      "requests>=2.31.0",
+      "pyyaml>=6.0",
+      "cryptography>=43.0.3",
+      "lxml>=5.4.0",
+      "fonttools>=4.33.3; extra == \"opentype\"",
+      "uharfbuzz<0.53.0,>=0.25.0; extra == \"opentype\"",
+      "qrcode>=7.3.1; extra == \"qr\"",
+      "Pillow>=7.2.0; extra == \"image-support\"",
+      "python-barcode==0.15.1; extra == \"image-support\"",
+      "python-pkcs11~=0.9.2; extra == \"pkcs11\"",
+      "aiohttp<3.13,>=3.9; extra == \"async-http\"",
+      "xsdata<26.0,>=24.4; extra == \"etsi\"",
+      "signxml>=4.2.0; extra == \"etsi\""
+    ]
+  },
+  "pyhanko-0.31.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be4baab844026d44206685eb87569b3a203ac7499dce0c03ec6488f288e10c50",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "tzlocal",
+        "pyhanko-certvalidator",
+        "requests",
+        "pyyaml",
+        "cryptography",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto>=1.5.1",
+      "tzlocal>=4.3",
+      "pyhanko-certvalidator<0.30,>=0.29.0",
+      "requests>=2.31.0",
+      "pyyaml>=6.0",
+      "cryptography>=43.0.3",
+      "lxml>=5.4.0",
+      "fonttools>=4.33.3; extra == \"opentype\"",
+      "uharfbuzz<0.51.0,>=0.25.0; extra == \"opentype\"",
+      "qrcode>=7.3.1; extra == \"qr\"",
+      "Pillow>=7.2.0; extra == \"image-support\"",
+      "python-barcode==0.15.1; extra == \"image-support\"",
+      "python-pkcs11~=0.9.0; extra == \"pkcs11\"",
+      "aiohttp<3.13,>=3.9; extra == \"async-http\"",
+      "xsdata<26.0,>=24.4; extra == \"etsi\"",
+      "signxml>=4.2.0; extra == \"etsi\""
+    ]
+  },
+  "pyhanko-0.30.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd65837b42c5ce3fbd88d1996b0cd44895cd634fc7cf12764b9b56ec100b9994",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "tzlocal",
+        "pyhanko-certvalidator",
+        "requests",
+        "pyyaml",
+        "cryptography",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto>=1.5.1",
+      "tzlocal>=4.3",
+      "pyhanko-certvalidator<0.29,>=0.28.0",
+      "requests>=2.31.0",
+      "pyyaml>=6.0",
+      "cryptography>=43.0.3",
+      "lxml>=5.4.0",
+      "fonttools>=4.33.3; extra == \"opentype\"",
+      "uharfbuzz<0.51.0,>=0.25.0; extra == \"opentype\"",
+      "qrcode>=7.3.1; extra == \"qr\"",
+      "Pillow>=7.2.0; extra == \"image-support\"",
+      "python-barcode==0.15.1; extra == \"image-support\"",
+      "python-pkcs11~=0.9.0; extra == \"pkcs11\"",
+      "aiohttp<3.13,>=3.9; extra == \"async-http\"",
+      "xsdata<26.0,>=24.4; extra == \"etsi\"",
+      "signxml>=4.2.0; extra == \"etsi\""
+    ]
+  },
+  "pyhanko-0.29.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "92aaa4f5a4678e204d770079ef9c847af37357b94fe3e62cb2347aa18c613ecc",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "tzlocal",
+        "pyhanko-certvalidator",
+        "requests",
+        "pyyaml",
+        "cryptography",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto>=1.5.1",
+      "tzlocal>=4.3",
+      "pyhanko-certvalidator<0.28,>=0.27.0",
+      "requests>=2.31.0",
+      "pyyaml>=6.0",
+      "cryptography>=43.0.3",
+      "lxml>=5.4.0",
+      "fonttools>=4.33.3; extra == \"opentype\"",
+      "uharfbuzz<0.51.0,>=0.25.0; extra == \"opentype\"",
+      "qrcode>=7.3.1; extra == \"qr\"",
+      "Pillow>=7.2.0; extra == \"image-support\"",
+      "python-barcode==0.15.1; extra == \"image-support\"",
+      "python-pkcs11~=0.8.0; extra == \"pkcs11\"",
+      "aiohttp<3.13,>=3.9; extra == \"async-http\"",
+      "xsdata<26.0,>=24.4; extra == \"etsi\""
+    ]
+  },
+  "pyhanko-0.29.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fa5ad890a98395f9f516a41de601cd3130c2c172054a7b0c47dfdb77b7b2b5c1",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "tzlocal",
+        "pyhanko-certvalidator",
+        "requests",
+        "pyyaml",
+        "cryptography",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto>=1.5.1",
+      "tzlocal>=4.3",
+      "pyhanko-certvalidator<0.28,>=0.27.0",
+      "requests>=2.31.0",
+      "pyyaml>=6.0",
+      "cryptography>=43.0.3",
+      "lxml>=5.4.0",
+      "fonttools>=4.33.3; extra == \"opentype\"",
+      "uharfbuzz<0.51.0,>=0.25.0; extra == \"opentype\"",
+      "qrcode>=7.3.1; extra == \"qr\"",
+      "Pillow>=7.2.0; extra == \"image-support\"",
+      "python-barcode==0.15.1; extra == \"image-support\"",
+      "python-pkcs11~=0.7.0; extra == \"pkcs11\"",
+      "aiohttp<3.12,>=3.9; extra == \"async-http\"",
+      "xsdata<26.0,>=24.4; extra == \"etsi\""
+    ]
+  }
+}

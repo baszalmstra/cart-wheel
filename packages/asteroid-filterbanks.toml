@@ -1,0 +1,11 @@
+# Package configuration for asteroid-filterbanks
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "asteroid_filterbanks-0.4.0-py3-none-any.whl" },
+  { filename = "asteroid_filterbanks-0.3.4-py3-none-any.whl" },
+  { filename = "asteroid_filterbanks-0.3.3-py3-none-any.whl" },
+  { filename = "asteroid_filterbanks-0.3.2-py3-none-any.whl" },
+  { filename = "asteroid_filterbanks-0.3.1-py3-none-any.whl" },
+]

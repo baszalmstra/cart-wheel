@@ -1,0 +1,9 @@
+# Package configuration for alibabacloud-tea-openapi
+conda_forge = "alibabacloud-tea-openapi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "alibabacloud_tea_openapi-0.4.2-py3-none-any.whl" },
+  { filename = "alibabacloud_tea_openapi-0.4.1-py3-none-any.whl" },
+]

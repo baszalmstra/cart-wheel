@@ -1,0 +1,171 @@
+{
+  "furiosa_sdk-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "677a758720cadf99320894f52c34c4406a8dfd33e272342dc423210ad5587633",
+    "dependencies": {
+      "required": [
+        "furiosa-cli",
+        "furiosa-runtime",
+        "furiosa-tools"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-cli == 0.10.*",
+      "furiosa-runtime == 0.10.*",
+      "furiosa-tools == 0.10.*",
+      "furiosa-cli == 0.10.* ; extra == \"cli\"",
+      "furiosa-device == 0.10.* ; extra == \"device\"",
+      "furiosa-cli == 0.10.* ; extra == \"full\"",
+      "furiosa-litmus == 0.10.* ; extra == \"full\"",
+      "furiosa-optimizer == 0.10.* ; extra == \"full\"",
+      "furiosa-quantizer == 0.10.* ; extra == \"full\"",
+      "furiosa-server == 0.10.* ; extra == \"full\"",
+      "furiosa-serving == 0.10.* ; extra == \"full\"",
+      "furiosa-tools == 0.10.* ; extra == \"full\"",
+      "furiosa-device == 0.10.* ; extra == \"full\"",
+      "furiosa-litmus == 0.10.* ; extra == \"litmus\"",
+      "furiosa-optimizer == 0.10.* ; extra == \"quantizer\"",
+      "furiosa-quantizer == 0.10.* ; extra == \"quantizer\"",
+      "furiosa-server == 0.10.* ; extra == \"server\"",
+      "furiosa-serving == 0.10.* ; extra == \"serving\"",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "furiosa-tools == 0.10.* ; extra == \"tool\""
+    ]
+  },
+  "furiosa_sdk-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b0b6b9443db206598208bb3dbc2c49a233f79b1d38e3e09b7137cfb268103c9",
+    "dependencies": {
+      "required": [
+        "furiosa-cli",
+        "furiosa-runtime",
+        "furiosa-tools"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-cli == 0.10.*",
+      "furiosa-runtime == 0.10.*",
+      "furiosa-tools == 0.10.*",
+      "furiosa-cli == 0.10.* ; extra == \"cli\"",
+      "furiosa-device == 0.10.* ; extra == \"device\"",
+      "furiosa-cli == 0.10.* ; extra == \"full\"",
+      "furiosa-litmus == 0.10.* ; extra == \"full\"",
+      "furiosa-optimizer == 0.10.* ; extra == \"full\"",
+      "furiosa-quantizer == 0.10.* ; extra == \"full\"",
+      "furiosa-server == 0.10.* ; extra == \"full\"",
+      "furiosa-serving == 0.10.* ; extra == \"full\"",
+      "furiosa-tools == 0.10.* ; extra == \"full\"",
+      "furiosa-device == 0.10.* ; extra == \"full\"",
+      "furiosa-litmus == 0.10.* ; extra == \"litmus\"",
+      "furiosa-optimizer == 0.10.* ; extra == \"quantizer\"",
+      "furiosa-quantizer == 0.10.* ; extra == \"quantizer\"",
+      "furiosa-server == 0.10.* ; extra == \"server\"",
+      "furiosa-serving == 0.10.* ; extra == \"serving\"",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "furiosa-tools == 0.10.* ; extra == \"tool\""
+    ]
+  },
+  "furiosa_sdk-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b810dac2b91e66ed10b5bfcde91e076a79110fc056dc6574b87f151404a1d734",
+    "dependencies": {
+      "required": [
+        "furiosa-cli",
+        "furiosa-runtime",
+        "furiosa-tools"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-cli == 0.10.*",
+      "furiosa-runtime == 0.10.*",
+      "furiosa-tools == 0.10.*",
+      "furiosa-cli == 0.10.* ; extra == \"cli\"",
+      "furiosa-device == 0.10.* ; extra == \"device\"",
+      "furiosa-cli == 0.10.* ; extra == \"full\"",
+      "furiosa-litmus == 0.10.* ; extra == \"full\"",
+      "furiosa-optimizer == 0.10.* ; extra == \"full\"",
+      "furiosa-quantizer == 0.10.* ; extra == \"full\"",
+      "furiosa-server == 0.10.* ; extra == \"full\"",
+      "furiosa-serving == 0.10.* ; extra == \"full\"",
+      "furiosa-tools == 0.10.* ; extra == \"full\"",
+      "furiosa-device == 0.10.* ; extra == \"full\"",
+      "furiosa-litmus == 0.10.* ; extra == \"litmus\"",
+      "furiosa-optimizer == 0.10.* ; extra == \"quantizer\"",
+      "furiosa-quantizer == 0.10.* ; extra == \"quantizer\"",
+      "furiosa-server == 0.10.* ; extra == \"server\"",
+      "furiosa-serving == 0.10.* ; extra == \"serving\"",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "furiosa-tools == 0.10.* ; extra == \"tool\""
+    ]
+  },
+  "furiosa_sdk-0.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5baa5c067839ae40350b98318465ff6c168da0c603c83274250e3dbddb002213",
+    "dependencies": {
+      "required": [
+        "furiosa-cli",
+        "furiosa-runtime",
+        "furiosa-tools"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-cli == 0.9.*",
+      "furiosa-runtime == 0.9.*",
+      "furiosa-tools == 0.9.*",
+      "furiosa-cli == 0.9.* ; extra == \"cli\"",
+      "furiosa-cli == 0.9.* ; extra == \"full\"",
+      "furiosa-litmus == 0.9.* ; extra == \"full\"",
+      "furiosa-registry == 0.9.* ; extra == \"full\"",
+      "furiosa-optimizer == 0.9.* ; extra == \"full\"",
+      "furiosa-quantizer == 0.9.* ; extra == \"full\"",
+      "furiosa-server == 0.9.* ; extra == \"full\"",
+      "furiosa-serving == 0.9.* ; extra == \"full\"",
+      "furiosa-tools == 0.9.* ; extra == \"full\"",
+      "furiosa-litmus == 0.9.* ; extra == \"litmus\"",
+      "furiosa-optimizer == 0.9.* ; extra == \"quantizer\"",
+      "furiosa-quantizer == 0.9.* ; extra == \"quantizer\"",
+      "furiosa-registry == 0.9.* ; extra == \"registry\"",
+      "furiosa-server == 0.9.* ; extra == \"server\"",
+      "furiosa-serving == 0.9.* ; extra == \"serving\"",
+      "furiosa-tools == 0.9.* ; extra == \"tool\""
+    ]
+  },
+  "furiosa_sdk-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "36e48c035bf115dee2acafa0ba1af4c78648515c391d29ee8b9fd67bf944b880",
+    "dependencies": {
+      "required": [
+        "furiosa-cli",
+        "furiosa-runtime",
+        "furiosa-tools"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-cli == 0.9.*",
+      "furiosa-runtime == 0.9.*",
+      "furiosa-tools == 0.9.*",
+      "furiosa-cli == 0.9.* ; extra == \"cli\"",
+      "furiosa-cli == 0.9.* ; extra == \"full\"",
+      "furiosa-litmus == 0.9.* ; extra == \"full\"",
+      "furiosa-registry == 0.9.* ; extra == \"full\"",
+      "furiosa-optimizer == 0.9.* ; extra == \"full\"",
+      "furiosa-quantizer == 0.9.* ; extra == \"full\"",
+      "furiosa-server == 0.9.* ; extra == \"full\"",
+      "furiosa-serving == 0.9.* ; extra == \"full\"",
+      "furiosa-tools == 0.9.* ; extra == \"full\"",
+      "furiosa-litmus == 0.9.* ; extra == \"litmus\"",
+      "furiosa-optimizer == 0.9.* ; extra == \"quantizer\"",
+      "furiosa-quantizer == 0.9.* ; extra == \"quantizer\"",
+      "furiosa-registry == 0.9.* ; extra == \"registry\"",
+      "furiosa-server == 0.9.* ; extra == \"server\"",
+      "furiosa-serving == 0.9.* ; extra == \"serving\"",
+      "furiosa-tools == 0.9.* ; extra == \"tool\""
+    ]
+  }
+}

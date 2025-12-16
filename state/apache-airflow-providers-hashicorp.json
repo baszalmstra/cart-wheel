@@ -1,0 +1,88 @@
+{
+  "apache_airflow_providers_hashicorp-4.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c98f8566fb9e44e300c957ed9bb3fad90a7e764edbff0cb667c144ab1d62698a",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "hvac"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "hvac>=1.1.0",
+      "boto3>=1.37.2 ; extra == \"boto3\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_hashicorp-4.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "88e584a7d73bdb0495fcf28cf8e01b501bd41b71674c4746af9db442b4f1eff3",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "hvac"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "hvac>=1.1.0",
+      "boto3>=1.37.2 ; extra == \"boto3\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_hashicorp-4.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e1ab75dddaa86e4f5f1139d633a03bfe1be50f60678fc06120b1b99c7e9fe236",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "hvac"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "hvac>=1.1.0",
+      "boto3>=1.33.0 ; extra == \"boto3\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_hashicorp-4.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "047860e347caaf956c5846b791dc108701a67c741fae5de2f1983041bf94929b",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "hvac"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "hvac>=1.1.0",
+      "boto3>=1.33.0 ; extra == \"boto3\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_hashicorp-4.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30263ce2133bd9efaada02c34f36fd4194c4e34439807c81cd6b2eae21265e15",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "hvac"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "hvac>=1.1.0",
+      "boto3>=1.33.0 ; extra == \"boto3\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  }
+}

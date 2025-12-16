@@ -1,0 +1,12 @@
+# Package configuration for phonenumbers
+conda_forge = "phonenumbers"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "phonenumbers-9.0.20-py2.py3-none-any.whl" },
+  { filename = "phonenumbers-9.0.19-py2.py3-none-any.whl" },
+  { filename = "phonenumbers-9.0.18-py2.py3-none-any.whl" },
+  { filename = "phonenumbers-9.0.17-py2.py3-none-any.whl" },
+  { filename = "phonenumbers-9.0.16-py2.py3-none-any.whl" },
+]

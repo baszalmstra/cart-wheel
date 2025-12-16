@@ -1,0 +1,8 @@
+# Package configuration for wmi
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "WMI-1.5.1-py2.py3-none-any.whl" },
+  { filename = "WMI-1.5-py3-none-any.whl" },
+]

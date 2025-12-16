@@ -1,0 +1,36 @@
+{
+  "sortedcontainers_pydantic-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c38a05f1a8618189bdd8b87f0c3bc8cc1196e6c39f0e30f694b709ba3e2a508",
+    "dependencies": {
+      "required": [
+        "pydantic-core",
+        "pydantic",
+        "sortedcontainers"
+      ]
+    },
+    "original_requirements": [
+      "pydantic-core",
+      "pydantic>=2",
+      "sortedcontainers",
+      "pytest>=6; extra == 'tests'"
+    ]
+  },
+  "sortedcontainers_pydantic-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07e92e9b85dbf9248e0a5b59e0311a095e6fb27e0dc461b1209ead5a550b60b2",
+    "dependencies": {
+      "required": [
+        "pydantic-core",
+        "pydantic",
+        "sortedcontainers"
+      ]
+    },
+    "original_requirements": [
+      "pydantic-core",
+      "pydantic>=2",
+      "sortedcontainers",
+      "pytest>=6; extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "autodoc_traits-1.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f26c5e942745c3b8c5350bfdaac409fe531aca2b4639a4daaaad398e9592a1a1",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=4",
+      "traitlets>=4",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "autodoc_traits-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31befcf6afb192f9b16d1276b537a8d477911c76e541f20d5066e3d7dcd22add",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=4",
+      "traitlets<5.10,>=4",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "autodoc_traits-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4fa918b0dea0973c957b19236a1a4252cab397cdcc2352deb31e3dc6a395e593",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=4",
+      "traitlets>=4",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "autodoc_traits-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec4a322f43a20066708605959ac29bc2f02a43c7091a3eda88bb85cb75455cac",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=2",
+      "traitlets>=4",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "autodoc_traits-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "716ff4979383ebec192de230d6aaba8f71bac09b9a6a34bde37ff8be39224fd0",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "traitlets"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+# Package configuration for parsimonious
+conda_forge = "parsimonious"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "parsimonious-0.11.0-py3-none-any.whl" },
+  { filename = "parsimonious-0.10.0-py3-none-any.whl" },
+]

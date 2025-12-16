@@ -1,0 +1,12 @@
+# Package configuration for pytablewriter
+conda_forge = "pytablewriter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytablewriter-1.2.1-py3-none-any.whl" },
+  { filename = "pytablewriter-1.2.0-py3-none-any.whl" },
+  { filename = "pytablewriter-1.1.0-py3-none-any.whl" },
+  { filename = "pytablewriter-1.0.0-py3-none-any.whl" },
+  { filename = "pytablewriter-0.64.2-py3-none-any.whl" },
+]

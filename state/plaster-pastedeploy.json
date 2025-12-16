@@ -1,0 +1,82 @@
+{
+  "plaster_pastedeploy-1.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad3550cc744648969ed3b810f33c9344f515ee8d8a8cec18e8f2c4a643c2181f",
+    "dependencies": {
+      "required": [
+        "pastedeploy",
+        "plaster"
+      ]
+    },
+    "original_requirements": [
+      "PasteDeploy (>=2.0)",
+      "plaster (>=0.5)",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'"
+    ]
+  },
+  "plaster_pastedeploy-1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1cf5aadb584022163e595bdc044499a70a45b4d148446d6605c1db25a54bb455",
+    "dependencies": {
+      "required": [
+        "pastedeploy",
+        "plaster"
+      ]
+    },
+    "original_requirements": [
+      "PasteDeploy (>=2.0)",
+      "plaster (>=0.5)",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'"
+    ]
+  },
+  "plaster_pastedeploy-0.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c8aa37c917b615c70bf942b24dc1e0455c49f62f1a2214b1a0dd98871644bbb",
+    "dependencies": {
+      "required": [
+        "pastedeploy",
+        "plaster"
+      ]
+    },
+    "original_requirements": [
+      "PasteDeploy (>=2.0)",
+      "plaster (>=0.5)",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'"
+    ]
+  },
+  "plaster_pastedeploy-0.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "71e29b0ab90df8343bca5f0debe4706f0f8147308a78922c8c26e8252809bce4",
+    "dependencies": {
+      "required": [
+        "pastedeploy",
+        "plaster"
+      ]
+    },
+    "original_requirements": [
+      "PasteDeploy (>=1.5.0)",
+      "plaster (>=0.5)",
+      "pytest; extra == 'testing'",
+      "pytest-cov; extra == 'testing'"
+    ]
+  },
+  "plaster_pastedeploy-0.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "25cc239d767c5fab0afa44b1ed3c1a33a3d7ec6302ff2e599aec674b77ff6667",
+    "dependencies": {
+      "required": [
+        "pastedeploy",
+        "plaster"
+      ]
+    },
+    "original_requirements": [
+      "PasteDeploy (>=1.5.0)",
+      "plaster (>=0.5)",
+      "pytest; extra == 'testing'",
+      "pytest-cov; extra == 'testing'"
+    ]
+  }
+}

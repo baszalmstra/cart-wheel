@@ -1,0 +1,56 @@
+{
+  "checkdeps-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15cec29977a08bcc57d029307b4250b3f97f99aa45d932c8322b3cd0a4059c2f",
+    "dependencies": {
+      "required": [
+        "click",
+        "packaging",
+        "stdlibs",
+        "trailrunner",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "click >=7.0",
+      "packaging >=21.0",
+      "stdlibs >=2022.3.16",
+      "trailrunner >=1.0",
+      "toml ; python_version < \"3.11\"",
+      "black ==23.12.1 ; extra == 'dev'",
+      "flake8 ==7.0.0 ; extra == 'dev'",
+      "mypy ==1.8.0 ; extra == 'dev'",
+      "tox ==4.12.1 ; extra == 'dev'",
+      "twine ==4.0.2 ; extra == 'dev'",
+      "ufmt ==2.3.0 ; extra == 'dev'",
+      "usort ==1.0.7 ; extra == 'dev'",
+      "wheel ==0.42.0 ; extra == 'dev'",
+      "coverage >=6 ; extra == 'test'"
+    ]
+  },
+  "checkdeps-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e924e717da462ecb13ef901628c0de89bfe93f10351bfeb58fe0c7fa464e7cf",
+    "dependencies": {
+      "required": [
+        "click",
+        "packaging",
+        "stdlibs",
+        "trailrunner"
+      ]
+    },
+    "original_requirements": [
+      "click (>=7.0)",
+      "packaging (>=21.0)",
+      "stdlibs (>=2022.3.16)",
+      "trailrunner (>=1.0)"
+    ]
+  },
+  "checkdeps-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c7f79150fa27686be3e8974293b630cba0934a09e5c0f4ce6b1728240ec9719",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

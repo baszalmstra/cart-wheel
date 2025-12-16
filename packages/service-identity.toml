@@ -1,0 +1,12 @@
+# Package configuration for service-identity
+conda_forge = "service_identity"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "service_identity-24.2.0-py3-none-any.whl" },
+  { filename = "service_identity-24.1.0-py3-none-any.whl" },
+  { filename = "service_identity-23.1.0-py3-none-any.whl" },
+  { filename = "service_identity-21.1.0-py2.py3-none-any.whl" },
+  { filename = "service_identity-18.1.0-py2.py3-none-any.whl" },
+]

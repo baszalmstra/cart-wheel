@@ -1,0 +1,11 @@
+# Package configuration for wasmer
+conda_forge = "python-wasmer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "wasmer-1.1.0-py3-none-any.whl" },
+  { filename = "wasmer-1.0.0-py3-none-any.whl" },
+  { filename = "wasmer-0.4.1-py3-none-any.whl" },
+  { filename = "wasmer-0.3.0-py3-none-any.whl" },
+]

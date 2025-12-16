@@ -1,0 +1,12 @@
+# Package configuration for minio
+conda_forge = "minio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "minio-7.2.20-py3-none-any.whl" },
+  { filename = "minio-7.2.19-py3-none-any.whl" },
+  { filename = "minio-7.2.18-py3-none-any.whl" },
+  { filename = "minio-7.2.17-py3-none-any.whl" },
+  { filename = "minio-7.2.16-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for pydocstyle
+conda_forge = "pydocstyle"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydocstyle-6.3.0-py3-none-any.whl" },
+  { filename = "pydocstyle-6.2.3-py3-none-any.whl" },
+  { filename = "pydocstyle-6.2.2-py3-none-any.whl" },
+  { filename = "pydocstyle-6.2.1-py3-none-any.whl" },
+  { filename = "pydocstyle-6.2.0-py3-none-any.whl" },
+]

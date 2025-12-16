@@ -1,0 +1,87 @@
+{
+  "coveralls-4.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3940f613eac6b3c14d1425741929e1d15f57666f5e7ae0572bbe92357bd6f7ee",
+    "dependencies": {
+      "required": [
+        "coverage",
+        "docopt",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "coverage[toml] (>=5.0,<8.0,!=6.0.*,!=6.1,!=6.1.1)",
+      "docopt (>=0.6.1,<0.7.0)",
+      "pyyaml (>=3.10,<7.0) ; extra == \"yaml\"",
+      "requests (>=1.0.0,<3.0.0)"
+    ]
+  },
+  "coveralls-4.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a6b1fa9848332c7b2221afb20f3df90272ac0167060f41b5fe90429b30b1809",
+    "dependencies": {
+      "required": [
+        "coverage",
+        "docopt",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "coverage[toml] (>=5.0,<8.0,!=6.0.*,!=6.1,!=6.1.1)",
+      "docopt (>=0.6.1,<0.7.0)",
+      "pyyaml (>=3.10,<7.0) ; extra == \"yaml\"",
+      "requests (>=1.0.0,<3.0.0)"
+    ]
+  },
+  "coveralls-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "401715d244a27d5da03eb1ac614aa585cc7e4dd5b0d4c035113b6349da4e6161",
+    "dependencies": {
+      "required": [
+        "coverage",
+        "docopt",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "coverage[toml] (>=5.0,<7.5,!=6.0.*,!=6.1,!=6.1.1)",
+      "docopt (>=0.6.1,<0.7.0)",
+      "pyyaml (>=3.10,<7.0) ; extra == \"yaml\"",
+      "requests (>=1.0.0,<3.0.0)"
+    ]
+  },
+  "coveralls-3.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f42015f31d386b351d4226389b387ae173207058832fbf5c8ec4b40e27b16026",
+    "dependencies": {
+      "required": [
+        "coverage",
+        "docopt",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "coverage (!=6.0.*,!=6.1,!=6.1.1,<7.0,>=4.1)",
+      "docopt (>=0.6.1)",
+      "requests (>=1.0.0)",
+      "PyYAML (>=3.10) ; extra == 'yaml'"
+    ]
+  },
+  "coveralls-3.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3c2142c9117c6dd04bc721cc733e59cdb9fd516924c551f98a458d16f8facf0",
+    "dependencies": {
+      "required": [
+        "coverage",
+        "docopt",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "coverage (<7.0,>=4.1)",
+      "docopt (>=0.6.1)",
+      "requests (>=1.0.0)",
+      "PyYAML (>=3.10) ; extra == 'yaml'"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "asgi_lifespan-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed840706680e28428c01e14afb3875d7d76d3206f3d5b2f2294e059b5c23804f",
+    "dependencies": {
+      "required": [
+        "sniffio"
+      ]
+    },
+    "original_requirements": [
+      "sniffio"
+    ]
+  },
+  "asgi_lifespan-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "420582b1786b238d035244415dc11536acdbcb24762cba1c5e9bddc565960277",
+    "dependencies": {
+      "required": [
+        "sniffio"
+      ]
+    },
+    "original_requirements": [
+      "sniffio"
+    ]
+  },
+  "asgi_lifespan-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ea969dc5eb5cf08e52c08dce6f61afcadd28112e72d81c972b1d8eb8691ab53",
+    "dependencies": {
+      "required": [
+        "sniffio",
+        "async-exit-stack"
+      ]
+    },
+    "original_requirements": [
+      "sniffio",
+      "async-exit-stack ; python_version < \"3.7\""
+    ]
+  },
+  "asgi_lifespan-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e1e4dfb2aa259f38cf3c55e58f9d3e25da9dd6e33190a3740fcca0e126b74e9",
+    "dependencies": {
+      "required": [
+        "sniffio",
+        "async-exit-stack"
+      ]
+    },
+    "original_requirements": [
+      "sniffio",
+      "async-exit-stack ; python_version < \"3.7\""
+    ]
+  },
+  "asgi_lifespan-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1446bd1f7974044a4af276462d54303797d33a41a300099a6eaca42426e4ab2e",
+    "dependencies": {
+      "required": [
+        "async-exit-stack"
+      ]
+    },
+    "original_requirements": [
+      "async-exit-stack ; python_version < \"3.7\""
+    ]
+  }
+}

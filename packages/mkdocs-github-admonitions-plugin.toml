@@ -1,0 +1,11 @@
+# Package configuration for mkdocs-github-admonitions-plugin
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_github_admonitions_plugin-0.1.1-py3-none-any.whl" },
+  { filename = "mkdocs_github_admonitions_plugin-0.1.0-py3-none-any.whl" },
+  { filename = "mkdocs_github_admonitions_plugin-0.0.3-py3-none-any.whl" },
+  { filename = "mkdocs_github_admonitions_plugin-0.0.2-py3-none-any.whl" },
+  { filename = "mkdocs_github_admonitions_plugin-0.0.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for flatten-dict
+conda_forge = "flatten-dict"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flatten_dict-0.4.2-py2.py3-none-any.whl" },
+  { filename = "flatten_dict-0.4.1-py2.py3-none-any.whl" },
+  { filename = "flatten_dict-0.4.0-py2.py3-none-any.whl" },
+  { filename = "flatten_dict-0.3.0-py2.py3-none-any.whl" },
+  { filename = "flatten_dict-0.2.0-py2.py3-none-any.whl" },
+]

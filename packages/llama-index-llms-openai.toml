@@ -1,0 +1,12 @@
+# Package configuration for llama-index-llms-openai
+conda_forge = "llama-index-llms-openai"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "llama_index_llms_openai-0.6.11-py3-none-any.whl" },
+  { filename = "llama_index_llms_openai-0.6.10-py3-none-any.whl" },
+  { filename = "llama_index_llms_openai-0.6.9-py3-none-any.whl" },
+  { filename = "llama_index_llms_openai-0.6.8-py3-none-any.whl" },
+  { filename = "llama_index_llms_openai-0.6.7-py3-none-any.whl" },
+]

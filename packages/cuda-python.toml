@@ -1,0 +1,12 @@
+# Package configuration for cuda-python
+conda_forge = "cuda-python"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cuda_python-13.1.1-py3-none-any.whl" },
+  { filename = "cuda_python-13.1.0-py3-none-any.whl" },
+  { filename = "cuda_python-13.0.3-py3-none-any.whl" },
+  { filename = "cuda_python-13.0.2-py3-none-any.whl" },
+  { filename = "cuda_python-13.0.1-py3-none-any.whl" },
+]

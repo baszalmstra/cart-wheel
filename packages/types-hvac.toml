@@ -1,0 +1,11 @@
+# Package configuration for types-hvac
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_hvac-2.4.0.20251115-py3-none-any.whl" },
+  { filename = "types_hvac-2.4.0.20251101-py3-none-any.whl" },
+  { filename = "types_hvac-2.3.0.20250914-py3-none-any.whl" },
+  { filename = "types_hvac-2.3.0.20250809-py3-none-any.whl" },
+  { filename = "types_hvac-2.3.0.20250516-py3-none-any.whl" },
+]

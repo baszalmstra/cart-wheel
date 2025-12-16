@@ -1,0 +1,72 @@
+{
+  "livekit_plugins_azure-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "04cce49c8d89413d75f2608b4595db1ffc046659497df996b5f05005af1b9cb8",
+    "dependencies": {
+      "required": [
+        "azure-cognitiveservices-speech",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "azure-cognitiveservices-speech>=1.43.0",
+      "livekit-agents>=1.3.6"
+    ]
+  },
+  "livekit_plugins_azure-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "998367180d7614b351c55c0726995064a8bd74ed20181927b0a4ebd0bd45dd3c",
+    "dependencies": {
+      "required": [
+        "azure-cognitiveservices-speech",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "azure-cognitiveservices-speech>=1.43.0",
+      "livekit-agents>=1.3.5"
+    ]
+  },
+  "livekit_plugins_azure-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bcb9dfa61ce815314c4a25b1ddd07f739e57c76b30b2635a391fb3cfde28a15f",
+    "dependencies": {
+      "required": [
+        "azure-cognitiveservices-speech",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "azure-cognitiveservices-speech>=1.43.0",
+      "livekit-agents>=1.3.4"
+    ]
+  },
+  "livekit_plugins_azure-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3dd008eb1a073fd2c6108392f1c068c8be57fca0e3b42ea0da3ce2629004400e",
+    "dependencies": {
+      "required": [
+        "azure-cognitiveservices-speech",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "azure-cognitiveservices-speech>=1.43.0",
+      "livekit-agents>=1.3.3"
+    ]
+  },
+  "livekit_plugins_azure-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b43b017b175fce4a3115e83a43ffc9cc501d78e6783568b8b7f6d431ff6927a",
+    "dependencies": {
+      "required": [
+        "azure-cognitiveservices-speech",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "azure-cognitiveservices-speech>=1.43.0",
+      "livekit-agents>=1.3.2"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for ndg-httpsclient
+conda_forge = "ndg-httpsclient"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ndg_httpsclient-0.5.1-py3-none-any.whl" },
+  { filename = "ndg_httpsclient-0.5.0-py3-none-any.whl" },
+  { filename = "ndg_httpsclient-0.4.4-py3-none-any.whl" },
+  { filename = "ndg_httpsclient-0.4.3-py3-none-any.whl" },
+]

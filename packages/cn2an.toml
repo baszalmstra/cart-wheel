@@ -1,0 +1,11 @@
+# Package configuration for cn2an
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cn2an-0.5.23-py3-none-any.whl" },
+  { filename = "cn2an-0.5.22-py3-none-any.whl" },
+  { filename = "cn2an-0.5.21-py3-none-any.whl" },
+  { filename = "cn2an-0.5.20-py3-none-any.whl" },
+  { filename = "cn2an-0.5.19-py3-none-any.whl" },
+]

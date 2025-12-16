@@ -1,0 +1,207 @@
+{
+  "stanza-1.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a0bcf24830e32e88f6d0cff1e757661e53ed1b60149fa7f72211d61c6dab063",
+    "dependencies": {
+      "required": [
+        "emoji",
+        "numpy",
+        "protobuf",
+        "requests",
+        "networkx",
+        "tomli",
+        "torch",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "emoji",
+      "numpy",
+      "protobuf>=3.15.0",
+      "requests",
+      "networkx",
+      "tomli; python_version < \"3.11\"",
+      "torch>=1.13.0",
+      "tqdm",
+      "check-manifest; extra == \"dev\"",
+      "coverage; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "transformers>=3.0.0; extra == \"transformers\"",
+      "peft>=0.6.1; extra == \"transformers\"",
+      "datasets; extra == \"datasets\"",
+      "jieba; extra == \"tokenizers\"",
+      "pythainlp; extra == \"tokenizers\"",
+      "python-crfsuite; extra == \"tokenizers\"",
+      "spacy; extra == \"tokenizers\"",
+      "sudachidict_core; extra == \"tokenizers\"",
+      "sudachipy; extra == \"tokenizers\"",
+      "spacy; extra == \"visualization\"",
+      "streamlit; extra == \"visualization\"",
+      "ipython; extra == \"visualization\""
+    ]
+  },
+  "stanza-1.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d0ebc22c7e7a201077e0ed88d2450e654acadb4ea0d8584d5a5eb2ae1e65c060",
+    "dependencies": {
+      "required": [
+        "emoji",
+        "numpy",
+        "protobuf",
+        "requests",
+        "networkx",
+        "tomli",
+        "torch",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "emoji",
+      "numpy",
+      "protobuf>=3.15.0",
+      "requests",
+      "networkx",
+      "tomli; python_version < \"3.11\"",
+      "torch>=1.3.0",
+      "tqdm",
+      "check-manifest; extra == \"dev\"",
+      "coverage; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "transformers>=3.0.0; extra == \"transformers\"",
+      "peft>=0.6.1; extra == \"transformers\"",
+      "datasets; extra == \"datasets\"",
+      "jieba; extra == \"tokenizers\"",
+      "pythainlp; extra == \"tokenizers\"",
+      "python-crfsuite; extra == \"tokenizers\"",
+      "spacy; extra == \"tokenizers\"",
+      "sudachidict_core; extra == \"tokenizers\"",
+      "sudachipy; extra == \"tokenizers\"",
+      "spacy; extra == \"visualization\"",
+      "streamlit; extra == \"visualization\"",
+      "ipython; extra == \"visualization\""
+    ]
+  },
+  "stanza-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3296fe648ac2a055f8f188cd1f2b7e48b69fa9dbf873dc48bb526b819333ce70",
+    "dependencies": {
+      "required": [
+        "emoji",
+        "numpy",
+        "protobuf",
+        "requests",
+        "networkx",
+        "tomli",
+        "torch",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "emoji",
+      "numpy",
+      "protobuf>=3.15.0",
+      "requests",
+      "networkx",
+      "tomli; python_version < \"3.11\"",
+      "torch>=1.3.0",
+      "tqdm",
+      "check-manifest; extra == \"dev\"",
+      "coverage; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "transformers>=3.0.0; extra == \"transformers\"",
+      "peft>=0.6.1; extra == \"transformers\"",
+      "datasets; extra == \"datasets\"",
+      "jieba; extra == \"tokenizers\"",
+      "pythainlp; extra == \"tokenizers\"",
+      "python-crfsuite; extra == \"tokenizers\"",
+      "spacy; extra == \"tokenizers\"",
+      "sudachidict_core; extra == \"tokenizers\"",
+      "sudachipy; extra == \"tokenizers\"",
+      "spacy; extra == \"visualization\"",
+      "streamlit; extra == \"visualization\"",
+      "ipython; extra == \"visualization\""
+    ]
+  },
+  "stanza-1.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d869c4bbd61c52422bd263ee72d6d225e2235b18b0b00b5eff3d86a14b210553",
+    "dependencies": {
+      "required": [
+        "emoji",
+        "numpy",
+        "protobuf",
+        "requests",
+        "networkx",
+        "torch",
+        "tqdm",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "emoji",
+      "numpy",
+      "protobuf >=3.15.0",
+      "requests",
+      "networkx",
+      "torch >=1.3.0",
+      "tqdm",
+      "tomli ; python_version < \"3.11\"",
+      "datasets ; extra == 'datasets'",
+      "check-manifest ; extra == 'dev'",
+      "coverage ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "jieba ; extra == 'tokenizers'",
+      "pythainlp ; extra == 'tokenizers'",
+      "python-crfsuite ; extra == 'tokenizers'",
+      "spacy ; extra == 'tokenizers'",
+      "sudachidict-core ; extra == 'tokenizers'",
+      "sudachipy ; extra == 'tokenizers'",
+      "transformers >=3.0.0 ; extra == 'transformers'",
+      "peft >=0.6.1 ; extra == 'transformers'",
+      "spacy ; extra == 'visualization'",
+      "streamlit ; extra == 'visualization'",
+      "ipython ; extra == 'visualization'"
+    ]
+  },
+  "stanza-1.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "06fe0ea86b0076f297de16d845d621da275d7b826e587b4cdced89a3eb83be2d",
+    "dependencies": {
+      "required": [
+        "emoji",
+        "numpy",
+        "protobuf",
+        "requests",
+        "networkx",
+        "torch",
+        "tqdm",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "emoji",
+      "numpy",
+      "protobuf >=3.15.0",
+      "requests",
+      "networkx",
+      "torch >=1.3.0",
+      "tqdm",
+      "tomli ; python_version < \"3.11\"",
+      "datasets ; extra == 'datasets'",
+      "check-manifest ; extra == 'dev'",
+      "coverage ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "jieba ; extra == 'tokenizers'",
+      "pythainlp ; extra == 'tokenizers'",
+      "python-crfsuite ; extra == 'tokenizers'",
+      "spacy ; extra == 'tokenizers'",
+      "sudachidict-core ; extra == 'tokenizers'",
+      "sudachipy ; extra == 'tokenizers'",
+      "transformers >=3.0.0 ; extra == 'transformers'",
+      "peft >=0.6.1 ; extra == 'transformers'",
+      "spacy ; extra == 'visualization'",
+      "streamlit ; extra == 'visualization'",
+      "ipython ; extra == 'visualization'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for langgraph-sdk
+conda_forge = "langgraph-sdk"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langgraph_sdk-0.3.0-py3-none-any.whl" },
+  { filename = "langgraph_sdk-0.2.15-py3-none-any.whl" },
+  { filename = "langgraph_sdk-0.2.14-py3-none-any.whl" },
+  { filename = "langgraph_sdk-0.2.12-py3-none-any.whl" },
+  { filename = "langgraph_sdk-0.2.10-py3-none-any.whl" },
+]

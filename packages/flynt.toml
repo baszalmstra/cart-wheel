@@ -1,0 +1,12 @@
+# Package configuration for flynt
+conda_forge = "flynt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flynt-1.0.6-py3-none-any.whl" },
+  { filename = "flynt-1.0.5-py3-none-any.whl" },
+  { filename = "flynt-1.0.4-py3-none-any.whl" },
+  { filename = "flynt-1.0.3-py3-none-any.whl" },
+  { filename = "flynt-1.0.2-py3-none-any.whl" },
+]

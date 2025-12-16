@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-ecs
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_ecs-1.42.4-py3-none-any.whl" },
+  { filename = "types_boto3_ecs-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_ecs-1.41.1-py3-none-any.whl" },
+  { filename = "types_boto3_ecs-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_ecs-1.40.65-py3-none-any.whl" },
+]

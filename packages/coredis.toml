@@ -1,0 +1,11 @@
+# Package configuration for coredis
+conda_forge = "coredis"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "coredis-5.2.0-py3-none-any.whl" },
+  { filename = "coredis-5.1.0-py3-none-any.whl" },
+  { filename = "coredis-5.0.1-py3-none-any.whl" },
+  { filename = "coredis-5.0.0-py3-none-any.whl" },
+]

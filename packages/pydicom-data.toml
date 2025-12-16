@@ -1,0 +1,7 @@
+# Package configuration for pydicom-data
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydicom_data-1.0.0-py3-none-any.whl" },
+]

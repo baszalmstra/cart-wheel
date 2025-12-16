@@ -1,0 +1,93 @@
+{
+  "typeguard-4.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b5f562281b6bfa1f5492470464730ef001646128b180769880468bd84b68b09e",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib_metadata>=3.6; python_version < \"3.10\"",
+      "typing_extensions>=4.14.0"
+    ]
+  },
+  "typeguard-4.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d8b4a3d280257fd1aa29023f22de64e29334bda0b172ff1040f05682223795e",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib_metadata>=3.6; python_version < \"3.10\"",
+      "typing_extensions>=4.14.0"
+    ]
+  },
+  "typeguard-4.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77a78f11f09777aeae7fa08585f33b5f4ef0e7335af40005b0c422ed398ff48c",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib_metadata>=3.6; python_version < \"3.10\"",
+      "typing_extensions>=4.10.0",
+      "coverage[toml]>=7; extra == \"test\"",
+      "pytest>=7; extra == \"test\"",
+      "mypy>=1.2.0; platform_python_implementation != \"PyPy\" and extra == \"test\"",
+      "packaging; extra == \"doc\"",
+      "Sphinx>=7; extra == \"doc\"",
+      "sphinx-autodoc-typehints>=1.2.0; extra == \"doc\"",
+      "sphinx-rtd-theme>=1.3.0; extra == \"doc\""
+    ]
+  },
+  "typeguard-4.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9324ec07a27ec67fc54a9c063020ca4c0ae6abad5e9f0f9804ca59aee68c6e21",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >=4.10.0",
+      "importlib-metadata >=3.6 ; python_version < \"3.10\"",
+      "packaging ; extra == 'doc'",
+      "Sphinx >=7 ; extra == 'doc'",
+      "sphinx-autodoc-typehints >=1.2.0 ; extra == 'doc'",
+      "sphinx-rtd-theme >=1.3.0 ; extra == 'doc'",
+      "coverage[toml] >=7 ; extra == 'test'",
+      "pytest >=7 ; extra == 'test'",
+      "mypy >=1.2.0 ; (platform_python_implementation != \"PyPy\") and extra == 'test'"
+    ]
+  },
+  "typeguard-4.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ca34c14043f53b2caae7040549ba431770869bcd6287cfa8239db7ecb882b4a",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >=4.10.0",
+      "importlib-metadata >=3.6 ; python_version < \"3.10\"",
+      "packaging ; extra == 'doc'",
+      "Sphinx >=7 ; extra == 'doc'",
+      "sphinx-autodoc-typehints >=1.2.0 ; extra == 'doc'",
+      "sphinx-rtd-theme >=1.3.0 ; extra == 'doc'",
+      "coverage[toml] >=7 ; extra == 'test'",
+      "pytest >=7 ; extra == 'test'",
+      "mypy >=1.2.0 ; (platform_python_implementation != \"PyPy\") and extra == 'test'"
+    ]
+  }
+}

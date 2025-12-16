@@ -1,0 +1,94 @@
+{
+  "ghapi-1.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e4023f475ec966995dd3feeacd3f42f9e296dd23148e6f28d15e80487300e66",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "fastcore"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "fastcore>=1.7.2",
+      "jsonref; extra == \"dev\"",
+      "matplotlib; extra == \"dev\"",
+      "nbclassic; extra == \"dev\"",
+      "nbdev; extra == \"dev\"",
+      "pysymbol_llm; extra == \"dev\"",
+      "llms-txt; extra == \"dev\""
+    ]
+  },
+  "ghapi-1.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e8eff961b02a607cec477148c3fd12e3ba7c35e58d0c934c48d36a652ab25e2",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "fastcore"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "fastcore>=1.7.2",
+      "jsonref; extra == \"dev\"",
+      "matplotlib; extra == \"dev\"",
+      "nbclassic; extra == \"dev\"",
+      "nbdev; extra == \"dev\"",
+      "pysymbol_llm; extra == \"dev\"",
+      "llms-txt; extra == \"dev\""
+    ]
+  },
+  "ghapi-1.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3d96bf18fcaa2cb7131bad9de2948e2a1c2bb226377a25826f6c80950c57854",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "fastcore"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "fastcore >=1.7.2",
+      "jsonref ; extra == 'dev'",
+      "matplotlib ; extra == 'dev'"
+    ]
+  },
+  "ghapi-1.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24a851b7a256861f173437c807701beac3857a84979067ddc25a8555868ce6dc",
+    "dependencies": {
+      "required": [
+        "pip",
+        "packaging",
+        "fastcore"
+      ]
+    },
+    "original_requirements": [
+      "pip",
+      "packaging",
+      "fastcore >=1.5.4",
+      "jsonref ; extra == 'dev'",
+      "matplotlib ; extra == 'dev'"
+    ]
+  },
+  "ghapi-1.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb5c7008a89c270157adbaf5b2fd6951e9d9fc76131b9bec16118a558a6a4c04",
+    "dependencies": {
+      "required": [
+        "pip",
+        "packaging",
+        "fastcore"
+      ]
+    },
+    "original_requirements": [
+      "pip",
+      "packaging",
+      "fastcore (>=1.5.4)",
+      "jsonref ; extra == 'dev'",
+      "matplotlib ; extra == 'dev'"
+    ]
+  }
+}

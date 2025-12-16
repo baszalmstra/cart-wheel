@@ -1,0 +1,7 @@
+# Package configuration for taming-transformers
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "taming_transformers-0.0.1-py3-none-any.whl" },
+]

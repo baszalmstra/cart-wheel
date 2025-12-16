@@ -1,0 +1,42 @@
+{
+  "jupyterlab_pygments-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "841a89020971da1d8693f1a99997aefc5dc424bb1b251fd6322462a1b8842780",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "jupyterlab_pygments-0.2.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2405800db07c9f770863bcf8049a529c3dd4d3e28536638bd7c1c01d2748309f",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "jupyterlab_pygments-0.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "05f8056a18fec9ebef01f705443d81edb16bb03d27371f23c0ae135a85a76029",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "jupyterlab_pygments-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8feffeec1799aaaea5b889add289e0c6dd648ea049be800fde814de46bf99f83",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "jupyterlab_pygments-0.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "abfb880fd1561987efaefcb2d2ac75145d2a5d0139b1876d5be806e32f630008",
+    "dependencies": {
+      "required": [
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "pygments (<3,>=2.4.1)"
+    ]
+  }
+}

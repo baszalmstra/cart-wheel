@@ -1,0 +1,157 @@
+{
+  "dynaconf-3.2.12-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eb2a11865917dff8810c6098cd736b8f4d2f4e39ad914500e2dfbe064b82c499",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "redis; extra == \"redis\"",
+      "hvac; extra == \"vault\"",
+      "ruamel.yaml; extra == \"yaml\"",
+      "toml; extra == \"toml\"",
+      "configobj; extra == \"ini\"",
+      "configobj; extra == \"configobj\"",
+      "redis; extra == \"all\"",
+      "ruamel.yaml; extra == \"all\"",
+      "configobj; extra == \"all\"",
+      "hvac; extra == \"all\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "radon; extra == \"test\"",
+      "flask>=0.12; extra == \"test\"",
+      "django; extra == \"test\"",
+      "python-dotenv; extra == \"test\"",
+      "toml; extra == \"test\"",
+      "redis; extra == \"test\"",
+      "hvac>=1.1.0; extra == \"test\"",
+      "configobj; extra == \"test\""
+    ]
+  },
+  "dynaconf-3.2.11-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "660de90879d4da236f79195692a7d197957224d7acf922bcc6899187dc7b4a27",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "redis; extra == \"all\"",
+      "ruamel.yaml; extra == \"all\"",
+      "configobj; extra == \"all\"",
+      "hvac; extra == \"all\"",
+      "configobj; extra == \"configobj\"",
+      "configobj; extra == \"ini\"",
+      "redis; extra == \"redis\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "radon; extra == \"test\"",
+      "flask>=0.12; extra == \"test\"",
+      "django; extra == \"test\"",
+      "python-dotenv; extra == \"test\"",
+      "toml; extra == \"test\"",
+      "redis; extra == \"test\"",
+      "hvac>=1.1.0; extra == \"test\"",
+      "configobj; extra == \"test\"",
+      "toml; extra == \"toml\"",
+      "hvac; extra == \"vault\"",
+      "ruamel.yaml; extra == \"yaml\""
+    ]
+  },
+  "dynaconf-3.2.10-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7f70a4b8a8861efb88d8267aeb6f246c791dc34ecbb8299c26a19abd59113df6",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "redis; extra == \"all\"",
+      "ruamel.yaml; extra == \"all\"",
+      "configobj; extra == \"all\"",
+      "hvac; extra == \"all\"",
+      "configobj; extra == \"configobj\"",
+      "configobj; extra == \"ini\"",
+      "redis; extra == \"redis\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "radon; extra == \"test\"",
+      "flask>=0.12; extra == \"test\"",
+      "django; extra == \"test\"",
+      "python-dotenv; extra == \"test\"",
+      "toml; extra == \"test\"",
+      "redis; extra == \"test\"",
+      "hvac>=1.1.0; extra == \"test\"",
+      "configobj; extra == \"test\"",
+      "toml; extra == \"toml\"",
+      "hvac; extra == \"vault\"",
+      "ruamel.yaml; extra == \"yaml\""
+    ]
+  },
+  "dynaconf-3.2.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d4bba5d75242acc7bee575e44e190a38e15a7dc02ba5fe7580e4c019ed1acdd6",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "redis; extra == \"all\"",
+      "ruamel.yaml; extra == \"all\"",
+      "configobj; extra == \"all\"",
+      "hvac; extra == \"all\"",
+      "configobj; extra == \"configobj\"",
+      "configobj; extra == \"ini\"",
+      "redis; extra == \"redis\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "radon; extra == \"test\"",
+      "flask>=0.12; extra == \"test\"",
+      "django; extra == \"test\"",
+      "python-dotenv; extra == \"test\"",
+      "toml; extra == \"test\"",
+      "redis; extra == \"test\"",
+      "hvac>=1.1.0; extra == \"test\"",
+      "configobj; extra == \"test\"",
+      "toml; extra == \"toml\"",
+      "hvac; extra == \"vault\"",
+      "ruamel.yaml; extra == \"yaml\""
+    ]
+  },
+  "dynaconf-3.2.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3911c740d717df4576ed55f616c7cbad6e06bc8ef23ffca444b6e2a12fb1c34c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "redis ; extra == 'all'",
+      "ruamel.yaml ; extra == 'all'",
+      "configobj ; extra == 'all'",
+      "hvac ; extra == 'all'",
+      "configobj ; extra == 'configobj'",
+      "configobj ; extra == 'ini'",
+      "redis ; extra == 'redis'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "radon ; extra == 'test'",
+      "flask >=0.12 ; extra == 'test'",
+      "django ; extra == 'test'",
+      "python-dotenv ; extra == 'test'",
+      "toml ; extra == 'test'",
+      "redis ; extra == 'test'",
+      "hvac >=1.1.0 ; extra == 'test'",
+      "configobj ; extra == 'test'",
+      "toml ; extra == 'toml'",
+      "hvac ; extra == 'vault'",
+      "ruamel.yaml ; extra == 'yaml'"
+    ]
+  }
+}

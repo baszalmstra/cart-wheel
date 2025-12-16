@@ -1,0 +1,306 @@
+{
+  "ai2_olmo_eval-0.8.6-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:37.412624+00:00",
+    "conda_file": "ai2-olmo-eval-0.8.6-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchmetrics",
+        "datasets",
+        "cached-path",
+        "requests",
+        "packaging",
+        "importlib-resources",
+        "tokenizers",
+        "pyarrow"
+      ],
+      "optional": {
+        "dev": [
+          "ruff",
+          "mypy",
+          "black",
+          "isort",
+          "pytest",
+          "twine",
+          "setuptools",
+          "wheel",
+          "build",
+          "boto3",
+          "google-cloud-storage"
+        ],
+        "all": [
+          "ai2-olmo-eval[extras=[dev]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "torch",
+      "torchmetrics",
+      "datasets<4,>=3.6.0",
+      "cached-path",
+      "requests",
+      "packaging",
+      "importlib_resources",
+      "tokenizers<0.20,>=0.19.1",
+      "pyarrow<20,>=19.0",
+      "ruff; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "boto3; extra == \"dev\"",
+      "google-cloud-storage; extra == \"dev\"",
+      "ai2-olmo-eval[dev]; extra == \"all\""
+    ]
+  },
+  "ai2_olmo_eval-0.8.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:37.418966+00:00",
+    "conda_file": "ai2-olmo-eval-0.8.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchmetrics",
+        "datasets",
+        "tokenizers",
+        "cached-path",
+        "requests",
+        "packaging",
+        "importlib-resources"
+      ],
+      "optional": {
+        "dev": [
+          "ruff",
+          "mypy",
+          "black",
+          "isort",
+          "pytest",
+          "twine",
+          "setuptools",
+          "wheel",
+          "build",
+          "boto3",
+          "google-cloud-storage"
+        ],
+        "all": [
+          "ai2-olmo-eval[extras=[dev]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "torch",
+      "torchmetrics",
+      "datasets",
+      "tokenizers",
+      "cached-path",
+      "requests",
+      "packaging",
+      "importlib_resources",
+      "ruff; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "boto3; extra == \"dev\"",
+      "google-cloud-storage; extra == \"dev\"",
+      "ai2-olmo-eval[dev]; extra == \"all\""
+    ]
+  },
+  "ai2_olmo_eval-0.8.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:38.255354+00:00",
+    "conda_file": "ai2-olmo-eval-0.8.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "torchmetrics",
+        "datasets",
+        "tokenizers",
+        "scikit-learn",
+        "cached-path",
+        "requests",
+        "packaging",
+        "importlib-resources"
+      ],
+      "optional": {
+        "dev": [
+          "ruff",
+          "mypy",
+          "black",
+          "isort",
+          "pytest",
+          "twine",
+          "setuptools",
+          "wheel",
+          "build",
+          "boto3",
+          "google-cloud-storage"
+        ],
+        "all": [
+          "ai2-olmo-eval[extras=[dev]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy<2.0",
+      "torch",
+      "torchmetrics",
+      "datasets",
+      "tokenizers",
+      "scikit-learn",
+      "cached-path",
+      "requests",
+      "packaging",
+      "importlib_resources",
+      "ruff; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "boto3; extra == \"dev\"",
+      "google-cloud-storage; extra == \"dev\"",
+      "ai2-olmo-eval[dev]; extra == \"all\""
+    ]
+  },
+  "ai2_olmo_eval-0.8.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:38.718734+00:00",
+    "conda_file": "ai2-olmo-eval-0.8.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "torchmetrics",
+        "datasets",
+        "tokenizers",
+        "scikit-learn",
+        "cached-path",
+        "requests",
+        "packaging",
+        "importlib-resources"
+      ],
+      "optional": {
+        "dev": [
+          "ruff",
+          "mypy",
+          "black",
+          "isort",
+          "pytest",
+          "twine",
+          "setuptools",
+          "wheel",
+          "build",
+          "boto3",
+          "google-cloud-storage"
+        ],
+        "all": [
+          "ai2-olmo-eval[extras=[dev]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy<2.0",
+      "torch",
+      "torchmetrics",
+      "datasets",
+      "tokenizers",
+      "scikit-learn",
+      "cached-path",
+      "requests",
+      "packaging",
+      "importlib_resources",
+      "ruff; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "boto3; extra == \"dev\"",
+      "google-cloud-storage; extra == \"dev\"",
+      "ai2-olmo-eval[dev]; extra == \"all\""
+    ]
+  },
+  "ai2_olmo_eval-0.8.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:40.211209+00:00",
+    "conda_file": "ai2-olmo-eval-0.8.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "torchmetrics",
+        "datasets",
+        "tokenizers",
+        "scikit-learn",
+        "cached-path",
+        "requests",
+        "packaging",
+        "importlib-resources"
+      ],
+      "optional": {
+        "dev": [
+          "ruff",
+          "mypy",
+          "black",
+          "isort",
+          "pytest",
+          "twine",
+          "setuptools",
+          "wheel",
+          "build",
+          "boto3",
+          "google-cloud-storage"
+        ],
+        "all": [
+          "ai2-olmo-eval[extras=[dev]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy<2.0",
+      "torch",
+      "torchmetrics",
+      "datasets",
+      "tokenizers",
+      "scikit-learn",
+      "cached-path",
+      "requests",
+      "packaging",
+      "importlib_resources",
+      "ruff; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "boto3; extra == \"dev\"",
+      "google-cloud-storage; extra == \"dev\"",
+      "ai2-olmo-eval[dev]; extra == \"all\""
+    ]
+  }
+}

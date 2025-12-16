@@ -1,0 +1,176 @@
+{
+  "smart_open-7.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "87e695c5148bbb988f15cec00971602765874163be85acb1c9fb8abc012e6599",
+    "dependencies": {
+      "required": [
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "wrapt",
+      "boto3>=1.9.17; extra == \"s3\"",
+      "google-cloud-storage>=2.6.0; extra == \"gcs\"",
+      "google-api-core<2.28; python_version < \"3.10\" and extra == \"gcs\"",
+      "azure-storage-blob; extra == \"azure\"",
+      "azure-common; extra == \"azure\"",
+      "azure-core; extra == \"azure\"",
+      "requests; extra == \"http\"",
+      "requests; extra == \"webhdfs\"",
+      "paramiko; extra == \"ssh\"",
+      "backports.zstd>=1.0.0; python_version < \"3.14\" and extra == \"zst\"",
+      "smart_open[azure,gcs,http,s3,ssh,webhdfs,zst]; extra == \"all\"",
+      "smart_open[all]; extra == \"test\"",
+      "moto[server]; extra == \"test\"",
+      "responses; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pytest_benchmark; extra == \"test\"",
+      "pytest-timeout; extra == \"test\"",
+      "pytest-xdist[psutil]; extra == \"test\"",
+      "awscli; extra == \"test\"",
+      "pyopenssl; extra == \"test\"",
+      "numpy; extra == \"test\"",
+      "flake8; extra == \"test\""
+    ]
+  },
+  "smart_open-7.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "47077ed486a7e66d0bb928c284a8e5775c705092c6ea3e3bc6979d5b561c7bbf",
+    "dependencies": {
+      "required": [
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "wrapt",
+      "boto3>=1.9.17; extra == \"s3\"",
+      "google-cloud-storage>=2.6.0; extra == \"gcs\"",
+      "google-api-core<2.28; python_version < \"3.10\" and extra == \"gcs\"",
+      "azure-storage-blob; extra == \"azure\"",
+      "azure-common; extra == \"azure\"",
+      "azure-core; extra == \"azure\"",
+      "requests; extra == \"http\"",
+      "requests; extra == \"webhdfs\"",
+      "paramiko; extra == \"ssh\"",
+      "backports.zstd>=1.0.0; python_version < \"3.14\" and extra == \"zst\"",
+      "smart_open[azure,gcs,http,s3,ssh,webhdfs,zst]; extra == \"all\"",
+      "smart_open[all]; extra == \"test\"",
+      "moto[server]; extra == \"test\"",
+      "responses; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pytest_benchmark; extra == \"test\"",
+      "pytest-timeout; extra == \"test\"",
+      "pytest-xdist[psutil]; extra == \"test\"",
+      "awscli; extra == \"test\"",
+      "pyopenssl; extra == \"test\"",
+      "numpy; extra == \"test\"",
+      "flake8; extra == \"test\""
+    ]
+  },
+  "smart_open-7.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58380011d58d98975abf73f8d2cd576d9d98115346f57d8380a5f78326c0ac84",
+    "dependencies": {
+      "required": [
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "wrapt",
+      "boto3>=1.9.17; extra == \"s3\"",
+      "google-cloud-storage>=2.6.0; extra == \"gcs\"",
+      "google-api-core<2.28; python_version < \"3.10\" and extra == \"gcs\"",
+      "azure-storage-blob; extra == \"azure\"",
+      "azure-common; extra == \"azure\"",
+      "azure-core; extra == \"azure\"",
+      "requests; extra == \"http\"",
+      "requests; extra == \"webhdfs\"",
+      "paramiko; extra == \"ssh\"",
+      "backports.zstd>=1.0.0; python_version < \"3.14\" and extra == \"zst\"",
+      "smart_open[azure,gcs,http,s3,ssh,webhdfs,zst]; extra == \"all\"",
+      "smart_open[all]; extra == \"test\"",
+      "moto[server]; extra == \"test\"",
+      "responses; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pytest_benchmark; extra == \"test\"",
+      "pytest-timeout; extra == \"test\"",
+      "pytest-xdist[psutil]; extra == \"test\"",
+      "awscli; extra == \"test\"",
+      "pyopenssl; extra == \"test\"",
+      "numpy; extra == \"test\"",
+      "flake8; extra == \"test\""
+    ]
+  },
+  "smart_open-7.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5e53a2604d62979a3940f80472c3d42c508250cec709ad4d25854f597d15036f",
+    "dependencies": {
+      "required": [
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "wrapt",
+      "boto3>=1.9.17; extra == \"s3\"",
+      "google-cloud-storage>=2.6.0; extra == \"gcs\"",
+      "google-api-core<2.28; python_version < \"3.10\" and extra == \"gcs\"",
+      "azure-storage-blob; extra == \"azure\"",
+      "azure-common; extra == \"azure\"",
+      "azure-core; extra == \"azure\"",
+      "requests; extra == \"http\"",
+      "requests; extra == \"webhdfs\"",
+      "paramiko; extra == \"ssh\"",
+      "backports.zstd>=1.0.0; python_version < \"3.14\" and extra == \"zst\"",
+      "smart_open[azure,gcs,http,s3,ssh,webhdfs,zst]; extra == \"all\"",
+      "smart_open[all]; extra == \"test\"",
+      "moto[server]; extra == \"test\"",
+      "responses; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pytest_benchmark; extra == \"test\"",
+      "pytest-timeout; extra == \"test\"",
+      "pytest-xdist[psutil]; extra == \"test\"",
+      "awscli; extra == \"test\"",
+      "pyopenssl; extra == \"test\"",
+      "numpy; extra == \"test\"",
+      "flake8; extra == \"test\""
+    ]
+  },
+  "smart_open-7.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f52cb9bc897c7676dfc6996735332bd2465dfb048c73bfa9dfcdc829f48018cc",
+    "dependencies": {
+      "required": [
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "wrapt",
+      "boto3>=1.9.17; extra == \"s3\"",
+      "google-cloud-storage>=2.6.0; extra == \"gcs\"",
+      "azure-storage-blob; extra == \"azure\"",
+      "azure-common; extra == \"azure\"",
+      "azure-core; extra == \"azure\"",
+      "requests; extra == \"http\"",
+      "requests; extra == \"webhdfs\"",
+      "paramiko; extra == \"ssh\"",
+      "backports.zstd>=1.0.0; python_version < \"3.14\" and extra == \"zst\"",
+      "smart_open[azure,gcs,http,s3,ssh,webhdfs,zst]; extra == \"all\"",
+      "smart_open[all]; extra == \"test\"",
+      "moto[server]; extra == \"test\"",
+      "responses; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pytest_benchmark; extra == \"test\"",
+      "pytest-timeout; extra == \"test\"",
+      "pytest-xdist[psutil]; extra == \"test\"",
+      "awscli; extra == \"test\"",
+      "pyopenssl; extra == \"test\"",
+      "numpy; extra == \"test\"",
+      "flake8; extra == \"test\""
+    ]
+  }
+}

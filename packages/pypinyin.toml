@@ -1,0 +1,12 @@
+# Package configuration for pypinyin
+conda_forge = "pypinyin"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pypinyin-0.55.0-py2.py3-none-any.whl" },
+  { filename = "pypinyin-0.54.0-py2.py3-none-any.whl" },
+  { filename = "pypinyin-0.53.0-py2.py3-none-any.whl" },
+  { filename = "pypinyin-0.52.0-py2.py3-none-any.whl" },
+  { filename = "pypinyin-0.51.0-py2.py3-none-any.whl" },
+]

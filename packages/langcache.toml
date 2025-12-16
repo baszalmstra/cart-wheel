@@ -1,0 +1,11 @@
+# Package configuration for langcache
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langcache-0.11.1-py3-none-any.whl" },
+  { filename = "langcache-0.11.0-py3-none-any.whl" },
+  { filename = "langcache-0.10.1-py3-none-any.whl" },
+  { filename = "langcache-0.10.0-py3-none-any.whl" },
+  { filename = "langcache-0.9.9-py3-none-any.whl" },
+]

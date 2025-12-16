@@ -1,0 +1,133 @@
+{
+  "usort-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ae95f0be86d5a8a6fb7c9821e06f33ef4c235d193543926dc4bc0c276879dfe",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "libcst",
+        "moreorless",
+        "stdlibs",
+        "toml",
+        "trailrunner"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.2.0",
+      "click>=7.0.0",
+      "libcst>=0.3.7",
+      "moreorless>=0.3.0",
+      "stdlibs>=2021.4.1",
+      "toml>=0.10.0",
+      "trailrunner<2.0,>=1.0",
+      "black==25.9.0; extra == 'dev'",
+      "click==8.1.8; extra == 'dev'",
+      "coverage==7.11.0; extra == 'dev'",
+      "flake8==7.3.0; extra == 'dev'",
+      "hatch==1.15.1; extra == 'dev'",
+      "mypy==1.18.2; extra == 'dev'",
+      "pessimist==0.9.3; extra == 'dev'",
+      "ufmt==2.8.0; extra == 'dev'",
+      "volatile==2.1.0; extra == 'dev'",
+      "sphinx-mdinclude==0.6.2; extra == 'docs'",
+      "sphinx==7.4.7; extra == 'docs'"
+    ]
+  },
+  "usort-1.0.8.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c57cdf17b458c79f8a61eb3ce8bf3f93e36d3c2edd602b9b2aa16b6875d3255",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "libcst",
+        "moreorless",
+        "stdlibs",
+        "toml",
+        "trailrunner"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.2.0)",
+      "click (>=7.0.0)",
+      "LibCST (>=0.3.7)",
+      "moreorless (>=0.3.0)",
+      "stdlibs (>=2021.4.1)",
+      "toml (>=0.10.0)",
+      "trailrunner (>=1.0)"
+    ]
+  },
+  "usort-1.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74be3025e15b93a0dc1caf21e764566621058f7bcdb255422021f2825cc761d9",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "libcst",
+        "moreorless",
+        "stdlibs",
+        "toml",
+        "trailrunner"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.2.0)",
+      "click (>=7.0.0)",
+      "LibCST (>=0.3.7)",
+      "moreorless (>=0.3.0)",
+      "stdlibs (>=2021.4.1)",
+      "toml (>=0.10.0)",
+      "trailrunner (>=1.0)"
+    ]
+  },
+  "usort-1.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c21ae061ef7ad9c8b50b41ff58c6ded31e24e4e5059f39490b8a0feb36045ff",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "libcst",
+        "moreorless",
+        "stdlibs",
+        "toml",
+        "trailrunner"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.2.0)",
+      "click (>=7.0.0)",
+      "LibCST (>=0.3.7)",
+      "moreorless (>=0.3.0)",
+      "stdlibs (>=2021.4.1)",
+      "toml (>=0.10.0)",
+      "trailrunner (>=1.0)"
+    ]
+  },
+  "usort-1.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81c69a4a6a750824834b18019a2e325ea38d7ae944cca4d98f15e62a27ca1f27",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "libcst",
+        "moreorless",
+        "stdlibs",
+        "toml",
+        "trailrunner"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.2.0)",
+      "click (>=7.0.0)",
+      "LibCST (>=0.3.7)",
+      "moreorless (>=0.3.0)",
+      "stdlibs (>=2021.4.1)",
+      "toml (>=0.10.0)",
+      "trailrunner (>=1.0)"
+    ]
+  }
+}

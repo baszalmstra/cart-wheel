@@ -1,0 +1,12 @@
+# Package configuration for hypothesis
+conda_forge = "hypothesis"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hypothesis-6.148.7-py3-none-any.whl" },
+  { filename = "hypothesis-6.148.6-py3-none-any.whl" },
+  { filename = "hypothesis-6.148.5-py3-none-any.whl" },
+  { filename = "hypothesis-6.148.4-py3-none-any.whl" },
+  { filename = "hypothesis-6.148.3-py3-none-any.whl" },
+]

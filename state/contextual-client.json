@@ -1,0 +1,118 @@
+{
+  "contextual_client-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5f9587e93b4a9bd48339f7ae0f389484c578287c56c554e0cc88672b72026e26",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'"
+    ]
+  },
+  "contextual_client-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a95a8f8ec143e8a00b41c15d6f3f5d71de65efe68800483523e20b4a90d8e718",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'"
+    ]
+  },
+  "contextual_client-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41b6fba00e7bddd1ca06bbd3ddc7269c400e049f7c82b2bcc5302746c704dda3",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  },
+  "contextual_client-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c379053fd682c645a09f0b48897ae8b0ecabbdfbe933932980e3e0ada845e808",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10"
+    ]
+  },
+  "contextual_client-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b16fdd47f3125807f5af80c9a9ee262d00093ee433a825156122a0e318f446e",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10"
+    ]
+  }
+}

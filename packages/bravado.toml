@@ -1,0 +1,12 @@
+# Package configuration for bravado
+conda_forge = "bravado"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bravado-11.1.0-py2.py3-none-any.whl" },
+  { filename = "bravado-11.0.3-py2.py3-none-any.whl" },
+  { filename = "bravado-11.0.2-py2.py3-none-any.whl" },
+  { filename = "bravado-11.0.1-py2.py3-none-any.whl" },
+  { filename = "bravado-10.6.3-py2.py3-none-any.whl" },
+]

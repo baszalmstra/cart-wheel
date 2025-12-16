@@ -1,0 +1,182 @@
+{
+  "furiosa_serving-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03479c4b1fe79302830f565caaa62a210b7ad872e2743ee7e7b83ebe745e740d",
+    "dependencies": {
+      "required": [
+        "furiosa-server",
+        "pillow",
+        "python-multipart",
+        "httpx",
+        "prometheus-client",
+        "opentelemetry-instrumentation-fastapi",
+        "opentelemetry-instrumentation-logging",
+        "opentelemetry-exporter-otlp",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-server == 0.10.*",
+      "Pillow",
+      "python-multipart",
+      "httpx",
+      "prometheus-client",
+      "opentelemetry-instrumentation-fastapi",
+      "opentelemetry-instrumentation-logging",
+      "opentelemetry-exporter-otlp",
+      "opentelemetry-api",
+      "opentelemetry-sdk",
+      "furiosa-server[openvino] == 0.10.* ; extra == \"openvino\"",
+      "transformers ; extra == \"openvino\"",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "types-Pillow ; extra == \"test\""
+    ]
+  },
+  "furiosa_serving-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d558aef0e4cfa1b42c8799467bf0fd59d08194cd7a5c338d4c53905901f34c96",
+    "dependencies": {
+      "required": [
+        "furiosa-server",
+        "pillow",
+        "python-multipart",
+        "httpx",
+        "prometheus-client",
+        "opentelemetry-instrumentation-fastapi",
+        "opentelemetry-instrumentation-logging",
+        "opentelemetry-exporter-otlp",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-server == 0.10.*",
+      "Pillow",
+      "python-multipart",
+      "httpx",
+      "prometheus-client",
+      "opentelemetry-instrumentation-fastapi",
+      "opentelemetry-instrumentation-logging",
+      "opentelemetry-exporter-otlp",
+      "opentelemetry-api",
+      "opentelemetry-sdk",
+      "furiosa-server[openvino] == 0.10.* ; extra == \"openvino\"",
+      "transformers ; extra == \"openvino\"",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "types-Pillow ; extra == \"test\""
+    ]
+  },
+  "furiosa_serving-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d1278fff5261067240b775ed2e45ffb8dd1c49026fc348b72ded123a1df9670",
+    "dependencies": {
+      "required": [
+        "furiosa-server",
+        "pillow",
+        "python-multipart",
+        "prometheus-client",
+        "opentelemetry-instrumentation-fastapi",
+        "opentelemetry-instrumentation-logging",
+        "opentelemetry-exporter-otlp",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-server == 0.10.*",
+      "Pillow",
+      "python-multipart",
+      "prometheus-client",
+      "opentelemetry-instrumentation-fastapi",
+      "opentelemetry-instrumentation-logging",
+      "opentelemetry-exporter-otlp",
+      "opentelemetry-api",
+      "opentelemetry-sdk",
+      "furiosa-server[openvino] == 0.10.* ; extra == \"openvino\"",
+      "transformers ; extra == \"openvino\"",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "types-Pillow ; extra == \"test\""
+    ]
+  },
+  "furiosa_serving-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a22e269db51629549889211f500d02bb271366281ee8ba9fa5d004c7bb74cb7",
+    "dependencies": {
+      "required": [
+        "furiosa-server",
+        "furiosa-registry",
+        "pillow",
+        "python-multipart",
+        "prometheus-client",
+        "opentelemetry-instrumentation-fastapi",
+        "opentelemetry-instrumentation-logging",
+        "opentelemetry-exporter-otlp",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-server == 0.9.*",
+      "furiosa-registry == 0.9.*",
+      "Pillow",
+      "python-multipart",
+      "prometheus-client",
+      "opentelemetry-instrumentation-fastapi",
+      "opentelemetry-instrumentation-logging",
+      "opentelemetry-exporter-otlp",
+      "opentelemetry-api",
+      "opentelemetry-sdk",
+      "furiosa-server[openvino] == 0.9.* ; extra == \"openvino\"",
+      "transformers ; extra == \"openvino\"",
+      "pytest ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\""
+    ]
+  },
+  "furiosa_serving-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "622aad6a01cae02f92c3534c69b8510a4dbbb53a2bf4aa47a7bf67c6cd7ff498",
+    "dependencies": {
+      "required": [
+        "furiosa-server",
+        "furiosa-registry",
+        "pillow",
+        "python-multipart",
+        "prometheus-client",
+        "opentelemetry-instrumentation-fastapi",
+        "opentelemetry-instrumentation-logging",
+        "opentelemetry-exporter-otlp",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-server == 0.9.*",
+      "furiosa-registry == 0.9.*",
+      "Pillow",
+      "python-multipart",
+      "prometheus-client",
+      "opentelemetry-instrumentation-fastapi",
+      "opentelemetry-instrumentation-logging",
+      "opentelemetry-exporter-otlp",
+      "opentelemetry-api",
+      "opentelemetry-sdk",
+      "furiosa-server[openvino] == 0.9.* ; extra == \"openvino\"",
+      "transformers ; extra == \"openvino\"",
+      "pytest ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\""
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "llama_index_vector_stores_chroma-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f958553e421068681f5bc5581dfa63c768922f26280717dfeaf86677c6d583ee",
+    "dependencies": {
+      "required": [
+        "chromadb",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "chromadb>=0.5.17",
+      "llama-index-core<0.15,>=0.13.0"
+    ]
+  },
+  "llama_index_vector_stores_chroma-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e2122995484fa48e65f54d599bd93e2cc02e375df40d70c784a243472bbb9b3",
+    "dependencies": {
+      "required": [
+        "chromadb",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "chromadb>=0.5.17",
+      "llama-index-core<0.14,>=0.13.0"
+    ]
+  },
+  "llama_index_vector_stores_chroma-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "056463c228f5e23c6d5c825878729119ed9db725f1b6922456032bf2b05f1377",
+    "dependencies": {
+      "required": [
+        "chromadb",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "chromadb>=0.5.17",
+      "llama-index-core<0.14,>=0.13.0"
+    ]
+  },
+  "llama_index_vector_stores_chroma-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "712c8042f79c55a5bcf81dc58ed46aa142c832caae1dbf7f88ed13b55ffc3dcb",
+    "dependencies": {
+      "required": [
+        "chromadb",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "chromadb>=0.5.17",
+      "llama-index-core<0.14,>=0.13.0"
+    ]
+  },
+  "llama_index_vector_stores_chroma-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "579272ac24a03bcf66d42a565d1c3803e3a0eeb0f1ec024e09522605472564b7",
+    "dependencies": {
+      "required": [
+        "chromadb",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "chromadb>=0.5.17",
+      "llama-index-core<0.13,>=0.12.0"
+    ]
+  }
+}

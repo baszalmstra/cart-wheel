@@ -1,0 +1,80 @@
+{
+  "furiosa_tools-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51eb93607dbb3cbb54b1cee62337013a581d06220e47f4006b3099324db82336",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "pyyaml~=6.0.0",
+      "mnist ; extra == \"test\"",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\""
+    ]
+  },
+  "furiosa_tools-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d66555f5a058ac45cd6db4064fc3044411a6630a0d36b56b69e65dbb052462b5",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "pyyaml~=6.0.0",
+      "mnist ; extra == \"test\"",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\""
+    ]
+  },
+  "furiosa_tools-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6e8a0935d4da979cd66dd350a2bdda82eaa5c74340289a69c3b0a99448ad23e3",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "pyyaml~=6.0.0",
+      "mnist ; extra == \"test\"",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\""
+    ]
+  },
+  "furiosa_tools-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a67812982913468835d52f6e141c82d845c90cf704a7a71c26306a3dc749f551",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml~=6.0.0"
+    ]
+  },
+  "furiosa_tools-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d9bfaef64b57e7d0c8a17697f57bbe6bcb0f08b77ea445d88dbeec9e06fc071a",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml~=6.0.0"
+    ]
+  }
+}

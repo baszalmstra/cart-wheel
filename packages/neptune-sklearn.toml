@@ -1,0 +1,12 @@
+# Package configuration for neptune-sklearn
+conda_forge = "neptune-sklearn"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neptune_sklearn-2.1.4-py3-none-any.whl" },
+  { filename = "neptune_sklearn-2.1.3-py3-none-any.whl" },
+  { filename = "neptune_sklearn-2.1.2-py3-none-any.whl" },
+  { filename = "neptune_sklearn-2.1.1-py3-none-any.whl" },
+  { filename = "neptune_sklearn-2.1.0-py3-none-any.whl" },
+]

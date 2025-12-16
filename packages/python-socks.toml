@@ -1,0 +1,12 @@
+# Package configuration for python-socks
+conda_forge = "python-socks"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_socks-2.8.0-py3-none-any.whl" },
+  { filename = "python_socks-2.7.3-py3-none-any.whl" },
+  { filename = "python_socks-2.7.2-py3-none-any.whl" },
+  { filename = "python_socks-2.7.1-py3-none-any.whl" },
+  { filename = "python_socks-2.7.0-py3-none-any.whl" },
+]

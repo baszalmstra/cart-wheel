@@ -1,0 +1,11 @@
+# Package configuration for httpbin
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "httpbin-0.10.2-py2.py3-none-any.whl" },
+  { filename = "httpbin-0.10.1-py2.py3-none-any.whl" },
+  { filename = "httpbin-0.10.0-py2.py3-none-any.whl" },
+  { filename = "httpbin-0.7.0-py2.py3-none-any.whl" },
+  { filename = "httpbin-0.6.2-py2.py3-none-any.whl" },
+]

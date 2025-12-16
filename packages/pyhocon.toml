@@ -1,0 +1,9 @@
+# Package configuration for pyhocon
+conda_forge = "pyhocon"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyhocon-0.3.61-py3-none-any.whl" },
+  { filename = "pyhocon-0.3.54-py3-none-any.whl" },
+]

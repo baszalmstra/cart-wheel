@@ -1,0 +1,12 @@
+# Package configuration for praatio
+conda_forge = "praatio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "praatio-6.2.0-py3-none-any.whl" },
+  { filename = "praatio-6.1.0-py3-none-any.whl" },
+  { filename = "praatio-6.0.1-py3-none-any.whl" },
+  { filename = "praatio-6.0.0-py3-none-any.whl" },
+  { filename = "praatio-5.1.1-py3-none-any.whl" },
+]

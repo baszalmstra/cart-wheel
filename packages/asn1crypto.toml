@@ -1,0 +1,12 @@
+# Package configuration for asn1crypto
+conda_forge = "asn1crypto"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "asn1crypto-1.5.1-py2.py3-none-any.whl" },
+  { filename = "asn1crypto-1.5.0-py2.py3-none-any.whl" },
+  { filename = "asn1crypto-1.4.0-py2.py3-none-any.whl" },
+  { filename = "asn1crypto-1.3.0-py2.py3-none-any.whl" },
+  { filename = "asn1crypto-1.2.0-py2.py3-none-any.whl" },
+]

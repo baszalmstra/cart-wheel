@@ -1,0 +1,12 @@
+# Package configuration for pyflakes
+conda_forge = "pyflakes"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyflakes-3.4.0-py2.py3-none-any.whl" },
+  { filename = "pyflakes-3.3.2-py2.py3-none-any.whl" },
+  { filename = "pyflakes-3.3.1-py2.py3-none-any.whl" },
+  { filename = "pyflakes-3.3.0-py2.py3-none-any.whl" },
+  { filename = "pyflakes-3.2.0-py2.py3-none-any.whl" },
+]

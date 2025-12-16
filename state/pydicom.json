@@ -1,0 +1,128 @@
+{
+  "pydicom-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db32f78b2641bd7972096b8289111ddab01fb221610de8d7afa835eb938adb41",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "numpy ; extra == \"basic\"",
+      "types-pydicom ; extra == \"basic\"",
+      "black==24.8.0 ; extra == \"dev\"",
+      "mypy==1.11.2 ; extra == \"dev\"",
+      "pydicom-data ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "pytest-cov ; extra == \"dev\"",
+      "ruff==0.6.3 ; extra == \"dev\"",
+      "types-requests ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "numpy ; extra == \"docs\"",
+      "numpydoc ; extra == \"docs\"",
+      "matplotlib ; extra == \"docs\"",
+      "pillow ; extra == \"docs\"",
+      "sphinx ; extra == \"docs\"",
+      "sphinx_rtd_theme ; extra == \"docs\"",
+      "sphinx-gallery ; extra == \"docs\"",
+      "sphinxcontrib-napoleon ; extra == \"docs\"",
+      "sphinxcontrib-jquery ; extra == \"docs\"",
+      "sphinx-copybutton ; extra == \"docs\"",
+      "pylibjpeg[libjpeg] ; extra == \"gpl-license\"",
+      "numpy ; extra == \"pixeldata\"",
+      "pillow ; extra == \"pixeldata\"",
+      "pyjpegls ; extra == \"pixeldata\"",
+      "pylibjpeg[openjpeg] ; extra == \"pixeldata\"",
+      "pylibjpeg[rle] ; extra == \"pixeldata\"",
+      "python-gdcm ; extra == \"pixeldata\""
+    ]
+  },
+  "pydicom-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b1435dc7427a3d172685a9406ff1a75eb2d7651d236d0d99abd4953a1100922",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "numpy ; extra == \"basic\"",
+      "types-pydicom ; extra == \"basic\"",
+      "black==24.8.0 ; extra == \"dev\"",
+      "mypy==1.11.2 ; extra == \"dev\"",
+      "pydicom-data ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "pytest-cov ; extra == \"dev\"",
+      "ruff==0.6.3 ; extra == \"dev\"",
+      "types-requests ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "numpy ; extra == \"docs\"",
+      "numpydoc ; extra == \"docs\"",
+      "matplotlib ; extra == \"docs\"",
+      "pillow ; extra == \"docs\"",
+      "sphinx ; extra == \"docs\"",
+      "sphinx_rtd_theme ; extra == \"docs\"",
+      "sphinx-gallery ; extra == \"docs\"",
+      "sphinxcontrib-napoleon ; extra == \"docs\"",
+      "sphinxcontrib-jquery ; extra == \"docs\"",
+      "sphinx-copybutton ; extra == \"docs\"",
+      "pylibjpeg[libjpeg] ; extra == \"gpl-license\"",
+      "numpy ; extra == \"pixeldata\"",
+      "pillow ; extra == \"pixeldata\"",
+      "pyjpegls ; extra == \"pixeldata\"",
+      "pylibjpeg[openjpeg] ; extra == \"pixeldata\"",
+      "pylibjpeg[rle] ; extra == \"pixeldata\"",
+      "python-gdcm ; extra == \"pixeldata\""
+    ]
+  },
+  "pydicom-2.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9f8e19b78525be57aa6384484298833e4d06ac1d6226c79459131ddb0bd7c42",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "numpy ; extra == \"docs\"",
+      "numpydoc ; extra == \"docs\"",
+      "matplotlib ; extra == \"docs\"",
+      "pillow ; extra == \"docs\"",
+      "sphinx ; extra == \"docs\"",
+      "sphinx_rtd_theme ; extra == \"docs\"",
+      "sphinx-gallery ; extra == \"docs\"",
+      "sphinxcontrib-napoleon ; extra == \"docs\"",
+      "sphinx-copybutton ; extra == \"docs\""
+    ]
+  },
+  "pydicom-2.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "797e84f7b22e5f8bce403da505935b0787dca33550891f06495d14b3f6c70504",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "numpy ; extra == \"docs\"",
+      "numpydoc ; extra == \"docs\"",
+      "matplotlib ; extra == \"docs\"",
+      "pillow ; extra == \"docs\"",
+      "sphinx ; extra == \"docs\"",
+      "sphinx_rtd_theme ; extra == \"docs\"",
+      "sphinx-gallery ; extra == \"docs\"",
+      "sphinxcontrib-napoleon ; extra == \"docs\"",
+      "sphinx-copybutton ; extra == \"docs\""
+    ]
+  },
+  "pydicom-2.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2801c234a2f99ac97c6c0b5e50a908ed16d2fef905a2fda49fecd311cd88802",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "numpy ; extra == \"docs\"",
+      "numpydoc ; extra == \"docs\"",
+      "matplotlib ; extra == \"docs\"",
+      "pillow ; extra == \"docs\"",
+      "sphinx ; extra == \"docs\"",
+      "sphinx_rtd_theme ; extra == \"docs\"",
+      "sphinx-gallery ; extra == \"docs\"",
+      "sphinxcontrib-napoleon ; extra == \"docs\"",
+      "sphinx-copybutton ; extra == \"docs\""
+    ]
+  }
+}

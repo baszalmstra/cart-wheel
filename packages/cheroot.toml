@@ -1,0 +1,12 @@
+# Package configuration for cheroot
+conda_forge = "cheroot"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cheroot-11.1.2-py3-none-any.whl" },
+  { filename = "cheroot-11.1.1-py3-none-any.whl" },
+  { filename = "cheroot-11.0.0-py3-none-any.whl" },
+  { filename = "cheroot-10.0.1-py3-none-any.whl" },
+  { filename = "cheroot-10.0.0-py3-none-any.whl" },
+]

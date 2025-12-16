@@ -1,0 +1,100 @@
+{
+  "pytest_cases-3.9.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60507716650c5ed1ce4a36a3c137f1c3ec58f4fef1ee8678404be074612fcd21",
+    "dependencies": {
+      "required": [
+        "decopatch",
+        "makefun",
+        "packaging",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "decopatch",
+      "makefun>=1.15.1",
+      "packaging",
+      "pytest"
+    ]
+  },
+  "pytest_cases-3.8.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "564c722492ea7e7ec3ac433fd14070180e65866f49fa35bfe938c0d5d9afba67",
+    "dependencies": {
+      "required": [
+        "decopatch",
+        "makefun",
+        "packaging",
+        "functools32",
+        "funcsigs"
+      ]
+    },
+    "original_requirements": [
+      "decopatch",
+      "makefun>=1.15.1",
+      "packaging",
+      "functools32; python_version < \"3.2\"",
+      "funcsigs; python_version < \"3.3\""
+    ]
+  },
+  "pytest_cases-3.8.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c8e3727f6494e65b47321adbd94c767277c7b5de1bd40dd518a13f7443b1fff",
+    "dependencies": {
+      "required": [
+        "decopatch",
+        "makefun",
+        "packaging",
+        "functools32",
+        "funcsigs"
+      ]
+    },
+    "original_requirements": [
+      "decopatch",
+      "makefun >=1.15.1",
+      "packaging",
+      "functools32 ; python_version < \"3.2\"",
+      "funcsigs ; python_version < \"3.3\""
+    ]
+  },
+  "pytest_cases-3.8.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d03575a375f953f35ae6840ee35fd1df9f7b6c54194845f81a0fe3d726a395dc",
+    "dependencies": {
+      "required": [
+        "decopatch",
+        "makefun",
+        "packaging",
+        "functools32",
+        "funcsigs"
+      ]
+    },
+    "original_requirements": [
+      "decopatch",
+      "makefun >=1.15.1",
+      "packaging",
+      "functools32 ; python_version < \"3.2\"",
+      "funcsigs ; python_version < \"3.3\""
+    ]
+  },
+  "pytest_cases-3.8.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "04f728c9b93c2983fe4e0daa262a6f05d17549203e8823a3f3b96f10f38b5bab",
+    "dependencies": {
+      "required": [
+        "decopatch",
+        "makefun",
+        "packaging",
+        "functools32",
+        "funcsigs"
+      ]
+    },
+    "original_requirements": [
+      "decopatch",
+      "makefun >=1.15.1",
+      "packaging",
+      "functools32 ; python_version < \"3.2\"",
+      "funcsigs ; python_version < \"3.3\""
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "rsconnect_python-1.28.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "16e6831ed88dca6836665dd84a2b733e7dff4be622f00c2be0df1e16b9e8360a",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "pip",
+        "semver",
+        "pyjwt",
+        "click",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.8.0",
+      "pip>=10.0.0",
+      "semver<4.0.0,>=2.0.0",
+      "pyjwt>=2.4.0",
+      "click>=8.0.0",
+      "toml>=0.10; python_version < \"3.11\"",
+      "mkdocs-material; extra == \"docs\"",
+      "mkdocs-click; extra == \"docs\"",
+      "pymdown-extensions; extra == \"docs\"",
+      "mkdocs-macros-plugin; extra == \"docs\"",
+      "fastmcp==2.12.4; python_version >= \"3.10\" and extra == \"mcp\"",
+      "snowflake-cli; extra == \"snowflake\"",
+      "black==24.3.0; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "flake8-pyproject; extra == \"test\"",
+      "flake8; extra == \"test\"",
+      "httpretty; extra == \"test\"",
+      "ipykernel; extra == \"test\"",
+      "nbconvert; extra == \"test\"",
+      "pyright; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "setuptools>=61; extra == \"test\"",
+      "setuptools-scm[toml]>=3.4; extra == \"test\"",
+      "twine; extra == \"test\"",
+      "types-Flask; extra == \"test\"",
+      "fastmcp==2.12.4; python_version >= \"3.10\" and extra == \"test\""
+    ]
+  },
+  "rsconnect_python-1.28.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60ad0340ab773b1b1c010d868b488764e249fe2cbed68fa8d65dbc4ced191c40",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "pip",
+        "semver",
+        "pyjwt",
+        "click",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.8.0",
+      "pip>=10.0.0",
+      "semver<4.0.0,>=2.0.0",
+      "pyjwt>=2.4.0",
+      "click>=8.0.0",
+      "toml>=0.10; python_version < \"3.11\"",
+      "mkdocs-material; extra == \"docs\"",
+      "mkdocs-click; extra == \"docs\"",
+      "pymdown-extensions; extra == \"docs\"",
+      "mkdocs-macros-plugin; extra == \"docs\"",
+      "fastmcp==2.12.4; python_version >= \"3.10\" and extra == \"mcp\"",
+      "snowflake-cli; extra == \"snowflake\"",
+      "black==24.3.0; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "flake8-pyproject; extra == \"test\"",
+      "flake8; extra == \"test\"",
+      "httpretty; extra == \"test\"",
+      "ipykernel; extra == \"test\"",
+      "nbconvert; extra == \"test\"",
+      "pyright; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "setuptools>=61; extra == \"test\"",
+      "setuptools-scm[toml]>=3.4; extra == \"test\"",
+      "twine; extra == \"test\"",
+      "types-Flask; extra == \"test\"",
+      "fastmcp==2.12.4; python_version >= \"3.10\" and extra == \"test\""
+    ]
+  },
+  "rsconnect_python-1.28.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6cb87678a862040cd98e6ea9dbfd42d024fcbd112566224658ee06e9ac387308",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "pip",
+        "semver",
+        "pyjwt",
+        "click",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.8.0",
+      "pip>=10.0.0",
+      "semver<4.0.0,>=2.0.0",
+      "pyjwt>=2.4.0",
+      "click>=8.0.0",
+      "toml>=0.10; python_version < \"3.11\"",
+      "mkdocs-material; extra == \"docs\"",
+      "mkdocs-click; extra == \"docs\"",
+      "pymdown-extensions; extra == \"docs\"",
+      "mkdocs-macros-plugin; extra == \"docs\"",
+      "fastmcp==2.12.4; python_version >= \"3.10\" and extra == \"mcp\"",
+      "snowflake-cli; extra == \"snowflake\"",
+      "black==24.3.0; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "flake8-pyproject; extra == \"test\"",
+      "flake8; extra == \"test\"",
+      "httpretty; extra == \"test\"",
+      "ipykernel; extra == \"test\"",
+      "nbconvert; extra == \"test\"",
+      "pyright; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "setuptools>=61; extra == \"test\"",
+      "setuptools-scm[toml]>=3.4; extra == \"test\"",
+      "twine; extra == \"test\"",
+      "types-Flask; extra == \"test\"",
+      "fastmcp==2.12.4; python_version >= \"3.10\" and extra == \"test\""
+    ]
+  },
+  "rsconnect_python-1.27.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "00ef9de805edce7586dfd6ef700d2e7b7c474e464fdd9f965fee4c0e4d7d5082",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "pip",
+        "semver",
+        "pyjwt",
+        "click",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.8.0",
+      "pip>=10.0.0",
+      "semver<4.0.0,>=2.0.0",
+      "pyjwt>=2.4.0",
+      "click>=8.0.0",
+      "toml>=0.10; python_version < \"3.11\"",
+      "mkdocs-material; extra == \"docs\"",
+      "mkdocs-click; extra == \"docs\"",
+      "pymdown-extensions; extra == \"docs\"",
+      "mkdocs-macros-plugin; extra == \"docs\"",
+      "snowflake-cli; extra == \"snowflake\"",
+      "black==24.3.0; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "flake8-pyproject; extra == \"test\"",
+      "flake8; extra == \"test\"",
+      "httpretty; extra == \"test\"",
+      "ipykernel; extra == \"test\"",
+      "nbconvert; extra == \"test\"",
+      "pyright; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "setuptools>=61; extra == \"test\"",
+      "setuptools-scm[toml]>=3.4; extra == \"test\"",
+      "twine; extra == \"test\"",
+      "types-Flask; extra == \"test\""
+    ]
+  },
+  "rsconnect_python-1.27.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2454638443422efb1db6ba5ecd6b8c25b3a7be7122dce8ded68368a2f7e610f7",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "pip",
+        "semver",
+        "pyjwt",
+        "click",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.8.0",
+      "pip>=10.0.0",
+      "semver<4.0.0,>=2.0.0",
+      "pyjwt>=2.4.0",
+      "click>=8.0.0",
+      "toml>=0.10; python_version < \"3.11\"",
+      "mkdocs-material; extra == \"docs\"",
+      "mkdocs-click; extra == \"docs\"",
+      "pymdown-extensions; extra == \"docs\"",
+      "mkdocs-macros-plugin; extra == \"docs\"",
+      "snowflake-cli; extra == \"snowflake\"",
+      "black==24.3.0; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "flake8-pyproject; extra == \"test\"",
+      "flake8; extra == \"test\"",
+      "httpretty; extra == \"test\"",
+      "ipykernel; extra == \"test\"",
+      "nbconvert; extra == \"test\"",
+      "pyright; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "setuptools>=61; extra == \"test\"",
+      "setuptools-scm[toml]>=3.4; extra == \"test\"",
+      "twine; extra == \"test\"",
+      "types-Flask; extra == \"test\""
+    ]
+  }
+}

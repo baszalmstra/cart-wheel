@@ -1,0 +1,60 @@
+{
+  "ml_collections-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23b6fa4772aac1ae745a96044b925a5746145a70734f087eaca6626e92c05cbc",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "PyYAML",
+      "pytest ; extra == \"dev\"",
+      "pytest-xdist ; extra == \"dev\"",
+      "pylint>=2.6.0 ; extra == \"dev\"",
+      "pyink ; extra == \"dev\""
+    ]
+  },
+  "ml_collections-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17dbca4d83aba64f56b4b96e59637026d99d9e922569118b8a7f2e0ca6d203a6",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "six",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "six",
+      "PyYAML",
+      "pytest ; extra == \"dev\"",
+      "pytest-xdist ; extra == \"dev\"",
+      "pylint>=2.6.0 ; extra == \"dev\"",
+      "pyink ; extra == \"dev\""
+    ]
+  },
+  "ml_collections-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0f30752d52fae1c09c10a406fc5d405716da2b60fa5f13dd15498615cb44d3c9",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "pyyaml",
+        "six",
+        "contextlib2",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "PyYAML",
+      "six",
+      "contextlib2",
+      "typing ; python_version < \"3.5\""
+    ]
+  }
+}

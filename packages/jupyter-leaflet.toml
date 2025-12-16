@@ -1,0 +1,11 @@
+# Package configuration for jupyter-leaflet
+conda_forge = "jupyter_leaflet"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyter_leaflet-0.20.0-py3-none-any.whl" },
+  { filename = "jupyter_leaflet-0.19.2-py3-none-any.whl" },
+  { filename = "jupyter_leaflet-0.19.1-py3-none-any.whl" },
+  { filename = "jupyter_leaflet-0.19.0-py3-none-any.whl" },
+]

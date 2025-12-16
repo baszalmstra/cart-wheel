@@ -1,0 +1,30 @@
+{
+  "audioread-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b30d1df6c5d3de5dcef0fb0e256f6ea17bdcf5f979408df0297d8a408e2971b4",
+    "dependencies": {
+      "required": [
+        "standard-aifc",
+        "standard-sunau"
+      ]
+    },
+    "original_requirements": [
+      "pygobject (>=3.54.2,<4.0.0) ; extra == \"gi\"",
+      "pymad[mad] (>=0.11.3,<0.12.0) ; extra == \"mad\"",
+      "pytest (>=8.4.2) ; extra == \"test\"",
+      "pytest-cov (>=7.0.0) ; extra == \"test\"",
+      "standard-aifc ; python_version >= \"3.13\"",
+      "standard-sunau ; python_version >= \"3.13\""
+    ]
+  },
+  "audioread-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4cdce70b8adc0da0a3c9e0d85fb10b3ace30fbdf8d1670fd443929b61d117c33",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "tox ; extra == \"test\""
+    ]
+  }
+}

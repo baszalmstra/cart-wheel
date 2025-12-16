@@ -1,0 +1,12 @@
+# Package configuration for jupyterlab-pygments
+conda_forge = "jupyterlab_pygments"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyterlab_pygments-0.3.0-py3-none-any.whl" },
+  { filename = "jupyterlab_pygments-0.2.2-py2.py3-none-any.whl" },
+  { filename = "jupyterlab_pygments-0.2.1-py2.py3-none-any.whl" },
+  { filename = "jupyterlab_pygments-0.2.0-py2.py3-none-any.whl" },
+  { filename = "jupyterlab_pygments-0.1.2-py2.py3-none-any.whl" },
+]

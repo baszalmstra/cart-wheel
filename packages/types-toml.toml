@@ -1,0 +1,12 @@
+# Package configuration for types-toml
+conda_forge = "types-toml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_toml-0.10.8.20240310-py3-none-any.whl" },
+  { filename = "types_toml-0.10.8.7-py3-none-any.whl" },
+  { filename = "types_toml-0.10.8.6-py3-none-any.whl" },
+  { filename = "types_toml-0.10.8.5-py3-none-any.whl" },
+  { filename = "types_toml-0.10.8.4-py3-none-any.whl" },
+]

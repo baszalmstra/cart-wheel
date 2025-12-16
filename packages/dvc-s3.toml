@@ -1,0 +1,12 @@
+# Package configuration for dvc-s3
+conda_forge = "dvc-s3"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dvc_s3-3.2.2-py3-none-any.whl" },
+  { filename = "dvc_s3-3.2.1-py3-none-any.whl" },
+  { filename = "dvc_s3-3.2.0-py3-none-any.whl" },
+  { filename = "dvc_s3-3.1.0-py3-none-any.whl" },
+  { filename = "dvc_s3-3.0.1-py3-none-any.whl" },
+]

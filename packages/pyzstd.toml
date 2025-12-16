@@ -1,0 +1,9 @@
+# Package configuration for pyzstd
+conda_forge = "pyzstd"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyzstd-0.19.1-py3-none-any.whl" },
+  { filename = "pyzstd-0.19.0-py3-none-any.whl" },
+]

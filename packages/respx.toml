@@ -1,0 +1,12 @@
+# Package configuration for respx
+conda_forge = "respx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "respx-0.22.0-py2.py3-none-any.whl" },
+  { filename = "respx-0.21.1-py2.py3-none-any.whl" },
+  { filename = "respx-0.21.0-py2.py3-none-any.whl" },
+  { filename = "respx-0.20.2-py2.py3-none-any.whl" },
+  { filename = "respx-0.20.1-py2.py3-none-any.whl" },
+]

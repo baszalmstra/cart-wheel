@@ -1,0 +1,12 @@
+# Package configuration for pyngrok
+conda_forge = "pyngrok"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyngrok-7.5.0-py3-none-any.whl" },
+  { filename = "pyngrok-7.4.1-py3-none-any.whl" },
+  { filename = "pyngrok-7.4.0-py3-none-any.whl" },
+  { filename = "pyngrok-7.3.0-py3-none-any.whl" },
+  { filename = "pyngrok-7.2.12-py3-none-any.whl" },
+]

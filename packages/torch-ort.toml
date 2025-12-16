@@ -1,0 +1,11 @@
+# Package configuration for torch-ort
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torch_ort-1.19.2-py3-none-any.whl" },
+  { filename = "torch_ort-1.19.1-py3-none-any.whl" },
+  { filename = "torch_ort-1.18.0-py3-none-any.whl" },
+  { filename = "torch_ort-1.17.0-py3-none-any.whl" },
+  { filename = "torch_ort-1.16.0-py3-none-any.whl" },
+]

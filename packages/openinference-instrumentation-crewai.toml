@@ -1,0 +1,11 @@
+# Package configuration for openinference-instrumentation-crewai
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openinference_instrumentation_crewai-0.1.17-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_crewai-0.1.16-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_crewai-0.1.15-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_crewai-0.1.14-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_crewai-0.1.13-py3-none-any.whl" },
+]

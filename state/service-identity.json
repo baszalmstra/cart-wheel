@@ -1,0 +1,161 @@
+{
+  "service_identity-24.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b047fbd8a84fd0bb0d55ebce4031e400562b9196e1e0d3e0fe2b8a59f6d4a85",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "cryptography",
+        "pyasn1",
+        "pyasn1-modules"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=19.1.0",
+      "cryptography",
+      "pyasn1",
+      "pyasn1-modules",
+      "coverage[toml]>=5.0.2; extra == 'dev'",
+      "idna; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "pyopenssl; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "types-pyopenssl; extra == 'dev'",
+      "furo; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pyopenssl; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-notfound-page; extra == 'docs'",
+      "idna; extra == 'idna'",
+      "idna; extra == 'mypy'",
+      "mypy; extra == 'mypy'",
+      "types-pyopenssl; extra == 'mypy'",
+      "coverage[toml]>=5.0.2; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "service_identity-24.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a28caf8130c8a5c1c7a6f5293faaf239bbfb7751e4862436920ee6f2616f568a",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "cryptography",
+        "pyasn1",
+        "pyasn1-modules"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=19.1.0",
+      "cryptography",
+      "pyasn1",
+      "pyasn1-modules",
+      "pyopenssl; extra == 'dev'",
+      "service-identity[idna,mypy,tests]; extra == 'dev'",
+      "furo; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pyopenssl; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-notfound-page; extra == 'docs'",
+      "idna; extra == 'idna'",
+      "idna; extra == 'mypy'",
+      "mypy; extra == 'mypy'",
+      "types-pyopenssl; extra == 'mypy'",
+      "coverage[toml]>=5.0.2; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "service_identity-23.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "87415a691d52fcad954a500cb81f424d0273f8e7e3ee7d766128f4575080f383",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "cryptography",
+        "pyasn1",
+        "pyasn1-modules"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=19.1.0",
+      "cryptography",
+      "pyasn1",
+      "pyasn1-modules",
+      "pyopenssl; extra == 'dev'",
+      "service-identity[docs,idna,mypy,tests]; extra == 'dev'",
+      "furo; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pyopenssl; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-notfound-page; extra == 'docs'",
+      "idna; extra == 'idna'",
+      "idna; extra == 'mypy'",
+      "mypy; extra == 'mypy'",
+      "types-pyopenssl; extra == 'mypy'",
+      "coverage[toml]>=5.0.2; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "service_identity-21.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0b0caac3d40627c3c04d7a51b6e06721857a0e10a8775f2d1d7e72901b3a7db",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "pyasn1-modules",
+        "pyasn1",
+        "cryptography",
+        "six",
+        "ipaddress"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=19.1.0)",
+      "pyasn1-modules",
+      "pyasn1",
+      "cryptography",
+      "six",
+      "ipaddress ; python_version < \"3.3\"",
+      "coverage[toml] (>=5.0.2) ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "furo ; extra == 'dev'",
+      "idna ; extra == 'dev'",
+      "pyOpenSSL ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "idna ; extra == 'idna'",
+      "coverage[toml] (>=5.0.2) ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "service_identity-18.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "001c0707759cb3de7e49c078a7c0c9cd12594161d3bf06b9c254fdcb1a60dc36",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "pyasn1-modules",
+        "pyasn1",
+        "cryptography",
+        "ipaddress"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=16.0.0)",
+      "pyasn1-modules",
+      "pyasn1",
+      "cryptography",
+      "ipaddress ; python_version < \"3.3\"",
+      "coverage (>=4.2.0) ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "idna ; extra == 'dev'",
+      "pyOpenSSL ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "idna ; extra == 'idna'",
+      "coverage (>=4.2.0) ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "influxdb-5.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "00d86b18a968d011b2eee39ec3b2ae941b1dcf7086bc7211e675914623caffcd",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "six",
+        "msgpack"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil >=2.6.0",
+      "pytz",
+      "requests >=2.17.0",
+      "six >=1.10.0",
+      "msgpack",
+      "nose ; extra == 'test'",
+      "nose-cov ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "requests-mock ; extra == 'test'"
+    ]
+  },
+  "influxdb-5.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65040a1f53d1a2a4f88a677e89e3a98189a7d30cf2ab61c318aaa89733280747",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "six",
+        "msgpack"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil (>=2.6.0)",
+      "pytz",
+      "requests (>=2.17.0)",
+      "six (>=1.10.0)",
+      "msgpack",
+      "nose ; extra == 'test'",
+      "nose-cov ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "requests-mock ; extra == 'test'"
+    ]
+  },
+  "influxdb-5.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4c034ee9c9ee888d43de547cf40c616bba35f0aa8f11e5a6f056bf5855970ac",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "six",
+        "msgpack"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil (>=2.6.0)",
+      "pytz",
+      "requests (>=2.17.0)",
+      "six (>=1.10.0)",
+      "msgpack (==0.6.1)",
+      "nose ; extra == 'test'",
+      "nose-cov ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "requests-mock ; extra == 'test'"
+    ]
+  },
+  "influxdb-5.2.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "270ec1ec9cf1927a38cf5ec808e76f364482977577eb8c335f6aed5fcdc4cb25",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil (>=2.6.0)",
+      "pytz",
+      "requests (>=2.17.0)",
+      "six (>=1.10.0)",
+      "nose ; extra == 'test'",
+      "nose-cov ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "requests-mock ; extra == 'test'"
+    ]
+  },
+  "influxdb-5.2.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "98ef84817d8993d9c826aa76cf7254b4ce616f3b14c1f98a705370fd5cbaa509",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil (>=2.6.0)",
+      "pytz",
+      "requests (>=2.17.0)",
+      "six (>=1.10.0)",
+      "nose ; extra == 'test'",
+      "nose-cov ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "requests-mock ; extra == 'test'"
+    ]
+  }
+}

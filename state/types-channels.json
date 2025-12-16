@@ -1,0 +1,44 @@
+{
+  "types_channels-4.3.0.20250822-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3fc0a1467c8cc901686826408c8a673822e07aa79cbe1a6d21946e7e55d9ddf",
+    "dependencies": {
+      "required": [
+        "django-stubs",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "django-stubs<5.3,>=4.2",
+      "asgiref"
+    ]
+  },
+  "types_channels-4.3.0.20250730-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b2b890594668e54f34068f51608a348ba63789a7ef7c4c9da1d1feafbb22cfd9",
+    "dependencies": {
+      "required": [
+        "django-stubs",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "django-stubs<5.3,>=4.2",
+      "asgiref"
+    ]
+  },
+  "types_channels-4.2.0.20250712-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ccdf731e82da67b78acd8a39c51e76341992b76511eefb84f9c3226915021b4",
+    "dependencies": {
+      "required": [
+        "django-stubs",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "django-stubs<5.3,>=4.2",
+      "asgiref"
+    ]
+  }
+}

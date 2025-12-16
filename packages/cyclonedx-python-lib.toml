@@ -1,0 +1,12 @@
+# Package configuration for cyclonedx-python-lib
+conda_forge = "cyclonedx-python-lib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cyclonedx_python_lib-11.6.0-py3-none-any.whl" },
+  { filename = "cyclonedx_python_lib-11.5.0-py3-none-any.whl" },
+  { filename = "cyclonedx_python_lib-11.4.0-py3-none-any.whl" },
+  { filename = "cyclonedx_python_lib-11.3.0-py3-none-any.whl" },
+  { filename = "cyclonedx_python_lib-11.2.0-py3-none-any.whl" },
+]

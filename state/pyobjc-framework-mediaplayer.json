@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_mediaplayer-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85d9baec131807bfdf0f4c24d4b943e83cce806ab31c95c7e19c78e3fb7eefc8",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-avfoundation"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-AVFoundation>=12.1"
+    ]
+  },
+  "pyobjc_framework_mediaplayer-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c754087dfdbd065bceb31cc224363e91b05305d530db4295cffbb0c3ae0613e4",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-avfoundation"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-AVFoundation>=12.0"
+    ]
+  },
+  "pyobjc_framework_mediaplayer-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b655cf537ea52d73209eb12935a047301c30239b318a366600f0f44335d51c9a",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-avfoundation"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-AVFoundation>=11.1"
+    ]
+  },
+  "pyobjc_framework_MediaPlayer-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b124b0f18444b69b64142bad2579287d0b1a4a35cb6b14526523a822066d527d",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-avfoundation"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-AVFoundation >=11.0"
+    ]
+  },
+  "pyobjc_framework_MediaPlayer-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6fa3a7edf52d0bf0668d51fbd5603151f39bd8ad7507f14385a92da1076c5aee",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-avfoundation"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-AVFoundation>=10.3.2"
+    ]
+  }
+}

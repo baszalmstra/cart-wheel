@@ -1,0 +1,125 @@
+{
+  "setuptools_scm-9.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30e8f84d2ab1ba7cb0e653429b179395d0c33775d54807fc5f1dd6671801aef7",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "setuptools",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=20",
+      "setuptools",
+      "tomli>=1; python_version < \"3.11\"",
+      "typing-extensions; python_version < \"3.10\"",
+      "rich; extra == \"rich\""
+    ]
+  },
+  "setuptools_scm-9.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84c9b3f39ffb77ba00dd92a06e025e4f66dc69ab8df1c2a225a0678e76311f8d",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "setuptools",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=20",
+      "setuptools",
+      "tomli>=1; python_version < \"3.11\"",
+      "typing-extensions; python_version < \"3.10\"",
+      "rich; extra == \"rich\""
+    ]
+  },
+  "setuptools_scm-9.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c551ef54e2270727ee17067881c9687ca2aedf179fa5b8f3fab9e8d73bdc421f",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "setuptools",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=20",
+      "setuptools",
+      "tomli>=1; python_version < \"3.11\"",
+      "typing-extensions; python_version < \"3.10\"",
+      "rich; extra == \"rich\""
+    ]
+  },
+  "setuptools_scm-8.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "332ca0d43791b818b841213e76b1971b7711a960761c5bea5fc5cdb5196fbce3",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "setuptools",
+        "tomli",
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=20",
+      "setuptools",
+      "tomli>=1; python_version < \"3.11\"",
+      "typing-extensions; python_version < \"3.10\"",
+      "importlib-metadata>=4.6; python_version < \"3.10\"",
+      "entangled-cli~=2.0; extra == \"docs\"",
+      "mkdocs; extra == \"docs\"",
+      "mkdocs-entangled-plugin; extra == \"docs\"",
+      "mkdocs-include-markdown-plugin; extra == \"docs\"",
+      "mkdocs-material; extra == \"docs\"",
+      "mkdocstrings[python]; extra == \"docs\"",
+      "pygments; extra == \"docs\"",
+      "rich; extra == \"rich\"",
+      "build; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "rich; extra == \"test\"",
+      "typing-extensions; python_version < \"3.11\" and extra == \"test\"",
+      "wheel; extra == \"test\""
+    ]
+  },
+  "setuptools_scm-8.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55582ade381100f30f10473fbb0ca3656a45b0c524bab6f4cfb7e59101148f8c",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "setuptools",
+        "tomli",
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=20",
+      "setuptools",
+      "tomli>=1; python_version < \"3.11\"",
+      "typing-extensions; python_version < \"3.10\"",
+      "importlib-metadata>=4.6; python_version < \"3.10\"",
+      "entangled-cli~=2.0; extra == \"docs\"",
+      "mkdocs; extra == \"docs\"",
+      "mkdocs-entangled-plugin; extra == \"docs\"",
+      "mkdocs-include-markdown-plugin; extra == \"docs\"",
+      "mkdocs-material; extra == \"docs\"",
+      "mkdocstrings[python]; extra == \"docs\"",
+      "pygments; extra == \"docs\"",
+      "rich; extra == \"rich\"",
+      "build; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "rich; extra == \"test\"",
+      "typing-extensions; python_version < \"3.11\" and extra == \"test\"",
+      "wheel; extra == \"test\""
+    ]
+  }
+}

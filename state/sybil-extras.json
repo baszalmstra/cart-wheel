@@ -1,0 +1,217 @@
+{
+  "sybil_extras-2025.12.13.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4df3ed52aab86cfa9a9c8703b58795260831e3e972885554eb63c50800e40f34",
+    "dependencies": {
+      "required": [
+        "beartype",
+        "sybil"
+      ]
+    },
+    "original_requirements": [
+      "beartype>=0.22.9",
+      "sybil>=9.3.0",
+      "actionlint-py==1.7.9.24; extra == \"dev\"",
+      "charset-normalizer==3.4.4; extra == \"dev\"",
+      "check-manifest==0.51; extra == \"dev\"",
+      "click==8.3.1; extra == \"dev\"",
+      "deptry==0.24.0; extra == \"dev\"",
+      "doc8==2.0.0; extra == \"dev\"",
+      "docformatter==1.7.7; extra == \"dev\"",
+      "interrogate==1.7.0; extra == \"dev\"",
+      "mypy[faster-cache]==1.19.0; extra == \"dev\"",
+      "mypy-strict-kwargs==2025.4.3; extra == \"dev\"",
+      "pre-commit==4.5.0; extra == \"dev\"",
+      "pydocstyle==6.3; extra == \"dev\"",
+      "pylint[spelling]==4.0.4; extra == \"dev\"",
+      "pylint-per-file-ignores==3.2.0; extra == \"dev\"",
+      "pyproject-fmt==2.11.1; extra == \"dev\"",
+      "pyright==1.1.407; extra == \"dev\"",
+      "pyroma==5.0.1; extra == \"dev\"",
+      "pytest==9.0.2; extra == \"dev\"",
+      "pytest-cov==7.0.0; extra == \"dev\"",
+      "ruff==0.14.9; extra == \"dev\"",
+      "shellcheck-py==0.11.0.1; extra == \"dev\"",
+      "shfmt-py==3.12.0.2; extra == \"dev\"",
+      "sphinx-lint==1.0.2; extra == \"dev\"",
+      "sybil==9.3.0; extra == \"dev\"",
+      "ty==0.0.1a34; extra == \"dev\"",
+      "uv==0.9.17; extra == \"dev\"",
+      "vulture==2.14; extra == \"dev\"",
+      "yamlfix==1.19.0; extra == \"dev\"",
+      "check-wheel-contents==0.6.3; extra == \"release\""
+    ]
+  },
+  "sybil_extras-2025.12.13.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db4c834b84c351265b59e4d29cdb08e95817c4a41a6df928aa7ded09f9ab23d4",
+    "dependencies": {
+      "required": [
+        "beartype",
+        "sybil"
+      ]
+    },
+    "original_requirements": [
+      "beartype>=0.22.9",
+      "sybil>=9.3.0",
+      "actionlint-py==1.7.9.24; extra == \"dev\"",
+      "charset-normalizer==3.4.4; extra == \"dev\"",
+      "check-manifest==0.51; extra == \"dev\"",
+      "click==8.3.1; extra == \"dev\"",
+      "deptry==0.24.0; extra == \"dev\"",
+      "doc8==2.0.0; extra == \"dev\"",
+      "docformatter==1.7.7; extra == \"dev\"",
+      "interrogate==1.7.0; extra == \"dev\"",
+      "mypy[faster-cache]==1.19.0; extra == \"dev\"",
+      "mypy-strict-kwargs==2025.4.3; extra == \"dev\"",
+      "pre-commit==4.5.0; extra == \"dev\"",
+      "pydocstyle==6.3; extra == \"dev\"",
+      "pylint[spelling]==4.0.4; extra == \"dev\"",
+      "pylint-per-file-ignores==3.2.0; extra == \"dev\"",
+      "pyproject-fmt==2.11.1; extra == \"dev\"",
+      "pyright==1.1.407; extra == \"dev\"",
+      "pyroma==5.0.1; extra == \"dev\"",
+      "pytest==9.0.2; extra == \"dev\"",
+      "pytest-cov==7.0.0; extra == \"dev\"",
+      "ruff==0.14.9; extra == \"dev\"",
+      "shellcheck-py==0.11.0.1; extra == \"dev\"",
+      "shfmt-py==3.12.0.2; extra == \"dev\"",
+      "sphinx-lint==1.0.2; extra == \"dev\"",
+      "sybil==9.3.0; extra == \"dev\"",
+      "ty==0.0.1a34; extra == \"dev\"",
+      "uv==0.9.17; extra == \"dev\"",
+      "vulture==2.14; extra == \"dev\"",
+      "yamlfix==1.19.0; extra == \"dev\"",
+      "check-wheel-contents==0.6.3; extra == \"release\""
+    ]
+  },
+  "sybil_extras-2025.12.13.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e9db24ad420b94aa607da8a8cc8ee9499394e8327129d8640b72548ad45b3088",
+    "dependencies": {
+      "required": [
+        "beartype",
+        "sybil"
+      ]
+    },
+    "original_requirements": [
+      "beartype>=0.22.9",
+      "sybil>=9.3.0",
+      "actionlint-py==1.7.9.24; extra == \"dev\"",
+      "charset-normalizer==3.4.4; extra == \"dev\"",
+      "check-manifest==0.51; extra == \"dev\"",
+      "click==8.3.1; extra == \"dev\"",
+      "deptry==0.24.0; extra == \"dev\"",
+      "doc8==2.0.0; extra == \"dev\"",
+      "docformatter==1.7.7; extra == \"dev\"",
+      "interrogate==1.7.0; extra == \"dev\"",
+      "mypy[faster-cache]==1.19.0; extra == \"dev\"",
+      "mypy-strict-kwargs==2025.4.3; extra == \"dev\"",
+      "pre-commit==4.5.0; extra == \"dev\"",
+      "pydocstyle==6.3; extra == \"dev\"",
+      "pylint[spelling]==4.0.4; extra == \"dev\"",
+      "pylint-per-file-ignores==3.2.0; extra == \"dev\"",
+      "pyproject-fmt==2.11.1; extra == \"dev\"",
+      "pyright==1.1.407; extra == \"dev\"",
+      "pyroma==5.0.1; extra == \"dev\"",
+      "pytest==9.0.2; extra == \"dev\"",
+      "pytest-cov==7.0.0; extra == \"dev\"",
+      "ruff==0.14.9; extra == \"dev\"",
+      "shellcheck-py==0.11.0.1; extra == \"dev\"",
+      "shfmt-py==3.12.0.2; extra == \"dev\"",
+      "sphinx-lint==1.0.2; extra == \"dev\"",
+      "sybil==9.3.0; extra == \"dev\"",
+      "ty==0.0.1a34; extra == \"dev\"",
+      "uv==0.9.17; extra == \"dev\"",
+      "vulture==2.14; extra == \"dev\"",
+      "yamlfix==1.19.0; extra == \"dev\"",
+      "check-wheel-contents==0.6.3; extra == \"release\""
+    ]
+  },
+  "sybil_extras-2025.12.13.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a3235ca96ee5bc0017b77957c146027f7a7da1979a411fbf5f7773ca61859da",
+    "dependencies": {
+      "required": [
+        "beartype",
+        "sybil"
+      ]
+    },
+    "original_requirements": [
+      "beartype>=0.22.9",
+      "sybil>=9.3.0",
+      "actionlint-py==1.7.9.24; extra == \"dev\"",
+      "charset-normalizer==3.4.4; extra == \"dev\"",
+      "check-manifest==0.51; extra == \"dev\"",
+      "click==8.3.1; extra == \"dev\"",
+      "deptry==0.24.0; extra == \"dev\"",
+      "doc8==2.0.0; extra == \"dev\"",
+      "docformatter==1.7.7; extra == \"dev\"",
+      "interrogate==1.7.0; extra == \"dev\"",
+      "mypy[faster-cache]==1.19.0; extra == \"dev\"",
+      "mypy-strict-kwargs==2025.4.3; extra == \"dev\"",
+      "pre-commit==4.5.0; extra == \"dev\"",
+      "pydocstyle==6.3; extra == \"dev\"",
+      "pylint[spelling]==4.0.4; extra == \"dev\"",
+      "pylint-per-file-ignores==3.2.0; extra == \"dev\"",
+      "pyproject-fmt==2.11.1; extra == \"dev\"",
+      "pyright==1.1.407; extra == \"dev\"",
+      "pyroma==5.0.1; extra == \"dev\"",
+      "pytest==9.0.2; extra == \"dev\"",
+      "pytest-cov==7.0.0; extra == \"dev\"",
+      "ruff==0.14.9; extra == \"dev\"",
+      "shellcheck-py==0.11.0.1; extra == \"dev\"",
+      "shfmt-py==3.12.0.2; extra == \"dev\"",
+      "sphinx-lint==1.0.2; extra == \"dev\"",
+      "sybil==9.3.0; extra == \"dev\"",
+      "ty==0.0.1a34; extra == \"dev\"",
+      "uv==0.9.17; extra == \"dev\"",
+      "vulture==2.14; extra == \"dev\"",
+      "yamlfix==1.19.0; extra == \"dev\"",
+      "check-wheel-contents==0.6.3; extra == \"release\""
+    ]
+  },
+  "sybil_extras-2025.12.13-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1909b5a30c2ca9e64c687cdfb26234c878317b141f4594abddd038caa911b247",
+    "dependencies": {
+      "required": [
+        "beartype",
+        "sybil"
+      ]
+    },
+    "original_requirements": [
+      "beartype>=0.22.9",
+      "sybil>=9.3.0",
+      "actionlint-py==1.7.9.24; extra == \"dev\"",
+      "charset-normalizer==3.4.4; extra == \"dev\"",
+      "check-manifest==0.51; extra == \"dev\"",
+      "click==8.3.1; extra == \"dev\"",
+      "deptry==0.24.0; extra == \"dev\"",
+      "doc8==2.0.0; extra == \"dev\"",
+      "docformatter==1.7.7; extra == \"dev\"",
+      "interrogate==1.7.0; extra == \"dev\"",
+      "mypy[faster-cache]==1.19.0; extra == \"dev\"",
+      "mypy-strict-kwargs==2025.4.3; extra == \"dev\"",
+      "pre-commit==4.5.0; extra == \"dev\"",
+      "pydocstyle==6.3; extra == \"dev\"",
+      "pylint[spelling]==4.0.4; extra == \"dev\"",
+      "pylint-per-file-ignores==3.2.0; extra == \"dev\"",
+      "pyproject-fmt==2.11.1; extra == \"dev\"",
+      "pyright==1.1.407; extra == \"dev\"",
+      "pyroma==5.0.1; extra == \"dev\"",
+      "pytest==9.0.2; extra == \"dev\"",
+      "pytest-cov==7.0.0; extra == \"dev\"",
+      "ruff==0.14.9; extra == \"dev\"",
+      "shellcheck-py==0.11.0.1; extra == \"dev\"",
+      "shfmt-py==3.12.0.2; extra == \"dev\"",
+      "sphinx-lint==1.0.2; extra == \"dev\"",
+      "sybil==9.3.0; extra == \"dev\"",
+      "ty==0.0.1a34; extra == \"dev\"",
+      "uv==0.9.17; extra == \"dev\"",
+      "vulture==2.14; extra == \"dev\"",
+      "yamlfix==1.19.0; extra == \"dev\"",
+      "check-wheel-contents==0.6.3; extra == \"release\""
+    ]
+  }
+}

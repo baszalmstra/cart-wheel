@@ -1,0 +1,77 @@
+{
+  "rapids_dask_dependency-25.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d8efc4a2211d17079f907cf605460ad1bfd5ec2568ddefca605c91427465b5b3",
+    "dependencies": {
+      "required": [
+        "dask",
+        "distributed"
+      ]
+    },
+    "original_requirements": [
+      "dask==2025.9.1",
+      "distributed==2025.9.1",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "rapids_dask_dependency-25.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0bbba995fb685a31e6c1b50800af47a4ccfdf8da6f37d7640b51289d9ce5a499",
+    "dependencies": {
+      "required": [
+        "dask",
+        "distributed"
+      ]
+    },
+    "original_requirements": [
+      "dask==2025.9.1",
+      "distributed==2025.9.1",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "rapids_dask_dependency-25.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b5ffc61feb1c6936d761a3c2fdb1ce1eb7ba19cd724913ae0172cd7dff8165c",
+    "dependencies": {
+      "required": [
+        "dask",
+        "distributed"
+      ]
+    },
+    "original_requirements": [
+      "dask==2025.7.0",
+      "distributed==2025.7.0",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "rapids_dask_dependency-25.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c00ef256af1bfae2783966c82c7a4c137f58628ad697bd4bb003dad5dcb54a86",
+    "dependencies": {
+      "required": [
+        "dask",
+        "distributed"
+      ]
+    },
+    "original_requirements": [
+      "dask==2025.5.0",
+      "distributed==2025.5.0",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "rapids_dask_dependency-25.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "227394a0c0d26f8f28b22fbffff607de31b01ddf7f919ebca264f9d1faad149a",
+    "dependencies": {
+      "required": [
+        "dask",
+        "distributed"
+      ]
+    },
+    "original_requirements": [
+      "dask==2025.2.0",
+      "distributed==2025.2.0",
+      "pytest; extra == \"test\""
+    ]
+  }
+}

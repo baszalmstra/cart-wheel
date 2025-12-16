@@ -1,0 +1,72 @@
+{
+  "jupyter_lsp-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e914a3cb2addf48b1c7710914771aaf1819d46b2e5a79b0f917b5478ec93f34f",
+    "dependencies": {
+      "required": [
+        "jupyter-server",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "jupyter_server>=1.1.2",
+      "importlib_metadata>=4.8.3; python_version < \"3.10\""
+    ]
+  },
+  "jupyter_lsp-2.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "283783752bf0b459ee7fa88effa72104d87dd343b82d5c06cf113ef755b15b6d",
+    "dependencies": {
+      "required": [
+        "jupyter-server",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "jupyter_server>=1.1.2",
+      "importlib_metadata>=4.8.3; python_version < \"3.10\""
+    ]
+  },
+  "jupyter_lsp-2.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "45fbddbd505f3fbfb0b6cb2f1bc5e15e83ab7c79cd6e89416b248cb3c00c11da",
+    "dependencies": {
+      "required": [
+        "jupyter-server",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server >=1.1.2",
+      "importlib-metadata >=4.8.3 ; python_version < \"3.10\""
+    ]
+  },
+  "jupyter_lsp-2.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da61cb63a16b6dff5eac55c2699cc36eac975645adee02c41bdfc03bf4802e77",
+    "dependencies": {
+      "required": [
+        "jupyter-server",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server >=1.1.2",
+      "importlib-metadata >=4.8.3 ; python_version < \"3.10\""
+    ]
+  },
+  "jupyter_lsp-2.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "57dd90d0a2e2530831793550846168c81c952b49e187aa339e455027a5f0fd2e",
+    "dependencies": {
+      "required": [
+        "jupyter-server",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server >=1.1.2",
+      "importlib-metadata >=4.8.3 ; python_version < \"3.10\""
+    ]
+  }
+}

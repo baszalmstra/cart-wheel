@@ -1,0 +1,142 @@
+{
+  "gitpython-3.1.45-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8908cb2e02fb3b93b7eb0f2827125cb699869470432cc885f019b8fd0fccff77",
+    "dependencies": {
+      "required": [
+        "gitdb",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "gitdb<5,>=4.0.1",
+      "typing-extensions>=3.10.0.2; python_version < \"3.10\"",
+      "coverage[toml]; extra == \"test\"",
+      "ddt!=1.4.3,>=1.1.1; extra == \"test\"",
+      "mock; python_version < \"3.8\" and extra == \"test\"",
+      "mypy; extra == \"test\"",
+      "pre-commit; extra == \"test\"",
+      "pytest>=7.3.1; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-instafail; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-sugar; extra == \"test\"",
+      "typing-extensions; python_version < \"3.11\" and extra == \"test\"",
+      "sphinx<7.2,>=7.1.2; extra == \"doc\"",
+      "sphinx_rtd_theme; extra == \"doc\"",
+      "sphinx-autodoc-typehints; extra == \"doc\""
+    ]
+  },
+  "GitPython-3.1.44-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e0e10cda9bed1ee64bc9a6de50e7e38a9c9943241cd7f585f6df3ed28011110",
+    "dependencies": {
+      "required": [
+        "gitdb",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "gitdb<5,>=4.0.1",
+      "typing-extensions>=3.7.4.3; python_version < \"3.8\"",
+      "coverage[toml]; extra == \"test\"",
+      "ddt!=1.4.3,>=1.1.1; extra == \"test\"",
+      "mock; python_version < \"3.8\" and extra == \"test\"",
+      "mypy; extra == \"test\"",
+      "pre-commit; extra == \"test\"",
+      "pytest>=7.3.1; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-instafail; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-sugar; extra == \"test\"",
+      "typing-extensions; python_version < \"3.11\" and extra == \"test\"",
+      "sphinx<7.2,>=7.1.2; extra == \"doc\"",
+      "sphinx_rtd_theme; extra == \"doc\"",
+      "sphinx-autodoc-typehints; extra == \"doc\""
+    ]
+  },
+  "GitPython-3.1.43-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eec7ec56b92aad751f9912a73404bc02ba212a23adb2c7098ee668417051a1ff",
+    "dependencies": {
+      "required": [
+        "gitdb",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "gitdb <5,>=4.0.1",
+      "typing-extensions >=3.7.4.3 ; python_version < \"3.8\"",
+      "sphinx ==4.3.2 ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'",
+      "sphinxcontrib-applehelp <=1.0.4,>=1.0.2 ; extra == 'doc'",
+      "sphinxcontrib-devhelp ==1.0.2 ; extra == 'doc'",
+      "sphinxcontrib-htmlhelp <=2.0.1,>=2.0.0 ; extra == 'doc'",
+      "sphinxcontrib-qthelp ==1.0.3 ; extra == 'doc'",
+      "sphinxcontrib-serializinghtml ==1.1.5 ; extra == 'doc'",
+      "sphinx-autodoc-typehints ; extra == 'doc'",
+      "coverage[toml] ; extra == 'test'",
+      "ddt !=1.4.3,>=1.1.1 ; extra == 'test'",
+      "mypy ; extra == 'test'",
+      "pre-commit ; extra == 'test'",
+      "pytest >=7.3.1 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-instafail ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "pytest-sugar ; extra == 'test'",
+      "typing-extensions ; (python_version < \"3.11\") and extra == 'test'",
+      "mock ; (python_version < \"3.8\") and extra == 'test'"
+    ]
+  },
+  "GitPython-3.1.42-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1bf9cd7c9e7255f77778ea54359e54ac22a72a5b51288c457c881057b7bb9ecd",
+    "dependencies": {
+      "required": [
+        "gitdb",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "gitdb <5,>=4.0.1",
+      "typing-extensions >=3.7.4.3 ; python_version < \"3.8\"",
+      "black ; extra == 'test'",
+      "coverage[toml] ; extra == 'test'",
+      "ddt !=1.4.3,>=1.1.1 ; extra == 'test'",
+      "mypy ; extra == 'test'",
+      "pre-commit ; extra == 'test'",
+      "pytest >=7.3.1 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-instafail ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "pytest-sugar ; extra == 'test'",
+      "mock ; (python_version < \"3.8\") and extra == 'test'"
+    ]
+  },
+  "GitPython-3.1.41-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c36b6634d069b3f719610175020a9aed919421c87552185b085e04fbbdb10b7c",
+    "dependencies": {
+      "required": [
+        "gitdb",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "gitdb <5,>=4.0.1",
+      "typing-extensions >=3.7.4.3 ; python_version < \"3.8\"",
+      "black ; extra == 'test'",
+      "coverage[toml] ; extra == 'test'",
+      "ddt !=1.4.3,>=1.1.1 ; extra == 'test'",
+      "mypy ; extra == 'test'",
+      "pre-commit ; extra == 'test'",
+      "pytest >=7.3.1 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-instafail ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "pytest-sugar ; extra == 'test'",
+      "sumtypes ; extra == 'test'",
+      "mock ; (python_version < \"3.8\") and extra == 'test'"
+    ]
+  }
+}

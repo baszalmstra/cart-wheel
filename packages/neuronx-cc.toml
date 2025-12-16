@@ -1,0 +1,7 @@
+# Package configuration for neuronx-cc
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neuronx_cc-1.0.post1-py3-none-any.whl" },
+]

@@ -1,0 +1,107 @@
+{
+  "pyproject_api-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8757c41a79c0f4ab71b99abed52b97ecf66bd20b04fa59da43b5840bac105a09",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=25",
+      "tomli>=2.3; python_version < '3.11'",
+      "furo>=2025.9.25; extra == 'docs'",
+      "sphinx-autodoc-typehints>=3.5.1; extra == 'docs'",
+      "covdefaults>=2.3; extra == 'testing'",
+      "pytest-cov>=7; extra == 'testing'",
+      "pytest-mock>=3.15.1; extra == 'testing'",
+      "pytest>=8.4.2; extra == 'testing'",
+      "setuptools>=80.9; extra == 'testing'"
+    ]
+  },
+  "pyproject_api-1.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d6238d92f8962773dd75b5f0c4a6a27cce092a14b623b811dba656f3b628948",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=25",
+      "tomli>=2.2.1; python_version < '3.11'",
+      "furo>=2024.8.6; extra == 'docs'",
+      "sphinx-autodoc-typehints>=3.2; extra == 'docs'",
+      "covdefaults>=2.3; extra == 'testing'",
+      "pytest-cov>=6.1.1; extra == 'testing'",
+      "pytest-mock>=3.14; extra == 'testing'",
+      "pytest>=8.3.5; extra == 'testing'",
+      "setuptools>=80.3.1; extra == 'testing'"
+    ]
+  },
+  "pyproject_api-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "326df9d68dea22d9d98b5243c46e3ca3161b07a1b9b18e213d1e24fd0e605766",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=24.2",
+      "tomli>=2.2.1; python_version < '3.11'",
+      "furo>=2024.8.6; extra == 'docs'",
+      "sphinx-autodoc-typehints>=3; extra == 'docs'",
+      "covdefaults>=2.3; extra == 'testing'",
+      "pytest-cov>=6; extra == 'testing'",
+      "pytest-mock>=3.14; extra == 'testing'",
+      "pytest>=8.3.4; extra == 'testing'",
+      "setuptools>=75.8; extra == 'testing'"
+    ]
+  },
+  "pyproject_api-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d7d347a047afe796fd5d1885b1e391ba29be7169bd2f102fcd378f04273d228",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=24.1",
+      "tomli>=2.0.1; python_version < '3.11'",
+      "furo>=2024.8.6; extra == 'docs'",
+      "sphinx-autodoc-typehints>=2.4.1; extra == 'docs'",
+      "covdefaults>=2.3; extra == 'testing'",
+      "pytest-cov>=5; extra == 'testing'",
+      "pytest-mock>=3.14; extra == 'testing'",
+      "pytest>=8.3.3; extra == 'testing'",
+      "setuptools>=75.1; extra == 'testing'"
+    ]
+  },
+  "pyproject_api-1.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17c025105f8d27e22ffe542fe7dff3391b3736191a28294773a1f3b9ed25282b",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=24.1",
+      "tomli>=2.0.1; python_version < '3.11'",
+      "furo>=2024.8.6; extra == 'docs'",
+      "sphinx-autodoc-typehints>=2.4.1; extra == 'docs'",
+      "covdefaults>=2.3; extra == 'testing'",
+      "pytest-cov>=5; extra == 'testing'",
+      "pytest-mock>=3.14; extra == 'testing'",
+      "pytest>=8.3.3; extra == 'testing'",
+      "setuptools>=75.1; extra == 'testing'"
+    ]
+  }
+}

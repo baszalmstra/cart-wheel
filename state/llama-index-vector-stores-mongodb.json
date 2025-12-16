@@ -1,0 +1,72 @@
+{
+  "llama_index_vector_stores_mongodb-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40c208b3b5de746a4a7f1bcd90878139bd3687e31ac35feaf41134f10ea8e184",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15.0,>=0.13.0",
+      "pymongo<5,>=4.6.1"
+    ]
+  },
+  "llama_index_vector_stores_mongodb-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8587ad5013cf3457348f8f927c1266983faa585c77bdeb671d8255c8b2b81556",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15.0,>=0.13.0",
+      "pymongo<5,>=4.6.1"
+    ]
+  },
+  "llama_index_vector_stores_mongodb-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dc792ca7d77e241c5b2aeb700837ec31fd50393ceb1d8269383d908df870aaab",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.14.0,>=0.13.0",
+      "pymongo<5,>=4.6.1"
+    ]
+  },
+  "llama_index_vector_stores_mongodb-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "09ff45be96fb0c959fe2dc009533ecab73bca3e9f875eb925113faa74098615d",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.13.0,>=0.12.0",
+      "pymongo<5,>=4.6.1"
+    ]
+  },
+  "llama_index_vector_stores_mongodb-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b688087729194238d2616583283392ea603349b80f44e9e4ed249d529395326",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.13.0,>=0.12.0",
+      "pymongo<5,>=4.6.1"
+    ]
+  }
+}

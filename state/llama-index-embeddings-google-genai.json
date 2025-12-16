@@ -1,0 +1,72 @@
+{
+  "llama_index_embeddings_google_genai-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07d16431d33ac694325e2279417573a33f35c34d3d98284573b5d58caf3b3b27",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "google-genai<2,>=1.24.0",
+      "llama-index-core<0.15,>=0.13.0"
+    ]
+  },
+  "llama_index_embeddings_google_genai-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f45953c24b796dc27ecf4dfe337b769534269fecf8ea58b2a4bdab096dac246f",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "google-genai<2,>=1.24.0",
+      "llama-index-core<0.14,>=0.13.0"
+    ]
+  },
+  "llama_index_embeddings_google_genai-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aee3e7f91684cb1e4df3b53f659ab1c6a60591d46ad95643a9fd88158472470b",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "google-genai<2,>=1.24.0",
+      "llama-index-core<0.13,>=0.12.0"
+    ]
+  },
+  "llama_index_embeddings_google_genai-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cfaca111b103bb92a32946434a67b986baace4c7d9e1a2db2e123cb1c42eca7c",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "google-genai>=1.4.0",
+      "llama-index-core<0.13,>=0.12.0"
+    ]
+  },
+  "llama_index_embeddings_google_genai-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e5f68aa34dcb25e4295ecf90b62a1e69ca99281dab34294b5812024fcd097b32",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "google-genai>=1.4.0",
+      "llama-index-core<0.13,>=0.12.0"
+    ]
+  }
+}

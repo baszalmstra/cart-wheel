@@ -1,0 +1,12 @@
+# Package configuration for vulture
+conda_forge = "vulture"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "vulture-2.14-py2.py3-none-any.whl" },
+  { filename = "vulture-2.13-py2.py3-none-any.whl" },
+  { filename = "vulture-2.12-py2.py3-none-any.whl" },
+  { filename = "vulture-2.11-py2.py3-none-any.whl" },
+  { filename = "vulture-2.10-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,176 @@
+{
+  "jaraco_windows-5.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1467f38a322fa9ce74b826b8633f0171a57f01058ed2dda39eaa803184f93e4b",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "jaraco.ui",
+        "jaraco.collections",
+        "jaraco.text",
+        "jaraco.structures",
+        "path",
+        "tempora",
+        "jaraco.functools"
+      ]
+    },
+    "original_requirements": [
+      "more_itertools",
+      "jaraco.ui",
+      "jaraco.collections",
+      "jaraco.text",
+      "jaraco.structures>=1.1.1",
+      "path",
+      "tempora",
+      "jaraco.functools",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "pywin32; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "jaraco.windows-5.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8ebe95eecf20985b2ded7b010b230e93b9091b8dac890673ca2e1ddc93e3312",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "jaraco.ui",
+        "jaraco.collections",
+        "jaraco.text",
+        "jaraco.structures",
+        "path"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools",
+      "jaraco.ui",
+      "jaraco.collections",
+      "jaraco.text",
+      "jaraco.structures >=1.1.1",
+      "path",
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pywin32 ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-mypy ; extra == 'type'"
+    ]
+  },
+  "jaraco.windows-5.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e8194902784cebf02fe7ca259f4dc7001e634e52199f8c02781836bce89a4c8f",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "jaraco.ui",
+        "jaraco.collections",
+        "jaraco.text",
+        "jaraco.structures",
+        "path"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools",
+      "jaraco.ui",
+      "jaraco.collections",
+      "jaraco.text",
+      "jaraco.structures >=1.1.1",
+      "path",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pywin32 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "jaraco.windows-5.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2fa49ef411c14fd2e59b6879ec68b225608ec125eb121c882847131c027d0ddc",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "jaraco.ui",
+        "jaraco.collections",
+        "jaraco.text",
+        "jaraco.structures",
+        "path"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools",
+      "jaraco.ui",
+      "jaraco.collections",
+      "jaraco.text",
+      "jaraco.structures >=1.1.1",
+      "path",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "sphinx <7.2.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pywin32 ; extra == 'docs'",
+      "pytest >=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "pytest-black >=0.3.7 ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy >=0.9.1 ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.windows-5.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc6242c5d17903e96f8e03bb47be1f40f0c0d3f4c09a8e74834d2f999990c53a",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "jaraco.ui",
+        "jaraco.collections",
+        "jaraco.text",
+        "jaraco.structures",
+        "path"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools",
+      "jaraco.ui",
+      "jaraco.collections",
+      "jaraco.text",
+      "jaraco.structures (>=1.1.1)",
+      "path",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=8.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (>=4.6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=1.0.1) ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  }
+}

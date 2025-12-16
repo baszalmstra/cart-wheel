@@ -1,0 +1,12 @@
+# Package configuration for sqlalchemy-bigquery
+conda_forge = "sqlalchemy-bigquery"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sqlalchemy_bigquery-1.16.0-py3-none-any.whl" },
+  { filename = "sqlalchemy_bigquery-1.15.0-py3-none-any.whl" },
+  { filename = "sqlalchemy_bigquery-1.14.1-py3-none-any.whl" },
+  { filename = "sqlalchemy_bigquery-1.14.0-py3-none-any.whl" },
+  { filename = "sqlalchemy_bigquery-1.13.0-py2.py3-none-any.whl" },
+]

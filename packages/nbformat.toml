@@ -1,0 +1,12 @@
+# Package configuration for nbformat
+conda_forge = "nbformat"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nbformat-5.10.4-py3-none-any.whl" },
+  { filename = "nbformat-5.10.3-py3-none-any.whl" },
+  { filename = "nbformat-5.10.2-py3-none-any.whl" },
+  { filename = "nbformat-5.10.1-py3-none-any.whl" },
+  { filename = "nbformat-5.10.0-py3-none-any.whl" },
+]

@@ -1,0 +1,83 @@
+{
+  "patsy-1.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37bfddbc58fcf0362febb5f54f10743f8b21dd2aa73dec7e7ef59d1b02ae668a",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.4",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "scipy; extra == \"test\""
+    ]
+  },
+  "patsy-1.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "751fb38f9e97e62312e921a1954b81e1bb2bcda4f5eeabaf94db251ee791509c",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.4",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "scipy ; extra == 'test'"
+    ]
+  },
+  "patsy-0.5.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19056886fd8fa71863fa32f0eb090267f21fb74be00f19f5c70b2e9d76c883c6",
+    "dependencies": {
+      "required": [
+        "six",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "numpy >=1.4",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "scipy ; extra == 'test'"
+    ]
+  },
+  "patsy-0.5.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0486413077a527db51ddea8fa94a5234d0feb17a4f4dc01b59b6086c58a70f80",
+    "dependencies": {
+      "required": [
+        "six",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "numpy >=1.4",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "scipy ; extra == 'test'"
+    ]
+  },
+  "patsy-0.5.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7eb5349754ed6aa982af81f636479b1b8db9d5b1a6e957a6016ec0534b5c86b7",
+    "dependencies": {
+      "required": [
+        "six",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "numpy (>=1.4)",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "scipy ; extra == 'test'"
+    ]
+  }
+}

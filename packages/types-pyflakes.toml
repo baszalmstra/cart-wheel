@@ -1,0 +1,11 @@
+# Package configuration for types-pyflakes
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_pyflakes-3.4.0.20250701-py3-none-any.whl" },
+  { filename = "types_pyflakes-3.3.2.20250511-py3-none-any.whl" },
+  { filename = "types_pyflakes-3.3.2.20250429-py3-none-any.whl" },
+  { filename = "types_pyflakes-3.3.2.20250402-py3-none-any.whl" },
+  { filename = "types_pyflakes-3.3.0.20250401-py3-none-any.whl" },
+]

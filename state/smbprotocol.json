@@ -1,0 +1,77 @@
+{
+  "smbprotocol-1.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1fbfe19be3afca25a27e3bccc0de54614c6a8d3443b1fac829763b4901fb1c06",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "pyspnego"
+      ]
+    },
+    "original_requirements": [
+      "cryptography >=2.0",
+      "pyspnego",
+      "pyspnego[kerberos] ; extra == 'kerberos'"
+    ]
+  },
+  "smbprotocol-1.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e9a9c88d35b8f758fe03f27278ebb956743842e99794bb280ea7ea00293e7168",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "pyspnego"
+      ]
+    },
+    "original_requirements": [
+      "cryptography >=2.0",
+      "pyspnego",
+      "pyspnego[kerberos] ; extra == 'kerberos'"
+    ]
+  },
+  "smbprotocol-1.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e40620f253f5d4ba8a99c30a31ee645be310e226cafcaec9dfe3c0f4409703b",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "pyspnego"
+      ]
+    },
+    "original_requirements": [
+      "cryptography >=2.0",
+      "pyspnego",
+      "pyspnego[kerberos] ; extra == 'kerberos'"
+    ]
+  },
+  "smbprotocol-1.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91661e6d08e0712d8cac8922966a6a77fd7bcb38da04a0d8b20f3f5f39034f2e",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "pyspnego"
+      ]
+    },
+    "original_requirements": [
+      "cryptography >=2.0",
+      "pyspnego",
+      "pyspnego[kerberos] ; extra == 'kerberos'"
+    ]
+  },
+  "smbprotocol-1.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90102917e2df0128c0d572c04f70e726039a7551dffd4236bc4bbf712bd7776a",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "pyspnego"
+      ]
+    },
+    "original_requirements": [
+      "cryptography >=2.0",
+      "pyspnego",
+      "pyspnego[kerberos] ; extra == 'kerberos'"
+    ]
+  }
+}

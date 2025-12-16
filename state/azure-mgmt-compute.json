@@ -1,0 +1,86 @@
+{
+  "azure_mgmt_compute-37.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e6ca720d869787cc6d35f021455e1d7b3128882a11897fc45594133a2832f5fb",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-mgmt-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "msrest>=0.7.1",
+      "azure-mgmt-core>=1.6.0",
+      "typing-extensions>=4.6.0"
+    ]
+  },
+  "azure_mgmt_compute-37.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "958e61a4d9b0f4d24bf6df81b48deee4bbb8ef2386391d59064e006be9e21452",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-mgmt-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "msrest>=0.7.1",
+      "azure-mgmt-core>=1.6.0",
+      "typing-extensions>=4.6.0"
+    ]
+  },
+  "azure_mgmt_compute-37.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6cf26ef8a32707c1dfc45cd4ec4c949c2a637a9caf7e0e59731ab98e532c7c9f",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-mgmt-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "msrest>=0.7.1",
+      "azure-mgmt-core>=1.6.0",
+      "typing-extensions>=4.6.0"
+    ]
+  },
+  "azure_mgmt_compute-36.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31f27afa8c097ba1f8b37ae258a763e2c7737f6eddc423c22e2beb11255cd526",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "typing-extensions",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "isodate>=0.6.1",
+      "typing-extensions>=4.6.0",
+      "azure-common>=1.1",
+      "azure-mgmt-core>=1.6.0"
+    ]
+  },
+  "azure_mgmt_compute-35.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52d18b39da48547a086ba74e418de1bfb1108b8f8c9d6cb002919ece2f3902ed",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "typing-extensions",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "isodate>=0.6.1",
+      "typing-extensions>=4.6.0",
+      "azure-common>=1.1",
+      "azure-mgmt-core>=1.5.0"
+    ]
+  }
+}

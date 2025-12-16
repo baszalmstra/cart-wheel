@@ -1,0 +1,12 @@
+# Package configuration for cairosvg
+conda_forge = "cairosvg"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cairosvg-2.8.2-py3-none-any.whl" },
+  { filename = "cairosvg-2.8.1-py3-none-any.whl" },
+  { filename = "cairosvg-2.8.0-py3-none-any.whl" },
+  { filename = "CairoSVG-2.7.1-py3-none-any.whl" },
+  { filename = "CairoSVG-2.7.0-py3-none-any.whl" },
+]

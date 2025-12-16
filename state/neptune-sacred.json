@@ -1,0 +1,69 @@
+{
+  "neptune_sacred-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b0059e1f66dec8aff5bdf521f0b5c515d1f44dd75b554c5825bf7636c95cb210",
+    "dependencies": {
+      "required": [
+        "flatten-dict",
+        "importlib-metadata",
+        "neptune",
+        "sacred"
+      ]
+    },
+    "original_requirements": [
+      "flatten-dict",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0)",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "sacred",
+      "torch (==1.13.0) ; extra == \"dev\"",
+      "torchvision ; extra == \"dev\""
+    ]
+  },
+  "neptune_sacred-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "56c9c34dd44e67438a2dff87a2fc8f00c1b4623ff04a3d2026fbdc407a3599e6",
+    "dependencies": {
+      "required": [
+        "flatten-dict",
+        "importlib-metadata",
+        "neptune",
+        "sacred"
+      ]
+    },
+    "original_requirements": [
+      "flatten-dict",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0)",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "sacred",
+      "torch (==1.13.0) ; extra == \"dev\"",
+      "torchvision ; extra == \"dev\""
+    ]
+  },
+  "neptune_sacred-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51c2be858755cb3115ce7efb3a3f2fb0ed0fbc12c5a54115a328d347f0cf5cd5",
+    "dependencies": {
+      "required": [
+        "flatten-dict",
+        "importlib-metadata",
+        "neptune-client",
+        "sacred"
+      ]
+    },
+    "original_requirements": [
+      "flatten-dict",
+      "importlib-metadata; python_version < \"3.8\"",
+      "neptune-client (>=0.16.7)",
+      "pre-commit; extra == \"dev\"",
+      "pytest (>=5.0); extra == \"dev\"",
+      "pytest-cov (==2.10.1); extra == \"dev\"",
+      "sacred"
+    ]
+  }
+}

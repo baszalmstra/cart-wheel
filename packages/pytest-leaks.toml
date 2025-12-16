@@ -1,0 +1,10 @@
+# Package configuration for pytest-leaks
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_leaks-0.2.2-py3-none-any.whl" },
+  { filename = "pytest_leaks-0.2.1-py3-none-any.whl" },
+  { filename = "pytest_leaks-0.2.0-py3-none-any.whl" },
+  { filename = "pytest_leaks-0.1.0-py3-none-any.whl" },
+]

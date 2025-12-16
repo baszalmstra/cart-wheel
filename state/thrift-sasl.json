@@ -1,0 +1,20 @@
+{
+  "thrift_sasl-0.4.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d24b49140115e6e2a96d08335cff225a27a28ea71866fb1b2bdb30ca5afca64e",
+    "dependencies": {
+      "required": [
+        "pure-sasl",
+        "six",
+        "thrift",
+        "thrift"
+      ]
+    },
+    "original_requirements": [
+      "pure-sasl (>=0.6.2)",
+      "six (>=1.13.0)",
+      "thrift (>=0.9.3) ; python_version < \"3.0\"",
+      "thrift (>=0.10.0) ; python_version >= \"3.0\""
+    ]
+  }
+}

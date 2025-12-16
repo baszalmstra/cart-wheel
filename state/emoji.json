@@ -1,0 +1,69 @@
+{
+  "emoji-2.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "205296793d66a89d88af4688fa57fd6496732eb48917a87175a023c8138995eb",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest>=7.4.4; extra == \"dev\"",
+      "coverage; extra == \"dev\""
+    ]
+  },
+  "emoji-2.14.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "35a8a486c1460addb1499e3bf7929d3889b2e2841a57401903699fef595e942b",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions>=4.7.0; python_version < \"3.9\"",
+      "pytest>=7.4.4; extra == \"dev\"",
+      "coverage; extra == \"dev\""
+    ]
+  },
+  "emoji-2.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fcc936bf374b1aec67dda5303ae99710ba88cc9cdce2d1a71c5f2204e6d78799",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >=4.7.0 ; python_version < \"3.9\"",
+      "pytest >=7.4.4 ; extra == 'dev'",
+      "coverage ; extra == 'dev'"
+    ]
+  },
+  "emoji-2.13.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef6f2ee63b245e934c763b1a9a0637713955aa3d9e322432e036bb60559de4d6",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >=4.7.0 ; python_version < \"3.9\"",
+      "pytest >=7.4.4 ; extra == 'dev'",
+      "coverage ; extra == 'dev'"
+    ]
+  },
+  "emoji-2.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c8027f02c448731fd5f13e38521e14594e48e9c5d2c3862f95d086d8aa84a7c",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >=4.7.0",
+      "pytest >=7.4.4 ; extra == 'dev'",
+      "coverage ; extra == 'dev'"
+    ]
+  }
+}

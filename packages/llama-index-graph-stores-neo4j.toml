@@ -1,0 +1,11 @@
+# Package configuration for llama-index-graph-stores-neo4j
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "llama_index_graph_stores_neo4j-0.5.1-py3-none-any.whl" },
+  { filename = "llama_index_graph_stores_neo4j-0.5.0-py3-none-any.whl" },
+  { filename = "llama_index_graph_stores_neo4j-0.4.6-py3-none-any.whl" },
+  { filename = "llama_index_graph_stores_neo4j-0.4.5-py3-none-any.whl" },
+  { filename = "llama_index_graph_stores_neo4j-0.4.4-py3-none-any.whl" },
+]

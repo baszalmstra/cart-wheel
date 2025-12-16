@@ -1,0 +1,12 @@
+# Package configuration for aiosmtpd
+conda_forge = "aiosmtpd"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiosmtpd-1.4.6-py3-none-any.whl" },
+  { filename = "aiosmtpd-1.4.5-py3-none-any.whl" },
+  { filename = "aiosmtpd-1.4.4.post2-py3-none-any.whl" },
+  { filename = "aiosmtpd-1.4.4.post1-py3-none-any.whl" },
+  { filename = "aiosmtpd-1.4.4-py3-none-any.whl" },
+]

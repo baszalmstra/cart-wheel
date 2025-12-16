@@ -1,0 +1,88 @@
+{
+  "pytest_qt-4.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed21ea9b861247f7d18090a26bfbda8fb51d7a8a7b6f776157426ff2ccf26eff",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pluggy",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "pluggy>=1.1",
+      "typing_extensions",
+      "sphinx; extra == \"doc\"",
+      "sphinx_rtd_theme; extra == \"doc\"",
+      "pre-commit; extra == \"dev\"",
+      "tox; extra == \"dev\""
+    ]
+  },
+  "pytest_qt-4.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "001ed2f8641764b394cf286dc8a4203e40eaf9fff75bf0bfe5103f7f8d0c591d",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pluggy"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "pluggy >=1.1",
+      "pre-commit ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "sphinx ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'"
+    ]
+  },
+  "pytest_qt-4.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e1bd043a4e460f184657bc3a0eabf289ad5e88a55a2abf0436d248049a331653",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=3.0.0",
+      "pre-commit ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "sphinx ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'"
+    ]
+  },
+  "pytest_qt-4.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7659960a1ab2af8fc944655a157ff45d714b80ed7a6af96a4b5bb99ecf40a22",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.0.0)",
+      "pre-commit ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "sphinx ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'"
+    ]
+  },
+  "pytest_qt-4.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "edd08dae3b207405edddfc482d4dda4b848e85a8e6a0e7c36f20bac11ab328de",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.0.0)",
+      "pre-commit ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "sphinx ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'"
+    ]
+  }
+}

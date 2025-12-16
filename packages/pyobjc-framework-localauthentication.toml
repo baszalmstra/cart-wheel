@@ -1,0 +1,7 @@
+# Package configuration for pyobjc-framework-localauthentication
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyobjc_framework_LocalAuthentication-10.3.2-py2.py3-none-any.whl" },
+]

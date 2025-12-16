@@ -1,0 +1,11 @@
+# Package configuration for pytest-httpbin
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_httpbin-2.1.0-py3-none-any.whl" },
+  { filename = "pytest_httpbin-2.0.0-py2.py3-none-any.whl" },
+  { filename = "pytest_httpbin-1.0.2-py2.py3-none-any.whl" },
+  { filename = "pytest_httpbin-1.0.1-py2.py3-none-any.whl" },
+  { filename = "pytest_httpbin-1.0.0-py2.py3-none-any.whl" },
+]

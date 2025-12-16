@@ -1,0 +1,11 @@
+# Package configuration for speechbrain
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "speechbrain-1.0.3-py3-none-any.whl" },
+  { filename = "speechbrain-1.0.2-py3-none-any.whl" },
+  { filename = "speechbrain-1.0.1-py3-none-any.whl" },
+  { filename = "speechbrain-1.0.0-py3-none-any.whl" },
+  { filename = "speechbrain-0.5.16-py3-none-any.whl" },
+]

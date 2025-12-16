@@ -1,0 +1,134 @@
+{
+  "opentelemetry_exporter_otlp_proto_grpc-1.39.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fa1c136a05c7e9b4c09f739469cbdb927ea20b34088ab1d959a849b5cc589c18",
+    "dependencies": {
+      "required": [
+        "googleapis-common-protos",
+        "grpcio",
+        "grpcio",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp-proto-common",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "googleapis-common-protos~=1.57",
+      "grpcio<2.0.0,>=1.63.2; python_version < '3.13'",
+      "grpcio<2.0.0,>=1.66.2; python_version >= '3.13'",
+      "opentelemetry-api~=1.15",
+      "opentelemetry-exporter-otlp-proto-common==1.39.1",
+      "opentelemetry-proto==1.39.1",
+      "opentelemetry-sdk~=1.39.1",
+      "typing-extensions>=4.6.0",
+      "opentelemetry-exporter-credential-provider-gcp>=0.59b0; extra == 'gcp-auth'"
+    ]
+  },
+  "opentelemetry_exporter_otlp_proto_grpc-1.39.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "758641278050de9bb895738f35ff8840e4a47685b7e6ef4a201fe83196ba7a05",
+    "dependencies": {
+      "required": [
+        "googleapis-common-protos",
+        "grpcio",
+        "grpcio",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp-proto-common",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "googleapis-common-protos~=1.57",
+      "grpcio<2.0.0,>=1.63.2; python_version < '3.13'",
+      "grpcio<2.0.0,>=1.66.2; python_version >= '3.13'",
+      "opentelemetry-api~=1.15",
+      "opentelemetry-exporter-otlp-proto-common==1.39.0",
+      "opentelemetry-proto==1.39.0",
+      "opentelemetry-sdk~=1.39.0",
+      "typing-extensions>=4.6.0",
+      "opentelemetry-exporter-credential-provider-gcp>=0.59b0; extra == 'gcp-auth'"
+    ]
+  },
+  "opentelemetry_exporter_otlp_proto_grpc-1.38.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c49fd9b4bd0dbe9ba13d91f764c2d20b0025649a6e4ac35792fb8d84d764bc7",
+    "dependencies": {
+      "required": [
+        "googleapis-common-protos",
+        "grpcio",
+        "grpcio",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp-proto-common",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "googleapis-common-protos~=1.57",
+      "grpcio<2.0.0,>=1.63.2; python_version < '3.13'",
+      "grpcio<2.0.0,>=1.66.2; python_version >= '3.13'",
+      "opentelemetry-api~=1.15",
+      "opentelemetry-exporter-otlp-proto-common==1.38.0",
+      "opentelemetry-proto==1.38.0",
+      "opentelemetry-sdk~=1.38.0",
+      "typing-extensions>=4.6.0"
+    ]
+  },
+  "opentelemetry_exporter_otlp_proto_grpc-1.37.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aee5104835bf7993b7ddaaf380b6467472abaedb1f1dbfcc54a52a7d781a3890",
+    "dependencies": {
+      "required": [
+        "googleapis-common-protos",
+        "grpcio",
+        "grpcio",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp-proto-common",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "googleapis-common-protos~=1.57",
+      "grpcio<2.0.0,>=1.63.2; python_version < '3.13'",
+      "grpcio<2.0.0,>=1.66.2; python_version >= '3.13'",
+      "opentelemetry-api~=1.15",
+      "opentelemetry-exporter-otlp-proto-common==1.37.0",
+      "opentelemetry-proto==1.37.0",
+      "opentelemetry-sdk~=1.37.0",
+      "typing-extensions>=4.6.0"
+    ]
+  },
+  "opentelemetry_exporter_otlp_proto_grpc-1.36.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "734e841fc6a5d6f30e7be4d8053adb703c70ca80c562ae24e8083a28fadef211",
+    "dependencies": {
+      "required": [
+        "googleapis-common-protos",
+        "grpcio",
+        "grpcio",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp-proto-common",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "googleapis-common-protos~=1.57",
+      "grpcio<2.0.0,>=1.63.2; python_version < '3.13'",
+      "grpcio<2.0.0,>=1.66.2; python_version >= '3.13'",
+      "opentelemetry-api~=1.15",
+      "opentelemetry-exporter-otlp-proto-common==1.36.0",
+      "opentelemetry-proto==1.36.0",
+      "opentelemetry-sdk~=1.36.0",
+      "typing-extensions>=4.6.0"
+    ]
+  }
+}

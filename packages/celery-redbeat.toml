@@ -1,0 +1,11 @@
+# Package configuration for celery-redbeat
+conda_forge = "celery-redbeat"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "celery_redbeat-2.3.3-py2.py3-none-any.whl" },
+  { filename = "celery_redbeat-2.3.2-py2.py3-none-any.whl" },
+  { filename = "celery_redbeat-2.1.1-py2.py3-none-any.whl" },
+  { filename = "celery_redbeat-2.1.0-py2.py3-none-any.whl" },
+]

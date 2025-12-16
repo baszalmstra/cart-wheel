@@ -1,0 +1,12 @@
+# Package configuration for makefun
+conda_forge = "makefun"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "makefun-1.16.0-py2.py3-none-any.whl" },
+  { filename = "makefun-1.15.6-py2.py3-none-any.whl" },
+  { filename = "makefun-1.15.4-py2.py3-none-any.whl" },
+  { filename = "makefun-1.15.3-py2.py3-none-any.whl" },
+  { filename = "makefun-1.15.2-py2.py3-none-any.whl" },
+]

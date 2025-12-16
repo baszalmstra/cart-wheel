@@ -1,0 +1,11 @@
+# Package configuration for pip-check
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pip_check-3.2.1-py3-none-any.whl" },
+  { filename = "pip_check-3.2-py3-none-any.whl" },
+  { filename = "pip_check-3.1-py3-none-any.whl" },
+  { filename = "pip_check-3.0-py3-none-any.whl" },
+  { filename = "pip_check-2.10-py3-none-any.whl" },
+]

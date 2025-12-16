@@ -1,0 +1,12 @@
+# Package configuration for yandex-query-client
+conda_forge = "yandex-query-client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "yandex_query_client-0.1.4-py3-none-any.whl" },
+  { filename = "yandex_query_client-0.1.3-py3-none-any.whl" },
+  { filename = "yandex_query_client-0.1.2-py3-none-any.whl" },
+  { filename = "yandex_query_client-0.1.1-py3-none-any.whl" },
+  { filename = "yandex_query_client-0.1.0-py3-none-any.whl" },
+]

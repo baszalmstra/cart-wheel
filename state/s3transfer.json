@@ -1,0 +1,67 @@
+{
+  "s3transfer-0.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18e25d66fed509e3868dc1572b3f427ff947dd2c56f844a5bf09481ad3f3b2fe",
+    "dependencies": {
+      "required": [
+        "botocore"
+      ]
+    },
+    "original_requirements": [
+      "botocore (<2.0a.0,>=1.37.4)",
+      "botocore[crt] (<2.0a.0,>=1.37.4) ; extra == 'crt'"
+    ]
+  },
+  "s3transfer-0.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f8bf5caa31a0865c4081186689db1b2534cef721d104eb26101de4b9d6a5852",
+    "dependencies": {
+      "required": [
+        "botocore"
+      ]
+    },
+    "original_requirements": [
+      "botocore (<2.0a.0,>=1.37.4)",
+      "botocore[crt] (<2.0a.0,>=1.37.4) ; extra == 'crt'"
+    ]
+  },
+  "s3transfer-0.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ea3b790c7077558ed1f02a3072fb3cb992bbbd253392f4b6e9e8976941c7d456",
+    "dependencies": {
+      "required": [
+        "botocore"
+      ]
+    },
+    "original_requirements": [
+      "botocore (<2.0a.0,>=1.37.4)",
+      "botocore[crt] (<2.0a.0,>=1.37.4) ; extra == 'crt'"
+    ]
+  },
+  "s3transfer-0.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a981aa7429be23fe6dfc13e80e4020057cbab622b08c0315288758d67cabc724",
+    "dependencies": {
+      "required": [
+        "botocore"
+      ]
+    },
+    "original_requirements": [
+      "botocore (<2.0a.0,>=1.37.4)",
+      "botocore[crt] (<2.0a.0,>=1.37.4) ; extra == 'crt'"
+    ]
+  },
+  "s3transfer-0.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0148ef34d6dd964d0d8cf4311b2b21c474693e57c2e069ec708ce043d2b527be",
+    "dependencies": {
+      "required": [
+        "botocore"
+      ]
+    },
+    "original_requirements": [
+      "botocore (<2.0a.0,>=1.37.4)",
+      "botocore[crt] (<2.0a.0,>=1.37.4) ; extra == 'crt'"
+    ]
+  }
+}

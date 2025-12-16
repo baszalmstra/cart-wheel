@@ -1,0 +1,87 @@
+{
+  "flake8_requirements-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b097398b8d1e3382e1e887bb884fb20bd159a5069011972a615b8ac66548830",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "tomli",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "flake8>=4.0.0",
+      "tomli>=1.2.1; python_version < \"3.11\"",
+      "packaging>=20.0",
+      "Flake8-pyproject; extra == \"pyproject\""
+    ]
+  },
+  "flake8_requirements-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b662d1297fa3f6f92d481791172e0fe781b19bec9f7474c6c0ee8e629efcdedf",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "setuptools",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "flake8 >=4.0.0",
+      "setuptools >=10.0.0",
+      "tomli >=1.2.1 ; python_version < \"3.11\"",
+      "Flake8-pyproject ; extra == 'pyproject'"
+    ]
+  },
+  "flake8_requirements-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "064bda131a3aa040ee0873ef346fddd1d2690245f59b6c0a990fa286124f0d0d",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "setuptools",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "flake8 >=4.0.0",
+      "setuptools >=10.0.0",
+      "tomli >=1.2.1 ; python_version < \"3.11\"",
+      "Flake8-pyproject ; extra == 'pyproject'"
+    ]
+  },
+  "flake8_requirements-2.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b9469cd109258721726f4b90784c75cc60d04f442e38ffac35e654eecca9f1f1",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "setuptools",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "flake8 >=4.0.0",
+      "setuptools >=10.0.0",
+      "tomli >=1.2.1 ; python_version < \"3.11\"",
+      "Flake8-pyproject ; extra == 'pyproject'"
+    ]
+  },
+  "flake8_requirements-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a437e55c936542943bd532130772575f95690df1f57ad85191cec007d78a2f96",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "setuptools",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "flake8 >=4.0.0",
+      "setuptools >=10.0.0",
+      "tomli >=1.2.1 ; python_version < \"3.11\"",
+      "Flake8-pyproject ; extra == 'pyproject'"
+    ]
+  }
+}

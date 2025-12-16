@@ -1,0 +1,88 @@
+{
+  "juliapkg-0.1.22-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc197c21087345e296036190c769b888f7701bf1fb47d7036a20d01221ec550a",
+    "dependencies": {
+      "required": [
+        "filelock",
+        "semver",
+        "tomli",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "filelock<4.0,>=3.16",
+      "semver<4.0,>=3.0",
+      "tomli<3.0,>=2.0",
+      "tomlkit<0.14,>=0.13.3",
+      "click<9.0,>=8.0; extra == 'cli'"
+    ]
+  },
+  "juliapkg-0.1.21-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a768091ada559e9a6a267936d6417f6afd5a72e9767647834f497d0f0cdffd2f",
+    "dependencies": {
+      "required": [
+        "filelock",
+        "semver",
+        "tomli",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "filelock<4.0,>=3.16",
+      "semver<4.0,>=3.0",
+      "tomli<3.0,>=2.0",
+      "tomlkit<0.14,>=0.13.3",
+      "click<9.0,>=8.0; extra == 'cli'"
+    ]
+  },
+  "juliapkg-0.1.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4a7ecce2837963bb7039736bbc779d69cb95d4e7fd2f990d33aae73d6fe676f",
+    "dependencies": {
+      "required": [
+        "filelock",
+        "semver",
+        "tomli",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "filelock<4.0,>=3.16",
+      "semver<4.0,>=3.0",
+      "tomli<3.0,>=2.0",
+      "tomlkit<0.14,>=0.13.3",
+      "click<9.0,>=8.0; extra == 'cli'"
+    ]
+  },
+  "juliapkg-0.1.19-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "184e2ab84e43b7432e444a0483682bd3ea549ca4aed90e349dd151629d596f59",
+    "dependencies": {
+      "required": [
+        "filelock",
+        "semver"
+      ]
+    },
+    "original_requirements": [
+      "filelock<4.0,>=3.16",
+      "semver<4.0,>=3.0",
+      "click<9.0,>=8.0; extra == 'cli'"
+    ]
+  },
+  "juliapkg-0.1.18-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3bafa6b160c02ef1d7a7b19b22fa187a551ead055cd1e3c2d20d5d4ec36363b",
+    "dependencies": {
+      "required": [
+        "filelock",
+        "semver"
+      ]
+    },
+    "original_requirements": [
+      "filelock<4.0,>=3.16",
+      "semver<4.0,>=3.0"
+    ]
+  }
+}

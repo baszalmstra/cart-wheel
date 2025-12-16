@@ -1,0 +1,74 @@
+{
+  "sphinx_comments-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e879b4e9bfa641467f83e3441ac4629225fc57c29995177d043252530c21d00",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=1.8)",
+      "flake8 (<3.8.0,>=3.7.0) ; extra == 'code_style'",
+      "black ; extra == 'code_style'",
+      "pre-commit (==1.17.0) ; extra == 'code_style'",
+      "sphinx (>=2) ; extra == 'sphinx'",
+      "sphinx-book-theme ; extra == 'sphinx'",
+      "myst-parser ; extra == 'sphinx'",
+      "beautifulsoup4 ; extra == 'testing'",
+      "myst-parser ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "sphinx (>=2) ; extra == 'testing'",
+      "sphinx-book-theme ; extra == 'testing'"
+    ]
+  },
+  "sphinx_comments-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c8f702ba5892f177cf21c7a3550c49f6c570d117df5584f571dbba9446b5b72",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=1.8)",
+      "flake8 (<3.8.0,>=3.7.0) ; extra == 'code_style'",
+      "black ; extra == 'code_style'",
+      "pre-commit (==1.17.0) ; extra == 'code_style'",
+      "sphinx (>=2) ; extra == 'sphinx'",
+      "sphinx-book-theme ; extra == 'sphinx'",
+      "myst-parser ; extra == 'sphinx'",
+      "beautifulsoup4 ; extra == 'testing'",
+      "myst-parser ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "sphinx (>=2) ; extra == 'testing'",
+      "sphinx-book-theme ; extra == 'testing'"
+    ]
+  },
+  "sphinx_comments-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cec1db3b1e1704891d281e1e1a0e17c75a83518cff5174f2fa8546656ae9174b",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=1.8)",
+      "flake8 (<3.8.0,>=3.7.0) ; extra == 'code_style'",
+      "black ; extra == 'code_style'",
+      "pre-commit (==1.17.0) ; extra == 'code_style'",
+      "sphinx (>=2) ; extra == 'sphinx'",
+      "sphinx-book-theme ; extra == 'sphinx'",
+      "myst-parser ; extra == 'sphinx'",
+      "beautifulsoup4 ; extra == 'testing'",
+      "myst-parser ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "sphinx (>=2) ; extra == 'testing'",
+      "sphinx-book-theme ; extra == 'testing'"
+    ]
+  }
+}

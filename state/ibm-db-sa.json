@@ -1,0 +1,73 @@
+{
+  "ibm_db_sa-0.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db24b200cc2b939bf1f68f14ff64a113d1589cfa764f7d26fc0216ba3174913a",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "ibm-db"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy>=0.7.3",
+      "ibm_db>=2.0.0",
+      "nose>=0.11; extra == \"dev\""
+    ]
+  },
+  "ibm_db_sa-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "284cd29cd493c275d168b79d578021ba1c8aa6205e09cd8d3defb8f59d6587ee",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "ibm-db"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy>=0.7.3",
+      "ibm_db>=2.0.0"
+    ]
+  },
+  "ibm_db_sa-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49926ba9799e6ebd9ddd847141537c83d179ecf32fe24b7e997ac4614d3f616a",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "ibm-db"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy >=0.7.3",
+      "ibm-db >=2.0.0"
+    ]
+  },
+  "ibm_db_sa-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03cea38a06e41a823d657559bca93ba458382a90f5c4f7d80bb9e2a78234a6d3",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "ibm-db"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy (>=0.7.3)",
+      "ibm-db (>=2.0.0)"
+    ]
+  },
+  "ibm_db_sa-0.3.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "234342273902e492d1a6e050c41d2292e320fa71398678726d3373347ec9b710",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "ibm-db"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy (>=0.7.3)",
+      "ibm-db (>=2.0.0)"
+    ]
+  }
+}

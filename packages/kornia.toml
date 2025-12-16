@@ -1,0 +1,12 @@
+# Package configuration for kornia
+conda_forge = "kornia"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kornia-0.8.2-py2.py3-none-any.whl" },
+  { filename = "kornia-0.8.1-py2.py3-none-any.whl" },
+  { filename = "kornia-0.8.0-py2.py3-none-any.whl" },
+  { filename = "kornia-0.7.4-py2.py3-none-any.whl" },
+  { filename = "kornia-0.7.3-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for port-for
+conda_forge = "port-for"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "port_for-1.0.0-py3-none-any.whl" },
+  { filename = "port_for-0.7.4-py3-none-any.whl" },
+  { filename = "port_for-0.7.3-py3-none-any.whl" },
+  { filename = "port_for-0.7.2-py3-none-any.whl" },
+  { filename = "port_for-0.7.1-py3-none-any.whl" },
+]

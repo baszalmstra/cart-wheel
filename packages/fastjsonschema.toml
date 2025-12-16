@@ -1,0 +1,12 @@
+# Package configuration for fastjsonschema
+conda_forge = "python-fastjsonschema"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fastjsonschema-2.21.2-py3-none-any.whl" },
+  { filename = "fastjsonschema-2.21.1-py3-none-any.whl" },
+  { filename = "fastjsonschema-2.21.0-py3-none-any.whl" },
+  { filename = "fastjsonschema-2.20.0-py3-none-any.whl" },
+  { filename = "fastjsonschema-2.19.1-py3-none-any.whl" },
+]

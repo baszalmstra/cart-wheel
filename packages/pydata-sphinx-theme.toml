@@ -1,0 +1,12 @@
+# Package configuration for pydata-sphinx-theme
+conda_forge = "pydata-sphinx-theme"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydata_sphinx_theme-0.16.1-py3-none-any.whl" },
+  { filename = "pydata_sphinx_theme-0.16.0-py3-none-any.whl" },
+  { filename = "pydata_sphinx_theme-0.15.4-py3-none-any.whl" },
+  { filename = "pydata_sphinx_theme-0.15.3-py3-none-any.whl" },
+  { filename = "pydata_sphinx_theme-0.15.2-py3-none-any.whl" },
+]

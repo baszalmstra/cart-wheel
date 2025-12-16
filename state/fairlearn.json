@@ -1,0 +1,94 @@
+{
+  "fairlearn-0.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f322eecac24c4799c9ea6cf6f203bf1a76db5d4c13182f887905974b344adc91",
+    "dependencies": {
+      "required": [
+        "narwhals",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "narwhals>=1.14.0",
+      "numpy>=1.24.4",
+      "pandas>=2.0.3",
+      "scikit-learn>=1.2.1",
+      "scipy<1.16.0,>=1.9.3"
+    ]
+  },
+  "fairlearn-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bcebeec54a7c35bc2ff0ce6e5cb123b959ad46ff8f9032d9cea9906f604dfaf4",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24.4",
+      "pandas>=2.0.3",
+      "scikit-learn>=1.2.1",
+      "scipy>=1.9.3"
+    ]
+  },
+  "fairlearn-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8592e54412bd612a6a9823d177c9eab9212582c22ca01723739362971fcc266",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24.4",
+      "pandas>=2.0.3",
+      "scikit-learn>=1.2.1",
+      "scipy>=1.9.3"
+    ]
+  },
+  "fairlearn-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "772224097f8c073168bde44e659d7a2107f96d608063a738df9c985e17dab30f",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.24.4",
+      "pandas >=2.0.3",
+      "scikit-learn >=1.2.1",
+      "scipy >=1.9.3"
+    ]
+  },
+  "fairlearn-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08e75168a57274d4c8d24168fbb1e7c3f698f89ea542df12e0bf16886e289f8b",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.18.0)",
+      "pandas (>=0.25.2)",
+      "scikit-learn (>=0.22.1)",
+      "scipy (>=1.5.0)"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "aiomysql-0.3.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:24.623916+00:00",
+    "conda_file": "aiomysql-0.3.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pymysql"
+      ],
+      "optional": {
+        "sa": [
+          "sqlalchemy"
+        ],
+        "rsa": [
+          "pymysql[extras=[rsa]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "PyMySQL>=1.0",
+      "sqlalchemy<1.4,>=1.3; extra == \"sa\"",
+      "PyMySQL[rsa]>=1.0; extra == \"rsa\""
+    ]
+  },
+  "aiomysql-0.3.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:24.687515+00:00",
+    "conda_file": "aiomysql-0.3.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pymysql"
+      ],
+      "optional": {
+        "sa": [
+          "sqlalchemy"
+        ],
+        "rsa": [
+          "pymysql[extras=[rsa]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "PyMySQL>=1.0",
+      "sqlalchemy<1.4,>=1.3; extra == \"sa\"",
+      "PyMySQL[rsa]>=1.0; extra == \"rsa\""
+    ]
+  },
+  "aiomysql-0.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:25.059227+00:00",
+    "conda_file": "aiomysql-0.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pymysql"
+      ],
+      "optional": {
+        "sa": [
+          "sqlalchemy"
+        ],
+        "rsa": [
+          "pymysql[extras=[rsa]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "PyMySQL>=1.0",
+      "sqlalchemy<1.4,>=1.3; extra == \"sa\"",
+      "PyMySQL[rsa]>=1.0; extra == \"rsa\""
+    ]
+  },
+  "aiomysql-0.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:24.918200+00:00",
+    "conda_file": "aiomysql-0.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pymysql"
+      ],
+      "optional": {
+        "rsa": [
+          "pymysql[extras=[rsa]]"
+        ],
+        "sa": [
+          "sqlalchemy"
+        ]
+      }
+    },
+    "original_requirements": [
+      "PyMySQL (>=1.0)",
+      "PyMySQL[rsa] (>=1.0) ; extra == 'rsa'",
+      "sqlalchemy (<1.4,>=1.3) ; extra == 'sa'"
+    ]
+  },
+  "aiomysql-0.1.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:25.321121+00:00",
+    "conda_file": "aiomysql-0.1.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pymysql"
+      ],
+      "optional": {
+        "rsa": [
+          "pymysql[extras=[rsa]]"
+        ],
+        "sa": [
+          "sqlalchemy"
+        ]
+      }
+    },
+    "original_requirements": [
+      "PyMySQL (>=1.0)",
+      "PyMySQL[rsa] (>=1.0) ; extra == 'rsa'",
+      "sqlalchemy (<1.4,>=1.0) ; extra == 'sa'"
+    ]
+  }
+}

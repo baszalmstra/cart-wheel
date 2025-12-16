@@ -1,0 +1,26 @@
+{
+  "types_aiobotocore_mwaa_serverless-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "75070540ee2e7ba5869454f5f7d723c18cfaa28d4756decead8a95c11302e31e",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "types_aiobotocore_mwaa_serverless-2.26.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b27679cefaa4d0a19af48c9a97329eaa3cdddec4cadcffb076cc78988f93349a",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

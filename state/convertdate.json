@@ -1,0 +1,85 @@
+{
+  "convertdate-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fcffe3a67522172648cf03b0c3757cfd079726fe5ae04ce29989ad3958039e4e",
+    "dependencies": {
+      "required": [
+        "pymeeus"
+      ]
+    },
+    "original_requirements": [
+      "pymeeus (<=1,>=0.3.13)",
+      "build ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "myst-parser ; extra == 'docs'",
+      "coverage ; extra == 'tests'"
+    ]
+  },
+  "convertdate-2.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8f5e9efc2b71410d33217012c0a215f83463f765c94d5883bf656ce7a962b888",
+    "dependencies": {
+      "required": [
+        "pytz",
+        "pymeeus"
+      ]
+    },
+    "original_requirements": [
+      "pytz (>=2014.10)",
+      "pymeeus (<=1,>=0.3.13)",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "coverage ; extra == 'test'"
+    ]
+  },
+  "convertdate-2.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ede4b0bfbef002de8e31b9d8c03dc619a210915ce453e7a4826ac8808110fcff",
+    "dependencies": {
+      "required": [
+        "pytz",
+        "pymeeus"
+      ]
+    },
+    "original_requirements": [
+      "pytz (>=2014.10)",
+      "pymeeus (!=0.3.8,<=1,>=0.3.6)",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "coverage ; extra == 'test'"
+    ]
+  },
+  "convertdate-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c400ddf5c43af980b3d48cdaf6cf3e8d3459a7fbf4d6cb74b729430b8c649d9e",
+    "dependencies": {
+      "required": [
+        "pytz",
+        "pymeeus"
+      ]
+    },
+    "original_requirements": [
+      "pytz (>=2014.10)",
+      "pymeeus (<=1,>=0.3.6)",
+      "coverage ; extra == 'test'"
+    ]
+  },
+  "convertdate-2.2.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3cc5e5cb3f0eaccf589cc04aaa4cfdad1f9637c875f514856c0d87c7ab0a7b9b",
+    "dependencies": {
+      "required": [
+        "pytz",
+        "pymeeus"
+      ]
+    },
+    "original_requirements": [
+      "pytz (>=2014.10)",
+      "pymeeus (<=1,>=0.3.6)"
+    ]
+  }
+}

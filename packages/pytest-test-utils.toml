@@ -1,0 +1,11 @@
+# Package configuration for pytest-test-utils
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_test_utils-0.1.0-py3-none-any.whl" },
+  { filename = "pytest_test_utils-0.0.8-py3-none-any.whl" },
+  { filename = "pytest_test_utils-0.0.7-py3-none-any.whl" },
+  { filename = "pytest_test_utils-0.0.6-py3-none-any.whl" },
+  { filename = "pytest_test_utils-0.0.5-py3-none-any.whl" },
+]

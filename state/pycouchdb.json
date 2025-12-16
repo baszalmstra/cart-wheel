@@ -1,0 +1,40 @@
+{
+  "pycouchdb-1.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e26ce58f626fcabbe2f5b15b3ad2b89cdd3f6d666da673632037476d1191ab67",
+    "dependencies": {
+      "required": [
+        "chardet",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "chardet (>=5.2.0,<6.0.0)",
+      "requests (>=2.28,<3.0)"
+    ]
+  },
+  "pycouchdb-1.14.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "434758aa6b49c6a67fcf89e71a11c36e2ec2df51e2998c38bcd570eab94cc288",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.25,<3.0)"
+    ]
+  },
+  "pycouchdb-1.14.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca336eb6ad44b497f9674d98192d3e4c0560d9b8d579c15ba62c7a9615deb2ea",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.23.0,<3.0.0)"
+    ]
+  }
+}

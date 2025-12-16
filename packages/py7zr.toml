@@ -1,0 +1,12 @@
+# Package configuration for py7zr
+conda_forge = "py7zr"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "py7zr-1.0.0-py3-none-any.whl" },
+  { filename = "py7zr-0.22.0-py3-none-any.whl" },
+  { filename = "py7zr-0.21.1-py3-none-any.whl" },
+  { filename = "py7zr-0.21.0-py3-none-any.whl" },
+  { filename = "py7zr-0.20.8-py3-none-any.whl" },
+]

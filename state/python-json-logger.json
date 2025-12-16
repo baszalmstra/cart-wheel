@@ -1,0 +1,159 @@
+{
+  "python_json_logger-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "af09c9daf6a813aa4cc7180395f50f2a9e5fa056034c9953aec92e381c5ba1e2",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions; python_version < \"3.10\"",
+      "orjson; implementation_name != \"pypy\" and extra == \"dev\"",
+      "msgspec; implementation_name != \"pypy\" and extra == \"dev\"",
+      "validate-pyproject[all]; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "pylint; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "freezegun; extra == \"dev\"",
+      "backports.zoneinfo; python_version < \"3.9\" and extra == \"dev\"",
+      "tzdata; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocs-material>=8.5; extra == \"dev\"",
+      "mkdocs-awesome-pages-plugin; extra == \"dev\"",
+      "mdx_truly_sane_lists; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-literate-nav; extra == \"dev\"",
+      "mike; extra == \"dev\""
+    ]
+  },
+  "python_json_logger-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd980fae8cffb24c13caf6e158d3d61c0d6d22342f932cb6e9deedab3d35eec7",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions; python_version < \"3.10\"",
+      "orjson; implementation_name != \"pypy\" and extra == \"dev\"",
+      "msgspec; implementation_name != \"pypy\" and extra == \"dev\"",
+      "validate-pyproject[all]; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "pylint; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "freezegun; extra == \"dev\"",
+      "backports.zoneinfo; python_version < \"3.9\" and extra == \"dev\"",
+      "tzdata; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocs-material>=8.5; extra == \"dev\"",
+      "mkdocs-awesome-pages-plugin; extra == \"dev\"",
+      "mdx_truly_sane_lists; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-literate-nav; extra == \"dev\"",
+      "mike; extra == \"dev\""
+    ]
+  },
+  "python_json_logger-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cdc17047eb5374bd311e748b42f99d71223f3b0e186f4206cc5d52aefe85b090",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions; python_version < \"3.10\"",
+      "orjson; implementation_name != \"pypy\" and extra == \"dev\"",
+      "msgspec; (implementation_name != \"pypy\" and python_version < \"3.13\") and extra == \"dev\"",
+      "msgspec-python313-pre; (implementation_name != \"pypy\" and python_version == \"3.13\") and extra == \"dev\"",
+      "validate-pyproject[all]; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "pylint; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "freezegun; extra == \"dev\"",
+      "backports.zoneinfo; python_version < \"3.9\" and extra == \"dev\"",
+      "tzdata; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocs-material>=8.5; extra == \"dev\"",
+      "mkdocs-awesome-pages-plugin; extra == \"dev\"",
+      "mdx_truly_sane_lists; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-literate-nav; extra == \"dev\"",
+      "mike; extra == \"dev\""
+    ]
+  },
+  "python_json_logger-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d73522ddcfc6d0461394120feaddea9025dc64bf804d96357dd42fa878cc5fe8",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions; python_version < \"3.10\"",
+      "orjson; implementation_name != \"pypy\" and extra == \"dev\"",
+      "msgspec; (implementation_name != \"pypy\" and python_version < \"3.13\") and extra == \"dev\"",
+      "msgspec-python313-pre; (implementation_name != \"pypy\" and python_version == \"3.13\") and extra == \"dev\"",
+      "validate-pyproject[all]; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "pylint; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "freezegun; extra == \"dev\"",
+      "backports.zoneinfo; python_version < \"3.9\" and extra == \"dev\"",
+      "tzdata; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocs-material>=8.5; extra == \"dev\"",
+      "mkdocs-awesome-pages-plugin; extra == \"dev\"",
+      "mdx_truly_sane_lists; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-literate-nav; extra == \"dev\"",
+      "mike; extra == \"dev\""
+    ]
+  },
+  "python_json_logger-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c7a5df7384cbe748f7531f784aad775b50ed5b9123f78e95f0370c7acce0513",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "validate-pyproject[all] ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "freezegun ; extra == 'dev'",
+      "tzdata ; extra == 'dev'",
+      "build ; extra == 'dev'",
+      "mkdocs ; extra == 'dev'",
+      "mkdocs-material >=8.5 ; extra == 'dev'",
+      "mkdocs-awesome-pages-plugin ; extra == 'dev'",
+      "mdx-truly-sane-lists ; extra == 'dev'",
+      "mkdocstrings[python] ; extra == 'dev'",
+      "mkdocs-gen-files ; extra == 'dev'",
+      "mkdocs-literate-nav ; extra == 'dev'",
+      "mike ; extra == 'dev'",
+      "orjson ; (implementation_name != \"pypy\" and python_version < \"3.13\") and extra == 'dev'",
+      "msgspec ; (implementation_name != \"pypy\" and python_version < \"3.13\") and extra == 'dev'",
+      "backports.zoneinfo ; (python_version < \"3.9\") and extra == 'dev'"
+    ]
+  }
+}

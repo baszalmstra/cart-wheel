@@ -1,0 +1,213 @@
+{
+  "mypy_strict_kwargs-2025.4.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4a7c0bd39827ba4d9f273e54002c86aadff878bb0883aa45443c6c0051caed9",
+    "dependencies": {
+      "required": [
+        "mypy",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "mypy>=1.13.0",
+      "tomli>=1.2.2",
+      "actionlint-py==1.7.7.23; extra == \"dev\"",
+      "check-manifest==0.50; extra == \"dev\"",
+      "deptry==0.23.0; extra == \"dev\"",
+      "doc8==1.1.2; extra == \"dev\"",
+      "doccmd==2025.2.18; extra == \"dev\"",
+      "docformatter==1.7.5; extra == \"dev\"",
+      "interrogate==1.7.0; extra == \"dev\"",
+      "mypy[faster-cache]==1.15.0; extra == \"dev\"",
+      "pre-commit==4.2.0; extra == \"dev\"",
+      "pyenchant==3.3.0rc1; extra == \"dev\"",
+      "pylint==3.3.6; extra == \"dev\"",
+      "pylint-per-file-ignores==1.4.0; extra == \"dev\"",
+      "pyproject-fmt==2.5.1; extra == \"dev\"",
+      "pyright==1.1.398; extra == \"dev\"",
+      "pyroma==4.2; extra == \"dev\"",
+      "pytest==8.3.5; extra == \"dev\"",
+      "pytest-cov==6.1.0; extra == \"dev\"",
+      "pytest-mypy-plugins==3.2.0; extra == \"dev\"",
+      "pyyaml==6.0.2; extra == \"dev\"",
+      "ruff==0.11.3; extra == \"dev\"",
+      "shellcheck-py==0.10.0.1; extra == \"dev\"",
+      "shfmt-py==3.11.0.2; extra == \"dev\"",
+      "sphinx-lint==1.0.0; extra == \"dev\"",
+      "tomli==2.2.1; extra == \"dev\"",
+      "vulture==2.14; extra == \"dev\"",
+      "yamlfix==1.17.0; extra == \"dev\"",
+      "check-wheel-contents==0.6.1; extra == \"release\""
+    ]
+  },
+  "mypy_strict_kwargs-2025.3.28-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3d2975f4c2aa9bd54de7e32bcfb135da34ed53b993b9cc4b74d9ba266e48606",
+    "dependencies": {
+      "required": [
+        "mypy"
+      ]
+    },
+    "original_requirements": [
+      "mypy>=1.13.0",
+      "actionlint-py==1.7.7.23; extra == \"dev\"",
+      "check-manifest==0.50; extra == \"dev\"",
+      "deptry==0.23.0; extra == \"dev\"",
+      "doc8==1.1.2; extra == \"dev\"",
+      "doccmd==2025.3.18; extra == \"dev\"",
+      "docformatter==1.7.5; extra == \"dev\"",
+      "interrogate==1.7.0; extra == \"dev\"",
+      "mypy[faster-cache]==1.15.0; extra == \"dev\"",
+      "pre-commit==4.2.0; extra == \"dev\"",
+      "pyenchant==3.3.0rc1; extra == \"dev\"",
+      "pylint==3.3.6; extra == \"dev\"",
+      "pylint-per-file-ignores==1.4.0; extra == \"dev\"",
+      "pyproject-fmt==2.5.1; extra == \"dev\"",
+      "pyright==1.1.398; extra == \"dev\"",
+      "pyroma==4.2; extra == \"dev\"",
+      "pytest==8.3.5; extra == \"dev\"",
+      "pytest-cov==6.0.0; extra == \"dev\"",
+      "pytest-mypy-plugins==3.2.0; extra == \"dev\"",
+      "pyyaml==6.0.2; extra == \"dev\"",
+      "ruff==0.11.2; extra == \"dev\"",
+      "shellcheck-py==0.10.0.1; extra == \"dev\"",
+      "shfmt-py==3.11.0.2; extra == \"dev\"",
+      "sphinx-lint==1.0.0; extra == \"dev\"",
+      "vulture==2.14; extra == \"dev\"",
+      "yamlfix==1.17.0; extra == \"dev\"",
+      "check-wheel-contents==0.6.1; extra == \"release\""
+    ]
+  },
+  "mypy_strict_kwargs-2024.12.25-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2fc8c019c16d841ba37ef964bb407319b19eba8f39192b7c2c35e6fbfa5cad6b",
+    "dependencies": {
+      "required": [
+        "mypy"
+      ]
+    },
+    "original_requirements": [
+      "mypy>=1.13.0",
+      "actionlint-py==1.7.4.20; extra == \"dev\"",
+      "check-manifest==0.50; extra == \"dev\"",
+      "deptry==0.21.2; extra == \"dev\"",
+      "doc8==1.1.2; extra == \"dev\"",
+      "doccmd==2024.11.14; extra == \"dev\"",
+      "docformatter==1.7.5; extra == \"dev\"",
+      "freezegun==1.5.1; extra == \"dev\"",
+      "interrogate==1.7.0; extra == \"dev\"",
+      "mypy[faster-cache]==1.14.0; extra == \"dev\"",
+      "pre-commit==4.0.1; extra == \"dev\"",
+      "pyenchant==3.3.0rc1; extra == \"dev\"",
+      "pylint==3.3.3; extra == \"dev\"",
+      "pylint-per-file-ignores==1.3.2; extra == \"dev\"",
+      "pyproject-fmt==2.5.0; extra == \"dev\"",
+      "pyright==1.1.391; extra == \"dev\"",
+      "pyroma==4.2; extra == \"dev\"",
+      "pytest==8.3.4; extra == \"dev\"",
+      "pytest-cov==6.0.0; extra == \"dev\"",
+      "pytest-mypy-plugins==3.2.0; extra == \"dev\"",
+      "pyyaml==6.0.2; extra == \"dev\"",
+      "ruff==0.8.4; extra == \"dev\"",
+      "shellcheck-py==0.10.0.1; extra == \"dev\"",
+      "shfmt-py==3.7.0.1; extra == \"dev\"",
+      "vulture==2.14; extra == \"dev\"",
+      "yamlfix==1.17.0; extra == \"dev\"",
+      "check-wheel-contents==0.6.1; extra == \"release\""
+    ]
+  },
+  "mypy_strict_kwargs-2024.12.24-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fa13ad1a8674db5095e3bb8e3327ea09b9c5a4f7e14b70cadbf00ec2836e934c",
+    "dependencies": {
+      "required": [
+        "mypy"
+      ]
+    },
+    "original_requirements": [
+      "mypy>=1.13.0",
+      "actionlint-py==1.7.4.20; extra == \"dev\"",
+      "check-manifest==0.50; extra == \"dev\"",
+      "deptry==0.21.2; extra == \"dev\"",
+      "doc8==1.1.2; extra == \"dev\"",
+      "doccmd==2024.11.14; extra == \"dev\"",
+      "docformatter==1.7.5; extra == \"dev\"",
+      "freezegun==1.5.1; extra == \"dev\"",
+      "furo==2024.8.6; extra == \"dev\"",
+      "interrogate==1.7.0; extra == \"dev\"",
+      "mypy[faster-cache]==1.14.0; extra == \"dev\"",
+      "pre-commit==4.0.1; extra == \"dev\"",
+      "pydocstyle==6.3; extra == \"dev\"",
+      "pyenchant==3.3.0rc1; extra == \"dev\"",
+      "pygments==2.18.0; extra == \"dev\"",
+      "pylint==3.3.3; extra == \"dev\"",
+      "pylint-per-file-ignores==1.3.2; extra == \"dev\"",
+      "pyproject-fmt==2.5.0; extra == \"dev\"",
+      "pyright==1.1.391; extra == \"dev\"",
+      "pyroma==4.2; extra == \"dev\"",
+      "pytest==8.3.4; extra == \"dev\"",
+      "pytest-cov==6.0.0; extra == \"dev\"",
+      "pytest-mypy-plugins==3.2.0; extra == \"dev\"",
+      "pyyaml==6.0.2; extra == \"dev\"",
+      "ruff==0.8.4; extra == \"dev\"",
+      "shellcheck-py==0.10.0.1; extra == \"dev\"",
+      "shfmt-py==3.7.0.1; extra == \"dev\"",
+      "sphinx==8.1.3; extra == \"dev\"",
+      "sphinx-copybutton==0.5.2; extra == \"dev\"",
+      "sphinx-substitution-extensions==2024.10.17; extra == \"dev\"",
+      "sphinxcontrib-spelling==8.0.1; extra == \"dev\"",
+      "sybil==9.0.0; extra == \"dev\"",
+      "types-requests==2.32.0.20241016; extra == \"dev\"",
+      "vulture==2.14; extra == \"dev\"",
+      "yamlfix==1.17.0; extra == \"dev\"",
+      "check-wheel-contents==0.6.1; extra == \"release\""
+    ]
+  },
+  "mypy_strict_kwargs-2024.12.23.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "189de9e78b22faa5d7453d925874c6960f4993a3c346bdd8c9f11126f5b23815",
+    "dependencies": {
+      "required": [
+        "mypy"
+      ]
+    },
+    "original_requirements": [
+      "mypy>=1.13.0",
+      "actionlint-py==1.7.4.20; extra == \"dev\"",
+      "check-manifest==0.50; extra == \"dev\"",
+      "deptry==0.21.2; extra == \"dev\"",
+      "doc8==1.1.2; extra == \"dev\"",
+      "doccmd==2024.11.14; extra == \"dev\"",
+      "docformatter==1.7.5; extra == \"dev\"",
+      "freezegun==1.5.1; extra == \"dev\"",
+      "furo==2024.8.6; extra == \"dev\"",
+      "interrogate==1.7.0; extra == \"dev\"",
+      "mypy[faster-cache]==1.14.0; extra == \"dev\"",
+      "pre-commit==4.0.1; extra == \"dev\"",
+      "pydocstyle==6.3; extra == \"dev\"",
+      "pyenchant==3.3.0rc1; extra == \"dev\"",
+      "pygments==2.18.0; extra == \"dev\"",
+      "pylint==3.3.2; extra == \"dev\"",
+      "pylint-per-file-ignores==1.3.2; extra == \"dev\"",
+      "pyproject-fmt==2.5.0; extra == \"dev\"",
+      "pyright==1.1.391; extra == \"dev\"",
+      "pyroma==4.2; extra == \"dev\"",
+      "pytest==8.3.4; extra == \"dev\"",
+      "pytest-cov==6.0.0; extra == \"dev\"",
+      "pytest-mypy-plugins==3.2.0; extra == \"dev\"",
+      "pyyaml==6.0.2; extra == \"dev\"",
+      "ruff==0.8.4; extra == \"dev\"",
+      "shellcheck-py==0.10.0.1; extra == \"dev\"",
+      "shfmt-py==3.7.0.1; extra == \"dev\"",
+      "sphinx==8.1.3; extra == \"dev\"",
+      "sphinx-copybutton==0.5.2; extra == \"dev\"",
+      "sphinx-substitution-extensions==2024.10.17; extra == \"dev\"",
+      "sphinxcontrib-spelling==8.0.1; extra == \"dev\"",
+      "sybil==9.0.0; extra == \"dev\"",
+      "types-requests==2.32.0.20241016; extra == \"dev\"",
+      "vulture==2.14; extra == \"dev\"",
+      "yamlfix==1.17.0; extra == \"dev\"",
+      "check-wheel-contents==0.6.1; extra == \"release\""
+    ]
+  }
+}

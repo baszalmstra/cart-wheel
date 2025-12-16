@@ -1,0 +1,112 @@
+{
+  "python_lsp_ruff-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b858b698fbaff5670f6d5e6c66afc632908f78639d73dc85dedd33ae5fdd204f",
+    "dependencies": {
+      "required": [
+        "ruff",
+        "python-lsp-server",
+        "cattrs",
+        "lsprotocol",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "ruff>=0.2.0",
+      "python-lsp-server",
+      "cattrs!=23.2.1",
+      "lsprotocol>=2023.0.1",
+      "tomli>=1.1.0; python_version < \"3.11\"",
+      "pytest; extra == \"dev\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  },
+  "python_lsp_ruff-2.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7034d16c5cfdf07e932195649ebef569a7ddfcc5853fb2fee05fa7fc739afe3a",
+    "dependencies": {
+      "required": [
+        "ruff",
+        "python-lsp-server",
+        "cattrs",
+        "lsprotocol",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "ruff >=0.2.0",
+      "python-lsp-server",
+      "cattrs !=23.2.1",
+      "lsprotocol >=2023.0.1",
+      "tomli >=1.1.0 ; python_version < \"3.11\"",
+      "pytest ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'"
+    ]
+  },
+  "python_lsp_ruff-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b97779fc26be74c3900cdf53a724d22f574625c28dfc6855e0a013e0dbc452ab",
+    "dependencies": {
+      "required": [
+        "ruff",
+        "python-lsp-server",
+        "cattrs",
+        "lsprotocol",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "ruff >=0.2.0",
+      "python-lsp-server",
+      "cattrs !=23.2.1",
+      "lsprotocol >=2023.0.1",
+      "tomli >=1.1.0 ; python_version < \"3.11\"",
+      "pytest ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'"
+    ]
+  },
+  "python_lsp_ruff-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe0487c7997b38a59862c44e19cb815e24bb1b2f7cef4f1f32c61cf623a5ce94",
+    "dependencies": {
+      "required": [
+        "ruff",
+        "python-lsp-server",
+        "cattrs",
+        "lsprotocol",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "ruff >=0.2.0",
+      "python-lsp-server",
+      "cattrs !=23.2.1",
+      "lsprotocol >=2023.0.1",
+      "tomli >=1.1.0 ; python_version < \"3.11\"",
+      "pytest ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'"
+    ]
+  },
+  "python_lsp_ruff-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "83798549ec8c998c264fe4fbfc79456e30f4bfdc2d9922485cba9ae8a455c4fa",
+    "dependencies": {
+      "required": [
+        "ruff",
+        "python-lsp-server",
+        "cattrs",
+        "lsprotocol",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "ruff <0.3.0,>=0.2.0",
+      "python-lsp-server",
+      "cattrs !=23.2.1",
+      "lsprotocol >=2023.0.1",
+      "tomli >=1.1.0 ; python_version < \"3.11\"",
+      "pytest ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'"
+    ]
+  }
+}

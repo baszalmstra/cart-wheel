@@ -1,0 +1,12 @@
+# Package configuration for language-tags
+conda_forge = "language-tags"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "language_tags-1.2.0-py3-none-any.whl" },
+  { filename = "language_tags-1.1.0-py2.py3-none-any.whl" },
+  { filename = "language_tags-0.4.2-py2.py3-none-any.whl" },
+  { filename = "language_tags-0.4.1-py2.py3-none-any.whl" },
+  { filename = "language_tags-0.4.0-py2.py3-none-any.whl" },
+]

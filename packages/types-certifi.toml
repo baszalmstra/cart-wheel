@@ -1,0 +1,12 @@
+# Package configuration for types-certifi
+conda_forge = "types-certifi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_certifi-2021.10.8.3-py3-none-any.whl" },
+  { filename = "types_certifi-2021.10.8.2-py3-none-any.whl" },
+  { filename = "types_certifi-2021.10.8.1-py3-none-any.whl" },
+  { filename = "types_certifi-2021.10.8.0-py3-none-any.whl" },
+  { filename = "types_certifi-2020.4.0-py3-none-any.whl" },
+]

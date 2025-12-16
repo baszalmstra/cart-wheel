@@ -1,0 +1,8 @@
+# Package configuration for jaconv
+conda_forge = "jaconv"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaconv-0.4.1-py3-none-any.whl" },
+]

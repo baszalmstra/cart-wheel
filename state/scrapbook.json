@@ -1,0 +1,56 @@
+{
+  "scrapbook-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ae3172a160fbdc6c9bd7941e6cb9f105d53b813f4a059211960c88413f91c8e",
+    "dependencies": {
+      "required": [
+        "pandas",
+        "papermill",
+        "jsonschema",
+        "ipython",
+        "pyarrow"
+      ]
+    },
+    "original_requirements": [
+      "pandas",
+      "papermill",
+      "jsonschema",
+      "ipython",
+      "pyarrow",
+      "papermill[all] ; extra == 'all'",
+      "papermill[azure] ; extra == 'azure'",
+      "bumpversion ; extra == 'dev'",
+      "wheel (>=0.31.0) ; extra == 'dev'",
+      "setuptools (>=38.6.0) ; extra == 'dev'",
+      "twine (>=1.11.0) ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "mock ; extra == 'dev'",
+      "ipython ; extra == 'dev'",
+      "papermill[dev] ; extra == 'dev'",
+      "pytest (>=4.1) ; extra == 'dev'",
+      "pytest-cov (>=2.6.1) ; extra == 'dev'",
+      "pytest-mock (>=1.10) ; extra == 'dev'",
+      "pytest-env (>=0.6.2) ; extra == 'dev'",
+      "codecov ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "papermill[gcs] ; extra == 'gcs'",
+      "papermill[s3] ; extra == 's3'",
+      "bumpversion ; extra == 'test'",
+      "wheel (>=0.31.0) ; extra == 'test'",
+      "setuptools (>=38.6.0) ; extra == 'test'",
+      "twine (>=1.11.0) ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "tox ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "ipython ; extra == 'test'",
+      "papermill[dev] ; extra == 'test'",
+      "pytest (>=4.1) ; extra == 'test'",
+      "pytest-cov (>=2.6.1) ; extra == 'test'",
+      "pytest-mock (>=1.10) ; extra == 'test'",
+      "pytest-env (>=0.6.2) ; extra == 'test'",
+      "codecov ; extra == 'test'",
+      "coverage ; extra == 'test'"
+    ]
+  }
+}

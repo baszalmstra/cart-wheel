@@ -1,0 +1,12 @@
+# Package configuration for mapbox-vector-tile
+conda_forge = "mapbox-vector-tile"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mapbox_vector_tile-2.2.0-py3-none-any.whl" },
+  { filename = "mapbox_vector_tile-2.1.0-py3-none-any.whl" },
+  { filename = "mapbox_vector_tile-2.0.1-py3-none-any.whl" },
+  { filename = "mapbox_vector_tile-2.0.0-py3-none-any.whl" },
+  { filename = "mapbox_vector_tile-0.0.2-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for tabulator
+conda_forge = "tabulator-py"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tabulator-1.53.5-py2.py3-none-any.whl" },
+  { filename = "tabulator-1.53.4-py2.py3-none-any.whl" },
+  { filename = "tabulator-1.53.2-py2.py3-none-any.whl" },
+  { filename = "tabulator-1.53.1-py2.py3-none-any.whl" },
+  { filename = "tabulator-1.53.0-py2.py3-none-any.whl" },
+]

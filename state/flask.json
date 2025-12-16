@@ -1,0 +1,126 @@
+{
+  "flask-3.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca1d8112ec8a6158cc29ea4858963350011b5c846a414cdb7a954aa9e967d03c",
+    "dependencies": {
+      "required": [
+        "blinker",
+        "click",
+        "importlib-metadata",
+        "itsdangerous",
+        "jinja2",
+        "markupsafe",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "blinker>=1.9.0",
+      "click>=8.1.3",
+      "importlib-metadata>=3.6.0; python_version < '3.10'",
+      "itsdangerous>=2.2.0",
+      "jinja2>=3.1.2",
+      "markupsafe>=2.1.1",
+      "werkzeug>=3.1.0",
+      "asgiref>=3.2 ; extra == \"async\"",
+      "python-dotenv ; extra == \"dotenv\""
+    ]
+  },
+  "flask-3.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07aae2bb5eaf77993ef57e357491839f5fd9f4dc281593a81a9e4d79a24f295c",
+    "dependencies": {
+      "required": [
+        "blinker",
+        "click",
+        "importlib-metadata",
+        "itsdangerous",
+        "jinja2",
+        "markupsafe",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "blinker>=1.9.0",
+      "click>=8.1.3",
+      "importlib-metadata>=3.6.0; python_version < '3.10'",
+      "itsdangerous>=2.2.0",
+      "jinja2>=3.1.2",
+      "markupsafe>=2.1.1",
+      "werkzeug>=3.1.0",
+      "asgiref>=3.2 ; extra == \"async\"",
+      "python-dotenv ; extra == \"dotenv\""
+    ]
+  },
+  "flask-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d667207822eb83f1c4b50949b1623c8fc8d51f2341d65f72e1a1815397551136",
+    "dependencies": {
+      "required": [
+        "werkzeug",
+        "jinja2",
+        "itsdangerous",
+        "click",
+        "blinker",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "Werkzeug>=3.1",
+      "Jinja2>=3.1.2",
+      "itsdangerous>=2.2",
+      "click>=8.1.3",
+      "blinker>=1.9",
+      "importlib-metadata>=3.6; python_version < '3.10'",
+      "asgiref>=3.2 ; extra == \"async\"",
+      "python-dotenv ; extra == \"dotenv\""
+    ]
+  },
+  "flask-3.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34e815dfaa43340d1d15a5c3a02b8476004037eb4840b34910c6e21679d288f3",
+    "dependencies": {
+      "required": [
+        "werkzeug",
+        "jinja2",
+        "itsdangerous",
+        "click",
+        "blinker",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "Werkzeug>=3.0.0",
+      "Jinja2>=3.1.2",
+      "itsdangerous>=2.1.2",
+      "click>=8.1.3",
+      "blinker>=1.6.2",
+      "importlib-metadata>=3.6.0; python_version < '3.10'",
+      "asgiref>=3.2 ; extra == \"async\"",
+      "python-dotenv ; extra == \"dotenv\""
+    ]
+  },
+  "flask-3.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3232e0e9c850d781933cf0207523d1ece087eb8d87b23777ae38456e2fbe7c6e",
+    "dependencies": {
+      "required": [
+        "werkzeug",
+        "jinja2",
+        "itsdangerous",
+        "click",
+        "blinker",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "Werkzeug>=3.0.0",
+      "Jinja2>=3.1.2",
+      "itsdangerous>=2.1.2",
+      "click>=8.1.3",
+      "blinker>=1.6.2",
+      "importlib-metadata>=3.6.0; python_version < '3.10'",
+      "asgiref>=3.2 ; extra == \"async\"",
+      "python-dotenv ; extra == \"dotenv\""
+    ]
+  }
+}

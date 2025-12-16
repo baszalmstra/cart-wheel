@@ -1,0 +1,209 @@
+{
+  "pip_audit-2.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "16e02093872fac97580303f0848fa3ad64f7ecf600736ea7835a2b24de49613f",
+    "dependencies": {
+      "required": [
+        "cachecontrol",
+        "cyclonedx-python-lib",
+        "packaging",
+        "pip-api",
+        "pip-requirements-parser",
+        "requests",
+        "rich",
+        "tomli",
+        "tomli-w",
+        "platformdirs"
+      ]
+    },
+    "original_requirements": [
+      "CacheControl[filecache] >= 0.13.0",
+      "cyclonedx-python-lib >= 5,< 12",
+      "packaging>=23.0.0",
+      "pip-api>=0.0.28",
+      "pip-requirements-parser>=32.0.0",
+      "requests >= 2.31.0",
+      "rich >= 12.4",
+      "tomli >= 2.2.1",
+      "tomli-w >= 1.2.0",
+      "platformdirs >= 4.2.0",
+      "coverage[toml] ~= 7.0, != 7.3.3 ; extra == \"cov\"",
+      "build ; extra == \"dev\"",
+      "pip-audit[doc, test, lint] ; extra == \"dev\"",
+      "pdoc ; extra == \"doc\"",
+      "ruff >= 0.11 ; extra == \"lint\"",
+      "interrogate ~= 1.6 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-requests ; extra == \"lint\"",
+      "types-toml ; extra == \"lint\"",
+      "pretend ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pip-audit[cov] ; extra == \"test\""
+    ]
+  },
+  "pip_audit-2.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "348b16e60895749a0839875d7cc27ebd692e1584ebe5d5cb145941c8e25a80bd",
+    "dependencies": {
+      "required": [
+        "cachecontrol",
+        "cyclonedx-python-lib",
+        "packaging",
+        "pip-api",
+        "pip-requirements-parser",
+        "requests",
+        "rich",
+        "toml",
+        "platformdirs"
+      ]
+    },
+    "original_requirements": [
+      "CacheControl[filecache] >= 0.13.0",
+      "cyclonedx-python-lib >= 5,< 10",
+      "packaging>=23.0.0",
+      "pip-api>=0.0.28",
+      "pip-requirements-parser>=32.0.0",
+      "requests >= 2.31.0",
+      "rich>=12.4",
+      "toml>=0.10",
+      "platformdirs>=4.2.0",
+      "build ; extra == \"dev\"",
+      "pip-audit[doc, test, lint] ; extra == \"dev\"",
+      "pdoc ; extra == \"doc\"",
+      "ruff ~= 0.9 ; extra == \"lint\"",
+      "interrogate ~= 1.6 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-requests ; extra == \"lint\"",
+      "types-toml ; extra == \"lint\"",
+      "coverage[toml] ~= 7.0, != 7.3.3 ; extra == \"test\"",
+      "pretend ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "pip_audit-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "200f50d56cb6fba3a9189c20d53250354f72f161d63b6ef77ae5de2b53044566",
+    "dependencies": {
+      "required": [
+        "cachecontrol",
+        "cyclonedx-python-lib",
+        "packaging",
+        "pip-api",
+        "pip-requirements-parser",
+        "requests",
+        "rich",
+        "toml",
+        "platformdirs"
+      ]
+    },
+    "original_requirements": [
+      "CacheControl[filecache] >= 0.13.0",
+      "cyclonedx-python-lib >= 5,< 9",
+      "packaging>=23.0.0",
+      "pip-api>=0.0.28",
+      "pip-requirements-parser>=32.0.0",
+      "requests >= 2.31.0",
+      "rich>=12.4",
+      "toml>=0.10",
+      "platformdirs>=4.2.0",
+      "build ; extra == \"dev\"",
+      "pip-audit[doc, test, lint] ; extra == \"dev\"",
+      "pdoc ; extra == \"doc\"",
+      "ruff ~= 0.9 ; extra == \"lint\"",
+      "interrogate ~= 1.6 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-requests ; extra == \"lint\"",
+      "types-toml ; extra == \"lint\"",
+      "coverage[toml] ~= 7.0, != 7.3.3 ; extra == \"test\"",
+      "pretend ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "pip_audit-2.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "46a11faee3323f76adf7987de8171daeb660e8f57d8088cc27fb1c1e5c7747b0",
+    "dependencies": {
+      "required": [
+        "cachecontrol",
+        "cyclonedx-python-lib",
+        "html5lib",
+        "packaging",
+        "pip-api",
+        "pip-requirements-parser",
+        "requests",
+        "rich",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "CacheControl[filecache] >= 0.13.0",
+      "cyclonedx-python-lib >= 5,< 8",
+      "html5lib>=1.1",
+      "packaging>=23.0.0",
+      "pip-api>=0.0.28",
+      "pip-requirements-parser>=32.0.0",
+      "requests >= 2.31.0",
+      "rich>=12.4",
+      "toml>=0.10",
+      "build ; extra == \"dev\"",
+      "bump>=1.3.2 ; extra == \"dev\"",
+      "pip-audit[doc,test,lint] ; extra == \"dev\"",
+      "pdoc ; extra == \"doc\"",
+      "ruff < 0.4.3 ; extra == \"lint\"",
+      "setuptools ; extra == \"lint\"",
+      "interrogate ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-html5lib ; extra == \"lint\"",
+      "types-requests ; extra == \"lint\"",
+      "types-toml ; extra == \"lint\"",
+      "coverage[toml] ~= 7.0, != 7.3.3 ; extra == \"test\"",
+      "pretend ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "pip_audit-2.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49907430115baacb8bb7ffc1a2b689acfeac9d8534a43bffad3c73f8d8b32d52",
+    "dependencies": {
+      "required": [
+        "cachecontrol",
+        "cyclonedx-python-lib",
+        "html5lib",
+        "packaging",
+        "pip-api",
+        "pip-requirements-parser",
+        "requests",
+        "rich",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "CacheControl[filecache] >= 0.13.0",
+      "cyclonedx-python-lib >= 5,< 7",
+      "html5lib>=1.1",
+      "packaging>=23.0.0",
+      "pip-api>=0.0.28",
+      "pip-requirements-parser>=32.0.0",
+      "requests >= 2.31.0",
+      "rich>=12.4",
+      "toml>=0.10",
+      "build ; extra == \"dev\"",
+      "bump>=1.3.2 ; extra == \"dev\"",
+      "pip-audit[doc,test,lint] ; extra == \"dev\"",
+      "pdoc ; extra == \"doc\"",
+      "ruff < 0.2.3 ; extra == \"lint\"",
+      "interrogate ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-html5lib ; extra == \"lint\"",
+      "types-requests ; extra == \"lint\"",
+      "types-toml ; extra == \"lint\"",
+      "coverage[toml] ~= 7.0, != 7.3.3 ; extra == \"test\"",
+      "pretend ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  }
+}

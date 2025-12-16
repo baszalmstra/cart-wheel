@@ -1,0 +1,12 @@
+# Package configuration for ipyvuetify
+conda_forge = "ipyvuetify"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipyvuetify-1.11.3-py2.py3-none-any.whl" },
+  { filename = "ipyvuetify-1.11.2-py2.py3-none-any.whl" },
+  { filename = "ipyvuetify-1.11.1-py2.py3-none-any.whl" },
+  { filename = "ipyvuetify-1.11.0-py2.py3-none-any.whl" },
+  { filename = "ipyvuetify-1.10.0-py2.py3-none-any.whl" },
+]

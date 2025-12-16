@@ -1,0 +1,56 @@
+{
+  "mock_ssh_server-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ec42bfb8ba11c9249ce47b80acd01de3e9ee109b7a8d7161a37bd3924806a27",
+    "dependencies": {
+      "required": [
+        "paramiko",
+        "selectors2"
+      ]
+    },
+    "original_requirements": [
+      "paramiko",
+      "selectors2 ; python_version < \"3.4\""
+    ]
+  },
+  "mock_ssh_server-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72ccdbe96f302a4b0585947f3b18f40821cc2d95abc66817a981c558951d21db",
+    "dependencies": {
+      "required": [
+        "paramiko",
+        "selectors2"
+      ]
+    },
+    "original_requirements": [
+      "paramiko",
+      "selectors2 ; python_version < \"3.4\""
+    ]
+  },
+  "mock_ssh_server-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f7c5ea4314c3b9a101549c837d073603021b9f81ac55051670c7ddb61237db51",
+    "dependencies": {
+      "required": [
+        "paramiko",
+        "selectors2"
+      ]
+    },
+    "original_requirements": [
+      "paramiko",
+      "selectors2 ; python_version < \"3.4\""
+    ]
+  },
+  "mock_ssh_server-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15a4ea71c9a638821a0e89b5cfde82d86fe4872e0ba2cf0c2ad5b276bf62000d",
+    "dependencies": {
+      "required": [
+        "paramiko"
+      ]
+    },
+    "original_requirements": [
+      "paramiko"
+    ]
+  }
+}

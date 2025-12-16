@@ -1,0 +1,77 @@
+{
+  "pytest_sphinx-0.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "856e760e64dfbfc89e362e187d641140a267b97881d3ef8aeefb72cc8438ac40",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=8.1.1",
+      "isort >=5 ; extra == 'lint'",
+      "flake8 ; extra == 'lint'",
+      "black ; extra == 'lint'",
+      "mypy ; extra == 'lint'"
+    ]
+  },
+  "pytest_sphinx-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "33fa2afd95b773a73074a6ce72abd3f2d47649aea4290c1e266895eeb823e643",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=8.0.0",
+      "isort >=5 ; extra == 'lint'",
+      "flake8 ; extra == 'lint'",
+      "black ; extra == 'lint'",
+      "mypy ; extra == 'lint'"
+    ]
+  },
+  "pytest_sphinx-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "542823b7d493b067a0d36bf1359db5f7ae2217e007190edad7201c44145cf451",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=8.0.0",
+      "isort >=5 ; extra == 'lint'",
+      "flake8 ; extra == 'lint'",
+      "black ; extra == 'lint'",
+      "mypy ; extra == 'lint'"
+    ]
+  },
+  "pytest_sphinx-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "faaa236a47fe87669a7422e44168dc1803049b9a47710c2de4c23f469f40c47e",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=7.0.0)",
+      "isort (>=5) ; extra == 'lint'",
+      "flake8 ; extra == 'lint'",
+      "black ; extra == 'lint'"
+    ]
+  },
+  "pytest_sphinx-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9e3018f6abcce1ac5293ac1de96ac0408f3edbf8d095bfd99b641c03a0f3f7f",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=7.0.0)"
+    ]
+  }
+}

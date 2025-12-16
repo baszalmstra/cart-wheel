@@ -1,0 +1,214 @@
+{
+  "jupyter_fs-1.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6765891b625b6370d2742b62253ea5499fb0101d2811aa5c70831dfbd82e0983",
+    "dependencies": {
+      "required": [
+        "jupyter-server",
+        "jupyterlab"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server<3,>=2",
+      "jupyterlab<5,>=4",
+      "boto3; extra == 'develop'",
+      "build; extra == 'develop'",
+      "bump-my-version; extra == 'develop'",
+      "check-manifest; extra == 'develop'",
+      "fs-miniofs; extra == 'develop'",
+      "fs-s3fs>=1.1.1; extra == 'develop'",
+      "fs-smbfs>=0.6.3; extra == 'develop'",
+      "fs>=2.4.11; extra == 'develop'",
+      "fsspec>=2023.6.0; extra == 'develop'",
+      "hatch-jupyter-builder; extra == 'develop'",
+      "hatchling; extra == 'develop'",
+      "jupyterlab<5,>=4; extra == 'develop'",
+      "pysmb; extra == 'develop'",
+      "pytest; extra == 'develop'",
+      "pytest-asyncio; extra == 'develop'",
+      "pytest-cov; extra == 'develop'",
+      "pytest-jupyter[server]; extra == 'develop'",
+      "pytest-sugar; extra == 'develop'",
+      "pytest-xdist; extra == 'develop'",
+      "ruff<0.15,>=0.9; extra == 'develop'",
+      "s3fs>=2024; extra == 'develop'",
+      "smbprotocol; extra == 'develop'",
+      "twine; extra == 'develop'",
+      "wheel; extra == 'develop'",
+      "fs-s3fs>=1.1.1; extra == 'fs'",
+      "fs-smbfs>=0.6.3; extra == 'fs'",
+      "fs>=2.4.11; extra == 'fs'",
+      "fsspec>=2023.6.0; extra == 'fsspec'"
+    ]
+  },
+  "jupyter_fs-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5f4f462b7c75de91110105c5c36e415c3327d07efd46c81cd180d41a532bca56",
+    "dependencies": {
+      "required": [
+        "jupyter-server",
+        "jupyterlab"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server<3,>=2",
+      "jupyterlab<5,>=4",
+      "boto3; extra == 'develop'",
+      "build; extra == 'develop'",
+      "bump-my-version; extra == 'develop'",
+      "check-manifest; extra == 'develop'",
+      "fs-miniofs; extra == 'develop'",
+      "fs-s3fs>=1.1.1; extra == 'develop'",
+      "fs-smbfs>=0.6.3; extra == 'develop'",
+      "fs>=2.4.11; extra == 'develop'",
+      "fsspec>=2023.6.0; extra == 'develop'",
+      "hatch-jupyter-builder; extra == 'develop'",
+      "hatchling; extra == 'develop'",
+      "jupyterlab<5,>=4; extra == 'develop'",
+      "pysmb; extra == 'develop'",
+      "pytest; extra == 'develop'",
+      "pytest-asyncio; extra == 'develop'",
+      "pytest-cov; extra == 'develop'",
+      "pytest-jupyter[server]; extra == 'develop'",
+      "pytest-sugar; extra == 'develop'",
+      "pytest-xdist; extra == 'develop'",
+      "ruff<0.15,>=0.9; extra == 'develop'",
+      "s3fs>=2024; extra == 'develop'",
+      "smbprotocol; extra == 'develop'",
+      "twine; extra == 'develop'",
+      "wheel; extra == 'develop'",
+      "fs-s3fs>=1.1.1; extra == 'fs'",
+      "fs-smbfs>=0.6.3; extra == 'fs'",
+      "fs>=2.4.11; extra == 'fs'",
+      "fsspec>=2023.6.0; extra == 'fsspec'"
+    ]
+  },
+  "jupyter_fs-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43f3821f98948dff2a6ff00a3829df6fc1e79bb95b63a5fecccf58c8c2b075ee",
+    "dependencies": {
+      "required": [
+        "jupyter-server",
+        "jupyterlab"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server<3,>=2",
+      "jupyterlab<5,>=4",
+      "boto3; extra == 'develop'",
+      "build; extra == 'develop'",
+      "bump-my-version; extra == 'develop'",
+      "check-manifest; extra == 'develop'",
+      "fs-miniofs; extra == 'develop'",
+      "fs-s3fs>=1.1.1; extra == 'develop'",
+      "fs-smbfs>=0.6.3; extra == 'develop'",
+      "fs>=2.4.11; extra == 'develop'",
+      "fsspec>=2023.6.0; extra == 'develop'",
+      "hatch-jupyter-builder; extra == 'develop'",
+      "hatchling; extra == 'develop'",
+      "jupyterlab<5,>=4; extra == 'develop'",
+      "pysmb; extra == 'develop'",
+      "pytest; extra == 'develop'",
+      "pytest-asyncio; extra == 'develop'",
+      "pytest-cov; extra == 'develop'",
+      "pytest-jupyter[server]; extra == 'develop'",
+      "pytest-sugar; extra == 'develop'",
+      "pytest-xdist; extra == 'develop'",
+      "ruff<0.12,>=0.9; extra == 'develop'",
+      "s3fs>=2024; extra == 'develop'",
+      "smbprotocol; extra == 'develop'",
+      "twine; extra == 'develop'",
+      "wheel; extra == 'develop'",
+      "fs-s3fs>=1.1.1; extra == 'fs'",
+      "fs-smbfs>=0.6.3; extra == 'fs'",
+      "fs>=2.4.11; extra == 'fs'",
+      "fsspec>=2023.6.0; extra == 'fsspec'"
+    ]
+  },
+  "jupyter_fs-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a5c7430145025fea27cf54cc9e5956ed357b34794ba88cc5b22b48c2d5890767",
+    "dependencies": {
+      "required": [
+        "fs-s3fs",
+        "fs-smbfs",
+        "fs",
+        "jupyter-server",
+        "jupyterlab"
+      ]
+    },
+    "original_requirements": [
+      "fs-s3fs>=1.1.1",
+      "fs-smbfs>=0.6.3",
+      "fs>=2.4.11",
+      "jupyter-server<3,>=2",
+      "jupyterlab<5,>=4",
+      "boto3; extra == 'develop'",
+      "bump2version>=1.0.0; extra == 'develop'",
+      "check-manifest; extra == 'develop'",
+      "fs-miniofs; extra == 'develop'",
+      "pysmb; extra == 'develop'",
+      "pytest; extra == 'develop'",
+      "pytest-asyncio; extra == 'develop'",
+      "pytest-cov; extra == 'develop'",
+      "pytest-jupyter[server]; extra == 'develop'",
+      "pytest-sugar; extra == 'develop'",
+      "pytest-xdist; extra == 'develop'",
+      "ruff<0.4,>=0.3.5; extra == 'develop'",
+      "boto3; extra == 'test'",
+      "docker; extra == 'test'",
+      "fs-miniofs; extra == 'test'",
+      "mock; extra == 'test'",
+      "pysmb; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-jupyter[server]; extra == 'test'",
+      "pytest-sugar; extra == 'test'",
+      "pytest-xdist; extra == 'test'"
+    ]
+  },
+  "jupyter_fs-1.0.0.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4390e923b681642164f4eec890c2bb09e6b443b5e1bfd8d15688096e03e6dd86",
+    "dependencies": {
+      "required": [
+        "fs-s3fs",
+        "fs-smbfs",
+        "fs",
+        "jupyter-server",
+        "jupyterlab"
+      ]
+    },
+    "original_requirements": [
+      "fs-s3fs>=1.1.1",
+      "fs-smbfs>=0.6.3",
+      "fs>=2.4.11",
+      "jupyter-server<3,>=2",
+      "jupyterlab<5,>=4",
+      "boto3; extra == 'develop'",
+      "bump2version>=1.0.0.post1; extra == 'develop'",
+      "check-manifest; extra == 'develop'",
+      "fs-miniofs; extra == 'develop'",
+      "pysmb; extra == 'develop'",
+      "pytest; extra == 'develop'",
+      "pytest-asyncio; extra == 'develop'",
+      "pytest-cov; extra == 'develop'",
+      "pytest-jupyter[server]; extra == 'develop'",
+      "pytest-sugar; extra == 'develop'",
+      "pytest-xdist; extra == 'develop'",
+      "ruff<0.4,>=0.3.5; extra == 'develop'",
+      "boto3; extra == 'test'",
+      "docker; extra == 'test'",
+      "fs-miniofs; extra == 'test'",
+      "mock; extra == 'test'",
+      "pysmb; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-jupyter[server]; extra == 'test'",
+      "pytest-sugar; extra == 'test'",
+      "pytest-xdist; extra == 'test'"
+    ]
+  }
+}

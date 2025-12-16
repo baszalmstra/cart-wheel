@@ -1,0 +1,93 @@
+{
+  "deprecated-1.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "597bfef186b6f60181535a29fbe44865ce137a5079f295b479886c82729d5f3f",
+    "dependencies": {
+      "required": [
+        "wrapt",
+        "inspect2"
+      ]
+    },
+    "original_requirements": [
+      "wrapt<3,>=1.10",
+      "inspect2; python_version < \"3\"",
+      "tox; extra == \"dev\"",
+      "PyTest; extra == \"dev\"",
+      "PyTest-Cov; extra == \"dev\"",
+      "bump2version<1; extra == \"dev\"",
+      "setuptools; python_version >= \"3.12\" and extra == \"dev\""
+    ]
+  },
+  "Deprecated-1.2.18-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd5011788200372a32418f888e326a09ff80d0214bd961147cfed01b5c018eec",
+    "dependencies": {
+      "required": [
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "wrapt<2,>=1.10",
+      "tox; extra == \"dev\"",
+      "PyTest; extra == \"dev\"",
+      "PyTest-Cov; extra == \"dev\"",
+      "bump2version<1; extra == \"dev\"",
+      "setuptools; python_version >= \"3.12\" and extra == \"dev\""
+    ]
+  },
+  "Deprecated-1.2.17-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "69cdc0a751671183f569495e2efb14baee4344b0236342eec29f1fde25d61818",
+    "dependencies": {
+      "required": [
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "wrapt<2,>=1.10",
+      "tox; extra == \"dev\"",
+      "PyTest; extra == \"dev\"",
+      "PyTest-Cov; extra == \"dev\"",
+      "bump2version<1; extra == \"dev\"",
+      "setuptools; python_version >= \"3.12\" and extra == \"dev\""
+    ]
+  },
+  "Deprecated-1.2.16-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c8e429ada6573698ba723f9c4ea53006e990042a45db938e412f1f9d4b9ffd9",
+    "dependencies": {
+      "required": [
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "wrapt<2,>=1.10",
+      "tox; extra == \"dev\"",
+      "PyTest; extra == \"dev\"",
+      "PyTest-Cov; extra == \"dev\"",
+      "bump2version<1; extra == \"dev\"",
+      "sphinx<2; extra == \"dev\"",
+      "jinja2~=3.0.3; extra == \"dev\"",
+      "setuptools; python_version >= \"3.12\" and extra == \"dev\""
+    ]
+  },
+  "Deprecated-1.2.15-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "353bc4a8ac4bfc96800ddab349d89c25dec1079f65fd53acdcc1e0b975b21320",
+    "dependencies": {
+      "required": [
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "wrapt <2,>=1.10",
+      "tox ; extra == 'dev'",
+      "PyTest ; extra == 'dev'",
+      "PyTest-Cov ; extra == 'dev'",
+      "bump2version <1 ; extra == 'dev'",
+      "sphinx <2 ; extra == 'dev'",
+      "jinja2 ~=3.0.3 ; extra == 'dev'",
+      "setuptools ; (python_version >= \"3.12\") and extra == 'dev'"
+    ]
+  }
+}

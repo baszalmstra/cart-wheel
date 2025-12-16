@@ -1,0 +1,72 @@
+{
+  "memcachio-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d358315c87f44c839ee2725ba8f35ad34acead4319a06a495bd839086698ec20",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout<6,>5; python_version < '3.11'",
+      "typing-extensions>=4.3; python_version < '3.11'"
+    ]
+  },
+  "memcachio-0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5d29d254c2dc2cc9bcf8e77af9ced98de33f7992f1bf675606b2407d33702249",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "async_timeout<6,>5; python_version < \"3.11\"",
+      "typing_extensions>=4.3; python_version < \"3.11\""
+    ]
+  },
+  "memcachio-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f78d2becd1b19cc2621103b3d1c4560f7520193125071959d3f911f9399e9cb",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "async_timeout<6,>5; python_version < \"3.11\"",
+      "typing_extensions>=4.3; python_version < \"3.11\""
+    ]
+  },
+  "memcachio-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "efc81905675aeb0a73218c0e57bf3bd7da5738d7ec2a77e54cec0c4bc06731d5",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "async_timeout<6,>5; python_version < \"3.11\"",
+      "typing_extensions>=4.3; python_version < \"3.11\""
+    ]
+  },
+  "memcachio-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a3acf78a764931ef532953fd1e7ae4a200d74f59fc65ea8dc73834504256338",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "async_timeout<6,>5; python_version < \"3.11\"",
+      "typing_extensions>=4.3; python_version < \"3.11\""
+    ]
+  }
+}

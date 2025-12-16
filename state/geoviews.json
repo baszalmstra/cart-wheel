@@ -1,0 +1,213 @@
+{
+  "geoviews-1.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da1252554f86c639a280bb3e7dc6acbd4722e9f4e4a8b0c65f6a9c086ed5f5b2",
+    "dependencies": {
+      "required": [
+        "bokeh",
+        "cartopy",
+        "holoviews",
+        "numpy",
+        "packaging",
+        "panel",
+        "param",
+        "pyproj",
+        "shapely",
+        "xyzservices"
+      ]
+    },
+    "original_requirements": [
+      "bokeh>=3.8.0",
+      "cartopy>=0.18.0",
+      "holoviews>=1.16.0",
+      "numpy",
+      "packaging",
+      "panel>=1.0.0",
+      "param<3.0,>=1.9.3",
+      "pyproj",
+      "shapely>=1.8.0",
+      "xyzservices",
+      "datashader; extra == 'recommended'",
+      "geopandas; extra == 'recommended'",
+      "matplotlib>2.2; extra == 'recommended'",
+      "netcdf4; extra == 'recommended'",
+      "pandas; extra == 'recommended'",
+      "pooch; extra == 'recommended'",
+      "pyct; extra == 'recommended'",
+      "scipy; extra == 'recommended'",
+      "xarray; extra == 'recommended'"
+    ]
+  },
+  "geoviews-1.14.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a05fa86e96c0bc9da033846c1a6c703fa3cb241fbefe13491041bae516e3124b",
+    "dependencies": {
+      "required": [
+        "bokeh",
+        "cartopy",
+        "holoviews",
+        "numpy",
+        "packaging",
+        "panel",
+        "param",
+        "pyproj",
+        "shapely",
+        "xyzservices"
+      ]
+    },
+    "original_requirements": [
+      "bokeh>=3.6.0",
+      "cartopy>=0.18.0",
+      "holoviews>=1.16.0",
+      "numpy",
+      "packaging",
+      "panel>=1.0.0",
+      "param<3.0,>=1.9.3",
+      "pyproj",
+      "shapely",
+      "xyzservices",
+      "datashader; extra == 'recommended'",
+      "geopandas; extra == 'recommended'",
+      "matplotlib>2.2; extra == 'recommended'",
+      "netcdf4; extra == 'recommended'",
+      "pandas; extra == 'recommended'",
+      "pooch; extra == 'recommended'",
+      "pyct; extra == 'recommended'",
+      "scipy; extra == 'recommended'",
+      "shapely; extra == 'recommended'",
+      "xarray; extra == 'recommended'",
+      "psutil; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "pytest-xdist; extra == 'tests'"
+    ]
+  },
+  "geoviews-1.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "45b26ae18b14f71c19f10148f38eef1fadbe7292a4f0666b291b890d3623a3a1",
+    "dependencies": {
+      "required": [
+        "bokeh",
+        "cartopy",
+        "holoviews",
+        "numpy",
+        "packaging",
+        "panel",
+        "param",
+        "pyproj",
+        "shapely",
+        "xyzservices"
+      ]
+    },
+    "original_requirements": [
+      "bokeh>=3.6.0",
+      "cartopy>=0.18.0",
+      "holoviews>=1.16.0",
+      "numpy",
+      "packaging",
+      "panel>=1.0.0",
+      "param<3.0,>=1.9.3",
+      "pyproj",
+      "shapely",
+      "xyzservices",
+      "datashader; extra == 'recommended'",
+      "geopandas; extra == 'recommended'",
+      "matplotlib>2.2; extra == 'recommended'",
+      "netcdf4; extra == 'recommended'",
+      "pandas; extra == 'recommended'",
+      "pooch; extra == 'recommended'",
+      "pyct; extra == 'recommended'",
+      "scipy; extra == 'recommended'",
+      "shapely; extra == 'recommended'",
+      "xarray; extra == 'recommended'",
+      "psutil; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "pytest-xdist; extra == 'tests'"
+    ]
+  },
+  "geoviews-1.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6fa0fbda058027b92eedf3f08f31b96b4100ac5db978aeb501264320ed8cf116",
+    "dependencies": {
+      "required": [
+        "bokeh",
+        "cartopy",
+        "holoviews",
+        "numpy",
+        "packaging",
+        "panel",
+        "param",
+        "pyproj",
+        "shapely",
+        "xyzservices"
+      ]
+    },
+    "original_requirements": [
+      "bokeh<3.6.0,>=3.5.0",
+      "cartopy>=0.18.0",
+      "holoviews>=1.16.0",
+      "numpy",
+      "packaging",
+      "panel>=1.0.0",
+      "param<3.0,>=1.9.3",
+      "pyproj",
+      "shapely",
+      "xyzservices",
+      "datashader; extra == 'recommended'",
+      "geopandas; extra == 'recommended'",
+      "matplotlib>2.2; extra == 'recommended'",
+      "netcdf4; extra == 'recommended'",
+      "pandas; extra == 'recommended'",
+      "pooch; extra == 'recommended'",
+      "pyct; extra == 'recommended'",
+      "scipy; extra == 'recommended'",
+      "shapely; extra == 'recommended'",
+      "xarray; extra == 'recommended'",
+      "psutil; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "pytest-xdist; extra == 'tests'"
+    ]
+  },
+  "geoviews-1.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc396fcf75a447f75aea8ce22d0ece0bd3f4a1f7f22a121d1007044275d546bb",
+    "dependencies": {
+      "required": [
+        "bokeh",
+        "cartopy",
+        "holoviews",
+        "numpy",
+        "packaging",
+        "panel",
+        "param",
+        "pyproj",
+        "shapely",
+        "xyzservices"
+      ]
+    },
+    "original_requirements": [
+      "bokeh<3.6.0,>=3.5.0",
+      "cartopy>=0.18.0",
+      "holoviews>=1.16.0",
+      "numpy",
+      "packaging",
+      "panel>=1.0.0",
+      "param",
+      "pyproj",
+      "shapely",
+      "xyzservices",
+      "datashader; extra == 'recommended'",
+      "geopandas; extra == 'recommended'",
+      "matplotlib>2.2; extra == 'recommended'",
+      "netcdf4; extra == 'recommended'",
+      "pandas; extra == 'recommended'",
+      "pooch; extra == 'recommended'",
+      "pyct; extra == 'recommended'",
+      "scipy; extra == 'recommended'",
+      "shapely; extra == 'recommended'",
+      "xarray; extra == 'recommended'",
+      "psutil; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "pytest-xdist; extra == 'tests'"
+    ]
+  }
+}

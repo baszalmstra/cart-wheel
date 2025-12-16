@@ -1,0 +1,12 @@
+# Package configuration for dvc-gdrive
+conda_forge = "dvc-gdrive"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dvc_gdrive-3.0.1-py3-none-any.whl" },
+  { filename = "dvc_gdrive-3.0.0-py3-none-any.whl" },
+  { filename = "dvc_gdrive-2.20.0-py3-none-any.whl" },
+  { filename = "dvc_gdrive-2.19.2-py3-none-any.whl" },
+  { filename = "dvc_gdrive-2.19.1-py3-none-any.whl" },
+]

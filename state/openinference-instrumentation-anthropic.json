@@ -1,0 +1,127 @@
+{
+  "openinference_instrumentation_anthropic-0.1.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6dba468d7ae13296bbe221cd6968f98bc4760f62c45080e2de434ca6adc0a54",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "anthropic>=0.41.0; extra == 'instruments'"
+    ]
+  },
+  "openinference_instrumentation_anthropic-0.1.19-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fa513ed575e245953a2124c3d0cf8cc562b263dace00d6a717e002a3dde3ce39",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "anthropic>=0.41.0; extra == 'instruments'"
+    ]
+  },
+  "openinference_instrumentation_anthropic-0.1.18-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c0aeb5b6fdfecc308b1e286ff66dd69d23371b999a545590811de14142716904",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "anthropic>=0.41.0; extra == 'instruments'"
+    ]
+  },
+  "openinference_instrumentation_anthropic-0.1.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b065315ebd83c98900e41d6ca8e3ad8032a353cf963e67d7df5beb78e90676d",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "anthropic>=0.41.0; extra == 'instruments'"
+    ]
+  },
+  "openinference_instrumentation_anthropic-0.1.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17eae9d2fdab8519c5eee620b6a32c66612d8128bbf482e149370cf56d02189d",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "anthropic>=0.41.0; extra == 'instruments'"
+    ]
+  }
+}

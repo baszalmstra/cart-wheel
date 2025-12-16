@@ -1,0 +1,137 @@
+{
+  "fastapi_cloud_cli-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b654890b5302c90d2f347b123a35186096328838a526316c470b6005cabd4983",
+    "dependencies": {
+      "required": [
+        "typer",
+        "uvicorn",
+        "rignore",
+        "httpx",
+        "rich-toolkit",
+        "pydantic",
+        "sentry-sdk",
+        "fastar"
+      ]
+    },
+    "original_requirements": [
+      "typer>=0.12.3",
+      "uvicorn[standard]>=0.15.0",
+      "rignore>=0.5.1",
+      "httpx>=0.27.0",
+      "rich-toolkit>=0.14.5",
+      "pydantic[email]>=1.6.1",
+      "sentry-sdk>=2.20.0",
+      "fastar>=0.8.0",
+      "uvicorn[standard]>=0.15.0; extra == \"standard\""
+    ]
+  },
+  "fastapi_cloud_cli-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "783ab5e41baf8afcbbfb7e513ac5bdf7376202053b8bf2d158a38978dba1ca69",
+    "dependencies": {
+      "required": [
+        "typer",
+        "uvicorn",
+        "rignore",
+        "httpx",
+        "rich-toolkit",
+        "pydantic",
+        "sentry-sdk",
+        "fastar"
+      ]
+    },
+    "original_requirements": [
+      "typer>=0.12.3",
+      "uvicorn[standard]>=0.15.0",
+      "rignore>=0.5.1",
+      "httpx>=0.27.0",
+      "rich-toolkit>=0.14.5",
+      "pydantic[email]>=1.6.1",
+      "sentry-sdk>=2.20.0",
+      "fastar>=0.5.0",
+      "uvicorn[standard]>=0.15.0; extra == \"standard\""
+    ]
+  },
+  "fastapi_cloud_cli-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a28415b059b27af180a55a835ac2c9e924a66be88412d5649d4f91993d1a698",
+    "dependencies": {
+      "required": [
+        "typer",
+        "uvicorn",
+        "rignore",
+        "httpx",
+        "rich-toolkit",
+        "pydantic",
+        "sentry-sdk",
+        "fastar"
+      ]
+    },
+    "original_requirements": [
+      "typer>=0.12.3",
+      "uvicorn[standard]>=0.15.0",
+      "rignore>=0.5.1",
+      "httpx>=0.27.0",
+      "rich-toolkit>=0.14.5",
+      "pydantic[email]>=1.6.1",
+      "sentry-sdk>=2.20.0",
+      "fastar>=0.5.0",
+      "uvicorn[standard]>=0.15.0; extra == \"standard\""
+    ]
+  },
+  "fastapi_cloud_cli-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72e7befbbd22a49bff585ae5b05fe3f9055d103b7985122d3a9f4cafeb2edbc3",
+    "dependencies": {
+      "required": [
+        "typer",
+        "uvicorn",
+        "rignore",
+        "httpx",
+        "rich-toolkit",
+        "pydantic",
+        "sentry-sdk",
+        "fastar"
+      ]
+    },
+    "original_requirements": [
+      "typer>=0.12.3",
+      "uvicorn[standard]>=0.15.0",
+      "rignore>=0.5.1",
+      "httpx>=0.27.0",
+      "rich-toolkit>=0.14.5",
+      "pydantic[email]>=1.6.1",
+      "sentry-sdk>=2.20.0",
+      "fastar>=0.5.0",
+      "uvicorn[standard]>=0.15.0; extra == \"standard\""
+    ]
+  },
+  "fastapi_cloud_cli-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c44bd0636e57fb9a156ff67f4c54f17b5fbb3d84c65ea9e2461d4daaf64d9e7",
+    "dependencies": {
+      "required": [
+        "typer",
+        "uvicorn",
+        "rignore",
+        "httpx",
+        "rich-toolkit",
+        "pydantic",
+        "sentry-sdk",
+        "fastar"
+      ]
+    },
+    "original_requirements": [
+      "typer>=0.12.3",
+      "uvicorn[standard]>=0.15.0",
+      "rignore>=0.5.1",
+      "httpx>=0.27.0",
+      "rich-toolkit>=0.14.5",
+      "pydantic[email]>=1.6.1",
+      "sentry-sdk>=2.20.0",
+      "fastar>=0.5.0",
+      "uvicorn[standard]>=0.15.0; extra == \"standard\""
+    ]
+  }
+}

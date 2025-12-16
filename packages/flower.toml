@@ -1,0 +1,12 @@
+# Package configuration for flower
+conda_forge = "flower"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flower-2.0.1-py2.py3-none-any.whl" },
+  { filename = "flower-2.0.0-py2.py3-none-any.whl" },
+  { filename = "flower-1.2.0-py2.py3-none-any.whl" },
+  { filename = "flower-1.1.0-py2.py3-none-any.whl" },
+  { filename = "flower-1.0.0-py2.py3-none-any.whl" },
+]

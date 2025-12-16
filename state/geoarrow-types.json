@@ -1,0 +1,25 @@
+{
+  "geoarrow_types-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "439df6101632080442beccc7393cac54d6c7f6965da897554349e94d2492f613",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == \"test\"",
+      "pyarrow>=12; extra == \"test\"",
+      "numpy; extra == \"test\""
+    ]
+  },
+  "geoarrow_types-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b83bd7e4cee92356df1904bc681cd86938ae808778aef8f836d2dce8f234cb7e",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == 'test'",
+      "pyarrow ; extra == 'test'"
+    ]
+  }
+}

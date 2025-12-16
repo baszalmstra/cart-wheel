@@ -1,0 +1,57 @@
+{
+  "entrypoints-0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f174b5ff827504fd3cd97cc3f8649f3693f51538c7e4bdf3ef002c8429d42f9f",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "entrypoints-0.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "589f874b313739ad35be6e0cd7efde2a4e9b6fea91edcc34e58ecbb8dbe56d19",
+    "dependencies": {
+      "required": [
+        "configparser"
+      ]
+    },
+    "original_requirements": [
+      "configparser (>=3.5); python_version == '2.7'"
+    ]
+  },
+  "entrypoints-0.2.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10ad569bb245e7e2ba425285b9fa3e8178a0dc92fc53b1e1c553805e15a8825b",
+    "dependencies": {
+      "required": [
+        "configparser"
+      ]
+    },
+    "original_requirements": [
+      "configparser (>=3.5); python_version == '2.7'"
+    ]
+  },
+  "entrypoints-0.2.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0a0685962ee5ac303f470acbb659f0f97aef5b9deb6b85d059691c706ef6e45e",
+    "dependencies": {
+      "required": [
+        "configparser"
+      ]
+    },
+    "original_requirements": [
+      "configparser (>=3.5); python_version == '2.7'"
+    ]
+  },
+  "entrypoints-0.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fcffda409defe4e8930d54cedf6942477853b5657c9959640a9a564a9b195684",
+    "dependencies": {
+      "required": [
+        "configparser"
+      ]
+    },
+    "original_requirements": [
+      "configparser; python_version == '2.7'"
+    ]
+  }
+}

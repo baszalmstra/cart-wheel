@@ -1,0 +1,136 @@
+{
+  "prefect_aws-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "06ed05ef36df7e93a0ede0de7bcc044b9a9fc99ab38f72ab69d628d096400400",
+    "dependencies": {
+      "required": [
+        "aiobotocore",
+        "boto3",
+        "botocore",
+        "prefect",
+        "pyparsing",
+        "tenacity",
+        "typer",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "aiobotocore>=2.23.2",
+      "boto3>=1.24.53",
+      "botocore>=1.27.53",
+      "prefect>=3.4.7",
+      "pyparsing>=3.1.1",
+      "tenacity>=8.0.0",
+      "typer>=0.9.0",
+      "rich>=10.0.0"
+    ]
+  },
+  "prefect_aws-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "948fd7e984f2e4b1a05e1531086b59d2d76dc03bd52e49c5e8e7b0806b00195c",
+    "dependencies": {
+      "required": [
+        "aiobotocore",
+        "boto3",
+        "botocore",
+        "prefect",
+        "pyparsing",
+        "tenacity",
+        "typer",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "aiobotocore>=2.23.2",
+      "boto3>=1.24.53",
+      "botocore>=1.27.53",
+      "prefect>=3.4.7",
+      "pyparsing>=3.1.1",
+      "tenacity>=8.0.0",
+      "typer>=0.9.0",
+      "rich>=10.0.0"
+    ]
+  },
+  "prefect_aws-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da01c3b74881273935c86bfdf750bdeab9d62968c526f15a362f839f5b220a58",
+    "dependencies": {
+      "required": [
+        "aiobotocore",
+        "boto3",
+        "botocore",
+        "prefect",
+        "pyparsing",
+        "tenacity",
+        "typer",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "aiobotocore>=2.23.2",
+      "boto3>=1.24.53",
+      "botocore>=1.27.53",
+      "prefect>=3.4.7",
+      "pyparsing>=3.1.1",
+      "tenacity>=8.0.0",
+      "typer>=0.9.0",
+      "rich>=10.0.0"
+    ]
+  },
+  "prefect_aws-0.5.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a62176b7d7c3dcdae35774a0ec68c2c72f984efac6e09f5148191ab5c2b1ca0c",
+    "dependencies": {
+      "required": [
+        "aiobotocore",
+        "boto3",
+        "botocore",
+        "prefect",
+        "pyparsing",
+        "tenacity",
+        "typer",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "aiobotocore>=2.23.2",
+      "boto3>=1.24.53",
+      "botocore>=1.27.53",
+      "prefect>=3.4.7",
+      "pyparsing>=3.1.1",
+      "tenacity>=8.0.0",
+      "typer>=0.9.0",
+      "rich>=10.0.0"
+    ]
+  },
+  "prefect_aws-0.5.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "71deedd6b85c871fd5978b8b1b44351f50eca927d7c75eb166ca2974e7a09521",
+    "dependencies": {
+      "required": [
+        "aiobotocore",
+        "boto3",
+        "botocore",
+        "mypy-boto3-s3",
+        "mypy-boto3-secretsmanager",
+        "prefect",
+        "pyparsing",
+        "tenacity",
+        "typer",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "aiobotocore>=2.23.2",
+      "boto3>=1.24.53",
+      "botocore>=1.27.53",
+      "mypy_boto3_s3>=1.24.94",
+      "mypy_boto3_secretsmanager>=1.26.49",
+      "prefect>=3.4.7",
+      "pyparsing>=3.1.1",
+      "tenacity>=8.0.0",
+      "typer>=0.9.0",
+      "rich>=10.0.0"
+    ]
+  }
+}

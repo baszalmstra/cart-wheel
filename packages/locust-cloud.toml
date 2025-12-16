@@ -1,0 +1,11 @@
+# Package configuration for locust-cloud
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "locust_cloud-1.29.5-py3-none-any.whl" },
+  { filename = "locust_cloud-1.29.4-py3-none-any.whl" },
+  { filename = "locust_cloud-1.29.3-py3-none-any.whl" },
+  { filename = "locust_cloud-1.29.2-py3-none-any.whl" },
+  { filename = "locust_cloud-1.29.0-py3-none-any.whl" },
+]

@@ -1,0 +1,78 @@
+{
+  "apache_airflow_providers_cloudant-4.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "098fb559a6852e345781ec2059d561943818702d2d06065bda6980cdf8b30179",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "ibmcloudant"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "ibmcloudant>=0.10.0"
+    ]
+  },
+  "apache_airflow_providers_cloudant-4.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ac6b9a58c62d29b31cdc3936ae7d9ef32998a3ecb0c1d7c608ead088cc10d41",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "ibmcloudant"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "ibmcloudant>=0.10.0"
+    ]
+  },
+  "apache_airflow_providers_cloudant-4.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dfc4cb0570ec3b75c64a06d3a3d399359b489c27096621229551f6438618c388",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "ibmcloudant"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "ibmcloudant>=0.10.0"
+    ]
+  },
+  "apache_airflow_providers_cloudant-4.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2cbf7db06ed66a2b759b83f55cc464eacb56730c7fa69eae71003e8388099de",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "ibmcloudant"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "ibmcloudant>=0.10.0"
+    ]
+  },
+  "apache_airflow_providers_cloudant-4.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f03dab2c801f9f3dc8c810ec3155e1ec2b47b0b4a9d744b845585c4a1cdf0d95",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "ibmcloudant"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "ibmcloudant>=0.10.0"
+    ]
+  }
+}

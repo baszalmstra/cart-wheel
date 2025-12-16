@@ -1,0 +1,12 @@
+# Package configuration for alabaster
+conda_forge = "alabaster"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "alabaster-1.0.0-py3-none-any.whl" },
+  { filename = "alabaster-0.7.16-py3-none-any.whl" },
+  { filename = "alabaster-0.7.15-py3-none-any.whl" },
+  { filename = "alabaster-0.7.14-py3-none-any.whl" },
+  { filename = "alabaster-0.7.13-py3-none-any.whl" },
+]

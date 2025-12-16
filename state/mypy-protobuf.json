@@ -1,0 +1,72 @@
+{
+  "mypy_protobuf-3.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85256e9d4da935722ce8fbaa8d19397e1a2989aa8075c96577987de9fe7cea4d",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "types-protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf>=4.25.3",
+      "types-protobuf>=4.24"
+    ]
+  },
+  "mypy_protobuf-3.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "56176e4d569070e7350ea620262478b49b7efceba4103d468448f1d21492fd6c",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "types-protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf >=4.25.3",
+      "types-protobuf >=4.24"
+    ]
+  },
+  "mypy_protobuf-3.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d0548c6b9a6faf14ce1a9ce2831c403a5c1f2a9363e85b1e2c51d5d57aa8393",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "types-protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf (>=4.23.4)",
+      "types-protobuf (>=4.23.0.2)"
+    ]
+  },
+  "mypy_protobuf-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da33dfde7547ff57e5ba5564126cbfa114f14413b2fa50759b1fa5de1e4ab511",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "types-protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf (>=4.21.8)",
+      "types-protobuf (>=3.20.4)"
+    ]
+  },
+  "mypy_protobuf-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15604f6943b16c05db646903261e3b3e775cf7f7990b7c37b03d043a907b650d",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "types-protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf (>=3.19.4)",
+      "types-protobuf (>=3.19.12)"
+    ]
+  }
+}

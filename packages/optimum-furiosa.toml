@@ -1,0 +1,7 @@
+# Package configuration for optimum-furiosa
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "optimum_furiosa-0.1.0-py3-none-any.whl" },
+]

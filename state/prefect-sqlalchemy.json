@@ -1,0 +1,136 @@
+{
+  "prefect_sqlalchemy-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e03d48313039e7cd30d67c244c3a81049a5e38cbd407e4cb35df40d45392dfb9",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy<3,>=1.4.31",
+      "prefect>=3.0.0"
+    ]
+  },
+  "prefect_sqlalchemy-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "96c32a9adc40d7ff6d0924d1852354fda096e81dd1088c0d6eaeb1420f3ffd48",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy<3,>=1.4.31",
+      "prefect>=3.0.0",
+      "aiosqlite; extra == \"dev\"",
+      "asyncpg; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "psycopg2; extra == \"dev\"",
+      "pytest>=8.3; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_sqlalchemy-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4924dc38dce3d382109a9461237dadf5ecc4f239edd459d96b09ca39ce7a2a2e",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy<3,>=1.4.31",
+      "prefect>=3.0.0rc1",
+      "aiosqlite; extra == \"dev\"",
+      "asyncpg; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "psycopg2; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_sqlalchemy-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e80a72bcec529d266cf798e5e2e34ef296bf43c1cc60cf6c621b6485dc48842",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy<3,>=1.4.31",
+      "prefect>=3.0.0rc1",
+      "aiosqlite; extra == \"dev\"",
+      "asyncpg; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "psycopg2; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_sqlalchemy-0.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c22b9054d0fdd4a06dac0039e3a6d3f6f1de806e12abb85652cf355dcd6abc8d",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy<3,>=1.4.31",
+      "prefect<3.0.0,>=2.20.0",
+      "aiosqlite; extra == \"dev\"",
+      "asyncpg; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "psycopg2; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "mock; python_version < \"3.8\" and extra == \"dev\""
+    ]
+  }
+}

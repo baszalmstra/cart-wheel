@@ -1,0 +1,164 @@
+{
+  "nbsmoke-0.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f75d394ef361bd5e9ab1ca5a2e4d73dc2007b6f4ab8f5897e4c1790228d71005",
+    "dependencies": {
+      "required": [
+        "param",
+        "pytest",
+        "pyflakes",
+        "jupyter-client",
+        "nbformat",
+        "nbconvert",
+        "ipykernel"
+      ]
+    },
+    "original_requirements": [
+      "param (>=1.7.0)",
+      "pytest (>=3.1.1)",
+      "pyflakes",
+      "jupyter-client",
+      "nbformat",
+      "nbconvert",
+      "ipykernel",
+      "beautifulsoup4 ; extra == 'all'",
+      "coverage ; extra == 'all'",
+      "flake8 ; extra == 'all'",
+      "holoviews ; extra == 'all'",
+      "keyring ; extra == 'all'",
+      "param (>=1.7.0) ; extra == 'all'",
+      "pyct (>=0.4.4) ; extra == 'all'",
+      "requests ; extra == 'all'",
+      "rfc3986 ; extra == 'all'",
+      "setuptools (>=30.3.0) ; extra == 'all'",
+      "twine ; extra == 'all'",
+      "param (>=1.7.0) ; extra == 'build'",
+      "pyct (>=0.4.4) ; extra == 'build'",
+      "setuptools (>=30.3.0) ; extra == 'build'",
+      "holoviews ; extra == 'holoviews-magics'",
+      "flake8 ; extra == 'lint'",
+      "coverage ; extra == 'tests'",
+      "twine ; extra == 'tests'",
+      "rfc3986 ; extra == 'tests'",
+      "keyring ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "holoviews ; extra == 'tests'",
+      "requests ; extra == 'tests'",
+      "beautifulsoup4 ; extra == 'tests'",
+      "requests ; extra == 'verify'",
+      "beautifulsoup4 ; extra == 'verify'"
+    ]
+  },
+  "nbsmoke-0.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b89343ee0d6d446278ca6e26cf68f68fea20f598a2044f2c0b07c4dbbe4687b6",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pyflakes",
+        "jupyter-client",
+        "nbformat",
+        "nbconvert",
+        "ipykernel"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.1.1)",
+      "pyflakes",
+      "jupyter-client",
+      "nbformat",
+      "nbconvert",
+      "ipykernel",
+      "beautifulsoup4 ; extra == 'all'",
+      "holoviews ; extra == 'all'",
+      "requests ; extra == 'all'",
+      "holoviews ; extra == 'holoviews-magics'",
+      "requests ; extra == 'verify'",
+      "beautifulsoup4 ; extra == 'verify'"
+    ]
+  },
+  "nbsmoke-0.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2afd8561abb1c2119efde13ef1d1a7e1f7e73bfdf86c986148674bf486e16200",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pyflakes",
+        "jupyter-client",
+        "nbformat",
+        "nbconvert",
+        "ipykernel"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.1.1)",
+      "pyflakes",
+      "jupyter-client",
+      "nbformat",
+      "nbconvert",
+      "ipykernel",
+      "beautifulsoup4 ; extra == 'all'",
+      "holoviews ; extra == 'all'",
+      "requests ; extra == 'all'",
+      "holoviews ; extra == 'holoviews-magics'",
+      "requests ; extra == 'verify'",
+      "beautifulsoup4 ; extra == 'verify'"
+    ]
+  },
+  "nbsmoke-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ccdc20801a99d018abf34be5e9c56810fa0b3525546c7a5a123b05bdc3802fc",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pyflakes",
+        "jupyter-client",
+        "nbformat",
+        "nbconvert",
+        "ipykernel"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.1.1)",
+      "pyflakes",
+      "jupyter-client",
+      "nbformat",
+      "nbconvert",
+      "ipykernel",
+      "beautifulsoup4 ; extra == 'all'",
+      "holoviews ; extra == 'all'",
+      "requests ; extra == 'all'",
+      "holoviews ; extra == 'holoviews-magics'",
+      "requests ; extra == 'verify'",
+      "beautifulsoup4 ; extra == 'verify'"
+    ]
+  },
+  "nbsmoke-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a863b740748e3bb0bae68aa5096b6c72e2e277b32b54ca020395016f146cc0d",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pyflakes",
+        "jupyter-client",
+        "nbformat",
+        "nbconvert",
+        "requests",
+        "beautifulsoup4",
+        "holoviews",
+        "ipykernel"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.1.1)",
+      "pyflakes",
+      "jupyter-client",
+      "nbformat",
+      "nbconvert",
+      "requests",
+      "beautifulsoup4",
+      "holoviews",
+      "ipykernel"
+    ]
+  }
+}

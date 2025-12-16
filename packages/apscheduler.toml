@@ -1,0 +1,12 @@
+# Package configuration for apscheduler
+conda_forge = "apscheduler"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apscheduler-3.11.1-py3-none-any.whl" },
+  { filename = "APScheduler-3.11.0-py3-none-any.whl" },
+  { filename = "APScheduler-3.10.4-py3-none-any.whl" },
+  { filename = "APScheduler-3.10.3-py3-none-any.whl" },
+  { filename = "APScheduler-3.10.2-py3-none-any.whl" },
+]

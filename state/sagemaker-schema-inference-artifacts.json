@@ -1,0 +1,98 @@
+{
+  "sagemaker_schema_inference_artifacts-0.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c1abca94ea18a0c435b082019d83050fb60f5c1eb4c56f7de6586d62ed14a04",
+    "dependencies": {
+      "required": [
+        "json5"
+      ]
+    },
+    "original_requirements": [
+      "json5 >=0.9.22",
+      "tox ==3.24.5 ; extra == 'test'",
+      "flake8 ==4.0.1 ; extra == 'test'",
+      "pytest ==6.2.5 ; extra == 'test'",
+      "pytest-cov ==3.0.0 ; extra == 'test'",
+      "pytest-rerunfailures ==10.2 ; extra == 'test'",
+      "pytest-timeout ==2.1.0 ; extra == 'test'",
+      "pytest-xdist ==2.4.0 ; extra == 'test'",
+      "coverage <6.2,>=5.2 ; extra == 'test'",
+      "mock ==4.0.3 ; extra == 'test'",
+      "contextlib2 ==21.6.0 ; extra == 'test'",
+      "awslogs ==0.14.0 ; extra == 'test'",
+      "black ==24.3.0 ; extra == 'test'"
+    ]
+  },
+  "sagemaker_schema_inference_artifacts-0.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c340b7c1ae3e244b819d0aada1858eac8292c95e4b8b3c38b8aed27425dde1e4",
+    "dependencies": {
+      "required": [
+        "json5"
+      ]
+    },
+    "original_requirements": [
+      "json5 (>=0.9.22)",
+      "tox (==3.24.5) ; extra == 'test'",
+      "flake8 (==4.0.1) ; extra == 'test'",
+      "pytest (==6.2.5) ; extra == 'test'",
+      "pytest-cov (==3.0.0) ; extra == 'test'",
+      "pytest-rerunfailures (==10.2) ; extra == 'test'",
+      "pytest-timeout (==2.1.0) ; extra == 'test'",
+      "pytest-xdist (==2.4.0) ; extra == 'test'",
+      "coverage (<6.2,>=5.2) ; extra == 'test'",
+      "mock (==4.0.3) ; extra == 'test'",
+      "contextlib2 (==21.6.0) ; extra == 'test'",
+      "awslogs (==0.14.0) ; extra == 'test'",
+      "black (==24.3.0) ; extra == 'test'"
+    ]
+  },
+  "sagemaker_schema_inference_artifacts-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd95afcabbf67fac59d2c2a8701ed73466f5347cbc0ca614cd92f749993a247b",
+    "dependencies": {
+      "required": [
+        "json5"
+      ]
+    },
+    "original_requirements": [
+      "json5 >=0.9.22",
+      "tox ==3.24.5 ; extra == 'test'",
+      "flake8 ==4.0.1 ; extra == 'test'",
+      "pytest ==6.2.5 ; extra == 'test'",
+      "pytest-cov ==3.0.0 ; extra == 'test'",
+      "pytest-rerunfailures ==10.2 ; extra == 'test'",
+      "pytest-timeout ==2.1.0 ; extra == 'test'",
+      "pytest-xdist ==2.4.0 ; extra == 'test'",
+      "coverage <6.2,>=5.2 ; extra == 'test'",
+      "mock ==4.0.3 ; extra == 'test'",
+      "contextlib2 ==21.6.0 ; extra == 'test'",
+      "awslogs ==0.14.0 ; extra == 'test'",
+      "black ==24.3.0 ; extra == 'test'"
+    ]
+  },
+  "sagemaker_schema_inference_artifacts-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc9d49451fc0ef572677a5ceab439c349b14224a76c2d035c92e3b568ebca1ff",
+    "dependencies": {
+      "required": [
+        "json5"
+      ]
+    },
+    "original_requirements": [
+      "json5 >=0.9.22",
+      "tox ==3.24.5 ; extra == 'test'",
+      "flake8 ==4.0.1 ; extra == 'test'",
+      "pytest ==6.2.5 ; extra == 'test'",
+      "pytest-cov ==3.0.0 ; extra == 'test'",
+      "pytest-rerunfailures ==10.2 ; extra == 'test'",
+      "pytest-timeout ==2.1.0 ; extra == 'test'",
+      "pytest-xdist ==2.4.0 ; extra == 'test'",
+      "coverage <6.2,>=5.2 ; extra == 'test'",
+      "mock ==4.0.3 ; extra == 'test'",
+      "contextlib2 ==21.6.0 ; extra == 'test'",
+      "awslogs ==0.14.0 ; extra == 'test'",
+      "black ==24.3.0 ; extra == 'test'"
+    ]
+  }
+}

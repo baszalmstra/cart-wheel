@@ -1,0 +1,102 @@
+{
+  "livekit_plugins_turn_detector-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cea02e09a80d8695ebda702bfbd51f967e7b72ca4ce62549e4b3fcdb35cf6987",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "livekit-agents",
+        "numpy",
+        "onnxruntime",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "livekit-agents>=1.3.6",
+      "numpy>=1.26",
+      "onnxruntime>=1.18",
+      "transformers<=4.57.1,>=4.47.1"
+    ]
+  },
+  "livekit_plugins_turn_detector-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f18d5821970a1aca1052cb28229b63990072f497b1d13af58eddb9756f85f8b",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "livekit-agents",
+        "numpy",
+        "onnxruntime",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "livekit-agents>=1.3.5",
+      "numpy>=1.26",
+      "onnxruntime>=1.18",
+      "transformers<=4.57.1,>=4.47.1"
+    ]
+  },
+  "livekit_plugins_turn_detector-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "33c5636a8e7eda132e952bd7cbc8cdcb0d808ecd50e91c8edebbf5494fa2acdb",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "livekit-agents",
+        "numpy",
+        "onnxruntime",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "livekit-agents>=1.3.4",
+      "numpy>=1.26",
+      "onnxruntime>=1.18",
+      "transformers>=4.47.1"
+    ]
+  },
+  "livekit_plugins_turn_detector-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a283b1e8e381d8f5d065a960fda33735b1642783e9a5ec8c9a79d7684b596731",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "livekit-agents",
+        "numpy",
+        "onnxruntime",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "livekit-agents>=1.3.3",
+      "numpy>=1.26",
+      "onnxruntime>=1.18",
+      "transformers>=4.47.1"
+    ]
+  },
+  "livekit_plugins_turn_detector-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de09277e91610b10c29016cbbd5ae113601584580a7918cf5c06068f8479df7a",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "livekit-agents",
+        "numpy",
+        "onnxruntime",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "livekit-agents>=1.3.2",
+      "numpy>=1.26",
+      "onnxruntime>=1.18",
+      "transformers>=4.47.1"
+    ]
+  }
+}

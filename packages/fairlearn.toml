@@ -1,0 +1,12 @@
+# Package configuration for fairlearn
+conda_forge = "fairlearn"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fairlearn-0.13.0-py3-none-any.whl" },
+  { filename = "fairlearn-0.12.0-py3-none-any.whl" },
+  { filename = "fairlearn-0.11.0-py3-none-any.whl" },
+  { filename = "fairlearn-0.10.0-py3-none-any.whl" },
+  { filename = "fairlearn-0.9.0-py3-none-any.whl" },
+]

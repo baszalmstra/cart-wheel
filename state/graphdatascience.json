@@ -1,0 +1,171 @@
+{
+  "graphdatascience-1.18-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3465e63715d99cc52790a20d8d5ccce22f77ce48bf9107e461fa6e64265ffa83",
+    "dependencies": {
+      "required": [
+        "multimethod",
+        "neo4j",
+        "numpy",
+        "pandas",
+        "pyarrow",
+        "textdistance",
+        "tqdm",
+        "typing-extensions",
+        "requests",
+        "tenacity",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "multimethod<3.0,>=1.0",
+      "neo4j<7.0,>=4.4.12",
+      "numpy<2.4",
+      "pandas<3.0,>=1.0",
+      "pyarrow<23.0,>=17.0",
+      "textdistance<5.0,>=4.0",
+      "tqdm<5.0,>=4.0",
+      "typing-extensions<5.0,>=4.0",
+      "requests",
+      "tenacity>=9.0",
+      "pydantic>=2.11",
+      "networkx<4.0,>=2.0; extra == \"networkx\"",
+      "ogb<2.0,>=1.0; extra == \"ogb\"",
+      "neo4j-rust-ext<7.0,>=4.4.12; extra == \"rust-ext\""
+    ]
+  },
+  "graphdatascience-1.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08bad6e1c6dd8e7920ee570670b2f3c76d2af9997e9d0badd623e51b92c943af",
+    "dependencies": {
+      "required": [
+        "multimethod",
+        "neo4j",
+        "numpy",
+        "pandas",
+        "pyarrow",
+        "textdistance",
+        "tqdm",
+        "typing-extensions",
+        "requests",
+        "tenacity",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "multimethod<3.0,>=1.0",
+      "neo4j<6.0,>=4.4.12",
+      "numpy<2.3",
+      "pandas<3.0,>=1.0",
+      "pyarrow<21.0,>=17.0",
+      "textdistance<5.0,>=4.0",
+      "tqdm<5.0,>=4.0",
+      "typing-extensions<5.0,>=4.0",
+      "requests",
+      "tenacity>=9.0",
+      "pydantic>=2.11",
+      "ogb<2.0,>=1.0; extra == \"ogb\"",
+      "networkx<4.0,>=2.0; extra == \"networkx\"",
+      "neo4j-rust-ext<6.0,>=4.4.12; extra == \"rust-ext\""
+    ]
+  },
+  "graphdatascience-1.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0dd01d157623e8591bbddf1c0cd40c46afa05b3cc0fbfc6fbbeeef5117849e35",
+    "dependencies": {
+      "required": [
+        "multimethod",
+        "neo4j",
+        "numpy",
+        "pandas",
+        "pyarrow",
+        "textdistance",
+        "tqdm",
+        "typing-extensions",
+        "requests",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "multimethod<3.0,>=1.0",
+      "neo4j<6.0,>=4.4.12",
+      "numpy<2.3",
+      "pandas<3.0,>=1.0",
+      "pyarrow<21.0,>=17.0",
+      "textdistance<5.0,>=4.0",
+      "tqdm<5.0,>=4.0",
+      "typing-extensions<5.0,>=4.0",
+      "requests",
+      "tenacity>=9.0",
+      "ogb<2.0,>=1.0; extra == \"ogb\"",
+      "networkx<4.0,>=2.0; extra == \"networkx\"",
+      "neo4j-rust-ext<6.0,>=4.4.12; extra == \"rust-ext\""
+    ]
+  },
+  "graphdatascience-1.15.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "710e618f7230e1ae1e6686ea4875f81a6cad9782f017b843e1c3cd3d335630f7",
+    "dependencies": {
+      "required": [
+        "multimethod",
+        "neo4j",
+        "numpy",
+        "pandas",
+        "pyarrow",
+        "textdistance",
+        "tqdm",
+        "typing-extensions",
+        "requests",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "multimethod<3.0,>=1.0",
+      "neo4j<6.0,>=4.4.12",
+      "numpy<2.3",
+      "pandas<3.0,>=1.0",
+      "pyarrow<20.0,>=16.0",
+      "textdistance<5.0,>=4.0",
+      "tqdm<5.0,>=4.0",
+      "typing-extensions<5.0,>=4.0",
+      "requests",
+      "tenacity>=9.0",
+      "ogb<2.0,>=1.0; extra == \"ogb\"",
+      "networkx<4.0,>=2.0; extra == \"networkx\"",
+      "neo4j-rust-ext<6.0,>=4.4.12; extra == \"rust-ext\""
+    ]
+  },
+  "graphdatascience-1.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be23a3f75f673d94ddcc08117b9dcfcd7123bfbe2389ca7c3108b04bf848388b",
+    "dependencies": {
+      "required": [
+        "multimethod",
+        "neo4j",
+        "numpy",
+        "pandas",
+        "pyarrow",
+        "textdistance",
+        "tqdm",
+        "typing-extensions",
+        "requests",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "multimethod<3.0,>=1.0",
+      "neo4j<6.0,>=4.4.12",
+      "numpy<2.3",
+      "pandas<3.0,>=1.0",
+      "pyarrow<20.0,>=16.0",
+      "textdistance<5.0,>=4.0",
+      "tqdm<5.0,>=4.0",
+      "typing-extensions<5.0,>=4.0",
+      "requests",
+      "tenacity>=9.0",
+      "ogb<2.0,>=1.0; extra == \"ogb\"",
+      "networkx<4.0,>=2.0; extra == \"networkx\"",
+      "neo4j-rust-ext<6.0,>=4.4.12; extra == \"rust-ext\""
+    ]
+  }
+}

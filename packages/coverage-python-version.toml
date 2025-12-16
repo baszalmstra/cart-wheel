@@ -1,0 +1,8 @@
+# Package configuration for coverage-python-version
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "coverage_python_version-0.2.0-py2.py3-none-any.whl" },
+  { filename = "coverage_python_version-0.1.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for azure-mgmt-compute
+conda_forge = "azure-mgmt-compute"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_mgmt_compute-37.1.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_compute-37.0.1-py3-none-any.whl" },
+  { filename = "azure_mgmt_compute-37.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_compute-36.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_compute-35.0.0-py3-none-any.whl" },
+]

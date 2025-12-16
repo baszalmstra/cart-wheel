@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-texttospeech
+conda_forge = "google-cloud-texttospeech"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_texttospeech-2.33.0-py3-none-any.whl" },
+  { filename = "google_cloud_texttospeech-2.32.0-py3-none-any.whl" },
+  { filename = "google_cloud_texttospeech-2.31.0-py3-none-any.whl" },
+  { filename = "google_cloud_texttospeech-2.30.0-py3-none-any.whl" },
+  { filename = "google_cloud_texttospeech-2.29.0-py3-none-any.whl" },
+]

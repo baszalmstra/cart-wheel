@@ -1,0 +1,97 @@
+{
+  "sqlalchemy_spanner-1.17.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b8444c23e66c84aab5dbab589face8fd75733fa6c1811db368d5202cdfb5f8e",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "google-cloud-spanner",
+        "alembic"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy>=1.1.13",
+      "google-cloud-spanner>=3.55.0",
+      "alembic",
+      "opentelemetry-api>=1.1.0; extra == \"tracing\"",
+      "opentelemetry-sdk>=1.1.0; extra == \"tracing\"",
+      "opentelemetry-instrumentation>=0.20b0; extra == \"tracing\""
+    ]
+  },
+  "sqlalchemy_spanner-1.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49b0a5b3bdee4b731aced89ed4641953a85415a91f346939d4f06bab9b4179c9",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "google-cloud-spanner",
+        "alembic"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy>=1.1.13",
+      "google-cloud-spanner>=3.55.0",
+      "alembic",
+      "opentelemetry-api>=1.1.0; extra == \"tracing\"",
+      "opentelemetry-sdk>=1.1.0; extra == \"tracing\"",
+      "opentelemetry-instrumentation>=0.20b0; extra == \"tracing\""
+    ]
+  },
+  "sqlalchemy_spanner-1.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e53cadb2b973e88936c0a9874e133ee9a0829ea3261f328b4ca40bdedf2016c1",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "google-cloud-spanner",
+        "alembic"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy>=1.1.13",
+      "google-cloud-spanner>=3.55.0",
+      "alembic",
+      "opentelemetry-api>=1.1.0; extra == \"tracing\"",
+      "opentelemetry-sdk>=1.1.0; extra == \"tracing\"",
+      "opentelemetry-instrumentation>=0.20b0; extra == \"tracing\""
+    ]
+  },
+  "sqlalchemy_spanner-1.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1903089ac301e7c1d7da5d2e5febfd707cb18d22b26a3da90e7872c69ffc5cd",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "google-cloud-spanner",
+        "alembic"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy>=1.1.13",
+      "google-cloud-spanner>=3.55.0",
+      "alembic",
+      "opentelemetry-api>=1.1.0; extra == \"tracing\"",
+      "opentelemetry-sdk>=1.1.0; extra == \"tracing\"",
+      "opentelemetry-instrumentation>=0.20b0; extra == \"tracing\""
+    ]
+  },
+  "sqlalchemy_spanner-1.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1f632c90a761ca081adc09bfe0c8f06cfde12e4198bf17d234e25548e6fe3281",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "google-cloud-spanner",
+        "alembic"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy>=1.1.13",
+      "google-cloud-spanner>=3.55.0",
+      "alembic",
+      "opentelemetry-api>=1.1.0; extra == \"tracing\"",
+      "opentelemetry-sdk>=1.1.0; extra == \"tracing\"",
+      "opentelemetry-instrumentation>=0.20b0; extra == \"tracing\""
+    ]
+  }
+}

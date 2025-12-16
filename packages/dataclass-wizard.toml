@@ -1,0 +1,12 @@
+# Package configuration for dataclass-wizard
+conda_forge = "dataclass-wizard"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dataclass_wizard-0.35.4-py2.py3-none-any.whl" },
+  { filename = "dataclass_wizard-0.35.3-py2.py3-none-any.whl" },
+  { filename = "dataclass_wizard-0.35.2-py2.py3-none-any.whl" },
+  { filename = "dataclass_wizard-0.35.1-py2.py3-none-any.whl" },
+  { filename = "dataclass_wizard-0.35.0-py2.py3-none-any.whl" },
+]

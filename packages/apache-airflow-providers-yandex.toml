@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-yandex
+conda_forge = "apache-airflow-providers-yandex"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_yandex-4.3.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_yandex-4.2.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_yandex-4.2.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_yandex-4.1.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_yandex-4.1.0-py3-none-any.whl" },
+]

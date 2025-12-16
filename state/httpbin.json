@@ -1,0 +1,148 @@
+{
+  "httpbin-0.10.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8e28e67f72ead4419977c9f2dba4ce86ce08768ada30ef9a87288527bb925d00",
+    "dependencies": {
+      "required": [
+        "brotlicffi",
+        "decorator",
+        "flasgger",
+        "flask",
+        "six",
+        "werkzeug",
+        "greenlet",
+        "importlib-metadata",
+        "greenlet"
+      ]
+    },
+    "original_requirements": [
+      "brotlicffi",
+      "decorator",
+      "flasgger",
+      "flask >=2.2.4",
+      "six",
+      "werkzeug >=2.2.2",
+      "greenlet <3.0 ; python_version < \"3.12\"",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "greenlet >=3.0.0a1 ; python_version >= \"3.12.0rc0\"",
+      "gunicorn ; extra == 'mainapp'",
+      "gevent ; extra == 'mainapp'",
+      "pytest ; extra == 'test'",
+      "tox ; extra == 'test'"
+    ]
+  },
+  "httpbin-0.10.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c81ec67dbc91062b0f6ea296795a29bf1092d014b201097ebc417439c2a0054e",
+    "dependencies": {
+      "required": [
+        "flask",
+        "brotlicffi",
+        "decorator",
+        "flasgger",
+        "werkzeug",
+        "six",
+        "greenlet",
+        "importlib-metadata",
+        "greenlet"
+      ]
+    },
+    "original_requirements": [
+      "Flask",
+      "brotlicffi",
+      "decorator",
+      "flasgger",
+      "werkzeug >=0.14.1",
+      "six",
+      "greenlet <3.0 ; python_version < \"3.12\"",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "greenlet >=3.0.0a1 ; python_version >= \"3.12.0rc0\"",
+      "gunicorn ; extra == 'mainapp'",
+      "gevent ; extra == 'mainapp'",
+      "pytest ; extra == 'test'",
+      "tox ; extra == 'test'"
+    ]
+  },
+  "httpbin-0.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd8a0b7e53668a8dd4bdbcd7f5d191582a373852cf84c5ea33a06fa1f1187291",
+    "dependencies": {
+      "required": [
+        "flask",
+        "markupsafe",
+        "decorator",
+        "itsdangerous",
+        "brotlicffi",
+        "werkzeug",
+        "gevent",
+        "flasgger",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "Flask",
+      "MarkupSafe",
+      "decorator",
+      "itsdangerous",
+      "brotlicffi",
+      "werkzeug",
+      "gevent",
+      "flasgger",
+      "jinja2"
+    ]
+  },
+  "httpbin-0.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a04b5904c80b7aa04dd0a6af6520d68ce17a5db175e66a64b971f8e93d73a26",
+    "dependencies": {
+      "required": [
+        "flask",
+        "markupsafe",
+        "decorator",
+        "itsdangerous",
+        "six",
+        "brotlipy",
+        "raven",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "Flask",
+      "MarkupSafe",
+      "decorator",
+      "itsdangerous",
+      "six",
+      "brotlipy",
+      "raven[flask]",
+      "werkzeug (>=0.14.1)"
+    ]
+  },
+  "httpbin-0.6.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c3a4d69f9d495e6df1d51a50ba7b1e4f33a1cb61e0db95ee7f8953e27a2243f",
+    "dependencies": {
+      "required": [
+        "flask",
+        "flask-common",
+        "markupsafe",
+        "brotlipy",
+        "decorator",
+        "flask-limiter",
+        "itsdangerous",
+        "raven",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "Flask",
+      "Flask-Common",
+      "MarkupSafe",
+      "brotlipy",
+      "decorator",
+      "flask-limiter",
+      "itsdangerous",
+      "raven[flask]",
+      "six"
+    ]
+  }
+}

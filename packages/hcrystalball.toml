@@ -1,0 +1,12 @@
+# Package configuration for hcrystalball
+conda_forge = "hcrystalball"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hcrystalball-0.1.12-py2.py3-none-any.whl" },
+  { filename = "hcrystalball-0.1.11-py2.py3-none-any.whl" },
+  { filename = "hcrystalball-0.1.10-py2.py3-none-any.whl" },
+  { filename = "hcrystalball-0.1.9-py2.py3-none-any.whl" },
+  { filename = "hcrystalball-0.1.8-py2.py3-none-any.whl" },
+]

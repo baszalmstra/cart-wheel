@@ -1,0 +1,82 @@
+{
+  "pytest_pylint-0.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f10d9eaa72b9fbe624ee4b55da0481f56482eee0a467afc1ee3ae8b1fefbd0b4",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pylint",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=7.0",
+      "pylint >=2.15.0",
+      "tomli >=1.1.0 ; python_version < \"3.11\""
+    ]
+  },
+  "pytest_pylint-0.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81dd68fd4a409878e7e1584db08bd7aba09ef6c9e37c3aaecbc58f33ef0c5a16",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pylint",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "pytest (<8.0,>=5.4)",
+      "pylint (>=2.3.0)",
+      "toml (>=0.7.1)"
+    ]
+  },
+  "pytest_pylint-0.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b51d3f93bed9c192e2b046f16520981bee5abe7bd61b070306e7ee685219fdd3",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pylint",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=5.4)",
+      "pylint (>=2.3.0)",
+      "toml (>=0.7.1)"
+    ]
+  },
+  "pytest_pylint-0.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b63aaf8b80ff33c8ceaa7f68323ed04102c7790093ccf6bdb261a4c2dc6fd564",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pylint",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=5.4)",
+      "pylint (>=2.3.0)",
+      "toml (>=0.7.1)"
+    ]
+  },
+  "pytest_pylint-0.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c6a1b9ad7dc819ea56ebd45fc1f5a611f0848b9a5b85fdcd8deafd07b22e7f2e",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pylint",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=5.4)",
+      "pylint (>=2.3.0)",
+      "toml (>=0.7.1)"
+    ]
+  }
+}

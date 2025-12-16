@@ -1,0 +1,12 @@
+# Package configuration for junitparser
+conda_forge = "junitparser"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "junitparser-4.0.2-py3-none-any.whl" },
+  { filename = "junitparser-4.0.1-py3-none-any.whl" },
+  { filename = "junitparser-4.0.0-py3-none-any.whl" },
+  { filename = "junitparser-3.2.0-py2.py3-none-any.whl" },
+  { filename = "junitparser-3.1.2-py2.py3-none-any.whl" },
+]

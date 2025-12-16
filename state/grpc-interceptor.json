@@ -1,0 +1,67 @@
+{
+  "grpc_interceptor-0.15.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0035f33228693ed3767ee49d937bac424318db173fef4d2d0170b3215f254d9d",
+    "dependencies": {
+      "required": [
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "grpcio (>=1.49.1,<2.0.0)",
+      "protobuf (>=4.21.9); extra == \"testing\""
+    ]
+  },
+  "grpc_interceptor-0.15.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "96be2043b7e49f9deb444f18b61c373ea28d22d81c90cd3b82127a4744eb9247",
+    "dependencies": {
+      "required": [
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "grpcio (>=1.49.1,<2.0.0)",
+      "protobuf (>=4.21.9); extra == \"testing\""
+    ]
+  },
+  "grpc_interceptor-0.15.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "596dac3cb709ffb6178a4873f5148e254c871c9069f0b11040189b257969490a",
+    "dependencies": {
+      "required": [
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "grpcio (>=1.49.1,<2.0.0)",
+      "protobuf (>=4.21.9); extra == \"testing\""
+    ]
+  },
+  "grpc_interceptor-0.15.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1cc52c34b0d7ff34512fb7780742ecda37bf3caa18ecc5f33f09b4f74e96b276",
+    "dependencies": {
+      "required": [
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "grpcio (>=1.49.1,<2.0.0)",
+      "protobuf (>=4.21.9); extra == \"testing\""
+    ]
+  },
+  "grpc_interceptor-0.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63e390162e64df96c39c40508eb697def76a7cafac32a7eaf9272093eec1109e",
+    "dependencies": {
+      "required": [
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "grpcio (>=1.32.0,<2.0.0)",
+      "protobuf (>=3.6.0); extra == \"testing\""
+    ]
+  }
+}

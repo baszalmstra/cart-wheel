@@ -1,0 +1,12 @@
+# Package configuration for pytest-playwright
+conda_forge = "pytest-playwright"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_playwright-0.7.2-py3-none-any.whl" },
+  { filename = "pytest_playwright-0.7.1-py3-none-any.whl" },
+  { filename = "pytest_playwright-0.7.0-py3-none-any.whl" },
+  { filename = "pytest_playwright-0.6.2-py3-none-any.whl" },
+  { filename = "pytest_playwright-0.5.2-py3-none-any.whl" },
+]

@@ -1,0 +1,100 @@
+{
+  "compel-2.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9b9ea5e880f4ebfc1617b1e7721e0740c97c86efaa335ce9e901a48662091b9",
+    "dependencies": {
+      "required": [
+        "diffusers",
+        "notebook",
+        "pyparsing",
+        "torch",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "diffusers>=0.11",
+      "notebook>=6.5.7",
+      "pyparsing~=3.0",
+      "torch",
+      "transformers~=4.25"
+    ]
+  },
+  "compel-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c48e42aa3d84c958c91f1f4159789ae689e2ba8675bfec3675df20720656e7f",
+    "dependencies": {
+      "required": [
+        "diffusers",
+        "notebook",
+        "pyparsing",
+        "torch",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "diffusers>=0.11",
+      "notebook>=6.5.7",
+      "pyparsing~=3.0",
+      "torch",
+      "transformers~=4.25"
+    ]
+  },
+  "compel-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a413608414d7af632b00900008d48ec2cd873660dd74712e66905dd1a95e856",
+    "dependencies": {
+      "required": [
+        "diffusers",
+        "notebook",
+        "pyparsing",
+        "torch",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "diffusers>=0.11",
+      "notebook>=6.5.7",
+      "pyparsing~=3.0",
+      "torch",
+      "transformers~=4.25"
+    ]
+  },
+  "compel-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d316d75b2d886f89ff82fcaa785ae1a08b6a9b85eba7cebc5347dd6cb85d9ef7",
+    "dependencies": {
+      "required": [
+        "diffusers",
+        "notebook",
+        "pyparsing",
+        "torch",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "diffusers>=0.11",
+      "notebook>=6.5.7",
+      "pyparsing~=3.0",
+      "torch",
+      "transformers~=4.25"
+    ]
+  },
+  "compel-2.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "576bf2760f54654a6fb1262b3ce632986b9940150d4b0c59ca0cf2ef6e6265a7",
+    "dependencies": {
+      "required": [
+        "diffusers",
+        "pyparsing",
+        "torch",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "diffusers>=0.11",
+      "pyparsing~=3.0",
+      "torch",
+      "transformers~=4.25"
+    ]
+  }
+}

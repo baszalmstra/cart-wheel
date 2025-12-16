@@ -1,0 +1,132 @@
+{
+  "pytest_jupyter-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "677aec971c1e0aa60fb98db248eca4f916f0595012215190028a9e44a8cb64ba",
+    "dependencies": {
+      "required": [
+        "jupyter-core",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-core>=5.7",
+      "pytest>=7.0",
+      "ipykernel>=6.14; extra == 'client'",
+      "jupyter-client>=7.4.0; extra == 'client'",
+      "nbformat>=5.3; extra == 'client'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "ipykernel>=6.14; extra == 'server'",
+      "jupyter-client>=7.4.0; extra == 'server'",
+      "jupyter-server>=1.21; extra == 'server'",
+      "nbformat>=5.3; extra == 'server'",
+      "pytest-timeout; extra == 'test'"
+    ]
+  },
+  "pytest_jupyter-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "644ae23821fe74344e1ff4dfcdbbcd1d6ffc191f654f435f67a19e6dce141684",
+    "dependencies": {
+      "required": [
+        "jupyter-core",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-core>=5.7",
+      "pytest>=7.0",
+      "ipykernel>=6.14; extra == 'client'",
+      "jupyter-client>=7.4.0; extra == 'client'",
+      "nbformat>=5.3; extra == 'client'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "ipykernel>=6.14; extra == 'server'",
+      "jupyter-client>=7.4.0; extra == 'server'",
+      "jupyter-server>=1.21; extra == 'server'",
+      "nbformat>=5.3; extra == 'server'",
+      "pytest-timeout; extra == 'test'"
+    ]
+  },
+  "pytest_jupyter-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "392c57f5cf0915c9926e8bd8904489f3b0dd05c252fa6be642f6eda3b7e8f5dd",
+    "dependencies": {
+      "required": [
+        "jupyter-core",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-core>=5.7",
+      "pytest",
+      "ipykernel>=6.14; extra == 'client'",
+      "jupyter-client>=7.4.0; extra == 'client'",
+      "nbformat>=5.3; extra == 'client'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "ipykernel>=6.14; extra == 'server'",
+      "jupyter-client>=7.4.0; extra == 'server'",
+      "jupyter-server>=1.21; extra == 'server'",
+      "nbformat>=5.3; extra == 'server'",
+      "pytest-timeout; extra == 'test'"
+    ]
+  },
+  "pytest_jupyter-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37c75b0763c2f59bf03860ee8bbfd4f2af71ea3434317f2b9ca632c9c5874442",
+    "dependencies": {
+      "required": [
+        "jupyter-core",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-core>=5.7",
+      "pytest",
+      "ipykernel>=6.14; extra == 'client'",
+      "jupyter-client>=7.4.0; extra == 'client'",
+      "nbformat>=5.3; extra == 'client'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "ipykernel>=6.14; extra == 'server'",
+      "jupyter-client>=7.4.0; extra == 'server'",
+      "jupyter-server>=1.21; extra == 'server'",
+      "nbformat>=5.3; extra == 'server'",
+      "pytest-timeout; extra == 'test'"
+    ]
+  },
+  "pytest_jupyter-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "633ebbe8b95b61d294465a73c05e628a50f5166bfce1b3d656f7e7c274ef1dfb",
+    "dependencies": {
+      "required": [
+        "jupyter-core",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-core",
+      "pytest",
+      "ipykernel>=6.14; extra == 'client'",
+      "jupyter-client>=7.4.0; extra == 'client'",
+      "nbformat>=5.3; extra == 'client'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "ipykernel>=6.14; extra == 'server'",
+      "jupyter-client>=7.4.0; extra == 'server'",
+      "jupyter-server>=1.21; extra == 'server'",
+      "nbformat>=5.3; extra == 'server'",
+      "pytest-timeout; extra == 'test'"
+    ]
+  }
+}

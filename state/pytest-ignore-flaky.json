@@ -1,0 +1,74 @@
+{
+  "pytest_ignore_flaky-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6af6d4242080336ece1f0e67a0e2520625e37c492434b383ab5c841b385389a3",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=6.0",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest !=8.1.*,>=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-mypy ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'",
+      "importlib-resources ; (python_version < \"3.12\") and extra == 'testing'"
+    ]
+  },
+  "pytest_ignore_flaky-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60e9272541875e74a2e1ba197c46468150fb0217fe714b51fd45bb4d9dfac20a",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=6.0"
+    ]
+  },
+  "pytest_ignore_flaky-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72c9567f57d941e67385443030a0ff12d4efc28a4e405c0292111c9c900e6c00",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=6.0"
+    ]
+  },
+  "pytest_ignore_flaky-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43ab9a8bfcc81b56bb9a4461d7f6e9e07f75e1aa3f41d3a6527998089910aa43",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=6.0)"
+    ]
+  },
+  "pytest_ignore_flaky-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe33a1f725a78e1f92077bfb80926602622bc050a0a71b61c3f1ca7089afb779",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.7)"
+    ]
+  }
+}

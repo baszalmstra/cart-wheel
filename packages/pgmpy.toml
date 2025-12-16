@@ -1,0 +1,12 @@
+# Package configuration for pgmpy
+conda_forge = "pgmpy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pgmpy-1.0.0-py3-none-any.whl" },
+  { filename = "pgmpy-0.1.26-py3-none-any.whl" },
+  { filename = "pgmpy-0.1.25-py3-none-any.whl" },
+  { filename = "pgmpy-0.1.24-py3-none-any.whl" },
+  { filename = "pgmpy-0.1.23-py3-none-any.whl" },
+]

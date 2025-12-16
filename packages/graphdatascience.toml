@@ -1,0 +1,12 @@
+# Package configuration for graphdatascience
+conda_forge = "graphdatascience"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "graphdatascience-1.18-py3-none-any.whl" },
+  { filename = "graphdatascience-1.17-py3-none-any.whl" },
+  { filename = "graphdatascience-1.16-py3-none-any.whl" },
+  { filename = "graphdatascience-1.15.1-py3-none-any.whl" },
+  { filename = "graphdatascience-1.15-py3-none-any.whl" },
+]

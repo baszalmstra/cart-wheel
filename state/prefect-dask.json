@@ -1,0 +1,101 @@
+{
+  "prefect_dask-0.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dde864ca93f531d631b2efc378173bc8d6f2ad9fba30867a135f560fc852e6b3",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "distributed"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.4.7",
+      "distributed!=2023.3.2,!=2023.3.2.1,!=2023.4.*,!=2023.5.*,>=2022.5.0"
+    ]
+  },
+  "prefect_dask-0.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b04011745a7667b649a114cc8cbd395b5fdf8e39c02d43a14e910cb21611019",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "distributed"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.0",
+      "distributed!=2023.3.2,!=2023.3.2.1,!=2023.4.*,!=2023.5.*,>=2022.5.0"
+    ]
+  },
+  "prefect_dask-0.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "70ae742bf1ba691942a57cf1068725721393adadcda6f85b51f2f5fe2a41bed3",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "distributed"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.0",
+      "distributed!=2023.3.2,!=2023.3.2.1,!=2023.4.*,!=2023.5.*,>=2022.5.0"
+    ]
+  },
+  "prefect_dask-0.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34cb4fd939da2db4f2607804e24037c580554d39d0c5c96dc10200d9380f9637",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "distributed"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "distributed!=2023.3.2,!=2023.3.2.1,!=2023.4.*,!=2023.5.*,>=2022.5.0",
+      "bokeh; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "dask[dataframe]!=2023.3.2,!=2023.3.2.1,!=2023.4.*,!=2023.5.*,>=2022.5.0; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio!=0.22.0,<0.23.0,>=0.18.2; extra == \"dev\"",
+      "pytest>=8.3; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_dask-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c8a9acaafbd09967de57e4294457a6193879ff73341b092a21c026a09d0adb5",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "distributed"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "distributed!=2023.3.2,!=2023.3.2.1,!=2023.4.*,!=2023.5.*,>=2022.5.0",
+      "coverage; extra == \"dev\"",
+      "dask[dataframe]!=2023.3.2,!=2023.3.2.1,!=2023.4.*,!=2023.5.*,>=2022.5.0; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio!=0.22.0,<0.23.0,>=0.18.2; extra == \"dev\"",
+      "pytest>=8.3; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  }
+}

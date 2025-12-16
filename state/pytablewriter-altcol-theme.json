@@ -1,0 +1,47 @@
+{
+  "pytablewriter_altcol_theme-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b35b0aa1f0c351552bdf538b8f5a582d2141acc70c4eb6ffecf561db59da899b",
+    "dependencies": {
+      "required": [
+        "pytablewriter",
+        "tcolorpy"
+      ]
+    },
+    "original_requirements": [
+      "pytablewriter <2,>=0.59.0",
+      "tcolorpy <1,>=0.1",
+      "pytest >=6.0.1 ; extra == 'test'"
+    ]
+  },
+  "pytablewriter_altcol_theme-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "93e87a58f08a51bf51c0de42bc3bc3efc099b2d89e39a146057ceb0ccdccfa78",
+    "dependencies": {
+      "required": [
+        "pytablewriter",
+        "tcolorpy"
+      ]
+    },
+    "original_requirements": [
+      "pytablewriter <2,>=0.59.0",
+      "tcolorpy <1,>=0.1",
+      "pytest >=6.0.1 ; extra == 'test'"
+    ]
+  },
+  "pytablewriter_altcol_theme-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f795b404f38d9817e2a180076161111313a343715aec7ad45542305e462d7fa6",
+    "dependencies": {
+      "required": [
+        "pytablewriter",
+        "tcolorpy"
+      ]
+    },
+    "original_requirements": [
+      "pytablewriter <2,>=0.59.0",
+      "tcolorpy <1,>=0.1",
+      "pytest >=6.0.1 ; extra == 'test'"
+    ]
+  }
+}

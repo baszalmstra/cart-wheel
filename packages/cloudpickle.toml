@@ -1,0 +1,12 @@
+# Package configuration for cloudpickle
+conda_forge = "cloudpickle"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cloudpickle-3.1.2-py3-none-any.whl" },
+  { filename = "cloudpickle-3.1.1-py3-none-any.whl" },
+  { filename = "cloudpickle-3.1.0-py3-none-any.whl" },
+  { filename = "cloudpickle-3.0.0-py3-none-any.whl" },
+  { filename = "cloudpickle-2.2.1-py3-none-any.whl" },
+]

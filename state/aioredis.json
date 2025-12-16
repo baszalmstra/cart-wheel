@@ -1,0 +1,94 @@
+{
+  "aioredis-2.0.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:26.602428+00:00",
+    "conda_file": "aioredis-2.0.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "typing-extensions"
+      ],
+      "optional": {
+        "hiredis": [
+          "hiredis"
+        ]
+      }
+    },
+    "original_requirements": [
+      "async-timeout",
+      "typing-extensions",
+      "hiredis (>=1.0) ; (implementation_name == \"cpython\") and extra == 'hiredis'"
+    ]
+  },
+  "aioredis-2.0.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:26.705514+00:00",
+    "conda_file": "aioredis-2.0.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "typing-extensions"
+      ],
+      "optional": {
+        "hiredis": [
+          "hiredis"
+        ]
+      }
+    },
+    "original_requirements": [
+      "async-timeout",
+      "typing-extensions",
+      "hiredis (>=1.0) ; (implementation_name == \"cpython\") and extra == 'hiredis'"
+    ]
+  },
+  "aioredis-1.3.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:26.742028+00:00",
+    "conda_file": "aioredis-1.3.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "hiredis"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout",
+      "hiredis"
+    ]
+  },
+  "aioredis-1.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:26.994927+00:00",
+    "conda_file": "aioredis-1.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "hiredis"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout",
+      "hiredis"
+    ]
+  },
+  "aioredis-1.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:27.031483+00:00",
+    "conda_file": "aioredis-1.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "hiredis"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout",
+      "hiredis"
+    ]
+  }
+}

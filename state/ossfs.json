@@ -1,0 +1,182 @@
+{
+  "ossfs-2025.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17b92e5cfd636690665969687806ddba0155ab71245a731eb86b17f4c2648dc2",
+    "dependencies": {
+      "required": [
+        "aiooss2",
+        "fsspec",
+        "oss2"
+      ]
+    },
+    "original_requirements": [
+      "aiooss2>=0.2.11",
+      "fsspec>=2023.9.2",
+      "oss2==2.18.4",
+      "aliyun-python-sdk-sts==3.1.2; extra == \"tests\"",
+      "pytest-benchmark<6,>=4; extra == \"tests\"",
+      "pytest-cov<6,>=3; extra == \"tests\"",
+      "pytest-mock<4,>=3.8.2; extra == \"tests\"",
+      "pytest<8,>=7.2.0; extra == \"tests\"",
+      "requests>=2.31.0; extra == \"tests\"",
+      "ossfs[tests]; extra == \"dev\"",
+      "mypy==1.14.1; extra == \"dev\""
+    ]
+  },
+  "ossfs-2023.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1c5bbd24e7c0b3badd47d9c659bfdfac96d148b7e5d1f88ccdaf26403e893ab",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "oss2",
+        "aiooss2"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2023.9.2",
+      "oss2 ==2.18.1",
+      "aiooss2 >=0.2.7",
+      "pytest ==7.2.0 ; extra == 'dev'",
+      "pytest-sugar ==0.9.5 ; extra == 'dev'",
+      "pytest-cov ==3.0.0 ; extra == 'dev'",
+      "pytest-mock ==3.8.2 ; extra == 'dev'",
+      "pylint ==2.15.0 ; extra == 'dev'",
+      "pylint-pytest ==1.1.2 ; extra == 'dev'",
+      "mypy ==0.971 ; extra == 'dev'",
+      "requests ==2.31.0 ; extra == 'dev'",
+      "aliyun-python-sdk-sts ==3.1.1 ; extra == 'dev'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-sugar ==0.9.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-mock ==3.8.2 ; extra == 'tests'",
+      "pylint ==2.15.0 ; extra == 'tests'",
+      "pylint-pytest ==1.1.2 ; extra == 'tests'",
+      "mypy ==0.971 ; extra == 'tests'",
+      "requests ==2.31.0 ; extra == 'tests'",
+      "aliyun-python-sdk-sts ==3.1.1 ; extra == 'tests'"
+    ]
+  },
+  "ossfs-2023.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5bc01c45e323a647a76442377552e2417edd669911ca1ca122e66ef0cbc219fc",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "oss2",
+        "aiooss2"
+      ]
+    },
+    "original_requirements": [
+      "fsspec ==2023.6.0",
+      "oss2 ==2.18.1",
+      "aiooss2 ==0.2.7",
+      "pytest ==7.2.0 ; extra == 'dev'",
+      "pytest-sugar ==0.9.5 ; extra == 'dev'",
+      "pytest-cov ==3.0.0 ; extra == 'dev'",
+      "pytest-mock ==3.8.2 ; extra == 'dev'",
+      "pylint ==2.15.0 ; extra == 'dev'",
+      "pylint-pytest ==1.1.2 ; extra == 'dev'",
+      "mypy ==0.971 ; extra == 'dev'",
+      "requests ==2.31.0 ; extra == 'dev'",
+      "aliyun-python-sdk-sts ==3.1.1 ; extra == 'dev'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-sugar ==0.9.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-mock ==3.8.2 ; extra == 'tests'",
+      "pylint ==2.15.0 ; extra == 'tests'",
+      "pylint-pytest ==1.1.2 ; extra == 'tests'",
+      "mypy ==0.971 ; extra == 'tests'",
+      "requests ==2.31.0 ; extra == 'tests'",
+      "aliyun-python-sdk-sts ==3.1.1 ; extra == 'tests'"
+    ]
+  },
+  "ossfs-2023.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8cee2607e8c730d527366e528602e2c1572c199618b6c1ff5592dad366e18932",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "oss2",
+        "aiooss2"
+      ]
+    },
+    "original_requirements": [
+      "fsspec (==2023.5.0)",
+      "oss2 (==2.17.0)",
+      "aiooss2 (==0.2.5)",
+      "pytest (==7.2.0) ; extra == 'dev'",
+      "pytest-sugar (==0.9.5) ; extra == 'dev'",
+      "pytest-cov (==3.0.0) ; extra == 'dev'",
+      "pytest-mock (==3.8.2) ; extra == 'dev'",
+      "pylint (==2.15.0) ; extra == 'dev'",
+      "pylint-pytest (==1.1.2) ; extra == 'dev'",
+      "mypy (==0.971) ; extra == 'dev'",
+      "requests (==2.30.0) ; extra == 'dev'",
+      "aliyun-python-sdk-sts (==3.1.1) ; extra == 'dev'",
+      "mkdocs (==1.3.1) ; extra == 'dev'",
+      "mkdocs-gen-files (==0.3.5) ; extra == 'dev'",
+      "mkdocs-material (==8.4.1) ; extra == 'dev'",
+      "mkdocs-section-index (==0.3.4) ; extra == 'dev'",
+      "mkdocstrings-python (==0.7.1) ; extra == 'dev'",
+      "mkdocs (==1.3.1) ; extra == 'docs'",
+      "mkdocs-gen-files (==0.3.5) ; extra == 'docs'",
+      "mkdocs-material (==8.4.1) ; extra == 'docs'",
+      "mkdocs-section-index (==0.3.4) ; extra == 'docs'",
+      "mkdocstrings-python (==0.7.1) ; extra == 'docs'",
+      "pytest (==7.2.0) ; extra == 'tests'",
+      "pytest-sugar (==0.9.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-mock (==3.8.2) ; extra == 'tests'",
+      "pylint (==2.15.0) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "mypy (==0.971) ; extra == 'tests'",
+      "requests (==2.30.0) ; extra == 'tests'",
+      "aliyun-python-sdk-sts (==3.1.1) ; extra == 'tests'"
+    ]
+  },
+  "ossfs-2023.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e52cb5a41b8880eb841ed1beee1508eab4a13366bfb5c456da02266fb1a83c6",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "oss2",
+        "aiooss2"
+      ]
+    },
+    "original_requirements": [
+      "fsspec (==2023.4.0)",
+      "oss2 (==2.17.0)",
+      "aiooss2 (==0.2.5)",
+      "pytest (==7.2.0) ; extra == 'dev'",
+      "pytest-sugar (==0.9.5) ; extra == 'dev'",
+      "pytest-cov (==3.0.0) ; extra == 'dev'",
+      "pytest-mock (==3.8.2) ; extra == 'dev'",
+      "pylint (==2.15.0) ; extra == 'dev'",
+      "pylint-pytest (==1.1.2) ; extra == 'dev'",
+      "mypy (==0.971) ; extra == 'dev'",
+      "requests (==2.28.2) ; extra == 'dev'",
+      "aliyun-python-sdk-sts (==3.1.1) ; extra == 'dev'",
+      "mkdocs (==1.3.1) ; extra == 'dev'",
+      "mkdocs-gen-files (==0.3.5) ; extra == 'dev'",
+      "mkdocs-material (==8.4.1) ; extra == 'dev'",
+      "mkdocs-section-index (==0.3.4) ; extra == 'dev'",
+      "mkdocstrings-python (==0.7.1) ; extra == 'dev'",
+      "mkdocs (==1.3.1) ; extra == 'docs'",
+      "mkdocs-gen-files (==0.3.5) ; extra == 'docs'",
+      "mkdocs-material (==8.4.1) ; extra == 'docs'",
+      "mkdocs-section-index (==0.3.4) ; extra == 'docs'",
+      "mkdocstrings-python (==0.7.1) ; extra == 'docs'",
+      "pytest (==7.2.0) ; extra == 'tests'",
+      "pytest-sugar (==0.9.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-mock (==3.8.2) ; extra == 'tests'",
+      "pylint (==2.15.0) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "mypy (==0.971) ; extra == 'tests'",
+      "requests (==2.28.2) ; extra == 'tests'",
+      "aliyun-python-sdk-sts (==3.1.1) ; extra == 'tests'"
+    ]
+  }
+}

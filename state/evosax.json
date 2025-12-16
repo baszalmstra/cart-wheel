@@ -1,0 +1,133 @@
+{
+  "evosax-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e4aa4426ca1eb139b3783466c8b67a2e1a1060a75ee3013e54a7cd2a2c1cd14",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "jax",
+        "flax",
+        "dotmap",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.25",
+      "jax>=0.5.0",
+      "flax>=0.10.0",
+      "dotmap",
+      "matplotlib",
+      "pytest>=8.3.2; extra == \"dev\"",
+      "pytest-cov>=5.0.0; extra == \"dev\"",
+      "ruff>=0.6.4; extra == \"dev\"",
+      "mypy>=1.11.2; extra == \"dev\"",
+      "torch; extra == \"examples\"",
+      "torchvision; extra == \"examples\"",
+      "brax; extra == \"examples\"",
+      "gymnax; extra == \"examples\"",
+      "ipykernel; extra == \"examples\""
+    ]
+  },
+  "evosax-0.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "195145d68c67f5f1de9c580b6f248f624ac9d089de628e67665f7b3616d638e4",
+    "dependencies": {
+      "required": [
+        "jax",
+        "jaxlib",
+        "chex",
+        "flax",
+        "numpy",
+        "pyyaml",
+        "matplotlib",
+        "dotmap",
+        "pickle5"
+      ]
+    },
+    "original_requirements": [
+      "jax",
+      "jaxlib >=0.1.37",
+      "chex",
+      "flax",
+      "numpy",
+      "pyyaml",
+      "matplotlib",
+      "dotmap",
+      "pickle5 ; python_version < \"3.8\""
+    ]
+  },
+  "evosax-0.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd69412ede6686d5bf7f42197aff2ad8b5a71e9be9378570fb53b3d6f937d068",
+    "dependencies": {
+      "required": [
+        "jax",
+        "chex",
+        "flax",
+        "numpy",
+        "pyyaml",
+        "matplotlib",
+        "pickle5"
+      ]
+    },
+    "original_requirements": [
+      "jax",
+      "chex",
+      "flax",
+      "numpy",
+      "pyyaml",
+      "matplotlib",
+      "pickle5 ; python_version < \"3.8\""
+    ]
+  },
+  "evosax-0.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7eddaf51cba87e8390ac8700469f94c4c0fd3e1bffc1edd7bffcde7943223254",
+    "dependencies": {
+      "required": [
+        "jax",
+        "jaxlib",
+        "chex",
+        "flax",
+        "numpy",
+        "pyyaml",
+        "matplotlib",
+        "pickle5"
+      ]
+    },
+    "original_requirements": [
+      "jax (>=0.3.0)",
+      "jaxlib (>=0.3.0)",
+      "chex",
+      "flax",
+      "numpy",
+      "pyyaml",
+      "matplotlib",
+      "pickle5 ; python_version < \"3.8\""
+    ]
+  },
+  "evosax-0.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "efb15bae17d34d3da86696530a3f12aca21f6f0cf4f3dc891a2ba33bfc0553b9",
+    "dependencies": {
+      "required": [
+        "jax",
+        "jaxlib",
+        "chex",
+        "flax",
+        "numpy",
+        "pyyaml",
+        "pickle5"
+      ]
+    },
+    "original_requirements": [
+      "jax (>=0.3.0)",
+      "jaxlib (>=0.3.0)",
+      "chex",
+      "flax",
+      "numpy",
+      "pyyaml",
+      "pickle5 ; python_version < \"3.8\""
+    ]
+  }
+}

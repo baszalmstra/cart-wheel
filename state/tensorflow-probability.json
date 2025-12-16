@@ -1,0 +1,143 @@
+{
+  "tensorflow_probability-0.25.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3f4d6431656c0122906888afe1b67b4400e82bd7f254b45b92e6c5b84ea8e3e",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "six",
+        "numpy",
+        "decorator",
+        "cloudpickle",
+        "gast",
+        "dm-tree"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "six>=1.10.0",
+      "numpy>=1.13.3",
+      "decorator",
+      "cloudpickle>=1.3",
+      "gast>=0.3.2",
+      "dm-tree",
+      "jax; extra == \"jax\"",
+      "jaxlib; extra == \"jax\"",
+      "tensorflow>=2.16; extra == \"tf\"",
+      "tf-keras>=2.16; extra == \"tf\"",
+      "tensorflow-datasets>=2.2.0; extra == \"tfds\""
+    ]
+  },
+  "tensorflow_probability-0.24.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c1774683e38359dbcaf3697e79b7e6a4e69b9c7b3679e78ee18f43e59e5759b",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "six",
+        "numpy",
+        "decorator",
+        "cloudpickle",
+        "gast",
+        "dm-tree"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "six >=1.10.0",
+      "numpy >=1.13.3",
+      "decorator",
+      "cloudpickle >=1.3",
+      "gast >=0.3.2",
+      "dm-tree",
+      "jax ; extra == 'jax'",
+      "jaxlib ; extra == 'jax'",
+      "tensorflow >=2.16 ; extra == 'tf'",
+      "tf-keras >=2.16 ; extra == 'tf'",
+      "tensorflow-datasets >=2.2.0 ; extra == 'tfds'"
+    ]
+  },
+  "tensorflow_probability-0.23.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dda5cacfe50cb19ecd96f3ce81e6ff8680d84213bcfe94ca0aaf6e5f51c88061",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "six",
+        "numpy",
+        "decorator",
+        "cloudpickle",
+        "gast",
+        "dm-tree"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "six >=1.10.0",
+      "numpy >=1.13.3",
+      "decorator",
+      "cloudpickle >=1.3",
+      "gast >=0.3.2",
+      "dm-tree",
+      "jax ; extra == 'jax'",
+      "jaxlib ; extra == 'jax'",
+      "tensorflow-datasets >=2.2.0 ; extra == 'tfds'"
+    ]
+  },
+  "tensorflow_probability-0.22.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3035b936b028ea10bd3a9589329557f5b2c5ace813a6bff3f59acfe3226eef9b",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "six",
+        "numpy",
+        "decorator",
+        "cloudpickle",
+        "gast",
+        "dm-tree"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "six >=1.10.0",
+      "numpy >=1.13.3",
+      "decorator",
+      "cloudpickle >=1.3",
+      "gast >=0.3.2",
+      "dm-tree",
+      "jax ; extra == 'jax'",
+      "jaxlib ; extra == 'jax'",
+      "tensorflow-datasets >=2.2.0 ; extra == 'tfds'"
+    ]
+  },
+  "tensorflow_probability-0.22.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "97435aaa51698328c24620d32cf7ad4d7c34d8e258560c669b8c589061164db3",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "six",
+        "numpy",
+        "decorator",
+        "cloudpickle",
+        "gast",
+        "dm-tree",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "six >=1.10.0",
+      "numpy >=1.13.3",
+      "decorator",
+      "cloudpickle >=1.3",
+      "gast >=0.3.2",
+      "dm-tree",
+      "typing-extensions <4.6.0",
+      "jax ; extra == 'jax'",
+      "jaxlib ; extra == 'jax'",
+      "tensorflow-datasets >=2.2.0 ; extra == 'tfds'"
+    ]
+  }
+}

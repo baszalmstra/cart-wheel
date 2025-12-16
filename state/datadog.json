@@ -1,0 +1,82 @@
+{
+  "datadog-0.52.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b8c92cd761618ee062f114171067e4c400d48c9f0dad16cb285042439d9d5d4e",
+    "dependencies": {
+      "required": [
+        "configparser",
+        "requests",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "configparser<5; python_version < '3.0'",
+      "requests>=2.6.0",
+      "typing; python_version < '3.5'"
+    ]
+  },
+  "datadog-0.52.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "00ea908a2d7bf719218ad40116f4242f8accccfb9d6f2724344a10b2d8e46a9a",
+    "dependencies": {
+      "required": [
+        "configparser",
+        "requests",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "configparser<5; python_version < '3.0'",
+      "requests>=2.6.0",
+      "typing; python_version < '3.5'"
+    ]
+  },
+  "datadog-0.51.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9764f091c96af4e0996d4400b168fc5fba380f911d6d672c9dcd4773e29ea3f",
+    "dependencies": {
+      "required": [
+        "configparser",
+        "requests",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "configparser<5; python_version < '3.0'",
+      "requests>=2.6.0",
+      "typing; python_version < '3.5'"
+    ]
+  },
+  "datadog-0.50.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3297858564b624efbd9ce43e4ea1c2c21e1f0477ab6d446060b536a1d9e431e",
+    "dependencies": {
+      "required": [
+        "configparser",
+        "requests",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "configparser<5; python_version < '3.0'",
+      "requests>=2.6.0",
+      "typing; python_version < '3.5'"
+    ]
+  },
+  "datadog-0.50.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eb101abee34fe6c1121558fd5ea48f592eb661604abb7914c4f693d8ad25a515",
+    "dependencies": {
+      "required": [
+        "configparser",
+        "requests",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "configparser<5; python_version < '3.0'",
+      "requests>=2.6.0",
+      "typing; python_version < '3.5'"
+    ]
+  }
+}

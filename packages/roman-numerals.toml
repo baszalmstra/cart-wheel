@@ -1,0 +1,10 @@
+# Package configuration for roman-numerals
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "roman_numerals-3.1.0-py3-none-any.whl" },
+  { filename = "roman_numerals-3.0.0-py3-none-any.whl" },
+  { filename = "roman_numerals-2.0.0-py3-none-any.whl" },
+  { filename = "roman_numerals-1.0.0-py3-none-any.whl" },
+]

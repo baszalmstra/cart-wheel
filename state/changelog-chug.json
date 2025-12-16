@@ -1,0 +1,62 @@
+{
+  "changelog_chug-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e9733f861d300cf505062de0b3bf2625ef4e99e2fb171b1e218d20072587f2ba",
+    "dependencies": {
+      "required": [
+        "semver",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "semver >=3.0.0",
+      "docutils >=0.21.0",
+      "changelog-chug[devel] ; extra == 'build'",
+      "wheel ; extra == 'build'",
+      "build ; extra == 'build'",
+      "changelog-chug[test] ; extra == 'devel'",
+      "pyupgrade ~=3.17 ; extra == 'devel'",
+      "isort ~=5.13 ; extra == 'devel'",
+      "changelog-chug[build] ; extra == 'publish'",
+      "twine ; extra == 'publish'",
+      "pip-check ; extra == 'static-analysis'",
+      "mccabe ~=0.7 ; extra == 'static-analysis'",
+      "pycodestyle ~=2.12 ; extra == 'static-analysis'",
+      "ruff ~=0.6 ; extra == 'static-analysis'",
+      "changelog-chug[static-analysis] ; extra == 'test'",
+      "testtools ; extra == 'test'",
+      "testscenarios >=0.4 ; extra == 'test'",
+      "coverage ; extra == 'test'"
+    ]
+  },
+  "changelog_chug-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cebefff0f1bafaadee567cbc2571f1a1ae5b26d4bd05e39354356f029425f637",
+    "dependencies": {
+      "required": [
+        "semver",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "semver >=3.0.0",
+      "docutils >=0.21.0",
+      "changelog-chug[devel] ; extra == 'build'",
+      "wheel ; extra == 'build'",
+      "build ; extra == 'build'",
+      "changelog-chug[test] ; extra == 'devel'",
+      "pyupgrade ~=3.17 ; extra == 'devel'",
+      "isort ~=5.13 ; extra == 'devel'",
+      "changelog-chug[build] ; extra == 'publish'",
+      "twine ; extra == 'publish'",
+      "pip-check ; extra == 'static-analysis'",
+      "mccabe ~=0.7 ; extra == 'static-analysis'",
+      "pycodestyle ~=2.12 ; extra == 'static-analysis'",
+      "ruff ~=0.6 ; extra == 'static-analysis'",
+      "changelog-chug[static-analysis] ; extra == 'test'",
+      "testtools ; extra == 'test'",
+      "testscenarios >=0.4 ; extra == 'test'",
+      "coverage ; extra == 'test'"
+    ]
+  }
+}

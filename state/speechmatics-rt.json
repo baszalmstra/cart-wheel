@@ -1,0 +1,112 @@
+{
+  "speechmatics_rt-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "829b77b9b228ec2f27d5d2ef43fd44e3ff265e1261fdea2cf331f52048c9b177",
+    "dependencies": {
+      "required": [
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "websockets>=10.0",
+      "aiohttp; extra == \"jwt\"",
+      "black; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-mock; extra == \"dev\"",
+      "build; extra == \"dev\""
+    ]
+  },
+  "speechmatics_rt-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4094ebfa74858805504fd2006c8eddf99606153e4c56c37867279be7e3329a9d",
+    "dependencies": {
+      "required": [
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "websockets>=10.0",
+      "aiohttp; extra == \"jwt\"",
+      "black; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-mock; extra == \"dev\"",
+      "build; extra == \"dev\""
+    ]
+  },
+  "speechmatics_rt-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58151488f891fa00cf7054f0cfab1b1eb94b55c3441be587f7941c726caef991",
+    "dependencies": {
+      "required": [
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "websockets>=10.0",
+      "aiohttp; extra == \"jwt\"",
+      "black; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-mock; extra == \"dev\"",
+      "build; extra == \"dev\""
+    ]
+  },
+  "speechmatics_rt-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "70b91ff750e2f7516eaf1839d39f7a8ac65ff6665638b837cf67bab9cc9967bc",
+    "dependencies": {
+      "required": [
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "websockets>=10.0",
+      "aiohttp; extra == \"jwt\"",
+      "black; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-mock; extra == \"dev\"",
+      "build; extra == \"dev\""
+    ]
+  },
+  "speechmatics_rt-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "95d56dcc9870ec281d767a39c044baf412626d13fcf100609f1bdb3633ff9b10",
+    "dependencies": {
+      "required": [
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "websockets>=10.0",
+      "aiohttp; extra == \"jwt\"",
+      "black; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-mock; extra == \"dev\"",
+      "build; extra == \"dev\""
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for alibabacloud-tea
+conda_forge = "alibabacloud-tea"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "alibabacloud_tea-0.4.0-py3-none-any.whl" },
+  { filename = "alibabacloud_tea-0.3.10-py3-none-any.whl" },
+  { filename = "alibabacloud_tea-0.3.9-py3-none-any.whl" },
+  { filename = "alibabacloud_tea-0.3.8-py3-none-any.whl" },
+]

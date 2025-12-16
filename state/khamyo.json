@@ -1,0 +1,70 @@
+{
+  "KhamYo-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6de53eb748ee3049820aa923bc3198527ef34c42bb62f33e1ccb84afa610375e",
+    "dependencies": {
+      "required": [
+        "pythainlp",
+        "sentence-transformers",
+        "transformers",
+        "sentencepiece"
+      ]
+    },
+    "original_requirements": [
+      "pythainlp >=4.0",
+      "sentence-transformers",
+      "transformers",
+      "sentencepiece"
+    ]
+  },
+  "KhamYo-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "532fe91138d4218b8267baa348783a967dda7c5bfd903f151a9324c6294c0538",
+    "dependencies": {
+      "required": [
+        "pythainlp",
+        "sentence-transformers",
+        "transformers",
+        "sentencepiece"
+      ]
+    },
+    "original_requirements": [
+      "pythainlp (>=4.0)",
+      "sentence-transformers",
+      "transformers",
+      "sentencepiece"
+    ]
+  },
+  "KhamYo-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed8ca2caccf8c2e0efb3425d05eb13d4091ccd4e4d3bb8ccaa11ecb94e7f5a90",
+    "dependencies": {
+      "required": [
+        "pythainlp",
+        "sentence-transformers",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "pythainlp (>=2.2)",
+      "sentence-transformers",
+      "transformers"
+    ]
+  },
+  "KhamYo-0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "20764f9adf737cd886cd6e5dfa79d6e9583df6817e3bbf7db9c2bfc3281caa37",
+    "dependencies": {
+      "required": [
+        "pythainlp",
+        "sentence-transformers",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "pythainlp (>=2.2)",
+      "sentence-transformers",
+      "transformers"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "aliyunstoreplugin-1.0.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:40.855586+00:00",
+    "conda_file": "aliyunstoreplugin-1.0.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "mlflow",
+        "oss2"
+      ]
+    },
+    "original_requirements": [
+      "mlflow",
+      "oss2"
+    ]
+  }
+}

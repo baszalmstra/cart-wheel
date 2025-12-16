@@ -1,0 +1,10 @@
+# Package configuration for grandalf
+conda_forge = "grandalf"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "grandalf-0.8-py3-none-any.whl" },
+  { filename = "grandalf-0.7-py3-none-any.whl" },
+  { filename = "grandalf-0.6-py3-none-any.whl" },
+]

@@ -1,0 +1,100 @@
+{
+  "azure_ai_textanalytics-5.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "69bb736d93de81060e9075d42b6f0b92c25be0fb106da5cb6a6d30e772168221",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-common",
+        "isodate",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "azure-core (<2.0.0,>=1.24.0)",
+      "azure-common (~=1.1)",
+      "isodate (<1.0.0,>=0.6.1)",
+      "typing-extensions (>=4.0.1)"
+    ]
+  },
+  "azure_ai_textanalytics-5.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6872ca37fd358dede8e20d908660060dae428d0d4d31716b0eb0a9bdc1e38ce6",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "msrest",
+        "azure-common",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "azure-core (<2.0.0,>=1.24.0)",
+      "msrest (>=0.7.0)",
+      "azure-common (~=1.1)",
+      "typing-extensions (>=4.0.1)"
+    ]
+  },
+  "azure_ai_textanalytics-5.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "860fdd5c4390b68dcb56be5d14057ee53f5b0662cee07fcf8d539ba76ba8dd59",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "msrest",
+        "azure-common",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "azure-core (<2.0.0,>=1.24.0)",
+      "msrest (>=0.7.0)",
+      "azure-common (~=1.1)",
+      "typing-extensions (>=4.0.1)"
+    ]
+  },
+  "azure_ai_textanalytics-5.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c9dba3d48db0d858ea8a8deab55923866c776ad559cdbab67ecf79eaa198278",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "msrest",
+        "azure-common",
+        "six",
+        "azure-ai-nspkg",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "azure-core (<2.0.0,>=1.14.0)",
+      "msrest (>=0.6.21)",
+      "azure-common (~=1.1)",
+      "six (>=1.11.0)",
+      "azure-ai-nspkg ; python_version<'3.0'",
+      "typing ; python_version<'3.5'"
+    ]
+  },
+  "azure_ai_textanalytics-5.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "684f6939176f7fff6ef3bc3397698d6e74ac1e9b1874ef7005241c1c4aeb8d51",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "msrest",
+        "azure-common",
+        "six",
+        "azure-ai-nspkg",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "azure-core (<2.0.0,>=1.4.0)",
+      "msrest (>=0.6.0)",
+      "azure-common (~=1.1)",
+      "six (>=1.6)",
+      "azure-ai-nspkg ; python_version<'3.0'",
+      "typing ; python_version<'3.5'"
+    ]
+  }
+}

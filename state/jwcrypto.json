@@ -1,0 +1,76 @@
+{
+  "jwcrypto-1.5.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "150d2b0ebbdb8f40b77f543fb44ffd2baeff48788be71f67f03566692fd55789",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cryptography >=3.4",
+      "typing-extensions >=4.5.0"
+    ]
+  },
+  "jwcrypto-1.5.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c18b10b2049603bef3ae7b77ad14bded431a9077d113447d62bebd8550b0d5bd",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cryptography >=3.4",
+      "typing-extensions >=4.5.0"
+    ]
+  },
+  "jwcrypto-1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db93a656d9a7a35dda5a68deb5c9f301f4e60507d8aef1559e0637b9ac497137",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "deprecated"
+      ]
+    },
+    "original_requirements": [
+      "cryptography (>=2.3)",
+      "deprecated"
+    ]
+  },
+  "jwcrypto-0.9.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "12976a09895ec0076ce17c49ab7be64d6e63bcd7fd9a773e3fedf8011537a5f6",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "deprecated",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "cryptography (>=2.3)",
+      "deprecated",
+      "six"
+    ]
+  },
+  "jwcrypto-0.9-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a608f494801433946697a5195c35450c4ae1374d484b56a44499953b35de52e",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "deprecated",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "cryptography (>=2.3)",
+      "deprecated",
+      "six"
+    ]
+  }
+}

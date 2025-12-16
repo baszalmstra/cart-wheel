@@ -1,0 +1,12 @@
+# Package configuration for pytest-memray
+conda_forge = "pytest-memray"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_memray-1.8.0-py3-none-any.whl" },
+  { filename = "pytest_memray-1.7.0-py3-none-any.whl" },
+  { filename = "pytest_memray-1.6.0-py3-none-any.whl" },
+  { filename = "pytest_memray-1.5.0-py3-none-any.whl" },
+  { filename = "pytest_memray-1.4.1-py3-none-any.whl" },
+]

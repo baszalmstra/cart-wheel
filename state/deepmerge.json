@@ -1,0 +1,49 @@
+{
+  "deepmerge-2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6de9ce507115cff0bed95ff0ce9ecc31088ef50cbdf09bc90a09349a318b3d00",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions ; python_version <= \"3.9\"",
+      "validate-pyproject[all] ; extra == 'dev'",
+      "pyupgrade ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "build ; extra == 'dev'",
+      "twine ; extra == 'dev'"
+    ]
+  },
+  "deepmerge-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7219dad9763f15be9dcd4bcb53e00f48e4eed6f5ed8f15824223eb934bb35977",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "deepmerge-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "59e6ef80b77dc52af3882a1ea78da22bcfc91ae9cdabc0c80729049fe295ff8b",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "deepmerge-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f851fff957697cb8f4580b465acf5c2d35841695306ff0abb9cb9c273ad76112",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "deepmerge-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "87166dbe9ba1a3348a45c9d4ada6778f518d41afc0b85aa017ea3041facc3f9c",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

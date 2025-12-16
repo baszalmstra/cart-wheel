@@ -1,0 +1,9 @@
+# Package configuration for furiosa-device
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "furiosa_device-0.10.2-py3-none-any.whl" },
+  { filename = "furiosa_device-0.10.1-py3-none-any.whl" },
+  { filename = "furiosa_device-0.10.0-py3-none-any.whl" },
+]

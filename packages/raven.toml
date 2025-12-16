@@ -1,0 +1,12 @@
+# Package configuration for raven
+conda_forge = "raven"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "raven-6.10.0-py2.py3-none-any.whl" },
+  { filename = "raven-6.9.0-py2.py3-none-any.whl" },
+  { filename = "raven-6.8.0-py2.py3-none-any.whl" },
+  { filename = "raven-6.7.0-py2.py3-none-any.whl" },
+  { filename = "raven-6.6.0-py2.py3-none-any.whl" },
+]

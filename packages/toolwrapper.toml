@@ -1,0 +1,9 @@
+# Package configuration for toolwrapper
+conda_forge = "toolwrapper"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "toolwrapper-0.3.0-py3-none-any.whl" },
+  { filename = "toolwrapper-0.2.0-py3-none-any.whl" },
+]

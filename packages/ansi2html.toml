@@ -1,0 +1,12 @@
+# Package configuration for ansi2html
+conda_forge = "ansi2html"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ansi2html-1.9.2-py3-none-any.whl" },
+  { filename = "ansi2html-1.9.1-py3-none-any.whl" },
+  { filename = "ansi2html-1.8.0-py3-none-any.whl" },
+  { filename = "ansi2html-1.7.0-py3-none-any.whl" },
+  { filename = "ansi2html-1.6.0-py3-none-any.whl" },
+]

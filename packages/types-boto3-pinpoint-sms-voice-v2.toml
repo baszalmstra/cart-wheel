@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-pinpoint-sms-voice-v2
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_pinpoint_sms_voice_v2-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_pinpoint_sms_voice_v2-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_pinpoint_sms_voice_v2-1.40.66-py3-none-any.whl" },
+  { filename = "types_boto3_pinpoint_sms_voice_v2-1.40.57-py3-none-any.whl" },
+  { filename = "types_boto3_pinpoint_sms_voice_v2-1.40.14-py3-none-any.whl" },
+]

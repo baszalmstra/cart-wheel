@@ -1,0 +1,11 @@
+# Package configuration for blaxel
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "blaxel-0.2.33-py3-none-any.whl" },
+  { filename = "blaxel-0.2.32-py3-none-any.whl" },
+  { filename = "blaxel-0.2.31-py3-none-any.whl" },
+  { filename = "blaxel-0.2.30-py3-none-any.whl" },
+  { filename = "blaxel-0.2.29-py3-none-any.whl" },
+]

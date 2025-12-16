@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-artifact-registry
+conda_forge = "google-cloud-artifact-registry"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_artifact_registry-1.18.0-py3-none-any.whl" },
+  { filename = "google_cloud_artifact_registry-1.17.0-py3-none-any.whl" },
+  { filename = "google_cloud_artifact_registry-1.16.1-py3-none-any.whl" },
+  { filename = "google_cloud_artifact_registry-1.16.0-py3-none-any.whl" },
+  { filename = "google_cloud_artifact_registry-1.15.2-py3-none-any.whl" },
+]

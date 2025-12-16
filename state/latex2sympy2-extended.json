@@ -1,0 +1,86 @@
+{
+  "latex2sympy2_extended-1.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f910442c5b02a466c1046f47d05cc5285181068b882399281f30102715337fb7",
+    "dependencies": {
+      "required": [
+        "sympy",
+        "antlr4-python3-runtime"
+      ]
+    },
+    "original_requirements": [
+      "sympy",
+      "antlr4-python3-runtime<=4.13.2,>=4.9.3",
+      "pytest; extra == \"dev\"",
+      "antlr4-python3-runtime==4.9.3; extra == \"antlr4-9-3\"",
+      "antlr4-python3-runtime==4.11.0; extra == \"antlr4-11-0\"",
+      "antlr4-python3-runtime==4.13.2; extra == \"antlr4-13-2\""
+    ]
+  },
+  "latex2sympy2_extended-1.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "917a23e8f3b6edea88a56978fbbe87ed9fca4197f8277646be57b4660710347c",
+    "dependencies": {
+      "required": [
+        "sympy",
+        "antlr4-python3-runtime"
+      ]
+    },
+    "original_requirements": [
+      "sympy",
+      "antlr4-python3-runtime<=4.13.2,>=4.9.3",
+      "pytest; extra == \"dev\"",
+      "antlr4-python3-runtime==4.9.3; extra == \"antlr4-9-3\"",
+      "antlr4-python3-runtime==4.11.0; extra == \"antlr4-11-0\"",
+      "antlr4-python3-runtime==4.13.2; extra == \"antlr4-13-2\""
+    ]
+  },
+  "latex2sympy2_extended-1.0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bbbcc779704f8ee10a1f4f72d443f908abc2a30319e6ffa321f0fdaa9288eede",
+    "dependencies": {
+      "required": [
+        "sympy",
+        "antlr4-python3-runtime"
+      ]
+    },
+    "original_requirements": [
+      "sympy",
+      "antlr4-python3-runtime<=4.13.2,>=4.9.3",
+      "pytest; extra == \"dev\"",
+      "antlr4-python3-runtime==4.9.3; extra == \"antlr4-9-3\"",
+      "antlr4-python3-runtime==4.11.0; extra == \"antlr4-11-0\"",
+      "antlr4-python3-runtime==4.13.2; extra == \"antlr4-13-2\""
+    ]
+  },
+  "latex2sympy2_extended-1.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "036da4b24c73c4b13566ef4e347be08232c6539ddd75b38f083cc5821e738bba",
+    "dependencies": {
+      "required": [
+        "antlr4-python3-runtime",
+        "sympy"
+      ]
+    },
+    "original_requirements": [
+      "antlr4-python3-runtime==4.13.2",
+      "sympy",
+      "pytest; extra == \"dev\""
+    ]
+  },
+  "latex2sympy2_extended-1.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e7574360437c488445b9cb6c103d58c0811cd060bcb5a1ebd49d3369f205a328",
+    "dependencies": {
+      "required": [
+        "antlr4-python3-runtime",
+        "sympy"
+      ]
+    },
+    "original_requirements": [
+      "antlr4-python3-runtime==4.13.2",
+      "sympy",
+      "pytest; extra == \"dev\""
+    ]
+  }
+}

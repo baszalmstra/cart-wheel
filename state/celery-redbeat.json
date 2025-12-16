@@ -1,0 +1,80 @@
+{
+  "celery_redbeat-2.3.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d6da101c46c0147b88f3ae2bfaed42548545934263a31d325a8b0e6585c3fb1",
+    "dependencies": {
+      "required": [
+        "redis",
+        "celery",
+        "python-dateutil",
+        "tenacity",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "redis>=3.2",
+      "celery>=5.0",
+      "python-dateutil",
+      "tenacity",
+      "backports.zoneinfo>=0.2.1; python_version < \"3.9.0\""
+    ]
+  },
+  "celery_redbeat-2.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9d61ab6e29f59d676621a846c778a347d5acad22e90fb4386343a4852d4f7ac3",
+    "dependencies": {
+      "required": [
+        "redis",
+        "celery",
+        "python-dateutil",
+        "tenacity",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "redis>=3.2",
+      "celery>=5.0",
+      "python-dateutil",
+      "tenacity",
+      "backports.zoneinfo>=0.2.1; python_version < \"3.9.0\""
+    ]
+  },
+  "celery_redbeat-2.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2bd5932fb8830bcc7fb63be506c64c80bcb3da8bf6e48ac8a34df4212966fcfa",
+    "dependencies": {
+      "required": [
+        "redis",
+        "celery",
+        "python-dateutil",
+        "tenacity",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "redis (>=3.2)",
+      "celery (>=5.0)",
+      "python-dateutil",
+      "tenacity",
+      "backports.zoneinfo (>=0.2.1) ; python_version < \"3.9.0\""
+    ]
+  },
+  "celery_redbeat-2.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7f5ef04d6467736f5f490c504d5ad2b8ee9483f995ae43c94af6d50a73d3ca4b",
+    "dependencies": {
+      "required": [
+        "redis",
+        "celery",
+        "python-dateutil",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "redis (>=3.2)",
+      "celery (>=5.0)",
+      "python-dateutil",
+      "tenacity"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for pygithub
+conda_forge = "pygithub"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pygithub-2.8.1-py3-none-any.whl" },
+  { filename = "pygithub-2.8.0-py3-none-any.whl" },
+  { filename = "pygithub-2.7.0-py3-none-any.whl" },
+  { filename = "PyGithub-2.6.1-py3-none-any.whl" },
+  { filename = "PyGithub-2.6.0-py3-none-any.whl" },
+]

@@ -1,0 +1,47 @@
+{
+  "syllapy-0.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "198a7413033c32d7b31e21962efb3f284bcea80d3346e954b938ca1ebe6bee20",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "syllapy-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "780e58448283e70ea7a0a4dc4db3c8045adbff14aea52c11c4cef7fd1df9e60c",
+    "dependencies": {
+      "required": [
+        "ujson"
+      ]
+    },
+    "original_requirements": [
+      "ujson (>=1.35,<2.0)"
+    ]
+  },
+  "syllapy-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0aa1e91ef7f691bfd3cef7b0e1d1e2711594302940e9097c7cbd9eddd3795ec2",
+    "dependencies": {
+      "required": [
+        "ujson"
+      ]
+    },
+    "original_requirements": [
+      "ujson (>=1.35,<2.0)"
+    ]
+  },
+  "syllapy-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f2ed4a251c2ee51a38fef8f0e941689ab4d76d1f0f2fbc5dd9d796fde1e6fe5f",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "syllapy-0.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b97ef225b39e62cfa81cda0491bc5fe84f8a38f878c7b3661fa6b8cd71cedf43",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

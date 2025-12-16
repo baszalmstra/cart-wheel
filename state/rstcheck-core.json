@@ -1,0 +1,194 @@
+{
+  "rstcheck_core-1.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2af6be0f91c8bed88f05ae9695331dc0f329ac379e98d469f4ff4536ef95e718",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "docutils>=0.7",
+      "pydantic>=2",
+      "sphinx>=6.0; extra == \"sphinx\"",
+      "tomli>=2.0; python_version <= \"3.10\" and extra == \"toml\"",
+      "pyyaml>=6.0.0; extra == \"yaml\"",
+      "pytest>=7.2; extra == \"testing\"",
+      "pytest-cov>=3.0; extra == \"testing\"",
+      "coverage[toml]>=6.0; extra == \"testing\"",
+      "coverage-conditional-plugin>=0.5; extra == \"testing\"",
+      "pytest-sugar>=0.9.5; extra == \"testing\"",
+      "pytest-randomly>=3.0; extra == \"testing\"",
+      "pytest-mock>=3.7; extra == \"testing\"",
+      "sphinx!=7.2.5,>=6.0; extra == \"docs\"",
+      "myst-parser>=3; extra == \"docs\"",
+      "sphinx-rtd-theme>=1.2; extra == \"docs\"",
+      "sphinx-autodoc-typehints>=1.15; extra == \"docs\"",
+      "sphinxcontrib-apidoc>=0.3; extra == \"docs\"",
+      "sphinxcontrib-spelling>=7.3; extra == \"docs\"",
+      "sphinx-autobuild>=2021.3.14; extra == \"docs\"",
+      "mypy>=1.0; extra == \"type-check\"",
+      "types-docutils>=0.18; extra == \"type-check\"",
+      "types-PyYAML>=6.0.0; extra == \"type-check\"",
+      "rstcheck-core[docs,sphinx,testing,toml,type-check,yaml]; extra == \"dev\"",
+      "tox>=3.15; extra == \"dev\""
+    ]
+  },
+  "rstcheck_core-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c100de418b6c9e14d9cf6558644d0ab103fdc447f891313882d02df3a3c52ba",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "pydantic",
+        "importlib-metadata",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "docutils >=0.7",
+      "pydantic >=2",
+      "importlib-metadata >=1.6 ; python_version <= \"3.8\"",
+      "typing-extensions >=3.7.4 ; python_version <= \"3.8\"",
+      "rstcheck-core[docs,sphinx,testing,toml,type-check,yaml] ; extra == 'dev'",
+      "tox >=3.15 ; extra == 'dev'",
+      "sphinx !=7.2.5,>=5.0 ; extra == 'docs'",
+      "m2r2 >=0.3.2 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.2 ; extra == 'docs'",
+      "sphinx-autodoc-typehints >=1.15 ; extra == 'docs'",
+      "sphinxcontrib-apidoc >=0.3 ; extra == 'docs'",
+      "sphinxcontrib-spelling >=7.3 ; extra == 'docs'",
+      "sphinx-autobuild >=2021.3.14 ; extra == 'docs'",
+      "sphinx >=5.0 ; extra == 'sphinx'",
+      "pytest >=7.2 ; extra == 'testing'",
+      "pytest-cov >=3.0 ; extra == 'testing'",
+      "coverage[toml] >=6.0 ; extra == 'testing'",
+      "coverage-conditional-plugin >=0.5 ; extra == 'testing'",
+      "pytest-sugar >=0.9.5 ; extra == 'testing'",
+      "pytest-randomly >=3.0 ; extra == 'testing'",
+      "pytest-mock >=3.7 ; extra == 'testing'",
+      "tomli >=2.0 ; (python_version <= \"3.10\") and extra == 'toml'",
+      "mypy >=1.0 ; extra == 'type-check'",
+      "types-docutils >=0.18 ; extra == 'type-check'",
+      "types-PyYAML >=6.0.0 ; extra == 'type-check'",
+      "pyyaml >=6.0.0 ; extra == 'yaml'"
+    ]
+  },
+  "rstcheck_core-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "53478e4f9b1aca98dd9e892eff9f90fc8741b2be0e3213497585227c369db510",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "pydantic",
+        "importlib-metadata",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "docutils >=0.7",
+      "pydantic >=2",
+      "importlib-metadata >=1.6 ; python_version <= \"3.8\"",
+      "typing-extensions >=3.7.4 ; python_version <= \"3.8\"",
+      "rstcheck-core[docs,sphinx,testing,toml,type-check,yaml] ; extra == 'dev'",
+      "tox >=3.15 ; extra == 'dev'",
+      "sphinx !=7.2.5,>=4.0 ; extra == 'docs'",
+      "m2r2 >=0.3.2 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.2 ; extra == 'docs'",
+      "sphinx-autodoc-typehints >=1.15 ; extra == 'docs'",
+      "sphinxcontrib-apidoc >=0.3 ; extra == 'docs'",
+      "sphinxcontrib-spelling >=7.3 ; extra == 'docs'",
+      "sphinx-autobuild >=2021.3.14 ; extra == 'docs'",
+      "sphinx >=4.0 ; extra == 'sphinx'",
+      "pytest >=7.2 ; extra == 'testing'",
+      "pytest-cov >=3.0 ; extra == 'testing'",
+      "coverage[toml] >=6.0 ; extra == 'testing'",
+      "coverage-conditional-plugin >=0.5 ; extra == 'testing'",
+      "pytest-sugar >=0.9.5 ; extra == 'testing'",
+      "pytest-randomly >=3.0 ; extra == 'testing'",
+      "pytest-mock >=3.7 ; extra == 'testing'",
+      "tomli >=2.0 ; (python_version <= \"3.10\") and extra == 'toml'",
+      "mypy >=1.0 ; extra == 'type-check'",
+      "types-docutils >=0.18 ; extra == 'type-check'",
+      "types-PyYAML >=6.0.0 ; extra == 'type-check'",
+      "pyyaml >=6.0.0 ; extra == 'yaml'"
+    ]
+  },
+  "rstcheck_core-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e68f598ad509d5d24610d84f1c83af7a37cf7af47714608b5518938dbe17f7b",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "pydantic",
+        "importlib-metadata",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "docutils >=0.7",
+      "pydantic >=2",
+      "importlib-metadata >=1.6 ; python_version <= \"3.8\"",
+      "typing-extensions >=3.7.4 ; python_version <= \"3.8\"",
+      "rstcheck-core[docs,sphinx,testing,toml,type-check] ; extra == 'dev'",
+      "tox >=3.15 ; extra == 'dev'",
+      "sphinx !=7.2.5,>=4.0 ; extra == 'docs'",
+      "m2r2 >=0.3.2 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.2 ; extra == 'docs'",
+      "sphinx-autodoc-typehints >=1.15 ; extra == 'docs'",
+      "sphinxcontrib-apidoc >=0.3 ; extra == 'docs'",
+      "sphinxcontrib-spelling >=7.3 ; extra == 'docs'",
+      "sphinx-autobuild >=2021.3.14 ; extra == 'docs'",
+      "sphinx >=4.0 ; extra == 'sphinx'",
+      "pytest >=7.2 ; extra == 'testing'",
+      "pytest-cov >=3.0 ; extra == 'testing'",
+      "coverage[toml] >=6.0 ; extra == 'testing'",
+      "coverage-conditional-plugin >=0.5 ; extra == 'testing'",
+      "pytest-sugar >=0.9.5 ; extra == 'testing'",
+      "pytest-randomly >=3.0 ; extra == 'testing'",
+      "pytest-mock >=3.7 ; extra == 'testing'",
+      "tomli >=2.0 ; (python_version <= \"3.10\") and extra == 'toml'",
+      "mypy >=1.0 ; extra == 'type-check'",
+      "types-docutils >=0.18 ; extra == 'type-check'"
+    ]
+  },
+  "rstcheck_core-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d68b930028b0b7add0cad1373922f89f960ba98db107b551d37f639ed45b67d0",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "pydantic",
+        "importlib-metadata",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "docutils >=0.7",
+      "pydantic >=2",
+      "importlib-metadata >=1.6 ; python_version <= \"3.8\"",
+      "typing-extensions >=3.7.4 ; python_version <= \"3.8\"",
+      "rstcheck-core[docs,sphinx,testing,toml,type-check] ; extra == 'dev'",
+      "tox >=3.15 ; extra == 'dev'",
+      "sphinx !=7.2.5,>=4.0 ; extra == 'docs'",
+      "m2r2 >=0.3.2 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.2 ; extra == 'docs'",
+      "sphinx-autodoc-typehints >=1.15 ; extra == 'docs'",
+      "sphinxcontrib-apidoc >=0.3 ; extra == 'docs'",
+      "sphinxcontrib-spelling >=7.3 ; extra == 'docs'",
+      "sphinx-autobuild >=2021.3.14 ; extra == 'docs'",
+      "sphinx >=4.0 ; extra == 'sphinx'",
+      "pytest >=7.2 ; extra == 'testing'",
+      "pytest-cov >=3.0 ; extra == 'testing'",
+      "coverage[toml] >=6.0 ; extra == 'testing'",
+      "coverage-conditional-plugin >=0.5 ; extra == 'testing'",
+      "pytest-sugar >=0.9.5 ; extra == 'testing'",
+      "pytest-randomly >=3.0 ; extra == 'testing'",
+      "pytest-mock >=3.7 ; extra == 'testing'",
+      "tomli >=2.0 ; (python_version <= \"3.10\") and extra == 'toml'",
+      "mypy >=1.0 ; extra == 'type-check'",
+      "types-docutils >=0.18 ; extra == 'type-check'"
+    ]
+  }
+}

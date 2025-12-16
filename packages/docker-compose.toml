@@ -1,0 +1,12 @@
+# Package configuration for docker-compose
+conda_forge = "docker-compose"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "docker_compose-1.29.2-py2.py3-none-any.whl" },
+  { filename = "docker_compose-1.29.1-py2.py3-none-any.whl" },
+  { filename = "docker_compose-1.29.0-py2.py3-none-any.whl" },
+  { filename = "docker_compose-1.28.6-py2.py3-none-any.whl" },
+  { filename = "docker_compose-1.28.5-py2.py3-none-any.whl" },
+]

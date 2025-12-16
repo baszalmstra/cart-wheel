@@ -1,0 +1,84 @@
+{
+  "babel-2.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d0b53093fdfb4b21c92b5213dba5a1b23885afa8383709427046b21c366e5f2",
+    "dependencies": {
+      "required": [
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "pytz>=2015.7; python_version < \"3.9\"",
+      "tzdata; sys_platform == \"win32\" and extra == \"dev\"",
+      "backports.zoneinfo; python_version < \"3.9\" and extra == \"dev\"",
+      "freezegun~=1.0; extra == \"dev\"",
+      "jinja2>=3.0; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest>=6.0; extra == \"dev\"",
+      "pytz; extra == \"dev\"",
+      "setuptools; extra == \"dev\""
+    ]
+  },
+  "babel-2.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "368b5b98b37c06b7daf6696391c3240c938b37767d4584413e8438c5c435fa8b",
+    "dependencies": {
+      "required": [
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "pytz >=2015.7 ; python_version < \"3.9\"",
+      "pytest >=6.0 ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "freezegun ~=1.0 ; extra == 'dev'"
+    ]
+  },
+  "Babel-2.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08706bdad8d0a3413266ab61bd6c34d0c28d6e1e7badf40a2cebe67644e2e1fb",
+    "dependencies": {
+      "required": [
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "pytz >=2015.7 ; python_version < \"3.9\"",
+      "pytest >=6.0 ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "freezegun ~=1.0 ; extra == 'dev'"
+    ]
+  },
+  "Babel-2.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "efb1a25b7118e67ce3a259bed20545c29cb68be8ad2c784c83689981b7a57287",
+    "dependencies": {
+      "required": [
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "pytz >=2015.7 ; python_version < \"3.9\"",
+      "pytest >=6.0 ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "freezegun ~=1.0 ; extra == 'dev'"
+    ]
+  },
+  "Babel-2.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7077a4984b02b6727ac10f1f7294484f737443d7e2e66c5e4380e41a3ae0b4ed",
+    "dependencies": {
+      "required": [
+        "pytz",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "pytz >=2015.7 ; python_version < \"3.9\"",
+      "setuptools ; python_version >= \"3.12\"",
+      "pytest >=6.0 ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "freezegun ~=1.0 ; extra == 'dev'"
+    ]
+  }
+}

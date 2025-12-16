@@ -1,0 +1,12 @@
+# Package configuration for pyrender
+conda_forge = "pyrender"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyrender-0.1.45-py3-none-any.whl" },
+  { filename = "pyrender-0.1.44-py3-none-any.whl" },
+  { filename = "pyrender-0.1.43-py3-none-any.whl" },
+  { filename = "pyrender-0.1.42-py3-none-any.whl" },
+  { filename = "pyrender-0.1.41-py3-none-any.whl" },
+]

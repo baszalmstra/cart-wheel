@@ -1,0 +1,12 @@
+# Package configuration for html2text
+conda_forge = "html2text"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "html2text-2025.4.15-py3-none-any.whl" },
+  { filename = "html2text-2020.1.16-py3-none-any.whl" },
+  { filename = "html2text-2019.9.26-py3-none-any.whl" },
+  { filename = "html2text-2019.8.11-py2.py3-none-any.whl" },
+  { filename = "html2text-2018.1.9-py3-none-any.whl" },
+]

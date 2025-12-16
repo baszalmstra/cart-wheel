@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-common-io
+conda_forge = "apache-airflow-providers-common-io"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_common_io-1.7.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_common_io-1.6.5-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_common_io-1.6.4-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_common_io-1.6.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_common_io-1.6.2-py3-none-any.whl" },
+]

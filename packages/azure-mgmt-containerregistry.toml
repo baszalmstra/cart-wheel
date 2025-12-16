@@ -1,0 +1,12 @@
+# Package configuration for azure-mgmt-containerregistry
+conda_forge = "azure-mgmt-containerregistry"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_mgmt_containerregistry-14.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_containerregistry-13.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_containerregistry-12.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_containerregistry-11.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_containerregistry-10.3.0-py3-none-any.whl" },
+]

@@ -1,0 +1,10 @@
+# Package configuration for typing
+conda_forge = "typing"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "typing-3.10.0.0-py3-none-any.whl" },
+  { filename = "typing-3.7.4.1-py3-none-any.whl" },
+  { filename = "typing-3.7.4-py3-none-any.whl" },
+]

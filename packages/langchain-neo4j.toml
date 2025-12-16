@@ -1,0 +1,11 @@
+# Package configuration for langchain-neo4j
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_neo4j-0.6.0-py3-none-any.whl" },
+  { filename = "langchain_neo4j-0.5.0-py3-none-any.whl" },
+  { filename = "langchain_neo4j-0.4.0-py3-none-any.whl" },
+  { filename = "langchain_neo4j-0.3.0-py3-none-any.whl" },
+  { filename = "langchain_neo4j-0.2.0-py3-none-any.whl" },
+]

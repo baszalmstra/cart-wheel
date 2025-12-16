@@ -1,0 +1,180 @@
+{
+  "htmldate-1.9.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b94bcc4e08232a5b692159903acf95548b6a7492dddca5bb123d89d6325921c",
+    "dependencies": {
+      "required": [
+        "charset-normalizer",
+        "dateparser",
+        "lxml",
+        "lxml",
+        "python-dateutil",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "charset_normalizer>=3.4.0",
+      "dateparser>=1.1.2",
+      "lxml==4.9.2; platform_system == \"Darwin\" and python_version <= \"3.8\"",
+      "lxml>=5.3.0; platform_system != \"Darwin\" or python_version > \"3.8\"",
+      "python-dateutil>=2.9.0.post0",
+      "urllib3<3,>=1.26",
+      "black; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "types-dateparser; extra == \"dev\"",
+      "types-python-dateutil; extra == \"dev\"",
+      "types-lxml; extra == \"dev\"",
+      "types-urllib3; extra == \"dev\"",
+      "backports-datetime-fromisoformat; python_version < \"3.11\" and extra == \"speed\"",
+      "faust-cchardet>=2.1.19; extra == \"speed\"",
+      "urllib3[brotli]; extra == \"speed\"",
+      "htmldate[dev]; extra == \"all\"",
+      "htmldate[speed]; extra == \"all\""
+    ]
+  },
+  "htmldate-1.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3fadc422cf3c10a5cdb5e1b914daf37ec7270400a80a1b37e2673ff84faaaff8",
+    "dependencies": {
+      "required": [
+        "charset-normalizer",
+        "dateparser",
+        "lxml",
+        "lxml",
+        "python-dateutil",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "charset_normalizer>=3.4.0",
+      "dateparser>=1.1.2",
+      "lxml==4.9.2; platform_system == \"Darwin\" and python_version <= \"3.8\"",
+      "lxml<6,>=5.3.0; platform_system != \"Darwin\" or python_version > \"3.8\"",
+      "python-dateutil>=2.9.0.post0",
+      "urllib3<3,>=1.26",
+      "black; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "types-dateparser; extra == \"dev\"",
+      "types-python-dateutil; extra == \"dev\"",
+      "types-lxml; extra == \"dev\"",
+      "types-urllib3; extra == \"dev\"",
+      "backports-datetime-fromisoformat; python_version < \"3.11\" and extra == \"speed\"",
+      "faust-cchardet>=2.1.19; extra == \"speed\"",
+      "urllib3[brotli]; extra == \"speed\"",
+      "htmldate[dev]; extra == \"all\"",
+      "htmldate[speed]; extra == \"all\""
+    ]
+  },
+  "htmldate-1.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a63240e0107f6389e0d80007b838ca1b15aa4ea8486783e40027eecdc5ba58d0",
+    "dependencies": {
+      "required": [
+        "charset-normalizer",
+        "dateparser",
+        "python-dateutil",
+        "urllib3",
+        "lxml",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "charset-normalizer >=3.4.0",
+      "dateparser >=1.1.2",
+      "python-dateutil >=2.9.0.post0",
+      "urllib3 <3,>=1.26",
+      "lxml <6,>=5.3.0 ; platform_system != \"Darwin\" or python_version > \"3.8\"",
+      "lxml ==4.9.2 ; platform_system == \"Darwin\" and python_version <= \"3.8\"",
+      "htmldate[dev] ; extra == 'all'",
+      "htmldate[speed] ; extra == 'all'",
+      "black ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "types-dateparser ; extra == 'dev'",
+      "types-python-dateutil ; extra == 'dev'",
+      "types-lxml ; extra == 'dev'",
+      "types-urllib3 ; extra == 'dev'",
+      "faust-cchardet >=2.1.19 ; extra == 'speed'",
+      "urllib3[brotli] ; extra == 'speed'",
+      "backports-datetime-fromisoformat ; (python_version < \"3.11\") and extra == 'speed'"
+    ]
+  },
+  "htmldate-1.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d40655a1c637b892eafb3501bbea1fce396a7488fe063b86d2eefc08a1b8a03",
+    "dependencies": {
+      "required": [
+        "charset-normalizer",
+        "dateparser",
+        "python-dateutil",
+        "urllib3",
+        "lxml",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "charset-normalizer >=3.3.2",
+      "dateparser >=1.1.2",
+      "python-dateutil >=2.8.2",
+      "urllib3 <3,>=1.26",
+      "lxml <6,>=5.2.2 ; platform_system != \"Darwin\" or python_version > \"3.8\"",
+      "lxml ==4.9.2 ; platform_system == \"Darwin\" and python_version <= \"3.8\"",
+      "htmldate[dev] ; extra == 'all'",
+      "htmldate[speed] ; extra == 'all'",
+      "black ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "types-dateparser ; extra == 'dev'",
+      "types-python-dateutil ; extra == 'dev'",
+      "types-lxml ; extra == 'dev'",
+      "types-urllib3 ; extra == 'dev'",
+      "faust-cchardet >=2.1.19 ; extra == 'speed'",
+      "urllib3[brotli] ; extra == 'speed'",
+      "backports-datetime-fromisoformat ; (python_version < \"3.11\") and extra == 'speed'"
+    ]
+  },
+  "htmldate-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "750dd97acb8cf6d5912082e65cc188acc8d1a737ca495e0ee7a33aa1d06484c2",
+    "dependencies": {
+      "required": [
+        "charset-normalizer",
+        "dateparser",
+        "python-dateutil",
+        "urllib3",
+        "lxml",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "charset-normalizer >=3.3.2",
+      "dateparser >=1.1.2",
+      "python-dateutil >=2.8.2",
+      "urllib3 <3,>=1.26",
+      "lxml <6,>=5.2.2 ; platform_system != \"Darwin\" or python_version > \"3.8\"",
+      "lxml ==4.9.2 ; platform_system == \"Darwin\" and python_version <= \"3.8\"",
+      "htmldate[dev] ; extra == 'all'",
+      "htmldate[speed] ; extra == 'all'",
+      "black ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "types-dateparser ; extra == 'dev'",
+      "types-python-dateutil ; extra == 'dev'",
+      "types-lxml ; extra == 'dev'",
+      "types-urllib3 ; extra == 'dev'",
+      "faust-cchardet >=2.1.19 ; extra == 'speed'",
+      "urllib3[brotli] ; extra == 'speed'",
+      "backports-datetime-fromisoformat ; (python_version < \"3.11\") and extra == 'speed'"
+    ]
+  }
+}

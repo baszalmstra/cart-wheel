@@ -1,0 +1,12 @@
+# Package configuration for sphinx-click
+conda_forge = "sphinx-click"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_click-6.2.0-py3-none-any.whl" },
+  { filename = "sphinx_click-6.1.0-py3-none-any.whl" },
+  { filename = "sphinx_click-6.0.0-py3-none-any.whl" },
+  { filename = "sphinx_click-5.2.1-py3-none-any.whl" },
+  { filename = "sphinx_click-5.2.0-py3-none-any.whl" },
+]

@@ -1,0 +1,102 @@
+{
+  "databases-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ee657c9863b34f8d3a06c06eafbe1bda68af2a434b56996312edf1f1c0b6297",
+    "dependencies": {
+      "required": [
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy (>=2.0.7)",
+      "aiomysql ; extra == 'aiomysql'",
+      "aiopg ; extra == 'aiopg'",
+      "aiosqlite ; extra == 'aiosqlite'",
+      "asyncmy ; extra == 'asyncmy'",
+      "asyncpg ; extra == 'asyncpg'",
+      "aiomysql ; extra == 'mysql'",
+      "asyncpg ; extra == 'postgresql'",
+      "aiosqlite ; extra == 'sqlite'"
+    ]
+  },
+  "databases-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ceb7fd5c740d846e1f4f58c0256d780a6786841ec8e624a21f1eb1b51a9093d",
+    "dependencies": {
+      "required": [
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy (<1.5,>=1.4.42)",
+      "aiomysql ; extra == 'aiomysql'",
+      "aiopg ; extra == 'aiopg'",
+      "aiosqlite ; extra == 'aiosqlite'",
+      "asyncmy ; extra == 'asyncmy'",
+      "asyncpg ; extra == 'asyncpg'",
+      "aiomysql ; extra == 'mysql'",
+      "asyncpg ; extra == 'postgresql'",
+      "aiosqlite ; extra == 'sqlite'"
+    ]
+  },
+  "databases-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf5da4b8a3e3cd038c459529725ebb64931cbbb7a091102664f20ef8f6cefd0d",
+    "dependencies": {
+      "required": [
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy (<1.5,>=1.4.42)",
+      "aiomysql ; extra == 'aiomysql'",
+      "aiopg ; extra == 'aiopg'",
+      "aiosqlite ; extra == 'aiosqlite'",
+      "asyncmy ; extra == 'asyncmy'",
+      "asyncpg ; extra == 'asyncpg'",
+      "aiomysql ; extra == 'mysql'",
+      "asyncpg ; extra == 'postgresql'",
+      "aiosqlite ; extra == 'sqlite'"
+    ]
+  },
+  "databases-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff4010136ac2bb9da2322a2ffda4ef9185ae1c365e5891e52924dd9499d33dc4",
+    "dependencies": {
+      "required": [
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy (<=1.4.41,>=1.4)",
+      "aiomysql ; extra == 'aiomysql'",
+      "aiopg ; extra == 'aiopg'",
+      "aiosqlite ; extra == 'aiosqlite'",
+      "asyncmy ; extra == 'asyncmy'",
+      "asyncpg ; extra == 'asyncpg'",
+      "aiomysql ; extra == 'mysql'",
+      "asyncpg ; extra == 'postgresql'",
+      "aiosqlite ; extra == 'sqlite'"
+    ]
+  },
+  "databases-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "47fae85d82d8227049f08b154019913c3ad2f6057ceb0b5ebb36703be6f5666b",
+    "dependencies": {
+      "required": [
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "sqlalchemy (<1.5,>=1.4)",
+      "aiomysql ; extra == 'aiomysql'",
+      "aiopg ; extra == 'aiopg'",
+      "aiosqlite ; extra == 'aiosqlite'",
+      "asyncmy ; extra == 'asyncmy'",
+      "asyncpg ; extra == 'asyncpg'",
+      "aiomysql ; extra == 'mysql'",
+      "asyncpg ; extra == 'postgresql'",
+      "aiosqlite ; extra == 'sqlite'"
+    ]
+  }
+}

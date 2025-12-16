@@ -1,0 +1,44 @@
+{
+  "certvalidator-0.11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77520b269f516d4fb0902998d5bd0eb3727fe153b659aa1cb828dcf12ea6b8de",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "oscrypto"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto (>=0.18.1)",
+      "oscrypto (>=0.16.1)"
+    ]
+  },
+  "certvalidator-0.11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "127223d9d969bdca40993e7de3c3ace174a54d54ad2903bac2a59281e6f5b726",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "oscrypto"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto (>=0.18.0)",
+      "oscrypto (>=0.16.0)"
+    ]
+  },
+  "certvalidator-0.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "baab951bc954f1840c63baa3f483461f34bcc02b2fe8a7e5155e6529d363f2fe",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "oscrypto"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto (>=0.15.0)",
+      "oscrypto (>=0.14.0)"
+    ]
+  }
+}

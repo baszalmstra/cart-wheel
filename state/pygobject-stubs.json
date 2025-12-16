@@ -1,0 +1,82 @@
+{
+  "PyGObject_stubs-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a844fb72a22b5e608605d90abe6d905f8c995b0e7205c715299fa98769685de2",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "mypy ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "PyGObject ; extra == 'dev'"
+    ]
+  },
+  "PyGObject_stubs-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "73a4c1e78e19f9211e6b25af1da05de0ae80031823b38aa0407fcd76d0e3e56f",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "mypy ; extra == 'all'",
+      "flake8 ; extra == 'all'",
+      "flake8-pyi ; extra == 'all'",
+      "PyGObject ; extra == 'all'",
+      "mypy ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "flake8-pyi ; extra == 'dev'",
+      "PyGObject ; extra == 'generate'"
+    ]
+  },
+  "PyGObject_stubs-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac7862fa455376ea394b206db5d4810ff812a6ae7866ccc75948a9460945eeae",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "mypy ; extra == 'all'",
+      "flake8 ; extra == 'all'",
+      "flake8-pyi ; extra == 'all'",
+      "PyGObject ; extra == 'all'",
+      "mypy ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "flake8-pyi ; extra == 'dev'",
+      "PyGObject ; extra == 'generate'"
+    ]
+  },
+  "PyGObject_stubs-0.0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cdddf637b0125d04ddf5c813f62e8c87c2e4444445d4264cf577bbd6bd3b7575",
+    "dependencies": {
+      "required": [
+        "pygobject"
+      ]
+    },
+    "original_requirements": [
+      "PyGObject",
+      "mypy ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "flake8-pyi ; extra == 'dev'",
+      "setuptools ; extra == 'dev'",
+      "wheel ; extra == 'dev'"
+    ]
+  },
+  "PyGObject_stubs-0.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe49f6d2b4d91046059af775aaeca1bee8b2dddfabc55136764844479898ad8f",
+    "dependencies": {
+      "required": [
+        "pygobject"
+      ]
+    },
+    "original_requirements": [
+      "PyGObject",
+      "mypy ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "flake8-pyi ; extra == 'dev'",
+      "setuptools ; extra == 'dev'",
+      "wheel ; extra == 'dev'"
+    ]
+  }
+}

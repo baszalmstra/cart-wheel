@@ -1,0 +1,166 @@
+{
+  "arviz_stats-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d61d3fe0f00d3a92cdad01ff1389edd32b7f128a7830ce2a668de26d32f9e786",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=2",
+      "scipy>=1.10",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "h5netcdf ; extra == \"doc\"",
+      "sphinx_autosummary_accessors ; extra == \"doc\"",
+      "numba ; extra == \"numba\"",
+      "xarray_einstats[einops, numba] ; extra == \"numba\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "pytest ; extra == \"test-xarray\"",
+      "pytest-cov ; extra == \"test-xarray\"",
+      "h5netcdf ; extra == \"test-xarray\"",
+      "arviz-base >=0.7.0 ; extra == \"xarray\"",
+      "xarray-einstats ; extra == \"xarray\"",
+      "xarray ; extra == \"xarray\""
+    ]
+  },
+  "arviz_stats-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec327c3d4249562f9b000a484a371a373eaa0b4f516a25ad59b69eb06d70e103",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=2",
+      "scipy>=1.10",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "h5netcdf ; extra == \"doc\"",
+      "sphinx_autosummary_accessors ; extra == \"doc\"",
+      "numba ; extra == \"numba\"",
+      "xarray_einstats[einops] ; extra == \"numba\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "pytest ; extra == \"test-xarray\"",
+      "pytest-cov ; extra == \"test-xarray\"",
+      "h5netcdf ; extra == \"test-xarray\"",
+      "arviz-base >=0.6.0 ; extra == \"xarray\"",
+      "xarray-einstats ; extra == \"xarray\"",
+      "numba ; extra == \"xarray\""
+    ]
+  },
+  "arviz_stats-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f74c4f67346c9d16a265286629127d946f0f2333d79983b30096a883fcc29066",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24",
+      "scipy>=1.10",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx<=8.1.3 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "netcdf4 ; extra == \"doc\"",
+      "sphinx_autosummary_accessors ; extra == \"doc\"",
+      "numba ; extra == \"numba\"",
+      "xarray_einstats[einops] ; extra == \"numba\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "h5netcdf ; extra == \"test\"",
+      "arviz-base >=0.5.0 ; extra == \"xarray\"",
+      "xarray-einstats ; extra == \"xarray\"",
+      "numba ; extra == \"xarray\""
+    ]
+  },
+  "arviz_stats-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed335166308569dac52a2f28a917e7d7052a9f9f41c9ab22eb2aa1f28fdd587e",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24",
+      "scipy>=1.10",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx<=8.1.3 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "netcdf4 ; extra == \"doc\"",
+      "sphinx_autosummary_accessors ; extra == \"doc\"",
+      "numba ; extra == \"numba\"",
+      "xarray_einstats[einops] ; extra == \"numba\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "h5netcdf ; extra == \"test\"",
+      "arviz-base ; extra == \"xarray\"",
+      "xarray-einstats ; extra == \"xarray\"",
+      "numba ; extra == \"xarray\""
+    ]
+  },
+  "arviz_stats-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9f5c0670e9fd31c9125019b42918f1995c20fdedfd15e1972703f02880c0ce2",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24",
+      "scipy>=1.10",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "netcdf4 ; extra == \"doc\"",
+      "sphinx_autosummary_accessors ; extra == \"doc\"",
+      "numba ; extra == \"numba\"",
+      "xarray_einstats[einops] ; extra == \"numba\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "h5netcdf ; extra == \"test\"",
+      "arviz-base==0.3.0 ; extra == \"xarray\"",
+      "xarray-einstats ; extra == \"xarray\"",
+      "numba ; extra == \"xarray\""
+    ]
+  }
+}

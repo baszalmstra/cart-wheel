@@ -1,0 +1,63 @@
+{
+  "annotated_types-0.7.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:43.981102+00:00",
+    "conda_file": "annotated-types-0.7.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.0.0; python_version < '3.9'"
+    ]
+  },
+  "annotated_types-0.6.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:43.976953+00:00",
+    "conda_file": "annotated-types-0.6.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.0.0; python_version < '3.9'"
+    ]
+  },
+  "annotated_types-0.5.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:44.061881+00:00",
+    "conda_file": "annotated-types-0.5.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.0.0; python_version < '3.9'"
+    ]
+  },
+  "annotated_types-0.4.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:44.112573+00:00",
+    "conda_file": "annotated-types-0.4.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.0.0; python_version < '3.9'"
+    ]
+  },
+  "annotated_types-0.3.1-py3-none-any.whl": {
+    "status": "failed",
+    "error": "Cannot convert marker variable 'python_full_version': unsupported",
+    "retry_count": 1
+  }
+}

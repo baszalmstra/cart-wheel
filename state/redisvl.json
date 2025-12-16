@@ -1,0 +1,186 @@
+{
+  "redisvl-0.12.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c7aaea242508624b78a448362b7a33e3b411049271ce8bdc7ef95208b1095e6e",
+    "dependencies": {
+      "required": [
+        "jsonpath-ng",
+        "ml-dtypes",
+        "numpy",
+        "pydantic",
+        "python-ulid",
+        "pyyaml",
+        "redis",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "jsonpath-ng>=1.5.0",
+      "ml-dtypes<1.0.0,>=0.4.0",
+      "numpy<3,>=1.26.0",
+      "pydantic<3,>=2",
+      "python-ulid>=3.0.0",
+      "pyyaml<7.0,>=5.4",
+      "redis<7.0,>=5.0",
+      "tenacity>=8.2.2",
+      "boto3<2,>=1.36.0; extra == 'bedrock'",
+      "urllib3<2.2.0; extra == 'bedrock'",
+      "cohere>=4.44; extra == 'cohere'",
+      "langcache>=0.11.0; extra == 'langcache'",
+      "mistralai>=1.0.0; extra == 'mistralai'",
+      "nltk<4,>=3.8.1; extra == 'nltk'",
+      "openai>=1.1.0; extra == 'openai'",
+      "sentence-transformers<4,>=3.4.0; extra == 'sentence-transformers'",
+      "google-cloud-aiplatform<2.0.0,>=1.26; extra == 'vertexai'",
+      "protobuf<6.0.0,>=5.28.0; extra == 'vertexai'",
+      "voyageai>=0.2.2; extra == 'voyageai'"
+    ]
+  },
+  "redisvl-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "406695793681c1f46f61b6a1141a6b6f86261bf690caf0de00595c511700012d",
+    "dependencies": {
+      "required": [
+        "jsonpath-ng",
+        "ml-dtypes",
+        "numpy",
+        "pydantic",
+        "python-ulid",
+        "pyyaml",
+        "redis",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "jsonpath-ng>=1.5.0",
+      "ml-dtypes<1.0.0,>=0.4.0",
+      "numpy<3,>=1.26.0",
+      "pydantic<3,>=2",
+      "python-ulid>=3.0.0",
+      "pyyaml<7.0,>=5.4",
+      "redis<7.0,>=5.0",
+      "tenacity>=8.2.2",
+      "boto3<2,>=1.36.0; extra == 'bedrock'",
+      "urllib3<2.2.0; extra == 'bedrock'",
+      "cohere>=4.44; extra == 'cohere'",
+      "langcache>=0.11.0; extra == 'langcache'",
+      "mistralai>=1.0.0; extra == 'mistralai'",
+      "nltk<4,>=3.8.1; extra == 'nltk'",
+      "openai>=1.1.0; extra == 'openai'",
+      "sentence-transformers<4,>=3.4.0; extra == 'sentence-transformers'",
+      "google-cloud-aiplatform<2.0.0,>=1.26; extra == 'vertexai'",
+      "protobuf<6.0.0,>=5.28.0; extra == 'vertexai'",
+      "voyageai>=0.2.2; extra == 'voyageai'"
+    ]
+  },
+  "redisvl-0.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6983cca14438f92f193d56744bfd0f659024daee72e0a089e674f9dc2dd4adcf",
+    "dependencies": {
+      "required": [
+        "jsonpath-ng",
+        "ml-dtypes",
+        "numpy",
+        "pydantic",
+        "python-ulid",
+        "pyyaml",
+        "redis",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "jsonpath-ng>=1.5.0",
+      "ml-dtypes<1.0.0,>=0.4.0",
+      "numpy<3,>=1.26.0",
+      "pydantic<3,>=2",
+      "python-ulid>=3.0.0",
+      "pyyaml<7.0,>=5.4",
+      "redis<7.0,>=5.0",
+      "tenacity>=8.2.2",
+      "boto3<2,>=1.36.0; extra == 'bedrock'",
+      "urllib3<2.2.0; extra == 'bedrock'",
+      "cohere>=4.44; extra == 'cohere'",
+      "langcache>=0.11.0; extra == 'langcache'",
+      "mistralai>=1.0.0; extra == 'mistralai'",
+      "nltk<4,>=3.8.1; extra == 'nltk'",
+      "openai>=1.1.0; extra == 'openai'",
+      "sentence-transformers<4,>=3.4.0; extra == 'sentence-transformers'",
+      "google-cloud-aiplatform<2.0.0,>=1.26; extra == 'vertexai'",
+      "protobuf<6.0.0,>=5.28.0; extra == 'vertexai'",
+      "voyageai>=0.2.2; extra == 'voyageai'"
+    ]
+  },
+  "redisvl-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e2029fd5fc73baf5f024415002d91cdce88168e51113afc1dbc4fcd0f8a210a",
+    "dependencies": {
+      "required": [
+        "jsonpath-ng",
+        "ml-dtypes",
+        "numpy",
+        "pydantic",
+        "python-ulid",
+        "pyyaml",
+        "redis",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "jsonpath-ng>=1.5.0",
+      "ml-dtypes<1.0.0,>=0.4.0",
+      "numpy<3,>=1.26.0",
+      "pydantic<3,>=2",
+      "python-ulid>=3.0.0",
+      "pyyaml<7.0,>=5.4",
+      "redis<7.0,>=5.0",
+      "tenacity>=8.2.2",
+      "boto3<2,>=1.36.0; extra == 'bedrock'",
+      "urllib3<2.2.0; extra == 'bedrock'",
+      "cohere>=4.44; extra == 'cohere'",
+      "langcache>=0.9.0; extra == 'langcache'",
+      "mistralai>=1.0.0; extra == 'mistralai'",
+      "nltk<4,>=3.8.1; extra == 'nltk'",
+      "openai>=1.1.0; extra == 'openai'",
+      "sentence-transformers<4,>=3.4.0; extra == 'sentence-transformers'",
+      "google-cloud-aiplatform<2.0.0,>=1.26; extra == 'vertexai'",
+      "protobuf<6.0.0,>=5.28.0; extra == 'vertexai'",
+      "voyageai>=0.2.2; extra == 'voyageai'"
+    ]
+  },
+  "redisvl-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dfc0c3e3226d30fc69a9fe3ee3c3fae17c49155ea1deb1a81e905b254a4c703c",
+    "dependencies": {
+      "required": [
+        "jsonpath-ng",
+        "ml-dtypes",
+        "numpy",
+        "pydantic",
+        "python-ulid",
+        "pyyaml",
+        "redis",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "jsonpath-ng>=1.5.0",
+      "ml-dtypes<1.0.0,>=0.4.0",
+      "numpy<3,>=1.26.0",
+      "pydantic<3,>=2",
+      "python-ulid>=3.0.0",
+      "pyyaml<7.0,>=5.4",
+      "redis<7.0,>=5.0",
+      "tenacity>=8.2.2",
+      "boto3<2,>=1.36.0; extra == 'bedrock'",
+      "urllib3<2.2.0; extra == 'bedrock'",
+      "cohere>=4.44; extra == 'cohere'",
+      "mistralai>=1.0.0; extra == 'mistralai'",
+      "nltk<4,>=3.8.1; extra == 'nltk'",
+      "openai>=1.1.0; extra == 'openai'",
+      "sentence-transformers<4,>=3.4.0; extra == 'sentence-transformers'",
+      "google-cloud-aiplatform<2.0.0,>=1.26; extra == 'vertexai'",
+      "protobuf<6.0.0,>=5.28.0; extra == 'vertexai'",
+      "voyageai>=0.2.2; extra == 'voyageai'"
+    ]
+  }
+}

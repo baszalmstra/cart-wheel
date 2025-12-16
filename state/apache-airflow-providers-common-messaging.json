@@ -1,0 +1,72 @@
+{
+  "apache_airflow_providers_common_messaging-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "32e2ef208ae7d6acd72fe90033bd6a15b4790fd671ec65dca8505bd1f658d5a9",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.1",
+      "apache-airflow-providers-amazon>=9.7.0 ; extra == \"amazon\"",
+      "apache-airflow-providers-apache-kafka>=1.9.0 ; extra == \"apache-kafka\""
+    ]
+  },
+  "apache_airflow_providers_common_messaging-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c22e6b4d4a631a75d7346d38bce6b76a40afd0b7414b56da40cde1f705c46fe8",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.1",
+      "apache-airflow-providers-amazon>=9.7.0 ; extra == \"amazon\"",
+      "apache-airflow-providers-apache-kafka>=1.9.0 ; extra == \"apache-kafka\""
+    ]
+  },
+  "apache_airflow_providers_common_messaging-1.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1500369bd67ac99a728c3b8f670df47b453562ad53f773f7671d484eea40274b",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.1",
+      "apache-airflow-providers-amazon>=9.7.0 ; extra == \"amazon\"",
+      "apache-airflow-providers-apache-kafka>=1.9.0 ; extra == \"apache-kafka\""
+    ]
+  },
+  "apache_airflow_providers_common_messaging-1.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dba255c0deb97457167a755ab00e2266601fe362faac09b53d6c32f773576b7b",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.1",
+      "apache-airflow-providers-amazon>=9.7.0 ; extra == \"amazon\"",
+      "apache-airflow-providers-apache-kafka>=1.9.0 ; extra == \"apache-kafka\""
+    ]
+  },
+  "apache_airflow_providers_common_messaging-1.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c1fc47cacd6567594d3cf492587dd8ada8ee4f598cfc5da407cc6bb02a24213",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.1",
+      "apache-airflow-providers-amazon>=9.7.0 ; extra == \"amazon\"",
+      "apache-airflow-providers-apache-kafka>=1.9.0 ; extra == \"apache-kafka\""
+    ]
+  }
+}

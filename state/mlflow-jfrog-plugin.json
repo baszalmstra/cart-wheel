@@ -1,0 +1,44 @@
+{
+  "mlflow_jfrog_plugin-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9d85a21b338ff197307878e39da43c24e645c430875a3675db20bb1d34a9f61",
+    "dependencies": {
+      "required": [
+        "mlflow",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "mlflow>=3.1.4",
+      "requests>=2.31.0"
+    ]
+  },
+  "mlflow_jfrog_plugin-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc2d59cb58a5fbc20ce0e3cb8f4d97de091894cd889b2ead8c3a9da3f5d8b538",
+    "dependencies": {
+      "required": [
+        "mlflow",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "mlflow",
+      "requests >=2.31.0"
+    ]
+  },
+  "mlflow_jfrog_plugin-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62f26fc5a75be17dad7789b0bd9cb7ec487638835de936e794ddbea95a77c90d",
+    "dependencies": {
+      "required": [
+        "mlflow",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "mlflow",
+      "requests >=2.31.0"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "dacite-1.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "053f7c3f5128ca2e9aceb66892b1a3c8936d02c686e707bee96e19deef4bc4a0",
+    "dependencies": {
+      "required": [
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses; python_version < \"3.7\"",
+      "pytest>=5; extra == \"dev\"",
+      "pytest-benchmark; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "coveralls; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pylint; extra == \"dev\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  },
+  "dacite-1.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55a5ac04207d34a92d7951d2d1ccaa642bf340b29db6399848a1e41ff6e0f48f",
+    "dependencies": {
+      "required": [
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses; python_version < \"3.7\"",
+      "pytest>=5; extra == \"dev\"",
+      "pytest-benchmark; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "coveralls; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pylint; extra == \"dev\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  },
+  "dacite-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e6272e1427585c1847ae084e84f0fa57644bce46c8841c78f86dd2a873c27a36",
+    "dependencies": {
+      "required": [
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses; python_version < \"3.7\"",
+      "pytest>=5; extra == \"dev\"",
+      "pytest-benchmark; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "coveralls; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pylint; extra == \"dev\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  },
+  "dacite-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc31ad6fdea1f49962ea42db9421772afe01ac5442380d9a99fcf3d188c61afe",
+    "dependencies": {
+      "required": [
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses ; python_version < \"3.7\"",
+      "pytest (>=5) ; extra == 'dev'",
+      "pytest-benchmark ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "coveralls ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'"
+    ]
+  },
+  "dacite-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f7b1205cc5d9b62835aac8cbc1e6e37c1da862359a401f1edbe2ae08fbdc6193",
+    "dependencies": {
+      "required": [
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses ; python_version < \"3.7\"",
+      "pytest (>=5) ; extra == 'dev'",
+      "pytest-benchmark ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "coveralls ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for pysnooper
+conda_forge = "pysnooper"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "PySnooper-1.2.3-py2.py3-none-any.whl" },
+  { filename = "PySnooper-1.2.2-py2.py3-none-any.whl" },
+  { filename = "PySnooper-1.2.1-py2.py3-none-any.whl" },
+  { filename = "PySnooper-1.2.0-py2.py3-none-any.whl" },
+  { filename = "PySnooper-1.1.1-py2.py3-none-any.whl" },
+]

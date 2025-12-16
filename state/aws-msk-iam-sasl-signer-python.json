@@ -1,0 +1,54 @@
+{
+  "aws_msk_iam_sasl_signer_python-1.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "310eb2db9ca0ff55ed06a24212739b87533e7f1cf6f34e43aabbd97a3b21290e",
+    "dependencies": {
+      "required": [
+        "click",
+        "boto3",
+        "botocore"
+      ]
+    },
+    "original_requirements": [
+      "Click>=7.0",
+      "boto3>=1.26.125",
+      "botocore>=1.29.125",
+      "pytest==7.3.1; extra == \"test\"",
+      "pytest-cov==4.0.0; extra == \"test\"",
+      "coverage==7.2.5; extra == \"test\"",
+      "mock==5.0.2; extra == \"test\""
+    ]
+  },
+  "aws_msk_iam_sasl_signer_python-1.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e707025abaf250b79811457069c278f4714f120cccad882249b3b2f010967e8",
+    "dependencies": {
+      "required": [
+        "click",
+        "boto3",
+        "botocore"
+      ]
+    },
+    "original_requirements": [
+      "Click >=7.0",
+      "boto3 >=1.26.125",
+      "botocore >=1.29.125"
+    ]
+  },
+  "aws_msk_iam_sasl_signer_python-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b90974e6bcdb4ddc5dc70c56d4c6a2f306960a1a4e4f3759c7661852a8b50ebc",
+    "dependencies": {
+      "required": [
+        "click",
+        "boto3",
+        "botocore"
+      ]
+    },
+    "original_requirements": [
+      "Click >=7.0",
+      "boto3 ==1.26.125",
+      "botocore ==1.29.125"
+    ]
+  }
+}

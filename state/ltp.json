@@ -1,0 +1,82 @@
+{
+  "ltp-4.2.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ee959d9a686c80551fa43a213cd100c602b3659ebfb49513a37107b25533928",
+    "dependencies": {
+      "required": [
+        "ltp-core",
+        "ltp-extension",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "ltp-core >=0.1.3",
+      "ltp-extension >=0.1.9",
+      "huggingface-hub >=0.8.0"
+    ]
+  },
+  "ltp-4.2.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a458fb31dee8f55ecf3e2cb5960270a473253f70518426f99923972e4b138830",
+    "dependencies": {
+      "required": [
+        "ltp-core",
+        "ltp-extension",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "ltp-core (>=0.1.3)",
+      "ltp-extension (>=0.1.9)",
+      "huggingface-hub (>=0.8.0)"
+    ]
+  },
+  "ltp-4.2.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "547dd484fe8ba9da3fb5655952aa6cb72e4efb5baf66fb62fdc948419585e38d",
+    "dependencies": {
+      "required": [
+        "ltp-core",
+        "ltp-extension",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "ltp-core (>=0.1.3)",
+      "ltp-extension (>=0.1.9)",
+      "huggingface-hub (>=0.8.0)"
+    ]
+  },
+  "ltp-4.2.11.post2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90df5b7afdbf14226497bd47f70bcc3599a3f98bbad3e101fc2eebefb9ef92c1",
+    "dependencies": {
+      "required": [
+        "ltp-core",
+        "ltp-extension",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "ltp-core (>=0.1.2)",
+      "ltp-extension (>=0.1.9)",
+      "huggingface-hub (>=0.8.0)"
+    ]
+  },
+  "ltp-4.2.11.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a1e6d8a76d4a128cec9ae5f2fe1e5973e08dc8faae096b8880e98f0dec08f736",
+    "dependencies": {
+      "required": [
+        "ltp-core",
+        "ltp-extension",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "ltp-core (>=0.1.2)",
+      "ltp-extension (>=0.1.9)",
+      "huggingface-hub (>=0.8.0)"
+    ]
+  }
+}

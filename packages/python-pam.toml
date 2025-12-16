@@ -1,0 +1,10 @@
+# Package configuration for python-pam
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_pam-2.0.2-py3-none-any.whl" },
+  { filename = "python_pam-2.0.0-py3-none-any.whl" },
+  { filename = "python_pam-1.8.4-py2.py3-none-any.whl" },
+  { filename = "python_pam-1.8.3-py2.py3-none-any.whl" },
+]

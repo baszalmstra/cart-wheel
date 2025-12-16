@@ -1,0 +1,12 @@
+# Package configuration for adjusttext
+conda_forge = "adjusttext"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "adjustText-1.3.0-py3-none-any.whl" },
+  { filename = "adjustText-1.2.0-py3-none-any.whl" },
+  { filename = "adjustText-1.1.1-py3-none-any.whl" },
+  { filename = "adjustText-1.1.0-py3-none-any.whl" },
+  { filename = "adjustText-1.0.4-py3-none-any.whl" },
+]

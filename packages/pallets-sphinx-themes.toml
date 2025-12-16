@@ -1,0 +1,11 @@
+# Package configuration for pallets-sphinx-themes
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pallets_sphinx_themes-2.3.0-py3-none-any.whl" },
+  { filename = "pallets_sphinx_themes-2.2.0-py3-none-any.whl" },
+  { filename = "pallets_sphinx_themes-2.1.3-py3-none-any.whl" },
+  { filename = "pallets_sphinx_themes-2.1.2-py3-none-any.whl" },
+  { filename = "Pallets_Sphinx_Themes-2.1.1-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for optimum-intel
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "optimum_intel-1.26.1-py3-none-any.whl" },
+  { filename = "optimum_intel-1.26.0-py3-none-any.whl" },
+  { filename = "optimum_intel-1.25.2-py3-none-any.whl" },
+  { filename = "optimum_intel-1.25.1-py3-none-any.whl" },
+  { filename = "optimum_intel-1.25.0-py3-none-any.whl" },
+]

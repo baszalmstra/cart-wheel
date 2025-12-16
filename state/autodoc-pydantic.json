@@ -1,0 +1,139 @@
+{
+  "autodoc_pydantic-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c6a36fbf6ed2700ea9c6d21ea76ad541b621fbdf16b5a80ee04673548af4d95",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "importlib-metadata",
+        "pydantic",
+        "pydantic-settings"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=4.0)",
+      "coverage (>=7,<8) ; extra == \"test\"",
+      "defusedxml (>=0.7.1) ; extra == \"test\"",
+      "erdantic (<2.0) ; extra == \"erdantic\"",
+      "importlib-metadata (>1) ; python_version <= \"3.8\"",
+      "mypy (>=1.9,<2.0) ; extra == \"type-checking\"",
+      "myst-parser (>=3.0.0,<4.0.0) ; extra == \"docs\"",
+      "pip-audit (>=2.7.2,<3.0.0) ; extra == \"security\"",
+      "pydantic (>=2.0,<3.0.0)",
+      "pydantic-settings (>=2.0,<3.0.0)",
+      "pytest (>=8.0.0,<9.0.0) ; extra == \"test\"",
+      "pytest-sugar (>=1.0.0,<2.0.0) ; extra == \"test\"",
+      "ruff (>=0.4.0,<0.5.0) ; extra == \"linting\"",
+      "sphinx-copybutton (>=0.5.0,<0.6.0) ; extra == \"docs\"",
+      "sphinx-rtd-theme (>=2.0.0,<3.0.0) ; extra == \"docs\"",
+      "sphinx-tabs (>=3,<4) ; extra == \"docs\"",
+      "sphinxcontrib-mermaid (>=0.9.0,<0.10.0) ; extra == \"docs\"",
+      "types-docutils (>=0.20,<0.21) ; extra == \"type-checking\"",
+      "typing-extensions (>=4.11,<5.0) ; (python_version <= \"3.9\") and (extra == \"type-checking\")"
+    ]
+  },
+  "autodoc_pydantic-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f1f82ee3667589dfa08b21697be8bbd80b15110e838cd765bb1bf3ce1b0ea8f",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "importlib-metadata",
+        "pydantic",
+        "pydantic-settings"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=4.0)",
+      "coverage (>=7,<8) ; extra == \"test\" or extra == \"dev\"",
+      "erdantic (>=0.6,<0.7) ; extra == \"erdantic\"",
+      "flake8 (>=3,<4) ; extra == \"dev\"",
+      "importlib-metadata (>1) ; python_version <= \"3.8\"",
+      "pydantic (>=2.0,<3.0.0)",
+      "pydantic-settings (>=2.0,<3.0.0)",
+      "pytest (>=7,<8) ; extra == \"test\" or extra == \"dev\"",
+      "sphinx-copybutton (>=0.4,<0.5) ; extra == \"docs\" or extra == \"dev\"",
+      "sphinx-rtd-theme (>=1.0,<2.0) ; extra == \"docs\" or extra == \"dev\"",
+      "sphinx-tabs (>=3,<4) ; extra == \"docs\" or extra == \"dev\"",
+      "sphinxcontrib-mermaid (>=0.7,<0.8) ; extra == \"docs\" or extra == \"dev\"",
+      "tox (>=3,<4) ; extra == \"dev\""
+    ]
+  },
+  "autodoc_pydantic-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3c302fdb6d37edb5b721f0f540252fa79cea7018bc1a9a85bf70f33a68b0ce4",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "importlib-metadata",
+        "pydantic",
+        "pydantic-settings"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=4.0)",
+      "coverage (>=7,<8) ; extra == \"test\" or extra == \"dev\"",
+      "erdantic (>=0.6,<0.7) ; extra == \"erdantic\"",
+      "flake8 (>=3,<4) ; extra == \"dev\"",
+      "importlib-metadata (>1) ; python_version <= \"3.8\"",
+      "pydantic (>=2.0,<3.0.0)",
+      "pydantic-settings (>=2.0,<3.0.0)",
+      "pytest (>=7,<8) ; extra == \"test\" or extra == \"dev\"",
+      "sphinx-copybutton (>=0.4,<0.5) ; extra == \"docs\" or extra == \"dev\"",
+      "sphinx-rtd-theme (>=1.0,<2.0) ; extra == \"docs\" or extra == \"dev\"",
+      "sphinx-tabs (>=3,<4) ; extra == \"docs\" or extra == \"dev\"",
+      "sphinxcontrib-mermaid (>=0.7,<0.8) ; extra == \"docs\" or extra == \"dev\"",
+      "tox (>=3,<4) ; extra == \"dev\""
+    ]
+  },
+  "autodoc_pydantic-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ac5315064ccac214c48348918eef05b67b8bea6e56a6257a220e2b1cc064f82",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "importlib-metadata",
+        "pydantic",
+        "pydantic-settings"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=4.0)",
+      "coverage (>=7,<8) ; extra == \"test\" or extra == \"dev\"",
+      "erdantic (>=0.6,<0.7) ; extra == \"erdantic\"",
+      "flake8 (>=3,<4) ; extra == \"dev\"",
+      "importlib-metadata (>1) ; python_version <= \"3.8\"",
+      "pydantic (>=2.0,<3.0.0)",
+      "pydantic-settings (>=2.0,<3.0.0)",
+      "pytest (>=7,<8) ; extra == \"test\" or extra == \"dev\"",
+      "sphinx-copybutton (>=0.4,<0.5) ; extra == \"docs\" or extra == \"dev\"",
+      "sphinx-rtd-theme (>=1.0,<2.0) ; extra == \"docs\" or extra == \"dev\"",
+      "sphinx-tabs (>=3,<4) ; extra == \"docs\" or extra == \"dev\"",
+      "sphinxcontrib-mermaid (>=0.7,<0.8) ; extra == \"docs\" or extra == \"dev\"",
+      "tox (>=3,<4) ; extra == \"dev\""
+    ]
+  },
+  "autodoc_pydantic-1.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b7c68ce3720f099ec85b7b8b9bd91414b8873704aa60f75489c2bcfe2d57bb5",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=3.4)",
+      "coverage (>=7,<8) ; extra == \"test\" or extra == \"dev\"",
+      "erdantic (>=0.5,<0.6) ; extra == \"erdantic\"",
+      "flake8 (>=3,<4) ; extra == \"dev\"",
+      "pydantic (>=1.5,<2.0.0)",
+      "pytest (>=7,<8) ; extra == \"test\" or extra == \"dev\"",
+      "sphinx-copybutton (>=0.4,<0.5) ; extra == \"docs\" or extra == \"dev\"",
+      "sphinx-rtd-theme (>=1.0,<2.0) ; extra == \"docs\" or extra == \"dev\"",
+      "sphinx-tabs (>=3,<4) ; extra == \"docs\" or extra == \"dev\"",
+      "sphinxcontrib-mermaid (>=0.7,<0.8) ; extra == \"docs\" or extra == \"dev\"",
+      "tox (>=3,<4) ; extra == \"dev\""
+    ]
+  }
+}

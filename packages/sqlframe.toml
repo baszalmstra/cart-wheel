@@ -1,0 +1,12 @@
+# Package configuration for sqlframe
+conda_forge = "sqlframe"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sqlframe-3.43.8-py3-none-any.whl" },
+  { filename = "sqlframe-3.43.7-py3-none-any.whl" },
+  { filename = "sqlframe-3.43.6-py3-none-any.whl" },
+  { filename = "sqlframe-3.43.5-py3-none-any.whl" },
+  { filename = "sqlframe-3.43.4-py3-none-any.whl" },
+]

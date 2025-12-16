@@ -1,0 +1,142 @@
+{
+  "autokeras-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a80d31b751eb2c40ddfd323b96c798a65e9cc2ee7c5ed00af41ef7a5e195aec",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "keras-tuner",
+        "keras",
+        "dm-tree"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "keras-tuner>=1.4.0",
+      "keras>=3.0.0",
+      "dm-tree",
+      "pandas; extra == \"tests\"",
+      "pytest>=4.4.0; extra == \"tests\"",
+      "flake8; extra == \"tests\"",
+      "black[jupyter]; extra == \"tests\"",
+      "isort; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "coverage; extra == \"tests\"",
+      "typedapi<0.3,>=0.2; extra == \"tests\"",
+      "scikit-learn; extra == \"tests\""
+    ]
+  },
+  "autokeras-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "476c12104c41e46814b765493006f9937e1f7d226992c1bd2b7e7bd4ccb7a822",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "keras-tuner",
+        "keras-nlp",
+        "keras",
+        "dm-tree"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "keras-tuner >=1.4.0",
+      "keras-nlp >=0.8.0",
+      "keras >=3.0.0",
+      "dm-tree",
+      "pytest >=4.4.0 ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "black[jupyter] ; extra == 'tests'",
+      "isort ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "coverage ; extra == 'tests'",
+      "typedapi <0.3,>=0.2 ; extra == 'tests'",
+      "scikit-learn ; extra == 'tests'"
+    ]
+  },
+  "autokeras-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a4865d84294ff9d8bcf119ed8c281e052e8c18372371d7f24fbcc4db96513bd",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tensorflow",
+        "keras-tuner",
+        "keras-nlp",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "tensorflow (>=2.8.0)",
+      "keras-tuner (>=1.1.0)",
+      "keras-nlp (>=0.4.0)",
+      "pandas",
+      "pytest (>=4.4.0) ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "black[jupyter] (==22.12.0) ; extra == 'tests'",
+      "isort ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "coverage ; extra == 'tests'",
+      "typedapi (<0.3,>=0.2) ; extra == 'tests'",
+      "scikit-learn ; extra == 'tests'"
+    ]
+  },
+  "autokeras-1.0.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "66da8c3c9f25afe456b2bbb123219fb91402e6015fb0df9479b9bacb0caab7aa",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tensorflow",
+        "keras-tuner",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "tensorflow (>=2.8.0)",
+      "keras-tuner (>=1.1.0)",
+      "pandas",
+      "pytest (>=4.4.0) ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "black (==22.6.0) ; extra == 'tests'",
+      "isort ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "coverage ; extra == 'tests'",
+      "typedapi (<0.3,>=0.2) ; extra == 'tests'",
+      "scikit-learn ; extra == 'tests'"
+    ]
+  },
+  "autokeras-1.0.19-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2931bb3e21c985bd8674b45427703382ed18aef39df9b257839b20c726d136f4",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tensorflow",
+        "keras-tuner",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "tensorflow (>=2.8.0)",
+      "keras-tuner (>=1.1.0)",
+      "pandas",
+      "pytest (>=4.4.0) ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "black (==22.3.0) ; extra == 'tests'",
+      "isort ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "coverage ; extra == 'tests'",
+      "typedapi (<0.3,>=0.2) ; extra == 'tests'",
+      "scikit-learn ; extra == 'tests'"
+    ]
+  }
+}

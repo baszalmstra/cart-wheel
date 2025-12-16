@@ -1,0 +1,12 @@
+# Package configuration for entrypoints
+conda_forge = "entrypoints"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "entrypoints-0.4-py3-none-any.whl" },
+  { filename = "entrypoints-0.3-py2.py3-none-any.whl" },
+  { filename = "entrypoints-0.2.3-py2.py3-none-any.whl" },
+  { filename = "entrypoints-0.2.2-py2.py3-none-any.whl" },
+  { filename = "entrypoints-0.2.1-py2.py3-none-any.whl" },
+]

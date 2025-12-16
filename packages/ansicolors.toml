@@ -1,0 +1,11 @@
+# Package configuration for ansicolors
+conda_forge = "ansicolors"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ansicolors-1.1.8-py2.py3-none-any.whl" },
+  { filename = "ansicolors-1.1.7-py2.py3-none-any.whl" },
+  { filename = "ansicolors-1.1.6-py2.py3-none-any.whl" },
+  { filename = "ansicolors-1.1.5-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,48 @@
+{
+  "pytest_aioresponses-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60f3124ff05a0210a5f369dd95e4cf66090774ba76b322f7178858ce4e6c1647",
+    "dependencies": {
+      "required": [
+        "aioresponses",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "aioresponses (>=0.7.1,<0.8.0)",
+      "pytest (>=3.5.0)"
+    ]
+  },
+  "pytest_aioresponses-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a78d1eb76e1bffe7adc83a1bad0d48c373b41289367ae1f5e7ec0fceb60a04d",
+    "dependencies": {
+      "required": [
+        "aioresponses",
+        "pytest",
+        "pytest-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "aioresponses (>=0.7.1,<0.8.0)",
+      "pytest (>=3.5.0)",
+      "pytest-asyncio (>=0.14.0)"
+    ]
+  },
+  "pytest_aioresponses-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b8783a38275ad1ff01527bb84923c311e01557806dc3edd97cee5fe0225fadba",
+    "dependencies": {
+      "required": [
+        "aioresponses",
+        "pytest",
+        "pytest-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "aioresponses (>=0.7.1,<0.8.0)",
+      "pytest (>=3.5.0)",
+      "pytest-asyncio (>=0.14.0,<0.15.0)"
+    ]
+  }
+}

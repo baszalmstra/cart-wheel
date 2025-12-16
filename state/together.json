@@ -1,0 +1,193 @@
+{
+  "together-1.5.32-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37048bc2afc27e7042cd617fdfeb3457b1c8ee86f799af08bd866b3f3a9c1455",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "black",
+        "click",
+        "eval-type-backport",
+        "filelock",
+        "numpy",
+        "numpy",
+        "pillow",
+        "pydantic",
+        "requests",
+        "rich",
+        "tabulate",
+        "tqdm",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.3,<4.0.0)",
+      "black (>=25.9.0,<26.0.0)",
+      "click (>=8.1.7,<9.0.0)",
+      "eval-type-backport (>=0.1.3,<0.3.0)",
+      "filelock (>=3.13.1,<4.0.0)",
+      "numpy (>=1.23.5) ; python_version < \"3.12\"",
+      "numpy (>=1.26.0) ; python_version >= \"3.12\"",
+      "pillow (>=11.1.0,<12.0.0)",
+      "pyarrow (>=10.0.1) ; extra == \"pyarrow\"",
+      "pydantic (>=2.6.3,<3.0.0)",
+      "requests (>=2.31.0,<3.0.0)",
+      "rich (>=13.8.1,<15.0.0)",
+      "tabulate (>=0.9.0,<0.10.0)",
+      "tqdm (>=4.66.2,<5.0.0)",
+      "typer (>=0.9,<0.20)"
+    ]
+  },
+  "together-1.5.31-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf522f39583a22876f4828099bb2e5f5ef9d3305bad80210138f9470a9373d9c",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "black",
+        "click",
+        "eval-type-backport",
+        "filelock",
+        "numpy",
+        "numpy",
+        "pillow",
+        "pydantic",
+        "requests",
+        "rich",
+        "tabulate",
+        "tqdm",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.3,<4.0.0)",
+      "black (>=25.9.0,<26.0.0)",
+      "click (>=8.1.7,<9.0.0)",
+      "eval-type-backport (>=0.1.3,<0.3.0)",
+      "filelock (>=3.13.1,<4.0.0)",
+      "numpy (>=1.23.5) ; python_version < \"3.12\"",
+      "numpy (>=1.26.0) ; python_version >= \"3.12\"",
+      "pillow (>=11.1.0,<12.0.0)",
+      "pyarrow (>=10.0.1) ; extra == \"pyarrow\"",
+      "pydantic (>=2.6.3,<3.0.0)",
+      "requests (>=2.31.0,<3.0.0)",
+      "rich (>=13.8.1,<15.0.0)",
+      "tabulate (>=0.9.0,<0.10.0)",
+      "tqdm (>=4.66.2,<5.0.0)",
+      "typer (>=0.9,<0.20)"
+    ]
+  },
+  "together-1.5.30-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2010bdfc15f14e56fbf2f0d80fd3e281ddc4ecb7e68d8172a7aa7934b7530791",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "black",
+        "click",
+        "eval-type-backport",
+        "filelock",
+        "numpy",
+        "numpy",
+        "pillow",
+        "pydantic",
+        "requests",
+        "rich",
+        "tabulate",
+        "tqdm",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.3,<4.0.0)",
+      "black (>=25.9.0,<26.0.0)",
+      "click (>=8.1.7,<9.0.0)",
+      "eval-type-backport (>=0.1.3,<0.3.0)",
+      "filelock (>=3.13.1,<4.0.0)",
+      "numpy (>=1.23.5) ; python_version < \"3.12\"",
+      "numpy (>=1.26.0) ; python_version >= \"3.12\"",
+      "pillow (>=11.1.0,<12.0.0)",
+      "pyarrow (>=10.0.1) ; extra == \"pyarrow\"",
+      "pydantic (>=2.6.3,<3.0.0)",
+      "requests (>=2.31.0,<3.0.0)",
+      "rich (>=13.8.1,<15.0.0)",
+      "tabulate (>=0.9.0,<0.10.0)",
+      "tqdm (>=4.66.2,<5.0.0)",
+      "typer (>=0.9,<0.20)"
+    ]
+  },
+  "together-1.5.29-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b225d09b7d6963f9828da92b5f42087eb66eefd75ceddfbf0431fe10a5fdb6b",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "click",
+        "eval-type-backport",
+        "filelock",
+        "numpy",
+        "numpy",
+        "pillow",
+        "pydantic",
+        "requests",
+        "rich",
+        "tabulate",
+        "tqdm",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.3,<4.0.0)",
+      "click (>=8.1.7,<9.0.0)",
+      "eval-type-backport (>=0.1.3,<0.3.0)",
+      "filelock (>=3.13.1,<4.0.0)",
+      "numpy (>=1.23.5) ; python_version < \"3.12\"",
+      "numpy (>=1.26.0) ; python_version >= \"3.12\"",
+      "pillow (>=11.1.0,<12.0.0)",
+      "pyarrow (>=10.0.1) ; extra == \"pyarrow\"",
+      "pydantic (>=2.6.3,<3.0.0)",
+      "requests (>=2.31.0,<3.0.0)",
+      "rich (>=13.8.1,<15.0.0)",
+      "tabulate (>=0.9.0,<0.10.0)",
+      "tqdm (>=4.66.2,<5.0.0)",
+      "typer (>=0.9,<0.20)"
+    ]
+  },
+  "together-1.5.28-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d79644f4fcc2a7b3054bf56917577a63ca70ffa85e2bb4ea3ab9cf1b0f4b4b66",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "click",
+        "eval-type-backport",
+        "filelock",
+        "numpy",
+        "numpy",
+        "pillow",
+        "pydantic",
+        "requests",
+        "rich",
+        "tabulate",
+        "tqdm",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.3,<4.0.0)",
+      "click (>=8.1.7,<9.0.0)",
+      "eval-type-backport (>=0.1.3,<0.3.0)",
+      "filelock (>=3.13.1,<4.0.0)",
+      "numpy (>=1.23.5) ; python_version < \"3.12\"",
+      "numpy (>=1.26.0) ; python_version >= \"3.12\"",
+      "pillow (>=11.1.0,<12.0.0)",
+      "pyarrow (>=10.0.1) ; extra == \"pyarrow\"",
+      "pydantic (>=2.6.3,<3.0.0)",
+      "requests (>=2.31.0,<3.0.0)",
+      "rich (>=13.8.1,<15.0.0)",
+      "tabulate (>=0.9.0,<0.10.0)",
+      "tqdm (>=4.66.2,<5.0.0)",
+      "typer (>=0.9,<0.20)"
+    ]
+  }
+}

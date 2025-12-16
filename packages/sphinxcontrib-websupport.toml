@@ -1,0 +1,12 @@
+# Package configuration for sphinxcontrib-websupport
+conda_forge = "sphinxcontrib-websupport"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_websupport-2.0.0-py3-none-any.whl" },
+  { filename = "sphinxcontrib_websupport-1.2.7-py3-none-any.whl" },
+  { filename = "sphinxcontrib_websupport-1.2.6-py3-none-any.whl" },
+  { filename = "sphinxcontrib_websupport-1.2.5-py3-none-any.whl" },
+  { filename = "sphinxcontrib_websupport-1.2.4-py2.py3-none-any.whl" },
+]

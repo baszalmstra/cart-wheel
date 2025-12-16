@@ -1,0 +1,11 @@
+# Package configuration for zenml
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zenml-0.92.0-py3-none-any.whl" },
+  { filename = "zenml-0.91.2-py3-none-any.whl" },
+  { filename = "zenml-0.91.1-py3-none-any.whl" },
+  { filename = "zenml-0.91.0-py3-none-any.whl" },
+  { filename = "zenml-0.90.0-py3-none-any.whl" },
+]

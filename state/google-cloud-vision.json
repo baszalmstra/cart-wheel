@@ -1,0 +1,106 @@
+{
+  "google_cloud_vision-3.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8910f743a87a34058dd6e5e41790be1eb100a0b91c20cc6372a2388b328c8890",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "grpcio",
+        "grpcio",
+        "proto-plus",
+        "proto-plus",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "grpcio<2.0.0,>=1.33.2",
+      "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2"
+    ]
+  },
+  "google_cloud_vision-3.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "42a17fbc2219b0a88e325e2c1df6664a8dafcbae66363fb37ebcb511b018fc87",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "proto-plus",
+        "proto-plus",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2"
+    ]
+  },
+  "google_cloud_vision-3.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91959ea12b0d6a8442e30c0a5062cd305f349a4840f9184b5061b3153bbd8476",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "proto-plus",
+        "protobuf",
+        "proto-plus"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "proto-plus<2.0.0,>=1.22.3",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\""
+    ]
+  },
+  "google_cloud_vision-3.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cac9705a21374dcd4a62281e93dae5a2cb7eaf161fdd0aa5585e66c6c1d42f44",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "proto-plus",
+        "protobuf",
+        "proto-plus"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0dev,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0dev,>=2.14.1",
+      "proto-plus<2.0.0dev,>=1.22.3",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<6.0.0dev,>=3.20.2",
+      "proto-plus<2.0.0dev,>=1.25.0; python_version >= \"3.13\""
+    ]
+  },
+  "google_cloud_vision-3.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9acec27ee05bd197f0d89c97e9719712ef245e0c37fd428e6af09a15a082fbef",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "proto-plus",
+        "protobuf",
+        "proto-plus"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0dev,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0dev,>=2.14.1",
+      "proto-plus<2.0.0dev,>=1.22.3",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<6.0.0dev,>=3.20.2",
+      "proto-plus<2.0.0dev,>=1.25.0; python_version >= \"3.13\""
+    ]
+  }
+}

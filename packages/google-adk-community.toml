@@ -1,0 +1,9 @@
+# Package configuration for google-adk-community
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_adk_community-0.2.0-py3-none-any.whl" },
+  { filename = "google_adk_community-0.1.0-py3-none-any.whl" },
+  { filename = "google_adk_community-0.0.1-py3-none-any.whl" },
+]

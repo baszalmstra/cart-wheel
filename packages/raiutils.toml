@@ -1,0 +1,12 @@
+# Package configuration for raiutils
+conda_forge = "raiutils"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "raiutils-0.4.2-py3-none-any.whl" },
+  { filename = "raiutils-0.4.1-py3-none-any.whl" },
+  { filename = "raiutils-0.4.0-py3-none-any.whl" },
+  { filename = "raiutils-0.3.0-py3-none-any.whl" },
+  { filename = "raiutils-0.2.0-py3-none-any.whl" },
+]

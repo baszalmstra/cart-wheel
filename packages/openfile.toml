@@ -1,0 +1,10 @@
+# Package configuration for openfile
+conda_forge = "openfile"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openfile-0.0.7-py3-none-any.whl" },
+  { filename = "openfile-0.0.2-py3-none-any.whl" },
+  { filename = "openfile-0.0.1-py3-none-any.whl" },
+]

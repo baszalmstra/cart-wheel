@@ -1,0 +1,18 @@
+{
+  "flexcache-0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d43c9fea82336af6e0115e308d9d33a185390b8346a017564611f1466dcd2e32",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "pytest ; extra == 'test'",
+      "pytest-mpl ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-subtests ; extra == 'test'"
+    ]
+  }
+}

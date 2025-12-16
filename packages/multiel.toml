@@ -1,0 +1,11 @@
+# Package configuration for multiel
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "MultiEL-0.5-py3-none-any.whl" },
+  { filename = "MultiEL-0.4-py3-none-any.whl" },
+  { filename = "MultiEL-0.3-py3-none-any.whl" },
+  { filename = "MultiEL-0.2-py3-none-any.whl" },
+  { filename = "MultiEL-0.1-py3-none-any.whl" },
+]

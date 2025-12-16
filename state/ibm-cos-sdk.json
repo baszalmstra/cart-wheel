@@ -1,0 +1,30 @@
+{
+  "ibm_cos_sdk-1.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0dafd377f4aa2b1706dead56273b40e66d77f6370d822193a456498123ccd2a4",
+    "dependencies": {
+      "required": [
+        "ibm-cos-sdk-core",
+        "ibm-cos-sdk-s3transfer"
+      ]
+    },
+    "original_requirements": [
+      "ibm-cos-sdk-core>=1.0.0,==1.*",
+      "ibm-cos-sdk-s3transfer>=1.0.0,==1.*"
+    ]
+  },
+  "ibm_cos_sdk-1.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5aac1c238456676344f876690fe21a0328ce9d48a3d4c152b5051892a1b6e273",
+    "dependencies": {
+      "required": [
+        "ibm-cos-sdk-core",
+        "ibm-cos-sdk-s3transfer"
+      ]
+    },
+    "original_requirements": [
+      "ibm-cos-sdk-core>=1.0.0,==1.*",
+      "ibm-cos-sdk-s3transfer>=1.0.0,==1.*"
+    ]
+  }
+}

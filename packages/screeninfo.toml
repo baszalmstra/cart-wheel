@@ -1,0 +1,9 @@
+# Package configuration for screeninfo
+conda_forge = "screeninfo"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "screeninfo-0.8.1-py3-none-any.whl" },
+  { filename = "screeninfo-0.8-py3-none-any.whl" },
+]

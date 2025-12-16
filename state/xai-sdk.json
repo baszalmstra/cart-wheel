@@ -1,0 +1,132 @@
+{
+  "xai_sdk-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4dc56bec2d67811c67030a50b42c4a1bc60f43947d4baaa840acf0aef246e816",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "grpcio",
+        "opentelemetry-sdk",
+        "packaging",
+        "protobuf",
+        "pydantic",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp<4,>=3.8.6",
+      "grpcio<2,>=1.72.1",
+      "opentelemetry-sdk<2,>=1.36.0",
+      "packaging<26,>=25.0",
+      "protobuf<7,>=5.29.4",
+      "pydantic<3,>=2.5.3",
+      "requests<3,>=2.31.0",
+      "opentelemetry-exporter-otlp-proto-grpc<2,>=1.36.0; extra == 'telemetry-grpc'",
+      "opentelemetry-exporter-otlp-proto-http<2,>=1.36.0; extra == 'telemetry-http'"
+    ]
+  },
+  "xai_sdk-1.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0aae3c44978f5ec4e73a44edf62f06b96d1d670f1ae30baec4eca05f20cab9ee",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "grpcio",
+        "opentelemetry-sdk",
+        "packaging",
+        "protobuf",
+        "pydantic",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp<4,>=3.8.6",
+      "grpcio<2,>=1.72.1",
+      "opentelemetry-sdk<2,>=1.36.0",
+      "packaging<26,>=25.0",
+      "protobuf<7,>=5.29.4",
+      "pydantic<3,>=2.5.3",
+      "requests<3,>=2.31.0",
+      "opentelemetry-exporter-otlp-proto-grpc<2,>=1.36.0; extra == 'telemetry-grpc'",
+      "opentelemetry-exporter-otlp-proto-http<2,>=1.36.0; extra == 'telemetry-http'"
+    ]
+  },
+  "xai_sdk-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2635d661995ef1424fd5b5de6a9b7d6a11bad49a34afb19b04a330c40d90e0d1",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "grpcio",
+        "opentelemetry-sdk",
+        "packaging",
+        "protobuf",
+        "pydantic",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp<4,>=3.8.6",
+      "grpcio<2,>=1.72.1",
+      "opentelemetry-sdk<2,>=1.36.0",
+      "packaging<26,>=25.0",
+      "protobuf<7,>=5.29.4",
+      "pydantic<3,>=2.5.3",
+      "requests<3,>=2.31.0",
+      "opentelemetry-exporter-otlp-proto-grpc<2,>=1.36.0; extra == 'telemetry-grpc'",
+      "opentelemetry-exporter-otlp-proto-http<2,>=1.36.0; extra == 'telemetry-http'"
+    ]
+  },
+  "xai_sdk-1.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5cf0abaa0f731e08d235fc6b60d490d94564f85916819e20fa1e82b29d57c3f8",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "grpcio",
+        "opentelemetry-sdk",
+        "packaging",
+        "protobuf",
+        "pydantic",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp<4,>=3.8.6",
+      "grpcio<2,>=1.72.1",
+      "opentelemetry-sdk<2,>=1.36.0",
+      "packaging<26,>=25.0",
+      "protobuf<7,>=5.29.4",
+      "pydantic<3,>=2.5.3",
+      "requests<3,>=2.31.0",
+      "opentelemetry-exporter-otlp-proto-grpc<2,>=1.36.0; extra == 'telemetry-grpc'",
+      "opentelemetry-exporter-otlp-proto-http<2,>=1.36.0; extra == 'telemetry-http'"
+    ]
+  },
+  "xai_sdk-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c67eaea279bae95dc685869c8a0a5c09243af36ac3d796abecef79f38d62b9fd",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "grpcio",
+        "opentelemetry-sdk",
+        "packaging",
+        "protobuf",
+        "pydantic",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp<4,>=3.8.6",
+      "grpcio<2,>=1.72.1",
+      "opentelemetry-sdk<2,>=1.36.0",
+      "packaging<26,>=25.0",
+      "protobuf<7,>=5.29.4",
+      "pydantic<3,>=2.5.3",
+      "requests<3,>=2.31.0",
+      "opentelemetry-exporter-otlp-proto-grpc<2,>=1.36.0; extra == 'telemetry-grpc'",
+      "opentelemetry-exporter-otlp-proto-http<2,>=1.36.0; extra == 'telemetry-http'"
+    ]
+  }
+}

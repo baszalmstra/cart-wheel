@@ -1,0 +1,142 @@
+{
+  "momepy-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "45a4ad8de3ba1e14d964e20c1f8b0339fb37b3ae8cd4aab7153635d83337a4e9",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "libpysal",
+        "networkx",
+        "packaging",
+        "pandas",
+        "shapely",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=0.14.0",
+      "libpysal>=4.12.0",
+      "networkx>=3.2",
+      "packaging",
+      "pandas>=2.0",
+      "shapely>=2",
+      "tqdm>=4.65",
+      "numba; extra == \"plus\"",
+      "inequality; extra == \"plus\"",
+      "mapclassify; extra == \"plus\"",
+      "esda; extra == \"plus\""
+    ]
+  },
+  "momepy-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8947a48c9e9b624dedad2d2044c6da1d4dc65ade4d3943ea6e3411ff28ef5114",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "libpysal",
+        "networkx",
+        "packaging",
+        "pandas",
+        "shapely",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=0.12.0",
+      "libpysal>=4.12.0",
+      "networkx>=2.8",
+      "packaging",
+      "pandas>=1.5.1",
+      "shapely>=2",
+      "tqdm>=4.63.0",
+      "numba; extra == \"plus\"",
+      "inequality; extra == \"plus\"",
+      "mapclassify; extra == \"plus\"",
+      "esda; extra == \"plus\""
+    ]
+  },
+  "momepy-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74d20ce88257dcf1e654997427694dc6dd9eb64ed66a372116df1e20d03b6adf",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "libpysal",
+        "networkx",
+        "packaging",
+        "pandas",
+        "shapely",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=0.12.0",
+      "libpysal>=4.12.0",
+      "networkx>=2.8",
+      "packaging",
+      "pandas>=1.5.1",
+      "shapely>=2",
+      "tqdm>=4.63.0",
+      "numba; extra == \"plus\"",
+      "inequality; extra == \"plus\"",
+      "mapclassify; extra == \"plus\"",
+      "esda; extra == \"plus\""
+    ]
+  },
+  "momepy-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d6ebe039b7fbc20d526a4488a49f94f0e2342c3874ddb4b1aad64b85e73655b2",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "libpysal",
+        "networkx",
+        "packaging",
+        "pandas",
+        "shapely",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "geopandas >=0.12.0",
+      "libpysal >=4.12.0",
+      "networkx >=2.8",
+      "packaging",
+      "pandas >=1.5.1",
+      "shapely >=2",
+      "tqdm >=4.63.0",
+      "numba ; extra == 'plus'",
+      "inequality ; extra == 'plus'",
+      "mapclassify ; extra == 'plus'",
+      "esda ; extra == 'plus'"
+    ]
+  },
+  "momepy-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1bd339049614bbba5f323305f2d3b97eed4d6f5c4fed12edd4a45aa94f48c881",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "libpysal",
+        "networkx",
+        "packaging",
+        "pandas",
+        "shapely",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "geopandas >=0.12.0",
+      "libpysal >=4.12.0",
+      "networkx >=2.8",
+      "packaging",
+      "pandas >=1.5.1",
+      "shapely >=2",
+      "tqdm >=4.63.0",
+      "numba ; extra == 'plus'",
+      "inequality ; extra == 'plus'",
+      "mapclassify ; extra == 'plus'",
+      "esda ; extra == 'plus'"
+    ]
+  }
+}

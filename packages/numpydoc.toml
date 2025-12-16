@@ -1,0 +1,12 @@
+# Package configuration for numpydoc
+conda_forge = "numpydoc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "numpydoc-1.10.0-py3-none-any.whl" },
+  { filename = "numpydoc-1.9.0-py3-none-any.whl" },
+  { filename = "numpydoc-1.8.0-py3-none-any.whl" },
+  { filename = "numpydoc-1.7.0-py3-none-any.whl" },
+  { filename = "numpydoc-1.6.0-py3-none-any.whl" },
+]

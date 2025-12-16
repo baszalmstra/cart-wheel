@@ -1,0 +1,10 @@
+# Package configuration for aiortc
+conda_forge = "aiortc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiortc-1.14.0-py3-none-any.whl" },
+  { filename = "aiortc-1.13.0-py3-none-any.whl" },
+  { filename = "aiortc-1.12.0-py3-none-any.whl" },
+]

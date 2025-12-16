@@ -1,0 +1,8 @@
+# Package configuration for pycocoevalcap
+conda_forge = "pycocoevalcap"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pycocoevalcap-1.2-py3-none-any.whl" },
+]

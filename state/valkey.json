@@ -1,0 +1,82 @@
+{
+  "valkey-6.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2691541c6e1503b53c714ad9a35551ac9b7c0bbac93865f063dbc859a46de92",
+    "dependencies": {
+      "required": [
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout>=4.0.3; python_full_version < \"3.11.3\"",
+      "libvalkey>=4.0.1; extra == \"libvalkey\"",
+      "cryptography>=36.0.1; extra == \"ocsp\"",
+      "pyopenssl==23.2.1; extra == \"ocsp\"",
+      "requests>=2.31.0; extra == \"ocsp\""
+    ]
+  },
+  "valkey-6.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cfe769edae894f74ac946eff1e93f7d7f466032c3030ba7e9d089a742459ac9c",
+    "dependencies": {
+      "required": [
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout>=4.0.3; python_version < \"3.11.3\"",
+      "libvalkey>=4.0.1; extra == \"libvalkey\"",
+      "cryptography>=36.0.1; extra == \"ocsp\"",
+      "pyopenssl==23.2.1; extra == \"ocsp\"",
+      "requests>=2.31.0; extra == \"ocsp\""
+    ]
+  },
+  "valkey-6.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dbbdd65439ee0dc5689502c54f1899504cc7268e85cb7fe8935f062178ff5805",
+    "dependencies": {
+      "required": [
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout>=4.0.3; python_version < \"3.11.3\"",
+      "libvalkey>=4.0.0; extra == \"libvalkey\"",
+      "cryptography>=36.0.1; extra == \"ocsp\"",
+      "pyopenssl==23.2.1; extra == \"ocsp\"",
+      "requests>=2.31.0; extra == \"ocsp\""
+    ]
+  },
+  "valkey-6.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6702bf323e88e50ef0be37aad697bcc6334edd40cc66f01259265dd410fa22dc",
+    "dependencies": {
+      "required": [
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout>=4.0.3; python_version < \"3.11\"",
+      "libvalkey>=4.0.0; extra == \"libvalkey\"",
+      "cryptography>=36.0.1; extra == \"ocsp\"",
+      "pyopenssl==23.2.1; extra == \"ocsp\"",
+      "requests>=2.31.0; extra == \"ocsp\""
+    ]
+  },
+  "valkey-6.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a62519aa2ec89e04af14852dab74f482980b3b3810997718e47547717602dfd1",
+    "dependencies": {
+      "required": [
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout>=4.0.3; python_version <= \"3.12\"",
+      "libvalkey>=4.0.0; extra == \"libvalkey\"",
+      "cryptography>=36.0.1; extra == \"ocsp\"",
+      "pyopenssl==23.2.1; extra == \"ocsp\"",
+      "requests>=2.31.0; extra == \"ocsp\""
+    ]
+  }
+}

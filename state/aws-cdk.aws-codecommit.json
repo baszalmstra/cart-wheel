@@ -1,0 +1,142 @@
+{
+  "aws_cdk.aws_codecommit-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a091a7c8c740a72a6ed3d619f98147e2ea12cfade7077e24c70a4f0721fd951",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-codestarnotifications",
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-codestarnotifications (==1.204.0)",
+      "aws-cdk.aws-events (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-s3-assets (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_codecommit-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a17013789d8204ca6048580653ab8f02ced2283362df17e73b7aba6ba13cedb",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-codestarnotifications",
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-codestarnotifications (==1.203.0)",
+      "aws-cdk.aws-events (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-s3-assets (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_codecommit-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "32842ff8039df72172a29fbb24dc3e5c7b6f544a959fc6838a5cbcd12b271db5",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-codestarnotifications",
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-codestarnotifications (==1.202.0)",
+      "aws-cdk.aws-events (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-s3-assets (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_codecommit-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "895ed1b6a5756ba383773eb2ba6d7cbc380f108e7e87ae7b606ab007a2030dcf",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-codestarnotifications",
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-codestarnotifications (==1.201.0)",
+      "aws-cdk.aws-events (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-s3-assets (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_codecommit-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2faef28ab528bc72f4fb58ac64e7b66de21fef8726e4b2b31c028c24d952e72",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-codestarnotifications",
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-codestarnotifications (==1.200.0)",
+      "aws-cdk.aws-events (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-s3-assets (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

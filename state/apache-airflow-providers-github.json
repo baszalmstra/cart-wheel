@@ -1,0 +1,80 @@
+{
+  "apache_airflow_providers_github-2.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "097cf366a0daf99ca405d47be71464e0da918319e987e831a418598f40431ac6",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pygithub"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "PyGithub>=2.1.1"
+    ]
+  },
+  "apache_airflow_providers_github-2.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0f3c29f559d5b0f865a241b7f15a591bb24572c7d3ce7b833f91b1c471a7112d",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pygithub"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "PyGithub>=2.1.1"
+    ]
+  },
+  "apache_airflow_providers_github-2.9.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e797dc6d2af16e4941ba310f75a5a53f39f661e66be806bd08a515aff4012f3",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pygithub"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "PyGithub>=2.1.1"
+    ]
+  },
+  "apache_airflow_providers_github-2.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18bd8dfaa7a8c6ca328305eb1f9b85e99e2da41515989d55acafa841bf9b9930",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pygithub"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "PyGithub>=2.1.1"
+    ]
+  },
+  "apache_airflow_providers_github-2.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d388a908de8573cca3f55730e02aa6dbe9d9c5f0ad9ee04f5ae8caa878c3cc8c",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "pygithub"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "PyGithub>=2.1.1"
+    ]
+  }
+}

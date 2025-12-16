@@ -1,0 +1,11 @@
+# Package configuration for adr-tools-python
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "adr_tools_python-1.0.3-py3-none-any.whl" },
+  { filename = "adr_tools_python-1.0.2-py3-none-any.whl" },
+  { filename = "adr_tools_python-1.0.1-py3-none-any.whl" },
+  { filename = "adr_tools_python-1.0-py3-none-any.whl" },
+  { filename = "adr_tools_python-0.0.11-py3-none-any.whl" },
+]

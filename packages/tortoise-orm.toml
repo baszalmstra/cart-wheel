@@ -1,0 +1,12 @@
+# Package configuration for tortoise-orm
+conda_forge = "tortoise-orm"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tortoise_orm-0.25.1-py3-none-any.whl" },
+  { filename = "tortoise_orm-0.25.0-py3-none-any.whl" },
+  { filename = "tortoise_orm-0.24.2-py3-none-any.whl" },
+  { filename = "tortoise_orm-0.24.1-py3-none-any.whl" },
+  { filename = "tortoise_orm-0.24.0-py3-none-any.whl" },
+]

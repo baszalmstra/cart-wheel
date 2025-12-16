@@ -1,0 +1,12 @@
+# Package configuration for bump-my-version
+conda_forge = "bump-my-version"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bump_my_version-1.2.5-py3-none-any.whl" },
+  { filename = "bump_my_version-1.2.4-py3-none-any.whl" },
+  { filename = "bump_my_version-1.2.3-py3-none-any.whl" },
+  { filename = "bump_my_version-1.2.2-py3-none-any.whl" },
+  { filename = "bump_my_version-1.2.1-py3-none-any.whl" },
+]

@@ -1,0 +1,10 @@
+# Package configuration for ilt-deep-phonemizer
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ilt_deep_phonemizer-0.0.23-py3-none-any.whl" },
+  { filename = "ilt_deep_phonemizer-0.0.22-py3-none-any.whl" },
+  { filename = "ilt_deep_phonemizer-0.0.21-py3-none-any.whl" },
+  { filename = "ilt_deep_phonemizer-0.0.20-py3-none-any.whl" },
+]

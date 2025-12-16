@@ -1,0 +1,12 @@
+# Package configuration for executing
+conda_forge = "executing"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "executing-2.2.1-py2.py3-none-any.whl" },
+  { filename = "executing-2.2.0-py2.py3-none-any.whl" },
+  { filename = "executing-2.1.0-py2.py3-none-any.whl" },
+  { filename = "executing-2.0.1-py2.py3-none-any.whl" },
+  { filename = "executing-1.2.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for ansible-core
+conda_forge = "ansible-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ansible_core-2.20.1-py3-none-any.whl" },
+  { filename = "ansible_core-2.20.0-py3-none-any.whl" },
+  { filename = "ansible_core-2.19.5-py3-none-any.whl" },
+  { filename = "ansible_core-2.19.4-py3-none-any.whl" },
+  { filename = "ansible_core-2.19.3-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for azure-mgmt-subscription
+conda_forge = "azure-mgmt-subscription"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_mgmt_subscription-3.1.1-py3-none-any.whl" },
+  { filename = "azure_mgmt_subscription-3.1.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_subscription-3.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_subscription-2.0.0-py2.py3-none-any.whl" },
+  { filename = "azure_mgmt_subscription-1.0.0-py2.py3-none-any.whl" },
+]

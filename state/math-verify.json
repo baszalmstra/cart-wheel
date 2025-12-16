@@ -1,0 +1,91 @@
+{
+  "math_verify-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31ca651296d817a9bb3fd58ca1fd0d192dcea709b1e5ecf2d0a4514c16f89087",
+    "dependencies": {
+      "required": [
+        "latex2sympy2-extended"
+      ]
+    },
+    "original_requirements": [
+      "latex2sympy2_extended==1.10.2",
+      "lighteval[math]; extra == \"inference\"",
+      "pytest; extra == \"test\"",
+      "ruff; extra == \"format\"",
+      "math-verify[test]; extra == \"dev\"",
+      "math-verify[format]; extra == \"dev\"",
+      "latex2sympy2_extended[antlr4_9_3]; extra == \"antlr4-9-3\"",
+      "latex2sympy2_extended[antlr4_11_0]; extra == \"antlr4-11-0\"",
+      "latex2sympy2_extended[antlr4_13_2]; extra == \"antlr4-13-2\""
+    ]
+  },
+  "math_verify-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bbdd491b511f6ceef27c5e08543affa1735807b6e3abb6f005bf493dc0eb485b",
+    "dependencies": {
+      "required": [
+        "latex2sympy2-extended"
+      ]
+    },
+    "original_requirements": [
+      "latex2sympy2_extended==1.10.1",
+      "lighteval[math]; extra == \"inference\"",
+      "pytest; extra == \"test\"",
+      "ruff; extra == \"format\"",
+      "math-verify[test]; extra == \"dev\"",
+      "math-verify[format]; extra == \"dev\"",
+      "latex2sympy2_extended[antlr4_9_3]; extra == \"antlr4-9-3\"",
+      "latex2sympy2_extended[antlr4_11_0]; extra == \"antlr4-11-0\"",
+      "latex2sympy2_extended[antlr4_13_2]; extra == \"antlr4-13-2\""
+    ]
+  },
+  "math_verify-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1fb44d7e721c61759219a8538f208cff5228f12776c8e3c90171e51c7585e74a",
+    "dependencies": {
+      "required": [
+        "latex2sympy2-extended"
+      ]
+    },
+    "original_requirements": [
+      "latex2sympy2_extended==1.10.1",
+      "lighteval[math]; extra == \"inference\"",
+      "pytest; extra == \"test\"",
+      "ruff; extra == \"format\"",
+      "math-verify[test]; extra == \"dev\"",
+      "math-verify[format]; extra == \"dev\"",
+      "latex2sympy2_extended[antlr4_9_3]; extra == \"antlr4-9-3\"",
+      "latex2sympy2_extended[antlr4_11_0]; extra == \"antlr4-11-0\"",
+      "latex2sympy2_extended[antlr4_13_2]; extra == \"antlr4-13-2\""
+    ]
+  },
+  "math_verify-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "75293f5f867cec892faedc0df4a03cd2124629504d3e175c437234708cba0353",
+    "dependencies": {
+      "required": [
+        "latex2sympy2-extended"
+      ]
+    },
+    "original_requirements": [
+      "latex2sympy2_extended==1.0.9",
+      "lighteval[math]; extra == \"inference\"",
+      "latex2sympy2_extended[antlr4_9_3]; extra == \"antlr4-9-3\"",
+      "latex2sympy2_extended[antlr4_11_0]; extra == \"antlr4-11-0\"",
+      "latex2sympy2_extended[antlr4_13_2]; extra == \"antlr4-13-2\""
+    ]
+  },
+  "math_verify-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "86eeb93a6a004c74e22ebc6980c6f8b8aed8f30eca46c712d43cbcd09f83aff2",
+    "dependencies": {
+      "required": [
+        "latex2sympy2-extended"
+      ]
+    },
+    "original_requirements": [
+      "latex2sympy2_extended==1.0.6",
+      "lighteval[accelerate]; extra == \"inference\""
+    ]
+  }
+}

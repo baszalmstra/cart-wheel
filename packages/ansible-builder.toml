@@ -1,0 +1,11 @@
+# Package configuration for ansible-builder
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ansible_builder-3.1.1-py3-none-any.whl" },
+  { filename = "ansible_builder-3.1.0-py3-none-any.whl" },
+  { filename = "ansible_builder-3.0.1-py3-none-any.whl" },
+  { filename = "ansible_builder-3.0.0-py3-none-any.whl" },
+  { filename = "ansible_builder-1.2.0-py3-none-any.whl" },
+]

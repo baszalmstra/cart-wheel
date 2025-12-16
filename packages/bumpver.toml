@@ -1,0 +1,12 @@
+# Package configuration for bumpver
+conda_forge = "bumpver"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bumpver-2025.1131-py2.py3-none-any.whl" },
+  { filename = "bumpver-2024.1130-py2.py3-none-any.whl" },
+  { filename = "bumpver-2023.1129-py2.py3-none-any.whl" },
+  { filename = "bumpver-2023.1127-py2.py3-none-any.whl" },
+  { filename = "bumpver-2023.1126-py2.py3-none-any.whl" },
+]

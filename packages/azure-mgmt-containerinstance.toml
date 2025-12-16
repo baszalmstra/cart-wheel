@@ -1,0 +1,12 @@
+# Package configuration for azure-mgmt-containerinstance
+conda_forge = "azure-mgmt-containerinstance"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_mgmt_containerinstance-10.1.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_containerinstance-10.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_containerinstance-9.2.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_containerinstance-9.1.0-py2.py3-none-any.whl" },
+  { filename = "azure_mgmt_containerinstance-9.0.0-py2.py3-none-any.whl" },
+]

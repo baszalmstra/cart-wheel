@@ -1,0 +1,82 @@
+{
+  "pyobjc_framework_linkpresentation-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "853a84c7b525b77b114a7a8d798aef83f528ed3a6803bda12184fe5af4e79a47",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-quartz"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1",
+      "pyobjc-framework-Quartz>=12.1"
+    ]
+  },
+  "pyobjc_framework_linkpresentation-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d895cada661657c3d43525372ab38294352cceba7a007ee8464af5ce822153c7",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-quartz"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0",
+      "pyobjc-framework-Quartz>=12.0"
+    ]
+  },
+  "pyobjc_framework_linkpresentation-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "018093469d780a45d98f4e159f1ea90771caec456b1599abcc6f3bf3c6873094",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-quartz"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1",
+      "pyobjc-framework-Quartz>=11.1"
+    ]
+  },
+  "pyobjc_framework_LinkPresentation-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c10ee1ac48bb7cd2d67ade7f354ec71af1f4244a8deb8530ba646fd4ba327b21",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-quartz"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0",
+      "pyobjc-framework-Quartz >=11.0"
+    ]
+  },
+  "pyobjc_framework_LinkPresentation-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0222073074c74a9985b4f655ec1caeb9dde7a62143ea0c0575e2a5640589ee9",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-quartz"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2",
+      "pyobjc-framework-Quartz>=10.3.2"
+    ]
+  }
+}

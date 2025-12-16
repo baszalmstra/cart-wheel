@@ -1,0 +1,12 @@
+# Package configuration for pytest-doctestplus
+conda_forge = "pytest-doctestplus"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_doctestplus-1.6.0-py3-none-any.whl" },
+  { filename = "pytest_doctestplus-1.5.0-py3-none-any.whl" },
+  { filename = "pytest_doctestplus-1.4.0-py3-none-any.whl" },
+  { filename = "pytest_doctestplus-1.3.0-py3-none-any.whl" },
+  { filename = "pytest_doctestplus-1.2.1-py3-none-any.whl" },
+]

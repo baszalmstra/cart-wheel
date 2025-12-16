@@ -1,0 +1,7 @@
+# Package configuration for open3d-python
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "open3d_python-0.3.0.0-py2.py3-none-any.whl" },
+]

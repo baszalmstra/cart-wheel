@@ -1,0 +1,12 @@
+# Package configuration for recommonmark
+conda_forge = "recommonmark"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "recommonmark-0.7.1-py2.py3-none-any.whl" },
+  { filename = "recommonmark-0.7.0-py2.py3-none-any.whl" },
+  { filename = "recommonmark-0.6.0-py2.py3-none-any.whl" },
+  { filename = "recommonmark-0.5.0-py2.py3-none-any.whl" },
+  { filename = "recommonmark-0.4.0-py2.py3-none-any.whl" },
+]

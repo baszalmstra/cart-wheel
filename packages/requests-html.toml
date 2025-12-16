@@ -1,0 +1,12 @@
+# Package configuration for requests-html
+conda_forge = "requests-html"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "requests_html-0.10.0-py3-none-any.whl" },
+  { filename = "requests_html-0.9.0-py2.py3-none-any.whl" },
+  { filename = "requests_html-0.8.4-py2.py3-none-any.whl" },
+  { filename = "requests_html-0.8.3-py2.py3-none-any.whl" },
+  { filename = "requests_html-0.8.2-py2.py3-none-any.whl" },
+]

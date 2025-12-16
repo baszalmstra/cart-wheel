@@ -1,0 +1,107 @@
+{
+  "stack_data-0.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d5558e0c25a4cb0853cddad3d77da9891a08cb85dd9f9f91b9f8cd66e511e695",
+    "dependencies": {
+      "required": [
+        "executing",
+        "asttokens",
+        "pure-eval"
+      ]
+    },
+    "original_requirements": [
+      "executing >=1.2.0",
+      "asttokens >=2.1.0",
+      "pure-eval",
+      "pytest ; extra == 'tests'",
+      "typeguard ; extra == 'tests'",
+      "pygments ; extra == 'tests'",
+      "littleutils ; extra == 'tests'",
+      "cython ; extra == 'tests'"
+    ]
+  },
+  "stack_data-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cbb2a53eb64e5785878201a97ed7c7b94883f48b87bfb0bbe8b623c74679e4a8",
+    "dependencies": {
+      "required": [
+        "executing",
+        "asttokens",
+        "pure-eval"
+      ]
+    },
+    "original_requirements": [
+      "executing (>=1.2.0)",
+      "asttokens (>=2.1.0)",
+      "pure-eval",
+      "pytest ; extra == 'tests'",
+      "typeguard ; extra == 'tests'",
+      "pygments ; extra == 'tests'",
+      "littleutils ; extra == 'tests'",
+      "cython ; extra == 'tests'"
+    ]
+  },
+  "stack_data-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "960cb054d6a1b2fdd9cbd529e365b3c163e8dabf1272e02cfe36b58403cff5c6",
+    "dependencies": {
+      "required": [
+        "executing",
+        "asttokens",
+        "pure-eval"
+      ]
+    },
+    "original_requirements": [
+      "executing (>=1.2.0)",
+      "asttokens (>=2.1.0)",
+      "pure-eval",
+      "pytest ; extra == 'tests'",
+      "typeguard ; extra == 'tests'",
+      "pygments ; extra == 'tests'",
+      "littleutils ; extra == 'tests'",
+      "cython ; extra == 'tests'"
+    ]
+  },
+  "stack_data-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b92d206ef355a367d14316b786ab41cb99eb453a21f2cb216a4204625ff7bc07",
+    "dependencies": {
+      "required": [
+        "executing",
+        "asttokens",
+        "pure-eval"
+      ]
+    },
+    "original_requirements": [
+      "executing (>=1.2.0)",
+      "asttokens (>=2.1.0)",
+      "pure-eval",
+      "pytest ; extra == 'tests'",
+      "typeguard ; extra == 'tests'",
+      "pygments ; extra == 'tests'",
+      "littleutils ; extra == 'tests'",
+      "cython ; extra == 'tests'"
+    ]
+  },
+  "stack_data-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5120731a18ba4c82cefcf84a945f6f3e62319ef413bfc210e32aca3a69310ba2",
+    "dependencies": {
+      "required": [
+        "executing",
+        "asttokens",
+        "pure-eval"
+      ]
+    },
+    "original_requirements": [
+      "executing",
+      "asttokens",
+      "pure-eval",
+      "pytest ; extra == 'tests'",
+      "typeguard ; extra == 'tests'",
+      "pygments ; extra == 'tests'",
+      "littleutils ; extra == 'tests'",
+      "cython ; extra == 'tests'"
+    ]
+  }
+}

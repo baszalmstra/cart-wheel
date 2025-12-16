@@ -1,0 +1,7 @@
+# Package configuration for torch-neuronx
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torch_neuronx-1.0-py3-none-any.whl" },
+]

@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_metalperformanceshadersgraph-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85a1c7a6114ada05c7924b3235a1a98c45359410d148097488f15aee5ebb6ab9",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-metalperformanceshaders"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-MetalPerformanceShaders>=12.1"
+    ]
+  },
+  "pyobjc_framework_metalperformanceshadersgraph-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e8f978d733e911fff61b212a27553142596edd53b80a630b20a0db06f59a601",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-metalperformanceshaders"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-MetalPerformanceShaders>=12.0"
+    ]
+  },
+  "pyobjc_framework_metalperformanceshadersgraph-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b8b014e8301c2ae608a25f73bbf23c8f3f73a6f5fdbafddad509a21b84df681",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-metalperformanceshaders"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-MetalPerformanceShaders>=11.1"
+    ]
+  },
+  "pyobjc_framework_MetalPerformanceShadersGraph-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d48ffe401fbc8273a23e908685635a51c64d4ebfb5ad32742664ab9fac6c5194",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-metalperformanceshaders"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-MetalPerformanceShaders >=11.0"
+    ]
+  },
+  "pyobjc_framework_MetalPerformanceShadersGraph-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b9b8f0ec18a299e095c79eacfc36ce6f2546a14462cf702efb8a9ec1954fc6e9",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-metalperformanceshaders"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-MetalPerformanceShaders>=10.3.2"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+# Package configuration for pyyaml-env-tag
+conda_forge = "pyyaml-env-tag"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyyaml_env_tag-1.1-py3-none-any.whl" },
+  { filename = "pyyaml_env_tag-1.0-py3-none-any.whl" },
+  { filename = "pyyaml_env_tag-0.1-py3-none-any.whl" },
+]

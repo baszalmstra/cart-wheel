@@ -1,0 +1,8 @@
+# Package configuration for types-aiobotocore-signin
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_signin-3.0.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_signin-2.26.0-py3-none-any.whl" },
+]

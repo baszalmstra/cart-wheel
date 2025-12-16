@@ -1,0 +1,11 @@
+# Package configuration for kokoro-onnx
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kokoro_onnx-0.4.9-py3-none-any.whl" },
+  { filename = "kokoro_onnx-0.4.8-py3-none-any.whl" },
+  { filename = "kokoro_onnx-0.4.7-py3-none-any.whl" },
+  { filename = "kokoro_onnx-0.4.6-py3-none-any.whl" },
+  { filename = "kokoro_onnx-0.4.5-py3-none-any.whl" },
+]

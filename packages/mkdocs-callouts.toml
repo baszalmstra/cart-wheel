@@ -1,0 +1,11 @@
+# Package configuration for mkdocs-callouts
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_callouts-1.16.0-py3-none-any.whl" },
+  { filename = "mkdocs_callouts-1.15.0-py3-none-any.whl" },
+  { filename = "mkdocs_callouts-1.14.1-py3-none-any.whl" },
+  { filename = "mkdocs_callouts-1.14.0-py3-none-any.whl" },
+  { filename = "mkdocs_callouts-1.13.2-py3-none-any.whl" },
+]

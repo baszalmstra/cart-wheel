@@ -1,0 +1,12 @@
+# Package configuration for llama-index-multi-modal-llms-openai
+conda_forge = "llama-index-multi-modal-llms-openai"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "llama_index_multi_modal_llms_openai-0.6.2-py3-none-any.whl" },
+  { filename = "llama_index_multi_modal_llms_openai-0.6.1-py3-none-any.whl" },
+  { filename = "llama_index_multi_modal_llms_openai-0.6.0-py3-none-any.whl" },
+  { filename = "llama_index_multi_modal_llms_openai-0.5.3-py3-none-any.whl" },
+  { filename = "llama_index_multi_modal_llms_openai-0.5.1-py3-none-any.whl" },
+]

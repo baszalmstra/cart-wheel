@@ -1,0 +1,12 @@
+# Package configuration for ibis-framework
+conda_forge = "ibis-clickhouse"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ibis_framework-11.0.0-py3-none-any.whl" },
+  { filename = "ibis_framework-10.8.0-py3-none-any.whl" },
+  { filename = "ibis_framework-10.7.0-py3-none-any.whl" },
+  { filename = "ibis_framework-10.6.0-py3-none-any.whl" },
+  { filename = "ibis_framework-10.5.0-py3-none-any.whl" },
+]

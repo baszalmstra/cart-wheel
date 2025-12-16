@@ -1,0 +1,145 @@
+{
+  "gepa-0.0.22-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff57ee0442399a5cc62d01411935476bc80cfa8f1c318bed82e3db4c2c834665",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "litellm>=1.64.0; extra == \"full\"",
+      "datasets>=2.14.6; extra == \"full\"",
+      "mlflow>=3.0.0; extra == \"full\"",
+      "wandb; extra == \"full\"",
+      "tqdm>=4.66.1; extra == \"full\"",
+      "gepa[full]; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pyright; extra == \"test\"",
+      "setuptools>=77.0.1; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "build; extra == \"build\"",
+      "twine; extra == \"build\"",
+      "semver; extra == \"build\"",
+      "packaging; extra == \"build\"",
+      "requests; extra == \"build\"",
+      "gepa[test]; extra == \"dev\"",
+      "gepa[build]; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "build>=1.0.3; extra == \"dev\"",
+      "ruff>=0.3.0; extra == \"dev\""
+    ]
+  },
+  "gepa-0.0.21-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "304db8288724bad6a401c816291c470ac81f585ba0c9bcc93124ac1b2f8307ec",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "litellm>=1.64.0; extra == \"full\"",
+      "datasets>=2.14.6; extra == \"full\"",
+      "mlflow>=3.0.0; extra == \"full\"",
+      "wandb; extra == \"full\"",
+      "tqdm>=4.66.1; extra == \"full\"",
+      "gepa[full]; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pyright; extra == \"test\"",
+      "setuptools>=77.0.1; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "build; extra == \"build\"",
+      "twine; extra == \"build\"",
+      "semver; extra == \"build\"",
+      "packaging; extra == \"build\"",
+      "requests; extra == \"build\"",
+      "gepa[test]; extra == \"dev\"",
+      "gepa[build]; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "build>=1.0.3; extra == \"dev\"",
+      "ruff>=0.3.0; extra == \"dev\""
+    ]
+  },
+  "gepa-0.0.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec6e6acf8b641ecf27720803afce363c41c04c790eaeab55532ab2406c4c523c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "litellm>=1.64.0; extra == \"full\"",
+      "datasets>=2.14.6; extra == \"full\"",
+      "mlflow>=3.0.0; extra == \"full\"",
+      "wandb; extra == \"full\"",
+      "tqdm>=4.66.1; extra == \"full\"",
+      "gepa[full]; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pyright; extra == \"test\"",
+      "setuptools>=77.0.1; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "build; extra == \"build\"",
+      "twine; extra == \"build\"",
+      "semver; extra == \"build\"",
+      "packaging; extra == \"build\"",
+      "requests; extra == \"build\"",
+      "gepa[test]; extra == \"dev\"",
+      "gepa[build]; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "build>=1.0.3; extra == \"dev\"",
+      "ruff>=0.3.0; extra == \"dev\""
+    ]
+  },
+  "gepa-0.0.19-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b64535c29ad69777dc068d85f5945ed733bcb3d3bf34b021befdb0b1e481e80",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "litellm>=1.64.0; extra == \"full\"",
+      "datasets>=2.14.6; extra == \"full\"",
+      "mlflow>=3.0.0; extra == \"full\"",
+      "wandb; extra == \"full\"",
+      "tqdm>=4.66.1; extra == \"full\"",
+      "gepa[full]; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "setuptools>=77.0.1; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "build; extra == \"build\"",
+      "twine; extra == \"build\"",
+      "semver; extra == \"build\"",
+      "packaging; extra == \"build\"",
+      "requests; extra == \"build\"",
+      "gepa[test]; extra == \"dev\"",
+      "gepa[build]; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "build>=1.0.3; extra == \"dev\"",
+      "ruff>=0.3.0; extra == \"dev\""
+    ]
+  },
+  "gepa-0.0.18-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ca0ddf05610cdd6b1d37a778e0963069dbba1c3075a188ac15236847d4ad2b7",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "litellm>=1.64.0; extra == \"full\"",
+      "datasets>=2.14.6; extra == \"full\"",
+      "mlflow>=3.0.0; extra == \"full\"",
+      "wandb; extra == \"full\"",
+      "tqdm>=4.66.1; extra == \"full\"",
+      "gepa[full]; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "setuptools>=77.0.1; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "build; extra == \"build\"",
+      "twine; extra == \"build\"",
+      "semver; extra == \"build\"",
+      "packaging; extra == \"build\"",
+      "requests; extra == \"build\"",
+      "gepa[test]; extra == \"dev\"",
+      "gepa[build]; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "build>=1.0.3; extra == \"dev\"",
+      "ruff>=0.3.0; extra == \"dev\""
+    ]
+  }
+}

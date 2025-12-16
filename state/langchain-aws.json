@@ -1,0 +1,117 @@
+{
+  "langchain_aws-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ec074615b42839e035354063717374c32c63f5028ef5221ba073fd5f3ef5e37",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "langchain-core",
+        "numpy",
+        "numpy",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "boto3>=1.40.19",
+      "langchain-core>=1.1.0",
+      "numpy<3,>=1.0.0; python_version < '3.12'",
+      "numpy<3,>=2.3.2; python_version >= '3.12'",
+      "pydantic<3,>=2.10.6",
+      "beautifulsoup4>=4.13.4; extra == 'tools'",
+      "bedrock-agentcore>=0.1.0; (python_version >= '3.10') and extra == 'tools'",
+      "playwright>=1.53.0; extra == 'tools'"
+    ]
+  },
+  "langchain_aws-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "68f6965b5030d0779b02e731ce1c910a5f4518bfe0e2ae82999a5342bc46dbd5",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "boto3",
+        "pydantic",
+        "numpy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=1.0.0",
+      "boto3>=1.40.19",
+      "pydantic<3,>=2.10.6",
+      "numpy<3,>=2.3.2; python_version >= \"3.12\"",
+      "numpy<3,>=1.0.0; python_version < \"3.12\"",
+      "bedrock-agentcore>=0.1.0; python_version >= \"3.10\" and extra == \"tools\"",
+      "playwright>=1.53.0; extra == \"tools\"",
+      "beautifulsoup4>=4.13.4; extra == \"tools\""
+    ]
+  },
+  "langchain_aws-0.2.35-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ddb10f3c29f6d52bcbaa4d7f4f56462acf01f608adc7c70f41e5a476899a6bc",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "langchain-core",
+        "numpy",
+        "numpy",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4 (>=4.13.4) ; extra == \"tools\"",
+      "bedrock-agentcore (>=0.1.0) ; (python_version >= \"3.10\") and (extra == \"tools\")",
+      "boto3 (>=1.39.7)",
+      "langchain-core (>=0.3.76,<0.4.0)",
+      "numpy (>=1,<2) ; python_version < \"3.12\"",
+      "numpy (>=1.26.0,<3) ; python_version >= \"3.12\"",
+      "playwright (>=1.53.0) ; extra == \"tools\"",
+      "pydantic (>=2.10.0,<3)"
+    ]
+  },
+  "langchain_aws-0.2.34-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08091265eed7577e0daaaba7b1e262ba0b31d7bb7b9da2bf7841b33a5c9c8cd1",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "langchain-core",
+        "numpy",
+        "numpy",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4 (>=4.13.4) ; extra == \"tools\"",
+      "bedrock-agentcore (>=0.1.0) ; (python_version >= \"3.10\") and (extra == \"tools\")",
+      "boto3 (>=1.39.7)",
+      "langchain-core (>=0.3.76,<0.4.0)",
+      "numpy (>=1,<2) ; python_version < \"3.12\"",
+      "numpy (>=1.26.0,<3) ; python_version >= \"3.12\"",
+      "playwright (>=1.53.0) ; extra == \"tools\"",
+      "pydantic (>=2.10.0,<3)"
+    ]
+  },
+  "langchain_aws-0.2.33-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "92c0b4ddcc5e789b3d61cdf20556aeb75ca5a61e8431356f429227bb2760ca39",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "langchain-core",
+        "numpy",
+        "numpy",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4 (>=4.13.4) ; extra == \"tools\"",
+      "bedrock-agentcore (>=0.1.0) ; (python_version >= \"3.10\") and (extra == \"tools\")",
+      "boto3 (>=1.39.7)",
+      "langchain-core (>=0.3.76,<0.4.0)",
+      "numpy (>=1,<2) ; python_version < \"3.12\"",
+      "numpy (>=1.26.0,<3) ; python_version >= \"3.12\"",
+      "playwright (>=1.53.0) ; extra == \"tools\"",
+      "pydantic (>=2.10.0,<3)"
+    ]
+  }
+}

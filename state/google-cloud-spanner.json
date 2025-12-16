@@ -1,0 +1,173 @@
+{
+  "google_cloud_spanner-3.60.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aab1cbf3903ec4102e82372a5af75d64edd831cd1591243b970b61f5c2901a97",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-cloud-core",
+        "grpc-google-iam-v1",
+        "proto-plus",
+        "sqlparse",
+        "proto-plus",
+        "protobuf",
+        "grpc-interceptor",
+        "opentelemetry-api",
+        "opentelemetry-sdk",
+        "opentelemetry-semantic-conventions",
+        "opentelemetry-resourcedetector-gcp",
+        "google-cloud-monitoring",
+        "mmh3"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.0",
+      "google-cloud-core<3.0.0,>=1.4.4",
+      "grpc-google-iam-v1<1.0.0,>=0.12.4",
+      "proto-plus<2.0.0,>=1.22.0",
+      "sqlparse>=0.4.4",
+      "proto-plus<2.0.0,>=1.22.2; python_version >= \"3.11\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "grpc-interceptor>=0.15.4",
+      "opentelemetry-api>=1.22.0",
+      "opentelemetry-sdk>=1.22.0",
+      "opentelemetry-semantic-conventions>=0.43b0",
+      "opentelemetry-resourcedetector-gcp>=1.8.0a0",
+      "google-cloud-monitoring>=2.16.0",
+      "mmh3>=4.1.0",
+      "libcst>=0.2.5; extra == \"libcst\""
+    ]
+  },
+  "google_cloud_spanner-3.59.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "409ed9746787c9435fd015731a5e3cf6f3ea2995a807c580f4216bb5d464260a",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-cloud-core",
+        "grpc-google-iam-v1",
+        "proto-plus",
+        "sqlparse",
+        "proto-plus",
+        "protobuf",
+        "grpc-interceptor"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.0",
+      "google-cloud-core<3.0.0,>=1.4.4",
+      "grpc-google-iam-v1<1.0.0,>=0.12.4",
+      "proto-plus<2.0.0,>=1.22.0",
+      "sqlparse>=0.4.4",
+      "proto-plus<2.0.0,>=1.22.2; python_version >= \"3.11\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "grpc-interceptor>=0.15.4",
+      "opentelemetry-api>=1.22.0; extra == \"tracing\"",
+      "opentelemetry-sdk>=1.22.0; extra == \"tracing\"",
+      "opentelemetry-semantic-conventions>=0.43b0; extra == \"tracing\"",
+      "opentelemetry-resourcedetector-gcp>=1.8.0a0; extra == \"tracing\"",
+      "google-cloud-monitoring>=2.16.0; extra == \"tracing\"",
+      "mmh3>=4.1.0; extra == \"tracing\"",
+      "libcst>=0.2.5; extra == \"libcst\""
+    ]
+  },
+  "google_cloud_spanner-3.58.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db1c632ac5d0a1188cfe45b31db416120d3e0b07e885d0443a398c99e9fec542",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-cloud-core",
+        "grpc-google-iam-v1",
+        "proto-plus",
+        "sqlparse",
+        "proto-plus",
+        "protobuf",
+        "grpc-interceptor"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.0",
+      "google-cloud-core<3.0.0,>=1.4.4",
+      "grpc-google-iam-v1<1.0.0,>=0.12.4",
+      "proto-plus<2.0.0,>=1.22.0",
+      "sqlparse>=0.4.4",
+      "proto-plus<2.0.0,>=1.22.2; python_version >= \"3.11\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "grpc-interceptor>=0.15.4",
+      "opentelemetry-api>=1.22.0; extra == \"tracing\"",
+      "opentelemetry-sdk>=1.22.0; extra == \"tracing\"",
+      "opentelemetry-semantic-conventions>=0.43b0; extra == \"tracing\"",
+      "opentelemetry-resourcedetector-gcp>=1.8.0a0; extra == \"tracing\"",
+      "google-cloud-monitoring>=2.16.0; extra == \"tracing\"",
+      "mmh3>=4.1.0; extra == \"tracing\"",
+      "libcst>=0.2.5; extra == \"libcst\""
+    ]
+  },
+  "google_cloud_spanner-3.57.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b10b40bc646091f1b4cbb2e7e2e82ec66bcce52c7105f86b65070d34d6df86f",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-cloud-core",
+        "grpc-google-iam-v1",
+        "proto-plus",
+        "sqlparse",
+        "proto-plus",
+        "protobuf",
+        "grpc-interceptor"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.0",
+      "google-cloud-core<3.0.0,>=1.4.4",
+      "grpc-google-iam-v1<1.0.0,>=0.12.4",
+      "proto-plus<2.0.0,>=1.22.0",
+      "sqlparse>=0.4.4",
+      "proto-plus<2.0.0,>=1.22.2; python_version >= \"3.11\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "grpc-interceptor>=0.15.4",
+      "opentelemetry-api>=1.22.0; extra == \"tracing\"",
+      "opentelemetry-sdk>=1.22.0; extra == \"tracing\"",
+      "opentelemetry-semantic-conventions>=0.43b0; extra == \"tracing\"",
+      "opentelemetry-resourcedetector-gcp>=1.8.0a0; extra == \"tracing\"",
+      "google-cloud-monitoring>=2.16.0; extra == \"tracing\"",
+      "mmh3>=4.1.0; extra == \"tracing\"",
+      "libcst>=0.2.5; extra == \"libcst\""
+    ]
+  },
+  "google_cloud_spanner-3.56.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "64f732a44f6a2892b5cc3be88e6e2cc92b5e52db883d1e946e1e3ff93c9745f0",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-cloud-core",
+        "grpc-google-iam-v1",
+        "proto-plus",
+        "sqlparse",
+        "proto-plus",
+        "protobuf",
+        "grpc-interceptor"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.0",
+      "google-cloud-core<3.0.0,>=1.4.4",
+      "grpc-google-iam-v1<1.0.0,>=0.12.4",
+      "proto-plus<2.0.0,>=1.22.0",
+      "sqlparse>=0.4.4",
+      "proto-plus<2.0.0,>=1.22.2; python_version >= \"3.11\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "grpc-interceptor>=0.15.4",
+      "opentelemetry-api>=1.22.0; extra == \"tracing\"",
+      "opentelemetry-sdk>=1.22.0; extra == \"tracing\"",
+      "opentelemetry-semantic-conventions>=0.43b0; extra == \"tracing\"",
+      "opentelemetry-resourcedetector-gcp>=1.8.0a0; extra == \"tracing\"",
+      "google-cloud-monitoring>=2.16.0; extra == \"tracing\"",
+      "mmh3>=4.1.0; extra == \"tracing\"",
+      "libcst>=0.2.5; extra == \"libcst\""
+    ]
+  }
+}

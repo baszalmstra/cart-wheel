@@ -1,0 +1,117 @@
+{
+  "cyclonedx_python_lib-11.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94f4aae97db42a452134dafdddcfab9745324198201c4777ed131e64c8380759",
+    "dependencies": {
+      "required": [
+        "license-expression",
+        "packageurl-python",
+        "py-serializable",
+        "sortedcontainers",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema[format-nongpl] (>=4.25,<5.0) ; extra == \"validation\" or extra == \"json-validation\"",
+      "license-expression (>=30,<31)",
+      "lxml (>=4,<7) ; extra == \"validation\" or extra == \"xml-validation\"",
+      "packageurl-python (>=0.11,<2)",
+      "py-serializable (>=2.1.0,<3.0.0)",
+      "referencing (>=0.28.4) ; extra == \"validation\" or extra == \"json-validation\"",
+      "sortedcontainers (>=2.4.0,<3.0.0)",
+      "typing_extensions (>=4.6,<5.0) ; python_version < \"3.13\""
+    ]
+  },
+  "cyclonedx_python_lib-11.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5cca5b444421d39a83b45fcab24ed3e90cafaca97b89fc45cb10d2516bd2d79d",
+    "dependencies": {
+      "required": [
+        "license-expression",
+        "packageurl-python",
+        "py-serializable",
+        "sortedcontainers",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema[format-nongpl] (>=4.25,<5.0) ; extra == \"validation\" or extra == \"json-validation\"",
+      "license-expression (>=30,<31)",
+      "lxml (>=4,<7) ; extra == \"validation\" or extra == \"xml-validation\"",
+      "packageurl-python (>=0.11,<2)",
+      "py-serializable (>=2.1.0,<3.0.0)",
+      "referencing (>=0.28.4) ; extra == \"validation\" or extra == \"json-validation\"",
+      "sortedcontainers (>=2.4.0,<3.0.0)",
+      "typing_extensions (>=4.6,<5.0) ; python_version < \"3.13\""
+    ]
+  },
+  "cyclonedx_python_lib-11.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "98a2b05da0f203379bd169b8d369075db7b3b5d5c812c05c1b5ebe40ad0305bc",
+    "dependencies": {
+      "required": [
+        "license-expression",
+        "packageurl-python",
+        "py-serializable",
+        "sortedcontainers",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema[format-nongpl] (>=4.25,<5.0) ; extra == \"validation\" or extra == \"json-validation\"",
+      "license-expression (>=30,<31)",
+      "lxml (>=4,<7) ; extra == \"validation\" or extra == \"xml-validation\"",
+      "packageurl-python (>=0.11,<2)",
+      "py-serializable (>=2.1.0,<3.0.0)",
+      "referencing (>=0.28.4) ; extra == \"validation\" or extra == \"json-validation\"",
+      "sortedcontainers (>=2.4.0,<3.0.0)",
+      "typing_extensions (>=4.6,<5.0) ; python_version < \"3.13\""
+    ]
+  },
+  "cyclonedx_python_lib-11.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08094495d0cbbaddbe605f60f6e48ae98d29263386d7926df83ffe9bdea55f78",
+    "dependencies": {
+      "required": [
+        "license-expression",
+        "packageurl-python",
+        "py-serializable",
+        "sortedcontainers",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema[format-nongpl] (>=4.25,<5.0) ; extra == \"validation\" or extra == \"json-validation\"",
+      "license-expression (>=30,<31)",
+      "lxml (>=4,<7) ; extra == \"validation\" or extra == \"xml-validation\"",
+      "packageurl-python (>=0.11,<2)",
+      "py-serializable (>=2.1.0,<3.0.0)",
+      "referencing (>=0.28.4) ; extra == \"validation\" or extra == \"json-validation\"",
+      "sortedcontainers (>=2.4.0,<3.0.0)",
+      "typing_extensions (>=4.6,<5.0) ; python_version < \"3.13\""
+    ]
+  },
+  "cyclonedx_python_lib-11.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94842258700a54000b23331b0aeabb8578d5fadf0f9abd80af33715bb01b36b1",
+    "dependencies": {
+      "required": [
+        "license-expression",
+        "packageurl-python",
+        "py-serializable",
+        "sortedcontainers",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema[format-nongpl] (>=4.25,<5.0) ; extra == \"validation\" or extra == \"json-validation\"",
+      "license-expression (>=30,<31)",
+      "lxml (>=4,<7) ; extra == \"validation\" or extra == \"xml-validation\"",
+      "packageurl-python (>=0.11,<2)",
+      "py-serializable (>=2.1.0,<3.0.0)",
+      "referencing (>=0.28.4) ; extra == \"validation\" or extra == \"json-validation\"",
+      "sortedcontainers (>=2.4.0,<3.0.0)",
+      "typing_extensions (>=4.6,<5.0) ; python_version < \"3.13\""
+    ]
+  }
+}

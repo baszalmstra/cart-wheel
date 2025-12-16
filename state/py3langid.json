@@ -1,0 +1,66 @@
+{
+  "py3langid-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38f022eec31cf9a2bf6f142acb2a9b350fd7d0d5ae7762b1392c6d3567401fd3",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.24.3 ; python_version == \"3.8\"",
+      "numpy >=2.0.0 ; python_version >= \"3.9\"",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'"
+    ]
+  },
+  "py3langid-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a5460ccc565c7b6a7a0e72f42236900b810e73c065a1b769a69fa9d9cff13f00",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy"
+    ]
+  },
+  "py3langid-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "558aab1f371bebf988c1ad166a39bb3fb9855679a31d39b00a3377005aca3096",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy"
+    ]
+  },
+  "py3langid-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "96751e5a7bfc6252a688a2cb2b64f529d2b55b2a6feae57daf5ffd69a95e3280",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy"
+    ]
+  },
+  "py3langid-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e30f67fbcd152d17f2783498e3247e1640539e7ff8fe9a85c7ca61f32a893108",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy"
+    ]
+  }
+}

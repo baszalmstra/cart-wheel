@@ -1,0 +1,40 @@
+{
+  "pyrfc3339-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "560f3f972e339f579513fe1396974352fd575ef27caff160a38b312252fcddf3",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "pyRFC3339-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30b70a366acac3df7386b558c21af871522560ed7f3f73cf344b8c2cbb8b0c9d",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "pyRFC3339-1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67196cb83b470709c580bb4738b83165e67c6cc60e1f2e4f286cfcb402a926f4",
+    "dependencies": {
+      "required": [
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "pytz"
+    ]
+  },
+  "pyRFC3339-1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eea31835c56e2096af4363a5745a784878a61d043e247d3a6d6a0a32a9741f56",
+    "dependencies": {
+      "required": [
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "pytz"
+    ]
+  }
+}

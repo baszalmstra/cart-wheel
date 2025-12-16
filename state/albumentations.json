@@ -1,0 +1,212 @@
+{
+  "albumentations-2.0.8-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:35.773328+00:00",
+    "conda_file": "albumentations-2.0.8-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "pyyaml",
+        "typing-extensions",
+        "pydantic",
+        "albucore",
+        "eval-type-backport;",
+        "opencv-python-headless"
+      ],
+      "optional": {
+        "hub": [
+          "huggingface-hub"
+        ],
+        "pytorch": [
+          "torch"
+        ],
+        "text": [
+          "pillow"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy>=1.24.4",
+      "scipy>=1.10.0",
+      "PyYAML",
+      "typing-extensions>=4.9.0; python_version < \"3.10\"",
+      "pydantic>=2.9.2",
+      "albucore==0.0.24",
+      "eval-type-backport; python_version < \"3.10\"",
+      "opencv-python-headless>=4.9.0.80",
+      "huggingface-hub; extra == \"hub\"",
+      "torch; extra == \"pytorch\"",
+      "pillow; extra == \"text\""
+    ]
+  },
+  "albumentations-2.0.7-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:35.960053+00:00",
+    "conda_file": "albumentations-2.0.7-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "pyyaml",
+        "typing-extensions",
+        "pydantic",
+        "albucore",
+        "eval-type-backport;",
+        "opencv-python-headless"
+      ],
+      "optional": {
+        "hub": [
+          "huggingface-hub"
+        ],
+        "pytorch": [
+          "torch"
+        ],
+        "text": [
+          "pillow"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy>=1.24.4",
+      "scipy>=1.10.0",
+      "PyYAML",
+      "typing-extensions>=4.9.0; python_version < \"3.10\"",
+      "pydantic>=2.9.2",
+      "albucore==0.0.24",
+      "eval-type-backport; python_version < \"3.10\"",
+      "opencv-python-headless>=4.9.0.80",
+      "huggingface-hub; extra == \"hub\"",
+      "torch; extra == \"pytorch\"",
+      "pillow; extra == \"text\""
+    ]
+  },
+  "albumentations-2.0.6-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:35.907409+00:00",
+    "conda_file": "albumentations-2.0.6-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "pyyaml",
+        "typing-extensions",
+        "pydantic",
+        "albucore",
+        "eval-type-backport;",
+        "opencv-python-headless"
+      ],
+      "optional": {
+        "hub": [
+          "huggingface-hub"
+        ],
+        "pytorch": [
+          "torch"
+        ],
+        "text": [
+          "pillow"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy>=1.24.4",
+      "scipy>=1.10.0",
+      "PyYAML",
+      "typing-extensions>=4.9.0; python_version < \"3.10\"",
+      "pydantic>=2.9.2",
+      "albucore==0.0.24",
+      "eval-type-backport; python_version < \"3.10\"",
+      "opencv-python-headless>=4.9.0.80",
+      "huggingface-hub; extra == \"hub\"",
+      "torch; extra == \"pytorch\"",
+      "pillow; extra == \"text\""
+    ]
+  },
+  "albumentations-2.0.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:36.124876+00:00",
+    "conda_file": "albumentations-2.0.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "pyyaml",
+        "typing-extensions",
+        "pydantic",
+        "albucore",
+        "eval-type-backport;",
+        "opencv-python-headless"
+      ],
+      "optional": {
+        "hub": [
+          "huggingface-hub"
+        ],
+        "pytorch": [
+          "torch"
+        ],
+        "text": [
+          "pillow"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy>=1.24.4",
+      "scipy>=1.10.0",
+      "PyYAML",
+      "typing-extensions>=4.9.0; python_version < \"3.10\"",
+      "pydantic>=2.9.2",
+      "albucore==0.0.23",
+      "eval-type-backport; python_version < \"3.10\"",
+      "opencv-python-headless>=4.9.0.80",
+      "huggingface-hub; extra == \"hub\"",
+      "torch; extra == \"pytorch\"",
+      "pillow; extra == \"text\""
+    ]
+  },
+  "albumentations-2.0.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:36.728882+00:00",
+    "conda_file": "albumentations-2.0.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "pyyaml",
+        "typing-extensions",
+        "pydantic",
+        "albucore",
+        "eval-type-backport;",
+        "opencv-python-headless"
+      ],
+      "optional": {
+        "hub": [
+          "huggingface-hub"
+        ],
+        "pytorch": [
+          "torch"
+        ],
+        "text": [
+          "pillow"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy>=1.24.4",
+      "scipy>=1.10.0",
+      "PyYAML",
+      "typing-extensions>=4.9.0; python_version < \"3.10\"",
+      "pydantic>=2.9.2",
+      "albucore==0.0.23",
+      "eval-type-backport; python_version < \"3.10\"",
+      "opencv-python-headless>=4.9.0.80",
+      "huggingface-hub; extra == \"hub\"",
+      "torch; extra == \"pytorch\"",
+      "pillow; extra == \"text\""
+    ]
+  }
+}

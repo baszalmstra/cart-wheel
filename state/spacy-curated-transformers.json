@@ -1,0 +1,98 @@
+{
+  "spacy_curated_transformers-2.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d4d526d6554d2aa404118911295f154798387b8ef8a932338586535b70f13519",
+    "dependencies": {
+      "required": [
+        "curated-transformers",
+        "curated-tokenizers",
+        "fsspec",
+        "thinc",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "curated-transformers<3.0.0,>=2.0.0",
+      "curated-tokenizers<3.0.0,>=2.0.0",
+      "fsspec>=2023.5.0",
+      "thinc<9.2.0,>=9.0.0.dev4",
+      "torch>=1.12.0"
+    ]
+  },
+  "spacy_curated_transformers-2.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e00182d13d2554d1c4ffccecff9298da4e4a6e59c9d381ddb0d722f86287b1c",
+    "dependencies": {
+      "required": [
+        "curated-transformers",
+        "curated-tokenizers",
+        "fsspec",
+        "spacy",
+        "thinc",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "curated-transformers<3.0.0,>=2.0.0",
+      "curated-tokenizers<3.0.0,>=2.0.0",
+      "fsspec>=2023.5.0",
+      "spacy<5.0.0,>=4.0.0.dev2",
+      "thinc<9.2.0,>=9.0.0.dev4",
+      "torch>=1.12.0"
+    ]
+  },
+  "spacy_curated_transformers-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "abe7d4f2c0dd1a12d3f0c9ef8a54e1e0e91f0d8a77c2960ada6fd06d67bf5892",
+    "dependencies": {
+      "required": [
+        "curated-transformers",
+        "curated-tokenizers",
+        "fsspec",
+        "spacy",
+        "thinc",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "curated-transformers <3.0.0,>=2.0.0",
+      "curated-tokenizers <3.0.0,>=2.0.0",
+      "fsspec >=2023.5.0",
+      "spacy <5.0.0,>=4.0.0.dev2",
+      "thinc <9.1.0,>=9.0.0.dev4",
+      "torch >=1.12.0"
+    ]
+  },
+  "spacy_curated_transformers-0.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "503559b6a1d6e44ec2c978e18ed871ce5c3d56871dc9216c0e1523428204e610",
+    "dependencies": {
+      "required": [
+        "curated-transformers",
+        "curated-tokenizers",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "curated-transformers<0.2.0,>=0.1.0",
+      "curated-tokenizers<0.1.0,>=0.0.9",
+      "torch>=1.12.0"
+    ]
+  },
+  "spacy_curated_transformers-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ddfd33e81b53ad798dac841ab022189f9543718ff874eda1081fce6ff93de377",
+    "dependencies": {
+      "required": [
+        "curated-transformers",
+        "curated-tokenizers",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "curated-transformers<0.2.0,>=0.1.0",
+      "curated-tokenizers<0.1.0,>=0.0.9",
+      "torch>=1.12.0"
+    ]
+  }
+}

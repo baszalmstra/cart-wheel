@@ -1,0 +1,27 @@
+{
+  "parsimonious-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "32e3818abf9f05b3b9f3b6d87d128645e30177e91f614d2277d88a0aea98fae2",
+    "dependencies": {
+      "required": [
+        "regex"
+      ]
+    },
+    "original_requirements": [
+      "regex>=2022.3.15",
+      "pytest; extra == \"testing\""
+    ]
+  },
+  "parsimonious-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "982ab435fabe86519b57f6b35610aa4e4e977e9f02a14353edf4bbc75369fc0f",
+    "dependencies": {
+      "required": [
+        "regex"
+      ]
+    },
+    "original_requirements": [
+      "regex (>=2022.3.15)"
+    ]
+  }
+}

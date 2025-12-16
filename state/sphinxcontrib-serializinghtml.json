@@ -1,0 +1,78 @@
+{
+  "sphinxcontrib_serializinghtml-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6e2cb0eef194e10c27ec0023bfeb25badbbb5868244cf5bc5bdc04e4464bf331",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruff==0.5.5 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-docutils ; extra == \"lint\"",
+      "Sphinx>=5 ; extra == \"standalone\"",
+      "pytest ; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_serializinghtml-1.1.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "326369b8df80a7d2d8d7f99aa5ac577f51ea51556ed974e7716cfd4fca3f6cb7",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "Sphinx>=5 ; extra == \"standalone\"",
+      "pytest ; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_serializinghtml-1.1.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b36e503703ff04f20e9675771df105e58aa029cfcbc23b8ed716019b7416ae1",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx>=5",
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "pytest ; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_serializinghtml-1.1.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "27849e7227277333d3d32f17c138ee148a51fa01f888a41cd6d4e73bcabe2d06",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx>=5",
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "pytest ; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_serializinghtml-1.1.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "424164fc3a8b4355a29d5ea8b7f18199022d160c8f7b96e68bb6c50217729b87",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx>=5",
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "pytest ; extra == \"test\""
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for apache-airflow-providers-teradata
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_teradata-3.3.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_teradata-3.3.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_teradata-3.2.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_teradata-3.2.2-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_teradata-3.2.1-py3-none-any.whl" },
+]

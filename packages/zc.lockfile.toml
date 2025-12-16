@@ -1,0 +1,9 @@
+# Package configuration for zc.lockfile
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zc_lockfile-4.0-py3-none-any.whl" },
+  { filename = "zc.lockfile-3.0.post1-py3-none-any.whl" },
+  { filename = "zc.lockfile-2.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for argcomplete
+conda_forge = "argcomplete"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "argcomplete-3.6.3-py3-none-any.whl" },
+  { filename = "argcomplete-3.6.2-py3-none-any.whl" },
+  { filename = "argcomplete-3.6.1-py3-none-any.whl" },
+  { filename = "argcomplete-3.6.0-py3-none-any.whl" },
+  { filename = "argcomplete-3.5.3-py3-none-any.whl" },
+]

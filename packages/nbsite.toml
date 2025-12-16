@@ -1,0 +1,11 @@
+# Package configuration for nbsite
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nbsite-0.8.7-py2.py3-none-any.whl" },
+  { filename = "nbsite-0.8.6-py2.py3-none-any.whl" },
+  { filename = "nbsite-0.8.5-py2.py3-none-any.whl" },
+  { filename = "nbsite-0.8.4-py2.py3-none-any.whl" },
+  { filename = "nbsite-0.8.3-py2.py3-none-any.whl" },
+]

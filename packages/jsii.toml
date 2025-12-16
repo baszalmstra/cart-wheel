@@ -1,0 +1,12 @@
+# Package configuration for jsii
+conda_forge = "python-jsii"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsii-1.121.0-py3-none-any.whl" },
+  { filename = "jsii-1.120.0-py3-none-any.whl" },
+  { filename = "jsii-1.119.0-py3-none-any.whl" },
+  { filename = "jsii-1.118.0-py3-none-any.whl" },
+  { filename = "jsii-1.117.0-py3-none-any.whl" },
+]

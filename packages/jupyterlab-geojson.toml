@@ -1,0 +1,12 @@
+# Package configuration for jupyterlab-geojson
+conda_forge = "jupyterlab-geojson"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyterlab_geojson-3.4.0-py3-none-any.whl" },
+  { filename = "jupyterlab_geojson-3.3.1-py3-none-any.whl" },
+  { filename = "jupyterlab_geojson-3.3.0-py3-none-any.whl" },
+  { filename = "jupyterlab_geojson-3.2.0-py3-none-any.whl" },
+  { filename = "jupyterlab_geojson-3.1.2-py3-none-any.whl" },
+]

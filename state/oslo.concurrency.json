@@ -1,0 +1,130 @@
+{
+  "oslo_concurrency-7.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9bf8953572ba8755aaec6f0bcca6ee2a5e9128bef1827da5f49caa78caf71fae",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "oslo.config",
+        "oslo.i18n",
+        "oslo.utils",
+        "fasteners",
+        "debtcollector"
+      ]
+    },
+    "original_requirements": [
+      "pbr >=2.0.0",
+      "oslo.config >=5.2.0",
+      "oslo.i18n >=3.15.3",
+      "oslo.utils >=3.33.0",
+      "fasteners >=0.7.0",
+      "debtcollector >=3.0.0",
+      "eventlet >=0.35.2 ; extra == 'eventlet'",
+      "oslotest >=3.2.0 ; extra == 'test'",
+      "coverage >=4.0 ; extra == 'test'",
+      "fixtures >=3.0.0 ; extra == 'test'",
+      "stestr >=2.0.0 ; extra == 'test'",
+      "eventlet >=0.35.2 ; extra == 'test'"
+    ]
+  },
+  "oslo.concurrency-7.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c2f74eddbbddb06dfa993c5117b069a4279ca26371b1d4a4be2de97d337ea74",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "oslo.config",
+        "oslo.i18n",
+        "oslo.utils",
+        "fasteners",
+        "debtcollector"
+      ]
+    },
+    "original_requirements": [
+      "pbr >=2.0.0",
+      "oslo.config >=5.2.0",
+      "oslo.i18n >=3.15.3",
+      "oslo.utils >=3.33.0",
+      "fasteners >=0.7.0",
+      "debtcollector >=3.0.0",
+      "eventlet >=0.35.2 ; extra == 'eventlet'",
+      "oslotest >=3.2.0 ; extra == 'test'",
+      "coverage >=4.0 ; extra == 'test'",
+      "fixtures >=3.0.0 ; extra == 'test'",
+      "stestr >=2.0.0 ; extra == 'test'",
+      "eventlet >=0.35.2 ; extra == 'test'"
+    ]
+  },
+  "oslo.concurrency-7.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6691a896005a92adba5a706ad588f6616a9a2a76e65298f3ccd9d9b446609916",
+    "dependencies": {
+      "required": [
+        "fasteners",
+        "oslo.config",
+        "oslo.i18n",
+        "oslo.utils",
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "fasteners (>=0.7.0)",
+      "oslo.config (>=5.2.0)",
+      "oslo.i18n (>=3.15.3)",
+      "oslo.utils (>=3.33.0)",
+      "pbr (>=2.0.0)",
+      "eventlet (>=0.35.2) ; extra == 'eventlet'",
+      "coverage (>=4.0) ; extra == 'test'",
+      "eventlet (>=0.35.2) ; extra == 'test'",
+      "fixtures (>=3.0.0) ; extra == 'test'",
+      "oslotest (>=3.2.0) ; extra == 'test'",
+      "stestr (>=2.0.0) ; extra == 'test'"
+    ]
+  },
+  "oslo.concurrency-6.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd16f5701d84d767f3d78dcf7f088654fd075f691f1983f224b0db78952dff97",
+    "dependencies": {
+      "required": [
+        "fasteners",
+        "oslo.config",
+        "oslo.i18n",
+        "oslo.utils",
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "fasteners (>=0.7.0)",
+      "oslo.config (>=5.2.0)",
+      "oslo.i18n (>=3.15.3)",
+      "oslo.utils (>=3.33.0)",
+      "pbr (>=2.0.0)",
+      "eventlet (>=0.27.0) ; extra == 'eventlet'",
+      "coverage (>=4.0) ; extra == 'test'",
+      "eventlet (>=0.27.0) ; extra == 'test'",
+      "fixtures (>=3.0.0) ; extra == 'test'",
+      "oslotest (>=3.2.0) ; extra == 'test'",
+      "stestr (>=2.0.0) ; extra == 'test'"
+    ]
+  },
+  "oslo.concurrency-6.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9941de3a2dee50fe8413bd60dae6ac61b7c2e69febe1b6907bd82588da49f7e0",
+    "dependencies": {
+      "required": [
+        "fasteners",
+        "oslo.config",
+        "oslo.i18n",
+        "oslo.utils",
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "fasteners (>=0.7.0)",
+      "oslo.config (>=5.2.0)",
+      "oslo.i18n (>=3.15.3)",
+      "oslo.utils (>=3.33.0)",
+      "pbr (>=2.0.0)"
+    ]
+  }
+}

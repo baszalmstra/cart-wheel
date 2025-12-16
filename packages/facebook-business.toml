@@ -1,0 +1,12 @@
+# Package configuration for facebook-business
+conda_forge = "facebook_business"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "facebook_business-24.0.1-py3-none-any.whl" },
+  { filename = "facebook_business-24.0.0-py3-none-any.whl" },
+  { filename = "facebook_business-23.0.3-py3-none-any.whl" },
+  { filename = "facebook_business-23.0.2-py3-none-any.whl" },
+  { filename = "facebook_business-23.0.1-py3-none-any.whl" },
+]

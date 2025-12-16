@@ -1,0 +1,12 @@
+# Package configuration for blurb
+conda_forge = "blurb"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "blurb-2.0.0-py3-none-any.whl" },
+  { filename = "blurb-1.3.0-py3-none-any.whl" },
+  { filename = "blurb-1.2.1-py3-none-any.whl" },
+  { filename = "blurb-1.2.0-py3-none-any.whl" },
+  { filename = "blurb-1.1.0-py3-none-any.whl" },
+]

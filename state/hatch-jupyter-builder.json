@@ -1,0 +1,113 @@
+{
+  "hatch_jupyter_builder-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d70294ba5028a880cecfc8f3609b12e1280a35201c551663b1a2501532b513f5",
+    "dependencies": {
+      "required": [
+        "hatchling"
+      ]
+    },
+    "original_requirements": [
+      "hatchling>=1.17",
+      "hatch-jupyter-builder; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx-autodoc-typehints; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "hatch; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-mock; extra == 'test'",
+      "tomli; (python_version < '3.11') and extra == 'test'",
+      "twine; extra == 'test'"
+    ]
+  },
+  "hatch_jupyter_builder-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b878144b158f6d93b8502ada4cf49b286d7790df1ff2c2e21823db42e328d6d6",
+    "dependencies": {
+      "required": [
+        "hatchling"
+      ]
+    },
+    "original_requirements": [
+      "hatchling>=1.17",
+      "hatch-jupyter-builder; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx-autodoc-typehints; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "hatch; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-mock; extra == 'test'",
+      "tomli; extra == 'test'",
+      "twine; extra == 'test'"
+    ]
+  },
+  "hatch_jupyter_builder-0.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d9e5666ee61877f31d49a2e0faafb034816c9813de65997baa691bd734092e54",
+    "dependencies": {
+      "required": [
+        "hatchling"
+      ]
+    },
+    "original_requirements": [
+      "hatchling>=1.5",
+      "hatch-jupyter-builder; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx-autodoc-typehints; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "hatch; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-mock; extra == 'test'",
+      "tomli; extra == 'test'",
+      "twine; extra == 'test'"
+    ]
+  },
+  "hatch_jupyter_builder-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f1134b4d92f466d4ab6c66a7e2c3434110441541e6d5597cb5c431a6f67b7823",
+    "dependencies": {
+      "required": [
+        "hatchling"
+      ]
+    },
+    "original_requirements": [
+      "hatchling>=1.5",
+      "hatch-jupyter-builder; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "hatch; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-mock; extra == 'test'",
+      "tomli; extra == 'test'",
+      "twine; extra == 'test'"
+    ]
+  },
+  "hatch_jupyter_builder-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "25018e8102184ee47c99fe7077db57278dfe8f389fe7f30e1ab32128a233403a",
+    "dependencies": {
+      "required": [
+        "hatchling"
+      ]
+    },
+    "original_requirements": [
+      "hatchling",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "hatchling; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-mock; extra == 'test'",
+      "tomli; extra == 'test'",
+      "twine; extra == 'test'"
+    ]
+  }
+}

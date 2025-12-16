@@ -1,0 +1,12 @@
+# Package configuration for yandexcloud
+conda_forge = "yandexcloud"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "yandexcloud-0.371.0-py3-none-any.whl" },
+  { filename = "yandexcloud-0.370.0-py3-none-any.whl" },
+  { filename = "yandexcloud-0.369.0-py3-none-any.whl" },
+  { filename = "yandexcloud-0.368.0-py3-none-any.whl" },
+  { filename = "yandexcloud-0.367.0-py3-none-any.whl" },
+]

@@ -1,0 +1,19 @@
+{
+  "sphinx_inline_tabs-2023.4.21-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "06809ac613f7c48ddd6e2fa588413e3fe92cff2397b56e2ccf0b0218f9ef6a78",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx >= 3",
+      "myst-parser ; extra == \"doc\"",
+      "furo ; extra == \"doc\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "pytest-xdist ; extra == \"test\""
+    ]
+  }
+}

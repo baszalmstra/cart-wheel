@@ -1,0 +1,12 @@
+# Package configuration for motmetrics
+conda_forge = "motmetrics"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "motmetrics-1.4.0-py3-none-any.whl" },
+  { filename = "motmetrics-1.2.5-py3-none-any.whl" },
+  { filename = "motmetrics-1.2.0-py3-none-any.whl" },
+  { filename = "motmetrics-1.1.3-py3-none-any.whl" },
+  { filename = "motmetrics-1.1.2-py3-none-any.whl" },
+]

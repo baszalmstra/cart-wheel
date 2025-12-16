@@ -1,0 +1,187 @@
+{
+  "jupyterlite_core-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ad226c4bc2fdfc3d65f750b09ba4b60df506705e160d92c9142e48ee196c605",
+    "dependencies": {
+      "required": [
+        "doit",
+        "jupyter-core",
+        "pycparser"
+      ]
+    },
+    "original_requirements": [
+      "doit<1,>=0.34",
+      "jupyter-core>=4.7",
+      "pycparser; platform_python_implementation == 'PyPy'",
+      "jsonschema>=3; extra == 'all'",
+      "jupyter-server; extra == 'all'",
+      "jupyterlab-server<3,>=2.8.1; extra == 'all'",
+      "jupyterlab<4.6,>=4.5.0; extra == 'all'",
+      "libarchive-c>=4.0; extra == 'all'",
+      "notebook<7.6,>=7.5.0; extra == 'all'",
+      "pkginfo; extra == 'all'",
+      "tornado>=6.1; extra == 'all'",
+      "jsonschema[format-nongpl]>=3; extra == 'check'",
+      "jupyter-server; extra == 'contents'",
+      "jupyterlab<4.6,>=4.5.0; extra == 'lab'",
+      "notebook<7.6,>=7.5.0; extra == 'lab'",
+      "libarchive-c>=4.0; extra == 'libarchive'",
+      "tornado>=6.1; extra == 'serve'",
+      "ansi2html; extra == 'test'",
+      "diffoscope; (sys_platform == 'linux') and extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest-cov<7; extra == 'test'",
+      "pytest-html; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "jupyterlab-server<3,>=2.8.1; extra == 'translation'"
+    ]
+  },
+  "jupyterlite_core-0.6.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e20c1e32a26a6ca7d80df2094d69acfcb58b54c109c66865bbe8513c3502c01",
+    "dependencies": {
+      "required": [
+        "doit",
+        "importlib-metadata",
+        "jupyter-core"
+      ]
+    },
+    "original_requirements": [
+      "doit<1,>=0.34",
+      "importlib-metadata>=3.6; python_version < '3.10'",
+      "jupyter-core>=4.7",
+      "jsonschema>=3; extra == 'all'",
+      "jupyter-server; extra == 'all'",
+      "jupyterlab-server<3,>=2.8.1; extra == 'all'",
+      "jupyterlab<4.5,>=4.4.5; extra == 'all'",
+      "libarchive-c>=4.0; extra == 'all'",
+      "notebook<7.5,>=7.4.5; extra == 'all'",
+      "pkginfo; extra == 'all'",
+      "tornado>=6.1; extra == 'all'",
+      "jsonschema[format-nongpl]>=3; extra == 'check'",
+      "jupyter-server; extra == 'contents'",
+      "jupyterlab<4.5,>=4.4.5; extra == 'lab'",
+      "notebook<7.5,>=7.4.5; extra == 'lab'",
+      "libarchive-c>=4.0; extra == 'libarchive'",
+      "tornado>=6.1; extra == 'serve'",
+      "ansi2html; extra == 'test'",
+      "diffoscope; (sys_platform == 'linux') and extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-html; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "jupyterlab-server<3,>=2.8.1; extra == 'translation'"
+    ]
+  },
+  "jupyterlite_core-0.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "46cfd804ede5bc5adfeae596863fbd3a3278bfe0f725d62ce7876a62434ed9b4",
+    "dependencies": {
+      "required": [
+        "doit",
+        "importlib-metadata",
+        "jupyter-core"
+      ]
+    },
+    "original_requirements": [
+      "doit<1,>=0.34",
+      "importlib-metadata>=3.6; python_version < '3.10'",
+      "jupyter-core>=4.7",
+      "jsonschema>=3; extra == 'all'",
+      "jupyter-server; extra == 'all'",
+      "jupyterlab-server<3,>=2.8.1; extra == 'all'",
+      "jupyterlab<4.5,>=4.4.4; extra == 'all'",
+      "libarchive-c>=4.0; extra == 'all'",
+      "notebook<7.5,>=7.4.4; extra == 'all'",
+      "pkginfo; extra == 'all'",
+      "tornado>=6.1; extra == 'all'",
+      "jsonschema[format-nongpl]>=3; extra == 'check'",
+      "jupyter-server; extra == 'contents'",
+      "jupyterlab<4.5,>=4.4.4; extra == 'lab'",
+      "notebook<7.5,>=7.4.4; extra == 'lab'",
+      "libarchive-c>=4.0; extra == 'libarchive'",
+      "tornado>=6.1; extra == 'serve'",
+      "ansi2html; extra == 'test'",
+      "diffoscope; (sys_platform == 'linux') and extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-html; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "jupyterlab-server<3,>=2.8.1; extra == 'translation'"
+    ]
+  },
+  "jupyterlite_core-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d01f80562c7fb7285110226a496cd8a3eb3e6cc1cbe1097e4e50cab263930043",
+    "dependencies": {
+      "required": [
+        "doit",
+        "importlib-metadata",
+        "jupyter-core"
+      ]
+    },
+    "original_requirements": [
+      "doit<1,>=0.34",
+      "importlib-metadata>=3.6; python_version < '3.10'",
+      "jupyter-core>=4.7",
+      "jsonschema>=3; extra == 'all'",
+      "jupyter-server; extra == 'all'",
+      "jupyterlab-server<3,>=2.8.1; extra == 'all'",
+      "jupyterlab<4.5,>=4.4.3; extra == 'all'",
+      "libarchive-c>=4.0; extra == 'all'",
+      "notebook<7.5,>=7.4.3; extra == 'all'",
+      "pkginfo; extra == 'all'",
+      "tornado>=6.1; extra == 'all'",
+      "jsonschema[format-nongpl]>=3; extra == 'check'",
+      "jupyter-server; extra == 'contents'",
+      "jupyterlab<4.5,>=4.4.3; extra == 'lab'",
+      "notebook<7.5,>=7.4.3; extra == 'lab'",
+      "libarchive-c>=4.0; extra == 'libarchive'",
+      "tornado>=6.1; extra == 'serve'",
+      "ansi2html; extra == 'test'",
+      "diffoscope; (sys_platform == 'linux') and extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-html; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "jupyterlab-server<3,>=2.8.1; extra == 'translation'"
+    ]
+  },
+  "jupyterlite_core-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d23db96ede9cfe6edcb0242730d6d2068b47e340daf2effefa9892fa3c091357",
+    "dependencies": {
+      "required": [
+        "doit",
+        "importlib-metadata",
+        "jupyter-core"
+      ]
+    },
+    "original_requirements": [
+      "doit<1,>=0.34",
+      "importlib-metadata>=3.6; python_version < '3.10'",
+      "jupyter-core>=4.7",
+      "jsonschema>=3; extra == 'all'",
+      "jupyter-server; extra == 'all'",
+      "jupyterlab-server<3,>=2.8.1; extra == 'all'",
+      "jupyterlab<4.5,>=4.4.3; extra == 'all'",
+      "libarchive-c>=4.0; extra == 'all'",
+      "notebook<7.5,>=7.4.3; extra == 'all'",
+      "pkginfo; extra == 'all'",
+      "tornado>=6.1; extra == 'all'",
+      "jsonschema[format-nongpl]>=3; extra == 'check'",
+      "jupyter-server; extra == 'contents'",
+      "jupyterlab<4.5,>=4.4.3; extra == 'lab'",
+      "notebook<7.5,>=7.4.3; extra == 'lab'",
+      "libarchive-c>=4.0; extra == 'libarchive'",
+      "tornado>=6.1; extra == 'serve'",
+      "ansi2html; extra == 'test'",
+      "diffoscope; (sys_platform == 'linux') and extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-html; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "jupyterlab-server<3,>=2.8.1; extra == 'translation'"
+    ]
+  }
+}

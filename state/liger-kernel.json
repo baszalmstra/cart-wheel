@@ -1,0 +1,135 @@
+{
+  "liger_kernel-0.6.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77b041f97cca2afaaef3b71f2e4d2978bf12b75c75f1de64ca557acfc4e3dc55",
+    "dependencies": {
+      "required": [
+        "torch",
+        "triton"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.1.2",
+      "triton>=2.3.1",
+      "transformers>=4.49.0; extra == \"dev\"",
+      "matplotlib>=3.7.2; extra == \"dev\"",
+      "ruff>=0.12.0; extra == \"dev\"",
+      "pytest>=7.1.2; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-rerunfailures; extra == \"dev\"",
+      "datasets>=2.19.2; extra == \"dev\"",
+      "seaborn; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "torchvision>=0.20; extra == \"dev\""
+    ]
+  },
+  "liger_kernel-0.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7be6f5498d9f7a7c1ae4191c1829e815154963b7b5cc9fec6e14063fd41461ae",
+    "dependencies": {
+      "required": [
+        "torch",
+        "triton"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.1.2",
+      "triton>=2.3.1",
+      "transformers>=4.49.0; extra == \"dev\"",
+      "matplotlib>=3.7.2; extra == \"dev\"",
+      "ruff>=0.12.0; extra == \"dev\"",
+      "pytest>=7.1.2; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-rerunfailures; extra == \"dev\"",
+      "datasets>=2.19.2; extra == \"dev\"",
+      "seaborn; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "torchvision>=0.20; extra == \"dev\""
+    ]
+  },
+  "liger_kernel-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "303b9bbf5c10f9289c3139afb41e4d989e8c809516624a106b89b064163d971d",
+    "dependencies": {
+      "required": [
+        "torch",
+        "triton"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.1.2",
+      "triton>=2.3.1",
+      "transformers>=4.49.0; extra == \"dev\"",
+      "matplotlib>=3.7.2; extra == \"dev\"",
+      "flake8>=4.0.1.1; extra == \"dev\"",
+      "black>=24.4.2; extra == \"dev\"",
+      "isort>=5.13.2; extra == \"dev\"",
+      "pytest>=7.1.2; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "pytest-rerunfailures; extra == \"dev\"",
+      "datasets>=2.19.2; extra == \"dev\"",
+      "seaborn; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "torchvision>=0.20; extra == \"dev\""
+    ]
+  },
+  "liger_kernel-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcc678a2ff17baf4c58c529277e3bf5965ce1b8dfa079e09431a412e2a979ad6",
+    "dependencies": {
+      "required": [
+        "torch",
+        "triton"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.1.2",
+      "triton>=2.3.1",
+      "transformers>=4.49.0; extra == \"dev\"",
+      "matplotlib>=3.7.2; extra == \"dev\"",
+      "flake8>=4.0.1.1; extra == \"dev\"",
+      "black>=24.4.2; extra == \"dev\"",
+      "isort>=5.13.2; extra == \"dev\"",
+      "pytest>=7.1.2; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "pytest-rerunfailures; extra == \"dev\"",
+      "datasets>=2.19.2; extra == \"dev\"",
+      "seaborn; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "torchvision>=0.20; extra == \"dev\""
+    ]
+  },
+  "liger_kernel-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8938ed2ef2b37076b47022bba90bd134ff493893603ecd7668236dc68f2b8011",
+    "dependencies": {
+      "required": [
+        "torch",
+        "triton"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.1.2",
+      "triton>=2.3.1",
+      "transformers>=4.49.0; extra == \"dev\"",
+      "matplotlib>=3.7.2; extra == \"dev\"",
+      "flake8>=4.0.1.1; extra == \"dev\"",
+      "black>=24.4.2; extra == \"dev\"",
+      "isort>=5.13.2; extra == \"dev\"",
+      "pytest>=7.1.2; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "pytest-rerunfailures; extra == \"dev\"",
+      "datasets>=2.19.2; extra == \"dev\"",
+      "seaborn; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "torchvision>=0.20; extra == \"dev\""
+    ]
+  }
+}

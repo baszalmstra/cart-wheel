@@ -1,0 +1,12 @@
+# Package configuration for chalice
+conda_forge = "chalice"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "chalice-1.32.0-py3-none-any.whl" },
+  { filename = "chalice-1.31.4-py3-none-any.whl" },
+  { filename = "chalice-1.31.3-py3-none-any.whl" },
+  { filename = "chalice-1.31.2-py3-none-any.whl" },
+  { filename = "chalice-1.31.1-py3-none-any.whl" },
+]

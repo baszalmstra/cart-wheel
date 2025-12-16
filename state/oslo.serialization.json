@@ -1,0 +1,92 @@
+{
+  "oslo_serialization-5.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "451e19b9c72e4e7167063eea29e24ad07742d393ff2b54bb8783b9601c155b2c",
+    "dependencies": {
+      "required": [
+        "msgpack",
+        "oslo.utils",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "msgpack >=0.5.2",
+      "oslo.utils >=3.33.0",
+      "tzdata >=2022.4"
+    ]
+  },
+  "oslo.serialization-5.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b04e1c2cfc4832c6222c580295fda31b7c42e207b456f61bf0f2c97b67cfde2b",
+    "dependencies": {
+      "required": [
+        "msgpack",
+        "oslo.utils",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "msgpack >=0.5.2",
+      "oslo.utils >=3.33.0",
+      "tzdata >=2022.4"
+    ]
+  },
+  "oslo.serialization-5.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a30c30009db5ea8da5da31a4ac6d75256dcb719f48abc3132c36196eb5bb3821",
+    "dependencies": {
+      "required": [
+        "msgpack",
+        "oslo.utils",
+        "pbr",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "msgpack (>=0.5.2)",
+      "oslo.utils (>=3.33.0)",
+      "pbr (>=2.0.0)",
+      "tzdata (>=2022.4)"
+    ]
+  },
+  "oslo.serialization-5.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd2297c2006be104298843c4d176fb659eba0c6b618a3e3760d650dc771a6df5",
+    "dependencies": {
+      "required": [
+        "msgpack",
+        "oslo.utils",
+        "pbr",
+        "pytz",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "msgpack (>=0.5.2)",
+      "oslo.utils (>=3.33.0)",
+      "pbr (>=2.0.0)",
+      "pytz (>=2013.6) ; (python_version<\"3.9\")",
+      "tzdata (>=2022.4) ; (python_version>=\"3.9\")"
+    ]
+  },
+  "oslo.serialization-5.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5de6c053243d25814d4eb9fe504a695764627d758014b520c3cc1ea170752316",
+    "dependencies": {
+      "required": [
+        "msgpack",
+        "oslo.utils",
+        "pbr",
+        "pytz",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "msgpack (>=0.5.2)",
+      "oslo.utils (>=3.33.0)",
+      "pbr (!=2.1.0,>=2.0.0)",
+      "pytz (>=2013.6) ; (python_version<\"3.9\")",
+      "tzdata (>=2022.4) ; (python_version>=\"3.9\")"
+    ]
+  }
+}

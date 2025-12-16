@@ -1,0 +1,161 @@
+{
+  "rstcheck-6.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "09af9555cf05f23651189154066d483ced25d36ebb3f01dc3a5d27524e4a5fdc",
+    "dependencies": {
+      "required": [
+        "rstcheck-core",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "rstcheck-core>=1.1",
+      "typer>=0.12.0",
+      "sphinx>=6.0; extra == \"sphinx\"",
+      "tomli>=2.0; python_version <= \"3.10\" and extra == \"toml\"",
+      "pytest>=7.2; extra == \"testing\"",
+      "pytest-cov>=3.0; extra == \"testing\"",
+      "coverage[toml]>=6.0; extra == \"testing\"",
+      "coverage-conditional-plugin>=0.5; extra == \"testing\"",
+      "pytest-sugar>=0.9.5; extra == \"testing\"",
+      "pytest-randomly>=3.0; extra == \"testing\"",
+      "sphinx>=6.0; extra == \"docs\"",
+      "myst-parser>=3; extra == \"docs\"",
+      "sphinx-rtd-theme>=1.2; extra == \"docs\"",
+      "sphinxcontrib-spelling>=7.3; extra == \"docs\"",
+      "sphinx-click>=4.0.3; extra == \"docs\"",
+      "sphinx-autobuild>=2021.3.14; extra == \"docs\"",
+      "mypy>=1.0; extra == \"type-check\"",
+      "rstcheck[docs,sphinx,testing,toml,type-check]; extra == \"dev\"",
+      "tox>=3.15; extra == \"dev\""
+    ]
+  },
+  "rstcheck-6.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23de2575ba0af1adcddea87a20d69187f0fb9dd8270f59eb98d63461c95375a7",
+    "dependencies": {
+      "required": [
+        "rstcheck-core",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "rstcheck-core >=1.1",
+      "typer >=0.12.0",
+      "rstcheck[docs,sphinx,testing,toml,type-check] ; extra == 'dev'",
+      "tox >=3.15 ; extra == 'dev'",
+      "sphinx >=5.0 ; extra == 'docs'",
+      "myst-parser >=3 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.2 ; extra == 'docs'",
+      "sphinxcontrib-spelling >=7.3 ; extra == 'docs'",
+      "sphinx-click >=4.0.3 ; extra == 'docs'",
+      "sphinx-autobuild >=2021.3.14 ; extra == 'docs'",
+      "sphinx >=5.0 ; extra == 'sphinx'",
+      "pytest >=7.2 ; extra == 'testing'",
+      "pytest-cov >=3.0 ; extra == 'testing'",
+      "coverage[toml] >=6.0 ; extra == 'testing'",
+      "coverage-conditional-plugin >=0.5 ; extra == 'testing'",
+      "pytest-sugar >=0.9.5 ; extra == 'testing'",
+      "pytest-randomly >=3.0 ; extra == 'testing'",
+      "tomli >=2.0 ; (python_version <= \"3.10\") and extra == 'toml'",
+      "mypy >=1.0 ; extra == 'type-check'"
+    ]
+  },
+  "rstcheck-6.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a82c7ca198343febe0a12f3168ecef28593e5980323799355ba9de585d0c367a",
+    "dependencies": {
+      "required": [
+        "rstcheck-core",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "rstcheck-core >=1.1",
+      "typer >=0.12.0",
+      "rstcheck[docs,sphinx,testing,toml,type-check] ; extra == 'dev'",
+      "tox >=3.15 ; extra == 'dev'",
+      "sphinx >=5.0 ; extra == 'docs'",
+      "myst-parser >=3 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.2 ; extra == 'docs'",
+      "sphinxcontrib-spelling >=7.3 ; extra == 'docs'",
+      "sphinx-click >=4.0.3 ; extra == 'docs'",
+      "sphinx-autobuild >=2021.3.14 ; extra == 'docs'",
+      "sphinx >=5.0 ; extra == 'sphinx'",
+      "pytest >=7.2 ; extra == 'testing'",
+      "pytest-cov >=3.0 ; extra == 'testing'",
+      "coverage[toml] >=6.0 ; extra == 'testing'",
+      "coverage-conditional-plugin >=0.5 ; extra == 'testing'",
+      "pytest-sugar >=0.9.5 ; extra == 'testing'",
+      "pytest-randomly >=3.0 ; extra == 'testing'",
+      "tomli >=2.0 ; (python_version <= \"3.10\") and extra == 'toml'",
+      "mypy >=1.0 ; extra == 'type-check'"
+    ]
+  },
+  "rstcheck-6.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb149364a02dcd41ef368bbba9ae12b79fe500bff2e1565fe27a6406f379fbd5",
+    "dependencies": {
+      "required": [
+        "rstcheck-core",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "rstcheck-core >=1.1",
+      "typer[standard] >=0.12.0",
+      "rstcheck[docs,sphinx,testing,toml,type-check] ; extra == 'dev'",
+      "tox >=3.15 ; extra == 'dev'",
+      "sphinx >=5.0 ; extra == 'docs'",
+      "myst-parser >=3 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.2 ; extra == 'docs'",
+      "sphinxcontrib-spelling >=7.3 ; extra == 'docs'",
+      "sphinx-click >=4.0.3 ; extra == 'docs'",
+      "sphinx-autobuild >=2021.3.14 ; extra == 'docs'",
+      "sphinx >=5.0 ; extra == 'sphinx'",
+      "pytest >=7.2 ; extra == 'testing'",
+      "pytest-cov >=3.0 ; extra == 'testing'",
+      "coverage[toml] >=6.0 ; extra == 'testing'",
+      "coverage-conditional-plugin >=0.5 ; extra == 'testing'",
+      "pytest-sugar >=0.9.5 ; extra == 'testing'",
+      "pytest-randomly >=3.0 ; extra == 'testing'",
+      "tomli >=2.0 ; (python_version <= \"3.10\") and extra == 'toml'",
+      "mypy >=1.0 ; extra == 'type-check'"
+    ]
+  },
+  "rstcheck-6.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b450943707d8ca053f5c6b9f103ee595f4926a064203e5e579172aefb3fe2c12",
+    "dependencies": {
+      "required": [
+        "rstcheck-core",
+        "typer",
+        "importlib-metadata",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "rstcheck-core >=1.1",
+      "typer[all] >=0.4.1",
+      "importlib-metadata >=1.6 ; python_version <= \"3.8\"",
+      "typing-extensions >=3.7.4 ; python_version <= \"3.8\"",
+      "rstcheck[docs,sphinx,testing,toml,type-check] ; extra == 'dev'",
+      "tox >=3.15 ; extra == 'dev'",
+      "sphinx >=5.0 ; extra == 'docs'",
+      "m2r2 >=0.3.2 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.2 ; extra == 'docs'",
+      "sphinxcontrib-spelling >=7.3 ; extra == 'docs'",
+      "sphinx-click >=4.0.3 ; extra == 'docs'",
+      "sphinx-autobuild >=2021.3.14 ; extra == 'docs'",
+      "sphinx >=5.0 ; extra == 'sphinx'",
+      "pytest >=7.2 ; extra == 'testing'",
+      "pytest-cov >=3.0 ; extra == 'testing'",
+      "coverage[toml] >=6.0 ; extra == 'testing'",
+      "coverage-conditional-plugin >=0.5 ; extra == 'testing'",
+      "pytest-sugar >=0.9.5 ; extra == 'testing'",
+      "pytest-randomly >=3.0 ; extra == 'testing'",
+      "tomli >=2.0 ; (python_version <= \"3.10\") and extra == 'toml'",
+      "mypy >=1.0 ; extra == 'type-check'"
+    ]
+  }
+}

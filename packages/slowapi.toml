@@ -1,0 +1,12 @@
+# Package configuration for slowapi
+conda_forge = "slowapi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "slowapi-0.1.9-py3-none-any.whl" },
+  { filename = "slowapi-0.1.8-py3-none-any.whl" },
+  { filename = "slowapi-0.1.7-py3-none-any.whl" },
+  { filename = "slowapi-0.1.6-py3-none-any.whl" },
+  { filename = "slowapi-0.1.5-py3-none-any.whl" },
+]

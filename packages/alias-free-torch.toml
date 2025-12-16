@@ -1,0 +1,11 @@
+# Package configuration for alias-free-torch
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "alias_free_torch-0.0.6-py3-none-any.whl" },
+  { filename = "alias_free_torch-0.0.5-py3-none-any.whl" },
+  { filename = "alias_free_torch-0.0.4-py3-none-any.whl" },
+  { filename = "alias_free_torch-0.0.3-py3-none-any.whl" },
+  { filename = "alias_free_torch-0.0.2-py3-none-any.whl" },
+]

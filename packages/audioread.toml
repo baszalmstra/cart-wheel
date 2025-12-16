@@ -1,0 +1,9 @@
+# Package configuration for audioread
+conda_forge = "audioread"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "audioread-3.1.0-py3-none-any.whl" },
+  { filename = "audioread-3.0.1-py3-none-any.whl" },
+]

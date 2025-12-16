@@ -1,0 +1,28 @@
+{
+  "Pympler-1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b223d6027d0619584116a0cbc28e8d2e378f7a79c1e5e024f9ff3b673c58506",
+    "dependencies": {
+      "required": [
+        "pywin32"
+      ]
+    },
+    "original_requirements": [
+      "pywin32 >=226 ; platform_system == \"Windows\""
+    ]
+  },
+  "Pympler-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d260dda9ae781e1eab6ea15bacb84015849833ba5555f141d2d9b7b7473b307d",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "Pympler-1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca09ce58074a374a76328c27f0bb8a4e8d3964db1cbd1f9d3fd4c0d0746a9d16",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

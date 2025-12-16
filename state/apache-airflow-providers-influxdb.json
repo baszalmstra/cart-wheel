@@ -1,0 +1,86 @@
+{
+  "apache_airflow_providers_influxdb-2.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b5a98d4a72e7acc7625431421991173a8c53b6565628452f82cc5bbd93f0f2c",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "influxdb-client",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "influxdb-client>=1.19.0",
+      "requests>=2.32.0,<3"
+    ]
+  },
+  "apache_airflow_providers_influxdb-2.9.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0f2671ea74296ce0007d4c5b83e3f651c9a7e61db8d604cbefa5d764068f44ec",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "influxdb-client",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "influxdb-client>=1.19.0",
+      "requests>=2.32.0,<3"
+    ]
+  },
+  "apache_airflow_providers_influxdb-2.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2595404cbd19903ee190d4d8d3f3115e2b67eea8174a94df759bebf64a9cd4bc",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "influxdb-client",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "influxdb-client>=1.19.0",
+      "requests>=2.32.0,<3"
+    ]
+  },
+  "apache_airflow_providers_influxdb-2.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "acb2b362ea37295f61192213011282cdf9ee4a48f15e4021481ce7e7bfb84ce4",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "influxdb-client",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "influxdb-client>=1.19.0",
+      "requests>=2.32.0,<3"
+    ]
+  },
+  "apache_airflow_providers_influxdb-2.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f243bc68024e324b3d81e724b5f39b0396ec9ed8e0de37ac3901de5ae61493f6",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "influxdb-client",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "influxdb-client>=1.19.0",
+      "requests>=2.32.0,<3"
+    ]
+  }
+}

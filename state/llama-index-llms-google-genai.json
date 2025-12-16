@@ -1,0 +1,82 @@
+{
+  "llama_index_llms_google_genai-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d88c38908eeaee0b680427fb94adec810c0dbb969b550ce0ba3bb5c8fc4d63d",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "llama-index-core",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "google-genai<2,>=1.52.0",
+      "llama-index-core<0.15,>=0.14.5",
+      "pillow>=10.2.0"
+    ]
+  },
+  "llama_index_llms_google_genai-0.7.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e9fb5db49e05e5fdecb3635c58974c47868337cf70150cbd722f8d737f17e34a",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "llama-index-core",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "google-genai<2,>=1.24.0",
+      "llama-index-core<0.15,>=0.14.5",
+      "pillow>=10.2.0"
+    ]
+  },
+  "llama_index_llms_google_genai-0.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a14be705423de53b0266132dafb6bae9e06d92ae31903489c53636b3dd2a18a",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "llama-index-core",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "google-genai<2,>=1.24.0",
+      "llama-index-core<0.15,>=0.14.5",
+      "pillow>=10.2.0"
+    ]
+  },
+  "llama_index_llms_google_genai-0.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6eff274edb710332e1c73b64531ca2cef1806d188bfaf645dca7c250639fb056",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "llama-index-core",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "google-genai<2,>=1.24.0",
+      "llama-index-core<0.15,>=0.14.5",
+      "pillow>=10.2.0"
+    ]
+  },
+  "llama_index_llms_google_genai-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e731dccc2ec64fb0f121deec7b92972e5647bd452265e109472f211a97f85ba0",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "llama-index-core",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "google-genai<2,>=1.24.0",
+      "llama-index-core<0.15,>=0.14.5",
+      "pillow>=10.2.0"
+    ]
+  }
+}

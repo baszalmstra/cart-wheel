@@ -1,0 +1,11 @@
+# Package configuration for oslotest
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oslotest-6.0.0-py3-none-any.whl" },
+  { filename = "oslotest-5.0.1-py3-none-any.whl" },
+  { filename = "oslotest-5.0.0-py3-none-any.whl" },
+  { filename = "oslotest-4.5.0-py3-none-any.whl" },
+  { filename = "oslotest-4.4.1-py3-none-any.whl" },
+]

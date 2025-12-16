@@ -1,0 +1,12 @@
+# Package configuration for types-docutils
+conda_forge = "types-docutils"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_docutils-0.22.3.20251115-py3-none-any.whl" },
+  { filename = "types_docutils-0.22.2.20251006-py3-none-any.whl" },
+  { filename = "types_docutils-0.22.2.20250924-py3-none-any.whl" },
+  { filename = "types_docutils-0.22.1.20250923-py3-none-any.whl" },
+  { filename = "types_docutils-0.22.0.20250919-py3-none-any.whl" },
+]

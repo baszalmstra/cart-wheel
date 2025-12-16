@@ -1,0 +1,12 @@
+# Package configuration for msal
+conda_forge = "msal"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "msal-1.34.0-py3-none-any.whl" },
+  { filename = "msal-1.33.0-py3-none-any.whl" },
+  { filename = "msal-1.32.3-py3-none-any.whl" },
+  { filename = "msal-1.32.2-py3-none-any.whl" },
+  { filename = "msal-1.32.1-py3-none-any.whl" },
+]

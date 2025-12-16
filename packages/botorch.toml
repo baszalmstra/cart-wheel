@@ -1,0 +1,12 @@
+# Package configuration for botorch
+conda_forge = "botorch"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "botorch-0.16.1-py3-none-any.whl" },
+  { filename = "botorch-0.16.0-py3-none-any.whl" },
+  { filename = "botorch-0.15.1-py3-none-any.whl" },
+  { filename = "botorch-0.15.0-py3-none-any.whl" },
+  { filename = "botorch-0.14.0-py3-none-any.whl" },
+]

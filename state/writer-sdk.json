@@ -1,0 +1,140 @@
+{
+  "writer_sdk-2.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "954b28d84221583bdd151195a493a013b927791084ae43b48951e543ec6bdc64",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "cached-property",
+        "distro",
+        "httpx",
+        "jiter",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "cached-property; python_version < '3.8'",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "jiter<1,>=0.4.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  },
+  "writer_sdk-2.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "297cd37c82828327e18ba2c2ccf7b5cfd18715791b72bfd8f687a896336d1085",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "cached-property",
+        "distro",
+        "httpx",
+        "jiter",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "cached-property; python_version < '3.8'",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "jiter<1,>=0.4.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  },
+  "writer_sdk-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74eac43b5d2024bc2fc448f155715cbca4a5e21762c419b431043fd3afd2fc32",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "cached-property",
+        "distro",
+        "httpx",
+        "jiter",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "cached-property; python_version < '3.8'",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "jiter<1,>=0.4.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  },
+  "writer_sdk-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d7fae4a3fc368ba32e26698beaef01b2ad4d28d2bae1aa0612bfa7a703532aad",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "cached-property",
+        "distro",
+        "httpx",
+        "jiter",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "cached-property; python_version < '3.8'",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "jiter<1,>=0.4.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  },
+  "writer_sdk-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a8460bf114f6ee9b91992de0f310e590f9700706e5350fcbc4017d81988a34c",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "cached-property",
+        "distro",
+        "httpx",
+        "jiter",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "cached-property; python_version < '3.8'",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "jiter<1,>=0.4.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10"
+    ]
+  }
+}

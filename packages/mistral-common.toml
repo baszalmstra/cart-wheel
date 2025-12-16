@@ -1,0 +1,12 @@
+# Package configuration for mistral-common
+conda_forge = "mistral-common"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mistral_common-1.8.6-py3-none-any.whl" },
+  { filename = "mistral_common-1.8.5-py3-none-any.whl" },
+  { filename = "mistral_common-1.8.4-py3-none-any.whl" },
+  { filename = "mistral_common-1.8.3-py3-none-any.whl" },
+  { filename = "mistral_common-1.8.2-py3-none-any.whl" },
+]

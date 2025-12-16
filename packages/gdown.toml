@@ -1,0 +1,12 @@
+# Package configuration for gdown
+conda_forge = "gdown"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gdown-5.2.0-py3-none-any.whl" },
+  { filename = "gdown-5.1.0-py3-none-any.whl" },
+  { filename = "gdown-5.0.1-py3-none-any.whl" },
+  { filename = "gdown-5.0.0-py3-none-any.whl" },
+  { filename = "gdown-4.7.3-py3-none-any.whl" },
+]

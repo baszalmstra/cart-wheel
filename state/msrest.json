@@ -1,0 +1,120 @@
+{
+  "msrest-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "21120a810e1233e5e6cc7fe40b474eeb4ec6f757a15d7cf86702c369f9567c32",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "certifi",
+        "isodate",
+        "requests-oauthlib",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "azure-core (>=1.24.0)",
+      "certifi (>=2017.4.17)",
+      "isodate (>=0.6.0)",
+      "requests-oauthlib (>=0.5.0)",
+      "requests (~=2.16)",
+      "aiodns ; (python_version>='3.5') and extra == 'async'",
+      "aiohttp (>=3.0) ; (python_version>='3.5') and extra == 'async'"
+    ]
+  },
+  "msrest-0.6.21-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c840511c845330e96886011a236440fafc2c9aff7b2df9c0a92041ee2dee3782",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-oauthlib",
+        "isodate",
+        "certifi",
+        "enum34",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "requests (~=2.16)",
+      "requests-oauthlib (>=0.5.0)",
+      "isodate (>=0.6.0)",
+      "certifi (>=2017.4.17)",
+      "enum34 (>=1.0.4) ; python_version<'3.4'",
+      "typing ; python_version<'3.5'",
+      "aiohttp (>=3.0) ; (python_version>='3.5') and extra == 'async'",
+      "aiodns ; (python_version>='3.5') and extra == 'async'"
+    ]
+  },
+  "msrest-0.6.20-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "114293965a9f62afb61fb7c3bd08a528f04245198fc10cfc21fe294deb272361",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-oauthlib",
+        "isodate",
+        "certifi",
+        "enum34",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "requests (~=2.16)",
+      "requests-oauthlib (>=0.5.0)",
+      "isodate (>=0.6.0)",
+      "certifi (>=2017.4.17)",
+      "enum34 (>=1.0.4) ; python_version<'3.4'",
+      "typing ; python_version<'3.5'",
+      "aiohttp (>=3.0) ; (python_version>='3.5') and extra == 'async'",
+      "aiodns ; (python_version>='3.5') and extra == 'async'"
+    ]
+  },
+  "msrest-0.6.19-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "87aa64948c3ef3dbf6f6956d2240493e68d714e4621b92b65b3c4d5808297929",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-oauthlib",
+        "isodate",
+        "certifi",
+        "enum34",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "requests (~=2.16)",
+      "requests-oauthlib (>=0.5.0)",
+      "isodate (>=0.6.0)",
+      "certifi (>=2017.4.17)",
+      "enum34 (>=1.0.4) ; python_version<'3.4'",
+      "typing ; python_version<'3.5'",
+      "aiohttp (>=3.0) ; (python_version>='3.5') and extra == 'async'",
+      "aiodns ; (python_version>='3.5') and extra == 'async'"
+    ]
+  },
+  "msrest-0.6.18-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4993023011663b4273f15432fab75cc747dfa0bca1816d8122a7d1f9fdd9288d",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-oauthlib",
+        "isodate",
+        "certifi",
+        "enum34",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "requests (~=2.16)",
+      "requests-oauthlib (>=0.5.0)",
+      "isodate (>=0.6.0)",
+      "certifi (>=2017.4.17)",
+      "enum34 (>=1.0.4) ; python_version<'3.4'",
+      "typing ; python_version<'3.5'",
+      "aiohttp (>=3.0) ; (python_version>='3.5') and extra == 'async'",
+      "aiodns ; (python_version>='3.5') and extra == 'async'"
+    ]
+  }
+}

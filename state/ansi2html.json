@@ -1,0 +1,147 @@
+{
+  "ansi2html-1.9.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:44.269457+00:00",
+    "conda_file": "ansi2html-1.9.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "importlib-metadata;",
+        "typing-extensions;"
+      ],
+      "optional": {
+        "docs": [
+          "mkdocs",
+          "mkdocs-material",
+          "mkdocs-material-extensions",
+          "mkdocstrings",
+          "mkdocstrings-python",
+          "pymdown-extensions"
+        ],
+        "test": [
+          "pytest",
+          "pytest-cov"
+        ]
+      }
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "typing-extensions ; python_version < \"3.8\"",
+      "mkdocs ; extra == 'docs'",
+      "mkdocs-material ; extra == 'docs'",
+      "mkdocs-material-extensions ; extra == 'docs'",
+      "mkdocstrings ; extra == 'docs'",
+      "mkdocstrings-python ; extra == 'docs'",
+      "pymdown-extensions ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "ansi2html-1.9.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:44.326354+00:00",
+    "conda_file": "ansi2html-1.9.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "importlib-metadata;",
+        "typing-extensions;"
+      ],
+      "optional": {
+        "docs": [
+          "mkdocs",
+          "mkdocs-material",
+          "mkdocs-material-extensions",
+          "mkdocstrings",
+          "mkdocstrings-python",
+          "pymdown-extensions"
+        ],
+        "test": [
+          "pytest",
+          "pytest-cov"
+        ]
+      }
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "typing-extensions ; python_version < \"3.8\"",
+      "mkdocs ; extra == 'docs'",
+      "mkdocs-material ; extra == 'docs'",
+      "mkdocs-material-extensions ; extra == 'docs'",
+      "mkdocstrings ; extra == 'docs'",
+      "mkdocstrings-python ; extra == 'docs'",
+      "pymdown-extensions ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "ansi2html-1.8.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:44.298753+00:00",
+    "conda_file": "ansi2html-1.8.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "importlib-metadata;"
+      ],
+      "optional": {
+        "docs": [
+          "sphinx",
+          "setuptools-scm",
+          "sphinx-rtd-theme"
+        ],
+        "test": [
+          "pytest",
+          "pytest-cov"
+        ]
+      }
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "Sphinx ; extra == 'docs'",
+      "setuptools-scm ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "ansi2html-1.7.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:44.447576+00:00",
+    "conda_file": "ansi2html-1.7.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "importlib-metadata;"
+      ],
+      "optional": {
+        "docs": [
+          "sphinx",
+          "setuptools-scm",
+          "sphinx-rtd-theme"
+        ],
+        "test": [
+          "pytest",
+          "pytest-cov"
+        ]
+      }
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "Sphinx ; extra == 'docs'",
+      "setuptools-scm ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "ansi2html-1.6.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:44.422014+00:00",
+    "conda_file": "ansi2html-1.6.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

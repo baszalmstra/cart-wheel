@@ -1,0 +1,8 @@
+# Package configuration for pydispatcher
+conda_forge = "pydispatcher"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "PyDispatcher-2.0.7-py3-none-any.whl" },
+]

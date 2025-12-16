@@ -1,0 +1,12 @@
+# Package configuration for mlcroissant
+conda_forge = "mlcroissant"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mlcroissant-1.0.22-py2.py3-none-any.whl" },
+  { filename = "mlcroissant-1.0.21-py2.py3-none-any.whl" },
+  { filename = "mlcroissant-1.0.20-py2.py3-none-any.whl" },
+  { filename = "mlcroissant-1.0.19-py2.py3-none-any.whl" },
+  { filename = "mlcroissant-1.0.18-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for xlsxwriter
+conda_forge = "xlsxwriter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "xlsxwriter-3.2.9-py3-none-any.whl" },
+  { filename = "xlsxwriter-3.2.8-py3-none-any.whl" },
+  { filename = "xlsxwriter-3.2.7-py3-none-any.whl" },
+  { filename = "xlsxwriter-3.2.6-py3-none-any.whl" },
+  { filename = "xlsxwriter-3.2.5-py3-none-any.whl" },
+]

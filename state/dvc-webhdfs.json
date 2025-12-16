@@ -1,0 +1,205 @@
+{
+  "dvc_webhdfs-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4accff29551467f18443a0a066a46f414cb344dd9c553392c5644bd59c29658f",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "fsspec"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "fsspec >=2023.12.0",
+      "requests-kerberos ==0.13.0 ; extra == 'kerberos'",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==6.2.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-docker <2,>=1 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "crc32c ==2.3 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "hdfs ==2.6.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "pylint ==2.15.9 ; extra == 'tests'",
+      "pylint-pytest ==1.1.2 ; extra == 'tests'",
+      "pylint-plugin-utils ==0.6 ; extra == 'tests'",
+      "mypy ==0.991 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "dvc-hdfs ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_webhdfs-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1956334c051c70700a8a2710b8efc2bc46b649a922a2d8146053311396adc3fe",
+    "dependencies": {
+      "required": [
+        "dvc"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "requests-kerberos ==0.13.0 ; extra == 'kerberos'",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==6.2.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-docker <2,>=1 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "crc32c ==2.3 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "hdfs ==2.6.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "pylint ==2.15.9 ; extra == 'tests'",
+      "pylint-pytest ==1.1.2 ; extra == 'tests'",
+      "pylint-plugin-utils ==0.6 ; extra == 'tests'",
+      "mypy ==0.991 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "dvc-hdfs ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_webhdfs-2.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "351a2d52b18d5e236960c24e6457cf7857db73b2e4eab610fff097a75dc3c461",
+    "dependencies": {
+      "required": [
+        "dvc"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "requests-kerberos (==0.13.0) ; extra == 'kerberos'",
+      "wheel (==0.37.0) ; extra == 'tests'",
+      "dvc ; extra == 'tests'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "pytest-docker (==0.10.3) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "mock (==4.0.3) ; extra == 'tests'",
+      "wget (==3.2) ; extra == 'tests'",
+      "filelock (==3.3.2) ; extra == 'tests'",
+      "crc32c (==2.2.post0) ; extra == 'tests'",
+      "xmltodict (==0.12.0) ; extra == 'tests'",
+      "hdfs (==2.6.0) ; extra == 'tests'",
+      "Pygments (==2.10.0) ; extra == 'tests'",
+      "collective.checkdocs (==0.2) ; extra == 'tests'",
+      "pydocstyle (==6.1.1) ; extra == 'tests'",
+      "pylint (==2.11.1) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "pylint-plugin-utils (==0.6) ; extra == 'tests'",
+      "mypy (==0.910) ; extra == 'tests'",
+      "types-requests (==2.25.11) ; extra == 'tests'",
+      "types-tabulate (==0.8.3) ; extra == 'tests'",
+      "types-toml (==0.10.1) ; extra == 'tests'",
+      "dvc-hdfs ; extra == 'tests'",
+      "pywin32 (>=225) ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_webhdfs-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "95495c705bf58ee68aa9a8a020a00769194e58254ef801cb3beda59e6ceee69b",
+    "dependencies": {
+      "required": [
+        "dvc"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "requests-kerberos (==0.13.0) ; extra == 'kerberos'",
+      "wheel (==0.37.0) ; extra == 'tests'",
+      "dvc ; extra == 'tests'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "pytest-docker (==0.10.3) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "mock (==4.0.3) ; extra == 'tests'",
+      "wget (==3.2) ; extra == 'tests'",
+      "filelock (==3.3.2) ; extra == 'tests'",
+      "crc32c (==2.2.post0) ; extra == 'tests'",
+      "xmltodict (==0.12.0) ; extra == 'tests'",
+      "hdfs (==2.6.0) ; extra == 'tests'",
+      "Pygments (==2.10.0) ; extra == 'tests'",
+      "collective.checkdocs (==0.2) ; extra == 'tests'",
+      "pydocstyle (==6.1.1) ; extra == 'tests'",
+      "pylint (==2.11.1) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "pylint-plugin-utils (==0.6) ; extra == 'tests'",
+      "mypy (==0.910) ; extra == 'tests'",
+      "types-requests (==2.25.11) ; extra == 'tests'",
+      "types-tabulate (==0.8.3) ; extra == 'tests'",
+      "types-toml (==0.10.1) ; extra == 'tests'",
+      "dvc-hdfs ; extra == 'tests'",
+      "pywin32 (>=225) ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_webhdfs-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "21ce56ec840570b540d89e2476b9369aa4feee89da502cea2073100316fc141b",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "requests-kerberos"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "requests-kerberos (==0.13.0)",
+      "wheel (==0.37.0) ; extra == 'tests'",
+      "dvc ; extra == 'tests'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "pytest-docker (==0.10.3) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "mock (==4.0.3) ; extra == 'tests'",
+      "wget (==3.2) ; extra == 'tests'",
+      "filelock (==3.3.2) ; extra == 'tests'",
+      "crc32c (==2.2.post0) ; extra == 'tests'",
+      "xmltodict (==0.12.0) ; extra == 'tests'",
+      "hdfs (==2.6.0) ; extra == 'tests'",
+      "Pygments (==2.10.0) ; extra == 'tests'",
+      "collective.checkdocs (==0.2) ; extra == 'tests'",
+      "pydocstyle (==6.1.1) ; extra == 'tests'",
+      "pylint (==2.11.1) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "pylint-plugin-utils (==0.6) ; extra == 'tests'",
+      "mypy (==0.910) ; extra == 'tests'",
+      "types-requests (==2.25.11) ; extra == 'tests'",
+      "types-tabulate (==0.8.3) ; extra == 'tests'",
+      "types-toml (==0.10.1) ; extra == 'tests'",
+      "dvc-hdfs ; extra == 'tests'",
+      "pywin32 (>=225) ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  }
+}

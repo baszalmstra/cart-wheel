@@ -1,0 +1,221 @@
+{
+  "neo4j_viz-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4493b0ebabc597cee22969ec07d238095441b8d660c4b2fd9b5263a246d4f881",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "pydantic",
+        "pydantic-extra-types",
+        "enum-tools"
+      ]
+    },
+    "original_requirements": [
+      "ipython<10,>=7",
+      "pydantic<3,>=2",
+      "pydantic-extra-types<3,>=2",
+      "enum-tools==0.13.0",
+      "ruff==0.14.1; extra == \"dev\"",
+      "mypy==1.18.2; extra == \"dev\"",
+      "pytest==8.4.2; extra == \"dev\"",
+      "selenium==4.32.0; extra == \"dev\"",
+      "ipykernel==6.30.1; extra == \"dev\"",
+      "palettable==3.3.3; extra == \"dev\"",
+      "pytest-mock==3.14.0; extra == \"dev\"",
+      "nbconvert==7.16.6; extra == \"dev\"",
+      "streamlit==1.45.0; extra == \"dev\"",
+      "matplotlib>=3.9.4; extra == \"dev\"",
+      "sphinx==8.1.3; extra == \"docs\"",
+      "enum-tools[sphinx]; extra == \"docs\"",
+      "nbsphinx==0.9.7; extra == \"docs\"",
+      "nbsphinx-link==1.3.1; extra == \"docs\"",
+      "pandas<3,>=2; extra == \"pandas\"",
+      "pandas-stubs<3,>=2; extra == \"pandas\"",
+      "graphdatascience<2,>=1; extra == \"gds\"",
+      "neo4j; extra == \"neo4j\"",
+      "snowflake-snowpark-python<2,>=1; extra == \"snowflake\"",
+      "ipykernel>=6.29.5; extra == \"notebook\"",
+      "pykernel>=0.1.6; extra == \"notebook\"",
+      "neo4j>=5.26.0; extra == \"notebook\"",
+      "ipywidgets>=8.0.0; extra == \"notebook\"",
+      "palettable>=3.3.3; extra == \"notebook\"",
+      "matplotlib>=3.9.4; extra == \"notebook\"",
+      "snowflake-snowpark-python==1.37.0; extra == \"notebook\""
+    ]
+  },
+  "neo4j_viz-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db1534c2e647e29dd4ada9d2c16ddd960029d353cc8971fb936faaba76b80863",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "pydantic",
+        "pydantic-extra-types",
+        "enum-tools"
+      ]
+    },
+    "original_requirements": [
+      "ipython<10,>=7",
+      "pydantic<3,>=2",
+      "pydantic-extra-types<3,>=2",
+      "enum-tools==0.13.0",
+      "ruff==0.14.1; extra == \"dev\"",
+      "mypy==1.18.2; extra == \"dev\"",
+      "pytest==8.4.2; extra == \"dev\"",
+      "selenium==4.32.0; extra == \"dev\"",
+      "ipykernel==6.30.1; extra == \"dev\"",
+      "palettable==3.3.3; extra == \"dev\"",
+      "pytest-mock==3.14.0; extra == \"dev\"",
+      "nbconvert==7.16.6; extra == \"dev\"",
+      "streamlit==1.45.0; extra == \"dev\"",
+      "matplotlib>=3.9.4; extra == \"dev\"",
+      "sphinx==8.1.3; extra == \"docs\"",
+      "enum-tools[sphinx]; extra == \"docs\"",
+      "nbsphinx==0.9.7; extra == \"docs\"",
+      "nbsphinx-link==1.3.1; extra == \"docs\"",
+      "pandas<3,>=2; extra == \"pandas\"",
+      "pandas-stubs<3,>=2; extra == \"pandas\"",
+      "graphdatascience<2,>=1; extra == \"gds\"",
+      "neo4j; extra == \"neo4j\"",
+      "snowflake-snowpark-python<2,>=1; extra == \"snowflake\"",
+      "ipykernel>=6.29.5; extra == \"notebook\"",
+      "pykernel>=0.1.6; extra == \"notebook\"",
+      "neo4j>=5.26.0; extra == \"notebook\"",
+      "ipywidgets>=8.0.0; extra == \"notebook\"",
+      "palettable>=3.3.3; extra == \"notebook\"",
+      "matplotlib>=3.9.4; extra == \"notebook\"",
+      "snowflake-snowpark-python==1.37.0; extra == \"notebook\""
+    ]
+  },
+  "neo4j_viz-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd6dbd3490189132ac4dbd11d344fda4c4157dd2bd2fb1520cb7451270161f52",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "pydantic",
+        "pydantic-extra-types",
+        "enum-tools"
+      ]
+    },
+    "original_requirements": [
+      "ipython<10,>=7",
+      "pydantic<3,>=2",
+      "pydantic-extra-types<3,>=2",
+      "enum-tools==0.13.0",
+      "ruff==0.14.1; extra == \"dev\"",
+      "mypy==1.17.1; extra == \"dev\"",
+      "pytest==8.4.2; extra == \"dev\"",
+      "selenium==4.32.0; extra == \"dev\"",
+      "ipykernel==6.30.1; extra == \"dev\"",
+      "palettable==3.3.3; extra == \"dev\"",
+      "pytest-mock==3.14.0; extra == \"dev\"",
+      "nbconvert==7.16.6; extra == \"dev\"",
+      "streamlit==1.45.0; extra == \"dev\"",
+      "matplotlib>=3.9.4; extra == \"dev\"",
+      "sphinx==8.1.3; extra == \"docs\"",
+      "enum-tools[sphinx]; extra == \"docs\"",
+      "nbsphinx==0.9.7; extra == \"docs\"",
+      "nbsphinx-link==1.3.1; extra == \"docs\"",
+      "pandas<3,>=2; extra == \"pandas\"",
+      "pandas-stubs<3,>=2; extra == \"pandas\"",
+      "graphdatascience<2,>=1; extra == \"gds\"",
+      "neo4j; extra == \"neo4j\"",
+      "snowflake-snowpark-python<2,>=1; extra == \"snowflake\"",
+      "ipykernel>=6.29.5; extra == \"notebook\"",
+      "pykernel>=0.1.6; extra == \"notebook\"",
+      "neo4j>=5.26.0; extra == \"notebook\"",
+      "ipywidgets>=8.0.0; extra == \"notebook\"",
+      "palettable>=3.3.3; extra == \"notebook\"",
+      "matplotlib>=3.9.4; extra == \"notebook\"",
+      "snowflake-snowpark-python==1.37.0; extra == \"notebook\""
+    ]
+  },
+  "neo4j_viz-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9394719875bcef3f6651e94eebd9dd9fa2215be6d40af75ae80d9d0e560abc16",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "pydantic",
+        "pydantic-extra-types",
+        "enum-tools"
+      ]
+    },
+    "original_requirements": [
+      "ipython<10,>=7",
+      "pydantic<3,>=2",
+      "pydantic-extra-types<3,>=2",
+      "enum-tools==0.12.0",
+      "ruff==0.11.8; extra == \"dev\"",
+      "mypy==1.17.1; extra == \"dev\"",
+      "pytest==8.3.4; extra == \"dev\"",
+      "selenium==4.32.0; extra == \"dev\"",
+      "ipykernel==6.29.5; extra == \"dev\"",
+      "palettable==3.3.3; extra == \"dev\"",
+      "pytest-mock==3.14.0; extra == \"dev\"",
+      "nbconvert==7.16.6; extra == \"dev\"",
+      "streamlit==1.45.0; extra == \"dev\"",
+      "matplotlib>=3.9.4; extra == \"dev\"",
+      "sphinx==8.1.3; extra == \"docs\"",
+      "enum-tools[sphinx]; extra == \"docs\"",
+      "nbsphinx==0.9.6; extra == \"docs\"",
+      "nbsphinx-link==1.3.1; extra == \"docs\"",
+      "pandas<3,>=2; extra == \"pandas\"",
+      "pandas-stubs<3,>=2; extra == \"pandas\"",
+      "graphdatascience<2,>=1; extra == \"gds\"",
+      "neo4j; extra == \"neo4j\"",
+      "snowflake-snowpark-python<2,>=1; extra == \"snowflake\"",
+      "ipykernel>=6.29.5; extra == \"notebook\"",
+      "pykernel>=0.1.6; extra == \"notebook\"",
+      "neo4j>=5.26.0; extra == \"notebook\"",
+      "ipywidgets>=8.0.0; extra == \"notebook\"",
+      "palettable>=3.3.3; extra == \"notebook\"",
+      "matplotlib>=3.9.4; extra == \"notebook\"",
+      "snowflake-snowpark-python==1.37.0; extra == \"notebook\""
+    ]
+  },
+  "neo4j_viz-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1185cfdca62359315bc9cee08d412972e9eef95b7b72a0dd2cd62c184533d6e",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "pydantic",
+        "pydantic-extra-types",
+        "enum-tools"
+      ]
+    },
+    "original_requirements": [
+      "ipython<10,>=7",
+      "pydantic<3,>=2",
+      "pydantic-extra-types<3,>=2",
+      "enum-tools==0.12.0",
+      "ruff==0.11.8; extra == \"dev\"",
+      "mypy==1.15.0; extra == \"dev\"",
+      "pytest==8.3.4; extra == \"dev\"",
+      "selenium==4.32.0; extra == \"dev\"",
+      "ipykernel==6.29.5; extra == \"dev\"",
+      "palettable==3.3.3; extra == \"dev\"",
+      "pytest-mock==3.14.0; extra == \"dev\"",
+      "nbconvert==7.16.6; extra == \"dev\"",
+      "streamlit==1.45.0; extra == \"dev\"",
+      "matplotlib>=3.9.4; extra == \"dev\"",
+      "sphinx==8.1.3; extra == \"docs\"",
+      "enum-tools[sphinx]; extra == \"docs\"",
+      "nbsphinx==0.9.6; extra == \"docs\"",
+      "nbsphinx-link==1.3.1; extra == \"docs\"",
+      "pandas<3,>=2; extra == \"pandas\"",
+      "pandas-stubs<3,>=2; extra == \"pandas\"",
+      "graphdatascience<2,>=1; extra == \"gds\"",
+      "neo4j; extra == \"neo4j\"",
+      "ipykernel>=6.29.5; extra == \"notebook\"",
+      "pykernel>=0.1.6; extra == \"notebook\"",
+      "neo4j>=5.26.0; extra == \"notebook\"",
+      "ipywidgets>=8.0.0; extra == \"notebook\"",
+      "palettable>=3.3.3; extra == \"notebook\"",
+      "matplotlib>=3.9.4; extra == \"notebook\"",
+      "snowflake-snowpark-python==1.26.0; extra == \"notebook\""
+    ]
+  }
+}

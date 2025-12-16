@@ -1,0 +1,10 @@
+# Package configuration for flashinfer-python
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flashinfer_python-0.5.3-py3-none-any.whl" },
+  { filename = "flashinfer_python-0.5.2-py3-none-any.whl" },
+  { filename = "flashinfer_python-0.5.1-py3-none-any.whl" },
+  { filename = "flashinfer_python-0.5.0-py3-none-any.whl" },
+]

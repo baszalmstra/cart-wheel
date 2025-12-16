@@ -1,0 +1,10 @@
+# Package configuration for pyquaternion
+conda_forge = "pyquaternion"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyquaternion-0.9.9-py3-none-any.whl" },
+  { filename = "pyquaternion-0.9.8-py3-none-any.whl" },
+  { filename = "pyquaternion-0.9.5-py3-none-any.whl" },
+]

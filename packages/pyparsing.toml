@@ -1,0 +1,12 @@
+# Package configuration for pyparsing
+conda_forge = "pyparsing"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyparsing-3.2.5-py3-none-any.whl" },
+  { filename = "pyparsing-3.2.4-py3-none-any.whl" },
+  { filename = "pyparsing-3.2.3-py3-none-any.whl" },
+  { filename = "pyparsing-3.2.2-py3-none-any.whl" },
+  { filename = "pyparsing-3.2.1-py3-none-any.whl" },
+]

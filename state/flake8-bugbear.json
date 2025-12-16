@@ -1,0 +1,102 @@
+{
+  "flake8_bugbear-25.11.29-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9bf15e2970e736d2340da4c0a70493db964061c9c38f708cfe1f7b2d87392298",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "flake8>=7.2.0",
+      "attrs>=22.2.0",
+      "tox; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "hypothesis; extra == \"dev\"",
+      "hypothesmith>=0.2; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\""
+    ]
+  },
+  "flake8_bugbear-25.10.21-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f1c5654f9d9d3e62e90da1f0335551fdbc565c51749713177dbcfb9edb105405",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "flake8>=7.2.0",
+      "attrs>=22.2.0",
+      "tox; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "hypothesis; extra == \"dev\"",
+      "hypothesmith>=0.2; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\""
+    ]
+  },
+  "flake8_bugbear-24.12.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b6967436f65ca22a42e5373aaa6f2d87966ade9aa38d4baf2a1be550767545e",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "flake8>=6.0.0",
+      "attrs>=22.2.0",
+      "tox; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "hypothesis; extra == \"dev\"",
+      "hypothesmith>=0.2; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\""
+    ]
+  },
+  "flake8_bugbear-24.10.31-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cccf786ccf9b2e1052b1ecfa80fb8f80832d0880425bcbd4cd45d3c8128c2683",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "flake8 >=6.0.0",
+      "attrs >=22.2.0",
+      "tox ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "hypothesis ; extra == 'dev'",
+      "hypothesmith >=0.2 ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest ; extra == 'dev'"
+    ]
+  },
+  "flake8_bugbear-24.8.19-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "25bc3867f7338ee3b3e0916bf8b8a0b743f53a9a5175782ddc4325ed4f386b89",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "flake8 >=6.0.0",
+      "attrs >=19.2.0",
+      "tox ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "hypothesis ; extra == 'dev'",
+      "hypothesmith >=0.2 ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest ; extra == 'dev'"
+    ]
+  }
+}

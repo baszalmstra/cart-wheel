@@ -1,0 +1,210 @@
+{
+  "fastembed_gpu-0.7.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "970881d22788165065fdb3873846304a27a5c8ff771c656fa7ff38b7a1d22274",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "loguru",
+        "mmh3",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "onnxruntime-gpu",
+        "onnxruntime-gpu",
+        "onnxruntime-gpu",
+        "pillow",
+        "pillow",
+        "pillow",
+        "py-rust-stemmers",
+        "requests",
+        "tokenizers",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub (>=0.20,<2.0)",
+      "loguru (>=0.7.2,<0.8.0)",
+      "mmh3 (>=4.1.0,<6.0.0)",
+      "numpy (>=1.21) ; python_version == \"3.11\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.21,<2.3.0) ; python_version == \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version == \"3.13\"",
+      "numpy (>=2.3.0) ; python_version >= \"3.14\"",
+      "onnxruntime-gpu (>1.20.0) ; python_version >= \"3.13\"",
+      "onnxruntime-gpu (>=1.17.0,!=1.20.0) ; python_version >= \"3.10\" and python_version < \"3.13\"",
+      "onnxruntime-gpu (>=1.17.0,<1.20.0) ; python_version < \"3.10\"",
+      "pillow (>=10.3.0,<11.0) ; python_version < \"3.10\"",
+      "pillow (>=10.3.0,<12.0) ; python_version >= \"3.10\" and python_version < \"3.13\"",
+      "pillow (>=11.0.0,<12.0) ; python_version >= \"3.13\"",
+      "py-rust-stemmers (>=0.1.0,<0.2.0)",
+      "requests (>=2.31,<3.0)",
+      "tokenizers (>=0.15,<1.0)",
+      "tqdm (>=4.66,<5.0)"
+    ]
+  },
+  "fastembed_gpu-0.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "762385f788b55d05ccbb663516d127194d6567426916a7d8fc63378ffcfcdc41",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "loguru",
+        "mmh3",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "onnxruntime-gpu",
+        "onnxruntime-gpu",
+        "onnxruntime-gpu",
+        "pillow",
+        "py-rust-stemmers",
+        "requests",
+        "tokenizers",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub (>=0.20,<1.0)",
+      "loguru (>=0.7.2,<0.8.0)",
+      "mmh3 (>=4.1.0,<6.0.0)",
+      "numpy (>=1.21) ; python_version >= \"3.10\" and python_version < \"3.12\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\"",
+      "onnxruntime-gpu (>1.20.0) ; python_version >= \"3.13\"",
+      "onnxruntime-gpu (>=1.17.0,!=1.20.0) ; python_version >= \"3.10\" and python_version < \"3.13\"",
+      "onnxruntime-gpu (>=1.17.0,<1.20.0) ; python_version < \"3.10\"",
+      "pillow (>=10.3.0,<12.0.0)",
+      "py-rust-stemmers (>=0.1.0,<0.2.0)",
+      "requests (>=2.31,<3.0)",
+      "tokenizers (>=0.15,<1.0)",
+      "tqdm (>=4.66,<5.0)"
+    ]
+  },
+  "fastembed_gpu-0.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b563156e06cbe8952e0016e8aca76ee5cb12b03b4c869c832b258c28fdb3e0e9",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "loguru",
+        "mmh3",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "onnxruntime-gpu",
+        "onnxruntime-gpu",
+        "onnxruntime-gpu",
+        "pillow",
+        "py-rust-stemmers",
+        "requests",
+        "tokenizers",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub (>=0.20,<1.0)",
+      "loguru (>=0.7.2,<0.8.0)",
+      "mmh3 (>=4.1.0,<6.0.0)",
+      "numpy (>=1.21) ; python_version >= \"3.10\" and python_version < \"3.12\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\"",
+      "onnxruntime-gpu (>1.20.0) ; python_version >= \"3.13\"",
+      "onnxruntime-gpu (>=1.17.0,!=1.20.0) ; python_version >= \"3.10\" and python_version < \"3.13\"",
+      "onnxruntime-gpu (>=1.17.0,<1.20.0) ; python_version < \"3.10\"",
+      "pillow (>=10.3.0,<12.0.0)",
+      "py-rust-stemmers (>=0.1.0,<0.2.0)",
+      "requests (>=2.31,<3.0)",
+      "tokenizers (>=0.15,<1.0)",
+      "tqdm (>=4.66,<5.0)"
+    ]
+  },
+  "fastembed_gpu-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c04dd6d67f0fc4e8cafb0ce29a1065e42547d6e4626193f34333ad89a522fa5e",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "loguru",
+        "mmh3",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "onnxruntime-gpu",
+        "onnxruntime-gpu",
+        "onnxruntime-gpu",
+        "pillow",
+        "py-rust-stemmers",
+        "requests",
+        "tokenizers",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub (>=0.20,<1.0)",
+      "loguru (>=0.7.2,<0.8.0)",
+      "mmh3 (>=4.1.0,<6.0.0)",
+      "numpy (>=1.21) ; python_version >= \"3.10\" and python_version < \"3.12\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\"",
+      "onnxruntime-gpu (>1.20.0) ; python_version >= \"3.13\"",
+      "onnxruntime-gpu (>=1.17.0,!=1.20.0) ; python_version >= \"3.10\" and python_version < \"3.13\"",
+      "onnxruntime-gpu (>=1.17.0,<1.20.0) ; python_version < \"3.10\"",
+      "pillow (>=10.3.0,<12.0.0)",
+      "py-rust-stemmers (>=0.1.0,<0.2.0)",
+      "requests (>=2.31,<3.0)",
+      "tokenizers (>=0.15,<1.0)",
+      "tqdm (>=4.66,<5.0)"
+    ]
+  },
+  "fastembed_gpu-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e3e2714a9ab3cf9190afafe614ade932cb5074e0e6cde7ce4e2517c04b157f10",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "loguru",
+        "mmh3",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "onnxruntime-gpu",
+        "onnxruntime-gpu",
+        "onnxruntime-gpu",
+        "pillow",
+        "py-rust-stemmers",
+        "requests",
+        "tokenizers",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub (>=0.20,<1.0)",
+      "loguru (>=0.7.2,<0.8.0)",
+      "mmh3 (>=4.1.0,<6.0.0)",
+      "numpy (>=1.21) ; python_version >= \"3.10\" and python_version < \"3.12\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\"",
+      "onnxruntime-gpu (>1.20.0) ; python_version >= \"3.13\"",
+      "onnxruntime-gpu (>=1.17.0,!=1.20.0) ; python_version >= \"3.10\" and python_version < \"3.13\"",
+      "onnxruntime-gpu (>=1.17.0,<1.20.0) ; python_version < \"3.10\"",
+      "pillow (>=10.3.0,<12.0.0)",
+      "py-rust-stemmers (>=0.1.0,<0.2.0)",
+      "requests (>=2.31,<3.0)",
+      "tokenizers (>=0.15,<1.0)",
+      "tqdm (>=4.66,<5.0)"
+    ]
+  }
+}

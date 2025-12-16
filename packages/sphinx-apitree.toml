@@ -1,0 +1,11 @@
+# Package configuration for sphinx-apitree
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_apitree-1.6.2-py3-none-any.whl" },
+  { filename = "sphinx_apitree-1.6.1-py3-none-any.whl" },
+  { filename = "sphinx_apitree-1.6.0-py3-none-any.whl" },
+  { filename = "sphinx_apitree-1.5.3-py3-none-any.whl" },
+  { filename = "sphinx_apitree-1.4.5-py3-none-any.whl" },
+]

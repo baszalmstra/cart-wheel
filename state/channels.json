@@ -1,0 +1,106 @@
+{
+  "channels-4.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fef47e9055a603900cf16cef85f050d522d9ac4b3daccf24835bd9580705c176",
+    "dependencies": {
+      "required": [
+        "django",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "Django>=4.2",
+      "asgiref<4,>=3.9.0",
+      "async-timeout; extra == \"tests\"",
+      "coverage~=4.5; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-django; extra == \"tests\"",
+      "pytest-asyncio; extra == \"tests\"",
+      "selenium; extra == \"tests\"",
+      "daphne>=4.0.0; extra == \"daphne\"",
+      "types-channels; extra == \"types\""
+    ]
+  },
+  "channels-4.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b091d4b26f91d807de3e84aead7ba785314f27eaf5bac31dd51b1c956b883859",
+    "dependencies": {
+      "required": [
+        "django",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "Django>=4.2",
+      "asgiref<4,>=3.9.0",
+      "async-timeout; extra == \"tests\"",
+      "coverage~=4.5; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-django; extra == \"tests\"",
+      "pytest-asyncio; extra == \"tests\"",
+      "selenium; extra == \"tests\"",
+      "daphne>=4.0.0; extra == \"daphne\""
+    ]
+  },
+  "channels-4.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0497f3affb95e621b37d6bae1b6a5d9e8e1e1221007a2566f280091cf30ffcce",
+    "dependencies": {
+      "required": [
+        "django",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "Django>=4.2",
+      "asgiref<4,>=3.9.0",
+      "async-timeout; extra == \"tests\"",
+      "coverage~=4.5; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-django; extra == \"tests\"",
+      "pytest-asyncio; extra == \"tests\"",
+      "selenium; extra == \"tests\"",
+      "daphne>=4.0.0; extra == \"daphne\""
+    ]
+  },
+  "channels-4.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff36a6e1576cacf40bcdc615fa7aece7a709fc4fdd2dc87f2971f4061ffdaa81",
+    "dependencies": {
+      "required": [
+        "django",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "Django>=4.2",
+      "asgiref<4,>=3.6.0",
+      "async-timeout; extra == \"tests\"",
+      "coverage~=4.5; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-django; extra == \"tests\"",
+      "pytest-asyncio; extra == \"tests\"",
+      "daphne>=4.0.0; extra == \"daphne\""
+    ]
+  },
+  "channels-4.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e91701d9d5a55a45a63d5fccac7601ba118ec97d56ba477cbbd0d1764aefeaf2",
+    "dependencies": {
+      "required": [
+        "django",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "Django>=4.2",
+      "asgiref<4,>=3.6.0",
+      "async-timeout; extra == \"tests\"",
+      "coverage~=4.5; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-django; extra == \"tests\"",
+      "pytest-asyncio; extra == \"tests\"",
+      "daphne>=4.0.0; extra == \"daphne\""
+    ]
+  }
+}

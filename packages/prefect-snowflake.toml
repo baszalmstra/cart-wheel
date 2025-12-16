@@ -1,0 +1,11 @@
+# Package configuration for prefect-snowflake
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "prefect_snowflake-0.28.7-py3-none-any.whl" },
+  { filename = "prefect_snowflake-0.28.6-py3-none-any.whl" },
+  { filename = "prefect_snowflake-0.28.5-py3-none-any.whl" },
+  { filename = "prefect_snowflake-0.28.4-py3-none-any.whl" },
+  { filename = "prefect_snowflake-0.28.3-py3-none-any.whl" },
+]

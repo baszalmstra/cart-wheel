@@ -1,0 +1,109 @@
+{
+  "plumbum-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9583d737ac901c474d99d030e4d5eec4c4e6d2d7417b1cf49728cf3be34f6dc8",
+    "dependencies": {
+      "required": [
+        "pywin32"
+      ]
+    },
+    "original_requirements": [
+      "pywin32; platform_system == 'Windows' and platform_python_implementation != 'PyPy'",
+      "paramiko; extra == 'ssh'"
+    ]
+  },
+  "plumbum-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9fd0d3b0e8d86e4b581af36edf3f3bbe9d1ae15b45b8caab28de1bcb27aaa7f5",
+    "dependencies": {
+      "required": [
+        "importlib-resources",
+        "pywin32"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources; python_version < '3.9'",
+      "pywin32; platform_system == 'Windows' and platform_python_implementation != 'PyPy'",
+      "coverage[toml]; extra == 'dev'",
+      "paramiko; extra == 'dev'",
+      "psutil; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "pytest-mock; extra == 'dev'",
+      "pytest-timeout; extra == 'dev'",
+      "pytest>=6.0; extra == 'dev'",
+      "sphinx-rtd-theme>=1.0.0; extra == 'docs'",
+      "sphinx>=4.0.0; extra == 'docs'",
+      "paramiko; extra == 'ssh'",
+      "coverage[toml]; extra == 'test'",
+      "paramiko; extra == 'test'",
+      "psutil; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-mock; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest>=6.0; extra == 'test'"
+    ]
+  },
+  "plumbum-1.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8595d36dae2472587d6f59789c8d7b26250f45f6f6ed75ccb378de59ee7b9cf9",
+    "dependencies": {
+      "required": [
+        "pywin32"
+      ]
+    },
+    "original_requirements": [
+      "pywin32; platform_system == 'Windows' and platform_python_implementation != 'PyPy'",
+      "paramiko; extra == 'dev'",
+      "psutil; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "pytest-mock; extra == 'dev'",
+      "pytest-timeout; extra == 'dev'",
+      "pytest>=6.0; extra == 'dev'",
+      "sphinx-rtd-theme>=1.0.0; extra == 'docs'",
+      "sphinx>=4.0.0; extra == 'docs'",
+      "paramiko; extra == 'ssh'"
+    ]
+  },
+  "plumbum-1.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ad9e5f56c6ec98f6f7988f7ea8b52159662ea9e915868d369dbccbfca0e367e",
+    "dependencies": {
+      "required": [
+        "pywin32"
+      ]
+    },
+    "original_requirements": [
+      "pywin32; platform_system == 'Windows' and platform_python_implementation != 'PyPy'",
+      "paramiko; extra == 'dev'",
+      "psutil; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "pytest-mock; extra == 'dev'",
+      "pytest-timeout; extra == 'dev'",
+      "pytest>=6.0; extra == 'dev'",
+      "sphinx-rtd-theme>=1.0.0; extra == 'docs'",
+      "sphinx>=4.0.0; extra == 'docs'",
+      "paramiko; extra == 'ssh'"
+    ]
+  },
+  "plumbum-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07cf5f50bf739e91fb83ce304fc66b41dbd12db4d4546ff5266087dd9d148314",
+    "dependencies": {
+      "required": [
+        "pywin32"
+      ]
+    },
+    "original_requirements": [
+      "pywin32; platform_system == 'Windows' and platform_python_implementation != 'PyPy'",
+      "paramiko; extra == 'dev'",
+      "psutil; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "pytest-mock; extra == 'dev'",
+      "pytest-timeout; extra == 'dev'",
+      "pytest>=6.0; extra == 'dev'",
+      "sphinx-rtd-theme>=1.0.0; extra == 'docs'",
+      "sphinx>=4.0.0; extra == 'docs'",
+      "paramiko; extra == 'ssh'"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "aws_cdk.aws_kinesisanalytics-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aeec0ceec1f0a412722959ad3638db827bb95c9a72d52283271970347200e674",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_kinesisanalytics-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6441296d59c4366b15ea4e987f20bb817a915b1634b65a14f502b506aad1a1f",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_kinesisanalytics-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41cdf194b3e601c5d224599c8de752117cdad8f524416b9096648570332e1348",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_kinesisanalytics-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e26be094b7523bf69c569cd548a58188fc63d93766dc4ff9d53de2c3bf43de0c",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_kinesisanalytics-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "127627c491bec637b5b9fdd723dcd2a47094a47f80e3f4b0bc4c4ff27a157ecf",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

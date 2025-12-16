@@ -1,0 +1,72 @@
+{
+  "langchain_perplexity-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74165561403869aa4dd01b215ecb051578a9d794e843e8e7cc13999c68ff69b5",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=1.1.0",
+      "openai<3.0.0,>=2.0.0"
+    ]
+  },
+  "langchain_perplexity-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da10016ac0076a6a2d875d9a575ec691de0a4a2e104568e11f5bff9c901fd32d",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=1.0.0",
+      "openai<3.0.0,>=2.0.0"
+    ]
+  },
+  "langchain_perplexity-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1ba4bd4a393bca4e1eb4b7afe3bc8bfc9e46e5554bc0b8748b31a2f4067146e",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<1.0.0,>=0.3.71",
+      "openai<2.0.0,>=1.97.1"
+    ]
+  },
+  "langchain_perplexity-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2d61b797a37f2709039ae5a05bf12eca72372f83b5aa3916e995aac92c011f1",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<1.0.0,>=0.3.52",
+      "openai<2.0.0,>=1.68.2"
+    ]
+  },
+  "langchain_perplexity-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e18fa4c28e25240a9e57c613bf75737d2767d63dc92979de2db51f4e40127e0",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<1.0.0,>=0.3.50",
+      "openai<2.0.0,>=1.68.2"
+    ]
+  }
+}

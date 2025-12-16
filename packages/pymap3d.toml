@@ -1,0 +1,12 @@
+# Package configuration for pymap3d
+conda_forge = "pymap3d"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pymap3d-3.2.0-py3-none-any.whl" },
+  { filename = "pymap3d-3.1.0-py3-none-any.whl" },
+  { filename = "pymap3d-3.0.1-py3-none-any.whl" },
+  { filename = "pymap3d-3.0.0-py3-none-any.whl" },
+  { filename = "pymap3d-2.9.1-py3-none-any.whl" },
+]

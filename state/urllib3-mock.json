@@ -1,0 +1,47 @@
+{
+  "urllib3_mock-0.3.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "702c90042920d771c9902b7b5b542551cc57f259078f4eada47ab4e8cdd11f1a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == 'tests'",
+      "pytest-cov; extra == 'tests'",
+      "flake8; extra == 'tests'",
+      "requests; extra == 'tests'"
+    ]
+  },
+  "urllib3_mock-0.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40522cad41cbdad21ef72b6add471d33218f56a87aa6423834d27c140579b568",
+    "dependencies": {
+      "required": [
+        "mock"
+      ]
+    },
+    "original_requirements": [
+      "mock",
+      "pytest; extra == 'tests'",
+      "pytest-cov; extra == 'tests'",
+      "flake8; extra == 'tests'",
+      "requests; extra == 'tests'"
+    ]
+  },
+  "urllib3_mock-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40f3f0b869b0bc2cdfe71590413dd93f894d4e8b98acf7b8d89f5f9080ffe312",
+    "dependencies": {
+      "required": [
+        "mock"
+      ]
+    },
+    "original_requirements": [
+      "mock",
+      "pytest; extra == 'tests'",
+      "pytest-cov; extra == 'tests'",
+      "flake8; extra == 'tests'",
+      "requests; extra == 'tests'"
+    ]
+  }
+}

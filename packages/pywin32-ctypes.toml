@@ -1,0 +1,11 @@
+# Package configuration for pywin32-ctypes
+conda_forge = "pywin32-ctypes"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pywin32_ctypes-0.2.3-py3-none-any.whl" },
+  { filename = "pywin32_ctypes-0.2.2-py3-none-any.whl" },
+  { filename = "pywin32_ctypes-0.2.1-py3-none-any.whl" },
+  { filename = "pywin32_ctypes-0.2.0-py2.py3-none-any.whl" },
+]

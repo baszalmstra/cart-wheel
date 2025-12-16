@@ -1,0 +1,46 @@
+{
+  "lfdfiles-2025.12.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2275a8b820831c82ac490f0fc2a2a52c222ee0a176b937d93f2b59af396324cd",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "tifffile",
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "tifffile",
+      "click",
+      "imagecodecs; extra == \"all\"",
+      "matplotlib; extra == \"all\"",
+      "fbdfile; extra == \"all\"",
+      "czifile; extra == \"all\"",
+      "oiffile; extra == \"all\"",
+      "netpbmfile; extra == \"all\""
+    ]
+  },
+  "lfdfiles-2025.9.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b8566ee2d1550382885a5f4ae128bb5d203bf93b2a35fb99732715d5d9fe91db",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "tifffile",
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "tifffile",
+      "click",
+      "imagecodecs; extra == \"all\"",
+      "matplotlib; extra == \"all\"",
+      "fbdfile; extra == \"all\"",
+      "czifile; extra == \"all\"",
+      "oiffile; extra == \"all\"",
+      "netpbmfile; extra == \"all\""
+    ]
+  }
+}

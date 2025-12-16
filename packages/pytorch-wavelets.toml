@@ -1,0 +1,7 @@
+# Package configuration for pytorch-wavelets
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytorch_wavelets-1.3.0-py3-none-any.whl" },
+]

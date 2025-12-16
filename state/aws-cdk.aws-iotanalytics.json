@@ -1,0 +1,102 @@
+{
+  "aws_cdk.aws_iotanalytics-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e5b15b3b343f848ff36073051a3257938e8d4987a93dd33323d09e54cbddadd8",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_iotanalytics-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "75c1e96744ddf80d53b4456c9eb89210a532b4a364ab9b9dd0c04666504ec869",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_iotanalytics-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "04ba4ec9862e94b19625ab145491416c6b383bd31a6f9eb53291445f1d85dd62",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_iotanalytics-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "42b6725f1cfbb8d1e6cdd492330d3bfb411f321bcec163afa2711e0d01c6b980",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_iotanalytics-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b645a1fe829dbdaac66a2f7a1f0c5c76bbf3fa808054b763b4014a127b9f328d",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

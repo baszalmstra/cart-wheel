@@ -1,0 +1,10 @@
+# Package configuration for pypng
+conda_forge = "pypng"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pypng-0.20220715.0-py3-none-any.whl" },
+  { filename = "pypng-0.0.21-py3-none-any.whl" },
+  { filename = "pypng-0.0.20-py3-none-any.whl" },
+]

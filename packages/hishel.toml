@@ -1,0 +1,12 @@
+# Package configuration for hishel
+conda_forge = "hishel"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hishel-1.1.7-py3-none-any.whl" },
+  { filename = "hishel-1.1.6-py3-none-any.whl" },
+  { filename = "hishel-1.1.5-py3-none-any.whl" },
+  { filename = "hishel-1.1.4-py3-none-any.whl" },
+  { filename = "hishel-1.1.3-py3-none-any.whl" },
+]

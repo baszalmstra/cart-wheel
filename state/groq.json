@@ -1,0 +1,122 @@
+{
+  "groq-0.37.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b49f8c8898c55eaec9f71f1342f3fcacc9560d67a08ce5f35fbfb84e8dacd3da",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'"
+    ]
+  },
+  "groq-0.37.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1403bf1a14a725f9240bed10501ca1ba42cfc9f73113d91ff3182d3bb6008a4c",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'"
+    ]
+  },
+  "groq-0.36.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac7eeae31a5c2e76d30ea678f0b1a9168ff906c4440f5ec3a42ac74d5b4fdb3c",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'"
+    ]
+  },
+  "groq-0.35.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c8b3bf9501fad59a4f62c7aa8349f00e4862a0bbaf9587b321754ece83442ef",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'"
+    ]
+  },
+  "groq-0.34.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "863e687c857d51aa8ed45c2c3c44d46e02f7f15fd5116722ac8315838c62bb25",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for basedpyright
+conda_forge = "basedpyright"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "basedpyright-1.36.1-py3-none-any.whl" },
+  { filename = "basedpyright-1.36.0-py3-none-any.whl" },
+  { filename = "basedpyright-1.35.0-py3-none-any.whl" },
+  { filename = "basedpyright-1.34.0-py3-none-any.whl" },
+  { filename = "basedpyright-1.33.0-py3-none-any.whl" },
+]

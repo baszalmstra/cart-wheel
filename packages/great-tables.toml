@@ -1,0 +1,12 @@
+# Package configuration for great-tables
+conda_forge = "great_tables"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "great_tables-0.20.0-py3-none-any.whl" },
+  { filename = "great_tables-0.19.0-py3-none-any.whl" },
+  { filename = "great_tables-0.18.0-py3-none-any.whl" },
+  { filename = "great_tables-0.17.0-py3-none-any.whl" },
+  { filename = "great_tables-0.16.1-py3-none-any.whl" },
+]

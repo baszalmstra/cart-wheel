@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-build
+conda_forge = "google-cloud-build"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_build-3.34.0-py3-none-any.whl" },
+  { filename = "google_cloud_build-3.33.0-py3-none-any.whl" },
+  { filename = "google_cloud_build-3.32.0-py3-none-any.whl" },
+  { filename = "google_cloud_build-3.31.3-py3-none-any.whl" },
+  { filename = "google_cloud_build-3.31.2-py3-none-any.whl" },
+]

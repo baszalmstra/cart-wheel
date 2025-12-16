@@ -1,0 +1,132 @@
+{
+  "radish_bdd-0.18.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb6880fc369658d660efe25ab4039fe7b5dd9869890af7938f20c4ef07a63129",
+    "dependencies": {
+      "required": [
+        "docopt",
+        "pysingleton",
+        "colorful",
+        "tag-expressions",
+        "parse-type",
+        "humanize"
+      ]
+    },
+    "original_requirements": [
+      "docopt",
+      "pysingleton",
+      "colorful>=0.3.11",
+      "tag-expressions>=2.0.0",
+      "parse_type>0.4.0",
+      "humanize",
+      "lxml; extra == \"bddxml\"",
+      "ipython; extra == \"ipython-debugger\"",
+      "coverage; extra == \"coverage\"",
+      "PyYAML; extra == \"testing\""
+    ]
+  },
+  "radish_bdd-0.18.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84f23fcc4b843ddf6cee8d22a1c183e80c8057baa59d4e91f0784633ef22aaf4",
+    "dependencies": {
+      "required": [
+        "docopt",
+        "pysingleton",
+        "colorful",
+        "tag-expressions",
+        "parse-type",
+        "humanize"
+      ]
+    },
+    "original_requirements": [
+      "docopt",
+      "pysingleton",
+      "colorful>=0.3.11",
+      "tag-expressions>=2.0.0",
+      "parse_type>0.4.0",
+      "humanize",
+      "lxml; extra == \"bddxml\"",
+      "ipython; extra == \"ipython-debugger\"",
+      "coverage; extra == \"coverage\"",
+      "PyYAML; extra == \"testing\""
+    ]
+  },
+  "radish_bdd-0.18.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "26459fb4069c2d1cbc029ae5ca900977b6494d4fd4afcb772c6500d24dd55dc8",
+    "dependencies": {
+      "required": [
+        "docopt",
+        "pysingleton",
+        "colorful",
+        "tag-expressions",
+        "parse-type",
+        "humanize"
+      ]
+    },
+    "original_requirements": [
+      "docopt",
+      "pysingleton",
+      "colorful>=0.3.11",
+      "tag-expressions>=2.0.0",
+      "parse_type>0.4.0",
+      "humanize",
+      "lxml; extra == \"bddxml\"",
+      "ipython; extra == \"ipython-debugger\"",
+      "coverage; extra == \"coverage\"",
+      "PyYAML; extra == \"testing\""
+    ]
+  },
+  "radish_bdd-0.18.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "967a8627cb7b676c39ed6490fa7b28670bf0ae3b50f4d09720ddb1de914adae3",
+    "dependencies": {
+      "required": [
+        "docopt",
+        "pysingleton",
+        "colorful",
+        "tag-expressions",
+        "parse-type",
+        "humanize"
+      ]
+    },
+    "original_requirements": [
+      "docopt",
+      "pysingleton",
+      "colorful >=0.3.11",
+      "tag-expressions >=2.0.0",
+      "parse-type >0.4.0",
+      "humanize",
+      "lxml ; extra == 'bddxml'",
+      "coverage ; extra == 'coverage'",
+      "ipython ; extra == 'ipython-debugger'",
+      "PyYAML ; extra == 'testing'"
+    ]
+  },
+  "radish_bdd-0.17.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d971402305767d43e64aa56c5c9cddeb25c913f1be1ac9b341b0d5bb7036ef0",
+    "dependencies": {
+      "required": [
+        "docopt",
+        "pysingleton",
+        "colorful",
+        "tag-expressions",
+        "parse-type",
+        "humanize"
+      ]
+    },
+    "original_requirements": [
+      "docopt",
+      "pysingleton",
+      "colorful >=0.3.11",
+      "tag-expressions >=2.0.0",
+      "parse-type >0.4.0",
+      "humanize",
+      "lxml ; extra == 'bddxml'",
+      "coverage ; extra == 'coverage'",
+      "ipython ; extra == 'ipython-debugger'",
+      "PyYAML ; extra == 'testing'"
+    ]
+  }
+}

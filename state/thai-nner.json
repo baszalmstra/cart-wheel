@@ -1,0 +1,28 @@
+{
+  "thai_nner-0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "167b0c8f0afb09c0d0e5251d5738d51ce1643eff81ad4a2785b11a8483ea2abd",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "numpy",
+        "tqdm",
+        "tensorboard",
+        "transformers",
+        "pythainlp",
+        "sentencepiece"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.1)",
+      "torchvision",
+      "numpy",
+      "tqdm",
+      "tensorboard (>=1.14)",
+      "transformers",
+      "pythainlp",
+      "sentencepiece"
+    ]
+  }
+}

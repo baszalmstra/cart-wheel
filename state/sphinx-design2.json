@@ -1,0 +1,18 @@
+{
+  "sphinx_design2-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1f4e7ad5d520472ef9d24196d6eaabf8c26e83058e46b88432712f7a66f81b72",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=5,<7",
+      "furo>=2022.06.04 ; extra == \"theme_furo\"",
+      "pydata-sphinx-theme ; extra == \"theme_pydata\"",
+      "sphinx-rtd-theme ; extra == \"theme_rtd\"",
+      "sphinx-book-theme ; extra == \"theme_sbt\""
+    ]
+  }
+}

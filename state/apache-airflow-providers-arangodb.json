@@ -1,0 +1,90 @@
+{
+  "apache_airflow_providers_arangodb-2.9.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:12.591750+00:00",
+    "conda_file": "apache-airflow-providers-arangodb-2.9.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-arango"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "python-arango>=7.3.2"
+    ]
+  },
+  "apache_airflow_providers_arangodb-2.9.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:12.742725+00:00",
+    "conda_file": "apache-airflow-providers-arangodb-2.9.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-arango"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "python-arango>=7.3.2"
+    ]
+  },
+  "apache_airflow_providers_arangodb-2.8.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:12.739795+00:00",
+    "conda_file": "apache-airflow-providers-arangodb-2.8.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-arango"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "python-arango>=7.3.2"
+    ]
+  },
+  "apache_airflow_providers_arangodb-2.8.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:12.677722+00:00",
+    "conda_file": "apache-airflow-providers-arangodb-2.8.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-arango"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "python-arango>=7.3.2"
+    ]
+  },
+  "apache_airflow_providers_arangodb-2.8.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:12.710019+00:00",
+    "conda_file": "apache-airflow-providers-arangodb-2.8.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "python-arango"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "python-arango>=7.3.2"
+    ]
+  }
+}

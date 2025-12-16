@@ -1,0 +1,142 @@
+{
+  "aws_cdk.aws_config-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82d570b20db7a67b0c16c9b28c7df1a56f980a762ed87d686e93fe3a18b2dff5",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-events (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-lambda (==1.204.0)",
+      "aws-cdk.aws-sns (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_config-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3297becddf4954930cedb89720908658721592414dca20226a11069440ea679",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-events (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-lambda (==1.203.0)",
+      "aws-cdk.aws-sns (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_config-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a8a08d903d997e83310262179351e076677e0d2129ae707adb4d34b78754b21",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-events (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-lambda (==1.202.0)",
+      "aws-cdk.aws-sns (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_config-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac6245bb6937fc1fba4e0f5304ac5e091359f9139eef7b36b70e5d6e2f0f7620",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-events (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-lambda (==1.201.0)",
+      "aws-cdk.aws-sns (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_config-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ecf6acf73c8eaa32c7ebfc93be3b0465d0c95951eef4e95d7675355c97c7bc8",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-events (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-lambda (==1.200.0)",
+      "aws-cdk.aws-sns (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

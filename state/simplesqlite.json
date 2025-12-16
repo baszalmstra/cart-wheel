@@ -1,0 +1,153 @@
+{
+  "simplesqlite-1.5.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f4b4ed8b039b562d1dff8ca8e46281addaf1ad6970553285c16592b61183a8f",
+    "dependencies": {
+      "required": [
+        "dataproperty",
+        "mbstrdecoder",
+        "pathvalidate",
+        "sqliteschema",
+        "tabledata",
+        "typepy"
+      ]
+    },
+    "original_requirements": [
+      "DataProperty<2,>=1.0.2",
+      "mbstrdecoder<2,>=1.0.0",
+      "pathvalidate<4,>=2.5.2",
+      "sqliteschema<3,>=1.4.0",
+      "tabledata<2,>=1.1.3",
+      "typepy<2,>=1.2.0",
+      "sphinx_rtd_theme>=1.2.2; extra == \"docs\"",
+      "Sphinx>=2.4; extra == \"docs\"",
+      "loguru<1,>=0.4.1; extra == \"logging\"",
+      "pytablereader>=0.31.3; extra == \"test\"",
+      "pytablewriter>=0.50; extra == \"test\"",
+      "pytest>=6.0.1; extra == \"test\"",
+      "pytest-md-report>=0.6.2; extra == \"test\"",
+      "beautifulsoup4>=4.10; extra == \"test\""
+    ]
+  },
+  "SimpleSQLite-1.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da4eddabcc49576f8324c412aed3c5c2c2212349adf2865c5eb07dcf9336ec07",
+    "dependencies": {
+      "required": [
+        "dataproperty",
+        "mbstrdecoder",
+        "pathvalidate",
+        "sqliteschema",
+        "tabledata",
+        "typepy"
+      ]
+    },
+    "original_requirements": [
+      "DataProperty<2,>=1.0.1",
+      "mbstrdecoder<2,>=1.0.0",
+      "pathvalidate<4,>=2.5.2",
+      "sqliteschema<3,>=1.4.0",
+      "tabledata<2,>=1.1.3",
+      "typepy<2,>=1.2.0",
+      "sphinx_rtd_theme>=1.2.2; extra == \"docs\"",
+      "Sphinx>=2.4; extra == \"docs\"",
+      "loguru<1,>=0.4.1; extra == \"logging\"",
+      "pytablereader>=0.31.3; extra == \"test\"",
+      "pytablewriter>=0.50; extra == \"test\"",
+      "pytest>=6.0.1; extra == \"test\"",
+      "pytest-md-report>=0.6.2; extra == \"test\"",
+      "beautifulsoup4>=4.10; extra == \"test\""
+    ]
+  },
+  "SimpleSQLite-1.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f62300ce1e367fd5234a959fa3a32d7c81bdf719204ebc1e70c4f3cd91672dc6",
+    "dependencies": {
+      "required": [
+        "dataproperty",
+        "mbstrdecoder",
+        "pathvalidate",
+        "sqliteschema",
+        "tabledata",
+        "typepy"
+      ]
+    },
+    "original_requirements": [
+      "DataProperty <2,>=1.0.1",
+      "mbstrdecoder <2,>=1.0.0",
+      "pathvalidate <4,>=2.5.2",
+      "sqliteschema <3,>=1.4.0",
+      "tabledata <2,>=1.1.3",
+      "typepy <2,>=1.2.0",
+      "sphinx-rtd-theme >=1.2.2 ; extra == 'docs'",
+      "Sphinx >=2.4 ; extra == 'docs'",
+      "loguru <1,>=0.4.1 ; extra == 'logging'",
+      "pytablereader >=0.31.3 ; extra == 'test'",
+      "pytablewriter >=0.50 ; extra == 'test'",
+      "pytest >=6.0.1 ; extra == 'test'",
+      "pytest-discord >=0.1.6 ; extra == 'test'",
+      "pytest-md-report >=0.5 ; extra == 'test'",
+      "beautifulsoup4 >=4.10 ; extra == 'test'"
+    ]
+  },
+  "SimpleSQLite-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d4aab00f3b70422731beb51c6f1ac0c5bbab50291ee9beabae9435090bd5192c",
+    "dependencies": {
+      "required": [
+        "dataproperty",
+        "mbstrdecoder",
+        "pathvalidate",
+        "sqliteschema",
+        "tabledata",
+        "typepy"
+      ]
+    },
+    "original_requirements": [
+      "DataProperty <2,>=0.54.2",
+      "mbstrdecoder <2,>=1.0.0",
+      "pathvalidate <4,>=2.5.2",
+      "sqliteschema <2,>=1.2.1",
+      "tabledata <2,>=1.1.3",
+      "typepy <2,>=1.2.0",
+      "sphinx-rtd-theme >=1.2.2 ; extra == 'docs'",
+      "Sphinx >=2.4 ; extra == 'docs'",
+      "loguru <1,>=0.4.1 ; extra == 'logging'",
+      "pytablereader >=0.31.3 ; extra == 'test'",
+      "pytablewriter >=0.50 ; extra == 'test'",
+      "pytest >=6.0.1 ; extra == 'test'",
+      "pytest-discord >=0.1.4 ; extra == 'test'",
+      "pytest-md-report >=0.4 ; extra == 'test'",
+      "beautifulsoup4 >=4.10 ; extra == 'test'"
+    ]
+  },
+  "SimpleSQLite-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d1338653351a4d990671560f07e0dd97f9882874d37430dd79f056e9e3228bd",
+    "dependencies": {
+      "required": [
+        "dataproperty",
+        "mbstrdecoder",
+        "pathvalidate",
+        "sqliteschema",
+        "tabledata",
+        "typepy"
+      ]
+    },
+    "original_requirements": [
+      "DataProperty (<2,>=0.54.2)",
+      "mbstrdecoder (<2,>=1.0.0)",
+      "pathvalidate (<4,>=2.5.2)",
+      "sqliteschema (<2,>=1.2.1)",
+      "tabledata (<2,>=1.1.3)",
+      "typepy (<2,>=1.2.0)",
+      "loguru (<1,>=0.4.1) ; extra == 'logging'",
+      "pytablereader (>=0.31.3) ; extra == 'test'",
+      "pytablewriter (>=0.50) ; extra == 'test'",
+      "pytest (>=6.0.1) ; extra == 'test'",
+      "pytest-discord (>=0.1.1) ; extra == 'test'",
+      "pytest-md-report (>=0.3) ; extra == 'test'",
+      "beautifulsoup4 (>=4.10) ; extra == 'test'"
+    ]
+  }
+}

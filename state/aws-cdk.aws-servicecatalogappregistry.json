@@ -1,0 +1,102 @@
+{
+  "aws_cdk.aws_servicecatalogappregistry-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a0db12064f7fe0dde50fc1fad91f1f0d9e2634ab6c8d4cbc7a939313343d3d9",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_servicecatalogappregistry-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3067bfbae29b7f40ce60b13cfc5ea43e8b3cb1dd59ca26e08804b318f389e944",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_servicecatalogappregistry-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2f18d93a884caddb647e3952514fe1fce6811f75d72e8171cec660b50ad74c88",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_servicecatalogappregistry-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63316848900376c21aec5b85cc4f70f72bfe59fe8fe1b54df37ec4a3a20ef69f",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_servicecatalogappregistry-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5392a01546a711dc68320ce4c1681c5e00c18ea3b133aa90df94fff4741c7838",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for debtcollector
+conda_forge = "debtcollector"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "debtcollector-3.0.0-py3-none-any.whl" },
+  { filename = "debtcollector-2.5.0-py3-none-any.whl" },
+  { filename = "debtcollector-2.4.0-py3-none-any.whl" },
+  { filename = "debtcollector-2.3.0-py3-none-any.whl" },
+  { filename = "debtcollector-2.2.0-py3-none-any.whl" },
+]

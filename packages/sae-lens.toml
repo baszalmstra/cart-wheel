@@ -1,0 +1,11 @@
+# Package configuration for sae-lens
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sae_lens-6.22.3-py3-none-any.whl" },
+  { filename = "sae_lens-6.22.2-py3-none-any.whl" },
+  { filename = "sae_lens-6.22.1-py3-none-any.whl" },
+  { filename = "sae_lens-6.22.0-py3-none-any.whl" },
+  { filename = "sae_lens-6.21.0-py3-none-any.whl" },
+]

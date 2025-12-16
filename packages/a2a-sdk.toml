@@ -1,0 +1,11 @@
+# Package configuration for a2a-sdk
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "a2a_sdk-0.3.21-py3-none-any.whl" },
+  { filename = "a2a_sdk-0.3.20-py3-none-any.whl" },
+  { filename = "a2a_sdk-0.3.19-py3-none-any.whl" },
+  { filename = "a2a_sdk-0.3.18-py3-none-any.whl" },
+  { filename = "a2a_sdk-0.3.17-py3-none-any.whl" },
+]

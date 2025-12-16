@@ -1,0 +1,14 @@
+{
+  "types_boto3_route53globalresolver-1.42.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8f9b4175190d20825629d3d4f4f8210acf9590bea6b6531fae6cca6cf550d81",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "mapbox_vector_tile-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d26ad320ade60cc6c0b66edc6ee4b6f53663aedf0b444b115c6ba68e9ba1e6d1",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "pyclipper",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "protobuf (>=6.31.1,<7.0.0)",
+      "pyclipper (>=1.3.0,<2.0.0)",
+      "pyproj (>=3.4.1,<4.0.0) ; extra == \"proj\"",
+      "shapely (>=2.0.0,<3.0.0)"
+    ]
+  },
+  "mapbox_vector_tile-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "29ebdf6cb01a712e2ee08f6bdf7259a23e9c264b01fa69ae83358e33ebdd040c",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "pyclipper",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "protobuf (>=5.26.1,<6.0.0)",
+      "pyclipper (>=1.3.0,<2.0.0)",
+      "pyproj (>=3.4.1,<4.0.0) ; extra == \"proj\"",
+      "shapely (>=2.0.0,<3.0.0)"
+    ]
+  },
+  "mapbox_vector_tile-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3cd29aa726a645ce326a32c5a2e28159f58f0aac8fb4f477e596724b81043ec8",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "pyclipper",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "protobuf (>=4.21,<5.0)",
+      "pyclipper (>=1.3.0,<2.0.0)",
+      "pyproj (>=3.4.1,<4.0.0) ; extra == \"proj\"",
+      "shapely (>=2.0.0,<3.0.0)"
+    ]
+  },
+  "mapbox_vector_tile-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "95b3eb93ed630ff1c464a5702722858c096f2272b7cbb4c7fd4f3a9d58a9367d",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "pyclipper",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "protobuf (>=4.21,<5.0)",
+      "pyclipper (>=1.3.0,<2.0.0)",
+      "pyproj (>=3.4.1,<4.0.0) ; extra == \"proj\"",
+      "shapely (>=2.0.0,<3.0.0)"
+    ]
+  },
+  "mapbox_vector_tile-0.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c71aedba27d315bb376889de98662e86a1e8cf298490259d95e7761c475e751",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "protobuf",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "protobuf",
+      "shapely"
+    ]
+  }
+}

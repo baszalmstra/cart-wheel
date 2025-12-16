@@ -1,0 +1,177 @@
+{
+  "open_clip_torch-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e1f5b3ecbadb6d8ea64b1f887db23efee9739e7c0d0075a8a2a3cabae8fed8d1",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "regex",
+        "ftfy",
+        "tqdm",
+        "huggingface-hub",
+        "safetensors",
+        "timm"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.0",
+      "torchvision",
+      "regex",
+      "ftfy",
+      "tqdm",
+      "huggingface-hub",
+      "safetensors",
+      "timm>=1.0.17",
+      "torch>=2.0; extra == \"training\"",
+      "webdataset<=0.2.86,>=0.2.5; extra == \"training\"",
+      "pandas; extra == \"training\"",
+      "transformers[sentencepiece]; extra == \"training\"",
+      "timm>=1.0.17; extra == \"training\"",
+      "fsspec; extra == \"training\"",
+      "pytest-split; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "open_clip_torch[training]; extra == \"test\""
+    ]
+  },
+  "open_clip_torch-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8bf8936fb26b65f6bda55b21925a0688e879bb4f7b82f8f6b87d45fe43afac9",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "regex",
+        "ftfy",
+        "tqdm",
+        "huggingface-hub",
+        "safetensors",
+        "timm"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.0",
+      "torchvision",
+      "regex",
+      "ftfy",
+      "tqdm",
+      "huggingface-hub",
+      "safetensors",
+      "timm>=1.0.17",
+      "torch>=2.0; extra == \"training\"",
+      "webdataset<=0.2.86,>=0.2.5; extra == \"training\"",
+      "pandas; extra == \"training\"",
+      "transformers[sentencepiece]; extra == \"training\"",
+      "timm>=1.0.17; extra == \"training\"",
+      "fsspec; extra == \"training\"",
+      "pytest-split; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "open_clip_torch[training]; extra == \"test\""
+    ]
+  },
+  "open_clip_torch-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "183af4e67e4abfb0b809367fe730956534e5e3deae985511422f13287dc18821",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "regex",
+        "ftfy",
+        "tqdm",
+        "huggingface-hub",
+        "safetensors",
+        "timm"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.0",
+      "torchvision",
+      "regex",
+      "ftfy",
+      "tqdm",
+      "huggingface-hub",
+      "safetensors",
+      "timm>=1.0.17",
+      "torch>=2.0; extra == \"training\"",
+      "webdataset<=0.2.86,>=0.2.5; extra == \"training\"",
+      "pandas; extra == \"training\"",
+      "transformers[sentencepiece]; extra == \"training\"",
+      "timm>=1.0.17; extra == \"training\"",
+      "fsspec; extra == \"training\"",
+      "pytest-split; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "open_clip_torch[training]; extra == \"test\""
+    ]
+  },
+  "open_clip_torch-2.32.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80b35b43e37afc2b6173aa5ab0ad68744ab3a3211e624f72dfe743a162707637",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "regex",
+        "ftfy",
+        "tqdm",
+        "huggingface-hub",
+        "safetensors",
+        "timm"
+      ]
+    },
+    "original_requirements": [
+      "torch>=1.9.0",
+      "torchvision",
+      "regex",
+      "ftfy",
+      "tqdm",
+      "huggingface-hub",
+      "safetensors",
+      "timm",
+      "torch>=2.0; extra == \"training\"",
+      "webdataset<=0.2.86,>=0.2.5; extra == \"training\"",
+      "pandas; extra == \"training\"",
+      "transformers[sentencepiece]; extra == \"training\"",
+      "timm>=1.0.10; extra == \"training\"",
+      "fsspec; extra == \"training\"",
+      "pytest-split; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "open_clip_torch[training]; extra == \"test\""
+    ]
+  },
+  "open_clip_torch-2.31.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "92dd8c2d6d994e061de46465e711f87b682858842eb9926130e401014d33af0d",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "regex",
+        "ftfy",
+        "tqdm",
+        "huggingface-hub",
+        "safetensors",
+        "timm"
+      ]
+    },
+    "original_requirements": [
+      "torch>=1.9.0",
+      "torchvision",
+      "regex",
+      "ftfy",
+      "tqdm",
+      "huggingface-hub",
+      "safetensors",
+      "timm",
+      "torch>=2.0; extra == \"training\"",
+      "webdataset<=0.2.86,>=0.2.5; extra == \"training\"",
+      "pandas; extra == \"training\"",
+      "transformers[sentencepiece]; extra == \"training\"",
+      "timm>=1.0.10; extra == \"training\"",
+      "fsspec; extra == \"training\"",
+      "pytest-split; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "open_clip_torch[training]; extra == \"test\""
+    ]
+  }
+}

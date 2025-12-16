@@ -1,0 +1,107 @@
+{
+  "python3_saml-1.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "20b97d11b04f01ee22e98f4a38242e2fea2e28fbc7fbc9bdd57cab5ac7fc2d0d",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "isodate",
+        "xmlsec"
+      ]
+    },
+    "original_requirements": [
+      "lxml (!=4.7.0,>=4.6.5)",
+      "isodate (>=0.6.1)",
+      "xmlsec (>=1.3.9)",
+      "coverage (>=4.5.2) ; extra == 'test'",
+      "freezegun (<=1.1.0,>=0.3.11) ; extra == 'test'",
+      "flake8 (<=5.0.0,>=3.6.0) ; extra == 'test'",
+      "pytest (>=4.6) ; extra == 'test'"
+    ]
+  },
+  "python3_saml-1.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc0458351ddaa08270ebe29ffaf9e1a41dbd285ba43a176cbd70907af5944c66",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "isodate",
+        "xmlsec"
+      ]
+    },
+    "original_requirements": [
+      "lxml (!=4.7.0,>=4.6.5)",
+      "isodate (>=0.6.1)",
+      "xmlsec (>=1.3.9)",
+      "coverage (>=4.5.2) ; extra == 'test'",
+      "freezegun (<=1.1.0,>=0.3.11) ; extra == 'test'",
+      "flake8 (<=5.0.0,>=3.6.0) ; extra == 'test'",
+      "pytest (>=4.6) ; extra == 'test'"
+    ]
+  },
+  "python3_saml-1.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e886f5f2d9caf93972a34de72ae2302f4c44bc71472a567cb234e2ab96d91e3",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "isodate",
+        "xmlsec"
+      ]
+    },
+    "original_requirements": [
+      "lxml (<4.7.1)",
+      "isodate (>=0.6.1)",
+      "xmlsec (>=1.3.9)",
+      "coverage (>=4.5.2) ; extra == 'test'",
+      "freezegun (<=1.1.0,>=0.3.11) ; extra == 'test'",
+      "pylint (==1.9.4) ; extra == 'test'",
+      "flake8 (>=3.6.0) ; extra == 'test'",
+      "pytest (>=4.6) ; extra == 'test'"
+    ]
+  },
+  "python3_saml-1.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "918d0b777ebd3cfccdfaa9351a671247c91da6800980d87d3a1121d7c435e389",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "isodate",
+        "xmlsec"
+      ]
+    },
+    "original_requirements": [
+      "lxml (==4.7.0)",
+      "isodate (>=0.6.1)",
+      "xmlsec (>=1.3.9)",
+      "coverage (>=4.5.2); extra == 'test'",
+      "freezegun (>=0.3.11,<=1.1.0); extra == 'test'",
+      "pylint (==1.9.4); extra == 'test'",
+      "flake8 (>=3.6.0); extra == 'test'",
+      "coveralls (>=1.11.1); extra == 'test'",
+      "pytest (>=4.6); extra == 'test'"
+    ]
+  },
+  "python3_saml-1.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cbbbb82ec3c584ea7746ac73cc8b01007038a038502450974175df9f149df961",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "lxml",
+        "xmlsec"
+      ]
+    },
+    "original_requirements": [
+      "isodate (>=0.5.0)",
+      "lxml (>=3.3.5)",
+      "xmlsec (>=1.0.5)",
+      "coverage (>=4.5.2); extra == 'test'",
+      "freezegun (>=0.3.11,<=1.1.0); extra == 'test'",
+      "pylint (==1.9.4); extra == 'test'",
+      "flake8 (>=3.6.0); extra == 'test'",
+      "coveralls (>=1.11.1); extra == 'test'",
+      "pytest (>=4.6); extra == 'test'"
+    ]
+  }
+}

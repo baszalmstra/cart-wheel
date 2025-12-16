@@ -1,0 +1,12 @@
+# Package configuration for empack
+conda_forge = "empack"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "empack-6.0.0-py2.py3-none-any.whl" },
+  { filename = "empack-5.1.2-py2.py3-none-any.whl" },
+  { filename = "empack-5.1.1-py2.py3-none-any.whl" },
+  { filename = "empack-5.1.0-py2.py3-none-any.whl" },
+  { filename = "empack-5.0.9-py2.py3-none-any.whl" },
+]

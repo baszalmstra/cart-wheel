@@ -1,0 +1,12 @@
+# Package configuration for py4j
+conda_forge = "py4j"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "py4j-0.10.9.9-py2.py3-none-any.whl" },
+  { filename = "py4j-0.10.9.8-py2.py3-none-any.whl" },
+  { filename = "py4j-0.10.9.7-py2.py3-none-any.whl" },
+  { filename = "py4j-0.10.9.6-py2.py3-none-any.whl" },
+  { filename = "py4j-0.10.9.5-py2.py3-none-any.whl" },
+]

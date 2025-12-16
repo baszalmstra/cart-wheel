@@ -1,0 +1,78 @@
+{
+  "coverage_conditional_plugin-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b37bc469019d2ab5b01f5eee453abe1846b3431e64e209720c2a9ec4afb8130",
+    "dependencies": {
+      "required": [
+        "coverage",
+        "importlib-metadata",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "coverage (>=7,<8)",
+      "importlib_metadata ; python_version < \"3.10\"",
+      "packaging (>=20.4)"
+    ]
+  },
+  "coverage_conditional_plugin-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "421079fbf9676c48397dd14254746e5e2656280b87ef83835701dd233053b9cd",
+    "dependencies": {
+      "required": [
+        "coverage",
+        "importlib-metadata",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "coverage (>=5,<8)",
+      "importlib_metadata; python_version < \"3.10\"",
+      "packaging (>=20.4)"
+    ]
+  },
+  "coverage_conditional_plugin-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a941408691e8413511c09f5e736ddba3923d048a545d63e661a3dcf0fde9310",
+    "dependencies": {
+      "required": [
+        "coverage",
+        "importlib-metadata",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "coverage (>=5,<7)",
+      "importlib_metadata; python_version < \"3.10\"",
+      "packaging (>=20.4)"
+    ]
+  },
+  "coverage_conditional_plugin-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "513d65ebafdd16f20455d5b0ac0b72807a12ce16b7937a0d09a1c3e810eea5c2",
+    "dependencies": {
+      "required": [
+        "coverage",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "coverage (>=5,<7)",
+      "packaging (>=20.4)"
+    ]
+  },
+  "coverage_conditional_plugin-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3bf586f7b793a9e4e2950f7af32711012929b39d1a4b53a4829489e763fda2dc",
+    "dependencies": {
+      "required": [
+        "coverage",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "coverage (>=5.0,<6.0)",
+      "packaging (>=20.4)"
+    ]
+  }
+}

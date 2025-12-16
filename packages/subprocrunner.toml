@@ -1,0 +1,11 @@
+# Package configuration for subprocrunner
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "subprocrunner-2.0.1-py3-none-any.whl" },
+  { filename = "subprocrunner-2.0.0-py3-none-any.whl" },
+  { filename = "subprocrunner-1.6.0-py3-none-any.whl" },
+  { filename = "subprocrunner-1.5.0-py3-none-any.whl" },
+  { filename = "subprocrunner-1.4.2-py3-none-any.whl" },
+]

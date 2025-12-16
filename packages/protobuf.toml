@@ -1,0 +1,12 @@
+# Package configuration for protobuf
+conda_forge = "protobuf"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "protobuf-6.33.2-py3-none-any.whl" },
+  { filename = "protobuf-6.33.1-py3-none-any.whl" },
+  { filename = "protobuf-6.33.0-py3-none-any.whl" },
+  { filename = "protobuf-6.32.1-py3-none-any.whl" },
+  { filename = "protobuf-6.32.0-py3-none-any.whl" },
+]

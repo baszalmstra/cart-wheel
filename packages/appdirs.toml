@@ -1,0 +1,12 @@
+# Package configuration for appdirs
+conda_forge = "appdirs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "appdirs-1.4.4-py2.py3-none-any.whl" },
+  { filename = "appdirs-1.4.3-py2.py3-none-any.whl" },
+  { filename = "appdirs-1.4.2-py2.py3-none-any.whl" },
+  { filename = "appdirs-1.4.1-py2.py3-none-any.whl" },
+  { filename = "appdirs-1.4.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for repeated-test
+conda_forge = "repeated_test"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "repeated_test-2.3.3-py2.py3-none-any.whl" },
+  { filename = "repeated_test-2.3.1-py2.py3-none-any.whl" },
+  { filename = "repeated_test-2.2.1-py2.py3-none-any.whl" },
+  { filename = "repeated_test-2.1.3-py2.py3-none-any.whl" },
+  { filename = "repeated_test-2.0.0-py2.py3-none-any.whl" },
+]

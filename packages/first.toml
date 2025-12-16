@@ -1,0 +1,9 @@
+# Package configuration for first
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "first-2.0.2-py2.py3-none-any.whl" },
+  { filename = "first-2.0.1-py2.py3-none-any.whl" },
+  { filename = "first-2.0.0-py2.py3-none-any.whl" },
+]

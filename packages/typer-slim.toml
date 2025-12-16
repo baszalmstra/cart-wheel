@@ -1,0 +1,12 @@
+# Package configuration for typer-slim
+conda_forge = "typer-slim"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "typer_slim-0.20.0-py3-none-any.whl" },
+  { filename = "typer_slim-0.19.2-py3-none-any.whl" },
+  { filename = "typer_slim-0.19.1-py3-none-any.whl" },
+  { filename = "typer_slim-0.19.0-py3-none-any.whl" },
+  { filename = "typer_slim-0.18.0-py3-none-any.whl" },
+]

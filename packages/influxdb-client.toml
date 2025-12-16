@@ -1,0 +1,12 @@
+# Package configuration for influxdb-client
+conda_forge = "influxdb-client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "influxdb_client-1.49.0-py3-none-any.whl" },
+  { filename = "influxdb_client-1.48.0-py3-none-any.whl" },
+  { filename = "influxdb_client-1.47.0-py3-none-any.whl" },
+  { filename = "influxdb_client-1.46.0-py3-none-any.whl" },
+  { filename = "influxdb_client-1.45.0-py3-none-any.whl" },
+]

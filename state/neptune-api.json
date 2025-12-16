@@ -1,0 +1,102 @@
+{
+  "neptune_api-0.24.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65f7423ef1b105ed9804ffdadb79644c2429e23dae1f6c14cba7a58ff60b8ba2",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "attrs",
+        "httpx",
+        "protobuf",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "PyJWT (>=2.0.0,<3.0.0)",
+      "attrs (>=21.3.0)",
+      "httpx[http2] (>=0.15.4,<0.28.2)",
+      "protobuf (>=3.19.6,<7)",
+      "python-dateutil (>=2.8.0,<3.0.0)"
+    ]
+  },
+  "neptune_api-0.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff0c4347349a81b2b3fad7616ca62c21d2eae9f5bbea945c2ad8e8248c09eb7a",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "attrs",
+        "httpx",
+        "protobuf",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "PyJWT (>=2.0.0,<3.0.0)",
+      "attrs (>=21.3.0)",
+      "httpx[http2] (>=0.15.4,<0.28.2)",
+      "protobuf (>=3.19.6,<7)",
+      "python-dateutil (>=2.8.0,<3.0.0)"
+    ]
+  },
+  "neptune_api-0.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ee0925e1505d05545c3522b21fd01651652e367ee5bace8cae2907bb1fa27e4",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "attrs",
+        "httpx",
+        "protobuf",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "PyJWT (>=2.0.0,<3.0.0)",
+      "attrs (>=21.3.0)",
+      "httpx[http2] (>=0.15.4,<0.28.2)",
+      "protobuf (>=3.19.6,<7)",
+      "python-dateutil (>=2.8.0,<3.0.0)"
+    ]
+  },
+  "neptune_api-0.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50e68c29619b93c66be36dea045a903141ee95c6ef42acb07719b6e954f76f32",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "attrs",
+        "httpx",
+        "protobuf",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "PyJWT (>=2.0.0,<3.0.0)",
+      "attrs (>=21.3.0)",
+      "httpx[http2] (>=0.15.4,<0.28.2)",
+      "protobuf (>=3.19.6,<7)",
+      "python-dateutil (>=2.8.0,<3.0.0)"
+    ]
+  },
+  "neptune_api-0.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d7d22e27c22051abf3d6307521072318390cb02af36dec23f239a228580df2ff",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "attrs",
+        "httpx",
+        "protobuf",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "PyJWT (>=2.0.0,<3.0.0)",
+      "attrs (>=21.3.0)",
+      "httpx[http2] (>=0.15.4,<0.28.2)",
+      "protobuf (>=3.19.6,<6)",
+      "python-dateutil (>=2.8.0,<3.0.0)"
+    ]
+  }
+}

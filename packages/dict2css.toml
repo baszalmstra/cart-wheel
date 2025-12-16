@@ -1,0 +1,12 @@
+# Package configuration for dict2css
+conda_forge = "dict2css"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dict2css-0.3.0.post1-py3-none-any.whl" },
+  { filename = "dict2css-0.3.0-py3-none-any.whl" },
+  { filename = "dict2css-0.2.4-py3-none-any.whl" },
+  { filename = "dict2css-0.2.3-py3-none-any.whl" },
+  { filename = "dict2css-0.2.2-py3-none-any.whl" },
+]

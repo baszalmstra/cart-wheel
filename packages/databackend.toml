@@ -1,0 +1,10 @@
+# Package configuration for databackend
+conda_forge = "databackend"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "databackend-0.0.3-py3-none-any.whl" },
+  { filename = "databackend-0.0.2-py2.py3-none-any.whl" },
+  { filename = "databackend-0.0.1-py2.py3-none-any.whl" },
+]

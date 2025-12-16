@@ -1,0 +1,12 @@
+# Package configuration for pyink
+conda_forge = "pyink"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyink-24.10.1-py3-none-any.whl" },
+  { filename = "pyink-24.10.0-py3-none-any.whl" },
+  { filename = "pyink-24.8.0-py3-none-any.whl" },
+  { filename = "pyink-24.3.0-py3-none-any.whl" },
+  { filename = "pyink-23.12.1-py3-none-any.whl" },
+]

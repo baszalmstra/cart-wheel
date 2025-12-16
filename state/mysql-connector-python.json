@@ -1,0 +1,77 @@
+{
+  "mysql_connector_python-9.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ace137b88eb6fdafa1e5b2e03ac76ce1b8b1844b3a4af1192a02ae7c1a45bdee",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "dnspython==2.6.1; extra == \"dns-srv\"",
+      "gssapi==1.8.3; extra == \"gssapi\"",
+      "fido2==1.1.2; extra == \"webauthn\"",
+      "opentelemetry-api==1.33.1; extra == \"telemetry\"",
+      "opentelemetry-sdk==1.33.1; extra == \"telemetry\"",
+      "opentelemetry-exporter-otlp-proto-http==1.33.1; extra == \"telemetry\""
+    ]
+  },
+  "mysql_connector_python-9.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "56e679169c704dab279b176fab2a9ee32d2c632a866c0f7cd48a8a1e2cf802c4",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "dnspython==2.6.1; extra == \"dns-srv\"",
+      "gssapi==1.8.3; extra == \"gssapi\"",
+      "opentelemetry-api==1.33.1; extra == \"telemetry\"",
+      "opentelemetry-sdk==1.33.1; extra == \"telemetry\"",
+      "opentelemetry-exporter-otlp-proto-http==1.33.1; extra == \"telemetry\"",
+      "fido2==1.1.2; extra == \"webauthn\""
+    ]
+  },
+  "mysql_connector_python-9.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ab7719d614cf5463521082fab86afc21ada504b538166090e00eeaa1ff729bc",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "dnspython==2.6.1; extra == \"dns-srv\"",
+      "fido2==1.1.2; extra == \"fido2\"",
+      "gssapi==1.8.3; extra == \"gssapi\"",
+      "opentelemetry-api==1.18.0; extra == \"telemetry\"",
+      "opentelemetry-sdk==1.18.0; extra == \"telemetry\"",
+      "opentelemetry-exporter-otlp-proto-http==1.18.0; extra == \"telemetry\""
+    ]
+  },
+  "mysql_connector_python-9.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d007c05a48fc076e5ac7ad3d76e332fa5b0e885853c2da80071ade2d6e01aba5",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "dnspython==2.6.1; extra == \"dns-srv\"",
+      "fido2==1.1.2; extra == \"fido2\"",
+      "gssapi==1.8.3; extra == \"gssapi\"",
+      "opentelemetry-api==1.18.0; extra == \"telemetry\"",
+      "opentelemetry-sdk==1.18.0; extra == \"telemetry\"",
+      "opentelemetry-exporter-otlp-proto-http==1.18.0; extra == \"telemetry\""
+    ]
+  },
+  "mysql_connector_python-9.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dacf1aa84dc7dd8ae908626c3ae50fce956d0105130c7465fd248a4f035d50b1",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "dnspython==2.6.1; extra == \"dns-srv\"",
+      "fido2==1.1.2; extra == \"fido2\"",
+      "gssapi==1.8.3; extra == \"gssapi\"",
+      "opentelemetry-api==1.18.0; extra == \"telemetry\"",
+      "opentelemetry-sdk==1.18.0; extra == \"telemetry\"",
+      "opentelemetry-exporter-otlp-proto-http==1.18.0; extra == \"telemetry\""
+    ]
+  }
+}

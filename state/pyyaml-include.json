@@ -1,0 +1,82 @@
+{
+  "pyyaml_include-2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "489fff69f78bad8b9509d006297a0140fd91382a66775b8b1da0ce7e126c1815",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "fsspec",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML ~=6.0",
+      "fsspec >=2021.04.0",
+      "typing-extensions ; python_version < \"3.11\""
+    ]
+  },
+  "pyyaml_include-2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f64e6dd18961450c26977e4416466662246b55d5e57953df8e7e30bbb4e18f42",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "fsspec",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML ~=6.0",
+      "fsspec >=2021.04.0",
+      "typing-extensions ; python_version < \"3.11\""
+    ]
+  },
+  "pyyaml_include-2.0.2.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "207795079b894303d32751fef7753e0be1bef842f48999df86f21d62624ae0aa",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "fsspec",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML ~=6.0",
+      "fsspec >=2021.04.0",
+      "typing-extensions ; python_version < \"3.11\""
+    ]
+  },
+  "pyyaml_include-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ffdc259856a9abdef6728e270a9118fc32f8a4f84c881b88d4137191f996dd3",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "fsspec",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML <7.0,>=6.0",
+      "fsspec >=2021.04.0",
+      "typing-extensions ; python_version < \"3.11\""
+    ]
+  },
+  "pyyaml_include-2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b053fb227754af99d3d3326745e1289f91e839b430888eca0b195ebb925141bd",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "fsspec",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML <7.0,>=6.0",
+      "fsspec >=2021.04.0",
+      "typing-extensions ; python_version < \"3.11\""
+    ]
+  }
+}

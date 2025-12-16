@@ -1,0 +1,132 @@
+{
+  "ibm_vpc-0.31.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72bae3b8ad630d74fb07c2fd47a7a2e07f744e393b94d163ffac57a00f07cce1",
+    "dependencies": {
+      "required": [
+        "ibm-cloud-sdk-core",
+        "ibm-cloud-sdk-core",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "ibm_cloud_sdk_core<4.0.0,>=3.24.2; python_version < \"3.9\"",
+      "ibm_cloud_sdk_core>=3.24.2; python_version >= \"3.9\"",
+      "python_dateutil<3.0.0,>=2.5.3",
+      "coverage<8.0.0,>=7.9.0; extra == \"dev\"",
+      "pylint<4.0.0,>=3.3.7; extra == \"dev\"",
+      "pytest<8.0.0,>=7.4.4; extra == \"dev\"",
+      "pytest-cov<5.0.0,>=4.1.0; extra == \"dev\"",
+      "responses<1.0.0,>=0.25.7; extra == \"dev\"",
+      "black<26.0.0,>=25.0.0; extra == \"dev\"",
+      "pytest-rerunfailures>=12.0; extra == \"dev\"",
+      "tox<4.23.2,>=4.12.0; extra == \"dev\"",
+      "build; extra == \"publish\"",
+      "twine; extra == \"publish\""
+    ]
+  },
+  "ibm_vpc-0.30.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62a44fd4c605f90e57368db512554617743fd529cdb279f9d123eac53438795c",
+    "dependencies": {
+      "required": [
+        "ibm-cloud-sdk-core",
+        "ibm-cloud-sdk-core",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "ibm_cloud_sdk_core<4.0.0,>=3.24.2; python_version < \"3.9\"",
+      "ibm_cloud_sdk_core>=3.24.2; python_version >= \"3.9\"",
+      "python_dateutil<3.0.0,>=2.5.3",
+      "coverage<8.0.0,>=7.9.0; extra == \"dev\"",
+      "pylint<4.0.0,>=3.3.7; extra == \"dev\"",
+      "pytest<8.0.0,>=7.4.4; extra == \"dev\"",
+      "pytest-cov<5.0.0,>=4.1.0; extra == \"dev\"",
+      "responses<1.0.0,>=0.25.7; extra == \"dev\"",
+      "black<26.0.0,>=25.0.0; extra == \"dev\"",
+      "pytest-rerunfailures>=12.0; extra == \"dev\"",
+      "tox<4.23.2,>=4.12.0; extra == \"dev\"",
+      "build; extra == \"publish\"",
+      "twine; extra == \"publish\""
+    ]
+  },
+  "ibm_vpc-0.29.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c09f994f131be3f86e60feac5cae7885cf1b046667296d1df090a275f92d5059",
+    "dependencies": {
+      "required": [
+        "ibm-cloud-sdk-core",
+        "ibm-cloud-sdk-core",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "ibm_cloud_sdk_core<4.0.0,>=3.24.2; python_version < \"3.9\"",
+      "ibm_cloud_sdk_core>=3.24.2; python_version >= \"3.9\"",
+      "python_dateutil<3.0.0,>=2.5.3",
+      "coverage<8.0.0,>=7.3.2; extra == \"dev\"",
+      "pylint<4.0.0,>=3.0.0; extra == \"dev\"",
+      "pytest<8.0.0,>=7.4.2; extra == \"dev\"",
+      "pytest-cov<5.0.0,>=4.1.0; extra == \"dev\"",
+      "responses<1.0.0,>=0.23.3; extra == \"dev\"",
+      "black<25.0.0,>=24.0.0; extra == \"dev\"",
+      "pytest-rerunfailures>=12.0; extra == \"dev\"",
+      "tox<4.23.2,>=4.12.0; extra == \"dev\"",
+      "build; extra == \"publish\"",
+      "twine; extra == \"publish\""
+    ]
+  },
+  "ibm_vpc-0.29.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1fec63c76fde97aaae39c0fcb56704ac2b4b9270e1bcfcdc525e5a6a5673cbf8",
+    "dependencies": {
+      "required": [
+        "ibm-cloud-sdk-core",
+        "ibm-cloud-sdk-core",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "ibm_cloud_sdk_core<4.0.0,>=3.24.2; python_version < \"3.9\"",
+      "ibm_cloud_sdk_core>=3.24.2; python_version >= \"3.9\"",
+      "python_dateutil<3.0.0,>=2.5.3",
+      "coverage<8.0.0,>=7.3.2; extra == \"dev\"",
+      "pylint<4.0.0,>=3.0.0; extra == \"dev\"",
+      "pytest<8.0.0,>=7.4.2; extra == \"dev\"",
+      "pytest-cov<5.0.0,>=4.1.0; extra == \"dev\"",
+      "responses<1.0.0,>=0.23.3; extra == \"dev\"",
+      "black<25.0.0,>=24.0.0; extra == \"dev\"",
+      "pytest-rerunfailures>=12.0; extra == \"dev\"",
+      "tox<4.23.2,>=4.12.0; extra == \"dev\"",
+      "build; extra == \"publish\"",
+      "twine; extra == \"publish\""
+    ]
+  },
+  "ibm_vpc-0.28.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4a3988b8dffa96510eecb3cccfee43e7202651513b3be5acd037b7083617c88",
+    "dependencies": {
+      "required": [
+        "ibm-cloud-sdk-core",
+        "ibm-cloud-sdk-core",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "ibm_cloud_sdk_core<3.23.0,>=3.22.0; python_version < \"3.9\"",
+      "ibm_cloud_sdk_core>=3.23.0; python_version >= \"3.9\"",
+      "python_dateutil<3.0.0,>=2.5.3",
+      "coverage<8.0.0,>=7.3.2; extra == \"dev\"",
+      "pylint<4.0.0,>=3.0.0; extra == \"dev\"",
+      "pytest<8.0.0,>=7.4.2; extra == \"dev\"",
+      "pytest-cov<5.0.0,>=4.1.0; extra == \"dev\"",
+      "responses<1.0.0,>=0.23.3; extra == \"dev\"",
+      "black<25.0.0,>=24.0.0; extra == \"dev\"",
+      "pytest-rerunfailures>=12.0; extra == \"dev\"",
+      "tox<4.23.2,>=4.12.0; extra == \"dev\"",
+      "build; extra == \"publish\"",
+      "twine; extra == \"publish\""
+    ]
+  }
+}

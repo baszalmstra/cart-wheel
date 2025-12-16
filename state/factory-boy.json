@@ -1,0 +1,136 @@
+{
+  "factory_boy-3.3.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c39e3289f7e667c4285433f305f8d506efc2fe9c73aaea4151ebd5cdea394fc",
+    "dependencies": {
+      "required": [
+        "faker"
+      ]
+    },
+    "original_requirements": [
+      "Faker>=0.7.0",
+      "coverage; extra == \"dev\"",
+      "Django; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "Pillow; extra == \"dev\"",
+      "SQLAlchemy; extra == \"dev\"",
+      "mongoengine; extra == \"dev\"",
+      "mongomock; extra == \"dev\"",
+      "wheel>=0.32.0; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "zest.releaser[recommended]; extra == \"dev\"",
+      "Sphinx; extra == \"doc\"",
+      "sphinx-rtd-theme; extra == \"doc\"",
+      "sphinxcontrib-spelling; extra == \"doc\""
+    ]
+  },
+  "factory_boy-3.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec642ff9b1405a3ab462580dbfe7ba931c5ce32dd9493c0e3552f4af6554fcde",
+    "dependencies": {
+      "required": [
+        "faker"
+      ]
+    },
+    "original_requirements": [
+      "Faker>=0.7.0",
+      "coverage; extra == \"dev\"",
+      "Django; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "Pillow; extra == \"dev\"",
+      "SQLAlchemy; extra == \"dev\"",
+      "mongoengine; extra == \"dev\"",
+      "mongomock; extra == \"dev\"",
+      "wheel>=0.32.0; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "zest.releaser[recommended]; extra == \"dev\"",
+      "Sphinx; extra == \"doc\"",
+      "sphinx-rtd-theme; extra == \"doc\"",
+      "sphinxcontrib-spelling; extra == \"doc\""
+    ]
+  },
+  "factory_boy-3.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b1113c49736e1e9995bc2a18f4dbf2c52cf0f841103517010b1d825712ce3ca",
+    "dependencies": {
+      "required": [
+        "faker"
+      ]
+    },
+    "original_requirements": [
+      "Faker >=0.7.0",
+      "coverage ; extra == 'dev'",
+      "Django ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "Pillow ; extra == 'dev'",
+      "SQLAlchemy ; extra == 'dev'",
+      "mongoengine ; extra == 'dev'",
+      "mongomock ; extra == 'dev'",
+      "wheel >=0.32.0 ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "zest.releaser[recommended] ; extra == 'dev'",
+      "Sphinx ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'",
+      "sphinxcontrib-spelling ; extra == 'doc'"
+    ]
+  },
+  "factory_boy-3.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2cdbdb63228177aa4f1c52f4b6d83fab2b8623bf602c7dedd7eb83c0f69c04c",
+    "dependencies": {
+      "required": [
+        "faker",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "Faker (>=0.7.0)",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "coverage ; extra == 'dev'",
+      "Django ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "Pillow ; extra == 'dev'",
+      "SQLAlchemy ; extra == 'dev'",
+      "sqlalchemy-utils ; extra == 'dev'",
+      "mongoengine ; extra == 'dev'",
+      "wheel (>=0.32.0) ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "zest.releaser[recommended] ; extra == 'dev'",
+      "Sphinx ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'",
+      "sphinxcontrib-spelling ; extra == 'doc'"
+    ]
+  },
+  "factory_boy-3.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eb02a7dd1b577ef606b75a253b9818e6f9eaf996d94449c9d5ebb124f90dc795",
+    "dependencies": {
+      "required": [
+        "faker"
+      ]
+    },
+    "original_requirements": [
+      "Faker (>=0.7.0)",
+      "coverage ; extra == 'dev'",
+      "Django ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "Pillow ; extra == 'dev'",
+      "SQLAlchemy ; extra == 'dev'",
+      "mongoengine ; extra == 'dev'",
+      "wheel (>=0.32.0) ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "zest.releaser[recommended] ; extra == 'dev'",
+      "Sphinx ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'",
+      "sphinxcontrib-spelling ; extra == 'doc'"
+    ]
+  }
+}

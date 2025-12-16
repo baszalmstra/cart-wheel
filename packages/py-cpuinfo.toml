@@ -1,0 +1,8 @@
+# Package configuration for py-cpuinfo
+conda_forge = "py-cpuinfo"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "py_cpuinfo-9.0.0-py3-none-any.whl" },
+]

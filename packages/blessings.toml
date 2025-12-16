@@ -1,0 +1,9 @@
+# Package configuration for blessings
+conda_forge = "blessings"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "blessings-1.7-py3-none-any.whl" },
+  { filename = "blessings-1.6.1-py3-none-any.whl" },
+]

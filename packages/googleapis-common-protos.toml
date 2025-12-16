@@ -1,0 +1,12 @@
+# Package configuration for googleapis-common-protos
+conda_forge = "googleapis-common-protos"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "googleapis_common_protos-1.72.0-py3-none-any.whl" },
+  { filename = "googleapis_common_protos-1.71.0-py3-none-any.whl" },
+  { filename = "googleapis_common_protos-1.70.0-py3-none-any.whl" },
+  { filename = "googleapis_common_protos-1.69.2-py3-none-any.whl" },
+  { filename = "googleapis_common_protos-1.69.1-py2.py3-none-any.whl" },
+]

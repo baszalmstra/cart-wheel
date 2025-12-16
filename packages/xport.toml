@@ -1,0 +1,11 @@
+# Package configuration for xport
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "xport-3.6.1-py2.py3-none-any.whl" },
+  { filename = "xport-3.6.0-py2.py3-none-any.whl" },
+  { filename = "xport-3.5.1-py2.py3-none-any.whl" },
+  { filename = "xport-3.5.0-py2.py3-none-any.whl" },
+  { filename = "xport-3.4.0-py2.py3-none-any.whl" },
+]

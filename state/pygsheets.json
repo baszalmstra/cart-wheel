@@ -1,0 +1,87 @@
+{
+  "pygsheets-2.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3338c2eb8990fdee9f463b42a370ec0870c118d607d775471a6dfb8b08f6cd87",
+    "dependencies": {
+      "required": [
+        "google-api-python-client",
+        "google-auth-oauthlib",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "google-api-python-client (>=2.50.0)",
+      "google-auth-oauthlib (>=0.7.1)",
+      "enum34 (>=1.1.6) ; python_version < \"3.4\"",
+      "pandas (>=0.14.0) ; extra == 'pandas'"
+    ]
+  },
+  "pygsheets-2.0.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85a4c871ac1d53013e042c13552b07f908b991c3d8c8770b3a68eb3452c8c218",
+    "dependencies": {
+      "required": [
+        "google-api-python-client",
+        "google-auth-oauthlib",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "google-api-python-client (>=1.5.5)",
+      "google-auth-oauthlib",
+      "enum34 (>=1.1.6) ; python_version < \"3.4\"",
+      "pandas (>=0.14.0) ; extra == 'pandas'"
+    ]
+  },
+  "pygsheets-2.0.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0f6e8a91a4c533b537d91c6a5245c73b69bee03ce5f8b7d68757c6a25018fd2a",
+    "dependencies": {
+      "required": [
+        "google-api-python-client",
+        "google-auth-oauthlib",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "google-api-python-client (>=1.5.5)",
+      "google-auth-oauthlib",
+      "enum34 (>=1.1.6) ; python_version < \"3.4\"",
+      "pandas (>=0.14.0) ; extra == 'pandas'"
+    ]
+  },
+  "pygsheets-2.0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ac1e406891412fbd4faa0c5962725bc80499658f70c85c4d942541f08999549",
+    "dependencies": {
+      "required": [
+        "google-api-python-client",
+        "google-auth-oauthlib",
+        "oauth2client"
+      ]
+    },
+    "original_requirements": [
+      "google-api-python-client (>=1.5.5)",
+      "google-auth-oauthlib",
+      "oauth2client",
+      "pandas (>=0.14.0) ; extra == 'pandas'"
+    ]
+  },
+  "pygsheets-2.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "111bb920f737f4dafa310bf71179c36575120b3e7371ba8f2bd0828373895f56",
+    "dependencies": {
+      "required": [
+        "google-api-python-client",
+        "google-auth-oauthlib",
+        "oauth2client"
+      ]
+    },
+    "original_requirements": [
+      "google-api-python-client (>=1.5.5)",
+      "google-auth-oauthlib",
+      "oauth2client",
+      "pandas (>=0.14.0); extra == 'pandas'"
+    ]
+  }
+}

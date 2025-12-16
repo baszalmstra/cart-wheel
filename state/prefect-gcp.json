@@ -1,0 +1,162 @@
+{
+  "prefect_gcp-0.6.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "135ca4a18a1a2603936fe6c0b1a2c214ae38674ad2db1ad90e8095348e89922e",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "google-api-python-client",
+        "google-cloud-storage",
+        "tenacity",
+        "python-slugify",
+        "google-cloud-secret-manager"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "google-api-python-client>=2.20.0",
+      "google-cloud-storage>=2.0.0",
+      "tenacity>=8.0.0",
+      "python-slugify>=8.0.0",
+      "google-cloud-secret-manager",
+      "google-cloud-storage; extra == \"cloud-storage\"",
+      "google-cloud-bigquery; extra == \"bigquery\"",
+      "google-cloud-bigquery-storage; extra == \"bigquery\"",
+      "google-cloud-secret-manager; extra == \"secret-manager\"",
+      "google-cloud-aiplatform; extra == \"aiplatform\"",
+      "google-cloud-storage; extra == \"all-extras\"",
+      "google-cloud-bigquery; extra == \"all-extras\"",
+      "google-cloud-bigquery-storage; extra == \"all-extras\"",
+      "google-cloud-secret-manager; extra == \"all-extras\"",
+      "google-cloud-aiplatform; extra == \"all-extras\""
+    ]
+  },
+  "prefect_gcp-0.6.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b01dacb1165b3f837a1cb6fd6bb64020a0f2f18df19b01319c666a0706d191a6",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "google-api-python-client",
+        "google-cloud-storage",
+        "tenacity",
+        "python-slugify",
+        "google-cloud-secret-manager"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "google-api-python-client>=2.20.0",
+      "google-cloud-storage>=2.0.0",
+      "tenacity>=8.0.0",
+      "python-slugify>=8.0.0",
+      "google-cloud-secret-manager",
+      "google-cloud-storage; extra == \"cloud-storage\"",
+      "google-cloud-bigquery; extra == \"bigquery\"",
+      "google-cloud-bigquery-storage; extra == \"bigquery\"",
+      "google-cloud-secret-manager; extra == \"secret-manager\"",
+      "google-cloud-aiplatform; extra == \"aiplatform\"",
+      "google-cloud-storage; extra == \"all-extras\"",
+      "google-cloud-bigquery; extra == \"all-extras\"",
+      "google-cloud-bigquery-storage; extra == \"all-extras\"",
+      "google-cloud-secret-manager; extra == \"all-extras\"",
+      "google-cloud-aiplatform; extra == \"all-extras\""
+    ]
+  },
+  "prefect_gcp-0.6.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e845259033a02c04ec18860476a0cee344ab320c95d595f2efadd104b94a29bb",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "google-api-python-client",
+        "google-cloud-storage",
+        "tenacity",
+        "python-slugify",
+        "google-cloud-secret-manager"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "google-api-python-client>=2.20.0",
+      "google-cloud-storage>=2.0.0",
+      "tenacity>=8.0.0",
+      "python-slugify>=8.0.0",
+      "google-cloud-secret-manager",
+      "google-cloud-storage; extra == \"cloud-storage\"",
+      "google-cloud-bigquery; extra == \"bigquery\"",
+      "google-cloud-bigquery-storage; extra == \"bigquery\"",
+      "google-cloud-secret-manager; extra == \"secret-manager\"",
+      "google-cloud-aiplatform; extra == \"aiplatform\"",
+      "google-cloud-storage; extra == \"all-extras\"",
+      "google-cloud-bigquery; extra == \"all-extras\"",
+      "google-cloud-bigquery-storage; extra == \"all-extras\"",
+      "google-cloud-secret-manager; extra == \"all-extras\"",
+      "google-cloud-aiplatform; extra == \"all-extras\""
+    ]
+  },
+  "prefect_gcp-0.6.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "066fed674024dbf773d1134f28d35c9d4a92eb50915f7ba218f5aeff044f2c35",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "google-api-python-client",
+        "google-cloud-storage",
+        "tenacity",
+        "python-slugify",
+        "google-cloud-secret-manager"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "google-api-python-client>=2.20.0",
+      "google-cloud-storage>=2.0.0",
+      "tenacity>=8.0.0",
+      "python-slugify>=8.0.0",
+      "google-cloud-secret-manager",
+      "google-cloud-storage; extra == \"cloud-storage\"",
+      "google-cloud-bigquery; extra == \"bigquery\"",
+      "google-cloud-bigquery-storage; extra == \"bigquery\"",
+      "google-cloud-secret-manager; extra == \"secret-manager\"",
+      "google-cloud-aiplatform; extra == \"aiplatform\"",
+      "google-cloud-storage; extra == \"all-extras\"",
+      "google-cloud-bigquery; extra == \"all-extras\"",
+      "google-cloud-bigquery-storage; extra == \"all-extras\"",
+      "google-cloud-secret-manager; extra == \"all-extras\"",
+      "google-cloud-aiplatform; extra == \"all-extras\""
+    ]
+  },
+  "prefect_gcp-0.6.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31b84e91de0817c4ed5417753d3c209c82e8e75d0beefd8ab323323ab984322b",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "google-api-python-client",
+        "google-cloud-storage",
+        "tenacity",
+        "python-slugify",
+        "google-cloud-secret-manager"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "google-api-python-client>=2.20.0",
+      "google-cloud-storage>=2.0.0",
+      "tenacity>=8.0.0",
+      "python-slugify>=8.0.0",
+      "google-cloud-secret-manager",
+      "google-cloud-storage; extra == \"cloud-storage\"",
+      "google-cloud-bigquery; extra == \"bigquery\"",
+      "google-cloud-bigquery-storage; extra == \"bigquery\"",
+      "google-cloud-secret-manager; extra == \"secret-manager\"",
+      "google-cloud-aiplatform; extra == \"aiplatform\"",
+      "google-cloud-storage; extra == \"all-extras\"",
+      "google-cloud-bigquery; extra == \"all-extras\"",
+      "google-cloud-bigquery-storage; extra == \"all-extras\"",
+      "google-cloud-secret-manager; extra == \"all-extras\"",
+      "google-cloud-aiplatform; extra == \"all-extras\""
+    ]
+  }
+}

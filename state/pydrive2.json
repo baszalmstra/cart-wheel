@@ -1,0 +1,159 @@
+{
+  "PyDrive2-1.21.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "843a304f500e71508162807001f5e19487f272e8ff5648f43582bd24c6250200",
+    "dependencies": {
+      "required": [
+        "google-api-python-client",
+        "oauth2client",
+        "pyyaml",
+        "cryptography",
+        "pyopenssl"
+      ]
+    },
+    "original_requirements": [
+      "google-api-python-client >=1.12.5",
+      "oauth2client >=4.0.0",
+      "PyYAML >=3.0",
+      "cryptography <44",
+      "pyOpenSSL <=24.2.1,>=19.1.0",
+      "fsspec >=2021.07.0 ; extra == 'fsspec'",
+      "tqdm >=4.0.0 ; extra == 'fsspec'",
+      "funcy >=1.14 ; extra == 'fsspec'",
+      "appdirs >=1.4.3 ; extra == 'fsspec'",
+      "pytest >=4.6.0 ; extra == 'tests'",
+      "timeout-decorator ; extra == 'tests'",
+      "funcy >=1.14 ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "flake8-docstrings ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "pyinstaller ; extra == 'tests'",
+      "black ==24.10.0 ; extra == 'tests'",
+      "importlib-resources <6 ; (python_version < \"3.10\") and extra == 'tests'"
+    ]
+  },
+  "PyDrive2-1.21.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3b72e522b8f5ba4e93ab165bbf120544567583c61a6c7904ef1ff47afc005d6",
+    "dependencies": {
+      "required": [
+        "google-api-python-client",
+        "oauth2client",
+        "pyyaml",
+        "pyopenssl"
+      ]
+    },
+    "original_requirements": [
+      "google-api-python-client >=1.12.5",
+      "oauth2client >=4.0.0",
+      "PyYAML >=3.0",
+      "pyOpenSSL <=24.2.1,>=19.1.0",
+      "fsspec >=2021.07.0 ; extra == 'fsspec'",
+      "tqdm >=4.0.0 ; extra == 'fsspec'",
+      "funcy >=1.14 ; extra == 'fsspec'",
+      "appdirs >=1.4.3 ; extra == 'fsspec'",
+      "pytest >=4.6.0 ; extra == 'tests'",
+      "timeout-decorator ; extra == 'tests'",
+      "funcy >=1.14 ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "flake8-docstrings ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "pyinstaller ; extra == 'tests'",
+      "black ==24.10.0 ; extra == 'tests'",
+      "importlib-resources <6 ; (python_version < \"3.10\") and extra == 'tests'"
+    ]
+  },
+  "PyDrive2-1.21.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d24b3334bc5c242e5ec58ad6ee7efbd2216aa92098c3eed353ce644f27a7e97b",
+    "dependencies": {
+      "required": [
+        "google-api-python-client",
+        "oauth2client",
+        "pyyaml",
+        "pyopenssl"
+      ]
+    },
+    "original_requirements": [
+      "google-api-python-client >=1.12.5",
+      "oauth2client >=4.0.0",
+      "PyYAML >=3.0",
+      "pyOpenSSL >=19.1.0",
+      "fsspec >=2021.07.0 ; extra == 'fsspec'",
+      "tqdm >=4.0.0 ; extra == 'fsspec'",
+      "funcy >=1.14 ; extra == 'fsspec'",
+      "appdirs >=1.4.3 ; extra == 'fsspec'",
+      "pytest >=4.6.0 ; extra == 'tests'",
+      "timeout-decorator ; extra == 'tests'",
+      "funcy >=1.14 ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "flake8-docstrings ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "pyinstaller ; extra == 'tests'",
+      "black ==24.10.0 ; extra == 'tests'",
+      "importlib-resources <6 ; (python_version < \"3.10\") and extra == 'tests'"
+    ]
+  },
+  "PyDrive2-1.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d4582193d28f85d2a79e7a3772527110c0769aa763625f78fab81d0837f90564",
+    "dependencies": {
+      "required": [
+        "google-api-python-client",
+        "oauth2client",
+        "pyyaml",
+        "pyopenssl"
+      ]
+    },
+    "original_requirements": [
+      "google-api-python-client >=1.12.5",
+      "oauth2client >=4.0.0",
+      "PyYAML >=3.0",
+      "pyOpenSSL >=19.1.0",
+      "fsspec >=2021.07.0 ; extra == 'fsspec'",
+      "tqdm >=4.0.0 ; extra == 'fsspec'",
+      "funcy >=1.14 ; extra == 'fsspec'",
+      "appdirs >=1.4.3 ; extra == 'fsspec'",
+      "pytest >=4.6.0 ; extra == 'tests'",
+      "timeout-decorator ; extra == 'tests'",
+      "funcy >=1.14 ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "flake8-docstrings ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "pyinstaller ; extra == 'tests'",
+      "black ==24.4.2 ; extra == 'tests'",
+      "importlib-resources <6 ; (python_version < \"3.10\") and extra == 'tests'"
+    ]
+  },
+  "PyDrive2-1.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5699f24cf13907d9556f1c6c33a913c9fcb4441c1b999a6204affc2d4d793aea",
+    "dependencies": {
+      "required": [
+        "google-api-python-client",
+        "oauth2client",
+        "pyyaml",
+        "pyopenssl"
+      ]
+    },
+    "original_requirements": [
+      "google-api-python-client >=1.12.5",
+      "oauth2client >=4.0.0",
+      "PyYAML >=3.0",
+      "pyOpenSSL >=19.1.0",
+      "fsspec >=2021.07.0 ; extra == 'fsspec'",
+      "tqdm >=4.0.0 ; extra == 'fsspec'",
+      "funcy >=1.14 ; extra == 'fsspec'",
+      "appdirs >=1.4.3 ; extra == 'fsspec'",
+      "pytest >=4.6.0 ; extra == 'tests'",
+      "timeout-decorator ; extra == 'tests'",
+      "funcy >=1.14 ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "flake8-docstrings ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "pyinstaller ; extra == 'tests'",
+      "black ==23.12.1 ; extra == 'tests'",
+      "importlib-resources <6 ; (python_version < \"3.10\") and extra == 'tests'"
+    ]
+  }
+}

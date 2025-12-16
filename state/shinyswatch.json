@@ -1,0 +1,170 @@
+{
+  "shinyswatch-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb335a1db9bf5fc84867e2644ffbcc61ccad452d38c7b386651c2b78ab0f734a",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "packaging",
+        "htmltools",
+        "shiny"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=3.10.0.0",
+      "packaging>=20.9",
+      "htmltools>=0.2.0",
+      "shiny>=1.2.0",
+      "pytest>=6.2.4; extra == \"test\"",
+      "black>=23.1.0; extra == \"dev\"",
+      "flake8>=6.0.0; extra == \"dev\"",
+      "isort>=5.11.2; extra == \"dev\"",
+      "pyright>=1.1.301; extra == \"dev\"",
+      "pre-commit>=2.15.0; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "pandas; extra == \"dev\"",
+      "Jinja2; extra == \"dev\"",
+      "matplotlib; extra == \"dev\"",
+      "libsass; extra == \"dev\"",
+      "tinycss2; extra == \"dev\"",
+      "griffe==0.47.0; extra == \"docs\"",
+      "quartodoc==0.7.5; extra == \"docs\"",
+      "shinylive; extra == \"docs\"",
+      "plum-dispatch; extra == \"docs\"",
+      "jupyter; extra == \"docs\""
+    ]
+  },
+  "shinyswatch-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "278a77b23606d988100787100191a8d051566fc281a71786061a5567f2627219",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "packaging",
+        "htmltools",
+        "shiny"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=3.10.0.0",
+      "packaging>=20.9",
+      "htmltools>=0.2.0",
+      "shiny>=1.2.0",
+      "black>=23.1.0; extra == \"dev\"",
+      "flake8>=6.0.0; extra == \"dev\"",
+      "isort>=5.11.2; extra == \"dev\"",
+      "pyright>=1.1.301; extra == \"dev\"",
+      "pre-commit>=2.15.0; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "pandas; extra == \"dev\"",
+      "Jinja2; extra == \"dev\"",
+      "matplotlib; extra == \"dev\"",
+      "libsass; extra == \"dev\"",
+      "tinycss2; extra == \"dev\"",
+      "griffe==0.47.0; extra == \"docs\"",
+      "quartodoc==0.7.5; extra == \"docs\"",
+      "shinylive; extra == \"docs\"",
+      "plum-dispatch; extra == \"docs\"",
+      "jupyter; extra == \"docs\"",
+      "pytest>=6.2.4; extra == \"test\""
+    ]
+  },
+  "shinyswatch-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c1f8409206abf0d4cd6bf46d7daa481b9ddf1e98a7ca4cf439bb674c371810ae",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "packaging",
+        "htmltools",
+        "shiny"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >=3.10.0.0",
+      "packaging >=20.9",
+      "htmltools >=0.2.0",
+      "shiny >=1.0.0",
+      "black >=23.1.0 ; extra == 'dev'",
+      "flake8 >=6.0.0 ; extra == 'dev'",
+      "isort >=5.11.2 ; extra == 'dev'",
+      "pyright >=1.1.301 ; extra == 'dev'",
+      "pre-commit >=2.15.0 ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "pandas ; extra == 'dev'",
+      "Jinja2 ; extra == 'dev'",
+      "matplotlib ; extra == 'dev'",
+      "libsass ; extra == 'dev'",
+      "griffe ==0.47.0 ; extra == 'docs'",
+      "quartodoc ==0.7.5 ; extra == 'docs'",
+      "shinylive ; extra == 'docs'",
+      "plum-dispatch ; extra == 'docs'",
+      "jupyter ; extra == 'docs'",
+      "pytest >=6.2.4 ; extra == 'test'"
+    ]
+  },
+  "shinyswatch-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "176eed49f0f7ebb4a1e83eb9f1b80f6ea56b260d0f95798bc68a02adc68c5277",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "packaging",
+        "htmltools",
+        "shiny"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >=3.10.0.0",
+      "packaging >=20.9",
+      "htmltools >=0.2.0",
+      "shiny >=0.8.1",
+      "black >=23.1.0 ; extra == 'dev'",
+      "flake8 >=6.0.0 ; extra == 'dev'",
+      "isort >=5.11.2 ; extra == 'dev'",
+      "pyright >=1.1.301 ; extra == 'dev'",
+      "pre-commit >=2.15.0 ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "pandas ; extra == 'dev'",
+      "Jinja2 ; extra == 'dev'",
+      "matplotlib ; extra == 'dev'",
+      "griffe ==0.32.3 ; extra == 'docs'",
+      "quartodoc ==0.4.2 ; extra == 'docs'",
+      "shinylive ; extra == 'docs'",
+      "plum-dispatch ; extra == 'docs'",
+      "pytest >=6.2.4 ; extra == 'test'"
+    ]
+  },
+  "shinyswatch-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8de7153f84d533bc8252bf47674c622351a8cb0ae6b2afaf81f167b7af1b417f",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "packaging",
+        "htmltools",
+        "shiny"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >=3.10.0.0",
+      "packaging >=20.9",
+      "htmltools >=0.2.0",
+      "shiny >=0.8.1",
+      "black >=23.1.0 ; extra == 'dev'",
+      "flake8 >=6.0.0 ; extra == 'dev'",
+      "isort >=5.11.2 ; extra == 'dev'",
+      "pyright >=1.1.301 ; extra == 'dev'",
+      "pre-commit >=2.15.0 ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "pandas ; extra == 'dev'",
+      "Jinja2 ; extra == 'dev'",
+      "matplotlib ; extra == 'dev'",
+      "griffe ==0.32.3 ; extra == 'docs'",
+      "quartodoc ==0.4.2 ; extra == 'docs'",
+      "shinylive ; extra == 'docs'",
+      "plum-dispatch ; extra == 'docs'",
+      "pytest >=6.2.4 ; extra == 'test'"
+    ]
+  }
+}

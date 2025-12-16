@@ -1,0 +1,10 @@
+# Package configuration for dvc-hdfs
+conda_forge = "dvc-hdfs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dvc_hdfs-3.0.0-py3-none-any.whl" },
+  { filename = "dvc_hdfs-2.19.0-py3-none-any.whl" },
+  { filename = "dvc_hdfs-0.0.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for gpytorch
+conda_forge = "gpytorch"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gpytorch-1.14.3-py3-none-any.whl" },
+  { filename = "gpytorch-1.14.2-py3-none-any.whl" },
+  { filename = "gpytorch-1.14.1-py3-none-any.whl" },
+  { filename = "gpytorch-1.14-py3-none-any.whl" },
+  { filename = "gpytorch-1.13-py3-none-any.whl" },
+]

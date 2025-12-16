@@ -1,0 +1,12 @@
+# Package configuration for tatsu
+conda_forge = "tatsu"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tatsu-5.13.2-py3-none-any.whl" },
+  { filename = "TatSu-5.13.1-py3-none-any.whl" },
+  { filename = "TatSu-5.13.0-py3-none-any.whl" },
+  { filename = "TatSu-5.12.2-py3-none-any.whl" },
+  { filename = "TatSu-5.12.1-py3-none-any.whl" },
+]

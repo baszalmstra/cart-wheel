@@ -1,0 +1,73 @@
+{
+  "flask_sock-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "caac4d679392aaf010d02fabcf73d52019f5bdaf1c9c131ec5a428cb3491204a",
+    "dependencies": {
+      "required": [
+        "flask",
+        "simple-websocket"
+      ]
+    },
+    "original_requirements": [
+      "flask >=2",
+      "simple-websocket >=0.5.1",
+      "sphinx ; extra == 'docs'"
+    ]
+  },
+  "flask_sock-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "593fffb186928080a5b5b03d717efc56dac2d5ed690ce6bfff333b3597a2f518",
+    "dependencies": {
+      "required": [
+        "flask",
+        "simple-websocket"
+      ]
+    },
+    "original_requirements": [
+      "flask (>=2)",
+      "simple-websocket (>=0.5.1)"
+    ]
+  },
+  "flask_sock-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bdd60520d031eb92e6fa2dbd3deffbb6e71d3662e9d39bfe53d2eccf971d0fd0",
+    "dependencies": {
+      "required": [
+        "flask",
+        "simple-websocket"
+      ]
+    },
+    "original_requirements": [
+      "flask (>=2)",
+      "simple-websocket (>=0.5.1)"
+    ]
+  },
+  "flask_sock-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c78eb9b8d7b7e9c44a625b58cd70cea0126b674c5c474b96b24e398ba2370a9a",
+    "dependencies": {
+      "required": [
+        "flask",
+        "simple-websocket"
+      ]
+    },
+    "original_requirements": [
+      "flask (>=2)",
+      "simple-websocket (>=0.5.1)"
+    ]
+  },
+  "flask_sock-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d0fd22a40bdf586e2e9dfcf6ea11ee25036167d6e81e38f94d9900d416bdc3e",
+    "dependencies": {
+      "required": [
+        "flask",
+        "simple-websocket"
+      ]
+    },
+    "original_requirements": [
+      "flask (>=2)",
+      "simple-websocket (>=0.5.1)"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for six
+conda_forge = "bleach"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "six-1.17.0-py2.py3-none-any.whl" },
+  { filename = "six-1.16.0-py2.py3-none-any.whl" },
+  { filename = "six-1.15.0-py2.py3-none-any.whl" },
+  { filename = "six-1.14.0-py2.py3-none-any.whl" },
+  { filename = "six-1.13.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,9 @@
+# Package configuration for user-agents
+conda_forge = "user-agents"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "user_agents-2.2.0-py3-none-any.whl" },
+  { filename = "user_agents-2.1-py3-none-any.whl" },
+]

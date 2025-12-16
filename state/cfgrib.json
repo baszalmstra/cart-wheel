@@ -1,0 +1,127 @@
+{
+  "cfgrib-0.9.15.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f1bee90e86917389be9f767051bf32d00f95f6f4e4312b344567511b3cfd62d2",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "eccodes",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=19.2",
+      "click",
+      "eccodes>=0.9.8",
+      "numpy",
+      "xarray>=0.15; extra == \"xarray\"",
+      "dask[array]; extra == \"tests\"",
+      "flake8; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "scipy; extra == \"tests\"",
+      "xarray>=0.15; extra == \"tests\""
+    ]
+  },
+  "cfgrib-0.9.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "469cfd25dc173863795e596263b3b6b5ea1402b1715f2b7b1d4b995b40b32c18",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "eccodes",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=19.2)",
+      "click",
+      "eccodes (>=0.9.8)",
+      "numpy",
+      "dask[array] ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "scipy ; extra == 'tests'",
+      "xarray (>=0.15) ; extra == 'tests'",
+      "xarray (>=0.15) ; extra == 'xarray'"
+    ]
+  },
+  "cfgrib-0.9.14.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0714ece262231b0d4006fc7ba5a04f287a9fd42473ac3f6ed4703eb2e7e92161",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "eccodes",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=19.2)",
+      "click",
+      "eccodes (>=0.9.8)",
+      "numpy",
+      "dask[array] ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "scipy ; extra == 'tests'",
+      "xarray (>=0.15) ; extra == 'tests'",
+      "xarray (>=0.15) ; extra == 'xarray'"
+    ]
+  },
+  "cfgrib-0.9.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce9fb8a667167fee38ae935f6b445e87f0e8915b9af76e3843c182d2979a756a",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "eccodes",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=19.2)",
+      "click",
+      "eccodes (>=0.9.8)",
+      "numpy",
+      "dask[array] ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "scipy ; extra == 'tests'",
+      "xarray (>=0.15) ; extra == 'tests'",
+      "xarray (>=0.15) ; extra == 'xarray'"
+    ]
+  },
+  "cfgrib-0.9.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50467ef0aabcc45de2f3eb433dfe07d2d3eab02fc8a9af9389fd06c2391e6dd9",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "eccodes",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=19.2)",
+      "click",
+      "eccodes (>=0.9.8)",
+      "numpy",
+      "dask[array] ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "scipy ; extra == 'tests'",
+      "xarray (>=0.15) ; extra == 'tests'",
+      "xarray (>=0.15) ; extra == 'xarray'"
+    ]
+  }
+}

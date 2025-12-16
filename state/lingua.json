@@ -1,0 +1,93 @@
+{
+  "lingua-4.15.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8645a8029425bc97b74850f3c7817a7fae58d5f60709f13b3f3f41e5041f8a68",
+    "dependencies": {
+      "required": [
+        "polib",
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "polib >= 1.1.1",
+      "click >= 8.0.3",
+      "Chameleon ; extra == \"chameleonextractor\"",
+      "pytest >=7.0.1 ; extra == \"dev\"",
+      "black >= 22.1.0 ; extra == \"dev\"",
+      "flake8 >= 4.0.1 ; extra == \"dev\""
+    ]
+  },
+  "lingua-4.14-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca1e6b083e655ea31ed1386efd37d7f7f0127c68d07249f265b3d072e92267b9",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "polib",
+        "click",
+        "ordereddict",
+        "mock"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "polib",
+      "click",
+      "ordereddict ; python_version < \"3.0\"",
+      "mock ; python_version < \"3.3\"",
+      "Chameleon ; extra == 'chameleonextractor'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "lingua-4.13-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f369bfa1e7ae31bfe3628ccccc5963d5f7302a5483ac55df93a32266def3f61",
+    "dependencies": {
+      "required": [
+        "chameleon",
+        "polib",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "Chameleon",
+      "polib",
+      "setuptools",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "lingua-4.12-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4f2fa67f126d5bc2689444d83b560a7569a669a72459486c951aae0d06f2677",
+    "dependencies": {
+      "required": [
+        "chameleon",
+        "polib",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "Chameleon",
+      "polib",
+      "setuptools",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "lingua-4.11-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "56a213228bc8805670bcde18cf092650849e49f8731e796ce5f970a437b3d309",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "polib",
+        "chameleon"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "polib",
+      "Chameleon",
+      "pytest; extra == 'tests'"
+    ]
+  }
+}

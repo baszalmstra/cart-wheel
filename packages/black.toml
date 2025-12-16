@@ -1,0 +1,12 @@
+# Package configuration for black
+conda_forge = "black"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "black-25.12.0-py3-none-any.whl" },
+  { filename = "black-25.11.0-py3-none-any.whl" },
+  { filename = "black-25.9.0-py3-none-any.whl" },
+  { filename = "black-25.1.0-py3-none-any.whl" },
+  { filename = "black-24.10.0-py3-none-any.whl" },
+]

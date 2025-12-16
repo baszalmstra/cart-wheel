@@ -1,0 +1,10 @@
+# Package configuration for publication
+conda_forge = "publication"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "publication-0.0.3-py2.py3-none-any.whl" },
+  { filename = "publication-0.0.2-py2.py3-none-any.whl" },
+  { filename = "publication-0.0.1-py2.py3-none-any.whl" },
+]

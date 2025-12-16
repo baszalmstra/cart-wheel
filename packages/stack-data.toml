@@ -1,0 +1,12 @@
+# Package configuration for stack-data
+conda_forge = "stack_data"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "stack_data-0.6.3-py3-none-any.whl" },
+  { filename = "stack_data-0.6.2-py3-none-any.whl" },
+  { filename = "stack_data-0.6.1-py3-none-any.whl" },
+  { filename = "stack_data-0.6.0-py3-none-any.whl" },
+  { filename = "stack_data-0.5.1-py3-none-any.whl" },
+]

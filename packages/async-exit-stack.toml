@@ -1,0 +1,8 @@
+# Package configuration for async-exit-stack
+conda_forge = "async-exit-stack"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "async_exit_stack-1.0.1-py3-none-any.whl" },
+]

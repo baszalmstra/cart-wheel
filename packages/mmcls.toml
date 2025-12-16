@@ -1,0 +1,11 @@
+# Package configuration for mmcls
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mmcls-0.25.0-py2.py3-none-any.whl" },
+  { filename = "mmcls-0.24.1-py2.py3-none-any.whl" },
+  { filename = "mmcls-0.24.0-py2.py3-none-any.whl" },
+  { filename = "mmcls-0.23.2-py2.py3-none-any.whl" },
+  { filename = "mmcls-0.23.1-py2.py3-none-any.whl" },
+]

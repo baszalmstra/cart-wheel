@@ -1,0 +1,12 @@
+# Package configuration for responses
+conda_forge = "responses"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "responses-0.25.8-py3-none-any.whl" },
+  { filename = "responses-0.25.7-py3-none-any.whl" },
+  { filename = "responses-0.25.6-py3-none-any.whl" },
+  { filename = "responses-0.25.5-py3-none-any.whl" },
+  { filename = "responses-0.25.3-py3-none-any.whl" },
+]

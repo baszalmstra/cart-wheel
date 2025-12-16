@@ -1,0 +1,26 @@
+{
+  "coverage_python_version-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eff41297bdb5d122c8c5ae265eca1477317bd5a6e157a03cb2966691f4d65678",
+    "dependencies": {
+      "required": [
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "coverage (<6,>=4.5)"
+    ]
+  },
+  "coverage_python_version-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b571c55e6573edadf056f04db7887499526b82dbe47bfd47402f7ce0d02daf73",
+    "dependencies": {
+      "required": [
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "coverage (<5,>=4.5)"
+    ]
+  }
+}

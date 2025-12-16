@@ -1,0 +1,12 @@
+# Package configuration for traceback2
+conda_forge = "traceback2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "traceback2-1.4.0-py2.py3-none-any.whl" },
+  { filename = "traceback2-1.3.0-py2.py3-none-any.whl" },
+  { filename = "traceback2-1.2.1-py2.py3-none-any.whl" },
+  { filename = "traceback2-1.2.0-py2.py3-none-any.whl" },
+  { filename = "traceback2-1.1.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for mawk
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mawk-0.1.7-py3-none-any.whl" },
+  { filename = "mawk-0.1.5-py3-none-any.whl" },
+  { filename = "mawk-0.1.4-py3-none-any.whl" },
+  { filename = "mawk-0.1.3-py3-none-any.whl" },
+  { filename = "mawk-0.1.2-py3-none-any.whl" },
+]

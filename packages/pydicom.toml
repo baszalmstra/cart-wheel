@@ -1,0 +1,12 @@
+# Package configuration for pydicom
+conda_forge = "pydicom"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydicom-3.0.1-py3-none-any.whl" },
+  { filename = "pydicom-3.0.0-py3-none-any.whl" },
+  { filename = "pydicom-2.4.4-py3-none-any.whl" },
+  { filename = "pydicom-2.4.3-py3-none-any.whl" },
+  { filename = "pydicom-2.4.2-py3-none-any.whl" },
+]

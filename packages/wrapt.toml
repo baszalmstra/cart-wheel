@@ -1,0 +1,12 @@
+# Package configuration for wrapt
+conda_forge = "wrapt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "wrapt-2.0.1-py3-none-any.whl" },
+  { filename = "wrapt-2.0.0-py3-none-any.whl" },
+  { filename = "wrapt-1.17.3-py3-none-any.whl" },
+  { filename = "wrapt-1.17.2-py3-none-any.whl" },
+  { filename = "wrapt-1.17.1-py3-none-any.whl" },
+]

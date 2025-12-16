@@ -1,0 +1,68 @@
+{
+  "Sanic_Cors-2.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c3b133ff1f0bb609a53db35f727f5c371dc4ebeb6be4cc2c37c19dd8b9301115",
+    "dependencies": {
+      "required": [
+        "sanic",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "sanic (>=21.9.3)",
+      "packaging (>=21.3)"
+    ]
+  },
+  "Sanic_Cors-2.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d126bba3d51a88548e5079d2348f5667e6a67991503cd20973b46da066f43cf4",
+    "dependencies": {
+      "required": [
+        "sanic",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "sanic (>=21.9.3)",
+      "packaging (>=21.3)"
+    ]
+  },
+  "Sanic_Cors-2.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c8132bed394ba86f93c03bef52787183652d96b70add4ea13c25eb98f344343",
+    "dependencies": {
+      "required": [
+        "sanic"
+      ]
+    },
+    "original_requirements": [
+      "sanic (>=21.9.3)"
+    ]
+  },
+  "Sanic_Cors-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc8b7dfb23b868b6677b7a0bfff2559b9ba96428573a6f1afc78770da97a4abe",
+    "dependencies": {
+      "required": [
+        "sanic"
+      ]
+    },
+    "original_requirements": [
+      "sanic (>=21.9.3)"
+    ]
+  },
+  "Sanic_Cors-1.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dc644b0608ebac1bb57586a955c15c53a8bf83e2d0ea248893480c3cd72efdf6",
+    "dependencies": {
+      "required": [
+        "sanic-plugin-toolkit",
+        "sanic"
+      ]
+    },
+    "original_requirements": [
+      "sanic-plugin-toolkit (<2,>=1.2.0)",
+      "sanic (!=21.3.0,!=21.6.0,!=21.9.0,<22,>=21.3.1)"
+    ]
+  }
+}

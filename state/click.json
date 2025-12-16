@@ -1,0 +1,64 @@
+{
+  "click-8.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "981153a64e25f12d547d3426c367a4857371575ee7ad18df2a6183ab0545b2a6",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama; platform_system == 'Windows'"
+    ]
+  },
+  "click-8.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b9f285302c6e3064f4330c05f05b81945b2a39544279343e6e7c5f27a9baddc",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama; platform_system == 'Windows'"
+    ]
+  },
+  "click-8.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "61a3265b914e850b85317d0b3109c7f8cd35a670f963866005d6ef1d5175a12b",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama; platform_system == 'Windows'"
+    ]
+  },
+  "click-8.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b303f0b2aa85f1cb4e5303078fadcbcd4e476f114fab9b5007005711839325c",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama; platform_system == 'Windows'"
+    ]
+  },
+  "click-8.1.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63c132bbbed01578a06712a2d1f497bb62d9c1c0d329b7903a866228027263b2",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "colorama; platform_system == 'Windows'",
+      "importlib-metadata; python_version < '3.8'"
+    ]
+  }
+}

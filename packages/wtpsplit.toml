@@ -1,0 +1,11 @@
+# Package configuration for wtpsplit
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "wtpsplit-2.1.7-py3-none-any.whl" },
+  { filename = "wtpsplit-2.1.6-py3-none-any.whl" },
+  { filename = "wtpsplit-2.1.5-py3-none-any.whl" },
+  { filename = "wtpsplit-2.1.4-py3-none-any.whl" },
+  { filename = "wtpsplit-2.1.2-py3-none-any.whl" },
+]

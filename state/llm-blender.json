@@ -1,0 +1,100 @@
+{
+  "llm_blender-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a0d444ce9b7358ea760f9f6239cb41b8e6715291a640a197a22d7934eb6d5972",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "torch",
+        "numpy",
+        "accelerate",
+        "safetensors",
+        "dataclasses-json",
+        "sentencepiece",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "transformers",
+      "torch",
+      "numpy",
+      "accelerate",
+      "safetensors",
+      "dataclasses-json",
+      "sentencepiece",
+      "protobuf",
+      "datasets ; extra == 'data'",
+      "openai ; extra == 'data'",
+      "peft ; extra == 'data'",
+      "fschat ; extra == 'data'",
+      "datasets ; extra == 'eval'",
+      "pycocoevalcap ; extra == 'eval'",
+      "spacy ; extra == 'eval'",
+      "prettytable ; extra == 'eval'",
+      "evaluate ; extra == 'eval'",
+      "bert-score ; extra == 'eval'",
+      "tabulate ; extra == 'eval'",
+      "scipy ; extra == 'eval'",
+      "nltk ; extra == 'eval'",
+      "scikit-learn ; extra == 'eval'",
+      "sacrebleu ; extra == 'eval'",
+      "rouge-score ; extra == 'eval'",
+      "datasets ; extra == 'example'",
+      "scipy ; extra == 'example'",
+      "jupyter ; extra == 'example'",
+      "datasets ; extra == 'train'",
+      "bitsandbytes ; extra == 'train'",
+      "deepspeed ; extra == 'train'",
+      "wandb ; extra == 'train'"
+    ]
+  },
+  "llm_blender-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a0bb2dc56611ff4da180a2f6091895e689d9d4824a1fc75ba6d34ad1ebc637c",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "torch",
+        "numpy",
+        "accelerate",
+        "safetensors",
+        "dataclasses-json",
+        "sentencepiece",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "transformers",
+      "torch",
+      "numpy",
+      "accelerate",
+      "safetensors",
+      "dataclasses-json",
+      "sentencepiece",
+      "protobuf",
+      "datasets ; extra == 'data'",
+      "openai ; extra == 'data'",
+      "peft ; extra == 'data'",
+      "fschat ; extra == 'data'",
+      "datasets ; extra == 'eval'",
+      "pycocoevalcap ; extra == 'eval'",
+      "spacy ; extra == 'eval'",
+      "prettytable ; extra == 'eval'",
+      "evaluate ; extra == 'eval'",
+      "bert-score ; extra == 'eval'",
+      "tabulate ; extra == 'eval'",
+      "scipy ; extra == 'eval'",
+      "nltk ; extra == 'eval'",
+      "scikit-learn ; extra == 'eval'",
+      "sacrebleu ; extra == 'eval'",
+      "rouge-score ; extra == 'eval'",
+      "datasets ; extra == 'example'",
+      "scipy ; extra == 'example'",
+      "jupyter ; extra == 'example'",
+      "datasets ; extra == 'train'",
+      "bitsandbytes ; extra == 'train'",
+      "deepspeed ; extra == 'train'",
+      "wandb ; extra == 'train'"
+    ]
+  }
+}

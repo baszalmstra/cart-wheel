@@ -1,0 +1,79 @@
+{
+  "flake8_typechecking_import-0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1194c64a9ebd1671ec2dcea6df07d7de12fff0b7371da76c885479cf2feaeb75",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "flake8",
+      "dataclasses;python_version==\"3.6\"",
+      "black ; extra == \"dev\"",
+      "mypy ; extra == \"dev\"",
+      "tox ; extra == \"dev\"",
+      "pytest ; extra == \"test\"",
+      "pytest-sugar ; extra == \"test\"",
+      "pytest-coverage ; extra == \"test\"",
+      "coverage[toml] ; extra == \"test\"",
+      "types-dataclasses ; extra == \"test\""
+    ]
+  },
+  "flake8_typechecking_import-0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "593b750e9a2cbf069ae3ba8b8ce5a52ed46939533c651d9642991b51e62c0d7a",
+    "dependencies": {
+      "required": [
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "flake8",
+      "black ; extra == \"dev\"",
+      "mypy ; extra == \"dev\"",
+      "pytest ; extra == \"test\"",
+      "pytest-sugar ; extra == \"test\"",
+      "pytest-coverage ; extra == \"test\"",
+      "coverage[toml] ; extra == \"test\"",
+      "types-dataclasses ; extra == \"test\""
+    ]
+  },
+  "flake8_typechecking_import-0.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e1446661c1bcd17603cd741a1d9ec71fcfbce29b470843a5150df82512e0b6c7",
+    "dependencies": {
+      "required": [
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "flake8",
+      "black ; extra == \"dev\"",
+      "mypy ; extra == \"dev\"",
+      "pytest ; extra == \"test\"",
+      "pytest-sugar ; extra == \"test\"",
+      "pytest-coverage ; extra == \"test\"",
+      "coverage[toml] ; extra == \"test\""
+    ]
+  },
+  "flake8_typechecking_import-0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "023032f185a1c27b6795f87444518bfc52890033540870efd27cf3fc361bd6bb",
+    "dependencies": {
+      "required": [
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "flake8",
+      "black ; extra == \"dev\"",
+      "mypy ; extra == \"dev\"",
+      "pytest ; extra == \"test\"",
+      "pytest-sugar ; extra == \"test\"",
+      "pytest-coverage ; extra == \"test\"",
+      "coverage[toml] ; extra == \"test\""
+    ]
+  }
+}

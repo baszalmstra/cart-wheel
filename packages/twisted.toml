@@ -1,0 +1,12 @@
+# Package configuration for twisted
+conda_forge = "twisted"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "twisted-25.5.0-py3-none-any.whl" },
+  { filename = "twisted-24.11.0-py3-none-any.whl" },
+  { filename = "twisted-24.10.0-py3-none-any.whl" },
+  { filename = "twisted-24.7.0-py3-none-any.whl" },
+  { filename = "twisted-24.3.0-py3-none-any.whl" },
+]

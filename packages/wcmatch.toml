@@ -1,0 +1,12 @@
+# Package configuration for wcmatch
+conda_forge = "wcmatch"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "wcmatch-10.1-py3-none-any.whl" },
+  { filename = "wcmatch-10.0-py3-none-any.whl" },
+  { filename = "wcmatch-9.0-py3-none-any.whl" },
+  { filename = "wcmatch-8.5.2-py3-none-any.whl" },
+  { filename = "wcmatch-8.5.1-py3-none-any.whl" },
+]

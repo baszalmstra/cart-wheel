@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-lightsail
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_lightsail-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_lightsail-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_lightsail-1.40.53-py3-none-any.whl" },
+  { filename = "types_boto3_lightsail-1.40.39-py3-none-any.whl" },
+  { filename = "types_boto3_lightsail-1.40.1-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for pyobjc
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyobjc-12.1-py3-none-any.whl" },
+  { filename = "pyobjc-11.1-py3-none-any.whl" },
+  { filename = "pyobjc-11.0-py3-none-any.whl" },
+  { filename = "pyobjc-10.3.2-py3-none-any.whl" },
+  { filename = "pyobjc-10.3.1-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for reward-kit
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "reward_kit-0.4.1-py3-none-any.whl" },
+  { filename = "reward_kit-0.3.6-py3-none-any.whl" },
+  { filename = "reward_kit-0.3.4-py3-none-any.whl" },
+  { filename = "reward_kit-0.3.3-py3-none-any.whl" },
+  { filename = "reward_kit-0.3.2-py3-none-any.whl" },
+]

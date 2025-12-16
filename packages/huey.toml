@@ -1,0 +1,9 @@
+# Package configuration for huey
+conda_forge = "huey"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "huey-2.5.5-py3-none-any.whl" },
+  { filename = "huey-2.5.4-py3-none-any.whl" },
+]

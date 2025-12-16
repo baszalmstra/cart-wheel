@@ -1,0 +1,8 @@
+# Package configuration for fs-miniofs
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fs_miniofs-1.1.2-py2.py3-none-any.whl" },
+  { filename = "fs_miniofs-1.1.1-py2.py3-none-any.whl" },
+]

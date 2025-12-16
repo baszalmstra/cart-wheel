@@ -1,0 +1,72 @@
+{
+  "validate_pyproject_schema_store-2025.11.21-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49c160d8a2cb40a3bb3e8c02288fb39755804dd081562d09c89d9b348a49ad50",
+    "dependencies": {
+      "required": [
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources; python_version < '3.9'",
+      "validate-pyproject[all]; extra == 'all'",
+      "validate-pyproject; extra == 'validate-pyproject'"
+    ]
+  },
+  "validate_pyproject_schema_store-2025.11.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce6575157166de6828ce56286346e4a872fb6c58edf6488d09ea44ea73563140",
+    "dependencies": {
+      "required": [
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources; python_version < '3.9'",
+      "validate-pyproject[all]; extra == 'all'",
+      "validate-pyproject; extra == 'validate-pyproject'"
+    ]
+  },
+  "validate_pyproject_schema_store-2025.11.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f726bf91cd643ac597b14b493c06dd2c260796920b43960dfa79a647e298c3d2",
+    "dependencies": {
+      "required": [
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources; python_version < '3.9'",
+      "validate-pyproject[all]; extra == 'all'",
+      "validate-pyproject; extra == 'validate-pyproject'"
+    ]
+  },
+  "validate_pyproject_schema_store-2025.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c94a99bf293d1dc68cfd41faba3987a4e61fa437e9b44ef29a0b71c768c27a4",
+    "dependencies": {
+      "required": [
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources; python_version < '3.9'",
+      "validate-pyproject[all]; extra == 'all'",
+      "validate-pyproject; extra == 'validate-pyproject'"
+    ]
+  },
+  "validate_pyproject_schema_store-2025.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6422346ab87d9c416920498edcf6268e7d698513ab451f9ceb234172d9a8e03",
+    "dependencies": {
+      "required": [
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources; python_version < '3.9'",
+      "validate-pyproject[all]; extra == 'all'",
+      "validate-pyproject; extra == 'validate-pyproject'"
+    ]
+  }
+}

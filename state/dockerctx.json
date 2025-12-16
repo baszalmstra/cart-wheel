@@ -1,0 +1,97 @@
+{
+  "dockerctx-2024.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc3d04c5135d316377515f51126bafca2648c9f4490e810e3af694211205e8a8",
+    "dependencies": {
+      "required": [
+        "docker",
+        "typing",
+        "psycopg2-binary"
+      ]
+    },
+    "original_requirements": [
+      "docker",
+      "typing; python_version < '3.5'",
+      "psycopg2-binary",
+      "sqlalchemy ; extra == \"dev\"",
+      "sqlalchemy_utils ; extra == \"dev\"",
+      "sqllogformatter ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "redis ; extra == \"dev\""
+    ]
+  },
+  "dockerctx-2024.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d740cab471c66278cb33e236d02d65c01c19cfddcaefac69321d21f953e29d5f",
+    "dependencies": {
+      "required": [
+        "docker",
+        "typing",
+        "psycopg2-binary"
+      ]
+    },
+    "original_requirements": [
+      "docker",
+      "typing; python_version < '3.5'",
+      "psycopg2-binary",
+      "sqlalchemy ; extra == \"dev\"",
+      "sqlalchemy_utils ; extra == \"dev\"",
+      "sqllogformatter ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "redis ; extra == \"dev\""
+    ]
+  },
+  "dockerctx-2018.11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5e7d6cb3a40075478c6d356b2cb4237487d6038d31eed8dbedb5a32deddc903e",
+    "dependencies": {
+      "required": [
+        "docker",
+        "typing",
+        "psycopg2"
+      ]
+    },
+    "original_requirements": [
+      "docker",
+      "typing; python_version < '3.5'",
+      "psycopg2",
+      "sqlalchemy; extra == \"dev\"",
+      "sqlalchemy_utils; extra == \"dev\"",
+      "sqllogformatter; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "redis; extra == \"dev\""
+    ]
+  },
+  "dockerctx-2018.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "666f7c0279b7e05269ba6286a07b2e479cf7fe5d0f2fc39689c9750927fd7454",
+    "dependencies": {
+      "required": [
+        "docker",
+        "typing",
+        "psycopg2"
+      ]
+    },
+    "original_requirements": [
+      "docker",
+      "typing; python_version < '3.5'",
+      "psycopg2"
+    ]
+  },
+  "dockerctx-2017.8.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62f70ba9586d7999b6641e000515f44a0935136f65e23449047f88132d000d44",
+    "dependencies": {
+      "required": [
+        "docker",
+        "typing",
+        "psycopg2"
+      ]
+    },
+    "original_requirements": [
+      "docker",
+      "typing; python_version < '3.5'",
+      "psycopg2"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "llama_api_client-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e4eaf130a6767288464656e6b6de2f7e382291536cb1f11b5576807363a898c",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  },
+  "llama_api_client-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "adafdc22faaeefe944d59ff9de65f205efc79acee52d80a3f18fd8a940597368",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  },
+  "llama_api_client-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b823b4541b0522de31124bd09a7ba7358598aa3fb17e20ad08cbdc78f4a8408",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  },
+  "llama_api_client-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50614ed991e1a72439e6a624a97e6000615ada1b9e2046ecc026fe62f107663c",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  },
+  "llama_api_client-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ad6e10726f74b2302bfd766c61c41355a9ecf60f57cde2961882d22af998941",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.6; extra == 'aiohttp'"
+    ]
+  }
+}

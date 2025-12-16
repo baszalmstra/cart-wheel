@@ -1,0 +1,17 @@
+{
+  "pendulum-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9178c2a8e291758ade1e8dd6371b1d26d08371b4c7730a6e9a3ef8b16ebae0f",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil (>=2.6)",
+      "time-machine (>=2.6.0) ; (implementation_name != \"pypy\") and (extra == \"test\")",
+      "tzdata (>=2020.1)"
+    ]
+  }
+}

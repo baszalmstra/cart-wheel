@@ -1,0 +1,8 @@
+# Package configuration for playsound
+conda_forge = "playsound"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "playsound-1.2.2-py2.py3-none-any.whl" },
+]

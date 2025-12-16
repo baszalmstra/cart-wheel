@@ -1,0 +1,46 @@
+{
+  "pyod-2.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6120c7f40c0e595041a3316eedb646bf154b49984cb8353c0f6a347dc4fbdbc4",
+    "dependencies": {
+      "required": [
+        "joblib",
+        "matplotlib",
+        "numpy",
+        "numba",
+        "scipy",
+        "scikit-learn"
+      ]
+    },
+    "original_requirements": [
+      "joblib",
+      "matplotlib",
+      "numpy>=1.19",
+      "numba>=0.51",
+      "scipy>=1.5.1",
+      "scikit-learn>=0.22.0"
+    ]
+  },
+  "pyod-2.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a3182529c68e388be0671840bb11f83d5d1deb738ad931d294881f7d50e4fdb",
+    "dependencies": {
+      "required": [
+        "joblib",
+        "matplotlib",
+        "numpy",
+        "numba",
+        "scipy",
+        "scikit-learn"
+      ]
+    },
+    "original_requirements": [
+      "joblib",
+      "matplotlib",
+      "numpy>=1.19",
+      "numba>=0.51",
+      "scipy>=1.5.1",
+      "scikit-learn>=0.22.0"
+    ]
+  }
+}

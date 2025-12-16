@@ -1,0 +1,7 @@
+# Package configuration for ms-funcodec
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ms_funcodec-0.2.0-py3-none-any.whl" },
+]

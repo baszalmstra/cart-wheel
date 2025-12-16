@@ -1,0 +1,12 @@
+# Package configuration for queuelib
+conda_forge = "queuelib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "queuelib-1.8.0-py3-none-any.whl" },
+  { filename = "queuelib-1.7.0-py2.py3-none-any.whl" },
+  { filename = "queuelib-1.6.2-py2.py3-none-any.whl" },
+  { filename = "queuelib-1.6.1-py2.py3-none-any.whl" },
+  { filename = "queuelib-1.5.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for pylava
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pylava-0.3.0-py2.py3-none-any.whl" },
+  { filename = "pylava-0.2.2-py2.py3-none-any.whl" },
+  { filename = "pylava-0.2.1-py2.py3-none-any.whl" },
+  { filename = "pylava-0.2.0-py2.py3-none-any.whl" },
+  { filename = "pylava-0.1.2-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,210 @@
+{
+  "fastembed-0.7.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79250a775f70bd6addb0e054204df042b5029ecae501e40e5bbd08e75844ad83",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "loguru",
+        "mmh3",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "onnxruntime",
+        "onnxruntime",
+        "onnxruntime",
+        "pillow",
+        "pillow",
+        "pillow",
+        "py-rust-stemmers",
+        "requests",
+        "tokenizers",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub (>=0.20,<2.0)",
+      "loguru (>=0.7.2,<0.8.0)",
+      "mmh3 (>=4.1.0,<6.0.0)",
+      "numpy (>=1.21) ; python_version == \"3.11\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.21,<2.3.0) ; python_version == \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version == \"3.13\"",
+      "numpy (>=2.3.0) ; python_version >= \"3.14\"",
+      "onnxruntime (>1.20.0) ; python_version >= \"3.13\"",
+      "onnxruntime (>=1.17.0,!=1.20.0) ; python_version >= \"3.10\" and python_version < \"3.13\"",
+      "onnxruntime (>=1.17.0,<1.20.0) ; python_version < \"3.10\"",
+      "pillow (>=10.3.0,<11.0) ; python_version < \"3.10\"",
+      "pillow (>=10.3.0,<12.0) ; python_version >= \"3.10\" and python_version < \"3.13\"",
+      "pillow (>=11.0.0,<12.0) ; python_version >= \"3.13\"",
+      "py-rust-stemmers (>=0.1.0,<0.2.0)",
+      "requests (>=2.31,<3.0)",
+      "tokenizers (>=0.15,<1.0)",
+      "tqdm (>=4.66,<5.0)"
+    ]
+  },
+  "fastembed-0.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a377b57843abd773318042960be39f1aef29827530acb98b035a554742a85cdf",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "loguru",
+        "mmh3",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "onnxruntime",
+        "onnxruntime",
+        "onnxruntime",
+        "pillow",
+        "py-rust-stemmers",
+        "requests",
+        "tokenizers",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub (>=0.20,<1.0)",
+      "loguru (>=0.7.2,<0.8.0)",
+      "mmh3 (>=4.1.0,<6.0.0)",
+      "numpy (>=1.21) ; python_version >= \"3.10\" and python_version < \"3.12\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\"",
+      "onnxruntime (>1.20.0) ; python_version >= \"3.13\"",
+      "onnxruntime (>=1.17.0,!=1.20.0) ; python_version >= \"3.10\" and python_version < \"3.13\"",
+      "onnxruntime (>=1.17.0,<1.20.0) ; python_version < \"3.10\"",
+      "pillow (>=10.3.0,<12.0.0)",
+      "py-rust-stemmers (>=0.1.0,<0.2.0)",
+      "requests (>=2.31,<3.0)",
+      "tokenizers (>=0.15,<1.0)",
+      "tqdm (>=4.66,<5.0)"
+    ]
+  },
+  "fastembed-0.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a984e5f4d64fb7536b3a3f45123f228108b950cca02088435073b73b0dc5af4",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "loguru",
+        "mmh3",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "onnxruntime",
+        "onnxruntime",
+        "onnxruntime",
+        "pillow",
+        "py-rust-stemmers",
+        "requests",
+        "tokenizers",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub (>=0.20,<1.0)",
+      "loguru (>=0.7.2,<0.8.0)",
+      "mmh3 (>=4.1.0,<6.0.0)",
+      "numpy (>=1.21) ; python_version >= \"3.10\" and python_version < \"3.12\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\"",
+      "onnxruntime (>1.20.0) ; python_version >= \"3.13\"",
+      "onnxruntime (>=1.17.0,!=1.20.0) ; python_version >= \"3.10\" and python_version < \"3.13\"",
+      "onnxruntime (>=1.17.0,<1.20.0) ; python_version < \"3.10\"",
+      "pillow (>=10.3.0,<12.0.0)",
+      "py-rust-stemmers (>=0.1.0,<0.2.0)",
+      "requests (>=2.31,<3.0)",
+      "tokenizers (>=0.15,<1.0)",
+      "tqdm (>=4.66,<5.0)"
+    ]
+  },
+  "fastembed-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4f6a8f620c32f2e3de8231034ca2ca76dadc7d5463f2e9ab4930b51adc03b12",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "loguru",
+        "mmh3",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "onnxruntime",
+        "onnxruntime",
+        "onnxruntime",
+        "pillow",
+        "py-rust-stemmers",
+        "requests",
+        "tokenizers",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub (>=0.20,<1.0)",
+      "loguru (>=0.7.2,<0.8.0)",
+      "mmh3 (>=4.1.0,<6.0.0)",
+      "numpy (>=1.21) ; python_version >= \"3.10\" and python_version < \"3.12\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\"",
+      "onnxruntime (>1.20.0) ; python_version >= \"3.13\"",
+      "onnxruntime (>=1.17.0,!=1.20.0) ; python_version >= \"3.10\" and python_version < \"3.13\"",
+      "onnxruntime (>=1.17.0,<1.20.0) ; python_version < \"3.10\"",
+      "pillow (>=10.3.0,<12.0.0)",
+      "py-rust-stemmers (>=0.1.0,<0.2.0)",
+      "requests (>=2.31,<3.0)",
+      "tokenizers (>=0.15,<1.0)",
+      "tqdm (>=4.66,<5.0)"
+    ]
+  },
+  "fastembed-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7809c2e64dbbe626d9f4899b3932b2c9ed18288c1db1c1f8c94e2e3046926fa8",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "loguru",
+        "mmh3",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "onnxruntime",
+        "onnxruntime",
+        "onnxruntime",
+        "pillow",
+        "py-rust-stemmers",
+        "requests",
+        "tokenizers",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub (>=0.20,<1.0)",
+      "loguru (>=0.7.2,<0.8.0)",
+      "mmh3 (>=4.1.0,<6.0.0)",
+      "numpy (>=1.21) ; python_version >= \"3.10\" and python_version < \"3.12\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\"",
+      "onnxruntime (>1.20.0) ; python_version >= \"3.13\"",
+      "onnxruntime (>=1.17.0,!=1.20.0) ; python_version >= \"3.10\" and python_version < \"3.13\"",
+      "onnxruntime (>=1.17.0,<1.20.0) ; python_version < \"3.10\"",
+      "pillow (>=10.3.0,<12.0.0)",
+      "py-rust-stemmers (>=0.1.0,<0.2.0)",
+      "requests (>=2.31,<3.0)",
+      "tokenizers (>=0.15,<1.0)",
+      "tqdm (>=4.66,<5.0)"
+    ]
+  }
+}

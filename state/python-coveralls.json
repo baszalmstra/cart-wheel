@@ -1,0 +1,94 @@
+{
+  "python_coveralls-2.9.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb0ff49bb1551dac10b06bd55e9790287d898a0f1e2c959802235cae08dd0bff",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "requests",
+        "coverage",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "requests",
+      "coverage",
+      "six"
+    ]
+  },
+  "python_coveralls-2.9.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f044de08b547cfa3cd6e120cd4656e217b9ff012a4211ed11a60016e1362223e",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "requests",
+        "coverage",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "requests",
+      "coverage",
+      "six"
+    ]
+  },
+  "python_coveralls-2.9.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1748272081e0fc21e2c20c12e5bd18cb13272db1b130758df0d473da0cb31087",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "coverage",
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "coverage (==4.0.3)",
+      "requests",
+      "six"
+    ]
+  },
+  "python_coveralls-2.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1f22b69e166ec27475954b65033e21ba54c6a68779c2d39762ce5c4dcbe013d3",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "coverage",
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "coverage (==4.0.3)",
+      "requests",
+      "six"
+    ]
+  },
+  "python_coveralls-2.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "deec78957783097d2054a35d6649f6239fa374de1eb097c27626044cbb395570",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "coverage",
+        "requests",
+        "sh",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "coverage (==4.0.3)",
+      "requests",
+      "sh",
+      "six"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for mypy-extensions
+conda_forge = "mypy_extensions"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_extensions-1.1.0-py3-none-any.whl" },
+  { filename = "mypy_extensions-1.0.0-py3-none-any.whl" },
+  { filename = "mypy_extensions-0.4.3-py2.py3-none-any.whl" },
+  { filename = "mypy_extensions-0.4.2-py2.py3-none-any.whl" },
+  { filename = "mypy_extensions-0.4.1-py2.py3-none-any.whl" },
+]

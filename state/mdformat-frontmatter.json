@@ -1,0 +1,104 @@
+{
+  "mdformat_frontmatter-2.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "577396695af96ad66dff1ff781284ff3764a10be3ab8659f2ef842ab42264ebb",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.16,<0.8.0",
+      "mdit-py-plugins >=0.4.0",
+      "ruamel.yaml",
+      "pre-commit ; extra == \"dev\"",
+      "python-semantic-release >=8.3.0 ; extra == \"dev\"",
+      "flit >= 3.9 ; extra == \"dev\"",
+      "pytest>=7.3 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_frontmatter-2.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b0076087edf042f96fdb0fec353bdd43631f0fa03e3be2ec3188f1dea4009c7b",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.16,<0.8.0",
+      "mdit-py-plugins >=0.4.0",
+      "ruamel.yaml",
+      "pre-commit ; extra == \"dev\"",
+      "pytest>=7.3 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_frontmatter-2.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f014677959ff71ec26f780ecf4db5ed53e5f15b7546903f14c854705e3975059",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.16,<0.8.0",
+      "mdit-py-plugins >=0.4.0",
+      "ruamel.yaml",
+      "pre-commit ; extra == \"dev\"",
+      "pytest>=7.3 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_frontmatter-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "354143935a103d6049239f5c2df288c80d0fbea8f7dd9e535ccc180e8c5aa235",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.0,<0.8.0",
+      "mdit-py-plugins",
+      "ruamel.yaml",
+      "pre-commit ; extra == \"dev\"",
+      "pytest~=6.0 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_frontmatter-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65d0903e519adf73a2e87fd7cf4faec1d2fe3f25bb1415252a640d7ddc9a3088",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.0,<0.8.0",
+      "mdit-py-plugins",
+      "ruamel.yaml",
+      "pre-commit ; extra == \"dev\"",
+      "pytest~=6.0 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  }
+}

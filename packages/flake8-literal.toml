@@ -1,0 +1,11 @@
+# Package configuration for flake8-literal
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_literal-1.5.0-py3-none-any.whl" },
+  { filename = "flake8_literal-1.4.0-py3-none-any.whl" },
+  { filename = "flake8_literal-1.3.0-py3-none-any.whl" },
+  { filename = "flake8_literal-1.2.6-py3-none-any.whl" },
+  { filename = "flake8_literal-1.2.5-py3-none-any.whl" },
+]

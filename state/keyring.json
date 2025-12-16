@@ -1,0 +1,215 @@
+{
+  "keyring-25.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be4a0b195f149690c166e850609a477c532ddbfbaed96a404d4e43f8d5e2689f",
+    "dependencies": {
+      "required": [
+        "pywin32-ctypes",
+        "secretstorage",
+        "jeepney",
+        "importlib-metadata",
+        "jaraco.classes",
+        "jaraco.functools",
+        "jaraco.context"
+      ]
+    },
+    "original_requirements": [
+      "pywin32-ctypes>=0.2.0; sys_platform == \"win32\"",
+      "SecretStorage>=3.2; sys_platform == \"linux\"",
+      "jeepney>=0.4.2; sys_platform == \"linux\"",
+      "importlib_metadata>=4.11.4; python_version < \"3.12\"",
+      "jaraco.classes",
+      "jaraco.functools",
+      "jaraco.context",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "pyfakefs; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=3.4; extra == \"enabler\"",
+      "pytest-mypy>=1.0.1; extra == \"type\"",
+      "pygobject-stubs; extra == \"type\"",
+      "shtab; extra == \"type\"",
+      "types-pywin32; extra == \"type\"",
+      "shtab>=1.1.0; extra == \"completion\""
+    ]
+  },
+  "keyring-25.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "552a3f7af126ece7ed5c89753650eec89c7eaae8617d0aa4d9ad2b75111266bd",
+    "dependencies": {
+      "required": [
+        "pywin32-ctypes",
+        "secretstorage",
+        "jeepney",
+        "importlib-metadata",
+        "jaraco.classes",
+        "importlib-resources",
+        "jaraco.functools",
+        "jaraco.context"
+      ]
+    },
+    "original_requirements": [
+      "pywin32-ctypes>=0.2.0; sys_platform == \"win32\"",
+      "SecretStorage>=3.2; sys_platform == \"linux\"",
+      "jeepney>=0.4.2; sys_platform == \"linux\"",
+      "importlib_metadata>=4.11.4; python_version < \"3.12\"",
+      "jaraco.classes",
+      "importlib_resources; python_version < \"3.9\"",
+      "jaraco.functools",
+      "jaraco.context",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "pyfakefs; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\"",
+      "pygobject-stubs; extra == \"type\"",
+      "shtab; extra == \"type\"",
+      "types-pywin32; extra == \"type\"",
+      "shtab>=1.1.0; extra == \"completion\""
+    ]
+  },
+  "keyring-25.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e67f8ac32b04be4714b42fe84ce7dad9c40985b9ca827c592cc303e7c26d9741",
+    "dependencies": {
+      "required": [
+        "jaraco.classes",
+        "jaraco.functools",
+        "jaraco.context",
+        "importlib-metadata",
+        "importlib-resources",
+        "secretstorage",
+        "jeepney",
+        "pywin32-ctypes"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.classes",
+      "jaraco.functools",
+      "jaraco.context",
+      "importlib-metadata >=4.11.4 ; python_version < \"3.12\"",
+      "importlib-resources ; python_version < \"3.9\"",
+      "SecretStorage >=3.2 ; sys_platform == \"linux\"",
+      "jeepney >=0.4.2 ; sys_platform == \"linux\"",
+      "pywin32-ctypes >=0.2.0 ; sys_platform == \"win32\"",
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "shtab >=1.1.0 ; extra == 'completion'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pyfakefs ; extra == 'test'",
+      "pytest-mypy ; extra == 'type'",
+      "pygobject-stubs ; extra == 'type'",
+      "shtab ; extra == 'type'",
+      "types-pywin32 ; extra == 'type'"
+    ]
+  },
+  "keyring-25.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5426f817cf7f6f007ba5ec722b1bcad95a75b27d780343772ad76b17cb47b0bf",
+    "dependencies": {
+      "required": [
+        "jaraco.classes",
+        "jaraco.functools",
+        "jaraco.context",
+        "importlib-metadata",
+        "importlib-resources",
+        "secretstorage",
+        "jeepney",
+        "pywin32-ctypes"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.classes",
+      "jaraco.functools",
+      "jaraco.context",
+      "importlib-metadata >=4.11.4 ; python_version < \"3.12\"",
+      "importlib-resources ; python_version < \"3.9\"",
+      "SecretStorage >=3.2 ; sys_platform == \"linux\"",
+      "jeepney >=0.4.2 ; sys_platform == \"linux\"",
+      "pywin32-ctypes >=0.2.0 ; sys_platform == \"win32\"",
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "shtab >=1.1.0 ; extra == 'completion'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pyfakefs ; extra == 'test'",
+      "pytest-mypy ; extra == 'type'",
+      "pygobject-stubs ; extra == 'type'",
+      "shtab ; extra == 'type'",
+      "types-pywin32 ; extra == 'type'"
+    ]
+  },
+  "keyring-25.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2a630d5c9bef5d3f0968d15ef4e42b894a83e17494edcb67b154c36491c9920",
+    "dependencies": {
+      "required": [
+        "jaraco.classes",
+        "jaraco.functools",
+        "jaraco.context",
+        "importlib-metadata",
+        "importlib-resources",
+        "secretstorage",
+        "jeepney",
+        "pywin32-ctypes"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.classes",
+      "jaraco.functools",
+      "jaraco.context",
+      "importlib-metadata >=4.11.4 ; python_version < \"3.12\"",
+      "importlib-resources ; python_version < \"3.9\"",
+      "SecretStorage >=3.2 ; sys_platform == \"linux\"",
+      "jeepney >=0.4.2 ; sys_platform == \"linux\"",
+      "pywin32-ctypes >=0.2.0 ; sys_platform == \"win32\"",
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "shtab >=1.1.0 ; extra == 'completion'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pyfakefs ; extra == 'test'",
+      "pytest-mypy ; extra == 'type'",
+      "pygobject-stubs ; extra == 'type'",
+      "shtab ; extra == 'type'",
+      "types-pywin32 ; extra == 'type'"
+    ]
+  }
+}

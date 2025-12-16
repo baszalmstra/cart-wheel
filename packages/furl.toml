@@ -1,0 +1,12 @@
+# Package configuration for furl
+conda_forge = "furl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "furl-2.1.4-py2.py3-none-any.whl" },
+  { filename = "furl-2.1.3-py2.py3-none-any.whl" },
+  { filename = "furl-2.1.2-py2.py3-none-any.whl" },
+  { filename = "furl-2.1.1-py2.py3-none-any.whl" },
+  { filename = "furl-2.1.0-py2.py3-none-any.whl" },
+]

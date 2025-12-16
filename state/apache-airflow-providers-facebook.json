@@ -1,0 +1,78 @@
+{
+  "apache_airflow_providers_facebook-3.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4820c1d45d8916a2f483caed1aa87e33f40d68c393e953d5f73449542318d172",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "facebook-business"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "facebook-business>=22.0.0"
+    ]
+  },
+  "apache_airflow_providers_facebook-3.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a38ae5a97a520cd4fbf32681cdb29c4be743f7935c6e3940ab1b925ccaa0ea3d",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "facebook-business"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "facebook-business>=22.0.0"
+    ]
+  },
+  "apache_airflow_providers_facebook-3.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b57265c4b318c2cfac49a8039ec4b564c57d17b11940cc2734f6d54554621f6",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "facebook-business"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "facebook-business>=22.0.0"
+    ]
+  },
+  "apache_airflow_providers_facebook-3.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a0480db97ec46ad59f4a33eb5b68fdfab3a764b23b13c0d4b894cd96cd671846",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "facebook-business"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "facebook-business>=22.0.0"
+    ]
+  },
+  "apache_airflow_providers_facebook-3.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94f9e6f246aaf3c94f76642a487e03793bd1c7923eb6fbff3c9a68baf77fdd51",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "facebook-business"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "facebook-business>=22.0.0"
+    ]
+  }
+}

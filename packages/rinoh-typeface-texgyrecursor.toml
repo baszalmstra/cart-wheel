@@ -1,0 +1,8 @@
+# Package configuration for rinoh-typeface-texgyrecursor
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rinoh_typeface_texgyrecursor-0.1.1-py3-none-any.whl" },
+  { filename = "rinoh_typeface_texgyrecursor-0.1.0-py3-none-any.whl" },
+]

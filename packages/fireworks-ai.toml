@@ -1,0 +1,12 @@
+# Package configuration for fireworks-ai
+conda_forge = "fireworks-ai"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fireworks_ai-0.19.20-py3-none-any.whl" },
+  { filename = "fireworks_ai-0.19.19-py3-none-any.whl" },
+  { filename = "fireworks_ai-0.19.18-py3-none-any.whl" },
+  { filename = "fireworks_ai-0.19.17-py3-none-any.whl" },
+  { filename = "fireworks_ai-0.19.16-py3-none-any.whl" },
+]

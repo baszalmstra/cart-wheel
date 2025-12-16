@@ -1,0 +1,12 @@
+# Package configuration for ansible
+conda_forge = "ansible"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ansible-13.1.0-py3-none-any.whl" },
+  { filename = "ansible-13.0.0-py3-none-any.whl" },
+  { filename = "ansible-12.3.0-py3-none-any.whl" },
+  { filename = "ansible-12.2.0-py3-none-any.whl" },
+  { filename = "ansible-12.1.0-py3-none-any.whl" },
+]

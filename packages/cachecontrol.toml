@@ -1,0 +1,12 @@
+# Package configuration for cachecontrol
+conda_forge = "cachecontrol"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cachecontrol-0.14.4-py3-none-any.whl" },
+  { filename = "cachecontrol-0.14.3-py3-none-any.whl" },
+  { filename = "cachecontrol-0.14.2-py3-none-any.whl" },
+  { filename = "cachecontrol-0.14.1-py3-none-any.whl" },
+  { filename = "cachecontrol-0.14.0-py3-none-any.whl" },
+]

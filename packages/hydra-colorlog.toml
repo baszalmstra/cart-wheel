@@ -1,0 +1,12 @@
+# Package configuration for hydra-colorlog
+conda_forge = "hydra-colorlog"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hydra_colorlog-1.2.0-py3-none-any.whl" },
+  { filename = "hydra_colorlog-1.1.0-py3-none-any.whl" },
+  { filename = "hydra_colorlog-1.0.1-py3-none-any.whl" },
+  { filename = "hydra_colorlog-1.0.0-py3-none-any.whl" },
+  { filename = "hydra_colorlog-0.1.4-py3-none-any.whl" },
+]

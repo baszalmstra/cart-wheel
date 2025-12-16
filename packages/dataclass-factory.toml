@@ -1,0 +1,11 @@
+# Package configuration for dataclass-factory
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dataclass_factory-2.16-py3-none-any.whl" },
+  { filename = "dataclass_factory-2.15-py3-none-any.whl" },
+  { filename = "dataclass_factory-2.14-py3-none-any.whl" },
+  { filename = "dataclass_factory-2.13-py3-none-any.whl" },
+  { filename = "dataclass_factory-2.12-py3-none-any.whl" },
+]

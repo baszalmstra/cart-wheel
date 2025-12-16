@@ -1,0 +1,106 @@
+{
+  "icetk-0.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "830eaa0acdaa0c1f3be3b8da820f5731b3960dba27c6ab19f6810a68ad193fa8",
+    "dependencies": {
+      "required": [
+        "tqdm",
+        "requests",
+        "torchvision",
+        "sentencepiece",
+        "filelock",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "tqdm",
+      "requests",
+      "torchvision",
+      "sentencepiece",
+      "filelock",
+      "protobuf (<3.19)"
+    ]
+  },
+  "icetk-0.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "578942463e18b5c27ac201cb191f707047af1158b07f818e3989311d402a6cf3",
+    "dependencies": {
+      "required": [
+        "tqdm",
+        "requests",
+        "torchvision",
+        "sentencepiece",
+        "filelock",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "tqdm",
+      "requests",
+      "torchvision",
+      "sentencepiece",
+      "filelock",
+      "protobuf (==3.18)"
+    ]
+  },
+  "icetk-0.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55878db9a371604fb066321164ebabf848a74b5edffbcf00988e7da86370afe5",
+    "dependencies": {
+      "required": [
+        "tqdm",
+        "requests",
+        "torchvision",
+        "sentencepiece",
+        "filelock",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "tqdm",
+      "requests",
+      "torchvision",
+      "sentencepiece",
+      "filelock",
+      "protobuf (<3.19)"
+    ]
+  },
+  "icetk-0.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "26888cfc54f9f5be3ba0a125b3f4aac924aa6a89bb1a85c3695f2649d48ef2d5",
+    "dependencies": {
+      "required": [
+        "tqdm",
+        "requests",
+        "torchvision",
+        "sentencepiece",
+        "filelock"
+      ]
+    },
+    "original_requirements": [
+      "tqdm",
+      "requests",
+      "torchvision",
+      "sentencepiece",
+      "filelock"
+    ]
+  },
+  "icetk-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c14215ee8313906dc0ce7273b4ace6fabcc2d6825f6078da66e99aa93c3e6a0",
+    "dependencies": {
+      "required": [
+        "tqdm",
+        "requests",
+        "torchvision",
+        "sentencepiece"
+      ]
+    },
+    "original_requirements": [
+      "tqdm",
+      "requests",
+      "torchvision",
+      "sentencepiece"
+    ]
+  }
+}

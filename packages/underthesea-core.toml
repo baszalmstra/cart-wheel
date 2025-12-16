@@ -1,0 +1,6 @@
+# Package configuration for underthesea-core
+# No pure Python wheels available - platform-specific only
+version_constraint = ""
+skip_versions = []
+
+wheels = []

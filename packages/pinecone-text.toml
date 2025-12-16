@@ -1,0 +1,11 @@
+# Package configuration for pinecone-text
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pinecone_text-0.11.0-py3-none-any.whl" },
+  { filename = "pinecone_text-0.10.0-py3-none-any.whl" },
+  { filename = "pinecone_text-0.9.0-py3-none-any.whl" },
+  { filename = "pinecone_text-0.8.0-py3-none-any.whl" },
+  { filename = "pinecone_text-0.7.2-py3-none-any.whl" },
+]

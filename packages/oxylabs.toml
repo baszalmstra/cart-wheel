@@ -1,0 +1,11 @@
+# Package configuration for oxylabs
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oxylabs-2.0.0-py3-none-any.whl" },
+  { filename = "oxylabs-1.0.7-py3-none-any.whl" },
+  { filename = "oxylabs-1.0.6-py3-none-any.whl" },
+  { filename = "oxylabs-1.0.5-py3-none-any.whl" },
+  { filename = "oxylabs-1.0.4-py3-none-any.whl" },
+]

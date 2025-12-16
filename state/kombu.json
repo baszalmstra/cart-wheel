@@ -1,0 +1,208 @@
+{
+  "kombu-5.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b69e3f5527ec32fc5196028a36376501682973e9620d6175d1c3d4eaf7e95409",
+    "dependencies": {
+      "required": [
+        "amqp",
+        "vine",
+        "tzdata",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "amqp<6.0.0,>=5.1.1",
+      "vine==5.1.0",
+      "tzdata>=2025.2; python_version >= \"3.9\"",
+      "packaging",
+      "msgpack==1.1.2; extra == \"msgpack\"",
+      "PyYAML>=3.10; extra == \"yaml\"",
+      "redis!=4.5.5,!=5.0.2,<6.5,>=4.5.2; extra == \"redis\"",
+      "pymongo==4.15.3; extra == \"mongodb\"",
+      "boto3>=1.26.143; extra == \"sqs\"",
+      "pycurl>=7.43.0.5; (sys_platform != \"win32\" and platform_python_implementation == \"CPython\") and extra == \"sqs\"",
+      "urllib3>=1.26.16; extra == \"sqs\"",
+      "google-cloud-pubsub>=2.18.4; extra == \"gcpubsub\"",
+      "google-cloud-monitoring>=2.16.0; extra == \"gcpubsub\"",
+      "grpcio==1.75.1; extra == \"gcpubsub\"",
+      "protobuf==6.32.1; extra == \"gcpubsub\"",
+      "kazoo>=2.8.0; extra == \"zookeeper\"",
+      "sqlalchemy<2.1,>=1.4.48; extra == \"sqlalchemy\"",
+      "librabbitmq>=2.0.0; python_version < \"3.11\" and extra == \"librabbitmq\"",
+      "pyro4==4.82; extra == \"pyro\"",
+      "softlayer_messaging>=1.0.3; extra == \"slmq\"",
+      "azure-storage-queue>=12.6.0; extra == \"azurestoragequeues\"",
+      "azure-identity>=1.12.0; extra == \"azurestoragequeues\"",
+      "azure-servicebus>=7.10.0; extra == \"azureservicebus\"",
+      "qpid-python==1.36.0-1; extra == \"qpid\"",
+      "qpid-tools==1.36.0-1; extra == \"qpid\"",
+      "python-consul2==0.1.5; extra == \"consul\"",
+      "confluent-kafka>=2.2.0; extra == \"confluentkafka\""
+    ]
+  },
+  "kombu-5.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "97280ee43e6c1b74f129ec4e5c8c52516b8104260639dec0cebe9e52c69c3246",
+    "dependencies": {
+      "required": [
+        "amqp",
+        "vine",
+        "tzdata",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "amqp<6.0.0,>=5.1.1",
+      "vine==5.1.0",
+      "tzdata>=2025.2; python_version >= \"3.9\"",
+      "packaging",
+      "msgpack==1.1.2; extra == \"msgpack\"",
+      "PyYAML>=3.10; extra == \"yaml\"",
+      "redis!=4.5.5,!=5.0.2,<6.5,>=4.5.2; extra == \"redis\"",
+      "pymongo==4.15.3; extra == \"mongodb\"",
+      "boto3>=1.26.143; extra == \"sqs\"",
+      "pycurl>=7.43.0.5; (sys_platform != \"win32\" and platform_python_implementation == \"CPython\") and extra == \"sqs\"",
+      "urllib3>=1.26.16; extra == \"sqs\"",
+      "google-cloud-pubsub>=2.18.4; extra == \"gcpubsub\"",
+      "google-cloud-monitoring>=2.16.0; extra == \"gcpubsub\"",
+      "grpcio==1.75.1; extra == \"gcpubsub\"",
+      "protobuf==6.32.1; extra == \"gcpubsub\"",
+      "kazoo>=2.8.0; extra == \"zookeeper\"",
+      "sqlalchemy<2.1,>=1.4.48; extra == \"sqlalchemy\"",
+      "librabbitmq>=2.0.0; python_version < \"3.11\" and extra == \"librabbitmq\"",
+      "pyro4==4.82; extra == \"pyro\"",
+      "softlayer_messaging>=1.0.3; extra == \"slmq\"",
+      "azure-storage-queue>=12.6.0; extra == \"azurestoragequeues\"",
+      "azure-identity>=1.12.0; extra == \"azurestoragequeues\"",
+      "azure-servicebus>=7.10.0; extra == \"azureservicebus\"",
+      "qpid-python==1.36.0-1; extra == \"qpid\"",
+      "qpid-tools==1.36.0-1; extra == \"qpid\"",
+      "python-consul2==0.1.5; extra == \"consul\"",
+      "confluent-kafka>=2.2.0; extra == \"confluentkafka\""
+    ]
+  },
+  "kombu-5.5.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a12ed0557c238897d8e518f1d1fdf84bd1516c5e305af2dacd85c2015115feb8",
+    "dependencies": {
+      "required": [
+        "amqp",
+        "vine",
+        "backports.zoneinfo",
+        "tzdata",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "amqp<6.0.0,>=5.1.1",
+      "vine==5.1.0",
+      "backports.zoneinfo[tzdata]>=0.2.1; python_version < \"3.9\"",
+      "tzdata>=2025.2; python_version >= \"3.9\"",
+      "packaging",
+      "msgpack==1.1.0; extra == \"msgpack\"",
+      "PyYAML>=3.10; extra == \"yaml\"",
+      "redis!=4.5.5,!=5.0.2,<=5.2.1,>=4.5.2; extra == \"redis\"",
+      "pymongo==4.10.1; extra == \"mongodb\"",
+      "boto3>=1.26.143; extra == \"sqs\"",
+      "urllib3>=1.26.16; extra == \"sqs\"",
+      "google-cloud-pubsub>=2.18.4; extra == \"gcpubsub\"",
+      "google-cloud-monitoring>=2.16.0; extra == \"gcpubsub\"",
+      "grpcio==1.67.0; extra == \"gcpubsub\"",
+      "protobuf==4.25.5; extra == \"gcpubsub\"",
+      "kazoo>=2.8.0; extra == \"zookeeper\"",
+      "sqlalchemy<2.1,>=1.4.48; extra == \"sqlalchemy\"",
+      "librabbitmq>=2.0.0; python_version < \"3.11\" and extra == \"librabbitmq\"",
+      "pyro4==4.82; extra == \"pyro\"",
+      "softlayer_messaging>=1.0.3; extra == \"slmq\"",
+      "azure-storage-queue>=12.6.0; extra == \"azurestoragequeues\"",
+      "azure-identity>=1.12.0; extra == \"azurestoragequeues\"",
+      "azure-servicebus>=7.10.0; extra == \"azureservicebus\"",
+      "qpid-python>=0.26; extra == \"qpid\"",
+      "qpid-tools>=0.26; extra == \"qpid\"",
+      "python-consul2==0.1.5; extra == \"consul\"",
+      "confluent-kafka>=2.2.0; extra == \"confluentkafka\""
+    ]
+  },
+  "kombu-5.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b0dbceb4edee50aa464f59469d34b97864be09111338cfb224a10b6a163909b",
+    "dependencies": {
+      "required": [
+        "amqp",
+        "vine",
+        "backports.zoneinfo",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "amqp<6.0.0,>=5.1.1",
+      "vine==5.1.0",
+      "backports.zoneinfo[tzdata]>=0.2.1; python_version < \"3.9\"",
+      "tzdata>=2025.2; python_version >= \"3.9\"",
+      "msgpack==1.1.0; extra == \"msgpack\"",
+      "PyYAML>=3.10; extra == \"yaml\"",
+      "redis!=4.5.5,!=5.0.2,<=5.2.1,>=4.5.2; extra == \"redis\"",
+      "pymongo>=4.1.1; extra == \"mongodb\"",
+      "boto3>=1.26.143; extra == \"sqs\"",
+      "urllib3>=1.26.16; extra == \"sqs\"",
+      "google-cloud-pubsub>=2.18.4; extra == \"gcpubsub\"",
+      "google-cloud-monitoring>=2.16.0; extra == \"gcpubsub\"",
+      "grpcio==1.67.0; extra == \"gcpubsub\"",
+      "protobuf==4.25.5; extra == \"gcpubsub\"",
+      "kazoo>=2.8.0; extra == \"zookeeper\"",
+      "sqlalchemy<2.1,>=1.4.48; extra == \"sqlalchemy\"",
+      "librabbitmq>=2.0.0; python_version < \"3.11\" and extra == \"librabbitmq\"",
+      "pyro4==4.82; extra == \"pyro\"",
+      "softlayer_messaging>=1.0.3; extra == \"slmq\"",
+      "azure-storage-queue>=12.6.0; extra == \"azurestoragequeues\"",
+      "azure-identity>=1.12.0; extra == \"azurestoragequeues\"",
+      "azure-servicebus>=7.10.0; extra == \"azureservicebus\"",
+      "qpid-python>=0.26; extra == \"qpid\"",
+      "qpid-tools>=0.26; extra == \"qpid\"",
+      "python-consul2==0.1.5; extra == \"consul\"",
+      "confluent-kafka>=2.2.0; extra == \"confluentkafka\""
+    ]
+  },
+  "kombu-5.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40f3674ed19603b8a771b6c74de126dbf8879755a0337caac6602faa82d539cd",
+    "dependencies": {
+      "required": [
+        "amqp",
+        "vine",
+        "typing-extensions",
+        "backports.zoneinfo",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "amqp<6.0.0,>=5.1.1",
+      "vine==5.1.0",
+      "typing-extensions==4.12.2; python_version < \"3.10\"",
+      "backports.zoneinfo[tzdata]>=0.2.1; python_version < \"3.9\"",
+      "tzdata==2025.2; python_version >= \"3.9\"",
+      "azure-servicebus>=7.10.0; extra == \"azureservicebus\"",
+      "azure-storage-queue>=12.6.0; extra == \"azurestoragequeues\"",
+      "azure-identity>=1.12.0; extra == \"azurestoragequeues\"",
+      "confluent-kafka>=2.2.0; extra == \"confluentkafka\"",
+      "python-consul2==0.1.5; extra == \"consul\"",
+      "google-cloud-pubsub>=2.18.4; extra == \"gcpubsub\"",
+      "google-cloud-monitoring>=2.16.0; extra == \"gcpubsub\"",
+      "grpcio==1.67.0; extra == \"gcpubsub\"",
+      "protobuf==4.25.5; extra == \"gcpubsub\"",
+      "librabbitmq>=2.0.0; python_version < \"3.11\" and extra == \"librabbitmq\"",
+      "pymongo>=4.1.1; extra == \"mongodb\"",
+      "msgpack==1.1.0; extra == \"msgpack\"",
+      "pyro4==4.82; extra == \"pyro\"",
+      "qpid-python>=0.26; extra == \"qpid\"",
+      "qpid-tools>=0.26; extra == \"qpid\"",
+      "redis!=4.5.5,!=5.0.2,<=5.2.1,>=4.5.2; extra == \"redis\"",
+      "softlayer-messaging>=1.0.3; extra == \"slmq\"",
+      "sqlalchemy<2.1,>=1.4.48; extra == \"sqlalchemy\"",
+      "boto3>=1.26.143; extra == \"sqs\"",
+      "urllib3>=1.26.16; extra == \"sqs\"",
+      "PyYAML>=3.10; extra == \"yaml\"",
+      "kazoo>=2.8.0; extra == \"zookeeper\""
+    ]
+  }
+}

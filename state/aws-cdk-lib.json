@@ -1,0 +1,122 @@
+{
+  "aws_cdk_lib-2.232.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1b3a5dbe518fbcbe3a9a06960396d8debdef9472c049fbf42adb3f01d613825",
+    "dependencies": {
+      "required": [
+        "aws-cdk.asset-awscli-v1",
+        "aws-cdk.asset-node-proxy-agent-v6",
+        "aws-cdk.cloud-assembly-schema",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.asset-awscli-v1 ==2.2.242",
+      "aws-cdk.asset-node-proxy-agent-v6 <3.0.0,>=2.1.0",
+      "aws-cdk.cloud-assembly-schema <49.0.0,>=48.20.0",
+      "constructs <11.0.0,>=10.0.0",
+      "jsii <2.0.0,>=1.120.0",
+      "publication >=0.0.3",
+      "typeguard ==2.13.3"
+    ]
+  },
+  "aws_cdk_lib-2.232.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d664518ee10391a867c1e5b6633085b7a02acea4bf738ed250bb77e1a0936a69",
+    "dependencies": {
+      "required": [
+        "aws-cdk.asset-awscli-v1",
+        "aws-cdk.asset-node-proxy-agent-v6",
+        "aws-cdk.cloud-assembly-schema",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.asset-awscli-v1 ==2.2.242",
+      "aws-cdk.asset-node-proxy-agent-v6 <3.0.0,>=2.1.0",
+      "aws-cdk.cloud-assembly-schema <49.0.0,>=48.20.0",
+      "constructs <11.0.0,>=10.0.0",
+      "jsii <2.0.0,>=1.120.0",
+      "publication >=0.0.3",
+      "typeguard ==2.13.3"
+    ]
+  },
+  "aws_cdk_lib-2.232.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "09952998888484263883509ae5d8fd6a7af257811b14ba17642d3d6951c9e427",
+    "dependencies": {
+      "required": [
+        "aws-cdk.asset-awscli-v1",
+        "aws-cdk.asset-node-proxy-agent-v6",
+        "aws-cdk.cloud-assembly-schema",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.asset-awscli-v1 ==2.2.242",
+      "aws-cdk.asset-node-proxy-agent-v6 <3.0.0,>=2.1.0",
+      "aws-cdk.cloud-assembly-schema <49.0.0,>=48.20.0",
+      "constructs <11.0.0,>=10.0.0",
+      "jsii <2.0.0,>=1.120.0",
+      "publication >=0.0.3",
+      "typeguard ==2.13.3"
+    ]
+  },
+  "aws_cdk_lib-2.231.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44aad6e0c10a0039416c913a3190b1412ae2bc20fd55b9fcaae265a396db64a3",
+    "dependencies": {
+      "required": [
+        "aws-cdk.asset-awscli-v1",
+        "aws-cdk.asset-node-proxy-agent-v6",
+        "aws-cdk.cloud-assembly-schema",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.asset-awscli-v1 ==2.2.242",
+      "aws-cdk.asset-node-proxy-agent-v6 <3.0.0,>=2.1.0",
+      "aws-cdk.cloud-assembly-schema <49.0.0,>=48.6.0",
+      "constructs <11.0.0,>=10.0.0",
+      "jsii <2.0.0,>=1.119.0",
+      "publication >=0.0.3",
+      "typeguard <4.3.0,>=2.13.3"
+    ]
+  },
+  "aws_cdk_lib-2.230.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ebca6bcfb92d3cabfddbb587746e8a8a8ef3afc8ad68287ad15b93168cfffeef",
+    "dependencies": {
+      "required": [
+        "aws-cdk.asset-awscli-v1",
+        "aws-cdk.asset-node-proxy-agent-v6",
+        "aws-cdk.cloud-assembly-schema",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.asset-awscli-v1 ==2.2.242",
+      "aws-cdk.asset-node-proxy-agent-v6 <3.0.0,>=2.1.0",
+      "aws-cdk.cloud-assembly-schema <49.0.0,>=48.6.0",
+      "constructs <11.0.0,>=10.0.0",
+      "jsii <2.0.0,>=1.119.0",
+      "publication >=0.0.3",
+      "typeguard <4.3.0,>=2.13.3"
+    ]
+  }
+}

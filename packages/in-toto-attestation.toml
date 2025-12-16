@@ -1,0 +1,10 @@
+# Package configuration for in-toto-attestation
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "in_toto_attestation-0.9.3-py3-none-any.whl" },
+  { filename = "in_toto_attestation-0.9.2-py3-none-any.whl" },
+  { filename = "in_toto_attestation-0.9.1-py3-none-any.whl" },
+  { filename = "in_toto_attestation-0.9.0-py3-none-any.whl" },
+]

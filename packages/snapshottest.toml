@@ -1,0 +1,8 @@
+# Package configuration for snapshottest
+conda_forge = "snapshottest"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "snapshottest-0.6.0-py2.py3-none-any.whl" },
+]

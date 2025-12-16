@@ -1,0 +1,11 @@
+# Package configuration for dlinfo
+conda_forge = "dlinfo"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dlinfo-2.0.0-py3-none-any.whl" },
+  { filename = "dlinfo-1.2.1-py3-none-any.whl" },
+  { filename = "dlinfo-1.2.0-py3-none-any.whl" },
+  { filename = "dlinfo-1.1.0-py3-none-any.whl" },
+]

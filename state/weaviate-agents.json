@@ -1,0 +1,82 @@
+{
+  "weaviate_agents-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1184a04ca3119c4a23ab11a1cd512eae8bf23c46db4f32765d8b16a5b8f28aac",
+    "dependencies": {
+      "required": [
+        "httpx-sse",
+        "rich",
+        "weaviate-client"
+      ]
+    },
+    "original_requirements": [
+      "httpx-sse>=0.4.0",
+      "rich>=13.9.4",
+      "weaviate-client>=4.11.0"
+    ]
+  },
+  "weaviate_agents-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "934e49aa5b769823ee30f827625e55b067481cf108c9a6e24a3a29af0012c2ad",
+    "dependencies": {
+      "required": [
+        "httpx-sse",
+        "rich",
+        "weaviate-client"
+      ]
+    },
+    "original_requirements": [
+      "httpx-sse>=0.4.0",
+      "rich>=13.9.4",
+      "weaviate-client>=4.11.0"
+    ]
+  },
+  "weaviate_agents-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b7430c0f479a214da847c96e9e9ce213471cc252e379b0980ba2931c9ded402",
+    "dependencies": {
+      "required": [
+        "httpx-sse",
+        "rich",
+        "weaviate-client"
+      ]
+    },
+    "original_requirements": [
+      "httpx-sse>=0.4.0",
+      "rich>=13.9.4",
+      "weaviate-client>=4.11.0"
+    ]
+  },
+  "weaviate_agents-0.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3fc32b6ba984ad889c6e6f487dd4bf0ded18fa783aea0f03d545a0c518196745",
+    "dependencies": {
+      "required": [
+        "httpx-sse",
+        "rich",
+        "weaviate-client"
+      ]
+    },
+    "original_requirements": [
+      "httpx-sse>=0.4.0",
+      "rich>=13.9.4",
+      "weaviate-client>=4.11.0"
+    ]
+  },
+  "weaviate_agents-0.12.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "041912c5cdf86299c560aba03bf687d694af26c130249ba6f8576d83548a9646",
+    "dependencies": {
+      "required": [
+        "httpx-sse",
+        "rich",
+        "weaviate-client"
+      ]
+    },
+    "original_requirements": [
+      "httpx-sse>=0.4.0",
+      "rich>=13.9.4",
+      "weaviate-client>=4.11.0"
+    ]
+  }
+}

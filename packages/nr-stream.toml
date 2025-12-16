@@ -1,0 +1,12 @@
+# Package configuration for nr-stream
+conda_forge = "nr.stream"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nr_stream-1.1.5-py3-none-any.whl" },
+  { filename = "nr_stream-1.1.4-py3-none-any.whl" },
+  { filename = "nr_stream-1.1.3-py3-none-any.whl" },
+  { filename = "nr_stream-1.1.2-py3-none-any.whl" },
+  { filename = "nr_stream-1.1.1-py3-none-any.whl" },
+]

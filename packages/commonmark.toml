@@ -1,0 +1,12 @@
+# Package configuration for commonmark
+conda_forge = "commonmark"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "commonmark-0.9.1-py2.py3-none-any.whl" },
+  { filename = "commonmark-0.9.0-py2.py3-none-any.whl" },
+  { filename = "commonmark-0.8.1-py2.py3-none-any.whl" },
+  { filename = "commonmark-0.8.0-py2.py3-none-any.whl" },
+  { filename = "CommonMark-0.7.5-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for repo-review
+conda_forge = "repo-review"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "repo_review-0.12.3-py3-none-any.whl" },
+  { filename = "repo_review-0.12.2-py3-none-any.whl" },
+  { filename = "repo_review-0.12.1-py3-none-any.whl" },
+  { filename = "repo_review-0.12.0-py3-none-any.whl" },
+  { filename = "repo_review-0.11.3-py3-none-any.whl" },
+]

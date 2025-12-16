@@ -1,0 +1,97 @@
+{
+  "botocore-1.42.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f99ba2ca34e24c4ebec150376c815646970753c032eb84f230874b2975a185a8",
+    "dependencies": {
+      "required": [
+        "jmespath",
+        "python-dateutil",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "jmespath (<2.0.0,>=0.7.1)",
+      "python-dateutil (<3.0.0,>=2.1)",
+      "urllib3 (<1.27,>=1.25.4) ; python_version < \"3.10\"",
+      "urllib3 (!=2.2.0,<3,>=1.25.4) ; python_version >= \"3.10\"",
+      "awscrt (==0.29.2) ; extra == 'crt'"
+    ]
+  },
+  "botocore-1.42.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4cb89c74dd9083d16e45868749b999265a91309b2499907c84adeffa0a8df89b",
+    "dependencies": {
+      "required": [
+        "jmespath",
+        "python-dateutil",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "jmespath (<2.0.0,>=0.7.1)",
+      "python-dateutil (<3.0.0,>=2.1)",
+      "urllib3 (<1.27,>=1.25.4) ; python_version < \"3.10\"",
+      "urllib3 (!=2.2.0,<3,>=1.25.4) ; python_version >= \"3.10\"",
+      "awscrt (==0.29.2) ; extra == 'crt'"
+    ]
+  },
+  "botocore-1.42.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "92128d56654342f026d5c20a92bf0e8b546be1eb38df2c0efc7433e8bbc39045",
+    "dependencies": {
+      "required": [
+        "jmespath",
+        "python-dateutil",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "jmespath (<2.0.0,>=0.7.1)",
+      "python-dateutil (<3.0.0,>=2.1)",
+      "urllib3 (<1.27,>=1.25.4) ; python_version < \"3.10\"",
+      "urllib3 (!=2.2.0,<3,>=1.25.4) ; python_version >= \"3.10\"",
+      "awscrt (==0.29.2) ; extra == 'crt'"
+    ]
+  },
+  "botocore-1.42.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4aebdc391f3542270ebea8b8f0060fde514f6441de207dce862ed759887607e",
+    "dependencies": {
+      "required": [
+        "jmespath",
+        "python-dateutil",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "jmespath (<2.0.0,>=0.7.1)",
+      "python-dateutil (<3.0.0,>=2.1)",
+      "urllib3 (<1.27,>=1.25.4) ; python_version < \"3.10\"",
+      "urllib3 (!=2.2.0,<3,>=1.25.4) ; python_version >= \"3.10\"",
+      "awscrt (==0.29.2) ; extra == 'crt'"
+    ]
+  },
+  "botocore-1.42.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6aa487f1876c881e2143f6a186b7d8faaf042fc05e0ba7421d821f145356a0c9",
+    "dependencies": {
+      "required": [
+        "jmespath",
+        "python-dateutil",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "jmespath (<2.0.0,>=0.7.1)",
+      "python-dateutil (<3.0.0,>=2.1)",
+      "urllib3 (<1.27,>=1.25.4) ; python_version < \"3.10\"",
+      "urllib3 (!=2.2.0,<3,>=1.25.4) ; python_version >= \"3.10\"",
+      "awscrt (==0.29.2) ; extra == 'crt'"
+    ]
+  }
+}

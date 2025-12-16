@@ -1,0 +1,82 @@
+{
+  "streamlit_pdf-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8330d7f954e46edc7574b7e498378462555a8e25e829946abb78dbf5684b0a1e",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "wheel; extra == \"devel\"",
+      "pytest==7.4.0; extra == \"devel\"",
+      "playwright==1.49.*; extra == \"devel\"",
+      "requests==2.31.0; extra == \"devel\"",
+      "pytest-playwright-snapshot==1.0; extra == \"devel\"",
+      "pytest-rerunfailures==12.0; extra == \"devel\"",
+      "streamlit>=1.51.0; extra == \"with-streamlit\""
+    ]
+  },
+  "streamlit_pdf-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9541ebf37df1d014465ae469bcc546690fb7b8b0cf236091aab37f7bdc32be7c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "wheel; extra == \"devel\"",
+      "pytest==7.4.0; extra == \"devel\"",
+      "playwright==1.49.*; extra == \"devel\"",
+      "requests==2.31.0; extra == \"devel\"",
+      "pytest-playwright-snapshot==1.0; extra == \"devel\"",
+      "pytest-rerunfailures==12.0; extra == \"devel\"",
+      "streamlit>=1.51.0; extra == \"with-streamlit\""
+    ]
+  },
+  "streamlit_pdf-1.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6ba76ef1dc12250bc63f42cd0c90388eb2af25a62fc0e1c19c7ed27667e74355",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "wheel; extra == \"devel\"",
+      "pytest==7.4.0; extra == \"devel\"",
+      "playwright==1.48.0; extra == \"devel\"",
+      "requests==2.31.0; extra == \"devel\"",
+      "pytest-playwright-snapshot==1.0; extra == \"devel\"",
+      "pytest-rerunfailures==12.0; extra == \"devel\"",
+      "streamlit>=1.28.0; extra == \"with-streamlit\""
+    ]
+  },
+  "streamlit_pdf-1.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e08227c0435e1cf4b45288a468dd7513affd8ff58231636d2b49939749d699ea",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "wheel; extra == \"devel\"",
+      "pytest==7.4.0; extra == \"devel\"",
+      "playwright==1.48.0; extra == \"devel\"",
+      "requests==2.31.0; extra == \"devel\"",
+      "pytest-playwright-snapshot==1.0; extra == \"devel\"",
+      "pytest-rerunfailures==12.0; extra == \"devel\"",
+      "streamlit>=1.28.0; extra == \"with-streamlit\""
+    ]
+  },
+  "streamlit_pdf-1.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3322f3c43567919a7df8540e6ea0bdad684ea561b1f63f1686dbdf61c406f63",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "wheel; extra == \"devel\"",
+      "pytest==7.4.0; extra == \"devel\"",
+      "playwright==1.48.0; extra == \"devel\"",
+      "requests==2.31.0; extra == \"devel\"",
+      "pytest-playwright-snapshot==1.0; extra == \"devel\"",
+      "pytest-rerunfailures==12.0; extra == \"devel\"",
+      "streamlit>=1.28.0; extra == \"with-streamlit\""
+    ]
+  }
+}

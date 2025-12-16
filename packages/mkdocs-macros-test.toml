@@ -1,0 +1,7 @@
+# Package configuration for mkdocs-macros-test
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_macros_test-0.1.0-py3-none-any.whl" },
+]

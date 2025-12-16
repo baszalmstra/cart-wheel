@@ -1,0 +1,12 @@
+# Package configuration for nncf
+conda_forge = "nncf"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nncf-2.19.0-py3-none-any.whl" },
+  { filename = "nncf-2.18.0-py3-none-any.whl" },
+  { filename = "nncf-2.17.0-py3-none-any.whl" },
+  { filename = "nncf-2.16.0-py3-none-any.whl" },
+  { filename = "nncf-2.15.0-py3-none-any.whl" },
+]

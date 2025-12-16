@@ -1,0 +1,10 @@
+# Package configuration for pure-sasl
+conda_forge = "pure-sasl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pure_sasl-0.5.1-py2.py3-none-any.whl" },
+  { filename = "pure_sasl-0.5.0-py2.py3-none-any.whl" },
+  { filename = "pure_sasl-0.4.1-py2.py3-none-any.whl" },
+]

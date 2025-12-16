@@ -1,0 +1,72 @@
+{
+  "tuf-6.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "458f663a233d95cc76dde0e1a3d01796516a05ce2781fefafebe037f7729601a",
+    "dependencies": {
+      "required": [
+        "securesystemslib",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "securesystemslib~=1.0",
+      "urllib3<3,>=1.21.1"
+    ]
+  },
+  "tuf-5.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6494848d2720ced600e0d7ee23b4986623ddad1148ad8e54ffe308db18b762fe",
+    "dependencies": {
+      "required": [
+        "requests",
+        "securesystemslib"
+      ]
+    },
+    "original_requirements": [
+      "requests>=2.19.1",
+      "securesystemslib~=1.0"
+    ]
+  },
+  "tuf-5.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91a4ca279c33222ac1451a5b0bcdcbbf12c965e0d22278bead5bf8d3ab95117a",
+    "dependencies": {
+      "required": [
+        "requests",
+        "securesystemslib"
+      ]
+    },
+    "original_requirements": [
+      "requests>=2.19.1",
+      "securesystemslib~=1.0"
+    ]
+  },
+  "tuf-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a22ab5fa6daf910b3052929fdce42ccad8a300e5e85715daaff9592aed980f7a",
+    "dependencies": {
+      "required": [
+        "requests",
+        "securesystemslib"
+      ]
+    },
+    "original_requirements": [
+      "requests>=2.19.1",
+      "securesystemslib<0.32.0,>=0.26.0"
+    ]
+  },
+  "tuf-3.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d6441d11bc9a928cb82cf571519bb99e70ed3ea6fd5a52ce116a8e121023f7ef",
+    "dependencies": {
+      "required": [
+        "requests",
+        "securesystemslib"
+      ]
+    },
+    "original_requirements": [
+      "requests>=2.19.1",
+      "securesystemslib>=0.26.0"
+    ]
+  }
+}

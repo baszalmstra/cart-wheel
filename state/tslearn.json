@@ -1,0 +1,143 @@
+{
+  "tslearn-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "573826c0cda1cf802e3be737bb4426711086eabeca1b1d4d7c6690a2ec20da61",
+    "dependencies": {
+      "required": [
+        "scikit-learn",
+        "numpy",
+        "scipy",
+        "numba",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "scikit-learn>=1.4",
+      "numpy>=1.24.3",
+      "scipy>=1.10.1",
+      "numba>=0.58.1",
+      "joblib>=1.2",
+      "torch; extra == \"pytorch\"",
+      "pytest; extra == \"tests\"",
+      "h5py; extra == \"tests\"",
+      "sphinx; extra == \"docs\"",
+      "pydata_sphinx_theme; extra == \"docs\"",
+      "sphinx-gallery; extra == \"docs\"",
+      "sphinx_copybutton; extra == \"docs\"",
+      "numpydoc; extra == \"docs\"",
+      "matplotlib; extra == \"docs\"",
+      "pypandoc; extra == \"docs\"",
+      "torch; extra == \"all-features\"",
+      "numpy<2; (\"darwin\" in sys_platform and \"x86_64\" in platform_machine) and extra == \"all-features\"",
+      "h5py; extra == \"all-features\"",
+      "keras<3.12; (\"darwin\" in sys_platform and \"x86_64\" in platform_machine) and extra == \"all-features\"",
+      "keras; extra == \"all-features\"",
+      "cesium; extra == \"all-features\"",
+      "pandas; extra == \"all-features\"",
+      "stumpy; extra == \"all-features\""
+    ]
+  },
+  "tslearn-0.6.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "926c3ed2ef9ceeb54c92fb741c9ced9f198b78524e2bec23de1e16d5b65dcd15",
+    "dependencies": {
+      "required": [
+        "scikit-learn",
+        "numpy",
+        "scipy",
+        "numba",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "scikit-learn<1.7,>=1.3.2",
+      "numpy<2.3,>=1.24.3",
+      "scipy<1.17,>=1.10.1",
+      "numba<0.62,>=0.58.1",
+      "joblib<1.6,>=0.12",
+      "torch; extra == \"pytorch\"",
+      "pytest; extra == \"tests\"",
+      "torch; extra == \"tests\"",
+      "h5py; extra == \"tests\"",
+      "tensorflow==2.9.0; python_version == \"3.8\" and extra == \"tests\"",
+      "tensorflow>=2; (python_version != \"3.8\" and python_version < \"3.13\") and extra == \"tests\"",
+      "stumpy; extra == \"tests\"",
+      "torch; extra == \"all-features\"",
+      "h5py; extra == \"all-features\"",
+      "tensorflow==2.9.0; python_version == \"3.8\" and extra == \"all-features\"",
+      "tensorflow>=2; (python_version != \"3.8\" and python_version < \"3.13\") and extra == \"all-features\"",
+      "cesium>=0.12.2; (python_version >= \"3.9\" and \"darwin\" not in sys_platform) and extra == \"all-features\"",
+      "cesium; (python_version < \"3.9\" or \"darwin\" in sys_platform) and extra == \"all-features\"",
+      "pandas; extra == \"all-features\""
+    ]
+  },
+  "tslearn-0.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18c3b1984b4be2af0e7579c0b914633f2220bba2b6610c11861c4563272e9169",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "scikit-learn",
+        "numba",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "scikit-learn",
+      "numba",
+      "joblib",
+      "torch ; extra == 'pytorch'",
+      "pytest ; extra == 'tests'",
+      "torch ; extra == 'tests'"
+    ]
+  },
+  "tslearn-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a53f417b2495c8b21d2df1c7fd556fcc5fc5a2559cbc2c63118f67e324ef6a61",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "scikit-learn",
+        "numba",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "scikit-learn",
+      "numba",
+      "joblib",
+      "torch ; extra == 'pytorch'",
+      "pytest ; extra == 'tests'",
+      "torch ; extra == 'tests'"
+    ]
+  },
+  "tslearn-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3905f79be32cc9b40c02f0b3b0ca48fd98737fa65b008c23396c29cc7d84dabc",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "scikit-learn",
+        "numba",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "scikit-learn",
+      "numba",
+      "joblib",
+      "torch ; extra == 'pytorch'",
+      "pytest ; extra == 'tests'",
+      "torch ; extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for dagger-io
+conda_forge = "dagger-io"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dagger_io-0.19.8-py3-none-any.whl" },
+  { filename = "dagger_io-0.19.7-py3-none-any.whl" },
+  { filename = "dagger_io-0.19.6-py3-none-any.whl" },
+  { filename = "dagger_io-0.19.5-py3-none-any.whl" },
+  { filename = "dagger_io-0.19.4-py3-none-any.whl" },
+]

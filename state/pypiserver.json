@@ -1,0 +1,92 @@
+{
+  "pypiserver-2.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43700f711ce092e148e2bb6e7be22a684af090344bf5c166f8ec14eb7bba24bc",
+    "dependencies": {
+      "required": [
+        "pip",
+        "packaging",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "pip>=7",
+      "packaging>=23.2",
+      "importlib_resources; python_version > \"3.8\" and python_version < \"3.12\"",
+      "passlib>=1.6; extra == \"passlib\"",
+      "watchdog; extra == \"cache\""
+    ]
+  },
+  "pypiserver-2.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67c30d2a1a2cea1c4cf6785ddfbce958dc8ee7978e56a54b5f4ebc0c5cb89079",
+    "dependencies": {
+      "required": [
+        "pip",
+        "packaging",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "pip>=7",
+      "packaging>=23.2",
+      "importlib_resources; python_version > \"3.8\" and python_version < \"3.12\"",
+      "passlib>=1.6; extra == \"passlib\"",
+      "watchdog; extra == \"cache\""
+    ]
+  },
+  "pypiserver-2.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "433f90f08a67389d278026b09ff1127625690ee91795d75dc10247f0b1d40fde",
+    "dependencies": {
+      "required": [
+        "pip",
+        "packaging",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "pip>=7",
+      "packaging>=23.2",
+      "importlib_resources; python_version > \"3.8\"",
+      "passlib>=1.6; extra == \"passlib\"",
+      "watchdog; extra == \"cache\""
+    ]
+  },
+  "pypiserver-2.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9055a7d57dce75a4332d19d35acf407b3683069042a70a2f88ce3c9b2552fb64",
+    "dependencies": {
+      "required": [
+        "pip",
+        "packaging",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "pip>=7",
+      "packaging>=23.2",
+      "importlib_resources; python_version > \"3.8\"",
+      "passlib>=1.6; extra == \"passlib\"",
+      "watchdog; extra == \"cache\""
+    ]
+  },
+  "pypiserver-2.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5352f098bb113783a4173a42b340eb5c69b86686e0852793802db25e5b4d30f2",
+    "dependencies": {
+      "required": [
+        "pip",
+        "packaging",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "pip>=7",
+      "packaging>=23.2",
+      "importlib-resources; python_version > \"3.8\" and python_version < \"3.12\"",
+      "watchdog; extra == \"cache\"",
+      "passlib>=1.6; extra == \"passlib\""
+    ]
+  }
+}

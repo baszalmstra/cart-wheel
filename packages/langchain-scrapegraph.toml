@@ -1,0 +1,11 @@
+# Package configuration for langchain-scrapegraph
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_scrapegraph-1.6.0-py3-none-any.whl" },
+  { filename = "langchain_scrapegraph-1.5.0-py3-none-any.whl" },
+  { filename = "langchain_scrapegraph-1.4.0-py3-none-any.whl" },
+  { filename = "langchain_scrapegraph-1.3.0-py3-none-any.whl" },
+  { filename = "langchain_scrapegraph-1.2.0-py3-none-any.whl" },
+]

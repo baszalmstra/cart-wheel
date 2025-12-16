@@ -1,0 +1,11 @@
+# Package configuration for kwutil
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kwutil-0.3.8-py3-none-any.whl" },
+  { filename = "kwutil-0.3.7-py3-none-any.whl" },
+  { filename = "kwutil-0.3.6-py3-none-any.whl" },
+  { filename = "kwutil-0.3.5-py3-none-any.whl" },
+  { filename = "kwutil-0.3.4-py3-none-any.whl" },
+]

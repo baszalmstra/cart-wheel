@@ -1,0 +1,12 @@
+# Package configuration for flake8-black
+conda_forge = "flake8-black"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_black-0.4.0-py3-none-any.whl" },
+  { filename = "flake8_black-0.3.7-py3-none-any.whl" },
+  { filename = "flake8_black-0.3.6-py3-none-any.whl" },
+  { filename = "flake8_black-0.3.5-py3-none-any.whl" },
+  { filename = "flake8_black-0.3.4-py3-none-any.whl" },
+]

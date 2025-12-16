@@ -1,0 +1,9 @@
+# Package configuration for tf-slim
+conda_forge = "tf-slim"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tf_slim-1.1.0-py2.py3-none-any.whl" },
+  { filename = "tf_slim-1.0-py2.py3-none-any.whl" },
+]

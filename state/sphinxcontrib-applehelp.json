@@ -1,0 +1,78 @@
+{
+  "sphinxcontrib_applehelp-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4cd3f0ec4ac5dd9c17ec65e9ab272c9b867ea77425228e68ecf08d6b28ddbdb5",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruff==0.5.5 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-docutils ; extra == \"lint\"",
+      "Sphinx>=5 ; extra == \"standalone\"",
+      "pytest ; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_applehelp-1.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb61eb0ec1b61f349e5cc36b2028e9e7ca765be05e49641c97241274753067b4",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "Sphinx>=5 ; extra == \"standalone\"",
+      "pytest ; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_applehelp-1.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "094c4d56209d1734e7d252f6e0b3ccc090bd52ee56807a5d9315b19c122ab15d",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx>=5",
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "pytest ; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_applehelp-1.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c0578efa23cab5a2f3aaa8af5691b952433f4fdfaac255befd3452448e7ea4a4",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx>=5",
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "pytest ; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_applehelp-1.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2bf6dc21596142496e3a7623adc6918014e6a9bbfeeeb37d27543727bebabd0f",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx>=5",
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "pytest ; extra == \"test\""
+    ]
+  }
+}

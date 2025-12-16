@@ -1,0 +1,98 @@
+{
+  "import_linter-2.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "06403ede04c975cda2ea9050498c16b2021c0261b5cedf47c6c5d8725894b1a2",
+    "dependencies": {
+      "required": [
+        "click",
+        "grimp",
+        "rich",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=6",
+      "grimp>=3.14",
+      "rich>=14.2.0",
+      "tomli>=1.2.1; python_version < '3.11'",
+      "typing-extensions>=3.10.0.0"
+    ]
+  },
+  "import_linter-2.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f75fe4f624471807299ba1365652e06c36fe91ffd6b188b84f7d75aaa711fa7",
+    "dependencies": {
+      "required": [
+        "click",
+        "grimp",
+        "rich",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=6",
+      "grimp==3.13",
+      "rich>=14.2.0",
+      "tomli>=1.2.1; python_version < '3.11'",
+      "typing-extensions>=3.10.0.0"
+    ]
+  },
+  "import_linter-2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be03bbd467b3f0b4535fb3ee12e07995d9837864b307df2e78888364e0ba012d",
+    "dependencies": {
+      "required": [
+        "click",
+        "grimp",
+        "rich",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=6",
+      "grimp==3.13",
+      "rich>=14.2.0",
+      "tomli>=1.2.1; python_version < '3.11'",
+      "typing-extensions>=3.10.0.0"
+    ]
+  },
+  "import_linter-2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e835141294b803325a619b8c789398320b81f0bde7771e0dd36f34524e51b1e",
+    "dependencies": {
+      "required": [
+        "click",
+        "grimp",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=6",
+      "grimp==3.13",
+      "tomli>=1.2.1; python_version < '3.11'",
+      "typing-extensions>=3.10.0.0"
+    ]
+  },
+  "import_linter-2.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a70b64c2451dc6b96ff9ef5af4e3f6a2c8b63532a66a3c96a7c31ca086b10003",
+    "dependencies": {
+      "required": [
+        "click",
+        "grimp",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=6",
+      "grimp>=3.12",
+      "tomli>=1.2.1; python_version < '3.11'",
+      "typing-extensions>=3.10.0.0"
+    ]
+  }
+}

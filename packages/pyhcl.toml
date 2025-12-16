@@ -1,0 +1,7 @@
+# Package configuration for pyhcl
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyhcl-0.4.5-py3-none-any.whl" },
+]

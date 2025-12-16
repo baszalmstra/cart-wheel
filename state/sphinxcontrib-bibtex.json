@@ -1,0 +1,118 @@
+{
+  "sphinxcontrib_bibtex-2.6.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "455ea4509642ea0b28ede3721550273626f85af65af01f161bfd8e19dc1edd7d",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "docutils",
+        "pybtex",
+        "pybtex-docutils",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx>=3.5",
+      "docutils!=0.18.*,!=0.19.*,>=0.8",
+      "pybtex>=0.25",
+      "pybtex-docutils>=1.0.0",
+      "importlib_metadata>=3.6; python_version < \"3.10\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "sphinx-autoapi; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_bibtex-2.6.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bfd34d36322ba0ef0624a1bbee44adcedde86e0fa0ce5b2310304a3e68263f6f",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "docutils",
+        "pybtex",
+        "pybtex-docutils",
+        "importlib-metadata",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx>=3.5",
+      "docutils!=0.18.*,!=0.19.*,>=0.8",
+      "pybtex>=0.24",
+      "pybtex-docutils>=1.0.0",
+      "importlib_metadata>=3.6; python_version < \"3.10\"",
+      "setuptools",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "sphinx-autoapi; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_bibtex-2.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff016b738fcc867df0f75c29e139b3b2158d26a2c802db27963cb128be3b75fb",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "docutils",
+        "pybtex",
+        "pybtex-docutils",
+        "importlib-metadata",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx >=3.5",
+      "docutils !=0.18.*,!=0.19.*,>=0.8",
+      "pybtex >=0.24",
+      "pybtex-docutils >=1.0.0",
+      "importlib-metadata >=3.6 ; python_version < \"3.10\"",
+      "setuptools ; python_version >= \"3.12\"",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "sphinxcontrib_bibtex-2.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10d45ebbb19207c5665396c9446f8012a79b8a538cb729f895b5910ab2d0b2da",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "docutils",
+        "pybtex",
+        "pybtex-docutils",
+        "importlib-metadata",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx >=3.5",
+      "docutils !=0.18.*,!=0.19.*,>=0.8",
+      "pybtex >=0.24",
+      "pybtex-docutils >=1.0.0",
+      "importlib-metadata >=3.6 ; python_version < \"3.10\"",
+      "dataclasses ; python_version < \"3.7\""
+    ]
+  },
+  "sphinxcontrib_bibtex-2.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "094c772098fe6b030cda8618c45722b2957cad0c04f328ba2b154aa08dfe720a",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "docutils",
+        "pybtex",
+        "pybtex-docutils",
+        "importlib-metadata",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx >=3.5",
+      "docutils !=0.18.*,!=0.19.*,>=0.8",
+      "pybtex >=0.24",
+      "pybtex-docutils >=1.0.0",
+      "importlib-metadata >=3.6 ; python_version < \"3.10\"",
+      "dataclasses ; python_version < \"3.7\""
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "dask-2025.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4213ce9c5d51d6d89337cff69de35d902aa0bf6abdb8a25c942a4d0281f3a598",
+    "dependencies": {
+      "required": [
+        "click",
+        "cloudpickle",
+        "fsspec",
+        "packaging",
+        "partd",
+        "pyyaml",
+        "toolz",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.1",
+      "cloudpickle>=3.0.0",
+      "fsspec>=2021.09.0",
+      "packaging>=20.0",
+      "partd>=1.4.0",
+      "pyyaml>=5.3.1",
+      "toolz>=0.12.0",
+      "importlib_metadata>=4.13.0; python_version < \"3.12\"",
+      "numpy>=1.24; extra == \"array\"",
+      "dask[array]; extra == \"dataframe\"",
+      "pandas>=2.0; extra == \"dataframe\"",
+      "pyarrow>=14.0.1; extra == \"dataframe\"",
+      "distributed<2025.12.1,>=2025.12.0; extra == \"distributed\"",
+      "bokeh>=3.1.0; extra == \"diagnostics\"",
+      "jinja2>=2.10.3; extra == \"diagnostics\"",
+      "dask[array,dataframe,diagnostics,distributed]; extra == \"complete\"",
+      "pyarrow>=14.0.1; extra == \"complete\"",
+      "lz4>=4.3.2; extra == \"complete\"",
+      "pandas[test]; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pytest-timeout; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "pre-commit; extra == \"test\""
+    ]
+  },
+  "dask-2025.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08c35a8146c05c93b34f83cf651009129c42ee71762da7ca452fb7308641c2b8",
+    "dependencies": {
+      "required": [
+        "click",
+        "cloudpickle",
+        "fsspec",
+        "packaging",
+        "partd",
+        "pyyaml",
+        "toolz",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.1",
+      "cloudpickle>=3.0.0",
+      "fsspec>=2021.09.0",
+      "packaging>=20.0",
+      "partd>=1.4.0",
+      "pyyaml>=5.3.1",
+      "toolz>=0.10.0",
+      "importlib_metadata>=4.13.0; python_version < \"3.12\"",
+      "numpy>=1.24; extra == \"array\"",
+      "dask[array]; extra == \"dataframe\"",
+      "pandas>=2.0; extra == \"dataframe\"",
+      "pyarrow>=14.0.1; extra == \"dataframe\"",
+      "distributed==2025.11.0; extra == \"distributed\"",
+      "bokeh>=3.1.0; extra == \"diagnostics\"",
+      "jinja2>=2.10.3; extra == \"diagnostics\"",
+      "dask[array,dataframe,diagnostics,distributed]; extra == \"complete\"",
+      "pyarrow>=14.0.1; extra == \"complete\"",
+      "lz4>=4.3.2; extra == \"complete\"",
+      "pandas[test]; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pytest-timeout; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "pre-commit; extra == \"test\""
+    ]
+  },
+  "dask-2025.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "86c0a4aecbed3eae938f13a52bcc3fdc35852cce34d7d701590c15850b92506e",
+    "dependencies": {
+      "required": [
+        "click",
+        "cloudpickle",
+        "fsspec",
+        "packaging",
+        "partd",
+        "pyyaml",
+        "toolz",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.1",
+      "cloudpickle>=3.0.0",
+      "fsspec>=2021.09.0",
+      "packaging>=20.0",
+      "partd>=1.4.0",
+      "pyyaml>=5.3.1",
+      "toolz>=0.10.0",
+      "importlib_metadata>=4.13.0; python_version < \"3.12\"",
+      "numpy>=1.24; extra == \"array\"",
+      "dask[array]; extra == \"dataframe\"",
+      "pandas>=2.0; extra == \"dataframe\"",
+      "pyarrow>=14.0.1; extra == \"dataframe\"",
+      "distributed==2025.10.0; extra == \"distributed\"",
+      "bokeh>=3.1.0; extra == \"diagnostics\"",
+      "jinja2>=2.10.3; extra == \"diagnostics\"",
+      "dask[array,dataframe,diagnostics,distributed]; extra == \"complete\"",
+      "pyarrow>=14.0.1; extra == \"complete\"",
+      "lz4>=4.3.2; extra == \"complete\"",
+      "pandas[test]; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pytest-timeout; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "pre-commit; extra == \"test\""
+    ]
+  },
+  "dask-2025.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a8a7dc933caaea2f47745a65a6ec93d9e616e12aab53b4f03ee161d31939110",
+    "dependencies": {
+      "required": [
+        "click",
+        "cloudpickle",
+        "fsspec",
+        "packaging",
+        "partd",
+        "pyyaml",
+        "toolz",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.1",
+      "cloudpickle>=3.0.0",
+      "fsspec>=2021.09.0",
+      "packaging>=20.0",
+      "partd>=1.4.0",
+      "pyyaml>=5.3.1",
+      "toolz>=0.10.0",
+      "importlib_metadata>=4.13.0; python_version < \"3.12\"",
+      "numpy>=1.24; extra == \"array\"",
+      "dask[array]; extra == \"dataframe\"",
+      "pandas>=2.0; extra == \"dataframe\"",
+      "pyarrow>=14.0.1; extra == \"dataframe\"",
+      "distributed==2025.9.1; extra == \"distributed\"",
+      "bokeh>=3.1.0; extra == \"diagnostics\"",
+      "jinja2>=2.10.3; extra == \"diagnostics\"",
+      "dask[array,dataframe,diagnostics,distributed]; extra == \"complete\"",
+      "pyarrow>=14.0.1; extra == \"complete\"",
+      "lz4>=4.3.2; extra == \"complete\"",
+      "pandas[test]; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pytest-timeout; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "pre-commit; extra == \"test\""
+    ]
+  },
+  "dask-2025.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb8d74476dda10c558234c02d1639386cc5c9cef0252245cf77043fb1f2495d1",
+    "dependencies": {
+      "required": [
+        "click",
+        "cloudpickle",
+        "fsspec",
+        "packaging",
+        "partd",
+        "pyyaml",
+        "toolz",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.1",
+      "cloudpickle>=3.0.0",
+      "fsspec>=2021.09.0",
+      "packaging>=20.0",
+      "partd>=1.4.0",
+      "pyyaml>=5.3.1",
+      "toolz>=0.10.0",
+      "importlib_metadata>=4.13.0; python_version < \"3.12\"",
+      "numpy>=1.24; extra == \"array\"",
+      "dask[array]; extra == \"dataframe\"",
+      "pandas>=2.0; extra == \"dataframe\"",
+      "pyarrow>=14.0.1; extra == \"dataframe\"",
+      "distributed==2025.9.0; extra == \"distributed\"",
+      "bokeh>=3.1.0; extra == \"diagnostics\"",
+      "jinja2>=2.10.3; extra == \"diagnostics\"",
+      "dask[array,dataframe,diagnostics,distributed]; extra == \"complete\"",
+      "pyarrow>=14.0.1; extra == \"complete\"",
+      "lz4>=4.3.2; extra == \"complete\"",
+      "pandas[test]; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pytest-timeout; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "pre-commit; extra == \"test\""
+    ]
+  }
+}

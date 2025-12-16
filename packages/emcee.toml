@@ -1,0 +1,12 @@
+# Package configuration for emcee
+conda_forge = "emcee"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "emcee-3.1.6-py2.py3-none-any.whl" },
+  { filename = "emcee-3.1.5-py2.py3-none-any.whl" },
+  { filename = "emcee-3.1.4-py2.py3-none-any.whl" },
+  { filename = "emcee-3.1.3-py2.py3-none-any.whl" },
+  { filename = "emcee-3.1.2-py2.py3-none-any.whl" },
+]

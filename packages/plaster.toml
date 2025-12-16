@@ -1,0 +1,12 @@
+# Package configuration for plaster
+conda_forge = "plaster"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "plaster-1.1.2-py2.py3-none-any.whl" },
+  { filename = "plaster-1.1.1-py2.py3-none-any.whl" },
+  { filename = "plaster-1.1-py2.py3-none-any.whl" },
+  { filename = "plaster-1.0-py2.py3-none-any.whl" },
+  { filename = "plaster-0.5-py2.py3-none-any.whl" },
+]

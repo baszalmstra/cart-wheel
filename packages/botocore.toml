@@ -1,0 +1,12 @@
+# Package configuration for botocore
+conda_forge = "botocore"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "botocore-1.42.9-py3-none-any.whl" },
+  { filename = "botocore-1.42.8-py3-none-any.whl" },
+  { filename = "botocore-1.42.7-py3-none-any.whl" },
+  { filename = "botocore-1.42.6-py3-none-any.whl" },
+  { filename = "botocore-1.42.5-py3-none-any.whl" },
+]

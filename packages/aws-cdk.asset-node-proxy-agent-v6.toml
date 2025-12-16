@@ -1,0 +1,10 @@
+# Package configuration for aws-cdk.asset-node-proxy-agent-v6
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_cdk.asset_node_proxy_agent_v6-2.1.0-py3-none-any.whl" },
+  { filename = "aws_cdk.asset_node_proxy_agent_v6-2.0.3-py3-none-any.whl" },
+  { filename = "aws_cdk.asset_node_proxy_agent_v6-2.0.1-py3-none-any.whl" },
+  { filename = "aws_cdk.asset_node_proxy_agent_v6-2.0.0-py3-none-any.whl" },
+]

@@ -1,0 +1,9 @@
+# Package configuration for fastimport
+conda_forge = "fastimport"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fastimport-0.9.16-py2.py3-none-any.whl" },
+  { filename = "fastimport-0.9.15-py2.py3-none-any.whl" },
+]

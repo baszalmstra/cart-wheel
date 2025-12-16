@@ -1,0 +1,12 @@
+# Package configuration for serpent
+conda_forge = "serpent"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "serpent-1.42-py3-none-any.whl" },
+  { filename = "serpent-1.41-py3-none-any.whl" },
+  { filename = "serpent-1.40-py3-none-any.whl" },
+  { filename = "serpent-1.30.2-py3-none-any.whl" },
+  { filename = "serpent-1.30.1-py3-none-any.whl" },
+]

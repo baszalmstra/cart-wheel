@@ -1,0 +1,12 @@
+# Package configuration for tokenize-rt
+conda_forge = "tokenize-rt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tokenize_rt-6.2.0-py2.py3-none-any.whl" },
+  { filename = "tokenize_rt-6.1.0-py2.py3-none-any.whl" },
+  { filename = "tokenize_rt-6.0.0-py2.py3-none-any.whl" },
+  { filename = "tokenize_rt-5.2.0-py2.py3-none-any.whl" },
+  { filename = "tokenize_rt-5.1.0-py2.py3-none-any.whl" },
+]

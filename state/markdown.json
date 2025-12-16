@@ -1,0 +1,104 @@
+{
+  "markdown-3.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b5b99d6951e2e4948d939255596523444c0e677c669700b1d17aa4a8a464cb7c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "coverage; extra == \"testing\"",
+      "pyyaml; extra == \"testing\"",
+      "mkdocs>=1.6; extra == \"docs\"",
+      "mkdocs-nature>=0.6; extra == \"docs\"",
+      "mdx_gh_links>=0.2; extra == \"docs\"",
+      "mkdocstrings[python]; extra == \"docs\"",
+      "mkdocs-gen-files; extra == \"docs\"",
+      "mkdocs-section-index; extra == \"docs\"",
+      "mkdocs-literate-nav; extra == \"docs\""
+    ]
+  },
+  "markdown-3.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f4d91ed810864ea88a6f32c07ba8bee1346c0cc1f6b1f9f6c822f2a9667d280",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=4.4; python_version < \"3.10\"",
+      "coverage; extra == \"testing\"",
+      "pyyaml; extra == \"testing\"",
+      "mkdocs>=1.6; extra == \"docs\"",
+      "mkdocs-nature>=0.6; extra == \"docs\"",
+      "mdx_gh_links>=0.2; extra == \"docs\"",
+      "mkdocstrings[python]; extra == \"docs\"",
+      "mkdocs-gen-files; extra == \"docs\"",
+      "mkdocs-section-index; extra == \"docs\"",
+      "mkdocs-literate-nav; extra == \"docs\""
+    ]
+  },
+  "markdown-3.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c83764dbd4e00bdd94d85a19b8d55ccca20fe35b2e678a1422b380324dd5f24",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=4.4; python_version < \"3.10\"",
+      "coverage; extra == \"testing\"",
+      "pyyaml; extra == \"testing\"",
+      "mkdocs>=1.6; extra == \"docs\"",
+      "mkdocs-nature>=0.6; extra == \"docs\"",
+      "mdx_gh_links>=0.2; extra == \"docs\"",
+      "mkdocstrings[python]; extra == \"docs\"",
+      "mkdocs-gen-files; extra == \"docs\"",
+      "mkdocs-section-index; extra == \"docs\"",
+      "mkdocs-literate-nav; extra == \"docs\""
+    ]
+  },
+  "markdown-3.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "46cc0c0f1e5211ab2e9d453582f0b28a1bfaf058a9f7d5c50386b99b588d8811",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=4.4; python_version < \"3.10\"",
+      "coverage; extra == \"testing\"",
+      "pyyaml; extra == \"testing\"",
+      "mkdocs>=1.6; extra == \"docs\"",
+      "mkdocs-nature>=0.6; extra == \"docs\"",
+      "mdx_gh_links>=0.2; extra == \"docs\"",
+      "mkdocstrings[python]; extra == \"docs\"",
+      "mkdocs-gen-files; extra == \"docs\"",
+      "mkdocs-section-index; extra == \"docs\"",
+      "mkdocs-literate-nav; extra == \"docs\""
+    ]
+  },
+  "markdown-3.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "794a929b79c5af141ef5ab0f2f642d0f7b1872981250230e72682346f7cc90dc",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=4.4; python_version < \"3.10\"",
+      "coverage; extra == \"testing\"",
+      "pyyaml; extra == \"testing\"",
+      "mkdocs>=1.6; extra == \"docs\"",
+      "mkdocs-nature>=0.6; extra == \"docs\"",
+      "mdx_gh_links>=0.2; extra == \"docs\"",
+      "mkdocstrings[python]; extra == \"docs\"",
+      "mkdocs-gen-files; extra == \"docs\"",
+      "mkdocs-section-index; extra == \"docs\"",
+      "mkdocs-literate-nav; extra == \"docs\""
+    ]
+  }
+}

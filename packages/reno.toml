@@ -1,0 +1,12 @@
+# Package configuration for reno
+conda_forge = "reno"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "reno-4.1.0-py3-none-any.whl" },
+  { filename = "reno-4.0.0-py3-none-any.whl" },
+  { filename = "reno-3.5.0-py3-none-any.whl" },
+  { filename = "reno-3.4.0-py3-none-any.whl" },
+  { filename = "reno-3.3.0-py3-none-any.whl" },
+]

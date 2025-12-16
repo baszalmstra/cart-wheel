@@ -1,0 +1,92 @@
+{
+  "sklearn_crfsuite-0.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9cb7a881969b6426d28ada69ada7eff4c789a3c508eafc32d39c0d078ce3bebc",
+    "dependencies": {
+      "required": [
+        "python-crfsuite",
+        "scikit-learn",
+        "tabulate",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "python-crfsuite >=0.9.7",
+      "scikit-learn >=0.24.0",
+      "tabulate >=0.4.2",
+      "tqdm >=2.0"
+    ]
+  },
+  "sklearn_crfsuite-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "29952c49c53213c7468743bd1ae8e908f858965c7bfc68a6512b580abde75d18",
+    "dependencies": {
+      "required": [
+        "python-crfsuite",
+        "scikit-learn",
+        "tabulate",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "python-crfsuite >=0.9.7",
+      "scikit-learn >=0.24.0",
+      "tabulate >=0.4.2",
+      "tqdm >=2.0"
+    ]
+  },
+  "sklearn_crfsuite-0.3.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6e9a42bc3de96941d5f7262335130955b8c380b1356147622368f385075705d9",
+    "dependencies": {
+      "required": [
+        "python-crfsuite",
+        "six",
+        "tabulate",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "python-crfsuite (>=0.8.3)",
+      "six",
+      "tabulate",
+      "tqdm (>=2.0)"
+    ]
+  },
+  "sklearn_crfsuite-0.3.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9615d4435e8543601a73801e6c594beed092fcd963a8483e403c9f645d7b5652",
+    "dependencies": {
+      "required": [
+        "python-crfsuite",
+        "six",
+        "tabulate",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "python-crfsuite (>=0.8.3)",
+      "six",
+      "tabulate",
+      "tqdm (>=2.0)"
+    ]
+  },
+  "sklearn_crfsuite-0.3.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bfa5ce010a4b16d77d3fbdd1717b0eeb5ce085a44bcb95453d020bc701c4ccc7",
+    "dependencies": {
+      "required": [
+        "python-crfsuite",
+        "six",
+        "tabulate",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "python-crfsuite (>=0.8.3)",
+      "six",
+      "tabulate",
+      "tqdm (>=2.0)"
+    ]
+  }
+}

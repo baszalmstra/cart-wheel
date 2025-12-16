@@ -1,0 +1,12 @@
+# Package configuration for hvsampledata
+conda_forge = "hvsampledata"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hvsampledata-0.1.4-py3-none-any.whl" },
+  { filename = "hvsampledata-0.1.3-py3-none-any.whl" },
+  { filename = "hvsampledata-0.1.2-py3-none-any.whl" },
+  { filename = "hvsampledata-0.1.1-py3-none-any.whl" },
+  { filename = "hvsampledata-0.1.0-py3-none-any.whl" },
+]

@@ -1,0 +1,146 @@
+{
+  "flashinfer_python-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b601293b72f9138bad173edc28df84b9f239a013be974e2e79d4ba98aeb38cf5",
+    "dependencies": {
+      "required": [
+        "apache-tvm-ffi",
+        "click",
+        "einops",
+        "ninja",
+        "numpy",
+        "nvidia-cudnn-frontend",
+        "nvidia-cutlass-dsl",
+        "nvidia-ml-py",
+        "packaging",
+        "requests",
+        "tabulate",
+        "torch",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "apache-tvm-ffi<0.2,>=0.1",
+      "click",
+      "einops",
+      "ninja",
+      "numpy",
+      "nvidia-cudnn-frontend>=1.13.0",
+      "nvidia-cutlass-dsl>=4.2.1",
+      "nvidia-ml-py",
+      "packaging>=24.2",
+      "requests",
+      "tabulate",
+      "torch",
+      "tqdm"
+    ]
+  },
+  "flashinfer_python-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "739c27d86d5ff4e3ad1ea41dcb90bda08e44c332549bf696f9c9c5c57f608e63",
+    "dependencies": {
+      "required": [
+        "apache-tvm-ffi",
+        "click",
+        "einops",
+        "ninja",
+        "numpy",
+        "nvidia-cudnn-frontend",
+        "nvidia-cutlass-dsl",
+        "nvidia-ml-py",
+        "packaging",
+        "requests",
+        "tabulate",
+        "torch",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "apache-tvm-ffi<0.2,>=0.1",
+      "click",
+      "einops",
+      "ninja",
+      "numpy",
+      "nvidia-cudnn-frontend>=1.13.0",
+      "nvidia-cutlass-dsl>=4.2.1",
+      "nvidia-ml-py",
+      "packaging>=24.2",
+      "requests",
+      "tabulate",
+      "torch",
+      "tqdm"
+    ]
+  },
+  "flashinfer_python-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec8434d21e53a0ec333734a3c61946a0f7d2f972e344aefa99ba5b87e63aa76a",
+    "dependencies": {
+      "required": [
+        "apache-tvm-ffi",
+        "click",
+        "einops",
+        "ninja",
+        "numpy",
+        "nvidia-cudnn-frontend",
+        "nvidia-cutlass-dsl",
+        "nvidia-ml-py",
+        "packaging",
+        "requests",
+        "tabulate",
+        "torch",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "apache-tvm-ffi<0.2,>=0.1",
+      "click",
+      "einops",
+      "ninja",
+      "numpy",
+      "nvidia-cudnn-frontend>=1.13.0",
+      "nvidia-cutlass-dsl>=4.2.1",
+      "nvidia-ml-py",
+      "packaging>=24.2",
+      "requests",
+      "tabulate",
+      "torch",
+      "tqdm"
+    ]
+  },
+  "flashinfer_python-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f02f13c616482617e7bee0031e5777a3328989a0b1842496ce273086f6a5aeab",
+    "dependencies": {
+      "required": [
+        "apache-tvm-ffi",
+        "click",
+        "einops",
+        "ninja",
+        "numpy",
+        "nvidia-cudnn-frontend",
+        "nvidia-cutlass-dsl",
+        "nvidia-ml-py",
+        "packaging",
+        "requests",
+        "tabulate",
+        "torch",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "apache-tvm-ffi<0.2,>=0.1",
+      "click",
+      "einops",
+      "ninja",
+      "numpy",
+      "nvidia-cudnn-frontend>=1.13.0",
+      "nvidia-cutlass-dsl>=4.2.1",
+      "nvidia-ml-py",
+      "packaging>=24.2",
+      "requests",
+      "tabulate",
+      "torch",
+      "tqdm"
+    ]
+  }
+}

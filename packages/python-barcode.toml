@@ -1,0 +1,12 @@
+# Package configuration for python-barcode
+conda_forge = "python-barcode"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_barcode-0.16.1-py3-none-any.whl" },
+  { filename = "python_barcode-0.16.0-py3-none-any.whl" },
+  { filename = "python_barcode-0.15.1-py3-none-any.whl" },
+  { filename = "python_barcode-0.14.0-py3-none-any.whl" },
+  { filename = "python_barcode-0.13.1-py3-none-any.whl" },
+]

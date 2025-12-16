@@ -1,0 +1,12 @@
+# Package configuration for mpl-sphinx-theme
+conda_forge = "mpl-sphinx-theme"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mpl_sphinx_theme-3.10.0-py3-none-any.whl" },
+  { filename = "mpl_sphinx_theme-3.9.0-py3-none-any.whl" },
+  { filename = "mpl_sphinx_theme-3.8.0-py3-none-any.whl" },
+  { filename = "mpl_sphinx_theme-3.7.1-py3-none-any.whl" },
+  { filename = "mpl_sphinx_theme-3.7.0-py3-none-any.whl" },
+]

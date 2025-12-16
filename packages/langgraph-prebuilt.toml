@@ -1,0 +1,12 @@
+# Package configuration for langgraph-prebuilt
+conda_forge = "langgraph-prebuilt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langgraph_prebuilt-1.0.5-py3-none-any.whl" },
+  { filename = "langgraph_prebuilt-1.0.4-py3-none-any.whl" },
+  { filename = "langgraph_prebuilt-1.0.3-py3-none-any.whl" },
+  { filename = "langgraph_prebuilt-1.0.2-py3-none-any.whl" },
+  { filename = "langgraph_prebuilt-1.0.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for xdoctest
+conda_forge = "xdoctest"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "xdoctest-1.3.0-py3-none-any.whl" },
+  { filename = "xdoctest-1.2.0-py3-none-any.whl" },
+  { filename = "xdoctest-1.1.6-py3-none-any.whl" },
+  { filename = "xdoctest-1.1.5-py3-none-any.whl" },
+  { filename = "xdoctest-1.1.4-py3-none-any.whl" },
+]

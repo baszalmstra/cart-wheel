@@ -1,0 +1,12 @@
+# Package configuration for types-pycurl
+conda_forge = "types-pycurl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_pycurl-7.45.7.20251101-py3-none-any.whl" },
+  { filename = "types_pycurl-7.45.7.20250926-py3-none-any.whl" },
+  { filename = "types_pycurl-7.45.6.20250801-py3-none-any.whl" },
+  { filename = "types_pycurl-7.45.6.20250309-py3-none-any.whl" },
+  { filename = "types_pycurl-7.45.4.20241216-py3-none-any.whl" },
+]

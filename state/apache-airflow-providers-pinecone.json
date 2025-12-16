@@ -1,0 +1,76 @@
+{
+  "apache_airflow_providers_pinecone-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "246a410be43172f417d91331e49469da10775253628cc6e43fa2d49177b9c7c4",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pinecone"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pinecone>=7.0.0"
+    ]
+  },
+  "apache_airflow_providers_pinecone-2.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b67653143fa185f7bf0e70935429c4ed4b0791d31465bd3def4fe1e530aaa0d0",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pinecone"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pinecone>=7.0.0"
+    ]
+  },
+  "apache_airflow_providers_pinecone-2.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44334256cb13494e55a42f9dd5f3cc28417721c80a52b4b3a33a54cafd93fe0a",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "pinecone"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "pinecone>=7.0.0"
+    ]
+  },
+  "apache_airflow_providers_pinecone-2.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7edab25757a3c4963754ce270b403d710c3db8f73be78e7e9cb0252786d43f81",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "pinecone"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "pinecone>=7.0.0"
+    ]
+  },
+  "apache_airflow_providers_pinecone-2.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d43423f5834425a976b17e445e7b1ab6ae281ebf048d7b936177d451765a92a6",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "pinecone"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "pinecone>=7.0.0"
+    ]
+  }
+}

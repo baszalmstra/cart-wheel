@@ -1,0 +1,12 @@
+# Package configuration for great-expectations
+conda_forge = "great-expectations"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "great_expectations-1.9.3-py3-none-any.whl" },
+  { filename = "great_expectations-1.9.2-py3-none-any.whl" },
+  { filename = "great_expectations-1.9.1-py3-none-any.whl" },
+  { filename = "great_expectations-1.9.0-py3-none-any.whl" },
+  { filename = "great_expectations-1.8.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for pydoc-markdown
+conda_forge = "pydoc-markdown"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydoc_markdown-4.8.2-py3-none-any.whl" },
+  { filename = "pydoc_markdown-4.8.1-py3-none-any.whl" },
+  { filename = "pydoc_markdown-4.8.0-py3-none-any.whl" },
+  { filename = "pydoc_markdown-4.7.0-py3-none-any.whl" },
+  { filename = "pydoc_markdown-4.6.4-py3-none-any.whl" },
+]

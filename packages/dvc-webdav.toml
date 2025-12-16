@@ -1,0 +1,12 @@
+# Package configuration for dvc-webdav
+conda_forge = "dvc-webdav"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dvc_webdav-3.0.1-py3-none-any.whl" },
+  { filename = "dvc_webdav-3.0.0-py3-none-any.whl" },
+  { filename = "dvc_webdav-2.19.1-py3-none-any.whl" },
+  { filename = "dvc_webdav-2.19.0-py3-none-any.whl" },
+  { filename = "dvc_webdav-0.0.1-py3-none-any.whl" },
+]

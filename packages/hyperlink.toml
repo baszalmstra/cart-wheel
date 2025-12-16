@@ -1,0 +1,12 @@
+# Package configuration for hyperlink
+conda_forge = "hyperlink"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hyperlink-21.0.0-py2.py3-none-any.whl" },
+  { filename = "hyperlink-20.0.1-py2.py3-none-any.whl" },
+  { filename = "hyperlink-20.0.0-py2.py3-none-any.whl" },
+  { filename = "hyperlink-19.0.0-py2.py3-none-any.whl" },
+  { filename = "hyperlink-18.0.0-py2.py3-none-any.whl" },
+]

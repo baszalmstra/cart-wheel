@@ -1,0 +1,105 @@
+{
+  "azure_datalake_store-1.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3772a2a247aaf9f5fa4b0f2cc0a0225072960cc245cfc8130588babb2b9fe705",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "cffi",
+      "requests>=2.20.0",
+      "azure-identity; extra == \"auth\""
+    ]
+  },
+  "azure_datalake_store-0.0.53-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a30c902a6e360aa47d7f69f086b426729784e71c536f330b691647a51dc42b2b",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "msal",
+        "requests",
+        "azure-nspkg",
+        "pathlib2",
+        "futures"
+      ]
+    },
+    "original_requirements": [
+      "cffi",
+      "msal (<2,>=1.16.0)",
+      "requests (>=2.20.0)",
+      "azure-nspkg ; python_version<'3.0'",
+      "pathlib2 ; python_version<'3.4'",
+      "futures ; python_version<='2.7'"
+    ]
+  },
+  "azure_datalake_store-0.0.52-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aaed72b9c856824aeab554f4dbe0ef2c6d0ff36700bdd8b93d8298793117c48e",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "adal",
+        "requests",
+        "azure-nspkg",
+        "pathlib2",
+        "futures"
+      ]
+    },
+    "original_requirements": [
+      "cffi",
+      "adal (>=0.4.2)",
+      "requests (>=2.20.0)",
+      "azure-nspkg ; python_version<'3.0'",
+      "pathlib2 ; python_version<'3.4'",
+      "futures ; python_version<='2.7'"
+    ]
+  },
+  "azure_datalake_store-0.0.51-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8f4f8d4fe85f6c3bec9642e2c0762b8ad0edae25252ae3115de38b74ee540d2",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "adal",
+        "requests",
+        "azure-nspkg",
+        "pathlib2",
+        "futures"
+      ]
+    },
+    "original_requirements": [
+      "cffi",
+      "adal (>=0.4.2)",
+      "requests (>=2.20.0)",
+      "azure-nspkg ; python_version<'3.0'",
+      "pathlib2 ; python_version<'3.4'",
+      "futures ; python_version<='2.7'"
+    ]
+  },
+  "azure_datalake_store-0.0.50-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8cca65c26df530fd3d012f90fb01401b384cf4982e23336ec760af712a719343",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "adal",
+        "requests",
+        "azure-nspkg",
+        "pathlib2",
+        "futures"
+      ]
+    },
+    "original_requirements": [
+      "cffi",
+      "adal (>=0.4.2)",
+      "requests (>=2.20.0)",
+      "azure-nspkg ; python_version<'3.0'",
+      "pathlib2 ; python_version<'3.4'",
+      "futures ; python_version<='2.7'"
+    ]
+  }
+}

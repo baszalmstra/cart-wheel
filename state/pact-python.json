@@ -1,0 +1,103 @@
+{
+  "pact_python-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2902fe74da09093269cf69d007227ae15db854abb22be7520ed643efa182b42e",
+    "dependencies": {
+      "required": [
+        "pact-python-ffi",
+        "typing-extensions",
+        "yarl"
+      ]
+    },
+    "original_requirements": [
+      "pact-python-ffi~=0.4.0",
+      "typing-extensions~=4.0; python_version < '3.13'",
+      "yarl~=1.0",
+      "click~=8.0; extra == 'compat-v2'",
+      "pact-python-cli~=2.5; extra == 'compat-v2'",
+      "psutil~=7.0; extra == 'compat-v2'",
+      "requests~=2.0; extra == 'compat-v2'",
+      "six~=1.0; extra == 'compat-v2'"
+    ]
+  },
+  "pact_python-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "66299ebf717fc6d8e1b6b92570457eb81abb5fe31c20fd5dfca1fac7e427b570",
+    "dependencies": {
+      "required": [
+        "pact-python-ffi",
+        "typing-extensions",
+        "yarl"
+      ]
+    },
+    "original_requirements": [
+      "pact-python-ffi~=0.4.0",
+      "typing-extensions~=4.0; python_version < '3.13'",
+      "yarl~=1.0",
+      "click~=8.0; extra == 'compat-v2'",
+      "pact-python-cli~=2.0; extra == 'compat-v2'",
+      "psutil~=7.0; extra == 'compat-v2'",
+      "requests~=2.0; extra == 'compat-v2'",
+      "six~=1.0; extra == 'compat-v2'"
+    ]
+  },
+  "pact_python-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "382e2dea3a8e4c956bd9fed6960e76678ba3f37c329581e3f83bc4a46b901c06",
+    "dependencies": {
+      "required": [
+        "pact-python-ffi",
+        "yarl"
+      ]
+    },
+    "original_requirements": [
+      "pact-python-ffi~=0.4.0",
+      "yarl~=1.0",
+      "click~=8.0; extra == 'compat-v2'",
+      "pact-python-cli~=2.0; extra == 'compat-v2'",
+      "psutil~=7.0; extra == 'compat-v2'",
+      "requests~=2.0; extra == 'compat-v2'",
+      "six~=1.0; extra == 'compat-v2'"
+    ]
+  },
+  "pact_python-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec35d5165a55647b7061112e05a3ef52a1c7aa82f015c132d1de1f44c8a6803f",
+    "dependencies": {
+      "required": [
+        "pact-python-ffi",
+        "yarl"
+      ]
+    },
+    "original_requirements": [
+      "pact-python-ffi~=0.4.0",
+      "yarl~=1.0",
+      "click~=8.0; extra == 'v2'",
+      "pact-python-cli~=2.0; extra == 'v2'",
+      "psutil~=7.0; extra == 'v2'",
+      "requests~=2.0; extra == 'v2'",
+      "six~=1.0; extra == 'v2'"
+    ]
+  },
+  "pact_python-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf9850f366a38d60576d0023bc34db20e6752b98e17f0912654f09483e866273",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "pact-python-ffi",
+        "yarl"
+      ]
+    },
+    "original_requirements": [
+      "cffi~=2.0",
+      "pact-python-ffi~=0.4.0",
+      "yarl~=1.0",
+      "click~=8.0; extra == 'v2'",
+      "pact-python-cli~=2.0; extra == 'v2'",
+      "psutil~=7.0; extra == 'v2'",
+      "requests~=2.0; extra == 'v2'",
+      "six~=1.0; extra == 'v2'"
+    ]
+  }
+}

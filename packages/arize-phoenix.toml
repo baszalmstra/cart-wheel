@@ -1,0 +1,12 @@
+# Package configuration for arize-phoenix
+conda_forge = "arize-phoenix"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "arize_phoenix-12.25.0-py3-none-any.whl" },
+  { filename = "arize_phoenix-12.24.0-py3-none-any.whl" },
+  { filename = "arize_phoenix-12.23.0-py3-none-any.whl" },
+  { filename = "arize_phoenix-12.19.0-py3-none-any.whl" },
+  { filename = "arize_phoenix-12.18.0-py3-none-any.whl" },
+]

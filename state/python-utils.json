@@ -1,0 +1,130 @@
+{
+  "python_utils-3.9.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0273d7363c7ad4b70999b2791d5ba6b55333d6f7a4e4c8b6b39fb82b5fab4613",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions>3.10.0.2",
+      "loguru; extra == \"loguru\"",
+      "mock; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "python-utils; extra == \"docs\"",
+      "ruff; extra == \"tests\"",
+      "pyright; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-mypy; extra == \"tests\"",
+      "pytest-asyncio; extra == \"tests\"",
+      "sphinx; extra == \"tests\"",
+      "types-setuptools; extra == \"tests\"",
+      "loguru; extra == \"tests\"",
+      "loguru-mypy; extra == \"tests\"",
+      "mypy-ipython; extra == \"tests\"",
+      "blessings; extra == \"tests\""
+    ]
+  },
+  "python_utils-3.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7719a5ef4bae7360d2a15c13b08c4e3c3e39b9df19bd16f119ff8d0cfeaafb7",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >3.10.0.2",
+      "mock ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "python-utils ; extra == 'docs'",
+      "loguru ; extra == 'loguru'",
+      "ruff ; extra == 'tests'",
+      "pyright ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-mypy ; extra == 'tests'",
+      "pytest-asyncio ; extra == 'tests'",
+      "sphinx ; extra == 'tests'",
+      "types-setuptools ; extra == 'tests'",
+      "loguru ; extra == 'tests'",
+      "loguru-mypy ; extra == 'tests'",
+      "mypy-ipython ; extra == 'tests'",
+      "blessings ; extra == 'tests'"
+    ]
+  },
+  "python_utils-3.8.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad0ccdbd6f856d015cace07f74828b9840b5c4072d9e868a7f6a14fd195555a8",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >3.10.0.2",
+      "mock ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "python-utils ; extra == 'docs'",
+      "loguru ; extra == 'loguru'",
+      "flake8 ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-mypy ; extra == 'tests'",
+      "pytest-asyncio ; extra == 'tests'",
+      "sphinx ; extra == 'tests'",
+      "types-setuptools ; extra == 'tests'",
+      "loguru ; extra == 'tests'"
+    ]
+  },
+  "python_utils-3.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "efdf31c8154667d7dc0317547c8e6d3b506c5d4b6e360e0c89662306262fc0ab",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >3.10.0.2",
+      "mock ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "python-utils ; extra == 'docs'",
+      "loguru ; extra == 'loguru'",
+      "flake8 ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-mypy ; extra == 'tests'",
+      "pytest-asyncio ; extra == 'tests'",
+      "sphinx ; extra == 'tests'",
+      "types-setuptools ; extra == 'tests'",
+      "loguru ; extra == 'tests'"
+    ]
+  },
+  "python_utils-3.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "957295c68ee0ebc4b13e8b0f57fdf768b3e3c1fb8503cb0417a24f4aa88cd1b8",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >3.10.0.2",
+      "mock ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "python-utils ; extra == 'docs'",
+      "loguru ; extra == 'loguru'",
+      "flake8 ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-mypy ; extra == 'tests'",
+      "pytest-asyncio ; extra == 'tests'",
+      "sphinx ; extra == 'tests'",
+      "types-setuptools ; extra == 'tests'",
+      "loguru ; extra == 'tests'"
+    ]
+  }
+}

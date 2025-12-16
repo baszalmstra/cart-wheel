@@ -1,0 +1,12 @@
+# Package configuration for premailer
+conda_forge = "premailer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "premailer-3.10.0-py2.py3-none-any.whl" },
+  { filename = "premailer-3.9.0-py2.py3-none-any.whl" },
+  { filename = "premailer-3.7.0-py2.py3-none-any.whl" },
+  { filename = "premailer-3.6.2-py2.py3-none-any.whl" },
+  { filename = "premailer-3.6.1-py2.py3-none-any.whl" },
+]

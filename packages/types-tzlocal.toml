@@ -1,0 +1,12 @@
+# Package configuration for types-tzlocal
+conda_forge = "types-tzlocal"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_tzlocal-5.1.0.1-py3-none-any.whl" },
+  { filename = "types_tzlocal-5.1.0.0-py3-none-any.whl" },
+  { filename = "types_tzlocal-5.0.1.1-py3-none-any.whl" },
+  { filename = "types_tzlocal-5.0.1.0-py3-none-any.whl" },
+  { filename = "types_tzlocal-5.0.0.0-py3-none-any.whl" },
+]

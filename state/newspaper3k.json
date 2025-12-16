@@ -1,0 +1,74 @@
+{
+  "newspaper3k-0.2.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44a864222633d3081113d1030615991c3dbba87239f6bbf59d91240f71a22e3e",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "pillow",
+        "pyyaml",
+        "cssselect",
+        "lxml",
+        "nltk",
+        "requests",
+        "feedparser",
+        "tldextract",
+        "feedfinder2",
+        "jieba3k",
+        "python-dateutil",
+        "tinysegmenter"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4 (>=4.4.1)",
+      "Pillow (>=3.3.0)",
+      "PyYAML (>=3.11)",
+      "cssselect (>=0.9.2)",
+      "lxml (>=3.6.0)",
+      "nltk (>=3.2.1)",
+      "requests (>=2.10.0)",
+      "feedparser (>=5.2.1)",
+      "tldextract (>=2.0.1)",
+      "feedfinder2 (>=0.0.4)",
+      "jieba3k (>=0.35.1)",
+      "python-dateutil (>=2.5.3)",
+      "tinysegmenter (==0.3)"
+    ]
+  },
+  "newspaper3k-0.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c2a03c94ceebb941ef8330bbbdea1428e3718a0384aa19de5e58991a37e08a68",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "pillow",
+        "pyyaml",
+        "cssselect",
+        "lxml",
+        "nltk",
+        "requests",
+        "feedparser",
+        "tldextract",
+        "feedfinder2",
+        "jieba3k",
+        "python-dateutil",
+        "tinysegmenter"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4 (>=4.4.1)",
+      "Pillow (>=3.3.0)",
+      "PyYAML (>=3.11)",
+      "cssselect (>=0.9.2)",
+      "lxml (>=3.6.0)",
+      "nltk (>=3.2.1)",
+      "requests (>=2.10.0)",
+      "feedparser (>=5.2.1)",
+      "tldextract (>=2.0.1)",
+      "feedfinder2 (>=0.0.4)",
+      "jieba3k (>=0.35.1)",
+      "python-dateutil (>=2.5.3)",
+      "tinysegmenter (==0.3)"
+    ]
+  }
+}

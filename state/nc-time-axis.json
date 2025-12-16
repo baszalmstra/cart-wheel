@@ -1,0 +1,128 @@
+{
+  "nc_time_axis-1.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "96a6fb28cede0d07998fcd666599f76e51a086e1929fbcbfb758c1d0f3e7b0d1",
+    "dependencies": {
+      "required": [
+        "cftime",
+        "matplotlib",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "cftime (>=1.5)",
+      "matplotlib",
+      "numpy",
+      "pre-commit ; extra == 'all'",
+      "ipython ; extra == 'all'",
+      "numpydoc ; extra == 'all'",
+      "sphinx ; extra == 'all'",
+      "sphinx-rtd-theme ; extra == 'all'",
+      "codecov ; extra == 'all'",
+      "pytest (>=6.0) ; extra == 'all'",
+      "pytest-cov ; extra == 'all'",
+      "ipython ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "codecov ; extra == 'test'",
+      "pytest (>=6.0) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "nc_time_axis-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f39dc5faca2a7ec9952904b5a5b88ee8dadbf41c7a2e42584eef53a1b8ee4577",
+    "dependencies": {
+      "required": [
+        "cftime",
+        "matplotlib",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "cftime (>=1.5)",
+      "matplotlib",
+      "numpy",
+      "pre-commit ; extra == 'all'",
+      "ipython ; extra == 'all'",
+      "numpydoc ; extra == 'all'",
+      "sphinx ; extra == 'all'",
+      "sphinx-rtd-theme ; extra == 'all'",
+      "codecov ; extra == 'all'",
+      "pytest (>=6.0) ; extra == 'all'",
+      "pytest-cov ; extra == 'all'",
+      "ipython ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "codecov ; extra == 'test'",
+      "pytest (>=6.0) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "nc_time_axis-1.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da907626779793df1b4569ced4d7a81914c8c3e036501f1739dc82aac0e8a173",
+    "dependencies": {
+      "required": [
+        "cftime",
+        "matplotlib",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "cftime (>=1.5)",
+      "matplotlib",
+      "numpy",
+      "pre-commit ; extra == 'all'",
+      "codecov ; extra == 'all'",
+      "pytest (>=6.0) ; extra == 'all'",
+      "pytest-cov ; extra == 'all'",
+      "codecov ; extra == 'test'",
+      "pytest (>=6.0) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "nc_time_axis-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58a6cd61b8ace02fd44b576fa6c0a9a7794df4af5aaa59d18dfffd336ad10ecb",
+    "dependencies": {
+      "required": [
+        "cftime",
+        "matplotlib",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "cftime",
+      "matplotlib",
+      "numpy",
+      "pre-commit ; extra == 'all'",
+      "codecov ; extra == 'all'",
+      "pytest (>=6.0) ; extra == 'all'",
+      "pytest-cov ; extra == 'all'",
+      "codecov ; extra == 'test'",
+      "pytest (>=6.0) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "nc_time_axis-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65394c1c795c81e6b5b1f1cf6db4e62f3ab56402d70c0dc9adade3cf5993d78f",
+    "dependencies": {
+      "required": [
+        "cftime",
+        "matplotlib",
+        "numpy",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "cftime",
+      "matplotlib",
+      "numpy",
+      "six"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "apache_airflow_providers_opensearch-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "95200643ef98ad38c0affe5ab858cfb930f14e60623598fc0a67f4f1b2867ff1",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "opensearch-py"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "opensearch-py>=2.2.0"
+    ]
+  },
+  "apache_airflow_providers_opensearch-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fcb15c57e56c7ebd48fe71329965489513a2bb79f8b84ba83b2b1eee69204e00",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "opensearch-py"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "opensearch-py>=2.2.0"
+    ]
+  },
+  "apache_airflow_providers_opensearch-1.7.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fceacc5c5099ea5e8bd0aad0bfa7f2860ba72acff86004e6792444c58b570d4d",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "opensearch-py"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "opensearch-py>=2.2.0"
+    ]
+  },
+  "apache_airflow_providers_opensearch-1.7.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ebac4571b8be89238b169be294b428902e6b87e212950d3b208961354dbe55c",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "opensearch-py"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "opensearch-py>=2.2.0"
+    ]
+  },
+  "apache_airflow_providers_opensearch-1.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "25899128c785b0355971ccc039c3063778b99a78bfa661b2c692f5feca85f025",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "opensearch-py"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "opensearch-py>=2.2.0"
+    ]
+  }
+}

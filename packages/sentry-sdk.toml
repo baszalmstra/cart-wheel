@@ -1,0 +1,12 @@
+# Package configuration for sentry-sdk
+conda_forge = "sentry-sdk"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sentry_sdk-2.47.0-py2.py3-none-any.whl" },
+  { filename = "sentry_sdk-2.46.0-py2.py3-none-any.whl" },
+  { filename = "sentry_sdk-2.45.0-py2.py3-none-any.whl" },
+  { filename = "sentry_sdk-2.44.0-py2.py3-none-any.whl" },
+  { filename = "sentry_sdk-2.43.0-py2.py3-none-any.whl" },
+]

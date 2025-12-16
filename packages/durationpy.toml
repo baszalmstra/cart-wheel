@@ -1,0 +1,10 @@
+# Package configuration for durationpy
+conda_forge = "durationpy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "durationpy-0.10-py3-none-any.whl" },
+  { filename = "durationpy-0.9-py3-none-any.whl" },
+  { filename = "durationpy-0.6-py3-none-any.whl" },
+]

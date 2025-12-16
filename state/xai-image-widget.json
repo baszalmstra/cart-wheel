@@ -1,0 +1,25 @@
+{
+  "xai_image_widget-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50324efcbaf8a5da406f4cdcc017cd00f41a183647b12d72722748ba87fc8939",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets (>=7.0.0)",
+      "sphinx (>=1.5) ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "nbsphinx (<0.4.0,>=0.2.13) ; extra == 'docs'",
+      "jupyter-sphinx ; extra == 'docs'",
+      "nbsphinx-link ; extra == 'docs'",
+      "pytest-check-links ; extra == 'docs'",
+      "pypandoc ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "nbval ; extra == 'test'"
+    ]
+  }
+}

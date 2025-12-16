@@ -1,0 +1,12 @@
+# Package configuration for sphinx-togglebutton
+conda_forge = "sphinx-togglebutton"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_togglebutton-0.3.2-py3-none-any.whl" },
+  { filename = "sphinx_togglebutton-0.3.1-py3-none-any.whl" },
+  { filename = "sphinx_togglebutton-0.3.0-py3-none-any.whl" },
+  { filename = "sphinx_togglebutton-0.2.3-py3-none-any.whl" },
+  { filename = "sphinx_togglebutton-0.2.2-py3-none-any.whl" },
+]

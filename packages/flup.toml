@@ -1,0 +1,8 @@
+# Package configuration for flup
+conda_forge = "flup"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flup-1.0.3-py3-none-any.whl" },
+]

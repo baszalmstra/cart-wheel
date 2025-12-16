@@ -1,0 +1,12 @@
+# Package configuration for pip
+conda_forge = "ansible"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pip-25.3-py3-none-any.whl" },
+  { filename = "pip-25.2-py3-none-any.whl" },
+  { filename = "pip-25.1.1-py3-none-any.whl" },
+  { filename = "pip-25.1-py3-none-any.whl" },
+  { filename = "pip-25.0.1-py3-none-any.whl" },
+]

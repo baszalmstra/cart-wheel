@@ -1,0 +1,12 @@
+# Package configuration for pdoc3
+conda_forge = "pdoc3"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pdoc3-0.11.6-py3-none-any.whl" },
+  { filename = "pdoc3-0.11.5-py3-none-any.whl" },
+  { filename = "pdoc3-0.11.4-py3-none-any.whl" },
+  { filename = "pdoc3-0.11.3-py3-none-any.whl" },
+  { filename = "pdoc3-0.11.2-py3-none-any.whl" },
+]

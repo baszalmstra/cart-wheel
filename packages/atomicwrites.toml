@@ -1,0 +1,12 @@
+# Package configuration for atomicwrites
+conda_forge = "atomicwrites"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "atomicwrites-1.4.0-py2.py3-none-any.whl" },
+  { filename = "atomicwrites-1.3.0-py2.py3-none-any.whl" },
+  { filename = "atomicwrites-1.2.1-py2.py3-none-any.whl" },
+  { filename = "atomicwrites-1.2.0-py2.py3-none-any.whl" },
+  { filename = "atomicwrites-1.1.5-py2.py3-none-any.whl" },
+]

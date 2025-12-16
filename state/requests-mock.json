@@ -1,0 +1,104 @@
+{
+  "requests_mock-1.12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1e37054004cdd5e56c84454cc7df12b25f90f382159087f4b6915aaeef39563",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests <3,>=2.22",
+      "fixtures ; extra == 'fixture'"
+    ]
+  },
+  "requests_mock-1.11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f7fae383f228633f6bececebdab236c478ace2284d6292c6e7e2867b9ab74d15",
+    "dependencies": {
+      "required": [
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "requests (<3,>=2.3)",
+      "six",
+      "fixtures ; extra == 'fixture'",
+      "fixtures ; extra == 'test'",
+      "purl ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "sphinx ; extra == 'test'",
+      "testtools ; extra == 'test'",
+      "requests-futures ; extra == 'test'",
+      "mock ; (( python_version < '3.3')) and extra == 'test'"
+    ]
+  },
+  "requests_mock-1.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2fdbb637ad17ee15c06f33d31169e71bf9fe2bdb7bc9da26185be0dd8d842699",
+    "dependencies": {
+      "required": [
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "requests (<3,>=2.3)",
+      "six",
+      "fixtures ; extra == 'fixture'",
+      "fixtures ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "purl ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "sphinx ; extra == 'test'",
+      "testrepository (>=0.0.18) ; extra == 'test'",
+      "testtools ; extra == 'test'",
+      "requests-futures ; extra == 'test'"
+    ]
+  },
+  "requests_mock-1.9.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0a2d38a117c08bb78939ec163522976ad59a6b7fdd82b709e23bb98004a44970",
+    "dependencies": {
+      "required": [
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "requests (<3,>=2.3)",
+      "six",
+      "fixtures ; extra == 'fixture'",
+      "fixtures ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "purl ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "sphinx ; extra == 'test'",
+      "testrepository (>=0.0.18) ; extra == 'test'",
+      "testtools ; extra == 'test'"
+    ]
+  },
+  "requests_mock-1.9.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c8ef0254c14a84744be146e9799dc13ebc4f6186058112d9aeed96b131b58e2",
+    "dependencies": {
+      "required": [
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "requests (<3,>=2.3)",
+      "six",
+      "fixtures ; extra == 'fixture'",
+      "fixtures ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "purl ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "sphinx ; extra == 'test'",
+      "testrepository (>=0.0.18) ; extra == 'test'",
+      "testtools ; extra == 'test'"
+    ]
+  }
+}

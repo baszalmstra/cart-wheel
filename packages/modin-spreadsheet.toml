@@ -1,0 +1,9 @@
+# Package configuration for modin-spreadsheet
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "modin_spreadsheet-0.1.2-py2.py3-none-any.whl" },
+  { filename = "modin_spreadsheet-0.1.1-py2.py3-none-any.whl" },
+  { filename = "modin_spreadsheet-0.1.0-py2.py3-none-any.whl" },
+]

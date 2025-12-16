@@ -1,0 +1,130 @@
+{
+  "jaraco.path-3.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dfe30433a9e37fb359ca91a62513266d48ed60dcb35e91a12ac0fb0d06367183",
+    "dependencies": {
+      "required": [
+        "pyobjc"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc; platform_system == \"Darwin\" and platform_python_implementation != \"PyPy\"",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "jaraco.windows; platform_system == \"Windows\" and extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "jaraco.path-3.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8bd6637c0f0e55c3830f15dffde25254b763f64f93176f7b1beefcec77e5c70",
+    "dependencies": {
+      "required": [
+        "pyobjc"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc ; platform_system == \"Darwin\" and platform_python_implementation != \"PyPy\"",
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "jaraco.windows ; (platform_system == \"Windows\") and extra == 'test'",
+      "pytest-mypy ; extra == 'type'"
+    ]
+  },
+  "jaraco.path-3.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "12af6d2eebff5970471390281692b35e1d9ef55caf8033f8ed38c297fe704345",
+    "dependencies": {
+      "required": [
+        "pyobjc"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc ; platform_system == \"Darwin\" and platform_python_implementation != \"PyPy\"",
+      "sphinx (>=3.5) ; extra == 'docs'",
+      "jaraco.packaging (>=9.3) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=2.2) ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "jaraco.windows ; (platform_system == \"Windows\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.path-3.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7800ba4cde74d5de2d9e735448e7fc88206059b2628103535e9bb79fc4ba3554",
+    "dependencies": {
+      "required": [
+        "pyobjc",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc ; platform_system == \"Darwin\" and platform_python_implementation != \"PyPy\"",
+      "typing-extensions (>=3.6.4) ; python_version < \"3.8\"",
+      "sphinx (>=3.5) ; extra == 'docs'",
+      "jaraco.packaging (>=9) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=1.3) ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "jaraco.windows ; (platform_system == \"Windows\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.path-3.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7cccc4e042259a7a5f3e3541592c33b627d9c44bf1ae275773b26d2d5aa590c8",
+    "dependencies": {
+      "required": [
+        "pyobjc",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc ; platform_system == \"Darwin\" and platform_python_implementation != \"PyPy\"",
+      "typing-extensions (>=3.6.4) ; python_version < \"3.8\"",
+      "sphinx (>=3.5) ; extra == 'docs'",
+      "jaraco.packaging (>=9) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "flake8 (<5) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=1.3) ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "jaraco.windows ; (platform_system == \"Windows\") and extra == 'testing'",
+      "pytest-flake8 ; (python_version < \"3.12\") and extra == 'testing'"
+    ]
+  }
+}

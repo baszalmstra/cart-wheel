@@ -1,0 +1,122 @@
+{
+  "parver-0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2281b187276c8e8e3c15634f62287b2fb6fe0efe3010f739a6bd1e45fa2bf2b2",
+    "dependencies": {
+      "required": [
+        "arpeggio",
+        "attrs",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "arpeggio >=1.7",
+      "attrs >=19.2",
+      "typing-extensions ; python_version < \"3.10\"",
+      "sphinx ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "doc8 ; extra == 'docstest'",
+      "flake8 ; extra == 'pep8test'",
+      "pep8-naming ; extra == 'pep8test'",
+      "pytest ; extra == 'test'",
+      "hypothesis ; extra == 'test'",
+      "pretend ; extra == 'test'"
+    ]
+  },
+  "parver-0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c66d3347a4858643875ef959d8ba7a269d5964bfb690b0dd998b8f39da930be2",
+    "dependencies": {
+      "required": [
+        "arpeggio",
+        "attrs",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "arpeggio (>=1.7)",
+      "attrs (>=19.2)",
+      "typing-extensions ; python_version < \"3.10\"",
+      "sphinx ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "doc8 ; extra == 'docstest'",
+      "flake8 ; extra == 'pep8test'",
+      "pep8-naming ; extra == 'pep8test'",
+      "pytest ; extra == 'test'",
+      "hypothesis ; extra == 'test'",
+      "pretend ; extra == 'test'"
+    ]
+  },
+  "parver-0.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41a548c51b006a2f2522b54293cbfd2514bffa10774ece8430c9964a20cbd8b4",
+    "dependencies": {
+      "required": [
+        "arpeggio",
+        "attrs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "arpeggio (~=1.7)",
+      "attrs (>=19.2)",
+      "six (~=1.13)",
+      "doc8 ; extra == 'docstest'",
+      "sphinx ; extra == 'docstest'",
+      "sphinx-rtd-theme ; extra == 'docstest'",
+      "flake8 ; extra == 'pep8test'",
+      "pep8-naming ; extra == 'pep8test'",
+      "pytest ; extra == 'test'",
+      "hypothesis ; extra == 'test'",
+      "pretend ; extra == 'test'"
+    ]
+  },
+  "parver-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb9d19637c17819e276b5cf04e2dbfb81c4e2136da8873cc70dcd0e4fd3d14a3",
+    "dependencies": {
+      "required": [
+        "arpeggio",
+        "attrs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "arpeggio (~=1.7)",
+      "attrs (>=17.4.0)",
+      "six (~=1.13)",
+      "doc8 ; extra == 'docstest'",
+      "sphinx ; extra == 'docstest'",
+      "sphinx-rtd-theme ; extra == 'docstest'",
+      "flake8 ; extra == 'pep8test'",
+      "pep8-naming ; extra == 'pep8test'",
+      "pytest ; extra == 'test'",
+      "hypothesis ; extra == 'test'",
+      "pretend ; extra == 'test'"
+    ]
+  },
+  "parver-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72d056b8f8883ac90eef5554a9c8a47fac39d3b66479f3d2c8d5bc21b849cdba",
+    "dependencies": {
+      "required": [
+        "arpeggio",
+        "attrs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "arpeggio (~=1.7)",
+      "attrs (>=17.4.0)",
+      "six (~=1.9)",
+      "doc8 ; extra == 'docstest'",
+      "sphinx ; extra == 'docstest'",
+      "sphinx-rtd-theme ; extra == 'docstest'",
+      "flake8 ; extra == 'pep8test'",
+      "pep8-naming ; extra == 'pep8test'",
+      "pytest (~=3.5) ; extra == 'test'",
+      "hypothesis (~=3.56) ; extra == 'test'",
+      "pretend (~=1.0) ; extra == 'test'"
+    ]
+  }
+}

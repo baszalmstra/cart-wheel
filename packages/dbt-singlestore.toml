@@ -1,0 +1,11 @@
+# Package configuration for dbt-singlestore
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dbt_singlestore-1.9.1-py3-none-any.whl" },
+  { filename = "dbt_singlestore-1.9.0-py2.py3-none-any.whl" },
+  { filename = "dbt_singlestore-1.8.3-py2.py3-none-any.whl" },
+  { filename = "dbt_singlestore-1.8.2-py2.py3-none-any.whl" },
+  { filename = "dbt_singlestore-1.8.1-py2.py3-none-any.whl" },
+]

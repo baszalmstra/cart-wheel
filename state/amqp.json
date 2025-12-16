@@ -1,0 +1,72 @@
+{
+  "amqp-5.3.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:42.941465+00:00",
+    "conda_file": "amqp-5.3.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "vine"
+      ]
+    },
+    "original_requirements": [
+      "vine<6.0.0,>=5.0.0"
+    ]
+  },
+  "amqp-5.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:43.020074+00:00",
+    "conda_file": "amqp-5.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "vine"
+      ]
+    },
+    "original_requirements": [
+      "vine<6.0.0,>=5.0.0"
+    ]
+  },
+  "amqp-5.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:42.986232+00:00",
+    "conda_file": "amqp-5.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "vine"
+      ]
+    },
+    "original_requirements": [
+      "vine (<6.0.0,>=5.0.0)"
+    ]
+  },
+  "amqp-5.1.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:43.163903+00:00",
+    "conda_file": "amqp-5.1.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "vine"
+      ]
+    },
+    "original_requirements": [
+      "vine (>=5.0.0)"
+    ]
+  },
+  "amqp-5.1.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:43.332597+00:00",
+    "conda_file": "amqp-5.1.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "vine"
+      ]
+    },
+    "original_requirements": [
+      "vine (>=5.0.0)"
+    ]
+  }
+}

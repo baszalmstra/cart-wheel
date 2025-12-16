@@ -1,0 +1,12 @@
+# Package configuration for dash-mantine-components
+conda_forge = "dash-mantine-components"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dash_mantine_components-2.4.0-py3-none-any.whl" },
+  { filename = "dash_mantine_components-2.3.0-py3-none-any.whl" },
+  { filename = "dash_mantine_components-2.2.1-py3-none-any.whl" },
+  { filename = "dash_mantine_components-2.2.0-py3-none-any.whl" },
+  { filename = "dash_mantine_components-2.1.0-py3-none-any.whl" },
+]

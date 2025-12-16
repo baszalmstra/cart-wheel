@@ -1,0 +1,97 @@
+{
+  "pytest_test_utils-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a291bfb00b81edfa7288e83a62c01791cda1c59b2d08549c692aaaf80801a4e",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=3.9",
+      "mypy ; extra == 'dev'",
+      "pytest-test-utils[tests] ; extra == 'dev'",
+      "coverage >=6 ; extra == 'tests'"
+    ]
+  },
+  "pytest_test_utils-0.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "184c44347f0698c0abbd752dc81d63450db6e3a102d12e352fbc0c2c00eb066a",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=5)",
+      "pytest (==7) ; extra == 'dev'",
+      "pytest-sugar ; extra == 'dev'",
+      "coverage (==6) ; extra == 'dev'",
+      "pylint (==2.14.3) ; extra == 'dev'",
+      "mypy (==0.961) ; extra == 'dev'",
+      "pytest (==7) ; extra == 'tests'",
+      "pytest-sugar ; extra == 'tests'",
+      "coverage (==6) ; extra == 'tests'"
+    ]
+  },
+  "pytest_test_utils-0.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "555e1f60697302b9db2be765ef798076121cb557d2deb1247b0fc7c174d296ed",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=5)",
+      "pytest (==7) ; extra == 'dev'",
+      "pytest-sugar ; extra == 'dev'",
+      "coverage (==6) ; extra == 'dev'",
+      "pylint (==2.14.3) ; extra == 'dev'",
+      "mypy (==0.961) ; extra == 'dev'",
+      "pytest (==7) ; extra == 'tests'",
+      "pytest-sugar ; extra == 'tests'",
+      "coverage (==6) ; extra == 'tests'"
+    ]
+  },
+  "pytest_test_utils-0.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "abd0dde1228e1eba103c2f6a474f1ab24a9d500799b1b1314a9725b20b3137db",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=5)",
+      "pytest (==6.2.5) ; extra == 'dev'",
+      "pytest-sugar (==0.9.4) ; extra == 'dev'",
+      "coverage (==6.2) ; extra == 'dev'",
+      "pylint (==2.11.1) ; extra == 'dev'",
+      "mypy (==0.910) ; extra == 'dev'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-sugar (==0.9.4) ; extra == 'tests'",
+      "coverage (==6.2) ; extra == 'tests'"
+    ]
+  },
+  "pytest_test_utils-0.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "92c6380846e4bc8d9acb80eb0b084ccc3377a30961ebe31502cbe753d34a372e",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=5)",
+      "pytest (==6.2.5) ; extra == 'dev'",
+      "pytest-sugar (==0.9.4) ; extra == 'dev'",
+      "coverage (==6.2) ; extra == 'dev'",
+      "pylint (==2.11.1) ; extra == 'dev'",
+      "mypy (==0.910) ; extra == 'dev'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-sugar (==0.9.4) ; extra == 'tests'",
+      "coverage (==6.2) ; extra == 'tests'"
+    ]
+  }
+}

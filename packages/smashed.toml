@@ -1,0 +1,11 @@
+# Package configuration for smashed
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "smashed-0.21.5-py3-none-any.whl" },
+  { filename = "smashed-0.21.4-py3-none-any.whl" },
+  { filename = "smashed-0.21.3-py3-none-any.whl" },
+  { filename = "smashed-0.21.2-py3-none-any.whl" },
+  { filename = "smashed-0.21.1-py3-none-any.whl" },
+]

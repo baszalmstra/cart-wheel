@@ -1,0 +1,77 @@
+{
+  "mock-5.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ba87f72ca0e915175596069dbbcc7c75af7b5e9b9bc107ad6349ede0819982f",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx; extra == \"docs\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "twine; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "blurb; extra == \"build\""
+    ]
+  },
+  "mock-5.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18c694e5ae8a208cdb3d2c20a993ca1a7b0efa258c247a1e565150f477f83744",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "twine ; extra == 'build'",
+      "wheel ; extra == 'build'",
+      "blurb ; extra == 'build'",
+      "sphinx ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "mock-5.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e0bc5ba78b8db3667ad636d964eb963dc97a59f04c6f6214c5f0e4a8f726c56",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "twine ; extra == 'build'",
+      "wheel ; extra == 'build'",
+      "blurb ; extra == 'build'",
+      "sphinx ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "mock-5.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c41cfb1e99ba5d341fbcc5308836e7d7c9786d302f995b2c271ce2144dece9eb",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "twine ; extra == 'build'",
+      "wheel ; extra == 'build'",
+      "blurb ; extra == 'build'",
+      "sphinx ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "mock-5.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "335ef0bf9bcd27505c0c1720d4eac2783f18d07d6f45ac49542b57885a1996dd",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "twine ; extra == 'build'",
+      "wheel ; extra == 'build'",
+      "blurb ; extra == 'build'",
+      "sphinx ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  }
+}

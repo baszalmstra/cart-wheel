@@ -1,0 +1,11 @@
+# Package configuration for fastcoref
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fastcoref-1.7.1-py3-none-any.whl" },
+  { filename = "fastcoref-1.7.0-py3-none-any.whl" },
+  { filename = "fastcoref-1.6.2-py3-none-any.whl" },
+  { filename = "fastcoref-1.6.1-py3-none-any.whl" },
+  { filename = "fastcoref-1.6.0-py3-none-any.whl" },
+]

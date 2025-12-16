@@ -1,0 +1,8 @@
+# Package configuration for setuptools-git
+conda_forge = "setuptools-git"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "setuptools_git-1.2-py2.py3-none-any.whl" },
+]

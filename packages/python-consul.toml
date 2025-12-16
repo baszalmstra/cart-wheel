@@ -1,0 +1,9 @@
+# Package configuration for python-consul
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_consul-1.1.0-py2.py3-none-any.whl" },
+  { filename = "python_consul-1.0.0-py2.py3-none-any.whl" },
+  { filename = "python_consul-0.7.2-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for timm
+conda_forge = "timm"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "timm-1.0.22-py3-none-any.whl" },
+  { filename = "timm-1.0.21-py3-none-any.whl" },
+  { filename = "timm-1.0.20-py3-none-any.whl" },
+  { filename = "timm-1.0.19-py3-none-any.whl" },
+  { filename = "timm-1.0.18-py3-none-any.whl" },
+]

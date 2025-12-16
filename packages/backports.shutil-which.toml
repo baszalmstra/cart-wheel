@@ -1,0 +1,8 @@
+# Package configuration for backports.shutil-which
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "backports.shutil_which-3.5.2-py2.py3-none-any.whl" },
+  { filename = "backports.shutil_which-3.5.1-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,79 @@
+{
+  "mdformat_tables-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94cd86126141b2adc3b04c08d1441eb1272b36c39146bab078249a41c7240a9a",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "wcwidth"
+      ]
+    },
+    "original_requirements": [
+      "mdformat>=0.7.5,<0.8.0",
+      "wcwidth>=0.2.13",
+      "pytest~=6.0 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_tables-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "981f3dc7350027f78e3fd6a5fe8a16e123eec423af2d140e588d855751501019",
+    "dependencies": {
+      "required": [
+        "mdformat"
+      ]
+    },
+    "original_requirements": [
+      "mdformat>=0.7.5,<0.8.0",
+      "pytest~=6.0 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_tables-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "897c689b146140a6d71c7af9513b64a9760217eccdc3a3bf954b462d138f1638",
+    "dependencies": {
+      "required": [
+        "mdformat"
+      ]
+    },
+    "original_requirements": [
+      "mdformat>=0.7.0,<0.8.0",
+      "pytest~=6.0 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_tables-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cce24ca56a2a860f15475084b159bf71330480cb64afcf75a0f7411d62aeeaa9",
+    "dependencies": {
+      "required": [
+        "mdformat"
+      ]
+    },
+    "original_requirements": [
+      "mdformat>=0.6.0,<0.7.0",
+      "pytest~=6.0 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_tables-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8bae30f230d32aaa0315581314deed87265e963c9bf7cf77deed2796c0ccfa57",
+    "dependencies": {
+      "required": [
+        "mdformat"
+      ]
+    },
+    "original_requirements": [
+      "mdformat>=0.3.2,<0.6.0",
+      "pytest~=6.0 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  }
+}

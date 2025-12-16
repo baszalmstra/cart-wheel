@@ -1,0 +1,112 @@
+{
+  "ploomber_core-0.2.27-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a72294d40b90ff9ad5cb9d693301567a2f24c3ffe3515a1acba83adf193169c4",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "posthog",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "posthog>=3.0",
+      "importlib-metadata; python_version < \"3.8\"",
+      "pytest; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "invoke; extra == \"dev\"",
+      "pkgmt; extra == \"dev\"",
+      "pywin32; platform_system == \"Windows\" and extra == \"dev\""
+    ]
+  },
+  "ploomber_core-0.2.26-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0b8d54f9973ba5d42b7f6ac75b23e5533bbbfd778dc63c5d825615c004b19a9",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "posthog",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "posthog",
+      "importlib-metadata; python_version < \"3.8\"",
+      "pytest; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "invoke; extra == \"dev\"",
+      "pkgmt; extra == \"dev\"",
+      "pywin32; platform_system == \"Windows\" and extra == \"dev\""
+    ]
+  },
+  "ploomber_core-0.2.25-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3bcfbca4b2102931528c23d5cd752a8d0cba836c20b9cc5a56227c11c462db44",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "posthog",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "posthog",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "pytest ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "invoke ; extra == 'dev'",
+      "pkgmt ; extra == 'dev'",
+      "pywin32 ; (platform_system == \"Windows\") and extra == 'dev'"
+    ]
+  },
+  "ploomber_core-0.2.24-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e1d680d42c3b2d1f0f1932b0aecca1116659f3df71d1064be462ec3e878c7ce",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "posthog",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "posthog",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "pytest ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "invoke ; extra == 'dev'",
+      "pkgmt ; extra == 'dev'",
+      "pywin32 ; (platform_system == \"Windows\") and extra == 'dev'"
+    ]
+  },
+  "ploomber_core-0.2.23-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24742ed4623891072e870c298c7286f07523b3d2d198186cb1ae0e152d6b800d",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "posthog",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "posthog",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "pytest ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "invoke ; extra == 'dev'",
+      "pkgmt ; extra == 'dev'",
+      "pywin32 ; (platform_system == \"Windows\") and extra == 'dev'"
+    ]
+  }
+}

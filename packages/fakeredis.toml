@@ -1,0 +1,12 @@
+# Package configuration for fakeredis
+conda_forge = "fakeredis"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fakeredis-2.32.1-py3-none-any.whl" },
+  { filename = "fakeredis-2.32.0-py3-none-any.whl" },
+  { filename = "fakeredis-2.31.3-py3-none-any.whl" },
+  { filename = "fakeredis-2.31.1-py3-none-any.whl" },
+  { filename = "fakeredis-2.31.0-py3-none-any.whl" },
+]

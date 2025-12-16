@@ -1,0 +1,12 @@
+# Package configuration for pdf2image
+conda_forge = "pdf2image"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pdf2image-1.17.0-py3-none-any.whl" },
+  { filename = "pdf2image-1.16.3-py3-none-any.whl" },
+  { filename = "pdf2image-1.16.2-py3-none-any.whl" },
+  { filename = "pdf2image-1.16.0-py3-none-any.whl" },
+  { filename = "pdf2image-1.15.1-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for odmantic
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "odmantic-1.0.2-py3-none-any.whl" },
+  { filename = "odmantic-1.0.1-py3-none-any.whl" },
+  { filename = "odmantic-1.0.0-py3-none-any.whl" },
+  { filename = "odmantic-0.9.2-py3-none-any.whl" },
+  { filename = "odmantic-0.9.1-py3-none-any.whl" },
+]

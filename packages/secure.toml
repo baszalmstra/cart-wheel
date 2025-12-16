@@ -1,0 +1,10 @@
+# Package configuration for secure
+conda_forge = "secure"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "secure-1.0.1-py3-none-any.whl" },
+  { filename = "secure-1.0.0-py3-none-any.whl" },
+  { filename = "secure-0.3.0-py3-none-any.whl" },
+]

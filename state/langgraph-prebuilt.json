@@ -1,0 +1,72 @@
+{
+  "langgraph_prebuilt-1.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22369563e1848862ace53fbc11b027c28dd04a9ac39314633bb95f2a7e258496",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langgraph-checkpoint"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=1.0.0",
+      "langgraph-checkpoint<4.0.0,>=2.1.0"
+    ]
+  },
+  "langgraph_prebuilt-1.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50b1aa2b434783b6da30785568cf7155136b484750cc2ec695c0d4255db08262",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langgraph-checkpoint"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=1.0.0",
+      "langgraph-checkpoint<4.0.0,>=2.1.0"
+    ]
+  },
+  "langgraph_prebuilt-1.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a72651c1ad121a4e9e90da54c494af31a9a6c86e70916ba2a998ac75994f1d23",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langgraph-checkpoint"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=1.0.0",
+      "langgraph-checkpoint<4.0.0,>=2.1.0"
+    ]
+  },
+  "langgraph_prebuilt-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d9499f7c449fb637ee7b87e3f6a3b74095f4202053c74d33894bd839ea4c57c7",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langgraph-checkpoint"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=1.0.0",
+      "langgraph-checkpoint<4.0.0,>=2.1.0"
+    ]
+  },
+  "langgraph_prebuilt-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c02e023538f7ef6ad5ed76219ba1ab4f6de0e31b749e4d278f57a8a95eec9f7",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langgraph-checkpoint"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.67",
+      "langgraph-checkpoint<4.0.0,>=2.1.0"
+    ]
+  }
+}

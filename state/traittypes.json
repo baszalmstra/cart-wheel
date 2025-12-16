@@ -1,0 +1,80 @@
+{
+  "traittypes-0.2.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49016082ce740d6556d9bb4672ee2d899cd14f9365f17cbb79d5d96b47096d4e",
+    "dependencies": {
+      "required": [
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "traitlets>=4.2.2",
+      "numpy; extra == \"test\"",
+      "pandas; extra == \"test\"",
+      "xarray; extra == \"test\"",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "traittypes-0.2.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4a5d8b462de8931977243400baad42e6f208a2f2494b7a107b6fb6cc34616c5",
+    "dependencies": {
+      "required": [
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "traitlets>=4.2.2",
+      "numpy; extra == \"test\"",
+      "pandas; extra == \"test\"",
+      "xarray; extra == \"test\"",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "traittypes-0.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1340af133810b6eee1a2eb2e988f862b0d12b6c2d16f282aaf3207b782134c2e",
+    "dependencies": {
+      "required": [
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "traitlets (>=4.2.2)",
+      "numpy; extra == 'test'",
+      "pandas; extra == 'test'",
+      "xarray; extra == 'test'",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "traittypes-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "816b73bbe90764e4e7b235989befd71614a0d7be7662d09029ed86bc04151a0d",
+    "dependencies": {
+      "required": [
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "traitlets (>=4.2.2)",
+      "numpy; extra == 'test'",
+      "pandas; extra == 'test'",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "traittypes-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a4f49f4cfdaa00cde45c7f5b457d30d4503b778b9178e1e4b99eebfed3e1f43b",
+    "dependencies": {
+      "required": [
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "traitlets (>=4.2.2)",
+      "numpy; extra == 'test'",
+      "pandas; extra == 'test'",
+      "pytest; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+# Package configuration for fire
+conda_forge = "fire"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fire-0.7.1-py3-none-any.whl" },
+]

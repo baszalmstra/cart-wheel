@@ -1,0 +1,11 @@
+# Package configuration for jaraco.develop
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaraco_develop-8.17.6-py3-none-any.whl" },
+  { filename = "jaraco.develop-8.17.5-py3-none-any.whl" },
+  { filename = "jaraco.develop-8.17.4-py3-none-any.whl" },
+  { filename = "jaraco.develop-8.17.3-py3-none-any.whl" },
+  { filename = "jaraco.develop-8.17.2-py3-none-any.whl" },
+]

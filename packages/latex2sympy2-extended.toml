@@ -1,0 +1,11 @@
+# Package configuration for latex2sympy2-extended
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "latex2sympy2_extended-1.10.2-py3-none-any.whl" },
+  { filename = "latex2sympy2_extended-1.10.1-py3-none-any.whl" },
+  { filename = "latex2sympy2_extended-1.0.9-py3-none-any.whl" },
+  { filename = "latex2sympy2_extended-1.0.6-py3-none-any.whl" },
+  { filename = "latex2sympy2_extended-1.0.5-py3-none-any.whl" },
+]

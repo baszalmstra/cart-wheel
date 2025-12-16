@@ -1,0 +1,12 @@
+# Package configuration for keras-core
+conda_forge = "keras-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "keras_core-0.1.7-py3-none-any.whl" },
+  { filename = "keras_core-0.1.6-py3-none-any.whl" },
+  { filename = "keras_core-0.1.5-py3-none-any.whl" },
+  { filename = "keras_core-0.1.4-py3-none-any.whl" },
+  { filename = "keras_core-0.1.3-py3-none-any.whl" },
+]

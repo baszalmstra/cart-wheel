@@ -1,0 +1,76 @@
+{
+  "seqeval-0.0.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "501a59f21a3deb3cda05f1fee9113dd3532db393fe33c748881d55a608b76390",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "keras"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.14.0)",
+      "Keras (>=2.2.4)",
+      "tensorflow (>=1.13.1) ; extra == 'cpu'",
+      "tensorflow-gpu ; extra == 'gpu'"
+    ]
+  },
+  "seqeval-0.0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91f4f8c9fa247798ed5a2328d73b668c548541ac34c6021f7be4c567e92a22f3",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "keras"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.14.0)",
+      "Keras (>=2.2.4)",
+      "tensorflow (>=1.13.1); extra == 'cpu'",
+      "tensorflow-gpu; extra == 'gpu'"
+    ]
+  },
+  "seqeval-0.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "78780c7e9337b9531282144800dab1b24b790edd8422bb14fa6f14d4aef04912",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "keras",
+        "tensorflow"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.14.0)",
+      "Keras (>=2.2.4)",
+      "tensorflow (>=1.13.1)"
+    ]
+  },
+  "seqeval-0.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a8264e6678f74dcead1aeeabeb1c5a9d31b48b8ce43e2408fad090ceadb6244",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "keras"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.14.0)",
+      "Keras (>=2.2.4)"
+    ]
+  },
+  "seqeval-0.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "007c3a14aa6a5335c1e22daf3e207a4ba24ff238a33c0f83be03ccb5c6d225b4",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.14.0)"
+    ]
+  }
+}

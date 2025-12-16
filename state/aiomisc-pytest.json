@@ -1,0 +1,82 @@
+{
+  "aiomisc_pytest-1.3.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:23.910576+00:00",
+    "conda_file": "aiomisc-pytest-1.3.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiomisc",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "aiomisc (>=17)",
+      "pytest (>=8.4,<9.0)"
+    ]
+  },
+  "aiomisc_pytest-1.3.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:23.800935+00:00",
+    "conda_file": "aiomisc-pytest-1.3.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiomisc",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "aiomisc (>=17)",
+      "pytest (>=8.4,<9.0)"
+    ]
+  },
+  "aiomisc_pytest-1.2.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:24.042244+00:00",
+    "conda_file": "aiomisc-pytest-1.2.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiomisc",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "aiomisc (>=17)",
+      "pytest (==8.2.0)"
+    ]
+  },
+  "aiomisc_pytest-1.1.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:24.251206+00:00",
+    "conda_file": "aiomisc-pytest-1.1.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiomisc",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "aiomisc (>=17)",
+      "pytest (>=7.2.1,<8.0.0)"
+    ]
+  },
+  "aiomisc_pytest-1.1.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:24.310276+00:00",
+    "conda_file": "aiomisc-pytest-1.1.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiomisc",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "aiomisc (>=17)",
+      "pytest (>=7.2.1,<8.0.0)"
+    ]
+  }
+}

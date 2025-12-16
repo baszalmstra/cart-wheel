@@ -1,0 +1,109 @@
+{
+  "validate_pyproject-0.24.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b7b05fa9117204c9c4606ab317acd095b18d1bfc78fb7dc8cc06f77d0582ca2d",
+    "dependencies": {
+      "required": [
+        "fastjsonschema"
+      ]
+    },
+    "original_requirements": [
+      "fastjsonschema <=3,>=2.16.2",
+      "packaging >=24.2 ; extra == 'all'",
+      "trove-classifiers >=2021.10.20 ; extra == 'all'",
+      "tomli >=1.2.1 ; (python_version < \"3.11\") and extra == 'all'",
+      "validate-pyproject-schema-store ; extra == 'store'"
+    ]
+  },
+  "validate_pyproject-0.24-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "822f0beae5f9b0dfa9a10d68f40fd588e49152b30485edeb0672e922583e24b6",
+    "dependencies": {
+      "required": [
+        "fastjsonschema"
+      ]
+    },
+    "original_requirements": [
+      "fastjsonschema <=3,>=2.16.2",
+      "packaging >=24.2 ; extra == 'all'",
+      "trove-classifiers >=2021.10.20 ; extra == 'all'",
+      "tomli >=1.2.1 ; (python_version < \"3.11\") and extra == 'all'",
+      "validate-pyproject-schema-store ; extra == 'store'"
+    ]
+  },
+  "validate_pyproject-0.23-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c2e678d7d52cff56eb1670a627eaa808fe6334d7a7f15218d12b89642d8a077",
+    "dependencies": {
+      "required": [
+        "fastjsonschema"
+      ]
+    },
+    "original_requirements": [
+      "fastjsonschema <=3,>=2.16.2",
+      "packaging >=24.2 ; extra == 'all'",
+      "trove-classifiers >=2021.10.20 ; extra == 'all'",
+      "tomli >=1.2.1 ; (python_version < \"3.11\") and extra == 'all'",
+      "validate-pyproject-schema-store ; extra == 'store'",
+      "setuptools ; extra == 'test'",
+      "pytest >=8.3.3 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'",
+      "pytest-randomly ; extra == 'test'",
+      "tomli >=1.2.1 ; (python_version < \"3.11\") and extra == 'test'",
+      "repo-review ; (python_version >= \"3.10\") and extra == 'test'",
+      "mypy ; extra == 'typecheck'",
+      "importlib-resources ; extra == 'typecheck'"
+    ]
+  },
+  "validate_pyproject-0.22-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0200c076741f92374ad2e45fbefda085e0f45507f816dd85481b7b778fc1aef3",
+    "dependencies": {
+      "required": [
+        "fastjsonschema"
+      ]
+    },
+    "original_requirements": [
+      "fastjsonschema <=3,>=2.16.2",
+      "packaging >=20.4 ; extra == 'all'",
+      "trove-classifiers >=2021.10.20 ; extra == 'all'",
+      "tomli >=1.2.1 ; (python_version < \"3.11\") and extra == 'all'",
+      "validate-pyproject-schema-store ; extra == 'store'",
+      "setuptools ; extra == 'test'",
+      "pytest >=8.3.3 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'",
+      "pytest-randomly ; extra == 'test'",
+      "tomli >=1.2.1 ; (python_version < \"3.11\") and extra == 'test'",
+      "repo-review ; (python_version >= \"3.10\") and extra == 'test'",
+      "mypy ; extra == 'typecheck'",
+      "importlib-resources ; extra == 'typecheck'"
+    ]
+  },
+  "validate_pyproject-0.21-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a9932975a2832e1f06a78a9bbb1c437de5cdf405559901c69cdf5df2594cf9d",
+    "dependencies": {
+      "required": [
+        "fastjsonschema"
+      ]
+    },
+    "original_requirements": [
+      "fastjsonschema <=3,>=2.16.2",
+      "packaging >=20.4 ; extra == 'all'",
+      "trove-classifiers >=2021.10.20 ; extra == 'all'",
+      "tomli >=1.2.1 ; (python_version < \"3.11\") and extra == 'all'",
+      "validate-pyproject-schema-store ; extra == 'store'",
+      "setuptools ; extra == 'test'",
+      "pytest >=8.3.3 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'",
+      "pytest-randomly ; extra == 'test'",
+      "tomli >=1.2.1 ; (python_version < \"3.11\") and extra == 'test'",
+      "repo-review ; (python_version >= \"3.10\") and extra == 'test'",
+      "mypy ; extra == 'typecheck'",
+      "importlib-resources ; extra == 'typecheck'"
+    ]
+  }
+}

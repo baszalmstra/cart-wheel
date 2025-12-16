@@ -1,0 +1,205 @@
+{
+  "nbclient-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ffee11e788b4a27fabeb7955547e4318a5298f34342a4bfd01f2e1faaeadc3d",
+    "dependencies": {
+      "required": [
+        "jupyter-client",
+        "jupyter-core",
+        "nbformat",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-client>=6.1.12",
+      "jupyter-core!=5.0.*,>=4.12",
+      "nbformat>=5.1",
+      "traitlets>=5.4",
+      "pre-commit; extra == 'dev'",
+      "autodoc-traits; extra == 'docs'",
+      "flaky; extra == 'docs'",
+      "ipykernel>=6.19.3; extra == 'docs'",
+      "ipython; extra == 'docs'",
+      "ipywidgets; extra == 'docs'",
+      "mock; extra == 'docs'",
+      "moto; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "nbconvert>=7.1.0; extra == 'docs'",
+      "pytest-asyncio; extra == 'docs'",
+      "pytest-cov>=4.0; extra == 'docs'",
+      "pytest<8,>=7.0; extra == 'docs'",
+      "sphinx-book-theme; extra == 'docs'",
+      "sphinx>=1.7; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "testpath; extra == 'docs'",
+      "xmltodict; extra == 'docs'",
+      "flaky; extra == 'test'",
+      "ipykernel>=6.19.3; extra == 'test'",
+      "ipython; extra == 'test'",
+      "ipywidgets; extra == 'test'",
+      "nbconvert>=7.1.0; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov>=4.0; extra == 'test'",
+      "pytest<8,>=7.0; extra == 'test'",
+      "testpath; extra == 'test'",
+      "xmltodict; extra == 'test'"
+    ]
+  },
+  "nbclient-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "949019b9240d66897e442888cfb618f69ef23dc71c01cb5fced8499c2cfc084d",
+    "dependencies": {
+      "required": [
+        "jupyter-client",
+        "jupyter-core",
+        "nbformat",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-client>=6.1.12",
+      "jupyter-core!=5.0.*,>=4.12",
+      "nbformat>=5.1",
+      "traitlets>=5.4",
+      "pre-commit; extra == 'dev'",
+      "autodoc-traits; extra == 'docs'",
+      "flaky; extra == 'docs'",
+      "ipykernel>=6.19.3; extra == 'docs'",
+      "ipython; extra == 'docs'",
+      "ipywidgets; extra == 'docs'",
+      "mock; extra == 'docs'",
+      "moto; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "nbconvert>=7.0.0; extra == 'docs'",
+      "pytest-asyncio; extra == 'docs'",
+      "pytest-cov>=4.0; extra == 'docs'",
+      "pytest<8,>=7.0; extra == 'docs'",
+      "sphinx-book-theme; extra == 'docs'",
+      "sphinx>=1.7; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "testpath; extra == 'docs'",
+      "xmltodict; extra == 'docs'",
+      "flaky; extra == 'test'",
+      "ipykernel>=6.19.3; extra == 'test'",
+      "ipython; extra == 'test'",
+      "ipywidgets; extra == 'test'",
+      "nbconvert>=7.0.0; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov>=4.0; extra == 'test'",
+      "pytest<8,>=7.0; extra == 'test'",
+      "testpath; extra == 'test'",
+      "xmltodict; extra == 'test'"
+    ]
+  },
+  "nbclient-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f13e3529332a1f1f81d82a53210322476a168bb7090a0289c795fe9cc11c9d3f",
+    "dependencies": {
+      "required": [
+        "jupyter-client",
+        "jupyter-core",
+        "nbformat",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-client>=6.1.12",
+      "jupyter-core!=5.0.*,>=4.12",
+      "nbformat>=5.1",
+      "traitlets>=5.4",
+      "pre-commit; extra == 'dev'",
+      "autodoc-traits; extra == 'docs'",
+      "mock; extra == 'docs'",
+      "moto; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "nbclient[test]; extra == 'docs'",
+      "sphinx-book-theme; extra == 'docs'",
+      "sphinx>=1.7; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "flaky; extra == 'test'",
+      "ipykernel>=6.19.3; extra == 'test'",
+      "ipython; extra == 'test'",
+      "ipywidgets; extra == 'test'",
+      "nbconvert>=7.0.0; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov>=4.0; extra == 'test'",
+      "pytest<8,>=7.0; extra == 'test'",
+      "testpath; extra == 'test'",
+      "xmltodict; extra == 'test'"
+    ]
+  },
+  "nbclient-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c50a866e8dd6c5f655de47d2e252c82d2ebe978574e760ac229f5950593a434",
+    "dependencies": {
+      "required": [
+        "jupyter-client",
+        "jupyter-core",
+        "nbformat",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-client>=6.1.12",
+      "jupyter-core!=5.0.*,>=4.12",
+      "nbformat>=5.1",
+      "traitlets>=5.4",
+      "pre-commit; extra == 'dev'",
+      "autodoc-traits; extra == 'docs'",
+      "mock; extra == 'docs'",
+      "moto; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "nbclient[test]; extra == 'docs'",
+      "sphinx-book-theme; extra == 'docs'",
+      "sphinx>=1.7; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "flaky; extra == 'test'",
+      "ipykernel>=6.19.3; extra == 'test'",
+      "ipython; extra == 'test'",
+      "ipywidgets; extra == 'test'",
+      "nbconvert>=7.0.0; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov>=4.0; extra == 'test'",
+      "pytest<8,>=7.0; extra == 'test'",
+      "testpath; extra == 'test'",
+      "xmltodict; extra == 'test'"
+    ]
+  },
+  "nbclient-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3a1ddfb34d4a9d17fc744d655962714a866639acd30130e9be84191cd97cd15",
+    "dependencies": {
+      "required": [
+        "jupyter-client",
+        "jupyter-core",
+        "nbformat",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-client>=6.1.12",
+      "jupyter-core!=5.0.*,>=4.12",
+      "nbformat>=5.1",
+      "traitlets>=5.4",
+      "pre-commit; extra == 'dev'",
+      "autodoc-traits; extra == 'docs'",
+      "mock; extra == 'docs'",
+      "moto; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "nbclient[test]; extra == 'docs'",
+      "sphinx-book-theme; extra == 'docs'",
+      "sphinx>=1.7; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "flaky; extra == 'test'",
+      "ipykernel>=6.19.3; extra == 'test'",
+      "ipython; extra == 'test'",
+      "ipywidgets; extra == 'test'",
+      "nbconvert>=7.0.0; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov>=4.0; extra == 'test'",
+      "pytest>=7.0; extra == 'test'",
+      "testpath; extra == 'test'",
+      "xmltodict; extra == 'test'"
+    ]
+  }
+}

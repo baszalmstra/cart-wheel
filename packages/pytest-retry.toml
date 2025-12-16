@@ -1,0 +1,12 @@
+# Package configuration for pytest-retry
+conda_forge = "pytest-retry"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_retry-1.7.0-py3-none-any.whl" },
+  { filename = "pytest_retry-1.6.3-py3-none-any.whl" },
+  { filename = "pytest_retry-1.6.2-py3-none-any.whl" },
+  { filename = "pytest_retry-1.6.1-py3-none-any.whl" },
+  { filename = "pytest_retry-1.6.0-py3-none-any.whl" },
+]

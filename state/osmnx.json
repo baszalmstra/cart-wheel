@@ -1,0 +1,145 @@
+{
+  "osmnx-2.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1aec19d3dc614279f36f4ead7b493adbc45f53bc99a43a76067a6f15c1fcac97",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "networkx",
+        "numpy",
+        "pandas",
+        "requests",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=1.0.1",
+      "networkx>=2.5",
+      "numpy>=1.22",
+      "pandas>=1.4",
+      "requests>=2.27",
+      "shapely>=2.0",
+      "osmnx[entropy,neighbors,raster,visualization] ; extra == 'all'",
+      "scipy>=1.8 ; extra == 'entropy'",
+      "scikit-learn>=1.1 ; extra == 'neighbors'",
+      "scipy>=1.8 ; extra == 'neighbors'",
+      "rasterio>=1.3.5 ; extra == 'raster'",
+      "rio-vrt>=0.3 ; extra == 'raster'",
+      "matplotlib>=3.5 ; extra == 'visualization'"
+    ]
+  },
+  "osmnx-2.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "46a719b711b52233701aa238d6a4beb8277c21124906f5b857997e1df9e22b80",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "networkx",
+        "numpy",
+        "pandas",
+        "requests",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=1.0.1",
+      "networkx>=2.5",
+      "numpy>=1.22",
+      "pandas>=1.4",
+      "requests>=2.27",
+      "shapely>=2.0",
+      "osmnx[entropy,neighbors,raster,visualization] ; extra == 'all'",
+      "scipy>=1.8 ; extra == 'entropy'",
+      "scikit-learn>=1.1 ; extra == 'neighbors'",
+      "scipy>=1.8 ; extra == 'neighbors'",
+      "rasterio>=1.3.5 ; extra == 'raster'",
+      "rio-vrt>=0.3 ; extra == 'raster'",
+      "matplotlib>=3.5 ; extra == 'visualization'"
+    ]
+  },
+  "osmnx-2.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a58237b904a8ad13a11cf57b758c530d3f8734020142a2d0149f39fc4ba88bc",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "networkx",
+        "numpy",
+        "pandas",
+        "requests",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=1.0.1",
+      "networkx>=2.5",
+      "numpy>=1.22",
+      "pandas>=1.4",
+      "requests>=2.27",
+      "shapely>=2.0",
+      "osmnx[entropy,neighbors,raster,visualization] ; extra == 'all'",
+      "scipy>=1.8 ; extra == 'entropy'",
+      "scikit-learn>=1.1 ; extra == 'neighbors'",
+      "scipy>=1.8 ; extra == 'neighbors'",
+      "rasterio>=1.3.5 ; extra == 'raster'",
+      "rio-vrt>=0.3 ; extra == 'raster'",
+      "matplotlib>=3.5 ; extra == 'visualization'"
+    ]
+  },
+  "osmnx-2.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "edf6b7514b8c554ab85b20e8c914716933b553d153a5d2fd284330b6974b72f5",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "networkx",
+        "numpy",
+        "pandas",
+        "requests",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=1.0",
+      "networkx>=2.5",
+      "numpy>=1.22",
+      "pandas>=1.4",
+      "requests>=2.27",
+      "shapely>=2.0",
+      "scipy>=1.8 ; extra == 'entropy'",
+      "scikit-learn>=1.0 ; extra == 'neighbors'",
+      "scipy>=1.8 ; extra == 'neighbors'",
+      "rasterio>=1.3 ; extra == 'raster'",
+      "rio-vrt>=0.3 ; extra == 'raster'",
+      "matplotlib>=3.5 ; extra == 'visualization'"
+    ]
+  },
+  "osmnx-2.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2e389d909006f991120b30c9ecece7bfe025e861cdc0ed0b8954cb55d4b9a10",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "networkx",
+        "numpy",
+        "pandas",
+        "requests",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=1.0",
+      "networkx>=2.5",
+      "numpy>=1.22",
+      "pandas>=1.4",
+      "requests>=2.27",
+      "shapely>=2.0",
+      "scipy>=1.5; extra == 'entropy'",
+      "scikit-learn>=0.23; extra == 'neighbors'",
+      "scipy>=1.5; extra == 'neighbors'",
+      "rasterio>=1.3; extra == 'raster'",
+      "rio-vrt>=0.3; extra == 'raster'",
+      "matplotlib>=3.5; extra == 'visualization'"
+    ]
+  }
+}

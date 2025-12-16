@@ -1,0 +1,82 @@
+{
+  "sshtunnel-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "98e54c26f726ab8bd42b47a3a21fca5c3e60f58956f0f70de2fb8ab0046d0606",
+    "dependencies": {
+      "required": [
+        "paramiko"
+      ]
+    },
+    "original_requirements": [
+      "paramiko (>=2.7.2)",
+      "sphinx ; extra == 'build_sphinx'",
+      "sphinxcontrib-napoleon ; extra == 'build_sphinx'",
+      "check-manifest ; extra == 'dev'",
+      "tox (>=1.8.1) ; extra == 'test'"
+    ]
+  },
+  "sshtunnel-0.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fbb61fbbcb9db01ade5b52e4030f357fd02850a19e3b066ba54f65ac4c267e12",
+    "dependencies": {
+      "required": [
+        "paramiko"
+      ]
+    },
+    "original_requirements": [
+      "paramiko (>=1.15.2)",
+      "sphinx ; extra == 'build_sphinx'",
+      "sphinxcontrib-napoleon ; extra == 'build_sphinx'",
+      "check-manifest ; extra == 'dev'",
+      "tox (>=1.8.1) ; extra == 'test'"
+    ]
+  },
+  "sshtunnel-0.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50b8c607d5d3a7ed7b18dae80b4fa94c7aed3063c764119d06fead4ed89bf8f2",
+    "dependencies": {
+      "required": [
+        "paramiko"
+      ]
+    },
+    "original_requirements": [
+      "paramiko (>=1.15.2)",
+      "sphinx ; extra == 'build_sphinx'",
+      "sphinxcontrib-napoleon ; extra == 'build_sphinx'",
+      "check-manifest ; extra == 'dev'",
+      "tox (>=1.8.1) ; extra == 'test'"
+    ]
+  },
+  "sshtunnel-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5e7166dec044d55837d21cd22d12afa5f70ded99e8d94820d1ef1a89ba603daf",
+    "dependencies": {
+      "required": [
+        "paramiko"
+      ]
+    },
+    "original_requirements": [
+      "paramiko (>=1.15.2)",
+      "sphinx ; extra == 'build_sphinx'",
+      "sphinxcontrib-napoleon ; extra == 'build_sphinx'",
+      "check-manifest ; extra == 'dev'",
+      "tox (>=1.8.1) ; extra == 'test'"
+    ]
+  },
+  "sshtunnel-0.2.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff4fd3501754ed8db9c633e1667c0d102a4b08ae00f414c5f28fc55b5add8b4b",
+    "dependencies": {
+      "required": [
+        "paramiko"
+      ]
+    },
+    "original_requirements": [
+      "paramiko (>=1.15.2)",
+      "sphinx ; extra == 'build_sphinx'",
+      "sphinxcontrib-napoleon ; extra == 'build_sphinx'",
+      "check-manifest ; extra == 'dev'",
+      "tox (>=1.8.1) ; extra == 'test'"
+    ]
+  }
+}

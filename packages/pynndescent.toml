@@ -1,0 +1,10 @@
+# Package configuration for pynndescent
+conda_forge = "pynndescent"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pynndescent-0.5.13-py3-none-any.whl" },
+  { filename = "pynndescent-0.5.12-py3-none-any.whl" },
+  { filename = "pynndescent-0.5.11-py3-none-any.whl" },
+]

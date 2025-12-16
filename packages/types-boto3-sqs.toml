@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-sqs
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_sqs-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_sqs-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_sqs-1.40.61-py3-none-any.whl" },
+  { filename = "types_boto3_sqs-1.40.35-py3-none-any.whl" },
+  { filename = "types_boto3_sqs-1.40.17-py3-none-any.whl" },
+]

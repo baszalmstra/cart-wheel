@@ -1,0 +1,12 @@
+# Package configuration for virtualenv
+conda_forge = "virtualenv"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "virtualenv-20.35.4-py3-none-any.whl" },
+  { filename = "virtualenv-20.35.3-py3-none-any.whl" },
+  { filename = "virtualenv-20.35.2-py3-none-any.whl" },
+  { filename = "virtualenv-20.34.0-py3-none-any.whl" },
+  { filename = "virtualenv-20.33.1-py3-none-any.whl" },
+]

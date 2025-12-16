@@ -1,0 +1,12 @@
+# Package configuration for pygobject-stubs
+conda_forge = "pygobject-stubs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "PyGObject_stubs-2.1.0-py3-none-any.whl" },
+  { filename = "PyGObject_stubs-2.0.0-py3-none-any.whl" },
+  { filename = "PyGObject_stubs-1.0.0-py3-none-any.whl" },
+  { filename = "PyGObject_stubs-0.0.9-py3-none-any.whl" },
+  { filename = "PyGObject_stubs-0.0.8-py3-none-any.whl" },
+]

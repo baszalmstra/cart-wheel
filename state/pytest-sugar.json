@@ -1,0 +1,90 @@
+{
+  "pytest_sugar-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2f8319b907548d5b9d03a171515c1d43d2e38e32bd8182a1781eb20b43344cc8",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "termcolor"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2.0",
+      "termcolor>=2.1.0",
+      "black; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  },
+  "pytest_sugar-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c853866512288f1b679efc10c565303de4617854287e977781f07904f4560668",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "termcolor"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2.0",
+      "termcolor>=2.1.0",
+      "black; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  },
+  "pytest_sugar-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "70ebcd8fc5795dc457ff8b69d266a4e2e8a74ae0c3edc749381c64b5246c8dfd",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "termcolor",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=6.2.0",
+      "termcolor >=2.1.0",
+      "packaging >=21.3",
+      "black ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'"
+    ]
+  },
+  "pytest_sugar-0.9.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8cb5a4e5f8bbcd834622b0235db9e50432f4cbd71fef55b467fe44e43701e062",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "termcolor",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=6.2.0)",
+      "termcolor (>=2.1.0)",
+      "packaging (>=21.3)",
+      "black ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'"
+    ]
+  },
+  "pytest_sugar-0.9.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30e5225ed2b3cc988a8a672f8bda0fc37bcd92d62e9273937f061112b3f2186d",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "termcolor",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.9)",
+      "termcolor (>=1.1.0)",
+      "packaging (>=14.1)"
+    ]
+  }
+}

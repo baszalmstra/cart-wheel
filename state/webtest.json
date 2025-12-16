@@ -1,0 +1,127 @@
+{
+  "webtest-3.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2f51a0844f3a8beaef89bc23d225fe05ad816f7e429ffcc655a13013a799ac6c",
+    "dependencies": {
+      "required": [
+        "webob",
+        "waitress",
+        "beautifulsoup4"
+      ]
+    },
+    "original_requirements": [
+      "WebOb>=1.2",
+      "waitress>=3.0.2",
+      "beautifulsoup4",
+      "coverage; extra == \"tests\"",
+      "PasteDeploy; extra == \"tests\"",
+      "pyquery; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "WSGIProxy2; extra == \"tests\"",
+      "docutils; extra == \"docs\"",
+      "pylons-sphinx-themes>=1.0.8; extra == \"docs\"",
+      "Sphinx>=3.0.0; extra == \"docs\""
+    ]
+  },
+  "webtest-3.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c4a5a3dcf745a78c7905b803d6a520a2cf241c1f00ccdf4351f52916d555543",
+    "dependencies": {
+      "required": [
+        "webob",
+        "waitress",
+        "beautifulsoup4"
+      ]
+    },
+    "original_requirements": [
+      "WebOb>=1.2",
+      "waitress>=3.0.2",
+      "beautifulsoup4",
+      "coverage; extra == \"tests\"",
+      "PasteDeploy; extra == \"tests\"",
+      "pyquery; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "WSGIProxy2; extra == \"tests\"",
+      "docutils; extra == \"docs\"",
+      "pylons-sphinx-themes>=1.0.8; extra == \"docs\"",
+      "Sphinx>=3.0.0; extra == \"docs\""
+    ]
+  },
+  "WebTest-3.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63ae73a4e33f81504b0ff16c183687d6b965138a4aabecb082158437b6cab8d4",
+    "dependencies": {
+      "required": [
+        "webob",
+        "waitress",
+        "beautifulsoup4"
+      ]
+    },
+    "original_requirements": [
+      "WebOb >=1.2",
+      "waitress >=3.0.2",
+      "beautifulsoup4",
+      "docutils ; extra == 'docs'",
+      "pylons-sphinx-themes >=1.0.8 ; extra == 'docs'",
+      "Sphinx >=3.0.0 ; extra == 'docs'",
+      "coverage ; extra == 'tests'",
+      "PasteDeploy ; extra == 'tests'",
+      "pyquery ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "WSGIProxy2 ; extra == 'tests'"
+    ]
+  },
+  "WebTest-3.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b3d8c69ac9057f17750ed5b45320a411423c2b4196bec6450961be98b03d8c1",
+    "dependencies": {
+      "required": [
+        "webob",
+        "waitress",
+        "beautifulsoup4"
+      ]
+    },
+    "original_requirements": [
+      "WebOb >=1.2",
+      "waitress >=3.0.2",
+      "beautifulsoup4",
+      "docutils ; extra == 'docs'",
+      "pylons-sphinx-themes >=1.0.8 ; extra == 'docs'",
+      "Sphinx >=3.0.0 ; extra == 'docs'",
+      "coverage ; extra == 'tests'",
+      "PasteDeploy ; extra == 'tests'",
+      "pyquery ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "WSGIProxy2 ; extra == 'tests'"
+    ]
+  },
+  "WebTest-3.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "25a2f3b1ad273655ed22fdb4f9eff62d02f22d9d5ffeb0b58627759b1f62edff",
+    "dependencies": {
+      "required": [
+        "webob",
+        "waitress",
+        "beautifulsoup4"
+      ]
+    },
+    "original_requirements": [
+      "WebOb >=1.2",
+      "waitress >=3.0.2",
+      "beautifulsoup4",
+      "docutils ; extra == 'docs'",
+      "pylons-sphinx-themes >=1.0.8 ; extra == 'docs'",
+      "Sphinx >=3.0.0 ; extra == 'docs'",
+      "coverage ; extra == 'tests'",
+      "PasteDeploy ; extra == 'tests'",
+      "pyquery ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "WSGIProxy2 ; extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for altair-tiles
+conda_forge = "altair_tiles"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "altair_tiles-0.4.0-py3-none-any.whl" },
+  { filename = "altair_tiles-0.3.0-py3-none-any.whl" },
+  { filename = "altair_tiles-0.2.0-py3-none-any.whl" },
+  { filename = "altair_tiles-0.1.0-py3-none-any.whl" },
+]

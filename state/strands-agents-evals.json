@@ -1,0 +1,39 @@
+{
+  "strands_agents_evals-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "26e0ef45655bc20691af293027c04cfc9a0963aaea70c3400defd3b007c4930c",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation-threading",
+        "opentelemetry-sdk",
+        "pydantic",
+        "rich",
+        "strands-agents-tools",
+        "strands-agents",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "boto3>=1.26.0",
+      "opentelemetry-api>=1.20.0",
+      "opentelemetry-instrumentation-threading<1.00b0,>=0.51b0",
+      "opentelemetry-sdk>=1.20.0",
+      "pydantic<3.0.0,>=2.0.0",
+      "rich<15.0.0,>=14.0.0",
+      "strands-agents-tools<1.0.0,>=0.1.0",
+      "strands-agents>=1.0.0",
+      "typing-extensions>=4.0",
+      "hatch<2.0.0,>=1.0.0; extra == 'dev'",
+      "mypy<2.0.0,>=1.15.0; extra == 'dev'",
+      "pre-commit<4.6.0,>=3.2.0; extra == 'dev'",
+      "ruff<0.15.0,>=0.13.0; extra == 'dev'",
+      "opentelemetry-exporter-otlp-proto-http<2.0.0,>=1.30.0; extra == 'otel'",
+      "pytest-asyncio<1.4.0,>=1.0.0; extra == 'test'",
+      "pytest-cov<8.0.0,>=7.0.0; extra == 'test'",
+      "pytest-xdist<4.0.0,>=3.0.0; extra == 'test'",
+      "pytest<10.0.0,>=8.0.0; extra == 'test'"
+    ]
+  }
+}

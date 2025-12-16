@@ -1,0 +1,12 @@
+# Package configuration for connexion
+conda_forge = "connexion"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "connexion-3.3.0-py3-none-any.whl" },
+  { filename = "connexion-3.2.0-py3-none-any.whl" },
+  { filename = "connexion-3.1.0-py3-none-any.whl" },
+  { filename = "connexion-3.0.6-py3-none-any.whl" },
+  { filename = "connexion-3.0.5-py3-none-any.whl" },
+]

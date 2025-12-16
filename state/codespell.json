@@ -1,0 +1,130 @@
+{
+  "codespell-2.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3dadafa67df7e4a3dbf51e0d7315061b80d265f9552ebd699b3dd6834b47e425",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "build; extra == \"dev\"",
+      "chardet; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-dependency; extra == \"dev\"",
+      "Pygments; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "tomli; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "chardet; extra == \"hard-encoding-detection\"",
+      "tomli; python_version < \"3.11\" and extra == \"toml\"",
+      "chardet>=5.1.0; extra == \"types\"",
+      "mypy; extra == \"types\"",
+      "pytest; extra == \"types\"",
+      "pytest-cov; extra == \"types\"",
+      "pytest-dependency; extra == \"types\""
+    ]
+  },
+  "codespell-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4c5b779f747dd481587aeecb5773301183f52b94b96ed51a28126d0482eec1d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "build; extra == \"dev\"",
+      "chardet; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-dependency; extra == \"dev\"",
+      "Pygments; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "tomli; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "chardet; extra == \"hard-encoding-detection\"",
+      "tomli; python_version < \"3.11\" and extra == \"toml\"",
+      "chardet>=5.1.0; extra == \"types\"",
+      "mypy; extra == \"types\"",
+      "pytest; extra == \"types\"",
+      "pytest-cov; extra == \"types\"",
+      "pytest-dependency; extra == \"types\""
+    ]
+  },
+  "codespell-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9c7cef2501c9cfede2110fd6d4e5e62296920efe9abfb84648df866e47f58d1",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "build ; extra == 'dev'",
+      "chardet ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-dependency ; extra == 'dev'",
+      "Pygments ; extra == 'dev'",
+      "ruff ; extra == 'dev'",
+      "tomli ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "chardet ; extra == 'hard-encoding-detection'",
+      "tomli ; (python_version < \"3.11\") and extra == 'toml'",
+      "chardet >=5.1.0 ; extra == 'types'",
+      "mypy ; extra == 'types'",
+      "pytest ; extra == 'types'",
+      "pytest-cov ; extra == 'types'",
+      "pytest-dependency ; extra == 'types'"
+    ]
+  },
+  "codespell-2.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ee9a3e5df0990604013ac2a9f22fa8e57669c827124a2e961fe8a1da4cacc07",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "build ; extra == 'dev'",
+      "chardet ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-dependency ; extra == 'dev'",
+      "Pygments ; extra == 'dev'",
+      "ruff ; extra == 'dev'",
+      "tomli ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "chardet ; extra == 'hard-encoding-detection'",
+      "tomli ; (python_version < \"3.11\") and extra == 'toml'",
+      "chardet >=5.1.0 ; extra == 'types'",
+      "mypy ; extra == 'types'",
+      "pytest ; extra == 'types'",
+      "pytest-cov ; extra == 'types'",
+      "pytest-dependency ; extra == 'types'"
+    ]
+  },
+  "codespell-2.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "efa037f54b73c84f7bd14ce8e853d5f822cdd6386ef0ff32e957a3919435b9ec",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "build ; extra == 'dev'",
+      "chardet ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-dependency ; extra == 'dev'",
+      "Pygments ; extra == 'dev'",
+      "ruff ; extra == 'dev'",
+      "tomli ; extra == 'dev'",
+      "chardet ; extra == 'hard-encoding-detection'",
+      "tomli ; (python_version < \"3.11\") and extra == 'toml'",
+      "chardet (>=5.1.0) ; extra == 'types'",
+      "mypy ; extra == 'types'",
+      "pytest ; extra == 'types'",
+      "pytest-cov ; extra == 'types'",
+      "pytest-dependency ; extra == 'types'"
+    ]
+  }
+}

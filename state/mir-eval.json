@@ -1,0 +1,74 @@
+{
+  "mir_eval-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "114cda33d8e17408c170598e0b36ed0d71ff4a2fee8eaf9e165b58ecf1c87170",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "decorator"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.15.4",
+      "scipy>=1.4.0",
+      "decorator",
+      "matplotlib>=3.3.0; extra == \"display\"",
+      "numpydoc; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "matplotlib>=3.3.0; extra == \"docs\"",
+      "matplotlib>=3.3.0; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-mpl; extra == \"tests\""
+    ]
+  },
+  "mir_eval-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b8136600ba9cce4970154ff7f2a02d35b32de1eec1aaea92d4f78a2874ef3958",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "decorator"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.15.4",
+      "scipy>=1.4.0",
+      "decorator",
+      "matplotlib>=3.3.0; extra == \"display\"",
+      "numpydoc; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "matplotlib>=3.3.0; extra == \"docs\"",
+      "matplotlib>=3.3.0; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-mpl; extra == \"tests\""
+    ]
+  },
+  "mir_eval-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a9ca1cdfbc989fb19a7ea6fa294f3da75922fe010f8c6ed5d8f9ecf63f50eef",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "decorator"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.15.4",
+      "scipy>=1.4.0",
+      "decorator",
+      "matplotlib>=3.3.0; extra == \"display\"",
+      "numpydoc; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "matplotlib>=3.3.0; extra == \"docs\"",
+      "matplotlib>=3.3.0; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-mpl; extra == \"tests\""
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+# Package configuration for capturer
+conda_forge = "capturer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "capturer-3.0-py2.py3-none-any.whl" },
+  { filename = "capturer-2.4-py2.py3-none-any.whl" },
+  { filename = "capturer-2.3-py2.py3-none-any.whl" },
+]

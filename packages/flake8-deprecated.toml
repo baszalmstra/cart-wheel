@@ -1,0 +1,12 @@
+# Package configuration for flake8-deprecated
+conda_forge = "flake8-deprecated"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_deprecated-2.3.0-py3-none-any.whl" },
+  { filename = "flake8_deprecated-2.2.1-py3-none-any.whl" },
+  { filename = "flake8_deprecated-2.1.0-py3-none-any.whl" },
+  { filename = "flake8_deprecated-2.0.1-py3-none-any.whl" },
+  { filename = "flake8_deprecated-2.0.0-py3-none-any.whl" },
+]

@@ -1,0 +1,7 @@
+# Package configuration for pact-python-cli
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pact_python_cli-0.0.0-py3-none-any.whl" },
+]

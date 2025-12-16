@@ -1,0 +1,8 @@
+# Package configuration for testscenarios
+conda_forge = "testscenarios"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "testscenarios-0.5.0-py2.py3-none-any.whl" },
+]

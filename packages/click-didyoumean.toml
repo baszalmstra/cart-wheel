@@ -1,0 +1,11 @@
+# Package configuration for click-didyoumean
+conda_forge = "click-didyoumean"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "click_didyoumean-0.3.1-py3-none-any.whl" },
+  { filename = "click_didyoumean-0.3.0-py3-none-any.whl" },
+  { filename = "click_didyoumean-0.2.0-py3-none-any.whl" },
+  { filename = "click_didyoumean-0.1.0-py3-none-any.whl" },
+]

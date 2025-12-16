@@ -1,0 +1,12 @@
+# Package configuration for ai2-olmo-eval
+conda_forge = "ai2-olmo-eval"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ai2_olmo_eval-0.8.6-py3-none-any.whl" },
+  { filename = "ai2_olmo_eval-0.8.5-py3-none-any.whl" },
+  { filename = "ai2_olmo_eval-0.8.4-py3-none-any.whl" },
+  { filename = "ai2_olmo_eval-0.8.3-py3-none-any.whl" },
+  { filename = "ai2_olmo_eval-0.8.2-py3-none-any.whl" },
+]

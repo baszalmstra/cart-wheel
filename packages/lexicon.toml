@@ -1,0 +1,10 @@
+# Package configuration for lexicon
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lexicon-3.0.0-py3-none-any.whl" },
+  { filename = "lexicon-2.0.1-py2.py3-none-any.whl" },
+  { filename = "lexicon-2.0.0-py2.py3-none-any.whl" },
+  { filename = "lexicon-1.0.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,67 @@
+{
+  "scipy_stubs-1.16.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6316b36cd0fb272c994ae5b10c4a73c644a7e156ed8d32bcd9c35303d0e1b7e",
+    "dependencies": {
+      "required": [
+        "optype"
+      ]
+    },
+    "original_requirements": [
+      "optype[numpy]>=0.14.0,<0.16",
+      "scipy>=1.16.3,<1.17 ; extra == 'scipy'"
+    ]
+  },
+  "scipy_stubs-1.16.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8df8975d69d77237a12e7b32f0bce08a7cc27bbb53ff7f4671ef1e9de033490",
+    "dependencies": {
+      "required": [
+        "optype"
+      ]
+    },
+    "original_requirements": [
+      "optype[numpy]>=0.14.0,<0.15",
+      "scipy>=1.16.3,<1.17 ; extra == 'scipy'"
+    ]
+  },
+  "scipy_stubs-1.16.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "69bc52ef6c3f8e09208abdfaf32291eb51e9ddf8fa4389401ccd9473bdd2a26d",
+    "dependencies": {
+      "required": [
+        "optype"
+      ]
+    },
+    "original_requirements": [
+      "optype[numpy]>=0.14.0,<0.15",
+      "scipy>=1.16.3,<1.17 ; extra == 'scipy'"
+    ]
+  },
+  "scipy_stubs-1.16.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90e5d82ced2183ef3c5c0a28a77df8cc227458624364fa0ff975ad24fa89d6ad",
+    "dependencies": {
+      "required": [
+        "optype"
+      ]
+    },
+    "original_requirements": [
+      "optype[numpy]>=0.14.0,<0.15",
+      "scipy>=1.16.3,<1.17 ; extra == 'scipy'"
+    ]
+  },
+  "scipy_stubs-1.16.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8e47684fe5f8b823e06ec6513e4dbb5ae43a5a064d10d8228b7e3c3d243ec673",
+    "dependencies": {
+      "required": [
+        "optype"
+      ]
+    },
+    "original_requirements": [
+      "optype[numpy]>=0.14.0,<0.15",
+      "scipy>=1.16.2,<1.17 ; extra == 'scipy'"
+    ]
+  }
+}

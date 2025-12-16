@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_mediaaccessibility-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ff8845c97dd52b0e5cf53990291e6d77c8a73a7aac0e9235d62d9a4256916d1",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1"
+    ]
+  },
+  "pyobjc_framework_mediaaccessibility-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "391244c646abe6489bd5886e4a5d11e7a3da5443f9a7a74bbd48520c19252082",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0"
+    ]
+  },
+  "pyobjc_framework_mediaaccessibility-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd07e7fc375ff1e8d225e0aa2bd9c2c1497a4d3aa5a80bfb13b08800fcd7f034",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1"
+    ]
+  },
+  "pyobjc_framework_MediaAccessibility-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "901961f171f7af184decbf5a3899debfa56dbd1a63a53d0ff3d93eff90f2f464",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0"
+    ]
+  },
+  "pyobjc_framework_MediaAccessibility-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65ee99905df8be28fef7998e6683811e1c59c1278c49ebd80f9b77fabd6de661",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2"
+    ]
+  }
+}

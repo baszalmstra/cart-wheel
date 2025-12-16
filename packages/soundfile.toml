@@ -1,0 +1,12 @@
+# Package configuration for soundfile
+conda_forge = "pysoundfile"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "soundfile-0.13.1-py2.py3-none-any.whl" },
+  { filename = "soundfile-0.13.0-py2.py3-none-any.whl" },
+  { filename = "soundfile-0.12.1-py2.py3-none-any.whl" },
+  { filename = "soundfile-0.12.0-py2.py3-none-any.whl" },
+  { filename = "soundfile-0.11.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for langchain-aws
+conda_forge = "langchain-aws"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_aws-1.1.0-py3-none-any.whl" },
+  { filename = "langchain_aws-1.0.0-py3-none-any.whl" },
+  { filename = "langchain_aws-0.2.35-py3-none-any.whl" },
+  { filename = "langchain_aws-0.2.34-py3-none-any.whl" },
+  { filename = "langchain_aws-0.2.33-py3-none-any.whl" },
+]

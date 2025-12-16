@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-appengine-logging
+conda_forge = "google-cloud-appengine-logging"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_appengine_logging-1.7.0-py3-none-any.whl" },
+  { filename = "google_cloud_appengine_logging-1.6.2-py3-none-any.whl" },
+  { filename = "google_cloud_appengine_logging-1.6.1-py3-none-any.whl" },
+  { filename = "google_cloud_appengine_logging-1.6.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_appengine_logging-1.5.0-py2.py3-none-any.whl" },
+]

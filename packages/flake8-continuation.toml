@@ -1,0 +1,9 @@
+# Package configuration for flake8-continuation
+conda_forge = "flake8-continuation"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_continuation-1.0.5-py2.py3-none-any.whl" },
+  { filename = "flake8_continuation-1.0.4-py2.py3-none-any.whl" },
+]

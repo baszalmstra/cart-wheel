@@ -1,0 +1,8 @@
+# Package configuration for torchviz
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torchviz-0.0.3-py3-none-any.whl" },
+  { filename = "torchviz-0.0.2-py3-none-any.whl" },
+]

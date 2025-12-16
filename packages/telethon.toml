@@ -1,0 +1,11 @@
+# Package configuration for telethon
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "telethon-1.42.0-py3-none-any.whl" },
+  { filename = "telethon-1.41.2-py3-none-any.whl" },
+  { filename = "telethon-1.41.1-py3-none-any.whl" },
+  { filename = "telethon-1.41.0-py3-none-any.whl" },
+  { filename = "telethon-1.40.0-py3-none-any.whl" },
+]

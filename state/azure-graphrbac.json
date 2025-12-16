@@ -1,0 +1,92 @@
+{
+  "azure_graphrbac-0.61.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a204554aa933684b09df3e17669fe31aa307d33b9bfb44595fe0ad5b99900d4",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "msrestazure",
+        "azure-common",
+        "azure-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest >=0.6.21",
+      "msrestazure <2.0.0,>=0.4.32",
+      "azure-common ~=1.1",
+      "azure-nspkg ; python_version<'3.0'"
+    ]
+  },
+  "azure_graphrbac-0.61.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b4e0f05676acc912f2b33c71c328d9fb2e4dc8e70ebadc9d3de8ab08bf0b175",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "msrestazure",
+        "azure-common",
+        "azure-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "msrestazure (<2.0.0,>=0.4.32)",
+      "azure-common (~=1.1)",
+      "azure-nspkg ; python_version<'3.0'"
+    ]
+  },
+  "azure_graphrbac-0.61.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c882b97b8ca67e987d7d545479c0260c229f5c68a6c02fdedfe40001c89564b",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "msrestazure",
+        "azure-common",
+        "azure-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "msrestazure (<2.0.0,>=0.4.32)",
+      "azure-common (~=1.1)",
+      "azure-nspkg ; python_version<'3.0'"
+    ]
+  },
+  "azure_graphrbac-0.60.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b266602dfc631dca13960cc64bac172bf9dea2cccbb1aa13d1631ce76f14d79",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "msrestazure",
+        "azure-common",
+        "azure-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "msrestazure (<2.0.0,>=0.4.32)",
+      "azure-common (~=1.1)",
+      "azure-nspkg ; python_version<'3.0'"
+    ]
+  },
+  "azure_graphrbac-0.53.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "45362821c0928a9edbcdd72262a650c9d6ee32a6de72e3158ecee76e508a519f",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "msrestazure",
+        "azure-common",
+        "azure-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "msrestazure (<2.0.0,>=0.4.32)",
+      "azure-common (~=1.1)",
+      "azure-nspkg ; python_version<'3.0'"
+    ]
+  }
+}

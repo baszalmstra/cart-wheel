@@ -1,0 +1,12 @@
+# Package configuration for cairocffi
+conda_forge = "cairocffi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cairocffi-1.7.1-py3-none-any.whl" },
+  { filename = "cairocffi-1.7.0-py3-none-any.whl" },
+  { filename = "cairocffi-1.6.1-py3-none-any.whl" },
+  { filename = "cairocffi-1.6.0-py3-none-any.whl" },
+  { filename = "cairocffi-1.0.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for requests-mock
+conda_forge = "requests-mock"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "requests_mock-1.12.1-py2.py3-none-any.whl" },
+  { filename = "requests_mock-1.11.0-py2.py3-none-any.whl" },
+  { filename = "requests_mock-1.10.0-py2.py3-none-any.whl" },
+  { filename = "requests_mock-1.9.3-py2.py3-none-any.whl" },
+  { filename = "requests_mock-1.9.2-py2.py3-none-any.whl" },
+]

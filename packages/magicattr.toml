@@ -1,0 +1,12 @@
+# Package configuration for magicattr
+conda_forge = "magicattr"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "magicattr-0.1.6-py2.py3-none-any.whl" },
+  { filename = "magicattr-0.1.5-py2.py3-none-any.whl" },
+  { filename = "magicattr-0.1.4-py2.py3-none-any.whl" },
+  { filename = "magicattr-0.1.3-py2.py3-none-any.whl" },
+  { filename = "magicattr-0.1.2-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,85 @@
+{
+  "apache_airflow_providers_redis-4.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cfefb87827154a980fd39512a43f3a6da1de94acc80b46a2f3e2d464cb6e3951",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "redis>=4.5.2,!=4.5.5,!=5.0.2",
+      "apache-airflow-providers-common-messaging>=2.0.0 ; extra == \"common-messaging\""
+    ]
+  },
+  "apache_airflow_providers_redis-4.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0df443974070888864cf7e1f133e38fc307a9144eea9155322487cc5d8a06f50",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "redis>=4.5.2,!=4.5.5,!=5.0.2",
+      "apache-airflow-providers-common-messaging>=2.0.0 ; extra == \"common-messaging\""
+    ]
+  },
+  "apache_airflow_providers_redis-4.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d8cacd66e5d7caf31f45d948d1315f783c13e8f236924fd471cff0b8ece9ff88",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "redis>=4.5.2,!=4.5.5,!=5.0.2",
+      "apache-airflow-providers-common-messaging>=2.0.0 ; extra == \"common-messaging\""
+    ]
+  },
+  "apache_airflow_providers_redis-4.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f800898d4d85bb6e606f9e19098dfa0cd385408db32f5e87f9c8891f8d3d6415",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "redis>=4.5.2,!=4.5.5,!=5.0.2",
+      "apache-airflow-providers-common-messaging>=2.0.0 ; extra == \"common-messaging\""
+    ]
+  },
+  "apache_airflow_providers_redis-4.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f505466ebdbf499974539b3244a17492ce1d534854c8bb4125cf413d81be0a01",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "redis>=4.5.2,!=4.5.5,!=5.0.2",
+      "apache-airflow-providers-common-messaging>=2.0.0 ; extra == \"common-messaging\""
+    ]
+  }
+}

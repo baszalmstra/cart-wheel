@@ -1,0 +1,8 @@
+# Package configuration for bibtexparser
+conda_forge = "bibtexparser"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bibtexparser-1.3.0-py3-none-any.whl" },
+]

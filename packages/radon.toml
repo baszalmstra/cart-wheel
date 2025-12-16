@@ -1,0 +1,12 @@
+# Package configuration for radon
+conda_forge = "radon"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "radon-6.0.1-py2.py3-none-any.whl" },
+  { filename = "radon-6.0.0-py2.py3-none-any.whl" },
+  { filename = "radon-5.1.0-py2.py3-none-any.whl" },
+  { filename = "radon-5.0.1-py2.py3-none-any.whl" },
+  { filename = "radon-4.5.2-py2.py3-none-any.whl" },
+]

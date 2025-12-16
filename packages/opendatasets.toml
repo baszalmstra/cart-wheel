@@ -1,0 +1,12 @@
+# Package configuration for opendatasets
+conda_forge = "opendatasets"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "opendatasets-0.1.22-py3-none-any.whl" },
+  { filename = "opendatasets-0.1.20-py3-none-any.whl" },
+  { filename = "opendatasets-0.1.19-py3-none-any.whl" },
+  { filename = "opendatasets-0.1.18-py3-none-any.whl" },
+  { filename = "opendatasets-0.1.17-py3-none-any.whl" },
+]

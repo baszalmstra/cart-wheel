@@ -1,0 +1,9 @@
+# Package configuration for pytablewriter-altcol-theme
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytablewriter_altcol_theme-0.1.1-py3-none-any.whl" },
+  { filename = "pytablewriter_altcol_theme-0.1.0-py3-none-any.whl" },
+  { filename = "pytablewriter_altcol_theme-0.0.1-py3-none-any.whl" },
+]

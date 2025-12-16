@@ -1,0 +1,12 @@
+# Package configuration for triad
+conda_forge = "triad"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "triad-1.0.0-py3-none-any.whl" },
+  { filename = "triad-0.9.8-py3-none-any.whl" },
+  { filename = "triad-0.9.7-py3-none-any.whl" },
+  { filename = "triad-0.9.6-py3-none-any.whl" },
+  { filename = "triad-0.9.5-py3-none-any.whl" },
+]

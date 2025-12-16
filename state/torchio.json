@@ -1,0 +1,197 @@
+{
+  "torchio-0.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3fbd64d19e28258561024c57300e2db3dd6313bb37a8380be2ae4d59ca121fa1",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "einops",
+        "humanize",
+        "nibabel",
+        "numpy",
+        "packaging",
+        "rich",
+        "scipy",
+        "simpleitk",
+        "torch",
+        "tqdm",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "deprecated>=1.2",
+      "einops>=0.3",
+      "humanize>=0.1",
+      "nibabel>=3",
+      "numpy>=1.20",
+      "packaging>=20",
+      "rich>=10",
+      "scipy>=1.7",
+      "simpleitk>=1.3,!=2.0.*,!=2.1.1.1",
+      "torch>=1.9",
+      "tqdm>=4.40",
+      "typer>=0.1",
+      "pandas>=1 ; extra == 'csv'",
+      "colorcet ; extra == 'plot'",
+      "matplotlib>=3.4 ; extra == 'plot'",
+      "scikit-learn>=1.6.1 ; extra == 'sklearn'",
+      "ffmpeg-python>=0.2.0 ; extra == 'video'"
+    ]
+  },
+  "torchio-0.20.23-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0731329f68ffb58d5d693a88c83e10ceda9ed73919a577eec86aec43e8f96bf9",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "einops",
+        "humanize",
+        "nibabel",
+        "numpy",
+        "packaging",
+        "rich",
+        "scipy",
+        "simpleitk",
+        "torch",
+        "tqdm",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "deprecated>=1.2",
+      "einops>=0.3",
+      "humanize>=0.1",
+      "nibabel>=3",
+      "numpy>=1.20",
+      "packaging>=20",
+      "rich>=10",
+      "scipy>=1.7",
+      "simpleitk>=1.3,!=2.0.*,!=2.1.1.1",
+      "torch>=1.9",
+      "tqdm>=4.40",
+      "typer>=0.1",
+      "pandas>=1 ; extra == 'csv'",
+      "colorcet ; extra == 'plot'",
+      "matplotlib>=3.4 ; extra == 'plot'",
+      "scikit-learn>=1.6.1 ; extra == 'sklearn'",
+      "ffmpeg-python>=0.2.0 ; extra == 'video'"
+    ]
+  },
+  "torchio-0.20.22-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "57e671801fe2248dfa02e8e0232045f7d0012aed82a62bd1a53da02189a2bc3c",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "einops",
+        "humanize",
+        "nibabel",
+        "numpy",
+        "packaging",
+        "rich",
+        "scipy",
+        "simpleitk",
+        "torch",
+        "tqdm",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "deprecated>=1.2",
+      "einops>=0.3",
+      "humanize>=0.1",
+      "nibabel>=3",
+      "numpy>=1.20",
+      "packaging>=20",
+      "rich>=10",
+      "scipy>=1.7",
+      "simpleitk>=1.3,!=2.0.*,!=2.1.1.1",
+      "torch>=1.9",
+      "tqdm>=4.40",
+      "typer>=0.1",
+      "pandas>=1 ; extra == 'csv'",
+      "colorcet ; extra == 'plot'",
+      "matplotlib>=3.4 ; extra == 'plot'",
+      "scikit-learn>=1.6.1 ; extra == 'sklearn'",
+      "ffmpeg-python>=0.2.0 ; extra == 'video'"
+    ]
+  },
+  "torchio-0.20.21-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ecead09268db42321677eb2cbb44afce8be7b2de1b2d656ce024f30d38417f1",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "einops",
+        "humanize",
+        "nibabel",
+        "numpy",
+        "packaging",
+        "rich",
+        "scipy",
+        "simpleitk",
+        "torch",
+        "tqdm",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "deprecated>=1.2",
+      "einops>=0.3",
+      "humanize>=0.1",
+      "nibabel>=3",
+      "numpy>=1.20",
+      "packaging>=20",
+      "rich>=10",
+      "scipy>=1.7",
+      "simpleitk>=1.3,!=2.0.*,!=2.1.1.1",
+      "torch>=1.9",
+      "tqdm>=4.40",
+      "typer>=0.1",
+      "pandas>=1 ; extra == 'csv'",
+      "distinctipy>=1.3.4 ; extra == 'plot'",
+      "matplotlib>=3.4 ; extra == 'plot'",
+      "scikit-learn>=1.6.1 ; extra == 'sklearn'",
+      "ffmpeg-python>=0.2.0 ; extra == 'video'"
+    ]
+  },
+  "torchio-0.20.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1ed22f11f1076b3a5fb8ec9a8dec4df65d860310e653bb7da0d4720a471ecd5a",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "einops",
+        "humanize",
+        "nibabel",
+        "numpy",
+        "packaging",
+        "rich",
+        "scipy",
+        "simpleitk",
+        "torch",
+        "tqdm",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "deprecated>=1.2",
+      "einops>=0.3",
+      "humanize>=0.1",
+      "nibabel>=3",
+      "numpy>=1.20",
+      "packaging>=20",
+      "rich>=10",
+      "scipy>=1.7",
+      "simpleitk>=1.3,!=2.0.*,!=2.1.1.1",
+      "torch>=1.9",
+      "tqdm>=4.40",
+      "typer>=0.1",
+      "pandas>=1 ; extra == 'csv'",
+      "distinctipy>=1.3.4 ; extra == 'plot'",
+      "matplotlib>=3.4 ; extra == 'plot'",
+      "scikit-learn>=1.6.1 ; extra == 'sklearn'",
+      "ffmpeg-python>=0.2.0 ; extra == 'video'"
+    ]
+  }
+}

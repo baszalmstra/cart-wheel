@@ -1,0 +1,11 @@
+# Package configuration for types-aiobotocore-iotthingsgraph
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_iotthingsgraph-3.0.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_iotthingsgraph-2.26.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_iotthingsgraph-2.25.2-py3-none-any.whl" },
+  { filename = "types_aiobotocore_iotthingsgraph-2.25.1-py3-none-any.whl" },
+  { filename = "types_aiobotocore_iotthingsgraph-2.25.0-py3-none-any.whl" },
+]

@@ -1,0 +1,72 @@
+{
+  "fastdiff-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca5f61f6ddf5a1564ddfd98132ad28e7abe4a88a638a8b014a2214f71e5918ec",
+    "dependencies": {
+      "required": [
+        "wasmer",
+        "wasmer-compiler-cranelift"
+      ]
+    },
+    "original_requirements": [
+      "wasmer (>=1.0.0)",
+      "wasmer-compiler-cranelift (>=1.0.0)"
+    ]
+  },
+  "fastdiff-0.1.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "800cacc86c46c77fafb43e735e4a2316ca57170d2cf055413a23f0ada25ca807",
+    "dependencies": {
+      "required": [
+        "wasmer",
+        "wasmer"
+      ]
+    },
+    "original_requirements": [
+      "wasmer ; python_version >= \"3.5\" and platform_machine == \"x86_64\" and sys_platform == \"darwin\"",
+      "wasmer ; python_version >= \"3.5\" and platform_machine == \"x86_64\" and sys_platform == \"linux\""
+    ]
+  },
+  "fastdiff-0.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "12a80c7afdbe3364eb5a628cfc041997bcd0077528ff32655293c507a4ae081e",
+    "dependencies": {
+      "required": [
+        "wasmer",
+        "wasmer"
+      ]
+    },
+    "original_requirements": [
+      "wasmer; python_version > \"3.2\" and platform_machine == \"x86_64\" and sys_platform == \"darwin\"",
+      "wasmer; python_version > \"3.2\" and platform_machine == \"x86_64\" and sys_platform == \"linux\""
+    ]
+  },
+  "fastdiff-0.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "996fbb872a312ffdef93841b276c73e9565fc4e49cacf2acc18c345dc585eed5",
+    "dependencies": {
+      "required": [
+        "wasmer",
+        "wasmer"
+      ]
+    },
+    "original_requirements": [
+      "wasmer ; platform_machine == \"x86_64\" and sys_platform == \"darwin\"",
+      "wasmer ; platform_machine == \"x86_64\" and sys_platform == \"linux\""
+    ]
+  },
+  "fastdiff-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b058c9c4fdf9f9b1b84196cb81bba38506ba79455eee8f48651b176cdafb45c5",
+    "dependencies": {
+      "required": [
+        "wasmer",
+        "wasmer"
+      ]
+    },
+    "original_requirements": [
+      "wasmer ; platform_machine == \"x86_64\" and sys_platform == \"darwin\"",
+      "wasmer ; platform_machine == \"x86_64\" and sys_platform == \"linux\""
+    ]
+  }
+}

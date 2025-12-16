@@ -1,0 +1,12 @@
+# Package configuration for jsonargparse
+conda_forge = "jsonargparse"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsonargparse-4.44.0-py3-none-any.whl" },
+  { filename = "jsonargparse-4.43.0-py3-none-any.whl" },
+  { filename = "jsonargparse-4.42.0-py3-none-any.whl" },
+  { filename = "jsonargparse-4.41.0-py3-none-any.whl" },
+  { filename = "jsonargparse-4.40.2-py3-none-any.whl" },
+]

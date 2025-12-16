@@ -1,0 +1,18 @@
+{
+  "azure_ai_vision_imageanalysis-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a7e4aed611d8b4b5fbe528e4e56257d3543b26affe98914f5fd2c53381c264d",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "azure-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "isodate >=0.6.1",
+      "azure-core >=1.30.0",
+      "typing-extensions >=4.6.0"
+    ]
+  }
+}

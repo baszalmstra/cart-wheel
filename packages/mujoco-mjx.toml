@@ -1,0 +1,12 @@
+# Package configuration for mujoco-mjx
+conda_forge = "mujoco-mjx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mujoco_mjx-3.4.0-py3-none-any.whl" },
+  { filename = "mujoco_mjx-3.3.7-py3-none-any.whl" },
+  { filename = "mujoco_mjx-3.3.6-py3-none-any.whl" },
+  { filename = "mujoco_mjx-3.3.5-py3-none-any.whl" },
+  { filename = "mujoco_mjx-3.3.4-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for joserfc
+conda_forge = "joserfc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "joserfc-1.5.0-py3-none-any.whl" },
+  { filename = "joserfc-1.4.3-py3-none-any.whl" },
+  { filename = "joserfc-1.4.2-py3-none-any.whl" },
+  { filename = "joserfc-1.4.1-py3-none-any.whl" },
+  { filename = "joserfc-1.4.0-py3-none-any.whl" },
+]

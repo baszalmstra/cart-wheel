@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-chatbot
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_chatbot-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_chatbot-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_chatbot-1.40.57-py3-none-any.whl" },
+  { filename = "types_boto3_chatbot-1.40.0-py3-none-any.whl" },
+  { filename = "types_boto3_chatbot-1.39.0-py3-none-any.whl" },
+]

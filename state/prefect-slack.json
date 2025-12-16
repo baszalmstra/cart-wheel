@@ -1,0 +1,147 @@
+{
+  "prefect_slack-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84067ef89c9085fd991943747e4943accb3fe586a9401355180bb50dac5dab21",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "slack-sdk",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "slack-sdk>=3.15.1",
+      "prefect>=3.0.0",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest>=8.3; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_slack-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd3d00dbf4bced900c7ef6744cba268706e02fedb44624a71dae3270f6591ad0",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "slack-sdk",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "slack-sdk>=3.15.1",
+      "prefect>=3.0.0rc1",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_slack-0.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ca77d85a9123805d53f9e524e8f44563ada228b2a96dc3ddac2b0fc4449811c",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "slack-sdk",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "slack-sdk>=3.15.1",
+      "prefect<3.0.0,>=2.20.0",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "mock; python_version < \"3.8\" and extra == \"dev\""
+    ]
+  },
+  "prefect_slack-0.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b875828ae9edb80f08e30bc6a4302946588c3234a4cbce211864c02b2b5568b",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "slack-sdk",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "slack-sdk >=3.15.1",
+      "prefect <3.0.0,>=2.14.10",
+      "coverage ; extra == 'dev'",
+      "interrogate ; extra == 'dev'",
+      "mkdocs-gen-files ; extra == 'dev'",
+      "mkdocs-material ; extra == 'dev'",
+      "mkdocs ; extra == 'dev'",
+      "mkdocstrings[python] ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pillow ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "mock ; (python_version < \"3.8\") and extra == 'dev'"
+    ]
+  },
+  "prefect_slack-0.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8956a522cb507aeddd1b28dc88c01800fc98f464bb39d6a1411f74c8745c0f26",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "slack-sdk",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "slack-sdk >=3.15.1",
+      "prefect >=2.14.10",
+      "coverage ; extra == 'dev'",
+      "interrogate ; extra == 'dev'",
+      "mkdocs-gen-files ; extra == 'dev'",
+      "mkdocs-material ; extra == 'dev'",
+      "mkdocs ; extra == 'dev'",
+      "mkdocstrings[python] ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pillow ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "mock ; (python_version < \"3.8\") and extra == 'dev'"
+    ]
+  }
+}

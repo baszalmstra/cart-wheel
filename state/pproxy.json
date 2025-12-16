@@ -1,0 +1,72 @@
+{
+  "pproxy-2.7.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a073d02616a47c43e1d20a547918c307dbda598c6d53869b165025f3cfe58e80",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pycryptodome (>=3.7.2) ; extra == 'accelerated'",
+      "uvloop (>=0.13.0) ; extra == 'accelerated'",
+      "python-daemon (>=2.2.3) ; extra == 'daemon'",
+      "aioquic (>=0.9.7) ; extra == 'quic'",
+      "asyncssh (>=2.5.0) ; extra == 'sshtunnel'"
+    ]
+  },
+  "pproxy-2.7.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f300bae5288c7c7f56be70d6275571efd2b4862f306d25bdace3c3537fb53a7",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pycryptodome (>=3.7.2) ; extra == 'accelerated'",
+      "uvloop (>=0.13.0) ; extra == 'accelerated'",
+      "python-daemon (>=2.2.3) ; extra == 'daemon'",
+      "aioquic (>=0.9.7) ; extra == 'quic'",
+      "asyncssh (>=2.5.0) ; extra == 'sshtunnel'"
+    ]
+  },
+  "pproxy-2.7.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "878f2e045bd02672f0ef22cf1a5ecd2d7157754f4c8a90e835cff9d94232cf98",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pycryptodome (>=3.7.2) ; extra == 'accelerated'",
+      "uvloop (>=0.13.0) ; extra == 'accelerated'",
+      "python-daemon (>=2.2.3) ; extra == 'daemon'",
+      "aioquic (>=0.9.7) ; extra == 'quic'",
+      "asyncssh (>=2.5.0) ; extra == 'sshtunnel'"
+    ]
+  },
+  "pproxy-2.7.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03b53cb0735adba088b3036f4004c16c7f4a7c9d744cc9ecd475e3d0059bcdf6",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pycryptodome (>=3.7.2) ; extra == 'accelerated'",
+      "uvloop (>=0.13.0) ; extra == 'accelerated'",
+      "python-daemon (>=2.2.3) ; extra == 'daemon'",
+      "aioquic (>=0.9.7) ; extra == 'quic'",
+      "asyncssh (>=2.5.0) ; extra == 'sshtunnel'"
+    ]
+  },
+  "pproxy-2.7.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13b7040f058e7f24b5c4592b6c697f5927100b1f209e8d2e7413d90dcf22f4cc",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pycryptodome (>=3.7.2) ; extra == 'accelerated'",
+      "uvloop (>=0.13.0) ; extra == 'accelerated'",
+      "python-daemon (>=2.2.3) ; extra == 'daemon'",
+      "aioquic (>=0.9.7) ; extra == 'quic'",
+      "asyncssh (>=2.5.0) ; extra == 'sshtunnel'"
+    ]
+  }
+}

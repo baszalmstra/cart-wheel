@@ -1,0 +1,24 @@
+{
+  "huey-2.5.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82ac73343248c5d7acec04814f952c61f7793e11fd99d26ed9030137d32f912c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "redis (>=3.0.0) ; extra == 'backends'",
+      "redis (>=3.0.0) ; extra == 'redis'"
+    ]
+  },
+  "huey-2.5.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0eac1fb2711f6366a1db003629354a0cea470a3db720d5bab0d140c28e993f9c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "redis (>=3.0.0) ; extra == 'backends'",
+      "redis (>=3.0.0) ; extra == 'redis'"
+    ]
+  }
+}

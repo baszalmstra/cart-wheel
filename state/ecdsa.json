@@ -1,0 +1,72 @@
+{
+  "ecdsa-0.19.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30638e27cf77b7e15c4c4cc1973720149e1033827cfd00661ca5c8cc0cdb24c3",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.9.0",
+      "gmpy ; extra == 'gmpy'",
+      "gmpy2 ; extra == 'gmpy2'"
+    ]
+  },
+  "ecdsa-0.19.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2cea9b88407fdac7bbeca0833b189e4c9c53f2ef1e1eaa29f6224dbc809b707a",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9.0)",
+      "gmpy ; extra == 'gmpy'",
+      "gmpy2 ; extra == 'gmpy2'"
+    ]
+  },
+  "ecdsa-0.18.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80600258e7ed2f16b9aa1d7c295bd70194109ad5a30fdee0eaeefef1d4c559dd",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9.0)",
+      "gmpy ; extra == 'gmpy'",
+      "gmpy2 ; extra == 'gmpy2'"
+    ]
+  },
+  "ecdsa-0.17.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5cf31d5b33743abe0dfc28999036c849a69d548f994b535e527ee3cb7f3ef676",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9.0)",
+      "gmpy ; extra == 'gmpy'",
+      "gmpy2 ; extra == 'gmpy2'"
+    ]
+  },
+  "ecdsa-0.16.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "881fa5e12bb992972d3d1b3d4dfbe149ab76a89f13da02daa5ea1ec7dea6e747",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9.0)",
+      "gmpy ; extra == 'gmpy'",
+      "gmpy2 ; extra == 'gmpy2'"
+    ]
+  }
+}

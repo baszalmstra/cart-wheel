@@ -1,0 +1,8 @@
+# Package configuration for gntp
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gntp-1.0.3-py3-none-any.whl" },
+  { filename = "gntp-1.0.2-py2.py3-none-any.whl" },
+]

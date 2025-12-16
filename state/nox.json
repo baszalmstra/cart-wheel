@@ -1,0 +1,162 @@
+{
+  "nox-2025.11.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "707171f9f63bc685da9d00edd8c2ceec8405b8e38b5fb4e46114a860070ef0ff",
+    "dependencies": {
+      "required": [
+        "argcomplete",
+        "attrs",
+        "colorlog",
+        "dependency-groups",
+        "humanize",
+        "packaging",
+        "packaging",
+        "tomli",
+        "virtualenv",
+        "virtualenv"
+      ]
+    },
+    "original_requirements": [
+      "argcomplete<4,>=1.9.4",
+      "attrs>=24.1",
+      "colorlog<7,>=2.6.1",
+      "dependency-groups>=1.1",
+      "humanize>=4",
+      "packaging>=20.9; python_version < '3.10'",
+      "packaging>=21; python_version >= '3.10'",
+      "tomli>=1.1; python_version < '3.11'",
+      "virtualenv>=20.14.1; python_version < '3.10'",
+      "virtualenv>=20.15; python_version >= '3.10'",
+      "pbs-installer[all]>=2025.1.6; extra == 'pbs'",
+      "importlib-resources; (python_version < '3.9') and extra == 'tox_to_nox'",
+      "jinja2; extra == 'tox_to_nox'",
+      "tox>=4; extra == 'tox_to_nox'",
+      "uv>=0.1.6; extra == 'uv'"
+    ]
+  },
+  "nox-2025.10.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4ef28709d5fb0d964ccc987c8863f76ed860700fabd04ad557252df3562a7e5",
+    "dependencies": {
+      "required": [
+        "argcomplete",
+        "attrs",
+        "colorlog",
+        "dependency-groups",
+        "humanize",
+        "packaging",
+        "packaging",
+        "tomli",
+        "virtualenv",
+        "virtualenv"
+      ]
+    },
+    "original_requirements": [
+      "argcomplete<4,>=1.9.4",
+      "attrs>=24.1",
+      "colorlog<7,>=2.6.1",
+      "dependency-groups>=1.1",
+      "humanize>=4",
+      "packaging>=20.9; python_version < '3.10'",
+      "packaging>=21; python_version >= '3.10'",
+      "tomli>=1.1; python_version < '3.11'",
+      "virtualenv>=20.14.1; python_version < '3.10'",
+      "virtualenv>=20.15; python_version >= '3.10'",
+      "pbs-installer[all]>=2025.1.6; extra == 'pbs'",
+      "importlib-resources; (python_version < '3.9') and extra == 'tox_to_nox'",
+      "jinja2; extra == 'tox_to_nox'",
+      "tox>=4; extra == 'tox_to_nox'",
+      "uv>=0.1.6; extra == 'uv'"
+    ]
+  },
+  "nox-2025.10.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e08f987d143e8011820ef0b83ea9cc1b7380c6190d1435758c444abf3445520",
+    "dependencies": {
+      "required": [
+        "argcomplete",
+        "attrs",
+        "colorlog",
+        "dependency-groups",
+        "packaging",
+        "packaging",
+        "pbs-installer",
+        "tomli",
+        "virtualenv",
+        "virtualenv"
+      ]
+    },
+    "original_requirements": [
+      "argcomplete<4,>=1.9.4",
+      "attrs>=24.1",
+      "colorlog<7,>=2.6.1",
+      "dependency-groups>=1.1",
+      "packaging>=20.9; python_version < '3.10'",
+      "packaging>=21; python_version >= '3.10'",
+      "pbs-installer[all]>=2025.1.6",
+      "tomli>=1.1; python_version < '3.11'",
+      "virtualenv>=20.14.1; python_version < '3.10'",
+      "virtualenv>=20.15; python_version >= '3.10'",
+      "importlib-resources; (python_version < '3.9') and extra == 'tox_to_nox'",
+      "jinja2; extra == 'tox_to_nox'",
+      "tox>=4; extra == 'tox_to_nox'",
+      "uv>=0.1.6; extra == 'uv'"
+    ]
+  },
+  "nox-2025.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "56abd55cf37ff523c254fcec4d152ed51e5fe80e2ab8317221d8b828ac970a31",
+    "dependencies": {
+      "required": [
+        "argcomplete",
+        "attrs",
+        "colorlog",
+        "dependency-groups",
+        "packaging",
+        "tomli",
+        "virtualenv"
+      ]
+    },
+    "original_requirements": [
+      "argcomplete<4,>=1.9.4",
+      "attrs>=23.1",
+      "colorlog<7,>=2.6.1",
+      "dependency-groups>=1.1",
+      "packaging>=20.9",
+      "tomli>=1; python_version < '3.11'",
+      "virtualenv>=20.14.1",
+      "importlib-resources; (python_version < '3.9') and extra == 'tox_to_nox'",
+      "jinja2; extra == 'tox_to_nox'",
+      "tox>=4; extra == 'tox_to_nox'",
+      "uv>=0.1.6; extra == 'uv'"
+    ]
+  },
+  "nox-2025.2.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d1e92d1918c6980d70aee9cf1c1d19d16faa71c4afe338fffd39e8a460e2067",
+    "dependencies": {
+      "required": [
+        "argcomplete",
+        "attrs",
+        "colorlog",
+        "dependency-groups",
+        "packaging",
+        "tomli",
+        "virtualenv"
+      ]
+    },
+    "original_requirements": [
+      "argcomplete<4,>=1.9.4",
+      "attrs>=23.1",
+      "colorlog<7,>=2.6.1",
+      "dependency-groups>=1.1",
+      "packaging>=20.9",
+      "tomli>=1; python_version < '3.11'",
+      "virtualenv>=20.14.1",
+      "importlib-resources; (python_version < '3.9') and extra == 'tox_to_nox'",
+      "jinja2; extra == 'tox_to_nox'",
+      "tox>=4; extra == 'tox_to_nox'",
+      "uv>=0.1.6; extra == 'uv'"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+# Package configuration for polars-runtime-32
+conda_forge = "polars-runtime-32"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "polars_runtime_32-0.0.0-py3-none-any.whl" },
+]

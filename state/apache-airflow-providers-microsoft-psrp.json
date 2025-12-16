@@ -1,0 +1,80 @@
+{
+  "apache_airflow_providers_microsoft_psrp-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e8ed5684e7d92c7ad204142d12dddc4dbf60c0324fa3e85ef73bc00f1084d245",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pypsrp"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "pypsrp>=0.8.0"
+    ]
+  },
+  "apache_airflow_providers_microsoft_psrp-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8df53c7f9a00c05f4408f8effc6eefabefad62a93f3684210aee466393bc73c1",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pypsrp"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pypsrp>=0.8.0"
+    ]
+  },
+  "apache_airflow_providers_microsoft_psrp-3.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c0afa0e2637ed4786ff05c63d25b62cadcdf0884303bf5541c0a7694d67c700",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pypsrp"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pypsrp>=0.8.0"
+    ]
+  },
+  "apache_airflow_providers_microsoft_psrp-3.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0bb5b965f6ecbd79befaf62e3f409a72926ce51daba63bdf6cd53842c2dd6d9",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pypsrp"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pypsrp>=0.8.0"
+    ]
+  },
+  "apache_airflow_providers_microsoft_psrp-3.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "343107f0247b81fc01cb0d52d2eb4ac20ee0b7e500cce83ee5d2f0f9b51b0482",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "pypsrp"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "pypsrp>=0.8.0"
+    ]
+  }
+}

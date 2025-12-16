@@ -1,0 +1,11 @@
+# Package configuration for clang
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "clang-20.1.5-py3-none-any.whl" },
+  { filename = "clang-20.1.4-py3-none-any.whl" },
+  { filename = "clang-20.1.3-py3-none-any.whl" },
+  { filename = "clang-20.1.2-py3-none-any.whl" },
+  { filename = "clang-20.1.0-py3-none-any.whl" },
+]

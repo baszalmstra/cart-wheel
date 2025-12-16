@@ -1,0 +1,102 @@
+{
+  "flower-2.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9db2c621eeefbc844c8dd88be64aef61e84e2deb29b271e02ab2b5b9f01068e2",
+    "dependencies": {
+      "required": [
+        "celery",
+        "tornado",
+        "prometheus-client",
+        "humanize",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "celery (>=5.0.5)",
+      "tornado (<7.0.0,>=5.0.0)",
+      "prometheus-client (>=0.8.0)",
+      "humanize",
+      "pytz"
+    ]
+  },
+  "flower-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "571f9ed1c57a622e862de35eceb8a4244f023fbcfb7175f53e45ebe679f46d90",
+    "dependencies": {
+      "required": [
+        "celery",
+        "tornado",
+        "prometheus-client",
+        "humanize",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "celery (>=5.0.5)",
+      "tornado (<7.0.0,>=5.0.0)",
+      "prometheus-client (>=0.8.0)",
+      "humanize",
+      "pytz"
+    ]
+  },
+  "flower-1.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae2977cf7343c526cf44def8c7e7173db8dedb8249b91ba4b88cfd18e7a2d486",
+    "dependencies": {
+      "required": [
+        "celery",
+        "tornado",
+        "prometheus-client",
+        "humanize",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "celery (>=5.0.5)",
+      "tornado (<7.0.0,>=5.0.0)",
+      "prometheus-client (>=0.8.0)",
+      "humanize",
+      "pytz"
+    ]
+  },
+  "flower-1.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77be4bece7330893703e8cca3f3baddba356a0019186594a961e3968289da7ec",
+    "dependencies": {
+      "required": [
+        "celery",
+        "tornado",
+        "prometheus-client",
+        "humanize",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "celery (>=5.0.5)",
+      "tornado (<7.0.0,>=5.0.0)",
+      "prometheus-client (>=0.8.0)",
+      "humanize",
+      "pytz"
+    ]
+  },
+  "flower-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a4fcf959881135303e98a74cc7533298b7dfeb48abcd1d90c5bd52cb789430a8",
+    "dependencies": {
+      "required": [
+        "celery",
+        "tornado",
+        "prometheus-client",
+        "humanize",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "celery (>=5.0.5)",
+      "tornado (<7.0.0,>=5.0.0)",
+      "prometheus-client (>=0.8.0)",
+      "humanize",
+      "pytz"
+    ]
+  }
+}

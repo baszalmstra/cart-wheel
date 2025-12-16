@@ -1,0 +1,72 @@
+{
+  "cma-4.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "61177b54f12bfeeac307970f8caefd8210dfa1d43a2da34e9ef8b1416d930fd8",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "matplotlib; extra == \"plotting\"",
+      "moarchiving; extra == \"constrained-solution-tracking\""
+    ]
+  },
+  "cma-4.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "46da7f95056b02496f4117269026dce3953ef0ae89717267540566effb85b052",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "matplotlib; extra == \"plotting\"",
+      "moarchiving; extra == \"constrained-solution-tracking\""
+    ]
+  },
+  "cma-4.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65ad8799e6438b8b82c82c11aad070727e5887915ea6f2c17d7ca0eea940c57a",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "matplotlib; extra == \"plotting\"",
+      "moarchiving; extra == \"constrained-solution-tracking\""
+    ]
+  },
+  "cma-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "844dc93abaa427c5a37520586970c463dfce6f8aad5652e0fbd6e0229970f1ae",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "matplotlib; extra == \"plotting\"",
+      "moarchiving; extra == \"constrained-solution-tracking\""
+    ]
+  },
+  "cma-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "97b86ba1ac9f1cbb189a06c4d4a78f591f0878e5dd3e55c95e88e622e78c1a10",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "moarchiving; extra == \"constrained-solution-tracking\"",
+      "matplotlib; extra == \"plotting\""
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+# Package configuration for gprof2dot
+conda_forge = "gprof2dot"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gprof2dot-2025.4.14-py3-none-any.whl" },
+  { filename = "gprof2dot-2024.6.6-py2.py3-none-any.whl" },
+  { filename = "gprof2dot-2022.7.29-py2.py3-none-any.whl" },
+]

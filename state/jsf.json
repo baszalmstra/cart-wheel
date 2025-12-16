@@ -1,0 +1,113 @@
+{
+  "jsf-0.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4472c8c2d776eb3e0bb08368caa6ae0ead7ea78b20653facc07b6d93768612c",
+    "dependencies": {
+      "required": [
+        "faker",
+        "jsonschema",
+        "pydantic",
+        "rstr",
+        "smart-open",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "faker (>=15.3.4)",
+      "jsonschema (>=4.17.3)",
+      "pydantic (>=2.0.0)",
+      "rstr (>=3.2.0)",
+      "smart-open[http] (>=6.3.0)",
+      "typing-extensions (>=4.9.0)",
+      "typer (>=0.7.0) ; extra == 'cli'"
+    ]
+  },
+  "jsf-0.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11e36215bea2070a101375f0abb7c82f37ba0c1c1b06bd3dd70f73f52fe5b7a8",
+    "dependencies": {
+      "required": [
+        "faker",
+        "jsonschema",
+        "pydantic",
+        "rstr",
+        "smart-open",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "faker (>=15.3.4)",
+      "jsonschema (>=4.17.3)",
+      "pydantic (>=2.0.0)",
+      "rstr (>=3.2.0)",
+      "smart-open[http] (>=6.3.0)",
+      "typing-extensions (>=4.9.0)",
+      "typer (>=0.7.0) ; extra == 'cli'"
+    ]
+  },
+  "jsf-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08656e4d6c1a7aa171071140e9a30d454dcaef56270ceb725e96edca7bcdbe8a",
+    "dependencies": {
+      "required": [
+        "faker",
+        "jsonschema",
+        "pydantic",
+        "rstr",
+        "smart-open",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "faker (>=15.3.4)",
+      "jsonschema (>=4.17.3)",
+      "pydantic (>=2.0.0)",
+      "rstr (>=3.2.0)",
+      "smart-open[http] (>=6.3.0)",
+      "typing-extensions (>=4.9.0)",
+      "typer (>=0.7.0) ; extra == 'cli'"
+    ]
+  },
+  "jsf-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "509061efa67a6292651093d6471e88002a32ed917bee88d83386cbf9778e59f2",
+    "dependencies": {
+      "required": [
+        "faker",
+        "jsonschema",
+        "pydantic",
+        "rstr",
+        "smart-open"
+      ]
+    },
+    "original_requirements": [
+      "faker (>=15.3.4)",
+      "jsonschema (>=4.17.3)",
+      "pydantic (>=2.0.0)",
+      "rstr (>=3.2.0)",
+      "smart-open[http] (>=6.3.0)",
+      "typer (>=0.7.0) ; extra == 'cli'"
+    ]
+  },
+  "jsf-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "139eaa0d6320ef40ad57ac585f1da100f98d9de57ffcd759937851832d434439",
+    "dependencies": {
+      "required": [
+        "faker",
+        "jsonschema",
+        "pydantic",
+        "rstr",
+        "smart-open"
+      ]
+    },
+    "original_requirements": [
+      "faker (>=15.3.4)",
+      "jsonschema (>=4.17.3)",
+      "pydantic (>=2.0.0)",
+      "rstr (>=3.2.0)",
+      "smart-open[http] (>=6.3.0)",
+      "typer (>=0.7.0) ; extra == 'cli'"
+    ]
+  }
+}

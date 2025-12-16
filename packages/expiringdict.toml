@@ -1,0 +1,8 @@
+# Package configuration for expiringdict
+conda_forge = "expiringdict"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "expiringdict-1.2.2-py3-none-any.whl" },
+]

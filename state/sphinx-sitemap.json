@@ -1,0 +1,105 @@
+{
+  "sphinx_sitemap-2.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f1f1d3a9ad012ba17a7ef0b560d303bff2d0db26647567d6e810bcc754466664",
+    "dependencies": {
+      "required": [
+        "sphinx-last-updated-by-git"
+      ]
+    },
+    "original_requirements": [
+      "sphinx-last-updated-by-git",
+      "tox; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "sphinx; extra == \"dev\"",
+      "sphinx-last-updated-by-git; extra == \"dev\"",
+      "pytest; extra == \"dev\""
+    ]
+  },
+  "sphinx_sitemap-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "332042cd5b9385f61ec2861dfd550d9bccbdfcff86f6b68c7072cf40c9f16363",
+    "dependencies": {
+      "required": [
+        "sphinx-last-updated-by-git"
+      ]
+    },
+    "original_requirements": [
+      "sphinx-last-updated-by-git",
+      "tox; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "sphinx; extra == \"dev\"",
+      "sphinx-last-updated-by-git; extra == \"dev\"",
+      "pytest; extra == \"dev\""
+    ]
+  },
+  "sphinx_sitemap-2.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a6a8dcecb0ffb85fd37678f785cfcc40adfe3eebafb05e678971e5260b117e4",
+    "dependencies": {
+      "required": [
+        "sphinx-last-updated-by-git"
+      ]
+    },
+    "original_requirements": [
+      "sphinx-last-updated-by-git",
+      "tox; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "sphinx; extra == \"dev\"",
+      "sphinx-last-updated-by-git; extra == \"dev\"",
+      "pytest; extra == \"dev\""
+    ]
+  },
+  "sphinx_sitemap-2.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7dd848f747a7fd34d75ab14ac0938f5740dc72c222c93653ae740223f63dd1bf",
+    "dependencies": {
+      "required": [
+        "requests",
+        "flask",
+        "sphinx-last-updated-by-git"
+      ]
+    },
+    "original_requirements": [
+      "requests>=2.28.1",
+      "flask>=2.0.0",
+      "sphinx-last-updated-by-git",
+      "tox; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "sphinx; extra == \"dev\"",
+      "sphinx-last-updated-by-git; extra == \"dev\"",
+      "pytest; extra == \"dev\""
+    ]
+  },
+  "sphinx_sitemap-2.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c3843d85c3b558df6138b1dd3efcd1e165b1fff7b9aba0bc570be3399c22f8c6",
+    "dependencies": {
+      "required": [
+        "requests",
+        "flask",
+        "sphinx-last-updated-by-git"
+      ]
+    },
+    "original_requirements": [
+      "requests>=2.28.1",
+      "flask>=2.0.0",
+      "sphinx-last-updated-by-git",
+      "tox; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "sphinx; extra == \"dev\"",
+      "sphinx-last-updated-by-git; extra == \"dev\"",
+      "pytest; extra == \"dev\""
+    ]
+  }
+}

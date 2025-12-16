@@ -1,0 +1,12 @@
+# Package configuration for google-adk
+conda_forge = "google-adk"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_adk-1.21.0-py3-none-any.whl" },
+  { filename = "google_adk-1.20.0-py3-none-any.whl" },
+  { filename = "google_adk-1.19.0-py3-none-any.whl" },
+  { filename = "google_adk-1.18.0-py3-none-any.whl" },
+  { filename = "google_adk-1.17.0-py3-none-any.whl" },
+]

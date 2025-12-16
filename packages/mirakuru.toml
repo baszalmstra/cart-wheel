@@ -1,0 +1,12 @@
+# Package configuration for mirakuru
+conda_forge = "mirakuru"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mirakuru-3.0.1-py3-none-any.whl" },
+  { filename = "mirakuru-2.6.1-py3-none-any.whl" },
+  { filename = "mirakuru-2.6.0-py3-none-any.whl" },
+  { filename = "mirakuru-2.5.3-py3-none-any.whl" },
+  { filename = "mirakuru-2.5.2-py3-none-any.whl" },
+]

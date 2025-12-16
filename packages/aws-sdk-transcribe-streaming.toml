@@ -1,0 +1,8 @@
+# Package configuration for aws-sdk-transcribe-streaming
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_sdk_transcribe_streaming-0.2.0-py3-none-any.whl" },
+  { filename = "aws_sdk_transcribe_streaming-0.1.0-py3-none-any.whl" },
+]

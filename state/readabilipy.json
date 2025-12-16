@@ -1,0 +1,74 @@
+{
+  "readabilipy-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d106da0fad11d5fdfcde21f5c5385556bfa8ff0258483037d39ea6b1d6db3943",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "html5lib",
+        "lxml",
+        "regex"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4>=4.7.1",
+      "html5lib",
+      "lxml",
+      "regex",
+      "sphinx; extra == \"docs\"",
+      "m2r; extra == \"docs\"",
+      "coveralls; extra == \"test\"",
+      "pycodestyle; extra == \"test\"",
+      "pyflakes; extra == \"test\"",
+      "pylint; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-benchmark; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "sphinx; extra == \"dev\"",
+      "m2r; extra == \"dev\"",
+      "coveralls; extra == \"dev\"",
+      "pycodestyle; extra == \"dev\"",
+      "pyflakes; extra == \"dev\"",
+      "pylint; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-benchmark; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\""
+    ]
+  },
+  "readabilipy-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0050853cd6ab012ac75bb4d8f06427feb7dc32054da65060da44654d049802d0",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "html5lib",
+        "lxml",
+        "regex"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4 (>=4.7.1)",
+      "html5lib",
+      "lxml",
+      "regex",
+      "sphinx ; extra == 'dev'",
+      "m2r ; extra == 'dev'",
+      "coveralls ; extra == 'dev'",
+      "pycodestyle ; extra == 'dev'",
+      "pyflakes ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-benchmark ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "m2r ; extra == 'docs'",
+      "coveralls ; extra == 'test'",
+      "pycodestyle ; extra == 'test'",
+      "pyflakes ; extra == 'test'",
+      "pylint ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-benchmark ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for pytest-docker
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_docker-3.2.5-py3-none-any.whl" },
+  { filename = "pytest_docker-3.2.4-py3-none-any.whl" },
+  { filename = "pytest_docker-3.2.3-py3-none-any.whl" },
+  { filename = "pytest_docker-3.2.2-py3-none-any.whl" },
+  { filename = "pytest_docker-3.2.1-py3-none-any.whl" },
+]

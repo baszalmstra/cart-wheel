@@ -1,0 +1,11 @@
+# Package configuration for upstash-vector
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "upstash_vector-0.8.0-py3-none-any.whl" },
+  { filename = "upstash_vector-0.7.1-py3-none-any.whl" },
+  { filename = "upstash_vector-0.7.0-py3-none-any.whl" },
+  { filename = "upstash_vector-0.6.0-py3-none-any.whl" },
+  { filename = "upstash_vector-0.5.0-py3-none-any.whl" },
+]

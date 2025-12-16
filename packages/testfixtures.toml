@@ -1,0 +1,12 @@
+# Package configuration for testfixtures
+conda_forge = "testfixtures"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "testfixtures-10.0.0-py3-none-any.whl" },
+  { filename = "testfixtures-9.2.0-py3-none-any.whl" },
+  { filename = "testfixtures-9.1.0-py3-none-any.whl" },
+  { filename = "testfixtures-9.0.1-py3-none-any.whl" },
+  { filename = "testfixtures-9.0.0-py3-none-any.whl" },
+]

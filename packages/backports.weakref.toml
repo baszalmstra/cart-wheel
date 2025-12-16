@@ -1,0 +1,7 @@
+# Package configuration for backports.weakref
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "backports.weakref-1.0.post1-py2.py3-none-any.whl" },
+]

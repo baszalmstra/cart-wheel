@@ -1,0 +1,9 @@
+# Package configuration for swanboard
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "swanboard-0.1.6-py3-none-any.whl" },
+  { filename = "swanboard-0.1.1-py3-none-any.whl" },
+  { filename = "swanboard-0.1.0-py3-none-any.whl" },
+]

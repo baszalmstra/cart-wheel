@@ -1,0 +1,44 @@
+{
+  "optimum_furiosa-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13904bd5d45563e7d525478d07f7d2c4a1311a70091f1bb5058d2f2d19478e93",
+    "dependencies": {
+      "required": [
+        "optimum",
+        "transformers",
+        "datasets",
+        "furiosa-optimizer",
+        "furiosa-quantizer",
+        "furiosa-quantizer-impl",
+        "furiosa-sdk",
+        "onnx",
+        "sentencepiece",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "optimum (>=1.8.0)",
+      "transformers (>=4.20.0)",
+      "datasets (>=1.4.0)",
+      "furiosa-optimizer",
+      "furiosa-quantizer (==0.9.0)",
+      "furiosa-quantizer-impl (==0.9.1)",
+      "furiosa-sdk",
+      "onnx (>=1.12.0)",
+      "sentencepiece",
+      "scipy",
+      "black (~=23.1) ; extra == 'quality'",
+      "ruff (>=0.0.241) ; extra == 'quality'",
+      "filelock ; extra == 'testing'",
+      "GitPython ; extra == 'testing'",
+      "parameterized ; extra == 'testing'",
+      "psutil ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-pythonpath ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'",
+      "Pillow ; extra == 'testing'",
+      "librosa ; extra == 'testing'",
+      "soundfile ; extra == 'testing'"
+    ]
+  }
+}

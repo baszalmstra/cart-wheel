@@ -1,0 +1,12 @@
+# Package configuration for smbprotocol
+conda_forge = "smbprotocol"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "smbprotocol-1.15.0-py3-none-any.whl" },
+  { filename = "smbprotocol-1.14.0-py3-none-any.whl" },
+  { filename = "smbprotocol-1.13.0-py3-none-any.whl" },
+  { filename = "smbprotocol-1.12.0-py3-none-any.whl" },
+  { filename = "smbprotocol-1.11.0-py3-none-any.whl" },
+]

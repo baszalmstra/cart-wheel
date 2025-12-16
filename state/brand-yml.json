@@ -1,0 +1,56 @@
+{
+  "brand_yml-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f1bd13fe32eee43b3e36a483184b038575bc386d4576e95ac44ca9522fab58ee",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "htmltools",
+        "pydantic",
+        "ruamel-yaml"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2.0",
+      "htmltools>=0.2.0",
+      "pydantic>=2",
+      "ruamel-yaml>=0.18.0",
+      "griffe>=1; extra == 'docs'",
+      "ipykernel; extra == 'docs'",
+      "nbclient; extra == 'docs'",
+      "nbformat; extra == 'docs'",
+      "pyyaml; extra == 'docs'",
+      "quartodoc>=0.7; extra == 'docs'",
+      "pyright>=1.1.251; extra == 'test'",
+      "pytest>=8; extra == 'test'",
+      "syrupy>=4; extra == 'test'"
+    ]
+  },
+  "brand_yml-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3b16ec36dfa451eac92982c97bdddf39e102cd3788fbf4a3fece9ddc5a66c3e",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "htmltools",
+        "pydantic",
+        "ruamel-yaml"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2.0",
+      "htmltools>=0.2.0",
+      "pydantic>=2",
+      "ruamel-yaml>=0.18.0",
+      "griffe>=1; extra == 'docs'",
+      "ipykernel; extra == 'docs'",
+      "nbclient; extra == 'docs'",
+      "nbformat; extra == 'docs'",
+      "pyyaml; extra == 'docs'",
+      "quartodoc>=0.7; extra == 'docs'",
+      "pyright>=1.1.251; extra == 'test'",
+      "pytest>=8; extra == 'test'",
+      "syrupy>=4; extra == 'test'"
+    ]
+  }
+}

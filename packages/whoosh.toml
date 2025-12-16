@@ -1,0 +1,10 @@
+# Package configuration for whoosh
+conda_forge = "whoosh"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Whoosh-2.7.4-py2.py3-none-any.whl" },
+  { filename = "Whoosh-2.7.2-py2.py3-none-any.whl" },
+  { filename = "Whoosh-2.7.1-py2.py3-none-any.whl" },
+]

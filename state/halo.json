@@ -1,0 +1,104 @@
+{
+  "halo-0.0.30-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "78750d4778488b79b12104f3a966259579df6b42eec0d7736b3125bfc4c01b10",
+    "dependencies": {
+      "required": [
+        "log-symbols",
+        "spinners",
+        "termcolor",
+        "colorama",
+        "six",
+        "backports.shutil-get-terminal-size"
+      ]
+    },
+    "original_requirements": [
+      "log-symbols (>=0.0.14)",
+      "spinners (>=0.0.24)",
+      "termcolor (>=1.1.0)",
+      "colorama (>=0.3.9)",
+      "six (>=1.12.0)",
+      "backports.shutil-get-terminal-size (>=1.0.0) ; python_version < \"3.3\"",
+      "IPython (==5.7.0) ; extra == 'ipython'",
+      "ipywidgets (==7.1.0) ; extra == 'ipython'"
+    ]
+  },
+  "halo-0.0.29-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67996649083229a9b7a93fe7c871c97d40bd2f1a988540eccf948a6b1844f644",
+    "dependencies": {
+      "required": [
+        "log-symbols",
+        "spinners",
+        "cursor",
+        "termcolor",
+        "colorama",
+        "six",
+        "backports.shutil-get-terminal-size"
+      ]
+    },
+    "original_requirements": [
+      "log-symbols (>=0.0.14)",
+      "spinners (>=0.0.24)",
+      "cursor (>=1.2.0)",
+      "termcolor (>=1.1.0)",
+      "colorama (>=0.3.9)",
+      "six (>=1.12.0)",
+      "backports.shutil-get-terminal-size (>=1.0.0) ; python_version < \"3.3\"",
+      "IPython (==5.7.0) ; extra == 'ipython'",
+      "ipywidgets (==7.1.0) ; extra == 'ipython'"
+    ]
+  },
+  "halo-0.0.28-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9adbfe0a23ae7198a17895aac8845685eb0abeaa13c6a56b60410b347d0f503a",
+    "dependencies": {
+      "required": [
+        "log-symbols",
+        "spinners",
+        "cursor",
+        "termcolor",
+        "colorama",
+        "six",
+        "backports.shutil-get-terminal-size"
+      ]
+    },
+    "original_requirements": [
+      "log-symbols (>=0.0.13)",
+      "spinners (>=0.0.23)",
+      "cursor (>=1.2.0)",
+      "termcolor (>=1.1.0)",
+      "colorama (>=0.3.9)",
+      "six (>=1.12.0)",
+      "backports.shutil-get-terminal-size (>=1.0.0) ; python_version < \"3.3\"",
+      "IPython (==5.7.0) ; extra == 'ipython'",
+      "ipywidgets (==7.1.0) ; extra == 'ipython'"
+    ]
+  },
+  "halo-0.0.27-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e35de41462d168ee0b9d664c0fdb076441e05010773eb782c4301422a4ed9e1a",
+    "dependencies": {
+      "required": [
+        "log-symbols",
+        "spinners",
+        "cursor",
+        "termcolor",
+        "colorama",
+        "six",
+        "backports.shutil-get-terminal-size"
+      ]
+    },
+    "original_requirements": [
+      "log-symbols (>=0.0.13)",
+      "spinners (>=0.0.23)",
+      "cursor (>=1.2.0)",
+      "termcolor (>=1.1.0)",
+      "colorama (>=0.3.9)",
+      "six (>=1.12.0)",
+      "backports.shutil-get-terminal-size (>=1.0.0) ; python_version < \"3.3\"",
+      "IPython (==5.7.0) ; extra == 'ipython'",
+      "ipywidgets (==7.1.0) ; extra == 'ipython'"
+    ]
+  }
+}

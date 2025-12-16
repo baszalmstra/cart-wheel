@@ -1,0 +1,9 @@
+# Package configuration for pgpy
+conda_forge = "pgpy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "PGPy-0.5.4-py2.py3-none-any.whl" },
+  { filename = "PGPy-0.5.3-py2.py3-none-any.whl" },
+]

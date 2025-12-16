@@ -1,0 +1,107 @@
+{
+  "matrepr-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7a3fac5a8f2fa77b0de73fa4240faef11f381bab1174f9c057f6fec06662bd8",
+    "dependencies": {
+      "required": [
+        "tabulate"
+      ]
+    },
+    "original_requirements": [
+      "tabulate",
+      "scipy ; extra == 'supported'",
+      "numpy ; extra == 'supported'",
+      "python-graphblas ; extra == 'supported'",
+      "sparse ; extra == 'supported'",
+      "torch >=2.0.0 ; extra == 'supported'",
+      "tensorflow ; extra == 'supported'",
+      "pytest ; extra == 'test'",
+      "html5lib ; extra == 'test'",
+      "scipy ; extra == 'test'"
+    ]
+  },
+  "matrepr-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50e983bb03fb3aed80705dc9adcc3fd085bd4d2afb5693f831ae598d25893823",
+    "dependencies": {
+      "required": [
+        "tabulate"
+      ]
+    },
+    "original_requirements": [
+      "tabulate",
+      "scipy ; extra == 'supported'",
+      "numpy ; extra == 'supported'",
+      "python-graphblas ; extra == 'supported'",
+      "sparse ; extra == 'supported'",
+      "torch >=2.0.0 ; extra == 'supported'",
+      "tensorflow ; extra == 'supported'",
+      "pytest ; extra == 'test'",
+      "html5lib ; extra == 'test'",
+      "scipy ; extra == 'test'"
+    ]
+  },
+  "matrepr-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e38f10b07eb045e18faec77c83a3100b04d2a368918cc8eb8177410a6f4b838a",
+    "dependencies": {
+      "required": [
+        "tabulate"
+      ]
+    },
+    "original_requirements": [
+      "tabulate",
+      "scipy ; extra == 'supported'",
+      "numpy ; extra == 'supported'",
+      "python-graphblas ; extra == 'supported'",
+      "sparse ; extra == 'supported'",
+      "torch ; extra == 'supported'",
+      "tensorflow ; extra == 'supported'",
+      "pytest ; extra == 'test'",
+      "html5lib ; extra == 'test'",
+      "scipy ; extra == 'test'"
+    ]
+  },
+  "matrepr-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f5a3b35432b2d1d0195b7ed4b286248b263541314217c6a581370a2dd3ce09cb",
+    "dependencies": {
+      "required": [
+        "tabulate"
+      ]
+    },
+    "original_requirements": [
+      "tabulate",
+      "scipy ; extra == 'supported'",
+      "numpy ; extra == 'supported'",
+      "python-graphblas ; extra == 'supported'",
+      "sparse ; extra == 'supported'",
+      "torch ; extra == 'supported'",
+      "tensorflow ; extra == 'supported'",
+      "pytest ; extra == 'test'",
+      "html5lib ; extra == 'test'",
+      "scipy ; extra == 'test'"
+    ]
+  },
+  "matrepr-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd333592935dddb7a9154bf202f1ba42fca9a3ba0dfd1bf1de921b3cb718a0ba",
+    "dependencies": {
+      "required": [
+        "tabulate"
+      ]
+    },
+    "original_requirements": [
+      "tabulate",
+      "scipy ; extra == 'supported'",
+      "numpy ; extra == 'supported'",
+      "python-graphblas ; extra == 'supported'",
+      "sparse ; extra == 'supported'",
+      "torch ; extra == 'supported'",
+      "tensorflow ; extra == 'supported'",
+      "pytest ; extra == 'test'",
+      "html5lib ; extra == 'test'",
+      "scipy ; extra == 'test'"
+    ]
+  }
+}

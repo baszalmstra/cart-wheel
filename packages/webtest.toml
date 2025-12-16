@@ -1,0 +1,12 @@
+# Package configuration for webtest
+conda_forge = "webtest"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "webtest-3.0.7-py3-none-any.whl" },
+  { filename = "webtest-3.0.6-py3-none-any.whl" },
+  { filename = "WebTest-3.0.5-py3-none-any.whl" },
+  { filename = "WebTest-3.0.4-py3-none-any.whl" },
+  { filename = "WebTest-3.0.3-py3-none-any.whl" },
+]

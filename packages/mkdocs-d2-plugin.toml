@@ -1,0 +1,11 @@
+# Package configuration for mkdocs-d2-plugin
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_d2_plugin-1.6.0-py3-none-any.whl" },
+  { filename = "mkdocs_d2_plugin-1.5.0-py3-none-any.whl" },
+  { filename = "mkdocs_d2_plugin-1.4.0-py3-none-any.whl" },
+  { filename = "mkdocs_d2_plugin-1.3.4-py3-none-any.whl" },
+  { filename = "mkdocs_d2_plugin-1.3.3-py3-none-any.whl" },
+]

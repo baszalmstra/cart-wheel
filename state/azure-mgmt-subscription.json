@@ -1,0 +1,86 @@
+{
+  "azure_mgmt_subscription-3.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38d4574a8d47fa17e3587d756e296cb63b82ad8fb21cd8543bcee443a502bf48",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.7.1)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-core (<2.0.0,>=1.3.2)"
+    ]
+  },
+  "azure_mgmt_subscription-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d7fac5ac6ca5fef527160edc0c415abca4ae454343537cf6fbb377e616cb2a52",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.7.1)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-core (<2.0.0,>=1.3.2)"
+    ]
+  },
+  "azure_mgmt_subscription-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "826dd252d7483b2f374d41685f63700b2d9bd98aaf73317f5a2a04a6109ef640",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.6.21)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-core (<2.0.0,>=1.3.0)"
+    ]
+  },
+  "azure_mgmt_subscription-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f32d5bcb137a4e48c0ff6ce9ec3b460c9665bf7d47293f1e4ba7977e002c1931",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-mgmt-core",
+        "azure-mgmt-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.6.21)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-core (<2.0.0,>=1.2.0)",
+      "azure-mgmt-nspkg ; python_version<'3.0'"
+    ]
+  },
+  "azure_mgmt_subscription-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "438e1373851b8616ef4e07ae3ab50f7654e830a0cac83ff3c67d0124825f0f06",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-mgmt-core",
+        "azure-mgmt-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-core (<2.0.0,>=1.2.0)",
+      "azure-mgmt-nspkg ; python_version<'3.0'"
+    ]
+  }
+}

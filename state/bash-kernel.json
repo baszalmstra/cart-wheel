@@ -1,0 +1,74 @@
+{
+  "bash_kernel-0.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da28513230f5307c7a49e87352366304dc52b66faa207d6caed1b2bdec03c1fa",
+    "dependencies": {
+      "required": [
+        "pexpect",
+        "ipykernel",
+        "filetype"
+      ]
+    },
+    "original_requirements": [
+      "pexpect (>=4.0)",
+      "ipykernel",
+      "filetype"
+    ]
+  },
+  "bash_kernel-0.9.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "71297892a8c4edd4633aa42d4bccf662f147438e375b4093b6a3261321715099",
+    "dependencies": {
+      "required": [
+        "pexpect",
+        "ipykernel"
+      ]
+    },
+    "original_requirements": [
+      "pexpect (>=4.0)",
+      "ipykernel"
+    ]
+  },
+  "bash_kernel-0.9.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae943f5d20a534d53c33260d9ed4d8b2a840f74046a22eddd380ed8984042793",
+    "dependencies": {
+      "required": [
+        "pexpect",
+        "ipykernel"
+      ]
+    },
+    "original_requirements": [
+      "pexpect (>=4.0)",
+      "ipykernel"
+    ]
+  },
+  "bash_kernel-0.9.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eeadf594bd54005250dbbad23e38cca620efada8090e4375d31b9b2e056f2541",
+    "dependencies": {
+      "required": [
+        "pexpect",
+        "ipykernel"
+      ]
+    },
+    "original_requirements": [
+      "pexpect (>=4.0)",
+      "ipykernel"
+    ]
+  },
+  "bash_kernel-0.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "95b9a6fc7a9b1ba90192a9bf20109b2af1ca073010db514dbc828aacdec6f8c6",
+    "dependencies": {
+      "required": [
+        "pexpect",
+        "ipykernel"
+      ]
+    },
+    "original_requirements": [
+      "pexpect (>=4.0)",
+      "ipykernel"
+    ]
+  }
+}

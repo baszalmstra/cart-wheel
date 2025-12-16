@@ -1,0 +1,122 @@
+{
+  "apache_airflow_providers_cncf_kubernetes-10.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "948794b0b895fb70de39fb2bca7c36962f831a2d93a51e28c71bf1578344ef5c",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "asgiref",
+        "cryptography",
+        "kubernetes",
+        "urllib3",
+        "kubernetes-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles>=23.2.0",
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "asgiref>=3.5.2",
+      "cryptography>=41.0.0,<46.0.0",
+      "kubernetes>=32.0.0,<35.0.0",
+      "urllib3>=2.1.0,!=2.6.0",
+      "kubernetes_asyncio>=32.0.0,<35.0.0"
+    ]
+  },
+  "apache_airflow_providers_cncf_kubernetes-10.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b8148c3021fabf80b89f60dab9c73a43f0e9d11e6a342da04294d4946990f1b",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "asgiref",
+        "cryptography",
+        "kubernetes",
+        "kubernetes-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles>=23.2.0",
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.0",
+      "asgiref>=3.5.2",
+      "cryptography>=41.0.0,<46.0.0",
+      "kubernetes>=32.0.0,<35.0.0",
+      "kubernetes_asyncio>=32.0.0,<35.0.0"
+    ]
+  },
+  "apache_airflow_providers_cncf_kubernetes-10.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "522bcab87ffdece0520164469b419973a35aa134a11d78ff3b82a895828ddba9",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "asgiref",
+        "cryptography",
+        "kubernetes",
+        "kubernetes-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles>=23.2.0",
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "asgiref>=3.5.2",
+      "cryptography>=41.0.0,<46.0.0",
+      "kubernetes>=32.0.0,<35.0.0",
+      "kubernetes_asyncio>=32.0.0,<35.0.0"
+    ]
+  },
+  "apache_airflow_providers_cncf_kubernetes-10.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ab14bff0ea1bb6ba2ef962228c17125a0a20b6efac25d9a87b2f97574806cbc",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "asgiref",
+        "cryptography",
+        "kubernetes",
+        "kubernetes-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles>=23.2.0",
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "asgiref>=3.5.2",
+      "cryptography>=41.0.0",
+      "kubernetes>=32.0.0,<34.0.0",
+      "kubernetes_asyncio>=32.0.0,<34.0.0"
+    ]
+  },
+  "apache_airflow_providers_cncf_kubernetes-10.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "632d64dbbd8a54c21f49f6bfbb740a0dd44b10442d5141c6da54c1bb5bf62cd7",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "apache-airflow",
+        "asgiref",
+        "cryptography",
+        "kubernetes",
+        "kubernetes-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles>=23.2.0",
+      "apache-airflow>=2.10.0",
+      "asgiref>=3.5.2",
+      "cryptography>=41.0.0",
+      "kubernetes>=32.0.0,<34.0.0",
+      "kubernetes_asyncio>=32.0.0,<34.0.0"
+    ]
+  }
+}

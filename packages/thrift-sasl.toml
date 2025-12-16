@@ -1,0 +1,8 @@
+# Package configuration for thrift-sasl
+conda_forge = "thrift_sasl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "thrift_sasl-0.4.3-py2.py3-none-any.whl" },
+]

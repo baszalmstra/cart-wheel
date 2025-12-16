@@ -1,0 +1,178 @@
+{
+  "dataflows_tabulator-1.54.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3bdceeb06e128d5f794b4c2d48e5788a9c9b8a8c98cf918db6f47bfc29b08fd4",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "chardet",
+        "boto3",
+        "unicodecsv",
+        "ijson",
+        "jsonlines",
+        "sqlalchemy",
+        "linear-tsv",
+        "xlrd",
+        "openpyxl"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.9",
+      "click >=6.0",
+      "requests >=2.8",
+      "chardet >=3.0",
+      "boto3 >=1.9",
+      "unicodecsv >=0.14",
+      "ijson >=3.0.3",
+      "jsonlines >=1.1",
+      "sqlalchemy >=0.9.6",
+      "linear-tsv >=1.0",
+      "xlrd >=1.0",
+      "openpyxl >=2.6",
+      "cchardet >=2.0 ; extra == 'cchardet'",
+      "datapackage >=1.12 ; extra == 'datapackage'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "moto[server] ; extra == 'develop'",
+      "pyquery <1.4.2 ; extra == 'html'",
+      "ezodf >=0.3 ; extra == 'ods'",
+      "lxml >=3.0 ; extra == 'ods'"
+    ]
+  },
+  "dataflows_tabulator-1.54.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "78ab5cd29b972e8ece6c162d4f7219c015936fcd47dcd9e8a459292be9404604",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "chardet",
+        "boto3",
+        "unicodecsv",
+        "ijson",
+        "jsonlines",
+        "sqlalchemy",
+        "linear-tsv",
+        "xlrd",
+        "openpyxl"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.9",
+      "click >=6.0",
+      "requests >=2.8",
+      "chardet >=3.0",
+      "boto3 >=1.9",
+      "unicodecsv >=0.14",
+      "ijson >=3.0.3",
+      "jsonlines >=1.1",
+      "sqlalchemy >=0.9.6",
+      "linear-tsv >=1.0",
+      "xlrd >=1.0",
+      "openpyxl >=2.6",
+      "cchardet >=2.0 ; extra == 'cchardet'",
+      "datapackage >=1.12 ; extra == 'datapackage'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "moto[server] ; extra == 'develop'",
+      "pyquery <1.4.2 ; extra == 'html'",
+      "ezodf >=0.3 ; extra == 'ods'",
+      "lxml >=3.0 ; extra == 'ods'"
+    ]
+  },
+  "dataflows_tabulator-1.54.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d285d5dd134d78910d6e97c2e90dc3200b35743ca46f6a5c5dbdddc53366dfb",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "chardet",
+        "boto3",
+        "unicodecsv",
+        "ijson",
+        "jsonlines",
+        "sqlalchemy",
+        "linear-tsv",
+        "xlrd",
+        "openpyxl"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.9",
+      "click >=6.0",
+      "requests >=2.8",
+      "chardet >=3.0",
+      "boto3 >=1.9",
+      "unicodecsv >=0.14",
+      "ijson >=3.0.3",
+      "jsonlines >=1.1",
+      "sqlalchemy >=0.9.6",
+      "linear-tsv >=1.0",
+      "xlrd >=1.0",
+      "openpyxl >=2.6",
+      "cchardet >=2.0 ; extra == 'cchardet'",
+      "datapackage >=1.12 ; extra == 'datapackage'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "moto[server] ; extra == 'develop'",
+      "pyquery <1.4.2 ; extra == 'html'",
+      "ezodf >=0.3 ; extra == 'ods'",
+      "lxml >=3.0 ; extra == 'ods'"
+    ]
+  },
+  "dataflows_tabulator-1.54.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c9b31e99ce738529bca7244e6970caf19ab7e6a13a1caa21b41fa06ef2ceccae",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "chardet",
+        "boto3",
+        "unicodecsv",
+        "ijson",
+        "jsonlines",
+        "sqlalchemy",
+        "linear-tsv",
+        "xlrd",
+        "openpyxl"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.9",
+      "click >=6.0",
+      "requests >=2.8",
+      "chardet >=3.0",
+      "boto3 >=1.9",
+      "unicodecsv >=0.14",
+      "ijson >=3.0.3",
+      "jsonlines >=1.1",
+      "sqlalchemy >=0.9.6",
+      "linear-tsv >=1.0",
+      "xlrd >=1.0",
+      "openpyxl >=2.6",
+      "cchardet >=2.0 ; extra == 'cchardet'",
+      "datapackage >=1.12 ; extra == 'datapackage'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "moto[server] ; extra == 'develop'",
+      "pyquery <1.4.2 ; extra == 'html'",
+      "ezodf >=0.3 ; extra == 'ods'",
+      "lxml >=3.0 ; extra == 'ods'"
+    ]
+  }
+}

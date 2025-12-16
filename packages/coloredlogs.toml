@@ -1,0 +1,12 @@
+# Package configuration for coloredlogs
+conda_forge = "coloredlogs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "coloredlogs-15.0.1-py2.py3-none-any.whl" },
+  { filename = "coloredlogs-15.0-py2.py3-none-any.whl" },
+  { filename = "coloredlogs-14.3-py2.py3-none-any.whl" },
+  { filename = "coloredlogs-14.2-py2.py3-none-any.whl" },
+  { filename = "coloredlogs-14.1-py2.py3-none-any.whl" },
+]

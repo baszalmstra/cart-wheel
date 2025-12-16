@@ -1,0 +1,11 @@
+# Package configuration for prefect-bitbucket
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "prefect_bitbucket-0.3.4-py3-none-any.whl" },
+  { filename = "prefect_bitbucket-0.3.3-py3-none-any.whl" },
+  { filename = "prefect_bitbucket-0.3.2-py3-none-any.whl" },
+  { filename = "prefect_bitbucket-0.3.1-py3-none-any.whl" },
+  { filename = "prefect_bitbucket-0.3.0-py3-none-any.whl" },
+]

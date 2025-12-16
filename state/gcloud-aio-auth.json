@@ -1,0 +1,102 @@
+{
+  "gcloud_aio_auth-5.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3adfb6ee5cae4226689fd096ce127e99ee5216623577215abb02ef6722574563",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "backoff",
+        "chardet",
+        "cryptography",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.0,<4.0.0)",
+      "backoff (>=1.0.0,<3.0.0)",
+      "chardet (>=2.0,<6.0)",
+      "cryptography (>=2.0.0,<47.0.0)",
+      "pyjwt (>=1.5.3,<3.0.0)"
+    ]
+  },
+  "gcloud_aio_auth-5.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "02089f4522d1c3323c52c6211a3e4c7820ba1d8c7b9df238633bbb3ff41d2731",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "backoff",
+        "chardet",
+        "cryptography",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.0,<4.0.0)",
+      "backoff (>=1.0.0,<3.0.0)",
+      "chardet (>=2.0,<6.0)",
+      "cryptography (>=2.0.0,<47.0.0)",
+      "pyjwt (>=1.5.3,<3.0.0)"
+    ]
+  },
+  "gcloud_aio_auth-5.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2cdcc3bf7cade30d443f722f8c38737272d2948e2202fd71f427301c0a3660b",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "backoff",
+        "chardet",
+        "cryptography",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.0,<4.0.0)",
+      "backoff (>=1.0.0,<3.0.0)",
+      "chardet (>=2.0,<6.0)",
+      "cryptography (>=2.0.0,<47.0.0)",
+      "pyjwt (>=1.5.3,<3.0.0)"
+    ]
+  },
+  "gcloud_aio_auth-5.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "78b318ca90228df5f0883d36215e8f102daeb7c08aa09ba6e857a5e6ca3cf321",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "backoff",
+        "chardet",
+        "cryptography",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.0,<4.0.0)",
+      "backoff (>=1.0.0,<3.0.0)",
+      "chardet (>=2.0,<6.0)",
+      "cryptography (>=2.0.0,<45.0.0)",
+      "pyjwt (>=1.5.3,<3.0.0)"
+    ]
+  },
+  "gcloud_aio_auth-5.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e677f133bef49b7d55fc95806aa7e96b611f33de0f0d4b17ffa1dee2b1d232f",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "backoff",
+        "chardet",
+        "cryptography",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.0,<4.0.0)",
+      "backoff (>=1.0.0,<3.0.0)",
+      "chardet (>=2.0,<6.0)",
+      "cryptography (>=2.0.0,<45.0.0)",
+      "pyjwt (>=1.5.3,<3.0.0)"
+    ]
+  }
+}

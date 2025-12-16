@@ -1,0 +1,182 @@
+{
+  "langsmith-0.4.59-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "97c26399286441a7b7b06b912e2801420fbbf3a049787e609d49dc975ab10bc5",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "orjson",
+        "packaging",
+        "pydantic",
+        "requests-toolbelt",
+        "requests",
+        "uuid-utils",
+        "zstandard"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1,>=0.23.0",
+      "orjson>=3.9.14; platform_python_implementation != 'PyPy'",
+      "packaging>=23.2",
+      "pydantic<3,>=1",
+      "requests-toolbelt>=1.0.0",
+      "requests>=2.0.0",
+      "uuid-utils<1.0,>=0.12.0",
+      "zstandard>=0.23.0",
+      "claude-agent-sdk>=0.1.0; (python_version >= '3.10') and extra == 'claude-agent-sdk'",
+      "langsmith-pyo3>=0.1.0rc2; extra == 'langsmith-pyo3'",
+      "openai-agents>=0.0.3; extra == 'openai-agents'",
+      "opentelemetry-api>=1.30.0; extra == 'otel'",
+      "opentelemetry-exporter-otlp-proto-http>=1.30.0; extra == 'otel'",
+      "opentelemetry-sdk>=1.30.0; extra == 'otel'",
+      "pytest>=7.0.0; extra == 'pytest'",
+      "rich>=13.9.4; extra == 'pytest'",
+      "vcrpy>=7.0.0; extra == 'pytest'",
+      "vcrpy>=7.0.0; extra == 'vcr'"
+    ]
+  },
+  "langsmith-0.4.58-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6999b2f7956f030c32a80c1d631b49677f35648560207a09973c8d5ab74279d",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "orjson",
+        "packaging",
+        "pydantic",
+        "requests-toolbelt",
+        "requests",
+        "uuid-utils",
+        "zstandard"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1,>=0.23.0",
+      "orjson>=3.9.14; platform_python_implementation != 'PyPy'",
+      "packaging>=23.2",
+      "pydantic<3,>=1",
+      "requests-toolbelt>=1.0.0",
+      "requests>=2.0.0",
+      "uuid-utils<1.0,>=0.12.0",
+      "zstandard>=0.23.0",
+      "claude-agent-sdk>=0.1.0; (python_version >= '3.10') and extra == 'claude-agent-sdk'",
+      "langsmith-pyo3>=0.1.0rc2; extra == 'langsmith-pyo3'",
+      "openai-agents>=0.0.3; extra == 'openai-agents'",
+      "opentelemetry-api>=1.30.0; extra == 'otel'",
+      "opentelemetry-exporter-otlp-proto-http>=1.30.0; extra == 'otel'",
+      "opentelemetry-sdk>=1.30.0; extra == 'otel'",
+      "pytest>=7.0.0; extra == 'pytest'",
+      "rich>=13.9.4; extra == 'pytest'",
+      "vcrpy>=7.0.0; extra == 'pytest'",
+      "vcrpy>=7.0.0; extra == 'vcr'"
+    ]
+  },
+  "langsmith-0.4.57-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a49ce6aebcda472b03a9e5e441091bb47d8a422f9e5c777cbcddff5fe72bcbf9",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "orjson",
+        "packaging",
+        "pydantic",
+        "requests-toolbelt",
+        "requests",
+        "uuid-utils",
+        "zstandard"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1,>=0.23.0",
+      "orjson>=3.9.14; platform_python_implementation != 'PyPy'",
+      "packaging>=23.2",
+      "pydantic<3,>=1",
+      "requests-toolbelt>=1.0.0",
+      "requests>=2.0.0",
+      "uuid-utils<1.0,>=0.12.0",
+      "zstandard>=0.23.0",
+      "claude-agent-sdk>=0.1.0; (python_version >= '3.10') and extra == 'claude-agent-sdk'",
+      "langsmith-pyo3>=0.1.0rc2; extra == 'langsmith-pyo3'",
+      "openai-agents>=0.0.3; extra == 'openai-agents'",
+      "opentelemetry-api>=1.30.0; extra == 'otel'",
+      "opentelemetry-exporter-otlp-proto-http>=1.30.0; extra == 'otel'",
+      "opentelemetry-sdk>=1.30.0; extra == 'otel'",
+      "pytest>=7.0.0; extra == 'pytest'",
+      "rich>=13.9.4; extra == 'pytest'",
+      "vcrpy>=7.0.0; extra == 'pytest'",
+      "vcrpy>=7.0.0; extra == 'vcr'"
+    ]
+  },
+  "langsmith-0.4.56-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f2c61d3f10210e78f16f77e3115f407d40f562ab00ac8c76927c7dd55b5c17b2",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "orjson",
+        "packaging",
+        "pydantic",
+        "requests-toolbelt",
+        "requests",
+        "uuid-utils",
+        "zstandard"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1,>=0.23.0",
+      "orjson>=3.9.14; platform_python_implementation != 'PyPy'",
+      "packaging>=23.2",
+      "pydantic<3,>=1",
+      "requests-toolbelt>=1.0.0",
+      "requests>=2.0.0",
+      "uuid-utils<1.0,>=0.12.0",
+      "zstandard>=0.23.0",
+      "claude-agent-sdk>=0.1.0; (python_version >= '3.10') and extra == 'claude-agent-sdk'",
+      "langsmith-pyo3>=0.1.0rc2; extra == 'langsmith-pyo3'",
+      "openai-agents>=0.0.3; extra == 'openai-agents'",
+      "opentelemetry-api>=1.30.0; extra == 'otel'",
+      "opentelemetry-exporter-otlp-proto-http>=1.30.0; extra == 'otel'",
+      "opentelemetry-sdk>=1.30.0; extra == 'otel'",
+      "pytest>=7.0.0; extra == 'pytest'",
+      "rich>=13.9.4; extra == 'pytest'",
+      "vcrpy>=7.0.0; extra == 'pytest'",
+      "vcrpy>=7.0.0; extra == 'vcr'"
+    ]
+  },
+  "langsmith-0.4.55-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d15d8425056117ae1adb245ca68c22f128e1b1b3fa95b2ff5caf65e2ce255a02",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "orjson",
+        "packaging",
+        "pydantic",
+        "requests-toolbelt",
+        "requests",
+        "uuid-utils",
+        "zstandard"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1,>=0.23.0",
+      "orjson>=3.9.14; platform_python_implementation != 'PyPy'",
+      "packaging>=23.2",
+      "pydantic<3,>=1",
+      "requests-toolbelt>=1.0.0",
+      "requests>=2.0.0",
+      "uuid-utils<1.0,>=0.12.0",
+      "zstandard>=0.23.0",
+      "claude-agent-sdk>=0.1.0; (python_version >= '3.10') and extra == 'claude-agent-sdk'",
+      "langsmith-pyo3>=0.1.0rc2; extra == 'langsmith-pyo3'",
+      "openai-agents>=0.0.3; extra == 'openai-agents'",
+      "opentelemetry-api>=1.30.0; extra == 'otel'",
+      "opentelemetry-exporter-otlp-proto-http>=1.30.0; extra == 'otel'",
+      "opentelemetry-sdk>=1.30.0; extra == 'otel'",
+      "pytest>=7.0.0; extra == 'pytest'",
+      "rich>=13.9.4; extra == 'pytest'",
+      "vcrpy>=7.0.0; extra == 'pytest'",
+      "vcrpy>=7.0.0; extra == 'vcr'"
+    ]
+  }
+}

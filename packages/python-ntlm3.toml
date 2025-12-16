@@ -1,0 +1,9 @@
+# Package configuration for python-ntlm3
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_ntlm3-1.0.2-py2.py3-none-any.whl" },
+  { filename = "python_ntlm3-1.0.1-py2.py3-none-any.whl" },
+  { filename = "python_ntlm3-1.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-vision
+conda_forge = "google-cloud-vision"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_vision-3.11.0-py3-none-any.whl" },
+  { filename = "google_cloud_vision-3.10.2-py3-none-any.whl" },
+  { filename = "google_cloud_vision-3.10.1-py3-none-any.whl" },
+  { filename = "google_cloud_vision-3.10.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_vision-3.9.0-py2.py3-none-any.whl" },
+]

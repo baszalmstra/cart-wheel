@@ -1,0 +1,41 @@
+{
+  "sphinx_data_viewer-0.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b74b1d304c505c464d07c7b225ed0d84ea02dcc88bc1c49cdad7c2275fbbdad4",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=5",
+      "furo ; extra == \"docs\"",
+      "sphinx-design ; extra == \"docs\"",
+      "sphinx-needs ; extra == \"docs\"",
+      "sphinxcontrib.plantuml ; extra == \"docs\"",
+      "sphinx-copybutton ; extra == \"docs\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "sphinx_data_viewer-0.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f83bccfc90a1e15303cb0e8159e36ecb17b5c7f71fcd5479ac4259f147417450",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx (>=4) ; extra == \"docs\""
+    ]
+  },
+  "sphinx_data_viewer-0.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cfb2fb706662a2f0003deee2055bb36d2f8c6516aa2bcc396188b1992f8c2902",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx (>=4) ; extra == \"docs\""
+    ]
+  }
+}

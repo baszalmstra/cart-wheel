@@ -1,0 +1,72 @@
+{
+  "sphinx_autosummary_accessors-2025.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e90d140dce731162f70f2a46215e26dd46c57590e9f08bfff2e17cac45ce3a9f",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=5.3",
+      "packaging"
+    ]
+  },
+  "sphinx_autosummary_accessors-2023.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "75ac537ce318e2cb104324f714c0260ee32483f117d8cd376dfaa3c5e949933d",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=3.5)"
+    ]
+  },
+  "sphinx_autosummary_accessors-2022.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b0e152deda1fb78244edb4bc8ce3246e00434f807475280fbedc6865f1358d4",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=3.3)",
+      "importlib-metadata ; python_version < \"3.8\""
+    ]
+  },
+  "sphinx_autosummary_accessors-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fda83cfd916a9adfe98db36a637ee7062532bf1845810c7bda799ce1fb4ea93b",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=3.3)",
+      "importlib-metadata ; python_version < \"3.8\""
+    ]
+  },
+  "sphinx_autosummary_accessors-0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3278987974f035591ecc6e3ec263a2382d9bb6938027c7933f71387e64c51f25",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "packaging",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=3.2)",
+      "packaging",
+      "importlib-metadata ; python_version < \"3.8\""
+    ]
+  }
+}

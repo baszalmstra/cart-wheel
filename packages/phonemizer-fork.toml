@@ -1,0 +1,10 @@
+# Package configuration for phonemizer-fork
+conda_forge = "phonemizer-fork"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "phonemizer_fork-3.3.2-py3-none-any.whl" },
+  { filename = "phonemizer_fork-3.3.1-py3-none-any.whl" },
+  { filename = "phonemizer_fork-3.3.0-py3-none-any.whl" },
+]

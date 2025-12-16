@@ -1,0 +1,15 @@
+{
+  "wmctrl-0.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae695c1863a314c899e7cf113f07c0da02a394b968c4772e1936219d9234ddd7",
+    "dependencies": {
+      "required": [
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "attrs",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

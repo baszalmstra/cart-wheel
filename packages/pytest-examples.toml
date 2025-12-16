@@ -1,0 +1,11 @@
+# Package configuration for pytest-examples
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_examples-0.0.18-py3-none-any.whl" },
+  { filename = "pytest_examples-0.0.17-py3-none-any.whl" },
+  { filename = "pytest_examples-0.0.16-py3-none-any.whl" },
+  { filename = "pytest_examples-0.0.15-py3-none-any.whl" },
+  { filename = "pytest_examples-0.0.14-py3-none-any.whl" },
+]

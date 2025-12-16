@@ -1,0 +1,7 @@
+# Package configuration for azure-ai-nspkg
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_ai_nspkg-1.0.0-py3-none-any.whl" },
+]

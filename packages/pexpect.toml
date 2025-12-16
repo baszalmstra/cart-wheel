@@ -1,0 +1,12 @@
+# Package configuration for pexpect
+conda_forge = "pexpect"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pexpect-4.9.0-py2.py3-none-any.whl" },
+  { filename = "pexpect-4.8.0-py2.py3-none-any.whl" },
+  { filename = "pexpect-4.7.0-py2.py3-none-any.whl" },
+  { filename = "pexpect-4.6.0-py2.py3-none-any.whl" },
+  { filename = "pexpect-4.5.0-py2.py3-none-any.whl" },
+]

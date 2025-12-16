@@ -1,0 +1,9 @@
+# Package configuration for pymilvus.model
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pymilvus_model-0.3.2-py3-none-any.whl" },
+  { filename = "pymilvus_model-0.3.1-py3-none-any.whl" },
+  { filename = "pymilvus.model-0.3.0-py3-none-any.whl" },
+]

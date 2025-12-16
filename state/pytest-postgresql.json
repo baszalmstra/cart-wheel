@@ -1,0 +1,102 @@
+{
+  "pytest_postgresql-7.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b0d31c51620a9c1d6be93286af354256bc58a47c379f56f4147b22da6e81fb5",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "port-for",
+        "mirakuru",
+        "packaging",
+        "psycopg"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.2",
+      "port-for>=0.7.3",
+      "mirakuru>=2.6.0",
+      "packaging",
+      "psycopg>=3.0.0"
+    ]
+  },
+  "pytest_postgresql-7.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cbc6a67bbad5128b1f00def8cca5cf597020acc79893723f7a9cb60981b6840f",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "port-for",
+        "mirakuru",
+        "packaging",
+        "psycopg"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2",
+      "port-for>=0.7.3",
+      "mirakuru>=2.6.0",
+      "packaging",
+      "psycopg>=3.0.0"
+    ]
+  },
+  "pytest_postgresql-7.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aaebadbf060b85cca7755fdf5ed7aa2929edd0f842c9b7f56ffe1e58e0d3b749",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "port-for",
+        "mirakuru",
+        "packaging",
+        "psycopg"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2",
+      "port-for>=0.7.3",
+      "mirakuru>=2.6.0",
+      "packaging",
+      "psycopg>=3.0.0"
+    ]
+  },
+  "pytest_postgresql-6.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd4c0970d25685ac3d34d42263fcbfbf134bf02d22519fce7e1ccf4122d8b99a",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "port-for",
+        "mirakuru",
+        "setuptools",
+        "psycopg"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2",
+      "port-for>=0.7.3",
+      "mirakuru",
+      "setuptools",
+      "psycopg>=3.0.0"
+    ]
+  },
+  "pytest_postgresql-6.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "acf57e974459c36cec977eb720e1ffd873b765817a0b7ac6f1407e786e1bbf40",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "port-for",
+        "mirakuru",
+        "setuptools",
+        "psycopg"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2",
+      "port-for>=0.6.0",
+      "mirakuru",
+      "setuptools",
+      "psycopg>=3.0.0"
+    ]
+  }
+}

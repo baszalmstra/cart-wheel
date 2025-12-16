@@ -1,0 +1,38 @@
+{
+  "donfig-0.8.1.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a3175ce74a06109ff9307d90a230f81215cbac9a751f4d1c6194644b8204f9d",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "sphinx >=4.0.0 ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "pytest ; extra == 'docs'",
+      "cloudpickle ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "cloudpickle ; extra == 'test'"
+    ]
+  },
+  "donfig-0.8.1.post0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "907d3e9f77fada5ece376785c79b03d2690ffdcc35a1a17734f7521408d5ddde",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "sphinx >=4.0.0 ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "pytest ; extra == 'docs'",
+      "cloudpickle ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "cloudpickle ; extra == 'test'"
+    ]
+  }
+}

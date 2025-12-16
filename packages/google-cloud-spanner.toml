@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-spanner
+conda_forge = "google-cloud-spanner"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_spanner-3.60.0-py3-none-any.whl" },
+  { filename = "google_cloud_spanner-3.59.0-py3-none-any.whl" },
+  { filename = "google_cloud_spanner-3.58.0-py3-none-any.whl" },
+  { filename = "google_cloud_spanner-3.57.0-py3-none-any.whl" },
+  { filename = "google_cloud_spanner-3.56.0-py3-none-any.whl" },
+]

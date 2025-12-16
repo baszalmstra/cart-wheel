@@ -1,0 +1,12 @@
+# Package configuration for openai-agents
+conda_forge = "openai-agents"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openai_agents-0.6.3-py3-none-any.whl" },
+  { filename = "openai_agents-0.6.2-py3-none-any.whl" },
+  { filename = "openai_agents-0.6.1-py3-none-any.whl" },
+  { filename = "openai_agents-0.6.0-py3-none-any.whl" },
+  { filename = "openai_agents-0.5.1-py3-none-any.whl" },
+]

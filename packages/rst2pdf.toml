@@ -1,0 +1,12 @@
+# Package configuration for rst2pdf
+conda_forge = "rst2pdf"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rst2pdf-0.103.1-py3-none-any.whl" },
+  { filename = "rst2pdf-0.103-py3-none-any.whl" },
+  { filename = "rst2pdf-0.102-py3-none-any.whl" },
+  { filename = "rst2pdf-0.101-py3-none-any.whl" },
+  { filename = "rst2pdf-0.100-py3-none-any.whl" },
+]

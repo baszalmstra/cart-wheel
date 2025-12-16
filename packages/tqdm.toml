@@ -1,0 +1,12 @@
+# Package configuration for tqdm
+conda_forge = "tqdm"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tqdm-4.67.1-py3-none-any.whl" },
+  { filename = "tqdm-4.67.0-py3-none-any.whl" },
+  { filename = "tqdm-4.66.6-py3-none-any.whl" },
+  { filename = "tqdm-4.66.5-py3-none-any.whl" },
+  { filename = "tqdm-4.66.4-py3-none-any.whl" },
+]

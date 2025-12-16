@@ -1,0 +1,116 @@
+{
+  "pytest_flake8-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de10517c59fce25c0a7abb2a2b2a9d0b0ceb59ff0add7fa8e654d613bb25e218",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "flake8 >=4.0",
+      "pytest >=7.0",
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-mypy ; extra == 'type'"
+    ]
+  },
+  "pytest_flake8-1.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b8dfa77be42b5cec901b6b67eafb18d47ae6a05c4deac89399dba4c3591ce4d",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "flake8 <6,>=5",
+      "pytest >=7.0",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "pytest_flake8-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "69690200ef796d9eb9be0b706cab9edcf70fa7cdadbef160429af81785b7b1a8",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "flake8 >=5",
+      "pytest >=7.0",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "pytest_flake8-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3e09b79b260d17850eb8c0a3a1b6dae4a803dfc1a01b94cbaaf65b05b851e42",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "flake8 >=4.0",
+      "pytest >=7.0",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "pytest_flake8-1.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "45cf234a9f23569b381c2b82160a0c0a727716c3235dc413d176ee09f789b508",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "flake8 >=4.0",
+      "pytest >=7.0"
+    ]
+  }
+}

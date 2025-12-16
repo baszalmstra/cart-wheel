@@ -1,0 +1,149 @@
+{
+  "extruct-0.18.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e739985da705c3348c7614dc169e7780caf20908338fa5f4c6e48576df6f000",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "lxml-html-clean",
+        "rdflib",
+        "pyrdfa3",
+        "mf2py",
+        "w3lib",
+        "html-text",
+        "jstyleson"
+      ]
+    },
+    "original_requirements": [
+      "lxml",
+      "lxml-html-clean",
+      "rdflib>=6.0.0",
+      "pyrdfa3",
+      "mf2py",
+      "w3lib",
+      "html-text>=0.5.1",
+      "jstyleson",
+      "requests; extra == \"cli\""
+    ]
+  },
+  "extruct-0.17.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5f1d8e307fbb0c41f64ce486ddfaf16dc67e4b8f6e9570c57b123409ee37a307",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "lxml-html-clean",
+        "rdflib",
+        "pyrdfa3",
+        "mf2py",
+        "w3lib",
+        "html-text",
+        "jstyleson"
+      ]
+    },
+    "original_requirements": [
+      "lxml",
+      "lxml-html-clean",
+      "rdflib >=6.0.0",
+      "pyrdfa3",
+      "mf2py",
+      "w3lib",
+      "html-text >=0.5.1",
+      "jstyleson",
+      "requests ; extra == 'cli'"
+    ]
+  },
+  "extruct-0.16.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2499ea9e7d22744745ca708acee9542a4aa231871620c4f65f869a1286e64aa8",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "pyrdfa3",
+        "mf2py",
+        "w3lib",
+        "html-text",
+        "six",
+        "jstyleson",
+        "rdflib",
+        "rdflib-jsonld",
+        "rdflib"
+      ]
+    },
+    "original_requirements": [
+      "lxml",
+      "pyrdfa3",
+      "mf2py",
+      "w3lib",
+      "html-text (>=0.5.1)",
+      "six",
+      "jstyleson",
+      "rdflib (<6.0.0) ; python_version < \"3.7\"",
+      "rdflib-jsonld (<=0.5.0) ; python_version < \"3.7\"",
+      "rdflib (>=6.0.0) ; python_version >= \"3.7\"",
+      "requests ; extra == 'cli'"
+    ]
+  },
+  "extruct-0.15.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b68fd805be137ba215cae367a3c4852d872a5e3076ca4e406b7d88e31b147fd",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "pyrdfa3",
+        "mf2py",
+        "w3lib",
+        "html-text",
+        "six",
+        "jstyleson",
+        "rdflib",
+        "rdflib-jsonld",
+        "rdflib"
+      ]
+    },
+    "original_requirements": [
+      "lxml",
+      "pyrdfa3",
+      "mf2py",
+      "w3lib",
+      "html-text (>=0.5.1)",
+      "six",
+      "jstyleson",
+      "rdflib (<6.0.0) ; python_version < \"3.7\"",
+      "rdflib-jsonld (<=0.5.0) ; python_version < \"3.7\"",
+      "rdflib (>=6.0.0) ; python_version >= \"3.7\"",
+      "requests ; extra == 'cli'"
+    ]
+  },
+  "extruct-0.14.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22739b23a7fd66239137838b8cde7b15ce838ad7a0e0721dba86058df206a2da",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "pyrdfa3",
+        "mf2py",
+        "w3lib",
+        "html-text",
+        "six",
+        "jstyleson",
+        "rdflib",
+        "rdflib-jsonld",
+        "rdflib"
+      ]
+    },
+    "original_requirements": [
+      "lxml",
+      "pyrdfa3",
+      "mf2py",
+      "w3lib",
+      "html-text (>=0.5.1)",
+      "six",
+      "jstyleson",
+      "rdflib (<6.0.0) ; python_version < \"3.7\"",
+      "rdflib-jsonld (<=0.5.0) ; python_version < \"3.7\"",
+      "rdflib (>=6.0.0) ; python_version >= \"3.7\"",
+      "requests ; extra == 'cli'"
+    ]
+  }
+}

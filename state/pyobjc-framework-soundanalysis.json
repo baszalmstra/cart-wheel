@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_soundanalysis-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b2029ab48c1a9772f247f0aea995e8c3ff4706909002a9c1551722769343a52",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1"
+    ]
+  },
+  "pyobjc_framework_soundanalysis-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08fd2e988ca0ae84c8dbaf490d634e250d32e44f420de7e6c2ff72bac947aaaf",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0"
+    ]
+  },
+  "pyobjc_framework_soundanalysis-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6cf983c24fb2ad2aa5e7499ab2d30ff134d887fe91fd2641acf7472e546ab4e5",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1"
+    ]
+  },
+  "pyobjc_framework_SoundAnalysis-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5969096cadb07f9ba9855cedf6f53674ddb030a324b4981091834d1b31c8c27e",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0"
+    ]
+  },
+  "pyobjc_framework_SoundAnalysis-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8d654057428004c6ffeccc92e663560a544dc1a8b4234c404af089c55e1ad803",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2"
+    ]
+  }
+}

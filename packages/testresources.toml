@@ -1,0 +1,9 @@
+# Package configuration for testresources
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "testresources-2.0.1-py2.py3-none-any.whl" },
+  { filename = "testresources-2.0.0-py2.py3-none-any.whl" },
+  { filename = "testresources-1.0.0-py2.py3-none-any.whl" },
+]

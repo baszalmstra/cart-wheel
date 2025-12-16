@@ -1,0 +1,127 @@
+{
+  "dbos-2.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "70cd823de89e6cb99031ddf02c2750ed4ef9dfc207ad3a36fd7f2e3e507c5195",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "python-dateutil",
+        "psycopg",
+        "websockets",
+        "typer-slim",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml>=6.0.2",
+      "python-dateutil>=2.9.0.post0",
+      "psycopg[binary]>=3.1",
+      "websockets>=14.0",
+      "typer-slim>=0.17.4",
+      "sqlalchemy>=2.0.43",
+      "opentelemetry-api>=1.37.0; extra == \"otel\"",
+      "opentelemetry-sdk>=1.37.0; extra == \"otel\"",
+      "opentelemetry-exporter-otlp-proto-http>=1.37.0; extra == \"otel\""
+    ]
+  },
+  "dbos-2.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bdfb4cb11208286570207a713de8645090734b9593bac7e5ec14db8bacda8b9d",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "python-dateutil",
+        "psycopg",
+        "websockets",
+        "typer-slim",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml>=6.0.2",
+      "python-dateutil>=2.9.0.post0",
+      "psycopg[binary]>=3.1",
+      "websockets>=14.0",
+      "typer-slim>=0.17.4",
+      "sqlalchemy>=2.0.43",
+      "opentelemetry-api>=1.37.0; extra == \"otel\"",
+      "opentelemetry-sdk>=1.37.0; extra == \"otel\"",
+      "opentelemetry-exporter-otlp-proto-http>=1.37.0; extra == \"otel\""
+    ]
+  },
+  "dbos-2.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "476936ee4ef9fbb7ce9cbf52e944ff6f69b49c11a43270774591c742622fac5c",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "python-dateutil",
+        "psycopg",
+        "websockets",
+        "typer-slim",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml>=6.0.2",
+      "python-dateutil>=2.9.0.post0",
+      "psycopg[binary]>=3.1",
+      "websockets>=14.0",
+      "typer-slim>=0.17.4",
+      "sqlalchemy>=2.0.43",
+      "opentelemetry-api>=1.37.0; extra == \"otel\"",
+      "opentelemetry-sdk>=1.37.0; extra == \"otel\"",
+      "opentelemetry-exporter-otlp-proto-http>=1.37.0; extra == \"otel\""
+    ]
+  },
+  "dbos-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "863cce027de4a5003a3885976ca66ceda44927844bfd374d6156c154eafb03eb",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "python-dateutil",
+        "psycopg",
+        "websockets",
+        "typer-slim",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml>=6.0.2",
+      "python-dateutil>=2.9.0.post0",
+      "psycopg[binary]>=3.1",
+      "websockets>=14.0",
+      "typer-slim>=0.17.4",
+      "sqlalchemy>=2.0.43",
+      "opentelemetry-api>=1.37.0; extra == \"otel\"",
+      "opentelemetry-sdk>=1.37.0; extra == \"otel\"",
+      "opentelemetry-exporter-otlp-proto-http>=1.37.0; extra == \"otel\""
+    ]
+  },
+  "dbos-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "723d0971d1e3ecc14222106b091f4d3cebd4854e287d396e05bfa8a33455af02",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "python-dateutil",
+        "psycopg",
+        "websockets",
+        "typer-slim",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml>=6.0.2",
+      "python-dateutil>=2.9.0.post0",
+      "psycopg[binary]>=3.1",
+      "websockets>=14.0",
+      "typer-slim>=0.17.4",
+      "sqlalchemy>=2.0.43",
+      "opentelemetry-api>=1.37.0; extra == \"otel\"",
+      "opentelemetry-sdk>=1.37.0; extra == \"otel\"",
+      "opentelemetry-exporter-otlp-proto-http>=1.37.0; extra == \"otel\""
+    ]
+  }
+}

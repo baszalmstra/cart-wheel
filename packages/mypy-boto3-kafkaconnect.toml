@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-kafkaconnect
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_kafkaconnect-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_kafkaconnect-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_kafkaconnect-1.40.61-py3-none-any.whl" },
+  { filename = "mypy_boto3_kafkaconnect-1.40.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_kafkaconnect-1.39.0-py3-none-any.whl" },
+]

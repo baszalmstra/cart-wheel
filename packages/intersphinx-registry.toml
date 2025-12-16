@@ -1,0 +1,12 @@
+# Package configuration for intersphinx-registry
+conda_forge = "intersphinx-registry"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "intersphinx_registry-0.2511.25-py2.py3-none-any.whl" },
+  { filename = "intersphinx_registry-0.2511.7-py2.py3-none-any.whl" },
+  { filename = "intersphinx_registry-0.2510.17-py2.py3-none-any.whl" },
+  { filename = "intersphinx_registry-0.2510.9-py2.py3-none-any.whl" },
+  { filename = "intersphinx_registry-0.2510.5-py2.py3-none-any.whl" },
+]

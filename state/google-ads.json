@@ -1,0 +1,213 @@
+{
+  "google_ads-28.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "841e9a458bc4b3be9dc4ac3e8268cd781a8dc120607853b0ddddc6488cc3b142",
+    "dependencies": {
+      "required": [
+        "google-auth-oauthlib",
+        "google-api-core",
+        "google-api-core",
+        "googleapis-common-protos",
+        "googleapis-common-protos",
+        "grpcio",
+        "grpcio",
+        "grpcio",
+        "grpcio-status",
+        "grpcio-status",
+        "grpcio-status",
+        "proto-plus",
+        "proto-plus",
+        "pyyaml",
+        "protobuf",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-auth-oauthlib<2.0.0,>=1.0.0",
+      "google-api-core<=3.0.0,>=2.13.0",
+      "google-api-core<=3.0.0,>=2.22.0; python_version >= \"3.13\"",
+      "googleapis-common-protos<2.0.0,>=1.56.3",
+      "googleapis-common-protos<2.0.0,>=1.63.2; python_version >= \"3.13\"",
+      "grpcio<2.0.0,>=1.59.0",
+      "grpcio<2.0.0,>=1.66.2; python_version >= \"3.13\"",
+      "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+      "grpcio-status<2.0.0,>=1.59.0",
+      "grpcio-status<2.0.0,>=1.66.2; python_version >= \"3.13\"",
+      "grpcio-status<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "PyYAML<7.0,>=5.1",
+      "protobuf<7.0.0,>=4.25.0",
+      "protobuf<7.0.0,>=5.26.1; python_version >= \"3.13\"",
+      "nox>=2025.02.09; extra == \"tests\""
+    ]
+  },
+  "google_ads-28.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2f1c579bb152cce99bca25e397202f707165332d29c76e7a8fee1a1e4e569db2",
+    "dependencies": {
+      "required": [
+        "google-auth-oauthlib",
+        "google-api-core",
+        "google-api-core",
+        "googleapis-common-protos",
+        "googleapis-common-protos",
+        "grpcio",
+        "grpcio",
+        "grpcio",
+        "grpcio-status",
+        "grpcio-status",
+        "grpcio-status",
+        "proto-plus",
+        "proto-plus",
+        "pyyaml",
+        "protobuf",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-auth-oauthlib<2.0.0,>=1.0.0",
+      "google-api-core<=3.0.0,>=2.13.0",
+      "google-api-core<=3.0.0,>=2.22.0; python_version >= \"3.13\"",
+      "googleapis-common-protos<2.0.0,>=1.56.3",
+      "googleapis-common-protos<2.0.0,>=1.63.2; python_version >= \"3.13\"",
+      "grpcio<2.0.0,>=1.59.0",
+      "grpcio<2.0.0,>=1.66.2; python_version >= \"3.13\"",
+      "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+      "grpcio-status<2.0.0,>=1.59.0",
+      "grpcio-status<2.0.0,>=1.66.2; python_version >= \"3.13\"",
+      "grpcio-status<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "PyYAML<7.0,>=5.1",
+      "protobuf<7.0.0,>=4.25.0",
+      "protobuf<7.0.0,>=5.26.1; python_version >= \"3.13\"",
+      "nox>=2025.02.09; extra == \"tests\""
+    ]
+  },
+  "google_ads-28.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11ec6227784a565de3ad3f0047ac82eb13c6bfca1d4a5862df9b3c63162fbb40",
+    "dependencies": {
+      "required": [
+        "google-auth-oauthlib",
+        "google-api-core",
+        "google-api-core",
+        "googleapis-common-protos",
+        "googleapis-common-protos",
+        "grpcio",
+        "grpcio",
+        "grpcio",
+        "grpcio-status",
+        "grpcio-status",
+        "grpcio-status",
+        "proto-plus",
+        "proto-plus",
+        "pyyaml",
+        "protobuf",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-auth-oauthlib<2.0.0,>=1.0.0",
+      "google-api-core<=3.0.0,>=2.13.0",
+      "google-api-core<=3.0.0,>=2.22.0; python_version >= \"3.13\"",
+      "googleapis-common-protos<2.0.0,>=1.56.3",
+      "googleapis-common-protos<2.0.0,>=1.63.2; python_version >= \"3.13\"",
+      "grpcio<2.0.0,>=1.59.0",
+      "grpcio<2.0.0,>=1.66.2; python_version >= \"3.13\"",
+      "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+      "grpcio-status<2.0.0,>=1.59.0",
+      "grpcio-status<2.0.0,>=1.66.2; python_version >= \"3.13\"",
+      "grpcio-status<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "PyYAML<7.0,>=5.1",
+      "protobuf<7.0.0,>=4.25.0",
+      "protobuf<7.0.0,>=5.26.1; python_version >= \"3.13\"",
+      "nox>=2025.02.09; extra == \"tests\""
+    ]
+  },
+  "google_ads-28.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e789752cf07fae14b92929afdda338eb5d6f8dda56e142d723c2ef63e8f185ea",
+    "dependencies": {
+      "required": [
+        "google-auth-oauthlib",
+        "google-api-core",
+        "google-api-core",
+        "googleapis-common-protos",
+        "googleapis-common-protos",
+        "grpcio",
+        "grpcio",
+        "grpcio",
+        "grpcio-status",
+        "grpcio-status",
+        "grpcio-status",
+        "proto-plus",
+        "proto-plus",
+        "pyyaml",
+        "protobuf",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-auth-oauthlib<2.0.0,>=1.0.0",
+      "google-api-core<=3.0.0,>=2.13.0",
+      "google-api-core<=3.0.0,>=2.22.0; python_version >= \"3.13\"",
+      "googleapis-common-protos<2.0.0,>=1.56.3",
+      "googleapis-common-protos<2.0.0,>=1.63.2; python_version >= \"3.13\"",
+      "grpcio<2.0.0,>=1.59.0",
+      "grpcio<2.0.0,>=1.66.2; python_version >= \"3.13\"",
+      "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+      "grpcio-status<2.0.0,>=1.59.0",
+      "grpcio-status<2.0.0,>=1.66.2; python_version >= \"3.13\"",
+      "grpcio-status<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "PyYAML<7.0,>=5.1",
+      "protobuf<7.0.0,>=4.25.0",
+      "protobuf<7.0.0,>=5.26.1; python_version >= \"3.13\"",
+      "nox>=2025.02.09; extra == \"tests\""
+    ]
+  },
+  "google_ads-28.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9cb6422e45a0d3183731a7054567b0d14be7114affa5b27dd9b4de747a6e65b9",
+    "dependencies": {
+      "required": [
+        "google-auth-oauthlib",
+        "google-api-core",
+        "google-api-core",
+        "googleapis-common-protos",
+        "googleapis-common-protos",
+        "grpcio",
+        "grpcio",
+        "grpcio-status",
+        "grpcio-status",
+        "proto-plus",
+        "proto-plus",
+        "pyyaml",
+        "protobuf",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-auth-oauthlib<2.0.0,>=1.0.0",
+      "google-api-core<=3.0.0,>=2.13.0",
+      "google-api-core<=3.0.0,>=2.22.0; python_version >= \"3.13\"",
+      "googleapis-common-protos<2.0.0,>=1.56.3",
+      "googleapis-common-protos<2.0.0,>=1.63.2; python_version >= \"3.13\"",
+      "grpcio<2.0.0,>=1.59.0",
+      "grpcio<2.0.0,>=1.66.2; python_version >= \"3.13\"",
+      "grpcio-status<2.0.0,>=1.59.0",
+      "grpcio-status<2.0.0,>=1.66.2; python_version >= \"3.13\"",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "PyYAML<7.0,>=5.1",
+      "protobuf<7.0.0,>=4.25.0",
+      "protobuf<7.0.0,>=5.26.1; python_version >= \"3.13\"",
+      "nox>=2025.02.09; extra == \"tests\""
+    ]
+  }
+}

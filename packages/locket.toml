@@ -1,0 +1,9 @@
+# Package configuration for locket
+conda_forge = "locket"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "locket-1.0.0-py2.py3-none-any.whl" },
+  { filename = "locket-0.2.1-py2.py3-none-any.whl" },
+]

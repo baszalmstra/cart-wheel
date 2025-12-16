@@ -1,0 +1,12 @@
+# Package configuration for kedro-datasets
+conda_forge = "kedro-datasets"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kedro_datasets-9.0.0-py3-none-any.whl" },
+  { filename = "kedro_datasets-8.1.0-py3-none-any.whl" },
+  { filename = "kedro_datasets-8.0.0-py3-none-any.whl" },
+  { filename = "kedro_datasets-7.0.0-py3-none-any.whl" },
+  { filename = "kedro_datasets-6.0.0-py3-none-any.whl" },
+]

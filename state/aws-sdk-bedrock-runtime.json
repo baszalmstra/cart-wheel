@@ -1,0 +1,98 @@
+{
+  "aws_sdk_bedrock_runtime-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19594de50a52d199d73efca153c0a2328bd781827715a6e012d50b11085236cc",
+    "dependencies": {
+      "required": [
+        "smithy-aws-core",
+        "smithy-core",
+        "smithy-http"
+      ]
+    },
+    "original_requirements": [
+      "smithy-aws-core[eventstream,json]~=0.2.0",
+      "smithy-core~=0.2.0",
+      "smithy-http[awscrt]~=0.3.0"
+    ]
+  },
+  "aws_sdk_bedrock_runtime-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c0336b377b2112cf88197d3d44302fbeb3efb1101989fa49ae55e78f49cfe345",
+    "dependencies": {
+      "required": [
+        "smithy-aws-core",
+        "smithy-core",
+        "smithy-http"
+      ]
+    },
+    "original_requirements": [
+      "smithy-aws-core[eventstream,json]~=0.1.0",
+      "smithy-core~=0.1.0",
+      "smithy-http[awscrt]~=0.2.0"
+    ]
+  },
+  "aws_sdk_bedrock_runtime-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aac6ff47069d456ca5e23083d96a01e3e0cbc215414e6753c289d7d9efef3335",
+    "dependencies": {
+      "required": [
+        "smithy-aws-core",
+        "smithy-core",
+        "smithy-http"
+      ]
+    },
+    "original_requirements": [
+      "smithy-aws-core[eventstream,json]~=0.1.0",
+      "smithy-core~=0.1.0",
+      "smithy-http[awscrt]~=0.1.0"
+    ]
+  },
+  "aws_sdk_bedrock_runtime-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d954d103e8e2d304e1c87ccb8c4c77fae27f4c31b70c0ca50817eb30423f9f7",
+    "dependencies": {
+      "required": [
+        "smithy-aws-core",
+        "smithy-aws-event-stream",
+        "smithy-core",
+        "smithy-http",
+        "smithy-json"
+      ]
+    },
+    "original_requirements": [
+      "smithy-aws-core<0.1.0",
+      "smithy-aws-event-stream<0.1.0",
+      "smithy-core<0.1.0",
+      "smithy-http[awscrt]<0.1.0",
+      "smithy-json<0.1.0",
+      "pydata-sphinx-theme>=0.16.1; extra == 'docs'",
+      "sphinx>=8.2.3; extra == 'docs'",
+      "pytest-asyncio<0.21.0,>=0.20.3; extra == 'tests'",
+      "pytest<8.0.0,>=7.2.0; extra == 'tests'"
+    ]
+  },
+  "aws_sdk_bedrock_runtime-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "127f72fb2d8656d7a6f79a4945aa9f54a866d13ee0b01b353788e819ffabbfcd",
+    "dependencies": {
+      "required": [
+        "smithy-aws-core",
+        "smithy-aws-event-stream",
+        "smithy-core",
+        "smithy-http",
+        "smithy-json"
+      ]
+    },
+    "original_requirements": [
+      "smithy-aws-core==0.0.1",
+      "smithy-aws-event-stream==0.0.1",
+      "smithy-core==0.0.1",
+      "smithy-http[awscrt]==0.0.1",
+      "smithy-json==0.0.1",
+      "pydata-sphinx-theme>=0.16.1; extra == 'docs'",
+      "sphinx>=8.2.3; extra == 'docs'",
+      "pytest-asyncio<0.21.0,>=0.20.3; extra == 'tests'",
+      "pytest<8.0.0,>=7.2.0; extra == 'tests'"
+    ]
+  }
+}

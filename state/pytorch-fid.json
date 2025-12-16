@@ -1,0 +1,26 @@
+{
+  "pytorch_fid-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e1d4fe66441a8dff2a2aca31394e9389fb197dfeff046f2f971f271d4137767",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pillow",
+        "scipy",
+        "torch",
+        "torchvision"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pillow",
+      "scipy",
+      "torch (>=1.0.1)",
+      "torchvision (>=0.2.2)",
+      "flake8 ; extra == 'dev'",
+      "flake8-bugbear ; extra == 'dev'",
+      "flake8-isort ; extra == 'dev'",
+      "nox ; extra == 'dev'"
+    ]
+  }
+}

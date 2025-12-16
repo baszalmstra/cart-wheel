@@ -1,0 +1,152 @@
+{
+  "aws_cdk.aws_logs-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13542fa126d81943d3c8ffb01db5d3d8bc5bc030bb2943f29585a84a52a544e5",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-kms (==1.204.0)",
+      "aws-cdk.aws-s3-assets (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "aws-cdk.cx-api (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_logs-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d86b2be51c32f79ed368b49c1ed7cec7f61276101a8eeb5e8d6c6703ec71c2b5",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-kms (==1.203.0)",
+      "aws-cdk.aws-s3-assets (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "aws-cdk.cx-api (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_logs-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5d0fa66b41c76da1c67465073f569bc125c2dd70cc9357166cdf865cd92122df",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-kms (==1.202.0)",
+      "aws-cdk.aws-s3-assets (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "aws-cdk.cx-api (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_logs-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5526ed2606e1b18558de9a0b9b9f9d9547e654e8f80e2cc306b3687d5604b4d2",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-kms (==1.201.0)",
+      "aws-cdk.aws-s3-assets (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "aws-cdk.cx-api (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_logs-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4779cfbb91df896b6f9c37b34c0f25b5a26da0aea075d1e42fa82d5c6bbafbf9",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-kms (==1.200.0)",
+      "aws-cdk.aws-s3-assets (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "aws-cdk.cx-api (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

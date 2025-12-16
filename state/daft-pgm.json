@@ -1,0 +1,68 @@
+{
+  "daft_pgm-0.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3fc02c05762dfada26727b2fa6ae3c0b6d96fc2f960c761a5fa8eb775ca3691d",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib",
+      "numpy",
+      "pytest; extra == \"test\"",
+      "myst_nb; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "jupytext; extra == \"docs\""
+    ]
+  },
+  "daft_pgm-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "459a6a60e89242c053be281d35398dded41fef979c0dd591337d6b8ed3e6a09f",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "numpy",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib",
+      "numpy",
+      "setuptools",
+      "pytest; extra == \"test\"",
+      "myst_nb; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "jupytext; extra == \"docs\""
+    ]
+  },
+  "daft_pgm-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a24fc3ee3f1b331a20ab2d2c2b9f4fa6db18c3dc6c9d5b052410223599438ad",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "matplotlib"
+    ]
+  },
+  "daft_pgm-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9edc0d5f668ababd9aa32bb3e9cce4e9e13a0fc0e3fccc617d689f6129bc0958",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "matplotlib"
+    ]
+  }
+}

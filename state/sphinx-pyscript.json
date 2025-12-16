@@ -1,0 +1,20 @@
+{
+  "sphinx_pyscript-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d863627e8180bd028b9b6251c0b3ebef5a02ed007c43542344e17b2d5603967",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>4",
+      "pyyaml",
+      "myst-parser ; extra == \"docs\"",
+      "furo ; extra == \"docs\"",
+      "pytest ; extra == \"testing\"",
+      "sphinx-pytest ; extra == \"testing\""
+    ]
+  }
+}

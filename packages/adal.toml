@@ -1,0 +1,12 @@
+# Package configuration for adal
+conda_forge = "adal"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "adal-1.2.7-py2.py3-none-any.whl" },
+  { filename = "adal-1.2.6-py2.py3-none-any.whl" },
+  { filename = "adal-1.2.5-py2.py3-none-any.whl" },
+  { filename = "adal-1.2.4-py2.py3-none-any.whl" },
+  { filename = "adal-1.2.3-py2.py3-none-any.whl" },
+]

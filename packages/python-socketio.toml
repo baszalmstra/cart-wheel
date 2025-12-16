@@ -1,0 +1,12 @@
+# Package configuration for python-socketio
+conda_forge = "python-socketio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_socketio-5.15.0-py3-none-any.whl" },
+  { filename = "python_socketio-5.14.3-py3-none-any.whl" },
+  { filename = "python_socketio-5.14.2-py3-none-any.whl" },
+  { filename = "python_socketio-5.14.1-py3-none-any.whl" },
+  { filename = "python_socketio-5.14.0-py3-none-any.whl" },
+]

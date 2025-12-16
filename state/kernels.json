@@ -1,0 +1,107 @@
+{
+  "kernels-0.11.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2e79f8bfefd5485be20b5a11029cf8e8db11123679be961bca526fc0dbba287",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "packaging",
+        "pyyaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "huggingface_hub<2.0,>=0.26.0",
+      "packaging>=20.0",
+      "pyyaml>=6",
+      "tomli>=2.0; python_version < \"3.11\"",
+      "kernel-abi-check<0.7.0,>=0.6.2; extra == \"abi-check\"",
+      "torch; extra == \"torch\"",
+      "hf-doc-builder; extra == \"docs\""
+    ]
+  },
+  "kernels-0.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15a36d8f7cb52c9a5ee41ebe7a6df901e324b47b073e771eca3189d3c74ed461",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "packaging",
+        "pyyaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "huggingface_hub<2.0,>=0.26.0",
+      "packaging>=20.0",
+      "pyyaml>=6",
+      "tomli>=2.0; python_version < \"3.11\"",
+      "kernel-abi-check<0.7.0,>=0.6.2; extra == \"abi-check\"",
+      "torch; extra == \"torch\"",
+      "hf-doc-builder; extra == \"docs\""
+    ]
+  },
+  "kernels-0.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08127dd2e1cad4fd5856ddc7f5bfbf7b23c198c39cb5f45184dcf55286cd5d3c",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "packaging",
+        "pyyaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "huggingface_hub<2.0,>=0.26.0",
+      "packaging>=20.0",
+      "pyyaml>=6",
+      "tomli>=2.0; python_version < \"3.11\"",
+      "kernel-abi-check<0.7.0,>=0.6.2; extra == \"abi-check\"",
+      "torch; extra == \"torch\"",
+      "hf-doc-builder; extra == \"docs\""
+    ]
+  },
+  "kernels-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1638dc4cafc0596d3086f0b4c8a17236c007e09d35711e1e05bcd7819175d3de",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "packaging",
+        "pyyaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "huggingface_hub<2.0,>=0.26.0",
+      "packaging>=20.0",
+      "pyyaml>=6",
+      "tomli>=2.0; python_version < \"3.11\"",
+      "kernel-abi-check<0.7.0,>=0.6.2; extra == \"abi-check\"",
+      "torch; extra == \"torch\"",
+      "hf-doc-builder; extra == \"docs\""
+    ]
+  },
+  "kernels-0.10.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39936236c5067a0931f1f58b04478b2a36d14e7d93320092aac61d450b40ddc3",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "packaging",
+        "pyyaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "huggingface_hub<2.0,>=0.26.0",
+      "packaging>=20.0",
+      "pyyaml>=6",
+      "tomli>=2.0; python_version < \"3.11\"",
+      "kernel-abi-check<0.7.0,>=0.6.2; extra == \"abi-check\"",
+      "torch; extra == \"torch\"",
+      "hf-doc-builder; extra == \"docs\""
+    ]
+  }
+}

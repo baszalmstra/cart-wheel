@@ -1,0 +1,12 @@
+# Package configuration for python-http-client
+conda_forge = "python_http_client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_http_client-3.3.7-py3-none-any.whl" },
+  { filename = "python_http_client-3.3.6-py3-none-any.whl" },
+  { filename = "python_http_client-3.3.5-py3-none-any.whl" },
+  { filename = "python_http_client-3.3.4-py3-none-any.whl" },
+  { filename = "python_http_client-3.3.3-py3-none-any.whl" },
+]

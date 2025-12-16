@@ -1,0 +1,7 @@
+# Package configuration for repoze.lru
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "repoze.lru-0.7-py3-none-any.whl" },
+]

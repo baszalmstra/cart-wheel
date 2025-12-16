@@ -1,0 +1,117 @@
+{
+  "prefect_ray-0.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1783efaee22222f1977b3a65d5f8ae6aa89b3d2d71f11ab79652efc21d531b9",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "ray"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.4.7",
+      "ray[default]>=2.0.0"
+    ]
+  },
+  "prefect_ray-0.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bff8693a704a99bf35d8f4e50b56342f9d77e714e074988a898a2be7b484baa3",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "ray"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.1",
+      "ray[default]>=2.0.0"
+    ]
+  },
+  "prefect_ray-0.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1dfa1129d116a1610413bc0b5d5fe4c39e47f4cb92ea03b0c953248660731bdf",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "ray"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "ray[default]>=2.0.0",
+      "aiohttp; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest>=8.3; extra == \"dev\"",
+      "pytest-asyncio!=0.22.0,<0.23.0,>=0.18.2; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_ray-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb075c78dad3deb3720d953c68fdb269945613577494c0c097e0aba871c7e6cd",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "ray"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0rc1",
+      "ray[default]>=2.0.0",
+      "aiohttp; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-asyncio!=0.22.0,<0.23.0,>=0.18.2; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_ray-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44ae08a3d600ac99e42ff39353869781c6cf1fa9f3c0d212a3d3ce3a05e90ada",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "ray"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0rc1",
+      "ray[default]>=2.0.0",
+      "aiohttp; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-asyncio!=0.22.0,<0.23.0,>=0.18.2; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  }
+}

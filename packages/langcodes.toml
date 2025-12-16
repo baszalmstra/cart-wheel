@@ -1,0 +1,12 @@
+# Package configuration for langcodes
+conda_forge = "langcodes"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langcodes-3.5.1-py3-none-any.whl" },
+  { filename = "langcodes-3.5.0-py3-none-any.whl" },
+  { filename = "langcodes-3.4.1-py3-none-any.whl" },
+  { filename = "langcodes-3.4.0-py3-none-any.whl" },
+  { filename = "langcodes-3.3.0-py3-none-any.whl" },
+]

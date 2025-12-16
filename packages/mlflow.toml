@@ -1,0 +1,12 @@
+# Package configuration for mlflow
+conda_forge = "mlflow"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mlflow-3.7.0-py3-none-any.whl" },
+  { filename = "mlflow-3.6.0-py3-none-any.whl" },
+  { filename = "mlflow-3.5.1-py3-none-any.whl" },
+  { filename = "mlflow-3.5.0-py3-none-any.whl" },
+  { filename = "mlflow-3.4.0-py3-none-any.whl" },
+]

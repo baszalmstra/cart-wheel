@@ -1,0 +1,102 @@
+{
+  "pyobjc_framework_cloudkit-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "875e37bf1a2ce3d05c2492692650104f2d908b56b71a0aedf6620bc517c6c9ca",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-corelocation",
+        "pyobjc-framework-coredata",
+        "pyobjc-framework-accounts"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1",
+      "pyobjc-framework-CoreLocation>=12.1",
+      "pyobjc-framework-CoreData>=12.1",
+      "pyobjc-framework-Accounts>=12.1"
+    ]
+  },
+  "pyobjc_framework_cloudkit-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1ad9af5c0ef94e147cd8c5676aab7925ead9da8398bd01898597c4da7cb3231b",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-corelocation",
+        "pyobjc-framework-coredata",
+        "pyobjc-framework-accounts"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0",
+      "pyobjc-framework-CoreLocation>=12.0",
+      "pyobjc-framework-CoreData>=12.0",
+      "pyobjc-framework-Accounts>=12.0"
+    ]
+  },
+  "pyobjc_framework_cloudkit-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c583e40c710cf85ebe34173d1d2995e832a20127edc8899b2f35b13f98498af1",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-corelocation",
+        "pyobjc-framework-coredata",
+        "pyobjc-framework-accounts"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1",
+      "pyobjc-framework-CoreLocation>=11.1",
+      "pyobjc-framework-CoreData>=11.1",
+      "pyobjc-framework-Accounts>=11.1"
+    ]
+  },
+  "pyobjc_framework_CloudKit-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10cb153d7185dd260d21596f75fca8502236f6afd8e72e866cff8acd9c025f14",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-corelocation",
+        "pyobjc-framework-coredata",
+        "pyobjc-framework-accounts"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0",
+      "pyobjc-framework-CoreLocation >=11.0",
+      "pyobjc-framework-CoreData >=11.0",
+      "pyobjc-framework-Accounts >=11.0"
+    ]
+  },
+  "pyobjc_framework_CloudKit-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c9a17f085876874bf98328f608384228d1d841d387d977adef9a277e549709b",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-corelocation",
+        "pyobjc-framework-coredata",
+        "pyobjc-framework-accounts"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2",
+      "pyobjc-framework-CoreLocation>=10.3.2",
+      "pyobjc-framework-CoreData>=10.3.2",
+      "pyobjc-framework-Accounts>=10.3.2"
+    ]
+  }
+}

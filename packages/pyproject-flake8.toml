@@ -1,0 +1,12 @@
+# Package configuration for pyproject-flake8
+conda_forge = "pyproject-flake8"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyproject_flake8-7.0.0-py3-none-any.whl" },
+  { filename = "pyproject_flake8-6.1.0-py3-none-any.whl" },
+  { filename = "pyproject_flake8-6.0.0.post1-py3-none-any.whl" },
+  { filename = "pyproject_flake8-6.0.0-py3-none-any.whl" },
+  { filename = "pyproject_flake8-5.0.4.post1-py2.py3-none-any.whl" },
+]

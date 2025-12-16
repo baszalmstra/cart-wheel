@@ -1,0 +1,80 @@
+{
+  "openapi_schema_validator-0.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3b9870f4e556b5a62a1c39da72a6b4b16f3ad9c73dc80084b1b11e74ba148a3",
+    "dependencies": {
+      "required": [
+        "jsonschema",
+        "jsonschema-specifications",
+        "rfc3339-validator"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema (>=4.19.1,<5.0.0)",
+      "jsonschema-specifications (>=2023.5.2)",
+      "rfc3339-validator"
+    ]
+  },
+  "openapi_schema_validator-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4887c1347c669eb7cded9090f4438b710845cd0f90d1fb9e1b3303fb37339f8",
+    "dependencies": {
+      "required": [
+        "jsonschema",
+        "jsonschema-specifications",
+        "rfc3339-validator"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema (>=4.19.1,<5.0.0)",
+      "jsonschema-specifications (>=2023.5.2,<2024.0.0)",
+      "rfc3339-validator"
+    ]
+  },
+  "openapi_schema_validator-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e39f2cc92a458a1b9971d8a0519fcc94a4c454d9accffab5189575716fe53bed",
+    "dependencies": {
+      "required": [
+        "jsonschema",
+        "jsonschema-specifications",
+        "rfc3339-validator"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema (>=4.19.1,<5.0.0)",
+      "jsonschema-specifications (>=2023.5.2,<2024.0.0)",
+      "rfc3339-validator"
+    ]
+  },
+  "openapi_schema_validator-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e95b95b621efec5936245025df0d6a7ffacd1551e91d09196b3053040c931d7",
+    "dependencies": {
+      "required": [
+        "jsonschema",
+        "jsonschema-specifications",
+        "rfc3339-validator"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema (>=4.18.0,<5.0.0)",
+      "jsonschema-specifications (>=2023.5.2,<2024.0.0)",
+      "rfc3339-validator"
+    ]
+  },
+  "openapi_schema_validator-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c12e551dab1c87ba4c86d31df5a33a197dd9404f04fd065706c86a4572be299",
+    "dependencies": {
+      "required": [
+        "jsonschema",
+        "rfc3339-validator"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema (>=4.0.0,<4.18.0)",
+      "rfc3339-validator"
+    ]
+  }
+}

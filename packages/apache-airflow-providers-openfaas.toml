@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-openfaas
+conda_forge = "apache-airflow-providers-openfaas"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_openfaas-3.9.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_openfaas-3.9.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_openfaas-3.8.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_openfaas-3.8.2-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_openfaas-3.8.1-py3-none-any.whl" },
+]

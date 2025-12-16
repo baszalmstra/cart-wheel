@@ -1,0 +1,90 @@
+{
+  "pytest_sanic-1.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9a11f61dedbc3738c6a4f3d8ec24c42d48e25314ca1696f00782c7a0b3e1f16",
+    "dependencies": {
+      "required": [
+        "async-generator",
+        "httpx",
+        "pytest",
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "async_generator (>=1.10,<2.0)",
+      "httpx (>=0.18.1)",
+      "pytest (>=5.2)",
+      "websockets (>=9.1,<11.0)"
+    ]
+  },
+  "pytest_sanic-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ab54464c307cc3b8daed1a2e3412888a56a489ab04ce7e04dae1d8b8b1fa138",
+    "dependencies": {
+      "required": [
+        "async-generator",
+        "httpx",
+        "pytest",
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "async_generator (>=1.10,<2.0)",
+      "httpx (>=0.18.1)",
+      "pytest (>=5.2)",
+      "websockets (>=9.1,<10.0)"
+    ]
+  },
+  "pytest_sanic-1.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ebb3e0dabd05e32914b0a0cb472bfe04ae75ff4009954da2430b0c420467691f",
+    "dependencies": {
+      "required": [
+        "async-generator",
+        "httpx",
+        "pytest",
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "async_generator (>=1.10,<2.0)",
+      "httpx (>=0.15.4)",
+      "pytest (>=5.2)",
+      "websockets (>=8.1,<9.0)"
+    ]
+  },
+  "pytest_sanic-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ffef99df8bc18dc223a8da11273ec166a7b474c17d4e9011881597f38c8f6cc0",
+    "dependencies": {
+      "required": [
+        "async-generator",
+        "httpx",
+        "pytest",
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "async_generator (>=1.10,<2.0)",
+      "httpx (>=0.15.4)",
+      "pytest (>=5.2)",
+      "websockets (>=8.1,<9.0)"
+    ]
+  },
+  "pytest_sanic-1.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "982fa2ca879130fda9066b6051c7d232bf433dcc1bbac324e17ee49a8f7a92b1",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "async-generator",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.6.2,<4.0.0)",
+      "async_generator (>=1.10,<2.0)",
+      "pytest (>=5.2)"
+    ]
+  }
+}

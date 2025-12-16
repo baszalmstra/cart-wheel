@@ -1,0 +1,9 @@
+# Package configuration for dotsi
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dotsi-0.0.3-py2.py3-none-any.whl" },
+  { filename = "dotsi-0.0.2-py2.py3-none-any.whl" },
+  { filename = "dotsi-0.0.1-py2.py3-none-any.whl" },
+]

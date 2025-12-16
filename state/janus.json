@@ -1,0 +1,47 @@
+{
+  "janus-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e6449d34eab04cd016befbd7d8c0d8acaaaab67cb59e076a69149f9031745f9",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "janus-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3fa91456c00caed4905821a911e95c69d41306e463ea8da72c76c7a096abc698",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "janus-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a3daf0f1a16abda1a7c976e28dc1f6caf3b8d1de9b8c93b2ea84de424de7705",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "janus-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2596ea5482711c1ee3ef2df6c290aaf370a13c55a007826e8f7c32d696d1d00a",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions (>=3.7.4.3)"
+    ]
+  },
+  "janus-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41e267f50b10f981c1d29f9fd065ec27086d32f823cefb39808ba7887b39f860",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions (>=3.7.4.3)"
+    ]
+  }
+}

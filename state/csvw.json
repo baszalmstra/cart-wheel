@@ -1,0 +1,222 @@
+{
+  "csvw-3.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "21b88db50a35e940d4b5cdd8f3a8084493ad7f1bb1657ed7323aad977359940e",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "isodate",
+        "python-dateutil",
+        "rfc3986",
+        "uritemplate",
+        "babel",
+        "requests",
+        "language-tags",
+        "rdflib",
+        "termcolor",
+        "jsonschema"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=18.1",
+      "isodate",
+      "python-dateutil",
+      "rfc3986<2",
+      "uritemplate>=3.0.0",
+      "babel",
+      "requests",
+      "language-tags",
+      "rdflib",
+      "termcolor",
+      "jsonschema",
+      "flake8; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "sphinx<7; extra == \"docs\"",
+      "sphinx-autodoc-typehints; extra == \"docs\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "frictionless; extra == \"test\"",
+      "pytest>=5; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "requests-mock; extra == \"test\"",
+      "pytest-cov; extra == \"test\""
+    ]
+  },
+  "csvw-3.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "af17f59f4f0c02e650d394e5faf1ee75b0905c0fc15565d910a115b2bcc81895",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "isodate",
+        "python-dateutil",
+        "rfc3986",
+        "uritemplate",
+        "babel",
+        "requests",
+        "language-tags",
+        "rdflib",
+        "termcolor",
+        "jsonschema"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=18.1",
+      "isodate",
+      "python-dateutil",
+      "rfc3986<2",
+      "uritemplate>=3.0.0",
+      "babel",
+      "requests",
+      "language-tags",
+      "rdflib",
+      "termcolor",
+      "jsonschema",
+      "flake8; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "sphinx<7; extra == \"docs\"",
+      "sphinx-autodoc-typehints; extra == \"docs\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "frictionless; extra == \"test\"",
+      "pytest>=5; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "requests-mock; extra == \"test\"",
+      "pytest-cov; extra == \"test\""
+    ]
+  },
+  "csvw-3.5.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8dd3864aae51bfd943713a62ec2c6688d3f406a9627b5f16de2479b1281febe5",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "isodate",
+        "python-dateutil",
+        "rfc3986",
+        "uritemplate",
+        "babel",
+        "requests",
+        "language-tags",
+        "rdflib",
+        "colorama",
+        "jsonschema"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=18.1",
+      "isodate",
+      "python-dateutil",
+      "rfc3986<2",
+      "uritemplate>=3.0.0",
+      "babel",
+      "requests",
+      "language-tags",
+      "rdflib",
+      "colorama",
+      "jsonschema",
+      "flake8; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "sphinx<7; extra == \"docs\"",
+      "sphinx-autodoc-typehints; extra == \"docs\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "frictionless; extra == \"test\"",
+      "pytest>=5; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "requests-mock; extra == \"test\"",
+      "pytest-cov; extra == \"test\""
+    ]
+  },
+  "csvw-3.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c02ed2ef48dec19946acc5a0e92c06acc136560432b5ced7c05fd97a5e94d1f6",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "babel",
+        "colorama",
+        "isodate",
+        "jsonschema",
+        "language-tags",
+        "python-dateutil",
+        "rdflib",
+        "requests",
+        "rfc3986",
+        "uritemplate"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=18.1)",
+      "babel",
+      "colorama",
+      "isodate",
+      "jsonschema",
+      "language-tags",
+      "python-dateutil",
+      "rdflib",
+      "requests",
+      "rfc3986 (<2)",
+      "uritemplate (>=3.0.0)",
+      "build ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "sphinx-autodoc-typehints ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "sphinx (<7) ; extra == 'docs'",
+      "frictionless ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "pytest (>=5) ; extra == 'test'",
+      "requests-mock ; extra == 'test'"
+    ]
+  },
+  "csvw-3.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60bd6e414bc3ebfa98c3952d45b12a29186a2687b2a3e37cec44ea3ae8dac794",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "babel",
+        "colorama",
+        "isodate",
+        "jsonschema",
+        "language-tags",
+        "python-dateutil",
+        "rdflib",
+        "requests",
+        "rfc3986",
+        "uritemplate"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=18.1)",
+      "babel",
+      "colorama",
+      "isodate",
+      "jsonschema",
+      "language-tags",
+      "python-dateutil",
+      "rdflib",
+      "requests",
+      "rfc3986 (<2)",
+      "uritemplate (>=3.0.0)",
+      "build ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "sphinx-autodoc-typehints ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "sphinx (<7) ; extra == 'docs'",
+      "frictionless ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "pytest (>=5) ; extra == 'test'",
+      "requests-mock ; extra == 'test'"
+    ]
+  }
+}

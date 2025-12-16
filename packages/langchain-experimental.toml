@@ -1,0 +1,12 @@
+# Package configuration for langchain-experimental
+conda_forge = "langchain-experimental"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_experimental-0.4.1-py3-none-any.whl" },
+  { filename = "langchain_experimental-0.4.0-py3-none-any.whl" },
+  { filename = "langchain_experimental-0.3.4-py3-none-any.whl" },
+  { filename = "langchain_experimental-0.3.3-py3-none-any.whl" },
+  { filename = "langchain_experimental-0.3.2-py3-none-any.whl" },
+]

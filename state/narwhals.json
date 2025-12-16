@@ -1,0 +1,117 @@
+{
+  "narwhals-2.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b795523c179ca78204e3be53726da374168f906e38de2ff174c2363baaaf481",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cudf>=24.10.0; extra == 'cudf'",
+      "dask[dataframe]>=2024.8; extra == 'dask'",
+      "duckdb>=1.1; extra == 'duckdb'",
+      "ibis-framework>=6.0.0; extra == 'ibis'",
+      "packaging; extra == 'ibis'",
+      "pyarrow-hotfix; extra == 'ibis'",
+      "rich; extra == 'ibis'",
+      "modin; extra == 'modin'",
+      "pandas>=1.1.3; extra == 'pandas'",
+      "polars>=0.20.4; extra == 'polars'",
+      "pyarrow>=13.0.0; extra == 'pyarrow'",
+      "pyspark>=3.5.0; extra == 'pyspark'",
+      "pyspark[connect]>=3.5.0; extra == 'pyspark-connect'",
+      "sqlframe!=3.39.3,>=3.22.0; extra == 'sqlframe'"
+    ]
+  },
+  "narwhals-2.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "baeba5d448a30b04c299a696bd9ee5ff73e4742143e06c49ca316b46539a7cbb",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cudf>=24.10.0; extra == 'cudf'",
+      "dask[dataframe]>=2024.8; extra == 'dask'",
+      "duckdb>=1.1; extra == 'duckdb'",
+      "ibis-framework>=6.0.0; extra == 'ibis'",
+      "packaging; extra == 'ibis'",
+      "pyarrow-hotfix; extra == 'ibis'",
+      "rich; extra == 'ibis'",
+      "modin; extra == 'modin'",
+      "pandas>=1.1.3; extra == 'pandas'",
+      "polars>=0.20.4; extra == 'polars'",
+      "pyarrow>=13.0.0; extra == 'pyarrow'",
+      "pyspark>=3.5.0; extra == 'pyspark'",
+      "pyspark[connect]>=3.5.0; extra == 'pyspark-connect'",
+      "sqlframe!=3.39.3,>=3.22.0; extra == 'sqlframe'"
+    ]
+  },
+  "narwhals-2.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9795e1e44aa94e5ba6406ef1c5ee4c172414ced4f1aea4a79e5894f0c7378d4",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cudf>=24.10.0; extra == 'cudf'",
+      "dask[dataframe]>=2024.8; extra == 'dask'",
+      "duckdb>=1.1; extra == 'duckdb'",
+      "ibis-framework>=6.0.0; extra == 'ibis'",
+      "packaging; extra == 'ibis'",
+      "pyarrow-hotfix; extra == 'ibis'",
+      "rich; extra == 'ibis'",
+      "modin; extra == 'modin'",
+      "pandas>=1.1.3; extra == 'pandas'",
+      "polars>=0.20.4; extra == 'polars'",
+      "pyarrow>=13.0.0; extra == 'pyarrow'",
+      "pyspark>=3.5.0; extra == 'pyspark'",
+      "pyspark[connect]>=3.5.0; extra == 'pyspark-connect'",
+      "sqlframe!=3.39.3,>=3.22.0; extra == 'sqlframe'"
+    ]
+  },
+  "narwhals-2.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "059cd5c6751161b97baedcaf17a514c972af6a70f36a89af17de1a0caf519c43",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cudf>=24.10.0; extra == 'cudf'",
+      "dask[dataframe]>=2024.8; extra == 'dask'",
+      "duckdb>=1.1; extra == 'duckdb'",
+      "ibis-framework>=6.0.0; extra == 'ibis'",
+      "packaging; extra == 'ibis'",
+      "pyarrow-hotfix; extra == 'ibis'",
+      "rich; extra == 'ibis'",
+      "modin; extra == 'modin'",
+      "pandas>=1.1.3; extra == 'pandas'",
+      "polars>=0.20.4; extra == 'polars'",
+      "pyarrow>=13.0.0; extra == 'pyarrow'",
+      "pyspark>=3.5.0; extra == 'pyspark'",
+      "pyspark[connect]>=3.5.0; extra == 'pyspark-connect'",
+      "sqlframe!=3.39.3,>=3.22.0; extra == 'sqlframe'"
+    ]
+  },
+  "narwhals-2.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eed3d9ec8f821963456fef306c1ad11017995982169fca1f38f71c97d6a97b9b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cudf>=24.10.0; extra == 'cudf'",
+      "dask[dataframe]>=2024.8; extra == 'dask'",
+      "duckdb>=1.1; extra == 'duckdb'",
+      "ibis-framework>=6.0.0; extra == 'ibis'",
+      "packaging; extra == 'ibis'",
+      "pyarrow-hotfix; extra == 'ibis'",
+      "rich; extra == 'ibis'",
+      "modin; extra == 'modin'",
+      "pandas>=1.1.3; extra == 'pandas'",
+      "polars>=0.20.4; extra == 'polars'",
+      "pyarrow>=13.0.0; extra == 'pyarrow'",
+      "pyspark>=3.5.0; extra == 'pyspark'",
+      "pyspark[connect]>=3.5.0; extra == 'pyspark-connect'",
+      "sqlframe!=3.39.3,>=3.22.0; extra == 'sqlframe'"
+    ]
+  }
+}

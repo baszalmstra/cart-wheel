@@ -1,0 +1,11 @@
+# Package configuration for entangled-cli
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "entangled_cli-2.4.0-py3-none-any.whl" },
+  { filename = "entangled_cli-2.3.2-py3-none-any.whl" },
+  { filename = "entangled_cli-2.3.1-py3-none-any.whl" },
+  { filename = "entangled_cli-2.3.0-py3-none-any.whl" },
+  { filename = "entangled_cli-2.2.1-py3-none-any.whl" },
+]

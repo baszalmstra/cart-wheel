@@ -1,0 +1,12 @@
+# Package configuration for orbax-checkpoint
+conda_forge = "orbax-checkpoint"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "orbax_checkpoint-0.11.31-py3-none-any.whl" },
+  { filename = "orbax_checkpoint-0.11.30-py3-none-any.whl" },
+  { filename = "orbax_checkpoint-0.11.28-py3-none-any.whl" },
+  { filename = "orbax_checkpoint-0.11.27-py3-none-any.whl" },
+  { filename = "orbax_checkpoint-0.11.26-py3-none-any.whl" },
+]

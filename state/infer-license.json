@@ -1,0 +1,76 @@
+{
+  "infer_license-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23de3988a35513e8cea925ff500e70e1f7df52ad25dc8ca80c0d4609632c4f93",
+    "dependencies": {
+      "required": [
+        "dataclasses",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses >=0.7 ; python_version < \"3.7\"",
+      "importlib-resources ; python_version < \"3.7\"",
+      "black ==23.12.1 ; extra == 'dev'",
+      "checkdeps ==0.0.2 ; extra == 'dev'",
+      "flake8 ==7.0.0 ; extra == 'dev'",
+      "mypy ==1.8.0 ; extra == 'dev'",
+      "tox ==4.12.1 ; extra == 'dev'",
+      "twine ==4.0.2 ; extra == 'dev'",
+      "ufmt ==2.3.0 ; extra == 'dev'",
+      "usort ==1.0.7 ; extra == 'dev'",
+      "wheel ==0.42.0 ; extra == 'dev'",
+      "coverage >=6 ; extra == 'test'"
+    ]
+  },
+  "infer_license-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e78527218b2ad74c85e289523fb58b2cd7cbb05404ff07a3b638bdccf82b0c36",
+    "dependencies": {
+      "required": [
+        "dataclasses",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses >=0.7 ; python_version < \"3.7\"",
+      "importlib-resources ; python_version < \"3.7\""
+    ]
+  },
+  "infer_license-0.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "648d90ee9f6a36cc75ec29ce334ae9255345263a880cd97885632de9adee60f3",
+    "dependencies": {
+      "required": [
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses (>=0.7) ; python_version < \"3.7\""
+    ]
+  },
+  "infer_license-0.0.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b63c7af5c464f3f29c08de262a2218eab9665e595d8c3b2ecd0c32c90f68a868",
+    "dependencies": {
+      "required": [
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses (>=0.7) ; python_version < \"3.7\""
+    ]
+  },
+  "infer_license-0.0.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a81f7e1bfc41f7ab3fea47f2355634c824fb523c955447292d820dd75e7558f1",
+    "dependencies": {
+      "required": [
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses (>=0.7) ; python_version < \"3.7\""
+    ]
+  }
+}

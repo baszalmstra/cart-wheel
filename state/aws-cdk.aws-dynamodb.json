@@ -1,0 +1,172 @@
+{
+  "aws_cdk.aws_dynamodb-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0d8f6531685cb76c267d6ab152d02aff86cf86607094bfb1241361c9f81f104",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-applicationautoscaling",
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kinesis",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-applicationautoscaling (==1.204.0)",
+      "aws-cdk.aws-cloudwatch (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-kinesis (==1.204.0)",
+      "aws-cdk.aws-kms (==1.204.0)",
+      "aws-cdk.aws-lambda (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "aws-cdk.custom-resources (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_dynamodb-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "846393548832140911e1520e06fca5432ab7f3979dd07739a563b76b1c1abaeb",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-applicationautoscaling",
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kinesis",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-applicationautoscaling (==1.203.0)",
+      "aws-cdk.aws-cloudwatch (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-kinesis (==1.203.0)",
+      "aws-cdk.aws-kms (==1.203.0)",
+      "aws-cdk.aws-lambda (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "aws-cdk.custom-resources (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_dynamodb-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c6979c229dd3cb7800482491b72354cac24bdb2e322020187d607d22fa9fea5",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-applicationautoscaling",
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kinesis",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-applicationautoscaling (==1.202.0)",
+      "aws-cdk.aws-cloudwatch (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-kinesis (==1.202.0)",
+      "aws-cdk.aws-kms (==1.202.0)",
+      "aws-cdk.aws-lambda (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "aws-cdk.custom-resources (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_dynamodb-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "21167490f2447a50e7c290292509b3420697faf25442cd2aff6ffa6a51536512",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-applicationautoscaling",
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kinesis",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-applicationautoscaling (==1.201.0)",
+      "aws-cdk.aws-cloudwatch (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-kinesis (==1.201.0)",
+      "aws-cdk.aws-kms (==1.201.0)",
+      "aws-cdk.aws-lambda (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "aws-cdk.custom-resources (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_dynamodb-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8e4ec488a367d396c5ae7e1e67031457f636c96df2efeaa7ba99fa75db6ca6a4",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-applicationautoscaling",
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kinesis",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-applicationautoscaling (==1.200.0)",
+      "aws-cdk.aws-cloudwatch (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-kinesis (==1.200.0)",
+      "aws-cdk.aws-kms (==1.200.0)",
+      "aws-cdk.aws-lambda (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "aws-cdk.custom-resources (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

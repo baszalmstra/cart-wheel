@@ -1,0 +1,186 @@
+{
+  "universal_pathlib-0.3.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb95117b20b5981f86ef9d887fddbf9c61d3596634ba42cccea444931d87c201",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "pathlib-abc"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=2024.5.0",
+      "pathlib-abc<0.6.0,>=0.5.1",
+      "pytest>=8; extra == \"tests\"",
+      "pytest-sugar>=0.9.7; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-mock>=3.12.0; extra == \"tests\"",
+      "pylint>=2.17.4; extra == \"tests\"",
+      "mypy>=1.10.0; extra == \"tests\"",
+      "pydantic>=2; extra == \"tests\"",
+      "pytest-mypy-plugins>=3.1.2; extra == \"tests\"",
+      "packaging; extra == \"tests\"",
+      "mypy>=1.10.0; extra == \"typechecking\"",
+      "pytest-mypy-plugins>=3.1.2; extra == \"typechecking\"",
+      "fsspec[adl,gcs,github,http,s3,smb,ssh]>=2024.5.0; extra == \"dev\"",
+      "s3fs>=2024.5.0; extra == \"dev\"",
+      "gcsfs>=2024.5.0; extra == \"dev\"",
+      "adlfs>=2024; extra == \"dev\"",
+      "huggingface_hub; extra == \"dev\"",
+      "webdav4[fsspec]; extra == \"dev\"",
+      "moto[s3,server]; extra == \"dev\"",
+      "wsgidav; extra == \"dev\"",
+      "cheroot; extra == \"dev\"",
+      "pyftpdlib; extra == \"dev\"",
+      "typing_extensions; python_version < \"3.11\" and extra == \"dev\"",
+      "pydantic; extra == \"dev-third-party\"",
+      "pydantic-settings; extra == \"dev-third-party\""
+    ]
+  },
+  "universal_pathlib-0.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff10a86e5340ad986b6f04847bb64ba397dff7467450234ffa2ab5ff135641d8",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "pathlib-abc"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=2024.5.0",
+      "pathlib-abc<0.6.0,>=0.5.1",
+      "pytest>=8; extra == \"tests\"",
+      "pytest-sugar>=0.9.7; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-mock>=3.12.0; extra == \"tests\"",
+      "pylint>=2.17.4; extra == \"tests\"",
+      "mypy>=1.10.0; extra == \"tests\"",
+      "pydantic>=2; extra == \"tests\"",
+      "pytest-mypy-plugins>=3.1.2; extra == \"tests\"",
+      "packaging; extra == \"tests\"",
+      "mypy>=1.10.0; extra == \"typechecking\"",
+      "pytest-mypy-plugins>=3.1.2; extra == \"typechecking\"",
+      "fsspec[adl,gcs,github,http,s3,smb,ssh]>=2024.5.0; extra == \"dev\"",
+      "s3fs>=2024.5.0; extra == \"dev\"",
+      "gcsfs>=2024.5.0; extra == \"dev\"",
+      "adlfs>=2024; extra == \"dev\"",
+      "huggingface_hub; extra == \"dev\"",
+      "webdav4[fsspec]; extra == \"dev\"",
+      "moto[s3,server]; extra == \"dev\"",
+      "wsgidav; extra == \"dev\"",
+      "cheroot; extra == \"dev\"",
+      "typing_extensions; python_version < \"3.11\" and extra == \"dev\"",
+      "pydantic; extra == \"dev-third-party\"",
+      "pydantic-settings; extra == \"dev-third-party\""
+    ]
+  },
+  "universal_pathlib-0.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "123275e22a6798df40019c3f72728ff37f73aba8734116ae51b08c4b78598f20",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "pathlib-abc"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=2024.5.0",
+      "pathlib-abc<0.6.0,>=0.5.1",
+      "pytest>=8; extra == \"tests\"",
+      "pytest-sugar>=0.9.7; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-mock>=3.12.0; extra == \"tests\"",
+      "pylint>=2.17.4; extra == \"tests\"",
+      "mypy>=1.10.0; extra == \"tests\"",
+      "pydantic>=2; extra == \"tests\"",
+      "pytest-mypy-plugins>=3.1.2; extra == \"tests\"",
+      "packaging; extra == \"tests\"",
+      "mypy>=1.10.0; extra == \"typechecking\"",
+      "pytest-mypy-plugins>=3.1.2; extra == \"typechecking\"",
+      "fsspec[adl,gcs,github,http,s3,smb,ssh]>=2024.5.0; extra == \"dev\"",
+      "s3fs>=2024.5.0; extra == \"dev\"",
+      "gcsfs>=2024.5.0; extra == \"dev\"",
+      "adlfs>=2024; extra == \"dev\"",
+      "huggingface_hub; extra == \"dev\"",
+      "webdav4[fsspec]; extra == \"dev\"",
+      "moto[s3,server]; extra == \"dev\"",
+      "wsgidav; extra == \"dev\"",
+      "cheroot; extra == \"dev\"",
+      "typing_extensions; python_version < \"3.11\" and extra == \"dev\"",
+      "pydantic; extra == \"dev-third-party\"",
+      "pydantic-settings; extra == \"dev-third-party\""
+    ]
+  },
+  "universal_pathlib-0.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "69b6250d9a79dbc33a9e6a7b0e732aece8b0e178fe0af35f104b4e207fd9d5ae",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "pathlib-abc"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=2024.5.0",
+      "pathlib-abc<0.6.0,>=0.5.1",
+      "pytest>=8; extra == \"tests\"",
+      "pytest-sugar>=0.9.7; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-mock>=3.12.0; extra == \"tests\"",
+      "pylint>=2.17.4; extra == \"tests\"",
+      "mypy>=1.10.0; extra == \"tests\"",
+      "pydantic>=2; extra == \"tests\"",
+      "pytest-mypy-plugins>=3.1.2; extra == \"tests\"",
+      "packaging; extra == \"tests\"",
+      "mypy>=1.10.0; extra == \"typechecking\"",
+      "pytest-mypy-plugins>=3.1.2; extra == \"typechecking\"",
+      "fsspec[adl,gcs,github,http,s3,smb,ssh]>=2024.5.0; extra == \"dev\"",
+      "s3fs>=2024.5.0; extra == \"dev\"",
+      "gcsfs>=2024.5.0; extra == \"dev\"",
+      "adlfs>=2024; extra == \"dev\"",
+      "webdav4[fsspec]; extra == \"dev\"",
+      "moto[s3,server]; extra == \"dev\"",
+      "wsgidav; extra == \"dev\"",
+      "cheroot; extra == \"dev\"",
+      "typing_extensions; python_version < \"3.11\" and extra == \"dev\"",
+      "pydantic; extra == \"dev-third-party\"",
+      "pydantic-settings; extra == \"dev-third-party\""
+    ]
+  },
+  "universal_pathlib-0.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1107d74400d868a6af031b2b3477e1a845133db42b2a1d9282d023f013a821f0",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "pathlib-abc"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=2024.5.0",
+      "pathlib-abc==0.5.1",
+      "pytest>=8; extra == \"tests\"",
+      "pytest-sugar>=0.9.7; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-mock>=3.12.0; extra == \"tests\"",
+      "pylint>=2.17.4; extra == \"tests\"",
+      "mypy>=1.10.0; extra == \"tests\"",
+      "pydantic>=2; extra == \"tests\"",
+      "pytest-mypy-plugins>=3.1.2; extra == \"tests\"",
+      "packaging; extra == \"tests\"",
+      "mypy>=1.10.0; extra == \"typechecking\"",
+      "pytest-mypy-plugins>=3.1.2; extra == \"typechecking\"",
+      "fsspec[adl,gcs,github,http,s3,smb,ssh]>=2024.5.0; extra == \"dev\"",
+      "s3fs>=2024.5.0; extra == \"dev\"",
+      "gcsfs>=2024.5.0; extra == \"dev\"",
+      "adlfs>=2024; extra == \"dev\"",
+      "webdav4[fsspec]; extra == \"dev\"",
+      "moto[s3,server]; extra == \"dev\"",
+      "wsgidav; extra == \"dev\"",
+      "cheroot; extra == \"dev\"",
+      "typing_extensions; python_version < \"3.11\" and extra == \"dev\"",
+      "pydantic; extra == \"dev-third-party\"",
+      "pydantic-settings; extra == \"dev-third-party\""
+    ]
+  }
+}

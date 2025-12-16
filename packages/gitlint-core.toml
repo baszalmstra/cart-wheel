@@ -1,0 +1,11 @@
+# Package configuration for gitlint-core
+conda_forge = "gitlint-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gitlint_core-0.19.1-py3-none-any.whl" },
+  { filename = "gitlint_core-0.19.0-py3-none-any.whl" },
+  { filename = "gitlint_core-0.18.0-py2.py3-none-any.whl" },
+  { filename = "gitlint_core-0.17.0-py2.py3-none-any.whl" },
+]

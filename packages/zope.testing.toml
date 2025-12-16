@@ -1,0 +1,11 @@
+# Package configuration for zope.testing
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zope_testing-6.0-py3-none-any.whl" },
+  { filename = "zope.testing-5.1-py3-none-any.whl" },
+  { filename = "zope.testing-5.0.1-py3-none-any.whl" },
+  { filename = "zope.testing-4.10-py2.py3-none-any.whl" },
+  { filename = "zope.testing-4.9-py2.py3-none-any.whl" },
+]

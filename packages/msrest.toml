@@ -1,0 +1,12 @@
+# Package configuration for msrest
+conda_forge = "msrest"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "msrest-0.7.1-py3-none-any.whl" },
+  { filename = "msrest-0.6.21-py2.py3-none-any.whl" },
+  { filename = "msrest-0.6.20-py2.py3-none-any.whl" },
+  { filename = "msrest-0.6.19-py2.py3-none-any.whl" },
+  { filename = "msrest-0.6.18-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for dataflows-tabulator
+conda_forge = "dataflows-tabulator"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dataflows_tabulator-1.54.3-py2.py3-none-any.whl" },
+  { filename = "dataflows_tabulator-1.54.2-py2.py3-none-any.whl" },
+  { filename = "dataflows_tabulator-1.54.1-py2.py3-none-any.whl" },
+  { filename = "dataflows_tabulator-1.54.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,143 @@
+{
+  "snowflake_core-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1bf11a7fd787b338b06acbd210d21a6c491084504d4219fb7f59bbd35e115f2",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "pydantic",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "snowflake-connector-python",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi",
+      "pydantic>=2",
+      "python-dateutil>=2.8.2",
+      "pyyaml",
+      "requests",
+      "snowflake-connector-python",
+      "urllib3",
+      "grpcio-tools; extra == 'dev'",
+      "mypy-protobuf; extra == 'dev'",
+      "protobuf; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'"
+    ]
+  },
+  "snowflake_core-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed5f659e69644b44850dc4ca0ad2e0d33180be5bf86e569899b5864d81c59a9a",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "pydantic",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "snowflake-connector-python",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi",
+      "pydantic>=2",
+      "python-dateutil>=2.8.2",
+      "pyyaml",
+      "requests",
+      "snowflake-connector-python",
+      "urllib3",
+      "grpcio-tools; extra == 'dev'",
+      "mypy-protobuf; extra == 'dev'",
+      "protobuf; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'"
+    ]
+  },
+  "snowflake_core-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55ab1e9102f13f12af5b998010d128edd5c87ff80ef0bd3b8a2b973359f86319",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "pydantic",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "snowflake-connector-python",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi",
+      "pydantic>=2",
+      "python-dateutil>=2.8.2",
+      "pyyaml",
+      "requests",
+      "snowflake-connector-python",
+      "urllib3",
+      "grpcio-tools; extra == 'dev'",
+      "mypy-protobuf; extra == 'dev'",
+      "protobuf; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'"
+    ]
+  },
+  "snowflake_core-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f67340f2d2baafd03b34e24b07bf67f7844f09dfb05d0ad22ea1818cfa7b35d4",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "snowflake-connector-python",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=2",
+      "python-dateutil>=2.8.2",
+      "pyyaml",
+      "requests",
+      "snowflake-connector-python",
+      "urllib3",
+      "grpcio-tools; extra == 'dev'",
+      "mypy-protobuf; extra == 'dev'",
+      "protobuf; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'"
+    ]
+  },
+  "snowflake_core-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f52d0be654860ffa647ff654f15dc7bfc2d3a9dbaa8f9adf70a06e4487a68058",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "snowflake-connector-python",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=2",
+      "python-dateutil>=2.8.2",
+      "pyyaml",
+      "requests",
+      "snowflake-connector-python",
+      "urllib3",
+      "grpcio-tools; extra == 'dev'",
+      "mypy-protobuf; extra == 'dev'",
+      "protobuf; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'"
+    ]
+  }
+}

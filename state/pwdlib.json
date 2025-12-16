@@ -1,0 +1,46 @@
+{
+  "pwdlib-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f86c15c138858c09f3bba0a10984d4f9178158c55deaa72eac0210849b1a140d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "argon2-cffi<26,>=23.1.0; extra == 'argon2'",
+      "bcrypt<6,>=4.1.2; extra == 'bcrypt'"
+    ]
+  },
+  "pwdlib-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1823dc6f22eae472b540e889ecf57fd424051d6a4023ec0bcf7f0de2d9d7ef8c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "argon2-cffi<24,>=23.1.0; extra == 'argon2'",
+      "bcrypt<5,>=4.1.2; extra == 'bcrypt'"
+    ]
+  },
+  "pwdlib-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be53812012ab66795a57ac9393a59716ae7c2b60841ed453eb1262017fdec144",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "argon2-cffi==23.1.0; extra == 'argon2'",
+      "bcrypt==4.1.2; extra == 'bcrypt'"
+    ]
+  },
+  "pwdlib-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38b89e560b852ca7327fe9924b44983a710845cffa267a04cf86c075a46c9bb0",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "argon2-cffi==23.1.0; extra == 'argon2'",
+      "bcrypt==4.1.2; extra == 'bcrypt'"
+    ]
+  }
+}

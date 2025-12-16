@@ -1,0 +1,10 @@
+# Package configuration for rarfile
+conda_forge = "rarfile"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rarfile-4.2-py3-none-any.whl" },
+  { filename = "rarfile-4.1-py3-none-any.whl" },
+  { filename = "rarfile-4.0-py3-none-any.whl" },
+]

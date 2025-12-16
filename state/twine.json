@@ -1,0 +1,156 @@
+{
+  "twine-6.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "418ebf08ccda9a8caaebe414433b0ba5e25eb5e4a927667122fbe8f829f985d8",
+    "dependencies": {
+      "required": [
+        "readme-renderer",
+        "requests",
+        "requests-toolbelt",
+        "urllib3",
+        "importlib-metadata",
+        "keyring",
+        "rfc3986",
+        "rich",
+        "packaging",
+        "id"
+      ]
+    },
+    "original_requirements": [
+      "readme-renderer>=35.0",
+      "requests>=2.20",
+      "requests-toolbelt!=0.9.0,>=0.8.0",
+      "urllib3>=1.26.0",
+      "importlib-metadata>=3.6; python_version < \"3.10\"",
+      "keyring>=21.2.0; platform_machine != \"ppc64le\" and platform_machine != \"s390x\"",
+      "rfc3986>=1.4.0",
+      "rich>=12.0.0",
+      "packaging>=24.0",
+      "id",
+      "keyring>=21.2.0; extra == \"keyring\""
+    ]
+  },
+  "twine-6.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a47f973caf122930bf0fbbf17f80b83bc1602c9ce393c7845f289a3001dc5384",
+    "dependencies": {
+      "required": [
+        "readme-renderer",
+        "requests",
+        "requests-toolbelt",
+        "urllib3",
+        "importlib-metadata",
+        "keyring",
+        "rfc3986",
+        "rich",
+        "packaging",
+        "id"
+      ]
+    },
+    "original_requirements": [
+      "readme-renderer>=35.0",
+      "requests>=2.20",
+      "requests-toolbelt!=0.9.0,>=0.8.0",
+      "urllib3>=1.26.0",
+      "importlib-metadata>=3.6; python_version < \"3.10\"",
+      "keyring>=15.1; platform_machine != \"ppc64le\" and platform_machine != \"s390x\"",
+      "rfc3986>=1.4.0",
+      "rich>=12.0.0",
+      "packaging>=24.0",
+      "id",
+      "keyring>=15.1; extra == \"keyring\""
+    ]
+  },
+  "twine-6.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c6025b203b51521d53e200f4a08b116dee7500a38591668c6a6033117bdc218",
+    "dependencies": {
+      "required": [
+        "pkginfo",
+        "readme-renderer",
+        "requests",
+        "requests-toolbelt",
+        "urllib3",
+        "importlib-metadata",
+        "keyring",
+        "rfc3986",
+        "rich",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "pkginfo>=1.8.1",
+      "readme-renderer>=35.0",
+      "requests>=2.20",
+      "requests-toolbelt!=0.9.0,>=0.8.0",
+      "urllib3>=1.26.0",
+      "importlib-metadata>=3.6; python_version < \"3.10\"",
+      "keyring>=15.1; platform_machine != \"ppc64le\" and platform_machine != \"s390x\"",
+      "rfc3986>=1.4.0",
+      "rich>=12.0.0",
+      "packaging",
+      "keyring>=15.1; extra == \"keyring\""
+    ]
+  },
+  "twine-6.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7dc5617bda2764ad3060048c4fc0161ebac2f72216ab19f1977d2228a9e12691",
+    "dependencies": {
+      "required": [
+        "pkginfo",
+        "readme-renderer",
+        "requests",
+        "requests-toolbelt",
+        "urllib3",
+        "importlib-metadata",
+        "keyring",
+        "rfc3986",
+        "rich",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "pkginfo>=1.8.1",
+      "readme-renderer>=35.0",
+      "requests>=2.20",
+      "requests-toolbelt!=0.9.0,>=0.8.0",
+      "urllib3>=1.26.0",
+      "importlib-metadata>=3.6",
+      "keyring>=15.1; platform_machine != \"ppc64le\" and platform_machine != \"s390x\"",
+      "rfc3986>=1.4.0",
+      "rich>=12.0.0",
+      "packaging",
+      "keyring>=15.1; extra == \"keyring\""
+    ]
+  },
+  "twine-5.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "215dbe7b4b94c2c50a7315c0275d2258399280fbb7d04182c7e55e24b5f93997",
+    "dependencies": {
+      "required": [
+        "pkginfo",
+        "readme-renderer",
+        "requests",
+        "requests-toolbelt",
+        "urllib3",
+        "importlib-metadata",
+        "keyring",
+        "rfc3986",
+        "rich",
+        "pkginfo"
+      ]
+    },
+    "original_requirements": [
+      "pkginfo >=1.8.1",
+      "readme-renderer >=35.0",
+      "requests >=2.20",
+      "requests-toolbelt !=0.9.0,>=0.8.0",
+      "urllib3 >=1.26.0",
+      "importlib-metadata >=3.6",
+      "keyring >=15.1",
+      "rfc3986 >=1.4.0",
+      "rich >=12.0.0",
+      "pkginfo <1.11"
+    ]
+  }
+}

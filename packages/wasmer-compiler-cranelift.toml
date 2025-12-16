@@ -1,0 +1,9 @@
+# Package configuration for wasmer-compiler-cranelift
+conda_forge = "python-wasmer-compiler-cranelift"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "wasmer_compiler_cranelift-1.1.0-py3-none-any.whl" },
+  { filename = "wasmer_compiler_cranelift-1.0.0-py3-none-any.whl" },
+]

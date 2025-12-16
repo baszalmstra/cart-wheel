@@ -1,0 +1,88 @@
+{
+  "smithy_aws_core-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d112082ef77758e1977f8694cf690ac35c76570c12a6590fccd5da085a3ce507",
+    "dependencies": {
+      "required": [
+        "aws-sdk-signers",
+        "smithy-core",
+        "smithy-http"
+      ]
+    },
+    "original_requirements": [
+      "aws-sdk-signers~=0.1.0",
+      "smithy-core~=0.2.0",
+      "smithy-http~=0.3.0",
+      "smithy-aws-event-stream~=0.2.0; extra == 'eventstream'",
+      "smithy-json~=0.2.0; extra == 'json'"
+    ]
+  },
+  "smithy_aws_core-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d1634f276c2999dc2a04fafef63b9d28309de50d939d1d49df952773a7063c4",
+    "dependencies": {
+      "required": [
+        "aws-sdk-signers",
+        "smithy-core",
+        "smithy-http"
+      ]
+    },
+    "original_requirements": [
+      "aws-sdk-signers~=0.1.0",
+      "smithy-core~=0.1.0",
+      "smithy-http~=0.2.0",
+      "smithy-aws-event-stream~=0.1.0; extra == 'eventstream'",
+      "smithy-json~=0.1.0; extra == 'json'"
+    ]
+  },
+  "smithy_aws_core-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8cda4011562f45f1fc5957c3a981b6016d736178450e5f2a1586937632af487",
+    "dependencies": {
+      "required": [
+        "aws-sdk-signers",
+        "smithy-core",
+        "smithy-http"
+      ]
+    },
+    "original_requirements": [
+      "aws-sdk-signers~=0.1.0",
+      "smithy-core~=0.1.0",
+      "smithy-http~=0.1.0",
+      "smithy-aws-event-stream~=0.1.0; extra == 'eventstream'",
+      "smithy-json~=0.1.0; extra == 'json'"
+    ]
+  },
+  "smithy_aws_core-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb17d9c0fc4e810c34ea67fcc60f9c72407c176dde9360fa3f2795e63677a75a",
+    "dependencies": {
+      "required": [
+        "aws-sdk-signers",
+        "smithy-core",
+        "smithy-http"
+      ]
+    },
+    "original_requirements": [
+      "aws-sdk-signers",
+      "smithy-core",
+      "smithy-http"
+    ]
+  },
+  "smithy_aws_core-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0708f5bb118abb8f6cad194222bdf75c4a26e48e485467082dcdee58f9001994",
+    "dependencies": {
+      "required": [
+        "aws-sdk-signers",
+        "smithy-core",
+        "smithy-http"
+      ]
+    },
+    "original_requirements": [
+      "aws-sdk-signers",
+      "smithy-core",
+      "smithy-http"
+    ]
+  }
+}

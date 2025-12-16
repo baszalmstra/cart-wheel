@@ -1,0 +1,11 @@
+# Package configuration for livekit-plugins-baseten
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "livekit_plugins_baseten-1.3.6-py3-none-any.whl" },
+  { filename = "livekit_plugins_baseten-1.3.5-py3-none-any.whl" },
+  { filename = "livekit_plugins_baseten-1.3.4-py3-none-any.whl" },
+  { filename = "livekit_plugins_baseten-1.3.3-py3-none-any.whl" },
+  { filename = "livekit_plugins_baseten-1.3.2-py3-none-any.whl" },
+]

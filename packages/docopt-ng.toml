@@ -1,0 +1,12 @@
+# Package configuration for docopt-ng
+conda_forge = "docopt-ng"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "docopt_ng-0.9.0-py3-none-any.whl" },
+  { filename = "docopt_ng-0.8.1-py2.py3-none-any.whl" },
+  { filename = "docopt_ng-0.7.2-py2.py3-none-any.whl" },
+  { filename = "docopt_ng-0.7.1-py2.py3-none-any.whl" },
+  { filename = "docopt_ng-0.7.0-py2.py3-none-any.whl" },
+]

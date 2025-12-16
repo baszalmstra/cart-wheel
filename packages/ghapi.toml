@@ -1,0 +1,12 @@
+# Package configuration for ghapi
+conda_forge = "ghapi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ghapi-1.0.8-py3-none-any.whl" },
+  { filename = "ghapi-1.0.7-py3-none-any.whl" },
+  { filename = "ghapi-1.0.6-py3-none-any.whl" },
+  { filename = "ghapi-1.0.5-py3-none-any.whl" },
+  { filename = "ghapi-1.0.4-py3-none-any.whl" },
+]

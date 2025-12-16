@@ -1,0 +1,12 @@
+# Package configuration for cmd2
+conda_forge = "cmd2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cmd2-3.0.0-py3-none-any.whl" },
+  { filename = "cmd2-2.7.0-py3-none-any.whl" },
+  { filename = "cmd2-2.6.2-py3-none-any.whl" },
+  { filename = "cmd2-2.6.1-py3-none-any.whl" },
+  { filename = "cmd2-2.6.0-py3-none-any.whl" },
+]

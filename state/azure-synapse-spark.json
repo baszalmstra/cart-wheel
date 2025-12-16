@@ -1,0 +1,92 @@
+{
+  "azure_synapse_spark-0.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "972b6957f3024fe467b27e5f14477a32a7e6aa29e1abb4108d9430abc48828bd",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-core",
+        "azure-synapse-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "azure-common (~=1.1)",
+      "azure-core (<2.0.0,>=1.6.0)",
+      "azure-synapse-nspkg ; python_version<'3.0'"
+    ]
+  },
+  "azure_synapse_spark-0.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2cd4b5da1ea9d3318b14ea7fc1c52a00d0e29076c147f05de2f24b1b883e680",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-core",
+        "azure-synapse-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "azure-common (~=1.1)",
+      "azure-core (<2.0.0,>=1.6.0)",
+      "azure-synapse-nspkg ; python_version<'3.0'"
+    ]
+  },
+  "azure_synapse_spark-0.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d8124ea1387d73ddb39d8353cc151958bdc3ec3e82ffe1bb42d620db112817eb",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-core",
+        "azure-synapse-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "azure-common (~=1.1)",
+      "azure-core (<2.0.0,>=1.6.0)",
+      "azure-synapse-nspkg ; python_version<'3.0'"
+    ]
+  },
+  "azure_synapse_spark-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a3dfcec9e6d7f34bf8fe792e67a921067066a92d0e7fa3f7175fa4eb17a67ce",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-core",
+        "azure-synapse-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "azure-common (~=1.1)",
+      "azure-core (<2.0.0,>=1.6.0)",
+      "azure-synapse-nspkg ; python_version<'3.0'"
+    ]
+  },
+  "azure_synapse_spark-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b542f485382434494ad64b9ecb2917f40c85e43e17ba712bbb3108889d5d2e2",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-core",
+        "azure-synapse-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "azure-common (~=1.1)",
+      "azure-core (<2.0.0,>=1.6.0)",
+      "azure-synapse-nspkg ; python_version<'3.0'"
+    ]
+  }
+}

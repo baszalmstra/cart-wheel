@@ -1,0 +1,12 @@
+# Package configuration for youtube-dl
+conda_forge = "youtube-dl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "youtube_dl-2021.12.17-py2.py3-none-any.whl" },
+  { filename = "youtube_dl-2021.6.6-py2.py3-none-any.whl" },
+  { filename = "youtube_dl-2021.5.16-py2.py3-none-any.whl" },
+  { filename = "youtube_dl-2021.4.26-py2.py3-none-any.whl" },
+  { filename = "youtube_dl-2021.4.17-py2.py3-none-any.whl" },
+]

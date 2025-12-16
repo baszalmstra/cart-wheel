@@ -1,0 +1,8 @@
+# Package configuration for llm-blender
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "llm_blender-0.0.2-py3-none-any.whl" },
+  { filename = "llm_blender-0.0.1-py3-none-any.whl" },
+]

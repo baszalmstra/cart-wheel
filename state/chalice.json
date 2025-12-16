@@ -1,0 +1,180 @@
+{
+  "chalice-1.32.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "671fdf45b8fe9315a29acb63a0accfdff60dfc582ea4faf54f0d463323930542",
+    "dependencies": {
+      "required": [
+        "click",
+        "botocore",
+        "six",
+        "pip",
+        "jmespath",
+        "pyyaml",
+        "inquirer",
+        "wheel",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "click<9.0,>=7",
+      "botocore<2.0.0,>=1.14.0",
+      "six<2.0.0,>=1.10.0",
+      "pip<25.1,>=9",
+      "jmespath<2.0.0,>=0.9.3",
+      "pyyaml<7.0.0,>=5.3.1",
+      "inquirer<4.0.0,>=3.0.0",
+      "wheel",
+      "setuptools",
+      "watchdog==2.3.1; extra == \"event-file-poller\"",
+      "aws_cdk.aws_iam<2.0,>=1.85.0; extra == \"cdk\"",
+      "aws_cdk.aws-s3-assets<2.0,>=1.85.0; extra == \"cdk\"",
+      "aws_cdk.cloudformation-include<2.0,>=1.85.0; extra == \"cdk\"",
+      "aws_cdk.core<2.0,>=1.85.0; extra == \"cdk\"",
+      "aws-cdk-lib<3.0,>2.0; extra == \"cdkv2\""
+    ]
+  },
+  "chalice-1.31.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2406acda005c6dec753d0a9121c74ef57405a0536edf27cfd90fd36967d8e0ec",
+    "dependencies": {
+      "required": [
+        "click",
+        "botocore",
+        "typing-extensions",
+        "six",
+        "pip",
+        "jmespath",
+        "pyyaml",
+        "inquirer",
+        "wheel",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "click<9.0,>=7",
+      "botocore<2.0.0,>=1.14.0",
+      "typing-extensions<5.0.0,>=4.0.0; python_version < \"3.8\"",
+      "six<2.0.0,>=1.10.0",
+      "pip<25.1,>=9",
+      "jmespath<2.0.0,>=0.9.3",
+      "pyyaml<7.0.0,>=5.3.1",
+      "inquirer<4.0.0,>=3.0.0",
+      "wheel",
+      "setuptools",
+      "watchdog==2.3.1; extra == \"event-file-poller\"",
+      "aws_cdk.aws_iam<2.0,>=1.85.0; extra == \"cdk\"",
+      "aws_cdk.aws-s3-assets<2.0,>=1.85.0; extra == \"cdk\"",
+      "aws_cdk.cloudformation-include<2.0,>=1.85.0; extra == \"cdk\"",
+      "aws_cdk.core<2.0,>=1.85.0; extra == \"cdk\"",
+      "aws-cdk-lib<3.0,>2.0; extra == \"cdkv2\""
+    ]
+  },
+  "chalice-1.31.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b994f658b7d3bd5ea4ee83df356600ac461142c041b528e3b16a488f3c01239",
+    "dependencies": {
+      "required": [
+        "click",
+        "botocore",
+        "typing-extensions",
+        "six",
+        "pip",
+        "jmespath",
+        "pyyaml",
+        "inquirer",
+        "wheel",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "click<9.0,>=7",
+      "botocore<2.0.0,>=1.14.0",
+      "typing-extensions<5.0.0,>=4.0.0; python_version < \"3.8\"",
+      "six<2.0.0,>=1.10.0",
+      "pip<24.4,>=9",
+      "jmespath<2.0.0,>=0.9.3",
+      "pyyaml<7.0.0,>=5.3.1",
+      "inquirer<4.0.0,>=3.0.0",
+      "wheel",
+      "setuptools",
+      "watchdog==2.3.1; extra == \"event-file-poller\"",
+      "aws_cdk.aws_iam<2.0,>=1.85.0; extra == \"cdk\"",
+      "aws_cdk.aws-s3-assets<2.0,>=1.85.0; extra == \"cdk\"",
+      "aws_cdk.cloudformation-include<2.0,>=1.85.0; extra == \"cdk\"",
+      "aws_cdk.core<2.0,>=1.85.0; extra == \"cdk\"",
+      "aws-cdk-lib<3.0,>2.0; extra == \"cdkv2\""
+    ]
+  },
+  "chalice-1.31.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c076dc6bd73fa77b6d4d0a687e66f33eb2e26632b7208cd8164eb42df87c92f1",
+    "dependencies": {
+      "required": [
+        "click",
+        "botocore",
+        "six",
+        "pip",
+        "jmespath",
+        "pyyaml",
+        "inquirer",
+        "wheel",
+        "setuptools",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click <9.0,>=7",
+      "botocore <2.0.0,>=1.14.0",
+      "six <2.0.0,>=1.10.0",
+      "pip <24.1,>=9",
+      "jmespath <2.0.0,>=0.9.3",
+      "pyyaml <7.0.0,>=5.3.1",
+      "inquirer <3.0.0,>=2.7.0",
+      "wheel",
+      "setuptools",
+      "typing-extensions <5.0.0,>=4.0.0 ; python_version < \"3.8\"",
+      "aws-cdk.aws-iam <2.0,>=1.85.0 ; extra == 'cdk'",
+      "aws-cdk.aws-s3-assets <2.0,>=1.85.0 ; extra == 'cdk'",
+      "aws-cdk.cloudformation-include <2.0,>=1.85.0 ; extra == 'cdk'",
+      "aws-cdk.core <2.0,>=1.85.0 ; extra == 'cdk'",
+      "aws-cdk-lib <3.0,>2.0 ; extra == 'cdkv2'",
+      "watchdog ==2.3.1 ; extra == 'event-file-poller'"
+    ]
+  },
+  "chalice-1.31.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce6dc4b9ed131703af4ce2e70720bdcec841ced194ebbcde5ec9150f373f4e4e",
+    "dependencies": {
+      "required": [
+        "click",
+        "botocore",
+        "six",
+        "pip",
+        "jmespath",
+        "pyyaml",
+        "inquirer",
+        "wheel",
+        "setuptools",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click <9.0,>=7",
+      "botocore <2.0.0,>=1.14.0",
+      "six <2.0.0,>=1.10.0",
+      "pip <24.1,>=9",
+      "jmespath <2.0.0,>=0.9.3",
+      "pyyaml <7.0.0,>=5.3.1",
+      "inquirer <3.0.0,>=2.7.0",
+      "wheel",
+      "setuptools",
+      "typing-extensions <5.0.0,>=4.0.0 ; python_version < \"3.8\"",
+      "aws-cdk.aws-iam <2.0,>=1.85.0 ; extra == 'cdk'",
+      "aws-cdk.aws-s3-assets <2.0,>=1.85.0 ; extra == 'cdk'",
+      "aws-cdk.cloudformation-include <2.0,>=1.85.0 ; extra == 'cdk'",
+      "aws-cdk.core <2.0,>=1.85.0 ; extra == 'cdk'",
+      "aws-cdk-lib <3.0,>2.0 ; extra == 'cdkv2'",
+      "watchdog ==2.3.1 ; extra == 'event-file-poller'"
+    ]
+  }
+}

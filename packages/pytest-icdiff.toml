@@ -1,0 +1,12 @@
+# Package configuration for pytest-icdiff
+conda_forge = "pytest-icdiff"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_icdiff-0.9-py3-none-any.whl" },
+  { filename = "pytest_icdiff-0.8-py3-none-any.whl" },
+  { filename = "pytest_icdiff-0.7-py3-none-any.whl" },
+  { filename = "pytest_icdiff-0.6-py3-none-any.whl" },
+  { filename = "pytest_icdiff-0.3-py3-none-any.whl" },
+]

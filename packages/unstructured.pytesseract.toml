@@ -1,0 +1,10 @@
+# Package configuration for unstructured.pytesseract
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "unstructured.pytesseract-0.3.15-py3-none-any.whl" },
+  { filename = "unstructured.pytesseract-0.3.13-py3-none-any.whl" },
+  { filename = "unstructured.pytesseract-0.3.12-py3-none-any.whl" },
+  { filename = "unstructured.pytesseract-0.3.11-py3-none-any.whl" },
+]

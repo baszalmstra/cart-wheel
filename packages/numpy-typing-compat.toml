@@ -1,0 +1,12 @@
+# Package configuration for numpy-typing-compat
+conda_forge = "numpy-typing-compat"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "numpy_typing_compat-20251206.2.4-py3-none-any.whl" },
+  { filename = "numpy_typing_compat-20251206.2.3-py3-none-any.whl" },
+  { filename = "numpy_typing_compat-20251206.2.2-py3-none-any.whl" },
+  { filename = "numpy_typing_compat-20251206.2.1-py3-none-any.whl" },
+  { filename = "numpy_typing_compat-20251206.2.0-py3-none-any.whl" },
+]

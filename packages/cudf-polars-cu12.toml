@@ -1,0 +1,11 @@
+# Package configuration for cudf-polars-cu12
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cudf_polars_cu12-25.12.0-py3-none-any.whl" },
+  { filename = "cudf_polars_cu12-25.10.0-py3-none-any.whl" },
+  { filename = "cudf_polars_cu12-25.8.0-py3-none-any.whl" },
+  { filename = "cudf_polars_cu12-25.6.0-py3-none-any.whl" },
+  { filename = "cudf_polars_cu12-25.4.0-py3-none-any.whl" },
+]

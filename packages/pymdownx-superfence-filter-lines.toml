@@ -1,0 +1,7 @@
+# Package configuration for pymdownx-superfence-filter-lines
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pymdownx_superfence_filter_lines-0.1.0-py3-none-any.whl" },
+]

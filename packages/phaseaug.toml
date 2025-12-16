@@ -1,0 +1,9 @@
+# Package configuration for phaseaug
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "phaseaug-1.0.1-py3-none-any.whl" },
+  { filename = "phaseaug-1.0.0-py3-none-any.whl" },
+  { filename = "phaseaug-0.0.2-py3-none-any.whl" },
+]

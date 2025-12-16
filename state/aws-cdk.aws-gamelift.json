@@ -1,0 +1,102 @@
+{
+  "aws_cdk.aws_gamelift-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5e0ad9580d693647e1df22e863b0e83594881efae9da7b93cba9a9101041b5be",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_gamelift-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e5126c55905512e6c0c2e1061c5b3d6374a9404c1bd03c3f193a17f18b0b4a7",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_gamelift-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b29e4f3f6183cfcd941487ba7a5b325eaab6ef196bb91a99572e6df4b384ef3f",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_gamelift-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e075521d5cecb5c5c72dc2c2d6dc5778b1ccfc7f4a6b03d78db498136b589e7a",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_gamelift-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb7d675d7eb419fa7870bc505359e5d4a31a45d8bf252150350942f3cc643f53",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

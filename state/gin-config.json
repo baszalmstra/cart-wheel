@@ -1,0 +1,73 @@
+{
+  "gin_config-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bddb7ca221ea2b46cdb59321e79fecf02d6e3b728906047fcd4076c297609fd6",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytorch-nightly ; extra == 'pytorch-nightly'",
+      "tensorflow (>=1.13.0) ; extra == 'tensorflow'",
+      "tensorflow-gpu (>=1.13.0) ; extra == 'tensorflow-gpu'",
+      "absl-py (>=0.1.6) ; extra == 'testing'",
+      "mock (>=3.0.5) ; extra == 'testing'",
+      "nose ; extra == 'testing'",
+      "tf-nightly ; extra == 'tf-nightly'",
+      "torch (>=1.3.0) ; extra == 'torch'"
+    ]
+  },
+  "gin_config-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "774aa7855cd7eca839e796e394159a96060660296b3ca9fbbbf9af427fd152ba",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytorch-nightly; extra == 'pytorch-nightly'",
+      "tensorflow (>=1.13.0); extra == 'tensorflow'",
+      "tensorflow-gpu (>=1.13.0); extra == 'tensorflow-gpu'",
+      "absl-py (>=0.1.6); extra == 'testing'",
+      "mock (>=3.0.5); extra == 'testing'",
+      "nose; extra == 'testing'",
+      "tf-nightly; extra == 'tf-nightly'",
+      "torch (>=1.3.0); extra == 'torch'"
+    ]
+  },
+  "gin_config-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2141da0525c9275bf08f11ef7d25cdd65e415f74f77fab54227af9f5d2d8c93",
+    "dependencies": {
+      "required": [
+        "six",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.10.0)",
+      "enum34 ; python_version<\"3\"",
+      "tensorflow (>=1.13.0) ; extra == 'tensorflow'",
+      "tensorflow-gpu (>=1.13.0) ; extra == 'tensorflow-gpu'",
+      "absl-py (>=0.1.6) ; extra == 'testing'",
+      "mock (>=3.0.5) ; extra == 'testing'",
+      "nose ; extra == 'testing'",
+      "six (>=1.10.0) ; extra == 'testing'",
+      "tf-nightly ; extra == 'tf-nightly'"
+    ]
+  },
+  "gin_config-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "148c6912c64ef67d5cff152778df9f11a14a0abe1c8bf0cc9cfd19ca8b9262c7",
+    "dependencies": {
+      "required": [
+        "six",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.10.0)",
+      "enum34; python_version<\"3\"",
+      "tensorflow (>=1.13.0); extra == 'tensorflow'",
+      "tensorflow-gpu (>=1.13.0); extra == 'tensorflow_gpu'"
+    ]
+  }
+}

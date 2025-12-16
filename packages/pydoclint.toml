@@ -1,0 +1,12 @@
+# Package configuration for pydoclint
+conda_forge = "pydoclint"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydoclint-0.8.3-py3-none-any.whl" },
+  { filename = "pydoclint-0.8.2-py3-none-any.whl" },
+  { filename = "pydoclint-0.8.1-py3-none-any.whl" },
+  { filename = "pydoclint-0.8.0-py3-none-any.whl" },
+  { filename = "pydoclint-0.7.6-py3-none-any.whl" },
+]

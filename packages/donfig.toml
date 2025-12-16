@@ -1,0 +1,9 @@
+# Package configuration for donfig
+conda_forge = "donfig"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "donfig-0.8.1.post1-py3-none-any.whl" },
+  { filename = "donfig-0.8.1.post0-py3-none-any.whl" },
+]

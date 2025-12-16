@@ -1,0 +1,88 @@
+{
+  "langchain_neo4j-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "86c242df10c3fb1cbf3f8dfe52698da47a1055a578967618d4d0203d5453aa9c",
+    "dependencies": {
+      "required": [
+        "langchain-classic",
+        "langchain-core",
+        "neo4j",
+        "neo4j-graphrag"
+      ]
+    },
+    "original_requirements": [
+      "langchain-classic (>=1.0.0,<2.0.0)",
+      "langchain-core (>=1.0.0,<2.0.0)",
+      "neo4j (>=5.25.0,<6.0.0)",
+      "neo4j-graphrag (>=1.9.0,<2.0.0)"
+    ]
+  },
+  "langchain_neo4j-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b202623222904ef38f3309fd62e51546290efcc34fc49ff5a5b34ace65979330",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "langchain-core",
+        "neo4j",
+        "neo4j-graphrag"
+      ]
+    },
+    "original_requirements": [
+      "langchain (>=0.3.7,<0.4.0)",
+      "langchain-core (>=0.3.39,<0.4.0)",
+      "neo4j (>=5.25.0,<6.0.0)",
+      "neo4j-graphrag (>=1.9.0,<2.0.0)"
+    ]
+  },
+  "langchain_neo4j-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2760b5757e7a402884cf3419830217651df97fe4f44b3fec6c96b14b6d7fd18e",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "langchain-core",
+        "neo4j",
+        "neo4j-graphrag"
+      ]
+    },
+    "original_requirements": [
+      "langchain (>=0.3.7,<0.4.0)",
+      "langchain-core (>=0.3.8,<0.4.0)",
+      "neo4j (>=5.25.0,<6.0.0)",
+      "neo4j-graphrag (>=1.5.0,<2.0.0)"
+    ]
+  },
+  "langchain_neo4j-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6069eb748fe959d7c97add82ca3de8c0b9018dfdaa05f823aa970606f8e5cdb7",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "langchain-core",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "langchain (>=0.3.7,<0.4.0)",
+      "langchain-core (>=0.3.8,<0.4.0)",
+      "neo4j (>=5.25.0,<6.0.0)"
+    ]
+  },
+  "langchain_neo4j-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "83aa0b3f4eb35630e1deef6af2dd55ccb665a97389ad40117a50d707d8356ed9",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "langchain-core",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "langchain (>=0.3.7,<0.4.0)",
+      "langchain-core (>=0.3.8,<0.4.0)",
+      "neo4j (>=5.25.0,<6.0.0)"
+    ]
+  }
+}

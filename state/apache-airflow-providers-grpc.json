@@ -1,0 +1,96 @@
+{
+  "apache_airflow_providers_grpc-3.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b51ebeb2b0160c85c5a7b42a77943f9e6a8a7e00711a4fc4ec0a44cf1564d303",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "google-auth",
+        "google-auth-httplib2",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "google-auth>=1.0.0, <3.0.0",
+      "google-auth-httplib2>=0.0.1",
+      "grpcio>=1.59.0"
+    ]
+  },
+  "apache_airflow_providers_grpc-3.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac945d5879555ce687edbaa7d53dc4bc1d166597c847ef266daed23d15898f49",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "google-auth",
+        "google-auth-httplib2",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "google-auth>=1.0.0, <3.0.0",
+      "google-auth-httplib2>=0.0.1",
+      "grpcio>=1.59.0"
+    ]
+  },
+  "apache_airflow_providers_grpc-3.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d8c5a7a284f3123700455cccfc2ce1cadbe52360952f6426ffec4ea369c41f28",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "google-auth",
+        "google-auth-httplib2",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "google-auth>=1.0.0, <3.0.0",
+      "google-auth-httplib2>=0.0.1",
+      "grpcio>=1.59.0"
+    ]
+  },
+  "apache_airflow_providers_grpc-3.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bacf1ce821e66f8c612cbd5341dbba55f6b679a4fc68c3a3a546563cdbf3719b",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "google-auth",
+        "google-auth-httplib2",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "google-auth>=1.0.0, <3.0.0",
+      "google-auth-httplib2>=0.0.1",
+      "grpcio>=1.59.0"
+    ]
+  },
+  "apache_airflow_providers_grpc-3.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a951359d6cfd272825b9ab95b0a7283e42a68e43bf12e5bfef4cef8c76e6f3ed",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "google-auth",
+        "google-auth-httplib2",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "google-auth>=1.0.0, <3.0.0",
+      "google-auth-httplib2>=0.0.1",
+      "grpcio>=1.59.0"
+    ]
+  }
+}

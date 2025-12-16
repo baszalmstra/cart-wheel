@@ -1,0 +1,7 @@
+# Package configuration for fastrtc-moonshine-onnx
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fastrtc_moonshine_onnx-20241016-py3-none-any.whl" },
+]

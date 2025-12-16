@@ -1,0 +1,12 @@
+# Package configuration for openinference-instrumentation-openai-agents
+conda_forge = "openinference-instrumentation-openai-agents"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openinference_instrumentation_openai_agents-1.4.0-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_openai_agents-1.3.1-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_openai_agents-1.3.0-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_openai_agents-1.2.0-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_openai_agents-1.1.1-py3-none-any.whl" },
+]

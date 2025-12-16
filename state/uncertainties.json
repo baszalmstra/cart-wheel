@@ -1,0 +1,87 @@
+{
+  "uncertainties-3.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "313353900d8f88b283c9bad81e7d2b2d3d4bcc330cbace35403faaed7e78890a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "numpy; extra == \"arrays\"",
+      "pytest; extra == \"test\"",
+      "pytest_codspeed; extra == \"test\"",
+      "pytest_cov; extra == \"test\"",
+      "scipy; extra == \"test\"",
+      "sphinx; extra == \"doc\"",
+      "sphinx-copybutton; extra == \"doc\"",
+      "python-docs-theme; extra == \"doc\"",
+      "uncertainties[arrays,doc,test]; extra == \"all\""
+    ]
+  },
+  "uncertainties-3.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd8543355952f4052786ed4150acaf12e23117bd0f5bd03ea07de466bce646e7",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "uncertainties[arrays,doc,test] ; extra == 'all'",
+      "numpy ; extra == 'arrays'",
+      "sphinx ; extra == 'doc'",
+      "sphinx-copybutton ; extra == 'doc'",
+      "python-docs-theme ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "uncertainties-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80dea7f0c2fe37c9de6893b2352311b5f332be60060cbd6387f88050f7ec345d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "uncertainties[arrays,doc,test] ; extra == 'all'",
+      "numpy ; extra == 'arrays'",
+      "sphinx ; extra == 'doc'",
+      "sphinx-copybutton ; extra == 'doc'",
+      "python-docs-theme ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "uncertainties-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa85dd4fc1078e24d238ca0adb611d97c210e70035c4226a07f6ccb3d252ba26",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "uncertainties[arrays,doc,test] ; extra == 'all'",
+      "numpy ; extra == 'arrays'",
+      "sphinx ; extra == 'doc'",
+      "sphinx-copybutton ; extra == 'doc'",
+      "python-docs-theme ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "uncertainties-3.1.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4040ec64d298215531922a68fa1506dc6b1cb86cd7cca8eca848fcfe0f987151",
+    "dependencies": {
+      "required": [
+        "future"
+      ]
+    },
+    "original_requirements": [
+      "future",
+      "sphinx ; extra == 'all'",
+      "nose ; extra == 'all'",
+      "numpy ; extra == 'all'",
+      "sphinx ; extra == 'docs'",
+      "numpy ; extra == 'optional'",
+      "nose ; extra == 'tests'",
+      "numpy ; extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for bqplot-image-gl
+conda_forge = "bqplot-image-gl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bqplot_image_gl-1.8.0-py3-none-any.whl" },
+  { filename = "bqplot_image_gl-1.7.0-py3-none-any.whl" },
+  { filename = "bqplot_image_gl-1.6.1-py3-none-any.whl" },
+  { filename = "bqplot_image_gl-1.6.0-py3-none-any.whl" },
+  { filename = "bqplot_image_gl-1.5.0-py2.py3-none-any.whl" },
+]

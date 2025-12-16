@@ -1,0 +1,12 @@
+# Package configuration for folium
+conda_forge = "folium"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "folium-0.20.0-py2.py3-none-any.whl" },
+  { filename = "folium-0.19.7-py2.py3-none-any.whl" },
+  { filename = "folium-0.19.6-py2.py3-none-any.whl" },
+  { filename = "folium-0.19.5-py2.py3-none-any.whl" },
+  { filename = "folium-0.19.4-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,7 @@
+# Package configuration for databricks-sql-connector-core
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "databricks_sql_connector_core-4.0.1-py3-none-any.whl" },
+]

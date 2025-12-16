@@ -1,0 +1,122 @@
+{
+  "fakeredis-2.32.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e80c8886db2e47ba784f7dfe66aad6cd2eab76093c6bfda50041e5bc890d46cf",
+    "dependencies": {
+      "required": [
+        "redis",
+        "redis",
+        "sortedcontainers",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "redis>=4.3; python_version > '3.8'",
+      "redis>=4; python_version < '3.8'",
+      "sortedcontainers>=2",
+      "typing-extensions~=4.7; python_version < '3.11'",
+      "pyprobables>=0.6; extra == 'bf'",
+      "pyprobables>=0.6; extra == 'cf'",
+      "jsonpath-ng>=1.6; extra == 'json'",
+      "lupa>=2.1; extra == 'lua'",
+      "pyprobables>=0.6; extra == 'probabilistic'",
+      "valkey>=6; (python_version >= '3.8') and extra == 'valkey'"
+    ]
+  },
+  "fakeredis-2.32.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c9da8228de84060cfdb72c3cf4555c18c59ba7a5ae4d273f75e4822d6f01ecf8",
+    "dependencies": {
+      "required": [
+        "redis",
+        "redis",
+        "sortedcontainers",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "redis>=4.3; python_version > '3.8'",
+      "redis>=4; python_version < '3.8'",
+      "sortedcontainers<3,>=2",
+      "typing-extensions~=4.7; python_version < '3.11'",
+      "pyprobables>=0.6; extra == 'bf'",
+      "pyprobables>=0.6; extra == 'cf'",
+      "jsonpath-ng~=1.6; extra == 'json'",
+      "lupa<3.0,>=2.1; extra == 'lua'",
+      "pyprobables>=0.6; extra == 'probabilistic'",
+      "valkey>=6; (python_version >= '3.8') and extra == 'valkey'"
+    ]
+  },
+  "fakeredis-2.31.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "12aa54a3fb00984c18b28956addb91683aaf55b2dc2ef4b09d49bd481032e57a",
+    "dependencies": {
+      "required": [
+        "redis",
+        "redis",
+        "sortedcontainers",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "redis>=4.3; python_version > '3.8'",
+      "redis>=4; python_version < '3.8'",
+      "sortedcontainers<3,>=2",
+      "typing-extensions~=4.7; python_version < '3.11'",
+      "pyprobables>=0.6; extra == 'bf'",
+      "pyprobables>=0.6; extra == 'cf'",
+      "jsonpath-ng~=1.6; extra == 'json'",
+      "lupa<3.0,>=2.1; extra == 'lua'",
+      "pyprobables>=0.6; extra == 'probabilistic'",
+      "valkey>=6; (python_version >= '3.8') and extra == 'valkey'"
+    ]
+  },
+  "fakeredis-2.31.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c0403dedc42bb0038649f016e1a8b56b4b1c69dfb13cf11f870dc51e5c5b4df",
+    "dependencies": {
+      "required": [
+        "redis",
+        "redis",
+        "sortedcontainers",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "redis>=4.3; python_version > '3.8'",
+      "redis>=4; python_version < '3.8'",
+      "sortedcontainers<3,>=2",
+      "typing-extensions~=4.7; python_version < '3.11'",
+      "pyprobables>=0.6; extra == 'bf'",
+      "pyprobables>=0.6; extra == 'cf'",
+      "jsonpath-ng~=1.6; extra == 'json'",
+      "lupa<3.0,>=2.1; extra == 'lua'",
+      "pyprobables>=0.6; extra == 'probabilistic'",
+      "valkey>=6; (python_version >= '3.8') and extra == 'valkey'"
+    ]
+  },
+  "fakeredis-2.31.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2584e57d93df4eb8e87931b29279902826d3caf77d06911106df4e066c2ad198",
+    "dependencies": {
+      "required": [
+        "redis",
+        "redis",
+        "sortedcontainers",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "redis>=4.3; python_version > '3.8'",
+      "redis>=4; python_version < '3.8'",
+      "sortedcontainers<3,>=2",
+      "typing-extensions~=4.7; python_version < '3.11'",
+      "pyprobables>=0.6; extra == 'bf'",
+      "pyprobables>=0.6; extra == 'cf'",
+      "jsonpath-ng~=1.6; extra == 'json'",
+      "lupa<3.0,>=2.1; extra == 'lua'",
+      "pyprobables>=0.6; extra == 'probabilistic'",
+      "valkey>=6; (python_version >= '3.8') and extra == 'valkey'"
+    ]
+  }
+}

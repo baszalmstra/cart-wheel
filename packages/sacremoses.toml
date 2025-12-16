@@ -1,0 +1,12 @@
+# Package configuration for sacremoses
+conda_forge = "sacremoses"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sacremoses-0.1.1-py3-none-any.whl" },
+  { filename = "sacremoses-0.1.0-py3-none-any.whl" },
+  { filename = "sacremoses-0.0.49-py3-none-any.whl" },
+  { filename = "sacremoses-0.0.47-py2.py3-none-any.whl" },
+  { filename = "sacremoses-0.0.46-py3-none-any.whl" },
+]

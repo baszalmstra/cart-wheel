@@ -1,0 +1,50 @@
+{
+  "sphinx_btn-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8081473b6c71488a96b132853e86a66957d3786db7521a5b5a68f9e997f95de",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "sphinx-icon"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "sphinx-icon (>=0.2.2)",
+      "nox ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pydata-sphinx-theme (==0.13.0rc3) ; extra == 'doc'",
+      "sphinx-design ; extra == 'doc'",
+      "sphinx-copybutton ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "beautifulsoup4 ; extra == 'test'",
+      "pytest-regressions ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "sphinx_btn-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d007358008be850a24a982e5e61a3fd524a73bb862362a840f43bf1798f1643f",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "sphinx-icon"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "sphinx-icon",
+      "nox ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pydata-sphinx-theme (==0.13.0rc3) ; extra == 'doc'",
+      "sphinx-design ; extra == 'doc'",
+      "sphinx-copybutton ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "beautifulsoup4 ; extra == 'test'",
+      "pytest-regressions ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  }
+}

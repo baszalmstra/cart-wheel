@@ -1,0 +1,190 @@
+{
+  "nuscenes_devkit-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "76cee0e7f96ec96d6269ee3acb4ff69e8ac2f9413e974d9eb542233ea7479bf1",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "descartes",
+        "fire",
+        "matplotlib",
+        "numpy",
+        "opencv-python-headless",
+        "pillow",
+        "pyquaternion",
+        "scikit-learn",
+        "scipy",
+        "shapely",
+        "tqdm",
+        "parameterized",
+        "pycocotools"
+      ]
+    },
+    "original_requirements": [
+      "cachetools",
+      "descartes",
+      "fire",
+      "matplotlib>=3.6.0",
+      "numpy<2.0.0,>=1.22.0",
+      "opencv-python-headless>=4.5.4.58",
+      "Pillow>6.2.1",
+      "pyquaternion>=0.9.5",
+      "scikit-learn",
+      "scipy",
+      "Shapely~=2.0.3",
+      "tqdm",
+      "parameterized",
+      "pycocotools>=2.0.1"
+    ]
+  },
+  "nuscenes_devkit-1.1.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f8ab21957b86590bdb23931de70d569dc0184142e5a4c83ec22a3493e99640d6",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "descartes",
+        "fire",
+        "matplotlib",
+        "numpy",
+        "opencv-python",
+        "pillow",
+        "pyquaternion",
+        "scikit-learn",
+        "scipy",
+        "shapely",
+        "tqdm",
+        "pycocotools"
+      ]
+    },
+    "original_requirements": [
+      "cachetools",
+      "descartes",
+      "fire",
+      "matplotlib (<3.6.0)",
+      "numpy (>=1.22.0)",
+      "opencv-python (>=4.5.4.58)",
+      "Pillow (>6.2.1)",
+      "pyquaternion (>=0.9.5)",
+      "scikit-learn",
+      "scipy",
+      "Shapely (<2.0.0)",
+      "tqdm",
+      "pycocotools (>=2.0.1)"
+    ]
+  },
+  "nuscenes_devkit-1.1.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b19cd3b2d305dbacce9ea5d06401e1d06106dbc2bdf86260f0d8b18d21869f8",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "descartes",
+        "fire",
+        "jupyter",
+        "matplotlib",
+        "numpy",
+        "opencv-python",
+        "pillow",
+        "pyquaternion",
+        "scikit-learn",
+        "scipy",
+        "shapely",
+        "tqdm",
+        "pycocotools"
+      ]
+    },
+    "original_requirements": [
+      "cachetools",
+      "descartes",
+      "fire",
+      "jupyter",
+      "matplotlib (<=3.5.2)",
+      "numpy",
+      "opencv-python",
+      "Pillow (>6.2.1)",
+      "pyquaternion (>=0.9.5)",
+      "scikit-learn",
+      "scipy",
+      "Shapely (<=1.8.5)",
+      "tqdm",
+      "pycocotools (>=2.0.1)"
+    ]
+  },
+  "nuscenes_devkit-1.1.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a818aaa8566e06960a57d1f88073f5079187bb056dcdab4d6fb54afd63a558c",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "descartes",
+        "fire",
+        "jupyter",
+        "matplotlib",
+        "numpy",
+        "opencv-python",
+        "pillow",
+        "pyquaternion",
+        "scikit-learn",
+        "scipy",
+        "shapely",
+        "tqdm",
+        "pycocotools"
+      ]
+    },
+    "original_requirements": [
+      "cachetools",
+      "descartes",
+      "fire",
+      "jupyter",
+      "matplotlib",
+      "numpy",
+      "opencv-python",
+      "Pillow (>6.2.1)",
+      "pyquaternion (>=0.9.5)",
+      "scikit-learn",
+      "scipy",
+      "Shapely",
+      "tqdm",
+      "pycocotools (>=2.0.1)"
+    ]
+  },
+  "nuscenes_devkit-1.1.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc57c6371fe7d281a6087adbc582278d54a0869c81bb6318a3d35c475d00429e",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "descartes",
+        "fire",
+        "jupyter",
+        "matplotlib",
+        "numpy",
+        "opencv-python",
+        "pillow",
+        "pyquaternion",
+        "scikit-learn",
+        "scipy",
+        "shapely",
+        "tqdm",
+        "pycocotools"
+      ]
+    },
+    "original_requirements": [
+      "cachetools",
+      "descartes",
+      "fire",
+      "jupyter",
+      "matplotlib",
+      "numpy",
+      "opencv-python",
+      "Pillow (>6.2.1)",
+      "pyquaternion (>=0.9.5)",
+      "scikit-learn",
+      "scipy",
+      "Shapely",
+      "tqdm",
+      "pycocotools (>=2.0.1)"
+    ]
+  }
+}

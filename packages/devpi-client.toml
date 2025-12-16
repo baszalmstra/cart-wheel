@@ -1,0 +1,12 @@
+# Package configuration for devpi-client
+conda_forge = "devpi-client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "devpi_client-7.2.0-py3-none-any.whl" },
+  { filename = "devpi_client-7.1.0-py3-none-any.whl" },
+  { filename = "devpi_client-7.0.3-py3-none-any.whl" },
+  { filename = "devpi_client-7.0.2-py3-none-any.whl" },
+  { filename = "devpi_client-7.0.1-py3-none-any.whl" },
+]

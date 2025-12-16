@@ -1,0 +1,98 @@
+{
+  "rdflib-7.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b011dfc40d0fc8a44252e906dcd8fc806a7859bc231be190c37e9568a31ac572",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "pyparsing"
+      ]
+    },
+    "original_requirements": [
+      "berkeleydb (>=18.1.0,<19.0.0) ; extra == \"berkeleydb\"",
+      "html5rdf (>=1.2,<2) ; extra == \"html\"",
+      "httpx (>=0.28.1,<0.29.0) ; extra == \"rdf4j\"",
+      "isodate (>=0.7.2,<1.0.0) ; python_version < \"3.11\"",
+      "lxml (>=4.3,<6.0) ; extra == \"lxml\"",
+      "networkx (>=2,<4) ; extra == \"networkx\"",
+      "orjson (>=3.9.14,<4) ; extra == \"orjson\"",
+      "pyparsing (>=2.1.0,<4)"
+    ]
+  },
+  "rdflib-7.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0af003470404ff21bc0eb04077cc97ee96da581f2429bf42a8e163fc1c2797bc",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "pyparsing"
+      ]
+    },
+    "original_requirements": [
+      "berkeleydb (>=18.1.0,<19.0.0) ; extra == \"berkeleydb\"",
+      "html5rdf (>=1.2,<2) ; extra == \"html\"",
+      "isodate (>=0.7.2,<1.0.0) ; python_version < \"3.11\"",
+      "lxml (>=4.3,<6.0) ; extra == \"lxml\"",
+      "networkx (>=2,<4) ; extra == \"networkx\"",
+      "orjson (>=3.9.14,<4) ; extra == \"orjson\"",
+      "pyparsing (>=2.1.0,<4)"
+    ]
+  },
+  "rdflib-7.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "501e29710f1f7f8e5a0b075483050ef512da5130d97f255bd57789424d18e643",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "pyparsing"
+      ]
+    },
+    "original_requirements": [
+      "berkeleydb (>=18.1.0,<19.0.0) ; extra == \"berkeleydb\"",
+      "html5rdf (>=1.2,<2) ; extra == \"html\"",
+      "isodate (>=0.7.2,<1.0.0) ; python_version < \"3.11\"",
+      "lxml (>=4.3,<6.0) ; extra == \"lxml\"",
+      "networkx (>=2,<4) ; extra == \"networkx\"",
+      "orjson (>=3.9.14,<4) ; extra == \"orjson\"",
+      "pyparsing (>=2.1.0,<4)"
+    ]
+  },
+  "rdflib-7.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a175bc1386a167a42fbfaba003bfa05c164a2a3ca3cb9c0c97f9c9638ca6ac2",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "pyparsing"
+      ]
+    },
+    "original_requirements": [
+      "berkeleydb (>=18.1.0,<19.0.0) ; extra == \"berkeleydb\"",
+      "html5rdf (>=1.2,<2) ; extra == \"html\"",
+      "isodate (>=0.7.2,<1.0.0) ; python_version < \"3.11\"",
+      "lxml (>=4.3,<6.0) ; extra == \"lxml\"",
+      "networkx (>=2,<4) ; extra == \"networkx\"",
+      "orjson (>=3.9.14,<4) ; extra == \"orjson\"",
+      "pyparsing (>=2.1.0,<4)"
+    ]
+  },
+  "rdflib-7.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72f4adb1990fa5241abd22ddaf36d7cafa5d91d9ff2ba13f3086d339b213d997",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "pyparsing"
+      ]
+    },
+    "original_requirements": [
+      "berkeleydb (>=18.1.0,<19.0.0) ; extra == \"berkeleydb\"",
+      "html5rdf (>=1.2,<2) ; extra == \"html\"",
+      "isodate (>=0.7.2,<1.0.0) ; python_version < \"3.11\"",
+      "lxml (>=4.3,<6.0) ; extra == \"lxml\"",
+      "networkx (>=2,<4) ; extra == \"networkx\"",
+      "orjson (>=3.9.14,<4) ; extra == \"orjson\"",
+      "pyparsing (>=2.1.0,<4)"
+    ]
+  }
+}

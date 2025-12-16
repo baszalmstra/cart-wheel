@@ -1,0 +1,12 @@
+# Package configuration for requests-kerberos
+conda_forge = "requests-kerberos"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "requests_kerberos-0.15.0-py2.py3-none-any.whl" },
+  { filename = "requests_kerberos-0.14.0-py2.py3-none-any.whl" },
+  { filename = "requests_kerberos-0.13.0-py2.py3-none-any.whl" },
+  { filename = "requests_kerberos-0.12.0-py2.py3-none-any.whl" },
+  { filename = "requests_kerberos-0.11.0-py2.py3-none-any.whl" },
+]

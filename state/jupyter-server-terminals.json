@@ -1,0 +1,154 @@
+{
+  "jupyter_server_terminals-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41ee0d7dc0ebf2809c668e0fc726dfaf258fcd3e769568996ca731b6194ae9aa",
+    "dependencies": {
+      "required": [
+        "pywinpty",
+        "terminado"
+      ]
+    },
+    "original_requirements": [
+      "pywinpty>=2.0.3; os_name == 'nt'",
+      "terminado>=0.8.3",
+      "jinja2; extra == 'docs'",
+      "jupyter-server; extra == 'docs'",
+      "mistune<4.0; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "nbformat; extra == 'docs'",
+      "packaging; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinxcontrib-github-alt; extra == 'docs'",
+      "sphinxcontrib-openapi; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "sphinxemoji; extra == 'docs'",
+      "tornado; extra == 'docs'",
+      "jupyter-server>=2.0.0; extra == 'test'",
+      "pytest-jupyter[server]>=0.5.3; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest>=7.0; extra == 'test'"
+    ]
+  },
+  "jupyter_server_terminals-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b80c12765da979513c42c90215481bbc39bd8ae7c0350b4f85bc3eb58d0fa80",
+    "dependencies": {
+      "required": [
+        "pywinpty",
+        "terminado"
+      ]
+    },
+    "original_requirements": [
+      "pywinpty>=2.0.3; os_name == 'nt'",
+      "terminado>=0.8.3",
+      "jinja2; extra == 'docs'",
+      "jupyter-server; extra == 'docs'",
+      "mistune<4.0; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "nbformat; extra == 'docs'",
+      "packaging; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinxcontrib-github-alt; extra == 'docs'",
+      "sphinxcontrib-openapi; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "sphinxemoji; extra == 'docs'",
+      "tornado; extra == 'docs'",
+      "jupyter-server>=2.0.0; extra == 'test'",
+      "pytest-jupyter[server]>=0.5.3; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest>=7.0; extra == 'test'"
+    ]
+  },
+  "jupyter_server_terminals-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5e63e947ddd97bb2832db5ef837a258d9ccd4192cd608c1270850ad947ae5dd7",
+    "dependencies": {
+      "required": [
+        "pywinpty",
+        "terminado"
+      ]
+    },
+    "original_requirements": [
+      "pywinpty>=2.0.3; os_name == 'nt'",
+      "terminado>=0.8.3",
+      "jinja2; extra == 'docs'",
+      "jupyter-server; extra == 'docs'",
+      "mistune<4.0; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "nbformat; extra == 'docs'",
+      "packaging; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinxcontrib-github-alt; extra == 'docs'",
+      "sphinxcontrib-openapi; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "sphinxemoji; extra == 'docs'",
+      "tornado; extra == 'docs'",
+      "jupyter-server>=2.0.0; extra == 'test'",
+      "pytest-jupyter[server]>=0.5.3; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest>=7.0; extra == 'test'"
+    ]
+  },
+  "jupyter_server_terminals-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2fc0692c883bfd891f4fba0c4b4a684a37234b0ba472f2e97ed0a3888f46e1e4",
+    "dependencies": {
+      "required": [
+        "pywinpty",
+        "terminado"
+      ]
+    },
+    "original_requirements": [
+      "pywinpty>=2.0.3; os_name == 'nt'",
+      "terminado>=0.8.3",
+      "jinja2; extra == 'docs'",
+      "jupyter-server; extra == 'docs'",
+      "mistune<4.0; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "nbformat; extra == 'docs'",
+      "packaging; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinxcontrib-github-alt; extra == 'docs'",
+      "sphinxcontrib-openapi; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "sphinxemoji; extra == 'docs'",
+      "tornado; extra == 'docs'",
+      "jupyter-server>=2.0.0; extra == 'test'",
+      "pytest-jupyter[server]>=0.5.3; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest>=7.0; extra == 'test'"
+    ]
+  },
+  "jupyter_server_terminals-0.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "75779164661cec02a8758a5311e18bb8eb70c4e86c6b699403100f1585a12a36",
+    "dependencies": {
+      "required": [
+        "pywinpty",
+        "terminado"
+      ]
+    },
+    "original_requirements": [
+      "pywinpty>=2.0.3; os_name == 'nt'",
+      "terminado>=0.8.3",
+      "jinja2; extra == 'docs'",
+      "jupyter-server; extra == 'docs'",
+      "mistune<3.0; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "nbformat; extra == 'docs'",
+      "packaging; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinxcontrib-github-alt; extra == 'docs'",
+      "sphinxcontrib-openapi; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "sphinxemoji; extra == 'docs'",
+      "tornado; extra == 'docs'",
+      "coverage; extra == 'test'",
+      "jupyter-server>=2.0.0; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-jupyter[server]>=0.5.3; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest>=7.0; extra == 'test'"
+    ]
+  }
+}

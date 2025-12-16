@@ -1,0 +1,44 @@
+{
+  "embeddings-0.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5dccf752f88d33804c1c86a146dccc7c2fc554239bfb89086dfd490070daab65",
+    "dependencies": {
+      "required": [
+        "tqdm",
+        "requests",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "tqdm",
+      "requests",
+      "numpy",
+      "check-manifest ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "coverage ; extra == 'test'",
+      "nose ; extra == 'test'"
+    ]
+  },
+  "embeddings-0.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b7012d37937b3446f5dbcc6861e2c56c80a7646133b4e70993e207fc0f9461b",
+    "dependencies": {
+      "required": [
+        "tqdm",
+        "requests",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "tqdm",
+      "requests",
+      "numpy",
+      "check-manifest ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "coverage ; extra == 'test'",
+      "nose ; extra == 'test'"
+    ]
+  }
+}

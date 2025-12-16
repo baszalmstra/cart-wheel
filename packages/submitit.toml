@@ -1,0 +1,12 @@
+# Package configuration for submitit
+conda_forge = "submitit"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "submitit-1.5.3-py3-none-any.whl" },
+  { filename = "submitit-1.5.2-py3-none-any.whl" },
+  { filename = "submitit-1.5.1-py3-none-any.whl" },
+  { filename = "submitit-1.5.0-py3-none-any.whl" },
+  { filename = "submitit-1.4.6-py3-none-any.whl" },
+]

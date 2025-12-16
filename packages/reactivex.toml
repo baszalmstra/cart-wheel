@@ -1,0 +1,12 @@
+# Package configuration for reactivex
+conda_forge = "reactivex"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "reactivex-4.1.0-py3-none-any.whl" },
+  { filename = "reactivex-4.0.4-py3-none-any.whl" },
+  { filename = "reactivex-4.0.3-py3-none-any.whl" },
+  { filename = "reactivex-4.0.2-py3-none-any.whl" },
+  { filename = "ReactiveX-4.0.0-py3-none-any.whl" },
+]

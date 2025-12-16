@@ -1,0 +1,80 @@
+{
+  "apache_airflow_providers_telegram-4.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "14481326bcf430ccadff645c27ef264dba6715aa263ef0db61506c7627932eff",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-telegram-bot"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "python-telegram-bot>=20.2"
+    ]
+  },
+  "apache_airflow_providers_telegram-4.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01b68974b021a70e7f267ec5f55161a107abc5dfebb20da70ed575e8675b5014",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-telegram-bot"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "python-telegram-bot>=20.2"
+    ]
+  },
+  "apache_airflow_providers_telegram-4.8.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bfc4f5982ea9b64400fbc2e3f321cb8c936dfbdb8fa38953ae71a602b3c0d2e9",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-telegram-bot"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "python-telegram-bot>=20.2"
+    ]
+  },
+  "apache_airflow_providers_telegram-4.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b431637af8560b95793833bfe3a9e8fa2fad36f5f0f8156eb8c8730b07121479",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-telegram-bot"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "python-telegram-bot>=20.2"
+    ]
+  },
+  "apache_airflow_providers_telegram-4.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad7cc04a5be7073dac02fa9ad32c758a1c218caa3f7a933fa9d4555e940ca3af",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "python-telegram-bot"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "python-telegram-bot>=20.2"
+    ]
+  }
+}

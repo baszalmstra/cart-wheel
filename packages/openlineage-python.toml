@@ -1,0 +1,12 @@
+# Package configuration for openlineage-python
+conda_forge = "openlineage-python"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openlineage_python-1.41.0-py3-none-any.whl" },
+  { filename = "openlineage_python-1.40.1-py3-none-any.whl" },
+  { filename = "openlineage_python-1.40.0-py3-none-any.whl" },
+  { filename = "openlineage_python-1.39.0-py3-none-any.whl" },
+  { filename = "openlineage_python-1.38.0-py3-none-any.whl" },
+]

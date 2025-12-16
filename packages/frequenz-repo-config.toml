@@ -1,0 +1,11 @@
+# Package configuration for frequenz-repo-config
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "frequenz_repo_config-0.13.8-py3-none-any.whl" },
+  { filename = "frequenz_repo_config-0.13.7-py3-none-any.whl" },
+  { filename = "frequenz_repo_config-0.13.6-py3-none-any.whl" },
+  { filename = "frequenz_repo_config-0.13.5-py3-none-any.whl" },
+  { filename = "frequenz_repo_config-0.13.4-py3-none-any.whl" },
+]

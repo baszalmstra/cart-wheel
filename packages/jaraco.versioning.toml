@@ -1,0 +1,8 @@
+# Package configuration for jaraco.versioning
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaraco.versioning-1.1.0-py3-none-any.whl" },
+  { filename = "jaraco.versioning-1.0.0-py3-none-any.whl" },
+]

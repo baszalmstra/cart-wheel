@@ -1,0 +1,92 @@
+{
+  "blobfile-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b4c5e766ebb7dfa20e4990cf6ec3d2106bdc91d632fb9377f170a234c5a5c6a",
+    "dependencies": {
+      "required": [
+        "pycryptodomex",
+        "urllib3",
+        "lxml",
+        "filelock"
+      ]
+    },
+    "original_requirements": [
+      "pycryptodomex>=3.8",
+      "urllib3<3,>=1.25.3",
+      "lxml>=4.9",
+      "filelock>=3.0"
+    ]
+  },
+  "blobfile-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "48ecc3307e622804bd8fe13bf6f40e6463c4439eba7a1f9ad49fd78aa63cc658",
+    "dependencies": {
+      "required": [
+        "pycryptodomex",
+        "urllib3",
+        "lxml",
+        "filelock"
+      ]
+    },
+    "original_requirements": [
+      "pycryptodomex >=3.8",
+      "urllib3 <3,>=1.25.3",
+      "lxml >=4.9",
+      "filelock >=3.0"
+    ]
+  },
+  "blobfile-2.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fde52ebfaac236a52e61b0da34e5cff27e8afdedc4b6b732d30ed19187128434",
+    "dependencies": {
+      "required": [
+        "pycryptodomex",
+        "urllib3",
+        "lxml",
+        "filelock"
+      ]
+    },
+    "original_requirements": [
+      "pycryptodomex ~=3.8",
+      "urllib3 <3,>=1.25.3",
+      "lxml ~=4.9",
+      "filelock ~=3.0"
+    ]
+  },
+  "blobfile-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a72f69752ac6f97e11555bdc50b521c0cce16388ca4ccbbbc1fcac98ad2e59d3",
+    "dependencies": {
+      "required": [
+        "pycryptodomex",
+        "urllib3",
+        "lxml",
+        "filelock"
+      ]
+    },
+    "original_requirements": [
+      "pycryptodomex ~=3.8",
+      "urllib3 <3,>=1.25.3",
+      "lxml ~=4.9",
+      "filelock ~=3.0"
+    ]
+  },
+  "blobfile-2.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c48afb61d14d6f94b0c109aa35475bc8d586e5eecde9a25dc2c9c52e7dd4feaf",
+    "dependencies": {
+      "required": [
+        "pycryptodomex",
+        "urllib3",
+        "lxml",
+        "filelock"
+      ]
+    },
+    "original_requirements": [
+      "pycryptodomex (~=3.8)",
+      "urllib3 (<3,>=1.25.3)",
+      "lxml (~=4.9)",
+      "filelock (~=3.0)"
+    ]
+  }
+}

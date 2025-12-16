@@ -1,0 +1,11 @@
+# Package configuration for pytest-assume
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_assume-2.4.3-py3-none-any.whl" },
+  { filename = "pytest_assume-2.4.2-py3-none-any.whl" },
+  { filename = "pytest_assume-2.3.3-py3-none-any.whl" },
+  { filename = "pytest_assume-2.3.2-py3-none-any.whl" },
+  { filename = "pytest_assume-2.3.1-py3-none-any.whl" },
+]

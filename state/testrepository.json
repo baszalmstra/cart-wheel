@@ -1,0 +1,22 @@
+{
+  "testrepository-0.0.21-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c501212eb885ab1d5836ccff9236b5f0627fa036fd607d0cb381344a95f10e08",
+    "dependencies": {
+      "required": [
+        "fixtures",
+        "iso8601",
+        "python-subunit"
+      ]
+    },
+    "original_requirements": [
+      "fixtures",
+      "iso8601",
+      "python-subunit>=1.0.0",
+      "sphinx; extra == 'docs'",
+      "pytz; extra == 'test'",
+      "testresources; extra == 'test'",
+      "testscenarios; extra == 'test'"
+    ]
+  }
+}

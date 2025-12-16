@@ -1,0 +1,171 @@
+{
+  "xarray_einstats-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "777339524e85d066f2ef9ed1e3a3fb63aead4c1065fd1406f30dfa4de58ce063",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "xarray"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.25",
+      "scipy>=1.11",
+      "xarray>=2023.06.0",
+      "furo ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5 ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "watermark ; extra == \"doc\"",
+      "matplotlib ; extra == \"doc\"",
+      "sphinx-togglebutton ; extra == \"doc\"",
+      "einops ; extra == \"einops\"",
+      "numba>=0.55 ; extra == \"numba\"",
+      "hypothesis ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "packaging ; extra == \"test\"",
+      "scipy>=1.15 ; extra == \"test\"",
+      "preliz>=0.19 ; extra == \"test\""
+    ]
+  },
+  "xarray_einstats-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85496ade2764bf12f58222a9118e776ea836ac57e5dc8eb331b650a7ceb4b4a9",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "xarray"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.25",
+      "scipy>=1.11",
+      "xarray>=2023.06.0",
+      "furo ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5 ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "watermark ; extra == \"doc\"",
+      "matplotlib ; extra == \"doc\"",
+      "sphinx-togglebutton ; extra == \"doc\"",
+      "einops ; extra == \"einops\"",
+      "numba>=0.55 ; extra == \"numba\"",
+      "hypothesis ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "packaging ; extra == \"test\"",
+      "scipy>=1.15 ; extra == \"test\"",
+      "preliz>=0.19 ; extra == \"test\""
+    ]
+  },
+  "xarray_einstats-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd00552c3fb5c859b1ebc7c88a97342d3bb93d14bba904c5a9b94a4f724b76b4",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "xarray"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.23",
+      "scipy>=1.9",
+      "xarray>=2022.09.0",
+      "furo ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5 ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "watermark ; extra == \"doc\"",
+      "matplotlib ; extra == \"doc\"",
+      "sphinx-togglebutton ; extra == \"doc\"",
+      "einops ; extra == \"einops\"",
+      "numba>=0.55 ; extra == \"numba\"",
+      "hypothesis ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "packaging ; extra == \"test\""
+    ]
+  },
+  "xarray_einstats-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f39403341ebf5b634ab1f1bd0e1bb2dc51046e0df31aa908dfbe2fa6a493712e",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "xarray"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.22",
+      "scipy>=1.8",
+      "xarray>=2022.09.0",
+      "furo ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5 ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "watermark ; extra == \"doc\"",
+      "matplotlib ; extra == \"doc\"",
+      "sphinx-togglebutton ; extra == \"doc\"",
+      "einops ; extra == \"einops\"",
+      "numba>=0.55 ; extra == \"numba\"",
+      "hypothesis ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "packaging ; extra == \"test\""
+    ]
+  },
+  "xarray_einstats-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c6f556a9d8603245545cb88583c04398b10a70c572936a2f48678330545883a",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "xarray"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.21",
+      "scipy>=1.7",
+      "xarray>=2022.09.0",
+      "furo ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=4 ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "watermark ; extra == \"doc\"",
+      "matplotlib ; extra == \"doc\"",
+      "sphinx-togglebutton ; extra == \"doc\"",
+      "einops ; extra == \"einops\"",
+      "numba>=0.55 ; extra == \"numba\"",
+      "hypothesis ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "packaging ; extra == \"test\""
+    ]
+  }
+}

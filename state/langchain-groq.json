@@ -1,0 +1,72 @@
+{
+  "langchain_groq-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c6d5146f60205dcde09d7e47bb5291c295d3f0c7bcd2417e4d3a73a04bd1050",
+    "dependencies": {
+      "required": [
+        "groq",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "groq<1.0.0,>=0.30.0",
+      "langchain-core<2.0.0,>=1.1.0"
+    ]
+  },
+  "langchain_groq-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6c9a7bfe46a3d6e7e0cdc3888ba9c5443b6e1ed674894a090c4b20b36465a3b",
+    "dependencies": {
+      "required": [
+        "groq",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "groq<1.0.0,>=0.30.0",
+      "langchain-core<2.0.0,>=1.1.0"
+    ]
+  },
+  "langchain_groq-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "088f408794ddf6d9959dbbef3d9de6a978fb6a9a7a2a85cf51fac4a147563bd2",
+    "dependencies": {
+      "required": [
+        "groq",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "groq<1.0.0,>=0.30.0",
+      "langchain-core<2.0.0,>=1.0.2"
+    ]
+  },
+  "langchain_groq-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "378124c2a5247df720093617afbd2dae28b06fc666372ffe7a279a0ce86b28d0",
+    "dependencies": {
+      "required": [
+        "groq",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "groq<1.0.0,>=0.30.0",
+      "langchain-core<2.0.0,>=1.0.0"
+    ]
+  },
+  "langchain_groq-0.3.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d7ef98c23f1f4fc9e9e21cddd4e155f3dc989fbe1ff6fefeb52c49c870876219",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "groq"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<1.0.0,>=0.3.75",
+      "groq<1,>=0.30.0"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pytest_retry-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2dac85b79a4e2375943f1429479c65beb6c69553e7dae6b8332be47a60954f4",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.0.0",
+      "black; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "flake8; extra == \"dev\""
+    ]
+  },
+  "pytest_retry-1.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e96f7df77ee70b0838d1085f9c3b8b5b7d74bf8947a0baf32e2b8c71b27683c8",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=7.0.0",
+      "black ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "flake8 ; extra == 'dev'"
+    ]
+  },
+  "pytest_retry-1.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85cfd067ee30735b23df37e80761ad00fb3a367941d8dbeb90977373e4fcf575",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=7.0.0",
+      "black ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "flake8 ; extra == 'dev'"
+    ]
+  },
+  "pytest_retry-1.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d420afc08e61ed3be28ecbb544371041b1b8e5fea7c94eb97cefa0d4ea9825c",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=7.0.0",
+      "black ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "flake8 ; extra == 'dev'"
+    ]
+  },
+  "pytest_retry-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c8c4e356bf48ea0128356c294d95272879df79a697df08d8001c960416a3d4f",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=7.0.0",
+      "black ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "flake8 ; extra == 'dev'"
+    ]
+  }
+}

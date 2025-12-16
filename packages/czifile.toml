@@ -1,0 +1,12 @@
+# Package configuration for czifile
+conda_forge = "czifile"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "czifile-2019.7.2.1-py3-none-any.whl" },
+  { filename = "czifile-2019.7.2-py2.py3-none-any.whl" },
+  { filename = "czifile-2019.6.18-py2.py3-none-any.whl" },
+  { filename = "czifile-2019.5.22-py2.py3-none-any.whl" },
+  { filename = "czifile-2019.1.26-py2.py3-none-any.whl" },
+]

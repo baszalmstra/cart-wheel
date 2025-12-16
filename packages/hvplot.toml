@@ -1,0 +1,12 @@
+# Package configuration for hvplot
+conda_forge = "hvplot"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hvplot-0.12.1-py3-none-any.whl" },
+  { filename = "hvplot-0.12.0-py3-none-any.whl" },
+  { filename = "hvplot-0.11.3-py3-none-any.whl" },
+  { filename = "hvplot-0.11.2-py3-none-any.whl" },
+  { filename = "hvplot-0.11.1-py3-none-any.whl" },
+]

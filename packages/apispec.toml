@@ -1,0 +1,12 @@
+# Package configuration for apispec
+conda_forge = "apispec"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apispec-6.9.0-py3-none-any.whl" },
+  { filename = "apispec-6.8.4-py3-none-any.whl" },
+  { filename = "apispec-6.8.3-py3-none-any.whl" },
+  { filename = "apispec-6.8.2-py3-none-any.whl" },
+  { filename = "apispec-6.8.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for pathlib2
+conda_forge = "pathlib2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pathlib2-2.3.7.post1-py2.py3-none-any.whl" },
+  { filename = "pathlib2-2.3.6-py2.py3-none-any.whl" },
+  { filename = "pathlib2-2.3.5-py2.py3-none-any.whl" },
+  { filename = "pathlib2-2.3.4-py2.py3-none-any.whl" },
+  { filename = "pathlib2-2.3.3-py2.py3-none-any.whl" },
+]

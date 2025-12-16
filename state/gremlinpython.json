@@ -1,0 +1,120 @@
+{
+  "gremlinpython-3.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e3b5d2340ec6da771b9505d5bcba435495979c6fce0872ba53a909a3ff0d5f41",
+    "dependencies": {
+      "required": [
+        "nest-asyncio",
+        "aiohttp",
+        "aenum",
+        "isodate",
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "nest_asyncio",
+      "aiohttp<4.0.0,>=3.8.0",
+      "aenum<4.0.0,>=1.4.5",
+      "isodate<1.0.0,>=0.6.0",
+      "async-timeout<5.0.0,>=4.0.3",
+      "kerberos<2.0.0,>=1.3.0; extra == \"kerberos\"",
+      "ujson>=2.0.0; extra == \"ujson\"",
+      "pytest<8.0.0,>=6.2.5; extra == \"test\"",
+      "radish-bdd==0.18.2; extra == \"test\"",
+      "PyHamcrest<3.0.0,>=1.9.0; extra == \"test\"",
+      "PyYAML>=5.3; extra == \"test\""
+    ]
+  },
+  "gremlinpython-3.7.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da3fe1de14db63a29f0fe274b7a24270b99cfe84186312e18069da0bf9fa4476",
+    "dependencies": {
+      "required": [
+        "nest-asyncio",
+        "aiohttp",
+        "aenum",
+        "isodate",
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "nest_asyncio",
+      "aiohttp<4.0.0,>=3.8.0",
+      "aenum<4.0.0,>=1.4.5",
+      "isodate<1.0.0,>=0.6.0",
+      "async-timeout<5.0.0,>=4.0.3",
+      "kerberos<2.0.0,>=1.3.0; extra == \"kerberos\"",
+      "ujson>=2.0.0; extra == \"ujson\"",
+      "pytest<7.2.0,>=4.6.4; extra == \"test\"",
+      "radish-bdd==0.18.2; extra == \"test\"",
+      "PyHamcrest<3.0.0,>=1.9.0; extra == \"test\"",
+      "PyYAML>=5.3; extra == \"test\""
+    ]
+  },
+  "gremlinpython-3.7.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6b336320d0110382b6a3832bc19b4e2bf72e4b3f38dab25fdbedfa1a3167987",
+    "dependencies": {
+      "required": [
+        "nest-asyncio",
+        "aiohttp",
+        "aenum",
+        "isodate",
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "nest-asyncio",
+      "aiohttp<4.0.0,>=3.8.0",
+      "aenum<4.0.0,>=1.4.5",
+      "isodate<1.0.0,>=0.6.0",
+      "async-timeout<5.0.0,>=4.0.3",
+      "kerberos<2.0.0,>=1.3.0; extra == \"kerberos\"",
+      "ujson>=2.0.0; extra == \"ujson\""
+    ]
+  },
+  "gremlinpython-3.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "56e0da437be3336971761dfeaab8532f0c583aaab760d8783c4a0bb389cfd341",
+    "dependencies": {
+      "required": [
+        "nest-asyncio",
+        "aiohttp",
+        "aenum",
+        "isodate",
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "nest-asyncio",
+      "aiohttp<4.0.0,>=3.8.0",
+      "aenum<4.0.0,>=1.4.5",
+      "isodate<1.0.0,>=0.6.0",
+      "async-timeout<5.0.0,>=4.0.3",
+      "kerberos<2.0.0,>=1.3.0; extra == \"kerberos\"",
+      "ujson>=2.0.0; extra == \"ujson\""
+    ]
+  },
+  "gremlinpython-3.7.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff925632f70fc5afff6864627fa69de8df577090a6eea63f10f0fed7194f98bf",
+    "dependencies": {
+      "required": [
+        "nest-asyncio",
+        "aiohttp",
+        "aenum",
+        "six",
+        "isodate"
+      ]
+    },
+    "original_requirements": [
+      "nest-asyncio",
+      "aiohttp (<4.0.0,>=3.8.0)",
+      "aenum (<4.0.0,>=1.4.5)",
+      "six (<2.0.0,>=1.10.0)",
+      "isodate (<1.0.0,>=0.6.0)",
+      "kerberos (<2.0.0,>=1.3.0) ; extra == 'kerberos'",
+      "ujson (>=2.0.0) ; extra == 'ujson'"
+    ]
+  }
+}

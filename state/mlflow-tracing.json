@@ -1,0 +1,132 @@
+{
+  "mlflow_tracing-3.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3bbe534bae95e5162a086df3f4722952ac1b7950f31907fb6ddd84affdac5c9f",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "databricks-sdk",
+        "opentelemetry-api",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "packaging",
+        "protobuf",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "cachetools<7,>=5.0.0",
+      "databricks-sdk<1,>=0.20.0",
+      "opentelemetry-api<3,>=1.9.0",
+      "opentelemetry-proto<3,>=1.9.0",
+      "opentelemetry-sdk<3,>=1.9.0",
+      "packaging<26",
+      "protobuf<7,>=3.12.0",
+      "pydantic<3,>=2.0.0"
+    ]
+  },
+  "mlflow_tracing-3.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a68ff03ba5129c67dc98e6871e0d5ef512dd3ee66d01e1c1a0c946c08a6d4755",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "databricks-sdk",
+        "opentelemetry-api",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "packaging",
+        "protobuf",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "cachetools<7,>=5.0.0",
+      "databricks-sdk<1,>=0.20.0",
+      "opentelemetry-api<3,>=1.9.0",
+      "opentelemetry-proto<3,>=1.9.0",
+      "opentelemetry-sdk<3,>=1.9.0",
+      "packaging<26",
+      "protobuf<7,>=3.12.0",
+      "pydantic<3,>=2.0.0"
+    ]
+  },
+  "mlflow_tracing-3.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4fd685347158e0d2c48f5bec3d15ecfc6fadc1dbb48073cb220ded438408fa65",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "databricks-sdk",
+        "opentelemetry-api",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "packaging",
+        "protobuf",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "cachetools<7,>=5.0.0",
+      "databricks-sdk<1,>=0.20.0",
+      "opentelemetry-api<3,>=1.9.0",
+      "opentelemetry-proto<3,>=1.9.0",
+      "opentelemetry-sdk<3,>=1.9.0",
+      "packaging<26",
+      "protobuf<7,>=3.12.0",
+      "pydantic<3,>=1.10.8"
+    ]
+  },
+  "mlflow_tracing-3.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0cd2b0a2574d52974901fba9cc7a441b3215a343a1aa321d0a81fbba496d60aa",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "databricks-sdk",
+        "opentelemetry-api",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "packaging",
+        "protobuf",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "cachetools<7,>=5.0.0",
+      "databricks-sdk<1,>=0.20.0",
+      "opentelemetry-api<3,>=1.9.0",
+      "opentelemetry-proto<3,>=1.9.0",
+      "opentelemetry-sdk<3,>=1.9.0",
+      "packaging<26",
+      "protobuf<7,>=3.12.0",
+      "pydantic<3,>=1.10.8"
+    ]
+  },
+  "mlflow_tracing-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "06e4a423373c96507f3e40d00a564665a375e0d78856917e52dd78d8b833edf2",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "databricks-sdk",
+        "opentelemetry-api",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "packaging",
+        "protobuf",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "cachetools<7,>=5.0.0",
+      "databricks-sdk<1,>=0.20.0",
+      "opentelemetry-api<3,>=1.9.0",
+      "opentelemetry-proto<3,>=1.9.0",
+      "opentelemetry-sdk<3,>=1.9.0",
+      "packaging<26",
+      "protobuf<7,>=3.12.0",
+      "pydantic<3,>=1.10.8"
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "aiocache-0.12.3-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:09.892912+00:00",
+    "conda_file": "aiocache-0.12.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "memcached": [
+          "aiomcache"
+        ],
+        "msgpack": [
+          "msgpack"
+        ],
+        "redis": [
+          "redis"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiomcache >=0.5.2 ; extra == 'memcached'",
+      "msgpack >=0.5.5 ; extra == 'msgpack'",
+      "redis >=4.2.0 ; extra == 'redis'"
+    ]
+  },
+  "aiocache-0.12.2-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:10.090157+00:00",
+    "conda_file": "aiocache-0.12.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "memcached": [
+          "aiomcache"
+        ],
+        "msgpack": [
+          "msgpack"
+        ],
+        "redis": [
+          "redis"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiomcache >=0.5.2 ; extra == 'memcached'",
+      "msgpack >=0.5.5 ; extra == 'msgpack'",
+      "redis >=4.2.0 ; extra == 'redis'"
+    ]
+  },
+  "aiocache-0.12.1-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:10.281573+00:00",
+    "conda_file": "aiocache-0.12.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "memcached": [
+          "aiomcache"
+        ],
+        "msgpack": [
+          "msgpack"
+        ],
+        "redis": [
+          "redis"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiomcache (>=0.5.2) ; extra == 'memcached'",
+      "msgpack (>=0.5.5) ; extra == 'msgpack'",
+      "redis (>=4.2.0) ; extra == 'redis'"
+    ]
+  },
+  "aiocache-0.12.0-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:10.583565+00:00",
+    "conda_file": "aiocache-0.12.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "memcached": [
+          "aiomcache"
+        ],
+        "msgpack": [
+          "msgpack"
+        ],
+        "redis": [
+          "redis"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiomcache (>=0.5.2) ; extra == 'memcached'",
+      "msgpack (>=0.5.5) ; extra == 'msgpack'",
+      "redis (>=4.2.0) ; extra == 'redis'"
+    ]
+  },
+  "aiocache-0.11.1-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:10.777032+00:00",
+    "conda_file": "aiocache-0.11.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "dev": [
+          "asynctest",
+          "codecov",
+          "coverage",
+          "flake8",
+          "ipdb",
+          "marshmallow",
+          "pystache",
+          "pytest",
+          "pytest-asyncio",
+          "pytest-mock",
+          "sphinx",
+          "sphinx-autobuild",
+          "sphinx-rtd-theme",
+          "black;"
+        ],
+        "memcached": [
+          "aiomcache"
+        ],
+        "msgpack": [
+          "msgpack"
+        ],
+        "redis": [
+          "aioredis",
+          "aioredis"
+        ]
+      }
+    },
+    "original_requirements": [
+      "asynctest (>=0.11.0) ; extra == 'dev'",
+      "codecov ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "ipdb ; extra == 'dev'",
+      "marshmallow ; extra == 'dev'",
+      "pystache ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "pytest-mock ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "sphinx-autobuild ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "black ; (python_version >= \"3.6\") and extra == 'dev'",
+      "aiomcache (>=0.5.2) ; extra == 'memcached'",
+      "msgpack (>=0.5.5) ; extra == 'msgpack'",
+      "aioredis (>=0.3.3) ; (python_version<\"3.7\") and extra == 'redis'",
+      "aioredis (>=1.0.0) ; (python_version>=\"3.7\") and extra == 'redis'"
+    ]
+  }
+}

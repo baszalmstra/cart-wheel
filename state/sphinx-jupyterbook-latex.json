@@ -1,0 +1,142 @@
+{
+  "sphinx_jupyterbook_latex-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0cd3e9e1c5af69136434e21a533343fdf013475c410a414d5b7b4922b4f3891",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=5",
+      "packaging",
+      "pre-commit~=2.12 ; extra == \"code_style\"",
+      "myst-nb>=1.0.0 ; extra == \"myst\"",
+      "myst-parser ; extra == \"rtd\"",
+      "sphinx-book-theme ; extra == \"rtd\"",
+      "sphinx-design ; extra == \"rtd\"",
+      "sphinx-jupyterbook-latex ; extra == \"rtd\"",
+      "coverage>=6.0 ; extra == \"testing\"",
+      "myst-nb>=1.0.0 ; extra == \"testing\"",
+      "pytest-cov>=3 ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\"",
+      "pytest>=7.1 ; extra == \"testing\"",
+      "sphinx-external-toc>=1.0.0 ; extra == \"testing\"",
+      "sphinxcontrib-bibtex>=2.6.0 ; extra == \"testing\"",
+      "texsoup ; extra == \"testing\""
+    ]
+  },
+  "sphinx_jupyterbook_latex-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24de689689ddc27c736b15b91c6b9afdcdc31570938572693bb05bfff8f50758",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (<5.1,>=4)",
+      "importlib-resources ; python_version < \"3.9\"",
+      "pre-commit (~=2.12) ; extra == 'code_style'",
+      "myst-nb (<0.18,>=0.13) ; extra == 'myst'",
+      "myst-parser (<=0.18) ; extra == 'rtd'",
+      "sphinx-book-theme ; extra == 'rtd'",
+      "sphinx-design ; extra == 'rtd'",
+      "sphinx-jupyterbook-latex ; extra == 'rtd'",
+      "coverage (<5.0) ; extra == 'testing'",
+      "myst-nb (<0.18,>=0.13) ; extra == 'testing'",
+      "pytest (<4,>=3.6) ; extra == 'testing'",
+      "pytest-cov (~=2.8) ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "sphinx-external-toc (<0.3.0,>=0.1.0) ; extra == 'testing'",
+      "sphinxcontrib-bibtex (<2.3.0,>=2.2.1) ; extra == 'testing'",
+      "texsoup ; extra == 'testing'"
+    ]
+  },
+  "sphinx_jupyterbook_latex-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17714b299e73963d7d5d0287322b4f629f41a2a3b41b10f3a7dc15dd72202523",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (<5,>=3)",
+      "importlib-resources ; python_version < \"3.9\"",
+      "pre-commit (~=2.12) ; extra == 'code_style'",
+      "myst-nb (<0.18,>=0.13) ; extra == 'myst'",
+      "myst-parser (<=0.18) ; extra == 'rtd'",
+      "sphinx-book-theme ; extra == 'rtd'",
+      "sphinx-design ; extra == 'rtd'",
+      "sphinx-jupyterbook-latex ; extra == 'rtd'",
+      "coverage (<5.0) ; extra == 'testing'",
+      "myst-nb (<0.18,>=0.13) ; extra == 'testing'",
+      "pytest (<4,>=3.6) ; extra == 'testing'",
+      "pytest-cov (~=2.8) ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "sphinx-external-toc (<0.3.0,>=0.1.0) ; extra == 'testing'",
+      "sphinxcontrib-bibtex (<2.3.0,>=2.2.1) ; extra == 'testing'",
+      "texsoup ; extra == 'testing'"
+    ]
+  },
+  "sphinx_jupyterbook_latex-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "27fd4c10f774ffe65e39a11a9bbac62448f02c1cf0e5bf53c3ed5db167002390",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (<5,>=3)",
+      "importlib-resources ; python_version < \"3.9\"",
+      "pre-commit (~=2.12) ; extra == 'code_style'",
+      "myst-nb (<=0.16,>=0.13) ; extra == 'myst'",
+      "myst-parser (<=0.18) ; extra == 'rtd'",
+      "sphinx-book-theme ; extra == 'rtd'",
+      "sphinx-design ; extra == 'rtd'",
+      "sphinx-jupyterbook-latex ; extra == 'rtd'",
+      "coverage (<5.0) ; extra == 'testing'",
+      "myst-nb (<=0.16,>=0.13) ; extra == 'testing'",
+      "pytest (<4,>=3.6) ; extra == 'testing'",
+      "pytest-cov (~=2.8) ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "sphinx-external-toc (<0.3.0,>=0.1.0) ; extra == 'testing'",
+      "sphinxcontrib-bibtex (<2.3.0,>=2.2.1) ; extra == 'testing'",
+      "texsoup ; extra == 'testing'"
+    ]
+  },
+  "sphinx_jupyterbook_latex-0.4.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "616990de4e5680879bede70260dd4f3821586c4c0f36d1b1a1ebb736020a7f92",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (<5,>=3)",
+      "importlib-resources ; python_version < \"3.9\"",
+      "pre-commit (~=2.12) ; extra == 'code_style'",
+      "myst-nb (<0.14,>=0.13) ; extra == 'myst'",
+      "myst-parser ; extra == 'rtd'",
+      "sphinx-book-theme ; extra == 'rtd'",
+      "sphinx-design ; extra == 'rtd'",
+      "sphinx-jupyterbook-latex ; extra == 'rtd'",
+      "coverage (<5.0) ; extra == 'testing'",
+      "myst-nb (<0.14,>=0.13) ; extra == 'testing'",
+      "pytest (<4,>=3.6) ; extra == 'testing'",
+      "pytest-cov (~=2.8) ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "sphinx-external-toc (<0.3.0,>=0.1.0) ; extra == 'testing'",
+      "sphinxcontrib-bibtex (<2.3.0,>=2.2.1) ; extra == 'testing'",
+      "texsoup ; extra == 'testing'"
+    ]
+  }
+}

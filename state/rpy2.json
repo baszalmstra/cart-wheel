@@ -1,0 +1,167 @@
+{
+  "rpy2-3.6.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "edf437d6637b89311f860fb3e44144ea5eff286a65c48645805833baff090621",
+    "dependencies": {
+      "required": [
+        "rpy2-rinterface",
+        "rpy2-robjects",
+        "packaging",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "rpy2-rinterface>=3.6.3",
+      "rpy2-robjects>=3.6.3",
+      "packaging; platform_system == \"Windows\"",
+      "backports.zoneinfo; python_version < \"3.9\"",
+      "pygraphviz; extra == \"doc\"",
+      "sphinx; extra == \"doc\"",
+      "pytest>=8; extra == \"test-minimal\"",
+      "coverage; extra == \"test-minimal\"",
+      "pytest-cov; extra == \"test-minimal\"",
+      "rpy2-rinterface[test]; extra == \"test\"",
+      "rpy2-robjects[test]; extra == \"test\"",
+      "rpy2-rinterface[numpy]; extra == \"numpy\"",
+      "rpy2-robjects[numpy]; extra == \"numpy\"",
+      "rpy2-rinterface[numpy]; extra == \"pandas\"",
+      "rpy2-robjects[numpy]; extra == \"pandas\"",
+      "mypy; extra == \"types\"",
+      "types-tzlocal; extra == \"types\"",
+      "rpy2-rinterface[all]; extra == \"all\"",
+      "rpy2-robjects[all]; extra == \"all\""
+    ]
+  },
+  "rpy2-3.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be2832f58aaac1990e9f8bde6fa56e3492775247a723d3fdff634f6c8a7f5cd3",
+    "dependencies": {
+      "required": [
+        "rpy2-rinterface",
+        "rpy2-robjects",
+        "packaging",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "rpy2-rinterface>=3.6.3",
+      "rpy2-robjects>=3.6.2",
+      "packaging; platform_system == \"Windows\"",
+      "backports.zoneinfo; python_version < \"3.9\"",
+      "pygraphviz; extra == \"doc\"",
+      "sphinx; extra == \"doc\"",
+      "pytest>=8; extra == \"test-minimal\"",
+      "coverage; extra == \"test-minimal\"",
+      "pytest-cov; extra == \"test-minimal\"",
+      "rpy2-rinterface[test]; extra == \"test\"",
+      "rpy2-robjects[test]; extra == \"test\"",
+      "rpy2-rinterface[numpy]; extra == \"numpy\"",
+      "rpy2-robjects[numpy]; extra == \"numpy\"",
+      "rpy2-rinterface[numpy]; extra == \"pandas\"",
+      "rpy2-robjects[numpy]; extra == \"pandas\"",
+      "mypy; extra == \"types\"",
+      "types-tzlocal; extra == \"types\"",
+      "rpy2-rinterface[all]; extra == \"all\"",
+      "rpy2-robjects[all]; extra == \"all\""
+    ]
+  },
+  "rpy2-3.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bcfc5adebf54711a3a8f65c7ce113b4ad0fabc227746644effb4f831c580d6bd",
+    "dependencies": {
+      "required": [
+        "rpy2-rinterface",
+        "rpy2-robjects",
+        "packaging",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "rpy2-rinterface>=3.6.2",
+      "rpy2-robjects>=3.6.1",
+      "packaging; platform_system == \"Windows\"",
+      "backports.zoneinfo; python_version < \"3.9\"",
+      "pygraphviz; extra == \"doc\"",
+      "sphinx; extra == \"doc\"",
+      "pytest>=8; extra == \"test-minimal\"",
+      "coverage; extra == \"test-minimal\"",
+      "pytest-cov; extra == \"test-minimal\"",
+      "rpy2-rinterface[test]; extra == \"test\"",
+      "rpy2-robjects[test]; extra == \"test\"",
+      "rpy2-rinterface[numpy]; extra == \"numpy\"",
+      "rpy2-robjects[numpy]; extra == \"numpy\"",
+      "rpy2-rinterface[numpy]; extra == \"pandas\"",
+      "rpy2-robjects[numpy]; extra == \"pandas\"",
+      "mypy; extra == \"types\"",
+      "types-tzlocal; extra == \"types\"",
+      "rpy2-rinterface[all]; extra == \"all\"",
+      "rpy2-robjects[all]; extra == \"all\""
+    ]
+  },
+  "rpy2-3.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f8f2a4979330c0daf6227f0c4de434234f13976f20dfa9e6f40020b98f4567a3",
+    "dependencies": {
+      "required": [
+        "rpy2-rinterface",
+        "rpy2-robjects",
+        "packaging",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "rpy2-rinterface>=3.6.1",
+      "rpy2-robjects>=3.6.1",
+      "packaging; platform_system == \"Windows\"",
+      "backports.zoneinfo; python_version < \"3.9\"",
+      "pygraphviz; extra == \"doc\"",
+      "sphinx; extra == \"doc\"",
+      "pytest>=8; extra == \"test-minimal\"",
+      "coverage; extra == \"test-minimal\"",
+      "pytest-cov; extra == \"test-minimal\"",
+      "rpy2-rinterface[test]; extra == \"test\"",
+      "rpy2-robjects[test]; extra == \"test\"",
+      "rpy2-rinterface[numpy]; extra == \"numpy\"",
+      "rpy2-robjects[numpy]; extra == \"numpy\"",
+      "rpy2-rinterface[numpy]; extra == \"pandas\"",
+      "rpy2-robjects[numpy]; extra == \"pandas\"",
+      "mypy; extra == \"types\"",
+      "types-tzlocal; extra == \"types\"",
+      "rpy2-rinterface[all]; extra == \"all\"",
+      "rpy2-robjects[all]; extra == \"all\""
+    ]
+  },
+  "rpy2-3.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "753322ece2d52ba1fce56dd2977feb2c672ad5ea9db61b66aea9f373aaee7dab",
+    "dependencies": {
+      "required": [
+        "rpy2-rinterface",
+        "rpy2-robjects",
+        "packaging",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "rpy2-rinterface>=3.6.0",
+      "rpy2-robjects>=3.6.0",
+      "packaging; platform_system == \"Windows\"",
+      "backports.zoneinfo; python_version < \"3.9\"",
+      "pygraphviz; extra == \"doc\"",
+      "sphinx; extra == \"doc\"",
+      "pytest>=8; extra == \"test-minimal\"",
+      "coverage; extra == \"test-minimal\"",
+      "pytest-cov; extra == \"test-minimal\"",
+      "rpy2-rinterface[test]; extra == \"test\"",
+      "rpy2-robjects[test]; extra == \"test\"",
+      "rpy2-rinterface[numpy]; extra == \"numpy\"",
+      "rpy2-robjects[numpy]; extra == \"numpy\"",
+      "rpy2-rinterface[numpy]; extra == \"pandas\"",
+      "rpy2-robjects[numpy]; extra == \"pandas\"",
+      "mypy; extra == \"types\"",
+      "types-tzlocal; extra == \"types\"",
+      "rpy2-rinterface[all]; extra == \"all\"",
+      "rpy2-robjects[all]; extra == \"all\""
+    ]
+  }
+}

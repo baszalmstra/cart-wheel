@@ -1,0 +1,89 @@
+{
+  "glom-24.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "991db7fcb4bfa9687010aa519b7b541bbe21111e70e58fdd2d7e34bbaa2c1fbd",
+    "dependencies": {
+      "required": [
+        "boltons",
+        "attrs",
+        "face"
+      ]
+    },
+    "original_requirements": [
+      "boltons >=19.3.0",
+      "attrs",
+      "face >=20.1.1",
+      "tomli ; (python_version < \"3.11\") and extra == 'toml'",
+      "PyYAML ; extra == 'yaml'"
+    ]
+  },
+  "glom-23.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe4e9be4dc93c11a99f8277042e4bee95419c02cda4b969f504508b0a1aa6a66",
+    "dependencies": {
+      "required": [
+        "boltons",
+        "attrs",
+        "face"
+      ]
+    },
+    "original_requirements": [
+      "boltons (>=19.3.0)",
+      "attrs",
+      "face (==20.1.1)",
+      "tomli ; (python_version < \"3.11\") and extra == 'toml'",
+      "PyYAML ; extra == 'yaml'"
+    ]
+  },
+  "glom-23.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a87dfe5a8cf01c66ea39c29c5095732120b9cf39f0823de207ab7db527b50482",
+    "dependencies": {
+      "required": [
+        "boltons",
+        "attrs",
+        "face"
+      ]
+    },
+    "original_requirements": [
+      "boltons (>=19.3.0)",
+      "attrs",
+      "face (==20.1.1)",
+      "PyYAML ; extra == 'yaml'"
+    ]
+  },
+  "glom-23.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6883b686ab6cab3e4f081bb4a5502e9a997024f08c5fecf59214e75a62c8f4b",
+    "dependencies": {
+      "required": [
+        "boltons",
+        "attrs",
+        "face"
+      ]
+    },
+    "original_requirements": [
+      "boltons (>=19.3.0)",
+      "attrs",
+      "face (==20.1.1)",
+      "PyYAML ; extra == 'yaml'"
+    ]
+  },
+  "glom-23.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6bef86c36dde4539b70fe096cf23dc4eb0b8b5df9e00df6d18dfe144d75f85e",
+    "dependencies": {
+      "required": [
+        "boltons",
+        "attrs",
+        "face"
+      ]
+    },
+    "original_requirements": [
+      "boltons (>=19.3.0)",
+      "attrs",
+      "face (==20.1.1)",
+      "PyYAML ; extra == 'yaml'"
+    ]
+  }
+}

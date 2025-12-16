@@ -1,0 +1,10 @@
+# Package configuration for orderedmultidict
+conda_forge = "orderedmultidict"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "orderedmultidict-1.0.2-py2.py3-none-any.whl" },
+  { filename = "orderedmultidict-1.0.1-py2.py3-none-any.whl" },
+  { filename = "orderedmultidict-1.0-py2.py3-none-any.whl" },
+]

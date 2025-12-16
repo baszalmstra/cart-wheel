@@ -1,0 +1,12 @@
+# Package configuration for hatch-jupyter-builder
+conda_forge = "hatch-jupyter-builder"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hatch_jupyter_builder-0.9.1-py3-none-any.whl" },
+  { filename = "hatch_jupyter_builder-0.9.0-py3-none-any.whl" },
+  { filename = "hatch_jupyter_builder-0.8.3-py3-none-any.whl" },
+  { filename = "hatch_jupyter_builder-0.8.2-py3-none-any.whl" },
+  { filename = "hatch_jupyter_builder-0.8.1-py3-none-any.whl" },
+]

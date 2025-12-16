@@ -1,0 +1,11 @@
+# Package configuration for deprecation
+conda_forge = "deprecation"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "deprecation-2.1.0-py2.py3-none-any.whl" },
+  { filename = "deprecation-2.0.7-py2.py3-none-any.whl" },
+  { filename = "deprecation-2.0.6-py2.py3-none-any.whl" },
+  { filename = "deprecation-2.0.4-py3-none-any.whl" },
+]

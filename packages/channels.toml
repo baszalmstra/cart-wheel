@@ -1,0 +1,12 @@
+# Package configuration for channels
+conda_forge = "channels"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "channels-4.3.2-py3-none-any.whl" },
+  { filename = "channels-4.3.1-py3-none-any.whl" },
+  { filename = "channels-4.3.0-py3-none-any.whl" },
+  { filename = "channels-4.2.2-py3-none-any.whl" },
+  { filename = "channels-4.2.1-py3-none-any.whl" },
+]

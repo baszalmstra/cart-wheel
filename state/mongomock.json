@@ -1,0 +1,82 @@
+{
+  "mongomock-4.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ef86bd12fc8806c6e7af32f21266c61b6c4ba96096f85129852d1c4fec1327e",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pytz",
+        "sentinels"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pytz",
+      "sentinels",
+      "pyexecjs; extra == 'pyexecjs'",
+      "pymongo; extra == 'pymongo'"
+    ]
+  },
+  "mongomock-4.2.0.post1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff78f1944bf0cdcfc291ece198357db805c2f0db39e814bcef8a43c9f53e8a81",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pytz",
+        "sentinels"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pytz",
+      "sentinels",
+      "pyexecjs; extra == 'pyexecjs'",
+      "pymongo; extra == 'pymongo'"
+    ]
+  },
+  "mongomock-4.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08a24938a05c80c69b6b8b19a09888d38d8c6e7328547f94d46cadb7f47209f2",
+    "dependencies": {
+      "required": [
+        "sentinels",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "sentinels",
+      "packaging"
+    ]
+  },
+  "mongomock-4.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cac9c68dd7715b4ab6ae510c20b4676e5ce751f0a5434d5ad8236d974e2a2b69",
+    "dependencies": {
+      "required": [
+        "sentinels",
+        "six",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "sentinels",
+      "six",
+      "packaging"
+    ]
+  },
+  "mongomock-3.23.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01ce0c4eb02b2eced0a30882412444eaf6de27a90f2502bee64e04e3b8ecdc90",
+    "dependencies": {
+      "required": [
+        "sentinels",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "sentinels",
+      "six"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for tarski
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tarski-0.8.2-py3-none-any.whl" },
+  { filename = "tarski-0.7.0-py3-none-any.whl" },
+  { filename = "tarski-0.6.0-py3-none-any.whl" },
+  { filename = "tarski-0.5.1-py3-none-any.whl" },
+  { filename = "tarski-0.5.0-py3-none-any.whl" },
+]

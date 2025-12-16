@@ -1,0 +1,112 @@
+{
+  "openinference_instrumentation_autogen-0.1.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e8ec802b772d9abea7f870004bc220a36c7717266e37c5a376bba96e7a7b68c6",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "autogen>=0.5.0; extra == 'instruments'",
+      "autogen>=0.5.0; extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation_autogen-0.1.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "75249eb35cb2f99835b0914fb668137ec7277589dfe1e411039abade40bacef4",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "autogen>=0.5.0; extra == 'instruments'",
+      "autogen>=0.5.0; extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation_autogen-0.1.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe0e43447409172bf81f11fdedae5474e574f6345deea7afa22779ab778507fb",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.12",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "autogen>=0.5.0; extra == 'instruments'",
+      "autogen>=0.5.0; extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation_autogen-0.1.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "580844576259091dd00e8425775920c3324f12c0435728b14ae3a6f82722f56f",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.18",
+      "openinference-semantic-conventions>=0.1.12",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "autogen>=0.5.0; extra == 'instruments'",
+      "autogen>=0.5.0; extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation_autogen-0.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "045138656db2ca512b63483fc5e107209307dd59ba83db6967cc2184d8e76427",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.18",
+      "openinference-semantic-conventions>=0.1.12",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "autogen>=0.5.0; extra == 'instruments'",
+      "autogen>=0.5.0; extra == 'test'"
+    ]
+  }
+}

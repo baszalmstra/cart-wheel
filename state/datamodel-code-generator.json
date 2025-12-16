@@ -1,0 +1,212 @@
+{
+  "datamodel_code_generator-0.43.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b2a1c47c6940d441e7394765affce614fadb627853370a385953c718137ead5",
+    "dependencies": {
+      "required": [
+        "argcomplete",
+        "black",
+        "genson",
+        "inflect",
+        "isort",
+        "jinja2",
+        "packaging",
+        "pydantic",
+        "pyyaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "argcomplete<4,>=2.10.1",
+      "black>=19.10b0",
+      "genson<2,>=1.2.1",
+      "inflect<8,>=4.1",
+      "isort<8,>=4.3.21",
+      "jinja2<4,>=2.10.1",
+      "packaging",
+      "pydantic>=1.5",
+      "pyyaml>=6.0.1",
+      "tomli<3,>=2.2.1; python_version <= '3.11'",
+      "graphql-core>=3.2.3; extra == 'all'",
+      "httpx>=0.24.1; extra == 'all'",
+      "openapi-spec-validator<0.8,>=0.2.8; extra == 'all'",
+      "prance>=0.18.2; extra == 'all'",
+      "pysnooper<2,>=0.4.1; extra == 'all'",
+      "ruff>=0.9.10; extra == 'all'",
+      "pysnooper<2,>=0.4.1; extra == 'debug'",
+      "graphql-core>=3.2.3; extra == 'graphql'",
+      "httpx>=0.24.1; extra == 'http'",
+      "ruff>=0.9.10; extra == 'ruff'",
+      "openapi-spec-validator<0.8,>=0.2.8; extra == 'validation'",
+      "prance>=0.18.2; extra == 'validation'"
+    ]
+  },
+  "datamodel_code_generator-0.43.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "edaed91781f2a8767806b7a28da82ad8e30e5a36dd2f2bf90144d294794bb71b",
+    "dependencies": {
+      "required": [
+        "argcomplete",
+        "black",
+        "genson",
+        "inflect",
+        "isort",
+        "jinja2",
+        "packaging",
+        "pydantic",
+        "pyyaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "argcomplete<4,>=2.10.1",
+      "black>=19.10b0",
+      "genson<2,>=1.2.1",
+      "inflect<8,>=4.1",
+      "isort<8,>=4.3.21",
+      "jinja2<4,>=2.10.1",
+      "packaging",
+      "pydantic>=1.5",
+      "pyyaml>=6.0.1",
+      "tomli<3,>=2.2.1; python_version <= '3.11'",
+      "graphql-core>=3.2.3; extra == 'all'",
+      "httpx>=0.24.1; extra == 'all'",
+      "openapi-spec-validator<0.8,>=0.2.8; extra == 'all'",
+      "prance>=0.18.2; extra == 'all'",
+      "pysnooper<2,>=0.4.1; extra == 'all'",
+      "ruff>=0.9.10; extra == 'all'",
+      "pysnooper<2,>=0.4.1; extra == 'debug'",
+      "graphql-core>=3.2.3; extra == 'graphql'",
+      "httpx>=0.24.1; extra == 'http'",
+      "ruff>=0.9.10; extra == 'ruff'",
+      "openapi-spec-validator<0.8,>=0.2.8; extra == 'validation'",
+      "prance>=0.18.2; extra == 'validation'"
+    ]
+  },
+  "datamodel_code_generator-0.42.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "54430d6be3ea54ce5e70203d42e42881ef8156b6da395bca7355db5587653d91",
+    "dependencies": {
+      "required": [
+        "argcomplete",
+        "black",
+        "genson",
+        "inflect",
+        "isort",
+        "jinja2",
+        "packaging",
+        "pydantic",
+        "pyyaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "argcomplete<4,>=2.10.1",
+      "black>=19.10b0",
+      "genson<2,>=1.2.1",
+      "inflect<8,>=4.1",
+      "isort<8,>=4.3.21",
+      "jinja2<4,>=2.10.1",
+      "packaging",
+      "pydantic>=1.5",
+      "pyyaml>=6.0.1",
+      "tomli<3,>=2.2.1; python_version <= '3.11'",
+      "graphql-core>=3.2.3; extra == 'all'",
+      "httpx>=0.24.1; extra == 'all'",
+      "openapi-spec-validator<0.8,>=0.2.8; extra == 'all'",
+      "prance>=0.18.2; extra == 'all'",
+      "pysnooper<2,>=0.4.1; extra == 'all'",
+      "ruff>=0.9.10; extra == 'all'",
+      "pysnooper<2,>=0.4.1; extra == 'debug'",
+      "graphql-core>=3.2.3; extra == 'graphql'",
+      "httpx>=0.24.1; extra == 'http'",
+      "ruff>=0.9.10; extra == 'ruff'",
+      "openapi-spec-validator<0.8,>=0.2.8; extra == 'validation'",
+      "prance>=0.18.2; extra == 'validation'"
+    ]
+  },
+  "datamodel_code_generator-0.42.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60771ef27bf2ed8c705a5fd7719493b5f87e0372ff1fb91a754680c0d71ec9cd",
+    "dependencies": {
+      "required": [
+        "argcomplete",
+        "black",
+        "genson",
+        "inflect",
+        "isort",
+        "jinja2",
+        "packaging",
+        "pydantic",
+        "pyyaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "argcomplete<4,>=2.10.1",
+      "black>=19.10b0",
+      "genson<2,>=1.2.1",
+      "inflect<8,>=4.1",
+      "isort<8,>=4.3.21",
+      "jinja2<4,>=2.10.1",
+      "packaging",
+      "pydantic>=1.5",
+      "pyyaml>=6.0.1",
+      "tomli<3,>=2.2.1; python_version <= '3.11'",
+      "graphql-core>=3.2.3; extra == 'all'",
+      "httpx>=0.24.1; extra == 'all'",
+      "openapi-spec-validator<0.8,>=0.2.8; extra == 'all'",
+      "prance>=0.18.2; extra == 'all'",
+      "pysnooper<2,>=0.4.1; extra == 'all'",
+      "ruff>=0.9.10; extra == 'all'",
+      "pysnooper<2,>=0.4.1; extra == 'debug'",
+      "graphql-core>=3.2.3; extra == 'graphql'",
+      "httpx>=0.24.1; extra == 'http'",
+      "ruff>=0.9.10; extra == 'ruff'",
+      "openapi-spec-validator<0.8,>=0.2.8; extra == 'validation'",
+      "prance>=0.18.2; extra == 'validation'"
+    ]
+  },
+  "datamodel_code_generator-0.42.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce0ba9cc21ead530e54daa2f5b8ab7dbdc1531edfbf8fbd3ad1a4ab1815b2663",
+    "dependencies": {
+      "required": [
+        "argcomplete",
+        "black",
+        "genson",
+        "inflect",
+        "isort",
+        "jinja2",
+        "packaging",
+        "pydantic",
+        "pyyaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "argcomplete<4,>=2.10.1",
+      "black>=19.10b0",
+      "genson<2,>=1.2.1",
+      "inflect<8,>=4.1",
+      "isort<8,>=4.3.21",
+      "jinja2<4,>=2.10.1",
+      "packaging",
+      "pydantic>=1.5",
+      "pyyaml>=6.0.1",
+      "tomli<3,>=2.2.1; python_version <= '3.11'",
+      "graphql-core>=3.2.3; extra == 'all'",
+      "httpx>=0.24.1; extra == 'all'",
+      "openapi-spec-validator<0.8,>=0.2.8; extra == 'all'",
+      "prance>=0.18.2; extra == 'all'",
+      "pysnooper<2,>=0.4.1; extra == 'all'",
+      "ruff>=0.9.10; extra == 'all'",
+      "pysnooper<2,>=0.4.1; extra == 'debug'",
+      "graphql-core>=3.2.3; extra == 'graphql'",
+      "httpx>=0.24.1; extra == 'http'",
+      "ruff>=0.9.10; extra == 'ruff'",
+      "openapi-spec-validator<0.8,>=0.2.8; extra == 'validation'",
+      "prance>=0.18.2; extra == 'validation'"
+    ]
+  }
+}

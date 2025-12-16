@@ -1,0 +1,168 @@
+{
+  "rst2pdf-0.103.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10baf9ca1638a228500635369ecf9850270c62b8608f49788556636aeb5c65b8",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "importlib-metadata",
+        "jinja2",
+        "packaging",
+        "pygments",
+        "pyyaml",
+        "reportlab",
+        "smartypants"
+      ]
+    },
+    "original_requirements": [
+      "docutils~=0.21.2",
+      "importlib-metadata~=8.0",
+      "jinja2~=3.0",
+      "packaging~=24.0",
+      "pygments~=2.0",
+      "pyyaml~=6.0",
+      "reportlab~=4.0",
+      "smartypants~=2.0",
+      "aafigure; extra == \"aafiguresupport\"",
+      "matplotlib; extra == \"mathsupport\"",
+      "plantuml; extra == \"plantumlsupport\"",
+      "xhtml2pdf; extra == \"rawhtmlsupport\"",
+      "sphinx>7.3; extra == \"sphinx\"",
+      "svglib; extra == \"svgsupport\""
+    ]
+  },
+  "rst2pdf-0.103-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a1146bc3c922d3f312476728582b114af0fca6d4b109417f06751e88c48ce02c",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "importlib-metadata",
+        "jinja2",
+        "packaging",
+        "pygments",
+        "pyyaml",
+        "reportlab",
+        "smartypants"
+      ]
+    },
+    "original_requirements": [
+      "docutils~=0.21.2",
+      "importlib-metadata~=8.0",
+      "jinja2~=3.0",
+      "packaging~=24.0",
+      "pygments~=2.0",
+      "pyyaml~=6.0",
+      "reportlab~=4.0",
+      "smartypants~=2.0",
+      "aafigure; extra == \"aafiguresupport\"",
+      "matplotlib; extra == \"mathsupport\"",
+      "plantuml; extra == \"plantumlsupport\"",
+      "xhtml2pdf; extra == \"rawhtmlsupport\"",
+      "sphinx>7.3; extra == \"sphinx\"",
+      "svglib; extra == \"svgsupport\""
+    ]
+  },
+  "rst2pdf-0.102-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae8e76aa85f95cef1ffcee30b3a53cbe15ffea185c274d093581b9be79b0ec10",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "importlib-metadata",
+        "jinja2",
+        "packaging",
+        "pygments",
+        "pyyaml",
+        "reportlab",
+        "smartypants"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "importlib-metadata",
+      "jinja2",
+      "packaging",
+      "pygments",
+      "pyyaml",
+      "reportlab",
+      "smartypants",
+      "aafigure ; extra == 'aafiguresupport'",
+      "matplotlib ; extra == 'mathsupport'",
+      "plantuml ; extra == 'plantumlsupport'",
+      "xhtml2pdf ; extra == 'rawhtmlsupport'",
+      "sphinx ; extra == 'sphinx'",
+      "svglib ; extra == 'svgsupport'",
+      "pymupdf ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "rst2pdf-0.101-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0f93892692af3a652c959694082dacb2468d13d915599beca08b3ed5c7fc223e",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "importlib-metadata",
+        "jinja2",
+        "packaging",
+        "pygments",
+        "pyyaml",
+        "reportlab",
+        "smartypants"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "importlib-metadata",
+      "jinja2",
+      "packaging",
+      "pygments",
+      "pyyaml",
+      "reportlab",
+      "smartypants",
+      "aafigure ; extra == 'aafiguresupport'",
+      "matplotlib ; extra == 'mathsupport'",
+      "plantuml ; extra == 'plantumlsupport'",
+      "xhtml2pdf ; extra == 'rawhtmlsupport'",
+      "sphinx ; extra == 'sphinx'",
+      "svglib ; extra == 'svgsupport'",
+      "pymupdf ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "rst2pdf-0.100-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f7c6f764edf9ba4eed7ebbed361789f960f34750d71d58b543ee4acaed32ca9",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "importlib-metadata",
+        "jinja2",
+        "packaging",
+        "pygments",
+        "pyyaml",
+        "reportlab",
+        "smartypants"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "importlib-metadata",
+      "jinja2",
+      "packaging",
+      "pygments",
+      "pyyaml",
+      "reportlab",
+      "smartypants",
+      "aafigure ; extra == 'aafiguresupport'",
+      "matplotlib ; extra == 'mathsupport'",
+      "plantuml ; extra == 'plantumlsupport'",
+      "xhtml2pdf ; extra == 'rawhtmlsupport'",
+      "sphinx ; extra == 'sphinx'",
+      "svglib ; extra == 'svgsupport'",
+      "pymupdf ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  }
+}

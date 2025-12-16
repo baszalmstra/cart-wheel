@@ -1,0 +1,88 @@
+{
+  "azure_mgmt_datafactory-9.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d870a7a6099227e91d1c258a956c2aa32c2ea4c0a4409913d8f215887349f128",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "typing-extensions",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "isodate>=0.6.1",
+      "typing-extensions>=4.6.0",
+      "azure-common>=1.1",
+      "azure-mgmt-core>=1.3.2"
+    ]
+  },
+  "azure_mgmt_datafactory-9.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e34395b01208aec459f59d2ffa5fd7262ca3120c5abf662db17bfe16e42cbf2",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "typing-extensions",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "isodate >=0.6.1",
+      "typing-extensions >=4.6.0",
+      "azure-common >=1.1",
+      "azure-mgmt-core >=1.3.2"
+    ]
+  },
+  "azure_mgmt_datafactory-9.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef00a626d2da46279c5b0749e30d36def8a2edb172b42da6f55e4f3e1b33d99d",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "typing-extensions",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "isodate >=0.6.1",
+      "typing-extensions >=4.6.0",
+      "azure-common >=1.1",
+      "azure-mgmt-core >=1.3.2"
+    ]
+  },
+  "azure_mgmt_datafactory-8.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c2047804c7a644804ad580e3b2b64fab3287cc552c9d54863e741b5f114ff626",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "isodate (>=0.6.1)",
+      "azure-common (>=1.1)",
+      "azure-mgmt-core (>=1.3.2)"
+    ]
+  },
+  "azure_mgmt_datafactory-7.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "967a8bf0aade73c96012d256cea55331bd7f94259f0731b65737716eddd6b806",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "isodate (>=0.6.1)",
+      "azure-common (>=1.1)",
+      "azure-mgmt-core (>=1.3.2)"
+    ]
+  }
+}

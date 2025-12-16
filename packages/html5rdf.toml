@@ -1,0 +1,9 @@
+# Package configuration for html5rdf
+conda_forge = "html5rdf"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "html5rdf-1.2.1-py2.py3-none-any.whl" },
+  { filename = "html5rdf-1.2-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for ast-decompiler
+conda_forge = "ast-decompiler"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ast_decompiler-0.8.0-py3-none-any.whl" },
+  { filename = "ast_decompiler-0.7.0-py3-none-any.whl" },
+  { filename = "ast_decompiler-0.6.0-py3-none-any.whl" },
+  { filename = "ast_decompiler-0.5.0-py3-none-any.whl" },
+  { filename = "ast_decompiler-0.4.0-py2.py3-none-any.whl" },
+]

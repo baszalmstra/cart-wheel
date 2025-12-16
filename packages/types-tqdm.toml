@@ -1,0 +1,12 @@
+# Package configuration for types-tqdm
+conda_forge = "types-tqdm"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_tqdm-4.67.0.20250809-py3-none-any.whl" },
+  { filename = "types_tqdm-4.67.0.20250516-py3-none-any.whl" },
+  { filename = "types_tqdm-4.67.0.20250513-py3-none-any.whl" },
+  { filename = "types_tqdm-4.67.0.20250417-py3-none-any.whl" },
+  { filename = "types_tqdm-4.67.0.20250404-py3-none-any.whl" },
+]

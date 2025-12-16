@@ -1,0 +1,12 @@
+# Package configuration for polyfactory
+conda_forge = "polyfactory"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "polyfactory-3.1.0-py3-none-any.whl" },
+  { filename = "polyfactory-3.0.0-py3-none-any.whl" },
+  { filename = "polyfactory-2.22.5-py3-none-any.whl" },
+  { filename = "polyfactory-2.22.4-py3-none-any.whl" },
+  { filename = "polyfactory-2.22.3-py3-none-any.whl" },
+]

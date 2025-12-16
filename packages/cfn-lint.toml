@@ -1,0 +1,12 @@
+# Package configuration for cfn-lint
+conda_forge = "cfn-lint"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cfn_lint-1.42.1-py3-none-any.whl" },
+  { filename = "cfn_lint-1.42.0-py3-none-any.whl" },
+  { filename = "cfn_lint-1.41.0-py3-none-any.whl" },
+  { filename = "cfn_lint-1.40.4-py3-none-any.whl" },
+  { filename = "cfn_lint-1.40.3-py3-none-any.whl" },
+]

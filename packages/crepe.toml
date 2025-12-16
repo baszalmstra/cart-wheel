@@ -1,0 +1,8 @@
+# Package configuration for crepe
+conda_forge = "crepe"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "crepe-0.0.0-py3-none-any.whl" },
+]

@@ -1,0 +1,6 @@
+# Package configuration for langsmith-pyo3
+# No pure Python wheels available - platform-specific only
+version_constraint = ""
+skip_versions = []
+
+wheels = []

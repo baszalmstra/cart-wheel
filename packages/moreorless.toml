@@ -1,0 +1,12 @@
+# Package configuration for moreorless
+conda_forge = "moreorless"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "moreorless-0.5.0-py3-none-any.whl" },
+  { filename = "moreorless-0.4.0-py2.py3-none-any.whl" },
+  { filename = "moreorless-0.3.0-py2.py3-none-any.whl" },
+  { filename = "moreorless-0.2.0-py2.py3-none-any.whl" },
+  { filename = "moreorless-0.1.0-py2.py3-none-any.whl" },
+]

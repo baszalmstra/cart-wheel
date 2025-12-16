@@ -1,0 +1,102 @@
+{
+  "domdf_python_tools-3.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5e71c1be71bbcc1f881d690c8984b60e64298ec256903b3147f068bc33090c36",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "importlib-resources",
+        "natsort",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=3.6.0; python_version < '3.9'",
+      "importlib-resources>=3.0.0; python_version < '3.9'",
+      "natsort>=7.0.1",
+      "typing-extensions>=3.7.4.1",
+      "pytz>=2019.1; extra == 'all'",
+      "pytz>=2019.1; extra == 'dates'"
+    ]
+  },
+  "domdf_python_tools-3.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e1ef365cbc24627d6d1e90cf7d46d8ab8df967e1237f4a26885f6986c78872e",
+    "dependencies": {
+      "required": [
+        "natsort",
+        "typing-extensions",
+        "importlib-metadata",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "natsort >=7.0.1",
+      "typing-extensions >=3.7.4.1",
+      "importlib-metadata >=3.6.0 ; python_version < \"3.9\"",
+      "importlib-resources >=3.0.0 ; python_version < \"3.9\"",
+      "pytz >=2019.1 ; extra == 'all'",
+      "pytz >=2019.1 ; extra == 'dates'"
+    ]
+  },
+  "domdf_python_tools-3.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9821d76505e16c0fab60b37be90b8acf401c9604f7119cf6bce314f848461c7e",
+    "dependencies": {
+      "required": [
+        "natsort",
+        "typing-extensions",
+        "importlib-resources",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "natsort >=7.0.1",
+      "typing-extensions >=3.7.4.1",
+      "importlib-resources >=3.0.0 ; python_version < \"3.7\"",
+      "importlib-metadata >=3.6.0 ; python_version < \"3.9\"",
+      "pytz >=2019.1 ; extra == 'all'",
+      "pytz >=2019.1 ; extra == 'dates'"
+    ]
+  },
+  "domdf_python_tools-3.8.0.post2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad2c763c8d00850a7fa92ad95e9891a1918281ea25322c4dbb1734fd32f905dd",
+    "dependencies": {
+      "required": [
+        "natsort",
+        "typing-extensions",
+        "importlib-resources",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "natsort >=7.0.1",
+      "typing-extensions >=3.7.4.1",
+      "importlib-resources >=3.0.0 ; python_version < \"3.7\"",
+      "importlib-metadata >=3.6.0 ; python_version < \"3.9\"",
+      "pytz >=2019.1 ; extra == 'all'",
+      "pytz >=2019.1 ; extra == 'dates'"
+    ]
+  },
+  "domdf_python_tools-3.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "538473f77bb1c4165dec40eac6c4a08bca7a722bf1cb5a61e82d4324e0dcc704",
+    "dependencies": {
+      "required": [
+        "natsort",
+        "typing-extensions",
+        "importlib-resources",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "natsort >=7.0.1",
+      "typing-extensions >=3.7.4.1",
+      "importlib-resources >=3.0.0 ; python_version < \"3.7\"",
+      "importlib-metadata >=3.6.0 ; python_version < \"3.9\"",
+      "pytz >=2019.1 ; extra == 'all'",
+      "pytz >=2019.1 ; extra == 'dates'"
+    ]
+  }
+}

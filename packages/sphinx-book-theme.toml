@@ -1,0 +1,12 @@
+# Package configuration for sphinx-book-theme
+conda_forge = "sphinx-book-theme"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_book_theme-1.1.4-py3-none-any.whl" },
+  { filename = "sphinx_book_theme-1.1.3-py3-none-any.whl" },
+  { filename = "sphinx_book_theme-1.1.2-py3-none-any.whl" },
+  { filename = "sphinx_book_theme-1.1.1-py3-none-any.whl" },
+  { filename = "sphinx_book_theme-1.1.0-py3-none-any.whl" },
+]

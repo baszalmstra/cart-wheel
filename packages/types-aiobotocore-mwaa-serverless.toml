@@ -1,0 +1,8 @@
+# Package configuration for types-aiobotocore-mwaa-serverless
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_mwaa_serverless-3.0.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_mwaa_serverless-2.26.0-py3-none-any.whl" },
+]

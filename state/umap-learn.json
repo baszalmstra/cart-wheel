@@ -1,0 +1,133 @@
+{
+  "umap_learn-0.5.9.post2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fbe51166561e0e7fab00ef3d516ac2621243b8d15cf4bef9f656d701736b16a0",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "scikit-learn",
+        "numba",
+        "pynndescent",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.23",
+      "scipy>=1.3.1",
+      "scikit-learn>=1.6",
+      "numba>=0.51.2",
+      "pynndescent>=0.5",
+      "tqdm",
+      "pandas; extra == \"plot\"",
+      "matplotlib; extra == \"plot\"",
+      "datashader; extra == \"plot\"",
+      "bokeh; extra == \"plot\"",
+      "holoviews; extra == \"plot\"",
+      "colorcet; extra == \"plot\"",
+      "seaborn; extra == \"plot\"",
+      "scikit-image; extra == \"plot\"",
+      "dask; extra == \"plot\"",
+      "tensorflow>=2.1; extra == \"parametric-umap\"",
+      "tbb>=2019.0; extra == \"tbb\"",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "umap_learn-0.5.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "59664a69f7817b0adcd71da1c548ec5b113d562f608ef08560a08daad37c27c4",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "scikit-learn",
+        "numba",
+        "pynndescent",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.23",
+      "scipy>=1.3.1",
+      "scikit-learn>=1.6",
+      "numba>=0.51.2",
+      "pynndescent>=0.5",
+      "tqdm",
+      "tensorflow>=2.1; extra == \"parametric-umap\"",
+      "pandas; extra == \"plot\"",
+      "matplotlib; extra == \"plot\"",
+      "datashader; extra == \"plot\"",
+      "bokeh; extra == \"plot\"",
+      "holoviews; extra == \"plot\"",
+      "colorcet; extra == \"plot\"",
+      "seaborn; extra == \"plot\"",
+      "scikit-image; extra == \"plot\"",
+      "dask; extra == \"plot\"",
+      "tbb>=2019.0; extra == \"tbb\""
+    ]
+  },
+  "umap_learn-0.5.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6a7e0be2facfa365a5ed6588447102bdbef32a0ef449535c25c97ea7e680073c",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "scikit-learn",
+        "numba",
+        "pynndescent",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.17",
+      "scipy>=1.3.1",
+      "scikit-learn>=0.22",
+      "numba>=0.51.2",
+      "pynndescent>=0.5",
+      "tqdm",
+      "tensorflow>=2.1; extra == \"parametric-umap\"",
+      "pandas; extra == \"plot\"",
+      "matplotlib; extra == \"plot\"",
+      "datashader; extra == \"plot\"",
+      "bokeh; extra == \"plot\"",
+      "holoviews; extra == \"plot\"",
+      "colorcet; extra == \"plot\"",
+      "seaborn; extra == \"plot\"",
+      "scikit-image; extra == \"plot\"",
+      "tbb>=2019.0; extra == \"tbb\""
+    ]
+  },
+  "umap_learn-0.5.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "881cc0c2ee845b790bf0455aa1664f9f68b838d9d0fe12a1291b85c5a559c913",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "scikit-learn",
+        "numba",
+        "pynndescent",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.17",
+      "scipy >=1.3.1",
+      "scikit-learn >=0.22",
+      "numba >=0.51.2",
+      "pynndescent >=0.5",
+      "tqdm",
+      "tensorflow >=2.1 ; extra == 'parametric_umap'",
+      "pandas ; extra == 'plot'",
+      "matplotlib ; extra == 'plot'",
+      "datashader ; extra == 'plot'",
+      "bokeh ; extra == 'plot'",
+      "holoviews ; extra == 'plot'",
+      "colorcet ; extra == 'plot'",
+      "seaborn ; extra == 'plot'",
+      "scikit-image ; extra == 'plot'",
+      "tbb >=2019.0 ; extra == 'tbb'"
+    ]
+  }
+}

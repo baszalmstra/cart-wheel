@@ -1,0 +1,12 @@
+# Package configuration for tcolorpy
+conda_forge = "tcolorpy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tcolorpy-0.1.7-py3-none-any.whl" },
+  { filename = "tcolorpy-0.1.6-py3-none-any.whl" },
+  { filename = "tcolorpy-0.1.4-py3-none-any.whl" },
+  { filename = "tcolorpy-0.1.3-py3-none-any.whl" },
+  { filename = "tcolorpy-0.1.2-py3-none-any.whl" },
+]

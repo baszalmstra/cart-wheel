@@ -1,0 +1,167 @@
+{
+  "trackio-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ae676d449c72d72aab2728617b196d143aa5d7c8ae5f572dd134f68923ba8ec",
+    "dependencies": {
+      "required": [
+        "gradio",
+        "huggingface-hub",
+        "numpy",
+        "orjson",
+        "pandas",
+        "pillow",
+        "plotly",
+        "pydub"
+      ]
+    },
+    "original_requirements": [
+      "gradio[oauth]<7.0.0,>=6.0.0",
+      "huggingface-hub<2.0.0",
+      "numpy<3.0.0",
+      "orjson<4.0.0,>=3.0",
+      "pandas<3.0.0",
+      "pillow<12.0.0",
+      "plotly<7.0.0,>=6.0.0",
+      "pydub<1.0.0",
+      "playwright<2.0.0,>=1.40.0; extra == 'dev'",
+      "pyarrow>=21.0; extra == 'dev'",
+      "pytest-playwright<1.0.0,>=0.7.0; extra == 'dev'",
+      "pytest<9.0.0,>=8.0.0; extra == 'dev'",
+      "ruff==0.9.3; extra == 'dev'",
+      "tbparse==0.0.9; extra == 'tensorboard'",
+      "tensorboardx<3.0.0,>=2.0.0; extra == 'tensorboard'"
+    ]
+  },
+  "trackio-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c4968e015aec18025a6c7b91ebf0ab583722843f3bb5a9ecd20929b8e24a450",
+    "dependencies": {
+      "required": [
+        "gradio",
+        "huggingface-hub",
+        "numpy",
+        "orjson",
+        "pandas",
+        "pillow",
+        "plotly",
+        "pydub"
+      ]
+    },
+    "original_requirements": [
+      "gradio[oauth]<7.0.0,>=6.0.0",
+      "huggingface-hub<2.0.0",
+      "numpy<3.0.0",
+      "orjson<4.0.0,>=3.0",
+      "pandas<3.0.0",
+      "pillow<12.0.0",
+      "plotly<7.0.0,>=6.0.0",
+      "pydub<1.0.0",
+      "playwright<2.0.0,>=1.40.0; extra == 'dev'",
+      "pyarrow>=21.0; extra == 'dev'",
+      "pytest-playwright<1.0.0,>=0.7.0; extra == 'dev'",
+      "pytest<9.0.0,>=8.0.0; extra == 'dev'",
+      "ruff==0.9.3; extra == 'dev'",
+      "tbparse==0.0.9; extra == 'tensorboard'",
+      "tensorboardx<3.0.0,>=2.0.0; extra == 'tensorboard'"
+    ]
+  },
+  "trackio-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a38834de7010e11ab382c65a9769b187c242a06d79c76fc5619e27c07391bc6",
+    "dependencies": {
+      "required": [
+        "gradio",
+        "huggingface-hub",
+        "numpy",
+        "orjson",
+        "pandas",
+        "pillow",
+        "plotly",
+        "pydub"
+      ]
+    },
+    "original_requirements": [
+      "gradio[oauth]<7.0.0,>=6.0.0",
+      "huggingface-hub<2.0.0",
+      "numpy<3.0.0",
+      "orjson<4.0.0,>=3.0",
+      "pandas<3.0.0",
+      "pillow<12.0.0",
+      "plotly<7.0.0,>=6.0.0",
+      "pydub<1.0.0",
+      "playwright<2.0.0,>=1.40.0; extra == 'dev'",
+      "pyarrow>=21.0; extra == 'dev'",
+      "pytest-playwright<1.0.0,>=0.7.0; extra == 'dev'",
+      "pytest<9.0.0,>=8.0.0; extra == 'dev'",
+      "ruff==0.9.3; extra == 'dev'",
+      "tbparse==0.0.9; extra == 'tensorboard'",
+      "tensorboardx<3.0.0,>=2.0.0; extra == 'tensorboard'"
+    ]
+  },
+  "trackio-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be60046539d176b3ad5b0a9f7666dd9c1db6a8c45882e5ccacea0ed47beeddbb",
+    "dependencies": {
+      "required": [
+        "gradio",
+        "huggingface-hub",
+        "numpy",
+        "orjson",
+        "pandas",
+        "pillow",
+        "plotly",
+        "pydub"
+      ]
+    },
+    "original_requirements": [
+      "gradio[oauth]<6.0.0,>=5.48.0",
+      "huggingface-hub<1.0.0",
+      "numpy<3.0.0",
+      "orjson<4.0.0,>=3.0",
+      "pandas<3.0.0",
+      "pillow<12.0.0",
+      "plotly<7.0.0,>=6.0.0",
+      "pydub<1.0.0",
+      "playwright<2.0.0,>=1.40.0; extra == 'dev'",
+      "pyarrow>=21.0; extra == 'dev'",
+      "pytest-playwright<1.0.0,>=0.7.0; extra == 'dev'",
+      "pytest<9.0.0,>=8.0.0; extra == 'dev'",
+      "ruff==0.9.3; extra == 'dev'",
+      "tbparse==0.0.9; extra == 'tensorboard'",
+      "tensorboardx<3.0.0,>=2.0.0; extra == 'tensorboard'"
+    ]
+  },
+  "trackio-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "16877137ee81e87e79b251f2291d4824611484e782ce0358dfb6067a0b4ff705",
+    "dependencies": {
+      "required": [
+        "gradio",
+        "huggingface-hub",
+        "numpy",
+        "orjson",
+        "pandas",
+        "pillow",
+        "plotly",
+        "pydub"
+      ]
+    },
+    "original_requirements": [
+      "gradio[oauth]<6.0.0,>=5.48.0",
+      "huggingface-hub<1.0.0",
+      "numpy<3.0.0",
+      "orjson<4.0.0,>=3.0",
+      "pandas<3.0.0",
+      "pillow<12.0.0",
+      "plotly<7.0.0,>=6.0.0",
+      "pydub<1.0.0",
+      "playwright<2.0.0,>=1.40.0; extra == 'dev'",
+      "pyarrow>=21.0; extra == 'dev'",
+      "pytest-playwright<1.0.0,>=0.7.0; extra == 'dev'",
+      "pytest<9.0.0,>=8.0.0; extra == 'dev'",
+      "ruff==0.9.3; extra == 'dev'",
+      "tbparse==0.0.9; extra == 'tensorboard'",
+      "tensorboardx<3.0.0,>=2.0.0; extra == 'tensorboard'"
+    ]
+  }
+}

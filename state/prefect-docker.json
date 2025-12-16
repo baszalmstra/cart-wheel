@@ -1,0 +1,95 @@
+{
+  "prefect_docker-0.6.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b9ab447bfa563cf3304e66b32113727d40fd451144ea3a199e5b6406293eb0b",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "docker",
+        "exceptiongroup"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "docker>=6.1.1",
+      "exceptiongroup"
+    ]
+  },
+  "prefect_docker-0.6.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d4d52462e56a6ae8f11dae597c2ad061a806797ce17f4919a3fb84e17c245132",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "docker",
+        "exceptiongroup"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "docker>=6.1.1",
+      "exceptiongroup"
+    ]
+  },
+  "prefect_docker-0.6.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef162a937aac46a08c02f8359e4af2033f4a991312f62b94b99517fb3234ad56",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "docker",
+        "exceptiongroup"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "docker>=6.1.1",
+      "exceptiongroup"
+    ]
+  },
+  "prefect_docker-0.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ceeabbc090a7bd3463696e9c707b92a9e15e37b6b49c7984b1abbb6bba37eb03",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "docker",
+        "exceptiongroup"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.1.1",
+      "docker>=6.1.1",
+      "exceptiongroup"
+    ]
+  },
+  "prefect_docker-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bae500ff0c18e3e1c55f2e79ec154bc1f8c8329fbe6a3726052dfb0fe38d7d4c",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "docker",
+        "exceptiongroup"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "docker>=6.1.1",
+      "exceptiongroup",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest>=8.3; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  }
+}

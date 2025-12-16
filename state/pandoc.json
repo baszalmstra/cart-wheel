@@ -1,0 +1,16 @@
+{
+  "pandoc-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9859c4ca9d23bed8d8a71dd5e27f668fe7e68d6e1ea18e3ce1b9b890d53e6e95",
+    "dependencies": {
+      "required": [
+        "plumbum",
+        "ply"
+      ]
+    },
+    "original_requirements": [
+      "plumbum",
+      "ply"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for scikit-base
+conda_forge = "scikit-base"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "scikit_base-0.13.0-py3-none-any.whl" },
+  { filename = "scikit_base-0.12.6-py3-none-any.whl" },
+  { filename = "scikit_base-0.12.5-py3-none-any.whl" },
+  { filename = "scikit_base-0.12.4-py3-none-any.whl" },
+  { filename = "scikit_base-0.12.3-py3-none-any.whl" },
+]

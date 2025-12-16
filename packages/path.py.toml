@@ -1,0 +1,11 @@
+# Package configuration for path.py
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "path.py-12.5.0-py3-none-any.whl" },
+  { filename = "path.py-12.4.0-py3-none-any.whl" },
+  { filename = "path.py-12.3.0-py3-none-any.whl" },
+  { filename = "path.py-12.2.0-py3-none-any.whl" },
+  { filename = "path.py-12.1.0-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for onnxruntime-tools
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "onnxruntime_tools-1.7.0-py3-none-any.whl" },
+  { filename = "onnxruntime_tools-1.6.0-py3-none-any.whl" },
+  { filename = "onnxruntime_tools-1.5.2-py3-none-any.whl" },
+  { filename = "onnxruntime_tools-1.5.1-py3-none-any.whl" },
+  { filename = "onnxruntime_tools-1.4.2-py3-none-any.whl" },
+]

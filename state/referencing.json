@@ -1,0 +1,80 @@
+{
+  "referencing-0.37.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "381329a9f99628c9069361716891d34ad94af76e461dcb0335825aecc7692231",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "rpds-py",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=22.2.0",
+      "rpds-py>=0.7.0",
+      "typing-extensions>=4.4.0; python_version < '3.13'"
+    ]
+  },
+  "referencing-0.36.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e8699adbbf8b5c7de96d8ffa0eb5c158b3beafce084968e2ea8bb08c6794dcd0",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "rpds-py",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=22.2.0",
+      "rpds-py>=0.7.0",
+      "typing-extensions>=4.4.0; python_version < '3.13'"
+    ]
+  },
+  "referencing-0.36.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "363d9c65f080d0d70bc41c721dce3c7f3e77fc09f269cd5c8813da18069a6794",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "rpds-py",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=22.2.0",
+      "rpds-py>=0.7.0",
+      "typing-extensions>=4.4.0; python_version < '3.13'"
+    ]
+  },
+  "referencing-0.36.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01fc2916bab821aa3284d645bbbb41ba39609e7ff47072416a39ec2fb04d10d9",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "rpds-py",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=22.2.0",
+      "rpds-py>=0.7.0",
+      "typing-extensions; python_version < '3.13'"
+    ]
+  },
+  "referencing-0.35.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eda6d3234d62814d1c64e305c1331c9a3a6132da475ab6382eaa997b21ee75de",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "rpds-py"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=22.2.0",
+      "rpds-py>=0.7.0"
+    ]
+  }
+}

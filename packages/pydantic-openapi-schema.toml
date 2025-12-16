@@ -1,0 +1,12 @@
+# Package configuration for pydantic-openapi-schema
+conda_forge = "pydantic-openapi-schema"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydantic_openapi_schema-1.5.1-py3-none-any.whl" },
+  { filename = "pydantic_openapi_schema-1.5.0-py3-none-any.whl" },
+  { filename = "pydantic_openapi_schema-1.4.0-py3-none-any.whl" },
+  { filename = "pydantic_openapi_schema-1.3.0-py3-none-any.whl" },
+  { filename = "pydantic_openapi_schema-1.2.0-py3-none-any.whl" },
+]

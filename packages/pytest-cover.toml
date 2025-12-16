@@ -1,0 +1,10 @@
+# Package configuration for pytest-cover
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_cover-3.0.0-py2.py3-none-any.whl" },
+  { filename = "pytest_cover-2.0.2-py2.py3-none-any.whl" },
+  { filename = "pytest_cover-2.0.0-py2.py3-none-any.whl" },
+  { filename = "pytest_cover-1.0.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for pysher
+conda_forge = "pysher"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Pysher-1.0.6-py3-none-any.whl" },
+  { filename = "Pysher-1.0.4-py3-none-any.whl" },
+  { filename = "Pysher-1.0.3-py3-none-any.whl" },
+  { filename = "Pysher-1.0.2-py3-none-any.whl" },
+  { filename = "Pysher-1.0.1-py3-none-any.whl" },
+]

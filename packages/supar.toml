@@ -1,0 +1,11 @@
+# Package configuration for supar
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "supar-1.1.4-py3-none-any.whl" },
+  { filename = "supar-1.1.3-py3-none-any.whl" },
+  { filename = "supar-1.1.2-py3-none-any.whl" },
+  { filename = "supar-1.1.1-py3-none-any.whl" },
+  { filename = "supar-1.1.0-py3-none-any.whl" },
+]

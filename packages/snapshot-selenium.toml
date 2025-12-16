@@ -1,0 +1,8 @@
+# Package configuration for snapshot-selenium
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "snapshot_selenium-0.0.2-py2.py3-none-any.whl" },
+  { filename = "snapshot_selenium-0.0.1-py2.py3-none-any.whl" },
+]

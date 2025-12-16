@@ -1,0 +1,206 @@
+{
+  "spatialpandas-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd454e0c4ed5ecdad023440d69cbda34404fc863d7125a7f30078f0d8ccea821",
+    "dependencies": {
+      "required": [
+        "dask",
+        "fsspec",
+        "numba",
+        "packaging",
+        "pandas",
+        "pyarrow",
+        "retrying"
+      ]
+    },
+    "original_requirements": [
+      "dask>=2025.1",
+      "fsspec>=2022.8",
+      "numba",
+      "packaging",
+      "pandas>=2.0",
+      "pyarrow>=14.0.1",
+      "retrying",
+      "hypothesis; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "spatialpandas-0.4.10-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0ae0b0ee1ea4da1659654df9ba5a6437204f2242e3e33f5134536b45120e063",
+    "dependencies": {
+      "required": [
+        "dask",
+        "fsspec",
+        "numba",
+        "pandas",
+        "param",
+        "pyarrow",
+        "retrying"
+      ]
+    },
+    "original_requirements": [
+      "dask",
+      "fsspec",
+      "numba",
+      "pandas",
+      "param",
+      "pyarrow >=1.0",
+      "retrying",
+      "datashader ; extra == 'examples'",
+      "distributed ; extra == 'examples'",
+      "descartes ; extra == 'examples'",
+      "geopandas ; extra == 'examples'",
+      "holoviews ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "codecov ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "hilbertcurve ; extra == 'tests'",
+      "geopandas ; extra == 'tests'",
+      "hypothesis ; extra == 'tests'",
+      "keyring ; extra == 'tests'",
+      "moto[s3,server] ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "python-snappy ; extra == 'tests'",
+      "rfc3986 ; extra == 'tests'",
+      "s3fs ; extra == 'tests'",
+      "scipy ; extra == 'tests'",
+      "shapely ; extra == 'tests'",
+      "twine ; extra == 'tests'"
+    ]
+  },
+  "spatialpandas-0.4.9-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb67a28da6c26fe466484a811b3621256855a7886ea3990fc744c90263d8b6f5",
+    "dependencies": {
+      "required": [
+        "dask",
+        "fsspec",
+        "numba",
+        "pandas",
+        "param",
+        "pyarrow",
+        "retrying"
+      ]
+    },
+    "original_requirements": [
+      "dask",
+      "fsspec",
+      "numba",
+      "pandas",
+      "param",
+      "pyarrow (>=1.0)",
+      "retrying",
+      "datashader ; extra == 'examples'",
+      "distributed ; extra == 'examples'",
+      "descartes ; extra == 'examples'",
+      "geopandas ; extra == 'examples'",
+      "holoviews ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "codecov ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "hilbertcurve ; extra == 'tests'",
+      "geopandas ; extra == 'tests'",
+      "hypothesis ; extra == 'tests'",
+      "keyring ; extra == 'tests'",
+      "moto[s3,server] ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "python-snappy ; extra == 'tests'",
+      "rfc3986 ; extra == 'tests'",
+      "s3fs ; extra == 'tests'",
+      "scipy ; extra == 'tests'",
+      "shapely ; extra == 'tests'",
+      "twine ; extra == 'tests'"
+    ]
+  },
+  "spatialpandas-0.4.8-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b144e41be2d7ab8f8d73c86292d960bcbc4e7d1e9a803d634ed5c5785a1bd84b",
+    "dependencies": {
+      "required": [
+        "dask",
+        "fsspec",
+        "numba",
+        "pandas",
+        "param",
+        "pyarrow",
+        "retrying"
+      ]
+    },
+    "original_requirements": [
+      "dask",
+      "fsspec",
+      "numba",
+      "pandas",
+      "param",
+      "pyarrow (>=1.0)",
+      "retrying",
+      "datashader ; extra == 'examples'",
+      "distributed ; extra == 'examples'",
+      "descartes ; extra == 'examples'",
+      "geopandas ; extra == 'examples'",
+      "holoviews ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "codecov ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "hilbertcurve ; extra == 'tests'",
+      "geopandas ; extra == 'tests'",
+      "hypothesis ; extra == 'tests'",
+      "keyring ; extra == 'tests'",
+      "moto[s3,server] ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "python-snappy ; extra == 'tests'",
+      "rfc3986 ; extra == 'tests'",
+      "s3fs ; extra == 'tests'",
+      "scipy ; extra == 'tests'",
+      "shapely ; extra == 'tests'",
+      "twine ; extra == 'tests'"
+    ]
+  },
+  "spatialpandas-0.4.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c9efd1fb8bf37100aebbe5ceaeb07a7fa1f1f47cfbf11b73130ea66ea9f10e2",
+    "dependencies": {
+      "required": [
+        "dask",
+        "fsspec",
+        "numba",
+        "pandas",
+        "param",
+        "pyarrow",
+        "python-snappy",
+        "retrying"
+      ]
+    },
+    "original_requirements": [
+      "dask",
+      "fsspec",
+      "numba",
+      "pandas",
+      "param",
+      "pyarrow (>=1.0)",
+      "python-snappy",
+      "retrying",
+      "datashader ; extra == 'examples'",
+      "descartes ; extra == 'examples'",
+      "geopandas ; extra == 'examples'",
+      "holoviews ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "codecov ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "hilbertcurve ; extra == 'tests'",
+      "geopandas ; extra == 'tests'",
+      "hypothesis ; extra == 'tests'",
+      "keyring ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "rfc3986 ; extra == 'tests'",
+      "scipy ; extra == 'tests'",
+      "shapely ; extra == 'tests'",
+      "twine ; extra == 'tests'"
+    ]
+  }
+}

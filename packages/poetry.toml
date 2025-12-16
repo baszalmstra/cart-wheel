@@ -1,0 +1,12 @@
+# Package configuration for poetry
+conda_forge = "poetry"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "poetry-2.2.1-py3-none-any.whl" },
+  { filename = "poetry-2.2.0-py3-none-any.whl" },
+  { filename = "poetry-2.1.4-py3-none-any.whl" },
+  { filename = "poetry-2.1.3-py3-none-any.whl" },
+  { filename = "poetry-2.1.2-py3-none-any.whl" },
+]

@@ -1,0 +1,418 @@
+{
+  "ai2_olmo-0.6.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:06.163340+00:00",
+    "conda_file": "ai2-olmo-0.6.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "ai2-olmo-core",
+        "omegaconf",
+        "rich",
+        "boto3",
+        "google-cloud-storage",
+        "tokenizers",
+        "packaging",
+        "cached-path",
+        "transformers",
+        "importlib-resources"
+      ],
+      "optional": {
+        "dev": [
+          "ruff",
+          "mypy",
+          "black",
+          "isort",
+          "pytest",
+          "pytest-sphinx",
+          "twine",
+          "setuptools",
+          "wheel",
+          "build"
+        ],
+        "train": [
+          "wandb",
+          "beaker-gantry",
+          "click",
+          "torchmetrics",
+          "smashed[extras=[remote]]",
+          "safetensors",
+          "datasets",
+          "scikit-learn",
+          "msgspec"
+        ],
+        "all": [
+          "ai2-olmo[extras=[dev,train]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy<2",
+      "torch>=2.1",
+      "ai2-olmo-core==0.1.0",
+      "omegaconf",
+      "rich",
+      "boto3",
+      "google-cloud-storage",
+      "tokenizers",
+      "packaging",
+      "cached_path>=1.6.2",
+      "transformers",
+      "importlib_resources",
+      "ruff; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-sphinx; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "wandb; extra == \"train\"",
+      "beaker-gantry; extra == \"train\"",
+      "click; extra == \"train\"",
+      "torchmetrics; extra == \"train\"",
+      "smashed[remote]>=0.21.1; extra == \"train\"",
+      "safetensors; extra == \"train\"",
+      "datasets; extra == \"train\"",
+      "scikit-learn; extra == \"train\"",
+      "msgspec>=0.14.0; extra == \"train\"",
+      "ai2-olmo[dev,train]; extra == \"all\""
+    ]
+  },
+  "ai2_olmo-0.5.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:25.230429+00:00",
+    "conda_file": "ai2-olmo-0.5.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "ai2-olmo-core",
+        "omegaconf",
+        "rich",
+        "boto3",
+        "google-cloud-storage",
+        "tokenizers",
+        "packaging",
+        "cached-path",
+        "transformers",
+        "importlib-resources"
+      ],
+      "optional": {
+        "all": [
+          "ai2-olmo[extras=[dev,train]]"
+        ],
+        "dev": [
+          "ruff",
+          "mypy",
+          "black",
+          "isort",
+          "pytest",
+          "pytest-sphinx",
+          "twine",
+          "setuptools",
+          "wheel",
+          "build"
+        ],
+        "train": [
+          "wandb",
+          "beaker-gantry",
+          "click",
+          "torchmetrics",
+          "smashed[extras=[remote]]",
+          "safetensors",
+          "datasets",
+          "scikit-learn",
+          "msgspec"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy<2",
+      "torch<2.5,>=2.1",
+      "ai2-olmo-core==0.1.0",
+      "omegaconf",
+      "rich",
+      "boto3",
+      "google-cloud-storage",
+      "tokenizers",
+      "packaging",
+      "cached-path>=1.6.2",
+      "transformers",
+      "importlib-resources",
+      "ai2-olmo[dev,train]; extra == \"all\"",
+      "ruff; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-sphinx; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "wandb; extra == \"train\"",
+      "beaker-gantry; extra == \"train\"",
+      "click; extra == \"train\"",
+      "torchmetrics; extra == \"train\"",
+      "smashed[remote]>=0.21.1; extra == \"train\"",
+      "safetensors; extra == \"train\"",
+      "datasets; extra == \"train\"",
+      "scikit-learn; extra == \"train\"",
+      "msgspec>=0.14.0; extra == \"train\""
+    ]
+  },
+  "ai2_olmo-0.5.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:25.236830+00:00",
+    "conda_file": "ai2-olmo-0.5.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "ai2-olmo-core",
+        "omegaconf",
+        "rich",
+        "boto3",
+        "google-cloud-storage",
+        "tokenizers",
+        "packaging",
+        "cached-path",
+        "transformers",
+        "importlib-resources"
+      ],
+      "optional": {
+        "all": [
+          "ai2-olmo[extras=[dev,train]]"
+        ],
+        "dev": [
+          "ruff",
+          "mypy",
+          "black",
+          "isort",
+          "pytest",
+          "pytest-sphinx",
+          "twine",
+          "setuptools",
+          "wheel",
+          "build"
+        ],
+        "train": [
+          "wandb",
+          "beaker-gantry",
+          "click",
+          "torchmetrics",
+          "smashed[extras=[remote]]",
+          "safetensors",
+          "datasets",
+          "scikit-learn",
+          "msgspec"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy",
+      "torch<2.4,>=2.1",
+      "ai2-olmo-core==0.1.0",
+      "omegaconf",
+      "rich",
+      "boto3",
+      "google-cloud-storage",
+      "tokenizers",
+      "packaging",
+      "cached-path>=1.6.2",
+      "transformers",
+      "importlib-resources",
+      "ai2-olmo[dev,train]; extra == \"all\"",
+      "ruff; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-sphinx; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "wandb; extra == \"train\"",
+      "beaker-gantry; extra == \"train\"",
+      "click; extra == \"train\"",
+      "torchmetrics; extra == \"train\"",
+      "smashed[remote]>=0.21.1; extra == \"train\"",
+      "safetensors; extra == \"train\"",
+      "datasets; extra == \"train\"",
+      "scikit-learn; extra == \"train\"",
+      "msgspec>=0.14.0; extra == \"train\""
+    ]
+  },
+  "ai2_olmo-0.4.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:18.458660+00:00",
+    "conda_file": "ai2-olmo-0.4.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "ai2-olmo-core",
+        "omegaconf",
+        "rich",
+        "boto3",
+        "google-cloud-storage",
+        "tokenizers",
+        "packaging",
+        "cached-path",
+        "transformers",
+        "importlib-resources"
+      ],
+      "optional": {
+        "all": [
+          "ai2-olmo[extras=[dev,train]]"
+        ],
+        "dev": [
+          "ruff",
+          "mypy",
+          "black",
+          "isort",
+          "pytest",
+          "pytest-sphinx",
+          "twine",
+          "setuptools",
+          "wheel",
+          "build"
+        ],
+        "train": [
+          "wandb",
+          "beaker-gantry",
+          "click",
+          "torchmetrics",
+          "smashed[extras=[remote]]",
+          "safetensors",
+          "datasets",
+          "scikit-learn",
+          "msgspec"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy",
+      "torch <2.4,>=2.1",
+      "ai2-olmo-core ==0.1.0",
+      "omegaconf",
+      "rich",
+      "boto3",
+      "google-cloud-storage",
+      "tokenizers",
+      "packaging",
+      "cached-path >=1.6.2",
+      "transformers",
+      "importlib-resources",
+      "ai2-olmo[dev,train] ; extra == 'all'",
+      "ruff ; extra == 'dev'",
+      "mypy <1.4,>=1.0 ; extra == 'dev'",
+      "black <24.0,>=23.1 ; extra == 'dev'",
+      "isort <5.13,>=5.12 ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-sphinx ; extra == 'dev'",
+      "twine >=1.11.0 ; extra == 'dev'",
+      "setuptools ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "build ; extra == 'dev'",
+      "wandb ; extra == 'train'",
+      "beaker-gantry ; extra == 'train'",
+      "click ; extra == 'train'",
+      "torchmetrics ; extra == 'train'",
+      "smashed[remote] >=0.21.1 ; extra == 'train'",
+      "safetensors ; extra == 'train'",
+      "datasets ; extra == 'train'",
+      "scikit-learn ; extra == 'train'",
+      "msgspec >=0.14.0 ; extra == 'train'"
+    ]
+  },
+  "ai2_olmo-0.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:47:43.201150+00:00",
+    "conda_file": "ai2-olmo-0.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "omegaconf",
+        "rich",
+        "boto3",
+        "google-cloud-storage",
+        "tokenizers",
+        "packaging",
+        "cached-path",
+        "transformers"
+      ],
+      "optional": {
+        "all": [
+          "ai2-olmo[extras=[dev,train]]"
+        ],
+        "dev": [
+          "ruff",
+          "mypy",
+          "black",
+          "isort",
+          "pytest",
+          "pytest-sphinx",
+          "twine",
+          "setuptools",
+          "wheel",
+          "build"
+        ],
+        "train": [
+          "wandb",
+          "beaker-gantry",
+          "click",
+          "torchmetrics",
+          "smashed[extras=[remote]]",
+          "safetensors",
+          "datasets",
+          "scikit-learn",
+          "msgspec"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy",
+      "torch <2.3,>=2.0",
+      "omegaconf",
+      "rich",
+      "boto3",
+      "google-cloud-storage",
+      "tokenizers",
+      "packaging",
+      "cached-path >=1.6.2",
+      "transformers",
+      "ai2-olmo[dev,train] ; extra == 'all'",
+      "ruff ; extra == 'dev'",
+      "mypy <1.4,>=1.0 ; extra == 'dev'",
+      "black <24.0,>=23.1 ; extra == 'dev'",
+      "isort <5.13,>=5.12 ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-sphinx ; extra == 'dev'",
+      "twine >=1.11.0 ; extra == 'dev'",
+      "setuptools ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "build ; extra == 'dev'",
+      "wandb ; extra == 'train'",
+      "beaker-gantry ; extra == 'train'",
+      "click ; extra == 'train'",
+      "torchmetrics ; extra == 'train'",
+      "smashed[remote] >=0.21.1 ; extra == 'train'",
+      "safetensors ; extra == 'train'",
+      "datasets ; extra == 'train'",
+      "scikit-learn ; extra == 'train'",
+      "msgspec >=0.14.0 ; extra == 'train'"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for python-lsp-jsonrpc
+conda_forge = "python-lsp-jsonrpc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_lsp_jsonrpc-1.1.2-py3-none-any.whl" },
+  { filename = "python_lsp_jsonrpc-1.1.1-py3-none-any.whl" },
+  { filename = "python_lsp_jsonrpc-1.1.0-py3-none-any.whl" },
+  { filename = "python_lsp_jsonrpc-1.0.0-py3-none-any.whl" },
+]

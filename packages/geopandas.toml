@@ -1,0 +1,12 @@
+# Package configuration for geopandas
+conda_forge = "geopandas"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "geopandas-1.1.1-py3-none-any.whl" },
+  { filename = "geopandas-1.1.0-py3-none-any.whl" },
+  { filename = "geopandas-1.0.1-py3-none-any.whl" },
+  { filename = "geopandas-1.0.0-py3-none-any.whl" },
+  { filename = "geopandas-0.14.4-py3-none-any.whl" },
+]

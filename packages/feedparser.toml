@@ -1,0 +1,12 @@
+# Package configuration for feedparser
+conda_forge = "feedparser"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "feedparser-6.0.12-py3-none-any.whl" },
+  { filename = "feedparser-6.0.11-py3-none-any.whl" },
+  { filename = "feedparser-6.0.10-py3-none-any.whl" },
+  { filename = "feedparser-6.0.9-py3-none-any.whl" },
+  { filename = "feedparser-6.0.8-py3-none-any.whl" },
+]

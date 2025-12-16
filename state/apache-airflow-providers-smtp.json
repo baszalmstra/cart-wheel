@@ -1,0 +1,82 @@
+{
+  "apache_airflow_providers_smtp-2.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65db08c9b30159d0fdca6df3a78ff6a98b0478b26cd242115822d995a851fcb4",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "aiosmtplib"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "aiosmtplib>=0.1.6"
+    ]
+  },
+  "apache_airflow_providers_smtp-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a22bfd9d34ddc27e8d7ff38ed07a2c1765612676a5ae579f0289ca557f0c773a",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "aiosmtplib"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "aiosmtplib>=0.1.6"
+    ]
+  },
+  "apache_airflow_providers_smtp-2.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39d7f7a9a09896d5572e92f77cde18bd2c3b9acd5afa2039b49717f5c034ade4",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "aiosmtplib"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "aiosmtplib>=0.1.6"
+    ]
+  },
+  "apache_airflow_providers_smtp-2.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1302e83f4444be73e70fe4deacb3ccbac3f0da17bef53baa04f095f56e7d3a3",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "aiosmtplib"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "aiosmtplib>=0.1.6"
+    ]
+  },
+  "apache_airflow_providers_smtp-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e1ead29df88bd154510d77295f1386c9df288d5d75af4c30e79ce58e217c009",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "aiosmtplib"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "aiosmtplib>=0.1.6"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for types-dateparser
+conda_forge = "types-dateparser"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_dateparser-1.2.2.20250809-py3-none-any.whl" },
+  { filename = "types_dateparser-1.2.2.20250627-py3-none-any.whl" },
+  { filename = "types_dateparser-1.2.0.20250601-py3-none-any.whl" },
+  { filename = "types_dateparser-1.2.0.20250516-py3-none-any.whl" },
+  { filename = "types_dateparser-1.2.0.20250408-py3-none-any.whl" },
+]

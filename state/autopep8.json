@@ -1,0 +1,72 @@
+{
+  "autopep8-2.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce8ad498672c845a0c3de2629c15b635ec2b05ef8177a6e7c91c74f3e9b51128",
+    "dependencies": {
+      "required": [
+        "pycodestyle",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "pycodestyle>=2.12.0",
+      "tomli; python_version < \"3.11\""
+    ]
+  },
+  "autopep8-2.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a203fe0fcad7939987422140ab17a930f684763bf7335bdb6709991dd7ef6c2d",
+    "dependencies": {
+      "required": [
+        "pycodestyle",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "pycodestyle >=2.12.0",
+      "tomli ; python_version < \"3.11\""
+    ]
+  },
+  "autopep8-2.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b716efa70cbafbf4a2c9c5ec1cabfa037a68f9e30b04c74ffa5864dd49b8f7d2",
+    "dependencies": {
+      "required": [
+        "pycodestyle",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "pycodestyle >=2.12.0",
+      "tomli ; python_version < \"3.11\""
+    ]
+  },
+  "autopep8-2.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "05418a981f038969d8bdcd5636bf15948db7555ae944b9f79b5a34b35f1370d4",
+    "dependencies": {
+      "required": [
+        "pycodestyle",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "pycodestyle >=2.11.0",
+      "tomli ; python_version < \"3.11\""
+    ]
+  },
+  "autopep8-2.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fead1b74ae69bf939b7eb371c83522a9262d9ac4b49f1c6f3d38ca1e31707f74",
+    "dependencies": {
+      "required": [
+        "pycodestyle",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "pycodestyle >=2.11.0",
+      "tomli ; python_version < \"3.11\""
+    ]
+  }
+}

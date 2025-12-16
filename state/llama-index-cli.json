@@ -1,0 +1,82 @@
+{
+  "llama_index_cli-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7deb1e953e582bd885443881ce8bd6ab2817b594fef00079dce9993c47d990f7",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-embeddings-openai",
+        "llama-index-llms-openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.13.0",
+      "llama-index-embeddings-openai<0.6,>=0.5.0",
+      "llama-index-llms-openai<0.7,>=0.6.0"
+    ]
+  },
+  "llama_index_cli-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8f8d3f10ce315d578dfe6730049f1b9b4184c65fb0133a80bd5329f76032ff6d",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-embeddings-openai",
+        "llama-index-llms-openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.13.0",
+      "llama-index-embeddings-openai<0.6,>=0.5.0",
+      "llama-index-llms-openai<0.7,>=0.6.0"
+    ]
+  },
+  "llama_index_cli-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5429b2fd7960df7724c2955b6e6901f6fa910b7b5ecef411c979a8b545a6b7e2",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-embeddings-openai",
+        "llama-index-llms-openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.13.0",
+      "llama-index-embeddings-openai<0.6,>=0.5.0",
+      "llama-index-llms-openai<0.6,>=0.5.0"
+    ]
+  },
+  "llama_index_cli-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e331ca98005c370bfe58800fa5eed8b10061d0b9c656b84a1f5f6168733a2a7b",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-embeddings-openai",
+        "llama-index-llms-openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.14,>=0.13.0",
+      "llama-index-embeddings-openai<0.6,>=0.5.0",
+      "llama-index-llms-openai<0.6,>=0.5.0"
+    ]
+  },
+  "llama_index_cli-0.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1070593cf79407054735ab7a23c5a65a26fc18d264661e42ef38fc549b4b7658",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-embeddings-openai",
+        "llama-index-llms-openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.13,>=0.12.0",
+      "llama-index-embeddings-openai<0.4,>=0.3.1",
+      "llama-index-llms-openai<0.5,>=0.4.0"
+    ]
+  }
+}

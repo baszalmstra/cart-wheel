@@ -1,0 +1,14 @@
+{
+  "repoze.lru-0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f77bf0e1096ea445beadd35f3479c5cff2aa1efe604a133e67150bc8630a62ea",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Sphinx; extra == 'docs'",
+      "coverage; extra == 'testing'",
+      "nose; extra == 'testing'"
+    ]
+  }
+}

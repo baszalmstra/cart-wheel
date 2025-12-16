@@ -1,0 +1,12 @@
+# Package configuration for sphinx-autobuild
+conda_forge = "sphinx-autobuild"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_autobuild-2025.8.25-py3-none-any.whl" },
+  { filename = "sphinx_autobuild-2024.10.3-py3-none-any.whl" },
+  { filename = "sphinx_autobuild-2024.10.2-py3-none-any.whl" },
+  { filename = "sphinx_autobuild-2024.9.19-py3-none-any.whl" },
+  { filename = "sphinx_autobuild-2024.9.18-py3-none-any.whl" },
+]

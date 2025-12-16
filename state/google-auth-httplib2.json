@@ -1,0 +1,76 @@
+{
+  "google_auth_httplib2-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1be94c611db91c01f9703e7f62b0a59bbd5587a95571c7b6fade510d648bc08b",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "httplib2"
+      ]
+    },
+    "original_requirements": [
+      "google-auth<3.0.0,>=1.32.0",
+      "httplib2<1.0.0,>=0.19.0"
+    ]
+  },
+  "google_auth_httplib2-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b65a0a2123300dd71281a7bf6e64d65a0759287df52729bdd1ae2e47dc311a3d",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "httplib2"
+      ]
+    },
+    "original_requirements": [
+      "google-auth",
+      "httplib2 >=0.19.0"
+    ]
+  },
+  "google_auth_httplib2-0.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "42c50900b8e4dcdf8222364d1f0efe32b8421fb6ed72f2613f12f75cc933478c",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "httplib2"
+      ]
+    },
+    "original_requirements": [
+      "google-auth",
+      "httplib2 (>=0.19.0)"
+    ]
+  },
+  "google_auth_httplib2-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31e49c36c6b5643b57e82617cb3e021e3e1d2df9da63af67252c02fa9c1f4a10",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "httplib2",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "google-auth",
+      "httplib2 (>=0.15.0)",
+      "six"
+    ]
+  },
+  "google_auth_httplib2-0.0.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aeaff501738b289717fac1980db9711d77908a6c227f60e4aa1923410b43e2ee",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "httplib2",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "google-auth",
+      "httplib2 (>=0.9.1)",
+      "six"
+    ]
+  }
+}

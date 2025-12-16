@@ -1,0 +1,12 @@
+# Package configuration for jsons
+conda_forge = "jsons"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsons-1.6.3-py3-none-any.whl" },
+  { filename = "jsons-1.6.2-py3-none-any.whl" },
+  { filename = "jsons-1.6.1-py3-none-any.whl" },
+  { filename = "jsons-1.6.0-py3-none-any.whl" },
+  { filename = "jsons-1.5.1-py3-none-any.whl" },
+]

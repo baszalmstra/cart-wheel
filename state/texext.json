@@ -1,0 +1,20 @@
+{
+  "texext-0.6.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c804be77ac47ddae94d83b95fa39bb1d52aaf239a8acb2fca466ca2feef16e6b",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=4)",
+      "docutils (>=0.14)",
+      "sympy (>=1.0) ; extra == 'test'",
+      "matplotlib (>=3.1) ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "sphinxtesters (>=0.2.3) ; extra == 'test'"
+    ]
+  }
+}

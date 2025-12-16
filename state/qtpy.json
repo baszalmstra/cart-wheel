@@ -1,0 +1,77 @@
+{
+  "QtPy-2.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72095afe13673e017946cc258b8d5da43314197b741ed2890e563cf384b51aa1",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pytest!=7.0.0,!=7.0.1,>=6; extra == \"test\"",
+      "pytest-cov>=3.0.0; extra == \"test\"",
+      "pytest-qt; extra == \"test\""
+    ]
+  },
+  "QtPy-2.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a696b1dd7a354cb330657da1d17c20c2190c72d4888ba923f8461da67aa1a1c",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pytest !=7.0.0,!=7.0.1,>=6 ; extra == 'test'",
+      "pytest-cov >=3.0.0 ; extra == 'test'",
+      "pytest-qt ; extra == 'test'"
+    ]
+  },
+  "QtPy-2.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c1d8c4fa2c884ae742b069151b0abe15b3f70491f3972698c683b8e38de839b",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pytest !=7.0.0,!=7.0.1,>=6 ; extra == 'test'",
+      "pytest-cov >=3.0.0 ; extra == 'test'",
+      "pytest-qt ; extra == 'test'"
+    ]
+  },
+  "QtPy-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d4f045a41e09ac9fa57fcb47ef05781aa5af294a0a646acc1b729d14225e741",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pytest !=7.0.0,!=7.0.1,>=6 ; extra == 'test'",
+      "pytest-cov >=3.0.0 ; extra == 'test'",
+      "pytest-qt ; extra == 'test'"
+    ]
+  },
+  "QtPy-2.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5193d20e0b16e4d9d3bc2c642d04d9f4e2c892590bd1b9c92bfe38a95d5a2e12",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pytest (!=7.0.0,!=7.0.1,>=6) ; extra == 'test'",
+      "pytest-cov (>=3.0.0) ; extra == 'test'",
+      "pytest-qt ; extra == 'test'"
+    ]
+  }
+}

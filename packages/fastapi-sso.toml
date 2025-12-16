@@ -1,0 +1,11 @@
+# Package configuration for fastapi-sso
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fastapi_sso-0.18.0-py3-none-any.whl" },
+  { filename = "fastapi_sso-0.17.0-py3-none-any.whl" },
+  { filename = "fastapi_sso-0.16.0-py3-none-any.whl" },
+  { filename = "fastapi_sso-0.15.0-py3-none-any.whl" },
+  { filename = "fastapi_sso-0.14.2-py3-none-any.whl" },
+]

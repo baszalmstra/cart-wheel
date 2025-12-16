@@ -1,0 +1,12 @@
+# Package configuration for distro
+conda_forge = "distro"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "distro-1.9.0-py3-none-any.whl" },
+  { filename = "distro-1.8.0-py3-none-any.whl" },
+  { filename = "distro-1.7.0-py3-none-any.whl" },
+  { filename = "distro-1.6.0-py2.py3-none-any.whl" },
+  { filename = "distro-1.5.0-py2.py3-none-any.whl" },
+]

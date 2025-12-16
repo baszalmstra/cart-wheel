@@ -1,0 +1,197 @@
+{
+  "docker_compose-1.29.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8d5589373b35c8d3b1c8c1182c6e4a4ff14bffa3dd0b605fcd08f73c94cef809",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "distro",
+        "docker",
+        "dockerpty",
+        "docopt",
+        "jsonschema",
+        "python-dotenv",
+        "requests",
+        "texttable",
+        "websocket-client",
+        "backports.ssl-match-hostname",
+        "cached-property",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (<6,>=3.10)",
+      "distro (<2,>=1.5.0)",
+      "docker[ssh] (>=5)",
+      "dockerpty (<1,>=0.4.1)",
+      "docopt (<1,>=0.6.1)",
+      "jsonschema (<4,>=2.5.1)",
+      "python-dotenv (<1,>=0.13.0)",
+      "requests (<3,>=2.20.0)",
+      "texttable (<2,>=0.9.0)",
+      "websocket-client (<1,>=0.32.0)",
+      "backports.ssl-match-hostname (<4,>=3.5) ; python_version < \"3.5\"",
+      "cached-property (<2,>=1.2.0) ; python_version < \"3.8\"",
+      "colorama (<1,>=0.4) ; sys_platform == \"win32\"",
+      "PySocks (!=1.5.7,<2,>=1.5.6) ; extra == 'socks'",
+      "ddt (<2,>=1.2.2) ; extra == 'tests'",
+      "pytest (<6) ; extra == 'tests'"
+    ]
+  },
+  "docker_compose-1.29.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6510302727fe20faff5177f493b0c9897c73132539eaf55709a195c914c1a012",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "distro",
+        "docker",
+        "dockerpty",
+        "docopt",
+        "jsonschema",
+        "python-dotenv",
+        "requests",
+        "texttable",
+        "websocket-client",
+        "backports.ssl-match-hostname",
+        "cached-property",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (<6,>=3.10)",
+      "distro (<2,>=1.5.0)",
+      "docker[ssh] (>=5)",
+      "dockerpty (<1,>=0.4.1)",
+      "docopt (<1,>=0.6.1)",
+      "jsonschema (<4,>=2.5.1)",
+      "python-dotenv (<1,>=0.13.0)",
+      "requests (<3,>=2.20.0)",
+      "texttable (<2,>=0.9.0)",
+      "websocket-client (<1,>=0.32.0)",
+      "backports.ssl-match-hostname (<4,>=3.5) ; python_version < \"3.5\"",
+      "cached-property (<2,>=1.2.0) ; python_version < \"3.8\"",
+      "colorama (<1,>=0.4) ; sys_platform == \"win32\"",
+      "PySocks (!=1.5.7,<2,>=1.5.6) ; extra == 'socks'",
+      "ddt (<2,>=1.2.2) ; extra == 'tests'",
+      "pytest (<6) ; extra == 'tests'"
+    ]
+  },
+  "docker_compose-1.29.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c62f5a381c11a4db1eeb1424039e49c785ed943bf4219f2de00a0b477e13069",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "distro",
+        "docker",
+        "dockerpty",
+        "docopt",
+        "jsonschema",
+        "python-dotenv",
+        "requests",
+        "texttable",
+        "websocket-client",
+        "backports.ssl-match-hostname",
+        "cached-property",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (<6,>=3.10)",
+      "distro (<2,>=1.5.0)",
+      "docker[ssh] (>=5)",
+      "dockerpty (<1,>=0.4.1)",
+      "docopt (<1,>=0.6.1)",
+      "jsonschema (<4,>=2.5.1)",
+      "python-dotenv (<1,>=0.13.0)",
+      "requests (<3,>=2.20.0)",
+      "texttable (<2,>=0.9.0)",
+      "websocket-client (<1,>=0.32.0)",
+      "backports.ssl-match-hostname (<4,>=3.5) ; python_version < \"3.5\"",
+      "cached-property (<2,>=1.2.0) ; python_version < \"3.8\"",
+      "colorama (<1,>=0.4) ; sys_platform == \"win32\"",
+      "PySocks (!=1.5.7,<2,>=1.5.6) ; extra == 'socks'",
+      "ddt (<2,>=1.2.2) ; extra == 'tests'",
+      "pytest (<6) ; extra == 'tests'"
+    ]
+  },
+  "docker_compose-1.28.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f757ac7bbff985dd9f957a9b935dc8e5960456d6291a6e5fc1ec4cf1747a1d01",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "distro",
+        "docker",
+        "dockerpty",
+        "docopt",
+        "jsonschema",
+        "python-dotenv",
+        "requests",
+        "texttable",
+        "websocket-client",
+        "backports.ssl-match-hostname",
+        "cached-property",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (<6,>=3.10)",
+      "distro (<2,>=1.5.0)",
+      "docker[ssh] (<5,>=4.4.4)",
+      "dockerpty (<1,>=0.4.1)",
+      "docopt (<1,>=0.6.1)",
+      "jsonschema (<4,>=2.5.1)",
+      "python-dotenv (<1,>=0.13.0)",
+      "requests (<3,>=2.20.0)",
+      "texttable (<2,>=0.9.0)",
+      "websocket-client (<1,>=0.32.0)",
+      "backports.ssl-match-hostname (<4,>=3.5) ; python_version < \"3.5\"",
+      "cached-property (<2,>=1.2.0) ; python_version < \"3.8\"",
+      "colorama (<1,>=0.4) ; sys_platform == \"win32\"",
+      "PySocks (!=1.5.7,<2,>=1.5.6) ; extra == 'socks'",
+      "ddt (<2,>=1.2.2) ; extra == 'tests'",
+      "pytest (<6) ; extra == 'tests'"
+    ]
+  },
+  "docker_compose-1.28.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c09c6a7d320f1191d14ae6e7d93190d459313c8393cc5c74cb15f9205a8f23f",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "cached-property",
+        "distro",
+        "docker",
+        "dockerpty",
+        "docopt",
+        "jsonschema",
+        "python-dotenv",
+        "requests",
+        "texttable",
+        "websocket-client",
+        "backports.ssl-match-hostname",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (<6,>=3.10)",
+      "cached-property (<2,>=1.2.0)",
+      "distro (<2,>=1.5.0)",
+      "docker[ssh] (<5,>=4.4.4)",
+      "dockerpty (<1,>=0.4.1)",
+      "docopt (<1,>=0.6.1)",
+      "jsonschema (<4,>=2.5.1)",
+      "python-dotenv (<1,>=0.13.0)",
+      "requests (<3,>=2.20.0)",
+      "texttable (<2,>=0.9.0)",
+      "websocket-client (<1,>=0.32.0)",
+      "backports.ssl-match-hostname (<4,>=3.5) ; python_version < \"3.5\"",
+      "colorama (<1,>=0.4) ; sys_platform == \"win32\"",
+      "PySocks (!=1.5.7,<2,>=1.5.6) ; extra == 'socks'",
+      "ddt (<2,>=1.2.2) ; extra == 'tests'",
+      "pytest (<6) ; extra == 'tests'"
+    ]
+  }
+}

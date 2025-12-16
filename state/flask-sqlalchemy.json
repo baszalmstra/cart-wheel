@@ -1,0 +1,72 @@
+{
+  "flask_sqlalchemy-3.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ba4be7f419dc72f4efd8802d69974803c37259dd42f3913b0dcf75c9447e0a0",
+    "dependencies": {
+      "required": [
+        "flask",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "flask>=2.2.5",
+      "sqlalchemy>=2.0.16"
+    ]
+  },
+  "flask_sqlalchemy-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f7060d00edb229ef2f2d98b414bc49fc1a4b26562af94cc1f090fc6c41bf41d",
+    "dependencies": {
+      "required": [
+        "flask",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "flask>=2.2.5",
+      "sqlalchemy>=2.0.16"
+    ]
+  },
+  "flask_sqlalchemy-3.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cabb6600ddd819a9f859f36515bb1bd8e7dbf30206cc679d2b081dff9e383283",
+    "dependencies": {
+      "required": [
+        "flask",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "flask>=2.2.5",
+      "sqlalchemy>=1.4.18"
+    ]
+  },
+  "flask_sqlalchemy-3.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23d44ca566b02b0b5ee5b29d81b435079402ad73c116bf9918dbda5b03aa30ba",
+    "dependencies": {
+      "required": [
+        "flask",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "flask>=2.2.5",
+      "sqlalchemy>=1.4.18"
+    ]
+  },
+  "Flask_SQLAlchemy-3.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "add5750b2f9cd10512995261ee2aa23fab85bd5626061aa3c564b33bb4aa780a",
+    "dependencies": {
+      "required": [
+        "flask",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "Flask>=2.2",
+      "SQLAlchemy>=1.4.18"
+    ]
+  }
+}

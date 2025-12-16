@@ -1,0 +1,65 @@
+{
+  "cycler-0.12.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85cef7cff222d8644161529808465972e51340599459b8ac3ccbac5a854e0d30",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ipython ; extra == 'docs'",
+      "matplotlib ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'"
+    ]
+  },
+  "cycler-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7896994252d006771357777d0251f3e34d266f4fa5f2c572247a80ab01440947",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ipython ; extra == 'docs'",
+      "matplotlib ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'"
+    ]
+  },
+  "cycler-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a27e95f763a428a739d2add979fa7494c912a32c17c4c38c4d5f082cad165a3",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "cycler-0.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d8a5ae1ff6c5cf9b93e8811e581232ad8920aeec647c37316ceac982b08cb2d",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six"
+    ]
+  },
+  "cycler-0.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "deb00befd90683b52830c4eae4b94d7340833583cf0991347f25cbd949533155",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six"
+    ]
+  }
+}

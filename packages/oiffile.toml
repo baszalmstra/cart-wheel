@@ -1,0 +1,12 @@
+# Package configuration for oiffile
+conda_forge = "oiffile"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oiffile-2025.12.12-py3-none-any.whl" },
+  { filename = "oiffile-2025.5.10-py3-none-any.whl" },
+  { filename = "oiffile-2025.1.1-py3-none-any.whl" },
+  { filename = "oiffile-2024.5.24-py3-none-any.whl" },
+  { filename = "oiffile-2023.8.30-py3-none-any.whl" },
+]

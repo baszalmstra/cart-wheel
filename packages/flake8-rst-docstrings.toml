@@ -1,0 +1,12 @@
+# Package configuration for flake8-rst-docstrings
+conda_forge = "flake8-rst-docstrings"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_rst_docstrings-0.4.0-py3-none-any.whl" },
+  { filename = "flake8_rst_docstrings-0.3.1-py3-none-any.whl" },
+  { filename = "flake8_rst_docstrings-0.3.0-py3-none-any.whl" },
+  { filename = "flake8_rst_docstrings-0.2.7-py3-none-any.whl" },
+  { filename = "flake8_rst_docstrings-0.2.6-py3-none-any.whl" },
+]

@@ -1,0 +1,8 @@
+# Package configuration for feedgen
+conda_forge = "feedgen"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "feedgen-0.4.0-py2.py3-none-any.whl" },
+]

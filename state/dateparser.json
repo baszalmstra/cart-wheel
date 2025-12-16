@@ -1,0 +1,114 @@
+{
+  "dateparser-1.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a5d7211a09013499867547023a2a0c91d5a27d15dd4dbcea676ea9fe66f2482",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "pytz",
+        "regex",
+        "tzlocal"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil>=2.7.0",
+      "pytz>=2024.2",
+      "regex>=2024.9.11",
+      "tzlocal>=0.2",
+      "convertdate>=2.2.1; extra == \"calendars\"",
+      "hijridate; extra == \"calendars\"",
+      "fasttext>=0.9.1; extra == \"fasttext\"",
+      "numpy<2,>=1.19.3; extra == \"fasttext\"",
+      "langdetect>=1.0.0; extra == \"langdetect\""
+    ]
+  },
+  "dateparser-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bdcac262a467e6260030040748ad7c10d6bacd4f3b9cdb4cfd2251939174508c",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "pytz",
+        "regex",
+        "tzlocal"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil>=2.7.0",
+      "pytz>=2024.2",
+      "regex!=2019.02.19,!=2021.8.27,>=2015.06.24",
+      "tzlocal>=0.2",
+      "convertdate>=2.2.1; extra == \"calendars\"",
+      "hijridate; extra == \"calendars\"",
+      "fasttext>=0.9.1; extra == \"fasttext\"",
+      "numpy<2,>=1.19.3; extra == \"fasttext\"",
+      "langdetect>=1.0.0; extra == \"langdetect\""
+    ]
+  },
+  "dateparser-1.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b21ad96534e562920a0083e97fd45fa959882d4162acc358705144520a35830",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "pytz",
+        "regex",
+        "tzlocal"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "pytz",
+      "regex !=2019.02.19,!=2021.8.27",
+      "tzlocal",
+      "hijri-converter ; extra == 'calendars'",
+      "convertdate ; extra == 'calendars'",
+      "fasttext ; extra == 'fasttext'",
+      "langdetect ; extra == 'langdetect'"
+    ]
+  },
+  "dateparser-1.1.8-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "070b29b5bbf4b1ec2cd51c96ea040dc68a614de703910a91ad1abba18f9f379f",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "pytz",
+        "regex",
+        "tzlocal"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "pytz",
+      "regex (!=2019.02.19,!=2021.8.27)",
+      "tzlocal",
+      "hijri-converter ; extra == 'calendars'",
+      "convertdate ; extra == 'calendars'",
+      "fasttext ; extra == 'fasttext'",
+      "langdetect ; extra == 'langdetect'"
+    ]
+  },
+  "dateparser-1.1.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fbed8b738a24c9cd7f47c4f2089527926566fe539e1a06125eddba75917b1eef",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "pytz",
+        "regex",
+        "tzlocal"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "pytz",
+      "regex (!=2019.02.19,!=2021.8.27)",
+      "tzlocal",
+      "hijri-converter ; extra == 'calendars'",
+      "convertdate ; extra == 'calendars'",
+      "fasttext ; extra == 'fasttext'",
+      "langdetect ; extra == 'langdetect'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for pytest-flake8
+conda_forge = "pytest-flake8"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_flake8-1.3.0-py3-none-any.whl" },
+  { filename = "pytest_flake8-1.2.2-py3-none-any.whl" },
+  { filename = "pytest_flake8-1.2.1-py3-none-any.whl" },
+  { filename = "pytest_flake8-1.2.0-py3-none-any.whl" },
+  { filename = "pytest_flake8-1.1.3-py3-none-any.whl" },
+]

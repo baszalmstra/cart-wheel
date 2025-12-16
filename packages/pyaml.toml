@@ -1,0 +1,12 @@
+# Package configuration for pyaml
+conda_forge = "pyaml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyaml-25.7.0-py3-none-any.whl" },
+  { filename = "pyaml-25.5.0-py3-none-any.whl" },
+  { filename = "pyaml-25.1.0-py3-none-any.whl" },
+  { filename = "pyaml-24.12.1-py3-none-any.whl" },
+  { filename = "pyaml-24.12.0-py3-none-any.whl" },
+]

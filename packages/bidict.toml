@@ -1,0 +1,12 @@
+# Package configuration for bidict
+conda_forge = "bidict"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bidict-0.23.1-py3-none-any.whl" },
+  { filename = "bidict-0.23.0-py3-none-any.whl" },
+  { filename = "bidict-0.22.1-py3-none-any.whl" },
+  { filename = "bidict-0.22.0-py3-none-any.whl" },
+  { filename = "bidict-0.21.4-py3-none-any.whl" },
+]

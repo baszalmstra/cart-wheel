@@ -1,0 +1,12 @@
+# Package configuration for fastmcp
+conda_forge = "fastmcp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fastmcp-2.14.0-py3-none-any.whl" },
+  { filename = "fastmcp-2.13.3-py3-none-any.whl" },
+  { filename = "fastmcp-2.13.2-py3-none-any.whl" },
+  { filename = "fastmcp-2.13.1-py3-none-any.whl" },
+  { filename = "fastmcp-2.13.0.2-py3-none-any.whl" },
+]

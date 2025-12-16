@@ -1,0 +1,12 @@
+# Package configuration for pip-requirements-parser
+conda_forge = "pip-requirements-parser"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pip_requirements_parser-32.0.1-py3-none-any.whl" },
+  { filename = "pip_requirements_parser-32.0.0-py3-none-any.whl" },
+  { filename = "pip_requirements_parser-31.2.0-py3-none-any.whl" },
+  { filename = "pip_requirements_parser-31.1.0-py3-none-any.whl" },
+  { filename = "pip_requirements_parser-31.0.1-py3-none-any.whl" },
+]

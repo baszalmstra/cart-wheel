@@ -1,0 +1,92 @@
+{
+  "tikzplotlib-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf0451b86fe4db40aa742f7e5a180dfaaadf57c746ddb2ab7e58a5163d8be75f",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "numpy",
+        "pillow",
+        "webcolors"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib >= 1.4.0",
+      "numpy",
+      "Pillow",
+      "webcolors"
+    ]
+  },
+  "tikzplotlib-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d654696c45595c152e8e0f952931f9520b624c786a223a0e812b7287c8c9714d",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "numpy",
+        "pillow",
+        "webcolors"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib >= 1.4.0",
+      "numpy",
+      "Pillow",
+      "webcolors"
+    ]
+  },
+  "tikzplotlib-0.9.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84d06f84faa41c6dce4540e74d2e2f573dbfb44a5093fa1f2268c286dca9ee28",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "numpy",
+        "pillow",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib (>=1.4.0)",
+      "numpy",
+      "Pillow",
+      "importlib-metadata ; python_version < \"3.8\""
+    ]
+  },
+  "tikzplotlib-0.9.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "deacbd69d89ecf9edd7d29606c6927b83a952e68ddc6c8ab0fda2c401a574c41",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "numpy",
+        "pillow",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib (>=1.4.0)",
+      "numpy",
+      "Pillow",
+      "importlib-metadata ; python_version < \"3.8\""
+    ]
+  },
+  "tikzplotlib-0.9.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "891dd3d674b59d4197d8d5873d38d39fedf43f11fbd4ab2c9bdd652e662c89da",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "numpy",
+        "pillow",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib (>=1.4.0)",
+      "numpy",
+      "Pillow",
+      "importlib-metadata ; python_version < \"3.8\""
+    ]
+  }
+}

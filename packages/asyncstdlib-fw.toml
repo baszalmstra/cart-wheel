@@ -1,0 +1,8 @@
+# Package configuration for asyncstdlib-fw
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "asyncstdlib_fw-3.13.2-py3-none-any.whl" },
+  { filename = "asyncstdlib_fw-3.13.1-py3-none-any.whl" },
+]

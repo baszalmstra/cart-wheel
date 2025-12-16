@@ -1,0 +1,163 @@
+{
+  "apprise-1.9.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2fd18e8a5251b6a12f6f9d169f1d895d458d1de36a5faee4db149cedcce51674",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-oauthlib",
+        "click",
+        "markdown",
+        "pyyaml",
+        "certifi",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "requests-oauthlib",
+      "click>=5.0",
+      "markdown",
+      "PyYAML",
+      "certifi",
+      "tzdata; platform_system == \"Windows\"",
+      "coverage; extra == \"dev\"",
+      "mock; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-mock; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "babel; extra == \"dev\"",
+      "validate-pyproject; extra == \"dev\"",
+      "cryptography; extra == \"all-plugins\"",
+      "gntp; extra == \"all-plugins\"",
+      "paho-mqtt!=2.0.*; extra == \"all-plugins\"",
+      "PGPy; extra == \"all-plugins\"",
+      "smpplib; extra == \"all-plugins\"",
+      "pywin32; extra == \"windows\"",
+      "tzdata; extra == \"windows\""
+    ]
+  },
+  "apprise-1.9.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1873a8a1b8cf9e44fcbefe0486ed260b590652aea12427f545b37c8566142961",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-oauthlib",
+        "click",
+        "markdown",
+        "pyyaml",
+        "certifi",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "requests-oauthlib",
+      "click>=5.0",
+      "markdown",
+      "PyYAML",
+      "certifi",
+      "tzdata; platform_system == \"Windows\"",
+      "coverage; extra == \"dev\"",
+      "mock; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-mock; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "babel; extra == \"dev\"",
+      "validate-pyproject; extra == \"dev\"",
+      "cryptography; extra == \"all-plugins\"",
+      "gntp; extra == \"all-plugins\"",
+      "paho-mqtt!=2.0.*; extra == \"all-plugins\"",
+      "PGPy; extra == \"all-plugins\"",
+      "smpplib; extra == \"all-plugins\"",
+      "pywin32; extra == \"windows\"",
+      "tzdata; extra == \"windows\""
+    ]
+  },
+  "apprise-1.9.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17dca8ad0a5b2063f6bae707979a51ca2cb374fcc66b0dd5c05a9d286dd40069",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-oauthlib",
+        "click",
+        "markdown",
+        "pyyaml",
+        "certifi"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "requests-oauthlib",
+      "click>=5.0",
+      "markdown",
+      "PyYAML",
+      "certifi",
+      "coverage; extra == \"dev\"",
+      "mock; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-mock; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "babel; extra == \"dev\"",
+      "validate-pyproject; extra == \"dev\"",
+      "cryptography; extra == \"all-plugins\"",
+      "gntp; extra == \"all-plugins\"",
+      "paho-mqtt!=2.0.*; extra == \"all-plugins\"",
+      "PGPy; extra == \"all-plugins\"",
+      "smpplib; extra == \"all-plugins\"",
+      "pywin32; extra == \"windows\""
+    ]
+  },
+  "apprise-1.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e9b5abb73244c21a30ee493860f8d4ae80665d225b1b436179d48db4f6fc5b9e",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "requests",
+        "requests-oauthlib",
+        "click",
+        "markdown",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "certifi",
+      "requests",
+      "requests-oauthlib",
+      "click >=5.0",
+      "markdown",
+      "PyYAML"
+    ]
+  },
+  "apprise-1.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52bd580058d8534b204bfc9ca53b5810c6a935d1bed7c463147e244b2c93362b",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "requests",
+        "requests-oauthlib",
+        "click",
+        "markdown",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "certifi",
+      "requests",
+      "requests-oauthlib",
+      "click >=5.0",
+      "markdown",
+      "PyYAML"
+    ]
+  }
+}

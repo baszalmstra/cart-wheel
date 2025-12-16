@@ -1,0 +1,11 @@
+# Package configuration for tuf
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tuf-6.0.0-py3-none-any.whl" },
+  { filename = "tuf-5.1.0-py3-none-any.whl" },
+  { filename = "tuf-5.0.0-py3-none-any.whl" },
+  { filename = "tuf-4.0.0-py3-none-any.whl" },
+  { filename = "tuf-3.1.1-py3-none-any.whl" },
+]

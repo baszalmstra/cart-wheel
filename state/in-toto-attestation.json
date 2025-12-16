@@ -1,0 +1,58 @@
+{
+  "in_toto_attestation-0.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1f44d3f3bded1ed551e260c5e9f834ee05de03f1d2f360bada5a172c11d748ff",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf",
+      "build; extra == 'dev'",
+      "in-toto-attestation[lint,test]; extra == 'dev'",
+      "mypy; extra == 'lint'",
+      "ruff; extra == 'lint'",
+      "types-protobuf; extra == 'lint'",
+      "coverage[toml]; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'"
+    ]
+  },
+  "in_toto_attestation-0.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "783edc05854b2e9580ac5b2a2d7db025c8fab51d669d51b06ec03c863d660d86",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf"
+    ]
+  },
+  "in_toto_attestation-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4faffaddfae175a19e92ff4c81d4560d09c3c8727fdef234b17eacb8348be88e",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf"
+    ]
+  },
+  "in_toto_attestation-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ba8ab4aca1e271ab1ed70c641afc8e89884a91b966502f746fb5079576c13e1b",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf"
+    ]
+  }
+}

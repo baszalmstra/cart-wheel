@@ -1,0 +1,10 @@
+# Package configuration for pytest-shutil
+conda_forge = "pytest-shutil"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_shutil-1.8.1-py3-none-any.whl" },
+  { filename = "pytest_shutil-1.8.0-py3-none-any.whl" },
+  { filename = "pytest_shutil-1.7.0-py2.py3-none-any.whl" },
+]

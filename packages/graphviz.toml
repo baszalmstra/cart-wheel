@@ -1,0 +1,12 @@
+# Package configuration for graphviz
+conda_forge = "python-graphviz"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "graphviz-0.21-py3-none-any.whl" },
+  { filename = "graphviz-0.20.3-py3-none-any.whl" },
+  { filename = "graphviz-0.20.2-py3-none-any.whl" },
+  { filename = "graphviz-0.20.1-py3-none-any.whl" },
+  { filename = "graphviz-0.20-py3-none-any.whl" },
+]

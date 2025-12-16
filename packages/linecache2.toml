@@ -1,0 +1,9 @@
+# Package configuration for linecache2
+conda_forge = "linecache2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "linecache2-1.0.0-py2.py3-none-any.whl" },
+  { filename = "linecache2-0.0.1-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,108 @@
+{
+  "django_configurations-2.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ceb84858da2dac846b15e715c2fd936cfc4c7917c074aff8d31700564093955e",
+    "dependencies": {
+      "required": [
+        "django"
+      ]
+    },
+    "original_requirements": [
+      "django >=3.2",
+      "django-cache-url ; extra == 'cache'",
+      "dj-database-url ; extra == 'database'",
+      "dj-email-url ; extra == 'email'",
+      "dj-search-url ; extra == 'search'",
+      "django-cache-url >=1.0.0 ; extra == 'testing'",
+      "dj-database-url ; extra == 'testing'",
+      "dj-email-url ; extra == 'testing'",
+      "dj-search-url ; extra == 'testing'"
+    ]
+  },
+  "django_configurations-2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf063b99ad30013df49eaa971bd8543deffb008ff080cf3a92955dbccfe81a5c",
+    "dependencies": {
+      "required": [
+        "django"
+      ]
+    },
+    "original_requirements": [
+      "django >=3.2",
+      "django-cache-url ; extra == 'cache'",
+      "dj-database-url ; extra == 'database'",
+      "dj-email-url ; extra == 'email'",
+      "dj-search-url ; extra == 'search'",
+      "django-cache-url >=1.0.0 ; extra == 'testing'",
+      "dj-database-url ; extra == 'testing'",
+      "dj-email-url ; extra == 'testing'",
+      "dj-search-url ; extra == 'testing'"
+    ]
+  },
+  "django_configurations-2.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a18b110149aa47779576609242ada89be0bab03e96a5ce02167e640ca312d5d9",
+    "dependencies": {
+      "required": [
+        "django",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "django >=3.2",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "django-cache-url ; extra == 'cache'",
+      "dj-database-url ; extra == 'database'",
+      "dj-email-url ; extra == 'email'",
+      "dj-search-url ; extra == 'search'",
+      "django-cache-url >=1.0.0 ; extra == 'testing'",
+      "dj-database-url ; extra == 'testing'",
+      "dj-email-url ; extra == 'testing'",
+      "dj-search-url ; extra == 'testing'"
+    ]
+  },
+  "django_configurations-2.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8bf8866ae29db89ecf93a7743450b5d8974073cf7c194fd98764fd16deac218d",
+    "dependencies": {
+      "required": [
+        "django",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "django (>=3.2)",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "django-cache-url ; extra == 'cache'",
+      "dj-database-url ; extra == 'database'",
+      "dj-email-url ; extra == 'email'",
+      "dj-search-url ; extra == 'search'",
+      "django-cache-url (>=1.0.0) ; extra == 'testing'",
+      "dj-database-url ; extra == 'testing'",
+      "dj-email-url ; extra == 'testing'",
+      "dj-search-url ; extra == 'testing'"
+    ]
+  },
+  "django_configurations-2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d10bac11d71e29e8ea89548e2d5d2e91e1595667b3859989f50727dcbe7a8c80",
+    "dependencies": {
+      "required": [
+        "django",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "django (>=3.2)",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "django-cache-url ; extra == 'cache'",
+      "dj-database-url ; extra == 'database'",
+      "dj-email-url ; extra == 'email'",
+      "dj-search-url ; extra == 'search'",
+      "django-cache-url (>=1.0.0) ; extra == 'testing'",
+      "dj-database-url ; extra == 'testing'",
+      "dj-email-url ; extra == 'testing'",
+      "dj-search-url ; extra == 'testing'"
+    ]
+  }
+}

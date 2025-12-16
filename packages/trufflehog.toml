@@ -1,0 +1,12 @@
+# Package configuration for trufflehog
+conda_forge = "trufflehog"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "truffleHog-2.2.1-py2.py3-none-any.whl" },
+  { filename = "truffleHog-2.2.0-py2.py3-none-any.whl" },
+  { filename = "truffleHog-2.1.13-py2.py3-none-any.whl" },
+  { filename = "truffleHog-2.1.11-py2.py3-none-any.whl" },
+  { filename = "truffleHog-2.1.1-py2.py3-none-any.whl" },
+]

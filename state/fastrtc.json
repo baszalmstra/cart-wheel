@@ -1,0 +1,197 @@
+{
+  "fastrtc-0.0.34-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6da3831da9c2257810b6c5e5fd7cdd4f1636d716f47ab49d8bb3f2d5d9e499ac",
+    "dependencies": {
+      "required": [
+        "aioice",
+        "aiortc",
+        "audioop-lts",
+        "gradio",
+        "librosa",
+        "numba",
+        "numpy",
+        "standard-aifc",
+        "standard-sunau"
+      ]
+    },
+    "original_requirements": [
+      "aioice>=0.10.1",
+      "aiortc",
+      "audioop-lts; python_version >= '3.13'",
+      "gradio<6.0,>=4.0",
+      "librosa",
+      "numba>=0.60.0",
+      "numpy",
+      "standard-aifc; python_version >= '3.13'",
+      "standard-sunau; python_version >= '3.13'",
+      "build; extra == 'dev'",
+      "httpx; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-asyncio; extra == 'dev'",
+      "twine; extra == 'dev'",
+      "fastrtc-moonshine-onnx; extra == 'stopword'",
+      "onnxruntime>=1.20.1; extra == 'stopword'",
+      "fastrtc-moonshine-onnx; extra == 'stt'",
+      "onnxruntime>=1.20.1; extra == 'stt'",
+      "kokoro-onnx; extra == 'tts'",
+      "onnxruntime>=1.20.1; extra == 'vad'"
+    ]
+  },
+  "fastrtc-0.0.33-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "04f4bd3d083cddf40189ec598db9b7472c0f460ecfd4c4b232e3224f3e045afb",
+    "dependencies": {
+      "required": [
+        "aioice",
+        "aiortc",
+        "audioop-lts",
+        "gradio",
+        "librosa",
+        "numba",
+        "numpy",
+        "standard-aifc",
+        "standard-sunau"
+      ]
+    },
+    "original_requirements": [
+      "aioice>=0.10.1",
+      "aiortc",
+      "audioop-lts; python_version >= '3.13'",
+      "gradio<6.0,>=4.0",
+      "librosa",
+      "numba>=0.60.0",
+      "numpy",
+      "standard-aifc; python_version >= '3.13'",
+      "standard-sunau; python_version >= '3.13'",
+      "build; extra == 'dev'",
+      "httpx; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-asyncio; extra == 'dev'",
+      "twine; extra == 'dev'",
+      "fastrtc-moonshine-onnx; extra == 'stopword'",
+      "onnxruntime>=1.20.1; extra == 'stopword'",
+      "fastrtc-moonshine-onnx; extra == 'stt'",
+      "onnxruntime>=1.20.1; extra == 'stt'",
+      "kokoro-onnx; extra == 'tts'",
+      "onnxruntime>=1.20.1; extra == 'vad'"
+    ]
+  },
+  "fastrtc-0.0.32-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "752785daaf119d2871b346f1e2d931eb4ec6b1f3f253c7cc85e6da9eb355cd6b",
+    "dependencies": {
+      "required": [
+        "aioice",
+        "aiortc",
+        "audioop-lts",
+        "gradio",
+        "librosa",
+        "numba",
+        "numpy",
+        "standard-aifc",
+        "standard-sunau"
+      ]
+    },
+    "original_requirements": [
+      "aioice>=0.10.1",
+      "aiortc",
+      "audioop-lts; python_version >= '3.13'",
+      "gradio<6.0,>=4.0",
+      "librosa",
+      "numba>=0.60.0",
+      "numpy",
+      "standard-aifc; python_version >= '3.13'",
+      "standard-sunau; python_version >= '3.13'",
+      "build; extra == 'dev'",
+      "httpx; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-asyncio; extra == 'dev'",
+      "twine; extra == 'dev'",
+      "fastrtc-moonshine-onnx; extra == 'stopword'",
+      "onnxruntime>=1.20.1; extra == 'stopword'",
+      "fastrtc-moonshine-onnx; extra == 'stt'",
+      "onnxruntime>=1.20.1; extra == 'stt'",
+      "kokoro-onnx; extra == 'tts'",
+      "onnxruntime>=1.20.1; extra == 'vad'"
+    ]
+  },
+  "fastrtc-0.0.30-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d9b9edf65ae47b54c82b18ad40a033a46625a60e26eb6990484b9afaceda068",
+    "dependencies": {
+      "required": [
+        "aioice",
+        "aiortc",
+        "audioop-lts",
+        "gradio",
+        "librosa",
+        "numba",
+        "numpy",
+        "standard-aifc",
+        "standard-sunau"
+      ]
+    },
+    "original_requirements": [
+      "aioice>=0.10.1",
+      "aiortc",
+      "audioop-lts; python_version >= '3.13'",
+      "gradio<6.0,>=4.0",
+      "librosa",
+      "numba>=0.60.0",
+      "numpy>=2.0.2",
+      "standard-aifc; python_version >= '3.13'",
+      "standard-sunau; python_version >= '3.13'",
+      "build; extra == 'dev'",
+      "httpx; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-asyncio; extra == 'dev'",
+      "twine; extra == 'dev'",
+      "fastrtc-moonshine-onnx; extra == 'stopword'",
+      "onnxruntime>=1.20.1; extra == 'stopword'",
+      "fastrtc-moonshine-onnx; extra == 'stt'",
+      "onnxruntime>=1.20.1; extra == 'stt'",
+      "kokoro-onnx; extra == 'tts'",
+      "onnxruntime>=1.20.1; extra == 'vad'"
+    ]
+  },
+  "fastrtc-0.0.29-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db5b24bde3009742e07628564e51513ed6bc2ae32826d007b98b621f9794eeb1",
+    "dependencies": {
+      "required": [
+        "aioice",
+        "aiortc",
+        "audioop-lts",
+        "gradio",
+        "librosa",
+        "numba",
+        "numpy",
+        "standard-aifc",
+        "standard-sunau"
+      ]
+    },
+    "original_requirements": [
+      "aioice>=0.10.1",
+      "aiortc",
+      "audioop-lts; python_version >= '3.13'",
+      "gradio<6.0,>=4.0",
+      "librosa",
+      "numba>=0.60.0",
+      "numpy>=2.0.2",
+      "standard-aifc; python_version >= '3.13'",
+      "standard-sunau; python_version >= '3.13'",
+      "build; extra == 'dev'",
+      "httpx; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-asyncio; extra == 'dev'",
+      "twine; extra == 'dev'",
+      "fastrtc-moonshine-onnx; extra == 'stopword'",
+      "onnxruntime>=1.20.1; extra == 'stopword'",
+      "fastrtc-moonshine-onnx; extra == 'stt'",
+      "onnxruntime>=1.20.1; extra == 'stt'",
+      "kokoro-onnx; extra == 'tts'",
+      "onnxruntime>=1.20.1; extra == 'vad'"
+    ]
+  }
+}

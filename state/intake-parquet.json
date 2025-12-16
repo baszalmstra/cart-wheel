@@ -1,0 +1,20 @@
+{
+  "intake_parquet-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a04b81c8bba6ec54bdc0763f3a37f908b241920c3881cf853b6f3df2d1c0cfa",
+    "dependencies": {
+      "required": [
+        "intake",
+        "pandas",
+        "fastparquet",
+        "pyarrow"
+      ]
+    },
+    "original_requirements": [
+      "intake",
+      "pandas",
+      "fastparquet",
+      "pyarrow"
+    ]
+  }
+}

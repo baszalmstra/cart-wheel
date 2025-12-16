@@ -1,0 +1,12 @@
+# Package configuration for rstcheck
+conda_forge = "rstcheck"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rstcheck-6.2.5-py3-none-any.whl" },
+  { filename = "rstcheck-6.2.4-py3-none-any.whl" },
+  { filename = "rstcheck-6.2.3-py3-none-any.whl" },
+  { filename = "rstcheck-6.2.2-py3-none-any.whl" },
+  { filename = "rstcheck-6.2.1-py3-none-any.whl" },
+]

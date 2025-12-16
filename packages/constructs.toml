@@ -1,0 +1,12 @@
+# Package configuration for constructs
+conda_forge = "constructs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "constructs-10.4.4-py3-none-any.whl" },
+  { filename = "constructs-10.4.3-py3-none-any.whl" },
+  { filename = "constructs-10.4.2-py3-none-any.whl" },
+  { filename = "constructs-10.4.1-py3-none-any.whl" },
+  { filename = "constructs-10.4.0-py3-none-any.whl" },
+]

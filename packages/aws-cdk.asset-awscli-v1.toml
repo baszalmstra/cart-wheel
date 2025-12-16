@@ -1,0 +1,11 @@
+# Package configuration for aws-cdk.asset-awscli-v1
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_cdk_asset_awscli_v1-2.2.257-py3-none-any.whl" },
+  { filename = "aws_cdk_asset_awscli_v1-2.2.256-py3-none-any.whl" },
+  { filename = "aws_cdk_asset_awscli_v1-2.2.255-py3-none-any.whl" },
+  { filename = "aws_cdk_asset_awscli_v1-2.2.254-py3-none-any.whl" },
+  { filename = "aws_cdk_asset_awscli_v1-2.2.253-py3-none-any.whl" },
+]

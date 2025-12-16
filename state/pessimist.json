@@ -1,0 +1,110 @@
+{
+  "pessimist-0.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd074b0d207a89f4e88a34ea6a4d7f1a6ca685dbe9a91cc3bd90858870357018",
+    "dependencies": {
+      "required": [
+        "volatile",
+        "toml",
+        "pep517",
+        "honesty",
+        "highlighter",
+        "setuptools",
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "volatile (>=1.0)",
+      "toml (>=0.10.2)",
+      "pep517 (>=0.6.0)",
+      "honesty (==0.3.0a2)",
+      "highlighter (>=0.1.1)",
+      "setuptools (>=48.0.0)",
+      "click (>=7.1.2)"
+    ]
+  },
+  "pessimist-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "225a1699c19c4f92d128a171a6cb37d59cab055e2af33c4c390978adf3f8f913",
+    "dependencies": {
+      "required": [
+        "volatile",
+        "toml",
+        "pep517",
+        "honesty",
+        "highlighter",
+        "setuptools",
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "volatile (>=1.0)",
+      "toml (>=0.10.2)",
+      "pep517 (>=0.6.0)",
+      "honesty (==0.3.0a2)",
+      "highlighter (>=0.1.1)",
+      "setuptools (>=48.0.0)",
+      "click (>=7.1.2)"
+    ]
+  },
+  "pessimist-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3767c6438c2fe7cde3afe1f883fe17619056efe51089cca88c25fcac6021e47",
+    "dependencies": {
+      "required": [
+        "volatile",
+        "pep517",
+        "honesty",
+        "highlighter",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "volatile (>=1.0)",
+      "pep517 (>=0.6.0)",
+      "honesty (==0.3.0a1)",
+      "highlighter (>=0.1.1)",
+      "setuptools (>=48.0.0)"
+    ]
+  },
+  "pessimist-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74bf447c44f28352cc43cb289b3922a955f0707ce738ce3f34d91a475edc118f",
+    "dependencies": {
+      "required": [
+        "volatile",
+        "pep517",
+        "honesty",
+        "highlighter",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "volatile (>=1.0)",
+      "pep517 (>=0.6.0)",
+      "honesty (==0.3.0a1)",
+      "highlighter (>=0.1.1)",
+      "setuptools (>=48.0.0)"
+    ]
+  },
+  "pessimist-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85642c62d02dbddbf6e82d5baadfbb30a7eab4257edae927c96f21bd5d213523",
+    "dependencies": {
+      "required": [
+        "volatile",
+        "pep517",
+        "honesty",
+        "highlighter",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "volatile",
+      "pep517",
+      "honesty (==0.3.0a1)",
+      "highlighter",
+      "setuptools (>=48.0.0)"
+    ]
+  }
+}

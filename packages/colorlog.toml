@@ -1,0 +1,12 @@
+# Package configuration for colorlog
+conda_forge = "colorlog"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "colorlog-6.10.1-py3-none-any.whl" },
+  { filename = "colorlog-6.9.0-py3-none-any.whl" },
+  { filename = "colorlog-6.8.2-py3-none-any.whl" },
+  { filename = "colorlog-6.8.0-py3-none-any.whl" },
+  { filename = "colorlog-6.7.0-py2.py3-none-any.whl" },
+]

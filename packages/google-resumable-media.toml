@@ -1,0 +1,12 @@
+# Package configuration for google-resumable-media
+conda_forge = "google-resumable-media"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_resumable_media-2.8.0-py3-none-any.whl" },
+  { filename = "google_resumable_media-2.7.2-py2.py3-none-any.whl" },
+  { filename = "google_resumable_media-2.7.1-py2.py3-none-any.whl" },
+  { filename = "google_resumable_media-2.7.0-py2.py3-none-any.whl" },
+  { filename = "google_resumable_media-2.6.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for optimum-quanto
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "optimum_quanto-0.2.7-py3-none-any.whl" },
+  { filename = "optimum_quanto-0.2.6-py3-none-any.whl" },
+  { filename = "optimum_quanto-0.2.5-py3-none-any.whl" },
+  { filename = "optimum_quanto-0.2.4-py3-none-any.whl" },
+  { filename = "optimum_quanto-0.2.3-py3-none-any.whl" },
+]

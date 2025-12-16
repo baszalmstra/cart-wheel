@@ -1,0 +1,12 @@
+# Package configuration for pytest-xdist
+conda_forge = "pytest-xdist"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_xdist-3.8.0-py3-none-any.whl" },
+  { filename = "pytest_xdist-3.7.0-py3-none-any.whl" },
+  { filename = "pytest_xdist-3.6.1-py3-none-any.whl" },
+  { filename = "pytest_xdist-3.5.0-py3-none-any.whl" },
+  { filename = "pytest_xdist-3.4.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for logilab-common
+conda_forge = "logilab-common"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "logilab_common-2.1.0-py3-none-any.whl" },
+  { filename = "logilab_common-2.0.0-py3-none-any.whl" },
+  { filename = "logilab_common-1.11.0-py3-none-any.whl" },
+  { filename = "logilab_common-1.10.0-py3-none-any.whl" },
+  { filename = "logilab_common-1.9.8-py3-none-any.whl" },
+]

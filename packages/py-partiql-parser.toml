@@ -1,0 +1,11 @@
+# Package configuration for py-partiql-parser
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "py_partiql_parser-0.6.3-py2.py3-none-any.whl" },
+  { filename = "py_partiql_parser-0.6.2-py2.py3-none-any.whl" },
+  { filename = "py_partiql_parser-0.6.1-py2.py3-none-any.whl" },
+  { filename = "py_partiql_parser-0.6.0-py2.py3-none-any.whl" },
+  { filename = "py_partiql_parser-0.5.6-py2.py3-none-any.whl" },
+]

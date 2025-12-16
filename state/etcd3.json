@@ -1,0 +1,32 @@
+{
+  "etcd3-0.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30fa20b41456aca7da985b127750438d372850e262e305769fc493cb9bdb8931",
+    "dependencies": {
+      "required": [
+        "grpcio",
+        "tenacity",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "grpcio (>=1.2.0)",
+      "tenacity (>=4.10.0)",
+      "protobuf (>=3.5.2.post1)"
+    ]
+  },
+  "etcd3-0.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e70b11e8c5769e4acc4e357358f15ae25897771c125c633a2f45e14af4c6abcb",
+    "dependencies": {
+      "required": [
+        "grpcio",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "grpcio (>=1.2.0)",
+      "tenacity (>=4.10.0)"
+    ]
+  }
+}

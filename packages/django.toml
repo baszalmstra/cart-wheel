@@ -1,0 +1,12 @@
+# Package configuration for django
+conda_forge = "django"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "django-6.0-py3-none-any.whl" },
+  { filename = "django-5.2.9-py3-none-any.whl" },
+  { filename = "django-5.2.8-py3-none-any.whl" },
+  { filename = "django-5.2.7-py3-none-any.whl" },
+  { filename = "django-5.2.6-py3-none-any.whl" },
+]

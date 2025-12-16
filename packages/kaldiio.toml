@@ -1,0 +1,9 @@
+# Package configuration for kaldiio
+conda_forge = "kaldiio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kaldiio-2.18.1-py3-none-any.whl" },
+  { filename = "kaldiio-2.18.0-py3-none-any.whl" },
+]

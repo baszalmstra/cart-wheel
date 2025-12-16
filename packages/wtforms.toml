@@ -1,0 +1,12 @@
+# Package configuration for wtforms
+conda_forge = "wtforms"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "wtforms-3.2.1-py3-none-any.whl" },
+  { filename = "wtforms-3.2.0-py3-none-any.whl" },
+  { filename = "wtforms-3.1.2-py3-none-any.whl" },
+  { filename = "wtforms-3.1.1-py3-none-any.whl" },
+  { filename = "wtforms-3.1.0-py3-none-any.whl" },
+]

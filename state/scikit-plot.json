@@ -1,0 +1,59 @@
+{
+  "scikit_plot-0.3.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b3d529800b32a899c54dc5761a93c63cbff482b1889a4afee57dd219f3ef0c3",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "scikit-learn",
+        "scipy",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib (>=1.4.0)",
+      "scikit-learn (>=0.18)",
+      "scipy (>=0.9)",
+      "joblib (>=0.10)",
+      "pytest; extra == 'testing'"
+    ]
+  },
+  "scikit_plot-0.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ad12964c7d559dc0bd572b551f122dfc51b27c44986ca4b9101b694ff127756",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "scikit-learn",
+        "scipy",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib (>=1.4.0)",
+      "scikit-learn (>=0.18)",
+      "scipy (>=0.9)",
+      "joblib (>=0.10)",
+      "pytest; extra == 'testing'"
+    ]
+  },
+  "scikit_plot-0.3.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60faf903d3c3ffe4f849611450fb5f06f0c175d350c6f8746c5460fd1419ad28",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "scikit-learn",
+        "scipy",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib (>=1.4.0)",
+      "scikit-learn (>=0.18)",
+      "scipy (>=0.9)",
+      "joblib (>=0.10)",
+      "pytest; extra == 'testing'"
+    ]
+  }
+}

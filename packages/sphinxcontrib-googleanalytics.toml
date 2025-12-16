@@ -1,0 +1,10 @@
+# Package configuration for sphinxcontrib-googleanalytics
+conda_forge = "sphinxcontrib-googleanalytics"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_googleanalytics-0.5-py3-none-any.whl" },
+  { filename = "sphinxcontrib_googleanalytics-0.4-py3-none-any.whl" },
+  { filename = "sphinxcontrib_googleanalytics-0.3-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for dask-geopandas
+conda_forge = "dask-geopandas"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dask_geopandas-0.5.0-py3-none-any.whl" },
+  { filename = "dask_geopandas-0.4.3-py3-none-any.whl" },
+  { filename = "dask_geopandas-0.4.2-py3-none-any.whl" },
+  { filename = "dask_geopandas-0.4.1-py3-none-any.whl" },
+  { filename = "dask_geopandas-0.4.0-py3-none-any.whl" },
+]

@@ -1,0 +1,140 @@
+{
+  "pytest_checkdocs-2.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5df5bbd7e9753aa51a5f6954a301a4066bd4a04eb7e0c712c5d5d7ede1cbe153",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "jaraco.packaging"
+      ]
+    },
+    "original_requirements": [
+      "docutils >=0.15",
+      "jaraco.packaging >=9.5",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest !=8.1.*,>=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-mypy ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'",
+      "types-docutils ; extra == 'testing'"
+    ]
+  },
+  "pytest_checkdocs-2.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e2cd80f2f0f832500de2c7a002862f657a3b2b6d445484245ee0d8e82b9ca29",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "jaraco.packaging"
+      ]
+    },
+    "original_requirements": [
+      "docutils >=0.15",
+      "jaraco.packaging >=9.5",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "sphinx <7.2.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest >=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'",
+      "types-docutils ; extra == 'testing'",
+      "pytest-mypy ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "pytest_checkdocs-2.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b566db15f2a0054da1dcf914db0f5e280b2ccbaf0d0ba96ead57e44f74ad7f3",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "build"
+      ]
+    },
+    "original_requirements": [
+      "docutils >=0.15",
+      "build >=1.1",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "sphinx <7.2.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest >=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'",
+      "types-docutils ; extra == 'testing'",
+      "pytest-mypy ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "pytest_checkdocs-2.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f069d6408633697023298ebf66c9bb1cb915c3ae5f047457b507229a4784e153",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "build",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "docutils (>=0.15)",
+      "build",
+      "importlib-metadata (>=4) ; python_version < \"3.10\"",
+      "sphinx (>=3.5) ; extra == 'docs'",
+      "jaraco.packaging (>=9.3) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=2.2) ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "types-docutils ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "pytest_checkdocs-2.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "93ae72cf71d4a3a8d5860a5f42c31131d639257a88796e769d6a008a081b10b0",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "build",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "docutils (>=0.15)",
+      "build",
+      "importlib-metadata (>=4) ; python_version < \"3.10\"",
+      "sphinx (>=3.5) ; extra == 'docs'",
+      "jaraco.packaging (>=9.3) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=2.2) ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "types-docutils ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  }
+}

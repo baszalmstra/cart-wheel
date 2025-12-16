@@ -1,0 +1,11 @@
+# Package configuration for pydynamodb
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydynamodb-0.8.0-py3-none-any.whl" },
+  { filename = "pydynamodb-0.7.6-py3-none-any.whl" },
+  { filename = "pydynamodb-0.7.5-py3-none-any.whl" },
+  { filename = "pydynamodb-0.7.4-py3-none-any.whl" },
+  { filename = "pydynamodb-0.7.3-py3-none-any.whl" },
+]

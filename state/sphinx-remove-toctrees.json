@@ -1,0 +1,62 @@
+{
+  "sphinx_remove_toctrees-1.0.0.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22a96579d7899cc034de194195916717a54a122cc101f16ec79c996fe0baa2be",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=5",
+      "pre-commit>=2.12; extra == 'code-style'",
+      "ipython; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "sphinx-book-theme; extra == 'docs'",
+      "ipython; extra == 'tests'",
+      "myst-parser; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "sphinx-book-theme; extra == 'tests'"
+    ]
+  },
+  "sphinx_remove_toctrees-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1077ebc00652f8a896ce27404d31cb5bdde9eeaefc80ada72d95a7a0a7b99a9d",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=1.8)",
+      "pre-commit (==2.12.1) ; extra == 'code_style'",
+      "ipython ; extra == 'docs'",
+      "sphinx-book-theme ; extra == 'docs'",
+      "myst-parser ; extra == 'docs'",
+      "ipython ; extra == 'tests'",
+      "sphinx-book-theme ; extra == 'tests'",
+      "myst-parser ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "sphinx_remove_toctrees-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f17f3e9a37e39c87fff97090f2e2c4c04a2c39ced657b0b6a3316b5f72a3efef",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=1.8)",
+      "pre-commit (==2.12.1) ; extra == 'code_style'",
+      "ipython ; extra == 'docs'",
+      "sphinx-book-theme ; extra == 'docs'",
+      "myst-parser ; extra == 'docs'",
+      "ipython ; extra == 'tests'",
+      "sphinx-book-theme ; extra == 'tests'",
+      "myst-parser ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  }
+}

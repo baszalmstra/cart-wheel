@@ -1,0 +1,12 @@
+# Package configuration for imgaug
+conda_forge = "imgaug"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "imgaug-0.4.0-py2.py3-none-any.whl" },
+  { filename = "imgaug-0.3.0-py2.py3-none-any.whl" },
+  { filename = "imgaug-0.2.9-py2.py3-none-any.whl" },
+  { filename = "imgaug-0.2.8-py2.py3-none-any.whl" },
+  { filename = "imgaug-0.2.7-py3-none-any.whl" },
+]

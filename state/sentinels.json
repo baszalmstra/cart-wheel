@@ -1,0 +1,24 @@
+{
+  "sentinels-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "835d3b28f3b47f5284afa4bf2db6e00f2dc5f80f9923d4b7e7aeeeccf6146a11",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pylint; extra == 'testing'",
+      "pytest; extra == 'testing'"
+    ]
+  },
+  "sentinels-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e61ec5a1f6203e6a877af8c78821736dcd8be0358e858b2bb48e722b191fbb6",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pylint; extra == 'testing'",
+      "pytest; extra == 'testing'"
+    ]
+  }
+}

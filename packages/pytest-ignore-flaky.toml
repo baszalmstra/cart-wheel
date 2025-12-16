@@ -1,0 +1,12 @@
+# Package configuration for pytest-ignore-flaky
+conda_forge = "pytest-ignore-flaky"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_ignore_flaky-2.2.1-py3-none-any.whl" },
+  { filename = "pytest_ignore_flaky-2.2.0-py3-none-any.whl" },
+  { filename = "pytest_ignore_flaky-2.1.0-py3-none-any.whl" },
+  { filename = "pytest_ignore_flaky-2.0.0-py3-none-any.whl" },
+  { filename = "pytest_ignore_flaky-1.0.0-py3-none-any.whl" },
+]

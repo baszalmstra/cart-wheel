@@ -1,0 +1,112 @@
+{
+  "sagemaker_experiments-0.1.45-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0fd3eb683882e7dfa25d46da5849a920a2d8850895fd18e4ea790d4d00f8a99d",
+    "dependencies": {
+      "required": [
+        "boto3"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.16.27)",
+      "tox (==3.13.1) ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-coverage ; extra == 'test'",
+      "pytest-rerunfailures ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'",
+      "docker ; extra == 'test'",
+      "pandas ; extra == 'test'",
+      "scikit-learn ; extra == 'test'"
+    ]
+  },
+  "sagemaker_experiments-0.1.43-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c0aa32413c10e9ba765348feeddc3ede95cf5b1516a645b851f328f7e387930",
+    "dependencies": {
+      "required": [
+        "boto3"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.16.27)",
+      "tox (==3.13.1) ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-coverage ; extra == 'test'",
+      "pytest-rerunfailures ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'",
+      "docker ; extra == 'test'",
+      "pandas ; extra == 'test'",
+      "scikit-learn ; extra == 'test'"
+    ]
+  },
+  "sagemaker_experiments-0.1.42-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ab35cbe1ca463a88ce7d24711b18cc6b25281c1ee1647fa3e4b24cdcd094289e",
+    "dependencies": {
+      "required": [
+        "boto3"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.16.27)",
+      "tox (==3.13.1) ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "pytest (==4.4.1) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-coverage ; extra == 'test'",
+      "pytest-rerunfailures ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'",
+      "docker ; extra == 'test'",
+      "pandas ; extra == 'test'",
+      "scikit-learn ; extra == 'test'"
+    ]
+  },
+  "sagemaker_experiments-0.1.41-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37e3af45e3150490f05f1c9cc5a3f312c1ea11059883f8a1d468a56a65b41e73",
+    "dependencies": {
+      "required": [
+        "boto3"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.16.27)",
+      "tox (==3.13.1) ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "pytest (==4.4.1) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-coverage ; extra == 'test'",
+      "pytest-rerunfailures ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'",
+      "docker ; extra == 'test'",
+      "pandas ; extra == 'test'",
+      "sklearn ; extra == 'test'"
+    ]
+  },
+  "sagemaker_experiments-0.1.39-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c56e6d771f656b9f38147389cd92879fd91dd8f50eb43f41600b7270cdd53d35",
+    "dependencies": {
+      "required": [
+        "boto3"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.16.27)",
+      "tox (==3.13.1) ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "pytest (==4.4.1) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-coverage ; extra == 'test'",
+      "pytest-rerunfailures ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'",
+      "docker ; extra == 'test'",
+      "pandas ; extra == 'test'",
+      "sklearn ; extra == 'test'"
+    ]
+  }
+}

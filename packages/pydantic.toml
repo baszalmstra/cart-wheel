@@ -1,0 +1,12 @@
+# Package configuration for pydantic
+conda_forge = "pydantic"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydantic-2.12.5-py3-none-any.whl" },
+  { filename = "pydantic-2.12.4-py3-none-any.whl" },
+  { filename = "pydantic-2.12.3-py3-none-any.whl" },
+  { filename = "pydantic-2.12.2-py3-none-any.whl" },
+  { filename = "pydantic-2.12.0-py3-none-any.whl" },
+]

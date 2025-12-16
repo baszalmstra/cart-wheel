@@ -1,0 +1,12 @@
+# Package configuration for valkey
+conda_forge = "valkey-py"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "valkey-6.1.1-py3-none-any.whl" },
+  { filename = "valkey-6.1.0-py3-none-any.whl" },
+  { filename = "valkey-6.0.2-py3-none-any.whl" },
+  { filename = "valkey-6.0.1-py3-none-any.whl" },
+  { filename = "valkey-6.0.0-py3-none-any.whl" },
+]

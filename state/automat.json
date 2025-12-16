@@ -1,0 +1,78 @@
+{
+  "automat-25.4.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "04e9bce696a8d5671ee698005af6e5a9fa15354140a87f4870744604dcdd3ba1",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions; python_version < \"3.10\"",
+      "graphviz>0.5.1; extra == \"visualize\"",
+      "Twisted>=16.1.1; extra == \"visualize\""
+    ]
+  },
+  "Automat-24.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf029a7bc3da1e2c24da2343e7598affaa9f10bf0ab63ff808566ce90551e02a",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.10\"",
+      "graphviz>0.5.1; extra == \"visualize\"",
+      "Twisted>=16.1.1; extra == \"visualize\""
+    ]
+  },
+  "Automat-22.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c3164f8742b9dc440f3682482d32aaff7bb53f71740dd018533f9de286b64180",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=19.2.0)",
+      "six",
+      "graphviz (>0.5.1) ; extra == 'visualize'",
+      "Twisted (>=16.1.1) ; extra == 'visualize'"
+    ]
+  },
+  "Automat-20.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6feb6455337df834f6c9962d6ccf771515b7d939bca142b29c20c2376bc6111",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=19.2.0)",
+      "six",
+      "graphviz (>0.5.1); extra == 'visualize'",
+      "Twisted (>=16.1.1); extra == 'visualize'"
+    ]
+  },
+  "Automat-0.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81c93c55d2742c55e74e6497a48e048a859fa01d7aa0b91a032be432229837e2",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=16.1.0)",
+      "six",
+      "graphviz (>0.5.1) ; extra == 'visualize'",
+      "Twisted (>=16.1.1) ; extra == 'visualize'"
+    ]
+  }
+}

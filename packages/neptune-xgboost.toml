@@ -1,0 +1,11 @@
+# Package configuration for neptune-xgboost
+conda_forge = "neptune-xgboost"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neptune_xgboost-1.1.1-py3-none-any.whl" },
+  { filename = "neptune_xgboost-1.1.0-py3-none-any.whl" },
+  { filename = "neptune_xgboost-1.0.0-py3-none-any.whl" },
+  { filename = "neptune_xgboost-0.10.1-py3-none-any.whl" },
+]

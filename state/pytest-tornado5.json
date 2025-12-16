@@ -1,0 +1,30 @@
+{
+  "pytest_tornado5-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a61164e1f34603be446c17f778b1e6d53e3153c0e68f47e632fe6184357c2f45",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.6)",
+      "tornado (>=5)"
+    ]
+  },
+  "pytest_tornado5-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77a6fbd3f208f79eb262db7c1ceac2140bb7af1d6f39b4cabf978a9767928125",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "tornado (>=5)"
+    ]
+  }
+}

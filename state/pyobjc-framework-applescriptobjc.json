@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_applescriptobjc-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79068f982cc22471712ce808c0a8fd5deea11258fc8d8c61968a84b1962a3d10",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1"
+    ]
+  },
+  "pyobjc_framework_applescriptobjc-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b4926a29ea2cefea482ff28152dda0e05f2f8ec6d9f84d97a6d19bb872f824b",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0"
+    ]
+  },
+  "pyobjc_framework_applescriptobjc-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac22526fd1f0a3b07ac1d77f90046b77f10ec9549182114f2428ee1e96d3de2b",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1"
+    ]
+  },
+  "pyobjc_framework_AppleScriptObjC-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a4c8d417fdb64180a283eadf8ddb804ba7f9e3cef149216a11b65e1d3509c55b",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0"
+    ]
+  },
+  "pyobjc_framework_AppleScriptObjC-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a932ffdcf6a5b5ac884666bb0ae2a8075528f489b0b5aa4336fc22e6f011664e",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "vaex_server-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11e46056817fc30aaa4a033c24b28066e51707bfa23fe8eca8fe61aca58b83d6",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "tornado",
+        "cachetools",
+        "fastapi",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<5,>=4.7.0)",
+      "tornado (>4.1)",
+      "cachetools",
+      "fastapi",
+      "uvicorn[standard]"
+    ]
+  },
+  "vaex_server-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c3a3bb954880389452d5ad0038813b3608d2cb182e055ef9cd39d9a8de32b19",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "tornado",
+        "cachetools",
+        "fastapi",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<5,>=4.7.0)",
+      "tornado (>4.1)",
+      "cachetools",
+      "fastapi",
+      "uvicorn[standard]"
+    ]
+  },
+  "vaex_server-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43aabf2158b523fc07102f9df2e63de9985e58451fc601056acf8b54b9eed8fa",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "tornado",
+        "cachetools",
+        "fastapi",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<5,>=4.7.0)",
+      "tornado (>4.1)",
+      "cachetools",
+      "fastapi",
+      "uvicorn[standard]"
+    ]
+  },
+  "vaex_server-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72604e4c8776b7853a462751853628db727c874f760ab8214c3be9f59473c1cb",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "tornado",
+        "cachetools",
+        "fastapi",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<5,>=4.6.0)",
+      "tornado (>4.1)",
+      "cachetools",
+      "fastapi",
+      "uvicorn[standard]"
+    ]
+  },
+  "vaex_server-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a97e6edf2a013fb5a93ba03a84dacba8af644d9ff3d3aab81d0a23d078a47fd3",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "tornado",
+        "cachetools",
+        "fastapi",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<5,>=4.0.0)",
+      "tornado (>4.1)",
+      "cachetools",
+      "fastapi",
+      "uvicorn[standard]"
+    ]
+  }
+}

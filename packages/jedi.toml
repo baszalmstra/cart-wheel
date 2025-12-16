@@ -1,0 +1,12 @@
+# Package configuration for jedi
+conda_forge = "jedi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jedi-0.19.2-py2.py3-none-any.whl" },
+  { filename = "jedi-0.19.1-py2.py3-none-any.whl" },
+  { filename = "jedi-0.19.0-py2.py3-none-any.whl" },
+  { filename = "jedi-0.18.2-py2.py3-none-any.whl" },
+  { filename = "jedi-0.18.1-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for decopatch
+conda_forge = "decopatch"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "decopatch-1.4.10-py2.py3-none-any.whl" },
+  { filename = "decopatch-1.4.9-py2.py3-none-any.whl" },
+  { filename = "decopatch-1.4.8-py2.py3-none-any.whl" },
+  { filename = "decopatch-1.4.7-py3-none-any.whl" },
+  { filename = "decopatch-1.4.6-py3-none-any.whl" },
+]

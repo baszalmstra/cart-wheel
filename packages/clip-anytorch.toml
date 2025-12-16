@@ -1,0 +1,11 @@
+# Package configuration for clip-anytorch
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "clip_anytorch-2.6.0-py3-none-any.whl" },
+  { filename = "clip_anytorch-2.5.2-py3-none-any.whl" },
+  { filename = "clip_anytorch-2.5.1-py3-none-any.whl" },
+  { filename = "clip_anytorch-2.5.0-py3-none-any.whl" },
+  { filename = "clip_anytorch-2.4.0-py3-none-any.whl" },
+]

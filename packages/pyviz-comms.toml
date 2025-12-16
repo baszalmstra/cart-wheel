@@ -1,0 +1,12 @@
+# Package configuration for pyviz-comms
+conda_forge = "pyviz_comms"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyviz_comms-3.0.6-py3-none-any.whl" },
+  { filename = "pyviz_comms-3.0.5-py3-none-any.whl" },
+  { filename = "pyviz_comms-3.0.4-py3-none-any.whl" },
+  { filename = "pyviz_comms-3.0.3-py3-none-any.whl" },
+  { filename = "pyviz_comms-3.0.2-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for holidays
+conda_forge = "holidays"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "holidays-0.86-py3-none-any.whl" },
+  { filename = "holidays-0.85-py3-none-any.whl" },
+  { filename = "holidays-0.84-py3-none-any.whl" },
+  { filename = "holidays-0.83-py3-none-any.whl" },
+  { filename = "holidays-0.82-py3-none-any.whl" },
+]

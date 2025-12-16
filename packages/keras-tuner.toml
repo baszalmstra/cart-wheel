@@ -1,0 +1,12 @@
+# Package configuration for keras-tuner
+conda_forge = "keras-tuner"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "keras_tuner-1.4.8-py3-none-any.whl" },
+  { filename = "keras_tuner-1.4.7-py3-none-any.whl" },
+  { filename = "keras_tuner-1.4.6-py3-none-any.whl" },
+  { filename = "keras_tuner-1.4.5-py3-none-any.whl" },
+  { filename = "keras_tuner-1.4.4-py3-none-any.whl" },
+]

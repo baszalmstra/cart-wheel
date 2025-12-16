@@ -1,0 +1,167 @@
+{
+  "vcrpy-8.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc4fb6e954c6d082ba6d329c6f3d1228f5b1b1d2836f9022c301b587cfad7378",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "wrapt",
+      "aiohttp; extra == \"tests\"",
+      "boto3; extra == \"tests\"",
+      "cryptography; extra == \"tests\"",
+      "httpbin; extra == \"tests\"",
+      "httpcore; extra == \"tests\"",
+      "httplib2; extra == \"tests\"",
+      "httpx; extra == \"tests\"",
+      "pycurl; platform_python_implementation != \"PyPy\" and extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-aiohttp; extra == \"tests\"",
+      "pytest-asyncio; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-httpbin; extra == \"tests\"",
+      "requests>=2.22.0; extra == \"tests\"",
+      "tornado; extra == \"tests\"",
+      "urllib3; extra == \"tests\"",
+      "werkzeug==2.0.3; extra == \"tests\""
+    ]
+  },
+  "vcrpy-8.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e5aae652bb1e2703e9a32869ebf903ff823420f98f80974aa99ceb7a5fdbb17",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "wrapt",
+      "aiohttp; extra == \"tests\"",
+      "boto3; extra == \"tests\"",
+      "cryptography; extra == \"tests\"",
+      "httpbin; extra == \"tests\"",
+      "httpcore; extra == \"tests\"",
+      "httplib2; extra == \"tests\"",
+      "httpx; extra == \"tests\"",
+      "pycurl; platform_python_implementation != \"PyPy\" and extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-aiohttp; extra == \"tests\"",
+      "pytest-asyncio; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-httpbin; extra == \"tests\"",
+      "requests>=2.22.0; extra == \"tests\"",
+      "tornado; extra == \"tests\"",
+      "urllib3; extra == \"tests\"",
+      "werkzeug==2.0.3; extra == \"tests\""
+    ]
+  },
+  "vcrpy-7.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55791e26c18daa363435054d8b35bd41a4ac441b6676167635d1b37a71dbe124",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "wrapt",
+        "yarl",
+        "urllib3",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "wrapt",
+      "yarl",
+      "urllib3<2; python_version < \"3.10\"",
+      "urllib3<2; platform_python_implementation == \"PyPy\"",
+      "urllib3; platform_python_implementation != \"PyPy\" and python_version >= \"3.10\"",
+      "aiohttp; extra == \"tests\"",
+      "boto3; extra == \"tests\"",
+      "httplib2; extra == \"tests\"",
+      "httpx; extra == \"tests\"",
+      "pytest-aiohttp; extra == \"tests\"",
+      "pytest-asyncio; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-httpbin; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "requests>=2.22.0; extra == \"tests\"",
+      "tornado; extra == \"tests\"",
+      "urllib3; extra == \"tests\"",
+      "Werkzeug==2.0.3; extra == \"tests\""
+    ]
+  },
+  "vcrpy-6.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40370223861181bc76a5e5d4b743a95058bb1ad516c3c08570316ab592f56cad",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "wrapt",
+        "yarl",
+        "urllib3",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "wrapt",
+      "yarl",
+      "urllib3 ; platform_python_implementation != \"PyPy\" and python_version >= \"3.10\"",
+      "urllib3 <2 ; platform_python_implementation == \"PyPy\"",
+      "urllib3 <2 ; python_version < \"3.10\"",
+      "aiohttp ; extra == 'tests'",
+      "boto3 ; extra == 'tests'",
+      "httplib2 ; extra == 'tests'",
+      "httpx ; extra == 'tests'",
+      "pytest-aiohttp ; extra == 'tests'",
+      "pytest-asyncio ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-httpbin ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "requests >=2.22.0 ; extra == 'tests'",
+      "tornado ; extra == 'tests'",
+      "urllib3 ; extra == 'tests'",
+      "Werkzeug ==2.0.3 ; extra == 'tests'"
+    ]
+  },
+  "vcrpy-6.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "621c3fb2d6bd8aa9f87532c688e4575bcbbde0c0afeb5ebdb7e14cac409edfdd",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "wrapt",
+        "yarl",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "wrapt",
+      "yarl",
+      "urllib3 <2 ; platform_python_implementation == \"PyPy\"",
+      "urllib3 <2 ; python_version < \"3.10\"",
+      "aiohttp ; extra == 'tests'",
+      "boto3 ; extra == 'tests'",
+      "httplib2 ; extra == 'tests'",
+      "httpx ; extra == 'tests'",
+      "pytest-aiohttp ; extra == 'tests'",
+      "pytest-asyncio ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-httpbin ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "requests >=2.22.0 ; extra == 'tests'",
+      "tornado ; extra == 'tests'",
+      "urllib3 ; extra == 'tests'",
+      "Werkzeug ==2.0.3 ; extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "phonemizer_fork-3.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "97305c76f4183b3825dae8f4c032265fe78c9946ce58c47d4b62161349264b74",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "dlinfo",
+        "joblib",
+        "segments",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=18.1",
+      "dlinfo",
+      "joblib",
+      "segments",
+      "typing-extensions",
+      "sphinx; extra == 'doc'",
+      "sphinx-rtd-theme; extra == 'doc'",
+      "coverage[toml]; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest>=6.0; extra == 'test'"
+    ]
+  },
+  "phonemizer_fork-3.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "452e4b3f4fe4724a4c46c55eb6926c2b0a7abefd72a893549de139f80874162c",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "dlinfo",
+        "joblib",
+        "segments",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=18.1",
+      "dlinfo",
+      "joblib",
+      "segments",
+      "typing-extensions",
+      "sphinx; extra == 'doc'",
+      "sphinx-rtd-theme; extra == 'doc'",
+      "coverage[toml]; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest>=6.0; extra == 'test'"
+    ]
+  },
+  "phonemizer_fork-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6629e43285798db70826fc3a9d14c923c2149ad7d8517ef90df17da3d490b8c4",
+    "dependencies": {
+      "required": [
+        "joblib",
+        "segments",
+        "attrs",
+        "dlinfo",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "joblib",
+      "segments",
+      "attrs>=18.1",
+      "dlinfo",
+      "typing-extensions",
+      "pytest>=6.0; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "coverage[toml]; extra == \"test\"",
+      "sphinx; extra == \"doc\"",
+      "sphinx_rtd_theme; extra == \"doc\""
+    ]
+  }
+}

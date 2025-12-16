@@ -1,0 +1,16 @@
+{
+  "verspec-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "741877d5633cc9464c45a469ae2a31e801e6dbbaa85b9675d481cda100f11c31",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "coverage ; extra == 'test'",
+      "flake8 (>=3.7) ; extra == 'test'",
+      "mypy ; extra == 'test'",
+      "pretend ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

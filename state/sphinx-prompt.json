@@ -1,0 +1,118 @@
+{
+  "sphinx_prompt-1.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6594337962c4b1498602e6984634bed4a0dc7955852e3cfc255eb0af766ed859",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "certifi",
+        "docutils",
+        "idna",
+        "jinja2",
+        "pygments",
+        "requests",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx",
+      "certifi",
+      "docutils",
+      "idna",
+      "jinja2",
+      "pygments",
+      "requests (>=2.32.4)",
+      "urllib3"
+    ]
+  },
+  "sphinx_prompt-1.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6cd34abbeedc14446bba76036b1821da142052f7043c5a8a3d6b84565ee54900",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "certifi",
+        "docutils",
+        "idna",
+        "jinja2",
+        "pygments",
+        "requests",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx",
+      "certifi",
+      "docutils",
+      "idna",
+      "jinja2",
+      "pygments",
+      "requests (==2.32.4)",
+      "urllib3"
+    ]
+  },
+  "sphinx_prompt-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d62f7a1aa346225d30222a271dc78997031204a5f199ce5006c14ece0d94b217",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "certifi",
+        "docutils",
+        "idna",
+        "jinja2",
+        "pygments",
+        "requests",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx",
+      "certifi",
+      "docutils",
+      "idna",
+      "jinja2",
+      "pygments",
+      "requests (==2.32.4)",
+      "urllib3"
+    ]
+  },
+  "sphinx_prompt-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd731446c03f043d1ff6df9f22414495b23067c67011cc21658ea8d36b3575fc",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "certifi",
+        "docutils",
+        "idna",
+        "pygments",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=8.0.0,<9.0.0)",
+      "certifi",
+      "docutils",
+      "idna",
+      "pygments",
+      "urllib3"
+    ]
+  },
+  "sphinx_prompt-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "369ecc633f0711886f9b3a078c83264245be1adf46abeeb9b88b5519e4b51007",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "docutils",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=7.0.0,<8.0.0)",
+      "docutils",
+      "pygments"
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pyobjc_framework_sensitivecontentanalysis-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "faf19d32d4599ac2b18fb1ccdc3e33b2b242bdf34c02e69978bd62d3643ad068",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-quartz"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1",
+      "pyobjc-framework-Quartz>=12.1"
+    ]
+  },
+  "pyobjc_framework_sensitivecontentanalysis-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fca905676790e76a2697c93fb798479aee3be5a57144ac681fa0e5cdc33e7d3a",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-quartz"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0",
+      "pyobjc-framework-Quartz>=12.0"
+    ]
+  },
+  "pyobjc_framework_sensitivecontentanalysis-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dbb78f5917f986a63878bb91263bceba28bd86fc381bad9461cf391646db369f",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-quartz"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1",
+      "pyobjc-framework-Quartz>=11.1"
+    ]
+  },
+  "pyobjc_framework_SensitiveContentAnalysis-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e19d2edc807f98aef31fa4db5472a509cf90523436c971d1095a000b0e357058",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-quartz"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0",
+      "pyobjc-framework-Quartz >=11.0"
+    ]
+  },
+  "pyobjc_framework_SensitiveContentAnalysis-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c31183ca67bda6c5b1982b094d2aea35deac13260d586238cebe26db5d755fa",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-quartz"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2",
+      "pyobjc-framework-Quartz>=10.3.2"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tf_keras-2.20.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f0e0a34d9a4c8758f24fdc1053e6e335f16ab5534c7d34f1899b8924779760c",
+    "dependencies": {
+      "required": [
+        "tensorflow"
+      ]
+    },
+    "original_requirements": [
+      "tensorflow<2.21,>=2.20"
+    ]
+  },
+  "tf_keras-2.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f339e800987b39d1548a8c76a7b33b6801a97ec7fcd89c299ec29741f7890bd",
+    "dependencies": {
+      "required": [
+        "tensorflow"
+      ]
+    },
+    "original_requirements": [
+      "tensorflow<2.20,>=2.19"
+    ]
+  },
+  "tf_keras-2.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c431d04027eef790fcd3261cf7fdf93eb74f3cb32e05078b57b7f5a54bd53262",
+    "dependencies": {
+      "required": [
+        "tensorflow"
+      ]
+    },
+    "original_requirements": [
+      "tensorflow <2.19,>=2.18"
+    ]
+  },
+  "tf_keras-2.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc97717e4dc08487f327b0740a984043a9e0123c7a4e21206711669d3ec41c88",
+    "dependencies": {
+      "required": [
+        "tensorflow"
+      ]
+    },
+    "original_requirements": [
+      "tensorflow <2.18,>=2.17"
+    ]
+  },
+  "tf_keras-2.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b2ad0541fa7d9e92c4b7a1b96593377afb58aaff374299a6ca6be1a42f51d899",
+    "dependencies": {
+      "required": [
+        "tensorflow"
+      ]
+    },
+    "original_requirements": [
+      "tensorflow <2.17,>=2.16"
+    ]
+  }
+}

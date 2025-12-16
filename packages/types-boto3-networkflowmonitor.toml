@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-networkflowmonitor
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_networkflowmonitor-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_networkflowmonitor-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_networkflowmonitor-1.40.54-py3-none-any.whl" },
+  { filename = "types_boto3_networkflowmonitor-1.40.28-py3-none-any.whl" },
+  { filename = "types_boto3_networkflowmonitor-1.40.0-py3-none-any.whl" },
+]

@@ -1,0 +1,126 @@
+{
+  "mujoco_mjx-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b64e0e33e367027e912893701cce905efd1397e2234bca171c73990b9f088171",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "etils",
+        "jax",
+        "jaxlib",
+        "mujoco",
+        "scipy",
+        "trimesh"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "etils[epath]",
+      "jax",
+      "jaxlib",
+      "mujoco>=3.4.0.dev0",
+      "scipy",
+      "trimesh",
+      "warp-lang==1.10.0; extra == \"warp\""
+    ]
+  },
+  "mujoco_mjx-3.3.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e56a7e979f4c23edabd7a422f9927968b5b7ef6382a07face9bdfc42006e8bb8",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "etils",
+        "jax",
+        "jaxlib",
+        "mujoco",
+        "scipy",
+        "trimesh"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "etils[epath]",
+      "jax",
+      "jaxlib",
+      "mujoco>=3.3.7.dev0",
+      "scipy",
+      "trimesh",
+      "warp-lang==1.9.1; extra == \"warp\""
+    ]
+  },
+  "mujoco_mjx-3.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6054bea9ae0daf61c559199f20310304277eba63c46f70c1a7d135900dfa29d5",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "etils",
+        "jax",
+        "jaxlib",
+        "mujoco",
+        "scipy",
+        "trimesh"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "etils[epath]",
+      "jax",
+      "jaxlib",
+      "mujoco>=3.3.6.dev0",
+      "scipy",
+      "trimesh",
+      "warp-lang==1.8.1; extra == \"warp\""
+    ]
+  },
+  "mujoco_mjx-3.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "207e7144f26dd5a9c4657e5aa055f5e103d074bf2aaac9c8aba26e50426d2522",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "etils",
+        "jax",
+        "jaxlib",
+        "mujoco",
+        "scipy",
+        "trimesh"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "etils[epath]",
+      "jax",
+      "jaxlib",
+      "mujoco>=3.3.5.dev0",
+      "scipy",
+      "trimesh",
+      "warp-lang==1.8.1; extra == \"warp\""
+    ]
+  },
+  "mujoco_mjx-3.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0012f4bbf5c16a1d4fcb17208ab62c2079846925997c45e9c47c490ee7f0fd45",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "etils",
+        "jax",
+        "jaxlib",
+        "mujoco",
+        "scipy",
+        "trimesh"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "etils[epath]",
+      "jax",
+      "jaxlib",
+      "mujoco>=3.3.4.dev0",
+      "scipy",
+      "trimesh"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-run
+conda_forge = "google-cloud-run"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_run-0.13.0-py3-none-any.whl" },
+  { filename = "google_cloud_run-0.12.0-py3-none-any.whl" },
+  { filename = "google_cloud_run-0.11.0-py3-none-any.whl" },
+  { filename = "google_cloud_run-0.10.19-py3-none-any.whl" },
+  { filename = "google_cloud_run-0.10.18-py3-none-any.whl" },
+]

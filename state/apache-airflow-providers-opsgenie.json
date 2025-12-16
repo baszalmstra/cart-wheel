@@ -1,0 +1,82 @@
+{
+  "apache_airflow_providers_opsgenie-5.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ebb2e4291ddc3dfb4b3b032121ad6b0424f8d9d3427a98d24cfabc89786ecd1e",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "opsgenie-sdk"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "opsgenie-sdk>=2.1.5"
+    ]
+  },
+  "apache_airflow_providers_opsgenie-5.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34a087a01d3be783379294c09a3351217e68c6abfb5eb230681d882bcb69579a",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "opsgenie-sdk"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "opsgenie-sdk>=2.1.5"
+    ]
+  },
+  "apache_airflow_providers_opsgenie-5.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ee83963c4a9bb9efae2428398309b416ea75f8d764c94ec60c2a2aa2772027e0",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "opsgenie-sdk"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "opsgenie-sdk>=2.1.5"
+    ]
+  },
+  "apache_airflow_providers_opsgenie-5.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "421d2a6371fef7fa14833d08141d5102850a807a6a9f25ebc061a52d473a3497",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "opsgenie-sdk"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "opsgenie-sdk>=2.1.5"
+    ]
+  },
+  "apache_airflow_providers_opsgenie-5.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "76f16913c80c1bf2a20ef1149ca04695cab1fb257216b6992bede3355e290150",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "opsgenie-sdk"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "opsgenie-sdk>=2.1.5"
+    ]
+  }
+}

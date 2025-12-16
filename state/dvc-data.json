@@ -1,0 +1,215 @@
+{
+  "dvc_data-3.16.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39c183caecd142cf44bc16186c8e5ef3bb4d739111e41f80682c999db30b8cee",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "dictdiffer",
+        "diskcache",
+        "dvc-objects",
+        "fsspec",
+        "funcy",
+        "pygtrie",
+        "sqltrie",
+        "tqdm",
+        "orjson"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "dictdiffer>=0.8.1",
+      "diskcache>=5.2.1",
+      "dvc-objects<6,>=4.0.1",
+      "fsspec>=2024.2.0",
+      "funcy>=1.14; python_version < \"3.12\"",
+      "pygtrie>=2.3.2",
+      "sqltrie<1,>=0.11.0",
+      "tqdm<5,>=4.63.1",
+      "orjson<4,>=3; implementation_name == \"cpython\"",
+      "typer-slim>=0.12; extra == \"cli\"",
+      "dvc-data[cli]; extra == \"all\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-sugar; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-benchmark>=4; extra == \"tests\"",
+      "pytest-servers==0.5.12; extra == \"tests\"",
+      "dvc-data[all]; extra == \"dev\"",
+      "dvc-data[tests]; extra == \"dev\"",
+      "mypy==1.17.1; extra == \"dev\"",
+      "types-tqdm; extra == \"dev\""
+    ]
+  },
+  "dvc_data-3.16.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28d175215ab4d7a9c243bb0e5d9cdd1e7ccd9dcda47ff86cc2ab7ac1e594ef5a",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "dictdiffer",
+        "diskcache",
+        "dvc-objects",
+        "fsspec",
+        "funcy",
+        "pygtrie",
+        "sqltrie",
+        "tqdm",
+        "orjson"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "dictdiffer>=0.8.1",
+      "diskcache>=5.2.1",
+      "dvc-objects<6,>=4.0.1",
+      "fsspec>=2024.2.0",
+      "funcy>=1.14; python_version < \"3.12\"",
+      "pygtrie>=2.3.2",
+      "sqltrie<1,>=0.11.0",
+      "tqdm<5,>=4.63.1",
+      "orjson<4,>=3; implementation_name == \"cpython\"",
+      "typer-slim>=0.12; extra == \"cli\"",
+      "dvc-data[cli]; extra == \"all\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-sugar; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-benchmark>=4; extra == \"tests\"",
+      "pytest-servers==0.5.11; extra == \"tests\"",
+      "dvc-data[all]; extra == \"dev\"",
+      "dvc-data[tests]; extra == \"dev\"",
+      "mypy==1.17.0; extra == \"dev\"",
+      "types-tqdm; extra == \"dev\""
+    ]
+  },
+  "dvc_data-3.16.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e036d286d11a9fb542ab3aa732ffe384e4ebd16836a2022ab0915970ac7f116",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "dictdiffer",
+        "diskcache",
+        "dvc-objects",
+        "fsspec",
+        "funcy",
+        "pygtrie",
+        "sqltrie",
+        "tqdm",
+        "orjson"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "dictdiffer>=0.8.1",
+      "diskcache>=5.2.1",
+      "dvc-objects<6,>=4.0.1",
+      "fsspec>=2024.2.0",
+      "funcy>=1.14; python_version < \"3.12\"",
+      "pygtrie>=2.3.2",
+      "sqltrie<1,>=0.11.0",
+      "tqdm<5,>=4.63.1",
+      "orjson<4,>=3; implementation_name == \"cpython\"",
+      "typer-slim>=0.12; extra == \"cli\"",
+      "dvc-data[cli]; extra == \"all\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-sugar; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-benchmark>=4; extra == \"tests\"",
+      "pytest-servers==0.5.10; extra == \"tests\"",
+      "dvc-data[all]; extra == \"dev\"",
+      "dvc-data[tests]; extra == \"dev\"",
+      "blake3>=0.3.1; extra == \"dev\"",
+      "mypy==1.15.0; extra == \"dev\"",
+      "types-tqdm; extra == \"dev\""
+    ]
+  },
+  "dvc_data-3.16.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "778781718a96dbec3b090289fe0400c00c7c31ed4cc6683edad9523665a0aa81",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "dictdiffer",
+        "diskcache",
+        "dvc-objects",
+        "fsspec",
+        "funcy",
+        "pygtrie",
+        "sqltrie",
+        "tqdm",
+        "orjson"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "dictdiffer>=0.8.1",
+      "diskcache>=5.2.1",
+      "dvc-objects<6,>=4.0.1",
+      "fsspec>=2024.2.0",
+      "funcy>=1.14; python_version < \"3.12\"",
+      "pygtrie>=2.3.2",
+      "sqltrie<1,>=0.11.0",
+      "tqdm<5,>=4.63.1",
+      "orjson<4,>=3; implementation_name == \"cpython\"",
+      "typer-slim>=0.12; extra == \"cli\"",
+      "dvc-data[cli]; extra == \"all\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-sugar; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-benchmark>=4; extra == \"tests\"",
+      "pytest-servers==0.5.9; extra == \"tests\"",
+      "dvc-data[all]; extra == \"dev\"",
+      "dvc-data[tests]; extra == \"dev\"",
+      "blake3>=0.3.1; extra == \"dev\"",
+      "mypy==1.14.1; extra == \"dev\"",
+      "types-tqdm; extra == \"dev\""
+    ]
+  },
+  "dvc_data-3.16.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2cbd9ac4d8bdee9aec1c8c4ba1d4616e8b93af855a0c31edb0b6e772581df11",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "dictdiffer",
+        "diskcache",
+        "dvc-objects",
+        "fsspec",
+        "funcy",
+        "pygtrie",
+        "sqltrie",
+        "tqdm",
+        "orjson"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "dictdiffer>=0.8.1",
+      "diskcache>=5.2.1",
+      "dvc-objects<6,>=4.0.1",
+      "fsspec>=2024.2.0",
+      "funcy>=1.14; python_version < \"3.12\"",
+      "pygtrie>=2.3.2",
+      "sqltrie<1,>=0.11.0",
+      "tqdm<5,>=4.63.1",
+      "orjson<4,>=3; implementation_name == \"cpython\"",
+      "typer-slim>=0.12; extra == \"cli\"",
+      "dvc-data[cli]; extra == \"all\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-sugar; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-benchmark>=4; extra == \"tests\"",
+      "pytest-servers==0.5.7; extra == \"tests\"",
+      "dvc-data[all]; extra == \"dev\"",
+      "dvc-data[tests]; extra == \"dev\"",
+      "blake3>=0.3.1; extra == \"dev\"",
+      "mypy==1.14.1; extra == \"dev\"",
+      "types-tqdm; extra == \"dev\""
+    ]
+  }
+}

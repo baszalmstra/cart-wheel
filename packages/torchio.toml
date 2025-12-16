@@ -1,0 +1,12 @@
+# Package configuration for torchio
+conda_forge = "torchio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torchio-0.21.0-py3-none-any.whl" },
+  { filename = "torchio-0.20.23-py3-none-any.whl" },
+  { filename = "torchio-0.20.22-py3-none-any.whl" },
+  { filename = "torchio-0.20.21-py3-none-any.whl" },
+  { filename = "torchio-0.20.20-py3-none-any.whl" },
+]

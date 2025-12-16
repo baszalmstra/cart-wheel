@@ -1,0 +1,12 @@
+# Package configuration for databricks-sql-connector
+conda_forge = "databricks-sql-connector"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "databricks_sql_connector-4.2.2-py3-none-any.whl" },
+  { filename = "databricks_sql_connector-4.2.1-py3-none-any.whl" },
+  { filename = "databricks_sql_connector-4.1.4-py3-none-any.whl" },
+  { filename = "databricks_sql_connector-4.1.3-py3-none-any.whl" },
+  { filename = "databricks_sql_connector-4.1.2-py3-none-any.whl" },
+]

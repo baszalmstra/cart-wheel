@@ -1,0 +1,126 @@
+{
+  "sphinx_tabs-3.4.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c12d7a36fd413b369e9e9967a0a4015781b71a9c393575419834f19204bd1915",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "pygments",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx >=1.8",
+      "pygments",
+      "docutils",
+      "pre-commit ==2.13.0 ; extra == 'code_style'",
+      "coverage ; extra == 'testing'",
+      "pytest <8,>=7.1 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "pygments ; extra == 'testing'",
+      "bs4 ; extra == 'testing'",
+      "rinohtype ; extra == 'testing'"
+    ]
+  },
+  "sphinx_tabs-3.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "92cc9473e2ecf1828ca3f6617d0efc0aa8acb06b08c56ba29d1413f2f0f6cf09",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "pygments",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "pygments",
+      "docutils",
+      "pre-commit ==2.13.0 ; extra == 'code_style'",
+      "coverage ; extra == 'testing'",
+      "pytest <8,>=7.1 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "pygments ; extra == 'testing'",
+      "bs4 ; extra == 'testing'",
+      "rinohtype ; extra == 'testing'"
+    ]
+  },
+  "sphinx_tabs-3.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85939b689a0b0a24bf0da418b9acf14b0b0fca7a7a5cd35461ee452a2d4e716b",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "pygments",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "pygments",
+      "docutils ~=0.18.0",
+      "pre-commit ==2.13.0 ; extra == 'code_style'",
+      "coverage ; extra == 'testing'",
+      "pytest <8,>=7.1 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "pygments ; extra == 'testing'",
+      "bs4 ; extra == 'testing'",
+      "rinohtype ; extra == 'testing'"
+    ]
+  },
+  "sphinx_tabs-3.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7cea8942aeccc5d01a995789c01804b787334b55927f29b36ba16ed1e7cb27c6",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "pygments",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "pygments",
+      "docutils (~=0.18.0)",
+      "pre-commit (==2.13.0) ; extra == 'code_style'",
+      "coverage ; extra == 'testing'",
+      "pytest (<8,>=7.1) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "pygments ; extra == 'testing'",
+      "sphinx-testing ; extra == 'testing'",
+      "bs4 ; extra == 'testing'",
+      "rinohtype ; extra == 'testing'"
+    ]
+  },
+  "sphinx_tabs-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31dbe7594b5ef4cfa76a7960448d4607dca167ff21467000213920572c302072",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "pygments",
+        "docutils",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (<6,>=2)",
+      "pygments",
+      "docutils (~=0.17.0)",
+      "jinja2 (<3.1.0)",
+      "pre-commit (==2.13.0) ; extra == 'code_style'",
+      "coverage ; extra == 'testing'",
+      "pytest (<8,>=7.1) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "pygments ; extra == 'testing'",
+      "sphinx-testing ; extra == 'testing'",
+      "bs4 ; extra == 'testing'",
+      "rinohtype ; extra == 'testing'"
+    ]
+  }
+}

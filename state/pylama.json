@@ -1,0 +1,193 @@
+{
+  "pylama-8.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5bbdbf5b620aba7206d688ed9fc917ecd3d73e15ec1a89647037a09fa3a86e60",
+    "dependencies": {
+      "required": [
+        "mccabe",
+        "pycodestyle",
+        "pydocstyle",
+        "pyflakes"
+      ]
+    },
+    "original_requirements": [
+      "mccabe (>=0.7.0)",
+      "pycodestyle (>=2.9.1)",
+      "pydocstyle (>=6.1.1)",
+      "pyflakes (>=2.5.0)",
+      "pylint ; extra == 'all'",
+      "eradicate ; extra == 'all'",
+      "radon ; extra == 'all'",
+      "mypy ; extra == 'all'",
+      "vulture ; extra == 'all'",
+      "eradicate ; extra == 'eradicate'",
+      "mypy ; extra == 'mypy'",
+      "pylint ; extra == 'pylint'",
+      "radon ; extra == 'radon'",
+      "pytest (>=7.1.2) ; extra == 'tests'",
+      "pytest-mypy ; extra == 'tests'",
+      "eradicate (>=2.0.0) ; extra == 'tests'",
+      "radon (>=5.1.0) ; extra == 'tests'",
+      "mypy ; extra == 'tests'",
+      "pylint (>=2.11.1) ; extra == 'tests'",
+      "pylama-quotes ; extra == 'tests'",
+      "toml ; extra == 'tests'",
+      "vulture ; extra == 'tests'",
+      "types-setuptools ; extra == 'tests'",
+      "types-toml ; extra == 'tests'",
+      "toml (>=0.10.2) ; extra == 'toml'",
+      "vulture ; extra == 'vulture'"
+    ]
+  },
+  "pylama-8.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9093ac85db1dcc94e33c0e316c3a97a863996909201bf537a3a39a912ee4990a",
+    "dependencies": {
+      "required": [
+        "mccabe",
+        "pycodestyle",
+        "pydocstyle",
+        "pyflakes"
+      ]
+    },
+    "original_requirements": [
+      "mccabe (>=0.7.0)",
+      "pycodestyle (>=2.9.1)",
+      "pydocstyle (>=6.1.1)",
+      "pyflakes (>=2.5.0)",
+      "pylint ; extra == 'all'",
+      "eradicate ; extra == 'all'",
+      "radon ; extra == 'all'",
+      "mypy ; extra == 'all'",
+      "vulture ; extra == 'all'",
+      "eradicate ; extra == 'eradicate'",
+      "mypy ; extra == 'mypy'",
+      "pylint ; extra == 'pylint'",
+      "radon ; extra == 'radon'",
+      "pytest (>=7.1.2) ; extra == 'tests'",
+      "pytest-mypy ; extra == 'tests'",
+      "eradicate (>=2.0.0) ; extra == 'tests'",
+      "radon (>=5.1.0) ; extra == 'tests'",
+      "mypy ; extra == 'tests'",
+      "pylint (>=2.11.1) ; extra == 'tests'",
+      "pylama-quotes ; extra == 'tests'",
+      "toml ; extra == 'tests'",
+      "vulture ; extra == 'tests'",
+      "types-setuptools ; extra == 'tests'",
+      "types-toml ; extra == 'tests'",
+      "toml (>=0.10.2) ; extra == 'toml'",
+      "vulture ; extra == 'vulture'"
+    ]
+  },
+  "pylama-8.3.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aff89423f7de118713f638c7f937fa83a5873e3bdf06d413661d9cb8dc5f3a7b",
+    "dependencies": {
+      "required": [
+        "mccabe",
+        "pycodestyle",
+        "pydocstyle",
+        "pyflakes"
+      ]
+    },
+    "original_requirements": [
+      "mccabe (>=0.6.1)",
+      "pycodestyle (>=2.8.0)",
+      "pydocstyle (>=6.1.1)",
+      "pyflakes (>=2.4.0)",
+      "pylint ; extra == 'all'",
+      "eradicate ; extra == 'all'",
+      "radon ; extra == 'all'",
+      "mypy ; extra == 'all'",
+      "vulture ; extra == 'all'",
+      "eradicate ; extra == 'eradicate'",
+      "mypy ; extra == 'mypy'",
+      "pylint ; extra == 'pylint'",
+      "radon ; extra == 'radon'",
+      "pytest ; extra == 'tests'",
+      "pytest-mypy ; extra == 'tests'",
+      "eradicate (>=2.0.0) ; extra == 'tests'",
+      "radon (>=5.1.0) ; extra == 'tests'",
+      "mypy ; extra == 'tests'",
+      "pylint (>=2.11.1) ; extra == 'tests'",
+      "pylama-quotes ; extra == 'tests'",
+      "vulture ; extra == 'tests'",
+      "types-setuptools ; extra == 'tests'",
+      "vulture ; extra == 'vulture'"
+    ]
+  },
+  "pylama-8.3.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca47a1d341ede3aafbe117dc69f9e573cd1b749b2bacf5ac99d8daf6657001ec",
+    "dependencies": {
+      "required": [
+        "mccabe",
+        "pycodestyle",
+        "pydocstyle",
+        "pyflakes"
+      ]
+    },
+    "original_requirements": [
+      "mccabe (>=0.6.1)",
+      "pycodestyle (>=2.8.0)",
+      "pydocstyle (>=6.1.1)",
+      "pyflakes (>=2.4.0)",
+      "pylint ; extra == 'all'",
+      "eradicate ; extra == 'all'",
+      "radon ; extra == 'all'",
+      "mypy ; extra == 'all'",
+      "vulture ; extra == 'all'",
+      "eradicate ; extra == 'eradicate'",
+      "mypy ; extra == 'mypy'",
+      "pylint ; extra == 'pylint'",
+      "radon ; extra == 'radon'",
+      "pytest ; extra == 'tests'",
+      "pytest-mypy ; extra == 'tests'",
+      "eradicate (>=2.0.0) ; extra == 'tests'",
+      "radon (>=5.1.0) ; extra == 'tests'",
+      "mypy ; extra == 'tests'",
+      "pylint (>=2.11.1) ; extra == 'tests'",
+      "pylama-quotes ; extra == 'tests'",
+      "vulture ; extra == 'tests'",
+      "types-setuptools ; extra == 'tests'",
+      "vulture ; extra == 'vulture'"
+    ]
+  },
+  "pylama-8.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e1f533d345e1a353ecb06bfde8eddee1601396f77e0896ad5068a03c2b1524a",
+    "dependencies": {
+      "required": [
+        "mccabe",
+        "pycodestyle",
+        "pydocstyle",
+        "pyflakes"
+      ]
+    },
+    "original_requirements": [
+      "mccabe (>=0.6.1)",
+      "pycodestyle (>=2.8.0)",
+      "pydocstyle (>=6.1.1)",
+      "pyflakes (>=2.4.0)",
+      "pylint ; extra == 'all'",
+      "eradicate ; extra == 'all'",
+      "radon ; extra == 'all'",
+      "mypy ; extra == 'all'",
+      "vulture ; extra == 'all'",
+      "eradicate ; extra == 'eradicate'",
+      "mypy ; extra == 'mypy'",
+      "pylint ; extra == 'pylint'",
+      "radon ; extra == 'radon'",
+      "pytest ; extra == 'tests'",
+      "pytest-mypy ; extra == 'tests'",
+      "eradicate (>=2.0.0) ; extra == 'tests'",
+      "radon (>=5.1.0) ; extra == 'tests'",
+      "mypy ; extra == 'tests'",
+      "pylint (>=2.11.1) ; extra == 'tests'",
+      "pylama-quotes ; extra == 'tests'",
+      "vulture ; extra == 'tests'",
+      "types-setuptools ; extra == 'tests'",
+      "vulture ; extra == 'vulture'"
+    ]
+  }
+}

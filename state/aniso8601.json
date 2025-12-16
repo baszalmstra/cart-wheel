@@ -1,0 +1,101 @@
+{
+  "aniso8601-10.0.1-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:43.564616+00:00",
+    "conda_file": "aniso8601-10.0.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "dev": [
+          "black",
+          "coverage",
+          "isort",
+          "pre-commit",
+          "pyenchant",
+          "pylint"
+        ]
+      }
+    },
+    "original_requirements": [
+      "black; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pyenchant; extra == \"dev\"",
+      "pylint; extra == \"dev\""
+    ]
+  },
+  "aniso8601-10.0.0-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:43.603445+00:00",
+    "conda_file": "aniso8601-10.0.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "dev": [
+          "black",
+          "coverage",
+          "isort",
+          "pre-commit",
+          "pyenchant",
+          "pylint"
+        ]
+      }
+    },
+    "original_requirements": [
+      "black; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pyenchant; extra == \"dev\"",
+      "pylint; extra == \"dev\""
+    ]
+  },
+  "aniso8601-9.0.1-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:43.638309+00:00",
+    "conda_file": "aniso8601-9.0.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "dev": [
+          "black",
+          "coverage",
+          "isort",
+          "pre-commit",
+          "pyenchant",
+          "pylint"
+        ]
+      }
+    },
+    "original_requirements": [
+      "black ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pyenchant ; extra == 'dev'",
+      "pylint ; extra == 'dev'"
+    ]
+  },
+  "aniso8601-9.0.0-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:43.698345+00:00",
+    "conda_file": "aniso8601-9.0.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "aniso8601-8.1.1-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:43.530273+00:00",
+    "conda_file": "aniso8601-8.1.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

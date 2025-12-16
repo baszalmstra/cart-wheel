@@ -1,0 +1,12 @@
+# Package configuration for pytest-httpserver
+conda_forge = "pytest-httpserver"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_httpserver-1.1.3-py3-none-any.whl" },
+  { filename = "pytest_httpserver-1.1.2-py3-none-any.whl" },
+  { filename = "pytest_httpserver-1.1.1-py3-none-any.whl" },
+  { filename = "pytest_httpserver-1.1.0-py3-none-any.whl" },
+  { filename = "pytest_httpserver-1.0.12-py3-none-any.whl" },
+]

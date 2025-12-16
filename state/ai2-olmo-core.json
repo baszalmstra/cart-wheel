@@ -1,0 +1,534 @@
+{
+  "ai2_olmo_core-2.4.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:04.210377+00:00",
+    "conda_file": "ai2-olmo-core-2.4.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "cached-path",
+        "requests",
+        "packaging",
+        "rich",
+        "omegaconf",
+        "safetensors",
+        "importlib-resources",
+        "bettermap"
+      ],
+      "optional": {
+        "dev": [
+          "black",
+          "boto3",
+          "build",
+          "furo",
+          "google-cloud-storage",
+          "isort",
+          "mypy",
+          "myst-parser",
+          "pytest",
+          "pytest-memray",
+          "pytest-sphinx",
+          "pytest-xdist",
+          "ruff",
+          "setuptools",
+          "sphinx",
+          "sphinx-autobuild",
+          "sphinx-autodoc-typehints",
+          "sphinx-copybutton",
+          "sphinx-inline-tabs",
+          "twine",
+          "wheel"
+        ],
+        "beaker": [
+          "beaker-py",
+          "gitpython",
+          "google-cloud-compute"
+        ],
+        "comet": [
+          "comet-ml"
+        ],
+        "eval": [
+          "ai2-olmo-eval"
+        ],
+        "torchao": [
+          "torchao"
+        ],
+        "transformers": [
+          "transformers"
+        ],
+        "wandb": [
+          "wandb"
+        ],
+        "all": [
+          "ai2-olmo-core[extras=[beaker,comet,dev,eval,torchao,transformers,wandb]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy",
+      "torch>=2.6.0",
+      "cached-path>=1.7.2",
+      "requests",
+      "packaging",
+      "rich",
+      "omegaconf",
+      "safetensors",
+      "importlib_resources",
+      "bettermap",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "boto3; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "furo==2024.8.6; extra == \"dev\"",
+      "google-cloud-storage; extra == \"dev\"",
+      "isort<5.14,>=5.12; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "myst-parser<3.0,>=1.0; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-memray; extra == \"dev\"",
+      "pytest-sphinx; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "Sphinx<=8.1.3,>=6.0; extra == \"dev\"",
+      "sphinx-autobuild; extra == \"dev\"",
+      "sphinx-autodoc-typehints==1.23.3; extra == \"dev\"",
+      "sphinx-copybutton; extra == \"dev\"",
+      "sphinx-inline-tabs; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "beaker-py<2.0,>=1.37.0; extra == \"beaker\"",
+      "GitPython<4.0,>=3.0; extra == \"beaker\"",
+      "google-cloud-compute; extra == \"beaker\"",
+      "comet_ml; extra == \"comet\"",
+      "ai2-olmo-eval==0.8.5; extra == \"eval\"",
+      "torchao; extra == \"torchao\"",
+      "transformers; extra == \"transformers\"",
+      "wandb; extra == \"wandb\"",
+      "ai2-olmo-core[beaker,comet,dev,eval,torchao,transformers,wandb]; extra == \"all\""
+    ]
+  },
+  "ai2_olmo_core-2.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:01.395114+00:00",
+    "conda_file": "ai2-olmo-core-2.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "cached-path",
+        "requests",
+        "packaging",
+        "rich",
+        "omegaconf",
+        "safetensors",
+        "importlib-resources",
+        "bettermap"
+      ],
+      "optional": {
+        "dev": [
+          "black",
+          "boto3",
+          "build",
+          "furo",
+          "google-cloud-storage",
+          "isort",
+          "mypy",
+          "myst-parser",
+          "pytest",
+          "pytest-memray",
+          "pytest-sphinx",
+          "pytest-xdist",
+          "ruff",
+          "setuptools",
+          "sphinx",
+          "sphinx-autobuild",
+          "sphinx-autodoc-typehints",
+          "sphinx-copybutton",
+          "sphinx-inline-tabs",
+          "twine",
+          "wheel"
+        ],
+        "beaker": [
+          "beaker-py",
+          "gitpython",
+          "google-cloud-compute"
+        ],
+        "comet": [
+          "comet-ml"
+        ],
+        "eval": [
+          "ai2-olmo-eval"
+        ],
+        "torchao": [
+          "torchao"
+        ],
+        "transformers": [
+          "transformers"
+        ],
+        "wandb": [
+          "wandb"
+        ],
+        "all": [
+          "ai2-olmo-core[extras=[beaker,comet,dev,eval,torchao,transformers,wandb]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy",
+      "torch>=2.6.0",
+      "cached-path>=1.7.2",
+      "requests",
+      "packaging",
+      "rich",
+      "omegaconf",
+      "safetensors",
+      "importlib_resources",
+      "bettermap",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "boto3; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "furo==2024.8.6; extra == \"dev\"",
+      "google-cloud-storage; extra == \"dev\"",
+      "isort<5.14,>=5.12; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "myst-parser<3.0,>=1.0; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-memray; extra == \"dev\"",
+      "pytest-sphinx; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "Sphinx<=8.1.3,>=6.0; extra == \"dev\"",
+      "sphinx-autobuild; extra == \"dev\"",
+      "sphinx-autodoc-typehints==1.23.3; extra == \"dev\"",
+      "sphinx-copybutton; extra == \"dev\"",
+      "sphinx-inline-tabs; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "beaker-py<2.0,>=1.37.0; extra == \"beaker\"",
+      "GitPython<4.0,>=3.0; extra == \"beaker\"",
+      "google-cloud-compute; extra == \"beaker\"",
+      "comet_ml; extra == \"comet\"",
+      "ai2-olmo-eval==0.8.5; extra == \"eval\"",
+      "torchao; extra == \"torchao\"",
+      "transformers; extra == \"transformers\"",
+      "wandb; extra == \"wandb\"",
+      "ai2-olmo-core[beaker,comet,dev,eval,torchao,transformers,wandb]; extra == \"all\""
+    ]
+  },
+  "ai2_olmo_core-2.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:00.747683+00:00",
+    "conda_file": "ai2-olmo-core-2.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "cached-path",
+        "requests",
+        "packaging",
+        "rich",
+        "omegaconf",
+        "safetensors",
+        "importlib-resources"
+      ],
+      "optional": {
+        "dev": [
+          "black",
+          "boto3",
+          "build",
+          "furo",
+          "google-cloud-storage",
+          "isort",
+          "mypy",
+          "myst-parser",
+          "pytest",
+          "pytest-memray",
+          "pytest-sphinx",
+          "pytest-xdist",
+          "ruff",
+          "setuptools",
+          "wheel",
+          "build",
+          "boto3",
+          "google-cloud-compute",
+          "google-cloud-storage",
+          "sphinx",
+          "sphinx-autobuild",
+          "sphinx-autodoc-typehints",
+          "sphinx-copybutton",
+          "sphinx-inline-tabs",
+          "twine",
+          "wheel"
+        ],
+        "beaker": [
+          "beaker-py",
+          "gitpython"
+        ],
+        "comet": [
+          "comet-ml"
+        ],
+        "eval": [
+          "ai2-olmo-eval"
+        ],
+        "torchao": [
+          "torchao"
+        ],
+        "transformers": [
+          "transformers"
+        ],
+        "wandb": [
+          "wandb"
+        ],
+        "all": [
+          "ai2-olmo-core[extras=[beaker,comet,dev,eval,torchao,transformers,wandb]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy",
+      "torch>=2.6.0",
+      "cached-path>=1.7.2",
+      "requests",
+      "packaging",
+      "rich",
+      "omegaconf",
+      "safetensors",
+      "importlib_resources",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "boto3; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "furo==2024.8.6; extra == \"dev\"",
+      "google-cloud-storage; extra == \"dev\"",
+      "isort<5.14,>=5.12; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "myst-parser>=1.0; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-memray; extra == \"dev\"",
+      "pytest-sphinx; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "boto3; extra == \"dev\"",
+      "google-cloud-compute; extra == \"dev\"",
+      "google-cloud-storage; extra == \"dev\"",
+      "Sphinx<9.0,>=6.0; extra == \"dev\"",
+      "sphinx-autobuild; extra == \"dev\"",
+      "sphinx-autodoc-typehints==1.23.3; extra == \"dev\"",
+      "sphinx-copybutton; extra == \"dev\"",
+      "sphinx-inline-tabs; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "beaker-py<2.0,>=1.36.0; extra == \"beaker\"",
+      "GitPython<4.0,>=3.0; extra == \"beaker\"",
+      "comet_ml; extra == \"comet\"",
+      "ai2-olmo-eval==0.8.5; extra == \"eval\"",
+      "torchao; extra == \"torchao\"",
+      "transformers; extra == \"transformers\"",
+      "wandb; extra == \"wandb\"",
+      "ai2-olmo-core[beaker,comet,dev,eval,torchao,transformers,wandb]; extra == \"all\""
+    ]
+  },
+  "ai2_olmo_core-2.1.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:47:52.710314+00:00",
+    "conda_file": "ai2-olmo-core-2.1.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "cached-path",
+        "requests",
+        "packaging",
+        "rich",
+        "omegaconf",
+        "safetensors",
+        "importlib-resources",
+        "ai2-olmo-eval"
+      ],
+      "optional": {
+        "dev": [
+          "ruff",
+          "mypy",
+          "black",
+          "isort",
+          "pytest",
+          "pytest-memray",
+          "pytest-sphinx",
+          "pytest-xdist",
+          "twine",
+          "setuptools",
+          "wheel",
+          "build",
+          "boto3",
+          "google-cloud-storage",
+          "sphinx",
+          "furo",
+          "myst-parser",
+          "sphinx-copybutton",
+          "sphinx-autobuild",
+          "sphinx-autodoc-typehints",
+          "sphinx-inline-tabs"
+        ],
+        "beaker": [
+          "beaker-py",
+          "gitpython"
+        ],
+        "wandb": [
+          "wandb"
+        ],
+        "comet": [
+          "comet-ml"
+        ],
+        "transformers": [
+          "transformers"
+        ],
+        "all": [
+          "ai2-olmo-core[extras=[beaker,comet,dev,transformers,wandb]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy<2.0",
+      "torch>=2.6.0",
+      "cached-path>=1.6.6",
+      "requests",
+      "packaging",
+      "rich",
+      "omegaconf",
+      "safetensors",
+      "importlib_resources",
+      "ai2-olmo-eval==0.7.1",
+      "ruff; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "isort<5.14,>=5.12; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-memray; extra == \"dev\"",
+      "pytest-sphinx; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "boto3; extra == \"dev\"",
+      "google-cloud-storage; extra == \"dev\"",
+      "Sphinx<9.0,>=6.0; extra == \"dev\"",
+      "furo==2024.8.6; extra == \"dev\"",
+      "myst-parser>=1.0; extra == \"dev\"",
+      "sphinx-copybutton; extra == \"dev\"",
+      "sphinx-autobuild; extra == \"dev\"",
+      "sphinx-autodoc-typehints==1.23.3; extra == \"dev\"",
+      "sphinx-inline-tabs; extra == \"dev\"",
+      "beaker-py>=1.32.0; extra == \"beaker\"",
+      "GitPython<4.0,>=3.0; extra == \"beaker\"",
+      "wandb; extra == \"wandb\"",
+      "comet_ml; extra == \"comet\"",
+      "transformers; extra == \"transformers\"",
+      "ai2-olmo-core[beaker,comet,dev,transformers,wandb]; extra == \"all\""
+    ]
+  },
+  "ai2_olmo_core-2.0.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:47:52.207974+00:00",
+    "conda_file": "ai2-olmo-core-2.0.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "cached-path",
+        "requests",
+        "packaging",
+        "rich",
+        "omegaconf",
+        "safetensors",
+        "importlib-resources",
+        "ai2-olmo-eval"
+      ],
+      "optional": {
+        "dev": [
+          "ruff",
+          "mypy",
+          "black",
+          "isort",
+          "pytest",
+          "pytest-memray",
+          "pytest-sphinx",
+          "pytest-xdist",
+          "twine",
+          "setuptools",
+          "wheel",
+          "build",
+          "boto3",
+          "google-cloud-storage",
+          "sphinx",
+          "furo",
+          "myst-parser",
+          "sphinx-copybutton",
+          "sphinx-autobuild",
+          "sphinx-autodoc-typehints",
+          "sphinx-inline-tabs"
+        ],
+        "beaker": [
+          "beaker-py",
+          "gitpython"
+        ],
+        "wandb": [
+          "wandb"
+        ],
+        "comet": [
+          "comet-ml"
+        ],
+        "all": [
+          "ai2-olmo-core[extras=[beaker,comet,dev,wandb]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "numpy<2.0",
+      "torch>=2.6.0",
+      "cached-path>=1.6.6",
+      "requests",
+      "packaging",
+      "rich",
+      "omegaconf",
+      "safetensors",
+      "importlib_resources",
+      "ai2-olmo-eval==0.7.0",
+      "ruff; extra == \"dev\"",
+      "mypy<1.4,>=1.0; extra == \"dev\"",
+      "black<24.0,>=23.1; extra == \"dev\"",
+      "isort<5.14,>=5.12; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-memray; extra == \"dev\"",
+      "pytest-sphinx; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "boto3; extra == \"dev\"",
+      "google-cloud-storage; extra == \"dev\"",
+      "Sphinx<9.0,>=6.0; extra == \"dev\"",
+      "furo==2024.8.6; extra == \"dev\"",
+      "myst-parser>=1.0; extra == \"dev\"",
+      "sphinx-copybutton; extra == \"dev\"",
+      "sphinx-autobuild; extra == \"dev\"",
+      "sphinx-autodoc-typehints==1.23.3; extra == \"dev\"",
+      "sphinx-inline-tabs; extra == \"dev\"",
+      "beaker-py>=1.32.0; extra == \"beaker\"",
+      "GitPython<4.0,>=3.0; extra == \"beaker\"",
+      "wandb; extra == \"wandb\"",
+      "comet_ml; extra == \"comet\"",
+      "ai2-olmo-core[beaker,comet,dev,wandb]; extra == \"all\""
+    ]
+  }
+}

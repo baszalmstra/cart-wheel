@@ -1,0 +1,48 @@
+{
+  "ilt_panphon-0.21.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c7016ab34f0267a5c2715a6e0d22dd4caf40e0fe785cf35c96158048b48d2a8",
+    "dependencies": {
+      "required": [
+        "unicodecsv",
+        "pyyaml",
+        "regex",
+        "numpy",
+        "ilt-editdistance",
+        "munkres"
+      ]
+    },
+    "original_requirements": [
+      "unicodecsv",
+      "PyYAML",
+      "regex",
+      "numpy>=1.20.2",
+      "ilt-editdistance",
+      "munkres"
+    ]
+  },
+  "ilt_panphon-0.21.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a067a7565f0c32e42750e27019eb5e98802782fc8705dd91a0ca309d6869cb3b",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "unicodecsv",
+        "pyyaml",
+        "regex",
+        "numpy",
+        "ilt-editdistance",
+        "munkres"
+      ]
+    },
+    "original_requirements": [
+      "setuptools<80",
+      "unicodecsv",
+      "PyYAML",
+      "regex",
+      "numpy>=1.20.2",
+      "ilt-editdistance",
+      "munkres"
+    ]
+  }
+}

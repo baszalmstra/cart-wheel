@@ -1,0 +1,166 @@
+{
+  "bravado_core-6.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e3ac495fca5d475addeae45a2be8a51fd4120416d2183d630f001dfcfcc628dc",
+    "dependencies": {
+      "required": [
+        "jsonref",
+        "jsonschema",
+        "msgpack",
+        "python-dateutil",
+        "pytz",
+        "pyyaml",
+        "requests",
+        "simplejson",
+        "six",
+        "swagger-spec-validator"
+      ]
+    },
+    "original_requirements": [
+      "jsonref",
+      "jsonschema[format] (>=2.5.1)",
+      "msgpack (>=0.5.2)",
+      "python-dateutil",
+      "pytz",
+      "pyyaml",
+      "requests",
+      "simplejson",
+      "six",
+      "swagger-spec-validator (>=2.0.1)"
+    ]
+  },
+  "bravado_core-6.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5076b7310d17fbd95f6c70e1e7ee9916bbfc8b9cecef465bd60422a68455ef8d",
+    "dependencies": {
+      "required": [
+        "jsonref",
+        "jsonschema",
+        "msgpack",
+        "python-dateutil",
+        "pytz",
+        "pyyaml",
+        "requests",
+        "simplejson",
+        "six",
+        "swagger-spec-validator"
+      ]
+    },
+    "original_requirements": [
+      "jsonref",
+      "jsonschema[format] (>=2.5.1)",
+      "msgpack (>=0.5.2)",
+      "python-dateutil",
+      "pytz",
+      "pyyaml",
+      "requests",
+      "simplejson",
+      "six",
+      "swagger-spec-validator (>=2.0.1)"
+    ]
+  },
+  "bravado_core-5.17.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e231567cdc471337d23dfc950c45c5914ade8a78cde7ccf2ebb9433fcda29f40",
+    "dependencies": {
+      "required": [
+        "jsonref",
+        "jsonschema",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "simplejson",
+        "six",
+        "swagger-spec-validator",
+        "pytz",
+        "msgpack",
+        "functools32",
+        "enum34",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "jsonref",
+      "jsonschema[format] (>=2.5.1)",
+      "python-dateutil",
+      "pyyaml",
+      "requests",
+      "simplejson",
+      "six",
+      "swagger-spec-validator (>=2.0.1)",
+      "pytz",
+      "msgpack (>=0.5.2)",
+      "functools32 ; python_version<\"3.2\"",
+      "enum34 ; python_version<\"3.4\"",
+      "typing ; python_version<\"3.5\""
+    ]
+  },
+  "bravado_core-5.17.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fa53e796ea574f905635a43871439a44713c2ef128c62a8fcc1d0ca8765cf855",
+    "dependencies": {
+      "required": [
+        "jsonref",
+        "jsonschema",
+        "python-dateutil",
+        "pyyaml",
+        "simplejson",
+        "six",
+        "swagger-spec-validator",
+        "pytz",
+        "msgpack",
+        "functools32",
+        "enum34",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "jsonref",
+      "jsonschema[format] (>=2.5.1)",
+      "python-dateutil",
+      "pyyaml",
+      "simplejson",
+      "six",
+      "swagger-spec-validator (>=2.0.1)",
+      "pytz",
+      "msgpack (>=0.5.2)",
+      "functools32 ; python_version<\"3.2\"",
+      "enum34 ; python_version<\"3.4\"",
+      "typing ; python_version<\"3.5\""
+    ]
+  },
+  "bravado_core-5.16.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "64e8d6dae0de3d937d07ce35cbde8d045508871f300b65d68c87721259a38593",
+    "dependencies": {
+      "required": [
+        "jsonref",
+        "jsonschema",
+        "python-dateutil",
+        "pyyaml",
+        "simplejson",
+        "six",
+        "swagger-spec-validator",
+        "pytz",
+        "msgpack",
+        "functools32",
+        "enum34",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "jsonref",
+      "jsonschema[format] (>=2.5.1)",
+      "python-dateutil",
+      "pyyaml",
+      "simplejson",
+      "six",
+      "swagger-spec-validator (>=2.0.1)",
+      "pytz",
+      "msgpack (>=0.5.2)",
+      "functools32 ; python_version<\"3.2\"",
+      "enum34 ; python_version<\"3.4\"",
+      "typing ; python_version<\"3.5\""
+    ]
+  }
+}

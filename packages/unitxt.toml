@@ -1,0 +1,11 @@
+# Package configuration for unitxt
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "unitxt-1.26.7-py3-none-any.whl" },
+  { filename = "unitxt-1.26.6-py3-none-any.whl" },
+  { filename = "unitxt-1.26.5-py3-none-any.whl" },
+  { filename = "unitxt-1.26.4-py3-none-any.whl" },
+  { filename = "unitxt-1.26.3-py3-none-any.whl" },
+]

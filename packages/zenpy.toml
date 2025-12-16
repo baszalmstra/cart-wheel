@@ -1,0 +1,9 @@
+# Package configuration for zenpy
+conda_forge = "zenpy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zenpy-2.0.56-py3-none-any.whl" },
+  { filename = "zenpy-2.0.27-py2.py3-none-any.whl" },
+]

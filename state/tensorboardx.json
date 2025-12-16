@@ -1,0 +1,80 @@
+{
+  "tensorboardx-2.6.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5970cf3a1f0a6a6e8b180ccf46f3fe832b8a25a70b86e5a237048a7c0beb18e2",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "packaging",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "packaging",
+      "protobuf>=3.20"
+    ]
+  },
+  "tensorboardX-2.6.2.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "160025acbf759ede23fd3526ae9d9bfbfd8b68eb16c38a010ebe326dc6395db8",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "packaging",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "packaging",
+      "protobuf >=3.20"
+    ]
+  },
+  "tensorboardX-2.6.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4960feb79b1b84fd2b020885b09fd70962caec277d4bc194f338a6c203cd78ca",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "packaging",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "packaging",
+      "protobuf (>=4.22.3)"
+    ]
+  },
+  "tensorboardX-2.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24a7cd076488de1e9d15ef25371b8ebf90c4f8f622af2477c611198f03f4a606",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "packaging",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "packaging",
+      "protobuf (<4,>=3.8.0)"
+    ]
+  },
+  "tensorboardX-2.5.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8808133ccca673cd04076f6f2a85cf2d39bb2d0393a0f20d0f9cbb06d472b57e",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "protobuf (<=3.20.1,>=3.8.0)"
+    ]
+  }
+}

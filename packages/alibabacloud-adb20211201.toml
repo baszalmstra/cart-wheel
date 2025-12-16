@@ -1,0 +1,12 @@
+# Package configuration for alibabacloud-adb20211201
+conda_forge = "alibabacloud-adb20211201"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "alibabacloud_adb20211201-3.6.1-py3-none-any.whl" },
+  { filename = "alibabacloud_adb20211201-3.6.0-py3-none-any.whl" },
+  { filename = "alibabacloud_adb20211201-3.5.1-py3-none-any.whl" },
+  { filename = "alibabacloud_adb20211201-3.5.0-py3-none-any.whl" },
+  { filename = "alibabacloud_adb20211201-3.4.0-py3-none-any.whl" },
+]

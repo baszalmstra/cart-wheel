@@ -1,0 +1,62 @@
+{
+  "mkdocs_pycafe-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e7be9f34c41dd09b4519f4e80c8dfe300def8a10a911ff0c955e7d1b09178db",
+    "dependencies": {
+      "required": [
+        "markdown"
+      ]
+    },
+    "original_requirements": [
+      "markdown",
+      "mkdocs; extra == 'docs'",
+      "mkdocs-material; extra == 'docs'",
+      "pymdown-extensions>=10.9; extra == 'docs'",
+      "mkdocs; extra == 'integration'",
+      "mkdocs-material; extra == 'integration'",
+      "playwright; extra == 'integration'",
+      "pytest-playwright; extra == 'integration'",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "mkdocs_pycafe-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be546982875e5ad2a5d89e88b36b720f60efce3a263a6fb05fe35baabc1c0e19",
+    "dependencies": {
+      "required": [
+        "markdown"
+      ]
+    },
+    "original_requirements": [
+      "markdown",
+      "mkdocs; extra == 'docs'",
+      "mkdocs-material; extra == 'docs'",
+      "pymdown-extensions>=10.9; extra == 'docs'",
+      "mkdocs; extra == 'integration'",
+      "mkdocs-material; extra == 'integration'",
+      "playwright; extra == 'integration'",
+      "pytest-playwright; extra == 'integration'",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "mkdocs_pycafe-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "48a4375bc2f9ee128befe358ef4c358013d605c19b8e3511826e012baaa79779",
+    "dependencies": {
+      "required": [
+        "markdown"
+      ]
+    },
+    "original_requirements": [
+      "markdown",
+      "mkdocs; extra == 'docs'",
+      "mkdocs-material; extra == 'docs'",
+      "pymdown-extensions>=10.9; extra == 'docs'",
+      "mkdocs; extra == 'integration'",
+      "mkdocs-material; extra == 'integration'",
+      "playwright; extra == 'integration'",
+      "pytest-playwright; extra == 'integration'",
+      "pytest; extra == 'test'"
+    ]
+  }
+}

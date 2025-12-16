@@ -1,0 +1,11 @@
+# Package configuration for pwdlib
+conda_forge = "pwdlib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pwdlib-0.3.0-py3-none-any.whl" },
+  { filename = "pwdlib-0.2.1-py3-none-any.whl" },
+  { filename = "pwdlib-0.2.0-py3-none-any.whl" },
+  { filename = "pwdlib-0.1.0-py3-none-any.whl" },
+]

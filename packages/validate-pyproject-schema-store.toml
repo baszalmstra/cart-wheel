@@ -1,0 +1,11 @@
+# Package configuration for validate-pyproject-schema-store
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "validate_pyproject_schema_store-2025.11.21-py3-none-any.whl" },
+  { filename = "validate_pyproject_schema_store-2025.11.14-py3-none-any.whl" },
+  { filename = "validate_pyproject_schema_store-2025.11.4-py3-none-any.whl" },
+  { filename = "validate_pyproject_schema_store-2025.11.2-py3-none-any.whl" },
+  { filename = "validate_pyproject_schema_store-2025.11.1-py3-none-any.whl" },
+]

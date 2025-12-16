@@ -1,0 +1,12 @@
+# Package configuration for jsonref
+conda_forge = "jsonref"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsonref-1.1.0-py3-none-any.whl" },
+  { filename = "jsonref-1.0.1-py3-none-any.whl" },
+  { filename = "jsonref-1.0.0.post1-py3-none-any.whl" },
+  { filename = "jsonref-1.0.0-py3-none-any.whl" },
+  { filename = "jsonref-0.3.0-py3-none-any.whl" },
+]

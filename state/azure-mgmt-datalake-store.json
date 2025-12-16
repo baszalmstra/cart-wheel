@@ -1,0 +1,82 @@
+{
+  "azure_mgmt_datalake_store-0.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2af98236cd7eaa439b239bf761338c866996ce82e9c129b204e8851e5dc095dd",
+    "dependencies": {
+      "required": [
+        "msrestazure",
+        "azure-common",
+        "azure-mgmt-datalake-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrestazure (<2.0.0,>=0.4.27)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-datalake-nspkg (>=2.0.0)"
+    ]
+  },
+  "azure_mgmt_datalake_store-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fefc257d2eb5fa1da334849cb0813f2563134dae4b10036355a630792db800d1",
+    "dependencies": {
+      "required": [
+        "msrestazure",
+        "azure-common",
+        "azure-mgmt-datalake-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrestazure (<2.0.0,>=0.4.20)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-datalake-nspkg (>=2.0.0)"
+    ]
+  },
+  "azure_mgmt_datalake_store-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51bed16a00b2b648a33d7deb111a38903bb5c7d3fad317647f6110bd56b78af9",
+    "dependencies": {
+      "required": [
+        "msrestazure",
+        "azure-common",
+        "azure-mgmt-datalake-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrestazure (<2.0.0,>=0.4.20)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-datalake-nspkg (>=2.0.0)"
+    ]
+  },
+  "azure_mgmt_datalake_store-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e980df1f8164a5ed52257c88d4e68aa15c61215a8766aeca44c58c60e813ab48",
+    "dependencies": {
+      "required": [
+        "azure-common",
+        "azure-mgmt-datalake-nspkg",
+        "msrestazure"
+      ]
+    },
+    "original_requirements": [
+      "azure-common (~=1.1.5)",
+      "azure-mgmt-datalake-nspkg (>=2.0.0)",
+      "msrestazure (~=0.4.7)"
+    ]
+  },
+  "azure_mgmt_datalake_store-0.1.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b3241ac41fe08373f7612460d8d4aef1138366c580fa01aef9d391fa53d0e1a",
+    "dependencies": {
+      "required": [
+        "azure-common",
+        "azure-mgmt-datalake-nspkg",
+        "msrestazure"
+      ]
+    },
+    "original_requirements": [
+      "azure-common (~=1.1.5)",
+      "azure-mgmt-datalake-nspkg (>=2.0.0)",
+      "msrestazure (~=0.4.7)"
+    ]
+  }
+}

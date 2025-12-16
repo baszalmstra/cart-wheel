@@ -1,0 +1,8 @@
+# Package configuration for docx2txt
+conda_forge = "docx2txt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "docx2txt-0.9-py3-none-any.whl" },
+]

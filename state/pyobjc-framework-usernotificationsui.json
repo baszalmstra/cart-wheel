@@ -1,0 +1,90 @@
+{
+  "pyobjc_framework_usernotificationsui-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11af59dc5abfcb72c08769ab4d7ca32a628527a8ba341786431a0d2dacf31605",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-core",
+        "pyobjc-framework-usernotifications"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1",
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-UserNotifications>=12.1"
+    ]
+  },
+  "pyobjc_framework_usernotificationsui-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ab0d9fc8e9505daf15e089837125bedf9aec5fa5c49ba0ec91305fab3233977f",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-core",
+        "pyobjc-framework-usernotifications"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0",
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-UserNotifications>=12.0"
+    ]
+  },
+  "pyobjc_framework_usernotificationsui-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b84d73d90ab319acf8fad5c59b7a5e2b6023fbb2efd68c58b532e3b3b52f647a",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-core",
+        "pyobjc-framework-usernotifications"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1",
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-UserNotifications>=11.1"
+    ]
+  },
+  "pyobjc_framework_UserNotificationsUI-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6185d9c9513b6a823cd72dcf40d2fb33bbf0f2c9a98528e0e112580b47ac3632",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-usernotifications"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0",
+      "pyobjc-framework-UserNotifications >=11.0"
+    ]
+  },
+  "pyobjc_framework_UserNotificationsUI-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc7c1b88c59f64e9b0d859b456f8f08cdded7daa6360e073f99d91ae84d641af",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-core",
+        "pyobjc-framework-usernotifications"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2",
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-UserNotifications>=10.3.2"
+    ]
+  }
+}

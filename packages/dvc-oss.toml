@@ -1,0 +1,12 @@
+# Package configuration for dvc-oss
+conda_forge = "dvc-oss"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dvc_oss-3.0.0-py3-none-any.whl" },
+  { filename = "dvc_oss-2.22.0-py3-none-any.whl" },
+  { filename = "dvc_oss-2.21.0-py3-none-any.whl" },
+  { filename = "dvc_oss-2.20.0-py3-none-any.whl" },
+  { filename = "dvc_oss-2.19.0-py3-none-any.whl" },
+]

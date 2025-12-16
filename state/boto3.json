@@ -1,0 +1,87 @@
+{
+  "boto3-1.42.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d21d22af9aeb1bad8e9b670a221d6534c0120f7e7baf523dafaca83f1f5c3f90",
+    "dependencies": {
+      "required": [
+        "botocore",
+        "jmespath",
+        "s3transfer"
+      ]
+    },
+    "original_requirements": [
+      "botocore (<1.43.0,>=1.42.9)",
+      "jmespath (<2.0.0,>=0.7.1)",
+      "s3transfer (<0.17.0,>=0.16.0)",
+      "botocore[crt] (<2.0a0,>=1.21.0) ; extra == 'crt'"
+    ]
+  },
+  "boto3-1.42.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "747acc83488fc80b0e7d1c4ff0c533039ff3ede21bdbd4e89544e25b010b070c",
+    "dependencies": {
+      "required": [
+        "botocore",
+        "jmespath",
+        "s3transfer"
+      ]
+    },
+    "original_requirements": [
+      "botocore (<1.43.0,>=1.42.8)",
+      "jmespath (<2.0.0,>=0.7.1)",
+      "s3transfer (<0.17.0,>=0.16.0)",
+      "botocore[crt] (<2.0a0,>=1.21.0) ; extra == 'crt'"
+    ]
+  },
+  "boto3-1.42.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c5cb2ada690c14e2dfa1e1c59ef7ef399c5e381f5514f1541d28310e35192300",
+    "dependencies": {
+      "required": [
+        "botocore",
+        "jmespath",
+        "s3transfer"
+      ]
+    },
+    "original_requirements": [
+      "botocore (<1.43.0,>=1.42.7)",
+      "jmespath (<2.0.0,>=0.7.1)",
+      "s3transfer (<0.17.0,>=0.16.0)",
+      "botocore[crt] (<2.0a0,>=1.21.0) ; extra == 'crt'"
+    ]
+  },
+  "boto3-1.42.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "69ff5cf6431fe7870da009f23aceabb20d56b4c9852ba9a808eaf6cc30ae02a5",
+    "dependencies": {
+      "required": [
+        "botocore",
+        "jmespath",
+        "s3transfer"
+      ]
+    },
+    "original_requirements": [
+      "botocore (<1.43.0,>=1.42.6)",
+      "jmespath (<2.0.0,>=0.7.1)",
+      "s3transfer (<0.17.0,>=0.16.0)",
+      "botocore[crt] (<2.0a0,>=1.21.0) ; extra == 'crt'"
+    ]
+  },
+  "boto3-1.42.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d22cd102c77c37d552783308eeb01a088c0e3f6e707157dd6d1842b205ffce7",
+    "dependencies": {
+      "required": [
+        "botocore",
+        "jmespath",
+        "s3transfer"
+      ]
+    },
+    "original_requirements": [
+      "botocore (<1.43.0,>=1.42.5)",
+      "jmespath (<2.0.0,>=0.7.1)",
+      "s3transfer (<0.17.0,>=0.16.0)",
+      "botocore[crt] (<2.0a0,>=1.21.0) ; extra == 'crt'"
+    ]
+  }
+}

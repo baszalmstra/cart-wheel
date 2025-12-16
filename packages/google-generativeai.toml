@@ -1,0 +1,12 @@
+# Package configuration for google-generativeai
+conda_forge = "google-generativeai"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_generativeai-0.8.5-py3-none-any.whl" },
+  { filename = "google_generativeai-0.8.4-py3-none-any.whl" },
+  { filename = "google_generativeai-0.8.3-py3-none-any.whl" },
+  { filename = "google_generativeai-0.8.2-py3-none-any.whl" },
+  { filename = "google_generativeai-0.8.1-py3-none-any.whl" },
+]

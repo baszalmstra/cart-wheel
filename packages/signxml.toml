@@ -1,0 +1,12 @@
+# Package configuration for signxml
+conda_forge = "signxml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "signxml-4.2.0-py3-none-any.whl" },
+  { filename = "signxml-4.1.0-py3-none-any.whl" },
+  { filename = "signxml-4.0.5-py3-none-any.whl" },
+  { filename = "signxml-4.0.4-py3-none-any.whl" },
+  { filename = "signxml-4.0.3-py3-none-any.whl" },
+]

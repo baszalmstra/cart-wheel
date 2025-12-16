@@ -1,0 +1,11 @@
+# Package configuration for oslo.config
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oslo_config-10.1.0-py3-none-any.whl" },
+  { filename = "oslo_config-10.0.0-py3-none-any.whl" },
+  { filename = "oslo_config-9.8.0-py3-none-any.whl" },
+  { filename = "oslo.config-9.7.1-py3-none-any.whl" },
+  { filename = "oslo.config-9.7.0-py3-none-any.whl" },
+]

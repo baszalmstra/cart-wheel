@@ -1,0 +1,12 @@
+# Package configuration for docling-core
+conda_forge = "docling-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "docling_core-2.55.0-py3-none-any.whl" },
+  { filename = "docling_core-2.54.1-py3-none-any.whl" },
+  { filename = "docling_core-2.54.0-py3-none-any.whl" },
+  { filename = "docling_core-2.53.0-py3-none-any.whl" },
+  { filename = "docling_core-2.52.0-py3-none-any.whl" },
+]

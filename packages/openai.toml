@@ -1,0 +1,12 @@
+# Package configuration for openai
+conda_forge = "openai"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openai-2.11.0-py3-none-any.whl" },
+  { filename = "openai-2.9.0-py3-none-any.whl" },
+  { filename = "openai-2.8.1-py3-none-any.whl" },
+  { filename = "openai-2.8.0-py3-none-any.whl" },
+  { filename = "openai-2.7.2-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for readmemaker
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "readmemaker-1.2.0-py3-none-any.whl" },
+  { filename = "readmemaker-1.1.0-py3-none-any.whl" },
+  { filename = "readmemaker-1.0.4-py3-none-any.whl" },
+  { filename = "readmemaker-1.0.3-py3-none-any.whl" },
+  { filename = "readmemaker-1.0.2-py3-none-any.whl" },
+]

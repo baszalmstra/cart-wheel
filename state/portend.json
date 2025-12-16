@@ -1,0 +1,116 @@
+{
+  "portend-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd2bb1cd8585e32f1f986c1b8eae2950c8622c648db163b711a2fc2ef8d8d492",
+    "dependencies": {
+      "required": [
+        "tempora"
+      ]
+    },
+    "original_requirements": [
+      "tempora>=1.8",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "portend-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b3fe3f78779df906559a21d9eaa6e21c8fa5a7a8cc76362cbbe1e16777399cf",
+    "dependencies": {
+      "required": [
+        "tempora"
+      ]
+    },
+    "original_requirements": [
+      "tempora (>=1.8)",
+      "sphinx (>=3.5) ; extra == 'docs'",
+      "jaraco.packaging (>=9) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=2.2) ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "portend-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e735cee3a5c1961f09e3f3ba6dc498198c2d70b473d98d0d1504b8d1e7a3d61",
+    "dependencies": {
+      "required": [
+        "tempora"
+      ]
+    },
+    "original_requirements": [
+      "tempora (>=1.8)",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=8.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=1.0.1) ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "portend-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c5a5a05fb31e5df7b73e08e96d55928d8a7f4ae6b4724de3777b06d0e8de693",
+    "dependencies": {
+      "required": [
+        "tempora"
+      ]
+    },
+    "original_requirements": [
+      "tempora (>=1.8)",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=8.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=1.0.1) ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "portend-2.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "35a5bfbdb763d11aa701c3c2fa56d05399625ac2ee18220a429d0107936a465c",
+    "dependencies": {
+      "required": [
+        "tempora"
+      ]
+    },
+    "original_requirements": [
+      "tempora (>=1.8)",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=8.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=1.0.1) ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  }
+}

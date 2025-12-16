@@ -1,0 +1,12 @@
+# Package configuration for hypothesmith
+conda_forge = "hypothesmith"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hypothesmith-0.3.3-py3-none-any.whl" },
+  { filename = "hypothesmith-0.3.2-py3-none-any.whl" },
+  { filename = "hypothesmith-0.3.1-py3-none-any.whl" },
+  { filename = "hypothesmith-0.3.0-py3-none-any.whl" },
+  { filename = "hypothesmith-0.2.3-py3-none-any.whl" },
+]

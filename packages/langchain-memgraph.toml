@@ -1,0 +1,11 @@
+# Package configuration for langchain-memgraph
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_memgraph-0.1.11-py3-none-any.whl" },
+  { filename = "langchain_memgraph-0.1.10-py3-none-any.whl" },
+  { filename = "langchain_memgraph-0.1.9-py3-none-any.whl" },
+  { filename = "langchain_memgraph-0.1.8-py3-none-any.whl" },
+  { filename = "langchain_memgraph-0.1.7-py3-none-any.whl" },
+]

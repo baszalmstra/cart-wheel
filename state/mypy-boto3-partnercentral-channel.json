@@ -1,0 +1,26 @@
+{
+  "mypy_boto3_partnercentral_channel-1.42.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c0f64653e5b8266b74d3e47f57e036617053d8352f9a74e1fcfb9dc779fc2ed",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_partnercentral_channel-1.41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74b469e0a5b859942ea4a55ba08762a088697e3d7ca057baacf97d8f839e9886",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

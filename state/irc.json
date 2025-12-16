@@ -1,0 +1,211 @@
+{
+  "irc-20.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "712c6065c41ceaf75c874d623b02edaa5e6c7d605532da81c52d39629a8e9fd0",
+    "dependencies": {
+      "required": [
+        "jaraco.collections",
+        "jaraco.text",
+        "jaraco.logging",
+        "jaraco.functools",
+        "jaraco.stream",
+        "pytz",
+        "more-itertools",
+        "tempora",
+        "importlib-resources",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.collections",
+      "jaraco.text >=3.14",
+      "jaraco.logging",
+      "jaraco.functools >=1.20",
+      "jaraco.stream",
+      "pytz",
+      "more-itertools",
+      "tempora >=1.6",
+      "importlib-resources ; python_version < \"3.12\"",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'",
+      "pygments ; extra == 'test'"
+    ]
+  },
+  "irc-20.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a31656f9f76f5baccf4ec1d179309b4e5dc59c0272b2001fcf48997c0d5a1dd0",
+    "dependencies": {
+      "required": [
+        "jaraco.collections",
+        "jaraco.text",
+        "jaraco.logging",
+        "jaraco.functools",
+        "jaraco.stream",
+        "pytz",
+        "more-itertools",
+        "tempora",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.collections",
+      "jaraco.text >=3.10",
+      "jaraco.logging",
+      "jaraco.functools >=1.20",
+      "jaraco.stream",
+      "pytz",
+      "more-itertools",
+      "tempora >=1.6",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'",
+      "pygments ; extra == 'test'"
+    ]
+  },
+  "irc-20.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcc9070d851c0d614bd6746fa3c7d2525d68e300740746d39be76919b9a15aa7",
+    "dependencies": {
+      "required": [
+        "jaraco.collections",
+        "jaraco.text",
+        "jaraco.logging",
+        "jaraco.functools",
+        "jaraco.stream",
+        "pytz",
+        "more-itertools",
+        "tempora",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.collections",
+      "jaraco.text >=3.10",
+      "jaraco.logging",
+      "jaraco.functools >=1.20",
+      "jaraco.stream",
+      "pytz",
+      "more-itertools",
+      "tempora >=1.6",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'",
+      "pygments ; extra == 'test'"
+    ]
+  },
+  "irc-20.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f1c35cb6341feb4e19066324345f6f734d7c414411ea133e6ef1ad58127aca88",
+    "dependencies": {
+      "required": [
+        "jaraco.collections",
+        "jaraco.text",
+        "jaraco.logging",
+        "jaraco.functools",
+        "jaraco.stream",
+        "pytz",
+        "more-itertools",
+        "tempora",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.collections",
+      "jaraco.text >=3.10",
+      "jaraco.logging",
+      "jaraco.functools >=1.20",
+      "jaraco.stream",
+      "pytz",
+      "more-itertools",
+      "tempora >=1.6",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "sphinx <7.1 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'",
+      "pygments ; extra == 'test'"
+    ]
+  },
+  "irc-20.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b70cd3913d9774255df8f4bd56ca07850d3120ec16f3824b152f32670359655",
+    "dependencies": {
+      "required": [
+        "jaraco.collections",
+        "jaraco.text",
+        "jaraco.logging",
+        "jaraco.functools",
+        "jaraco.stream",
+        "pytz",
+        "more-itertools",
+        "tempora",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.collections",
+      "jaraco.text >=3.10",
+      "jaraco.logging",
+      "jaraco.functools >=1.20",
+      "jaraco.stream",
+      "pytz",
+      "more-itertools",
+      "tempora >=1.6",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "jaraco.tidelift >=1.4 ; extra == 'docs'",
+      "sphinx <7.1 ; extra == 'docs'",
+      "pytest >=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-mypy ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'",
+      "pygments ; extra == 'testing'"
+    ]
+  }
+}

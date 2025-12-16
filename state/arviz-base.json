@@ -1,0 +1,178 @@
+{
+  "arviz_base-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10fd2198709eee1b562e128e6d8dd814e24af1b7e6b385a3daba903dadac53f7",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24",
+      "xarray>=2024.11.0",
+      "typing-extensions>=3.10",
+      "build ; extra == \"check\"",
+      "pre-commit ; extra == \"check\"",
+      "docstub==0.4 ; extra == \"check\"",
+      "mypy ; extra == \"check\"",
+      "isort ; extra == \"check\"",
+      "black ; extra == \"check\"",
+      "pre-commit ; extra == \"ci\"",
+      "cloudpickle ; extra == \"ci\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "h5netcdf ; extra == \"doc\"",
+      "h5netcdf ; extra == \"h5netcdf\"",
+      "netcdf4 ; extra == \"netcdf4\"",
+      "xarray!=2025.8.0 ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "scipy ; extra == \"test\"",
+      "zarr ; extra == \"zarr\""
+    ]
+  },
+  "arviz_base-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19b54a062ea59ac25b1945cfc4466ed4acfc964d488e8f4b579d8ba157e9fa59",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24",
+      "xarray>=2024.11.0",
+      "typing-extensions>=3.10",
+      "build ; extra == \"check\"",
+      "pre-commit ; extra == \"check\"",
+      "docstub ; extra == \"check\"",
+      "isort ; extra == \"check\"",
+      "black ; extra == \"check\"",
+      "pre-commit ; extra == \"ci\"",
+      "cloudpickle ; extra == \"ci\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "h5netcdf ; extra == \"doc\"",
+      "h5netcdf ; extra == \"h5netcdf\"",
+      "netcdf4 ; extra == \"netcdf4\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "scipy ; extra == \"test\"",
+      "zarr ; extra == \"zarr\""
+    ]
+  },
+  "arviz_base-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7166aaacf6549675758d9b948a43ef5116d665f8bb82cbc8a1c6fc2cfc537b33",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24",
+      "xarray>=2024.11.0",
+      "typing-extensions>=3.10",
+      "pre-commit ; extra == \"ci\"",
+      "cloudpickle ; extra == \"ci\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "netcdf4 ; extra == \"doc\"",
+      "h5netcdf ; extra == \"h5netcdf\"",
+      "netcdf4 ; extra == \"netcdf4\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "zarr ; extra == \"zarr\""
+    ]
+  },
+  "arviz_base-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "954d5b6c296833c184439f425a4b9590e248ad4955f09ba74f1c6cc6af4db7d1",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24",
+      "xarray>=2024.11.0",
+      "typing-extensions>=3.10",
+      "pre-commit ; extra == \"ci\"",
+      "cloudpickle ; extra == \"ci\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "netcdf4 ; extra == \"doc\"",
+      "h5netcdf ; extra == \"h5netcdf\"",
+      "netcdf4 ; extra == \"netcdf4\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "zarr ; extra == \"zarr\""
+    ]
+  },
+  "arviz_base-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f9efc41912b0337aee6ac6b55991e4f0ca4dde044aaccaeb5714e6c5f25287a",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "xarray-datatree",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24",
+      "xarray>=2022.6.0,<2024.9.1",
+      "xarray-datatree<0.0.15",
+      "typing-extensions>=3.10",
+      "pre-commit ; extra == \"ci\"",
+      "cloudpickle ; extra == \"ci\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "netcdf4 ; extra == \"doc\"",
+      "h5netcdf ; extra == \"h5netcdf\"",
+      "netcdf4 ; extra == \"netcdf4\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "zarr ; extra == \"zarr\""
+    ]
+  }
+}

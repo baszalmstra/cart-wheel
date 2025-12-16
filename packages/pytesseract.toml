@@ -1,0 +1,10 @@
+# Package configuration for pytesseract
+conda_forge = "pytesseract"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytesseract-0.3.13-py3-none-any.whl" },
+  { filename = "pytesseract-0.3.10-py3-none-any.whl" },
+  { filename = "pytesseract-0.3.9-py2.py3-none-any.whl" },
+]

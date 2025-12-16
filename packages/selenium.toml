@@ -1,0 +1,12 @@
+# Package configuration for selenium
+conda_forge = "selenium"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "selenium-4.39.0-py3-none-any.whl" },
+  { filename = "selenium-4.38.0-py3-none-any.whl" },
+  { filename = "selenium-4.37.0-py3-none-any.whl" },
+  { filename = "selenium-4.36.0-py3-none-any.whl" },
+  { filename = "selenium-4.35.0-py3-none-any.whl" },
+]

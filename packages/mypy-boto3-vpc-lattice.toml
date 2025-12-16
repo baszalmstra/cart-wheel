@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-vpc-lattice
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_vpc_lattice-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_vpc_lattice-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_vpc_lattice-1.40.69-py3-none-any.whl" },
+  { filename = "mypy_boto3_vpc_lattice-1.40.59-py3-none-any.whl" },
+  { filename = "mypy_boto3_vpc_lattice-1.40.41-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for braceexpand
+conda_forge = "braceexpand"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "braceexpand-0.1.7-py2.py3-none-any.whl" },
+  { filename = "braceexpand-0.1.6-py2.py3-none-any.whl" },
+  { filename = "braceexpand-0.1.5-py2.py3-none-any.whl" },
+  { filename = "braceexpand-0.1.4-py2.py3-none-any.whl" },
+]

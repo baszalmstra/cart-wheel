@@ -1,0 +1,12 @@
+# Package configuration for types-colorama
+conda_forge = "types-colorama"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_colorama-0.4.15.20250801-py3-none-any.whl" },
+  { filename = "types_colorama-0.4.15.20240311-py3-none-any.whl" },
+  { filename = "types_colorama-0.4.15.20240310-py3-none-any.whl" },
+  { filename = "types_colorama-0.4.15.20240205-py3-none-any.whl" },
+  { filename = "types_colorama-0.4.15.20240106-py3-none-any.whl" },
+]

@@ -1,0 +1,90 @@
+{
+  "apache_airflow_providers_ssh-4.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d944658ad06f82e3b4d4c059f58af92d74354c2cfa281a0c6a21606b0793121c",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "paramiko",
+        "sshtunnel"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "paramiko>=2.9.0,<4.0.0",
+      "sshtunnel>=0.3.2"
+    ]
+  },
+  "apache_airflow_providers_ssh-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "012dc0d61a8ebff4c13a829bb78428101f98164d8970058a39360b01995a8cea",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "paramiko",
+        "sshtunnel"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.0",
+      "paramiko>=2.9.0,<4.0.0",
+      "sshtunnel>=0.3.2"
+    ]
+  },
+  "apache_airflow_providers_ssh-4.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8174582853d6455510e55b1752abe75e7bbb10d1a4835f506006446c5dd81bf",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "paramiko",
+        "sshtunnel"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "paramiko>=2.9.0,<4.0.0",
+      "sshtunnel>=0.3.2"
+    ]
+  },
+  "apache_airflow_providers_ssh-4.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e4b6394aed3985d5be0bb9485d4e50d5d35091d4b13e09ff0ee2fc9c6f599e1",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "paramiko",
+        "sshtunnel"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "paramiko>=2.9.0,<4.0.0",
+      "sshtunnel>=0.3.2"
+    ]
+  },
+  "apache_airflow_providers_ssh-4.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "20fd52da247ca3f8b77035c3465f1d99fbf37ba2d089debd3ad9fc913026912c",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "paramiko",
+        "sshtunnel"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "paramiko>=2.9.0,<4.0.0",
+      "sshtunnel>=0.3.2"
+    ]
+  }
+}

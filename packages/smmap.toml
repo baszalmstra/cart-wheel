@@ -1,0 +1,12 @@
+# Package configuration for smmap
+conda_forge = "smmap"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "smmap-5.0.2-py3-none-any.whl" },
+  { filename = "smmap-5.0.1-py3-none-any.whl" },
+  { filename = "smmap-5.0.0-py3-none-any.whl" },
+  { filename = "smmap-4.0.0-py2.py3-none-any.whl" },
+  { filename = "smmap-3.0.5-py2.py3-none-any.whl" },
+]

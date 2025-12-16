@@ -1,0 +1,34 @@
+{
+  "screeninfo-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e97d6b173856edcfa3bd282f81deb528188aff14b11ec3e195584e7641be733c",
+    "dependencies": {
+      "required": [
+        "cython",
+        "dataclasses",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "Cython; sys_platform == \"darwin\"",
+      "dataclasses; python_version < \"3.7\"",
+      "pyobjc-framework-Cocoa; sys_platform == \"darwin\""
+    ]
+  },
+  "screeninfo-0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dac455fbed79e82c481d59a00962f543e5a9bf3c2cc9f0e48e2714eb8d3cec23",
+    "dependencies": {
+      "required": [
+        "cython",
+        "dataclasses",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "Cython; sys_platform == \"darwin\"",
+      "dataclasses; python_version < \"3.7\"",
+      "pyobjc-framework-Cocoa; sys_platform == \"darwin\""
+    ]
+  }
+}

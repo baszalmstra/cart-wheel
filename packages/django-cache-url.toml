@@ -1,0 +1,11 @@
+# Package configuration for django-cache-url
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "django_cache_url-3.4.5-py2.py3-none-any.whl" },
+  { filename = "django_cache_url-3.4.4-py2.py3-none-any.whl" },
+  { filename = "django_cache_url-3.4.2-py2.py3-none-any.whl" },
+  { filename = "django_cache_url-3.4.0-py2.py3-none-any.whl" },
+  { filename = "django_cache_url-3.3.0-py2.py3-none-any.whl" },
+]

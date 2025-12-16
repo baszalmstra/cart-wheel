@@ -1,0 +1,150 @@
+{
+  "pytest_testinfra-10.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b785602b0aa868c858e4ef121a8cc0d13a81c04b74ec0364d70969540f8e7c31",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6",
+      "ansible; extra == 'ansible'",
+      "alabaster>=0.7.2; extra == 'dev'",
+      "ansible; extra == 'dev'",
+      "distro; extra == 'dev'",
+      "looseversion; extra == 'dev'",
+      "msgpack; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "paramiko; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "pytest-xdist; extra == 'dev'",
+      "pywinrm; extra == 'dev'",
+      "ruff; extra == 'dev'",
+      "salt; extra == 'dev'",
+      "sphinx<7.2,>=7.1; extra == 'dev'",
+      "tornado; extra == 'dev'",
+      "types-paramiko; extra == 'dev'",
+      "alabaster>=0.7.2; extra == 'doc'",
+      "sphinx<7.2,>=7.1; extra == 'doc'",
+      "ruff; extra == 'lint'",
+      "paramiko; extra == 'paramiko'",
+      "distro; extra == 'salt'",
+      "looseversion; extra == 'salt'",
+      "msgpack; extra == 'salt'",
+      "salt; extra == 'salt'",
+      "tornado; extra == 'salt'",
+      "ansible; extra == 'test'",
+      "distro; extra == 'test'",
+      "looseversion; extra == 'test'",
+      "msgpack; extra == 'test'",
+      "paramiko; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "pywinrm; extra == 'test'",
+      "salt; extra == 'test'",
+      "tornado; extra == 'test'",
+      "mypy; extra == 'typing'",
+      "types-paramiko; extra == 'typing'",
+      "pywinrm; extra == 'winrm'"
+    ]
+  },
+  "pytest_testinfra-10.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f80507213d2b92a987c22e6ebbf9eb7c9550dd4daed9164fa29778058bd9270c",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6",
+      "ansible; extra == 'ansible'",
+      "alabaster>=0.7.2; extra == 'dev'",
+      "ansible; extra == 'dev'",
+      "distro; extra == 'dev'",
+      "looseversion; extra == 'dev'",
+      "msgpack; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "paramiko; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "pytest-xdist; extra == 'dev'",
+      "pywinrm; extra == 'dev'",
+      "ruff; extra == 'dev'",
+      "salt; extra == 'dev'",
+      "sphinx<7.2,>=7.1; extra == 'dev'",
+      "tornado; extra == 'dev'",
+      "types-paramiko; extra == 'dev'",
+      "alabaster>=0.7.2; extra == 'doc'",
+      "sphinx<7.2,>=7.1; extra == 'doc'",
+      "ruff; extra == 'lint'",
+      "paramiko; extra == 'paramiko'",
+      "distro; extra == 'salt'",
+      "looseversion; extra == 'salt'",
+      "msgpack; extra == 'salt'",
+      "salt; extra == 'salt'",
+      "tornado; extra == 'salt'",
+      "ansible; extra == 'test'",
+      "distro; extra == 'test'",
+      "looseversion; extra == 'test'",
+      "msgpack; extra == 'test'",
+      "paramiko; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "pywinrm; extra == 'test'",
+      "salt; extra == 'test'",
+      "tornado; extra == 'test'",
+      "mypy; extra == 'typing'",
+      "types-paramiko; extra == 'typing'",
+      "pywinrm; extra == 'winrm'"
+    ]
+  },
+  "pytest_testinfra-10.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b990dc7d77b49a1bba24818fbff49b6171d8c46d606fb5ca86b937de690d7062",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=6",
+      "ansible ; extra == 'ansible'",
+      "paramiko ; extra == 'paramiko'",
+      "salt ; extra == 'salt'",
+      "pywinrm ; extra == 'winrm'"
+    ]
+  },
+  "pytest_testinfra-10.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0a03b7f21c863396adba9578880e5a1a6764e9d20bb603e25317883fdeda024b",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=6",
+      "ansible ; extra == 'ansible'",
+      "paramiko ; extra == 'paramiko'",
+      "salt ; extra == 'salt'",
+      "pywinrm ; extra == 'winrm'"
+    ]
+  },
+  "pytest_testinfra-10.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03be2824aece7a5eda8bb4f9dbed4d8c821efcfbbc13e13df17f392c229a44ed",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest !=3.0.2",
+      "ansible ; extra == 'ansible'",
+      "paramiko ; extra == 'paramiko'",
+      "salt ; extra == 'salt'",
+      "pywinrm ; extra == 'winrm'"
+    ]
+  }
+}

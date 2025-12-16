@@ -1,0 +1,12 @@
+# Package configuration for qpd
+conda_forge = "qpd"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "qpd-0.4.4-py3-none-any.whl" },
+  { filename = "qpd-0.4.3-py3-none-any.whl" },
+  { filename = "qpd-0.4.1-py3-none-any.whl" },
+  { filename = "qpd-0.4.0-py3-none-any.whl" },
+  { filename = "qpd-0.3.4-py3-none-any.whl" },
+]

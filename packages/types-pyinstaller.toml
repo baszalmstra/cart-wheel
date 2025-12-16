@@ -1,0 +1,11 @@
+# Package configuration for types-pyinstaller
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_pyinstaller-6.17.0.20251127-py3-none-any.whl" },
+  { filename = "types_pyinstaller-6.16.0.20250918-py3-none-any.whl" },
+  { filename = "types_pyinstaller-6.15.0.20250822-py3-none-any.whl" },
+  { filename = "types_pyinstaller-6.15.0.20250809-py3-none-any.whl" },
+  { filename = "types_pyinstaller-6.15.0.20250805-py3-none-any.whl" },
+]

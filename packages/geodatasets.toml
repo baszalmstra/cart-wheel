@@ -1,0 +1,12 @@
+# Package configuration for geodatasets
+conda_forge = "geodatasets"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "geodatasets-2025.12.0-py3-none-any.whl" },
+  { filename = "geodatasets-2024.8.0-py3-none-any.whl" },
+  { filename = "geodatasets-2024.7.0-py3-none-any.whl" },
+  { filename = "geodatasets-2023.12.0-py3-none-any.whl" },
+  { filename = "geodatasets-2023.3.0-py3-none-any.whl" },
+]

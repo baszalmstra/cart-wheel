@@ -1,0 +1,56 @@
+{
+  "netaddr-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c2c6a8ebe5554ce33b7d5b3a306b71bbb373e000bbbf2350dd5213cc56e3dbbe",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ipython ; extra == 'nicer-shell'"
+    ]
+  },
+  "netaddr-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd9e9534b0d46af328cf64f0e5a23a5a43fca292df221c85580b27394793496e",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ipython ; extra == 'nicer-shell'"
+    ]
+  },
+  "netaddr-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d542c37909f1624665ec7f59ea2e388a20eb678188f1b0c4cb50fdd600f89264",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ipython ; extra == 'shell'"
+    ]
+  },
+  "netaddr-0.10.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9822305b42ea1020d54fee322d43cee5622b044c07a1f0130b459bb467efcf88",
+    "dependencies": {
+      "required": [
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources ; python_version < \"3.7\""
+    ]
+  },
+  "netaddr-0.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8752f96c8fc24162edbf5b73d3e464b5d88e62869917582daa37b2695b65afb4",
+    "dependencies": {
+      "required": [
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources ; python_version < \"3.7\""
+    ]
+  }
+}

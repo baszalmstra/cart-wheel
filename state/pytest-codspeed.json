@@ -1,0 +1,110 @@
+{
+  "pytest_codspeed-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e81bbb45c130874ef99aca97929d72682733527a49f84239ba575b5cb843bab0",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "pytest",
+        "rich",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "cffi>=1.17.1",
+      "pytest>=3.8",
+      "rich>=13.8.1",
+      "importlib-metadata>=8.5.0; python_version < \"3.10\"",
+      "pytest-benchmark~=5.0.0; extra == \"compat\"",
+      "pytest-xdist~=3.6.1; extra == \"compat\""
+    ]
+  },
+  "pytest_codspeed-4.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a0a7aa318b09d87541f4f65db9cd473b53d4f1589598d883b238fe208ae2ac8b",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "pytest",
+        "rich",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "cffi>=1.17.1",
+      "pytest>=3.8",
+      "rich>=13.8.1",
+      "importlib-metadata>=8.5.0; python_version < \"3.10\"",
+      "pytest-benchmark~=5.0.0; extra == \"compat\"",
+      "pytest-xdist~=3.6.1; extra == \"compat\""
+    ]
+  },
+  "pytest_codspeed-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91c8b348c29522344e83c5b707ff4152836c10f3e8d673379ed93cee442d6c7d",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "pytest",
+        "rich",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "cffi>=1.17.1",
+      "pytest>=3.8",
+      "rich>=13.8.1",
+      "importlib-metadata>=8.5.0; python_version < \"3.10\"",
+      "pytest-benchmark~=5.0.0; extra == \"compat\"",
+      "pytest-xdist~=3.6.1; extra == \"compat\""
+    ]
+  },
+  "pytest_codspeed-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c5debd4b127dc1c507397a8304776f52cabbfa53aad6f51eae329a5489df1e06",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "pytest",
+        "rich",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "cffi>=1.17.1",
+      "pytest>=3.8",
+      "rich>=13.8.1",
+      "importlib-metadata>=8.5.0; python_version < \"3.10\"",
+      "mypy~=1.11.2; extra == \"lint\"",
+      "ruff~=0.11.12; extra == \"lint\"",
+      "pytest-benchmark~=5.0.0; extra == \"compat\"",
+      "pytest-xdist~=3.6.1; extra == \"compat\"",
+      "pytest~=7.0; extra == \"test\"",
+      "pytest-cov~=4.0.0; extra == \"test\""
+    ]
+  },
+  "pytest_codspeed-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "54b5c2e986d6a28e7b0af11d610ea57bd5531cec8326abe486f1b55b09d91c39",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "pytest",
+        "rich",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "cffi>=1.17.1",
+      "pytest>=3.8",
+      "rich>=13.8.1",
+      "importlib-metadata>=8.5.0; python_version < \"3.10\"",
+      "mypy~=1.11.2; extra == \"lint\"",
+      "ruff~=0.6.5; extra == \"lint\"",
+      "pytest-benchmark~=5.0.0; extra == \"compat\"",
+      "pytest-xdist~=3.6.1; extra == \"compat\"",
+      "pytest~=7.0; extra == \"test\"",
+      "pytest-cov~=4.0.0; extra == \"test\""
+    ]
+  }
+}

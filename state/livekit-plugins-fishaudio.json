@@ -1,0 +1,72 @@
+{
+  "livekit_plugins_fishaudio-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a022a84e5703c54d0c97b2ef17ac2d7f2d19af114b9b63b8df4e6096dc562e1",
+    "dependencies": {
+      "required": [
+        "fish-audio-sdk",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "fish-audio-sdk; python_version >= '3.10'",
+      "livekit-agents[codecs]>=1.3.6"
+    ]
+  },
+  "livekit_plugins_fishaudio-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "95aa95cf7a744e23434e6fa5cb0139032dc69811ee76177be4a4f9ad897c9fb9",
+    "dependencies": {
+      "required": [
+        "fish-audio-sdk",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "fish-audio-sdk; python_version >= '3.10'",
+      "livekit-agents[codecs]>=1.3.5"
+    ]
+  },
+  "livekit_plugins_fishaudio-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "33093a98a6dabd84ffccbd1a94466abb04d12f3c36e41b86562341db72885199",
+    "dependencies": {
+      "required": [
+        "fish-audio-sdk",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "fish-audio-sdk; python_version >= '3.10'",
+      "livekit-agents[codecs]>=1.3.4"
+    ]
+  },
+  "livekit_plugins_fishaudio-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58291a1835b80aff3e9da9865d731aed4fe5cea3c125a4a2167357f2e4800aa7",
+    "dependencies": {
+      "required": [
+        "fish-audio-sdk",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "fish-audio-sdk; python_version >= '3.10'",
+      "livekit-agents[codecs]>=1.3.3"
+    ]
+  },
+  "livekit_plugins_fishaudio-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e39c00744b86ffecfa44ca6c081af885bae9281a6c378b1f0b1b7e8d1171d049",
+    "dependencies": {
+      "required": [
+        "fish-audio-sdk",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "fish-audio-sdk; python_version >= '3.10'",
+      "livekit-agents[codecs]>=1.3.2"
+    ]
+  }
+}

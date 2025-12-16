@@ -1,0 +1,9 @@
+# Package configuration for lexid
+conda_forge = "lexid"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lexid-2021.1006-py2.py3-none-any.whl" },
+  { filename = "lexid-2020.1005-py2.py3-none-any.whl" },
+]

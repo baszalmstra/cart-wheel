@@ -1,0 +1,11 @@
+# Package configuration for clldutils
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "clldutils-3.24.2-py2.py3-none-any.whl" },
+  { filename = "clldutils-3.24.1-py2.py3-none-any.whl" },
+  { filename = "clldutils-3.24.0-py2.py3-none-any.whl" },
+  { filename = "clldutils-3.23.1-py2.py3-none-any.whl" },
+  { filename = "clldutils-3.23.0-py2.py3-none-any.whl" },
+]

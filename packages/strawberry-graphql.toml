@@ -1,0 +1,12 @@
+# Package configuration for strawberry-graphql
+conda_forge = "strawberry-graphql"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "strawberry_graphql-0.287.3-py3-none-any.whl" },
+  { filename = "strawberry_graphql-0.287.2-py3-none-any.whl" },
+  { filename = "strawberry_graphql-0.287.1-py3-none-any.whl" },
+  { filename = "strawberry_graphql-0.287.0-py3-none-any.whl" },
+  { filename = "strawberry_graphql-0.286.1-py3-none-any.whl" },
+]

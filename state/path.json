@@ -1,0 +1,133 @@
+{
+  "path-17.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec7e136df29172e5030dd07e037d55f676bdb29d15bfa09b80da29d07d3b9303",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "appdirs; extra == \"test\"",
+      "packaging; extra == \"test\"",
+      "pywin32; (platform_system == \"Windows\" and python_version < \"3.12\") and extra == \"test\"",
+      "more_itertools; extra == \"test\"",
+      "pygments; extra == \"test\"",
+      "types-pywin32; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "path-17.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "688e7ec254f07a1c25f5474662d4480c663a2c8c4eb15c0ba056d8ab81608d22",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "appdirs; extra == \"test\"",
+      "packaging; extra == \"test\"",
+      "pywin32; (platform_system == \"Windows\" and python_version < \"3.12\") and extra == \"test\"",
+      "more_itertools; extra == \"test\"",
+      "pygments; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "path-17.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b7309739c569e30110a34c6c812e582c09ff504c43e1232817410181838918ed",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "appdirs ; extra == 'test'",
+      "packaging ; extra == 'test'",
+      "more-itertools ; extra == 'test'",
+      "pygments ; extra == 'test'",
+      "pywin32 ; (platform_system == \"Windows\" and python_version < \"3.12\") and extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "path-16.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d981989cf87598adc9f5b71ec5192d314a384836e81b4b1f34197138dc4ae659",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "appdirs ; extra == 'test'",
+      "packaging ; extra == 'test'",
+      "more-itertools ; extra == 'test'",
+      "pygments ; extra == 'test'",
+      "pywin32 ; (platform_system == \"Windows\" and python_version < \"3.12\") and extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "path-16.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c29e3fe64f28e21081a4b69b5c7c907522fff68cb1db1e5e950de45db91283a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "appdirs ; extra == 'test'",
+      "packaging ; extra == 'test'",
+      "more-itertools ; extra == 'test'",
+      "pygments ; extra == 'test'",
+      "pywin32 ; (platform_system == \"Windows\" and python_version < \"3.12\") and extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  }
+}

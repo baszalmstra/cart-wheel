@@ -1,0 +1,12 @@
+# Package configuration for pytest-plus
+conda_forge = "pytest-plus"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_plus-0.8.1-py3-none-any.whl" },
+  { filename = "pytest_plus-0.8.0-py3-none-any.whl" },
+  { filename = "pytest_plus-0.7.0-py3-none-any.whl" },
+  { filename = "pytest_plus-0.6.1-py3-none-any.whl" },
+  { filename = "pytest_plus-0.6.0-py3-none-any.whl" },
+]

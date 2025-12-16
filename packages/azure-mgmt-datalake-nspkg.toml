@@ -1,0 +1,10 @@
+# Package configuration for azure-mgmt-datalake-nspkg
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_mgmt_datalake_nspkg-3.0.1-py3-none-any.whl" },
+  { filename = "azure_mgmt_datalake_nspkg-3.0.0-py2.py3-none-any.whl" },
+  { filename = "azure_mgmt_datalake_nspkg-2.0.0-py2.py3-none-any.whl" },
+  { filename = "azure_mgmt_datalake_nspkg-1.0.0-py2.py3-none-any.whl" },
+]

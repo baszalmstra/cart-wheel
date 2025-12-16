@@ -1,0 +1,9 @@
+# Package configuration for texsoup
+conda_forge = "texsoup"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "TexSoup-0.3.1-py3-none-any.whl" },
+  { filename = "TexSoup-0.2.0-py3-none-any.whl" },
+]

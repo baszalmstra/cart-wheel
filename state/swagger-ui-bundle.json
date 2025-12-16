@@ -1,0 +1,64 @@
+{
+  "swagger_ui_bundle-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f7526f7bb99923e10594c54247265839bec97e96b0438561ac86faf40d40dd57",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2 (>=3.0.0,<4.0.0)",
+      "importlib_resources (>=5.7.1,<6.0.0) ; python_version < \"3.9\""
+    ]
+  },
+  "swagger_ui_bundle-0.0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cea116ed81147c345001027325c1ddc9ca78c1ee7319935c3c75d3669279d575",
+    "dependencies": {
+      "required": [
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2 (>=2.0)"
+    ]
+  },
+  "swagger_ui_bundle-0.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f5255f786cde67a2638111f4a7d04355836743198a83c4ecbe815d9fc384b0c8",
+    "dependencies": {
+      "required": [
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2 (>=2.0)"
+    ]
+  },
+  "swagger_ui_bundle-0.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc2798e6dea99c6f2493a2edfd87c89a02521cb91a22cb0b9fd1dc4fa0ccc2e3",
+    "dependencies": {
+      "required": [
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2 (>=2.0)"
+    ]
+  },
+  "swagger_ui_bundle-0.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f776811855092c086dbb08216c8810a84accef8c76c796a135caa13645c5cc68",
+    "dependencies": {
+      "required": [
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2 (>=2.0)"
+    ]
+  }
+}

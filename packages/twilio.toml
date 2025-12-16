@@ -1,0 +1,12 @@
+# Package configuration for twilio
+conda_forge = "twilio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "twilio-9.8.8-py2.py3-none-any.whl" },
+  { filename = "twilio-9.8.7-py2.py3-none-any.whl" },
+  { filename = "twilio-9.8.6-py2.py3-none-any.whl" },
+  { filename = "twilio-9.8.5-py2.py3-none-any.whl" },
+  { filename = "twilio-9.8.4-py2.py3-none-any.whl" },
+]

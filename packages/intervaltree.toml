@@ -1,0 +1,8 @@
+# Package configuration for intervaltree
+conda_forge = "intervaltree"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "intervaltree-3.0.0-py3-none-any.whl" },
+]

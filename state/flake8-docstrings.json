@@ -1,0 +1,74 @@
+{
+  "flake8_docstrings-1.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51f2344026da083fc084166a9353f5082b01f72901df422f74b4d953ae88ac75",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "pydocstyle"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3)",
+      "pydocstyle (>=2.1)"
+    ]
+  },
+  "flake8_docstrings-1.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "99cac583d6c7e32dd28bbfbef120a7c0d1b6dde4adb5a9fd441c4227a6534bde",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "pydocstyle"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3)",
+      "pydocstyle (>=2.1)"
+    ]
+  },
+  "flake8_docstrings-1.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a256ba91bc52307bef1de59e2a009c3cf61c3d0952dbe035d6ff7208940c2edc",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "pydocstyle"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3)",
+      "pydocstyle (>=2.1)"
+    ]
+  },
+  "flake8_docstrings-1.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1666dd069c9c457ee57e80af3c1a6b37b00cc1801c6fde88e455131bb2e186cd",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "pydocstyle"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3)",
+      "pydocstyle (>=2.1)"
+    ]
+  },
+  "flake8_docstrings-1.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ad372b641f4c8e70c7465f067aed4ff8bf1e9347fce14f9eb71ed816db36257",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "pydocstyle",
+        "flake8-polyfill"
+      ]
+    },
+    "original_requirements": [
+      "flake8",
+      "pydocstyle (>=2.1)",
+      "flake8-polyfill"
+    ]
+  }
+}

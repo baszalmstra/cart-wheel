@@ -1,0 +1,94 @@
+{
+  "check_manifest-0.51-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f5f35ed561012fc2115bb070e42a748ac2e034cf8904ab4dfaae893859085ca4",
+    "dependencies": {
+      "required": [
+        "build",
+        "setuptools",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "build>=0.1",
+      "setuptools",
+      "tomli; python_version < \"3.11\"",
+      "mock>=3.0.0; python_version == \"3.7\" and extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "wheel; extra == \"test\""
+    ]
+  },
+  "check_manifest-0.50-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6ab3e3aa72a008da3314b432f4c768c9647b4d6d8032f9e1a4672a572118e48c",
+    "dependencies": {
+      "required": [
+        "build",
+        "setuptools",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "build>=0.1",
+      "setuptools",
+      "tomli; python_version < \"3.11\"",
+      "pytest; extra == \"test\"",
+      "wheel; extra == \"test\"",
+      "mock>=3.0.0; python_version == \"3.7\" and extra == \"test\""
+    ]
+  },
+  "check_manifest-0.49-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "058cd30057714c39b96ce4d83f254fc770e3145c7b1932b5940b4e3efb5521ef",
+    "dependencies": {
+      "required": [
+        "build",
+        "setuptools",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "build (>=0.1)",
+      "setuptools",
+      "tomli ; python_version < \"3.11\"",
+      "pytest ; extra == 'test'",
+      "mock (>=3.0.0) ; (python_version == \"3.7\") and extra == 'test'"
+    ]
+  },
+  "check_manifest-0.48-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1923685f98c1c2468601a1a7bed655db549a25d43c583caded3860ad8308f8c",
+    "dependencies": {
+      "required": [
+        "build",
+        "setuptools",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "build (>=0.1)",
+      "setuptools",
+      "tomli",
+      "mock (>=3.0.0) ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "check_manifest-0.47-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "365c94d65de4c927d9d8b505371d08ee19f9f369c86b9ac3db97c2754c827c95",
+    "dependencies": {
+      "required": [
+        "build",
+        "setuptools",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "build (>=0.1)",
+      "setuptools",
+      "toml",
+      "mock (>=3.0.0) ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for sqlparams
+conda_forge = "sqlparams"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sqlparams-6.2.0-py3-none-any.whl" },
+  { filename = "sqlparams-6.1.0-py3-none-any.whl" },
+  { filename = "sqlparams-6.0.1-py3-none-any.whl" },
+  { filename = "sqlparams-6.0.0-py3-none-any.whl" },
+  { filename = "sqlparams-5.1.0-py3-none-any.whl" },
+]

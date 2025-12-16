@@ -1,0 +1,12 @@
+# Package configuration for pg8000
+conda_forge = "pg8000"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pg8000-1.31.5-py3-none-any.whl" },
+  { filename = "pg8000-1.31.4-py3-none-any.whl" },
+  { filename = "pg8000-1.31.3-py3-none-any.whl" },
+  { filename = "pg8000-1.31.2-py3-none-any.whl" },
+  { filename = "pg8000-1.31.1-py3-none-any.whl" },
+]

@@ -1,0 +1,87 @@
+{
+  "pyspnego-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84cc8dae6ad21e04b37c50c1d3c743f05f193e39498f6010cc68ec1146afd007",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "sspilib"
+      ]
+    },
+    "original_requirements": [
+      "cryptography",
+      "sspilib>=0.3.0; sys_platform == \"win32\"",
+      "gssapi>=1.6.0; sys_platform != \"win32\" and extra == \"kerberos\"",
+      "krb5>=0.3.0; sys_platform != \"win32\" and extra == \"kerberos\"",
+      "ruamel.yaml; extra == \"yaml\""
+    ]
+  },
+  "pyspnego-0.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74abc1fb51e59360eb5c5c9086e5962174f1072c7a50cf6da0bda9a4bcfdfbd4",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "sspilib"
+      ]
+    },
+    "original_requirements": [
+      "cryptography",
+      "sspilib >=0.1.0 ; sys_platform == \"win32\"",
+      "gssapi >=1.6.0 ; (sys_platform != \"win32\") and extra == 'kerberos'",
+      "krb5 >=0.3.0 ; (sys_platform != \"win32\") and extra == 'kerberos'",
+      "ruamel.yaml ; extra == 'yaml'"
+    ]
+  },
+  "pyspnego-0.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "129a4294f2c4d681d5875240ef87accc6f1d921e8983737fb0b59642b397951e",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "sspilib"
+      ]
+    },
+    "original_requirements": [
+      "cryptography",
+      "sspilib >=0.1.0 ; sys_platform == \"win32\"",
+      "gssapi >=1.6.0 ; (sys_platform != \"win32\") and extra == 'kerberos'",
+      "krb5 >=0.3.0 ; (sys_platform != \"win32\") and extra == 'kerberos'",
+      "ruamel.yaml ; extra == 'yaml'"
+    ]
+  },
+  "pyspnego-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cdfe9af7b19749d692e02fd4bd1b4b71d44ecb8dd9b2474abb0f3d90f6154e7e",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "sspilib"
+      ]
+    },
+    "original_requirements": [
+      "cryptography",
+      "sspilib >=0.1.0 ; sys_platform == \"win32\"",
+      "gssapi >=1.6.0 ; (sys_platform != \"win32\") and extra == 'kerberos'",
+      "krb5 >=0.3.0 ; (sys_platform != \"win32\") and extra == 'kerberos'",
+      "ruamel.yaml ; extra == 'yaml'"
+    ]
+  },
+  "pyspnego-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d5c5c28dbd0cd6a679acf45219630254db3c0e5ad4a16de521caa0585b088c0",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "sspilib"
+      ]
+    },
+    "original_requirements": [
+      "cryptography",
+      "sspilib >=0.1.0 ; sys_platform == \"win32\"",
+      "gssapi >=1.6.0 ; (sys_platform != \"win32\") and extra == 'kerberos'",
+      "krb5 >=0.3.0 ; (sys_platform != \"win32\") and extra == 'kerberos'",
+      "ruamel.yaml ; extra == 'yaml'"
+    ]
+  }
+}

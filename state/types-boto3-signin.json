@@ -1,0 +1,26 @@
+{
+  "types_boto3_signin-1.42.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3af090bb252b969195fb0d344ffebbf89704812ec2f789d31059a70cb00a8bb0",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "types_boto3_signin-1.41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d6f7700c7cedcb9c786328c502c5462e13e1e61e75e03b40a72fac22761293ee",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

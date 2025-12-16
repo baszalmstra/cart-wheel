@@ -1,0 +1,12 @@
+# Package configuration for scramp
+conda_forge = "scramp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "scramp-1.4.6-py3-none-any.whl" },
+  { filename = "scramp-1.4.5-py3-none-any.whl" },
+  { filename = "scramp-1.4.4-py3-none-any.whl" },
+  { filename = "scramp-1.4.3-py3-none-any.whl" },
+  { filename = "scramp-1.4.2-py3-none-any.whl" },
+]

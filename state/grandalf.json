@@ -1,0 +1,46 @@
+{
+  "grandalf-0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "793ca254442f4a79252ea9ff1ab998e852c1e071b863593e5383afee906b4185",
+    "dependencies": {
+      "required": [
+        "pyparsing"
+      ]
+    },
+    "original_requirements": [
+      "pyparsing",
+      "numpy ; extra == 'full'",
+      "ply ; extra == 'full'"
+    ]
+  },
+  "grandalf-0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ba234b8962420a093af39de82e89b22e9152d54b05d2fa30953ce39fa52aea3",
+    "dependencies": {
+      "required": [
+        "pyparsing"
+      ]
+    },
+    "original_requirements": [
+      "pyparsing",
+      "numpy ; extra == 'full'",
+      "ply ; extra == 'full'"
+    ]
+  },
+  "grandalf-0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "357946e2fd35fc92c327cf3c091acc5aef93e0c74c60fed0a727d827ab3b1272",
+    "dependencies": {
+      "required": [
+        "pyparsing",
+        "future"
+      ]
+    },
+    "original_requirements": [
+      "pyparsing",
+      "future",
+      "numpy; extra == 'full'",
+      "ply; extra == 'full'"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "apache_airflow_providers_neo4j-3.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "61011db075245d669bec8d18129ad15eb7595fabcc04c0003265271e8f62f1b7",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "neo4j>=5.20.0"
+    ]
+  },
+  "apache_airflow_providers_neo4j-3.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b606cd8d9aef7cdd3b9006b814ef5c3b4fe140790040d866110d27e80ce5ef72",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "neo4j>=5.20.0"
+    ]
+  },
+  "apache_airflow_providers_neo4j-3.10.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3159042d1a13a15276f5784eaa03ad2481d8f67163155a739c91cfeb0543778",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "neo4j>=5.20.0"
+    ]
+  },
+  "apache_airflow_providers_neo4j-3.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "73bfb5a079aa057d13021d8a16fe74318281fa203df6639c9950990eeefb8d3a",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "neo4j>=5.20.0"
+    ]
+  },
+  "apache_airflow_providers_neo4j-3.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ab090b2b6534ec3ef84b09a8ce5064b41273a0f6d673698a3b1cea29feebb826",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "neo4j>=5.20.0"
+    ]
+  }
+}

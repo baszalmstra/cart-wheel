@@ -1,0 +1,11 @@
+# Package configuration for aiohttp-theme
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiohttp_theme-0.1.7-py2.py3-none-any.whl" },
+  { filename = "aiohttp_theme-0.1.6-py2.py3-none-any.whl" },
+  { filename = "aiohttp_theme-0.1.5-py2.py3-none-any.whl" },
+  { filename = "aiohttp_theme-0.1.4-py2.py3-none-any.whl" },
+  { filename = "aiohttp_theme-0.1.3-py2.py3-none-any.whl" },
+]

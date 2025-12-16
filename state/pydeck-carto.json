@@ -1,0 +1,32 @@
+{
+  "pydeck_carto-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2282a4fec6ff255c1b56f5bcb2d15f42c635d75f1f5dd5b0e01c4eb32b9fd548",
+    "dependencies": {
+      "required": [
+        "pydeck",
+        "carto-auth",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pydeck (>=0.9.0)",
+      "carto-auth (>=0.2.0)",
+      "typing-extensions (>=4.0.0)"
+    ]
+  },
+  "pydeck_carto-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e581369950ab83d5cd239a912dc77e2c8b370a21fb5dc1d358016613e1b68895",
+    "dependencies": {
+      "required": [
+        "carto-auth",
+        "pydeck"
+      ]
+    },
+    "original_requirements": [
+      "carto-auth (>=0.1.0)",
+      "pydeck (>=0.8.0)"
+    ]
+  }
+}

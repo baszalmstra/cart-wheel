@@ -1,0 +1,9 @@
+# Package configuration for pytest-fixture-config
+conda_forge = "pytest-fixture-config"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_fixture_config-1.8.0-py3-none-any.whl" },
+  { filename = "pytest_fixture_config-1.7.0-py2.py3-none-any.whl" },
+]

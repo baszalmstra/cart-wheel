@@ -1,0 +1,52 @@
+{
+  "sigoptlite-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fdb776b48ba1603d4537dfe85ebeec878ebe937304d845efa81b8fe9c9c63502",
+    "dependencies": {
+      "required": [
+        "libsigopt",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "libsigopt (==1.0.0)",
+      "numpy (<2,>=1.22.4)"
+    ]
+  },
+  "sigoptlite-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b64562b6a2786576ca48d87f9136a355c840753839d35cb7c0b3981ce293b6ea",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "qmcpy",
+        "jsonschema"
+      ]
+    },
+    "original_requirements": [
+      "numpy (==1.22.4)",
+      "scipy (==1.10.1)",
+      "qmcpy (==1.2)",
+      "jsonschema (==3.2.0)"
+    ]
+  },
+  "sigoptlite-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f41d34d6b5c036d3379496edc3b20fb38c3602621affdee76e7cc0676c4f9733",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "qmcpy",
+        "jsonschema"
+      ]
+    },
+    "original_requirements": [
+      "numpy (==1.22.4)",
+      "scipy (==1.10.1)",
+      "qmcpy (==1.2)",
+      "jsonschema (==3.2.0)"
+    ]
+  }
+}

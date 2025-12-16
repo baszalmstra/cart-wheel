@@ -1,0 +1,11 @@
+# Package configuration for sybil-extras
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sybil_extras-2025.12.13.4-py2.py3-none-any.whl" },
+  { filename = "sybil_extras-2025.12.13.3-py2.py3-none-any.whl" },
+  { filename = "sybil_extras-2025.12.13.2-py2.py3-none-any.whl" },
+  { filename = "sybil_extras-2025.12.13.1-py2.py3-none-any.whl" },
+  { filename = "sybil_extras-2025.12.13-py2.py3-none-any.whl" },
+]

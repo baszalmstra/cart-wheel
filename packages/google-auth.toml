@@ -1,0 +1,12 @@
+# Package configuration for google-auth
+conda_forge = "google-auth"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_auth-2.43.0-py2.py3-none-any.whl" },
+  { filename = "google_auth-2.42.1-py2.py3-none-any.whl" },
+  { filename = "google_auth-2.42.0-py2.py3-none-any.whl" },
+  { filename = "google_auth-2.41.1-py2.py3-none-any.whl" },
+  { filename = "google_auth-2.41.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for ibm-generative-ai
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ibm_generative_ai-3.0.0-py3-none-any.whl" },
+  { filename = "ibm_generative_ai-2.3.0-py3-none-any.whl" },
+  { filename = "ibm_generative_ai-2.2.0-py3-none-any.whl" },
+  { filename = "ibm_generative_ai-2.1.1-py3-none-any.whl" },
+  { filename = "ibm_generative_ai-2.1.0-py3-none-any.whl" },
+]

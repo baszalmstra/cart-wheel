@@ -1,0 +1,10 @@
+# Package configuration for gammatone
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Gammatone-1.0.3-py3-none-any.whl" },
+  { filename = "Gammatone-1.0.2-py3-none-any.whl" },
+  { filename = "Gammatone-1.0.1-py3-none-any.whl" },
+  { filename = "Gammatone-1.0.0-py3-none-any.whl" },
+]

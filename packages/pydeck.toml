@@ -1,0 +1,12 @@
+# Package configuration for pydeck
+conda_forge = "pydeck"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydeck-0.9.1-py2.py3-none-any.whl" },
+  { filename = "pydeck-0.9.0-py2.py3-none-any.whl" },
+  { filename = "pydeck-0.8.0-py2.py3-none-any.whl" },
+  { filename = "pydeck-0.7.1-py2.py3-none-any.whl" },
+  { filename = "pydeck-0.7.0-py2.py3-none-any.whl" },
+]

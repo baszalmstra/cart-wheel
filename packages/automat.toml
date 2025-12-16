@@ -1,0 +1,12 @@
+# Package configuration for automat
+conda_forge = "automat"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "automat-25.4.16-py3-none-any.whl" },
+  { filename = "Automat-24.8.1-py3-none-any.whl" },
+  { filename = "Automat-22.10.0-py2.py3-none-any.whl" },
+  { filename = "Automat-20.2.0-py2.py3-none-any.whl" },
+  { filename = "Automat-0.8.0-py2.py3-none-any.whl" },
+]

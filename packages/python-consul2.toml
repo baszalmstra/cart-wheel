@@ -1,0 +1,12 @@
+# Package configuration for python-consul2
+conda_forge = "python-consul2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_consul2-0.1.5-py2.py3-none-any.whl" },
+  { filename = "python_consul2-0.1.4-py2.py3-none-any.whl" },
+  { filename = "python_consul2-0.1.3-py2.py3-none-any.whl" },
+  { filename = "python_consul2-0.1.1-py2.py3-none-any.whl" },
+  { filename = "python_consul2-0.1.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,132 @@
+{
+  "workalendar-17.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8fe1d6758f9a1af05d59cb81480afb912246ec7fa46e246b909897127cdbb1b0",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "lunardate",
+        "convertdate",
+        "pyluach",
+        "tzdata",
+        "importlib-metadata",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "lunardate",
+      "convertdate",
+      "pyluach",
+      "tzdata ; platform_system == \"Windows\"",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "backports.zoneinfo ; python_version < \"3.9\"",
+      "skyfield ; extra == 'astronomy'",
+      "skyfield-data ; extra == 'astronomy'"
+    ]
+  },
+  "workalendar-16.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f856cf92cdb0cdf55b8e80ec0c1b2419edc816e792ed4e7b7f16e2bf292dc12",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "lunardate",
+        "convertdate",
+        "pyluach",
+        "tzdata",
+        "importlib-metadata",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "lunardate",
+      "convertdate",
+      "pyluach",
+      "tzdata ; platform_system == \"Windows\"",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "backports.zoneinfo ; python_version < \"3.9\"",
+      "skyfield ; extra == 'astronomy'",
+      "skyfield-data ; extra == 'astronomy'"
+    ]
+  },
+  "workalendar-16.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d241315fe880231fdaf15c03e50e2e8973c2c946e10c78f2f2c23c86f6be4f0a",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "lunardate",
+        "convertdate",
+        "pyluach",
+        "tzdata",
+        "importlib-metadata",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "lunardate",
+      "convertdate",
+      "pyluach",
+      "tzdata ; platform_system == \"Windows\"",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "backports.zoneinfo ; python_version < \"3.9\"",
+      "skyfield ; extra == 'astronomy'",
+      "skyfield-data ; extra == 'astronomy'"
+    ]
+  },
+  "workalendar-16.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "621a4eaeb812c160995b75a0bae8dc1487a93835a5f5b1338b84f2f34b5c1aae",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "lunardate",
+        "convertdate",
+        "pyluach",
+        "tzdata",
+        "importlib-metadata",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "lunardate",
+      "convertdate",
+      "pyluach",
+      "tzdata ; platform_system == \"Windows\"",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "backports.zoneinfo ; python_version < \"3.9\"",
+      "skyfield ; extra == 'astronomy'",
+      "skyfield-data ; extra == 'astronomy'"
+    ]
+  },
+  "workalendar-16.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3039afd55423c0edf6d83396235413363f39ecc0d1d9c213218962f536006f9a",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "lunardate",
+        "convertdate",
+        "pyluach",
+        "tzdata",
+        "importlib-metadata",
+        "backports.zoneinfo"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "lunardate",
+      "convertdate",
+      "pyluach",
+      "tzdata ; platform_system == \"Windows\"",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "backports.zoneinfo ; python_version < \"3.9\"",
+      "skyfield ; extra == 'astronomy'",
+      "skyfield-data ; extra == 'astronomy'"
+    ]
+  }
+}

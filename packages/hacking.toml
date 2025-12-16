@@ -1,0 +1,11 @@
+# Package configuration for hacking
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hacking-8.0.0-py3-none-any.whl" },
+  { filename = "hacking-7.0.0-py3-none-any.whl" },
+  { filename = "hacking-6.1.0-py3-none-any.whl" },
+  { filename = "hacking-6.0.1-py3-none-any.whl" },
+  { filename = "hacking-6.0.0-py3-none-any.whl" },
+]

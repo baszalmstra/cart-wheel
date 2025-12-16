@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-storage-transfer
+conda_forge = "google-cloud-storage-transfer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_storage_transfer-1.18.0-py3-none-any.whl" },
+  { filename = "google_cloud_storage_transfer-1.17.0-py3-none-any.whl" },
+  { filename = "google_cloud_storage_transfer-1.16.1-py3-none-any.whl" },
+  { filename = "google_cloud_storage_transfer-1.16.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_storage_transfer-1.15.0-py2.py3-none-any.whl" },
+]

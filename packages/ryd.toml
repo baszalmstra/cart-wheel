@@ -1,0 +1,11 @@
+# Package configuration for ryd
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ryd-0.9.2-py3-none-any.whl" },
+  { filename = "ryd-0.9.1-py3-none-any.whl" },
+  { filename = "ryd-0.9.0-py3-none-any.whl" },
+  { filename = "ryd-0.8.4-py3-none-any.whl" },
+  { filename = "ryd-0.8.3-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for asyncache
+conda_forge = "asyncache"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "asyncache-0.3.1-py3-none-any.whl" },
+  { filename = "asyncache-0.3.0-py3-none-any.whl" },
+  { filename = "asyncache-0.2.0-py3-none-any.whl" },
+  { filename = "asyncache-0.1.0-py2.py3-none-any.whl" },
+]

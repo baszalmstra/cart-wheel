@@ -1,0 +1,8 @@
+# Package configuration for dadaptation
+conda_forge = "dadaptation"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dadaptation-2.0-py3-none-any.whl" },
+]

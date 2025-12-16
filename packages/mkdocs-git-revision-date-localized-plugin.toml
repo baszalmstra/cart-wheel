@@ -1,0 +1,12 @@
+# Package configuration for mkdocs-git-revision-date-localized-plugin
+conda_forge = "mkdocs-git-revision-date-localized-plugin"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_git_revision_date_localized_plugin-1.5.0-py3-none-any.whl" },
+  { filename = "mkdocs_git_revision_date_localized_plugin-1.4.7-py3-none-any.whl" },
+  { filename = "mkdocs_git_revision_date_localized_plugin-1.4.6-py3-none-any.whl" },
+  { filename = "mkdocs_git_revision_date_localized_plugin-1.4.5-py3-none-any.whl" },
+  { filename = "mkdocs_git_revision_date_localized_plugin-1.4.4-py3-none-any.whl" },
+]

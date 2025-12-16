@@ -1,0 +1,146 @@
+{
+  "skops-0.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55e2cccb18c86f5916e4cfe5acf55ed7b0eecddf08a151906414c092fa5926dc",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "packaging",
+        "prettytable",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.25.0",
+      "packaging>=17.0",
+      "prettytable>=3.9",
+      "scikit-learn>=1.2",
+      "scipy>=1.10.0",
+      "rich>=12; extra == 'rich'"
+    ]
+  },
+  "skops-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c4535262be7bb8268fabb2d48b52d9038a3c291273877c6f9062af0d0c99c84",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "packaging",
+        "prettytable",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.25.0",
+      "packaging>=17.0",
+      "prettytable>=3.9",
+      "scikit-learn>=1.2",
+      "scipy>=1.10.0",
+      "rich>=12; extra == 'rich'"
+    ]
+  },
+  "skops-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c6109e27e4d762948cad7d21de008034bd14e15f111e9405c7930e74a7fe8c1",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "packaging",
+        "scikit-learn",
+        "tabulate"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub>=0.17.0",
+      "packaging>=17.0",
+      "scikit-learn>=1.1",
+      "tabulate>=0.8.8",
+      "rich>=12; extra == 'rich'"
+    ]
+  },
+  "skops-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a8a8efe7dca350f920cb0d18a2b79168520ebf28ac7dda78c51c31878583622",
+    "dependencies": {
+      "required": [
+        "scikit-learn",
+        "huggingface-hub",
+        "tabulate",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "scikit-learn >=0.24",
+      "huggingface-hub >=0.17.0",
+      "tabulate >=0.8.8",
+      "packaging >=17.0",
+      "sphinx >=3.2.0 ; extra == 'docs'",
+      "sphinx-gallery >=0.7.0 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1 ; extra == 'docs'",
+      "numpydoc >=1.0.0 ; extra == 'docs'",
+      "sphinx-prompt >=1.3.0 ; extra == 'docs'",
+      "sphinx-issues >=1.2.0 ; extra == 'docs'",
+      "matplotlib >=3.3 ; extra == 'docs'",
+      "pandas >=1 ; extra == 'docs'",
+      "fairlearn >=0.7.0 ; extra == 'docs'",
+      "rich >=12 ; extra == 'rich'",
+      "quantile-forest >=1.0.0 ; extra == 'tests'",
+      "pytest >=7 ; extra == 'tests'",
+      "pytest-cov >=2.9.0 ; extra == 'tests'",
+      "flake8 >=3.8.2 ; extra == 'tests'",
+      "types-requests >=2.28.5 ; extra == 'tests'",
+      "flaky >=3.7.0 ; extra == 'tests'",
+      "matplotlib >=3.3 ; extra == 'tests'",
+      "pandas >=1 ; extra == 'tests'",
+      "lightgbm >=3 ; extra == 'tests'",
+      "xgboost >=1.6 ; extra == 'tests'",
+      "catboost >=1.0 ; extra == 'tests'",
+      "fairlearn >=0.7.0 ; extra == 'tests'",
+      "rich >=12 ; extra == 'tests'"
+    ]
+  },
+  "skops-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "05645199bf6976e1f6dbba4a0704799cd5d2fcef18a98b069b4c84744e1a80a1",
+    "dependencies": {
+      "required": [
+        "scikit-learn",
+        "huggingface-hub",
+        "tabulate",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "scikit-learn >=0.24",
+      "huggingface-hub >=0.17.0",
+      "tabulate >=0.8.8",
+      "packaging >=17.0",
+      "scikit-learn-intelex >=2021.7.1 ; extra == 'docs'",
+      "sphinx >=3.2.0 ; extra == 'docs'",
+      "sphinx-gallery >=0.7.0 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1 ; extra == 'docs'",
+      "numpydoc >=1.0.0 ; extra == 'docs'",
+      "sphinx-prompt >=1.3.0 ; extra == 'docs'",
+      "sphinx-issues >=1.2.0 ; extra == 'docs'",
+      "matplotlib >=3.3 ; extra == 'docs'",
+      "pandas >=1 ; extra == 'docs'",
+      "fairlearn >=0.7.0 ; extra == 'docs'",
+      "rich >=12 ; extra == 'rich'",
+      "quantile-forest >=1.0.0 ; extra == 'tests'",
+      "pytest >=5.0.1 ; extra == 'tests'",
+      "pytest-cov >=2.9.0 ; extra == 'tests'",
+      "flake8 >=3.8.2 ; extra == 'tests'",
+      "types-requests >=2.28.5 ; extra == 'tests'",
+      "flaky >=3.7.0 ; extra == 'tests'",
+      "matplotlib >=3.3 ; extra == 'tests'",
+      "pandas >=1 ; extra == 'tests'",
+      "lightgbm >=3 ; extra == 'tests'",
+      "xgboost >=1.6 ; extra == 'tests'",
+      "catboost >=1.0 ; extra == 'tests'",
+      "fairlearn >=0.7.0 ; extra == 'tests'",
+      "rich >=12 ; extra == 'tests'"
+    ]
+  }
+}

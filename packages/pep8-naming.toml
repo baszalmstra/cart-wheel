@@ -1,0 +1,12 @@
+# Package configuration for pep8-naming
+conda_forge = "pep8-naming"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pep8_naming-0.15.1-py3-none-any.whl" },
+  { filename = "pep8_naming-0.15.0-py3-none-any.whl" },
+  { filename = "pep8_naming-0.14.1-py3-none-any.whl" },
+  { filename = "pep8_naming-0.14.0-py3-none-any.whl" },
+  { filename = "pep8_naming-0.13.3-py3-none-any.whl" },
+]

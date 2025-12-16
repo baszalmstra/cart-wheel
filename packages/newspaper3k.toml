@@ -1,0 +1,9 @@
+# Package configuration for newspaper3k
+conda_forge = "newspaper3k"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "newspaper3k-0.2.8-py3-none-any.whl" },
+  { filename = "newspaper3k-0.2.7-py3-none-any.whl" },
+]

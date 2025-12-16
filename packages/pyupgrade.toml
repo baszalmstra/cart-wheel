@@ -1,0 +1,12 @@
+# Package configuration for pyupgrade
+conda_forge = "pyupgrade"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyupgrade-3.21.2-py2.py3-none-any.whl" },
+  { filename = "pyupgrade-3.21.1-py2.py3-none-any.whl" },
+  { filename = "pyupgrade-3.21.0-py2.py3-none-any.whl" },
+  { filename = "pyupgrade-3.20.0-py2.py3-none-any.whl" },
+  { filename = "pyupgrade-3.19.1-py2.py3-none-any.whl" },
+]

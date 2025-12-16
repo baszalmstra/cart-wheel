@@ -1,0 +1,12 @@
+# Package configuration for dnspython
+conda_forge = "dnspython"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dnspython-2.8.0-py3-none-any.whl" },
+  { filename = "dnspython-2.7.0-py3-none-any.whl" },
+  { filename = "dnspython-2.6.1-py3-none-any.whl" },
+  { filename = "dnspython-2.6.0-py3-none-any.whl" },
+  { filename = "dnspython-2.5.0-py3-none-any.whl" },
+]

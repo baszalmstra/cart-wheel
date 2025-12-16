@@ -1,0 +1,138 @@
+{
+  "fiddle-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4824541c103a94a2f33f6c93eeddf6007c3a7300440087a95907f3e74362e61",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "graphviz",
+        "libcst",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "graphviz",
+      "libcst",
+      "typing-extensions",
+      "absl-py ; extra == 'flags'",
+      "etils[epath] ; extra == 'flags'",
+      "cloudpickle ; extra == 'testing'",
+      "fiddle[flags] ; extra == 'testing'",
+      "flax ; extra == 'testing'",
+      "graphviz ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytype ; extra == 'testing'",
+      "seqio ; extra == 'testing'",
+      "tfds-nightly >=4.9.2.dev202308090034 ; extra == 'testing'"
+    ]
+  },
+  "fiddle-0.2.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a9a9d00b7ca8a87717bfc89ad8e9f87657c4a9db1d44efabb6581bdf01d579e",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "graphviz",
+        "libcst",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "graphviz",
+      "libcst",
+      "typing-extensions",
+      "absl-py ; extra == 'flags'",
+      "etils[epath] ; extra == 'flags'",
+      "cloudpickle ; extra == 'testing'",
+      "fiddle[flags] ; extra == 'testing'",
+      "flax ; extra == 'testing'",
+      "graphviz ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytype ; extra == 'testing'",
+      "seqio-nightly ; extra == 'testing'"
+    ]
+  },
+  "fiddle-0.2.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "05bbb677195d429b66b0a036624d16cb6a6f096fde9e4e139e1ba127087d7852",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "graphviz",
+        "libcst",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "graphviz",
+      "libcst",
+      "typing-extensions",
+      "absl-py ; extra == 'flags'",
+      "etils[epath] ; extra == 'flags'",
+      "cloudpickle ; extra == 'testing'",
+      "fiddle[flags] ; extra == 'testing'",
+      "flax ; extra == 'testing'",
+      "graphviz ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytype ; extra == 'testing'",
+      "seqio-nightly ; extra == 'testing'"
+    ]
+  },
+  "fiddle-0.2.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a5b91781f2a255fb98a5547ad25f5b9112baabf72bcad10123a497cf35cfaac8",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "graphviz",
+        "libcst",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "graphviz",
+      "libcst",
+      "typing-extensions",
+      "absl-py ; extra == 'flags'",
+      "etils[epath] ; extra == 'flags'",
+      "cloudpickle ; extra == 'testing'",
+      "fiddle[flags] ; extra == 'testing'",
+      "flax ; extra == 'testing'",
+      "graphviz ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytype ; extra == 'testing'",
+      "seqio-nightly ; extra == 'testing'"
+    ]
+  },
+  "fiddle-0.2.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60beb8330fb5923fb36f15fabd8814232383564d50908c142a52dd5e53ea173e",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "graphviz",
+        "libcst",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "graphviz",
+      "libcst",
+      "typing-extensions",
+      "absl-py ; extra == 'flags'",
+      "etils[epath] ; extra == 'flags'",
+      "cloudpickle ; extra == 'testing'",
+      "fiddle[flags] ; extra == 'testing'",
+      "flax ; extra == 'testing'",
+      "graphviz ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytype ; extra == 'testing'",
+      "seqio-nightly ; extra == 'testing'"
+    ]
+  }
+}

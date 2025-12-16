@@ -1,0 +1,57 @@
+{
+  "pymysql-1.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e6b1d89711dd51f8f74b1631fe08f039e7d76cf67a42a323d3178f0f25762ed9",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cryptography; extra == \"rsa\"",
+      "PyNaCl>=1.4.0; extra == \"ed25519\""
+    ]
+  },
+  "PyMySQL-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4de15da4c61dc132f4fb9ab763063e693d521a80fd0e87943b9a453dd4c19d6c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "PyNaCl >=1.4.0 ; extra == 'ed25519'",
+      "cryptography ; extra == 'rsa'"
+    ]
+  },
+  "PyMySQL-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8969ec6d763c856f7073c4c64662882675702efcb114b4bcbb955aea3a069fa7",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "PyNaCl (>=1.4.0) ; extra == 'ed25519'",
+      "cryptography ; extra == 'rsa'"
+    ]
+  },
+  "PyMySQL-1.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "89fc6ae41c0aeb6e1f7710cdd623702ea2c54d040565767a78b00a5ebb12f4e5",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "PyNaCl (>=1.4.0) ; extra == 'ed25519'",
+      "cryptography ; extra == 'rsa'"
+    ]
+  },
+  "PyMySQL-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41fc3a0c5013d5f039639442321185532e3e2c8924687abe6537de157d403641",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "PyNaCl (>=1.4.0) ; extra == 'ed25519'",
+      "cryptography ; extra == 'rsa'"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "pytorch_pretrained_bert-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ddd86f2f4ca595a2ad05d48c35d4f5c1c5f150bef79d56e3159701840a574d06",
+    "dependencies": {
+      "required": [
+        "torch",
+        "numpy",
+        "boto3",
+        "requests",
+        "tqdm",
+        "regex"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=0.4.1)",
+      "numpy",
+      "boto3",
+      "requests",
+      "tqdm",
+      "regex"
+    ]
+  },
+  "pytorch_pretrained_bert-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "138c9702cc8da0c949a3b266a0c6e436aee4ae1c722b5d3eb1e47fb4b2b0f197",
+    "dependencies": {
+      "required": [
+        "torch",
+        "numpy",
+        "boto3",
+        "requests",
+        "tqdm",
+        "regex"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=0.4.1)",
+      "numpy",
+      "boto3",
+      "requests",
+      "tqdm",
+      "regex"
+    ]
+  },
+  "pytorch_pretrained_bert-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d56ed3245571556cf3915dc1c2122e5c2928ff2a18bb7fd3c8e18b823cbbf6c",
+    "dependencies": {
+      "required": [
+        "torch",
+        "numpy",
+        "boto3",
+        "requests",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=0.4.1)",
+      "numpy",
+      "boto3",
+      "requests",
+      "tqdm"
+    ]
+  },
+  "pytorch_pretrained_bert-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "89331120c15fd73c709cfe9309bcfc403855484fa75c7bed27d930d7e2541000",
+    "dependencies": {
+      "required": [
+        "torch",
+        "numpy",
+        "boto3",
+        "requests",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=0.4.1)",
+      "numpy",
+      "boto3",
+      "requests",
+      "tqdm"
+    ]
+  },
+  "pytorch_pretrained_bert-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "662c96d1085a13628d2915eb3d0af442c0e2961c02131e1077f551251e80ea95",
+    "dependencies": {
+      "required": [
+        "torch",
+        "numpy",
+        "boto3",
+        "requests",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=0.4.1)",
+      "numpy",
+      "boto3",
+      "requests",
+      "tqdm"
+    ]
+  }
+}

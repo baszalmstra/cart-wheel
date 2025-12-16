@@ -1,0 +1,12 @@
+# Package configuration for grpc-google-iam-v1
+conda_forge = "grpc-google-iam-v1"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "grpc_google_iam_v1-0.14.3-py3-none-any.whl" },
+  { filename = "grpc_google_iam_v1-0.14.2-py3-none-any.whl" },
+  { filename = "grpc_google_iam_v1-0.14.1-py2.py3-none-any.whl" },
+  { filename = "grpc_google_iam_v1-0.14.0-py2.py3-none-any.whl" },
+  { filename = "grpc_google_iam_v1-0.13.1-py2.py3-none-any.whl" },
+]

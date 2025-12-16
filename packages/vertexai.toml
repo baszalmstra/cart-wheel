@@ -1,0 +1,11 @@
+# Package configuration for vertexai
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "vertexai-1.71.1-py3-none-any.whl" },
+  { filename = "vertexai-1.71.0-py3-none-any.whl" },
+  { filename = "vertexai-1.70.0-py3-none-any.whl" },
+  { filename = "vertexai-1.69.0-py3-none-any.whl" },
+  { filename = "vertexai-1.68.0-py3-none-any.whl" },
+]

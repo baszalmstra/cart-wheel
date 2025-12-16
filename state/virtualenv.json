@@ -1,0 +1,195 @@
+{
+  "virtualenv-20.35.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c21c9cede36c9753eeade68ba7d523529f228a403463376cf821eaae2b650f1b",
+    "dependencies": {
+      "required": [
+        "distlib",
+        "filelock",
+        "importlib-metadata",
+        "platformdirs",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "distlib<1,>=0.3.7",
+      "filelock<4,>=3.12.2",
+      "importlib-metadata>=6.6; python_version < '3.8'",
+      "platformdirs<5,>=3.9.1",
+      "typing-extensions>=4.13.2; python_version < '3.11'",
+      "furo>=2023.7.26; extra == 'docs'",
+      "proselint>=0.13; extra == 'docs'",
+      "sphinx!=7.3,>=7.1.2; extra == 'docs'",
+      "sphinx-argparse>=0.4; extra == 'docs'",
+      "sphinxcontrib-towncrier>=0.2.1a0; extra == 'docs'",
+      "towncrier>=23.6; extra == 'docs'",
+      "covdefaults>=2.3; extra == 'test'",
+      "coverage-enable-subprocess>=1; extra == 'test'",
+      "coverage>=7.2.7; extra == 'test'",
+      "flaky>=3.7; extra == 'test'",
+      "packaging>=23.1; extra == 'test'",
+      "pytest-env>=0.8.2; extra == 'test'",
+      "pytest-freezer>=0.4.8; (platform_python_implementation == 'PyPy' or platform_python_implementation == 'GraalVM' or (platform_python_implementation == 'CPython' and sys_platform == 'win32' and python_version >= '3.13')) and extra == 'test'",
+      "pytest-mock>=3.11.1; extra == 'test'",
+      "pytest-randomly>=3.12; extra == 'test'",
+      "pytest-timeout>=2.1; extra == 'test'",
+      "pytest>=7.4; extra == 'test'",
+      "setuptools>=68; extra == 'test'",
+      "time-machine>=2.10; (platform_python_implementation == 'CPython') and extra == 'test'"
+    ]
+  },
+  "virtualenv-20.35.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63d106565078d8c8d0b206d48080f938a8b25361e19432d2c9db40d2899c810a",
+    "dependencies": {
+      "required": [
+        "distlib",
+        "filelock",
+        "importlib-metadata",
+        "platformdirs",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "distlib<1,>=0.3.7",
+      "filelock<4,>=3.12.2",
+      "importlib-metadata>=6.6; python_version < '3.8'",
+      "platformdirs<5,>=3.9.1",
+      "typing-extensions>=4.13.2; python_version < '3.11'",
+      "furo>=2023.7.26; extra == 'docs'",
+      "proselint>=0.13; extra == 'docs'",
+      "sphinx!=7.3,>=7.1.2; extra == 'docs'",
+      "sphinx-argparse>=0.4; extra == 'docs'",
+      "sphinxcontrib-towncrier>=0.2.1a0; extra == 'docs'",
+      "towncrier>=23.6; extra == 'docs'",
+      "covdefaults>=2.3; extra == 'test'",
+      "coverage-enable-subprocess>=1; extra == 'test'",
+      "coverage>=7.2.7; extra == 'test'",
+      "flaky>=3.7; extra == 'test'",
+      "packaging>=23.1; extra == 'test'",
+      "pytest-env>=0.8.2; extra == 'test'",
+      "pytest-freezer>=0.4.8; (platform_python_implementation == 'PyPy' or platform_python_implementation == 'GraalVM' or (platform_python_implementation == 'CPython' and sys_platform == 'win32' and python_version >= '3.13')) and extra == 'test'",
+      "pytest-mock>=3.11.1; extra == 'test'",
+      "pytest-randomly>=3.12; extra == 'test'",
+      "pytest-timeout>=2.1; extra == 'test'",
+      "pytest>=7.4; extra == 'test'",
+      "setuptools>=68; extra == 'test'",
+      "time-machine>=2.10; (platform_python_implementation == 'CPython') and extra == 'test'"
+    ]
+  },
+  "virtualenv-20.35.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0cbdff9afbd6a89eacbff54dbdcde5901add75ae3eb086b1a32ff5ac6eff790",
+    "dependencies": {
+      "required": [
+        "distlib",
+        "filelock",
+        "importlib-metadata",
+        "platformdirs",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "distlib<1,>=0.3.7",
+      "filelock<4,>=3.12.2",
+      "importlib-metadata>=6.6; python_version < '3.8'",
+      "platformdirs<5,>=3.9.1",
+      "typing-extensions>=4.13.2; python_version < '3.11'",
+      "furo>=2023.7.26; extra == 'docs'",
+      "proselint>=0.13; extra == 'docs'",
+      "sphinx!=7.3,>=7.1.2; extra == 'docs'",
+      "sphinx-argparse>=0.4; extra == 'docs'",
+      "sphinxcontrib-towncrier>=0.2.1a0; extra == 'docs'",
+      "towncrier>=23.6; extra == 'docs'",
+      "covdefaults>=2.3; extra == 'test'",
+      "coverage-enable-subprocess>=1; extra == 'test'",
+      "coverage>=7.2.7; extra == 'test'",
+      "flaky>=3.7; extra == 'test'",
+      "packaging>=23.1; extra == 'test'",
+      "pytest-env>=0.8.2; extra == 'test'",
+      "pytest-freezer>=0.4.8; (platform_python_implementation == 'PyPy' or platform_python_implementation == 'GraalVM' or (platform_python_implementation == 'CPython' and sys_platform == 'win32' and python_version >= '3.13')) and extra == 'test'",
+      "pytest-mock>=3.11.1; extra == 'test'",
+      "pytest-randomly>=3.12; extra == 'test'",
+      "pytest-timeout>=2.1; extra == 'test'",
+      "pytest>=7.4; extra == 'test'",
+      "setuptools>=68; extra == 'test'",
+      "time-machine>=2.10; (platform_python_implementation == 'CPython') and extra == 'test'"
+    ]
+  },
+  "virtualenv-20.34.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "341f5afa7eee943e4984a9207c025feedd768baff6753cd660c857ceb3e36026",
+    "dependencies": {
+      "required": [
+        "distlib",
+        "filelock",
+        "importlib-metadata",
+        "platformdirs",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "distlib<1,>=0.3.7",
+      "filelock<4,>=3.12.2",
+      "importlib-metadata>=6.6; python_version < '3.8'",
+      "platformdirs<5,>=3.9.1",
+      "typing-extensions>=4.13.2; python_version < '3.11'",
+      "furo>=2023.7.26; extra == 'docs'",
+      "proselint>=0.13; extra == 'docs'",
+      "sphinx!=7.3,>=7.1.2; extra == 'docs'",
+      "sphinx-argparse>=0.4; extra == 'docs'",
+      "sphinxcontrib-towncrier>=0.2.1a0; extra == 'docs'",
+      "towncrier>=23.6; extra == 'docs'",
+      "covdefaults>=2.3; extra == 'test'",
+      "coverage-enable-subprocess>=1; extra == 'test'",
+      "coverage>=7.2.7; extra == 'test'",
+      "flaky>=3.7; extra == 'test'",
+      "packaging>=23.1; extra == 'test'",
+      "pytest-env>=0.8.2; extra == 'test'",
+      "pytest-freezer>=0.4.8; (platform_python_implementation == 'PyPy' or platform_python_implementation == 'GraalVM' or (platform_python_implementation == 'CPython' and sys_platform == 'win32' and python_version >= '3.13')) and extra == 'test'",
+      "pytest-mock>=3.11.1; extra == 'test'",
+      "pytest-randomly>=3.12; extra == 'test'",
+      "pytest-timeout>=2.1; extra == 'test'",
+      "pytest>=7.4; extra == 'test'",
+      "setuptools>=68; extra == 'test'",
+      "time-machine>=2.10; (platform_python_implementation == 'CPython') and extra == 'test'"
+    ]
+  },
+  "virtualenv-20.33.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07c19bc66c11acab6a5958b815cbcee30891cd1c2ccf53785a28651a0d8d8a67",
+    "dependencies": {
+      "required": [
+        "distlib",
+        "filelock",
+        "importlib-metadata",
+        "platformdirs"
+      ]
+    },
+    "original_requirements": [
+      "distlib<1,>=0.3.7",
+      "filelock<4,>=3.12.2",
+      "importlib-metadata>=6.6; python_version < '3.8'",
+      "platformdirs<5,>=3.9.1",
+      "furo>=2023.7.26; extra == 'docs'",
+      "proselint>=0.13; extra == 'docs'",
+      "sphinx!=7.3,>=7.1.2; extra == 'docs'",
+      "sphinx-argparse>=0.4; extra == 'docs'",
+      "sphinxcontrib-towncrier>=0.2.1a0; extra == 'docs'",
+      "towncrier>=23.6; extra == 'docs'",
+      "covdefaults>=2.3; extra == 'test'",
+      "coverage-enable-subprocess>=1; extra == 'test'",
+      "coverage>=7.2.7; extra == 'test'",
+      "flaky>=3.7; extra == 'test'",
+      "packaging>=23.1; extra == 'test'",
+      "pytest-env>=0.8.2; extra == 'test'",
+      "pytest-freezer>=0.4.8; (platform_python_implementation == 'PyPy' or platform_python_implementation == 'GraalVM' or (platform_python_implementation == 'CPython' and sys_platform == 'win32' and python_version >= '3.13')) and extra == 'test'",
+      "pytest-mock>=3.11.1; extra == 'test'",
+      "pytest-randomly>=3.12; extra == 'test'",
+      "pytest-timeout>=2.1; extra == 'test'",
+      "pytest>=7.4; extra == 'test'",
+      "setuptools>=68; extra == 'test'",
+      "time-machine>=2.10; (platform_python_implementation == 'CPython') and extra == 'test'"
+    ]
+  }
+}

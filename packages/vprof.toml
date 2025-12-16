@@ -1,0 +1,11 @@
+# Package configuration for vprof
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "vprof-0.38-py3-none-any.whl" },
+  { filename = "vprof-0.37.6-py3-none-any.whl" },
+  { filename = "vprof-0.37.5-py3-none-any.whl" },
+  { filename = "vprof-0.37.4-py3-none-any.whl" },
+  { filename = "vprof-0.37.3-py3-none-any.whl" },
+]

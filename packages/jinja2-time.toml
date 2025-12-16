@@ -1,0 +1,9 @@
+# Package configuration for jinja2-time
+conda_forge = "jinja2-time"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jinja2_time-0.2.0-py2.py3-none-any.whl" },
+  { filename = "jinja2_time-0.1.0-py2.py3-none-any.whl" },
+]

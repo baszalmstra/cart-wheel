@@ -1,0 +1,12 @@
+# Package configuration for pinecone-plugin-inference
+conda_forge = "pinecone-plugin-inference"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pinecone_plugin_inference-3.1.0-py3-none-any.whl" },
+  { filename = "pinecone_plugin_inference-3.0.0-py3-none-any.whl" },
+  { filename = "pinecone_plugin_inference-2.0.1-py3-none-any.whl" },
+  { filename = "pinecone_plugin_inference-2.0.0-py3-none-any.whl" },
+  { filename = "pinecone_plugin_inference-1.1.0-py3-none-any.whl" },
+]

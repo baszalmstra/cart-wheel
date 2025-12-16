@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-ydb
+conda_forge = "apache-airflow-providers-ydb"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_ydb-2.3.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_ydb-2.3.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_ydb-2.2.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_ydb-2.2.2-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_ydb-2.2.1-py3-none-any.whl" },
+]

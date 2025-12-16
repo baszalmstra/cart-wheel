@@ -1,0 +1,9 @@
+# Package configuration for ipython-genutils
+conda_forge = "ipython_genutils"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipython_genutils-0.2.0-py2.py3-none-any.whl" },
+  { filename = "ipython_genutils-0.1.0-py2.py3-none-any.whl" },
+]

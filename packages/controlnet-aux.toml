@@ -1,0 +1,11 @@
+# Package configuration for controlnet-aux
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "controlnet_aux-0.0.10-py3-none-any.whl" },
+  { filename = "controlnet_aux-0.0.9-py3-none-any.whl" },
+  { filename = "controlnet_aux-0.0.8-py3-none-any.whl" },
+  { filename = "controlnet_aux-0.0.6-py3-none-any.whl" },
+  { filename = "controlnet_aux-0.0.5-py3-none-any.whl" },
+]

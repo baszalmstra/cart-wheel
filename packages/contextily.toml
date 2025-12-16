@@ -1,0 +1,12 @@
+# Package configuration for contextily
+conda_forge = "contextily"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "contextily-1.7.0-py3-none-any.whl" },
+  { filename = "contextily-1.6.2-py3-none-any.whl" },
+  { filename = "contextily-1.6.1-py3-none-any.whl" },
+  { filename = "contextily-1.6.0-py3-none-any.whl" },
+  { filename = "contextily-1.5.2-py3-none-any.whl" },
+]

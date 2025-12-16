@@ -1,0 +1,12 @@
+# Package configuration for pyhamcrest
+conda_forge = "pyhamcrest"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyhamcrest-2.1.0-py3-none-any.whl" },
+  { filename = "pyhamcrest-2.0.4-py3-none-any.whl" },
+  { filename = "PyHamcrest-2.0.3-py3-none-any.whl" },
+  { filename = "PyHamcrest-2.0.2-py3-none-any.whl" },
+  { filename = "PyHamcrest-2.0.1-py3-none-any.whl" },
+]

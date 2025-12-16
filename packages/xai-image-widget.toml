@@ -1,0 +1,7 @@
+# Package configuration for xai-image-widget
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "xai_image_widget-0.1.0-py2.py3-none-any.whl" },
+]

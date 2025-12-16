@@ -1,0 +1,12 @@
+# Package configuration for types-pillow
+conda_forge = "types-pillow"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_Pillow-10.2.0.20240822-py3-none-any.whl" },
+  { filename = "types_Pillow-10.2.0.20240520-py3-none-any.whl" },
+  { filename = "types_Pillow-10.2.0.20240511-py3-none-any.whl" },
+  { filename = "types_Pillow-10.2.0.20240423-py3-none-any.whl" },
+  { filename = "types_Pillow-10.2.0.20240415-py3-none-any.whl" },
+]

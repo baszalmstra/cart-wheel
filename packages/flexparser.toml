@@ -1,0 +1,11 @@
+# Package configuration for flexparser
+conda_forge = "flexparser"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flexparser-0.4-py3-none-any.whl" },
+  { filename = "flexparser-0.3.1-py3-none-any.whl" },
+  { filename = "flexparser-0.3-py3-none-any.whl" },
+  { filename = "flexparser-0.2-py3-none-any.whl" },
+]

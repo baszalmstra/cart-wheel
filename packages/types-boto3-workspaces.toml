@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-workspaces
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_workspaces-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_workspaces-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_workspaces-1.40.61-py3-none-any.whl" },
+  { filename = "types_boto3_workspaces-1.40.57-py3-none-any.whl" },
+  { filename = "types_boto3_workspaces-1.40.10-py3-none-any.whl" },
+]

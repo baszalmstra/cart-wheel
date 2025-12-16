@@ -1,0 +1,90 @@
+{
+  "aiohttp_jinja2-1.6-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:17.382515+00:00",
+    "conda_file": "aiohttp-jinja2-1.6-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp >=3.9.0",
+      "jinja2 >=3.0.0"
+    ]
+  },
+  "aiohttp_jinja2-1.5.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:17.527906+00:00",
+    "conda_file": "aiohttp-jinja2-1.5.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "jinja2",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.6.3)",
+      "jinja2 (>=3.0.0)",
+      "typing-extensions (>=3.7.4) ; python_version < \"3.8\""
+    ]
+  },
+  "aiohttp_jinja2-1.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:17.720173+00:00",
+    "conda_file": "aiohttp-jinja2-1.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "jinja2",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.6.3)",
+      "jinja2 (>=3.0.0)",
+      "typing-extensions (>=3.7.4) ; python_version < \"3.8\""
+    ]
+  },
+  "aiohttp_jinja2-1.4.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:17.875917+00:00",
+    "conda_file": "aiohttp-jinja2-1.4.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "jinja2",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.6.3)",
+      "jinja2 (>=2.10.1)",
+      "typing-extensions (>=3.7.4)"
+    ]
+  },
+  "aiohttp_jinja2-1.4.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:18.115106+00:00",
+    "conda_file": "aiohttp-jinja2-1.4.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "jinja2",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.6.3)",
+      "jinja2 (>=2.10.1)",
+      "typing-extensions (>=3.7.4)"
+    ]
+  }
+}

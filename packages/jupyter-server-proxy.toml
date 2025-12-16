@@ -1,0 +1,12 @@
+# Package configuration for jupyter-server-proxy
+conda_forge = "jupyter-server-proxy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyter_server_proxy-4.4.0-py3-none-any.whl" },
+  { filename = "jupyter_server_proxy-4.3.0-py3-none-any.whl" },
+  { filename = "jupyter_server_proxy-4.2.0-py3-none-any.whl" },
+  { filename = "jupyter_server_proxy-4.1.2-py3-none-any.whl" },
+  { filename = "jupyter_server_proxy-4.1.1-py3-none-any.whl" },
+]

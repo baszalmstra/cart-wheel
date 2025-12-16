@@ -1,0 +1,9 @@
+# Package configuration for mkdocs-get-deps
+conda_forge = "mkdocs-get-deps"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_get_deps-0.2.0-py3-none-any.whl" },
+  { filename = "mkdocs_get_deps-0.1.0-py3-none-any.whl" },
+]

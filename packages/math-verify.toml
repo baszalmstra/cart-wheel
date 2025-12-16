@@ -1,0 +1,11 @@
+# Package configuration for math-verify
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "math_verify-0.8.0-py3-none-any.whl" },
+  { filename = "math_verify-0.7.0-py3-none-any.whl" },
+  { filename = "math_verify-0.6.1-py3-none-any.whl" },
+  { filename = "math_verify-0.6.0-py3-none-any.whl" },
+  { filename = "math_verify-0.5.2-py3-none-any.whl" },
+]

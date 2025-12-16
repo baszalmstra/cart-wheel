@@ -1,0 +1,75 @@
+{
+  "websocket_client-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "af248a825037ef591efbf6ed20cc5faa03d3b47b9e5a2230a529eeee1c1fc3ef",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == \"test\"",
+      "websockets; extra == \"test\"",
+      "python-socks; extra == \"optional\"",
+      "wsaccel; extra == \"optional\"",
+      "Sphinx>=6.0; extra == \"docs\"",
+      "sphinx_rtd_theme>=1.1.0; extra == \"docs\"",
+      "myst-parser>=2.0.0; extra == \"docs\""
+    ]
+  },
+  "websocket_client-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17b44cc997f5c498e809b22cdf2d9c7a9e71c02c8cc2b6c56e7c2d1239bfa526",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Sphinx >=6.0 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.1.0 ; extra == 'docs'",
+      "myst-parser >=2.0.0 ; extra == 'docs'",
+      "python-socks ; extra == 'optional'",
+      "wsaccel ; extra == 'optional'",
+      "websockets ; extra == 'test'"
+    ]
+  },
+  "websocket_client-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4c3d22fec12a2461427a29957ff07d35098ee2d976d3ba244e688b8b4057588",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Sphinx >=6.0 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.1.0 ; extra == 'docs'",
+      "python-socks ; extra == 'optional'",
+      "wsaccel ; extra == 'optional'",
+      "websockets ; extra == 'test'"
+    ]
+  },
+  "websocket_client-1.6.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "084072e0a7f5f347ef2ac3d8698a5e0b4ffbfcab607628cadabc650fc9a83a24",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Sphinx (>=6.0) ; extra == 'docs'",
+      "sphinx-rtd-theme (>=1.1.0) ; extra == 'docs'",
+      "python-socks ; extra == 'optional'",
+      "wsaccel ; extra == 'optional'",
+      "websockets ; extra == 'test'"
+    ]
+  },
+  "websocket_client-1.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6cfc30d051ebabb73a5fa246efdcc14c8fbebbd0330f8984ac3bb6d9edd2ad03",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Sphinx >=6.0 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.1.0 ; extra == 'docs'",
+      "python-socks ; extra == 'optional'",
+      "wsaccel ; extra == 'optional'",
+      "websockets ; extra == 'test'"
+    ]
+  }
+}

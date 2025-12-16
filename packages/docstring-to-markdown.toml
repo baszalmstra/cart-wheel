@@ -1,0 +1,12 @@
+# Package configuration for docstring-to-markdown
+conda_forge = "docstring-to-markdown"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "docstring_to_markdown-0.17-py3-none-any.whl" },
+  { filename = "docstring_to_markdown-0.16-py3-none-any.whl" },
+  { filename = "docstring_to_markdown-0.15-py3-none-any.whl" },
+  { filename = "docstring_to_markdown-0.14-py3-none-any.whl" },
+  { filename = "docstring_to_markdown-0.13-py3-none-any.whl" },
+]

@@ -4,8 +4,8 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from hishel import SyncSqliteStorage
-from hishel.httpx import SyncCacheClient
+from hishel import AsyncSqliteStorage, SyncSqliteStorage
+from hishel.httpx import AsyncCacheClient, SyncCacheClient
 
 # Default cache directory
 _CACHE_DIR = Path.home() / ".cache" / "cart-wheel" / "http"
@@ -28,6 +28,25 @@ def get_client(cache_dir: Path | None = None) -> SyncCacheClient:
 
     storage = SyncSqliteStorage(database_path=cache_path / "cache.db")
     return SyncCacheClient(storage=storage, timeout=30.0)
+
+
+def get_async_client(cache_dir: Path | None = None) -> AsyncCacheClient:
+    """Get an async HTTP client with SQLite-based caching.
+
+    Uses hishel for HTTP caching which respects cache headers
+    and stores responses in a SQLite database.
+
+    Args:
+        cache_dir: Directory for cache storage. Defaults to ~/.cache/cart-wheel/http
+
+    Returns:
+        An AsyncCacheClient with caching enabled.
+    """
+    cache_path = cache_dir or _CACHE_DIR
+    cache_path.mkdir(parents=True, exist_ok=True)
+
+    storage = AsyncSqliteStorage(database_path=cache_path / "cache.db")
+    return AsyncCacheClient(storage=storage, timeout=30.0)
 
 
 # Module-level cached client (lazily initialized)

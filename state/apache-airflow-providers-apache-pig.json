@@ -1,0 +1,92 @@
+{
+  "apache_airflow_providers_apache_pig-4.8.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:10.821542+00:00",
+    "conda_file": "apache-airflow-providers-apache-pig-4.8.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1"
+    ]
+  },
+  "apache_airflow_providers_apache_pig-4.8.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:10.728405+00:00",
+    "conda_file": "apache-airflow-providers-apache-pig-4.8.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_pig-4.7.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:10.867964+00:00",
+    "conda_file": "apache-airflow-providers-apache-pig-4.7.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_pig-4.7.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:10.864552+00:00",
+    "conda_file": "apache-airflow-providers-apache-pig-4.7.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_pig-4.7.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:10.953347+00:00",
+    "conda_file": "apache-airflow-providers-apache-pig-4.7.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0"
+    ]
+  }
+}

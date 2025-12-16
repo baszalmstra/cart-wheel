@@ -1,0 +1,44 @@
+{
+  "docstring_parser-0.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf2569abd23dce8099b300f9b4fa8191e9582dda731fd533daf54c4551658708",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pre-commit>=2.16.0; (python_version >= '3.9') and extra == 'dev'",
+      "pydoctor>=25.4.0; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pydoctor>=25.4.0; extra == 'docs'",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "docstring_parser-0.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf0a1387354d3691d102edef7ec124f219ef639982d096e26e3b60aeffa90637",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "docstring_parser-0.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1679b86250d269d06a99670924d6bce45adc00b08069dae8c47d98e89b667a9",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "docstring_parser-0.14.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "14ac6ec1f1ba6905c4d8cb90fd0bc55394f5678183752c90e44812bf28d7a515",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "docstring_parser-0.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01f04c9b39356aa228fc0440a9cf3809d1764183e212ebfbbe28077591548f0f",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

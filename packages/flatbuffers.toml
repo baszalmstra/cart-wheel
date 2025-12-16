@@ -1,0 +1,12 @@
+# Package configuration for flatbuffers
+conda_forge = "python-flatbuffers"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flatbuffers-25.9.23-py2.py3-none-any.whl" },
+  { filename = "flatbuffers-25.2.10-py2.py3-none-any.whl" },
+  { filename = "flatbuffers-25.1.24-py2.py3-none-any.whl" },
+  { filename = "flatbuffers-25.1.21-py2.py3-none-any.whl" },
+  { filename = "flatbuffers-24.12.23-py2.py3-none-any.whl" },
+]

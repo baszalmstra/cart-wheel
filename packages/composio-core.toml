@@ -1,0 +1,11 @@
+# Package configuration for composio-core
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "composio_core-0.7.21-py3-none-any.whl" },
+  { filename = "composio_core-0.7.20-py3-none-any.whl" },
+  { filename = "composio_core-0.7.19-py3-none-any.whl" },
+  { filename = "composio_core-0.7.18-py3-none-any.whl" },
+  { filename = "composio_core-0.7.17-py3-none-any.whl" },
+]

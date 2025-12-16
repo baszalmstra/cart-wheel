@@ -1,0 +1,12 @@
+# Package configuration for mypy-protobuf
+conda_forge = "mypy-protobuf"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_protobuf-3.7.0-py3-none-any.whl" },
+  { filename = "mypy_protobuf-3.6.0-py3-none-any.whl" },
+  { filename = "mypy_protobuf-3.5.0-py3-none-any.whl" },
+  { filename = "mypy_protobuf-3.4.0-py3-none-any.whl" },
+  { filename = "mypy_protobuf-3.3.0-py3-none-any.whl" },
+]

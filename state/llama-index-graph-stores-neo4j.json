@@ -1,0 +1,72 @@
+{
+  "llama_index_graph_stores_neo4j-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d9a93c7974de648dd0850b8e405599fdc56195b24429dedcd5f971274536f322",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.13.0",
+      "neo4j<6,>=5.16.0"
+    ]
+  },
+  "llama_index_graph_stores_neo4j-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eddc44a18e65d5c32f19d874b7a8977dc5a6942b2320b91f4ad5d46312ec139a",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.14,>=0.13.0",
+      "neo4j<6,>=5.16.0"
+    ]
+  },
+  "llama_index_graph_stores_neo4j-0.4.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "097a6ab4d77bc9e289c9793bf2fdc042f686234c7b544427fda042439376ce2e",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core (>=0.12.0,<0.13.0)",
+      "neo4j (>=5.16.0,<6.0.0)"
+    ]
+  },
+  "llama_index_graph_stores_neo4j-0.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5e39521bb2a4929cc12a8de32e4b6cd64bf93c5808dfdc7941d0a6803d2d908f",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core (>=0.12.0,<0.13.0)",
+      "neo4j (>=5.16.0,<6.0.0)"
+    ]
+  },
+  "llama_index_graph_stores_neo4j-0.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7caf177dd529b1ee06416460e99021eb1c22afbc837265501d013631302ea6d7",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core (>=0.12.0,<0.13.0)",
+      "neo4j (>=5.16.0,<6.0.0)"
+    ]
+  }
+}

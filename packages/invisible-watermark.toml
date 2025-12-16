@@ -1,0 +1,11 @@
+# Package configuration for invisible-watermark
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "invisible_watermark-0.2.0-py3-none-any.whl" },
+  { filename = "invisible_watermark-0.1.5-py3-none-any.whl" },
+  { filename = "invisible_watermark-0.1.4-py3-none-any.whl" },
+  { filename = "invisible_watermark-0.1.3-py3-none-any.whl" },
+  { filename = "invisible_watermark-0.1.2-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for statsd
+conda_forge = "statsd"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "statsd-4.0.1-py2.py3-none-any.whl" },
+  { filename = "statsd-4.0.0-py2.py3-none-any.whl" },
+  { filename = "statsd-3.3.0-py2.py3-none-any.whl" },
+  { filename = "statsd-3.2.2-py2.py3-none-any.whl" },
+  { filename = "statsd-3.2.1-py2.py3-none-any.whl" },
+]

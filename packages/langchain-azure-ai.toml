@@ -1,0 +1,11 @@
+# Package configuration for langchain-azure-ai
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_azure_ai-1.0.4-py3-none-any.whl" },
+  { filename = "langchain_azure_ai-1.0.3-py3-none-any.whl" },
+  { filename = "langchain_azure_ai-1.0.2-py3-none-any.whl" },
+  { filename = "langchain_azure_ai-1.0.1-py3-none-any.whl" },
+  { filename = "langchain_azure_ai-1.0.0-py3-none-any.whl" },
+]

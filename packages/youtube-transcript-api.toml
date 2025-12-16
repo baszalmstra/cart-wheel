@@ -1,0 +1,12 @@
+# Package configuration for youtube-transcript-api
+conda_forge = "youtube-transcript-api"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "youtube_transcript_api-1.2.3-py3-none-any.whl" },
+  { filename = "youtube_transcript_api-1.2.2-py3-none-any.whl" },
+  { filename = "youtube_transcript_api-1.2.1-py3-none-any.whl" },
+  { filename = "youtube_transcript_api-1.2.0-py3-none-any.whl" },
+  { filename = "youtube_transcript_api-1.1.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for aleph-alpha-client
+conda_forge = "aleph-alpha-client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aleph_alpha_client-11.4.0-py3-none-any.whl" },
+  { filename = "aleph_alpha_client-11.2.0-py3-none-any.whl" },
+  { filename = "aleph_alpha_client-11.1.0-py3-none-any.whl" },
+  { filename = "aleph_alpha_client-11.0.0-py3-none-any.whl" },
+  { filename = "aleph_alpha_client-10.6.2-py3-none-any.whl" },
+]

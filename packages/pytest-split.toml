@@ -1,0 +1,12 @@
+# Package configuration for pytest-split
+conda_forge = "pytest-split"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_split-0.10.0-py3-none-any.whl" },
+  { filename = "pytest_split-0.9.0-py3-none-any.whl" },
+  { filename = "pytest_split-0.8.2-py3-none-any.whl" },
+  { filename = "pytest_split-0.8.1-py3-none-any.whl" },
+  { filename = "pytest_split-0.8.0-py3-none-any.whl" },
+]

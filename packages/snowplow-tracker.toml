@@ -1,0 +1,12 @@
+# Package configuration for snowplow-tracker
+conda_forge = "snowplow-tracker"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "snowplow_tracker-1.1.0-py3-none-any.whl" },
+  { filename = "snowplow_tracker-1.0.4-py3-none-any.whl" },
+  { filename = "snowplow_tracker-1.0.3-py3-none-any.whl" },
+  { filename = "snowplow_tracker-1.0.2-py3-none-any.whl" },
+  { filename = "snowplow_tracker-1.0.1-py3-none-any.whl" },
+]

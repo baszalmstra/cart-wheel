@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-language
+conda_forge = "google-cloud-language"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_language-2.18.0-py3-none-any.whl" },
+  { filename = "google_cloud_language-2.17.2-py3-none-any.whl" },
+  { filename = "google_cloud_language-2.17.1-py3-none-any.whl" },
+  { filename = "google_cloud_language-2.17.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_language-2.16.0-py2.py3-none-any.whl" },
+]

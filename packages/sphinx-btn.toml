@@ -1,0 +1,8 @@
+# Package configuration for sphinx-btn
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_btn-0.1.2-py3-none-any.whl" },
+  { filename = "sphinx_btn-0.1.1-py3-none-any.whl" },
+]

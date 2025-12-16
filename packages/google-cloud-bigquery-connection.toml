@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-bigquery-connection
+conda_forge = "google-cloud-bigquery-connection"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_bigquery_connection-1.19.0-py3-none-any.whl" },
+  { filename = "google_cloud_bigquery_connection-1.18.3-py3-none-any.whl" },
+  { filename = "google_cloud_bigquery_connection-1.18.2-py3-none-any.whl" },
+  { filename = "google_cloud_bigquery_connection-1.18.1-py2.py3-none-any.whl" },
+  { filename = "google_cloud_bigquery_connection-1.18.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,104 @@
+{
+  "optimum_onnx-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3dc1bb9ac7f3255bd85900b91e0914c18ac99ce65c8ba7b08f42ebdeb0cd44c",
+    "dependencies": {
+      "required": [
+        "optimum",
+        "transformers",
+        "onnx"
+      ]
+    },
+    "original_requirements": [
+      "optimum~=2.0.0",
+      "transformers<4.56.0,>=4.36.0",
+      "onnx",
+      "onnxruntime>=1.18.0; extra == \"onnxruntime\"",
+      "onnxruntime-gpu>=1.18.0; extra == \"onnxruntime-gpu\"",
+      "accelerate>=0.26.0; extra == \"tests\"",
+      "datasets; extra == \"tests\"",
+      "einops; extra == \"tests\"",
+      "hf_xet; extra == \"tests\"",
+      "parameterized; extra == \"tests\"",
+      "Pillow; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "safetensors; extra == \"tests\"",
+      "scipy; extra == \"tests\"",
+      "sentencepiece; extra == \"tests\"",
+      "timm; extra == \"tests\"",
+      "onnxslim>=0.1.60; extra == \"tests\"",
+      "rjieba; extra == \"tests\"",
+      "sacremoses; extra == \"tests\"",
+      "ruff==0.12.3; extra == \"quality\""
+    ]
+  },
+  "optimum_onnx-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec111bf4b6a803c73a4bfbf9897a50c8f5a0f5eb5552721f0e7893cee33fa42a",
+    "dependencies": {
+      "required": [
+        "optimum",
+        "transformers",
+        "onnx"
+      ]
+    },
+    "original_requirements": [
+      "optimum~=2.0.0",
+      "transformers<4.56.0,>=4.36.0",
+      "onnx",
+      "onnxruntime>=1.18.0; extra == \"onnxruntime\"",
+      "onnxruntime-gpu>=1.18.0; extra == \"onnxruntime-gpu\"",
+      "accelerate>=0.26.0; extra == \"tests\"",
+      "datasets; extra == \"tests\"",
+      "einops; extra == \"tests\"",
+      "hf_xet; extra == \"tests\"",
+      "parameterized; extra == \"tests\"",
+      "Pillow; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "safetensors; extra == \"tests\"",
+      "scipy; extra == \"tests\"",
+      "sentencepiece; extra == \"tests\"",
+      "timm; extra == \"tests\"",
+      "onnxslim>=0.1.60; extra == \"tests\"",
+      "rjieba; extra == \"tests\"",
+      "sacremoses; extra == \"tests\"",
+      "ruff==0.12.3; extra == \"quality\""
+    ]
+  },
+  "optimum_onnx-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a743ad8abbe547f146b60dc1a39e44e01160332562dc4abe836980843e626f8d",
+    "dependencies": {
+      "required": [
+        "optimum",
+        "transformers",
+        "onnx"
+      ]
+    },
+    "original_requirements": [
+      "optimum~=2.0.0",
+      "transformers<4.56.0,>=4.36.0",
+      "onnx",
+      "onnxruntime>=1.18.0; extra == \"onnxruntime\"",
+      "onnxruntime-gpu>=1.18.0; extra == \"onnxruntime-gpu\"",
+      "accelerate>=0.26.0; extra == \"tests\"",
+      "datasets; extra == \"tests\"",
+      "einops; extra == \"tests\"",
+      "hf_xet; extra == \"tests\"",
+      "parameterized; extra == \"tests\"",
+      "Pillow; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "safetensors; extra == \"tests\"",
+      "scipy; extra == \"tests\"",
+      "sentencepiece; extra == \"tests\"",
+      "timm; extra == \"tests\"",
+      "onnxslim>=0.1.60; extra == \"tests\"",
+      "rjieba; extra == \"tests\"",
+      "sacremoses; extra == \"tests\"",
+      "ruff==0.12.3; extra == \"quality\""
+    ]
+  }
+}

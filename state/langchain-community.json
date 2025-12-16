@@ -1,0 +1,182 @@
+{
+  "langchain_community-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2135abb2c7748a35c84613108f7ebf30f8505b18c3c18305ffaecfc7651f6c6a",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain-classic",
+        "sqlalchemy",
+        "requests",
+        "pyyaml",
+        "aiohttp",
+        "tenacity",
+        "dataclasses-json",
+        "pydantic-settings",
+        "langsmith",
+        "httpx-sse",
+        "numpy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=1.0.1",
+      "langchain-classic<2.0.0,>=1.0.0",
+      "SQLAlchemy<3.0.0,>=1.4.0",
+      "requests<3.0.0,>=2.32.5",
+      "PyYAML<7.0.0,>=5.3.0",
+      "aiohttp<4.0.0,>=3.8.3",
+      "tenacity!=8.4.0,<10.0.0,>=8.1.0",
+      "dataclasses-json<0.7.0,>=0.6.7",
+      "pydantic-settings<3.0.0,>=2.10.1",
+      "langsmith<1.0.0,>=0.1.125",
+      "httpx-sse<1.0.0,>=0.4.0",
+      "numpy>=1.26.2; python_version < \"3.13\"",
+      "numpy>=2.1.0; python_version >= \"3.13\""
+    ]
+  },
+  "langchain_community-0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79034e7bd4ba3a67ae9d7dd7fcef63ef4ed44673480fea0405ab45295985d56d",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain-classic",
+        "sqlalchemy",
+        "requests",
+        "pyyaml",
+        "aiohttp",
+        "tenacity",
+        "dataclasses-json",
+        "pydantic-settings",
+        "langsmith",
+        "httpx-sse",
+        "numpy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=1.0.0",
+      "langchain-classic<2.0.0,>=1.0.0",
+      "SQLAlchemy<3.0.0,>=1.4.0",
+      "requests<3.0.0,>=2.32.5",
+      "PyYAML<7.0.0,>=5.3.0",
+      "aiohttp<4.0.0,>=3.8.3",
+      "tenacity!=8.4.0,<10.0.0,>=8.1.0",
+      "dataclasses-json<0.7.0,>=0.6.7",
+      "pydantic-settings<3.0.0,>=2.10.1",
+      "langsmith<1.0.0,>=0.1.125",
+      "httpx-sse<1.0.0,>=0.4.0",
+      "numpy>=1.26.2; python_version < \"3.13\"",
+      "numpy>=2.1.0; python_version >= \"3.13\""
+    ]
+  },
+  "langchain_community-0.3.31-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c727e3ebbacd4d891b07bd440647668001cea3e39cbe732499ad655ec5cb569",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain",
+        "sqlalchemy",
+        "requests",
+        "pyyaml",
+        "aiohttp",
+        "tenacity",
+        "dataclasses-json",
+        "pydantic-settings",
+        "langsmith",
+        "httpx-sse",
+        "numpy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=0.3.78",
+      "langchain<2.0.0,>=0.3.27",
+      "SQLAlchemy<3.0.0,>=1.4.0",
+      "requests<3.0.0,>=2.32.5",
+      "PyYAML<7.0.0,>=5.3.0",
+      "aiohttp<4.0.0,>=3.8.3",
+      "tenacity!=8.4.0,<10.0.0,>=8.1.0",
+      "dataclasses-json<0.7.0,>=0.6.7",
+      "pydantic-settings<3.0.0,>=2.10.1",
+      "langsmith<1.0.0,>=0.1.125",
+      "httpx-sse<1.0.0,>=0.4.0",
+      "numpy>=1.26.2; python_version < \"3.13\"",
+      "numpy>=2.1.0; python_version >= \"3.13\""
+    ]
+  },
+  "langchain_community-0.3.30-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a49dcedbf8f320d9868d5944d0991c7bcc9f2182a602e5d5e872d315183c11c3",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain",
+        "sqlalchemy",
+        "requests",
+        "pyyaml",
+        "aiohttp",
+        "tenacity",
+        "dataclasses-json",
+        "pydantic-settings",
+        "langsmith",
+        "httpx-sse",
+        "numpy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=0.3.75",
+      "langchain<2.0.0,>=0.3.27",
+      "SQLAlchemy<3.0.0,>=1.4.0",
+      "requests<3.0.0,>=2.32.5",
+      "PyYAML<7.0.0,>=5.3.0",
+      "aiohttp<4.0.0,>=3.8.3",
+      "tenacity!=8.4.0,<10.0.0,>=8.1.0",
+      "dataclasses-json<0.7.0,>=0.6.7",
+      "pydantic-settings<3.0.0,>=2.10.1",
+      "langsmith<1.0.0,>=0.1.125",
+      "httpx-sse<1.0.0,>=0.4.0",
+      "numpy>=1.26.2; python_version < \"3.13\"",
+      "numpy>=2.1.0; python_version >= \"3.13\""
+    ]
+  },
+  "langchain_community-0.3.29-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c876ec7ef40b46353af164197f4e08e157650e8a02c9fb9d49351cdc16c839fe",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain",
+        "sqlalchemy",
+        "requests",
+        "pyyaml",
+        "aiohttp",
+        "tenacity",
+        "dataclasses-json",
+        "pydantic-settings",
+        "langsmith",
+        "httpx-sse",
+        "numpy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=0.3.75",
+      "langchain<2.0.0,>=0.3.27",
+      "SQLAlchemy<3,>=1.4",
+      "requests<3,>=2.32.5",
+      "PyYAML>=5.3",
+      "aiohttp<4.0.0,>=3.8.3",
+      "tenacity!=8.4.0,<10,>=8.1.0",
+      "dataclasses-json<0.7,>=0.6.7",
+      "pydantic-settings<3.0.0,>=2.10.1",
+      "langsmith>=0.1.125",
+      "httpx-sse<1.0.0,>=0.4.0",
+      "numpy>=1.26.2; python_version < \"3.13\"",
+      "numpy>=2.1.0; python_version >= \"3.13\""
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for crfm-helm
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "crfm_helm-0.5.11-py3-none-any.whl" },
+  { filename = "crfm_helm-0.5.10-py3-none-any.whl" },
+  { filename = "crfm_helm-0.5.9-py3-none-any.whl" },
+  { filename = "crfm_helm-0.5.8-py3-none-any.whl" },
+  { filename = "crfm_helm-0.5.7-py3-none-any.whl" },
+]

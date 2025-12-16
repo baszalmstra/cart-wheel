@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-appstream
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_appstream-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_appstream-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_appstream-1.40.75-py3-none-any.whl" },
+  { filename = "types_boto3_appstream-1.40.70-py3-none-any.whl" },
+  { filename = "types_boto3_appstream-1.40.52-py3-none-any.whl" },
+]

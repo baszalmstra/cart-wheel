@@ -1,0 +1,11 @@
+# Package configuration for syllapy
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "syllapy-0.7.2-py3-none-any.whl" },
+  { filename = "syllapy-0.7.1-py3-none-any.whl" },
+  { filename = "syllapy-0.7.0-py3-none-any.whl" },
+  { filename = "syllapy-0.6.0-py3-none-any.whl" },
+  { filename = "syllapy-0.5.0-py2.py3-none-any.whl" },
+]

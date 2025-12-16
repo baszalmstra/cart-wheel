@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-apache-impala
+conda_forge = "apache-airflow-providers-apache-impala"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_apache_impala-1.8.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_apache_impala-1.7.4-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_apache_impala-1.7.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_apache_impala-1.7.2-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_apache_impala-1.7.1-py3-none-any.whl" },
+]

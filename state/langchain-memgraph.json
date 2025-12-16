@@ -1,0 +1,146 @@
+{
+  "langchain_memgraph-0.1.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4681c5e47ab8d79e7821f428678e992628190123b1a67aad812d7732d734dc5c",
+    "dependencies": {
+      "required": [
+        "langchain-classic",
+        "langchain-core",
+        "langchain",
+        "memgraph-toolbox",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "langchain-classic>=1.0.0",
+      "langchain-core>=1.0.0",
+      "langchain>=1.0.0",
+      "memgraph-toolbox>=0.1.7",
+      "neo4j>=5.28.1",
+      "langchain-core>=1.1.0; extra == 'test'",
+      "langchain-experimental>=0.3.0; extra == 'test'",
+      "langchain-openai>=1.1.0; extra == 'test'",
+      "langchain-tests>=0.3.0; extra == 'test'",
+      "langgraph>=0.2.0; extra == 'test'",
+      "pytest-asyncio>=0.26.0; extra == 'test'",
+      "pytest-socket>=0.7.0; extra == 'test'",
+      "pytest-watcher>=0.3.4; extra == 'test'",
+      "pytest>=8.3.5; extra == 'test'",
+      "python-dotenv>=1.0.1; extra == 'test'"
+    ]
+  },
+  "langchain_memgraph-0.1.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8af453a96fd101cfb8188bf1983870fcdd04995ad312d7776a8c424909dc2fe8",
+    "dependencies": {
+      "required": [
+        "langchain-classic",
+        "langchain-core",
+        "langchain",
+        "memgraph-toolbox",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "langchain-classic>=1.0.0",
+      "langchain-core>=1.0.0",
+      "langchain>=1.0.0",
+      "memgraph-toolbox>=0.1.7",
+      "neo4j>=5.28.1",
+      "langchain-core>=1.0.0; extra == 'test'",
+      "langchain-experimental>=0.3.0; extra == 'test'",
+      "langchain-openai>=0.2.0; extra == 'test'",
+      "langchain-tests>=0.3.0; extra == 'test'",
+      "langgraph>=0.2.0; extra == 'test'",
+      "pytest-asyncio>=0.26.0; extra == 'test'",
+      "pytest-socket>=0.7.0; extra == 'test'",
+      "pytest-watcher>=0.3.4; extra == 'test'",
+      "pytest>=8.3.5; extra == 'test'",
+      "python-dotenv>=1.0.1; extra == 'test'"
+    ]
+  },
+  "langchain_memgraph-0.1.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9fa77cf520a6008cab75126e838088912afc44aade6e691a96bdcdb7d374d807",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain",
+        "memgraph-toolbox",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.15",
+      "langchain>=0.3.25",
+      "memgraph-toolbox>=0.1.6",
+      "neo4j>=5.28.1",
+      "langchain-core>=0.3.67; extra == 'test'",
+      "langchain-experimental>=0.3.4; extra == 'test'",
+      "langchain-openai>=0.3.12; extra == 'test'",
+      "langchain-tests>=0.3.17; extra == 'test'",
+      "langgraph>=0.3.11; extra == 'test'",
+      "pytest-asyncio>=0.26.0; extra == 'test'",
+      "pytest-socket>=0.7.0; extra == 'test'",
+      "pytest-watcher>=0.3.4; extra == 'test'",
+      "pytest>=8.3.5; extra == 'test'",
+      "python-dotenv>=1.0.1; extra == 'test'"
+    ]
+  },
+  "langchain_memgraph-0.1.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "59afef13fd51d1d219c17b447a32549889ccc3cb39d322d6e4e86dbec4709723",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain",
+        "memgraph-toolbox",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.15",
+      "langchain>=0.3.25",
+      "memgraph-toolbox>=0.1.6",
+      "neo4j>=5.28.1",
+      "langchain-core>=0.3.67; extra == 'test'",
+      "langchain-experimental>=0.3.4; extra == 'test'",
+      "langchain-openai>=0.3.12; extra == 'test'",
+      "langchain-tests>=0.3.17; extra == 'test'",
+      "langgraph>=0.3.11; extra == 'test'",
+      "pytest-asyncio>=0.26.0; extra == 'test'",
+      "pytest-socket>=0.7.0; extra == 'test'",
+      "pytest-watcher>=0.3.4; extra == 'test'",
+      "pytest>=8.3.5; extra == 'test'",
+      "python-dotenv>=1.0.1; extra == 'test'"
+    ]
+  },
+  "langchain_memgraph-0.1.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c32bab2abd10b33fdbd7e0408621a33d0ab767e61eddb39bf809b034415834bb",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain",
+        "memgraph-toolbox",
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.15",
+      "langchain>=0.3.25",
+      "memgraph-toolbox>=0.1.5",
+      "neo4j>=5.28.1",
+      "langchain-core>=0.3.67; extra == 'test'",
+      "langchain-experimental>=0.3.4; extra == 'test'",
+      "langchain-openai>=0.3.12; extra == 'test'",
+      "langchain-tests>=0.3.17; extra == 'test'",
+      "langgraph>=0.3.11; extra == 'test'",
+      "pytest-asyncio>=0.26.0; extra == 'test'",
+      "pytest-socket>=0.7.0; extra == 'test'",
+      "pytest-watcher>=0.3.4; extra == 'test'",
+      "pytest>=8.3.5; extra == 'test'",
+      "python-dotenv>=1.0.1; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "cliff-4.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3eb366951244a8f2a08e59a97f9ef4e72b11df93facf4ee83d87a319152d26dd",
+    "dependencies": {
+      "required": [
+        "autopage",
+        "cmd2",
+        "prettytable",
+        "stevedore",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "autopage >=0.4.0",
+      "cmd2 >=1.0.0",
+      "PrettyTable >=0.7.2",
+      "stevedore >=5.6.0",
+      "PyYAML >=3.12"
+    ]
+  },
+  "cliff-4.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "952c84dad995018da1515cb980acb08bdc6b627124ec94d288a0ccdbbab52080",
+    "dependencies": {
+      "required": [
+        "autopage",
+        "cmd2",
+        "prettytable",
+        "stevedore",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "autopage >=0.4.0",
+      "cmd2 >=1.0.0",
+      "PrettyTable >=0.7.2",
+      "stevedore >=2.0.1",
+      "PyYAML >=3.12"
+    ]
+  },
+  "cliff-4.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "845084c452fbfbf79bf13d2a3f33248326776a2273bb854a44ea065e7be310a4",
+    "dependencies": {
+      "required": [
+        "autopage",
+        "cmd2",
+        "prettytable",
+        "stevedore",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "autopage >=0.4.0",
+      "cmd2 >=1.0.0",
+      "PrettyTable >=0.7.2",
+      "stevedore >=2.0.1",
+      "PyYAML >=3.12"
+    ]
+  },
+  "cliff-4.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01ef98f73f6c8edb79aed5bc17bea4a326751d0c9005250ba73a42b198c6770f",
+    "dependencies": {
+      "required": [
+        "autopage",
+        "cmd2",
+        "prettytable",
+        "stevedore",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "autopage >=0.4.0",
+      "cmd2 >=1.0.0",
+      "PrettyTable >=0.7.2",
+      "stevedore >=2.0.1",
+      "PyYAML >=3.12"
+    ]
+  },
+  "cliff-4.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e5861dcc56164b7c0aef2dae166b537c2dc11c9df785f74f54bdff16971fb1e",
+    "dependencies": {
+      "required": [
+        "autopage",
+        "cmd2",
+        "prettytable",
+        "stevedore",
+        "pyyaml",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "autopage >=0.4.0",
+      "cmd2 >=1.0.0",
+      "PrettyTable >=0.7.2",
+      "stevedore >=2.0.1",
+      "PyYAML >=3.12",
+      "importlib-metadata >=4.4 ; (python_version<\"3.10\")"
+    ]
+  }
+}

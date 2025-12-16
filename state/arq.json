@@ -1,0 +1,81 @@
+{
+  "arq-0.26.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f4b78149a58c9dc4b88454861a254b7c4e7a159f2c973c89b548288b77e9005",
+    "dependencies": {
+      "required": [
+        "click",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0",
+      "redis[hiredis]<6,>=4.2.0",
+      "watchfiles>=0.16; extra == 'watch'"
+    ]
+  },
+  "arq-0.26.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "789d12ca7d69919bd2e641e44f3f14a38bd854daa7ded22cdd725796e8c65352",
+    "dependencies": {
+      "required": [
+        "click",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0",
+      "redis[hiredis]<6,>=4.2.0",
+      "watchfiles>=0.16; extra == 'watch'"
+    ]
+  },
+  "arq-0.26.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6884bc56b88565243e59a2615c04aad56bba6de23432adecfb653d79ec9d35e9",
+    "dependencies": {
+      "required": [
+        "click",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0",
+      "redis[hiredis]<5,>=4.2.0",
+      "watchfiles>=0.16; extra == 'watch'"
+    ]
+  },
+  "arq-0.25.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db072d0f39c0bc06b436db67ae1f315c81abc1527563b828955670531815290b",
+    "dependencies": {
+      "required": [
+        "click",
+        "redis",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0",
+      "redis[hiredis]>=4.2.0",
+      "typing-extensions>=4.1.0",
+      "watchfiles>=0.16; extra == 'watch'"
+    ]
+  },
+  "arq-0.24.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "76f85f84da76c67cb57a8f78ff8170f63f3e5039d49b3a6949109907e322ec1d",
+    "dependencies": {
+      "required": [
+        "click",
+        "redis",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0",
+      "redis[hiredis]>=4.2.0",
+      "typing-extensions>=4.1.0",
+      "watchfiles>=0.16; extra == 'watch'"
+    ]
+  }
+}

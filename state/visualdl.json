@@ -1,0 +1,212 @@
+{
+  "visualdl-2.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6a792c53458a12be97bf61746e8827da7ae9ec4834aac80f2b6ebc44f78b40b",
+    "dependencies": {
+      "required": [
+        "bce-python-sdk",
+        "flask",
+        "flask-babel",
+        "numpy",
+        "pillow",
+        "protobuf",
+        "requests",
+        "six",
+        "matplotlib",
+        "pandas",
+        "packaging",
+        "rarfile",
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "bce-python-sdk",
+      "flask (>=1.1.1)",
+      "Flask-Babel (>=3.0.0)",
+      "numpy",
+      "Pillow (>=7.0.0)",
+      "protobuf (>=3.20.0)",
+      "requests",
+      "six (>=1.14.0)",
+      "matplotlib",
+      "pandas",
+      "packaging",
+      "rarfile",
+      "psutil"
+    ]
+  },
+  "visualdl-2.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f704f8cfec1525db8ee7fffed5b41998da35d42ef78c6b34a92d1429c7e1c511",
+    "dependencies": {
+      "required": [
+        "bce-python-sdk",
+        "flask",
+        "flask-babel",
+        "numpy",
+        "pillow",
+        "protobuf",
+        "requests",
+        "six",
+        "matplotlib",
+        "pandas",
+        "packaging",
+        "x2paddle",
+        "paddle2onnx",
+        "rarfile",
+        "gradio",
+        "tritonclient",
+        "psutil",
+        "onnx"
+      ]
+    },
+    "original_requirements": [
+      "bce-python-sdk",
+      "flask (>=1.1.1)",
+      "Flask-Babel (>=3.0.0)",
+      "numpy",
+      "Pillow (>=7.0.0)",
+      "protobuf (>=3.20.0)",
+      "requests",
+      "six (>=1.14.0)",
+      "matplotlib",
+      "pandas",
+      "packaging",
+      "x2paddle (>=1.4.0)",
+      "paddle2onnx (>=1.0.5)",
+      "rarfile",
+      "gradio (==3.11.0)",
+      "tritonclient[all]",
+      "psutil",
+      "onnx (>=1.6.0)"
+    ]
+  },
+  "visualdl-2.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9889c128cc981c915719689ebb0aee3ad9f7d286d3d49d323a8fa210ff07af9d",
+    "dependencies": {
+      "required": [
+        "bce-python-sdk",
+        "flask",
+        "flask-babel",
+        "numpy",
+        "pillow",
+        "protobuf",
+        "requests",
+        "six",
+        "matplotlib",
+        "pandas",
+        "packaging",
+        "x2paddle",
+        "rarfile",
+        "gradio",
+        "tritonclient",
+        "attrdict",
+        "psutil",
+        "onnx"
+      ]
+    },
+    "original_requirements": [
+      "bce-python-sdk",
+      "flask (>=1.1.1)",
+      "Flask-Babel (>=3.0.0)",
+      "numpy",
+      "Pillow (>=7.0.0)",
+      "protobuf (>=3.20.0)",
+      "requests",
+      "six (>=1.14.0)",
+      "matplotlib",
+      "pandas",
+      "packaging",
+      "x2paddle",
+      "rarfile",
+      "gradio",
+      "tritonclient[all]",
+      "attrdict",
+      "psutil",
+      "onnx (>=1.6.0)"
+    ]
+  },
+  "visualdl-2.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8f2bba979d71e06f1785ee51ded525af0a968dee23cd9b13d93321c66253cc72",
+    "dependencies": {
+      "required": [
+        "bce-python-sdk",
+        "flask",
+        "flask-babel",
+        "numpy",
+        "pillow",
+        "protobuf",
+        "requests",
+        "six",
+        "matplotlib",
+        "pandas",
+        "multiprocess",
+        "packaging",
+        "x2paddle",
+        "rarfile",
+        "gradio",
+        "tritonclient",
+        "attrdict",
+        "psutil",
+        "onnx"
+      ]
+    },
+    "original_requirements": [
+      "bce-python-sdk",
+      "flask (>=1.1.1)",
+      "Flask-Babel (>=3.0.0)",
+      "numpy",
+      "Pillow (>=7.0.0)",
+      "protobuf (>=3.11.0)",
+      "requests",
+      "six (>=1.14.0)",
+      "matplotlib",
+      "pandas",
+      "multiprocess",
+      "packaging",
+      "x2paddle",
+      "rarfile",
+      "gradio",
+      "tritonclient[all]",
+      "attrdict",
+      "psutil",
+      "onnx (>=1.6.0)"
+    ]
+  },
+  "visualdl-2.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f5258f584dfa5bdd7b7f896d6ca1484865fe9b3f02950c38d029c99169eaa252",
+    "dependencies": {
+      "required": [
+        "bce-python-sdk",
+        "flask",
+        "flask-babel",
+        "numpy",
+        "pillow",
+        "protobuf",
+        "requests",
+        "six",
+        "matplotlib",
+        "pandas",
+        "multiprocess",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "bce-python-sdk",
+      "flask (>=1.1.1)",
+      "Flask-Babel (>=1.0.0)",
+      "numpy",
+      "Pillow (>=7.0.0)",
+      "protobuf (>=3.11.0)",
+      "requests",
+      "six (>=1.14.0)",
+      "matplotlib",
+      "pandas",
+      "multiprocess",
+      "packaging"
+    ]
+  }
+}

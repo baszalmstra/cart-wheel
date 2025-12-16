@@ -1,0 +1,186 @@
+{
+  "jaraco_vcs-2.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f29e9445c506c6559ed58ae1e5dab7a2f3132c905acaf3dfcce9e0f3de1a8391",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "jaraco.classes",
+        "more-itertools",
+        "jaraco.versioning",
+        "python-dateutil",
+        "tempora",
+        "jaraco.path"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "jaraco.classes",
+      "more_itertools",
+      "jaraco.versioning",
+      "python-dateutil",
+      "tempora",
+      "jaraco.path",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "pygments; extra == \"test\"",
+      "pytest-home; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\"",
+      "types-python-dateutil; extra == \"type\""
+    ]
+  },
+  "jaraco.vcs-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c002ed33fda4ceb788c6cabc74852573d015bc6aa5e70230a0f922b006f15b1a",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "jaraco.classes",
+        "more-itertools",
+        "jaraco.versioning",
+        "python-dateutil",
+        "tempora",
+        "jaraco.path"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "jaraco.classes",
+      "more-itertools",
+      "jaraco.versioning",
+      "python-dateutil",
+      "tempora",
+      "jaraco.path",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest !=8.1.1,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pygments ; extra == 'test'",
+      "types-python-dateutil ; extra == 'test'",
+      "pytest-home ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "jaraco.vcs-2.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60acec768fdf668c217e8a41900ed152a3c893be7db10deee138dc96c4d35f6c",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "jaraco.classes",
+        "more-itertools",
+        "jaraco.versioning",
+        "python-dateutil",
+        "tempora"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "jaraco.classes",
+      "more-itertools",
+      "jaraco.versioning",
+      "python-dateutil",
+      "tempora",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest !=8.1.1,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pygments ; extra == 'test'",
+      "jaraco.path ; extra == 'test'",
+      "types-python-dateutil ; extra == 'test'",
+      "pytest-home ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "jaraco.vcs-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1bd021929c56ef2b6a3948da21f94b4db2b4ef9c6082a2ef94693f42b62b5fcb",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "jaraco.classes",
+        "more-itertools",
+        "jaraco.versioning",
+        "python-dateutil",
+        "tempora"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "jaraco.classes",
+      "more-itertools",
+      "jaraco.versioning",
+      "python-dateutil",
+      "tempora",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest !=8.1.1,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pygments ; extra == 'test'",
+      "jaraco.path ; extra == 'test'",
+      "types-python-dateutil ; extra == 'test'",
+      "pytest-home ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "jaraco.vcs-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c1a7e2df6282357987df4509f645b1484106bde6626da0cada1b480c649d0947",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "jaraco.classes",
+        "more-itertools",
+        "jaraco.versioning",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "jaraco.classes",
+      "more-itertools",
+      "jaraco.versioning",
+      "python-dateutil",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest !=8.1.1,>=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-mypy ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'",
+      "pygments ; extra == 'testing'",
+      "jaraco.path ; extra == 'testing'",
+      "types-python-dateutil ; extra == 'testing'"
+    ]
+  }
+}

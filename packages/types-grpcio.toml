@@ -1,0 +1,11 @@
+# Package configuration for types-grpcio
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_grpcio-1.0.0.20251009-py3-none-any.whl" },
+  { filename = "types_grpcio-1.0.0.20251001-py3-none-any.whl" },
+  { filename = "types_grpcio-1.0.0.20250914-py3-none-any.whl" },
+  { filename = "types_grpcio-1.0.0.20250703-py3-none-any.whl" },
+  { filename = "types_grpcio-1.0.0.20250603-py3-none-any.whl" },
+]

@@ -1,0 +1,7 @@
+# Package configuration for types-aiobotocore-route53globalresolver
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_route53globalresolver-3.0.0-py3-none-any.whl" },
+]

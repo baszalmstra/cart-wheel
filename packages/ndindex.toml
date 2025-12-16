@@ -1,0 +1,8 @@
+# Package configuration for ndindex
+conda_forge = "ndindex"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ndindex-1.8-py3-none-any.whl" },
+]

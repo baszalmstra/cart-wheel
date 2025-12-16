@@ -1,0 +1,12 @@
+# Package configuration for papermill
+conda_forge = "papermill"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "papermill-2.6.0-py3-none-any.whl" },
+  { filename = "papermill-2.5.0-py3-none-any.whl" },
+  { filename = "papermill-2.4.0-py3-none-any.whl" },
+  { filename = "papermill-2.3.4-py3-none-any.whl" },
+  { filename = "papermill-2.3.3-py3-none-any.whl" },
+]

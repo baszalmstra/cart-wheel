@@ -1,0 +1,67 @@
+{
+  "pytest_localserver-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de526dc5fb26395fb7bbf26bfc14dde5ac3390ba8d8c7de42dfa492d65e0c448",
+    "dependencies": {
+      "required": [
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "werkzeug>=0.10",
+      "aiosmtpd; extra == \"smtp\""
+    ]
+  },
+  "pytest_localserver-0.9.0.post0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "88a50e99637c84ab20680fd54b8dcfd53a36cbdf877013abd0e7442536a95bce",
+    "dependencies": {
+      "required": [
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "werkzeug >=0.10",
+      "aiosmtpd ; extra == 'smtp'"
+    ]
+  },
+  "pytest_localserver-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ec5ad283044118bc615d8b207af10eef05217aa57e0f68a145cab61385b26d4",
+    "dependencies": {
+      "required": [
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "werkzeug >=0.10",
+      "aiosmtpd ; extra == 'smtp'"
+    ]
+  },
+  "pytest_localserver-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13bc3d9aca719a60a2d1e535c5f0a58c7c1c2ad749f6e9cf198a358f5345e1d0",
+    "dependencies": {
+      "required": [
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "werkzeug >=0.10",
+      "aiosmtpd ; extra == 'smtp'"
+    ]
+  },
+  "pytest_localserver-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d63e32fbb64543330ecb5468dea4db2c5ffac3b220eacbd60e3da173bb84f929",
+    "dependencies": {
+      "required": [
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "werkzeug (>=0.10)",
+      "aiosmtpd ; extra == 'smtp'"
+    ]
+  }
+}

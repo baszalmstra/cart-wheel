@@ -1,0 +1,12 @@
+# Package configuration for docker
+conda_forge = "docker-py"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "docker-7.1.0-py3-none-any.whl" },
+  { filename = "docker-7.0.0-py3-none-any.whl" },
+  { filename = "docker-6.1.3-py3-none-any.whl" },
+  { filename = "docker-6.1.2-py3-none-any.whl" },
+  { filename = "docker-6.1.1-py3-none-any.whl" },
+]

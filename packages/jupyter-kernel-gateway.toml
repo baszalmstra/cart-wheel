@@ -1,0 +1,12 @@
+# Package configuration for jupyter-kernel-gateway
+conda_forge = "jupyter_kernel_gateway"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyter_kernel_gateway-3.0.1-py3-none-any.whl" },
+  { filename = "jupyter_kernel_gateway-3.0.0-py3-none-any.whl" },
+  { filename = "jupyter_kernel_gateway-2.5.2-py3-none-any.whl" },
+  { filename = "jupyter_kernel_gateway-2.5.1-py3-none-any.whl" },
+  { filename = "jupyter_kernel_gateway-2.5.0-py3-none-any.whl" },
+]

@@ -1,0 +1,70 @@
+{
+  "cer-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a978a7a178bc369b0d32084ef5768b9636fd4e400fa7bbad1452f7f013a5107f",
+    "dependencies": {
+      "required": [
+        "levenshtein"
+      ]
+    },
+    "original_requirements": [
+      "Levenshtein",
+      "isort (>=5.5.4) ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pytest ; extra == 'dev'"
+    ]
+  },
+  "cer-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8135398e69490954a1d5fa050f016006752663d1c852d3b876132b2812e12b1c",
+    "dependencies": {
+      "required": [
+        "levenshtein"
+      ]
+    },
+    "original_requirements": [
+      "Levenshtein",
+      "isort (>=5.5.4) ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pytest ; extra == 'dev'"
+    ]
+  },
+  "cer-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37ffdbf8f7eaa5b9541817a6f0179c6c929cfcfef21f3e94a325fc3df3c305a9",
+    "dependencies": {
+      "required": [
+        "levenshtein"
+      ]
+    },
+    "original_requirements": [
+      "Levenshtein",
+      "isort (>=5.5.4) ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cases ; extra == 'dev'",
+      "pygments ; extra == 'dev'"
+    ]
+  },
+  "cer-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6d5caeb1a650a29b00aa1fa961b3779a88ba8e6858f8293452340fdfdf43bc3f",
+    "dependencies": {
+      "required": [
+        "levenshtein"
+      ]
+    },
+    "original_requirements": [
+      "Levenshtein",
+      "isort (>=5.5.4) ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cases ; extra == 'dev'",
+      "pygments ; extra == 'dev'"
+    ]
+  }
+}

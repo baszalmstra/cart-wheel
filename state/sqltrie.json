@@ -1,0 +1,122 @@
+{
+  "sqltrie-0.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4afb1390bbe8a6900a53709b76213a436fbaf352de0b99ba9b0d395d4a0ca6b6",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "orjson",
+        "pygtrie"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=22.2.0",
+      "orjson; implementation_name == \"cpython\"",
+      "pygtrie",
+      "pytest==7.2.0; extra == \"tests\"",
+      "pytest-sugar==0.9.5; extra == \"tests\"",
+      "pytest-cov==3.0.0; extra == \"tests\"",
+      "pytest-mock==3.8.2; extra == \"tests\"",
+      "mypy==0.971; extra == \"tests\"",
+      "pytest-benchmark; extra == \"tests\"",
+      "pyinstaller; extra == \"tests\"",
+      "sqltrie[tests]; extra == \"dev\""
+    ]
+  },
+  "sqltrie-0.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "21489d6f4a6ef3f5144846f7dc98d9a8792fecc622513560277a28b8af2d7e67",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "pygtrie",
+        "orjson"
+      ]
+    },
+    "original_requirements": [
+      "attrs >=22.2.0",
+      "pygtrie",
+      "orjson ; implementation_name == \"cpython\"",
+      "sqltrie[tests] ; extra == 'dev'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-sugar ==0.9.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-mock ==3.8.2 ; extra == 'tests'",
+      "mypy ==0.971 ; extra == 'tests'",
+      "pytest-benchmark ; extra == 'tests'",
+      "pyinstaller ; extra == 'tests'"
+    ]
+  },
+  "sqltrie-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "132c3d2675dd14970093e2f8dcde906f7a3c900c4477641da71c0c8627eb5a0e",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "pygtrie",
+        "orjson"
+      ]
+    },
+    "original_requirements": [
+      "attrs",
+      "pygtrie",
+      "orjson ; implementation_name == \"cpython\"",
+      "sqltrie[tests] ; extra == 'dev'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-sugar ==0.9.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-mock ==3.8.2 ; extra == 'tests'",
+      "mypy ==0.971 ; extra == 'tests'",
+      "pytest-benchmark ; extra == 'tests'",
+      "pyinstaller ; extra == 'tests'"
+    ]
+  },
+  "sqltrie-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f09902425a30428bc6924535c14648881bf57450050cfb22bcdc473caf8d4031",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "pygtrie",
+        "orjson"
+      ]
+    },
+    "original_requirements": [
+      "attrs",
+      "pygtrie",
+      "orjson ; implementation_name == \"cpython\"",
+      "sqltrie[tests] ; extra == 'dev'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-sugar ==0.9.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-mock ==3.8.2 ; extra == 'tests'",
+      "mypy ==0.971 ; extra == 'tests'",
+      "pytest-benchmark ; extra == 'tests'",
+      "pyinstaller ; extra == 'tests'"
+    ]
+  },
+  "sqltrie-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "037e5ae614d94ce19cf49d802af4e2a1091f8bc0914c225e580b7a871723f19e",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "pygtrie",
+        "orjson"
+      ]
+    },
+    "original_requirements": [
+      "attrs",
+      "pygtrie",
+      "orjson ; implementation_name == \"cpython\"",
+      "sqltrie[tests] ; extra == 'dev'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-sugar ==0.9.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-mock ==3.8.2 ; extra == 'tests'",
+      "mypy ==0.971 ; extra == 'tests'",
+      "pytest-benchmark ; extra == 'tests'",
+      "pyinstaller ; extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for griffe-inherited-docstrings
+conda_forge = "griffe-inherited-docstrings"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "griffe_inherited_docstrings-1.1.2-py3-none-any.whl" },
+  { filename = "griffe_inherited_docstrings-1.1.1-py3-none-any.whl" },
+  { filename = "griffe_inherited_docstrings-1.1.0-py3-none-any.whl" },
+  { filename = "griffe_inherited_docstrings-1.0.1-py3-none-any.whl" },
+  { filename = "griffe_inherited_docstrings-1.0.0-py3-none-any.whl" },
+]

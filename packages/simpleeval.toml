@@ -1,0 +1,12 @@
+# Package configuration for simpleeval
+conda_forge = "simpleeval"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "simpleeval-1.0.3-py3-none-any.whl" },
+  { filename = "simpleeval-1.0.2-py3-none-any.whl" },
+  { filename = "simpleeval-1.0.1-py3-none-any.whl" },
+  { filename = "simpleeval-1.0.0-py3-none-any.whl" },
+  { filename = "simpleeval-0.9.13-py2.py3-none-any.whl" },
+]

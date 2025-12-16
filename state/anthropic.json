@@ -1,0 +1,232 @@
+{
+  "anthropic-0.75.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:52.931204+00:00",
+    "conda_file": "anthropic-0.75.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "docstring-parser",
+        "httpx",
+        "jiter",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ],
+      "optional": {
+        "aiohttp": [
+          "aiohttp",
+          "httpx-aiohttp"
+        ],
+        "bedrock": [
+          "boto3",
+          "botocore"
+        ],
+        "vertex": [
+          "google-auth[extras=[requests]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "docstring-parser<1,>=0.15",
+      "httpx<1,>=0.25.0",
+      "jiter<1,>=0.4.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'",
+      "boto3>=1.28.57; extra == 'bedrock'",
+      "botocore>=1.31.57; extra == 'bedrock'",
+      "google-auth[requests]<3,>=2; extra == 'vertex'"
+    ]
+  },
+  "anthropic-0.74.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:52.958999+00:00",
+    "conda_file": "anthropic-0.74.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "docstring-parser",
+        "httpx",
+        "jiter",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ],
+      "optional": {
+        "aiohttp": [
+          "aiohttp",
+          "httpx-aiohttp"
+        ],
+        "bedrock": [
+          "boto3",
+          "botocore"
+        ],
+        "vertex": [
+          "google-auth[extras=[requests]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "docstring-parser<1,>=0.15",
+      "httpx<1,>=0.25.0",
+      "jiter<1,>=0.4.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'",
+      "boto3>=1.28.57; extra == 'bedrock'",
+      "botocore>=1.31.57; extra == 'bedrock'",
+      "google-auth[requests]<3,>=2; extra == 'vertex'"
+    ]
+  },
+  "anthropic-0.74.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:53.082744+00:00",
+    "conda_file": "anthropic-0.74.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "docstring-parser",
+        "httpx",
+        "jiter",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ],
+      "optional": {
+        "aiohttp": [
+          "aiohttp",
+          "httpx-aiohttp"
+        ],
+        "bedrock": [
+          "boto3",
+          "botocore"
+        ],
+        "vertex": [
+          "google-auth[extras=[requests]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "docstring-parser<1,>=0.15",
+      "httpx<1,>=0.25.0",
+      "jiter<1,>=0.4.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'",
+      "boto3>=1.28.57; extra == 'bedrock'",
+      "botocore>=1.31.57; extra == 'bedrock'",
+      "google-auth[requests]<3,>=2; extra == 'vertex'"
+    ]
+  },
+  "anthropic-0.73.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:53.660675+00:00",
+    "conda_file": "anthropic-0.73.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "docstring-parser",
+        "httpx",
+        "jiter",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ],
+      "optional": {
+        "aiohttp": [
+          "aiohttp",
+          "httpx-aiohttp"
+        ],
+        "bedrock": [
+          "boto3",
+          "botocore"
+        ],
+        "vertex": [
+          "google-auth[extras=[requests]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "docstring-parser<1,>=0.15",
+      "httpx<1,>=0.25.0",
+      "jiter<1,>=0.4.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'",
+      "boto3>=1.28.57; extra == 'bedrock'",
+      "botocore>=1.31.57; extra == 'bedrock'",
+      "google-auth[requests]<3,>=2; extra == 'vertex'"
+    ]
+  },
+  "anthropic-0.72.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:53.747749+00:00",
+    "conda_file": "anthropic-0.72.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "docstring-parser",
+        "httpx",
+        "jiter",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ],
+      "optional": {
+        "aiohttp": [
+          "aiohttp",
+          "httpx-aiohttp"
+        ],
+        "bedrock": [
+          "boto3",
+          "botocore"
+        ],
+        "vertex": [
+          "google-auth[extras=[requests]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "docstring-parser<1,>=0.15",
+      "httpx<1,>=0.25.0",
+      "jiter<1,>=0.4.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'",
+      "boto3>=1.28.57; extra == 'bedrock'",
+      "botocore>=1.31.57; extra == 'bedrock'",
+      "google-auth[requests]<3,>=2; extra == 'vertex'"
+    ]
+  }
+}

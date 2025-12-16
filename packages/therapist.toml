@@ -1,0 +1,11 @@
+# Package configuration for therapist
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "therapist-2.2.0-py3-none-any.whl" },
+  { filename = "therapist-2.1.2-py3-none-any.whl" },
+  { filename = "therapist-2.1.1-py3-none-any.whl" },
+  { filename = "therapist-2.1.0-py3-none-any.whl" },
+  { filename = "therapist-2.0.1-py3-none-any.whl" },
+]

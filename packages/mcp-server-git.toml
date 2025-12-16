@@ -1,0 +1,11 @@
+# Package configuration for mcp-server-git
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mcp_server_git-2025.11.25-py3-none-any.whl" },
+  { filename = "mcp_server_git-2025.9.25-py3-none-any.whl" },
+  { filename = "mcp_server_git-2025.7.1-py3-none-any.whl" },
+  { filename = "mcp_server_git-2025.1.14-py3-none-any.whl" },
+  { filename = "mcp_server_git-0.6.2-py3-none-any.whl" },
+]

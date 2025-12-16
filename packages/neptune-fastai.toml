@@ -1,0 +1,10 @@
+# Package configuration for neptune-fastai
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neptune_fastai-1.1.1-py3-none-any.whl" },
+  { filename = "neptune_fastai-1.1.0-py3-none-any.whl" },
+  { filename = "neptune_fastai-1.0.0-py3-none-any.whl" },
+  { filename = "neptune_fastai-0.10.4-py3-none-any.whl" },
+]

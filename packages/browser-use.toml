@@ -1,0 +1,11 @@
+# Package configuration for browser-use
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "browser_use-0.11.1-py3-none-any.whl" },
+  { filename = "browser_use-0.11.0-py3-none-any.whl" },
+  { filename = "browser_use-0.10.1-py3-none-any.whl" },
+  { filename = "browser_use-0.9.7-py3-none-any.whl" },
+  { filename = "browser_use-0.9.6-py3-none-any.whl" },
+]

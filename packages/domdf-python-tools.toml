@@ -1,0 +1,12 @@
+# Package configuration for domdf-python-tools
+conda_forge = "domdf-python-tools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "domdf_python_tools-3.10.0-py3-none-any.whl" },
+  { filename = "domdf_python_tools-3.9.0-py3-none-any.whl" },
+  { filename = "domdf_python_tools-3.8.1-py3-none-any.whl" },
+  { filename = "domdf_python_tools-3.8.0.post2-py3-none-any.whl" },
+  { filename = "domdf_python_tools-3.8.0-py3-none-any.whl" },
+]

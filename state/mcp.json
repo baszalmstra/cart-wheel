@@ -1,0 +1,212 @@
+{
+  "mcp-1.24.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db130e103cc50ddc3dffc928382f33ba3eaef0b711f7a87c05e7ded65b1ca062",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "httpx-sse",
+        "httpx",
+        "jsonschema",
+        "pydantic-settings",
+        "pydantic",
+        "pyjwt",
+        "python-multipart",
+        "pywin32",
+        "sse-starlette",
+        "starlette",
+        "typing-extensions",
+        "typing-inspection",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "anyio>=4.5",
+      "httpx-sse>=0.4",
+      "httpx>=0.27.1",
+      "jsonschema>=4.20.0",
+      "pydantic-settings>=2.5.2",
+      "pydantic<3.0.0,>=2.11.0",
+      "pyjwt[crypto]>=2.10.1",
+      "python-multipart>=0.0.9",
+      "pywin32>=310; sys_platform == 'win32'",
+      "sse-starlette>=1.6.1",
+      "starlette>=0.27",
+      "typing-extensions>=4.9.0",
+      "typing-inspection>=0.4.1",
+      "uvicorn>=0.31.1; sys_platform != 'emscripten'",
+      "python-dotenv>=1.0.0; extra == 'cli'",
+      "typer>=0.16.0; extra == 'cli'",
+      "rich>=13.9.4; extra == 'rich'",
+      "websockets>=15.0.1; extra == 'ws'"
+    ]
+  },
+  "mcp-1.23.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "32768af4b46a1b4f7df34e2bfdf5c6011e7b63d7f1b0e321d0fdef4cd6082031",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "httpx-sse",
+        "httpx",
+        "jsonschema",
+        "pydantic-settings",
+        "pydantic",
+        "pyjwt",
+        "python-multipart",
+        "pywin32",
+        "sse-starlette",
+        "starlette",
+        "typing-extensions",
+        "typing-inspection",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "anyio>=4.5",
+      "httpx-sse>=0.4",
+      "httpx>=0.27.1",
+      "jsonschema>=4.20.0",
+      "pydantic-settings>=2.5.2",
+      "pydantic<3.0.0,>=2.11.0",
+      "pyjwt[crypto]>=2.10.1",
+      "python-multipart>=0.0.9",
+      "pywin32>=310; sys_platform == 'win32'",
+      "sse-starlette>=1.6.1",
+      "starlette>=0.27",
+      "typing-extensions>=4.9.0",
+      "typing-inspection>=0.4.1",
+      "uvicorn>=0.31.1; sys_platform != 'emscripten'",
+      "python-dotenv>=1.0.0; extra == 'cli'",
+      "typer>=0.16.0; extra == 'cli'",
+      "rich>=13.9.4; extra == 'rich'",
+      "websockets>=15.0.1; extra == 'ws'"
+    ]
+  },
+  "mcp-1.23.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d8e4c6af0317ad954ea0a53dfb5e229dddea2d0a54568c080e82e8fae4a8264e",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "httpx-sse",
+        "httpx",
+        "jsonschema",
+        "pydantic-settings",
+        "pydantic",
+        "pyjwt",
+        "python-multipart",
+        "pywin32",
+        "sse-starlette",
+        "starlette",
+        "typing-extensions",
+        "typing-inspection",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "anyio>=4.5",
+      "httpx-sse>=0.4",
+      "httpx>=0.27.1",
+      "jsonschema>=4.20.0",
+      "pydantic-settings>=2.5.2",
+      "pydantic<3.0.0,>=2.11.0",
+      "pyjwt[crypto]>=2.10.1",
+      "python-multipart>=0.0.9",
+      "pywin32>=310; sys_platform == 'win32'",
+      "sse-starlette>=1.6.1",
+      "starlette>=0.27",
+      "typing-extensions>=4.9.0",
+      "typing-inspection>=0.4.1",
+      "uvicorn>=0.31.1; sys_platform != 'emscripten'",
+      "python-dotenv>=1.0.0; extra == 'cli'",
+      "typer>=0.16.0; extra == 'cli'",
+      "rich>=13.9.4; extra == 'rich'",
+      "websockets>=15.0.1; extra == 'ws'"
+    ]
+  },
+  "mcp-1.23.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ce897fcc20a41bd50b4c58d3aa88085f11f505dcc0eaed48930012d34c731d8",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "httpx-sse",
+        "httpx",
+        "jsonschema",
+        "pydantic-settings",
+        "pydantic",
+        "pyjwt",
+        "python-multipart",
+        "pywin32",
+        "sse-starlette",
+        "starlette",
+        "typing-extensions",
+        "typing-inspection",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "anyio>=4.5",
+      "httpx-sse>=0.4",
+      "httpx>=0.27.1",
+      "jsonschema>=4.20.0",
+      "pydantic-settings>=2.5.2",
+      "pydantic<3.0.0,>=2.11.0",
+      "pyjwt[crypto]>=2.10.1",
+      "python-multipart>=0.0.9",
+      "pywin32>=310; sys_platform == 'win32'",
+      "sse-starlette>=1.6.1",
+      "starlette>=0.27",
+      "typing-extensions>=4.9.0",
+      "typing-inspection>=0.4.1",
+      "uvicorn>=0.31.1; sys_platform != 'emscripten'",
+      "python-dotenv>=1.0.0; extra == 'cli'",
+      "typer>=0.16.0; extra == 'cli'",
+      "rich>=13.9.4; extra == 'rich'",
+      "websockets>=15.0.1; extra == 'ws'"
+    ]
+  },
+  "mcp-1.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a645cf111ed329f4619f2629a3f15d9aabd7adc2ea09d600d31467b51ecb64f",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "httpx-sse",
+        "httpx",
+        "jsonschema",
+        "pydantic-settings",
+        "pydantic",
+        "pyjwt",
+        "python-multipart",
+        "pywin32",
+        "sse-starlette",
+        "starlette",
+        "typing-extensions",
+        "typing-inspection",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "anyio>=4.5",
+      "httpx-sse>=0.4",
+      "httpx>=0.27.1",
+      "jsonschema>=4.20.0",
+      "pydantic-settings>=2.5.2",
+      "pydantic<3.0.0,>=2.11.0",
+      "pyjwt[crypto]>=2.10.1",
+      "python-multipart>=0.0.9",
+      "pywin32>=310; sys_platform == 'win32'",
+      "sse-starlette>=1.6.1",
+      "starlette>=0.27",
+      "typing-extensions>=4.9.0",
+      "typing-inspection>=0.4.1",
+      "uvicorn>=0.31.1; sys_platform != 'emscripten'",
+      "python-dotenv>=1.0.0; extra == 'cli'",
+      "typer>=0.16.0; extra == 'cli'",
+      "rich>=13.9.4; extra == 'rich'",
+      "websockets>=15.0.1; extra == 'ws'"
+    ]
+  }
+}

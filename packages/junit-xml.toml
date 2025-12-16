@@ -1,0 +1,8 @@
+# Package configuration for junit-xml
+conda_forge = "junit-xml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "junit_xml-1.9-py2.py3-none-any.whl" },
+]

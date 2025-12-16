@@ -1,0 +1,68 @@
+{
+  "scramp-1.4.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a0cf9d2b4624b69bac5432dd69fecfc55a542384fe73c3a23ed9b138cda484e1",
+    "dependencies": {
+      "required": [
+        "asn1crypto"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto>=1.5.1"
+    ]
+  },
+  "scramp-1.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50e37c464fc67f37994e35bee4151e3d8f9320e9c204fca83a5d313c121bbbe7",
+    "dependencies": {
+      "required": [
+        "asn1crypto"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto>=1.5.1"
+    ]
+  },
+  "scramp-1.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b142312df7c2977241d951318b7ee923d6b7a4f75ba0f05b621ece1ed616faa3",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto (>=1.5.1)",
+      "importlib-metadata (>=1.0) ; python_version < \"3.8\""
+    ]
+  },
+  "scramp-1.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5807286357686a262dd38961d48ac87af41394955ec81be3b15028d84664f015",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto (>=1.5.1)",
+      "importlib-metadata (>=1.0) ; python_version < \"3.8\""
+    ]
+  },
+  "scramp-1.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7d9f293cf5ca17bdc6202861ea47bbbe2e0bbe223afb34d677c1c4a4cbde808",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto (>=1.5.1)",
+      "importlib-metadata (>=1.0) ; python_version < \"3.8\""
+    ]
+  }
+}

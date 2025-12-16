@@ -1,0 +1,12 @@
+# Package configuration for hatch
+conda_forge = "hatch"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hatch-1.16.2-py3-none-any.whl" },
+  { filename = "hatch-1.16.1-py3-none-any.whl" },
+  { filename = "hatch-1.16.0-py3-none-any.whl" },
+  { filename = "hatch-1.15.1-py3-none-any.whl" },
+  { filename = "hatch-1.15.0-py3-none-any.whl" },
+]

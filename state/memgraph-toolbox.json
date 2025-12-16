@@ -1,0 +1,94 @@
+{
+  "memgraph_toolbox-0.1.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c61579ad66def7baa7317a56887d58b38c7356be6294b0168318e7b204f96904",
+    "dependencies": {
+      "required": [
+        "deepeval",
+        "litellm",
+        "mcp",
+        "neo4j",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "deepeval>=3.5.2",
+      "litellm>=1.77.1",
+      "mcp>=1.14.1",
+      "neo4j>=5.28.1",
+      "numpy>=2.2.6",
+      "sentence-transformers>=5.1.0; extra == 'evaluations'",
+      "torch>=2.8.0; extra == 'evaluations'",
+      "pytest-asyncio>=0.26.0; extra == 'test'",
+      "pytest>=8.3.5; extra == 'test'"
+    ]
+  },
+  "memgraph_toolbox-0.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ab3d5c6b0331b4b406aa3018f84c0be5a96baf88803c3884efeb79243a24573",
+    "dependencies": {
+      "required": [
+        "deepeval",
+        "litellm",
+        "mcp",
+        "neo4j",
+        "numpy",
+        "sentence-transformers",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "deepeval>=3.5.2",
+      "litellm>=1.77.1",
+      "mcp>=1.14.1",
+      "neo4j>=5.28.1",
+      "numpy>=2.2.6",
+      "sentence-transformers>=5.1.0",
+      "torch>=2.8.0",
+      "pytest-asyncio>=0.26.0; extra == 'test'",
+      "pytest>=8.3.5; extra == 'test'"
+    ]
+  },
+  "memgraph_toolbox-0.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "802296daf577aaa85e224a20de9ad68acaa2b9b393e1f49939c753fae7cad376",
+    "dependencies": {
+      "required": [
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "neo4j>=5.28.1",
+      "pytest-asyncio>=0.26.0; extra == 'test'",
+      "pytest>=8.3.5; extra == 'test'"
+    ]
+  },
+  "memgraph_toolbox-0.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d93395304f2bd9aa8440c5419e4c23dcd97b6e99cf48e3fc01ec9ce61a17e874",
+    "dependencies": {
+      "required": [
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "neo4j>=5.28.1",
+      "pytest-asyncio>=0.26.0; extra == 'test'",
+      "pytest>=8.3.5; extra == 'test'"
+    ]
+  },
+  "memgraph_toolbox-0.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "805bd7a93730ae5827059738700db91c9e322e8eafa74403af702fdc7bb043cc",
+    "dependencies": {
+      "required": [
+        "neo4j"
+      ]
+    },
+    "original_requirements": [
+      "neo4j>=5.28.1",
+      "pytest-asyncio>=0.26.0; extra == 'test'",
+      "pytest>=8.3.5; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for azure-common
+conda_forge = "azure-common"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_common-1.1.28-py2.py3-none-any.whl" },
+  { filename = "azure_common-1.1.27-py2.py3-none-any.whl" },
+  { filename = "azure_common-1.1.26-py2.py3-none-any.whl" },
+  { filename = "azure_common-1.1.25-py2.py3-none-any.whl" },
+  { filename = "azure_common-1.1.24-py2.py3-none-any.whl" },
+]

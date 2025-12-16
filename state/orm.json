@@ -1,0 +1,98 @@
+{
+  "orm-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c29342006ecea111b7d3f4b77a96d5b658e495466050f4e98a5efc623aaada25",
+    "dependencies": {
+      "required": [
+        "databases",
+        "typesystem"
+      ]
+    },
+    "original_requirements": [
+      "databases (~=0.5)",
+      "typesystem (==0.3.1)",
+      "aiomysql ; extra == 'mysql'",
+      "asyncpg ; extra == 'postgresql'",
+      "aiopg ; extra == 'postgresql_aiopg'",
+      "aiosqlite ; extra == 'sqlite'"
+    ]
+  },
+  "orm-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "625065a7fb493a655a555412afb5d064cc468e0717882a5c877163b46442060a",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "databases",
+        "typesystem"
+      ]
+    },
+    "original_requirements": [
+      "anyio (<4,>=3.0.0)",
+      "databases (~=0.5)",
+      "typesystem (==0.3.1)",
+      "aiomysql ; extra == 'mysql'",
+      "asyncpg ; extra == 'postgresql'",
+      "aiopg ; extra == 'postgresql_aiopg'",
+      "aiosqlite ; extra == 'sqlite'"
+    ]
+  },
+  "orm-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e9df20e97272ba59ff653935db43582b7c89f48d01e487ee3883f614298e9333",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "databases",
+        "typesystem"
+      ]
+    },
+    "original_requirements": [
+      "anyio (<4,>=3.0.0)",
+      "databases (~=0.5)",
+      "typesystem (~=0.3)",
+      "aiomysql ; extra == 'mysql'",
+      "asyncpg ; extra == 'postgresql'",
+      "aiopg ; extra == 'postgresql_aiopg'",
+      "aiosqlite ; extra == 'sqlite'"
+    ]
+  },
+  "orm-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81831fcf246e258d2eeeef816d506492e9a51ed244c84c8a72676a3350568052",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "databases",
+        "typesystem"
+      ]
+    },
+    "original_requirements": [
+      "anyio (<4,>=3.0.0)",
+      "databases (>=0.5.0)",
+      "typesystem (>=0.3.0)",
+      "aiomysql ; extra == 'mysql'",
+      "asyncpg ; extra == 'postgresql'",
+      "aiopg ; extra == 'postgresql_aiopg'",
+      "aiosqlite ; extra == 'sqlite'"
+    ]
+  },
+  "orm-0.1.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23acb56e2d44e666c033189ef282f4d81cbeee9122c95be436b73746aab29f19",
+    "dependencies": {
+      "required": [
+        "databases",
+        "typesystem"
+      ]
+    },
+    "original_requirements": [
+      "databases (>=0.2.1)",
+      "typesystem",
+      "aiomysql ; extra == 'mysql'",
+      "asyncpg ; extra == 'postgresql'",
+      "aiopg ; extra == 'postgresql_aiopg'",
+      "aiosqlite ; extra == 'sqlite'"
+    ]
+  }
+}

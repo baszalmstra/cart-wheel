@@ -1,0 +1,12 @@
+# Package configuration for jupyter-ai-magics
+conda_forge = "jupyter-ai-magics"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyter_ai_magics-2.31.7-py3-none-any.whl" },
+  { filename = "jupyter_ai_magics-2.31.6-py3-none-any.whl" },
+  { filename = "jupyter_ai_magics-2.31.5-py3-none-any.whl" },
+  { filename = "jupyter_ai_magics-2.31.4-py3-none-any.whl" },
+  { filename = "jupyter_ai_magics-2.31.3-py3-none-any.whl" },
+]

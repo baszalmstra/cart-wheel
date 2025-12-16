@@ -1,0 +1,124 @@
+{
+  "nerfacc-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bcf9ecc85f2dc3439491f11f6103de9d5a0dfd2e9fe6ba4cade608443d7c6d2f",
+    "dependencies": {
+      "required": [
+        "rich",
+        "torch",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "rich (>=12)",
+      "torch",
+      "typing-extensions ; python_version < \"3.8\"",
+      "black[jupyter] (==22.3.0) ; extra == 'dev'",
+      "isort (==5.10.1) ; extra == 'dev'",
+      "pylint (==2.13.4) ; extra == 'dev'",
+      "pytest (==7.1.2) ; extra == 'dev'",
+      "pytest-xdist (==2.5.0) ; extra == 'dev'",
+      "typeguard (>=2.13.3) ; extra == 'dev'",
+      "pyyaml (==6.0) ; extra == 'dev'",
+      "build ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "ninja ; extra == 'dev'"
+    ]
+  },
+  "nerfacc-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fbc5afb135c9397fafa45132c0615dab8b60be40979911a8a4e829628815bdb7",
+    "dependencies": {
+      "required": [
+        "rich",
+        "torch",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "rich (>=12)",
+      "torch",
+      "typing-extensions ; python_version < \"3.8\"",
+      "black[jupyter] (==22.3.0) ; extra == 'dev'",
+      "isort (==5.10.1) ; extra == 'dev'",
+      "pylint (==2.13.4) ; extra == 'dev'",
+      "pytest (==7.1.2) ; extra == 'dev'",
+      "pytest-xdist (==2.5.0) ; extra == 'dev'",
+      "typeguard (>=2.13.3) ; extra == 'dev'",
+      "pyyaml (==6.0) ; extra == 'dev'",
+      "build ; extra == 'dev'",
+      "twine ; extra == 'dev'"
+    ]
+  },
+  "nerfacc-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "495cbdfc7fda23b2729f9fb149ed53b9bec446c4759060f98d31d87be38dc28e",
+    "dependencies": {
+      "required": [
+        "rich",
+        "torch",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "rich (>=12)",
+      "torch",
+      "typing-extensions ; python_version < \"3.8\"",
+      "black[jupyter] (==22.3.0) ; extra == 'dev'",
+      "isort (==5.10.1) ; extra == 'dev'",
+      "pylint (==2.13.4) ; extra == 'dev'",
+      "pytest (==7.1.2) ; extra == 'dev'",
+      "pytest-xdist (==2.5.0) ; extra == 'dev'",
+      "typeguard (>=2.13.3) ; extra == 'dev'",
+      "pyyaml (==6.0) ; extra == 'dev'",
+      "build ; extra == 'dev'",
+      "twine ; extra == 'dev'"
+    ]
+  },
+  "nerfacc-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6e9e3cb5482700ad56e05c511a3b8d89dd5622209bb83b60495e29671fc20ff5",
+    "dependencies": {
+      "required": [
+        "rich",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "rich (>=12)",
+      "torch",
+      "black[jupyter] (==22.3.0) ; extra == 'dev'",
+      "isort (==5.10.1) ; extra == 'dev'",
+      "pylint (==2.13.4) ; extra == 'dev'",
+      "pytest (==7.1.2) ; extra == 'dev'",
+      "pytest-xdist (==2.5.0) ; extra == 'dev'",
+      "typeguard (>=2.13.3) ; extra == 'dev'",
+      "pyyaml (==6.0) ; extra == 'dev'",
+      "build ; extra == 'dev'",
+      "twine ; extra == 'dev'"
+    ]
+  },
+  "nerfacc-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c6d821a6a950311804460b4af2f0dc5adc96cf4cbad1da686576dd3c40745e8",
+    "dependencies": {
+      "required": [
+        "rich",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "rich (>=12)",
+      "torch",
+      "black[jupyter] (==22.3.0) ; extra == 'dev'",
+      "isort (==5.10.1) ; extra == 'dev'",
+      "pylint (==2.13.4) ; extra == 'dev'",
+      "pytest (==7.1.2) ; extra == 'dev'",
+      "pytest-xdist (==2.5.0) ; extra == 'dev'",
+      "typeguard (>=2.13.3) ; extra == 'dev'",
+      "pyyaml (==6.0) ; extra == 'dev'",
+      "build ; extra == 'dev'",
+      "twine ; extra == 'dev'"
+    ]
+  }
+}

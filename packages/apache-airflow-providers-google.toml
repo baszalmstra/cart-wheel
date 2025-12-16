@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-google
+conda_forge = "apache-airflow-providers-google"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_google-19.2.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_google-19.1.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_google-19.0.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_google-18.1.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_google-18.0.0-py3-none-any.whl" },
+]

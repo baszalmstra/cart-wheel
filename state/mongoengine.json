@@ -1,0 +1,72 @@
+{
+  "mongoengine-0.29.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9302ec407dd60f47f62cc07684d9f6cac87f1e93283c54203851788104d33df4",
+    "dependencies": {
+      "required": [
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "pymongo<5.0,>=3.4",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "blinker; extra == \"test\"",
+      "Pillow>=7.0.0; extra == \"test\""
+    ]
+  },
+  "mongoengine-0.29.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1bd91649f62b66d0aaa11eac889618ee8ea4d8408f04c23ddc49b0469c2e1c9f",
+    "dependencies": {
+      "required": [
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "pymongo<5.0,>=3.4",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "blinker; extra == \"test\"",
+      "Pillow>=7.0.0; extra == \"test\""
+    ]
+  },
+  "mongoengine-0.28.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8e0f84a5ad3d335e5da98261454d4ab546c866241ed064adc6433fe2077d43c9",
+    "dependencies": {
+      "required": [
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "pymongo <5.0,>=3.4"
+    ]
+  },
+  "mongoengine-0.28.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8ec54e65021012477d1375f7a15057c9e7cb8052380a5dac552dee0bd3d9aae",
+    "dependencies": {
+      "required": [
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "pymongo <5.0,>=3.4"
+    ]
+  },
+  "mongoengine-0.28.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34f28f34295fe095037c0219e528e72745d405d998d96773e8b1286694a2d38d",
+    "dependencies": {
+      "required": [
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "pymongo <5.0,>=3.4"
+    ]
+  }
+}

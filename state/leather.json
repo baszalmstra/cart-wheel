@@ -1,0 +1,63 @@
+{
+  "leather-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18290bc93749ae39039af5e31e871fcfad74d26c4c3ea28ea4f681f4571b3a2b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "lxml >=3.6.0 ; extra == 'test'",
+      "cssselect >=0.9.1 ; extra == 'test'"
+    ]
+  },
+  "leather-0.3.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5e741daee96e9f1e9e06081b8c8a10c4ac199301a0564cdd99b09df15b4603d2",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.6.1)"
+    ]
+  },
+  "leather-0.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0bb36a6d5f59fbf3c1a6e75e7c8bee29e67f06f5b48c0134407dde612eba5e2",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.6.1)"
+    ]
+  },
+  "leather-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ab311449434a6391f89469cc32f6482299dcdc4e4d6a7bf8c790aece796afcd",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.6.1)"
+    ]
+  },
+  "leather-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8de8278670fb6d40be6dbc1b8806771b605b7f7c7302e5de6cc19c7191055e40",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.6.1)"
+    ]
+  }
+}

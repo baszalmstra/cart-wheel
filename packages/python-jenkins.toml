@@ -1,0 +1,12 @@
+# Package configuration for python-jenkins
+conda_forge = "python-jenkins"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_jenkins-1.8.3-py3-none-any.whl" },
+  { filename = "python_jenkins-1.8.2-py3-none-any.whl" },
+  { filename = "python_jenkins-1.8.1-py3-none-any.whl" },
+  { filename = "python_jenkins-1.8.0-py3-none-any.whl" },
+  { filename = "python_jenkins-1.7.0-py3-none-any.whl" },
+]

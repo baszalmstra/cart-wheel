@@ -1,0 +1,10 @@
+# Package configuration for azure-ai-documentintelligence
+conda_forge = "azure-ai-documentintelligence"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_ai_documentintelligence-1.0.2-py3-none-any.whl" },
+  { filename = "azure_ai_documentintelligence-1.0.1-py3-none-any.whl" },
+  { filename = "azure_ai_documentintelligence-1.0.0-py3-none-any.whl" },
+]

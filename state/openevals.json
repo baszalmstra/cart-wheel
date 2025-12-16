@@ -1,0 +1,97 @@
+{
+  "openevals-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cbbd21bb9e1017ede6608cdd9cb5d9b65a6002e4aac3a228fbc18f97d6e5f52c",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "langchain-openai",
+        "langsmith",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "langchain>=0.3.18",
+      "langchain-openai>=0.3.6",
+      "langsmith>=0.3.32",
+      "rich>=13.9.4",
+      "e2b-code-interpreter>=1.1.1; extra == \"e2b-code-interpreter\""
+    ]
+  },
+  "openevals-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf7ba17d3c3bad25c67c0e06f44a9cc10740329c7cc4a08ebfda3ea38897d704",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "langchain-openai",
+        "langsmith",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "langchain>=0.3.18",
+      "langchain-openai>=0.3.6",
+      "langsmith>=0.3.32",
+      "rich>=13.9.4",
+      "e2b-code-interpreter>=1.1.1; extra == \"e2b-code-interpreter\""
+    ]
+  },
+  "openevals-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "214b53197b1becff74279ea063c8752f8887a81afda700477639c19a0d683647",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "langchain-openai",
+        "langsmith",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "langchain>=0.3.18",
+      "langchain-openai>=0.3.6",
+      "langsmith>=0.3.32",
+      "rich>=13.9.4",
+      "e2b-code-interpreter>=1.1.1; extra == \"e2b-code-interpreter\""
+    ]
+  },
+  "openevals-0.0.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1f85539fdc03d01eed6242c1fcb9060da160abf977b607019bb21a41d5dac38d",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "langchain-openai",
+        "langsmith",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "langchain>=0.3.18",
+      "langchain-openai>=0.3.6",
+      "langsmith>=0.3.32",
+      "rich>=13.9.4",
+      "e2b-code-interpreter>=1.1.1; extra == \"e2b-code-interpreter\""
+    ]
+  },
+  "openevals-0.0.19-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2973d23c52d99e432a8719a4ce1a5123d001535691916df765096341869898d",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "langchain-openai",
+        "langsmith",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "langchain>=0.3.18",
+      "langchain-openai>=0.3.6",
+      "langsmith>=0.3.32",
+      "rich>=13.9.4",
+      "e2b-code-interpreter>=1.1.1; extra == \"e2b-code-interpreter\""
+    ]
+  }
+}

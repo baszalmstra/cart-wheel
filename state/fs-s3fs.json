@@ -1,0 +1,82 @@
+{
+  "fs_s3fs-1.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ba160eaa93390cc5992a857675666cb2fbb3721b872474dfdc659a715c39280",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "fs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (~=1.9)",
+      "fs (~=2.4)",
+      "six (~=1.10)"
+    ]
+  },
+  "fs_s3fs-1.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1fee1ae14d84a9763009dac6c6686b06dd10625e8d1dc8ad493f9e4e83c3ec97",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "fs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (~=1.7)",
+      "fs (~=2.2)",
+      "six (~=1.10)"
+    ]
+  },
+  "fs_s3fs-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0de20afdc2a99878d398212be831951eaaa229ffca03c01d535ba2abc77a26fd",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "fs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (~=1.7)",
+      "fs (~=2.1)",
+      "six (~=1.10)"
+    ]
+  },
+  "fs_s3fs-0.1.9-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "691cd5f7437bd918215f61c4701068081a29a3dd29bb6c4092a091dff0209b04",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "fs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (~=1.4)",
+      "fs (~=2.0.18)",
+      "six (~=1.10)"
+    ]
+  },
+  "fs_s3fs-0.1.8-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c9d1fd6bbe4fa3032d431f78c5436e3dee9fe9d0c237fccfb3e38aac06cf1e4",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "fs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (~=1.4)",
+      "fs (~=2.0.18)",
+      "six (~=1.10)"
+    ]
+  }
+}

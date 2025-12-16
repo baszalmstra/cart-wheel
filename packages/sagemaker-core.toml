@@ -1,0 +1,12 @@
+# Package configuration for sagemaker-core
+conda_forge = "sagemaker-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sagemaker_core-2.1.1-py3-none-any.whl" },
+  { filename = "sagemaker_core-2.1.0-py3-none-any.whl" },
+  { filename = "sagemaker_core-2.0.1-py3-none-any.whl" },
+  { filename = "sagemaker_core-2.0-py3-none-any.whl" },
+  { filename = "sagemaker_core-1.0.71-py3-none-any.whl" },
+]

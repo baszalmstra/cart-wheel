@@ -1,0 +1,177 @@
+{
+  "openai_agents-0.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ada8b598f4db787939a62c8a291d07cbe68dae2d635955c44a0a0300746ee84f",
+    "dependencies": {
+      "required": [
+        "griffe",
+        "mcp",
+        "openai",
+        "pydantic",
+        "requests",
+        "types-requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "griffe<2,>=1.5.6",
+      "mcp<2,>=1.11.0; python_version >= '3.10'",
+      "openai<3,>=2.9.0",
+      "pydantic<3,>=2.12.3",
+      "requests<3,>=2.0",
+      "types-requests<3,>=2.0",
+      "typing-extensions<5,>=4.12.2",
+      "dapr>=1.16.0; extra == 'dapr'",
+      "grpcio>=1.60.0; extra == 'dapr'",
+      "cryptography<46,>=45.0; extra == 'encrypt'",
+      "litellm<2,>=1.67.4.post1; extra == 'litellm'",
+      "websockets<16,>=15.0; extra == 'realtime'",
+      "redis>=7; extra == 'redis'",
+      "asyncpg>=0.29.0; extra == 'sqlalchemy'",
+      "sqlalchemy>=2.0; extra == 'sqlalchemy'",
+      "graphviz>=0.17; extra == 'viz'",
+      "numpy<3,>=2.2.0; (python_version >= '3.10') and extra == 'voice'",
+      "websockets<16,>=15.0; extra == 'voice'"
+    ]
+  },
+  "openai_agents-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3156637f3eee925268943f5c4b500b3b22b179158b82e7b53ed7ab362edf84d6",
+    "dependencies": {
+      "required": [
+        "griffe",
+        "mcp",
+        "openai",
+        "pydantic",
+        "requests",
+        "types-requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "griffe<2,>=1.5.6",
+      "mcp<2,>=1.11.0; python_version >= '3.10'",
+      "openai<3,>=2.8.0",
+      "pydantic<3,>=2.12.3",
+      "requests<3,>=2.0",
+      "types-requests<3,>=2.0",
+      "typing-extensions<5,>=4.12.2",
+      "dapr>=1.16.0; extra == 'dapr'",
+      "grpcio>=1.60.0; extra == 'dapr'",
+      "cryptography<46,>=45.0; extra == 'encrypt'",
+      "litellm<2,>=1.67.4.post1; extra == 'litellm'",
+      "websockets<16,>=15.0; extra == 'realtime'",
+      "redis>=7; extra == 'redis'",
+      "asyncpg>=0.29.0; extra == 'sqlalchemy'",
+      "sqlalchemy>=2.0; extra == 'sqlalchemy'",
+      "graphviz>=0.17; extra == 'viz'",
+      "numpy<3,>=2.2.0; (python_version >= '3.10') and extra == 'voice'",
+      "websockets<16,>=15.0; extra == 'voice'"
+    ]
+  },
+  "openai_agents-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7bde01c8d2fd723b0c72c9b207dcfeb12a8d211078f5d259945fb163a6f52b89",
+    "dependencies": {
+      "required": [
+        "griffe",
+        "mcp",
+        "openai",
+        "pydantic",
+        "requests",
+        "types-requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "griffe<2,>=1.5.6",
+      "mcp<2,>=1.11.0; python_version >= '3.10'",
+      "openai<3,>=2.8.0",
+      "pydantic<3,>=2.12.3",
+      "requests<3,>=2.0",
+      "types-requests<3,>=2.0",
+      "typing-extensions<5,>=4.12.2",
+      "dapr>=1.16.0; extra == 'dapr'",
+      "grpcio>=1.60.0; extra == 'dapr'",
+      "cryptography<46,>=45.0; extra == 'encrypt'",
+      "litellm<2,>=1.67.4.post1; extra == 'litellm'",
+      "websockets<16,>=15.0; extra == 'realtime'",
+      "redis>=7; extra == 'redis'",
+      "asyncpg>=0.29.0; extra == 'sqlalchemy'",
+      "sqlalchemy>=2.0; extra == 'sqlalchemy'",
+      "graphviz>=0.17; extra == 'viz'",
+      "numpy<3,>=2.2.0; (python_version >= '3.10') and extra == 'voice'",
+      "websockets<16,>=15.0; extra == 'voice'"
+    ]
+  },
+  "openai_agents-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9928e5bea6938141de679ed7f6db9e9595aae05cd9de11b67ed3893a2c1ee07",
+    "dependencies": {
+      "required": [
+        "griffe",
+        "mcp",
+        "openai",
+        "pydantic",
+        "requests",
+        "types-requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "griffe<2,>=1.5.6",
+      "mcp<2,>=1.11.0; python_version >= '3.10'",
+      "openai<3,>=2.8.0",
+      "pydantic<3,>=2.12.3",
+      "requests<3,>=2.0",
+      "types-requests<3,>=2.0",
+      "typing-extensions<5,>=4.12.2",
+      "dapr>=1.16.0; extra == 'dapr'",
+      "grpcio>=1.60.0; extra == 'dapr'",
+      "cryptography<46,>=45.0; extra == 'encrypt'",
+      "litellm<2,>=1.67.4.post1; extra == 'litellm'",
+      "websockets<16,>=15.0; extra == 'realtime'",
+      "redis>=7; extra == 'redis'",
+      "asyncpg>=0.29.0; extra == 'sqlalchemy'",
+      "sqlalchemy>=2.0; extra == 'sqlalchemy'",
+      "graphviz>=0.17; extra == 'viz'",
+      "numpy<3,>=2.2.0; (python_version >= '3.10') and extra == 'voice'",
+      "websockets<16,>=15.0; extra == 'voice'"
+    ]
+  },
+  "openai_agents-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7077c47d8e4230d788a18922df7cd69f13c3328a57744156195da4921c08c835",
+    "dependencies": {
+      "required": [
+        "griffe",
+        "mcp",
+        "openai",
+        "pydantic",
+        "requests",
+        "types-requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "griffe<2,>=1.5.6",
+      "mcp<2,>=1.11.0; python_version >= '3.10'",
+      "openai<3,>=2.7.1",
+      "pydantic<3,>=2.12.3",
+      "requests<3,>=2.0",
+      "types-requests<3,>=2.0",
+      "typing-extensions<5,>=4.12.2",
+      "dapr>=1.16.0; extra == 'dapr'",
+      "grpcio>=1.60.0; extra == 'dapr'",
+      "cryptography<46,>=45.0; extra == 'encrypt'",
+      "litellm<2,>=1.67.4.post1; extra == 'litellm'",
+      "websockets<16,>=15.0; extra == 'realtime'",
+      "redis>=6.4.0; extra == 'redis'",
+      "asyncpg>=0.29.0; extra == 'sqlalchemy'",
+      "sqlalchemy>=2.0; extra == 'sqlalchemy'",
+      "graphviz>=0.17; extra == 'viz'",
+      "numpy<3,>=2.2.0; (python_version >= '3.10') and extra == 'voice'",
+      "websockets<16,>=15.0; extra == 'voice'"
+    ]
+  }
+}

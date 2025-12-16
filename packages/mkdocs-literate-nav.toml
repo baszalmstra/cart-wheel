@@ -1,0 +1,12 @@
+# Package configuration for mkdocs-literate-nav
+conda_forge = "mkdocs-literate-nav"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_literate_nav-0.6.2-py3-none-any.whl" },
+  { filename = "mkdocs_literate_nav-0.6.1-py3-none-any.whl" },
+  { filename = "mkdocs_literate_nav-0.6.0-py3-none-any.whl" },
+  { filename = "mkdocs_literate_nav-0.5.0-py3-none-any.whl" },
+  { filename = "mkdocs_literate_nav-0.4.1-py3-none-any.whl" },
+]

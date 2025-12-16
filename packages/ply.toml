@@ -1,0 +1,8 @@
+# Package configuration for ply
+conda_forge = "happybase"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ply-3.11-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,110 @@
+{
+  "exa_py-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2773f16dc2d70baad284139d58a292ac911307c6898ecd1dbb413035db0c950",
+    "dependencies": {
+      "required": [
+        "requests",
+        "typing-extensions",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "typing-extensions",
+      "openai (>=1.10.0)"
+    ]
+  },
+  "exa_py-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8badba4f5dfbaa3875adbcde1d607343dd93f79c2ea8d63030852952e023c76d",
+    "dependencies": {
+      "required": [
+        "httpcore",
+        "httpx",
+        "openai",
+        "pydantic",
+        "python-dotenv",
+        "requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpcore (>=1.0.9)",
+      "httpx (>=0.28.1)",
+      "openai (>=1.48)",
+      "pydantic (>=2.10.6)",
+      "python-dotenv (>=1.0.1)",
+      "requests (>=2.32.3)",
+      "typing-extensions (>=4.12.2)"
+    ]
+  },
+  "exa_py-1.16.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b323ed32725b72110720306ea12da09161cfa9c8ac64797a9c0b66869741f27",
+    "dependencies": {
+      "required": [
+        "httpcore",
+        "httpx",
+        "openai",
+        "pydantic",
+        "python-dotenv",
+        "requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpcore (>=1.0.9)",
+      "httpx (>=0.28.1)",
+      "openai (>=1.48)",
+      "pydantic (>=2.10.6)",
+      "python-dotenv (>=1.0.1)",
+      "requests (>=2.32.3)",
+      "typing-extensions (>=4.12.2)"
+    ]
+  },
+  "exa_py-1.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fa4eb45c5b657f7c2f7cbb8af70f4c50f5e0cb51a21f2e76695d020d7f1ae0b6",
+    "dependencies": {
+      "required": [
+        "httpcore",
+        "httpx",
+        "openai",
+        "pydantic",
+        "python-dotenv",
+        "requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpcore (>=1.0.9)",
+      "httpx (>=0.28.1)",
+      "openai (>=1.48)",
+      "pydantic (>=2.10.6)",
+      "python-dotenv (>=1.0.1)",
+      "requests (>=2.32.3)",
+      "typing-extensions (>=4.12.2)"
+    ]
+  },
+  "exa_py-1.15.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8bdbe8d9548408f37b895eed7497046bed3e19a84b5f06bf23a540d4e26b636c",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "openai",
+        "pydantic",
+        "requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpx (>=0.28.1)",
+      "openai (>=1.48)",
+      "pydantic (>=2.10.6)",
+      "requests (>=2.32.3)",
+      "typing-extensions (>=4.12.2)"
+    ]
+  }
+}

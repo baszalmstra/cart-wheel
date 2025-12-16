@@ -1,0 +1,12 @@
+# Package configuration for requirements-parser
+conda_forge = "requirements-parser"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "requirements_parser-0.13.0-py3-none-any.whl" },
+  { filename = "requirements_parser-0.11.0-py3-none-any.whl" },
+  { filename = "requirements_parser-0.10.2-py3-none-any.whl" },
+  { filename = "requirements_parser-0.10.1-py3-none-any.whl" },
+  { filename = "requirements_parser-0.10.0-py3-none-any.whl" },
+]

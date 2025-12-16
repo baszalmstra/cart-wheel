@@ -1,0 +1,12 @@
+# Package configuration for asana
+conda_forge = "python-asana"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "asana-5.2.2-py3-none-any.whl" },
+  { filename = "asana-5.2.1-py3-none-any.whl" },
+  { filename = "asana-5.2.0-py3-none-any.whl" },
+  { filename = "asana-5.1.0-py3-none-any.whl" },
+  { filename = "asana-5.0.16-py3-none-any.whl" },
+]

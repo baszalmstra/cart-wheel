@@ -1,0 +1,72 @@
+{
+  "torch_ort-1.19.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6896e294610d06327301c6e53f35bae871cdfbced9460dc6f3cd418a5e2709b2",
+    "dependencies": {
+      "required": [
+        "onnxruntime-training",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "onnxruntime-training (>=1.7.0)",
+      "torch (>=1.8)"
+    ]
+  },
+  "torch_ort-1.19.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79465577862c9a8dc24d257e5eff9655719297c29e28a2985d13f78d76c4e21f",
+    "dependencies": {
+      "required": [
+        "onnxruntime-training",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "onnxruntime-training (>=1.7.0)",
+      "torch (>=1.8)"
+    ]
+  },
+  "torch_ort-1.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "889780bcd5da290c32533d5cb4500474ed3897efc5ac6ade0c450d153180ce35",
+    "dependencies": {
+      "required": [
+        "onnxruntime-training",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "onnxruntime-training (>=1.7.0)",
+      "torch (>=1.8)"
+    ]
+  },
+  "torch_ort-1.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2aa06f0ae7e0a13a5d9b839b89f60e89473cbca4ab6d72fee97c3e91587daed8",
+    "dependencies": {
+      "required": [
+        "onnxruntime-training",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "onnxruntime-training (>=1.7.0)",
+      "torch (>=1.8)"
+    ]
+  },
+  "torch_ort-1.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "76bb19b4d8cf5e9d64552988b46516e009cce3850810b516db1c80e78f93e34b",
+    "dependencies": {
+      "required": [
+        "onnxruntime-training",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "onnxruntime-training (>=1.7.0)",
+      "torch (>=1.8)"
+    ]
+  }
+}

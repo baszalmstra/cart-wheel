@@ -1,0 +1,72 @@
+{
+  "Flask_Caching-2.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3efcf600e5925ea5a2fcb810f13b341ae984f5b52c00e9d9070392f3ca10761",
+    "dependencies": {
+      "required": [
+        "cachelib",
+        "flask"
+      ]
+    },
+    "original_requirements": [
+      "cachelib>=0.9.0",
+      "Flask"
+    ]
+  },
+  "Flask_Caching-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51771c75682e5abc1483b78b96d9131d7941dc669b073852edfa319dd4e29b6e",
+    "dependencies": {
+      "required": [
+        "cachelib",
+        "flask"
+      ]
+    },
+    "original_requirements": [
+      "cachelib (<0.10.0,>=0.9.0)",
+      "Flask"
+    ]
+  },
+  "Flask_Caching-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b74ad9e263cc3c5ac9c2d33c094eb99294b111ace78ccaa665d6b852b907e14",
+    "dependencies": {
+      "required": [
+        "cachelib",
+        "flask"
+      ]
+    },
+    "original_requirements": [
+      "cachelib (<0.10.0,>=0.9.0)",
+      "Flask"
+    ]
+  },
+  "Flask_Caching-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f02645a629a8c89800d96dc8f690a574a0d49dcd66c7536badc6d362ba46b716",
+    "dependencies": {
+      "required": [
+        "cachelib",
+        "flask"
+      ]
+    },
+    "original_requirements": [
+      "cachelib (<0.10.0,>=0.9.0)",
+      "Flask"
+    ]
+  },
+  "Flask_Caching-2.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19571f2570e9b8dd9dd9d2f49d7cbee69c14ebe8cc001100b1eb98c379dd80ad",
+    "dependencies": {
+      "required": [
+        "cachelib",
+        "flask"
+      ]
+    },
+    "original_requirements": [
+      "cachelib (<0.10.0,>=0.9.0)",
+      "Flask (<3)"
+    ]
+  }
+}

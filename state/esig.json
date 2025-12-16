@@ -1,0 +1,18 @@
+{
+  "esig-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "370d7f3f5c5a8466be8db548c3c7ce35868f6c5f69a81fdcd9f57b4e1cf48c0d",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pyrecombine",
+        "roughpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pyrecombine",
+      "roughpy"
+    ]
+  }
+}

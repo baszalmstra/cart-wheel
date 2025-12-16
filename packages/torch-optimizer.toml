@@ -1,0 +1,10 @@
+# Package configuration for torch-optimizer
+conda_forge = "torch-optimizer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torch_optimizer-0.3.0-py3-none-any.whl" },
+  { filename = "torch_optimizer-0.2.0-py3-none-any.whl" },
+  { filename = "torch_optimizer-0.1.0-py3-none-any.whl" },
+]

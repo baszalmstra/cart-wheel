@@ -1,0 +1,12 @@
+# Package configuration for aiomcache
+conda_forge = "aiomcache"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiomcache-0.8.2-py3-none-any.whl" },
+  { filename = "aiomcache-0.8.1-py3-none-any.whl" },
+  { filename = "aiomcache-0.8.0-py3-none-any.whl" },
+  { filename = "aiomcache-0.7.0-py3-none-any.whl" },
+  { filename = "aiomcache-0.6.0-py3-none-any.whl" },
+]

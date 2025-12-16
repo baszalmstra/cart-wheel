@@ -1,0 +1,208 @@
+{
+  "optimum_habana-1.19.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "157de0b5d303d02c27509f67bbefeabb8686bae34640e72d5c0787c9a6e93404",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "optimum",
+        "torch",
+        "accelerate",
+        "diffusers",
+        "huggingface-hub",
+        "sentence-transformers",
+        "sentencepiece"
+      ]
+    },
+    "original_requirements": [
+      "transformers<4.52.0,>=4.51.0",
+      "optimum~=2.0",
+      "torch",
+      "accelerate>=1.7.0",
+      "diffusers<0.34.1,>=0.34.0",
+      "huggingface_hub[hf_xet]>=0.24.7",
+      "sentence-transformers==3.3.1",
+      "sentencepiece",
+      "psutil; extra == \"tests\"",
+      "parameterized; extra == \"tests\"",
+      "GitPython; extra == \"tests\"",
+      "optuna; extra == \"tests\"",
+      "sentencepiece; extra == \"tests\"",
+      "datasets==3.6.0; extra == \"tests\"",
+      "timm; extra == \"tests\"",
+      "safetensors; extra == \"tests\"",
+      "pytest<8.0.0; extra == \"tests\"",
+      "scipy; extra == \"tests\"",
+      "torchsde; extra == \"tests\"",
+      "timm; extra == \"tests\"",
+      "peft; extra == \"tests\"",
+      "bitsandbytes; extra == \"tests\"",
+      "tiktoken; extra == \"tests\"",
+      "blobfile; extra == \"tests\"",
+      "ruff; extra == \"quality\"",
+      "hf_doc_builder; extra == \"quality\""
+    ]
+  },
+  "optimum_habana-1.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b03b095e7cfb342d1d6b0f768c1bb4c92da2bd2e7ee04a07b40f7d9ca14062c0",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "optimum",
+        "torch",
+        "accelerate",
+        "diffusers",
+        "huggingface-hub",
+        "sentence-transformers",
+        "sentencepiece"
+      ]
+    },
+    "original_requirements": [
+      "transformers<4.52.0,>=4.51.0",
+      "optimum~=1.25",
+      "torch",
+      "accelerate>=1.7.0",
+      "diffusers<0.34.1,>=0.34.0",
+      "huggingface_hub[hf_xet]>=0.24.7",
+      "sentence-transformers==3.3.1",
+      "sentencepiece",
+      "psutil; extra == \"tests\"",
+      "parameterized; extra == \"tests\"",
+      "GitPython; extra == \"tests\"",
+      "optuna; extra == \"tests\"",
+      "sentencepiece; extra == \"tests\"",
+      "datasets==3.6.0; extra == \"tests\"",
+      "timm; extra == \"tests\"",
+      "safetensors; extra == \"tests\"",
+      "pytest<8.0.0; extra == \"tests\"",
+      "scipy; extra == \"tests\"",
+      "torchsde; extra == \"tests\"",
+      "timm; extra == \"tests\"",
+      "peft; extra == \"tests\"",
+      "bitsandbytes; extra == \"tests\"",
+      "tiktoken; extra == \"tests\"",
+      "blobfile; extra == \"tests\"",
+      "ruff; extra == \"quality\"",
+      "hf_doc_builder; extra == \"quality\""
+    ]
+  },
+  "optimum_habana-1.18.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "980851a373e0e8ce01d034e88172a4e5fc5c49fe443d436b40e2273f2b5832ed",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "optimum",
+        "torch",
+        "accelerate",
+        "diffusers",
+        "huggingface-hub",
+        "sentence-transformers"
+      ]
+    },
+    "original_requirements": [
+      "transformers<4.52.0,>=4.51.0",
+      "optimum~=1.25",
+      "torch",
+      "accelerate>=1.7.0",
+      "diffusers<0.33.2,>=0.33.1",
+      "huggingface_hub[hf_xet]>=0.24.7",
+      "sentence-transformers==3.3.1",
+      "psutil; extra == \"tests\"",
+      "parameterized; extra == \"tests\"",
+      "GitPython; extra == \"tests\"",
+      "optuna; extra == \"tests\"",
+      "sentencepiece; extra == \"tests\"",
+      "datasets; extra == \"tests\"",
+      "timm; extra == \"tests\"",
+      "safetensors; extra == \"tests\"",
+      "pytest<8.0.0; extra == \"tests\"",
+      "scipy; extra == \"tests\"",
+      "torchsde; extra == \"tests\"",
+      "timm; extra == \"tests\"",
+      "peft; extra == \"tests\"",
+      "tiktoken; extra == \"tests\"",
+      "blobfile; extra == \"tests\"",
+      "ruff; extra == \"quality\"",
+      "hf_doc_builder; extra == \"quality\""
+    ]
+  },
+  "optimum_habana-1.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "21decd17e92de6d0c21d5ebbc1ad8b6613eac5ac370b715ebb3856c1259c6573",
+    "dependencies": {
+      "required": [
+        "accelerate",
+        "diffusers",
+        "huggingface-hub",
+        "optimum",
+        "sentence-transformers",
+        "torch",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "accelerate (>=1.7.0)",
+      "diffusers (<0.33.2,>=0.33.1)",
+      "huggingface-hub (>=0.24.7)",
+      "optimum (~=1.25)",
+      "sentence-transformers (==3.3.1)",
+      "torch",
+      "transformers (<4.50.0,>=4.49.0)",
+      "hf-doc-builder ; extra == 'quality'",
+      "ruff ; extra == 'quality'",
+      "GitPython ; extra == 'tests'",
+      "datasets ; extra == 'tests'",
+      "optuna ; extra == 'tests'",
+      "parameterized ; extra == 'tests'",
+      "peft ; extra == 'tests'",
+      "psutil ; extra == 'tests'",
+      "pytest (<8.0.0) ; extra == 'tests'",
+      "safetensors ; extra == 'tests'",
+      "scipy ; extra == 'tests'",
+      "sentencepiece ; extra == 'tests'",
+      "timm ; extra == 'tests'",
+      "torchsde ; extra == 'tests'"
+    ]
+  },
+  "optimum_habana-1.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f1008c7e84248b62778c8d5f79443237026a5a281b50ee67c7db211c5ca7d2a",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "optimum",
+        "torch",
+        "accelerate",
+        "diffusers",
+        "huggingface-hub",
+        "sentence-transformers"
+      ]
+    },
+    "original_requirements": [
+      "transformers<4.50.0,>=4.49.0",
+      "optimum",
+      "torch",
+      "accelerate<0.34.0,>=0.33.0",
+      "diffusers<0.32.0,>=0.31.0",
+      "huggingface_hub>=0.24.7",
+      "sentence-transformers==3.3.1",
+      "psutil; extra == \"tests\"",
+      "parameterized; extra == \"tests\"",
+      "GitPython; extra == \"tests\"",
+      "optuna; extra == \"tests\"",
+      "sentencepiece; extra == \"tests\"",
+      "datasets; extra == \"tests\"",
+      "timm; extra == \"tests\"",
+      "safetensors; extra == \"tests\"",
+      "pytest<8.0.0; extra == \"tests\"",
+      "scipy; extra == \"tests\"",
+      "torchsde; extra == \"tests\"",
+      "timm; extra == \"tests\"",
+      "peft; extra == \"tests\"",
+      "ruff; extra == \"quality\"",
+      "hf_doc_builder; extra == \"quality\""
+    ]
+  }
+}

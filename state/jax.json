@@ -1,0 +1,197 @@
+{
+  "jax-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4cbdc5548f3095cdd69d38e4337950b2fc1f250a740a0234d190e4a319077564",
+    "dependencies": {
+      "required": [
+        "jaxlib",
+        "ml-dtypes",
+        "numpy",
+        "opt-einsum",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "jaxlib<=0.8.1,>=0.8.1",
+      "ml_dtypes>=0.5.0",
+      "numpy>=2.0",
+      "opt_einsum",
+      "scipy>=1.13",
+      "jaxlib==0.8.1; extra == \"minimum-jaxlib\"",
+      "jaxlib==0.8.0; extra == \"ci\"",
+      "jaxlib<=0.8.1,>=0.8.1; extra == \"tpu\"",
+      "libtpu==0.0.30.*; extra == \"tpu\"",
+      "requests; extra == \"tpu\"",
+      "jaxlib<=0.8.1,>=0.8.1; extra == \"cuda\"",
+      "jax-cuda12-plugin[with-cuda]<=0.8.1,>=0.8.1; extra == \"cuda\"",
+      "jaxlib<=0.8.1,>=0.8.1; extra == \"cuda12\"",
+      "jax-cuda12-plugin[with-cuda]<=0.8.1,>=0.8.1; extra == \"cuda12\"",
+      "jaxlib<=0.8.1,>=0.8.1; extra == \"cuda13\"",
+      "jax-cuda13-plugin[with-cuda]<=0.8.1,>=0.8.1; extra == \"cuda13\"",
+      "jaxlib<=0.8.1,>=0.8.1; extra == \"cuda12-local\"",
+      "jax-cuda12-plugin<=0.8.1,>=0.8.1; extra == \"cuda12-local\"",
+      "jaxlib<=0.8.1,>=0.8.1; extra == \"cuda13-local\"",
+      "jax-cuda13-plugin<=0.8.1,>=0.8.1; extra == \"cuda13-local\"",
+      "jaxlib<=0.8.1,>=0.8.1; extra == \"rocm\"",
+      "jax-rocm60-plugin<=0.8.1,>=0.8.1; extra == \"rocm\"",
+      "kubernetes; extra == \"k8s\"",
+      "xprof; extra == \"xprof\""
+    ]
+  },
+  "jax-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d190158bc019756c6a0f6b3d5fc8783471fb407e6deaff559eaac60dd5ee850a",
+    "dependencies": {
+      "required": [
+        "jaxlib",
+        "ml-dtypes",
+        "numpy",
+        "opt-einsum",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "jaxlib<=0.8.0,>=0.8.0",
+      "ml_dtypes>=0.5.0",
+      "numpy>=2.0",
+      "opt_einsum",
+      "scipy>=1.13",
+      "jaxlib==0.8.0; extra == \"minimum-jaxlib\"",
+      "jaxlib==0.7.2; extra == \"ci\"",
+      "jaxlib<=0.8.0,>=0.8.0; extra == \"tpu\"",
+      "libtpu==0.0.24.*; extra == \"tpu\"",
+      "requests; extra == \"tpu\"",
+      "jaxlib<=0.8.0,>=0.8.0; extra == \"cuda\"",
+      "jax-cuda12-plugin[with-cuda]<=0.8.0,>=0.8.0; extra == \"cuda\"",
+      "jaxlib<=0.8.0,>=0.8.0; extra == \"cuda12\"",
+      "jax-cuda12-plugin[with-cuda]<=0.8.0,>=0.8.0; extra == \"cuda12\"",
+      "jaxlib<=0.8.0,>=0.8.0; extra == \"cuda13\"",
+      "jax-cuda13-plugin[with-cuda]<=0.8.0,>=0.8.0; extra == \"cuda13\"",
+      "jaxlib<=0.8.0,>=0.8.0; extra == \"cuda12-local\"",
+      "jax-cuda12-plugin<=0.8.0,>=0.8.0; extra == \"cuda12-local\"",
+      "jaxlib<=0.8.0,>=0.8.0; extra == \"cuda13-local\"",
+      "jax-cuda13-plugin<=0.8.0,>=0.8.0; extra == \"cuda13-local\"",
+      "jaxlib<=0.8.0,>=0.8.0; extra == \"rocm\"",
+      "jax-rocm60-plugin<=0.8.0,>=0.8.0; extra == \"rocm\"",
+      "kubernetes; extra == \"k8s\"",
+      "xprof; extra == \"xprof\""
+    ]
+  },
+  "jax-0.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e7e32f9be51ae5cc6854225958c57de8cca2187d279844338465b15e8a1fe7f2",
+    "dependencies": {
+      "required": [
+        "jaxlib",
+        "ml-dtypes",
+        "numpy",
+        "opt-einsum",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "jaxlib<=0.7.2,>=0.7.2",
+      "ml_dtypes>=0.5.0",
+      "numpy>=2.0",
+      "opt_einsum",
+      "scipy>=1.13",
+      "jaxlib==0.7.2; extra == \"minimum-jaxlib\"",
+      "jaxlib==0.7.1; extra == \"ci\"",
+      "jaxlib<=0.7.2,>=0.7.2; extra == \"tpu\"",
+      "libtpu==0.0.23; extra == \"tpu\"",
+      "requests; extra == \"tpu\"",
+      "jaxlib<=0.7.2,>=0.7.2; extra == \"cuda\"",
+      "jax-cuda12-plugin[with-cuda]<=0.7.2,>=0.7.2; extra == \"cuda\"",
+      "jaxlib<=0.7.2,>=0.7.2; extra == \"cuda12\"",
+      "jax-cuda12-plugin[with-cuda]<=0.7.2,>=0.7.2; extra == \"cuda12\"",
+      "jaxlib<=0.7.2,>=0.7.2; extra == \"cuda13\"",
+      "jax-cuda13-plugin[with-cuda]<=0.7.2,>=0.7.2; extra == \"cuda13\"",
+      "jaxlib<=0.7.2,>=0.7.2; extra == \"cuda12-local\"",
+      "jax-cuda12-plugin<=0.7.2,>=0.7.2; extra == \"cuda12-local\"",
+      "jaxlib<=0.7.2,>=0.7.2; extra == \"cuda13-local\"",
+      "jax-cuda13-plugin<=0.7.2,>=0.7.2; extra == \"cuda13-local\"",
+      "jaxlib<=0.7.2,>=0.7.2; extra == \"rocm\"",
+      "jax-rocm60-plugin<=0.7.2,>=0.7.2; extra == \"rocm\"",
+      "kubernetes; extra == \"k8s\"",
+      "xprof; extra == \"xprof\""
+    ]
+  },
+  "jax-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "056e576e0e58465506125699f48111ac8891cce4c9ebf034704c42b219dfd4a6",
+    "dependencies": {
+      "required": [
+        "jaxlib",
+        "ml-dtypes",
+        "numpy",
+        "opt-einsum",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "jaxlib<=0.7.1,>=0.7.1",
+      "ml_dtypes>=0.5.0",
+      "numpy>=1.26",
+      "opt_einsum",
+      "scipy>=1.12",
+      "jaxlib==0.7.1; extra == \"minimum-jaxlib\"",
+      "jaxlib==0.7.0; extra == \"ci\"",
+      "jaxlib<=0.7.1,>=0.7.1; extra == \"tpu\"",
+      "libtpu==0.0.20.*; extra == \"tpu\"",
+      "requests; extra == \"tpu\"",
+      "jaxlib<=0.7.1,>=0.7.1; extra == \"cuda\"",
+      "jax-cuda12-plugin[with-cuda]<=0.7.1,>=0.7.1; extra == \"cuda\"",
+      "jaxlib<=0.7.1,>=0.7.1; extra == \"cuda12\"",
+      "jax-cuda12-plugin[with-cuda]<=0.7.1,>=0.7.1; extra == \"cuda12\"",
+      "jaxlib<=0.7.1,>=0.7.1; extra == \"cuda13\"",
+      "jax-cuda13-plugin[with-cuda]<=0.7.1,>=0.7.1; extra == \"cuda13\"",
+      "jaxlib<=0.7.1,>=0.7.1; extra == \"cuda12-local\"",
+      "jax-cuda12-plugin<=0.7.1,>=0.7.1; extra == \"cuda12-local\"",
+      "jaxlib<=0.7.1,>=0.7.1; extra == \"cuda13-local\"",
+      "jax-cuda13-plugin<=0.7.1,>=0.7.1; extra == \"cuda13-local\"",
+      "jaxlib<=0.7.1,>=0.7.1; extra == \"rocm\"",
+      "jax-rocm60-plugin<=0.7.1,>=0.7.1; extra == \"rocm\"",
+      "kubernetes; extra == \"k8s\"",
+      "xprof; extra == \"xprof\""
+    ]
+  },
+  "jax-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62833036cbaf4641d66ae94c61c0446890a91b2c0d153946583a0ebe04877a76",
+    "dependencies": {
+      "required": [
+        "jaxlib",
+        "ml-dtypes",
+        "numpy",
+        "opt-einsum",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "jaxlib<=0.7.0,>=0.7.0",
+      "ml_dtypes>=0.5.0",
+      "numpy>=1.26",
+      "opt_einsum",
+      "scipy>=1.12",
+      "jaxlib==0.7.0; extra == \"minimum-jaxlib\"",
+      "jaxlib==0.6.2; extra == \"ci\"",
+      "jaxlib<=0.7.0,>=0.7.0; extra == \"tpu\"",
+      "libtpu==0.0.19.*; extra == \"tpu\"",
+      "requests; extra == \"tpu\"",
+      "jaxlib<=0.7.0,>=0.7.0; extra == \"cuda\"",
+      "jax-cuda12-plugin[with-cuda]<=0.7.0,>=0.7.0; extra == \"cuda\"",
+      "jaxlib<=0.7.0,>=0.7.0; extra == \"cuda12\"",
+      "jax-cuda12-plugin[with-cuda]<=0.7.0,>=0.7.0; extra == \"cuda12\"",
+      "jaxlib<=0.7.0,>=0.7.0; extra == \"cuda13\"",
+      "jax-cuda13-plugin[with-cuda]<=0.7.0,>=0.7.0; extra == \"cuda13\"",
+      "jaxlib<=0.7.0,>=0.7.0; extra == \"cuda12-local\"",
+      "jax-cuda12-plugin<=0.7.0,>=0.7.0; extra == \"cuda12-local\"",
+      "jaxlib<=0.7.0,>=0.7.0; extra == \"cuda13-local\"",
+      "jax-cuda13-plugin<=0.7.0,>=0.7.0; extra == \"cuda13-local\"",
+      "jaxlib<=0.7.0,>=0.7.0; extra == \"rocm\"",
+      "jax-rocm60-plugin<=0.7.0,>=0.7.0; extra == \"rocm\"",
+      "kubernetes; extra == \"k8s\"",
+      "xprof; extra == \"xprof\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for osmnx
+conda_forge = "osmnx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "osmnx-2.0.7-py3-none-any.whl" },
+  { filename = "osmnx-2.0.6-py3-none-any.whl" },
+  { filename = "osmnx-2.0.5-py3-none-any.whl" },
+  { filename = "osmnx-2.0.4-py3-none-any.whl" },
+  { filename = "osmnx-2.0.3-py3-none-any.whl" },
+]

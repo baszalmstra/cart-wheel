@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-task-sdk
+conda_forge = "apache-airflow-task-sdk"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_task_sdk-1.1.5-py3-none-any.whl" },
+  { filename = "apache_airflow_task_sdk-1.1.4-py3-none-any.whl" },
+  { filename = "apache_airflow_task_sdk-1.1.3-py3-none-any.whl" },
+  { filename = "apache_airflow_task_sdk-1.1.2-py3-none-any.whl" },
+  { filename = "apache_airflow_task_sdk-1.1.1-py3-none-any.whl" },
+]

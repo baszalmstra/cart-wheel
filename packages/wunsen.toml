@@ -1,0 +1,9 @@
+# Package configuration for wunsen
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "wunsen-0.0.3-py3-none-any.whl" },
+  { filename = "wunsen-0.0.2-py3-none-any.whl" },
+  { filename = "wunsen-0.0.1-py3-none-any.whl" },
+]

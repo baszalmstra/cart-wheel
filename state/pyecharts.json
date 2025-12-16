@@ -1,0 +1,102 @@
+{
+  "pyecharts-2.0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c2adada56931c29669bcf3a972137231625136337f874dbd617ccd752f1477b8",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "prettytable",
+        "simplejson"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "prettytable",
+      "simplejson",
+      "snapshot-selenium; extra == \"selenium\"",
+      "snapshot-phantomjs; extra == \"phantomjs\"",
+      "snapshot-pyppeteer; extra == \"pyppeteer\"",
+      "PIL; extra == \"images\""
+    ]
+  },
+  "pyecharts-2.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b711ba139f39f89bc1b2a869d7adda89dc74c910d158a1f9063109fe66bc985",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "prettytable",
+        "simplejson"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "prettytable",
+      "simplejson",
+      "snapshot-selenium; extra == \"selenium\"",
+      "snapshot-phantomjs; extra == \"phantomjs\"",
+      "snapshot-pyppeteer; extra == \"pyppeteer\"",
+      "PIL; extra == \"images\""
+    ]
+  },
+  "pyecharts-2.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc5594925deaaa498a38665e0c406b0d824e1bb59fe8386a6ba83a39e0322866",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "prettytable",
+        "simplejson"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "prettytable",
+      "simplejson",
+      "PIL; extra == \"images\"",
+      "snapshot-phantomjs; extra == \"phantomjs\"",
+      "snapshot-pyppeteer; extra == \"pyppeteer\"",
+      "snapshot-selenium; extra == \"selenium\""
+    ]
+  },
+  "pyecharts-2.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1413f66d63b94ec9818095180c679dd83fe043b69fc97235afc6a0797a93a6fb",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "prettytable",
+        "simplejson"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "prettytable",
+      "simplejson",
+      "PIL ; extra == 'images'",
+      "snapshot-phantomjs ; extra == 'phantomjs'",
+      "snapshot-pyppeteer ; extra == 'pyppeteer'",
+      "snapshot-selenium ; extra == 'selenium'"
+    ]
+  },
+  "pyecharts-2.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77380f671679e349d676835a3a0e2f27644fec63e695e9c64556a2dae85d4070",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "prettytable",
+        "simplejson"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "prettytable",
+      "simplejson",
+      "PIL ; extra == 'images'",
+      "snapshot-phantomjs ; extra == 'phantomjs'",
+      "snapshot-pyppeteer ; extra == 'pyppeteer'",
+      "snapshot-selenium ; extra == 'selenium'"
+    ]
+  }
+}

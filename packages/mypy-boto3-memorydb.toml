@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-memorydb
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_memorydb-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_memorydb-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_memorydb-1.40.54-py3-none-any.whl" },
+  { filename = "mypy_boto3_memorydb-1.40.46-py3-none-any.whl" },
+  { filename = "mypy_boto3_memorydb-1.40.16-py3-none-any.whl" },
+]

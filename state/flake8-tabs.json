@@ -1,0 +1,77 @@
+{
+  "flake8_tabs-2.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f11c4b8a1537d67014c24f5296118e54b78fc43204b740e28283fa8e165130ef",
+    "dependencies": {
+      "required": [
+        "editorconfig",
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "editorconfig ~= 0.12.0",
+      "flake8 ~= 3.0",
+      "sphinx; extra == \"doc\""
+    ]
+  },
+  "flake8_tabs-2.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ccc1e7b789d165832e5181540e550111780243bce530dcc36cbef298fc2e95b5",
+    "dependencies": {
+      "required": [
+        "editorconfig",
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "editorconfig ~= 0.12.0",
+      "flake8 ~= 3.0",
+      "sphinx; extra == \"doc\""
+    ]
+  },
+  "flake8_tabs-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f60fca76704e3ad2f8937a65745eb26e4cdb1a7da542a25294f9b2454fa15a67",
+    "dependencies": {
+      "required": [
+        "editorconfig",
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "editorconfig ~= 0.12.0",
+      "flake8 ~= 3.0",
+      "sphinx; extra == \"doc\""
+    ]
+  },
+  "flake8_tabs-2.2.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74c979b9cdac2324eba04c99e64cd609c76d5bd667fbc78bbb70ad47f235ad35",
+    "dependencies": {
+      "required": [
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "flake8 > 3.0.0",
+      "sphinx; extra == \"doc\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\""
+    ]
+  },
+  "flake8_tabs-2.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff010eddc9aebb72d6f25d670de08205843fc3d44865499238efa9ccd3e05e7b",
+    "dependencies": {
+      "required": [
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "flake8 > 3.0.0",
+      "sphinx; extra == \"doc\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\""
+    ]
+  }
+}

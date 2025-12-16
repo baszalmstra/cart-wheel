@@ -1,0 +1,12 @@
+# Package configuration for synchronicity
+conda_forge = "synchronicity"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "synchronicity-0.10.5-py3-none-any.whl" },
+  { filename = "synchronicity-0.10.4-py3-none-any.whl" },
+  { filename = "synchronicity-0.10.3-py3-none-any.whl" },
+  { filename = "synchronicity-0.10.2-py3-none-any.whl" },
+  { filename = "synchronicity-0.10.1-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for ibis-singlestoredb
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ibis_singlestoredb-0.4.3-py3-none-any.whl" },
+  { filename = "ibis_singlestoredb-0.4.2-py3-none-any.whl" },
+  { filename = "ibis_singlestoredb-0.4.1-py3-none-any.whl" },
+  { filename = "ibis_singlestoredb-0.4.0-py3-none-any.whl" },
+  { filename = "ibis_singlestoredb-0.3.0-py3-none-any.whl" },
+]

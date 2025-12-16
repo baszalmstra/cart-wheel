@@ -1,0 +1,85 @@
+{
+  "ndtiff-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5076ffc16d82ebbd35c9409b08c70a50582060cb4bbbab901e7c2fb906c301dc",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "sortedcontainers",
+        "dask"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "sortedcontainers",
+      "dask[array] >=2022.2.0",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "ndtiff-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d77aff59b3c16bcea4854d1f7459be9f8be10c8dc9493b99f920dd9ed792ccf2",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "sortedcontainers",
+        "dask"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "sortedcontainers",
+      "dask[array] >=2022.2.0",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "ndtiff-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bfb721ad7e7d5c7e070deebab220720171d9ccba2dfe063813972ff598c041de",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "sortedcontainers",
+        "dask"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "sortedcontainers",
+      "dask[array] (>=2022.2.0)",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "ndtiff-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2620d6f8477ca08b730f68d873dfd2f04fe2ab9490689e4fd0c061fa510c388",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "sortedcontainers",
+        "dask"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "sortedcontainers",
+      "dask[array] (>=2022.2.0)",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "ndtiff-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "33c3e0de075e08839e1f662f18f9da859bccedb2c74c170b1a09d840d9933321",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "dask"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "dask[array] (>=2022.2.0)",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

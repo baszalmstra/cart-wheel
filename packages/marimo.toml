@@ -1,0 +1,12 @@
+# Package configuration for marimo
+conda_forge = "marimo"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "marimo-0.18.4-py3-none-any.whl" },
+  { filename = "marimo-0.18.3-py3-none-any.whl" },
+  { filename = "marimo-0.18.2-py3-none-any.whl" },
+  { filename = "marimo-0.18.1-py3-none-any.whl" },
+  { filename = "marimo-0.18.0-py3-none-any.whl" },
+]

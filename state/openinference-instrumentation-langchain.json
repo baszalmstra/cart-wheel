@@ -1,0 +1,192 @@
+{
+  "openinference_instrumentation_langchain-0.1.56-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1de2bbe9780dae5e45308bd3dd97a38ac218b618a9cce4c96fc9e8c762c3491d",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "wrapt",
+      "langchain-core>=0.3.9; extra == 'instruments'",
+      "langchain-community==0.3.15; extra == 'test'",
+      "langchain-core==0.3.50; extra == 'test'",
+      "langchain-google-vertexai==2.0.12; extra == 'test'",
+      "langchain-openai==0.2.14; extra == 'test'",
+      "langchain==0.3.15; extra == 'test'",
+      "langsmith; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "portpicker; extra == 'test'",
+      "pytest-recording; extra == 'test'",
+      "pytest-rerunfailures; extra == 'test'",
+      "respx; extra == 'test'",
+      "starlette; extra == 'test'",
+      "uvicorn; extra == 'test'",
+      "vcrpy>=6.0.1; extra == 'test'",
+      "langchain-core==0.3.9; extra == 'type-check'"
+    ]
+  },
+  "openinference_instrumentation_langchain-0.1.55-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f755950254fdf7741e0327a585cb0609c6c5553109a2b52929c29ce2a02c2d3",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "wrapt",
+      "langchain-core>=0.3.9; extra == 'instruments'",
+      "langchain-community==0.3.15; extra == 'test'",
+      "langchain-core==0.3.50; extra == 'test'",
+      "langchain-google-vertexai==2.0.12; extra == 'test'",
+      "langchain-openai==0.2.14; extra == 'test'",
+      "langchain==0.3.15; extra == 'test'",
+      "langsmith; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "portpicker; extra == 'test'",
+      "pytest-recording; extra == 'test'",
+      "pytest-rerunfailures; extra == 'test'",
+      "respx; extra == 'test'",
+      "starlette; extra == 'test'",
+      "uvicorn; extra == 'test'",
+      "vcrpy>=6.0.1; extra == 'test'",
+      "langchain-core==0.3.9; extra == 'type-check'"
+    ]
+  },
+  "openinference_instrumentation_langchain-0.1.54-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2fe9dd41f8ddba50432c30623bc3802883d9daee50e259ba238c6134eb2a36cd",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "wrapt",
+      "langchain-core>=0.2.43; extra == 'instruments'",
+      "langchain-community==0.3.15; extra == 'test'",
+      "langchain-core==0.3.50; extra == 'test'",
+      "langchain-google-vertexai==2.0.12; extra == 'test'",
+      "langchain-openai==0.2.14; extra == 'test'",
+      "langchain==0.3.15; extra == 'test'",
+      "langsmith; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "portpicker; extra == 'test'",
+      "pytest-recording; extra == 'test'",
+      "pytest-rerunfailures; extra == 'test'",
+      "respx; extra == 'test'",
+      "starlette; extra == 'test'",
+      "uvicorn; extra == 'test'",
+      "vcrpy>=6.0.1; extra == 'test'",
+      "langchain-core==0.2.43; extra == 'type-check'"
+    ]
+  },
+  "openinference_instrumentation_langchain-0.1.53-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d8e41cd31ecffb70654ec7b09be3cf2a30a5a5839ad488b5c118ca15870f5904",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "wrapt",
+      "langchain-core>=0.2.43; extra == 'instruments'",
+      "langchain-community==0.3.15; extra == 'test'",
+      "langchain-core==0.3.50; extra == 'test'",
+      "langchain-google-vertexai==2.0.12; extra == 'test'",
+      "langchain-openai==0.2.14; extra == 'test'",
+      "langchain==0.3.15; extra == 'test'",
+      "langsmith; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "portpicker; extra == 'test'",
+      "pytest-recording; extra == 'test'",
+      "pytest-rerunfailures; extra == 'test'",
+      "respx; extra == 'test'",
+      "starlette; extra == 'test'",
+      "uvicorn; extra == 'test'",
+      "vcrpy>=6.0.1; extra == 'test'",
+      "langchain-core==0.2.43; extra == 'type-check'"
+    ]
+  },
+  "openinference_instrumentation_langchain-0.1.52-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe18c320ec1f0a25eb55c7fb73cb06c6d0225c1fd5e524adfba793896b6724f5",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "wrapt",
+      "langchain-core>=0.2.43; extra == 'instruments'",
+      "langchain-community==0.3.15; extra == 'test'",
+      "langchain-core==0.3.50; extra == 'test'",
+      "langchain-google-vertexai==2.0.12; extra == 'test'",
+      "langchain-openai==0.2.14; extra == 'test'",
+      "langchain==0.3.15; extra == 'test'",
+      "langsmith; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "portpicker; extra == 'test'",
+      "pytest-recording; extra == 'test'",
+      "pytest-rerunfailures; extra == 'test'",
+      "respx; extra == 'test'",
+      "starlette; extra == 'test'",
+      "uvicorn; extra == 'test'",
+      "vcrpy>=6.0.1; extra == 'test'",
+      "langchain-core==0.2.43; extra == 'type-check'"
+    ]
+  }
+}

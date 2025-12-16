@@ -1,0 +1,67 @@
+{
+  "anysqlite-0.0.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:54.474282+00:00",
+    "conda_file": "anysqlite-0.0.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "anyio"
+      ]
+    },
+    "original_requirements": [
+      "anyio>3.4.0"
+    ]
+  },
+  "anysqlite-0.0.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:54.533553+00:00",
+    "conda_file": "anysqlite-0.0.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "anyio"
+      ]
+    },
+    "original_requirements": [
+      "anyio>3.4.0"
+    ]
+  },
+  "anysqlite-0.0.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:54.803721+00:00",
+    "conda_file": "anysqlite-0.0.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "sniffio"
+      ]
+    },
+    "original_requirements": [
+      "sniffio==1.*"
+    ]
+  },
+  "anysqlite-0.0.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:54.692785+00:00",
+    "conda_file": "anysqlite-0.0.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "sniffio"
+      ]
+    },
+    "original_requirements": [
+      "sniffio==1.*"
+    ]
+  },
+  "anysqlite-0.0.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:54.750456+00:00",
+    "conda_file": "anysqlite-0.0.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

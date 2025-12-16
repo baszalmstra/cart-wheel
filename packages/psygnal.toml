@@ -1,0 +1,12 @@
+# Package configuration for psygnal
+conda_forge = "psygnal"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "psygnal-0.15.0-py3-none-any.whl" },
+  { filename = "psygnal-0.14.2-py3-none-any.whl" },
+  { filename = "psygnal-0.14.1-py3-none-any.whl" },
+  { filename = "psygnal-0.14.0-py3-none-any.whl" },
+  { filename = "psygnal-0.13.0-py3-none-any.whl" },
+]

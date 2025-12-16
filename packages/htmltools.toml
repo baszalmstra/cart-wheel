@@ -1,0 +1,12 @@
+# Package configuration for htmltools
+conda_forge = "htmltools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "htmltools-0.6.0-py3-none-any.whl" },
+  { filename = "htmltools-0.5.3-py3-none-any.whl" },
+  { filename = "htmltools-0.5.2-py3-none-any.whl" },
+  { filename = "htmltools-0.5.1-py3-none-any.whl" },
+  { filename = "htmltools-0.5.0-py3-none-any.whl" },
+]

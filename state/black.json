@@ -1,0 +1,153 @@
+{
+  "black-25.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "48ceb36c16dbc84062740049eef990bb2ce07598272e673c17d1a7720c71c828",
+    "dependencies": {
+      "required": [
+        "click",
+        "mypy-extensions",
+        "packaging",
+        "pathspec",
+        "platformdirs",
+        "pytokens",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0.0",
+      "mypy-extensions>=0.4.3",
+      "packaging>=22.0",
+      "pathspec>=0.9.0",
+      "platformdirs>=2",
+      "pytokens>=0.3.0",
+      "tomli>=1.1.0; python_version < '3.11'",
+      "typing-extensions>=4.0.1; python_version < '3.11'",
+      "colorama>=0.4.3; extra == 'colorama'",
+      "aiohttp>=3.10; extra == 'd'",
+      "ipython>=7.8.0; extra == 'jupyter'",
+      "tokenize-rt>=3.2.0; extra == 'jupyter'",
+      "uvloop>=0.15.2; extra == 'uvloop'"
+    ]
+  },
+  "black-25.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e3f562da087791e96cefcd9dda058380a442ab322a02e222add53736451f604b",
+    "dependencies": {
+      "required": [
+        "click",
+        "mypy-extensions",
+        "packaging",
+        "pathspec",
+        "platformdirs",
+        "pytokens",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0.0",
+      "mypy-extensions>=0.4.3",
+      "packaging>=22.0",
+      "pathspec>=0.9.0",
+      "platformdirs>=2",
+      "pytokens>=0.3.0",
+      "tomli>=1.1.0; python_version < '3.11'",
+      "typing-extensions>=4.0.1; python_version < '3.11'",
+      "colorama>=0.4.3; extra == 'colorama'",
+      "aiohttp>=3.10; extra == 'd'",
+      "ipython>=7.8.0; extra == 'jupyter'",
+      "tokenize-rt>=3.2.0; extra == 'jupyter'",
+      "uvloop>=0.15.2; extra == 'uvloop'"
+    ]
+  },
+  "black-25.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "474b34c1342cdc157d307b56c4c65bce916480c4a8f6551fdc6bf9b486a7c4ae",
+    "dependencies": {
+      "required": [
+        "click",
+        "mypy-extensions",
+        "packaging",
+        "pathspec",
+        "platformdirs",
+        "pytokens",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0.0",
+      "mypy-extensions>=0.4.3",
+      "packaging>=22.0",
+      "pathspec>=0.9.0",
+      "platformdirs>=2",
+      "pytokens>=0.1.10",
+      "tomli>=1.1.0; python_version < '3.11'",
+      "typing-extensions>=4.0.1; python_version < '3.11'",
+      "colorama>=0.4.3; extra == 'colorama'",
+      "aiohttp>=3.10; extra == 'd'",
+      "ipython>=7.8.0; extra == 'jupyter'",
+      "tokenize-rt>=3.2.0; extra == 'jupyter'",
+      "uvloop>=0.15.2; extra == 'uvloop'"
+    ]
+  },
+  "black-25.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "95e8176dae143ba9097f351d174fdaf0ccd29efb414b362ae3fd72bf0f710717",
+    "dependencies": {
+      "required": [
+        "click",
+        "mypy-extensions",
+        "packaging",
+        "pathspec",
+        "platformdirs",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0.0",
+      "mypy-extensions>=0.4.3",
+      "packaging>=22.0",
+      "pathspec>=0.9.0",
+      "platformdirs>=2",
+      "tomli>=1.1.0; python_version < '3.11'",
+      "typing-extensions>=4.0.1; python_version < '3.11'",
+      "colorama>=0.4.3; extra == 'colorama'",
+      "aiohttp>=3.10; extra == 'd'",
+      "ipython>=7.8.0; extra == 'jupyter'",
+      "tokenize-rt>=3.2.0; extra == 'jupyter'",
+      "uvloop>=0.15.2; extra == 'uvloop'"
+    ]
+  },
+  "black-24.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3bb2b7a1f7b685f85b11fed1ef10f8a9148bceb49853e47a294a3dd963c1dd7d",
+    "dependencies": {
+      "required": [
+        "click",
+        "mypy-extensions",
+        "packaging",
+        "pathspec",
+        "platformdirs",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0.0",
+      "mypy-extensions>=0.4.3",
+      "packaging>=22.0",
+      "pathspec>=0.9.0",
+      "platformdirs>=2",
+      "tomli>=1.1.0; python_version < '3.11'",
+      "typing-extensions>=4.0.1; python_version < '3.11'",
+      "colorama>=0.4.3; extra == 'colorama'",
+      "aiohttp>=3.10; extra == 'd'",
+      "ipython>=7.8.0; extra == 'jupyter'",
+      "tokenize-rt>=3.2.0; extra == 'jupyter'",
+      "uvloop>=0.15.2; extra == 'uvloop'"
+    ]
+  }
+}

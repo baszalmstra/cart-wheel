@@ -1,0 +1,12 @@
+# Package configuration for tracerite
+conda_forge = "tracerite"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tracerite-1.1.3-py3-none-any.whl" },
+  { filename = "tracerite-1.1.2-py3-none-any.whl" },
+  { filename = "tracerite-1.1.1-py3-none-any.whl" },
+  { filename = "tracerite-1.1.0-py3-none-any.whl" },
+  { filename = "tracerite-1.0.1-py3-none-any.whl" },
+]

@@ -1,0 +1,136 @@
+{
+  "bedrock_agentcore-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6cd9cde770077155317ce5f622aa3e3773dcb004c83555f71f61e6fa2c4e7ca",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "botocore",
+        "pre-commit",
+        "pydantic",
+        "starlette",
+        "typing-extensions",
+        "urllib3",
+        "uvicorn",
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "boto3>=1.40.52",
+      "botocore>=1.40.52",
+      "pre-commit>=4.2.0",
+      "pydantic<2.41.3,>=2.0.0",
+      "starlette>=0.46.2",
+      "typing-extensions<5.0.0,>=4.13.2",
+      "urllib3>=1.26.0",
+      "uvicorn>=0.34.2",
+      "websockets>=12.0",
+      "strands-agents>=1.1.0; extra == 'strands-agents'",
+      "strands-agents-evals>=0.1.0; extra == 'strands-agents-evals'"
+    ]
+  },
+  "bedrock_agentcore-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "06aa2c45ccfc0185cd200f5631215cb582c155e0dd33757a82b09068d0262ab3",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "botocore",
+        "pre-commit",
+        "pydantic",
+        "starlette",
+        "typing-extensions",
+        "urllib3",
+        "uvicorn",
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "boto3>=1.40.52",
+      "botocore>=1.40.52",
+      "pre-commit>=4.2.0",
+      "pydantic<2.41.3,>=2.0.0",
+      "starlette>=0.46.2",
+      "typing-extensions<5.0.0,>=4.13.2",
+      "urllib3>=1.26.0",
+      "uvicorn>=0.34.2",
+      "websockets>=12.0",
+      "strands-agents>=1.1.0; extra == 'strands-agents'"
+    ]
+  },
+  "bedrock_agentcore-1.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c364c85904c5d9fa052da144fd2dafb25ba450aee19297dcb1090e604bc79ba7",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "botocore",
+        "pydantic",
+        "starlette",
+        "typing-extensions",
+        "urllib3",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "boto3>=1.40.52",
+      "botocore>=1.40.52",
+      "pydantic<2.41.3,>=2.0.0",
+      "starlette>=0.46.2",
+      "typing-extensions<5.0.0,>=4.13.2",
+      "urllib3>=1.26.0",
+      "uvicorn>=0.34.2",
+      "strands-agents>=1.1.0; extra == 'strands-agents'"
+    ]
+  },
+  "bedrock_agentcore-1.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd9038d81eae17c1eb237c7a649418950ff9c26aee99a25911dec53d27d8bc2b",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "botocore",
+        "pydantic",
+        "starlette",
+        "typing-extensions",
+        "urllib3",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "boto3>=1.40.52",
+      "botocore>=1.40.52",
+      "pydantic<2.41.3,>=2.0.0",
+      "starlette>=0.46.2",
+      "typing-extensions<5.0.0,>=4.13.2",
+      "urllib3>=1.26.0",
+      "uvicorn>=0.34.2",
+      "strands-agents>=1.1.0; extra == 'strands-agents'"
+    ]
+  },
+  "bedrock_agentcore-1.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aca7f9d0ab51a952642909d578344874d2bfbdb0e3b409f76df7522515412293",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "botocore",
+        "pydantic",
+        "starlette",
+        "typing-extensions",
+        "urllib3",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "boto3>=1.40.52",
+      "botocore>=1.40.52",
+      "pydantic<2.41.3,>=2.0.0",
+      "starlette>=0.46.2",
+      "typing-extensions<5.0.0,>=4.13.2",
+      "urllib3>=1.26.0",
+      "uvicorn>=0.34.2",
+      "strands-agents>=1.1.0; extra == 'strands-agents'"
+    ]
+  }
+}

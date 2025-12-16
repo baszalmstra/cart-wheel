@@ -1,0 +1,125 @@
+{
+  "chex-0.1.91-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6fc4cbfc22301c08d4a7ef706045668410100962eba8ba6af03fa07f4e5dcf9b",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "typing-extensions",
+        "jax",
+        "jaxlib",
+        "numpy",
+        "toolz"
+      ]
+    },
+    "original_requirements": [
+      "absl-py>=2.3.1",
+      "typing_extensions>=4.15.0",
+      "jax>=0.7.0",
+      "jaxlib>=0.7.0",
+      "numpy>=1.24.1",
+      "toolz>=1.0.0",
+      "sphinx>=6.0.0 ; extra == \"docs\"",
+      "sphinx-book-theme>=1.0.1 ; extra == \"docs\"",
+      "sphinxcontrib-katex ; extra == \"docs\"",
+      "cloudpickle==3.1.0 ; extra == \"test\"",
+      "dm-tree>=0.1.9 ; extra == \"test\""
+    ]
+  },
+  "chex-0.1.90-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fce3de82588f72d4796e545e574a433aa29229cbdcf792555e41bead24b704ae",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "typing-extensions",
+        "jax",
+        "jaxlib",
+        "numpy",
+        "setuptools",
+        "toolz"
+      ]
+    },
+    "original_requirements": [
+      "absl-py>=0.9.0",
+      "typing_extensions>=4.2.0",
+      "jax>=0.4.27",
+      "jaxlib>=0.4.27",
+      "numpy>=1.24.1",
+      "setuptools; python_version >= \"3.12\"",
+      "toolz>=0.9.0"
+    ]
+  },
+  "chex-0.1.89-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "145241c27d8944adb634fb7d472a460e1c1b643f561507d4031ad5156ef82dfa",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "typing-extensions",
+        "jax",
+        "jaxlib",
+        "numpy",
+        "setuptools",
+        "toolz"
+      ]
+    },
+    "original_requirements": [
+      "absl-py>=0.9.0",
+      "typing_extensions>=4.2.0",
+      "jax>=0.4.27",
+      "jaxlib>=0.4.27",
+      "numpy>=1.24.1",
+      "setuptools; python_version >= \"3.12\"",
+      "toolz>=0.9.0"
+    ]
+  },
+  "chex-0.1.88-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "234b61a5baa8132802e4b9c5657167d6c8a911d90a59a0bec47d537567e41b75",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "typing-extensions",
+        "jax",
+        "jaxlib",
+        "numpy",
+        "setuptools",
+        "toolz"
+      ]
+    },
+    "original_requirements": [
+      "absl-py>=0.9.0",
+      "typing_extensions>=4.2.0",
+      "jax>=0.4.27",
+      "jaxlib>=0.4.27",
+      "numpy>=1.24.1",
+      "setuptools; python_version >= \"3.12\"",
+      "toolz>=0.9.0"
+    ]
+  },
+  "chex-0.1.87-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce536475661fd96d21be0c1728ecdbedd03f8ff950c662dfc338c92ea782cb16",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "typing-extensions",
+        "jax",
+        "jaxlib",
+        "numpy",
+        "toolz",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "absl-py>=0.9.0",
+      "typing-extensions>=4.2.0",
+      "jax>=0.4.27",
+      "jaxlib>=0.4.27",
+      "numpy>=1.24.1",
+      "toolz>=0.9.0",
+      "setuptools; python_version >= \"3.12\""
+    ]
+  }
+}

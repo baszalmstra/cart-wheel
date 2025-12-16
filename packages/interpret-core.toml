@@ -1,0 +1,12 @@
+# Package configuration for interpret-core
+conda_forge = "interpret-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "interpret_core-0.7.4-py3-none-any.whl" },
+  { filename = "interpret_core-0.7.3-py3-none-any.whl" },
+  { filename = "interpret_core-0.7.2-py3-none-any.whl" },
+  { filename = "interpret_core-0.7.1-py3-none-any.whl" },
+  { filename = "interpret_core-0.7.0-py3-none-any.whl" },
+]

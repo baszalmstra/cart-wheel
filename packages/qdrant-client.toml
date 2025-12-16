@@ -1,0 +1,12 @@
+# Package configuration for qdrant-client
+conda_forge = "qdrant-client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "qdrant_client-1.16.2-py3-none-any.whl" },
+  { filename = "qdrant_client-1.16.1-py3-none-any.whl" },
+  { filename = "qdrant_client-1.16.0-py3-none-any.whl" },
+  { filename = "qdrant_client-1.15.1-py3-none-any.whl" },
+  { filename = "qdrant_client-1.15.0-py3-none-any.whl" },
+]

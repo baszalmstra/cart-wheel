@@ -1,0 +1,102 @@
+{
+  "vaex_ml-0.18.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6d0da072f7268f7a6633e049d12d9056b7b5a4cf8c7a1e4fc1797b948ea2cd88",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "numba",
+        "traitlets",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<5,>=4.8.0)",
+      "numba",
+      "traitlets",
+      "jinja2",
+      "tensorflow (>=2.1.0) ; extra == 'all'",
+      "tensorflow-io (>=0.12.0) ; extra == 'all'"
+    ]
+  },
+  "vaex_ml-0.18.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc480eda09bc90875ce8b27d0d001831ea8e44d5a3f30acb1a18e812791250b0",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "numba",
+        "traitlets",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<5,>=4.8.0)",
+      "numba",
+      "traitlets",
+      "jinja2",
+      "tensorflow (>=2.1.0) ; extra == 'all'",
+      "tensorflow-io (>=0.12.0) ; extra == 'all'"
+    ]
+  },
+  "vaex_ml-0.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b861794800d46417fad66993dbbee106f51b8760df98477177751e8fd12330e4",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "numba",
+        "traitlets",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<5,>=4.8.0)",
+      "numba",
+      "traitlets",
+      "jinja2",
+      "tensorflow (>=2.1.0) ; extra == 'all'",
+      "tensorflow-io (>=0.12.0) ; extra == 'all'"
+    ]
+  },
+  "vaex_ml-0.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b27d6b12977606eff11d0f745606b081a11a4b4e0588dcc94b310f50a669f194",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "numba",
+        "traitlets",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<5,>=4.8.0)",
+      "numba",
+      "traitlets",
+      "jinja2",
+      "tensorflow (>=2.1.0) ; extra == 'all'",
+      "tensorflow-io (>=0.12.0) ; extra == 'all'"
+    ]
+  },
+  "vaex_ml-0.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38285570e58f2a06cd05b5268750c5df47812fce1dd4470a9e7d23334f9940c2",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "numba",
+        "traitlets",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<5,>=4.7.0)",
+      "numba",
+      "traitlets",
+      "jinja2",
+      "tensorflow (>=2.1.0) ; extra == 'all'",
+      "tensorflow-io (>=0.12.0) ; extra == 'all'"
+    ]
+  }
+}

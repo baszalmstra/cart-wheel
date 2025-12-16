@@ -1,0 +1,72 @@
+{
+  "grpcio_reflection-1.76.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d7c43f2047a2a9c9320a5905aa7133c677977436b5f63e6a868e507864a11c73",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "protobuf <7.0.0,>=6.31.1",
+      "grpcio >=1.76.0"
+    ]
+  },
+  "grpcio_reflection-1.75.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17ef1504c9efd58662e56090379885e5f3f7985ce481cf30d6b1cb25f55ab0ae",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "protobuf <7.0.0,>=6.31.1",
+      "grpcio >=1.75.1"
+    ]
+  },
+  "grpcio_reflection-1.75.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cef02b79eea9a1a5e379e13e503a5eaa32a4bc1ad2f1c24d3a6e28a95db5569f",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "protobuf <7.0.0,>=6.31.1",
+      "grpcio >=1.75.0"
+    ]
+  },
+  "grpcio_reflection-1.74.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad1c4e94185f6def18f298f40f719603118f59d646939bb827f7bc72400f9ba0",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "protobuf <7.0.0,>=6.31.1",
+      "grpcio >=1.74.0"
+    ]
+  },
+  "grpcio_reflection-1.73.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6b7680d4e3f0b9969183fd4af7611fd57c8cdc333037064d1a7f2d4ecbb3cc8",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "protobuf <7.0.0,>=6.30.0",
+      "grpcio >=1.73.1"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "tox_current_env-0.0.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "88db23525a6514dee6350df01f5b591654b72e7709df3c57e9e1edb1bbc22737",
+    "dependencies": {
+      "required": [
+        "tox",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "tox>=3.28",
+      "importlib_metadata; python_version < \"3.8\"",
+      "pytest; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "packaging; extra == \"tests\""
+    ]
+  },
+  "tox_current_env-0.0.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "325fe2121e99b7216f7b3daaeac17065ade812610203c3ce3fad5f0ad4be110e",
+    "dependencies": {
+      "required": [
+        "tox",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "tox>=3.28",
+      "importlib_metadata; python_version < \"3.8\"",
+      "pytest; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "packaging; extra == \"tests\""
+    ]
+  },
+  "tox_current_env-0.0.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eead4fba871be225fbbf80af0ca58fde25574ffb9ad2d9d79b41b91349873285",
+    "dependencies": {
+      "required": [
+        "tox",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "tox>=3.28",
+      "importlib-metadata; python_version < \"3.8\"",
+      "pytest; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "packaging; extra == \"tests\""
+    ]
+  },
+  "tox_current_env-0.0.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "abbeb945cc4a7075f869b5e3764a685985d959e5ab78d99f382052fa957a16dd",
+    "dependencies": {
+      "required": [
+        "tox",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "tox (>=3.24)",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "pytest ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "packaging ; extra == 'tests'",
+      "virtualenv (<20.22) ; extra == 'tests'"
+    ]
+  },
+  "tox_current_env-0.0.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b03c6b8ca3c447c8f99b5638663234e9114c987abbe75e30e1b50a3690677d15",
+    "dependencies": {
+      "required": [
+        "tox",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "tox (>=3.24)",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "pytest ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "packaging ; extra == 'tests'"
+    ]
+  }
+}

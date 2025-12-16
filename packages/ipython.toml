@@ -1,0 +1,12 @@
+# Package configuration for ipython
+conda_forge = "ipython"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipython-9.8.0-py3-none-any.whl" },
+  { filename = "ipython-9.7.0-py3-none-any.whl" },
+  { filename = "ipython-9.6.0-py3-none-any.whl" },
+  { filename = "ipython-9.5.0-py3-none-any.whl" },
+  { filename = "ipython-9.4.0-py3-none-any.whl" },
+]

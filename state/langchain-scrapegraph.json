@@ -1,0 +1,72 @@
+{
+  "langchain_scrapegraph-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3999f17280442c5a187fc5e2fff2f5406cea3b0da16cabf95594a93c9dbad3f",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "scrapegraph-py"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core (>=0.3.21,<0.4.0)",
+      "scrapegraph-py (==1.12.2)"
+    ]
+  },
+  "langchain_scrapegraph-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "003b62b05f8415c7018d65a96a2f03b915e85c2796ac7edc15164938e1a06e92",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "scrapegraph-py"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core (>=0.3.21,<0.4.0)",
+      "scrapegraph-py (>=1.20.0,<2.0.0)"
+    ]
+  },
+  "langchain_scrapegraph-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82741bb603e887ddca0a27b4c86f2cfb761d0fcb12f43d4316273dab9de3e2cf",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "scrapegraph-py"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core (>=0.3.21,<0.4.0)",
+      "scrapegraph-py (>=1.14.2,<2.0.0)"
+    ]
+  },
+  "langchain_scrapegraph-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9752acc0b0b8e9796c3b133e7375d517d2cf7b9cca9c2602f7d193bd43758d54",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "scrapegraph-py"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core (>=0.3.21,<0.4.0)",
+      "scrapegraph-py (>=1.7.0,<2.0.0)"
+    ]
+  },
+  "langchain_scrapegraph-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a67f23594ac4461d118c44a385c400571ec7a01eb31937298d3dbe08ba8026bd",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "scrapegraph-py"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core (>=0.3.21,<0.4.0)",
+      "scrapegraph-py (>=1.7.0,<2.0.0)"
+    ]
+  }
+}

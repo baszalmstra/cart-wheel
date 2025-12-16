@@ -1,0 +1,9 @@
+# Package configuration for torchpippy
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torchpippy-0.2.0-py3-none-any.whl" },
+  { filename = "torchpippy-0.1.1-py3-none-any.whl" },
+  { filename = "torchpippy-0.1.0-py3-none-any.whl" },
+]

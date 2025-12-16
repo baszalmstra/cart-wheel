@@ -1,0 +1,92 @@
+{
+  "aws_cdk.aws_kendra-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39e047c53b7633e2bc3af1e118197d7bdd2eac412e1e3cea63344399e439b24e",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_kendra-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d299932b61ee59dff8fecbab664cdafe4391e6ec7cbac8d35bdc102f63220c0a",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_kendra-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a5a4a531cd887fd388052764dc2d7158b8354bc2ba17a16e1d2034340a8d5b2",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_kendra-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "013a16fcc359849e1748eb7bc452f10c611ede57e3c5ae6087de9c9a5e0a6b18",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_kendra-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b2929468eee9f66cd251208eccfbf45bb7765031e9cf9f0ee36371673a1248aa",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

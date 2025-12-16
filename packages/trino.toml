@@ -1,0 +1,12 @@
+# Package configuration for trino
+conda_forge = "trino-python-client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "trino-0.336.0-py3-none-any.whl" },
+  { filename = "trino-0.335.0-py3-none-any.whl" },
+  { filename = "trino-0.334.0-py3-none-any.whl" },
+  { filename = "trino-0.333.0-py3-none-any.whl" },
+  { filename = "trino-0.332.0-py3-none-any.whl" },
+]

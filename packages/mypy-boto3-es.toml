@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-es
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_es-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_es-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_es-1.40.55-py3-none-any.whl" },
+  { filename = "mypy_boto3_es-1.40.15-py3-none-any.whl" },
+  { filename = "mypy_boto3_es-1.40.0-py3-none-any.whl" },
+]

@@ -1,0 +1,150 @@
+{
+  "dvc_studio_client-0.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "99cb8874a1e5fc05de126a36a82b421f7af5c36d23c22024284733fc4d98029b",
+    "dependencies": {
+      "required": [
+        "dulwich",
+        "requests",
+        "voluptuous"
+      ]
+    },
+    "original_requirements": [
+      "dulwich",
+      "requests",
+      "voluptuous",
+      "mkdocs<2,>=1.5.2; extra == \"docs\"",
+      "mkdocs-gen-files<1,>=0.5.0; extra == \"docs\"",
+      "mkdocs-material<10,>=9.3.1; extra == \"docs\"",
+      "mkdocs-section-index<1,>=0.3.6; extra == \"docs\"",
+      "mkdocstrings-python<2,>=1.6.3; extra == \"docs\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-sugar; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "dvc-studio-client[docs,tests]; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "mypy==1.17.0; extra == \"dev\""
+    ]
+  },
+  "dvc_studio_client-0.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "93006e3812c830b42ff79746e6c6163e97a3c3ead6722ec2f1dec1d7dbf0b071",
+    "dependencies": {
+      "required": [
+        "dulwich",
+        "requests",
+        "voluptuous"
+      ]
+    },
+    "original_requirements": [
+      "dulwich",
+      "requests",
+      "voluptuous",
+      "dvc-studio-client[docs,tests] ; extra == 'dev'",
+      "types-requests ; extra == 'dev'",
+      "mypy ==1.10.1 ; extra == 'dev'",
+      "mkdocs <2,>=1.5.2 ; extra == 'docs'",
+      "mkdocs-gen-files <1,>=0.5.0 ; extra == 'docs'",
+      "mkdocs-material <10,>=9.3.1 ; extra == 'docs'",
+      "mkdocs-section-index <1,>=0.3.6 ; extra == 'docs'",
+      "mkdocstrings-python <2,>=1.6.3 ; extra == 'docs'",
+      "pytest <9,>=7 ; extra == 'tests'",
+      "pytest-cov >=4.1.0 ; extra == 'tests'",
+      "pytest-sugar ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'"
+    ]
+  },
+  "dvc_studio_client-0.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b9ee7c419a799ecdaeaf872114e6d664be1584822473fdf8aff43c961a3e2aa3",
+    "dependencies": {
+      "required": [
+        "dulwich",
+        "requests",
+        "voluptuous"
+      ]
+    },
+    "original_requirements": [
+      "dulwich",
+      "requests",
+      "voluptuous",
+      "dvc-studio-client[tests] ; extra == 'dev'",
+      "dvc-studio-client[docs] ; extra == 'dev'",
+      "types-requests ; extra == 'dev'",
+      "mkdocs ==1.5.3 ; extra == 'docs'",
+      "mkdocs-gen-files ==0.5.0 ; extra == 'docs'",
+      "mkdocs-material ==9.5.8 ; extra == 'docs'",
+      "mkdocs-section-index ==0.3.8 ; extra == 'docs'",
+      "mkdocstrings-python ==1.8.0 ; extra == 'docs'",
+      "pytest ==8.0.0 ; extra == 'tests'",
+      "pytest-sugar ==1.0.0 ; extra == 'tests'",
+      "pytest-cov ==4.1.0 ; extra == 'tests'",
+      "pytest-mock ==3.12.0 ; extra == 'tests'",
+      "mypy ==1.8.0 ; extra == 'tests'"
+    ]
+  },
+  "dvc_studio_client-0.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1de15f3a45081029eb64f91add3c2dd8ddd75bbc909f69a158735d8e25a04b6f",
+    "dependencies": {
+      "required": [
+        "dulwich",
+        "requests",
+        "voluptuous"
+      ]
+    },
+    "original_requirements": [
+      "dulwich",
+      "requests",
+      "voluptuous",
+      "dvc-studio-client[tests] ; extra == 'dev'",
+      "dvc-studio-client[docs] ; extra == 'dev'",
+      "types-requests ; extra == 'dev'",
+      "mkdocs ==1.5.3 ; extra == 'docs'",
+      "mkdocs-gen-files ==0.5.0 ; extra == 'docs'",
+      "mkdocs-material ==9.5.8 ; extra == 'docs'",
+      "mkdocs-section-index ==0.3.8 ; extra == 'docs'",
+      "mkdocstrings-python ==1.8.0 ; extra == 'docs'",
+      "pytest ==8.0.0 ; extra == 'tests'",
+      "pytest-sugar ==1.0.0 ; extra == 'tests'",
+      "pytest-cov ==4.1.0 ; extra == 'tests'",
+      "pytest-mock ==3.12.0 ; extra == 'tests'",
+      "mypy ==1.8.0 ; extra == 'tests'"
+    ]
+  },
+  "dvc_studio_client-0.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eac41a74af46a313553b09948e0dc47d1be8ccfbea4513d54cd82bc32a480c4e",
+    "dependencies": {
+      "required": [
+        "dulwich",
+        "requests",
+        "voluptuous"
+      ]
+    },
+    "original_requirements": [
+      "dulwich",
+      "requests",
+      "voluptuous",
+      "pytest ==7.4.2 ; extra == 'dev'",
+      "pytest-sugar ==0.9.7 ; extra == 'dev'",
+      "pytest-cov ==4.1.0 ; extra == 'dev'",
+      "pytest-mock ==3.12.0 ; extra == 'dev'",
+      "mkdocs ==1.5.3 ; extra == 'dev'",
+      "mkdocs-gen-files ==0.5.0 ; extra == 'dev'",
+      "mkdocs-material ==9.4.6 ; extra == 'dev'",
+      "mkdocs-section-index ==0.3.8 ; extra == 'dev'",
+      "mkdocstrings-python ==1.7.3 ; extra == 'dev'",
+      "mkdocs ==1.5.3 ; extra == 'docs'",
+      "mkdocs-gen-files ==0.5.0 ; extra == 'docs'",
+      "mkdocs-material ==9.4.6 ; extra == 'docs'",
+      "mkdocs-section-index ==0.3.8 ; extra == 'docs'",
+      "mkdocstrings-python ==1.7.3 ; extra == 'docs'",
+      "pytest ==7.4.2 ; extra == 'tests'",
+      "pytest-sugar ==0.9.7 ; extra == 'tests'",
+      "pytest-cov ==4.1.0 ; extra == 'tests'",
+      "pytest-mock ==3.12.0 ; extra == 'tests'"
+    ]
+  }
+}

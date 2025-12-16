@@ -1,0 +1,14 @@
+{
+  "paginate-0.5.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b885e2af73abcf01d9559fd5216b57ef722f8c42affbb63942377668e35c7591",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "black; extra == \"lint\""
+    ]
+  }
+}

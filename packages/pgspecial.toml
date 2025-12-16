@@ -1,0 +1,12 @@
+# Package configuration for pgspecial
+conda_forge = "pgspecial"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pgspecial-2.2.1-py3-none-any.whl" },
+  { filename = "pgspecial-2.2.0-py3-none-any.whl" },
+  { filename = "pgspecial-2.1.3-py3-none-any.whl" },
+  { filename = "pgspecial-2.1.2-py3-none-any.whl" },
+  { filename = "pgspecial-2.1.1-py3-none-any.whl" },
+]

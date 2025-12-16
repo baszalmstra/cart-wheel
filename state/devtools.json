@@ -1,0 +1,80 @@
+{
+  "devtools-0.12.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c366e3de1df4cdd635f1ad8cbcd3af01a384d7abda71900e68d43b04eb6aaca7",
+    "dependencies": {
+      "required": [
+        "asttokens",
+        "executing",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "asttokens<3.0.0,>=2.0.0",
+      "executing>=1.1.1",
+      "pygments>=2.15.0"
+    ]
+  },
+  "devtools-0.12.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "972ba41ed3655660f8b6952684d8b21e10d274617651c169aaaf0ad423ec4767",
+    "dependencies": {
+      "required": [
+        "asttokens",
+        "executing",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "asttokens<3.0.0,>=2.0.0",
+      "executing>=1.1.1",
+      "pygments>=2.15.0"
+    ]
+  },
+  "devtools-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cda8b8f6293388f59e42be0a53d654217066a9e79160109b91af045c63b1b240",
+    "dependencies": {
+      "required": [
+        "asttokens",
+        "executing",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "asttokens<3.0.0,>=2.0.0",
+      "executing>=1.1.1",
+      "pygments>=2.15.0"
+    ]
+  },
+  "devtools-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22a3b65b58713ccd7e8586feffdefaad57bbdbc6ff76bd68ecf3150a00cf41e3",
+    "dependencies": {
+      "required": [
+        "asttokens",
+        "executing"
+      ]
+    },
+    "original_requirements": [
+      "asttokens<3.0.0,>=2.0.0",
+      "executing>=1.1.1",
+      "pygments>=2.2.0; extra == 'pygments'"
+    ]
+  },
+  "devtools-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b0bc02043bb032cdfb93e227226e2fea1aaea8f5a31fca25fabc4eadca22f228",
+    "dependencies": {
+      "required": [
+        "asttokens",
+        "executing"
+      ]
+    },
+    "original_requirements": [
+      "asttokens<3.0.0,>=2.0.0",
+      "executing>=1.1.1",
+      "pygments>=2.2.0; extra == 'pygments'"
+    ]
+  }
+}

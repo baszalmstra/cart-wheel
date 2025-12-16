@@ -1,0 +1,82 @@
+{
+  "pyjks-20.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "394dee142ecff6b1adc36f64356e5584732f1859575aa03b9cf5d5541a9e3460",
+    "dependencies": {
+      "required": [
+        "javaobj-py3",
+        "pyasn1",
+        "pyasn1-modules",
+        "pycryptodomex",
+        "twofish"
+      ]
+    },
+    "original_requirements": [
+      "javaobj-py3",
+      "pyasn1 (>=0.3.5)",
+      "pyasn1-modules",
+      "pycryptodomex",
+      "twofish"
+    ]
+  },
+  "pyjks-19.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e6d070f35ab2e829d77e36edc65b1530ef5320df2cf7e12789805d3c2d1ac63",
+    "dependencies": {
+      "required": [
+        "javaobj-py3",
+        "pyasn1",
+        "pyasn1-modules",
+        "pycryptodomex",
+        "twofish"
+      ]
+    },
+    "original_requirements": [
+      "javaobj-py3",
+      "pyasn1 (>=0.3.5)",
+      "pyasn1-modules",
+      "pycryptodomex",
+      "twofish"
+    ]
+  },
+  "pyjks-18.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "86bf1e2284b48e5fff94ea4af3bbaeed5de7fc89c4afd22ac8187c72f0a9f054",
+    "dependencies": {
+      "required": [
+        "javaobj-py3",
+        "pyasn1",
+        "pyasn1-modules",
+        "pycryptodome",
+        "twofish"
+      ]
+    },
+    "original_requirements": [
+      "javaobj-py3",
+      "pyasn1 (>=0.3.5)",
+      "pyasn1-modules",
+      "pycryptodome",
+      "twofish"
+    ]
+  },
+  "pyjks-17.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc81ddb1356bd04d758529d23513d9a41ad5701151fcda786d784c2f680950f4",
+    "dependencies": {
+      "required": [
+        "javaobj-py3",
+        "pyasn1",
+        "pyasn1-modules",
+        "pycryptodome",
+        "twofish"
+      ]
+    },
+    "original_requirements": [
+      "javaobj-py3",
+      "pyasn1",
+      "pyasn1-modules",
+      "pycryptodome",
+      "twofish"
+    ]
+  }
+}

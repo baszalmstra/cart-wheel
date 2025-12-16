@@ -1,0 +1,11 @@
+# Package configuration for aiopg
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiopg-1.4.0-py3-none-any.whl" },
+  { filename = "aiopg-1.3.5-py3-none-any.whl" },
+  { filename = "aiopg-1.3.4-py3-none-any.whl" },
+  { filename = "aiopg-1.3.3-py3-none-any.whl" },
+  { filename = "aiopg-1.3.2-py3-none-any.whl" },
+]

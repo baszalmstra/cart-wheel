@@ -1,0 +1,11 @@
+# Package configuration for cloudformation-cli
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cloudformation_cli-0.2.39-py3-none-any.whl" },
+  { filename = "cloudformation_cli-0.2.38-py3-none-any.whl" },
+  { filename = "cloudformation_cli-0.2.37-py3-none-any.whl" },
+  { filename = "cloudformation_cli-0.2.36-py3-none-any.whl" },
+  { filename = "cloudformation_cli-0.2.35-py3-none-any.whl" },
+]

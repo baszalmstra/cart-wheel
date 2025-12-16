@@ -1,0 +1,213 @@
+{
+  "pkgmt-0.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50c65b53b579428b54b9643a8fef95594038dfbbc3f8e42170137da18cee7c61",
+    "dependencies": {
+      "required": [
+        "toml",
+        "pyyaml",
+        "requests",
+        "click",
+        "invoke",
+        "black",
+        "nbqa",
+        "flake8",
+        "jupytext",
+        "ipython",
+        "ipython"
+      ]
+    },
+    "original_requirements": [
+      "toml",
+      "pyyaml",
+      "requests",
+      "click",
+      "invoke",
+      "black",
+      "nbqa",
+      "flake8",
+      "jupytext",
+      "ipython",
+      "ipython<=8.12.0; python_version <= \"3.8\"",
+      "nbclient; extra == \"all\"",
+      "jupytext; extra == \"all\"",
+      "ipykernel; extra == \"all\"",
+      "mistune>=3.1.0; extra == \"check\"",
+      "pytest; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "structlog; extra == \"dev\"",
+      "jupytext; extra == \"dev\"",
+      "nbclient; extra == \"dev\"",
+      "ipykernel; extra == \"dev\"",
+      "mistune>=3.1.0; extra == \"dev\""
+    ]
+  },
+  "pkgmt-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e3ef1f9d2087c8b367257978e99e9648fa98723c141b2389af3743b493e0767b",
+    "dependencies": {
+      "required": [
+        "toml",
+        "pyyaml",
+        "requests",
+        "click",
+        "invoke",
+        "black",
+        "nbqa",
+        "flake8",
+        "jupytext",
+        "ipython",
+        "ipython"
+      ]
+    },
+    "original_requirements": [
+      "toml",
+      "pyyaml",
+      "requests",
+      "click",
+      "invoke",
+      "black",
+      "nbqa",
+      "flake8",
+      "jupytext",
+      "ipython<=8.12.0; python_version <= \"3.8\"",
+      "ipython",
+      "pytest; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "jupytext; extra == \"dev\"",
+      "nbclient; extra == \"dev\"",
+      "ipykernel; extra == \"dev\"",
+      "mistune>=3.1.0; extra == \"dev\"",
+      "nbclient; extra == \"all\"",
+      "jupytext; extra == \"all\"",
+      "ipykernel; extra == \"all\"",
+      "mistune>=3.1.0; extra == \"check\""
+    ]
+  },
+  "pkgmt-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a1d5eaefa5dc788c8c12a6f7a579b25383b5e86ff7b93e11adf875c5c58a08dd",
+    "dependencies": {
+      "required": [
+        "toml",
+        "pyyaml",
+        "requests",
+        "click",
+        "invoke",
+        "black",
+        "nbqa",
+        "flake8",
+        "jupytext",
+        "ipython",
+        "ipython"
+      ]
+    },
+    "original_requirements": [
+      "toml",
+      "pyyaml",
+      "requests",
+      "click",
+      "invoke",
+      "black",
+      "nbqa",
+      "flake8",
+      "jupytext",
+      "ipython",
+      "ipython<=8.12.0; python_version <= \"3.8\"",
+      "nbclient; extra == \"all\"",
+      "jupytext; extra == \"all\"",
+      "ipykernel; extra == \"all\"",
+      "mistune>=3rc; extra == \"check\"",
+      "pytest; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "jupytext; extra == \"dev\"",
+      "nbclient; extra == \"dev\"",
+      "ipykernel; extra == \"dev\"",
+      "mistune>=3rc; extra == \"dev\""
+    ]
+  },
+  "pkgmt-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ee77a5f4ae428952cceb1bd1a97da713603d50a98cda8e5a0fa4c511f0b3110",
+    "dependencies": {
+      "required": [
+        "toml",
+        "pyyaml",
+        "requests",
+        "click",
+        "invoke",
+        "black",
+        "nbqa",
+        "flake8",
+        "jupytext",
+        "ipython",
+        "ipython"
+      ]
+    },
+    "original_requirements": [
+      "toml",
+      "pyyaml",
+      "requests",
+      "click",
+      "invoke",
+      "black",
+      "nbqa",
+      "flake8",
+      "jupytext",
+      "ipython",
+      "ipython <=8.12.0 ; python_version <= \"3.8\"",
+      "nbclient ; extra == 'all'",
+      "jupytext ; extra == 'all'",
+      "ipykernel ; extra == 'all'",
+      "mistune >=3rc ; extra == 'check'",
+      "pytest ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "jupytext ; extra == 'dev'",
+      "nbclient ; extra == 'dev'",
+      "ipykernel ; extra == 'dev'",
+      "mistune >=3rc ; extra == 'dev'"
+    ]
+  },
+  "pkgmt-0.7.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "319b667fb1969bb0c01b7703a9b76e9e3cecde2be35eac4157bc92b1b6da9903",
+    "dependencies": {
+      "required": [
+        "toml",
+        "pyyaml",
+        "requests",
+        "click",
+        "invoke",
+        "black",
+        "nbqa",
+        "flake8",
+        "jupytext",
+        "ipython",
+        "ipython"
+      ]
+    },
+    "original_requirements": [
+      "toml",
+      "pyyaml",
+      "requests",
+      "click",
+      "invoke",
+      "black",
+      "nbqa",
+      "flake8",
+      "jupytext",
+      "ipython",
+      "ipython <=8.12.0 ; python_version <= \"3.8\"",
+      "nbclient ; extra == 'all'",
+      "jupytext ; extra == 'all'",
+      "ipykernel ; extra == 'all'",
+      "mistune >=3rc ; extra == 'check'",
+      "pytest ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "jupytext ; extra == 'dev'",
+      "nbclient ; extra == 'dev'",
+      "ipykernel ; extra == 'dev'",
+      "mistune >=3rc ; extra == 'dev'"
+    ]
+  }
+}

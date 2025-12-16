@@ -1,0 +1,12 @@
+# Package configuration for rethinkdb
+conda_forge = "rethinkdb-python"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rethinkdb-2.4.10.post1-py2.py3-none-any.whl" },
+  { filename = "rethinkdb-2.4.10-py2.py3-none-any.whl" },
+  { filename = "rethinkdb-2.4.9-py2.py3-none-any.whl" },
+  { filename = "rethinkdb-2.4.8-py2.py3-none-any.whl" },
+  { filename = "rethinkdb-2.4.7-py2.py3-none-any.whl" },
+]

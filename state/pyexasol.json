@@ -1,0 +1,127 @@
+{
+  "pyexasol-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0bb076346dcb33b36031a2633d6e7b9982f8411b95e770ad8017801ee438a689",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "packaging",
+        "rsa",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "cryptography (>=45.0.7)",
+      "orjson (>=3.6) ; extra == \"orjson\" or extra == \"all\"",
+      "packaging",
+      "pandas (>=2,<3) ; extra == \"pandas\" or extra == \"all\"",
+      "polars (>=1.10,<2.0) ; extra == \"polars\" or extra == \"all\"",
+      "pproxy ; extra == \"examples\" or extra == \"all\"",
+      "pyarrow (>=21.0.0,<22.0.0) ; extra == \"pyarrow\" or extra == \"all\"",
+      "python-rapidjson ; extra == \"rapidjson\" or extra == \"all\"",
+      "rsa",
+      "ujson ; extra == \"ujson\" or extra == \"all\"",
+      "websocket-client (>=1.0.1,<1.9.0)"
+    ]
+  },
+  "pyexasol-1.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d3c161bc36ddbe6127a041447033d4b48ac76f000e04bd39c38dd21c95f443c",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "packaging",
+        "rsa",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "cryptography (>=45.0.7)",
+      "orjson (>=3.6) ; extra == \"orjson\" or extra == \"all\"",
+      "packaging",
+      "pandas (>=2,<3) ; extra == \"pandas\" or extra == \"all\"",
+      "polars (>=1.10,<2.0) ; extra == \"polars\" or extra == \"all\"",
+      "pproxy ; extra == \"examples\" or extra == \"all\"",
+      "pyarrow (>=21.0.0,<22.0.0) ; extra == \"pyarrow\" or extra == \"all\"",
+      "python-rapidjson ; extra == \"rapidjson\" or extra == \"all\"",
+      "rsa",
+      "ujson ; extra == \"ujson\" or extra == \"all\"",
+      "websocket-client (>=1.0.1,<1.9.0)"
+    ]
+  },
+  "pyexasol-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7998d90940b3c54d0d97702bc30294a398c7dd8844efd9063d54644640df9e10",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "packaging",
+        "rsa",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "cryptography (>=45.0.7)",
+      "orjson (>=3.6) ; extra == \"orjson\" or extra == \"all\"",
+      "packaging",
+      "pandas (>=2,<3) ; extra == \"pandas\" or extra == \"all\"",
+      "polars (>=1.10,<2.0) ; extra == \"polars\" or extra == \"all\"",
+      "pproxy ; extra == \"examples\" or extra == \"all\"",
+      "pyarrow (>=21.0.0,<22.0.0) ; extra == \"pyarrow\" or extra == \"all\"",
+      "python-rapidjson ; extra == \"rapidjson\" or extra == \"all\"",
+      "rsa",
+      "ujson ; extra == \"ujson\" or extra == \"all\"",
+      "websocket-client (>=1.0.1,<1.9.0)"
+    ]
+  },
+  "pyexasol-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a5a4a91e246ab52841319a65e65acd1403e31dda4d5321d9b42fadabe5a2c0e9",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "packaging",
+        "rsa",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "cryptography (>=45.0.7)",
+      "orjson (>=3.6) ; extra == \"orjson\" or extra == \"all\"",
+      "packaging",
+      "pandas (>=2,<3) ; extra == \"pandas\" or extra == \"all\"",
+      "polars (>=1.10,<2.0) ; extra == \"polars\" or extra == \"all\"",
+      "pproxy ; extra == \"examples\" or extra == \"all\"",
+      "pyarrow (>=20.0.0,<21.0.0) ; extra == \"pyarrow\" or extra == \"all\"",
+      "python-rapidjson ; extra == \"rapidjson\" or extra == \"all\"",
+      "rsa",
+      "ujson ; extra == \"ujson\" or extra == \"all\"",
+      "websocket-client (>=1.0.1)"
+    ]
+  },
+  "pyexasol-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e4f1337cd8cd3f3704b78c70f096bbdfa919e8ac42d9f9aa8f31644a6d1e715",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "packaging",
+        "rsa",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "cryptography (>=45.0.7)",
+      "numpy (>1.26.0,<2) ; extra == \"numpy\" or extra == \"all\"",
+      "orjson (>=3.6) ; extra == \"orjson\" or extra == \"all\"",
+      "packaging",
+      "pandas[numpy] (>=2,<3) ; extra == \"pandas\" or extra == \"all\"",
+      "polars (>=1.10,<2.0) ; extra == \"polars\" or extra == \"all\"",
+      "pproxy ; extra == \"examples\" or extra == \"all\"",
+      "python-rapidjson ; extra == \"rapidjson\" or extra == \"all\"",
+      "rsa",
+      "ujson ; extra == \"ujson\" or extra == \"all\"",
+      "websocket-client (>=1.0.1)"
+    ]
+  }
+}

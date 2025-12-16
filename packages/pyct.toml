@@ -1,0 +1,12 @@
+# Package configuration for pyct
+conda_forge = "pyct"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyct-0.6.0-py3-none-any.whl" },
+  { filename = "pyct-0.5.0-py2.py3-none-any.whl" },
+  { filename = "pyct-0.4.8-py2.py3-none-any.whl" },
+  { filename = "pyct-0.4.7-py2.py3-none-any.whl" },
+  { filename = "pyct-0.4.6-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for lmnr
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lmnr-0.7.24-py3-none-any.whl" },
+  { filename = "lmnr-0.7.23-py3-none-any.whl" },
+  { filename = "lmnr-0.7.22-py3-none-any.whl" },
+  { filename = "lmnr-0.7.21-py3-none-any.whl" },
+  { filename = "lmnr-0.7.20-py3-none-any.whl" },
+]

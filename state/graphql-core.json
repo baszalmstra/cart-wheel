@@ -1,0 +1,62 @@
+{
+  "graphql_core-3.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17fc8f3ca4a42913d8e24d9ac9f08deddf0a0b2483076575757f6c412ead2ec0",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions<5,>=4.7; python_version < \"3.10\""
+    ]
+  },
+  "graphql_core-3.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "78b016718c161a6fb20a7d97bbf107f331cd1afe53e45566c59f776ed7f0b45f",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions<5,>=4; python_version < \"3.10\""
+    ]
+  },
+  "graphql_core-3.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2f150d5096448aa4f8ab26268567bbfeef823769893b39c1a2e1409590939c8a",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions<5,>=4; python_version < \"3.10\""
+    ]
+  },
+  "graphql_core-3.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1604f2042edc5f3114f49cac9d77e25863be51b23a54a61a23245cf32f6476f0",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions<5,>=4.2; python_version < \"3.8\""
+    ]
+  },
+  "graphql_core-3.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5766780452bd5ec8ba133f8bf287dc92713e3868ddd83aee4faab9fc3e303dc3",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions (<5,>=4.2) ; python_version < \"3.8\""
+    ]
+  }
+}

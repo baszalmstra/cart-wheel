@@ -1,0 +1,109 @@
+{
+  "mdformat_front_matters-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ea92d23d1e9427fe6548b9044e5fbf7bcf6c217941f1a9442e0efd8b0a76e61",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "ruamel-yaml",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat>=0.7.19",
+      "mdit-py-plugins>=0.4.1",
+      "ruamel-yaml>=0.18.16",
+      "toml>=0.10.0",
+      "pytest>=9.0.1 ; extra == 'test'",
+      "pytest-beartype>=0.2.0 ; extra == 'test'",
+      "pytest-cov>=7.0.0 ; extra == 'test'",
+      "typing-extensions>=4.15.0 ; extra == 'test'"
+    ]
+  },
+  "mdformat_front_matters-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d7ec6231ff1f0c1b1a1cb1c8239a3778f7b2ed3a58368d6a616190f64864efb",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "mdformat",
+        "mdit-py-plugins",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml>=6.0",
+      "mdformat>=0.7.19",
+      "mdit-py-plugins>=0.4.1",
+      "toml>=0.10.0",
+      "pytest>=9.0.1 ; extra == 'test'",
+      "pytest-beartype>=0.2.0 ; extra == 'test'",
+      "pytest-cov>=7.0.0 ; extra == 'test'",
+      "typing-extensions>=4.15.0 ; extra == 'test'"
+    ]
+  },
+  "mdformat_front_matters-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8d747dca5f4ae1b03e19e15d4bbeb8eac64671de75cd0cf7907c8c38730655d3",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "python-frontmatter",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat>=0.7.19",
+      "mdit-py-plugins>=0.4.1",
+      "python-frontmatter>=1.0.0",
+      "toml>=0.10.0",
+      "pytest>=9.0.1 ; extra == 'test'",
+      "pytest-beartype>=0.2.0 ; extra == 'test'",
+      "pytest-cov>=7.0.0 ; extra == 'test'",
+      "typing-extensions>=4.15.0 ; extra == 'test'"
+    ]
+  },
+  "mdformat_front_matters-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "820497ada5ef046f3f1a22e90793764608a6f1a5502d364776d3a63e4ddc203c",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "python-frontmatter",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat>=0.7.19",
+      "mdit-py-plugins>=0.4.1",
+      "python-frontmatter>=1.0.0",
+      "toml>=0.10.0",
+      "pytest>=9.0.1 ; extra == 'test'",
+      "pytest-beartype>=0.2.0 ; extra == 'test'",
+      "pytest-cov>=7.0.0 ; extra == 'test'",
+      "typing-extensions>=4.15.0 ; extra == 'test'"
+    ]
+  },
+  "mdformat_front_matters-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0dd76ba22aa969627597d98a2ff8188a882a74bef19f72ef6aa1c68a8136077c",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "python-frontmatter"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >= 0.7.19",
+      "mdit-py-plugins >= 0.4.1",
+      "python-frontmatter >= 1.0.0",
+      "pytest >= 8.3.4 ; extra == \"test\"",
+      "pytest-beartype >= 0.1.1 ; extra == \"test\"",
+      "pytest-cov >= 6.0.0 ; extra == \"test\""
+    ]
+  }
+}

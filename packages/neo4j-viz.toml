@@ -1,0 +1,11 @@
+# Package configuration for neo4j-viz
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neo4j_viz-1.0.0-py3-none-any.whl" },
+  { filename = "neo4j_viz-0.7.0-py3-none-any.whl" },
+  { filename = "neo4j_viz-0.6.0-py3-none-any.whl" },
+  { filename = "neo4j_viz-0.5.0-py3-none-any.whl" },
+  { filename = "neo4j_viz-0.4.2-py3-none-any.whl" },
+]

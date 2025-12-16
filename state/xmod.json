@@ -1,0 +1,50 @@
+{
+  "xmod-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a24e9458a4853489042522bdca9e50ee2eac5ab75c809a91150a8a7f40670d48",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "xmod-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11ae15c4e14d4cd7f62131d269053ad0e16199fc2aeda9431a375038c06f11ac",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "xmod-1.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b092cbf34ace5eee9cb7c67570c5788f73efd15d008a72c2730cf6494a1257a",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "xmod-1.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07a5d8ab27aed3d59d684a022e309e4728b1046fdddaa756caba7f1ebbc8b967",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "xmod-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8cfa11d19d959cf3703fe8823829b77576bb354b659defcf3f99dea241f0432a",
+    "dependencies": {
+      "required": [
+        "black",
+        "isort",
+        "mypy",
+        "pyright",
+        "ruff"
+      ]
+    },
+    "original_requirements": [
+      "black (>=23.12.1,<24.0.0)",
+      "isort (>=5.13.2,<6.0.0)",
+      "mypy (>=1.8.0,<2.0.0)",
+      "pyright (>=1.1.343,<2.0.0)",
+      "ruff (>=0.1.9,<0.2.0)"
+    ]
+  }
+}

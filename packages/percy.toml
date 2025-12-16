@@ -1,0 +1,12 @@
+# Package configuration for percy
+conda_forge = "percy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "percy-2.0.2-py2.py3-none-any.whl" },
+  { filename = "percy-2.0.1-py2.py3-none-any.whl" },
+  { filename = "percy-2.0.0-py2.py3-none-any.whl" },
+  { filename = "percy-1.3.0-py2.py3-none-any.whl" },
+  { filename = "percy-1.2.0-py2.py3-none-any.whl" },
+]

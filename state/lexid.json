@@ -1,0 +1,26 @@
+{
+  "lexid-2021.1006-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5526bb5606fd74c7add23320da5f02805bddd7c77916f2dc1943e6bada8605ed",
+    "dependencies": {
+      "required": [
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "typing ; python_version < \"3.5\""
+    ]
+  },
+  "lexid-2020.1005-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "53eb7182c9e9d9f84d72b06f7338b9cfad0fa14804cc60362a55a6f03f7bca33",
+    "dependencies": {
+      "required": [
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "typing ; python_version < \"3.5\""
+    ]
+  }
+}

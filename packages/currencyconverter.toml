@@ -1,0 +1,11 @@
+# Package configuration for currencyconverter
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "currencyconverter-0.18.12-py3-none-any.whl" },
+  { filename = "currencyconverter-0.18.11-py3-none-any.whl" },
+  { filename = "currencyconverter-0.18.10-py3-none-any.whl" },
+  { filename = "currencyconverter-0.18.9-py3-none-any.whl" },
+  { filename = "currencyconverter-0.18.8-py3-none-any.whl" },
+]

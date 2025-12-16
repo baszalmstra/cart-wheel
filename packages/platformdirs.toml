@@ -1,0 +1,12 @@
+# Package configuration for platformdirs
+conda_forge = "platformdirs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "platformdirs-4.5.1-py3-none-any.whl" },
+  { filename = "platformdirs-4.5.0-py3-none-any.whl" },
+  { filename = "platformdirs-4.4.0-py3-none-any.whl" },
+  { filename = "platformdirs-4.3.8-py3-none-any.whl" },
+  { filename = "platformdirs-4.3.7-py3-none-any.whl" },
+]

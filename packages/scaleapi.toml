@@ -1,0 +1,12 @@
+# Package configuration for scaleapi
+conda_forge = "scaleapi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "scaleapi-2.18.1-py3-none-any.whl" },
+  { filename = "scaleapi-2.18.0-py3-none-any.whl" },
+  { filename = "scaleapi-2.17.0-py3-none-any.whl" },
+  { filename = "scaleapi-2.16.0-py3-none-any.whl" },
+  { filename = "scaleapi-2.15.14-py3-none-any.whl" },
+]

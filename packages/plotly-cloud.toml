@@ -1,0 +1,7 @@
+# Package configuration for plotly-cloud
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "plotly_cloud-0.1.0-py3-none-any.whl" },
+]

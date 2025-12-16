@@ -1,0 +1,214 @@
+{
+  "trino-0.336.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e82339e9fffe5c6c51de3bfdf28f083e3ae5945a4502739ab2094a0d08d68070",
+    "dependencies": {
+      "required": [
+        "lz4",
+        "orjson",
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "tzlocal",
+        "zstandard"
+      ]
+    },
+    "original_requirements": [
+      "lz4",
+      "orjson>=3.11.0; platform_python_implementation != \"PyPy\"",
+      "python-dateutil",
+      "pytz",
+      "requests>=2.32.4",
+      "tzlocal",
+      "zstandard",
+      "requests_kerberos; extra == \"all\"",
+      "sqlalchemy>=1.3; extra == \"all\"",
+      "requests_kerberos; extra == \"kerberos\"",
+      "requests_gssapi; extra == \"gssapi\"",
+      "krb5==0.5.1; extra == \"gssapi\"",
+      "sqlalchemy>=1.3; extra == \"sqlalchemy\"",
+      "requests_kerberos; extra == \"tests\"",
+      "sqlalchemy>=1.3; extra == \"tests\"",
+      "requests_gssapi; extra == \"tests\"",
+      "krb5==0.5.1; extra == \"tests\"",
+      "httpretty<1.1; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-runner; extra == \"tests\"",
+      "pre-commit; extra == \"tests\"",
+      "black; extra == \"tests\"",
+      "isort; extra == \"tests\"",
+      "keyring; extra == \"tests\"",
+      "testcontainers; extra == \"tests\"",
+      "boto3; extra == \"tests\"",
+      "keyring; extra == \"external-authentication-token-cache\""
+    ]
+  },
+  "trino-0.335.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c96d89d610ab7712ede532d2eb41beb8627339571bceff6134370a8a496f685",
+    "dependencies": {
+      "required": [
+        "lz4",
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "tzlocal",
+        "zstandard"
+      ]
+    },
+    "original_requirements": [
+      "lz4",
+      "python-dateutil",
+      "pytz",
+      "requests>=2.31.0",
+      "tzlocal",
+      "zstandard",
+      "requests_kerberos; extra == \"all\"",
+      "sqlalchemy>=1.3; extra == \"all\"",
+      "requests_kerberos; extra == \"kerberos\"",
+      "requests_gssapi; extra == \"gssapi\"",
+      "krb5==0.5.1; extra == \"gssapi\"",
+      "sqlalchemy>=1.3; extra == \"sqlalchemy\"",
+      "requests_kerberos; extra == \"tests\"",
+      "sqlalchemy>=1.3; extra == \"tests\"",
+      "requests_gssapi; extra == \"tests\"",
+      "krb5==0.5.1; extra == \"tests\"",
+      "httpretty<1.1; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-runner; extra == \"tests\"",
+      "pre-commit; extra == \"tests\"",
+      "black; extra == \"tests\"",
+      "isort; extra == \"tests\"",
+      "keyring; extra == \"tests\"",
+      "testcontainers; extra == \"tests\"",
+      "boto3; extra == \"tests\"",
+      "keyring; extra == \"external-authentication-token-cache\""
+    ]
+  },
+  "trino-0.334.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c424a1cbe8dd196fa3862af2040aa8322073400848672773d00bbdf913be154",
+    "dependencies": {
+      "required": [
+        "lz4",
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "tzlocal",
+        "zstandard"
+      ]
+    },
+    "original_requirements": [
+      "lz4",
+      "python-dateutil",
+      "pytz",
+      "requests>=2.31.0",
+      "tzlocal",
+      "zstandard",
+      "requests_kerberos; extra == \"all\"",
+      "sqlalchemy>=1.3; extra == \"all\"",
+      "requests_kerberos; extra == \"kerberos\"",
+      "requests_gssapi; extra == \"gssapi\"",
+      "krb5==0.5.1; extra == \"gssapi\"",
+      "sqlalchemy>=1.3; extra == \"sqlalchemy\"",
+      "requests_kerberos; extra == \"tests\"",
+      "sqlalchemy>=1.3; extra == \"tests\"",
+      "requests_gssapi; extra == \"tests\"",
+      "krb5==0.5.1; extra == \"tests\"",
+      "httpretty<1.1; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-runner; extra == \"tests\"",
+      "pre-commit; extra == \"tests\"",
+      "black; extra == \"tests\"",
+      "isort; extra == \"tests\"",
+      "keyring; extra == \"tests\"",
+      "testcontainers; extra == \"tests\"",
+      "boto3; extra == \"tests\"",
+      "keyring; extra == \"external-authentication-token-cache\""
+    ]
+  },
+  "trino-0.333.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9954e59e32c5d562e1def5307d466a6cdd986b3c9ac6979d07d4fe023968da6b",
+    "dependencies": {
+      "required": [
+        "lz4",
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "tzlocal",
+        "zstandard"
+      ]
+    },
+    "original_requirements": [
+      "lz4",
+      "python-dateutil",
+      "pytz",
+      "requests>=2.31.0",
+      "tzlocal",
+      "zstandard",
+      "requests_kerberos; extra == \"all\"",
+      "sqlalchemy>=1.3; extra == \"all\"",
+      "requests_kerberos; extra == \"kerberos\"",
+      "requests_gssapi; extra == \"gssapi\"",
+      "krb5==0.5.1; extra == \"gssapi\"",
+      "sqlalchemy>=1.3; extra == \"sqlalchemy\"",
+      "requests_kerberos; extra == \"tests\"",
+      "sqlalchemy>=1.3; extra == \"tests\"",
+      "requests_gssapi; extra == \"tests\"",
+      "krb5==0.5.1; extra == \"tests\"",
+      "httpretty<1.1; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-runner; extra == \"tests\"",
+      "pre-commit; extra == \"tests\"",
+      "black; extra == \"tests\"",
+      "isort; extra == \"tests\"",
+      "keyring; extra == \"tests\"",
+      "testcontainers; extra == \"tests\"",
+      "boto3; extra == \"tests\"",
+      "keyring; extra == \"external-authentication-token-cache\""
+    ]
+  },
+  "trino-0.332.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24ef06c231578cff55b966a585a177d847bcb77a02504ac9c96394676a884952",
+    "dependencies": {
+      "required": [
+        "lz4",
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "tzlocal",
+        "zstandard"
+      ]
+    },
+    "original_requirements": [
+      "lz4",
+      "python-dateutil",
+      "pytz",
+      "requests>=2.31.0",
+      "tzlocal",
+      "zstandard",
+      "requests_kerberos; extra == \"all\"",
+      "sqlalchemy>=1.3; extra == \"all\"",
+      "requests_kerberos; extra == \"kerberos\"",
+      "requests_gssapi; extra == \"gssapi\"",
+      "krb5==0.5.1; extra == \"gssapi\"",
+      "sqlalchemy>=1.3; extra == \"sqlalchemy\"",
+      "requests_kerberos; extra == \"tests\"",
+      "sqlalchemy>=1.3; extra == \"tests\"",
+      "requests_gssapi; extra == \"tests\"",
+      "krb5==0.5.1; extra == \"tests\"",
+      "httpretty<1.1; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-runner; extra == \"tests\"",
+      "pre-commit; extra == \"tests\"",
+      "black; extra == \"tests\"",
+      "isort; extra == \"tests\"",
+      "keyring; extra == \"tests\"",
+      "testcontainers; extra == \"tests\"",
+      "boto3; extra == \"tests\"",
+      "keyring; extra == \"external-authentication-token-cache\""
+    ]
+  }
+}

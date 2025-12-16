@@ -1,0 +1,11 @@
+# Package configuration for sphinx-version-warning
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_version_warning-1.1.2-py3-none-any.whl" },
+  { filename = "sphinx_version_warning-1.1.1-py3-none-any.whl" },
+  { filename = "sphinx_version_warning-1.1.0-py3-none-any.whl" },
+  { filename = "sphinx_version_warning-1.0.2-py3-none-any.whl" },
+  { filename = "sphinx_version_warning-1.0.0-py3-none-any.whl" },
+]

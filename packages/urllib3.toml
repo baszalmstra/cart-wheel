@@ -1,0 +1,12 @@
+# Package configuration for urllib3
+conda_forge = "urllib3"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "urllib3-2.6.2-py3-none-any.whl" },
+  { filename = "urllib3-2.6.1-py3-none-any.whl" },
+  { filename = "urllib3-2.6.0-py3-none-any.whl" },
+  { filename = "urllib3-2.5.0-py3-none-any.whl" },
+  { filename = "urllib3-2.4.0-py3-none-any.whl" },
+]

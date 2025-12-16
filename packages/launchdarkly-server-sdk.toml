@@ -1,0 +1,12 @@
+# Package configuration for launchdarkly-server-sdk
+conda_forge = "launchdarkly-server-sdk"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "launchdarkly_server_sdk-9.14.0-py3-none-any.whl" },
+  { filename = "launchdarkly_server_sdk-9.13.1-py3-none-any.whl" },
+  { filename = "launchdarkly_server_sdk-9.13.0-py3-none-any.whl" },
+  { filename = "launchdarkly_server_sdk-9.12.3-py3-none-any.whl" },
+  { filename = "launchdarkly_server_sdk-9.12.2-py3-none-any.whl" },
+]

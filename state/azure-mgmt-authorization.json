@@ -1,0 +1,90 @@
+{
+  "azure_mgmt_authorization-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d8feeb3842e6ddf1a370963ca4f61fb6edc124e8997b807dd025bc9b2379cd1a",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "azure-common",
+        "azure-mgmt-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "isodate (<1.0.0,>=0.6.1)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-core (<2.0.0,>=1.3.2)",
+      "typing-extensions (>=4.3.0) ; python_version < \"3.8.0\""
+    ]
+  },
+  "azure_mgmt_authorization-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3f9e584b87d5cc39d41283211237945e620c0b868394880aeded80a126b2c40",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.7.1)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-core (<2.0.0,>=1.3.2)"
+    ]
+  },
+  "azure_mgmt_authorization-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "02bcf52ccd1594ebf484741f5a7110dc28ee970664bb75493561d1a180874d38",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-mgmt-core",
+        "azure-mgmt-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.6.21)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-core (<2.0.0,>=1.2.0)",
+      "azure-mgmt-nspkg ; python_version<'3.0'"
+    ]
+  },
+  "azure_mgmt_authorization-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "151bebe4352dd5c73d1df8bfc861d6ae6c9697d09ad761c59ce7ec50c476dff7",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-mgmt-core",
+        "azure-mgmt-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-core (<2.0.0,>=1.2.0)",
+      "azure-mgmt-nspkg ; python_version<'3.0'"
+    ]
+  },
+  "azure_mgmt_authorization-0.61.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38f8afcd5c0065e598305de15dbb6b81521ac1e05216049f10ca32a435fd5817",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "msrestazure",
+        "azure-common",
+        "azure-mgmt-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "msrestazure (<2.0.0,>=0.4.32)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-nspkg ; python_version<'3.0'"
+    ]
+  }
+}

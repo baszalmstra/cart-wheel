@@ -1,0 +1,26 @@
+{
+  "types_boto3_nova_act-1.42.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4b2473e32dd316f32b6f5dcd12b4917f2568ab3ff1de499be854f6c423465a9",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "types_boto3_nova_act-1.42.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c30e22200c6694596e91007da81896a3537045385d04c9c72b4c01dea9d912a",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for python-coveralls
+conda_forge = "python-coveralls"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_coveralls-2.9.3-py2.py3-none-any.whl" },
+  { filename = "python_coveralls-2.9.2-py2.py3-none-any.whl" },
+  { filename = "python_coveralls-2.9.1-py2.py3-none-any.whl" },
+  { filename = "python_coveralls-2.9.0-py2.py3-none-any.whl" },
+  { filename = "python_coveralls-2.8.0-py2.py3-none-any.whl" },
+]

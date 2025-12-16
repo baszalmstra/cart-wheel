@@ -1,0 +1,8 @@
+# Package configuration for strictyaml
+conda_forge = "strictyaml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "strictyaml-1.7.3-py3-none-any.whl" },
+]

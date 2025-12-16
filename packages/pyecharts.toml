@@ -1,0 +1,12 @@
+# Package configuration for pyecharts
+conda_forge = "pyecharts"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyecharts-2.0.9-py3-none-any.whl" },
+  { filename = "pyecharts-2.0.8-py3-none-any.whl" },
+  { filename = "pyecharts-2.0.7-py3-none-any.whl" },
+  { filename = "pyecharts-2.0.6-py3-none-any.whl" },
+  { filename = "pyecharts-2.0.5-py3-none-any.whl" },
+]

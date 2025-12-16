@@ -1,0 +1,12 @@
+# Package configuration for flake8-builtins
+conda_forge = "flake8-builtins"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_builtins-3.1.0-py3-none-any.whl" },
+  { filename = "flake8_builtins-3.0.0-py3-none-any.whl" },
+  { filename = "flake8_builtins-2.5.0-py3-none-any.whl" },
+  { filename = "flake8_builtins-2.4.0-py3-none-any.whl" },
+  { filename = "flake8_builtins-2.3.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for robotframework-seleniumlibrary
+conda_forge = "robotframework-seleniumlibrary"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "robotframework_seleniumlibrary-6.8.0-py3-none-any.whl" },
+  { filename = "robotframework_seleniumlibrary-6.7.1-py2.py3-none-any.whl" },
+  { filename = "robotframework_seleniumlibrary-6.7.0-py2.py3-none-any.whl" },
+  { filename = "robotframework_seleniumlibrary-6.6.1-py2.py3-none-any.whl" },
+  { filename = "robotframework_seleniumlibrary-6.6.0-py2.py3-none-any.whl" },
+]

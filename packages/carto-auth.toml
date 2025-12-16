@@ -1,0 +1,9 @@
+# Package configuration for carto-auth
+conda_forge = "carto-auth"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "carto_auth-0.2.0-py3-none-any.whl" },
+  { filename = "carto_auth-0.1.0-py3-none-any.whl" },
+]

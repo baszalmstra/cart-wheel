@@ -1,0 +1,35 @@
+{
+  "databackend-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ded97ff85a0ca272d752fbc0513f70512d2c23325e3c72de15613df7e959ef5",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pip-tools; extra == \"dev\"",
+      "pytest; extra == \"dev\""
+    ]
+  },
+  "databackend-0.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "14362cea6c074e6cd1fe475d2bf29b18100dc24f9cdce441fe9c16c97e79307b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pip-tools; extra == \"dev\"",
+      "pytest; extra == \"dev\""
+    ]
+  },
+  "databackend-0.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f8b98bbef6f82ab3d4a9fa82b9259f3a054c0264a4067457f5301b3adf88b39d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pip-tools ; extra == 'dev'",
+      "pytest ; extra == 'dev'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for albumentations
+conda_forge = "albumentations"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "albumentations-2.0.8-py3-none-any.whl" },
+  { filename = "albumentations-2.0.7-py3-none-any.whl" },
+  { filename = "albumentations-2.0.6-py3-none-any.whl" },
+  { filename = "albumentations-2.0.5-py3-none-any.whl" },
+  { filename = "albumentations-2.0.4-py3-none-any.whl" },
+]

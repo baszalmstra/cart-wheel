@@ -1,0 +1,12 @@
+# Package configuration for flex
+conda_forge = "flex-swagger"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flex-6.14.0-py3-none-any.whl" },
+  { filename = "flex-6.13.2-py3-none-any.whl" },
+  { filename = "flex-6.13.1-py3-none-any.whl" },
+  { filename = "flex-6.13.0-py3-none-any.whl" },
+  { filename = "flex-6.12.0-py3-none-any.whl" },
+]

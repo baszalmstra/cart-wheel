@@ -1,0 +1,109 @@
+{
+  "urwid-3.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85f41a43e1e12ac3b51c0fd12128fa0e4e7b440be2e4e1aab205f5331b79959b",
+    "dependencies": {
+      "required": [
+        "wcwidth"
+      ]
+    },
+    "original_requirements": [
+      "wcwidth",
+      "windows-curses; sys_platform == \"win32\" and extra == \"curses\"",
+      "PyGObject; extra == \"glib\"",
+      "tornado>=5.0; extra == \"tornado\"",
+      "trio>=0.24.0; extra == \"trio\"",
+      "exceptiongroup; python_version < \"3.11\" and extra == \"trio\"",
+      "twisted; extra == \"twisted\"",
+      "zmq; extra == \"zmq\"",
+      "pyserial; extra == \"serial\"",
+      "pyserial; extra == \"lcd\""
+    ]
+  },
+  "urwid-3.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ede36ecc99a293bbb4b5e5072c7b7bb943eb3bed17decf89b808209ed2dead15",
+    "dependencies": {
+      "required": [
+        "wcwidth"
+      ]
+    },
+    "original_requirements": [
+      "wcwidth",
+      "windows-curses; sys_platform == \"win32\" and extra == \"curses\"",
+      "PyGObject; extra == \"glib\"",
+      "tornado>=5.0; extra == \"tornado\"",
+      "trio>=0.24.0; extra == \"trio\"",
+      "exceptiongroup; python_version < \"3.11\" and extra == \"trio\"",
+      "twisted; extra == \"twisted\"",
+      "zmq; extra == \"zmq\"",
+      "pyserial; extra == \"serial\"",
+      "pyserial; extra == \"lcd\""
+    ]
+  },
+  "urwid-3.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94ec1448d0178c881c01845c2b478cdc89f7b71bb65349466dbc99da1965eaac",
+    "dependencies": {
+      "required": [
+        "wcwidth"
+      ]
+    },
+    "original_requirements": [
+      "wcwidth",
+      "windows-curses; sys_platform == \"win32\" and extra == \"curses\"",
+      "PyGObject; extra == \"glib\"",
+      "tornado>=5.0; extra == \"tornado\"",
+      "trio>=0.24.0; extra == \"trio\"",
+      "exceptiongroup; python_version < \"3.11\" and extra == \"trio\"",
+      "twisted; extra == \"twisted\"",
+      "zmq; extra == \"zmq\"",
+      "pyserial; extra == \"serial\"",
+      "pyserial; extra == \"lcd\""
+    ]
+  },
+  "urwid-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "573934af938a529b0b28b39f5c85c2cbd3aa462b8e4f7ef96c640feb38c0de76",
+    "dependencies": {
+      "required": [
+        "wcwidth"
+      ]
+    },
+    "original_requirements": [
+      "wcwidth",
+      "windows-curses; sys_platform == \"win32\" and extra == \"curses\"",
+      "PyGObject; extra == \"glib\"",
+      "tornado>=5.0; extra == \"tornado\"",
+      "trio>=0.24.0; extra == \"trio\"",
+      "exceptiongroup; python_version < \"3.11\" and extra == \"trio\"",
+      "twisted; extra == \"twisted\"",
+      "zmq; extra == \"zmq\"",
+      "pyserial; extra == \"serial\"",
+      "pyserial; extra == \"lcd\""
+    ]
+  },
+  "urwid-2.6.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de14896c6df9eb759ed1fd93e0384a5279e51e0dde8f621e4083f7a8368c0797",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "wcwidth"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "wcwidth",
+      "windows-curses; sys_platform == \"win32\" and extra == \"curses\"",
+      "PyGObject; extra == \"glib\"",
+      "pyserial; extra == \"lcd\"",
+      "pyserial; extra == \"serial\"",
+      "tornado>=5.0; extra == \"tornado\"",
+      "trio>=0.22.0; extra == \"trio\"",
+      "exceptiongroup; extra == \"trio\"",
+      "twisted; extra == \"twisted\"",
+      "zmq; extra == \"zmq\""
+    ]
+  }
+}

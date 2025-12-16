@@ -1,0 +1,8 @@
+# Package configuration for parsedatetime
+conda_forge = "parsedatetime"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "parsedatetime-2.6-py3-none-any.whl" },
+]

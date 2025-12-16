@@ -1,0 +1,105 @@
+{
+  "cmapfile-2025.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9c89f1cb4e199b783659fe7f50fac6ebbb5df2c3301a6d4a0732736c0a0e22f",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "h5py",
+        "tifffile",
+        "oiffile"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "h5py",
+      "tifffile",
+      "oiffile",
+      "imagecodecs; extra == \"all\""
+    ]
+  },
+  "cmapfile-2024.8.28-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e4761f12dec980c0bc47dab0c7cad30d9a7227b927be849f5b1ed8c0fe47e10a",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "h5py",
+        "tifffile",
+        "oiffile"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "h5py",
+      "tifffile",
+      "oiffile",
+      "imagecodecs; extra == \"all\""
+    ]
+  },
+  "cmapfile-2023.8.30-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0f22f52f0337802c97d754c58abe7cd5082d449b70ab829c8c790993e3c1f074",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "h5py",
+        "tifffile",
+        "oiffile"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "h5py",
+      "tifffile",
+      "oiffile",
+      "imagecodecs ; extra == 'all'"
+    ]
+  },
+  "cmapfile-2022.9.29-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f269fb305c5ae44ae3a598617b7b718d76d817f38ce34fa69966bea3282b252",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "h5py",
+        "tifffile",
+        "oiffile"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.19.2)",
+      "scipy (>=1.5)",
+      "h5py (>=3.1)",
+      "tifffile (>=2021.11.2)",
+      "oiffile (>=2021.6.6)"
+    ]
+  },
+  "cmapfile-2022.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be24c1641e2cef3e1e46503b176619cc72c675c1c9d9e5bd36e39a240f7dd7e1",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "h5py",
+        "tifffile",
+        "oiffile"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.19.2)",
+      "scipy (>=1.5)",
+      "h5py (>=3.1)",
+      "tifffile (>=2021.11.2)",
+      "oiffile (>=2021.6.6)"
+    ]
+  }
+}

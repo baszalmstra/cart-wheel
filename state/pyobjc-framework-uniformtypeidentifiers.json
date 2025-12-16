@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_uniformtypeidentifiers-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec5411e39152304d2a7e0e426c3058fa37a00860af64e164794e0bcffee813f2",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1"
+    ]
+  },
+  "pyobjc_framework_uniformtypeidentifiers-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b2c406e34306ef55ceb9c8cb16a4a9e37e7fc2ed4c8e7948f05bf3d51dea2a91",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0"
+    ]
+  },
+  "pyobjc_framework_uniformtypeidentifiers-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6e2e8ea89eb8ca03bc2bc8e506fff901e71d916276475c8d81fbf0280059cb4c",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1"
+    ]
+  },
+  "pyobjc_framework_UniformTypeIdentifiers-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "acffb86e8b03b66c49274236b3df3a254cacd32b9f25bd7a5bd59baaaf738624",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0"
+    ]
+  },
+  "pyobjc_framework_UniformTypeIdentifiers-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ee1c3297efead181deeae50d3322582517f6e5fd45e247f5691cdae995bda62",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2"
+    ]
+  }
+}

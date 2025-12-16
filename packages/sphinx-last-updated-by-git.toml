@@ -1,0 +1,12 @@
+# Package configuration for sphinx-last-updated-by-git
+conda_forge = "sphinx-last-updated-by-git"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_last_updated_by_git-0.3.8-py3-none-any.whl" },
+  { filename = "sphinx_last_updated_by_git-0.3.7-py3-none-any.whl" },
+  { filename = "sphinx_last_updated_by_git-0.3.6-py3-none-any.whl" },
+  { filename = "sphinx_last_updated_by_git-0.3.5-py3-none-any.whl" },
+  { filename = "sphinx_last_updated_by_git-0.3.4-py3-none-any.whl" },
+]

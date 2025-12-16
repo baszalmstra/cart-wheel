@@ -1,0 +1,12 @@
+# Package configuration for jinxed
+conda_forge = "jinxed"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jinxed-1.3.0-py2.py3-none-any.whl" },
+  { filename = "jinxed-1.2.1-py2.py3-none-any.whl" },
+  { filename = "jinxed-1.2.0-py2.py3-none-any.whl" },
+  { filename = "jinxed-1.1.0-py2.py3-none-any.whl" },
+  { filename = "jinxed-1.0.1-py2.py3-none-any.whl" },
+]

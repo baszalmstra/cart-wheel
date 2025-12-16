@@ -1,0 +1,8 @@
+# Package configuration for asyncio
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "asyncio-4.0.0-py3-none-any.whl" },
+  { filename = "asyncio-3.4.3-py3-none-any.whl" },
+]

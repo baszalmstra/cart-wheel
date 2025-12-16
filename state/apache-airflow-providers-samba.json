@@ -1,0 +1,83 @@
+{
+  "apache_airflow_providers_samba-4.12.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9aaf0ddd968dce3dd68287eb072ef73d8b3d6018b59bceffd9fd6f93a941e980",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "smbprotocol"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "smbprotocol>=1.5.0",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_samba-4.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ca4f571c0a792a3c8f967829734f6d0ddead622f350a1fa2e4955e5ae94f132",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "smbprotocol"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "smbprotocol>=1.5.0",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_samba-4.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5fcf54b29725d162fea300b997a60047574d340df5971fd3916417b724f892b7",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "smbprotocol"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "smbprotocol>=1.5.0",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_samba-4.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "393274d374fc0e448ecd45109cac3c4b5cbb8c5ba9331f9c5229ce3205ff20fa",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "smbprotocol"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "smbprotocol>=1.5.0",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_samba-4.10.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b9eb09365688ff68959801f96020da21f3ebcb980aa46cc4a57a4d997266cdf",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "smbprotocol"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "smbprotocol>=1.5.0",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  }
+}

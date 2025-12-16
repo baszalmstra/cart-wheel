@@ -1,0 +1,116 @@
+{
+  "mkdocs_test-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13016f0f2409a03baf63b7b9d5ac29852fe3f1048dfacd390d26adb226366336",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "markdown",
+        "mkdocs",
+        "pandas",
+        "pyyaml",
+        "rich",
+        "super-collections",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4",
+      "markdown",
+      "mkdocs",
+      "pandas",
+      "pyyaml",
+      "rich",
+      "super-collections",
+      "lxml",
+      "pytest>=7.0; extra == \"test\"",
+      "toml-cli; extra == \"test\"",
+      "mkdocs-test; extra == \"test\"",
+      "mkdocs-alabaster; extra == \"doc\"",
+      "mkdocstrings[python]; extra == \"doc\""
+    ]
+  },
+  "mkdocs_test-0.5.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c869533ee0b70b04bba49b4ee71e1633929ae0ccee913fd962f12cf32f09bde",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "markdown",
+        "mkdocs",
+        "pandas",
+        "pyyaml",
+        "rich",
+        "super-collections"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4",
+      "markdown",
+      "mkdocs",
+      "pandas",
+      "pyyaml",
+      "rich",
+      "super-collections",
+      "pytest>=7.0; extra == \"test\"",
+      "toml-cli; extra == \"test\"",
+      "mkdocs-test; extra == \"test\"",
+      "mkdocs-alabaster; extra == \"doc\"",
+      "mkdocstrings[python]; extra == \"doc\""
+    ]
+  },
+  "mkdocs_test-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf951f2c26cf2f94268a28c6189e13749db32ad5d2a06e36e492aaaf86341731",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "markdown",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4",
+      "markdown",
+      "pandas",
+      "pytest >=7.0 ; extra == 'test'",
+      "toml-cli ; extra == 'test'"
+    ]
+  },
+  "mkdocs_test-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ebfaba9f7d94c768ba9d20871efb150b56d86ff04c1c428b936b9aeb7fe44cea",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "markdown",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4",
+      "markdown",
+      "pandas",
+      "pytest >=7.0 ; extra == 'test'",
+      "toml-cli ; extra == 'test'"
+    ]
+  },
+  "mkdocs_test-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b497148e087c22d111b8cbed5c9eabc8eb368679d5689156b0276bc6d8960757",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "markdown",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4",
+      "markdown",
+      "pandas",
+      "pytest >=7.0 ; extra == 'test'",
+      "toml-cli ; extra == 'test'"
+    ]
+  }
+}

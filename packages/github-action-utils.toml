@@ -1,0 +1,11 @@
+# Package configuration for github-action-utils
+conda_forge = "github-action-utils"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "github_action_utils-1.1.0-py2.py3-none-any.whl" },
+  { filename = "github_action_utils-1.0.2-py2.py3-none-any.whl" },
+  { filename = "github_action_utils-1.0.1-py2.py3-none-any.whl" },
+  { filename = "github_action_utils-1.0.0-py2.py3-none-any.whl" },
+]

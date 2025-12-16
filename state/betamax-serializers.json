@@ -1,0 +1,40 @@
+{
+  "betamax_serializers-0.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b23c46429c40a8873682854c88d805c787c72d252f3fa0c858e9c300682ceac",
+    "dependencies": {
+      "required": [
+        "betamax"
+      ]
+    },
+    "original_requirements": [
+      "betamax (>=0.3.2)",
+      "PyYAML ; extra == 'yaml11'"
+    ]
+  },
+  "betamax_serializers-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c7c4bd96f71d763debbec21e09bea932613cf651c2055514e6fd889358a46e3e",
+    "dependencies": {
+      "required": [
+        "betamax"
+      ]
+    },
+    "original_requirements": [
+      "betamax (>=0.3.2)",
+      "PyYAML; extra == 'yaml11'"
+    ]
+  },
+  "betamax_serializers-0.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "262a25433b891bc81ad0e139192c4d73fbc166505157dd393a5d4543f85c3607",
+    "dependencies": {
+      "required": [
+        "betamax"
+      ]
+    },
+    "original_requirements": [
+      "betamax (>=0.3.2)"
+    ]
+  }
+}

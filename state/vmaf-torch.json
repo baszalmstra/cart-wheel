@@ -1,0 +1,20 @@
+{
+  "vmaf_torch-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5fd0f4a96db2428d936667fd896acb2ea7310da39380861eb1627faf9e2defcf",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "torch",
+        "yuvio"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pandas",
+      "torch",
+      "yuvio"
+    ]
+  }
+}

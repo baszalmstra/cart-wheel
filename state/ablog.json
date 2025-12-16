@@ -1,0 +1,364 @@
+{
+  "ablog-0.11.12-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:49.139587+00:00",
+    "conda_file": "ablog-0.11.12-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "feedgen",
+        "invoke",
+        "packaging",
+        "python-dateutil",
+        "sphinx",
+        "watchdog"
+      ],
+      "optional": {
+        "all": [
+          "ipython",
+          "nbsphinx",
+          "myst-parser"
+        ],
+        "dev": [
+          "ipython",
+          "nbsphinx",
+          "myst-parser",
+          "alabaster",
+          "sphinx-automodapi",
+          "pytest",
+          "defusedxml"
+        ],
+        "docs": [
+          "alabaster",
+          "sphinx-automodapi"
+        ],
+        "markdown": [
+          "myst-parser"
+        ],
+        "notebook": [
+          "ipython",
+          "nbsphinx"
+        ],
+        "tests": [
+          "pytest",
+          "defusedxml"
+        ]
+      }
+    },
+    "original_requirements": [
+      "docutils>=0.18",
+      "feedgen>=0.9.0",
+      "invoke>=1.6.0",
+      "packaging>=19.0",
+      "python-dateutil>=2.8.2",
+      "sphinx>=6.2.0",
+      "watchdog>=2.1.0",
+      "ipython>=7.30.0; extra == \"all\"",
+      "nbsphinx>=0.8.0; extra == \"all\"",
+      "myst-parser>=0.17.0; extra == \"all\"",
+      "ipython>=7.30.0; extra == \"dev\"",
+      "nbsphinx>=0.8.0; extra == \"dev\"",
+      "myst-parser>=0.17.0; extra == \"dev\"",
+      "alabaster>=1.0.0; extra == \"dev\"",
+      "sphinx-automodapi; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "defusedxml>=0.8.0rc2; extra == \"dev\"",
+      "alabaster>=1.0.0; extra == \"docs\"",
+      "sphinx-automodapi; extra == \"docs\"",
+      "myst-parser>=0.17.0; extra == \"markdown\"",
+      "ipython>=7.30.0; extra == \"notebook\"",
+      "nbsphinx>=0.8.0; extra == \"notebook\"",
+      "pytest; extra == \"tests\"",
+      "defusedxml>=0.8.0rc2; extra == \"tests\""
+    ]
+  },
+  "ablog-0.11.11-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:49.328783+00:00",
+    "conda_file": "ablog-0.11.11-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "feedgen",
+        "invoke",
+        "packaging",
+        "python-dateutil",
+        "sphinx",
+        "watchdog"
+      ],
+      "optional": {
+        "all": [
+          "ipython",
+          "nbsphinx",
+          "myst-parser"
+        ],
+        "dev": [
+          "ipython",
+          "nbsphinx",
+          "myst-parser",
+          "alabaster",
+          "sphinx-automodapi",
+          "pytest",
+          "defusedxml"
+        ],
+        "docs": [
+          "alabaster",
+          "sphinx-automodapi"
+        ],
+        "markdown": [
+          "myst-parser"
+        ],
+        "notebook": [
+          "ipython",
+          "nbsphinx"
+        ],
+        "tests": [
+          "pytest",
+          "defusedxml"
+        ]
+      }
+    },
+    "original_requirements": [
+      "docutils>=0.18",
+      "feedgen>=0.9.0",
+      "invoke>=1.6.0",
+      "packaging>=19.0",
+      "python-dateutil>=2.8.2",
+      "sphinx>=6.2.0",
+      "watchdog>=2.1.0",
+      "ipython>=7.30.0; extra == \"all\"",
+      "nbsphinx>=0.8.0; extra == \"all\"",
+      "myst-parser>=0.17.0; extra == \"all\"",
+      "ipython>=7.30.0; extra == \"dev\"",
+      "nbsphinx>=0.8.0; extra == \"dev\"",
+      "myst-parser>=0.17.0; extra == \"dev\"",
+      "alabaster>=1.0.0; extra == \"dev\"",
+      "sphinx-automodapi; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "defusedxml>=0.8.0rc2; extra == \"dev\"",
+      "alabaster>=1.0.0; extra == \"docs\"",
+      "sphinx-automodapi; extra == \"docs\"",
+      "myst-parser>=0.17.0; extra == \"markdown\"",
+      "ipython>=7.30.0; extra == \"notebook\"",
+      "nbsphinx>=0.8.0; extra == \"notebook\"",
+      "pytest; extra == \"tests\"",
+      "defusedxml>=0.8.0rc2; extra == \"tests\""
+    ]
+  },
+  "ablog-0.11.10-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:49.614573+00:00",
+    "conda_file": "ablog-0.11.10-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "feedgen",
+        "invoke",
+        "packaging",
+        "python-dateutil",
+        "sphinx",
+        "watchdog"
+      ],
+      "optional": {
+        "all": [
+          "ipython",
+          "nbsphinx",
+          "myst-parser"
+        ],
+        "dev": [
+          "ipython",
+          "nbsphinx",
+          "myst-parser",
+          "alabaster",
+          "sphinx-automodapi",
+          "pytest",
+          "defusedxml"
+        ],
+        "docs": [
+          "alabaster",
+          "sphinx-automodapi"
+        ],
+        "markdown": [
+          "myst-parser"
+        ],
+        "notebook": [
+          "ipython",
+          "nbsphinx"
+        ],
+        "tests": [
+          "pytest",
+          "defusedxml"
+        ]
+      }
+    },
+    "original_requirements": [
+      "docutils >=0.18",
+      "feedgen >=0.9.0",
+      "invoke >=1.6.0",
+      "packaging >=19.0",
+      "python-dateutil >=2.8.2",
+      "sphinx >=5.0.0",
+      "watchdog >=2.1.0",
+      "ipython >=7.30.0 ; extra == 'all'",
+      "nbsphinx >=0.8.0 ; extra == 'all'",
+      "myst-parser >=0.17.0 ; extra == 'all'",
+      "ipython >=7.30.0 ; extra == 'dev'",
+      "nbsphinx >=0.8.0 ; extra == 'dev'",
+      "myst-parser >=0.17.0 ; extra == 'dev'",
+      "alabaster ; extra == 'dev'",
+      "sphinx-automodapi ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "defusedxml >=0.8.0rc2 ; extra == 'dev'",
+      "alabaster ; extra == 'docs'",
+      "sphinx-automodapi ; extra == 'docs'",
+      "myst-parser >=0.17.0 ; extra == 'markdown'",
+      "ipython >=7.30.0 ; extra == 'notebook'",
+      "nbsphinx >=0.8.0 ; extra == 'notebook'",
+      "pytest ; extra == 'tests'",
+      "defusedxml >=0.8.0rc2 ; extra == 'tests'"
+    ]
+  },
+  "ablog-0.11.8-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:49.897498+00:00",
+    "conda_file": "ablog-0.11.8-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "feedgen",
+        "invoke",
+        "packaging",
+        "python-dateutil",
+        "sphinx",
+        "watchdog"
+      ],
+      "optional": {
+        "all": [
+          "ipython",
+          "nbsphinx",
+          "myst-parser"
+        ],
+        "dev": [
+          "ipython",
+          "nbsphinx",
+          "myst-parser",
+          "alabaster",
+          "sphinx-automodapi",
+          "pytest"
+        ],
+        "docs": [
+          "alabaster",
+          "sphinx-automodapi"
+        ],
+        "markdown": [
+          "myst-parser"
+        ],
+        "notebook": [
+          "ipython",
+          "nbsphinx"
+        ],
+        "tests": [
+          "pytest"
+        ]
+      }
+    },
+    "original_requirements": [
+      "docutils >=0.18",
+      "feedgen >=0.9.0",
+      "invoke >=1.6.0",
+      "packaging >=19.0",
+      "python-dateutil >=2.8.2",
+      "sphinx >=5.0.0",
+      "watchdog >=2.1.0",
+      "ipython >=7.30.0 ; extra == 'all'",
+      "nbsphinx >=0.8.0 ; extra == 'all'",
+      "myst-parser >=0.17.0 ; extra == 'all'",
+      "ipython >=7.30.0 ; extra == 'dev'",
+      "nbsphinx >=0.8.0 ; extra == 'dev'",
+      "myst-parser >=0.17.0 ; extra == 'dev'",
+      "alabaster ; extra == 'dev'",
+      "sphinx-automodapi ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "alabaster ; extra == 'docs'",
+      "sphinx-automodapi ; extra == 'docs'",
+      "myst-parser >=0.17.0 ; extra == 'markdown'",
+      "ipython >=7.30.0 ; extra == 'notebook'",
+      "nbsphinx >=0.8.0 ; extra == 'notebook'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "ablog-0.11.6-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:50.160116+00:00",
+    "conda_file": "ablog-0.11.6-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "feedgen",
+        "invoke",
+        "packaging",
+        "python-dateutil",
+        "sphinx",
+        "watchdog"
+      ],
+      "optional": {
+        "all": [
+          "ipython",
+          "nbsphinx",
+          "myst-parser"
+        ],
+        "dev": [
+          "ipython",
+          "nbsphinx",
+          "myst-parser",
+          "alabaster",
+          "sphinx-automodapi",
+          "pytest"
+        ],
+        "docs": [
+          "alabaster",
+          "sphinx-automodapi"
+        ],
+        "markdown": [
+          "myst-parser"
+        ],
+        "notebook": [
+          "ipython",
+          "nbsphinx"
+        ],
+        "tests": [
+          "pytest"
+        ]
+      }
+    },
+    "original_requirements": [
+      "docutils >=0.18",
+      "feedgen >=0.9.0",
+      "invoke >=1.6.0",
+      "packaging >=19.0",
+      "python-dateutil >=2.8.2",
+      "sphinx >=5.0.0",
+      "watchdog >=2.1.0",
+      "ipython >=7.30.0 ; extra == 'all'",
+      "nbsphinx >=0.8.0 ; extra == 'all'",
+      "myst-parser >=0.17.0 ; extra == 'all'",
+      "ipython >=7.30.0 ; extra == 'dev'",
+      "nbsphinx >=0.8.0 ; extra == 'dev'",
+      "myst-parser >=0.17.0 ; extra == 'dev'",
+      "alabaster ; extra == 'dev'",
+      "sphinx-automodapi ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "alabaster ; extra == 'docs'",
+      "sphinx-automodapi ; extra == 'docs'",
+      "myst-parser >=0.17.0 ; extra == 'markdown'",
+      "ipython >=7.30.0 ; extra == 'notebook'",
+      "nbsphinx >=0.8.0 ; extra == 'notebook'",
+      "pytest ; extra == 'tests'"
+    ]
+  }
+}

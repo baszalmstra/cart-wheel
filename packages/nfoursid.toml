@@ -1,0 +1,12 @@
+# Package configuration for nfoursid
+conda_forge = "nfoursid"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nfoursid-1.0.2-py3-none-any.whl" },
+  { filename = "nfoursid-1.0.1-py3-none-any.whl" },
+  { filename = "nfoursid-1.0.0-py3-none-any.whl" },
+  { filename = "nfoursid-0.1.0-py3-none-any.whl" },
+  { filename = "nfoursid-0.0.4-py3-none-any.whl" },
+]

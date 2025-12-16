@@ -1,0 +1,12 @@
+# Package configuration for peft
+conda_forge = "peft"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "peft-0.18.0-py3-none-any.whl" },
+  { filename = "peft-0.17.1-py3-none-any.whl" },
+  { filename = "peft-0.17.0-py3-none-any.whl" },
+  { filename = "peft-0.16.0-py3-none-any.whl" },
+  { filename = "peft-0.15.2-py3-none-any.whl" },
+]

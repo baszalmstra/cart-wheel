@@ -1,0 +1,88 @@
+{
+  "intake-2.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6095ed5b65568cd9cd1da1fc9d3977c9b981d74264ea9eafb6964f1d508632c5",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "pyyaml",
+        "platformdirs",
+        "networkx"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=2023.0.0",
+      "pyyaml",
+      "platformdirs",
+      "networkx"
+    ]
+  },
+  "intake-2.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13eec0cc775abd964fca5f3800aa1e806e8afaef0f25685823c673bbbf11cf89",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "pyyaml",
+        "platformdirs",
+        "networkx"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2023.0.0",
+      "pyyaml",
+      "platformdirs",
+      "networkx"
+    ]
+  },
+  "intake-2.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "09c160ac919b7aa034c81b36c73213eaedad2e5f9fbee7151b7bc05afac63164",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "pyyaml",
+        "platformdirs",
+        "networkx"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2023.0.0",
+      "pyyaml",
+      "platformdirs",
+      "networkx"
+    ]
+  },
+  "intake-2.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "48e056f156264dcc218fa581578c705ca980c7dbc72d2dd09f4b97a8b3b16149",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "pyyaml",
+        "appdirs"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2023.0.0",
+      "pyyaml",
+      "appdirs"
+    ]
+  },
+  "intake-2.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd20d3722a7a4d8c670713bb60018af662e25eaa481d582b6eb87f057fc8dbfe",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "pyyaml",
+        "appdirs"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2023.0.0",
+      "pyyaml",
+      "appdirs"
+    ]
+  }
+}

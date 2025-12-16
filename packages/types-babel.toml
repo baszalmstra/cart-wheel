@@ -1,0 +1,11 @@
+# Package configuration for types-babel
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_babel-2.11.0.15-py3-none-any.whl" },
+  { filename = "types_babel-2.11.0.14-py3-none-any.whl" },
+  { filename = "types_babel-2.11.0.13-py3-none-any.whl" },
+  { filename = "types_babel-2.11.0.12-py3-none-any.whl" },
+  { filename = "types_babel-2.11.0.11-py3-none-any.whl" },
+]

@@ -1,0 +1,84 @@
+{
+  "esupar-1.8.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "072468213283c6e4c232498cd7b75ab4b4b4b6a88b52a1291ff4e8f04dea6017",
+    "dependencies": {
+      "required": [
+        "deplacy",
+        "dill",
+        "nltk",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "deplacy (>=2.1.1)",
+      "dill (>=0.3.2)",
+      "nltk (>=3.1)",
+      "transformers (>=4.41.2)"
+    ]
+  },
+  "esupar-1.8.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "401f071a127328c0d3dde5f81c16b4a8bcde19441efe06e072c176005857bb46",
+    "dependencies": {
+      "required": [
+        "deplacy",
+        "supar",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "deplacy (>=2.1.0)",
+      "supar (>=1.1.4)",
+      "transformers (>=4.41.2)"
+    ]
+  },
+  "esupar-1.8.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b326d7c741bec906a8193fdd5251c3622fe975151d20d1b0aeb4fef77fefdb0",
+    "dependencies": {
+      "required": [
+        "deplacy",
+        "supar",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "deplacy (>=2.1.0)",
+      "supar (>=1.1.4)",
+      "transformers (>=4.41.2)"
+    ]
+  },
+  "esupar-1.8.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b7c8266c18303154c9134249cedd09ddc536df9e476bcf322e851a52fa795830",
+    "dependencies": {
+      "required": [
+        "deplacy",
+        "supar",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "deplacy (>=2.1.0)",
+      "supar (>=1.1.4)",
+      "transformers (>=4.41.2)"
+    ]
+  },
+  "esupar-1.8.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "af9e668a7106c4f41d674e7fda20730285f627486d5e457c24c2e6a3b3abf30b",
+    "dependencies": {
+      "required": [
+        "deplacy",
+        "supar",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "deplacy (>=2.1.0)",
+      "supar (>=1.1.4)",
+      "transformers (>=4.41.2)"
+    ]
+  }
+}

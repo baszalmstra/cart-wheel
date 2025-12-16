@@ -1,0 +1,74 @@
+{
+  "asyncer-0.0.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cdcda69773d042cc17bf45a69827b82fa89012def6ae24f8b3cd0ea70c44bb2d",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5.0,>=3.4.0",
+      "sniffio>=1.1",
+      "typing_extensions>=4.8.0; python_version < \"3.10\""
+    ]
+  },
+  "asyncer-0.0.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "612ff7a0e7ed99d84cf65a216a53f13bc64d773b0f592077931e63259372a0b7",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5.0,>=3.4.0",
+      "typing_extensions>=4.8.0; python_version < \"3.10\""
+    ]
+  },
+  "asyncer-0.0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f445b04d85a5c37e7165f6f85493badd11a23c25eacd9d2d28a58cf2172520e4",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5.0,>=3.4.0",
+      "typing_extensions>=4.8.0; python_version < \"3.10\""
+    ]
+  },
+  "asyncer-0.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5920d48fc99c8f8f0f1576e1882f5022885589c5fcbc46ce4224ec3e53776eeb",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5.0,>=3.4.0",
+      "typing_extensions>=4.8.0; python_version < \"3.10\""
+    ]
+  },
+  "asyncer-0.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0d579d4f67c4ead52ede3a45c854f462cae569058a8a6a68a4ebccac1c335d8",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5.0,>=3.4.0",
+      "typing_extensions>=4.8.0; python_version < \"3.10\""
+    ]
+  }
+}

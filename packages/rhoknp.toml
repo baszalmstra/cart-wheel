@@ -1,0 +1,11 @@
+# Package configuration for rhoknp
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rhoknp-1.8.0-py3-none-any.whl" },
+  { filename = "rhoknp-1.7.1-py3-none-any.whl" },
+  { filename = "rhoknp-1.7.0-py3-none-any.whl" },
+  { filename = "rhoknp-1.6.0-py3-none-any.whl" },
+  { filename = "rhoknp-1.5.1-py3-none-any.whl" },
+]

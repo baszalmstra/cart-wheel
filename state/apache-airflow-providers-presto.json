@@ -1,0 +1,125 @@
+{
+  "apache_airflow_providers_presto-5.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7050e4bc0c861e4c42e42d890314db8c770a1c4cb0846abe91b0d07f412e62f2",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "presto-python-client",
+        "pandas",
+        "pandas",
+        "psycopg2-binary",
+        "psycopg2-binary"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "presto-python-client>=0.8.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "psycopg2-binary>=2.9.9; python_version < \"3.13\"",
+      "psycopg2-binary>=2.9.10; python_version >= \"3.13\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_presto-5.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62291c1c4ea767e71aea905922a5fef0a65e2aa368bd491c939865e58880f1a4",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "presto-python-client",
+        "pandas",
+        "pandas",
+        "psycopg2-binary",
+        "psycopg2-binary"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "presto-python-client>=0.8.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "psycopg2-binary>=2.9.9; python_version < \"3.13\"",
+      "psycopg2-binary>=2.9.10; python_version >= \"3.13\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_presto-5.9.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6e7a122de2513147fba092b833f829482a53ac52fa6ee4511d61ab16037fb435",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "presto-python-client",
+        "pandas",
+        "pandas",
+        "psycopg2-binary",
+        "psycopg2-binary"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "presto-python-client>=0.8.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "psycopg2-binary>=2.9.9; python_version < \"3.13\"",
+      "psycopg2-binary>=2.9.10; python_version >= \"3.13\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_presto-5.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3a0ef0aa9813c93ef0a221b5b52324dfd75df7b1cff54488b304bb92a33cb28",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "presto-python-client",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "presto-python-client>=0.8.4",
+      "pandas[postgres]>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_presto-5.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22963158e5615b26af4534dc74fb4a0af1940a5714336271110e03913afe87f6",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "presto-python-client",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "presto-python-client>=0.8.4",
+      "pandas[postgres]>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  }
+}

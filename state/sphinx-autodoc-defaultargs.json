@@ -1,0 +1,38 @@
+{
+  "sphinx_autodoc_defaultargs-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1513b1aea8c20348f1763dbfd7ff11f86cd77f2ce3246c73e1405a2a67fea3ff",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=3.0)",
+      "pytest (>=3.1.0) ; extra == 'test'",
+      "typing-extensions (>=3.5) ; extra == 'test'",
+      "sphobjinv (>=2.0) ; extra == 'test'",
+      "Sphinx (>=3.2.0) ; extra == 'test'",
+      "dataclasses ; (python_version == \"3.6\") and extra == 'test'",
+      "typed-ast (>=1.4.0) ; (python_version < \"3.8\") and extra == 'type_comments'"
+    ]
+  },
+  "sphinx_autodoc_defaultargs-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ceaf2fdce116bfe824cd2a0250a725901230082ac0875e838117a5758df20ade",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=3.0)",
+      "pytest (>=3.1.0) ; extra == 'test'",
+      "typing-extensions (>=3.5) ; extra == 'test'",
+      "sphobjinv (>=2.0) ; extra == 'test'",
+      "Sphinx (>=3.2.0) ; extra == 'test'",
+      "dataclasses ; (python_version == \"3.6\") and extra == 'test'",
+      "typed-ast (>=1.4.0) ; (python_version < \"3.8\") and extra == 'type_comments'"
+    ]
+  }
+}

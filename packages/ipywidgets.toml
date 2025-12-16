@@ -1,0 +1,12 @@
+# Package configuration for ipywidgets
+conda_forge = "ipywidgets"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipywidgets-8.1.8-py3-none-any.whl" },
+  { filename = "ipywidgets-8.1.7-py3-none-any.whl" },
+  { filename = "ipywidgets-8.1.6-py3-none-any.whl" },
+  { filename = "ipywidgets-8.1.5-py3-none-any.whl" },
+  { filename = "ipywidgets-8.1.4-py3-none-any.whl" },
+]

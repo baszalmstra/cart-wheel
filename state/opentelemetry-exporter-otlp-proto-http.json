@@ -1,0 +1,124 @@
+{
+  "opentelemetry_exporter_otlp_proto_http-1.39.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d9f5207183dd752a412c4cd564ca8875ececba13be6e9c6c370ffb752fd59985",
+    "dependencies": {
+      "required": [
+        "googleapis-common-protos",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp-proto-common",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "googleapis-common-protos~=1.52",
+      "opentelemetry-api~=1.15",
+      "opentelemetry-exporter-otlp-proto-common==1.39.1",
+      "opentelemetry-proto==1.39.1",
+      "opentelemetry-sdk~=1.39.1",
+      "requests~=2.7",
+      "typing-extensions>=4.5.0",
+      "opentelemetry-exporter-credential-provider-gcp>=0.59b0; extra == 'gcp-auth'"
+    ]
+  },
+  "opentelemetry_exporter_otlp_proto_http-1.39.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5789cb1375a8b82653328c0ce13a054d285f774099faf9d068032a49de4c7862",
+    "dependencies": {
+      "required": [
+        "googleapis-common-protos",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp-proto-common",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "googleapis-common-protos~=1.52",
+      "opentelemetry-api~=1.15",
+      "opentelemetry-exporter-otlp-proto-common==1.39.0",
+      "opentelemetry-proto==1.39.0",
+      "opentelemetry-sdk~=1.39.0",
+      "requests~=2.7",
+      "typing-extensions>=4.5.0",
+      "opentelemetry-exporter-credential-provider-gcp>=0.59b0; extra == 'gcp-auth'"
+    ]
+  },
+  "opentelemetry_exporter_otlp_proto_http-1.38.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84b937305edfc563f08ec69b9cb2298be8188371217e867c1854d77198d0825b",
+    "dependencies": {
+      "required": [
+        "googleapis-common-protos",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp-proto-common",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "googleapis-common-protos~=1.52",
+      "opentelemetry-api~=1.15",
+      "opentelemetry-exporter-otlp-proto-common==1.38.0",
+      "opentelemetry-proto==1.38.0",
+      "opentelemetry-sdk~=1.38.0",
+      "requests~=2.7",
+      "typing-extensions>=4.5.0"
+    ]
+  },
+  "opentelemetry_exporter_otlp_proto_http-1.37.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "54c42b39945a6cc9d9a2a33decb876eabb9547e0dcb49df090122773447f1aef",
+    "dependencies": {
+      "required": [
+        "googleapis-common-protos",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp-proto-common",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "googleapis-common-protos~=1.52",
+      "opentelemetry-api~=1.15",
+      "opentelemetry-exporter-otlp-proto-common==1.37.0",
+      "opentelemetry-proto==1.37.0",
+      "opentelemetry-sdk~=1.37.0",
+      "requests~=2.7",
+      "typing-extensions>=4.5.0"
+    ]
+  },
+  "opentelemetry_exporter_otlp_proto_http-1.36.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d769f68e2267e7abe4527f70deb6f598f40be3ea34c6adc35789bea94a32902",
+    "dependencies": {
+      "required": [
+        "googleapis-common-protos",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp-proto-common",
+        "opentelemetry-proto",
+        "opentelemetry-sdk",
+        "requests",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "googleapis-common-protos~=1.52",
+      "opentelemetry-api~=1.15",
+      "opentelemetry-exporter-otlp-proto-common==1.36.0",
+      "opentelemetry-proto==1.36.0",
+      "opentelemetry-sdk~=1.36.0",
+      "requests~=2.7",
+      "typing-extensions>=4.5.0"
+    ]
+  }
+}

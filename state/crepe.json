@@ -1,0 +1,30 @@
+{
+  "crepe-0.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "46769c58fd5163ff367ea4ddd3a9bdce9bda7e7f796330508f2bbe0e94162f46",
+    "dependencies": {
+      "required": [
+        "keras",
+        "numpy",
+        "scipy",
+        "matplotlib",
+        "resampy",
+        "h5py",
+        "hmmlearn",
+        "imageio",
+        "scikit-learn"
+      ]
+    },
+    "original_requirements": [
+      "keras (==2.1.5)",
+      "numpy (>=1.14.0)",
+      "scipy (>=1.0.0)",
+      "matplotlib (>=2.1.0)",
+      "resampy (<0.3.0,>=0.2.0)",
+      "h5py (<3.0.0,>=2.7.0)",
+      "hmmlearn (<0.3.0,==0.2.0)",
+      "imageio (>=2.3.0)",
+      "scikit-learn (>=0.16)"
+    ]
+  }
+}

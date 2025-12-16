@@ -1,0 +1,12 @@
+# Package configuration for mdformat-frontmatter
+conda_forge = "mdformat-frontmatter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mdformat_frontmatter-2.0.8-py3-none-any.whl" },
+  { filename = "mdformat_frontmatter-2.0.7-py3-none-any.whl" },
+  { filename = "mdformat_frontmatter-2.0.6-py3-none-any.whl" },
+  { filename = "mdformat_frontmatter-2.0.1-py3-none-any.whl" },
+  { filename = "mdformat_frontmatter-2.0.0-py3-none-any.whl" },
+]

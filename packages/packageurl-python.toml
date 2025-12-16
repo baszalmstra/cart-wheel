@@ -1,0 +1,12 @@
+# Package configuration for packageurl-python
+conda_forge = "packageurl-python"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "packageurl_python-0.17.6-py3-none-any.whl" },
+  { filename = "packageurl_python-0.17.5-py3-none-any.whl" },
+  { filename = "packageurl_python-0.17.4-py3-none-any.whl" },
+  { filename = "packageurl_python-0.17.3-py3-none-any.whl" },
+  { filename = "packageurl_python-0.17.2-py3-none-any.whl" },
+]

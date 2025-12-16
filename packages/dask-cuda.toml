@@ -1,0 +1,11 @@
+# Package configuration for dask-cuda
+conda_forge = "dask-cuda"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dask_cuda-25.10.0-py3-none-any.whl" },
+  { filename = "dask_cuda-25.8.0-py3-none-any.whl" },
+  { filename = "dask_cuda-25.6.0-py3-none-any.whl" },
+  { filename = "dask_cuda-25.4.0-py3-none-any.whl" },
+]

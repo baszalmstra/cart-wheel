@@ -1,0 +1,100 @@
+{
+  "aioitertools-0.13.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:20.533400+00:00",
+    "conda_file": "aioitertools-0.13.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions>=4.0; python_version < '3.10'"
+    ]
+  },
+  "aioitertools-0.12.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:20.758509+00:00",
+    "conda_file": "aioitertools-0.12.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ],
+      "optional": {
+        "dev": [
+          "attribution",
+          "black",
+          "build",
+          "coverage",
+          "flake8",
+          "flit",
+          "mypy",
+          "usort",
+          "ufmt"
+        ],
+        "docs": [
+          "sphinx",
+          "sphinx-mdinclude"
+        ]
+      }
+    },
+    "original_requirements": [
+      "typing_extensions>=4.0; python_version < '3.10'",
+      "attribution==1.8.0 ; extra == \"dev\"",
+      "black==24.8.0 ; extra == \"dev\"",
+      "build>=1.2 ; extra == \"dev\"",
+      "coverage==7.6.1 ; extra == \"dev\"",
+      "flake8==7.1.1 ; extra == \"dev\"",
+      "flit==3.9.0 ; extra == \"dev\"",
+      "mypy==1.11.2 ; extra == \"dev\"",
+      "usort==1.0.8.post1 ; extra == \"dev\"",
+      "ufmt==2.7.1 ; extra == \"dev\"",
+      "sphinx==8.0.2 ; extra == \"docs\"",
+      "sphinx-mdinclude==0.6.2 ; extra == \"docs\""
+    ]
+  },
+  "aioitertools-0.11.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:20.994992+00:00",
+    "conda_file": "aioitertools-0.11.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions>=4.0; python_version < '3.10'"
+    ]
+  },
+  "aioitertools-0.10.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:21.063800+00:00",
+    "conda_file": "aioitertools-0.10.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions>=4.0; python_version < '3.10'"
+    ]
+  },
+  "aioitertools-0.9.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:21.302897+00:00",
+    "conda_file": "aioitertools-0.9.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions>=4.0; python_version < '3.10'"
+    ]
+  }
+}

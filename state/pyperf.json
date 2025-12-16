@@ -1,0 +1,70 @@
+{
+  "pyperf-2.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "215673fb60f3fbbc6c7a90b609b0806d8466fded8dd502bf5731e2b92506076e",
+    "dependencies": {
+      "required": [
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "psutil>=5.9.0",
+      "tox; extra == \"dev\""
+    ]
+  },
+  "pyperf-2.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "12a974a800a96568575be51d229b88e6b14197d02440afd98e908d80a42a1a44",
+    "dependencies": {
+      "required": [
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "psutil >=5.9.0",
+      "tox ; extra == 'dev'"
+    ]
+  },
+  "pyperf-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a775b5a09882f18bf876430ef78e07646f773f50774546f5f6a8b34d60e3968",
+    "dependencies": {
+      "required": [
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "psutil >=5.9.0",
+      "tox ; extra == 'dev'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'dev'"
+    ]
+  },
+  "pyperf-2.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dce63053b916b73d8736a77404309328f938851b5c2c5e8493cde910ce37e362",
+    "dependencies": {
+      "required": [
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "psutil >=5.9.0",
+      "tox ; extra == 'dev'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'dev'"
+    ]
+  },
+  "pyperf-2.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ee69bedb36cb0b2bf858d7013038bb088920a95a7bab69a36749de6f051127e6",
+    "dependencies": {
+      "required": [
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "psutil >=5.9.0",
+      "tox ; extra == 'dev'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'dev'"
+    ]
+  }
+}

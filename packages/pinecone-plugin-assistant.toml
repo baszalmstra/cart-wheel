@@ -1,0 +1,12 @@
+# Package configuration for pinecone-plugin-assistant
+conda_forge = "pinecone-plugin-assistant"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pinecone_plugin_assistant-3.0.1-py3-none-any.whl" },
+  { filename = "pinecone_plugin_assistant-3.0.0-py3-none-any.whl" },
+  { filename = "pinecone_plugin_assistant-2.0.1-py3-none-any.whl" },
+  { filename = "pinecone_plugin_assistant-2.0.0-py3-none-any.whl" },
+  { filename = "pinecone_plugin_assistant-1.8.0-py3-none-any.whl" },
+]

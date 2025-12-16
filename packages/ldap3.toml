@@ -1,0 +1,12 @@
+# Package configuration for ldap3
+conda_forge = "ldap3"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ldap3-2.9.1-py2.py3-none-any.whl" },
+  { filename = "ldap3-2.9-py2.py3-none-any.whl" },
+  { filename = "ldap3-2.8.1-py2.py3-none-any.whl" },
+  { filename = "ldap3-2.8-py2.py3-none-any.whl" },
+  { filename = "ldap3-2.7-py2.py3-none-any.whl" },
+]

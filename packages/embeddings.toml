@@ -1,0 +1,8 @@
+# Package configuration for embeddings
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "embeddings-0.0.8-py3-none-any.whl" },
+  { filename = "embeddings-0.0.7-py3-none-any.whl" },
+]

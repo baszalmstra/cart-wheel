@@ -1,0 +1,157 @@
+{
+  "tarski-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f965e946dfa845bf87703734e660734596a67e491c4f4a4fb101092ca9420bf5",
+    "dependencies": {
+      "required": [
+        "multipledispatch",
+        "antlr4-python3-runtime",
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "multipledispatch",
+      "antlr4-python3-runtime (==4.7.2)",
+      "psutil ; platform_system == \"Linux\"",
+      "scipy ; extra == 'arithmetic'",
+      "numpy ; extra == 'arithmetic'",
+      "clingo (>=5.5.1) ; extra == 'clingo'",
+      "jinja2 (==3.0.3) ; extra == 'docs'",
+      "docutils (<0.18) ; extra == 'docs'",
+      "sphinx (==4.4.0) ; extra == 'docs'",
+      "nbsphinx (==0.8.8) ; extra == 'docs'",
+      "recommonmark (==0.7.1) ; extra == 'docs'",
+      "sphinx-rtd-theme (==1.0.0) ; extra == 'docs'",
+      "ipykernel (==6.9.1) ; extra == 'docs'",
+      "ipython (==8.1.0) ; extra == 'docs'",
+      "ply (==3.11) ; extra == 'parsegen'",
+      "pyrddl ; extra == 'rddl'",
+      "types-psutil ; extra == 'stubs'",
+      "pytest (>=7.0.1) ; extra == 'test'",
+      "tox ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "mypy ; extra == 'test'"
+    ]
+  },
+  "tarski-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "606e6548c52a1f90684066c8582d9b89f6a95516c7e76e3e7fe656ca9b8cc096",
+    "dependencies": {
+      "required": [
+        "multipledispatch",
+        "antlr4-python3-runtime",
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "multipledispatch",
+      "antlr4-python3-runtime (==4.7.2)",
+      "psutil ; platform_system == \"Linux\"",
+      "scipy ; extra == 'arithmetic'",
+      "numpy ; extra == 'arithmetic'",
+      "sphinx (>=2.1.2) ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "nbsphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "ipykernel ; extra == 'docs'",
+      "ipython ; extra == 'docs'",
+      "pyrddl ; extra == 'rddl'",
+      "pytest ; extra == 'test'",
+      "tox ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "mypy ; extra == 'test'"
+    ]
+  },
+  "tarski-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac3a8676a7b99a449fe1a0a612da4b48f762ad4aae68aa9cc283451ce797ecc0",
+    "dependencies": {
+      "required": [
+        "psutil",
+        "multipledispatch",
+        "antlr4-python3-runtime"
+      ]
+    },
+    "original_requirements": [
+      "psutil",
+      "multipledispatch",
+      "antlr4-python3-runtime (==4.7.2)",
+      "scipy ; extra == 'arithmetic'",
+      "numpy ; extra == 'arithmetic'",
+      "sphinx (>=2.1.2) ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "nbsphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "ipykernel ; extra == 'docs'",
+      "ipython ; extra == 'docs'",
+      "pyrddl ; extra == 'rddl'",
+      "Cython ; extra == 'sdd'",
+      "PySDD (>=0.2.9) ; extra == 'sdd'",
+      "cysignals ; extra == 'sdd'",
+      "pytest ; extra == 'test'",
+      "tox ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "mypy ; extra == 'test'"
+    ]
+  },
+  "tarski-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b9fe2073700087188cccbef8cbd8a9b5bbfbaa4f5fa2f6e30771b9dea998920",
+    "dependencies": {
+      "required": [
+        "psutil",
+        "antlr4-python3-runtime"
+      ]
+    },
+    "original_requirements": [
+      "psutil",
+      "antlr4-python3-runtime (>=4.7.2)",
+      "scipy ; extra == 'arithmetic'",
+      "numpy ; extra == 'arithmetic'",
+      "sphinx (>=2.1.2) ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "nbsphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "ipykernel ; extra == 'docs'",
+      "ipython ; extra == 'docs'",
+      "pyrddl ; extra == 'rddl'",
+      "Cython ; extra == 'sdd'",
+      "PySDD (>=0.2.9) ; extra == 'sdd'",
+      "cysignals ; extra == 'sdd'",
+      "pytest ; extra == 'test'",
+      "tox ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "mypy ; extra == 'test'"
+    ]
+  },
+  "tarski-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df89ab524ffce77e625fa442ef782a86d89345ba56d4355cd72d3e42d297d95e",
+    "dependencies": {
+      "required": [
+        "psutil",
+        "antlr4-python3-runtime"
+      ]
+    },
+    "original_requirements": [
+      "psutil",
+      "antlr4-python3-runtime (>=4.7.2)",
+      "scipy ; extra == 'arithmetic'",
+      "numpy ; extra == 'arithmetic'",
+      "sphinx (>=2.1.2) ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "nbsphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "ipykernel ; extra == 'docs'",
+      "ipython ; extra == 'docs'",
+      "pyrddl ; extra == 'rddl'",
+      "Cython ; extra == 'sdd'",
+      "PySDD (>=0.2.9) ; extra == 'sdd'",
+      "cysignals ; extra == 'sdd'",
+      "pytest ; extra == 'test'",
+      "tox ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "mypy ; extra == 'test'"
+    ]
+  }
+}

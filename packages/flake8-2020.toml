@@ -1,0 +1,11 @@
+# Package configuration for flake8-2020
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_2020-1.8.1-py2.py3-none-any.whl" },
+  { filename = "flake8_2020-1.8.0-py2.py3-none-any.whl" },
+  { filename = "flake8_2020-1.7.0-py2.py3-none-any.whl" },
+  { filename = "flake8_2020-1.6.1-py2.py3-none-any.whl" },
+  { filename = "flake8_2020-1.6.0-py2.py3-none-any.whl" },
+]

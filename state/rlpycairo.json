@@ -1,0 +1,72 @@
+{
+  "rlpycairo-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ce83825d5761c03bc3571c7db12a336ad51417e63189e3512d11b8922576aa9",
+    "dependencies": {
+      "required": [
+        "pycairo",
+        "freetype-py"
+      ]
+    },
+    "original_requirements": [
+      "pycairo>=1.20.0",
+      "freetype-py>=2.3"
+    ]
+  },
+  "rlPyCairo-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6ec712a76914f78c1491351e1d79eeb1a40d072accf5d36075e399963c17b17",
+    "dependencies": {
+      "required": [
+        "pycairo",
+        "freetype-py"
+      ]
+    },
+    "original_requirements": [
+      "pycairo (>=1.20.0)",
+      "freetype-py (>=2.3)"
+    ]
+  },
+  "rlPyCairo-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a88bce206c45d2180f944b8754c6e2e9245f80506c90fdfb94c7fbdd27805c25",
+    "dependencies": {
+      "required": [
+        "pycairo",
+        "freetype-py"
+      ]
+    },
+    "original_requirements": [
+      "pycairo (>=1.20.0)",
+      "freetype-py (>=2.3)"
+    ]
+  },
+  "rlPyCairo-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cbbe9a01a9e7e78995cbde153cd7cd0b2f8a7285f35be62102ff7e17314f95fc",
+    "dependencies": {
+      "required": [
+        "pycairo",
+        "reportlab"
+      ]
+    },
+    "original_requirements": [
+      "pycairo (>=1.20.0)",
+      "reportlab (>=3.5.61)"
+    ]
+  },
+  "rlPyCairo-0.0.8-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad12fd51820728443c388e5fb176208e61b749b1ea95ebd2b725a5822ec8c637",
+    "dependencies": {
+      "required": [
+        "pycairo",
+        "reportlab"
+      ]
+    },
+    "original_requirements": [
+      "pycairo (>=1.20.0)",
+      "reportlab (>=3.5.61)"
+    ]
+  }
+}

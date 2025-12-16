@@ -1,0 +1,110 @@
+{
+  "image_reward-1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4917a680c3caa68a1ce3847cebab3ae6d5b4c409d7f8804f537b9d42662cf12",
+    "dependencies": {
+      "required": [
+        "timm",
+        "transformers",
+        "fairscale",
+        "huggingface-hub",
+        "diffusers",
+        "accelerate",
+        "datasets"
+      ]
+    },
+    "original_requirements": [
+      "timm (==0.6.13)",
+      "transformers (>=4.27.4)",
+      "fairscale (==0.4.13)",
+      "huggingface-hub (>=0.13.4)",
+      "diffusers (>=0.16.0)",
+      "accelerate (>=0.16.0)",
+      "datasets (>=2.11.0)"
+    ]
+  },
+  "image_reward-1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9702ae948b894f5882dd3b453a0667e581e77f94e018fdfe957ae123556d0a50",
+    "dependencies": {
+      "required": [
+        "timm",
+        "transformers",
+        "fairscale",
+        "huggingface-hub",
+        "diffusers",
+        "accelerate",
+        "datasets"
+      ]
+    },
+    "original_requirements": [
+      "timm (==0.6.13)",
+      "transformers (>=4.27.4)",
+      "fairscale (==0.4.13)",
+      "huggingface-hub (>=0.13.4)",
+      "diffusers (>=0.16.0)",
+      "accelerate (>=0.16.0)",
+      "datasets (>=2.11.0)"
+    ]
+  },
+  "image_reward-1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c6c4201d454aff0229e73815fdbcaa7e3bf1f85e4992c5182645b59ab35ae02",
+    "dependencies": {
+      "required": [
+        "timm",
+        "transformers",
+        "fairscale",
+        "huggingface-hub",
+        "diffusers",
+        "accelerate",
+        "datasets"
+      ]
+    },
+    "original_requirements": [
+      "timm (==0.6.13)",
+      "transformers (==4.27.4)",
+      "fairscale (==0.4.13)",
+      "huggingface-hub (==0.13.4)",
+      "diffusers (==0.16.0)",
+      "accelerate (==0.16.0)",
+      "datasets (==2.11.0)"
+    ]
+  },
+  "image_reward-1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f15f30af293e6dbc5779f0df4f5110a97bb764ac2458c35f78c61e0481720e49",
+    "dependencies": {
+      "required": [
+        "timm",
+        "transformers",
+        "fairscale",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "timm (==0.6.13)",
+      "transformers (==4.27.4)",
+      "fairscale (==0.4.13)",
+      "huggingface-hub (==0.13.4)"
+    ]
+  },
+  "image_reward-1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6ed03f4a2d308abed76cf2db1af2b33167881dda809d26b4d72c80316a57dba1",
+    "dependencies": {
+      "required": [
+        "timm",
+        "transformers",
+        "fairscale",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "timm (==0.6.13)",
+      "transformers (==4.27.4)",
+      "fairscale (==0.4.13)",
+      "huggingface-hub (==0.13.4)"
+    ]
+  }
+}

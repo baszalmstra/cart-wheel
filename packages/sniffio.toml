@@ -1,0 +1,12 @@
+# Package configuration for sniffio
+conda_forge = "sniffio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sniffio-1.3.1-py3-none-any.whl" },
+  { filename = "sniffio-1.3.0-py3-none-any.whl" },
+  { filename = "sniffio-1.2.0-py3-none-any.whl" },
+  { filename = "sniffio-1.1.0-py3-none-any.whl" },
+  { filename = "sniffio-1.0.0-py3-none-any.whl" },
+]

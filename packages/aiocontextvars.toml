@@ -1,0 +1,10 @@
+# Package configuration for aiocontextvars
+conda_forge = "aiocontextvars"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiocontextvars-0.2.2-py2.py3-none-any.whl" },
+  { filename = "aiocontextvars-0.2.1-py2.py3-none-any.whl" },
+  { filename = "aiocontextvars-0.2.0-py2.py3-none-any.whl" },
+]

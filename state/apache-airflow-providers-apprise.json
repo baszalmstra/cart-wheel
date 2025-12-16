@@ -1,0 +1,92 @@
+{
+  "apache_airflow_providers_apprise-2.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:12.403770+00:00",
+    "conda_file": "apache-airflow-providers-apprise-2.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apprise"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.9.0",
+      "apprise>=1.8.0"
+    ]
+  },
+  "apache_airflow_providers_apprise-2.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:12.400556+00:00",
+    "conda_file": "apache-airflow-providers-apprise-2.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apprise"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.9.0",
+      "apprise>=1.8.0"
+    ]
+  },
+  "apache_airflow_providers_apprise-2.1.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:12.406623+00:00",
+    "conda_file": "apache-airflow-providers-apprise-2.1.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apprise"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apprise>=1.8.0"
+    ]
+  },
+  "apache_airflow_providers_apprise-2.1.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:12.359666+00:00",
+    "conda_file": "apache-airflow-providers-apprise-2.1.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apprise"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "apprise>=1.8.0"
+    ]
+  },
+  "apache_airflow_providers_apprise-2.1.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:12.396693+00:00",
+    "conda_file": "apache-airflow-providers-apprise-2.1.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apprise"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "apprise>=1.8.0"
+    ]
+  }
+}

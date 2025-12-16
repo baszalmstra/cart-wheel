@@ -1,0 +1,11 @@
+# Package configuration for autoawq
+conda_forge = "autoawq"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "autoawq-0.2.7.post3-py3-none-any.whl" },
+  { filename = "autoawq-0.2.7.post2-py3-none-any.whl" },
+  { filename = "autoawq-0.2.7.post1-py3-none-any.whl" },
+  { filename = "autoawq-0.2.7-py3-none-any.whl" },
+]

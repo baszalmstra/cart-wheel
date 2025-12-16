@@ -1,0 +1,216 @@
+{
+  "treescope-0.1.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dde52f5314f4c29d22157a6fe4d3bd103f9cae02791c9e672eefa32c9aa1da51",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.25.2",
+      "pylint>=2.6.0 ; extra == \"dev\"",
+      "pyink>=24.3.0 ; extra == \"dev\"",
+      "ipython ; extra == \"dev\"",
+      "jupyter ; extra == \"dev\"",
+      "pytest>=8.2.2 ; extra == \"dev\"",
+      "pytype ; extra == \"dev\"",
+      "ipython ; extra == \"docs\"",
+      "sphinx>=6.0.0,<7.3.0 ; extra == \"docs\"",
+      "sphinx-book-theme>=1.0.1 ; extra == \"docs\"",
+      "sphinxcontrib-katex ; extra == \"docs\"",
+      "ipython>=8.8.0 ; extra == \"docs\"",
+      "jax[cpu]>=0.4.23 ; extra == \"docs\"",
+      "myst-nb>=1.0.0 ; extra == \"docs\"",
+      "myst-parser>=3.0.1 ; extra == \"docs\"",
+      "matplotlib>=3.5.0 ; extra == \"docs\"",
+      "packaging==24.1 ; extra == \"docs\"",
+      "palettable==3.3.3 ; extra == \"docs\"",
+      "pandas==2.2.2 ; extra == \"docs\"",
+      "plotly==5.22.0 ; extra == \"docs\"",
+      "penzai~=0.2.4 ; extra == \"docs\"",
+      "sphinx_contributors ; extra == \"docs\"",
+      "sphinx-hoverxref ; extra == \"docs\"",
+      "torch==2.3.1 ; extra == \"docs\"",
+      "ipython ; extra == \"notebook\"",
+      "palettable ; extra == \"notebook\"",
+      "jax>=0.4.23 ; extra == \"notebook\"",
+      "absl-py>=1.4.0 ; extra == \"test\"",
+      "jax>=0.4.23 ; extra == \"test\"",
+      "pytest>=8.2.2 ; extra == \"test\"",
+      "torch>=2.0.0 ; extra == \"test\"",
+      "pydantic>=2.0.0 ; extra == \"test\"",
+      "omegaconf>=2.0.0 ; extra == \"test\""
+    ]
+  },
+  "treescope-0.1.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "68677013a9f0228212fccf835f3fb037be07ae8b4c5f6f58eefab11198f83cf7",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.25.2",
+      "pylint>=2.6.0 ; extra == \"dev\"",
+      "pyink>=24.3.0 ; extra == \"dev\"",
+      "ipython ; extra == \"dev\"",
+      "jupyter ; extra == \"dev\"",
+      "pytest>=8.2.2 ; extra == \"dev\"",
+      "pytype ; extra == \"dev\"",
+      "ipython ; extra == \"docs\"",
+      "sphinx>=6.0.0,<7.3.0 ; extra == \"docs\"",
+      "sphinx-book-theme>=1.0.1 ; extra == \"docs\"",
+      "sphinxcontrib-katex ; extra == \"docs\"",
+      "ipython>=8.8.0 ; extra == \"docs\"",
+      "jax[cpu]>=0.4.23 ; extra == \"docs\"",
+      "myst-nb>=1.0.0 ; extra == \"docs\"",
+      "myst-parser>=3.0.1 ; extra == \"docs\"",
+      "matplotlib>=3.5.0 ; extra == \"docs\"",
+      "packaging==24.1 ; extra == \"docs\"",
+      "palettable==3.3.3 ; extra == \"docs\"",
+      "pandas==2.2.2 ; extra == \"docs\"",
+      "plotly==5.22.0 ; extra == \"docs\"",
+      "penzai~=0.2.4 ; extra == \"docs\"",
+      "sphinx_contributors ; extra == \"docs\"",
+      "sphinx-hoverxref ; extra == \"docs\"",
+      "torch==2.3.1 ; extra == \"docs\"",
+      "ipython ; extra == \"notebook\"",
+      "palettable ; extra == \"notebook\"",
+      "jax>=0.4.23 ; extra == \"notebook\"",
+      "absl-py>=1.4.0 ; extra == \"test\"",
+      "jax>=0.4.23 ; extra == \"test\"",
+      "pytest>=8.2.2 ; extra == \"test\"",
+      "torch>=2.0.0 ; extra == \"test\"",
+      "pydantic>=2.0.0 ; extra == \"test\"",
+      "omegaconf>=2.0.0 ; extra == \"test\""
+    ]
+  },
+  "treescope-0.1.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "56637aed9946834a62cca41eafd812b92df6119a6b6c16990d9e0f47a6a971d8",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.25.2",
+      "pylint>=2.6.0 ; extra == \"dev\"",
+      "pyink>=24.3.0 ; extra == \"dev\"",
+      "ipython ; extra == \"dev\"",
+      "jupyter ; extra == \"dev\"",
+      "pytest>=8.2.2 ; extra == \"dev\"",
+      "pytype ; extra == \"dev\"",
+      "ipython ; extra == \"docs\"",
+      "sphinx>=6.0.0,<7.3.0 ; extra == \"docs\"",
+      "sphinx-book-theme>=1.0.1 ; extra == \"docs\"",
+      "sphinxcontrib-katex ; extra == \"docs\"",
+      "ipython>=8.8.0 ; extra == \"docs\"",
+      "jax[cpu]>=0.4.23 ; extra == \"docs\"",
+      "myst-nb>=1.0.0 ; extra == \"docs\"",
+      "myst-parser>=3.0.1 ; extra == \"docs\"",
+      "matplotlib>=3.5.0 ; extra == \"docs\"",
+      "packaging==24.1 ; extra == \"docs\"",
+      "palettable==3.3.3 ; extra == \"docs\"",
+      "pandas==2.2.2 ; extra == \"docs\"",
+      "plotly==5.22.0 ; extra == \"docs\"",
+      "penzai~=0.2.4 ; extra == \"docs\"",
+      "sphinx_contributors ; extra == \"docs\"",
+      "sphinx-hoverxref ; extra == \"docs\"",
+      "torch==2.3.1 ; extra == \"docs\"",
+      "ipython ; extra == \"notebook\"",
+      "palettable ; extra == \"notebook\"",
+      "jax>=0.4.23 ; extra == \"notebook\"",
+      "absl-py>=1.4.0 ; extra == \"test\"",
+      "jax>=0.4.23 ; extra == \"test\"",
+      "pytest>=8.2.2 ; extra == \"test\"",
+      "torch>=2.0.0 ; extra == \"test\""
+    ]
+  },
+  "treescope-0.1.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "14e6527d4bfe6770ac9cbb8058e49b6685444d7cd0d3f85fd10c42491848b102",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.25.2",
+      "pylint>=2.6.0 ; extra == \"dev\"",
+      "pyink>=24.3.0 ; extra == \"dev\"",
+      "ipython ; extra == \"dev\"",
+      "jupyter ; extra == \"dev\"",
+      "pytest>=8.2.2 ; extra == \"dev\"",
+      "pytype ; extra == \"dev\"",
+      "ipython ; extra == \"docs\"",
+      "sphinx>=6.0.0,<7.3.0 ; extra == \"docs\"",
+      "sphinx-book-theme>=1.0.1 ; extra == \"docs\"",
+      "sphinxcontrib-katex ; extra == \"docs\"",
+      "ipython>=8.8.0 ; extra == \"docs\"",
+      "jax[cpu]>=0.4.23 ; extra == \"docs\"",
+      "myst-nb>=1.0.0 ; extra == \"docs\"",
+      "myst-parser>=3.0.1 ; extra == \"docs\"",
+      "matplotlib>=3.5.0 ; extra == \"docs\"",
+      "packaging==24.1 ; extra == \"docs\"",
+      "palettable==3.3.3 ; extra == \"docs\"",
+      "pandas==2.2.2 ; extra == \"docs\"",
+      "plotly==5.22.0 ; extra == \"docs\"",
+      "penzai~=0.2.0 ; extra == \"docs\"",
+      "sphinx_contributors ; extra == \"docs\"",
+      "sphinx-hoverxref ; extra == \"docs\"",
+      "torch==2.3.1 ; extra == \"docs\"",
+      "ipython ; extra == \"notebook\"",
+      "palettable ; extra == \"notebook\"",
+      "jax>=0.4.23 ; extra == \"notebook\"",
+      "absl-py>=1.4.0 ; extra == \"test\"",
+      "jax>=0.4.23 ; extra == \"test\"",
+      "pytest>=8.2.2 ; extra == \"test\"",
+      "torch>=2.0.0 ; extra == \"test\""
+    ]
+  },
+  "treescope-0.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a54cbe3cc5b5d9fcc0ac2c79dd3f2efe5f9c965d17e261e6d260a0fe13527a8f",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.25.2",
+      "pylint>=2.6.0 ; extra == \"dev\"",
+      "pyink>=24.3.0 ; extra == \"dev\"",
+      "ipython ; extra == \"dev\"",
+      "jupyter ; extra == \"dev\"",
+      "pytest>=8.2.2 ; extra == \"dev\"",
+      "pytype ; extra == \"dev\"",
+      "ipython ; extra == \"docs\"",
+      "sphinx>=6.0.0,<7.3.0 ; extra == \"docs\"",
+      "sphinx-book-theme>=1.0.1 ; extra == \"docs\"",
+      "sphinxcontrib-katex ; extra == \"docs\"",
+      "ipython>=8.8.0 ; extra == \"docs\"",
+      "jax[cpu]>=0.4.23 ; extra == \"docs\"",
+      "myst-nb>=1.0.0 ; extra == \"docs\"",
+      "myst-parser>=3.0.1 ; extra == \"docs\"",
+      "matplotlib>=3.5.0 ; extra == \"docs\"",
+      "packaging==24.1 ; extra == \"docs\"",
+      "palettable==3.3.3 ; extra == \"docs\"",
+      "pandas==2.2.2 ; extra == \"docs\"",
+      "plotly==5.22.0 ; extra == \"docs\"",
+      "penzai~=0.2.0 ; extra == \"docs\"",
+      "sphinx_contributors ; extra == \"docs\"",
+      "sphinx-hoverxref ; extra == \"docs\"",
+      "torch==2.3.1 ; extra == \"docs\"",
+      "ipython ; extra == \"notebook\"",
+      "palettable ; extra == \"notebook\"",
+      "jax>=0.4.23 ; extra == \"notebook\"",
+      "absl-py>=1.4.0 ; extra == \"test\"",
+      "jax>=0.4.23 ; extra == \"test\"",
+      "pytest>=8.2.2 ; extra == \"test\"",
+      "torch>=2.0.0 ; extra == \"test\""
+    ]
+  }
+}

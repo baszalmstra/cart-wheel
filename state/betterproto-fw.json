@@ -1,0 +1,64 @@
+{
+  "betterproto_fw-2.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "af66a24e5d182922121b7119947166289442b19d2664d057e0b0a96c1f049757",
+    "dependencies": {
+      "required": [
+        "grpclib",
+        "python-dateutil",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "grpclib<0.5.0,>=0.4.1",
+      "python-dateutil<3.0.0,>=2.8.0",
+      "typing-extensions<5.0.0,>=4.7.1",
+      "ruff~=0.9.1; extra == \"compiler\"",
+      "jinja2>=3.0.3; extra == \"compiler\"",
+      "betterproto-rust-codec==0.1.1; extra == \"rust-codec\""
+    ]
+  },
+  "betterproto_fw-2.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "215268293f137e6919e7f599c3426660f0cc57a682ca5b7ce3bc8f2414b29033",
+    "dependencies": {
+      "required": [
+        "grpclib",
+        "python-dateutil",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "grpclib<0.5.0,>=0.4.1",
+      "python-dateutil<3.0.0,>=2.8.0",
+      "typing-extensions<5.0.0,>=4.7.1",
+      "ruff~=0.9.1; extra == \"compiler\"",
+      "jinja2>=3.0.3; extra == \"compiler\"",
+      "betterproto-rust-codec==0.1.1; extra == \"rust-codec\""
+    ]
+  },
+  "betterproto_fw-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6bd60da6fd499e2b427680384eb870b20c61d82f7b2699a94e2aa9dcdb817e90",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruff; extra == \"compiler\"",
+      "jinja2; extra == \"compiler\"",
+      "betterproto-rust-codec; extra == \"rust-codec\""
+    ]
+  },
+  "betterproto_fw-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3fff70ef3d6d5653b0cff8da44cae6cd498e62c1434144c588ebd0dfff2d893f",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruff; extra == \"compiler\"",
+      "jinja2; extra == \"compiler\"",
+      "betterproto-rust-codec; extra == \"rust-codec\""
+    ]
+  }
+}

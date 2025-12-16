@@ -1,0 +1,12 @@
+# Package configuration for langchain-mistralai
+conda_forge = "langchain-mistralai"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_mistralai-1.1.1-py3-none-any.whl" },
+  { filename = "langchain_mistralai-1.1.0-py3-none-any.whl" },
+  { filename = "langchain_mistralai-1.0.1-py3-none-any.whl" },
+  { filename = "langchain_mistralai-1.0.0-py3-none-any.whl" },
+  { filename = "langchain_mistralai-0.2.12-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for sox
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sox-1.4.1-py2.py3-none-any.whl" },
+  { filename = "sox-1.4.0-py2.py3-none-any.whl" },
+  { filename = "sox-1.3.7-py2.py3-none-any.whl" },
+  { filename = "sox-1.3.3-py2.py3-none-any.whl" },
+  { filename = "sox-1.3.2-py2.py3-none-any.whl" },
+]

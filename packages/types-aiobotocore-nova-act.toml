@@ -1,0 +1,7 @@
+# Package configuration for types-aiobotocore-nova-act
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_nova_act-3.0.0-py3-none-any.whl" },
+]

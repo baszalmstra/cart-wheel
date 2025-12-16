@@ -1,0 +1,12 @@
+# Package configuration for xarray
+conda_forge = "xarray"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "xarray-2025.12.0-py3-none-any.whl" },
+  { filename = "xarray-2025.11.0-py3-none-any.whl" },
+  { filename = "xarray-2025.10.1-py3-none-any.whl" },
+  { filename = "xarray-2025.10.0-py3-none-any.whl" },
+  { filename = "xarray-2025.9.1-py3-none-any.whl" },
+]

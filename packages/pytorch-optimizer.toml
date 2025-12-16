@@ -1,0 +1,11 @@
+# Package configuration for pytorch-optimizer
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytorch_optimizer-3.8.2-py3-none-any.whl" },
+  { filename = "pytorch_optimizer-3.8.1-py3-none-any.whl" },
+  { filename = "pytorch_optimizer-3.8.0-py3-none-any.whl" },
+  { filename = "pytorch_optimizer-3.7.0-py3-none-any.whl" },
+  { filename = "pytorch_optimizer-3.6.1-py3-none-any.whl" },
+]

@@ -1,0 +1,112 @@
+{
+  "selenium-4.39.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c85f65d5610642ca0f47dae9d5cc117cd9e831f74038bc09fe1af126288200f9",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "trio",
+        "trio-websocket",
+        "certifi",
+        "typing-extensions",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "urllib3[socks]>=2.5.0,<3.0",
+      "trio>=0.31.0,<1.0",
+      "trio-websocket>=0.12.2,<1.0",
+      "certifi>=2025.10.5",
+      "typing_extensions>=4.15.0,<5.0",
+      "websocket-client>=1.8.0,<2.0"
+    ]
+  },
+  "selenium-4.38.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed47563f188130a6fd486b327ca7ba48c5b11fb900e07d6457befdde320e35fd",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "trio",
+        "trio-websocket",
+        "certifi",
+        "typing-extensions",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "urllib3[socks]>=2.5.0,<3.0",
+      "trio>=0.31.0,<1.0",
+      "trio-websocket>=0.12.2,<1.0",
+      "certifi>=2025.10.5",
+      "typing_extensions>=4.15.0,<5.0",
+      "websocket-client>=1.8.0,<2.0"
+    ]
+  },
+  "selenium-4.37.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5cfee4f7c430f7150fcc0490cf2936d101a72b76bad74644e2159cec0013d4de",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "trio",
+        "trio-websocket",
+        "certifi",
+        "typing-extensions",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "urllib3[socks]>=2.5.0,<3.0",
+      "trio>=0.31.0,<1.0",
+      "trio-websocket>=0.12.2,<1.0",
+      "certifi>=2025.10.5",
+      "typing_extensions>=4.15.0,<5.0",
+      "websocket-client>=1.8.0,<2.0"
+    ]
+  },
+  "selenium-4.36.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "525fdfe96b99c27d9a2c773c75aa7413f4c24bdb7b9749c1950aa3b5f79ed915",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "trio",
+        "trio-websocket",
+        "certifi",
+        "typing-extensions",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "urllib3[socks]>=2.5.0,<3.0",
+      "trio>=0.30.0,<1.0",
+      "trio-websocket>=0.12.2,<1.0",
+      "certifi>=2025.6.15",
+      "typing_extensions>=4.14.0,<5.0",
+      "websocket-client>=1.8.0,<2.0"
+    ]
+  },
+  "selenium-4.35.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90bb6c6091fa55805785cf1660fa1e2176220475ccdb466190f654ef8eef6114",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "trio",
+        "trio-websocket",
+        "certifi",
+        "typing-extensions",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "urllib3[socks]>=2.5.0,<3.0",
+      "trio~=0.30.0",
+      "trio-websocket~=0.12.2",
+      "certifi>=2025.6.15",
+      "typing_extensions~=4.14.0",
+      "websocket-client~=1.8.0"
+    ]
+  }
+}

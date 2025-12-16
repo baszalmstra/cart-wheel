@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-ec2-instance-connect
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_ec2_instance_connect-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_ec2_instance_connect-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_ec2_instance_connect-1.40.57-py3-none-any.whl" },
+  { filename = "mypy_boto3_ec2_instance_connect-1.40.20-py3-none-any.whl" },
+  { filename = "mypy_boto3_ec2_instance_connect-1.40.0-py3-none-any.whl" },
+]

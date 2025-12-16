@@ -1,0 +1,12 @@
+# Package configuration for django-stubs-ext
+conda_forge = "django-stubs-ext"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "django_stubs_ext-5.2.8-py3-none-any.whl" },
+  { filename = "django_stubs_ext-5.2.7-py3-none-any.whl" },
+  { filename = "django_stubs_ext-5.2.6-py3-none-any.whl" },
+  { filename = "django_stubs_ext-5.2.5-py3-none-any.whl" },
+  { filename = "django_stubs_ext-5.2.4-py3-none-any.whl" },
+]

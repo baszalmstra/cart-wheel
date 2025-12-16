@@ -1,0 +1,12 @@
+# Package configuration for apache-libcloud
+conda_forge = "apache-libcloud"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_libcloud-3.8.0-py2.py3-none-any.whl" },
+  { filename = "apache_libcloud-3.7.0-py2.py3-none-any.whl" },
+  { filename = "apache_libcloud-3.6.1-py2.py3-none-any.whl" },
+  { filename = "apache_libcloud-3.6.0-py2.py3-none-any.whl" },
+  { filename = "apache_libcloud-3.5.1-py2.py3-none-any.whl" },
+]

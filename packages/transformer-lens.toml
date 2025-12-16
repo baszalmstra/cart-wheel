@@ -1,0 +1,11 @@
+# Package configuration for transformer-lens
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "transformer_lens-2.16.1-py3-none-any.whl" },
+  { filename = "transformer_lens-2.16.0-py3-none-any.whl" },
+  { filename = "transformer_lens-2.15.4-py3-none-any.whl" },
+  { filename = "transformer_lens-2.15.0-py3-none-any.whl" },
+  { filename = "transformer_lens-2.14.1-py3-none-any.whl" },
+]

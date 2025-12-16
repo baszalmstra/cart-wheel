@@ -1,0 +1,12 @@
+# Package configuration for javaobj-py3
+conda_forge = "javaobj-py3"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "javaobj_py3-0.4.4-py2.py3-none-any.whl" },
+  { filename = "javaobj_py3-0.4.3-py2.py3-none-any.whl" },
+  { filename = "javaobj_py3-0.4.2-py2.py3-none-any.whl" },
+  { filename = "javaobj_py3-0.4.1-py2.py3-none-any.whl" },
+  { filename = "javaobj_py3-0.4.0.1-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for browserbase
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "browserbase-1.4.0-py3-none-any.whl" },
+  { filename = "browserbase-1.3.0-py3-none-any.whl" },
+  { filename = "browserbase-1.2.0-py3-none-any.whl" },
+  { filename = "browserbase-1.1.0-py3-none-any.whl" },
+  { filename = "browserbase-1.0.5-py3-none-any.whl" },
+]

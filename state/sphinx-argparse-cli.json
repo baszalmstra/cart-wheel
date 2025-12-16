@@ -1,0 +1,82 @@
+{
+  "sphinx_argparse_cli-1.20.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a4592b1cc2c07dcdd6d6b58e41b79d032bd48588e68a6b057272f75f87f904ed",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=8.2.3",
+      "covdefaults>=2.3; extra == 'testing'",
+      "defusedxml>=0.7.1; extra == 'testing'",
+      "pytest-cov>=7; extra == 'testing'",
+      "pytest>=8.4.2; extra == 'testing'"
+    ]
+  },
+  "sphinx_argparse_cli-1.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6da7e4d566c25a0709d0b810585efe4880e767a0c882ab47436b0d885b5cb7bb",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=8.2.3",
+      "covdefaults>=2.3; extra == 'testing'",
+      "defusedxml>=0.7.1; extra == 'testing'",
+      "pytest-cov>=7; extra == 'testing'",
+      "pytest>=8.4.2; extra == 'testing'"
+    ]
+  },
+  "sphinx_argparse_cli-1.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c0e069deed1db44d289f90469c04320f1c2249b3dcbd3c3e093bf9a66e4bd8e4",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=8.0.2",
+      "covdefaults>=2.3; extra == 'testing'",
+      "defusedxml>=0.7.1; extra == 'testing'",
+      "pytest-cov>=5; extra == 'testing'",
+      "pytest>=8.3.2; extra == 'testing'"
+    ]
+  },
+  "sphinx_argparse_cli-1.18.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "edb5afcb296d0a512b312af2b9b9e45fc56c1f1dd2e7549abc57f3ea6e77c552",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=8.0.2",
+      "covdefaults>=2.3; extra == 'testing'",
+      "defusedxml>=0.7.1; extra == 'testing'",
+      "pytest-cov>=5; extra == 'testing'",
+      "pytest>=8.3.2; extra == 'testing'"
+    ]
+  },
+  "sphinx_argparse_cli-1.18.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "915e520c42812d41f845411b334d973194650cca035523a5a550488f08edb35f",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=8.0.2",
+      "covdefaults>=2.3; extra == 'test'",
+      "defusedxml>=0.7.1; extra == 'test'",
+      "pytest-cov>=5; extra == 'test'",
+      "pytest>=8.3.2; extra == 'test'"
+    ]
+  }
+}

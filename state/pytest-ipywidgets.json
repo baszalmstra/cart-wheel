@@ -1,0 +1,167 @@
+{
+  "pytest_ipywidgets-1.55.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b227c02c3ea328ee411fd5da31916baa4351b2806c74740d32c35ab6370c3a4",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "pixelmatch",
+        "playwright",
+        "pytest",
+        "pytest-playwright",
+        "solara-server",
+        "solara-ui"
+      ]
+    },
+    "original_requirements": [
+      "pillow",
+      "pixelmatch",
+      "playwright",
+      "pytest",
+      "pytest-playwright",
+      "solara-server[starlette]==1.55.1",
+      "solara-ui==1.55.1",
+      "jupyterlab<4; extra == 'all'",
+      "notebook<7; extra == 'all'",
+      "voila; extra == 'all'",
+      "lxml<5.2; extra == 'ipywidgets7'",
+      "voila~=0.3.0; extra == 'ipywidgets7'",
+      "voila>=0.4; extra == 'ipywidgets8'",
+      "jupyterlab<4; extra == 'jupyterlab'",
+      "notebook<7; extra == 'notebook'",
+      "voila; extra == 'voila'"
+    ]
+  },
+  "pytest_ipywidgets-1.55.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "78ed5ddad21e7acea834e1a848fe80350f96023375ddada7840a45ad1a9762c2",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "pixelmatch",
+        "playwright",
+        "pytest",
+        "pytest-playwright",
+        "solara-server",
+        "solara-ui"
+      ]
+    },
+    "original_requirements": [
+      "pillow",
+      "pixelmatch",
+      "playwright",
+      "pytest",
+      "pytest-playwright",
+      "solara-server[starlette]==1.55.0",
+      "solara-ui==1.55.0",
+      "jupyterlab<4; extra == 'all'",
+      "notebook<7; extra == 'all'",
+      "voila; extra == 'all'",
+      "lxml<5.2; extra == 'ipywidgets7'",
+      "voila~=0.3.0; extra == 'ipywidgets7'",
+      "voila>=0.4; extra == 'ipywidgets8'",
+      "jupyterlab<4; extra == 'jupyterlab'",
+      "notebook<7; extra == 'notebook'",
+      "voila; extra == 'voila'"
+    ]
+  },
+  "pytest_ipywidgets-1.54.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "70a2667b1e962f8b80dbe645531cc06c395d01a435f5bbb0d89792407e1e02db",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "pixelmatch",
+        "playwright",
+        "pytest",
+        "pytest-playwright",
+        "solara-server",
+        "solara-ui"
+      ]
+    },
+    "original_requirements": [
+      "pillow",
+      "pixelmatch",
+      "playwright",
+      "pytest",
+      "pytest-playwright",
+      "solara-server[starlette]==1.54.0",
+      "solara-ui==1.54.0",
+      "jupyterlab<4; extra == 'all'",
+      "notebook<7; extra == 'all'",
+      "voila; extra == 'all'",
+      "lxml<5.2; extra == 'ipywidgets7'",
+      "voila~=0.3.0; extra == 'ipywidgets7'",
+      "voila>=0.4; extra == 'ipywidgets8'",
+      "jupyterlab<4; extra == 'jupyterlab'",
+      "notebook<7; extra == 'notebook'",
+      "voila; extra == 'voila'"
+    ]
+  },
+  "pytest_ipywidgets-1.53.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "235b0aa862632a1f944155ac34f45a2c397de1e27a8d5bc88bad5c17e8a9257e",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "pixelmatch",
+        "playwright",
+        "pytest",
+        "pytest-playwright",
+        "solara-server",
+        "solara-ui"
+      ]
+    },
+    "original_requirements": [
+      "pillow",
+      "pixelmatch",
+      "playwright",
+      "pytest",
+      "pytest-playwright",
+      "solara-server[starlette]==1.53.0",
+      "solara-ui==1.53.0",
+      "jupyterlab<4; extra == 'all'",
+      "notebook<7; extra == 'all'",
+      "voila; extra == 'all'",
+      "lxml<5.2; extra == 'ipywidgets7'",
+      "voila~=0.3.0; extra == 'ipywidgets7'",
+      "voila>=0.4; extra == 'ipywidgets8'",
+      "jupyterlab<4; extra == 'jupyterlab'",
+      "notebook<7; extra == 'notebook'",
+      "voila; extra == 'voila'"
+    ]
+  },
+  "pytest_ipywidgets-1.52.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39efb3b128b5830288ea2f1f8fdea675639f1f59824bacc99ba2d3a1623cfbb0",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "pixelmatch",
+        "playwright",
+        "pytest",
+        "pytest-playwright",
+        "solara-server",
+        "solara-ui"
+      ]
+    },
+    "original_requirements": [
+      "pillow",
+      "pixelmatch",
+      "playwright",
+      "pytest",
+      "pytest-playwright",
+      "solara-server[starlette]==1.52.0",
+      "solara-ui==1.52.0",
+      "jupyterlab<4; extra == 'all'",
+      "notebook<7; extra == 'all'",
+      "voila; extra == 'all'",
+      "lxml<5.2; extra == 'ipywidgets7'",
+      "voila~=0.3.0; extra == 'ipywidgets7'",
+      "voila>=0.4; extra == 'ipywidgets8'",
+      "jupyterlab<4; extra == 'jupyterlab'",
+      "notebook<7; extra == 'notebook'",
+      "voila; extra == 'voila'"
+    ]
+  }
+}

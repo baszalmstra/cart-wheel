@@ -1,0 +1,12 @@
+# Package configuration for pycln
+conda_forge = "pycln"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pycln-2.6.0-py3-none-any.whl" },
+  { filename = "pycln-2.5.0-py3-none-any.whl" },
+  { filename = "pycln-2.4.0-py3-none-any.whl" },
+  { filename = "pycln-2.3.0-py3-none-any.whl" },
+  { filename = "pycln-2.2.2-py3-none-any.whl" },
+]

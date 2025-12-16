@@ -1,0 +1,12 @@
+# Package configuration for langchain-chroma
+conda_forge = "langchain-chroma"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_chroma-1.1.0-py3-none-any.whl" },
+  { filename = "langchain_chroma-1.0.0-py3-none-any.whl" },
+  { filename = "langchain_chroma-0.2.6-py3-none-any.whl" },
+  { filename = "langchain_chroma-0.2.5-py3-none-any.whl" },
+  { filename = "langchain_chroma-0.2.4-py3-none-any.whl" },
+]

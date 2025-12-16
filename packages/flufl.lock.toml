@@ -1,0 +1,11 @@
+# Package configuration for flufl.lock
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flufl_lock-9.0.0-py3-none-any.whl" },
+  { filename = "flufl_lock-8.2.0-py3-none-any.whl" },
+  { filename = "flufl_lock-8.1.0-py3-none-any.whl" },
+  { filename = "flufl_lock-8.0.2-py3-none-any.whl" },
+  { filename = "flufl_lock-8.0.1-py3-none-any.whl" },
+]

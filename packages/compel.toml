@@ -1,0 +1,11 @@
+# Package configuration for compel
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "compel-2.3.1-py3-none-any.whl" },
+  { filename = "compel-2.3.0-py3-none-any.whl" },
+  { filename = "compel-2.2.1-py3-none-any.whl" },
+  { filename = "compel-2.2.0-py3-none-any.whl" },
+  { filename = "compel-2.1.1-py3-none-any.whl" },
+]

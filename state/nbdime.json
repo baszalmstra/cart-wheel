@@ -1,0 +1,205 @@
+{
+  "nbdime-4.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e5a43aca669c576c66e757071c0e882de05ac305311d79aded99bfb5a3e9419e",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "gitpython",
+        "jinja2",
+        "jupyter-server",
+        "jupyter-server-mathjax",
+        "nbformat",
+        "pygments",
+        "requests",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "colorama",
+      "gitpython!=2.1.4,!=2.1.5,!=2.1.6",
+      "jinja2>=2.9",
+      "jupyter-server",
+      "jupyter-server-mathjax>=0.2.2",
+      "nbformat",
+      "pygments",
+      "requests",
+      "tornado",
+      "recommonmark; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-rtd-theme; extra == 'docs'",
+      "jsonschema; extra == 'test'",
+      "jupyter-server[test]; extra == 'test'",
+      "mock; extra == 'test'",
+      "notebook; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest-tornado; extra == 'test'",
+      "pytest>=6.0; extra == 'test'",
+      "requests; extra == 'test'",
+      "tabulate; extra == 'test'"
+    ]
+  },
+  "nbdime-4.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82538e2b52e0834e9c07607e2dea27aceaaf7e8cf2269a4607c67ea9aa625404",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "gitpython",
+        "jinja2",
+        "jupyter-server",
+        "jupyter-server-mathjax",
+        "nbformat",
+        "pygments",
+        "requests",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "colorama",
+      "gitpython!=2.1.4,!=2.1.5,!=2.1.6",
+      "jinja2>=2.9",
+      "jupyter-server",
+      "jupyter-server-mathjax>=0.2.2",
+      "nbformat",
+      "pygments",
+      "requests",
+      "tornado",
+      "recommonmark; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-rtd-theme; extra == 'docs'",
+      "jsonschema; extra == 'test'",
+      "jupyter-server[test]; extra == 'test'",
+      "mock; extra == 'test'",
+      "notebook; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest-tornado; extra == 'test'",
+      "pytest>=6.0; extra == 'test'",
+      "requests; extra == 'test'",
+      "tabulate; extra == 'test'"
+    ]
+  },
+  "nbdime-3.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a99fed2399fd939e2e577db4bb6e957aac860af4cf583044b723cc9a448c644e",
+    "dependencies": {
+      "required": [
+        "nbformat",
+        "colorama",
+        "pygments",
+        "tornado",
+        "requests",
+        "gitpython",
+        "jupyter-server",
+        "jupyter-server-mathjax",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "nbformat",
+      "colorama",
+      "pygments",
+      "tornado",
+      "requests",
+      "GitPython (!=2.1.4,!=2.1.5,!=2.1.6)",
+      "jupyter-server",
+      "jupyter-server-mathjax (>=0.2.2)",
+      "jinja2 (>=2.9)",
+      "sphinx ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pytest (>=3.6) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-timeout ; extra == 'test'",
+      "pytest-tornado ; extra == 'test'",
+      "jupyter-server[test] ; extra == 'test'",
+      "jsonschema ; extra == 'test'",
+      "notebook ; extra == 'test'",
+      "requests ; extra == 'test'",
+      "tabulate ; extra == 'test'"
+    ]
+  },
+  "nbdime-3.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "605dc50c6c8cf96eec61cc66d7c0dc1a0d05269ceebf1c0bcc5a435162220be1",
+    "dependencies": {
+      "required": [
+        "nbformat",
+        "colorama",
+        "pygments",
+        "tornado",
+        "requests",
+        "gitpython",
+        "jupyter-server",
+        "jupyter-server-mathjax",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "nbformat",
+      "colorama",
+      "pygments",
+      "tornado",
+      "requests",
+      "GitPython (!=2.1.4,!=2.1.5,!=2.1.6)",
+      "jupyter-server",
+      "jupyter-server-mathjax (>=0.2.2)",
+      "jinja2 (>=2.9)",
+      "sphinx ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pytest (>=3.6) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-timeout ; extra == 'test'",
+      "pytest-tornado ; extra == 'test'",
+      "jupyter-server[test] ; extra == 'test'",
+      "jsonschema ; extra == 'test'",
+      "notebook ; extra == 'test'",
+      "requests ; extra == 'test'",
+      "tabulate ; extra == 'test'"
+    ]
+  },
+  "nbdime-3.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ea4ddf919e3035800ef8bd5552b814522207cb154ca7512565e4539a54c74dbf",
+    "dependencies": {
+      "required": [
+        "nbformat",
+        "colorama",
+        "pygments",
+        "tornado",
+        "requests",
+        "gitpython",
+        "jupyter-server",
+        "jupyter-server-mathjax",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "nbformat",
+      "colorama",
+      "pygments",
+      "tornado",
+      "requests",
+      "GitPython (!=2.1.4,!=2.1.5,!=2.1.6)",
+      "jupyter-server",
+      "jupyter-server-mathjax (>=0.2.2)",
+      "jinja2 (>=2.9)",
+      "sphinx ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pytest (>=3.6) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-timeout ; extra == 'test'",
+      "pytest-tornado ; extra == 'test'",
+      "jupyter-server[test] ; extra == 'test'",
+      "jsonschema ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "notebook ; extra == 'test'",
+      "requests ; extra == 'test'",
+      "tabulate ; extra == 'test'"
+    ]
+  }
+}

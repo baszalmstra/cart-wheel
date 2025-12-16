@@ -1,0 +1,110 @@
+{
+  "google_cloud_storage_control-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a3179438f82fc49b2ad3d4674d737164bd6a51e0a9b545a9ec7e7d118b8bee0",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "grpcio",
+        "grpcio",
+        "proto-plus",
+        "proto-plus",
+        "protobuf",
+        "grpc-google-iam-v1"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "grpcio<2.0.0,>=1.33.2",
+      "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "grpc-google-iam-v1<1.0.0,>=0.14.0"
+    ]
+  },
+  "google_cloud_storage_control-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a384b53e4c82c753b835378a6d753c9a0b32113ff6ab85d08bde550de01c5136",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "proto-plus",
+        "proto-plus",
+        "protobuf",
+        "grpc-google-iam-v1"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "grpc-google-iam-v1<1.0.0,>=0.14.0"
+    ]
+  },
+  "google_cloud_storage_control-1.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6a396f700d8aed2eef7455ad2cfa1b41bfdb2264abdf4a45c4448f02acd9dec7",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "proto-plus",
+        "proto-plus",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2"
+    ]
+  },
+  "google_cloud_storage_control-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03f96a09e07d235afe76db7e69aa4b6d004d9489e3f9ad0234bcb8c6d254448c",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "proto-plus",
+        "proto-plus",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2"
+    ]
+  },
+  "google_cloud_storage_control-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a9b3746af947e199a7dee781a059d5677f16209a20b7eb69261304037242113",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "proto-plus",
+        "protobuf",
+        "proto-plus"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "proto-plus<2.0.0,>=1.22.3",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for chameleon
+conda_forge = "chameleon"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Chameleon-4.6.0-py3-none-any.whl" },
+  { filename = "Chameleon-4.5.4-py3-none-any.whl" },
+  { filename = "Chameleon-4.5.3-py3-none-any.whl" },
+  { filename = "Chameleon-4.5.2-py3-none-any.whl" },
+  { filename = "Chameleon-4.5.1-py3-none-any.whl" },
+]

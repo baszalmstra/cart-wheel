@@ -1,0 +1,10 @@
+# Package configuration for patronus-examples
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "patronus_examples-0.1.17-py3-none-any.whl" },
+  { filename = "patronus_examples-0.1.16-py3-none-any.whl" },
+  { filename = "patronus_examples-0.1.5-py3-none-any.whl" },
+  { filename = "patronus_examples-0.1.4.post1-py3-none-any.whl" },
+]

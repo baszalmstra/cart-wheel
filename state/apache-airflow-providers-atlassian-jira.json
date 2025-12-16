@@ -1,0 +1,98 @@
+{
+  "apache_airflow_providers_atlassian_jira-3.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:13.156421+00:00",
+    "conda_file": "apache-airflow-providers-atlassian-jira-3.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http",
+        "atlassian-python-api"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-http",
+      "atlassian-python-api>3.41.10"
+    ]
+  },
+  "apache_airflow_providers_atlassian_jira-3.2.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:13.251786+00:00",
+    "conda_file": "apache-airflow-providers-atlassian-jira-3.2.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http",
+        "atlassian-python-api"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-http",
+      "atlassian-python-api>3.41.10"
+    ]
+  },
+  "apache_airflow_providers_atlassian_jira-3.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:13.442874+00:00",
+    "conda_file": "apache-airflow-providers-atlassian-jira-3.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http",
+        "atlassian-python-api"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-http",
+      "atlassian-python-api>3.41.10"
+    ]
+  },
+  "apache_airflow_providers_atlassian_jira-3.1.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:13.361630+00:00",
+    "conda_file": "apache-airflow-providers-atlassian-jira-3.1.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "atlassian-python-api"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "atlassian-python-api>3.41.10"
+    ]
+  },
+  "apache_airflow_providers_atlassian_jira-3.1.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:13.450256+00:00",
+    "conda_file": "apache-airflow-providers-atlassian-jira-3.1.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "atlassian-python-api"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "atlassian-python-api>3.41.10"
+    ]
+  }
+}

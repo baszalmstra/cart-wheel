@@ -1,0 +1,8 @@
+# Package configuration for spinners
+conda_forge = "spinners"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "spinners-0.0.24-py3-none-any.whl" },
+]

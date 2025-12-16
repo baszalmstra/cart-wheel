@@ -1,0 +1,12 @@
+# Package configuration for edit-distance
+conda_forge = "edit_distance"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "edit_distance-1.0.7-py3-none-any.whl" },
+  { filename = "edit_distance-1.0.6-py3-none-any.whl" },
+  { filename = "edit_distance-1.0.5-py3-none-any.whl" },
+  { filename = "edit_distance-1.0.4-py3-none-any.whl" },
+  { filename = "edit_distance-1.0.3-py3-none-any.whl" },
+]

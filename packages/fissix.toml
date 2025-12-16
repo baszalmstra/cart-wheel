@@ -1,0 +1,12 @@
+# Package configuration for fissix
+conda_forge = "fissix"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fissix-24.4.24-py3-none-any.whl" },
+  { filename = "fissix-21.11.13-py3-none-any.whl" },
+  { filename = "fissix-21.6.6-py3-none-any.whl" },
+  { filename = "fissix-20.8.0-py3-none-any.whl" },
+  { filename = "fissix-20.5.1-py3-none-any.whl" },
+]

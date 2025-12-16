@@ -1,0 +1,10 @@
+# Package configuration for pytest-skip-slow
+conda_forge = "pytest-skip-slow"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_skip_slow-0.0.5-py3-none-any.whl" },
+  { filename = "pytest_skip_slow-0.0.3-py3-none-any.whl" },
+  { filename = "pytest_skip_slow-0.0.2-py3-none-any.whl" },
+]

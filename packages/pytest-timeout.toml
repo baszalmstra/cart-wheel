@@ -1,0 +1,12 @@
+# Package configuration for pytest-timeout
+conda_forge = "pytest-timeout"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_timeout-2.4.0-py3-none-any.whl" },
+  { filename = "pytest_timeout-2.3.1-py3-none-any.whl" },
+  { filename = "pytest_timeout-2.2.0-py3-none-any.whl" },
+  { filename = "pytest_timeout-2.1.0-py3-none-any.whl" },
+  { filename = "pytest_timeout-2.0.2-py3-none-any.whl" },
+]

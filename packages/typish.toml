@@ -1,0 +1,12 @@
+# Package configuration for typish
+conda_forge = "typish"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "typish-1.9.3-py3-none-any.whl" },
+  { filename = "typish-1.9.2-py3-none-any.whl" },
+  { filename = "typish-1.9.1-py3-none-any.whl" },
+  { filename = "typish-1.9.0-py3-none-any.whl" },
+  { filename = "typish-1.8.0-py3-none-any.whl" },
+]

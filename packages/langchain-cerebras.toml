@@ -1,0 +1,11 @@
+# Package configuration for langchain-cerebras
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_cerebras-0.8.2-py3-none-any.whl" },
+  { filename = "langchain_cerebras-0.8.1-py3-none-any.whl" },
+  { filename = "langchain_cerebras-0.8.0-py3-none-any.whl" },
+  { filename = "langchain_cerebras-0.7.0-py3-none-any.whl" },
+  { filename = "langchain_cerebras-0.6.0-py3-none-any.whl" },
+]

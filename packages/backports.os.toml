@@ -1,0 +1,8 @@
+# Package configuration for backports.os
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "backports.os-0.1.1-py3-none-any.whl" },
+  { filename = "backports.os-0.1-py2.py3-none-any.whl" },
+]

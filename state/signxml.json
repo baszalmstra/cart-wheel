@@ -1,0 +1,112 @@
+{
+  "signxml-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac66cbf8d52adaaba2dbeb734ca5a9c85177dc1558fad1255340b52d144f14b5",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "cryptography",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "certifi>=2023.11.17",
+      "cryptography>=43",
+      "lxml<7,>=5.2.1",
+      "build; extra == 'test'",
+      "coverage; extra == 'test'",
+      "lxml-stubs; extra == 'test'",
+      "mypy; extra == 'test'",
+      "ruff; extra == 'test'",
+      "wheel; extra == 'test'"
+    ]
+  },
+  "signxml-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf612a3b7e7f81b68cdb823c0ddc46269ace5cf1fe3a36682ddfa919d4eaccf7",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "cryptography",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "certifi>=2023.11.17",
+      "cryptography>=43",
+      "lxml<6,>=5.2.1",
+      "build; extra == 'test'",
+      "coverage; extra == 'test'",
+      "lxml-stubs; extra == 'test'",
+      "mypy; extra == 'test'",
+      "ruff; extra == 'test'",
+      "wheel; extra == 'test'"
+    ]
+  },
+  "signxml-4.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4fe8d1b7dd348882559c57344c6041b3b8d080e814ce4e53576ab4eb03a4f707",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "cryptography",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "certifi>=2023.11.17",
+      "cryptography>=43",
+      "lxml<6,>=5.2.1",
+      "build; extra == 'test'",
+      "coverage; extra == 'test'",
+      "lxml-stubs; extra == 'test'",
+      "mypy; extra == 'test'",
+      "ruff; extra == 'test'",
+      "wheel; extra == 'test'"
+    ]
+  },
+  "signxml-4.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "deb1824a12a8440ad04f5fab5fde48c0a7ef74c5eebc1fa2c0a16561c0280ff1",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "cryptography",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "certifi>=2023.11.17",
+      "cryptography>=43",
+      "lxml<6,>=5.2.1",
+      "build; extra == 'test'",
+      "coverage; extra == 'test'",
+      "lxml-stubs; extra == 'test'",
+      "mypy; extra == 'test'",
+      "ruff; extra == 'test'",
+      "wheel; extra == 'test'"
+    ]
+  },
+  "signxml-4.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a220da40c28b7cdff8b15fe2552374fde282928cb7f097d6b556819b3620ca80",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "cryptography",
+        "certifi"
+      ]
+    },
+    "original_requirements": [
+      "lxml<6,>=5.2.1",
+      "cryptography>=43",
+      "certifi>=2023.11.17",
+      "ruff; extra == \"tests\"",
+      "coverage; extra == \"tests\"",
+      "build; extra == \"tests\"",
+      "wheel; extra == \"tests\"",
+      "mypy; extra == \"tests\"",
+      "lxml-stubs; extra == \"tests\""
+    ]
+  }
+}

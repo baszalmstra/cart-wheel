@@ -1,0 +1,147 @@
+{
+  "checkpoint_engine-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f02d20c42a352e81d6bea205006da05e70fa8c1dabb6dbe584c3e71cc9c7fc1c",
+    "dependencies": {
+      "required": [
+        "torch",
+        "fastapi",
+        "pydantic",
+        "safetensors",
+        "pyzmq",
+        "uvicorn",
+        "loguru",
+        "numpy",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.5.0",
+      "fastapi",
+      "pydantic>=2.0.0",
+      "safetensors",
+      "pyzmq",
+      "uvicorn",
+      "loguru",
+      "numpy",
+      "httpx",
+      "mooncake-transfer-engine>=0.3.5; extra == \"p2p\""
+    ]
+  },
+  "checkpoint_engine-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19c79f92facf8d1869177f765b30445c2b326cad378c60ee270e96600066f5e2",
+    "dependencies": {
+      "required": [
+        "torch",
+        "fastapi",
+        "pydantic",
+        "safetensors",
+        "pyzmq",
+        "uvicorn",
+        "loguru",
+        "numpy",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.5.0",
+      "fastapi",
+      "pydantic>=2.0.0",
+      "safetensors",
+      "pyzmq",
+      "uvicorn",
+      "loguru",
+      "numpy",
+      "httpx",
+      "mooncake-transfer-engine>=0.3.5; extra == \"p2p\""
+    ]
+  },
+  "checkpoint_engine-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f63c8c8688490de4270e406a8c8fefa69701610de30998a59909667dcd19468d",
+    "dependencies": {
+      "required": [
+        "torch",
+        "fastapi",
+        "pydantic",
+        "safetensors",
+        "pyzmq",
+        "uvicorn",
+        "loguru",
+        "numpy",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.5.0",
+      "fastapi",
+      "pydantic>=2.0.0",
+      "safetensors",
+      "pyzmq",
+      "uvicorn",
+      "loguru",
+      "numpy",
+      "httpx",
+      "mooncake-transfer-engine>=0.3.5; extra == \"p2p\""
+    ]
+  },
+  "checkpoint_engine-0.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a56b2ae22dd79abbacd821ed28428771feb7129dbd90b2c00315c3dbe4f687f0",
+    "dependencies": {
+      "required": [
+        "torch",
+        "fastapi",
+        "pydantic",
+        "safetensors",
+        "pyzmq",
+        "uvicorn",
+        "loguru",
+        "numpy",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.5.0",
+      "fastapi",
+      "pydantic>=2.0.0",
+      "safetensors",
+      "pyzmq",
+      "uvicorn",
+      "loguru",
+      "numpy",
+      "httpx",
+      "mooncake-transfer-engine>=0.3.5; extra == \"p2p\""
+    ]
+  },
+  "checkpoint_engine-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7806f550e5c667078b2f5203b229db071afc651eccc5cf04929687c59e8e5790",
+    "dependencies": {
+      "required": [
+        "torch",
+        "fastapi",
+        "pydantic",
+        "safetensors",
+        "pyzmq",
+        "uvicorn",
+        "loguru",
+        "numpy",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.5.0",
+      "fastapi",
+      "pydantic>=2.0.0",
+      "safetensors",
+      "pyzmq",
+      "uvicorn",
+      "loguru",
+      "numpy",
+      "httpx",
+      "mooncake-transfer-engine>=0.3.5; extra == \"p2p\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for httpx-sse
+conda_forge = "httpx-sse"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "httpx_sse-0.4.3-py3-none-any.whl" },
+  { filename = "httpx_sse-0.4.2-py3-none-any.whl" },
+  { filename = "httpx_sse-0.4.1-py3-none-any.whl" },
+  { filename = "httpx_sse-0.4.0-py3-none-any.whl" },
+  { filename = "httpx_sse-0.3.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for openinference-instrumentation-langchain
+conda_forge = "openinference-instrumentation-langchain"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openinference_instrumentation_langchain-0.1.56-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_langchain-0.1.55-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_langchain-0.1.54-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_langchain-0.1.53-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_langchain-0.1.52-py3-none-any.whl" },
+]

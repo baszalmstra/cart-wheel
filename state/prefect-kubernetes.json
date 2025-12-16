@@ -1,0 +1,118 @@
+{
+  "prefect_kubernetes-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dfd35f8df9744e5925979fc61e7bb9380653264eb2b2ccff8ce481467a2d484e",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "kubernetes-asyncio",
+        "tenacity",
+        "exceptiongroup",
+        "pyopenssl",
+        "kopf",
+        "python-json-logger"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "kubernetes-asyncio>=32.0.0",
+      "tenacity>=8.2.3",
+      "exceptiongroup",
+      "pyopenssl>=24.1.0",
+      "kopf>=1.37.4",
+      "python-json-logger>=3.3.0"
+    ]
+  },
+  "prefect_kubernetes-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44bdd71324328635bdc9c9bbf15752d292c9cb269bc3ebb90844fa782f26a2a7",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "kubernetes-asyncio",
+        "tenacity",
+        "exceptiongroup",
+        "pyopenssl",
+        "kopf",
+        "python-json-logger"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "kubernetes-asyncio>=32.0.0",
+      "tenacity>=8.2.3",
+      "exceptiongroup",
+      "pyopenssl>=24.1.0",
+      "kopf>=1.37.4",
+      "python-json-logger>=3.3.0"
+    ]
+  },
+  "prefect_kubernetes-0.6.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b97603f4c2cdde73968eb0bf21f2b0a64349a1efb02b82747c06655bbc5395a",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "kubernetes-asyncio",
+        "tenacity",
+        "exceptiongroup",
+        "pyopenssl",
+        "kopf",
+        "python-json-logger"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "kubernetes-asyncio>=32.0.0",
+      "tenacity>=8.2.3",
+      "exceptiongroup",
+      "pyopenssl>=24.1.0",
+      "kopf>=1.37.4",
+      "python-json-logger>=3.3.0"
+    ]
+  },
+  "prefect_kubernetes-0.6.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d10b3f6799997711d702e8a5f5745486705ba853ba88f4b62cce3cc8d173b590",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "kubernetes-asyncio",
+        "tenacity",
+        "exceptiongroup",
+        "pyopenssl",
+        "kopf"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "kubernetes-asyncio>=32.0.0",
+      "tenacity>=8.2.3",
+      "exceptiongroup",
+      "pyopenssl>=24.1.0",
+      "kopf>=1.37.4"
+    ]
+  },
+  "prefect_kubernetes-0.6.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b8151b20031cad98a44139a31e07023a116690516b0919b5b4f0353b5dcee19d",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "kubernetes-asyncio",
+        "tenacity",
+        "exceptiongroup",
+        "pyopenssl",
+        "kopf"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.3.5",
+      "kubernetes-asyncio>=32.0.0",
+      "tenacity>=8.2.3",
+      "exceptiongroup",
+      "pyopenssl>=24.1.0",
+      "kopf>=1.37.4"
+    ]
+  }
+}

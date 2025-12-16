@@ -1,0 +1,12 @@
+# Package configuration for types-psutil
+conda_forge = "types-psutil"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_psutil-7.1.3.20251211-py3-none-any.whl" },
+  { filename = "types_psutil-7.1.3.20251210-py3-none-any.whl" },
+  { filename = "types_psutil-7.1.3.20251202-py3-none-any.whl" },
+  { filename = "types_psutil-7.1.3.20251130-py3-none-any.whl" },
+  { filename = "types_psutil-7.1.3.20251129-py3-none-any.whl" },
+]

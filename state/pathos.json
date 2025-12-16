@@ -1,0 +1,92 @@
+{
+  "pathos-0.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe44883448c05c80d518b61df491b496f6190bb6860253f3254d8c9afb53c340",
+    "dependencies": {
+      "required": [
+        "ppft",
+        "dill",
+        "pox",
+        "multiprocess"
+      ]
+    },
+    "original_requirements": [
+      "ppft>=1.7.7",
+      "dill>=0.4.0",
+      "pox>=0.3.6",
+      "multiprocess>=0.70.18"
+    ]
+  },
+  "pathos-0.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e04616c6448608ad1f809360be22e3f2078d949a36a81e6991da6c2dd1f82513",
+    "dependencies": {
+      "required": [
+        "ppft",
+        "dill",
+        "pox",
+        "multiprocess"
+      ]
+    },
+    "original_requirements": [
+      "ppft >=1.7.6.9",
+      "dill >=0.3.9",
+      "pox >=0.3.5",
+      "multiprocess >=0.70.17"
+    ]
+  },
+  "pathos-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d669275e6eb4b3fbcd2846d7a6d1bba315fe23add0c614445ba1408d8b38bafe",
+    "dependencies": {
+      "required": [
+        "ppft",
+        "dill",
+        "pox",
+        "multiprocess"
+      ]
+    },
+    "original_requirements": [
+      "ppft (>=1.7.6.8)",
+      "dill (>=0.3.8)",
+      "pox (>=0.3.4)",
+      "multiprocess (>=0.70.16)"
+    ]
+  },
+  "pathos-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1c7145e2adcc19c7e9cac48f110ea5a63e300c1cc10c2947d4857dc97a47b46",
+    "dependencies": {
+      "required": [
+        "ppft",
+        "dill",
+        "pox",
+        "multiprocess"
+      ]
+    },
+    "original_requirements": [
+      "ppft (>=1.7.6.7)",
+      "dill (>=0.3.7)",
+      "pox (>=0.3.3)",
+      "multiprocess (>=0.70.15)"
+    ]
+  },
+  "pathos-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1f5a79b1c79a594330d451832642ee5bb61dd77dc75ba9e5c72087c77e8994c",
+    "dependencies": {
+      "required": [
+        "ppft",
+        "dill",
+        "pox",
+        "multiprocess"
+      ]
+    },
+    "original_requirements": [
+      "ppft (>=1.7.6.6)",
+      "dill (>=0.3.6)",
+      "pox (>=0.3.2)",
+      "multiprocess (>=0.70.14)"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+# Package configuration for singlestore-vectorstore
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "singlestore_vectorstore-0.1.2-py3-none-any.whl" },
+  { filename = "singlestore_vectorstore-0.1.1-py3-none-any.whl" },
+]

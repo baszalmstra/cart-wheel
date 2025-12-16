@@ -1,0 +1,11 @@
+# Package configuration for streamlit-pdf
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "streamlit_pdf-2.0.1-py3-none-any.whl" },
+  { filename = "streamlit_pdf-2.0.0-py3-none-any.whl" },
+  { filename = "streamlit_pdf-1.0.8-py3-none-any.whl" },
+  { filename = "streamlit_pdf-1.0.7-py3-none-any.whl" },
+  { filename = "streamlit_pdf-1.0.6-py3-none-any.whl" },
+]

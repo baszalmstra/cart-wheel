@@ -1,0 +1,8 @@
+# Package configuration for mypy-boto3-partnercentral-account
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_partnercentral_account-1.42.4-py3-none-any.whl" },
+  { filename = "mypy_boto3_partnercentral_account-1.42.3-py3-none-any.whl" },
+]

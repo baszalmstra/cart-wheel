@@ -1,0 +1,12 @@
+# Package configuration for authlib
+conda_forge = "authlib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "authlib-1.6.6-py2.py3-none-any.whl" },
+  { filename = "authlib-1.6.5-py2.py3-none-any.whl" },
+  { filename = "authlib-1.6.4-py2.py3-none-any.whl" },
+  { filename = "authlib-1.6.3-py2.py3-none-any.whl" },
+  { filename = "authlib-1.6.2-py2.py3-none-any.whl" },
+]

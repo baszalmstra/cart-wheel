@@ -1,0 +1,12 @@
+# Package configuration for azure-mgmt-resource
+conda_forge = "azure-mgmt-resource"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_mgmt_resource-24.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_resource-23.4.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_resource-23.3.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_resource-23.2.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_resource-23.1.1-py3-none-any.whl" },
+]

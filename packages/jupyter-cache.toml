@@ -1,0 +1,12 @@
+# Package configuration for jupyter-cache
+conda_forge = "jupyter-cache"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyter_cache-1.0.1-py3-none-any.whl" },
+  { filename = "jupyter_cache-1.0.0-py3-none-any.whl" },
+  { filename = "jupyter_cache-0.6.1-py3-none-any.whl" },
+  { filename = "jupyter_cache-0.6.0-py3-none-any.whl" },
+  { filename = "jupyter_cache-0.5.0-py3-none-any.whl" },
+]

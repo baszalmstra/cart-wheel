@@ -1,0 +1,12 @@
+# Package configuration for mypy-boto3-ssm
+conda_forge = "mypy-boto3-ssm"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_ssm-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_ssm-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_ssm-1.40.54-py3-none-any.whl" },
+  { filename = "mypy_boto3_ssm-1.40.37-py3-none-any.whl" },
+  { filename = "mypy_boto3_ssm-1.40.0-py3-none-any.whl" },
+]

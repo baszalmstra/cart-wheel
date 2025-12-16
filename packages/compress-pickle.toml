@@ -1,0 +1,12 @@
+# Package configuration for compress-pickle
+conda_forge = "compress-pickle"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "compress_pickle-2.1.0-py3-none-any.whl" },
+  { filename = "compress_pickle-2.0.1-py3-none-any.whl" },
+  { filename = "compress_pickle-2.0.0-py3-none-any.whl" },
+  { filename = "compress_pickle-1.2.0-py3-none-any.whl" },
+  { filename = "compress_pickle-1.1.1-py3-none-any.whl" },
+]

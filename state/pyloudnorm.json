@@ -1,0 +1,50 @@
+{
+  "pyloudnorm-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d7f12ebdd097a464d87ce2878fc4d942f15f8233e26cc03f33fefa226f869a14",
+    "dependencies": {
+      "required": [
+        "scipy",
+        "numpy",
+        "future"
+      ]
+    },
+    "original_requirements": [
+      "scipy (>=1.0.1)",
+      "numpy (>=1.14.2)",
+      "future (>=0.16.0)"
+    ]
+  },
+  "pyloudnorm-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d4ebefec5249ff439d684e3fe4c897239e98d8a554a974847d37f1123b90cb81",
+    "dependencies": {
+      "required": [
+        "scipy",
+        "numpy",
+        "future"
+      ]
+    },
+    "original_requirements": [
+      "scipy (>=1.0.1)",
+      "numpy (>=1.14.2)",
+      "future (>=0.16.0)"
+    ]
+  },
+  "pyloudnorm-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "00a959885f27106c8bdf506f1b9d2980a11ff8b9cf7eee5580af360c9ce600f5",
+    "dependencies": {
+      "required": [
+        "scipy",
+        "numpy",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "scipy (>=1.0.1)",
+      "numpy (>=1.14.2)",
+      "matplotlib (>=2.1.1)"
+    ]
+  }
+}

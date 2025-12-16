@@ -1,0 +1,10 @@
+# Package configuration for constantly
+conda_forge = "constantly"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "constantly-23.10.4-py3-none-any.whl" },
+  { filename = "constantly-15.1.0-py2.py3-none-any.whl" },
+  { filename = "constantly-15.0.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,77 @@
+{
+  "stempeg-0.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa5d5dcdfba10abf0c76b502c00808a6dedd86a14e64b298615249294e522bee",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "ffmpeg-python"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.6",
+      "ffmpeg-python>=0.2.0",
+      "pytest; extra == \"tests\""
+    ]
+  },
+  "stempeg-0.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a4e913ecec19168add05c445a43d7fff94763a3ea285a1b596af6557185d86c",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "ffmpeg-python"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.6",
+      "ffmpeg-python>=0.2.0",
+      "pytest; extra == \"tests\""
+    ]
+  },
+  "stempeg-0.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "83c9e4ac73edcc61a2a807eded0ae2c9f0b99ea3110e46756b3fff153a063838",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "ffmpeg-python"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.6",
+      "ffmpeg-python>=0.2.0",
+      "pytest; extra == \"tests\""
+    ]
+  },
+  "stempeg-0.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "130f384aafeb4429718421c7437bb1c9e24c851ae55f8b1de4d26c0d59ddb6a4",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "ffmpeg-python"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.6)",
+      "ffmpeg-python (>=0.2.0)",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "stempeg-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c97eb344e03a21387b4a5d325191321fc85876fb5825cca52168953d3932ee11",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "ffmpeg-python"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.6)",
+      "ffmpeg-python (>=0.2.0)",
+      "pytest ; extra == 'tests'"
+    ]
+  }
+}

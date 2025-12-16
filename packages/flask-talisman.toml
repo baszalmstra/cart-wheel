@@ -1,0 +1,12 @@
+# Package configuration for flask-talisman
+conda_forge = "flask-talisman"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flask_talisman-1.1.0-py2.py3-none-any.whl" },
+  { filename = "flask_talisman-1.0.0-py2.py3-none-any.whl" },
+  { filename = "flask_talisman-0.8.1-py2.py3-none-any.whl" },
+  { filename = "flask_talisman-0.8.0-py2.py3-none-any.whl" },
+  { filename = "flask_talisman-0.7.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for cherrypy
+conda_forge = "cherrypy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "CherryPy-18.10.0-py3-none-any.whl" },
+  { filename = "CherryPy-18.9.0-py3-none-any.whl" },
+  { filename = "CherryPy-18.8.0-py2.py3-none-any.whl" },
+  { filename = "CherryPy-18.7.0-py2.py3-none-any.whl" },
+  { filename = "CherryPy-18.6.1-py2.py3-none-any.whl" },
+]

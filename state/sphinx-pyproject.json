@@ -1,0 +1,44 @@
+{
+  "sphinx_pyproject-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3aca968919f5ecd390f96874c3f64a43c9c7fcfdc2fd4191a781ad9228501b52",
+    "dependencies": {
+      "required": [
+        "dom-toml",
+        "domdf-python-tools"
+      ]
+    },
+    "original_requirements": [
+      "dom-toml>=0.3.0",
+      "domdf-python-tools>=2.7.0"
+    ]
+  },
+  "sphinx_pyproject-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2b4bffbba28ff8bc52841b234322f58680359e99ffbd8489146022702e3bc90",
+    "dependencies": {
+      "required": [
+        "dom-toml",
+        "domdf-python-tools"
+      ]
+    },
+    "original_requirements": [
+      "dom-toml>=0.3.0",
+      "domdf-python-tools>=2.7.0"
+    ]
+  },
+  "sphinx_pyproject-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aaa974eb1bf9456c4bf9f97c9e1eb19469e337b5d30271f163085014ef7a8365",
+    "dependencies": {
+      "required": [
+        "dom-toml",
+        "domdf-python-tools"
+      ]
+    },
+    "original_requirements": [
+      "dom-toml>=0.3.0",
+      "domdf-python-tools>=2.7.0"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "aws_cdk.asset_node_proxy_agent_v6-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24a388b69a44d03bae6dbf864c4e25ba650d4b61c008b4568b94ffbb9a69e40e",
+    "dependencies": {
+      "required": [
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "jsii<2.0.0,>=1.103.1",
+      "publication>=0.0.3",
+      "typeguard<5.0.0,>=2.13.3"
+    ]
+  },
+  "aws_cdk.asset_node_proxy_agent_v6-2.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef2ff0634ab037e2ebddbe69d7c92515a847c6c8bb2abdfc85b089f5e87761cb",
+    "dependencies": {
+      "required": [
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "jsii <2.0.0,>=1.96.0",
+      "publication >=0.0.3",
+      "typeguard ~=2.13.3"
+    ]
+  },
+  "aws_cdk.asset_node_proxy_agent_v6-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e442673d4f93137ab165b75386761b1d46eea25fc5015e5145ae3afa9da06b6e",
+    "dependencies": {
+      "required": [
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "jsii <2.0.0,>=1.86.1",
+      "publication >=0.0.3",
+      "typeguard ~=2.13.3"
+    ]
+  },
+  "aws_cdk.asset_node_proxy_agent_v6-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aff1fd7e2bc1535818f7dd254d25d16bff2888bf3ec3effd410c5ffc98605a17",
+    "dependencies": {
+      "required": [
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "jsii <2.0.0,>=1.86.1",
+      "publication >=0.0.3",
+      "typeguard ~=2.13.3"
+    ]
+  }
+}

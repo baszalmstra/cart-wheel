@@ -1,0 +1,162 @@
+{
+  "cfn_lint-1.42.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f2e5d6036124758b8361858ac1e174f299923b9e6943a1c3519e2e18b23bcb51",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "aws-sam-translator",
+        "jsonpatch",
+        "networkx",
+        "sympy",
+        "regex",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml>5.4",
+      "aws-sam-translator>=1.97.0",
+      "jsonpatch",
+      "networkx<4,>=2.4",
+      "sympy>=1.0.0",
+      "regex",
+      "typing_extensions",
+      "pydot; extra == \"graph\"",
+      "junit-xml~=1.9; extra == \"junit\"",
+      "jschema_to_python~=1.2.3; extra == \"sarif\"",
+      "sarif-om~=1.0.4; extra == \"sarif\"",
+      "pydot; extra == \"full\"",
+      "junit-xml~=1.9; extra == \"full\"",
+      "jschema_to_python~=1.2.3; extra == \"full\"",
+      "sarif-om~=1.0.4; extra == \"full\""
+    ]
+  },
+  "cfn_lint-1.42.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "431523d3bc32f2db411451b8010ccaf770556bebfe44d6df75c1a17ecf957496",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "aws-sam-translator",
+        "jsonpatch",
+        "networkx",
+        "sympy",
+        "regex",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml>5.4",
+      "aws-sam-translator>=1.97.0",
+      "jsonpatch",
+      "networkx<4,>=2.4",
+      "sympy>=1.0.0",
+      "regex",
+      "typing_extensions",
+      "pydot; extra == \"graph\"",
+      "junit-xml~=1.9; extra == \"junit\"",
+      "jschema_to_python~=1.2.3; extra == \"sarif\"",
+      "sarif-om~=1.0.4; extra == \"sarif\"",
+      "pydot; extra == \"full\"",
+      "junit-xml~=1.9; extra == \"full\"",
+      "jschema_to_python~=1.2.3; extra == \"full\"",
+      "sarif-om~=1.0.4; extra == \"full\""
+    ]
+  },
+  "cfn_lint-1.41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd43f76f59a664b2bad580840827849fac0d56a3b80e9a41315d8ab5ff6b563a",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "aws-sam-translator",
+        "jsonpatch",
+        "networkx",
+        "sympy",
+        "regex",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml>5.4",
+      "aws-sam-translator>=1.97.0",
+      "jsonpatch",
+      "networkx<4,>=2.4",
+      "sympy>=1.0.0",
+      "regex",
+      "typing_extensions",
+      "pydot; extra == \"graph\"",
+      "junit-xml~=1.9; extra == \"junit\"",
+      "jschema_to_python~=1.2.3; extra == \"sarif\"",
+      "sarif-om~=1.0.4; extra == \"sarif\"",
+      "pydot; extra == \"full\"",
+      "junit-xml~=1.9; extra == \"full\"",
+      "jschema_to_python~=1.2.3; extra == \"full\"",
+      "sarif-om~=1.0.4; extra == \"full\""
+    ]
+  },
+  "cfn_lint-1.40.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b8bf9dac877842633d8403a8b2c31874b21c9922d74813da34e552b4cf03915",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "aws-sam-translator",
+        "jsonpatch",
+        "networkx",
+        "sympy",
+        "regex",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml>5.4",
+      "aws-sam-translator>=1.97.0",
+      "jsonpatch",
+      "networkx<4,>=2.4",
+      "sympy>=1.0.0",
+      "regex",
+      "typing_extensions",
+      "pydot; extra == \"graph\"",
+      "junit-xml~=1.9; extra == \"junit\"",
+      "jschema_to_python~=1.2.3; extra == \"sarif\"",
+      "sarif-om~=1.0.4; extra == \"sarif\"",
+      "pydot; extra == \"full\"",
+      "junit-xml~=1.9; extra == \"full\"",
+      "jschema_to_python~=1.2.3; extra == \"full\"",
+      "sarif-om~=1.0.4; extra == \"full\""
+    ]
+  },
+  "cfn_lint-1.40.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d13987b5a1726c1b4e8e704352c24d8a697b7b721801b52cf9396279dcbf23ef",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "aws-sam-translator",
+        "jsonpatch",
+        "networkx",
+        "sympy",
+        "regex",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml>5.4",
+      "aws-sam-translator>=1.97.0",
+      "jsonpatch",
+      "networkx<4,>=2.4",
+      "sympy>=1.0.0",
+      "regex",
+      "typing_extensions",
+      "pydot; extra == \"graph\"",
+      "junit-xml~=1.9; extra == \"junit\"",
+      "jschema_to_python~=1.2.3; extra == \"sarif\"",
+      "sarif-om~=1.0.4; extra == \"sarif\"",
+      "pydot; extra == \"full\"",
+      "junit-xml~=1.9; extra == \"full\"",
+      "jschema_to_python~=1.2.3; extra == \"full\"",
+      "sarif-om~=1.0.4; extra == \"full\""
+    ]
+  }
+}

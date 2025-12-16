@@ -1,0 +1,12 @@
+# Package configuration for prometheus-client
+conda_forge = "prometheus_client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "prometheus_client-0.23.1-py3-none-any.whl" },
+  { filename = "prometheus_client-0.22.1-py3-none-any.whl" },
+  { filename = "prometheus_client-0.22.0-py3-none-any.whl" },
+  { filename = "prometheus_client-0.21.1-py3-none-any.whl" },
+  { filename = "prometheus_client-0.21.0-py3-none-any.whl" },
+]

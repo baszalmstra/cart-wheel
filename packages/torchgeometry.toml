@@ -1,0 +1,8 @@
+# Package configuration for torchgeometry
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torchgeometry-0.1.2-py2.py3-none-any.whl" },
+  { filename = "torchgeometry-0.1.1-py2.py3-none-any.whl" },
+]

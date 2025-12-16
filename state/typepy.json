@@ -1,0 +1,102 @@
+{
+  "typepy-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d5ed3e0c7f49521bff0603dd08cf8d453371cf68d65a29d3d0038552ccc46e2e",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder<2,>=1.0.0",
+      "python-dateutil<3.0.0,>=2.8.0; extra == \"datetime\"",
+      "pytz>=2018.9; extra == \"datetime\"",
+      "packaging; extra == \"datetime\"",
+      "pytest>=6.0.1; extra == \"test\"",
+      "tcolorpy; extra == \"test\"",
+      "python-dateutil<3.0.0,>=2.8.0; extra == \"test\"",
+      "pytz>=2018.9; extra == \"test\"",
+      "packaging; extra == \"test\""
+    ]
+  },
+  "typepy-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "09ad8ac81afd471214e35c04d80712501e834b391e0bf753a51838324df330a6",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder<2,>=1.0.0",
+      "python-dateutil<3.0.0,>=2.8.0; extra == \"datetime\"",
+      "pytz>=2018.9; extra == \"datetime\"",
+      "packaging; extra == \"datetime\"",
+      "pytest>=6.0.1; extra == \"test\"",
+      "tcolorpy; extra == \"test\"",
+      "python-dateutil<3.0.0,>=2.8.0; extra == \"test\"",
+      "pytz>=2018.9; extra == \"test\"",
+      "packaging; extra == \"test\""
+    ]
+  },
+  "typepy-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d5d1022a424132622993800f1d2cd16cfdb691ac4e3b9c325f0fcb37799db1ae",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder <2,>=1.0.0",
+      "python-dateutil <3.0.0,>=2.8.0 ; extra == 'datetime'",
+      "pytz >=2018.9 ; extra == 'datetime'",
+      "packaging ; extra == 'datetime'",
+      "pytest >=6.0.1 ; extra == 'test'",
+      "tcolorpy ; extra == 'test'",
+      "python-dateutil <3.0.0,>=2.8.0 ; extra == 'test'",
+      "pytz >=2018.9 ; extra == 'test'",
+      "packaging ; extra == 'test'"
+    ]
+  },
+  "typepy-1.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "892566bff279368d63f02901aba0a3ce78cd7a319ec1f2bf6c8baab3520207a3",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder (<2,>=1.0.0)",
+      "python-dateutil (<3.0.0,>=2.8.0) ; extra == 'datetime'",
+      "pytz (>=2018.9) ; extra == 'datetime'",
+      "packaging ; extra == 'datetime'",
+      "pytest (>=6.0.1) ; extra == 'test'",
+      "tcolorpy ; extra == 'test'",
+      "python-dateutil (<3.0.0,>=2.8.0) ; extra == 'test'",
+      "pytz (>=2018.9) ; extra == 'test'",
+      "packaging ; extra == 'test'"
+    ]
+  },
+  "typepy-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf1913982969cf6348152c4a5feec08e324addd99670999e57cdb3ad87a61e9a",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder (<2,>=1.0.0)",
+      "python-dateutil (<3.0.0,>=2.8.0) ; extra == 'datetime'",
+      "pytz (>=2018.9) ; extra == 'datetime'",
+      "packaging ; extra == 'datetime'",
+      "pytest (>=6.0.1) ; extra == 'test'",
+      "tcolorpy ; extra == 'test'",
+      "python-dateutil (<3.0.0,>=2.8.0) ; extra == 'test'",
+      "pytz (>=2018.9) ; extra == 'test'",
+      "packaging ; extra == 'test'"
+    ]
+  }
+}

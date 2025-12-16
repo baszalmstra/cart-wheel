@@ -1,0 +1,9 @@
+# Package configuration for kt-legacy
+conda_forge = "kt-legacy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kt_legacy-1.0.5-py3-none-any.whl" },
+  { filename = "kt_legacy-1.0.4-py3-none-any.whl" },
+]

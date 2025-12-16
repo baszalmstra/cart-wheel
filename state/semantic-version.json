@@ -1,0 +1,65 @@
+{
+  "semantic_version-2.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de78a3b8e0feda74cabc54aab2da702113e33ac9d9eb9d2389bcf1f58b7d9177",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Django (>=1.11) ; extra == 'dev'",
+      "nose2 ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "check-manifest ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "zest.releaser[recommended] ; extra == 'dev'",
+      "readme-renderer (<25.0) ; (python_version == \"3.4\") and extra == 'dev'",
+      "colorama (<=0.4.1) ; (python_version == \"3.4\") and extra == 'dev'",
+      "Sphinx ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'"
+    ]
+  },
+  "semantic_version-2.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db2504ab37902dd2c9876ece53567aa43a5b2a417fbe188097b2048fff46da3d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Django (>=1.11) ; extra == 'dev'",
+      "nose2 ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "check-manifest ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "zest.releaser[recommended] ; extra == 'dev'",
+      "readme-renderer (<25.0) ; (python_version == \"3.4\") and extra == 'dev'",
+      "colorama (<=0.4.1) ; (python_version == \"3.4\") and extra == 'dev'",
+      "Sphinx ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'"
+    ]
+  },
+  "semantic_version-2.8.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "45e4b32ee9d6d70ba5f440ec8cc5221074c7f4b0e8918bdab748cc37912440a9",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "semantic_version-2.8.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4eedff095ecdd7790a9e6d7130d49250209e0c7bf6741423c4a4017d9bac4c04",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "semantic_version-2.8.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bbfc594c9576011f405f8e8c9313b9030c3f368d4565092fd57b73ea357fdcef",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

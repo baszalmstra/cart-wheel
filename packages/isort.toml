@@ -1,0 +1,12 @@
+# Package configuration for isort
+conda_forge = "isort"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "isort-7.0.0-py3-none-any.whl" },
+  { filename = "isort-6.1.0-py3-none-any.whl" },
+  { filename = "isort-6.0.1-py3-none-any.whl" },
+  { filename = "isort-6.0.0-py3-none-any.whl" },
+  { filename = "isort-5.13.2-py3-none-any.whl" },
+]

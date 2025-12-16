@@ -1,0 +1,11 @@
+# Package configuration for thop
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "thop-0.1.1.post2209072238-py3-none-any.whl" },
+  { filename = "thop-0.1.1.post2207130030-py3-none-any.whl" },
+  { filename = "thop-0.1.0.post2207010342-py3-none-any.whl" },
+  { filename = "thop-0.1.0.post2206102148-py3-none-any.whl" },
+  { filename = "thop-0.0.31.post2005241907-py3-none-any.whl" },
+]

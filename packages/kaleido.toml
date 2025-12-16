@@ -1,0 +1,10 @@
+# Package configuration for kaleido
+conda_forge = "python-kaleido"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kaleido-1.2.0-py3-none-any.whl" },
+  { filename = "kaleido-1.1.0-py3-none-any.whl" },
+  { filename = "kaleido-1.0.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for types-aiofiles
+conda_forge = "types-aiofiles"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiofiles-25.1.0.20251011-py3-none-any.whl" },
+  { filename = "types_aiofiles-24.1.0.20250822-py3-none-any.whl" },
+  { filename = "types_aiofiles-24.1.0.20250809-py3-none-any.whl" },
+  { filename = "types_aiofiles-24.1.0.20250801-py3-none-any.whl" },
+  { filename = "types_aiofiles-24.1.0.20250708-py3-none-any.whl" },
+]

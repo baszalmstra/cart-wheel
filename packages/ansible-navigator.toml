@@ -1,0 +1,11 @@
+# Package configuration for ansible-navigator
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ansible_navigator-25.12.0-py3-none-any.whl" },
+  { filename = "ansible_navigator-25.11.0-py3-none-any.whl" },
+  { filename = "ansible_navigator-25.9.0-py3-none-any.whl" },
+  { filename = "ansible_navigator-25.8.0-py3-none-any.whl" },
+  { filename = "ansible_navigator-25.5.0-py3-none-any.whl" },
+]

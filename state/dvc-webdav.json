@@ -1,0 +1,157 @@
+{
+  "dvc_webdav-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e7ad8d1d1a1cb04505752a71474d183f934a493acc5deb07a72530e6cfd03448",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "webdav4"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "webdav4>=0.9.3",
+      "dvc-webdav[tests]; extra == \"dev\"",
+      "mypy==1.19.0; extra == \"dev\"",
+      "dvc[testing]; extra == \"tests\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-xdist>=3.2; extra == \"tests\"",
+      "wsgidav<5,>=3; extra == \"tests\"",
+      "cheroot<12,>=8.6; extra == \"tests\"",
+      "pytest-mock<4,>=3.15.1; extra == \"tests\""
+    ]
+  },
+  "dvc_webdav-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90f19ae5bd6254723bea0a1b47bfafc636769f454777c4ef1d6a9d74dca4e525",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "webdav4"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "webdav4 >=0.9.3",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==6.2.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "wsgidav ==3.1.1 ; extra == 'tests'",
+      "cheroot ==8.6.0 ; extra == 'tests'",
+      "pylint ==2.15.9 ; extra == 'tests'",
+      "mypy ==0.991 ; extra == 'tests'"
+    ]
+  },
+  "dvc_webdav-2.19.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6cb328a3cde34be6a10a14517d0dadd3ac8efa8b1e6a792f3e976b78111ba68d",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "webdav4"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "webdav4 (>=0.9.3)",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "wsgidav (==3.1.1) ; extra == 'tests'",
+      "cheroot (==8.6.0) ; extra == 'tests'",
+      "pylint (==2.15.9) ; extra == 'tests'",
+      "mypy (==0.991) ; extra == 'tests'"
+    ]
+  },
+  "dvc_webdav-2.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3622660b0558be525c06d8ef77ceca7d51e7ffa9d0288f02eb355a0d59e5c1c",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "webdav4"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "webdav4 (>=0.9.3)",
+      "wheel (==0.37.0) ; extra == 'tests'",
+      "dvc ; extra == 'tests'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "pytest-docker (==0.10.3) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "mock (==4.0.3) ; extra == 'tests'",
+      "rangehttpserver (==1.2.0) ; extra == 'tests'",
+      "wget (==3.2) ; extra == 'tests'",
+      "filelock (==3.3.2) ; extra == 'tests'",
+      "wsgidav (==3.1.1) ; extra == 'tests'",
+      "crc32c (==2.2.post0) ; extra == 'tests'",
+      "xmltodict (==0.12.0) ; extra == 'tests'",
+      "Pygments (==2.10.0) ; extra == 'tests'",
+      "collective.checkdocs (==0.2) ; extra == 'tests'",
+      "pydocstyle (==6.1.1) ; extra == 'tests'",
+      "pylint (==2.11.1) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "pylint-plugin-utils (==0.6) ; extra == 'tests'",
+      "mypy (==0.910) ; extra == 'tests'",
+      "types-requests (==2.25.11) ; extra == 'tests'",
+      "types-tabulate (==0.8.3) ; extra == 'tests'",
+      "types-toml (==0.10.1) ; extra == 'tests'",
+      "pywin32 (>=225) ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_webdav-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "35b87b5a05b990ac2f079e48b21af02de73fd30cf9d91767adb7c60ba83ef720",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "webdav4"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "webdav4 (>=0.9.3)",
+      "wheel (==0.37.0) ; extra == 'tests'",
+      "dvc ; extra == 'tests'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "pytest-docker (==0.10.3) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "mock (==4.0.3) ; extra == 'tests'",
+      "rangehttpserver (==1.2.0) ; extra == 'tests'",
+      "wget (==3.2) ; extra == 'tests'",
+      "filelock (==3.3.2) ; extra == 'tests'",
+      "wsgidav (==3.1.1) ; extra == 'tests'",
+      "crc32c (==2.2.post0) ; extra == 'tests'",
+      "xmltodict (==0.12.0) ; extra == 'tests'",
+      "Pygments (==2.10.0) ; extra == 'tests'",
+      "collective.checkdocs (==0.2) ; extra == 'tests'",
+      "pydocstyle (==6.1.1) ; extra == 'tests'",
+      "pylint (==2.11.1) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "pylint-plugin-utils (==0.6) ; extra == 'tests'",
+      "mypy (==0.910) ; extra == 'tests'",
+      "types-requests (==2.25.11) ; extra == 'tests'",
+      "types-tabulate (==0.8.3) ; extra == 'tests'",
+      "types-toml (==0.10.1) ; extra == 'tests'",
+      "pywin32 (>=225) ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  }
+}

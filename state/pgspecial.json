@@ -1,0 +1,98 @@
+{
+  "pgspecial-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08d86faaf360603a25850e259efc083bded4c1e8ffd2cfe2950b8ceefdfb4c9c",
+    "dependencies": {
+      "required": [
+        "click",
+        "sqlparse",
+        "psycopg"
+      ]
+    },
+    "original_requirements": [
+      "click>=4.1",
+      "sqlparse>=0.1.19",
+      "psycopg>=3.0.10",
+      "pytest>=6.2.4; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "codecov>=1.5.1; extra == \"dev\"",
+      "pre-commit>=1.16.0; extra == \"dev\"",
+      "configobj>=5.0.6; extra == \"dev\"",
+      "ruff>=0.11.7; extra == \"dev\"",
+      "tox>=4.8.0; extra == \"dev\"",
+      "pdbpp>=0.10.3; extra == \"dev\""
+    ]
+  },
+  "pgspecial-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17df214444d8599cc9f17a774608ad70118954b43cff4ef030cb4ad9cf70cfcb",
+    "dependencies": {
+      "required": [
+        "click",
+        "sqlparse",
+        "psycopg"
+      ]
+    },
+    "original_requirements": [
+      "click>=4.1",
+      "sqlparse>=0.1.19",
+      "psycopg>=3.0.10",
+      "pytest>=6.2.4; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "codecov>=1.5.1; extra == \"dev\"",
+      "pre-commit>=1.16.0; extra == \"dev\"",
+      "configobj>=5.0.6; extra == \"dev\"",
+      "ruff>=0.11.7; extra == \"dev\"",
+      "tox>=4.8.0; extra == \"dev\"",
+      "pdbpp>=0.10.3; extra == \"dev\""
+    ]
+  },
+  "pgspecial-2.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe84f069247cccca037969fec46b4e699f68c23e0015fffd4c40d6bcd2aafcd5",
+    "dependencies": {
+      "required": [
+        "click",
+        "sqlparse",
+        "psycopg"
+      ]
+    },
+    "original_requirements": [
+      "click>=4.1",
+      "sqlparse>=0.1.19",
+      "psycopg>=3.0.10"
+    ]
+  },
+  "pgspecial-2.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a0d2f9cd85d94c11453a99b5c14e64136fde800f4a6c8f180500d3fc23789e7e",
+    "dependencies": {
+      "required": [
+        "click",
+        "sqlparse",
+        "psycopg"
+      ]
+    },
+    "original_requirements": [
+      "click >=4.1",
+      "sqlparse >=0.1.19",
+      "psycopg >=3.0.10"
+    ]
+  },
+  "pgspecial-2.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be841a21b0754bf8f277608c23577818798671f7bf3f9dafa9ec9d745da3c89d",
+    "dependencies": {
+      "required": [
+        "click",
+        "sqlparse",
+        "psycopg"
+      ]
+    },
+    "original_requirements": [
+      "click >=4.1",
+      "sqlparse >=0.1.19",
+      "psycopg >=3.0.10"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for jsonschema
+conda_forge = "jsonschema"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsonschema-4.25.1-py3-none-any.whl" },
+  { filename = "jsonschema-4.25.0-py3-none-any.whl" },
+  { filename = "jsonschema-4.24.1-py3-none-any.whl" },
+  { filename = "jsonschema-4.24.0-py3-none-any.whl" },
+  { filename = "jsonschema-4.23.0-py3-none-any.whl" },
+]

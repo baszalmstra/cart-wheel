@@ -1,0 +1,82 @@
+{
+  "llama_index_llms_openai_like-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ef2374916427e1a21db0ea5f624056fb323e13308c6722b3de0384dfecd467b",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-llms-openai",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.14.3",
+      "llama-index-llms-openai<0.7,>=0.6.0",
+      "transformers<5,>=4.37.0"
+    ]
+  },
+  "llama_index_llms_openai_like-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cbc6486a26bfd6bda9b6357282495c291565c9123c78e3f595f631daad740305",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-llms-openai",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.14.3",
+      "llama-index-llms-openai<0.7,>=0.6.0",
+      "transformers<5,>=4.37.0"
+    ]
+  },
+  "llama_index_llms_openai_like-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d196d9cd71f7a695a647767c3b09b8e532031f15a86a8d8519645bf77ac3b75",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-llms-openai",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.13.0",
+      "llama-index-llms-openai<0.6,>=0.5.0",
+      "transformers<5,>=4.37.0"
+    ]
+  },
+  "llama_index_llms_openai_like-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6bc4a749b70f659f9bb5ed4bd412a4089353eb58d28e8057db67b29d73436cc6",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-llms-openai",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.14,>=0.13.0",
+      "llama-index-llms-openai<0.6,>=0.5.0",
+      "transformers<5,>=4.37.0"
+    ]
+  },
+  "llama_index_llms_openai_like-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52a3cb5ce78049fde5c9926898b90e02bc04e3d23adbc991842e9ff574df9ea1",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-llms-openai",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.13,>=0.12.0",
+      "llama-index-llms-openai<0.5,>=0.4.0",
+      "transformers<5,>=4.37.0"
+    ]
+  }
+}

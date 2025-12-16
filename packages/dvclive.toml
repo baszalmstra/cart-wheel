@@ -1,0 +1,12 @@
+# Package configuration for dvclive
+conda_forge = "dvclive"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dvclive-3.49.0-py3-none-any.whl" },
+  { filename = "dvclive-3.48.5-py3-none-any.whl" },
+  { filename = "dvclive-3.48.4-py3-none-any.whl" },
+  { filename = "dvclive-3.48.3-py3-none-any.whl" },
+  { filename = "dvclive-3.48.2-py3-none-any.whl" },
+]

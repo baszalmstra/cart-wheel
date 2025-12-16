@@ -1,0 +1,118 @@
+{
+  "PyJWT-2.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcdd193e30abefd5debf142f9adfcdd2b58004e644f25406ffaebd50bd98dacb",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cryptography>=3.4.0; extra == \"crypto\"",
+      "coverage[toml]==5.0.4; extra == \"dev\"",
+      "cryptography>=3.4.0; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest<7.0.0,>=6.0.0; extra == \"dev\"",
+      "sphinx; extra == \"dev\"",
+      "sphinx-rtd-theme; extra == \"dev\"",
+      "zope.interface; extra == \"dev\"",
+      "sphinx; extra == \"docs\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "zope.interface; extra == \"docs\"",
+      "coverage[toml]==5.0.4; extra == \"tests\"",
+      "pytest<7.0.0,>=6.0.0; extra == \"tests\""
+    ]
+  },
+  "PyJWT-2.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "543b77207db656de204372350926bed5a86201c4cbff159f623f79c7bb487a15",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cryptography >=3.4.0 ; extra == 'crypto'",
+      "coverage[toml] ==5.0.4 ; extra == 'dev'",
+      "cryptography >=3.4.0 ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest <7.0.0,>=6.0.0 ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "zope.interface ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "zope.interface ; extra == 'docs'",
+      "coverage[toml] ==5.0.4 ; extra == 'tests'",
+      "pytest <7.0.0,>=6.0.0 ; extra == 'tests'"
+    ]
+  },
+  "PyJWT-2.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b02fb0f44517787776cf48f2ae25d8e14f300e6d7545a4315cee571a415e850",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cryptography >=3.4.0 ; extra == 'crypto'",
+      "sphinx ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "zope.interface ; extra == 'dev'",
+      "cryptography >=3.4.0 ; extra == 'dev'",
+      "pytest <7.0.0,>=6.0.0 ; extra == 'dev'",
+      "coverage[toml] ==5.0.4 ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "zope.interface ; extra == 'docs'",
+      "pytest <7.0.0,>=6.0.0 ; extra == 'tests'",
+      "coverage[toml] ==5.0.4 ; extra == 'tests'"
+    ]
+  },
+  "PyJWT-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "59127c392cc44c2da5bb3192169a91f429924e17aff6534d70fdc02ab3e04320",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions ; python_version <= \"3.7\"",
+      "cryptography (>=3.4.0) ; extra == 'crypto'",
+      "sphinx (<5.0.0,>=4.5.0) ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "zope.interface ; extra == 'dev'",
+      "cryptography (>=3.4.0) ; extra == 'dev'",
+      "pytest (<7.0.0,>=6.0.0) ; extra == 'dev'",
+      "coverage[toml] (==5.0.4) ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "sphinx (<5.0.0,>=4.5.0) ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "zope.interface ; extra == 'docs'",
+      "pytest (<7.0.0,>=6.0.0) ; extra == 'tests'",
+      "coverage[toml] (==5.0.4) ; extra == 'tests'"
+    ]
+  },
+  "PyJWT-2.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ba2b425b15ad5ef12f200dc67dd56af4e26de2331f965c5439994dad075876e1",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions ; python_version <= \"3.7\"",
+      "cryptography (>=3.4.0) ; extra == 'crypto'",
+      "sphinx (<5.0.0,>=4.5.0) ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "zope.interface ; extra == 'dev'",
+      "cryptography (>=3.4.0) ; extra == 'dev'",
+      "pytest (<7.0.0,>=6.0.0) ; extra == 'dev'",
+      "coverage[toml] (==5.0.4) ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "sphinx (<5.0.0,>=4.5.0) ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "zope.interface ; extra == 'docs'",
+      "pytest (<7.0.0,>=6.0.0) ; extra == 'tests'",
+      "coverage[toml] (==5.0.4) ; extra == 'tests'"
+    ]
+  }
+}

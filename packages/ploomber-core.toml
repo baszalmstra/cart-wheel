@@ -1,0 +1,12 @@
+# Package configuration for ploomber-core
+conda_forge = "ploomber-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ploomber_core-0.2.27-py3-none-any.whl" },
+  { filename = "ploomber_core-0.2.26-py3-none-any.whl" },
+  { filename = "ploomber_core-0.2.25-py3-none-any.whl" },
+  { filename = "ploomber_core-0.2.24-py3-none-any.whl" },
+  { filename = "ploomber_core-0.2.23-py3-none-any.whl" },
+]

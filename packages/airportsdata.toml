@@ -1,0 +1,12 @@
+# Package configuration for airportsdata
+conda_forge = "airportsdata"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "airportsdata-20250909-py3-none-any.whl" },
+  { filename = "airportsdata-20250811-py3-none-any.whl" },
+  { filename = "airportsdata-20250706-py3-none-any.whl" },
+  { filename = "airportsdata-20250622-py3-none-any.whl" },
+  { filename = "airportsdata-20250523-py3-none-any.whl" },
+]

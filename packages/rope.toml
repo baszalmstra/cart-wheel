@@ -1,0 +1,12 @@
+# Package configuration for rope
+conda_forge = "rope"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rope-1.14.0-py3-none-any.whl" },
+  { filename = "rope-1.13.0-py3-none-any.whl" },
+  { filename = "rope-1.12.0-py3-none-any.whl" },
+  { filename = "rope-1.11.0-py3-none-any.whl" },
+  { filename = "rope-1.10.0-py3-none-any.whl" },
+]

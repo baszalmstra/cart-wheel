@@ -1,0 +1,11 @@
+# Package configuration for types-pexpect
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_pexpect-4.9.0.20250916-py3-none-any.whl" },
+  { filename = "types_pexpect-4.9.0.20250809-py3-none-any.whl" },
+  { filename = "types_pexpect-4.9.0.20250516-py3-none-any.whl" },
+  { filename = "types_pexpect-4.9.0.20241208-py3-none-any.whl" },
+  { filename = "types_pexpect-4.9.0.20240806-py3-none-any.whl" },
+]

@@ -1,0 +1,84 @@
+{
+  "asteroid_filterbanks-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4932ac8b6acc6e08fb87cbe8ece84215b5a74eee284fe83acf3540a72a02eaf5",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "torch (>=1.8.0)",
+      "typing-extensions",
+      "librosa ; extra == 'all'",
+      "scipy ; extra == 'all'"
+    ]
+  },
+  "asteroid_filterbanks-0.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ffdf066cb79975ee5ddb876ae70498e18114e846f54613a4a04713859835c60",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "torch",
+      "librosa ; extra == 'all'",
+      "scipy ; extra == 'all'"
+    ]
+  },
+  "asteroid_filterbanks-0.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07993cd13584ba01b2b2ae2d8f3ebae386fcb97618476c62c60014c7cd79f183",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "torch",
+      "librosa ; extra == 'all'",
+      "scipy ; extra == 'all'"
+    ]
+  },
+  "asteroid_filterbanks-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "979843c216ba64e6ea1d47650c725fc452d4f9339504f4c99f55fd0299c52250",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "torch",
+      "librosa ; extra == 'all'",
+      "scipy ; extra == 'all'"
+    ]
+  },
+  "asteroid_filterbanks-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dfd41aee619f9ab365a6e6b5c418a93dc0c7951b14fd59283532b702d1a8d7c8",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "torch",
+      "librosa ; extra == 'all'",
+      "scipy ; extra == 'all'"
+    ]
+  }
+}

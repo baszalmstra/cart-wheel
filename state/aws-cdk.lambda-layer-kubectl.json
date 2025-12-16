@@ -1,0 +1,112 @@
+{
+  "aws_cdk.lambda_layer_kubectl-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c1cb48c65d736026084c154fc0235ca5ba4da4b626636d63307d694c02de4086",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-lambda (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.lambda_layer_kubectl-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d440bb3091440274c540d7226dd99dcbbb6e1046e17ea936fd2a39aebdcea639",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-lambda (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.lambda_layer_kubectl-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a850dece6fae74ea21c5e5a55f06876fb8b4957edfde05aafdcf036905e97ded",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-lambda (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.lambda_layer_kubectl-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fedc493c6f18eb3e93cf6598348a5c6c7b5c8ec5a31fe671cd2f8ac3b8ca7cdc",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-lambda (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.lambda_layer_kubectl-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1331643075ed0a4dcce36b89673631f2910dcf6e4eb977e982eaff814c07edad",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-lambda (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

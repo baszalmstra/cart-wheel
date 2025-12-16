@@ -1,0 +1,10 @@
+# Package configuration for darabonba-core
+conda_forge = "darabonba-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "darabonba_core-1.0.5-py3-none-any.whl" },
+  { filename = "darabonba_core-1.0.4-py3-none-any.whl" },
+  { filename = "darabonba_core-1.0.3-py3-none-any.whl" },
+]

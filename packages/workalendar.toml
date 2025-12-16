@@ -1,0 +1,12 @@
+# Package configuration for workalendar
+conda_forge = "workalendar"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "workalendar-17.0.0-py3-none-any.whl" },
+  { filename = "workalendar-16.4.0-py3-none-any.whl" },
+  { filename = "workalendar-16.3.0-py3-none-any.whl" },
+  { filename = "workalendar-16.2.0-py3-none-any.whl" },
+  { filename = "workalendar-16.1.0-py3-none-any.whl" },
+]

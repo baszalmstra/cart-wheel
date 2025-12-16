@@ -1,0 +1,82 @@
+{
+  "llama_index_embeddings_huggingface-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b63990cf71ee7a36c51f36657133fcf76130e9bf5dcf9eb5a73a5087106d6881",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "llama-index-core",
+        "sentence-transformers"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub[inference]>=0.19.0",
+      "llama-index-core<0.15,>=0.13.0",
+      "sentence-transformers>=2.6.1"
+    ]
+  },
+  "llama_index_embeddings_huggingface-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c24aba5265a7dbd6591394a8d2d64d0b978bb50b4b97c4e88cbf698b69fdd10",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "llama-index-core",
+        "sentence-transformers"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub[inference]>=0.19.0",
+      "llama-index-core<0.14,>=0.13.0",
+      "sentence-transformers>=2.6.1"
+    ]
+  },
+  "llama_index_embeddings_huggingface-0.5.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8260e1561df17ca510e241a90504b37cc7d8ac6f2d6aaad9732d04ca3ad988d1",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "llama-index-core",
+        "sentence-transformers"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub[inference]>=0.19.0",
+      "llama-index-core<0.13,>=0.12.0",
+      "sentence-transformers>=2.6.1"
+    ]
+  },
+  "llama_index_embeddings_huggingface-0.5.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc8dfb3d5f161c9d1647875f0d872209b02b8a85bd46747278c989359ece62b3",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "llama-index-core",
+        "sentence-transformers"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub[inference]>=0.19.0",
+      "llama-index-core<0.13,>=0.12.0",
+      "sentence-transformers>=2.6.1"
+    ]
+  },
+  "llama_index_embeddings_huggingface-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f181d6490ebb29f0e7ada93b53fdd9acf5808387cdd69b9f1b499a2380d38758",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "llama-index-core",
+        "sentence-transformers"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub[inference] (>=0.19.0)",
+      "llama-index-core (>=0.12.0,<0.13.0)",
+      "sentence-transformers (>=2.6.1)"
+    ]
+  }
+}

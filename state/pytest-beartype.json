@@ -1,0 +1,92 @@
+{
+  "pytest_beartype-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be6be04be4a143f965f21140d6661bab43dcd7c761d50cf6daa1b16848e5d2d0",
+    "dependencies": {
+      "required": [
+        "beartype",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "beartype>=0.19.0",
+      "pytest",
+      "black; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "tox; extra == \"dev\""
+    ]
+  },
+  "pytest_beartype-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "342a25fedeb019e38dc6cc738e0cae2ceaf53c24ef16c2b6aa99e59be50c8a32",
+    "dependencies": {
+      "required": [
+        "beartype",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "beartype",
+      "pytest",
+      "black; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "tox; extra == \"dev\""
+    ]
+  },
+  "pytest_beartype-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e6e693865669e0d71b4620f85c2dcdeea4231f8fe7f8f1c044cd4dbe198b96fc",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "beartype"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "beartype",
+      "black ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "tox ; extra == 'dev'"
+    ]
+  },
+  "pytest_beartype-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3203bc75e04b3d166623aaf5b58c766b3cecc0e0b7082013de9400c7a184605b",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "beartype"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "beartype",
+      "black ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "tox ; extra == 'dev'"
+    ]
+  },
+  "pytest_beartype-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "04045445ea1ed334d60ec4eb569a5128085a41a58d5c29a18b78d0c2637b4ba2",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "beartype"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "beartype",
+      "black ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "tox ; extra == 'dev'"
+    ]
+  }
+}

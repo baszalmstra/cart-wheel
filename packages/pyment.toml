@@ -1,0 +1,8 @@
+# Package configuration for pyment
+conda_forge = "pyment"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Pyment-0.3.3-py2.py3-none-any.whl" },
+]

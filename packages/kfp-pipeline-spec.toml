@@ -1,0 +1,12 @@
+# Package configuration for kfp-pipeline-spec
+conda_forge = "kfp-pipeline-spec"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kfp_pipeline_spec-2.15.2-py3-none-any.whl" },
+  { filename = "kfp_pipeline_spec-2.15.1-py3-none-any.whl" },
+  { filename = "kfp_pipeline_spec-2.15.0-py3-none-any.whl" },
+  { filename = "kfp_pipeline_spec-2.14.6-py3-none-any.whl" },
+  { filename = "kfp_pipeline_spec-2.14.3-py3-none-any.whl" },
+]

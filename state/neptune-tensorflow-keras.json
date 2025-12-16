@@ -1,0 +1,97 @@
+{
+  "neptune_tensorflow_keras-2.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "73f98a608a9645aff4283d18cdfc8e1c04874fe8226df3b0cc8f8883cb2d1835",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "tensorflow"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "tensorflow (>2.0.0)"
+    ]
+  },
+  "neptune_tensorflow_keras-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11799dbe1dae38114dc190c783e306e380081b459b7b9fec3c398a9964d0d36d",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "tensorflow"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "tensorflow (>2.0.0)"
+    ]
+  },
+  "neptune_tensorflow_keras-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aab0959b004919bc7dece9818378c972d038717322482bee890ae4ea3bc97187",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "tensorflow"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "tensorflow (>2.0.0)"
+    ]
+  },
+  "neptune_tensorflow_keras-2.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2dbf2ed27936f1aa5d697947b88e8376343fdd019ca38721f41b8dc31420de20",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "tensorflow"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "tensorflow (>2.0.0)"
+    ]
+  },
+  "neptune_tensorflow_keras-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e468a0513822ddcdde6e7b7f12ba34e40269e3865d3106b93ce8b36964d1da9a",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "tensorflow"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "tensorflow (>2.0.0)"
+    ]
+  }
+}

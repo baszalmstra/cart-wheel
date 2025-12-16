@@ -1,0 +1,12 @@
+# Package configuration for anyio
+conda_forge = "anyio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "anyio-4.12.0-py3-none-any.whl" },
+  { filename = "anyio-4.11.0-py3-none-any.whl" },
+  { filename = "anyio-4.10.0-py3-none-any.whl" },
+  { filename = "anyio-4.9.0-py3-none-any.whl" },
+  { filename = "anyio-4.8.0-py3-none-any.whl" },
+]

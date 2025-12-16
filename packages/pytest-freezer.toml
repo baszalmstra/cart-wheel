@@ -1,0 +1,12 @@
+# Package configuration for pytest-freezer
+conda_forge = "pytest-freezer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_freezer-0.4.9-py3-none-any.whl" },
+  { filename = "pytest_freezer-0.4.8-py3-none-any.whl" },
+  { filename = "pytest_freezer-0.4.7-py3-none-any.whl" },
+  { filename = "pytest_freezer-0.4.6-py3-none-any.whl" },
+  { filename = "pytest_freezer-0.4.5-py3-none-any.whl" },
+]

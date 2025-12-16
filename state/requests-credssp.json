@@ -1,0 +1,109 @@
+{
+  "requests_credssp-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "47c8b250eef663f9b55af179f341e823f1f7f63b8b2b9037063e641a2df4bfa3",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "pyspnego",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "cryptography",
+      "pyspnego (>=0.5.0)",
+      "requests (>=2.0.0)",
+      "pyspnego[kerberos] ; (sys_platform!=\"win32\") and extra == 'kerberos'"
+    ]
+  },
+  "requests_credssp-1.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "228d08c98e2769514f83f5a4706a283259d6a682719f80e742a0fc3b52a7eddf",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "pyasn1",
+        "pyopenssl",
+        "pyspnego",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "cryptography",
+      "pyasn1 (>=0.3.1)",
+      "pyOpenSSL (>=16.0.0)",
+      "pyspnego",
+      "requests (>=2.0.0)",
+      "pyspnego[kerberos] ; (sys_platform!=\"win32\") and extra == 'kerberos'"
+    ]
+  },
+  "requests_credssp-1.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d646565830d579073201e5cd1b17e90b1097b3370065ed61c6a4209246cace6c",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "pyasn1",
+        "pyopenssl",
+        "pyspnego",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "cryptography",
+      "pyasn1 (>=0.3.1)",
+      "pyOpenSSL (>=16.0.0)",
+      "pyspnego",
+      "requests (>=2.0.0)",
+      "gssapi (>=1.5.0) ; (sys_platform!=\"win32\") and extra == 'kerberos'",
+      "krb5 ; (sys_platform!=\"win32\") and extra == 'kerberos'"
+    ]
+  },
+  "requests_credssp-1.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "adac8893849069520623075047ff101004b1ed6713c379bb79a4066c11695357",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "six",
+        "pyasn1",
+        "pyopenssl",
+        "pyspnego",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "cryptography",
+      "six",
+      "pyasn1 (>=0.3.1)",
+      "pyOpenSSL (>=16.0.0)",
+      "pyspnego",
+      "requests (>=2.0.0)",
+      "gssapi (>=1.5.0) ; (sys_platform!=\"win32\") and extra == 'kerberos'"
+    ]
+  },
+  "requests_credssp-1.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4849423703d3bad9c832c40eb4a27002aaf86d4458bb8916dc5f5c725410c3e",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "ntlm-auth",
+        "six",
+        "pyasn1",
+        "pyopenssl",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "cryptography",
+      "ntlm-auth (>=1.2.0)",
+      "six",
+      "pyasn1 (>=0.3.1)",
+      "pyOpenSSL (>=16.0.0)",
+      "requests (>=2.0.0)",
+      "gssapi (>=1.5.0) ; (sys_platform!=\"win32\") and extra == 'kerberos'",
+      "pywin32 ; (sys_platform==\"win32\") and extra == 'kerberos'"
+    ]
+  }
+}

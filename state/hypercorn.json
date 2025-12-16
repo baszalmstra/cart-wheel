@@ -1,0 +1,157 @@
+{
+  "hypercorn-0.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "225e268f2c1c2f28f6d8f6db8f40cb8c992963610c5725e13ccfcddccb24b1cd",
+    "dependencies": {
+      "required": [
+        "exceptiongroup",
+        "h11",
+        "h2",
+        "priority",
+        "taskgroup",
+        "tomli",
+        "typing-extensions",
+        "wsproto"
+      ]
+    },
+    "original_requirements": [
+      "exceptiongroup>=1.1.0; python_version < \"3.11\"",
+      "h11",
+      "h2>=4.3.0",
+      "priority",
+      "taskgroup; python_version < \"3.11\"",
+      "tomli; python_version < \"3.11\"",
+      "typing_extensions; python_version < \"3.11\"",
+      "wsproto>=0.14.0",
+      "pydata_sphinx_theme; extra == \"docs\"",
+      "sphinxcontrib_mermaid; extra == \"docs\"",
+      "aioquic>=0.9.0; extra == \"h3\"",
+      "trio; extra == \"trio\"",
+      "uvloop; extra == \"uvloop\""
+    ]
+  },
+  "hypercorn-0.17.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "059215dec34537f9d40a69258d323f56344805efb462959e727152b0aa504547",
+    "dependencies": {
+      "required": [
+        "exceptiongroup",
+        "h11",
+        "h2",
+        "priority",
+        "taskgroup",
+        "tomli",
+        "typing-extensions",
+        "wsproto"
+      ]
+    },
+    "original_requirements": [
+      "aioquic (>=0.9.0,<1.0) ; extra == \"h3\"",
+      "exceptiongroup (>=1.1.0) ; python_version < \"3.11\"",
+      "h11",
+      "h2 (>=3.1.0)",
+      "priority",
+      "pydata_sphinx_theme ; extra == \"docs\"",
+      "sphinxcontrib_mermaid ; extra == \"docs\"",
+      "taskgroup ; python_version < \"3.11\"",
+      "tomli ; python_version < \"3.11\"",
+      "trio (>=0.22.0) ; extra == \"trio\"",
+      "typing_extensions ; python_version < \"3.11\"",
+      "uvloop (>=0.18) ; (platform_system != \"Windows\") and (extra == \"uvloop\")",
+      "wsproto (>=0.14.0)"
+    ]
+  },
+  "hypercorn-0.17.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eaa97b13c1fd8857cf31af34640704382ce3ed53cff6b3192869ea5f8244c6b1",
+    "dependencies": {
+      "required": [
+        "exceptiongroup",
+        "h11",
+        "h2",
+        "priority",
+        "taskgroup",
+        "tomli",
+        "typing-extensions",
+        "wsproto"
+      ]
+    },
+    "original_requirements": [
+      "aioquic (>=0.9.0,<1.0) ; extra == \"h3\"",
+      "exceptiongroup (>=1.1.0) ; python_version < \"3.11\"",
+      "h11",
+      "h2 (>=3.1.0)",
+      "priority",
+      "pydata_sphinx_theme ; extra == \"docs\"",
+      "sphinxcontrib_mermaid ; extra == \"docs\"",
+      "taskgroup ; python_version < \"3.11\"",
+      "tomli ; python_version < \"3.11\"",
+      "trio (>=0.22.0) ; extra == \"trio\"",
+      "typing_extensions ; python_version < \"3.11\"",
+      "uvloop ; (platform_system != \"Windows\") and (extra == \"uvloop\")",
+      "wsproto (>=0.14.0)"
+    ]
+  },
+  "hypercorn-0.17.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51512bb5a52b73bb170e3632ca8daab99d226f1ab1d5b1dabfb20cd2594400e2",
+    "dependencies": {
+      "required": [
+        "exceptiongroup",
+        "h11",
+        "h2",
+        "priority",
+        "taskgroup",
+        "tomli",
+        "typing-extensions",
+        "wsproto"
+      ]
+    },
+    "original_requirements": [
+      "aioquic (>=0.9.0,<1.0) ; extra == \"h3\"",
+      "exceptiongroup (>=1.1.0) ; python_version < \"3.11\"",
+      "h11",
+      "h2 (>=3.1.0)",
+      "priority",
+      "pydata_sphinx_theme ; extra == \"docs\"",
+      "sphinxcontrib_mermaid ; extra == \"docs\"",
+      "taskgroup ; python_version < \"3.11\"",
+      "tomli ; python_version < \"3.11\"",
+      "trio (>=0.22.0) ; extra == \"trio\"",
+      "typing_extensions ; python_version < \"3.11\"",
+      "uvloop ; (platform_system != \"Windows\") and (extra == \"uvloop\")",
+      "wsproto (>=0.14.0)"
+    ]
+  },
+  "hypercorn-0.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d44d8f39ac733b2c566481f5be5b00350e202b0f58108a8457ea2f0c66d63fed",
+    "dependencies": {
+      "required": [
+        "exceptiongroup",
+        "h11",
+        "h2",
+        "priority",
+        "taskgroup",
+        "tomli",
+        "typing-extensions",
+        "wsproto"
+      ]
+    },
+    "original_requirements": [
+      "aioquic (>=0.9.0,<1.0) ; extra == \"h3\"",
+      "exceptiongroup (>=1.1.0) ; python_version < \"3.11\"",
+      "h11",
+      "h2 (>=3.1.0)",
+      "priority",
+      "pydata_sphinx_theme ; extra == \"docs\"",
+      "sphinxcontrib_mermaid ; extra == \"docs\"",
+      "taskgroup ; python_version < \"3.11\"",
+      "tomli ; python_version < \"3.11\"",
+      "trio (>=0.22.0) ; extra == \"trio\"",
+      "typing_extensions ; python_version < \"3.11\"",
+      "uvloop ; (platform_system != \"Windows\") and (extra == \"uvloop\")",
+      "wsproto (>=0.14.0)"
+    ]
+  }
+}

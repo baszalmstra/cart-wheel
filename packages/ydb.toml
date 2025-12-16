@@ -1,0 +1,12 @@
+# Package configuration for ydb
+conda_forge = "ydb"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ydb-3.22.3-py2.py3-none-any.whl" },
+  { filename = "ydb-3.22.2-py2.py3-none-any.whl" },
+  { filename = "ydb-3.22.1-py2.py3-none-any.whl" },
+  { filename = "ydb-3.22.0-py2.py3-none-any.whl" },
+  { filename = "ydb-3.21.14-py2.py3-none-any.whl" },
+]

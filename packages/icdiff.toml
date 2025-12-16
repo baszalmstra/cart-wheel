@@ -1,0 +1,8 @@
+# Package configuration for icdiff
+conda_forge = "icdiff"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "icdiff-2.0.7-py3-none-any.whl" },
+]

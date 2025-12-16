@@ -1,0 +1,12 @@
+# Package configuration for blackdoc
+conda_forge = "blackdoc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "blackdoc-0.4.6-py3-none-any.whl" },
+  { filename = "blackdoc-0.4.5-py3-none-any.whl" },
+  { filename = "blackdoc-0.4.4-py3-none-any.whl" },
+  { filename = "blackdoc-0.4.3-py3-none-any.whl" },
+  { filename = "blackdoc-0.4.2-py3-none-any.whl" },
+]

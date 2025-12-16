@@ -1,0 +1,132 @@
+{
+  "ibm_generative_ai-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0c39a5c84356f7408de31988ee055349a4ab7ec7030f313fa1c19d76b2b6d85",
+    "dependencies": {
+      "required": [
+        "aiolimiter",
+        "deprecated",
+        "httpx",
+        "httpx-sse",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "aiolimiter (>=1.1.0,<2.0.0)",
+      "deprecated (>=1.2.14,<2.0.0)",
+      "fastapi (>=0.100.0,<0.101.0) ; extra == \"localserver\"",
+      "httpx (>=0.27.0,<0.28.0)",
+      "httpx-sse (>=0.4.0,<0.5.0)",
+      "langchain-core (>=0.1.0,<0.2.0) ; extra == \"langchain\"",
+      "llama-index-core (>=0.10.0,<0.11.0) ; extra == \"llama-index\"",
+      "lm-eval (>=0.4.2,<0.5.0) ; extra == \"lm-eval\"",
+      "pydantic (>=2.0.0,<3.0.0)",
+      "pyyaml (>=6.0.0,<7.0.0) ; extra == \"langchain\"",
+      "tqdm (>=4.66.1,<5.0.0) ; extra == \"lm-eval\"",
+      "transformers[agents] (>=4.33.3,<5.0.0) ; extra == \"huggingface\"",
+      "uvicorn (>=0.22.0,<0.23.0) ; extra == \"localserver\""
+    ]
+  },
+  "ibm_generative_ai-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e1431097b2636be8e7f3cfae0ba411b0264c7199d6279dda05f0c2dc44b45f0e",
+    "dependencies": {
+      "required": [
+        "aiolimiter",
+        "deprecated",
+        "httpx",
+        "httpx-sse",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "aiolimiter (>=1.1.0,<2.0.0)",
+      "datasets (>=2.13.0,<3.0.0) ; extra == \"huggingface\"",
+      "deprecated (>=1.2.14,<2.0.0)",
+      "fastapi (>=0.100.0,<0.101.0) ; extra == \"localserver\"",
+      "httpx (>=0.26.0,<0.27.0)",
+      "httpx-sse (>=0.3.0,<0.4.0)",
+      "langchain-core (>=0.1.0,<0.2.0) ; extra == \"langchain\"",
+      "llama-index-core (>=0.10.0,<0.11.0) ; extra == \"llama-index\"",
+      "pydantic (>=2.0.0,<3.0.0)",
+      "pyyaml (>=6.0.0,<7.0.0) ; extra == \"langchain\"",
+      "transformers[agents] (>=4.33.3,<5.0.0) ; extra == \"huggingface\"",
+      "uvicorn (>=0.22.0,<0.23.0) ; extra == \"localserver\""
+    ]
+  },
+  "ibm_generative_ai-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "514016e6c38547ba3b5291fd95b1bfe8f683a70573079061e66dc1a3554c1388",
+    "dependencies": {
+      "required": [
+        "aiolimiter",
+        "httpx",
+        "httpx-sse",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "aiolimiter (>=1.1.0,<2.0.0)",
+      "datasets (>=2.13.0,<3.0.0) ; extra == \"huggingface\"",
+      "fastapi (>=0.100.0,<0.101.0) ; extra == \"localserver\"",
+      "httpx (>=0.26.0,<0.27.0)",
+      "httpx-sse (>=0.3.0,<0.4.0)",
+      "langchain-core (>=0.1.0,<0.2.0) ; extra == \"langchain\"",
+      "llama-index (>=0.9.15,<0.10.0) ; extra == \"llama-index\"",
+      "pydantic (>=2.0.0,<3.0.0)",
+      "pyyaml (>=6.0.0,<7.0.0) ; extra == \"langchain\"",
+      "transformers[agents] (>=4.33.3,<5.0.0) ; extra == \"huggingface\"",
+      "uvicorn (>=0.22.0,<0.23.0) ; extra == \"localserver\""
+    ]
+  },
+  "ibm_generative_ai-2.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c064b2ce40a0c5aeaf5847a69ac9ff70dd4e355a798ba81fabfc4382077dc04",
+    "dependencies": {
+      "required": [
+        "aiolimiter",
+        "httpx",
+        "httpx-sse",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "aiolimiter (>=1.1.0,<2.0.0)",
+      "datasets (>=2.13.0,<3.0.0) ; extra == \"huggingface\"",
+      "fastapi (>=0.100.0,<0.101.0) ; extra == \"localserver\"",
+      "httpx (>=0.26.0,<0.27.0)",
+      "httpx-sse (>=0.3.0,<0.4.0)",
+      "langchain-core (>=0.1.0,<0.2.0) ; extra == \"langchain\"",
+      "llama-index (>=0.9.15,<0.10.0) ; extra == \"llama-index\"",
+      "pydantic (>=2.0.0,<3.0.0)",
+      "pyyaml (>=6.0.0,<7.0.0) ; extra == \"langchain\"",
+      "transformers[agents] (>=4.33.3,<5.0.0) ; extra == \"huggingface\"",
+      "uvicorn (>=0.22.0,<0.23.0) ; extra == \"localserver\""
+    ]
+  },
+  "ibm_generative_ai-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "001394bc0947aa788cd830ce8cb8939b7fdcdb9bdca17f17396d9b2b444119b3",
+    "dependencies": {
+      "required": [
+        "aiolimiter",
+        "httpx",
+        "httpx-sse",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "aiolimiter (>=1.1.0,<2.0.0)",
+      "datasets (>=2.13.0,<3.0.0) ; extra == \"huggingface\"",
+      "fastapi (>=0.100.0,<0.101.0) ; extra == \"localserver\"",
+      "httpx (>=0.26.0,<0.27.0)",
+      "httpx-sse (>=0.3.0,<0.4.0)",
+      "langchain-core (>=0.1.0,<0.2.0) ; extra == \"langchain\"",
+      "llama-index (>=0.9.15,<0.10.0) ; extra == \"llama-index\"",
+      "pydantic (>=2.0.0,<3.0.0)",
+      "pyyaml (>=6.0.0,<7.0.0) ; extra == \"langchain\"",
+      "transformers[agents] (>=4.33.3,<5.0.0) ; extra == \"huggingface\"",
+      "uvicorn (>=0.22.0,<0.23.0) ; extra == \"localserver\""
+    ]
+  }
+}

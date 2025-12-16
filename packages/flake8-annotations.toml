@@ -1,0 +1,12 @@
+# Package configuration for flake8-annotations
+conda_forge = "flake8-annotations"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_annotations-3.2.0-py3-none-any.whl" },
+  { filename = "flake8_annotations-3.1.1-py3-none-any.whl" },
+  { filename = "flake8_annotations-3.1.0-py3-none-any.whl" },
+  { filename = "flake8_annotations-3.0.1-py3-none-any.whl" },
+  { filename = "flake8_annotations-3.0.0-py3-none-any.whl" },
+]

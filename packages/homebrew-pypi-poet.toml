@@ -1,0 +1,12 @@
+# Package configuration for homebrew-pypi-poet
+conda_forge = "homebrew-pypi-poet"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "homebrew_pypi_poet-0.10.0-py2.py3-none-any.whl" },
+  { filename = "homebrew_pypi_poet-0.9.0-py2.py3-none-any.whl" },
+  { filename = "homebrew_pypi_poet-0.8.1-py2.py3-none-any.whl" },
+  { filename = "homebrew_pypi_poet-0.8.0-py2.py3-none-any.whl" },
+  { filename = "homebrew_pypi_poet-0.7.1-py2.py3-none-any.whl" },
+]

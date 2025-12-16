@@ -1,0 +1,12 @@
+# Package configuration for ufmt
+conda_forge = "ufmt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ufmt-2.9.0-py3-none-any.whl" },
+  { filename = "ufmt-2.8.0-py3-none-any.whl" },
+  { filename = "ufmt-2.7.3-py3-none-any.whl" },
+  { filename = "ufmt-2.7.2-py3-none-any.whl" },
+  { filename = "ufmt-2.7.1-py3-none-any.whl" },
+]

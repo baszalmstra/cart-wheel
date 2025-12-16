@@ -1,0 +1,11 @@
+# Package configuration for typeapi
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "typeapi-2.3.0-py3-none-any.whl" },
+  { filename = "typeapi-2.2.4-py3-none-any.whl" },
+  { filename = "typeapi-2.2.3-py3-none-any.whl" },
+  { filename = "typeapi-2.2.2-py3-none-any.whl" },
+  { filename = "typeapi-2.2.1-py3-none-any.whl" },
+]

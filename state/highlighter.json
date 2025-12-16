@@ -1,0 +1,50 @@
+{
+  "highlighter-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08206ab8c0e0b6c8f77e9184df743bc7189a22e7ea062cc084d5f05a139d6a7f",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging >=22.0",
+      "black ==23.12.1 ; extra == 'dev'",
+      "checkdeps ==0.9.0 ; extra == 'dev'",
+      "flake8 ==7.0.0 ; extra == 'dev'",
+      "mypy ==1.8.0 ; extra == 'dev'",
+      "tox ==4.12.1 ; extra == 'dev'",
+      "twine ==4.0.2 ; extra == 'dev'",
+      "ufmt ==2.3.0 ; extra == 'dev'",
+      "usort ==1.0.7 ; extra == 'dev'",
+      "wheel ==0.42.0 ; extra == 'dev'",
+      "coverage >=6 ; extra == 'test'"
+    ]
+  },
+  "highlighter-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef3a4eb634851533e0e4006dd0981dc518db6bae0d616ce664223edf9d571c24",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "packaging (>=16.0)",
+      "dataclasses ; python_version < \"3.7\""
+    ]
+  },
+  "highlighter-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "282b4717f00f0c7aa237614acfa228b9f185908f09feedab81d7b451bc993313",
+    "dependencies": {
+      "required": [
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses ; python_version < \"3.7\""
+    ]
+  }
+}

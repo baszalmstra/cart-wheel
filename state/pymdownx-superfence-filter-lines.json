@@ -1,0 +1,45 @@
+{
+  "pymdownx_superfence_filter_lines-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "53d1f6d81adbbae8db12da68efa8320f2b72a706fc52600a2c166c78ed74dc9d",
+    "dependencies": {
+      "required": [
+        "markdown",
+        "pymdown-extensions"
+      ]
+    },
+    "original_requirements": [
+      "Markdown <4,>=3.5",
+      "pymdown-extensions <11,>=10",
+      "pymdownx-superfence-filter-lines[dev-flake8,dev-formatting,dev-mkdocs,dev-mypy,dev-noxfile,dev-pylint,dev-pytest] ; extra == 'dev'",
+      "flake8 ==6.1.0 ; extra == 'dev-flake8'",
+      "flake8-docstrings ==1.7.0 ; extra == 'dev-flake8'",
+      "flake8-pyproject ==1.2.3 ; extra == 'dev-flake8'",
+      "pydoclint ==0.3.8 ; extra == 'dev-flake8'",
+      "pydocstyle ==6.3.0 ; extra == 'dev-flake8'",
+      "black ==23.12.0 ; extra == 'dev-formatting'",
+      "isort ==5.13.1 ; extra == 'dev-formatting'",
+      "black ==23.12.0 ; extra == 'dev-mkdocs'",
+      "Markdown ==3.5.1 ; extra == 'dev-mkdocs'",
+      "mike ==2.0.0 ; extra == 'dev-mkdocs'",
+      "mkdocs-gen-files ==0.5.0 ; extra == 'dev-mkdocs'",
+      "mkdocs-literate-nav ==0.6.1 ; extra == 'dev-mkdocs'",
+      "mkdocs-macros-plugin ==1.0.5 ; extra == 'dev-mkdocs'",
+      "mkdocs-material ==9.5.2 ; extra == 'dev-mkdocs'",
+      "mkdocstrings[python] ==0.24.0 ; extra == 'dev-mkdocs'",
+      "frequenz-repo-config[lib] ==0.7.5 ; extra == 'dev-mkdocs'",
+      "mypy ==1.7.1 ; extra == 'dev-mypy'",
+      "types-Markdown ==3.5.0.3 ; extra == 'dev-mypy'",
+      "pymdownx-superfence-filter-lines[dev-mkdocs,dev-noxfile,dev-pytest] ; extra == 'dev-mypy'",
+      "nox ==2023.4.22 ; extra == 'dev-noxfile'",
+      "frequenz-repo-config[lib] ==0.7.5 ; extra == 'dev-noxfile'",
+      "pylint ==3.0.3 ; extra == 'dev-pylint'",
+      "pymdownx-superfence-filter-lines[dev-mkdocs,dev-noxfile,dev-pytest] ; extra == 'dev-pylint'",
+      "pytest ==7.4.3 ; extra == 'dev-pytest'",
+      "frequenz-repo-config[extra-lint-examples] ==0.7.5 ; extra == 'dev-pytest'",
+      "pytest-mock ==3.12.0 ; extra == 'dev-pytest'",
+      "pytest-asyncio ==0.23.2 ; extra == 'dev-pytest'",
+      "async-solipsism ==0.5 ; extra == 'dev-pytest'"
+    ]
+  }
+}

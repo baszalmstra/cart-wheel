@@ -1,0 +1,11 @@
+# Package configuration for mem0ai
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mem0ai-1.0.1-py3-none-any.whl" },
+  { filename = "mem0ai-1.0.0-py3-none-any.whl" },
+  { filename = "mem0ai-0.1.118-py3-none-any.whl" },
+  { filename = "mem0ai-0.1.117-py3-none-any.whl" },
+  { filename = "mem0ai-0.1.116-py3-none-any.whl" },
+]

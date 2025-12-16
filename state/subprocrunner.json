@@ -1,0 +1,87 @@
+{
+  "subprocrunner-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "778e1bcec011b3214d247bf65c42b26f3d3f0a25d12188def6b9574c6671e166",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder <2,>=1.0.0",
+      "loguru <1,>=0.4.1 ; extra == 'logging'",
+      "pytest ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "typepy ; extra == 'test'",
+      "loguru <1,>=0.4.1 ; extra == 'test'"
+    ]
+  },
+  "subprocrunner-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34f66b28448e1fb9cb29c29ff0b8e6f1a749acd7ac08cc27956d1dde9059debf",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder (<2,>=1.0.0)",
+      "loguru (<1,>=0.4.1) ; extra == 'logging'",
+      "pytest ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "typepy ; extra == 'test'",
+      "loguru (<1,>=0.4.1) ; extra == 'test'"
+    ]
+  },
+  "subprocrunner-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ed357578c2b11b54ed2bce15fc169adf71349830a11a333d16f6057e33e1c81",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder (<2,>=1.0.0)",
+      "loguru (<1,>=0.4.1) ; extra == 'logging'",
+      "pytest ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "typepy ; extra == 'test'",
+      "loguru (<1,>=0.4.1) ; extra == 'test'"
+    ]
+  },
+  "subprocrunner-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c8695a284bd89ee2f59af218d3562bdf22cbc379467cccc94e3d060a45de7cc",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder (<2,>=1.0.0)",
+      "loguru (<1,>=0.4.1) ; extra == 'logging'",
+      "pytest ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "typepy ; extra == 'test'",
+      "loguru (<1,>=0.4.1) ; extra == 'test'"
+    ]
+  },
+  "subprocrunner-1.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e5c831b672e0257822a0e29eda2810a999eb7da6a29c79f05a03a5f836687cfc",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder (<2,>=1.0.0)",
+      "loguru (<1,>=0.4.1) ; extra == 'logging'",
+      "pytest ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "typepy ; extra == 'test'",
+      "loguru (<1,>=0.4.1) ; extra == 'test'"
+    ]
+  }
+}

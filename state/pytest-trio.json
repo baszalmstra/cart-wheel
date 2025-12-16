@@ -1,0 +1,84 @@
+{
+  "pytest_trio-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e6a7e7351ae3e8ec3f4564d30ee77d1ec66e1df611226e5618dbb32f9545c841",
+    "dependencies": {
+      "required": [
+        "trio",
+        "outcome",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "trio (>=0.22.0)",
+      "outcome (>=1.1.0)",
+      "pytest (>=7.2.0)"
+    ]
+  },
+  "pytest_trio-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f48cc1df66d279d705af38ad38d1639c2e2380ddffcdc3a45bb81758de61f03",
+    "dependencies": {
+      "required": [
+        "async-generator",
+        "outcome",
+        "pytest",
+        "trio"
+      ]
+    },
+    "original_requirements": [
+      "async-generator (>=1.9)",
+      "outcome",
+      "pytest (>=3.6)",
+      "trio (>=0.15.0)"
+    ]
+  },
+  "pytest_trio-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "848c2ba632d9c2d4e2770fe4eb149c8db69ecefc9239e2e6f77c41d9a2393d5e",
+    "dependencies": {
+      "required": [
+        "trio",
+        "async-generator",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "trio (>=0.11)",
+      "async-generator (>=1.9)",
+      "pytest (>=3.6)"
+    ]
+  },
+  "pytest_trio-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a97cb9fa6aa9137237ba3def8742cbf9a041adcba9836f4d9512132db2d31f24",
+    "dependencies": {
+      "required": [
+        "trio",
+        "async-generator",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "trio",
+      "async-generator (>=1.9)",
+      "pytest (>=3.6)"
+    ]
+  },
+  "pytest_trio-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a1c4cb0247027f7454acb02e65586eee0a41299022616a86b7bfaf632beadbcb",
+    "dependencies": {
+      "required": [
+        "trio",
+        "async-generator",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "trio",
+      "async-generator (>=1.9)",
+      "pytest (>=3.6)"
+    ]
+  }
+}

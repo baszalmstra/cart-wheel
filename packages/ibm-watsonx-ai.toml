@@ -1,0 +1,11 @@
+# Package configuration for ibm-watsonx-ai
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ibm_watsonx_ai-1.4.11-py3-none-any.whl" },
+  { filename = "ibm_watsonx_ai-1.4.9-py3-none-any.whl" },
+  { filename = "ibm_watsonx_ai-1.4.7-py3-none-any.whl" },
+  { filename = "ibm_watsonx_ai-1.4.6-py3-none-any.whl" },
+  { filename = "ibm_watsonx_ai-1.4.5-py3-none-any.whl" },
+]

@@ -1,0 +1,10 @@
+# Package configuration for certbuilder
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "certbuilder-0.14.2-py2.py3-none-any.whl" },
+  { filename = "certbuilder-0.14.1-py2.py3-none-any.whl" },
+  { filename = "certbuilder-0.14.0-py2.py3-none-any.whl" },
+  { filename = "certbuilder-0.13.0-py2.py3-none-any.whl" },
+]

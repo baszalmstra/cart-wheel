@@ -1,0 +1,12 @@
+# Package configuration for anthropic
+conda_forge = "anthropic"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "anthropic-0.75.0-py3-none-any.whl" },
+  { filename = "anthropic-0.74.1-py3-none-any.whl" },
+  { filename = "anthropic-0.74.0-py3-none-any.whl" },
+  { filename = "anthropic-0.73.0-py3-none-any.whl" },
+  { filename = "anthropic-0.72.1-py3-none-any.whl" },
+]

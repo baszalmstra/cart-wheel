@@ -1,0 +1,11 @@
+# Package configuration for statsig
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "statsig-0.66.2-py3-none-any.whl" },
+  { filename = "statsig-0.66.1-py3-none-any.whl" },
+  { filename = "statsig-0.66.0-py3-none-any.whl" },
+  { filename = "statsig-0.65.0-py3-none-any.whl" },
+  { filename = "statsig-0.64.0-py3-none-any.whl" },
+]

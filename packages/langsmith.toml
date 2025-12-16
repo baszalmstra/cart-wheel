@@ -1,0 +1,12 @@
+# Package configuration for langsmith
+conda_forge = "langsmith"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langsmith-0.4.59-py3-none-any.whl" },
+  { filename = "langsmith-0.4.58-py3-none-any.whl" },
+  { filename = "langsmith-0.4.57-py3-none-any.whl" },
+  { filename = "langsmith-0.4.56-py3-none-any.whl" },
+  { filename = "langsmith-0.4.55-py3-none-any.whl" },
+]

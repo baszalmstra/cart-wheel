@@ -1,0 +1,12 @@
+# Package configuration for types-filelock
+conda_forge = "types-filelock"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_filelock-3.2.7-py3-none-any.whl" },
+  { filename = "types_filelock-3.2.6-py3-none-any.whl" },
+  { filename = "types_filelock-3.2.5-py3-none-any.whl" },
+  { filename = "types_filelock-3.2.4-py3-none-any.whl" },
+  { filename = "types_filelock-3.2.3-py3-none-any.whl" },
+]

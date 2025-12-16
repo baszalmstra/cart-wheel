@@ -1,0 +1,12 @@
+# Package configuration for pathlib-abc
+conda_forge = "pathlib-abc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pathlib_abc-0.5.2-py3-none-any.whl" },
+  { filename = "pathlib_abc-0.5.1-py3-none-any.whl" },
+  { filename = "pathlib_abc-0.5.0-py3-none-any.whl" },
+  { filename = "pathlib_abc-0.4.3-py3-none-any.whl" },
+  { filename = "pathlib_abc-0.4.2-py3-none-any.whl" },
+]

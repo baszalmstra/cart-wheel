@@ -1,0 +1,9 @@
+# Package configuration for pandas-stubs-fork
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pandas_stubs_fork-1.5.3.230214-py3-none-any.whl" },
+  { filename = "pandas_stubs_fork-1.5.3.230203-py3-none-any.whl" },
+  { filename = "pandas_stubs_fork-1.5.1.221024-py3-none-any.whl" },
+]

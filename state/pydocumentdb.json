@@ -1,0 +1,30 @@
+{
+  "pydocumentdb-2.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6d0722369e65636c5a0635110a7972f6decd2d6f4d35a9ab0864f2da70bd91f",
+    "dependencies": {
+      "required": [
+        "six",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.6)",
+      "requests (>=2.10.0)"
+    ]
+  },
+  "pydocumentdb-2.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90d8d160a10b8164d6f4758ff17b43cb8954c56984b7e794e64be5027b3d8009",
+    "dependencies": {
+      "required": [
+        "six",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.6)",
+      "requests (>=2.10.0)"
+    ]
+  }
+}

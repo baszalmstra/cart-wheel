@@ -1,0 +1,97 @@
+{
+  "ydb-3.22.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb0eddd9eeb91d74916d2ccd2cded9d1610ada2c0d1b7cfd5d0a82892c9495a0",
+    "dependencies": {
+      "required": [
+        "grpcio",
+        "packaging",
+        "protobuf",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "grpcio >=1.42.0",
+      "packaging",
+      "protobuf <6.0.0,>=3.13.0",
+      "aiohttp <4",
+      "yandexcloud ; extra == 'yc'"
+    ]
+  },
+  "ydb-3.22.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6903695e3c05400d3b5032e93d4f2d9c770d10301d4625fbbd167194ed9f7ac1",
+    "dependencies": {
+      "required": [
+        "grpcio",
+        "packaging",
+        "protobuf",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "grpcio >=1.42.0",
+      "packaging",
+      "protobuf <6.0.0,>=3.13.0",
+      "aiohttp <4",
+      "yandexcloud ; extra == 'yc'"
+    ]
+  },
+  "ydb-3.22.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ceea03ff68c349c0b2c91fe2e267e5ae58309881ddd2773552dff3440d47f57",
+    "dependencies": {
+      "required": [
+        "grpcio",
+        "packaging",
+        "protobuf",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "grpcio >=1.42.0",
+      "packaging",
+      "protobuf <6.0.0,>=3.13.0",
+      "aiohttp <4",
+      "yandexcloud ; extra == 'yc'"
+    ]
+  },
+  "ydb-3.22.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a22b7a2b48d62dd7e48da29f8d3d24387545b71a610f4cb928bc886cf0d0486",
+    "dependencies": {
+      "required": [
+        "grpcio",
+        "packaging",
+        "protobuf",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "grpcio >=1.42.0",
+      "packaging",
+      "protobuf <6.0.0,>=3.13.0",
+      "aiohttp <4",
+      "yandexcloud ; extra == 'yc'"
+    ]
+  },
+  "ydb-3.21.14-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6a32d6d69c318d439a72bd75754400442c16480b45433ae60a25176fb6f785b",
+    "dependencies": {
+      "required": [
+        "grpcio",
+        "packaging",
+        "protobuf",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "grpcio >=1.42.0",
+      "packaging",
+      "protobuf <6.0.0,>=3.13.0",
+      "aiohttp <4",
+      "yandexcloud ; extra == 'yc'"
+    ]
+  }
+}

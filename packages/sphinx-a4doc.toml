@@ -1,0 +1,11 @@
+# Package configuration for sphinx-a4doc
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_a4doc-1.7.0-py3-none-any.whl" },
+  { filename = "sphinx_a4doc-1.6.0-py3-none-any.whl" },
+  { filename = "sphinx_a4doc-1.5.0-py3-none-any.whl" },
+  { filename = "sphinx_a4doc-1.4.0-py3-none-any.whl" },
+  { filename = "sphinx_a4doc-1.3.0-py3-none-any.whl" },
+]

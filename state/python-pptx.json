@@ -1,0 +1,88 @@
+{
+  "python_pptx-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "160838e0b8565a8b1f67947675886e9fea18aa5e795db7ae531606d68e785cba",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "xlsxwriter",
+        "lxml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "Pillow >=3.3.2",
+      "XlsxWriter >=0.5.7",
+      "lxml >=3.1.0",
+      "typing-extensions >=4.9.0"
+    ]
+  },
+  "python_pptx-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d8f7bee1bd568a9b6e9dd9ee595c07bcd5421a559d8eb625235c981c80654141",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "xlsxwriter",
+        "lxml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "Pillow >=3.3.2",
+      "XlsxWriter >=0.5.7",
+      "lxml >=3.1.0",
+      "typing-extensions >=4.9.0"
+    ]
+  },
+  "python_pptx-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e099cbcb370e97ae1cca2186ac757774a2c7bf1b5cb7e6ac3cb77061466713c5",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "xlsxwriter",
+        "lxml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "Pillow >=3.3.2",
+      "XlsxWriter >=0.5.7",
+      "lxml >=3.1.0",
+      "typing-extensions >=4.9.0"
+    ]
+  },
+  "python_pptx-0.6.23-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd0527194627a2b7cc05f3ba23ecaa2d9a0d5ac9b6193a28ed1b7a716f4217d4",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "pillow",
+        "xlsxwriter"
+      ]
+    },
+    "original_requirements": [
+      "lxml (>=3.1.0)",
+      "Pillow (>=3.3.2)",
+      "XlsxWriter (>=0.5.7)"
+    ]
+  },
+  "python_pptx-0.6.22-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d097c29e08de2da1fc3c6752169087065efa4153216e77fc1b27dff1bcdcb46",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "pillow",
+        "xlsxwriter"
+      ]
+    },
+    "original_requirements": [
+      "lxml (>=3.1.0)",
+      "Pillow (<=9.5.0,>=3.3.2)",
+      "XlsxWriter (>=0.5.7)"
+    ]
+  }
+}

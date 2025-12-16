@@ -1,0 +1,12 @@
+# Package configuration for lazy-model
+conda_forge = "lazy-model"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lazy_model-0.4.0-py3-none-any.whl" },
+  { filename = "lazy_model-0.3.0-py3-none-any.whl" },
+  { filename = "lazy_model-0.2.0-py3-none-any.whl" },
+  { filename = "lazy_model-0.0.5-py3-none-any.whl" },
+  { filename = "lazy_model-0.0.4-py3-none-any.whl" },
+]

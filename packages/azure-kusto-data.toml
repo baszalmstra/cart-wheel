@@ -1,0 +1,12 @@
+# Package configuration for azure-kusto-data
+conda_forge = "azure-kusto-data"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_kusto_data-6.0.0-py3-none-any.whl" },
+  { filename = "azure_kusto_data-5.0.5-py2.py3-none-any.whl" },
+  { filename = "azure_kusto_data-5.0.4-py2.py3-none-any.whl" },
+  { filename = "azure_kusto_data-5.0.3-py2.py3-none-any.whl" },
+  { filename = "azure_kusto_data-5.0.2-py2.py3-none-any.whl" },
+]

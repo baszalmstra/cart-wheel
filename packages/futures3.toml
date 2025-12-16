@@ -1,0 +1,7 @@
+# Package configuration for futures3
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "futures3-1.0.0-py3-none-any.whl" },
+]

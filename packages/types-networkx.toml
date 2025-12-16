@@ -1,0 +1,12 @@
+# Package configuration for types-networkx
+conda_forge = "types-networkx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_networkx-3.6.1.20251212-py3-none-any.whl" },
+  { filename = "types_networkx-3.6.1.20251210-py3-none-any.whl" },
+  { filename = "types_networkx-3.6.0.20251127-py3-none-any.whl" },
+  { filename = "types_networkx-3.5.0.20251106-py3-none-any.whl" },
+  { filename = "types_networkx-3.5.0.20251104-py3-none-any.whl" },
+]

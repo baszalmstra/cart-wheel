@@ -1,0 +1,12 @@
+# Package configuration for oauthlib
+conda_forge = "oauthlib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oauthlib-3.3.1-py3-none-any.whl" },
+  { filename = "oauthlib-3.3.0-py3-none-any.whl" },
+  { filename = "oauthlib-3.2.2-py3-none-any.whl" },
+  { filename = "oauthlib-3.2.1-py3-none-any.whl" },
+  { filename = "oauthlib-3.2.0-py3-none-any.whl" },
+]

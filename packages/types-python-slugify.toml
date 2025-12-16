@@ -1,0 +1,12 @@
+# Package configuration for types-python-slugify
+conda_forge = "types-python-slugify"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_python_slugify-8.0.2.20240310-py3-none-any.whl" },
+  { filename = "types_python_slugify-8.0.2.20240127-py3-none-any.whl" },
+  { filename = "types_python_slugify-8.0.0.3-py3-none-any.whl" },
+  { filename = "types_python_slugify-8.0.0.2-py3-none-any.whl" },
+  { filename = "types_python_slugify-8.0.0.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for brax
+conda_forge = "brax"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "brax-0.13.0-py3-none-any.whl" },
+  { filename = "brax-0.12.5-py3-none-any.whl" },
+  { filename = "brax-0.12.4-py3-none-any.whl" },
+  { filename = "brax-0.12.3-py3-none-any.whl" },
+  { filename = "brax-0.12.2-py3-none-any.whl" },
+]

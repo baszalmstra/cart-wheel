@@ -1,0 +1,69 @@
+{
+  "soundfile-0.13.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a23c717560da2cf4c7b5ae1142514e0fd82d6bbd9dfc93a50423447142f2c445",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "cffi >=1.0",
+      "numpy"
+    ]
+  },
+  "soundfile-0.13.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6a732002843d267267de52367cbdb16dfea6c1f4e3de5e4ddfb2bd0b9b65dddf",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "cffi >=1.0",
+      "numpy"
+    ]
+  },
+  "soundfile-0.12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "828a79c2e75abab5359f780c81dccd4953c45a2c4cd4f05ba3e233ddf984b882",
+    "dependencies": {
+      "required": [
+        "cffi"
+      ]
+    },
+    "original_requirements": [
+      "cffi (>=1.0)",
+      "numpy ; extra == 'numpy'"
+    ]
+  },
+  "soundfile-0.12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e7dc313f4f1e835f3b3bf35fd7c2908bba31bd6080727f075799b7a03f8d426",
+    "dependencies": {
+      "required": [
+        "cffi"
+      ]
+    },
+    "original_requirements": [
+      "cffi (>=1.0)",
+      "numpy ; extra == 'numpy'"
+    ]
+  },
+  "soundfile-0.11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4e4f832b1958403fb9726eeea54e0ebf1c7fc2599ff296a7ab1ac062f8048c9",
+    "dependencies": {
+      "required": [
+        "cffi"
+      ]
+    },
+    "original_requirements": [
+      "cffi (>=1.0)",
+      "numpy ; extra == 'numpy'"
+    ]
+  }
+}

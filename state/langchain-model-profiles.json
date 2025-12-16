@@ -1,0 +1,74 @@
+{
+  "langchain_model_profiles-0.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f90826c70904783ffc0450835f5dcd419d4d0d4633c4efa5bb92d49296e85524",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1,>=0.23.0",
+      "tomli<3.0.0,>=2.0.0; python_version < '3.11'",
+      "typing-extensions<5.0.0,>=4.7.0"
+    ]
+  },
+  "langchain_model_profiles-0.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7382b7feb2294ded84fe89b20a4d656f81f40c8f024233205b2c5507391ce1ba",
+    "dependencies": {
+      "required": [
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "tomli<3.0.0,>=2.0.0; python_version < '3.11'",
+      "typing-extensions<5.0.0,>=4.7.0"
+    ]
+  },
+  "langchain_model_profiles-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "76f588327c917df425b004d19d81db634c4b0008ed6497aa3f81b788950d9fc2",
+    "dependencies": {
+      "required": [
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "tomli<3.0.0,>=2.0.0; python_version < '3.11'",
+      "typing-extensions<5.0.0,>=4.7.0"
+    ]
+  },
+  "langchain_model_profiles-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c2db038573de419195d1fd6aa54d9a8f3ec6b951619950b755ffbc59cdc9f666",
+    "dependencies": {
+      "required": [
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "tomli<3.0.0,>=2.0.0; python_version < '3.11'",
+      "typing-extensions<5.0.0,>=4.7.0"
+    ]
+  },
+  "langchain_model_profiles-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "022641b59c4e0f0e6709651c009a6628df67a2f4e5590b37bf5de88ce40e854c",
+    "dependencies": {
+      "required": [
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "tomli<3.0.0,>=2.0.0; python_version < '3.11'",
+      "typing-extensions<5.0.0,>=4.7.0"
+    ]
+  }
+}

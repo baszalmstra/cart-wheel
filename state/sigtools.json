@@ -1,0 +1,95 @@
+{
+  "sigtools-4.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d216b4cf920bbab0fce636ddc429ed8463a5b533d9e1492acb45a2a1bc36ac6c",
+    "dependencies": {
+      "required": [
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "attrs",
+      "repeated-test (>=2.2.1) ; extra == 'test'",
+      "sphinx ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "coverage ; extra == 'test'",
+      "repeated-test (>=2.2.1) ; extra == 'tests'",
+      "sphinx ; extra == 'tests'",
+      "mock ; extra == 'tests'",
+      "coverage ; extra == 'tests'"
+    ]
+  },
+  "sigtools-4.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d7bfd43b9f49b3df3093b7c2b304797e8472d0966cba68cd0862f460d936da3",
+    "dependencies": {
+      "required": [
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "attrs",
+      "repeated-test (>=2.2.1) ; extra == 'test'",
+      "sphinx ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "coverage ; extra == 'test'",
+      "repeated-test (>=2.2.1) ; extra == 'tests'",
+      "sphinx ; extra == 'tests'",
+      "mock ; extra == 'tests'",
+      "coverage ; extra == 'tests'"
+    ]
+  },
+  "sigtools-2.0.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf515fde41bc340b7b27614b290e7f5227b6ab3053c4e8922bc2f9bcad3249d7",
+    "dependencies": {
+      "required": [
+        "six",
+        "funcsigs",
+        "ordereddict"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "funcsigs (>=0.4) ; python_version in \"2.6  2.7  3.2\"",
+      "ordereddict ; python_version in \"2.6\"",
+      "repeated-test ; extra == 'tests'",
+      "sphinx ; extra == 'tests'",
+      "mock ; extra == 'tests'",
+      "coverage ; extra == 'tests'",
+      "unittest2 ; extra == 'tests'"
+    ]
+  },
+  "sigtools-2.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d36942c94d4bd46bb180df99d0e7248b17a7a85234e64979a42fa84a0e5329db",
+    "dependencies": {
+      "required": [
+        "six",
+        "funcsigs",
+        "ordereddict"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "funcsigs (>=0.4); python_version in \"2.6  2.7  3.2\"",
+      "ordereddict; python_version in \"2.6\""
+    ]
+  },
+  "sigtools-2.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a1b6881c7002a4739f7a51d56ab90a145448984a8c7bec295e3f40fac59b1588",
+    "dependencies": {
+      "required": [
+        "six",
+        "ordereddict",
+        "funcsigs"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "ordereddict; python_version in \"2.6\"",
+      "funcsigs (>=0.4); python_version in \"2.6  2.7  3.2\""
+    ]
+  }
+}

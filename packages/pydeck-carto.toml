@@ -1,0 +1,9 @@
+# Package configuration for pydeck-carto
+conda_forge = "pydeck-carto"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydeck_carto-0.2.0-py3-none-any.whl" },
+  { filename = "pydeck_carto-0.1.0-py3-none-any.whl" },
+]

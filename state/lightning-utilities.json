@@ -1,0 +1,117 @@
+{
+  "lightning_utilities-0.15.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad3ab1703775044bbf880dbf7ddaaac899396c96315f3aa1779cec9d618a9841",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "packaging",
+        "setuptools",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=4.0.0; python_version < \"3.8\"",
+      "packaging>=17.1",
+      "setuptools",
+      "typing_extensions",
+      "requests>=2.0.0; extra == \"docs\"",
+      "mypy>=1.0.0; extra == \"typing\"",
+      "types-setuptools; extra == \"typing\"",
+      "jsonargparse[signatures]>=4.38.0; extra == \"cli\"",
+      "tomlkit; extra == \"cli\""
+    ]
+  },
+  "lightning_utilities-0.15.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18437c86f8380fe80beee0cd3f7a7bde8a68d752060e6a2663c1e5784da768d9",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "packaging",
+        "setuptools",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=4.0.0; python_version < \"3.8\"",
+      "packaging>=17.1",
+      "setuptools",
+      "typing_extensions",
+      "requests>=2.0.0; extra == \"docs\"",
+      "mypy>=1.0.0; extra == \"typing\"",
+      "types-setuptools; extra == \"typing\"",
+      "jsonargparse[signatures]>=4.38.0; extra == \"cli\"",
+      "tomlkit; extra == \"cli\""
+    ]
+  },
+  "lightning_utilities-0.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "652fea9ca0523418fc731e081485744c7cafea2054f5fff12eea1b2d04441b06",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "packaging",
+        "setuptools",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=4.0.0; python_version < \"3.8\"",
+      "packaging>=17.1",
+      "setuptools",
+      "typing_extensions",
+      "requests>=2.0.0; extra == \"docs\"",
+      "mypy>=1.0.0; extra == \"typing\"",
+      "types-setuptools; extra == \"typing\"",
+      "jsonargparse[signatures]>=4.38.0; extra == \"cli\"",
+      "tomlkit; extra == \"cli\""
+    ]
+  },
+  "lightning_utilities-0.14.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ab9066aa36cd7b93a05713808901909e96cc3f187ea6fd3052b2fd91313b468",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "packaging",
+        "setuptools",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=4.0.0; python_version < \"3.8\"",
+      "packaging>=17.1",
+      "setuptools",
+      "typing_extensions",
+      "mypy>=1.0.0; extra == \"typing\"",
+      "types-setuptools; extra == \"typing\"",
+      "fire; extra == \"typing\"",
+      "fire; extra == \"cli\"",
+      "requests>=2.0.0; extra == \"docs\""
+    ]
+  },
+  "lightning_utilities-0.14.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da791fcaa731f651ec76a1a3b12994ed05af4d6841f2e78760233552709ef05d",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "packaging",
+        "setuptools",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=4.0.0; python_version < \"3.8\"",
+      "packaging>=17.1",
+      "setuptools",
+      "typing_extensions",
+      "mypy>=1.0.0; extra == \"typing\"",
+      "types-setuptools; extra == \"typing\"",
+      "fire; extra == \"typing\"",
+      "fire; extra == \"cli\"",
+      "requests>=2.0.0; extra == \"docs\""
+    ]
+  }
+}

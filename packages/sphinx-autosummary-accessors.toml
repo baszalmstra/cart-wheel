@@ -1,0 +1,12 @@
+# Package configuration for sphinx-autosummary-accessors
+conda_forge = "sphinx-autosummary-accessors"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_autosummary_accessors-2025.3.1-py3-none-any.whl" },
+  { filename = "sphinx_autosummary_accessors-2023.4.0-py3-none-any.whl" },
+  { filename = "sphinx_autosummary_accessors-2022.4.0-py3-none-any.whl" },
+  { filename = "sphinx_autosummary_accessors-0.2.1-py3-none-any.whl" },
+  { filename = "sphinx_autosummary_accessors-0.2-py3-none-any.whl" },
+]

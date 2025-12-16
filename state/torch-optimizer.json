@@ -1,0 +1,44 @@
+{
+  "torch_optimizer-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7de8e57315e43561cdd0370a1b67303cc8ef1b053f9b5573de629a62390f2af9",
+    "dependencies": {
+      "required": [
+        "torch",
+        "pytorch-ranger"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.5.0)",
+      "pytorch-ranger (>=0.1.1)"
+    ]
+  },
+  "torch_optimizer-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a19bd285169c4cc9f53e843ec507bcb7e923eaa5ce55da7b1d09715cbdc5bd5",
+    "dependencies": {
+      "required": [
+        "torch",
+        "pytorch-ranger"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.5.0)",
+      "pytorch-ranger (>=0.1.1)"
+    ]
+  },
+  "torch_optimizer-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b7adaed38b66a5c5105a59b30a71c4ab7c9954baf0acabd969fee3dac954657d",
+    "dependencies": {
+      "required": [
+        "torch",
+        "pytorch-ranger"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.1.0)",
+      "pytorch-ranger (>=0.1.1)"
+    ]
+  }
+}

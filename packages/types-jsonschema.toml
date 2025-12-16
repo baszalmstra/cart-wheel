@@ -1,0 +1,12 @@
+# Package configuration for types-jsonschema
+conda_forge = "types-jsonschema"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_jsonschema-4.25.1.20251009-py3-none-any.whl" },
+  { filename = "types_jsonschema-4.25.1.20251008-py3-none-any.whl" },
+  { filename = "types_jsonschema-4.25.1.20250822-py3-none-any.whl" },
+  { filename = "types_jsonschema-4.25.1.20250821-py3-none-any.whl" },
+  { filename = "types_jsonschema-4.25.0.20250809-py3-none-any.whl" },
+]

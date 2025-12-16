@@ -1,0 +1,12 @@
+# Package configuration for flake8-bandit
+conda_forge = "flake8-bandit"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_bandit-4.1.1-py3-none-any.whl" },
+  { filename = "flake8_bandit-3.0.0-py2.py3-none-any.whl" },
+  { filename = "flake8_bandit-2.1.0-py2.py3-none-any.whl" },
+  { filename = "flake8_bandit-2.0.1-py2.py3-none-any.whl" },
+  { filename = "flake8_bandit-2.0.0-py2.py3-none-any.whl" },
+]

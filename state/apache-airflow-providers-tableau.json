@@ -1,0 +1,80 @@
+{
+  "apache_airflow_providers_tableau-5.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c2fad0d4929045e8e92d4ba7cb34b549c5178130110f748e6a2408eb82c8bca2",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "tableauserverclient"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "tableauserverclient>=0.27"
+    ]
+  },
+  "apache_airflow_providers_tableau-5.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7293e1cfaa3476d2428842df23ad8e2e90485de6ea1227d298ffe048e26684be",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "tableauserverclient"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "tableauserverclient>=0.27"
+    ]
+  },
+  "apache_airflow_providers_tableau-5.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "477a9616707ee98278f388974ce13af4b747e5d77bb3b7acebd38b42e79ebaeb",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "tableauserverclient"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "tableauserverclient>=0.27"
+    ]
+  },
+  "apache_airflow_providers_tableau-5.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3c0b5b5aecd86e4496fcebf883f58390ffa348656e943394ab4cf7d48555f1c",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "tableauserverclient"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "tableauserverclient>=0.27"
+    ]
+  },
+  "apache_airflow_providers_tableau-5.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "845ec0e418a065cac2a38ac8cca25b2ff88f835eb48c43ddc692b1f676673c6d",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "tableauserverclient"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "tableauserverclient>=0.27"
+    ]
+  }
+}

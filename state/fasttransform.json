@@ -1,0 +1,36 @@
+{
+  "fasttransform-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72fd7f5d577797370e95255a005a5fd4eb43a3d863f5dbab338562421ab660e1",
+    "dependencies": {
+      "required": [
+        "fastcore",
+        "plum-dispatch"
+      ]
+    },
+    "original_requirements": [
+      "fastcore",
+      "plum-dispatch",
+      "matplotlib; extra == \"dev\"",
+      "numpy; extra == \"dev\"",
+      "pandas; extra == \"dev\""
+    ]
+  },
+  "fasttransform-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f475c4bdb916e5deee278b6e2bab242fb7d95509a3a7006a010e0ee6b7940b4b",
+    "dependencies": {
+      "required": [
+        "fastcore",
+        "plum-dispatch"
+      ]
+    },
+    "original_requirements": [
+      "fastcore",
+      "plum-dispatch",
+      "matplotlib; extra == \"dev\"",
+      "numpy; extra == \"dev\"",
+      "pandas; extra == \"dev\""
+    ]
+  }
+}

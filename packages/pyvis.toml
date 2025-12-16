@@ -1,0 +1,12 @@
+# Package configuration for pyvis
+conda_forge = "pyvis"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyvis-0.3.2-py3-none-any.whl" },
+  { filename = "pyvis-0.2.0-py3-none-any.whl" },
+  { filename = "pyvis-0.1.9-py3-none-any.whl" },
+  { filename = "pyvis-0.1.8.2-py3-none-any.whl" },
+  { filename = "pyvis-0.1.8.1.1-py3-none-any.whl" },
+]

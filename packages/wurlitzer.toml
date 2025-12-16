@@ -1,0 +1,12 @@
+# Package configuration for wurlitzer
+conda_forge = "wurlitzer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "wurlitzer-3.1.1-py3-none-any.whl" },
+  { filename = "wurlitzer-3.1.0-py3-none-any.whl" },
+  { filename = "wurlitzer-3.0.3-py3-none-any.whl" },
+  { filename = "wurlitzer-3.0.2-py3-none-any.whl" },
+  { filename = "wurlitzer-3.0.1-py3-none-any.whl" },
+]

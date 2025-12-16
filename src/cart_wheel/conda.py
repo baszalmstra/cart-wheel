@@ -594,3 +594,218 @@ def convert_wheel(
     finally:
         # Cleanup temp file
         pkg_tmp_path.unlink(missing_ok=True)
+
+
+async def convert_wheel_async(
+    chunks: "AsyncIterable[bytes]",
+    output_dir: Path,
+    filename: str,
+) -> ConversionResult:
+    """Convert a wheel to conda package using async streaming.
+
+    Args:
+        chunks: Async iterable of bytes chunks from the wheel file.
+        output_dir: Directory to write the .conda file to.
+        filename: Original wheel filename.
+
+    Returns:
+        ConversionResult with path and metadata of created package.
+    """
+    from collections.abc import AsyncIterable
+    from stream_unzip import async_stream_unzip
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Use temp file for pkg archive
+    pkg_tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".tar.zst")
+    pkg_tmp_path = Path(pkg_tmp.name)
+    pkg_tmp.close()
+
+    try:
+        buffered_metadata: dict[str, bytes] = {}
+        file_metadata: list[FileMetadata] = []
+        dist_info_prefix: str | None = None
+
+        # Stream through wheel, writing to pkg archive
+        with open(pkg_tmp_path, "wb") as pkg_file:
+            with StreamingTarZstWriter(pkg_file) as pkg_writer:
+                # async_stream_unzip yields (filename_bytes, size, async_chunks) tuples
+                async for file_name_bytes, file_size, file_chunks in async_stream_unzip(chunks):
+                    # Decode filename
+                    file_name = file_name_bytes.decode("utf-8")
+
+                    # Skip directories
+                    if file_name.endswith("/"):
+                        continue
+
+                    # Detect dist-info prefix
+                    if dist_info_prefix is None and ".dist-info/" in file_name:
+                        dist_info_prefix = file_name.split("/")[0]
+
+                    # Skip INSTALLER
+                    if file_name.endswith("/INSTALLER"):
+                        async for _ in file_chunks:
+                            pass
+                        continue
+
+                    dest_path = f"site-packages/{file_name}"
+
+                    # Check if this is a metadata file we need to buffer
+                    is_metadata = dist_info_prefix is not None and file_name in {
+                        f"{dist_info_prefix}/METADATA",
+                        f"{dist_info_prefix}/WHEEL",
+                        f"{dist_info_prefix}/entry_points.txt",
+                    }
+
+                    # Collect all chunks for this file
+                    content_chunks = []
+                    async for chunk in file_chunks:
+                        content_chunks.append(chunk)
+                    content = b"".join(content_chunks)
+
+                    if is_metadata:
+                        buffered_metadata[file_name] = content
+
+                    pkg_writer.add_file(dest_path, content)
+
+                if dist_info_prefix is None:
+                    raise ValueError("No .dist-info directory found in wheel")
+
+                # Add INSTALLER file
+                installer_path = f"site-packages/{dist_info_prefix}/INSTALLER"
+                pkg_writer.add_file(installer_path, b"conda\n")
+
+                file_metadata = pkg_writer.get_file_metadata()
+
+            # Parse metadata from buffered content
+            metadata_content = buffered_metadata.get(f"{dist_info_prefix}/METADATA")
+            wheel_content = buffered_metadata.get(f"{dist_info_prefix}/WHEEL")
+            entry_points_content = buffered_metadata.get(
+                f"{dist_info_prefix}/entry_points.txt"
+            )
+
+            if not metadata_content or not wheel_content:
+                raise ValueError("Missing required METADATA or WHEEL file")
+
+            wheel_metadata = parse_wheel_metadata(
+                metadata_content=metadata_content,
+                wheel_content=wheel_content,
+                entry_points_content=entry_points_content,
+                filename=filename,
+            )
+
+            # Convert dependencies
+            dependencies, extra_depends = _convert_dependencies(
+                wheel_metadata.dependencies,
+                wheel_metadata.requires_python,
+            )
+
+            # Build info archive
+            info_files: dict[str, bytes] = {}
+
+            # index.json
+            index_json: dict = {
+                "name": wheel_metadata.conda_name,
+                "version": wheel_metadata.version,
+                "build": "py_0",
+                "build_number": 0,
+                "depends": dependencies,
+                "subdir": wheel_metadata.conda_subdir,
+            }
+
+            if extra_depends:
+                index_json["extra_depends"] = extra_depends
+
+            if wheel_metadata.license:
+                index_json["license"] = wheel_metadata.license
+
+            if wheel_metadata.is_pure_python:
+                index_json["noarch"] = "python"
+
+            info_files["info/index.json"] = json.dumps(index_json, indent=2).encode()
+
+            # paths.json
+            paths_json = {
+                "paths": [
+                    {
+                        "_path": fm.path,
+                        "path_type": "hardlink",
+                        "sha256": fm.sha256,
+                        "size_in_bytes": fm.size,
+                    }
+                    for fm in file_metadata
+                ],
+                "paths_version": 1,
+            }
+            info_files["info/paths.json"] = json.dumps(paths_json, indent=2).encode()
+
+            # files list
+            files_content = "\n".join(fm.path for fm in file_metadata)
+            info_files["info/files"] = files_content.encode()
+
+            # about.json
+            about_json: dict = {}
+            if wheel_metadata.summary:
+                about_json["summary"] = wheel_metadata.summary
+            if wheel_metadata.description:
+                about_json["description"] = wheel_metadata.description
+            if wheel_metadata.home_url:
+                about_json["home"] = wheel_metadata.home_url
+            if wheel_metadata.doc_url:
+                about_json["doc_url"] = wheel_metadata.doc_url
+            if wheel_metadata.dev_url:
+                about_json["dev_url"] = wheel_metadata.dev_url
+            if wheel_metadata.source_url:
+                about_json["source_url"] = wheel_metadata.source_url
+            info_files["info/about.json"] = json.dumps(about_json, indent=2).encode()
+
+            # link.json
+            if wheel_metadata.is_pure_python:
+                noarch_data: dict = {"type": "python"}
+                entry_points = (
+                    wheel_metadata.console_scripts + wheel_metadata.gui_scripts
+                )
+                if entry_points:
+                    noarch_data["entry_points"] = entry_points
+                link_json = {
+                    "noarch": noarch_data,
+                    "package_metadata_version": 1,
+                }
+                info_files["info/link.json"] = json.dumps(link_json, indent=2).encode()
+
+            info_tar_zst = _create_tar_zst(info_files)
+
+            # Write final .conda file
+            conda_name = (
+                f"{wheel_metadata.conda_name}-{wheel_metadata.version}-py_0.conda"
+            )
+            conda_path = output_dir / conda_name
+
+            with zipfile.ZipFile(
+                conda_path, "w", compression=zipfile.ZIP_STORED
+            ) as conda_zip:
+                conda_zip.writestr(
+                    "metadata.json", json.dumps({"conda_pkg_format_version": 2})
+                )
+
+                info_name = f"info-{wheel_metadata.conda_name}-{wheel_metadata.version}-py_0.tar.zst"
+                conda_zip.writestr(info_name, info_tar_zst)
+
+                pkg_name = f"pkg-{wheel_metadata.conda_name}-{wheel_metadata.version}-py_0.tar.zst"
+                conda_zip.write(pkg_tmp_path, pkg_name)
+
+            entry_points = wheel_metadata.console_scripts + wheel_metadata.gui_scripts
+
+        return ConversionResult(
+            path=conda_path,
+            name=wheel_metadata.conda_name,
+            version=wheel_metadata.version,
+            dependencies=dependencies,
+            extra_depends=extra_depends,
+            entry_points=entry_points,
+            subdir=wheel_metadata.conda_subdir,
+            original_requirements=wheel_metadata.dependencies,
+        )
+    finally:
+        # Cleanup temp file
+        pkg_tmp_path.unlink(missing_ok=True)

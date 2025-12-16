@@ -1,0 +1,9 @@
+# Package configuration for optimum-onnx
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "optimum_onnx-0.0.3-py3-none-any.whl" },
+  { filename = "optimum_onnx-0.0.2-py3-none-any.whl" },
+  { filename = "optimum_onnx-0.0.1-py3-none-any.whl" },
+]

@@ -1,0 +1,95 @@
+{
+  "blessed-1.25.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e52b9f778b9e10c30b3f17f6b5f5d2208d1e9b53b270f1d94fc61a243fc4708f",
+    "dependencies": {
+      "required": [
+        "wcwidth",
+        "jinxed"
+      ]
+    },
+    "original_requirements": [
+      "wcwidth>=0.1.4",
+      "jinxed>=1.1.0; platform_system == \"Windows\"",
+      "Pillow ; extra == \"docs\"",
+      "Sphinx>3 ; extra == \"docs\"",
+      "sphinx-paramlinks ; extra == \"docs\"",
+      "sphinx_rtd_theme ; extra == \"docs\"",
+      "sphinxcontrib-manpage ; extra == \"docs\""
+    ]
+  },
+  "blessed-1.24.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "177d36ce89db91c8a61e9cf2085d5cedb6f1617dcc7c39b604bb474e2e192ec7",
+    "dependencies": {
+      "required": [
+        "wcwidth",
+        "jinxed"
+      ]
+    },
+    "original_requirements": [
+      "wcwidth>=0.1.4",
+      "jinxed>=1.1.0; platform_system == \"Windows\"",
+      "Pillow ; extra == \"docs\"",
+      "Sphinx>3 ; extra == \"docs\"",
+      "sphinx-paramlinks ; extra == \"docs\"",
+      "sphinx_rtd_theme ; extra == \"docs\"",
+      "sphinxcontrib-manpage ; extra == \"docs\""
+    ]
+  },
+  "blessed-1.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c432dcde0d45112372d1d096b2c4c0a6a5db1b94d546124872d0c3e64b5ea26",
+    "dependencies": {
+      "required": [
+        "wcwidth",
+        "jinxed"
+      ]
+    },
+    "original_requirements": [
+      "wcwidth>=0.1.4",
+      "jinxed>=1.1.0; platform_system == \"Windows\"",
+      "Pillow ; extra == \"docs\"",
+      "Sphinx>3 ; extra == \"docs\"",
+      "sphinx-paramlinks ; extra == \"docs\"",
+      "sphinx_rtd_theme ; extra == \"docs\"",
+      "sphinxcontrib-manpage ; extra == \"docs\""
+    ]
+  },
+  "blessed-1.22.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a1fed52d708a1aa26dfb8d3eaecf6f4714bff590e728baeefcb44f2c16c8de82",
+    "dependencies": {
+      "required": [
+        "wcwidth",
+        "ordereddict",
+        "backports.functools-lru-cache",
+        "jinxed"
+      ]
+    },
+    "original_requirements": [
+      "wcwidth>=0.1.4",
+      "ordereddict==1.1; python_version < \"2.7\"",
+      "backports.functools-lru-cache>=1.2.1; python_version < \"3.2\"",
+      "jinxed>=1.1.0; platform_system == \"Windows\""
+    ]
+  },
+  "blessed-1.21.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f831e847396f5a2eac6c106f4dfadedf46c4f804733574b15fe86d2ed45a9588",
+    "dependencies": {
+      "required": [
+        "wcwidth",
+        "ordereddict",
+        "backports.functools-lru-cache",
+        "jinxed"
+      ]
+    },
+    "original_requirements": [
+      "wcwidth>=0.1.4",
+      "ordereddict==1.1; python_version < \"2.7\"",
+      "backports.functools-lru-cache>=1.2.1; python_version < \"3.2\"",
+      "jinxed>=1.1.0; platform_system == \"Windows\""
+    ]
+  }
+}

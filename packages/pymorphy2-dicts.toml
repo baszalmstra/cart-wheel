@@ -1,0 +1,12 @@
+# Package configuration for pymorphy2-dicts
+conda_forge = "pymorphy2-dicts"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pymorphy2_dicts-2.4.393442.3710985-py2.py3-none-any.whl" },
+  { filename = "pymorphy2_dicts-2.4.393275.3706809-py2.py3-none-any.whl" },
+  { filename = "pymorphy2_dicts-2.4.393255.3705071-py2.py3-none-any.whl" },
+  { filename = "pymorphy2_dicts-2.4.393205.3700628-py2.py3-none-any.whl" },
+  { filename = "pymorphy2_dicts-2.4.393201.3694655-py2.py3-none-any.whl" },
+]

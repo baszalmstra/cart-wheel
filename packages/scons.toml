@@ -1,0 +1,12 @@
+# Package configuration for scons
+conda_forge = "scons"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "scons-4.10.1-py3-none-any.whl" },
+  { filename = "scons-4.10.0-py3-none-any.whl" },
+  { filename = "scons-4.9.1-py3-none-any.whl" },
+  { filename = "scons-4.9.0-py3-none-any.whl" },
+  { filename = "SCons-4.8.1-py3-none-any.whl" },
+]

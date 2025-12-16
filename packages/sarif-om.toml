@@ -1,0 +1,12 @@
+# Package configuration for sarif-om
+conda_forge = "sarif-om"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sarif_om-1.0.4-py3-none-any.whl" },
+  { filename = "sarif_om-1.0.3-py3-none-any.whl" },
+  { filename = "sarif_om-1.0.2-py3-none-any.whl" },
+  { filename = "sarif_om-1.0.1-py3-none-any.whl" },
+  { filename = "sarif_om-1.0.0-py3-none-any.whl" },
+]

@@ -1,0 +1,58 @@
+{
+  "google_adk_community-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b484cd1989ad40cb5183b9b5b28f9ac45b7ec6d20395a5e19efd2f7389ea3b8b",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "google-adk",
+        "httpx",
+        "redis",
+        "orjson"
+      ]
+    },
+    "original_requirements": [
+      "google-genai>=1.21.1, <2.0.0",
+      "google-adk",
+      "httpx>=0.27.0, <1.0.0",
+      "redis>=5.0.0, <6.0.0",
+      "orjson>=3.11.3",
+      "pytest>=8.4.2 ; extra == \"test\"",
+      "pytest-asyncio>=1.2.0 ; extra == \"test\""
+    ]
+  },
+  "google_adk_community-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca65fe8f2a824d71f7e5134adf55fe08ff7671415cc7f3835fb7b34ad675fd49",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "google-adk",
+        "redis",
+        "orjson"
+      ]
+    },
+    "original_requirements": [
+      "google-genai>=1.21.1, <2.0.0",
+      "google-adk",
+      "redis>=5.0.0, <6.0.0",
+      "orjson>=3.11.3",
+      "pytest>=8.4.2 ; extra == \"test\"",
+      "pytest-asyncio>=1.2.0 ; extra == \"test\""
+    ]
+  },
+  "google_adk_community-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2d99d0c5d70884b0c6cded7e4484338c13da80222ecc44b642d9451f46cc6b00",
+    "dependencies": {
+      "required": [
+        "google-genai",
+        "google-adk"
+      ]
+    },
+    "original_requirements": [
+      "google-genai>=1.21.1, <2.0.0",
+      "google-adk"
+    ]
+  }
+}

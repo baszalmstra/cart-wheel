@@ -1,0 +1,11 @@
+# Package configuration for scrapegraph-py
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "scrapegraph_py-1.44.0-py3-none-any.whl" },
+  { filename = "scrapegraph_py-1.43.0-py3-none-any.whl" },
+  { filename = "scrapegraph_py-1.42.0-py3-none-any.whl" },
+  { filename = "scrapegraph_py-1.41.1-py3-none-any.whl" },
+  { filename = "scrapegraph_py-1.41.0-py3-none-any.whl" },
+]

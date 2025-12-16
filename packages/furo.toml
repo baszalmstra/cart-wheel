@@ -1,0 +1,12 @@
+# Package configuration for furo
+conda_forge = "furo"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "furo-2025.9.25-py3-none-any.whl" },
+  { filename = "furo-2025.7.19-py3-none-any.whl" },
+  { filename = "furo-2024.8.6-py3-none-any.whl" },
+  { filename = "furo-2024.7.18-py3-none-any.whl" },
+  { filename = "furo-2024.5.6-py3-none-any.whl" },
+]

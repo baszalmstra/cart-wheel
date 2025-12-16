@@ -1,0 +1,11 @@
+# Package configuration for kfp-kubernetes
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kfp_kubernetes-2.15.2-py3-none-any.whl" },
+  { filename = "kfp_kubernetes-2.15.1-py3-none-any.whl" },
+  { filename = "kfp_kubernetes-2.15.0-py3-none-any.whl" },
+  { filename = "kfp_kubernetes-2.14.6-py3-none-any.whl" },
+  { filename = "kfp_kubernetes-2.14.5-py3-none-any.whl" },
+]

@@ -1,0 +1,207 @@
+{
+  "requests_cache-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1285151cddf5331067baa82598afe2d47c7495a1334bfe7a7d329b43e9fd3603",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "cattrs",
+        "platformdirs",
+        "requests",
+        "url-normalize",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.2)",
+      "boto3 (>=1.15) ; extra == \"dynamodb\" or extra == \"all\"",
+      "botocore (>=1.18) ; extra == \"dynamodb\" or extra == \"all\"",
+      "bson (>=0.5) ; extra == \"bson\"",
+      "cattrs (>=22.2)",
+      "furo (>=2023.3,<2024.0) ; extra == \"docs\"",
+      "itsdangerous (>=2.0) ; extra == \"security\" or extra == \"all\"",
+      "linkify-it-py (>=2.0,<3.0) ; extra == \"docs\"",
+      "myst-parser (>=1.0,<2.0) ; extra == \"docs\"",
+      "platformdirs (>=2.5)",
+      "pymongo (>=3) ; extra == \"mongodb\" or extra == \"all\"",
+      "pyyaml (>=6.0.1) ; extra == \"yaml\" or extra == \"all\"",
+      "redis (>=3) ; extra == \"redis\" or extra == \"all\"",
+      "requests (>=2.22)",
+      "sphinx (>=5.0.2,<6.0.0) ; extra == \"docs\"",
+      "sphinx-autodoc-typehints (>=1.19) ; extra == \"docs\"",
+      "sphinx-automodapi (>=0.14) ; extra == \"docs\"",
+      "sphinx-copybutton (>=0.5) ; extra == \"docs\"",
+      "sphinx-design (>=0.2) ; extra == \"docs\"",
+      "sphinx-notfound-page (>=0.8) ; extra == \"docs\"",
+      "sphinxcontrib-apidoc (>=0.3) ; extra == \"docs\"",
+      "sphinxext-opengraph (>=0.9) ; extra == \"docs\"",
+      "ujson (>=5.4) ; extra == \"json\" or extra == \"all\"",
+      "url-normalize (>=1.4)",
+      "urllib3 (>=1.25.5)"
+    ]
+  },
+  "requests_cache-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "490324301bf0cb924ff4e6324bd2613453e7e1f847353928b08adb0fdfb7f722",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "cattrs",
+        "platformdirs",
+        "requests",
+        "url-normalize",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.2)",
+      "boto3 (>=1.15) ; extra == \"dynamodb\" or extra == \"all\"",
+      "botocore (>=1.18) ; extra == \"dynamodb\" or extra == \"all\"",
+      "bson (>=0.5) ; extra == \"bson\"",
+      "cattrs (>=22.2)",
+      "furo (>=2023.3,<2024.0) ; extra == \"docs\"",
+      "itsdangerous (>=2.0) ; extra == \"security\" or extra == \"all\"",
+      "linkify-it-py (>=2.0,<3.0) ; extra == \"docs\"",
+      "myst-parser (>=1.0,<2.0) ; extra == \"docs\"",
+      "platformdirs (>=2.5)",
+      "pymongo (>=3) ; extra == \"mongodb\" or extra == \"all\"",
+      "pyyaml (>=6.0.1) ; extra == \"yaml\" or extra == \"all\"",
+      "redis (>=3) ; extra == \"redis\" or extra == \"all\"",
+      "requests (>=2.22)",
+      "sphinx (>=5.0.2,<6.0.0) ; extra == \"docs\"",
+      "sphinx-autodoc-typehints (>=1.19) ; extra == \"docs\"",
+      "sphinx-automodapi (>=0.14) ; extra == \"docs\"",
+      "sphinx-copybutton (>=0.5) ; extra == \"docs\"",
+      "sphinx-design (>=0.2) ; extra == \"docs\"",
+      "sphinx-notfound-page (>=0.8) ; extra == \"docs\"",
+      "sphinxcontrib-apidoc (>=0.3) ; extra == \"docs\"",
+      "sphinxext-opengraph (>=0.9) ; extra == \"docs\"",
+      "ujson (>=5.4) ; extra == \"json\" or extra == \"all\"",
+      "url-normalize (>=1.4)",
+      "urllib3 (>=1.25.5)"
+    ]
+  },
+  "requests_cache-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8420cf096f3aafde13c374979c21844752e2694ffd8710e6764685bb577ac90",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "cattrs",
+        "platformdirs",
+        "requests",
+        "url-normalize",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.2)",
+      "boto3 (>=1.15) ; extra == \"dynamodb\" or extra == \"all\"",
+      "botocore (>=1.18) ; extra == \"dynamodb\" or extra == \"all\"",
+      "bson (>=0.5) ; extra == \"bson\"",
+      "cattrs (>=22.2)",
+      "furo (>=2023.3,<2024.0) ; extra == \"docs\"",
+      "itsdangerous (>=2.0) ; extra == \"security\" or extra == \"all\"",
+      "linkify-it-py (>=2.0,<3.0) ; extra == \"docs\"",
+      "myst-parser (>=1.0,<2.0) ; extra == \"docs\"",
+      "platformdirs (>=2.5)",
+      "pymongo (>=3) ; extra == \"mongodb\" or extra == \"all\"",
+      "pyyaml (>=5.4) ; extra == \"yaml\" or extra == \"all\"",
+      "redis (>=3) ; extra == \"redis\" or extra == \"all\"",
+      "requests (>=2.22)",
+      "sphinx (>=5.0.2,<6.0.0) ; extra == \"docs\"",
+      "sphinx-autodoc-typehints (>=1.19) ; extra == \"docs\"",
+      "sphinx-automodapi (>=0.14) ; extra == \"docs\"",
+      "sphinx-copybutton (>=0.5) ; extra == \"docs\"",
+      "sphinx-design (>=0.2) ; extra == \"docs\"",
+      "sphinx-notfound-page (>=0.8) ; extra == \"docs\"",
+      "sphinxcontrib-apidoc (>=0.3) ; extra == \"docs\"",
+      "sphinxext-opengraph (>=0.6) ; extra == \"docs\"",
+      "ujson (>=5.4) ; extra == \"json\" or extra == \"all\"",
+      "url-normalize (>=1.4)",
+      "urllib3 (>=1.25.5)"
+    ]
+  },
+  "requests_cache-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "178282bce704b912c59e7f88f367c42bddd6cde6bf511b2a3e3cfb7e5332a92a",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "cattrs",
+        "platformdirs",
+        "requests",
+        "url-normalize",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.2)",
+      "boto3 (>=1.15) ; extra == \"dynamodb\" or extra == \"all\"",
+      "botocore (>=1.18) ; extra == \"dynamodb\" or extra == \"all\"",
+      "bson (>=0.5) ; extra == \"bson\"",
+      "cattrs (>=22.2)",
+      "furo (>=2023.3,<2024.0) ; extra == \"docs\"",
+      "itsdangerous (>=2.0) ; extra == \"security\" or extra == \"all\"",
+      "linkify-it-py (>=2.0,<3.0) ; extra == \"docs\"",
+      "myst-parser (>=1.0,<2.0) ; extra == \"docs\"",
+      "platformdirs (>=2.5)",
+      "pymongo (>=3) ; extra == \"mongodb\" or extra == \"all\"",
+      "pyyaml (>=5.4) ; extra == \"yaml\" or extra == \"all\"",
+      "redis (>=3) ; extra == \"redis\" or extra == \"all\"",
+      "requests (>=2.22)",
+      "sphinx (>=5.0.2,<6.0.0) ; extra == \"docs\"",
+      "sphinx-autodoc-typehints (>=1.19) ; extra == \"docs\"",
+      "sphinx-automodapi (>=0.14) ; extra == \"docs\"",
+      "sphinx-copybutton (>=0.5) ; extra == \"docs\"",
+      "sphinx-design (>=0.2) ; extra == \"docs\"",
+      "sphinx-notfound-page (>=0.8) ; extra == \"docs\"",
+      "sphinxcontrib-apidoc (>=0.3) ; extra == \"docs\"",
+      "sphinxext-opengraph (>=0.6) ; extra == \"docs\"",
+      "ujson (>=5.4) ; extra == \"json\" or extra == \"all\"",
+      "url-normalize (>=1.4)",
+      "urllib3 (>=1.25.5)"
+    ]
+  },
+  "requests_cache-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55c5765c26fd98a38c633d6e3931a507b7708cdd07c0afb48773d0718ac15969",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "cattrs",
+        "platformdirs",
+        "requests",
+        "url-normalize",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.2)",
+      "boto3 (>=1.15) ; extra == \"dynamodb\" or extra == \"all\"",
+      "botocore (>=1.18) ; extra == \"dynamodb\" or extra == \"all\"",
+      "bson (>=0.5) ; extra == \"bson\"",
+      "cattrs (>=22.2)",
+      "furo (>=2022.12.7,<2023.0.0) ; extra == \"docs\"",
+      "itsdangerous (>=2.0) ; extra == \"security\" or extra == \"all\"",
+      "linkify-it-py (>=2.0,<3.0) ; extra == \"docs\"",
+      "myst-parser (>=1.0,<2.0) ; extra == \"docs\"",
+      "platformdirs (>=2.5)",
+      "pymongo (>=3) ; extra == \"mongodb\" or extra == \"all\"",
+      "pyyaml (>=5.4) ; extra == \"yaml\" or extra == \"all\"",
+      "redis (>=3) ; extra == \"redis\" or extra == \"all\"",
+      "requests (>=2.22)",
+      "sphinx (>=5.0.2,<6.0.0) ; extra == \"docs\"",
+      "sphinx-autodoc-typehints (>=1.19) ; extra == \"docs\"",
+      "sphinx-automodapi (>=0.14) ; extra == \"docs\"",
+      "sphinx-copybutton (>=0.5) ; extra == \"docs\"",
+      "sphinx-design (>=0.2) ; extra == \"docs\"",
+      "sphinx-notfound-page (>=0.8) ; extra == \"docs\"",
+      "sphinxcontrib-apidoc (>=0.3) ; extra == \"docs\"",
+      "sphinxext-opengraph (>=0.6) ; extra == \"docs\"",
+      "ujson (>=5.4) ; extra == \"json\" or extra == \"all\"",
+      "url-normalize (>=1.4)",
+      "urllib3 (>=1.25.5)"
+    ]
+  }
+}

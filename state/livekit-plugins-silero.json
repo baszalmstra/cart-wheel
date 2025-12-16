@@ -1,0 +1,82 @@
+{
+  "livekit_plugins_silero-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37666de618f612b06152775722f31e8b622716fce718de39f54f8c0e0afb050c",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy",
+        "onnxruntime"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents>=1.3.6",
+      "numpy>=1.26",
+      "onnxruntime<=1.23.1,>=1.18"
+    ]
+  },
+  "livekit_plugins_silero-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb0d5bc4ef22f69e70863dfa97d0893dc94d0e9934998c2ae046e98fa3e836e5",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy",
+        "onnxruntime"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents>=1.3.5",
+      "numpy>=1.26",
+      "onnxruntime<=1.23.1,>=1.18"
+    ]
+  },
+  "livekit_plugins_silero-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a52f6a16a780da3160ee9b4ac4ad32742f538d9e3b7ddcd2e14f1df79dd8d5a3",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy",
+        "onnxruntime"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents>=1.3.4",
+      "numpy>=1.26",
+      "onnxruntime<=1.23.1,>=1.18"
+    ]
+  },
+  "livekit_plugins_silero-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d72d2984db3d24bbae5778ece65b389b3e6d243631bc001a429741b113f50317",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy",
+        "onnxruntime"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents>=1.3.3",
+      "numpy>=1.26",
+      "onnxruntime<=1.23.1,>=1.18"
+    ]
+  },
+  "livekit_plugins_silero-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94b81f974e8583c62da9ce95dbdf0c0e8af7ee9eaf3aeb4495d4d4a56e98765a",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy",
+        "onnxruntime"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents>=1.3.2",
+      "numpy>=1.26",
+      "onnxruntime<=1.23.1,>=1.18"
+    ]
+  }
+}

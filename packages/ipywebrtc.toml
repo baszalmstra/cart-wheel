@@ -1,0 +1,10 @@
+# Package configuration for ipywebrtc
+conda_forge = "ipywebrtc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipywebrtc-0.6.0-py2.py3-none-any.whl" },
+  { filename = "ipywebrtc-0.5.0-py2.py3-none-any.whl" },
+  { filename = "ipywebrtc-0.4.1-py2.py3-none-any.whl" },
+]

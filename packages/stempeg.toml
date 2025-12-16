@@ -1,0 +1,12 @@
+# Package configuration for stempeg
+conda_forge = "stempeg"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "stempeg-0.2.6-py3-none-any.whl" },
+  { filename = "stempeg-0.2.5-py3-none-any.whl" },
+  { filename = "stempeg-0.2.4-py3-none-any.whl" },
+  { filename = "stempeg-0.2.3-py3-none-any.whl" },
+  { filename = "stempeg-0.2.2-py3-none-any.whl" },
+]

@@ -1,0 +1,118 @@
+{
+  "prefect_databricks-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e7ef9c7817742b8fde43a45a1af1a88f6acd0283cf7286db7312d7f05a7c34e5",
+    "dependencies": {
+      "required": [
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0"
+    ]
+  },
+  "prefect_databricks-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "087cfa80ddc2519a33aff018287e81ddc83be7f8e1df3c1378f6a96a5db64104",
+    "dependencies": {
+      "required": [
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest>=8.3; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "respx; extra == \"dev\""
+    ]
+  },
+  "prefect_databricks-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2eb00259c1f3b827caf7828771c14642541e018b379e439fdbf528a072cfa38d",
+    "dependencies": {
+      "required": [
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0rc1",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "respx; extra == \"dev\""
+    ]
+  },
+  "prefect_databricks-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8f5527e4e8528fd0855e7e8b76e28c8f497ebdfe34a94f2157d3d7a26d5707fe",
+    "dependencies": {
+      "required": [
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0rc1",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "respx; extra == \"dev\""
+    ]
+  },
+  "prefect_databricks-0.2.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7325ad8eb5ca0e3ae58f128313f7ebfb8163c709e373cc41018aee3412b08df",
+    "dependencies": {
+      "required": [
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "prefect<3.0.0,>=2.20.0",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "respx; extra == \"dev\"",
+      "mock; python_version < \"3.8\" and extra == \"dev\""
+    ]
+  }
+}

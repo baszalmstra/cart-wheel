@@ -1,0 +1,92 @@
+{
+  "gcloud_aio_storage-9.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6881f573df586821dfd456f7ded3d94f326a82197adca15d52acc789c3621df3",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "gcloud-aio-auth",
+        "pyasn1-modules",
+        "rsa"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles (>=0.6.0,<26.0.0)",
+      "gcloud-aio-auth (>=5.3.0,<6.0.0)",
+      "pyasn1-modules (>=0.2.1,<0.5.0)",
+      "rsa (>=3.1.4,<5.0.0)"
+    ]
+  },
+  "gcloud_aio_storage-9.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "259d2f0a9da4ed8ac3b23b59c2effb7f89b2c2504d4ef6e30102d08e1cba02aa",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "gcloud-aio-auth",
+        "pyasn1-modules",
+        "rsa"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles (>=0.6.0,<25.0.0)",
+      "gcloud-aio-auth (>=5.3.0,<6.0.0)",
+      "pyasn1-modules (>=0.2.1,<0.4.2)",
+      "rsa (>=3.1.4,<5.0.0)"
+    ]
+  },
+  "gcloud_aio_storage-9.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf65e60d69ff1b9de67c2e985126b60866611551e49b6cbf1a53bc3c85421632",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "gcloud-aio-auth",
+        "pyasn1-modules",
+        "rsa"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles (>=0.6.0,<25.0.0)",
+      "gcloud-aio-auth (>=5.3.0,<6.0.0)",
+      "pyasn1-modules (>=0.2.1,<0.4.2)",
+      "rsa (>=3.1.4,<5.0.0)"
+    ]
+  },
+  "gcloud_aio_storage-9.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f119cc4d85223c30a9663f77668766c6715cb0b439746a2cb23f916a2cb7e13",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "gcloud-aio-auth",
+        "pyasn1-modules",
+        "rsa"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles (>=0.6.0,<25.0.0)",
+      "gcloud-aio-auth (>=5.3.0,<6.0.0)",
+      "pyasn1-modules (>=0.2.1,<0.4.2)",
+      "rsa (>=3.1.4,<5.0.0)"
+    ]
+  },
+  "gcloud_aio_storage-9.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ef9bd22eb3545a912a495b551aa58c1c2a177e72e4ed03a64665fceb02cf650",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "gcloud-aio-auth",
+        "pyasn1-modules",
+        "rsa"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles (>=0.6.0,<24.0.0)",
+      "gcloud-aio-auth (>=5.3.0,<6.0.0)",
+      "pyasn1-modules (>=0.2.1,<0.4.1)",
+      "rsa (>=3.1.4,<5.0.0)"
+    ]
+  }
+}

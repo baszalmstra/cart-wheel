@@ -1,0 +1,12 @@
+# Package configuration for allennlp
+conda_forge = "allennlp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "allennlp-2.10.1-py3-none-any.whl" },
+  { filename = "allennlp-2.10.0-py3-none-any.whl" },
+  { filename = "allennlp-2.9.3-py3-none-any.whl" },
+  { filename = "allennlp-2.9.2-py3-none-any.whl" },
+  { filename = "allennlp-2.9.1-py3-none-any.whl" },
+]

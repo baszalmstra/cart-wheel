@@ -1,0 +1,72 @@
+{
+  "prefect_redis-0.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dbdeb0b309298c2c2d7bf618d32095e5aa612cfc5bdd6a7d0e71ef19111d49f1",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.4.24",
+      "redis>=6.0.0"
+    ]
+  },
+  "prefect_redis-0.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94fb4eb91c9a8ea4a6e4a8c70071b23027f24291fd8562fb394cad6349daac52",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.4.24",
+      "redis>=6.0.0"
+    ]
+  },
+  "prefect_redis-0.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a0febf43c1a5bf671e3cc975b4b66f35432a29f73468b3fd4bb60b6821de68f8",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.4.18",
+      "redis>=6.0.0"
+    ]
+  },
+  "prefect_redis-0.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed6effb75f84d959812fcd3b8dd016f2d2ad8dfa25354008ca733babb83a112c",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.4.9",
+      "redis>=6.0.0"
+    ]
+  },
+  "prefect_redis-0.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "643111173a509a9627ea07a87bbbdc495ed897b7c9b19133c64d8953660c5bf9",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "redis>=6.0.0"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for types-python-dateutil
+conda_forge = "types-python-dateutil"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_python_dateutil-2.9.0.20251115-py3-none-any.whl" },
+  { filename = "types_python_dateutil-2.9.0.20251108-py3-none-any.whl" },
+  { filename = "types_python_dateutil-2.9.0.20251008-py3-none-any.whl" },
+  { filename = "types_python_dateutil-2.9.0.20250822-py3-none-any.whl" },
+  { filename = "types_python_dateutil-2.9.0.20250809-py3-none-any.whl" },
+]

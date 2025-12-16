@@ -1,0 +1,9 @@
+# Package configuration for types-botocore
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_botocore-1.0.2-py3-none-any.whl" },
+  { filename = "types_botocore-1.0.1-py3-none-any.whl" },
+  { filename = "types_botocore-1.0.0-py3-none-any.whl" },
+]

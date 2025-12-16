@@ -1,0 +1,90 @@
+{
+  "redis-7.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23c52b208f92b56103e17c5d06bdc1a6c2c0b3106583985a76a18f83b265de2b",
+    "dependencies": {
+      "required": [
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout>=4.0.3; python_full_version < '3.11.3'",
+      "pybreaker>=1.4.0; extra == 'circuit-breaker'",
+      "hiredis>=3.2.0; extra == 'hiredis'",
+      "pyjwt>=2.9.0; extra == 'jwt'",
+      "cryptography>=36.0.1; extra == 'ocsp'",
+      "pyopenssl>=20.0.1; extra == 'ocsp'",
+      "requests>=2.31.0; extra == 'ocsp'"
+    ]
+  },
+  "redis-7.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4977af3c7d67f8f0eb8b6fec0dafc9605db9343142f634041fb0235f67c0588a",
+    "dependencies": {
+      "required": [
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout>=4.0.3; python_full_version < '3.11.3'",
+      "pybreaker>=1.4.0; extra == 'circuit-breaker'",
+      "hiredis>=3.2.0; extra == 'hiredis'",
+      "pyjwt>=2.9.0; extra == 'jwt'",
+      "cryptography>=36.0.1; extra == 'ocsp'",
+      "pyopenssl>=20.0.1; extra == 'ocsp'",
+      "requests>=2.31.0; extra == 'ocsp'"
+    ]
+  },
+  "redis-7.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e66c8355b3443af78367c4937484cd875fdf9f5f14e1fed14aa95869e64f6d1",
+    "dependencies": {
+      "required": [
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout>=4.0.3; python_full_version < '3.11.3'",
+      "pybreaker>=1.4.0; extra == 'circuit-breaker'",
+      "hiredis>=3.2.0; extra == 'hiredis'",
+      "pyjwt>=2.9.0; extra == 'jwt'",
+      "cryptography>=36.0.1; extra == 'ocsp'",
+      "pyopenssl>=20.0.1; extra == 'ocsp'",
+      "requests>=2.31.0; extra == 'ocsp'"
+    ]
+  },
+  "redis-6.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0544fa9604264e9464cdf4814e7d4830f74b165d52f2a330a760a88dd248b7f",
+    "dependencies": {
+      "required": [
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout>=4.0.3; python_full_version < '3.11.3'",
+      "hiredis>=3.2.0; extra == 'hiredis'",
+      "pyjwt>=2.9.0; extra == 'jwt'",
+      "cryptography>=36.0.1; extra == 'ocsp'",
+      "pyopenssl>=20.0.1; extra == 'ocsp'",
+      "requests>=2.31.0; extra == 'ocsp'"
+    ]
+  },
+  "redis-6.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "92f079d656ded871535e099080f70fab8e75273c0236797126ac60242d638e9b",
+    "dependencies": {
+      "required": [
+        "async-timeout"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout>=4.0.3; python_full_version < '3.11.3'",
+      "hiredis>=3.2.0; extra == 'hiredis'",
+      "pyjwt>=2.9.0; extra == 'jwt'",
+      "cryptography>=36.0.1; extra == 'ocsp'",
+      "pyopenssl>=20.0.1; extra == 'ocsp'",
+      "requests>=2.31.0; extra == 'ocsp'"
+    ]
+  }
+}

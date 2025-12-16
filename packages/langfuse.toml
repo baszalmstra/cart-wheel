@@ -1,0 +1,12 @@
+# Package configuration for langfuse
+conda_forge = "langfuse-python"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langfuse-3.10.6-py3-none-any.whl" },
+  { filename = "langfuse-3.10.5-py3-none-any.whl" },
+  { filename = "langfuse-3.10.4-py3-none-any.whl" },
+  { filename = "langfuse-3.10.3-py3-none-any.whl" },
+  { filename = "langfuse-3.10.2-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for sphinxcontrib-openapi
+conda_forge = "sphinxcontrib-openapi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_openapi-0.8.4-py3-none-any.whl" },
+  { filename = "sphinxcontrib_openapi-0.8.3-py3-none-any.whl" },
+  { filename = "sphinxcontrib_openapi-0.8.2-py3-none-any.whl" },
+  { filename = "sphinxcontrib_openapi-0.8.1-py3-none-any.whl" },
+  { filename = "sphinxcontrib_openapi-0.8.0-py3-none-any.whl" },
+]

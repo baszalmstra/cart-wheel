@@ -1,0 +1,11 @@
+# Package configuration for grpcio-testing
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "grpcio_testing-1.76.0-py3-none-any.whl" },
+  { filename = "grpcio_testing-1.75.1-py3-none-any.whl" },
+  { filename = "grpcio_testing-1.75.0-py3-none-any.whl" },
+  { filename = "grpcio_testing-1.74.0-py3-none-any.whl" },
+  { filename = "grpcio_testing-1.73.1-py3-none-any.whl" },
+]

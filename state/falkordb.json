@@ -1,0 +1,44 @@
+{
+  "falkordb-1.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc1fcccaa1148be9e3d22d85af03d027f19b398e0f38d04424f3757a02744976",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil (>=2.9.0,<3.0.0)",
+      "redis (>=6.0.0,<7.0.0)"
+    ]
+  },
+  "falkordb-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c749b7bf88c3d8799e78fd6b57f68c8060b5d7bfc75705b1cf0e1c2c5b50ae80",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil (>=2.9.0,<3.0.0)",
+      "redis (>=6.0.0,<7.0.0)"
+    ]
+  },
+  "falkordb-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7572d9cc377735d22efc52fe6fe73c7a435422c827b6ea3ca223a850a77be12e",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil (>=2.9.0,<3.0.0)",
+      "redis (>=5.0.1,<6.0.0)"
+    ]
+  }
+}

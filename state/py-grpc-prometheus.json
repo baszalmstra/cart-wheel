@@ -1,0 +1,82 @@
+{
+  "py_grpc_prometheus-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "358d3418e85a1967cccca51090ef6c204bc3fcc0ace7bf7704cbc0d9a2b4edc7",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "grpcio",
+        "prometheus-client"
+      ]
+    },
+    "original_requirements": [
+      "setuptools >=39.0.1",
+      "grpcio >=1.10.0",
+      "prometheus-client >=0.3.0"
+    ]
+  },
+  "py_grpc_prometheus-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b171ad09d2884e72b11847e4eba76f06da53e8ef0b8415ca95705d978a22d1eb",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "grpcio",
+        "prometheus-client"
+      ]
+    },
+    "original_requirements": [
+      "setuptools (>=39.0.1)",
+      "grpcio (>=1.10.0)",
+      "prometheus-client (>=0.3.0)"
+    ]
+  },
+  "py_grpc_prometheus-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb4152c77c9b51f83d6a249bb69cb6a24bc45193a4e311e12d0a8b33b1ab40b8",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "grpcio",
+        "prometheus-client"
+      ]
+    },
+    "original_requirements": [
+      "setuptools (>=39.0.1)",
+      "grpcio (>=1.10.0)",
+      "prometheus-client (>=0.3.0)"
+    ]
+  },
+  "py_grpc_prometheus-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "961b2989319f364935cbeeb53ea34238cdc862826e57167334adfec17203b647",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "grpcio",
+        "prometheus-client"
+      ]
+    },
+    "original_requirements": [
+      "setuptools (>=39.0.1)",
+      "grpcio (>=1.10.0)",
+      "prometheus-client (>=0.3.0)"
+    ]
+  },
+  "py_grpc_prometheus-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d48ff9a15a1c229dfd0f78d78c9d30ab03361a9b555f1bb33384605b7c0b511f",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "grpcio",
+        "prometheus-client"
+      ]
+    },
+    "original_requirements": [
+      "setuptools (>=39.0.1)",
+      "grpcio (>=1.10.0)",
+      "prometheus-client (>=0.3.0)"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for aiolimiter
+conda_forge = "aiolimiter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiolimiter-1.2.1-py3-none-any.whl" },
+  { filename = "aiolimiter-1.2.0-py3-none-any.whl" },
+  { filename = "aiolimiter-1.1.1-py3-none-any.whl" },
+  { filename = "aiolimiter-1.1.0-py3-none-any.whl" },
+  { filename = "aiolimiter-1.0.0-py3-none-any.whl" },
+]

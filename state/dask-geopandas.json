@@ -1,0 +1,101 @@
+{
+  "dask_geopandas-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b6c2a8f7fae94667c4af539e591fa7fb59c5c3206188fa51e461d395ef80240",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "shapely",
+        "dask",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=0.14.3",
+      "shapely>=2.0",
+      "dask[dataframe]>=2025.1.0",
+      "packaging",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "dask_geopandas-0.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1cc159aecee7b3adc79383f1acc7c7e7c68130c57aea0643e190ac0149ef5bc4",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "shapely",
+        "dask",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=0.14.3",
+      "shapely>=2.0",
+      "dask[dataframe]>=2025.1.0",
+      "packaging",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "dask_geopandas-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84985d7453887a1416cb2602d1f6a8f9b10246f1d958306a4241214f9fa44a5f",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "shapely",
+        "dask",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=0.12",
+      "shapely>=2.0",
+      "dask[dataframe]>=2022.06.0",
+      "packaging",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "dask_geopandas-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "00e8484d4692317f330f5fb8e76e7d63e7d591d6597e130d6a90d289dddb2c88",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "shapely",
+        "dask",
+        "distributed",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "geopandas >=0.12",
+      "shapely >=2.0",
+      "dask[dataframe] >=2022.06.0",
+      "distributed >=2022.06.0",
+      "packaging",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "dask_geopandas-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "458f745aa054e0ea17c55ff72e66c10dfa14bb8e1071f887738c7a59818ce5bf",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "shapely",
+        "dask",
+        "distributed",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "geopandas >=0.12",
+      "shapely >=2.0",
+      "dask >=2022.06.0",
+      "distributed >=2022.06.0",
+      "packaging",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

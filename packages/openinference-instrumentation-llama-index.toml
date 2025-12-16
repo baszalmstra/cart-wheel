@@ -1,0 +1,12 @@
+# Package configuration for openinference-instrumentation-llama-index
+conda_forge = "openinference-instrumentation-llama-index"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openinference_instrumentation_llama_index-4.3.9-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_llama_index-4.3.8-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_llama_index-4.3.7-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_llama_index-4.3.6-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_llama_index-4.3.5-py3-none-any.whl" },
+]

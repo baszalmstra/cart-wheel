@@ -1,0 +1,11 @@
+# Package configuration for pytest-servers
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_servers-0.5.12-py3-none-any.whl" },
+  { filename = "pytest_servers-0.5.11-py3-none-any.whl" },
+  { filename = "pytest_servers-0.5.10-py3-none-any.whl" },
+  { filename = "pytest_servers-0.5.9-py3-none-any.whl" },
+  { filename = "pytest_servers-0.5.8-py3-none-any.whl" },
+]

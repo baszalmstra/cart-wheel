@@ -1,0 +1,11 @@
+# Package configuration for google-cloud-datacatalog-lineage
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_datacatalog_lineage-0.4.0-py3-none-any.whl" },
+  { filename = "google_cloud_datacatalog_lineage-0.3.14-py3-none-any.whl" },
+  { filename = "google_cloud_datacatalog_lineage-0.3.13-py3-none-any.whl" },
+  { filename = "google_cloud_datacatalog_lineage-0.3.12-py3-none-any.whl" },
+  { filename = "google_cloud_datacatalog_lineage-0.3.11-py3-none-any.whl" },
+]

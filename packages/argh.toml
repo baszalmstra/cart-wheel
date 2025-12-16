@@ -1,0 +1,12 @@
+# Package configuration for argh
+conda_forge = "argh"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "argh-0.31.3-py3-none-any.whl" },
+  { filename = "argh-0.31.2-py3-none-any.whl" },
+  { filename = "argh-0.31.1-py3-none-any.whl" },
+  { filename = "argh-0.31.0-py3-none-any.whl" },
+  { filename = "argh-0.30.5-py3-none-any.whl" },
+]

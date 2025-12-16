@@ -1,0 +1,113 @@
+{
+  "sphinx_thebe-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e7e7edee9f0d601c76bc70156c471e114939484b111dd8e74fe47ac88baffc52",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=4",
+      "sphinx-thebe[testing]; extra == 'dev'",
+      "myst-nb; extra == 'sphinx'",
+      "sphinx-book-theme; extra == 'sphinx'",
+      "sphinx-copybutton; extra == 'sphinx'",
+      "sphinx-design; extra == 'sphinx'",
+      "beautifulsoup4; extra == 'testing'",
+      "matplotlib; extra == 'testing'",
+      "myst-nb>=1.0.0rc0; extra == 'testing'",
+      "pytest; extra == 'testing'",
+      "pytest-regressions; extra == 'testing'",
+      "sphinx-copybutton; extra == 'testing'",
+      "sphinx-design; extra == 'testing'"
+    ]
+  },
+  "sphinx_thebe-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e58579c18562593a2dae4a561e2cf294af315a3e5ef961b048761202b49e4b34",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=4",
+      "sphinx-thebe[testing]; extra == 'dev'",
+      "myst-nb; extra == 'sphinx'",
+      "sphinx-book-theme; extra == 'sphinx'",
+      "sphinx-copybutton; extra == 'sphinx'",
+      "sphinx-design; extra == 'sphinx'",
+      "beautifulsoup4; extra == 'testing'",
+      "matplotlib; extra == 'testing'",
+      "myst-nb>=1.0.0rc0; extra == 'testing'",
+      "pytest; extra == 'testing'",
+      "pytest-regressions; extra == 'testing'",
+      "sphinx-copybutton; extra == 'testing'",
+      "sphinx-design; extra == 'testing'"
+    ]
+  },
+  "sphinx_thebe-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e8af555c90acba3541fa7108ea5981ae9c4bd406b54d9a242ab054d326ab7441",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (<7,>=4)",
+      "matplotlib ; extra == 'sphinx'",
+      "myst-nb ; extra == 'sphinx'",
+      "sphinx-book-theme (>=0.4.0rc1) ; extra == 'sphinx'",
+      "sphinx-copybutton ; extra == 'sphinx'",
+      "sphinx-design ; extra == 'sphinx'",
+      "matplotlib ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "beautifulsoup4 ; extra == 'testing'"
+    ]
+  },
+  "sphinx_thebe-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ed055c5377ef049058f1ee20f4c58cbedda223d5fb996873587e6ab2b50ee8f",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (<7,>=4)",
+      "matplotlib ; extra == 'sphinx'",
+      "myst-nb ; extra == 'sphinx'",
+      "sphinx-book-theme (>=0.4.0rc1) ; extra == 'sphinx'",
+      "sphinx-copybutton ; extra == 'sphinx'",
+      "sphinx-design ; extra == 'sphinx'",
+      "matplotlib ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "beautifulsoup4 ; extra == 'testing'"
+    ]
+  },
+  "sphinx_thebe-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "42bb15287bba3459a1faf6081d1bb7a6a426c77a6ba41ac8d3aa98e8f75baa6b",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (<5,>=3.5)",
+      "matplotlib ; extra == 'sphinx'",
+      "myst-nb ; extra == 'sphinx'",
+      "sphinx-book-theme ; extra == 'sphinx'",
+      "sphinx-copybutton ; extra == 'sphinx'",
+      "sphinx-panels ; extra == 'sphinx'",
+      "matplotlib ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-regressions ; extra == 'testing'",
+      "beautifulsoup4 ; extra == 'testing'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for backports-asyncio-runner
+conda_forge = "backports.asyncio.runner"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "backports_asyncio_runner-1.2.0-py3-none-any.whl" },
+  { filename = "backports_asyncio_runner-1.1.0-py3-none-any.whl" },
+  { filename = "backports_asyncio_runner-1.0.2-py3-none-any.whl" },
+  { filename = "backports_asyncio_runner-1.0.1-py3-none-any.whl" },
+  { filename = "backports_asyncio_runner-1.0.0-py3-none-any.whl" },
+]

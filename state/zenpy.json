@@ -1,0 +1,29 @@
+{
+  "zenpy-2.0.56-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7cd73421f9903034b53fbe32968359574892e29410db1895f999f5bacb4c91db",
+    "dependencies": {
+      "required": [
+        "requests",
+        "python-dateutil",
+        "cachetools",
+        "pytz",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "requests >=2.14.2",
+      "python-dateutil >=2.7.5",
+      "cachetools >=3.1.0",
+      "pytz >=2018.9",
+      "six >=1.14.0"
+    ]
+  },
+  "zenpy-2.0.27-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82a22577304e0cbb4158fefd0ddd7dc0fa99ea3e4d12d3994a5db87ea86319be",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

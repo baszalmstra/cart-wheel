@@ -1,0 +1,12 @@
+# Package configuration for uncertainties
+conda_forge = "uncertainties"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "uncertainties-3.2.3-py3-none-any.whl" },
+  { filename = "uncertainties-3.2.2-py3-none-any.whl" },
+  { filename = "uncertainties-3.2.1-py3-none-any.whl" },
+  { filename = "uncertainties-3.2.0-py3-none-any.whl" },
+  { filename = "uncertainties-3.1.7-py2.py3-none-any.whl" },
+]

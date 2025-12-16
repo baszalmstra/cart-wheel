@@ -1,0 +1,78 @@
+{
+  "rq-2.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5cc88d3bb5263a407fb2ba2dc6fe8dc710dae94b6f74396cdfe1b32beded9408",
+    "dependencies": {
+      "required": [
+        "click",
+        "croniter",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "click>=5",
+      "croniter",
+      "redis!=6,>=3.5"
+    ]
+  },
+  "rq-2.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be5ccc0f0fc5f32da0999648340e31476368f08067f0c3fce6768d00064edbb5",
+    "dependencies": {
+      "required": [
+        "click",
+        "croniter",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "click>=5",
+      "croniter",
+      "redis!=6,>=3.5"
+    ]
+  },
+  "rq-2.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90c74eb5b5793ff08e6c3391fd6deb7151f308ac8f04b6831580b38e90688155",
+    "dependencies": {
+      "required": [
+        "click",
+        "croniter",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "click>=5",
+      "croniter",
+      "redis!=6,>=3.5"
+    ]
+  },
+  "rq-2.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3a0839ba3213a9be013b398670caf71d9360a0c8525f343687cf2c2199e5ec8",
+    "dependencies": {
+      "required": [
+        "click",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "click>=5",
+      "redis!=6,>=3.5"
+    ]
+  },
+  "rq-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b854d27ad0d9687b9e6f686e001a3043807694ace5340a3f9697b42c6a9c65a",
+    "dependencies": {
+      "required": [
+        "click",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "click>=5",
+      "redis!=6.0.0,>=3.5"
+    ]
+  }
+}

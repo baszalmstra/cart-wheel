@@ -1,0 +1,97 @@
+{
+  "azure_storage_file_share-12.23.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10f83e82e68fb071bed3302614e35027ac9e03b63d0d850b81671e08936b0134",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "cryptography",
+        "typing-extensions",
+        "isodate"
+      ]
+    },
+    "original_requirements": [
+      "azure-core>=1.30.0",
+      "cryptography>=2.1.4",
+      "typing-extensions>=4.6.0",
+      "isodate>=0.6.1",
+      "azure-core[aio]>=1.30.0; extra == \"aio\""
+    ]
+  },
+  "azure_storage_file_share-12.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c7aecd86ace544629752c2753960f9db85fecaa7dbf5baa78f7edcee9f13360",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "cryptography",
+        "typing-extensions",
+        "isodate"
+      ]
+    },
+    "original_requirements": [
+      "azure-core>=1.30.0",
+      "cryptography>=2.1.4",
+      "typing-extensions>=4.6.0",
+      "isodate>=0.6.1",
+      "azure-core[aio]>=1.30.0; extra == \"aio\""
+    ]
+  },
+  "azure_storage_file_share-12.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a42482a7d1d940780f4bf7eda5cb031076c8571b17dda4414f0b91d5111d0eb2",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "cryptography",
+        "typing-extensions",
+        "isodate"
+      ]
+    },
+    "original_requirements": [
+      "azure-core>=1.30.0",
+      "cryptography>=2.1.4",
+      "typing-extensions>=4.6.0",
+      "isodate>=0.6.1",
+      "azure-core[aio]>=1.30.0; extra == \"aio\""
+    ]
+  },
+  "azure_storage_file_share-12.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0875c7ee13d9a750d8a9b8ddd93d6502edd26cf40f44a390d7ae2637779300da",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "cryptography",
+        "typing-extensions",
+        "isodate"
+      ]
+    },
+    "original_requirements": [
+      "azure-core >=1.30.0",
+      "cryptography >=2.1.4",
+      "typing-extensions >=4.6.0",
+      "isodate >=0.6.1",
+      "azure-core[aio] >=1.30.0 ; extra == 'aio'"
+    ]
+  },
+  "azure_storage_file_share-12.20.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcc074af5b9b943ea07810e0a558e6b1bf471d050170eb137efec935a1987029",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "cryptography",
+        "typing-extensions",
+        "isodate"
+      ]
+    },
+    "original_requirements": [
+      "azure-core >=1.30.0",
+      "cryptography >=2.1.4",
+      "typing-extensions >=4.6.0",
+      "isodate >=0.6.1",
+      "azure-core[aio] >=1.30.0 ; extra == 'aio'"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "aws_cdk.aws_sagemaker-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7cd139fbc1d46da66e7a5c9969ee3c638826b95bad7cf8e82eb043eaaa1ffb22",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_sagemaker-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9441f1898d93ca9539b2f51ad95fe1b1464f8a12a5d513873085c2dcb096f6a3",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_sagemaker-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8dc7ba8850271c84c987fdf1118657b776c9ff9aff123b4b212b1966ebc112b7",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_sagemaker-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6876ef533761e7b1813e6f847baf460e55fc5417087f2e9febb83071dcd7c20",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_sagemaker-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2989f0ce491fca68283ed207dbe5d500c4faa006b23f6afa7e06567833611fb9",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

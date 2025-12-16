@@ -1,0 +1,12 @@
+# Package configuration for stonesoup
+conda_forge = "stonesoup"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "stonesoup-1.8-py3-none-any.whl" },
+  { filename = "stonesoup-1.7-py3-none-any.whl" },
+  { filename = "stonesoup-1.6-py3-none-any.whl" },
+  { filename = "stonesoup-1.5-py3-none-any.whl" },
+  { filename = "stonesoup-1.4-py3-none-any.whl" },
+]

@@ -1,0 +1,67 @@
+{
+  "sounddevice-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ea7738baa0a9f9fef7390f649e41c9f2c8ada776180e56c2ffd217133c92a806",
+    "dependencies": {
+      "required": [
+        "cffi"
+      ]
+    },
+    "original_requirements": [
+      "CFFI>=1.0",
+      "NumPy; extra == \"numpy\""
+    ]
+  },
+  "sounddevice-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82375859fac2e73295a4ab3fc60bd4782743157adc339561c1f1142af472f505",
+    "dependencies": {
+      "required": [
+        "cffi"
+      ]
+    },
+    "original_requirements": [
+      "CFFI>=1.0",
+      "NumPy; extra == \"numpy\""
+    ]
+  },
+  "sounddevice-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2017f182888c3f3c280d9fbac92e5dbddac024a7e3442f6e6116bd79dab8a9c",
+    "dependencies": {
+      "required": [
+        "cffi"
+      ]
+    },
+    "original_requirements": [
+      "CFFI >=1.0",
+      "NumPy ; extra == 'numpy'"
+    ]
+  },
+  "sounddevice-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a734043ab1f751cb20f6f25d8f07408a1aadf2eeca923061849d38bb59f9e3d",
+    "dependencies": {
+      "required": [
+        "cffi"
+      ]
+    },
+    "original_requirements": [
+      "CFFI >=1.0",
+      "NumPy ; extra == 'numpy'"
+    ]
+  },
+  "sounddevice-0.4.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c3f18bfa4d9a257f5715f2ab83f2c0eb412a09f3e6a9fa73720886ca88f6bc7",
+    "dependencies": {
+      "required": [
+        "cffi"
+      ]
+    },
+    "original_requirements": [
+      "CFFI >=1.0",
+      "NumPy ; extra == 'numpy'"
+    ]
+  }
+}

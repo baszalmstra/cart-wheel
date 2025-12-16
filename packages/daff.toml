@@ -1,0 +1,8 @@
+# Package configuration for daff
+conda_forge = "daff"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "daff-1.4.2-py3-none-any.whl" },
+]

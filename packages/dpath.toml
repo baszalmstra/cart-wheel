@@ -1,0 +1,12 @@
+# Package configuration for dpath
+conda_forge = "dpath"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dpath-2.2.0-py3-none-any.whl" },
+  { filename = "dpath-2.1.6-py3-none-any.whl" },
+  { filename = "dpath-2.1.5-py3-none-any.whl" },
+  { filename = "dpath-2.1.4-py3-none-any.whl" },
+  { filename = "dpath-2.1.3-py3-none-any.whl" },
+]

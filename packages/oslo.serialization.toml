@@ -1,0 +1,11 @@
+# Package configuration for oslo.serialization
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oslo_serialization-5.8.0-py3-none-any.whl" },
+  { filename = "oslo.serialization-5.7.0-py3-none-any.whl" },
+  { filename = "oslo.serialization-5.6.0-py3-none-any.whl" },
+  { filename = "oslo.serialization-5.5.0-py3-none-any.whl" },
+  { filename = "oslo.serialization-5.4.1-py3-none-any.whl" },
+]

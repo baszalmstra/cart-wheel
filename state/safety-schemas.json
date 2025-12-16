@@ -1,0 +1,102 @@
+{
+  "safety_schemas-0.0.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "762e14a89184f6c5cd7fd2eec71190a9baec0b1351ebf006e581f5a818100709",
+    "dependencies": {
+      "required": [
+        "dparse",
+        "packaging",
+        "pydantic",
+        "ruamel-yaml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "dparse>=0.6.4",
+      "packaging>=21.0",
+      "pydantic>=2.6.0",
+      "ruamel-yaml>=0.17.21",
+      "typing-extensions>=4.7.1"
+    ]
+  },
+  "safety_schemas-0.0.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6760515d3fd1e6535b251cd73014bd431d12fe0bfb8b6e8880a9379b5ab7aa44",
+    "dependencies": {
+      "required": [
+        "dparse",
+        "packaging",
+        "pydantic",
+        "ruamel-yaml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "dparse>=0.6.4",
+      "packaging>=21.0",
+      "pydantic>=2.6.0",
+      "ruamel-yaml>=0.17.21",
+      "typing-extensions>=4.7.1"
+    ]
+  },
+  "safety_schemas-0.0.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "20a56678a5a54abea6ab8151f0eb84eeab7b9638f5991bee87ebee3d07f5a385",
+    "dependencies": {
+      "required": [
+        "dparse",
+        "packaging",
+        "pydantic",
+        "ruamel-yaml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "dparse>=0.6.4",
+      "packaging>=21.0",
+      "pydantic>=2.6.0",
+      "ruamel-yaml>=0.17.21",
+      "typing-extensions>=4.7.1"
+    ]
+  },
+  "safety_schemas-0.0.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0bf6fc4aa5e474651b714cc9e427c862792946bf052b61d5c7bec4eac4c0f254",
+    "dependencies": {
+      "required": [
+        "dparse",
+        "packaging",
+        "pydantic",
+        "ruamel-yaml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "dparse>=0.6.4",
+      "packaging>=21.0",
+      "pydantic<2.10.0,>=2.6.0",
+      "ruamel-yaml>=0.17.21",
+      "typing-extensions>=4.7.1"
+    ]
+  },
+  "safety_schemas-0.0.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c5e8c947c35c7eed72bfc0decca30a6165dfbd4fa6a56a45f84d55a43edffc1",
+    "dependencies": {
+      "required": [
+        "dparse",
+        "packaging",
+        "pydantic",
+        "ruamel-yaml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "dparse>=0.6.4",
+      "packaging>=21.0",
+      "pydantic<2.10.0,>=2.6.0",
+      "ruamel-yaml>=0.17.21",
+      "typing-extensions>=4.7.1"
+    ]
+  }
+}

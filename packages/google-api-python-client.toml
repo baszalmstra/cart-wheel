@@ -1,0 +1,12 @@
+# Package configuration for google-api-python-client
+conda_forge = "google-api-python-client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_api_python_client-2.187.0-py3-none-any.whl" },
+  { filename = "google_api_python_client-2.186.0-py3-none-any.whl" },
+  { filename = "google_api_python_client-2.185.0-py3-none-any.whl" },
+  { filename = "google_api_python_client-2.184.0-py3-none-any.whl" },
+  { filename = "google_api_python_client-2.183.0-py3-none-any.whl" },
+]

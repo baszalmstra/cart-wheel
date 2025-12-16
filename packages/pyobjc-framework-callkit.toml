@@ -1,0 +1,8 @@
+# Package configuration for pyobjc-framework-callkit
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyobjc_framework_CallKit-11.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_CallKit-10.3.2-py2.py3-none-any.whl" },
+]

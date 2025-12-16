@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_fileproviderui-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "521a914055089e28631018bd78df4c4f7416e98b4150f861d4a5bc97d5b1ffe4",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-fileprovider"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-FileProvider>=12.1"
+    ]
+  },
+  "pyobjc_framework_fileproviderui-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "821e5a84f6c2122cd03d64428a9b0af2d41ee27bce8b417d9fa7a97470a97ee7",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-fileprovider"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-FileProvider>=12.0"
+    ]
+  },
+  "pyobjc_framework_fileproviderui-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f2765f114c2f4356aa41fb45c621fa8f0a4fae0b6d3c6b1a274366f5fe7fe829",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-fileprovider"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-FileProvider>=11.1"
+    ]
+  },
+  "pyobjc_framework_FileProviderUI-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5102651febb5a6140f99b116b73d0fd6c9822372a5203506e4904ac0ebb1313c",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-fileprovider"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-FileProvider >=11.0"
+    ]
+  },
+  "pyobjc_framework_FileProviderUI-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c97456b4bccd0a9d2de5539dad0cf99013d64e77ee9bdea6eec17b803c6515ae",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-fileprovider"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-FileProvider>=10.3.2"
+    ]
+  }
+}

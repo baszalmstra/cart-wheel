@@ -1,0 +1,12 @@
+# Package configuration for elastic-transport
+conda_forge = "elastic-transport"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "elastic_transport-9.2.0-py3-none-any.whl" },
+  { filename = "elastic_transport-9.1.0-py3-none-any.whl" },
+  { filename = "elastic_transport-8.17.1-py3-none-any.whl" },
+  { filename = "elastic_transport-8.17.0-py3-none-any.whl" },
+  { filename = "elastic_transport-8.15.1-py3-none-any.whl" },
+]

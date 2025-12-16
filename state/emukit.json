@@ -1,0 +1,23 @@
+{
+  "emukit-0.4.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17982379c96ea307cf8de78fcb7c4074a72dd7699c97e4078bd481de16335e70",
+    "dependencies": {
+      "required": [
+        "gpy",
+        "emcee",
+        "numpy",
+        "scipy",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "GPy[plotting] (>=1.10.0)",
+      "emcee (>=2.2.1)",
+      "numpy (>=1.14.5)",
+      "scipy (>=1.1.0)",
+      "setuptools (>=40.8.0)",
+      "matplotlib ; extra == 'benchmarking'"
+    ]
+  }
+}

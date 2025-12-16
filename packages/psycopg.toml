@@ -1,0 +1,12 @@
+# Package configuration for psycopg
+conda_forge = "psycopg"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "psycopg-3.3.2-py3-none-any.whl" },
+  { filename = "psycopg-3.3.1-py3-none-any.whl" },
+  { filename = "psycopg-3.3.0-py3-none-any.whl" },
+  { filename = "psycopg-3.2.13-py3-none-any.whl" },
+  { filename = "psycopg-3.2.12-py3-none-any.whl" },
+]

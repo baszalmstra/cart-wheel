@@ -1,0 +1,67 @@
+{
+  "questionary-2.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a51af13f345f1cdea62347589fbb6df3b290306ab8930713bfae4d475a7d4a59",
+    "dependencies": {
+      "required": [
+        "prompt-toolkit"
+      ]
+    },
+    "original_requirements": [
+      "prompt_toolkit (>=2.0,<4.0)"
+    ]
+  },
+  "questionary-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44174d237b68bc828e4878c763a9ad6790ee61990e0ae72927694ead57bab8ec",
+    "dependencies": {
+      "required": [
+        "prompt-toolkit"
+      ]
+    },
+    "original_requirements": [
+      "prompt_toolkit (>=2.0,<4.0)"
+    ]
+  },
+  "questionary-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ab9a01d0b91b68444dff7f6652c1e754105533f083cbe27597c8110ecc230a2",
+    "dependencies": {
+      "required": [
+        "prompt-toolkit"
+      ]
+    },
+    "original_requirements": [
+      "prompt_toolkit (>=2.0,<=3.0.36)"
+    ]
+  },
+  "questionary-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "564ae8917f141c9ef0ed131bb2671397fcaba7a901988b39cdbb569b8f29ce94",
+    "dependencies": {
+      "required": [
+        "prompt-toolkit"
+      ]
+    },
+    "original_requirements": [
+      "prompt_toolkit (>=2.0,<=3.0.36)"
+    ]
+  },
+  "questionary-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fecfcc8cca110fda9d561cb83f1e97ecbb93c613ff857f655818839dac74ce90",
+    "dependencies": {
+      "required": [
+        "prompt-toolkit"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=3.3,<4.0); extra == \"docs\"",
+      "prompt_toolkit (>=2.0,<4.0)",
+      "sphinx-autobuild (>=2020.9.1,<2021.0.0); extra == \"docs\"",
+      "sphinx-autodoc-typehints (>=1.11.1,<2.0.0); extra == \"docs\"",
+      "sphinx-copybutton (>=0.3.1,<0.4.0); extra == \"docs\"",
+      "sphinx-rtd-theme (>=0.5.0,<0.6.0); extra == \"docs\""
+    ]
+  }
+}

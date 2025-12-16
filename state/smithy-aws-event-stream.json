@@ -1,0 +1,38 @@
+{
+  "smithy_aws_event_stream-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "679a0c7d944e67d3a55d287541b3ca1e61f9d6a62e13401367dcc034e75aa55d",
+    "dependencies": {
+      "required": [
+        "smithy-core"
+      ]
+    },
+    "original_requirements": [
+      "smithy-core~=0.2.0"
+    ]
+  },
+  "smithy_aws_event_stream-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17a7300a85cb90df4c6c23f895ca6343361fa419203c3cf80019edd7d3b5f036",
+    "dependencies": {
+      "required": [
+        "smithy-core"
+      ]
+    },
+    "original_requirements": [
+      "smithy-core~=0.1.0"
+    ]
+  },
+  "smithy_aws_event_stream-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d5c0dd9a117e9dd927bafa857072fd26ccfa208a2768e5600ea628aebc93696b",
+    "dependencies": {
+      "required": [
+        "smithy-core"
+      ]
+    },
+    "original_requirements": [
+      "smithy-core"
+    ]
+  }
+}

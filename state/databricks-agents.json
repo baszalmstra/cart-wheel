@@ -1,0 +1,192 @@
+{
+  "databricks_agents-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a783114e66ee20d76370b2be34a22bf9ef770ef26246e52b98b03f0dd09e476",
+    "dependencies": {
+      "required": [
+        "databricks-connect",
+        "dataclasses-json",
+        "databricks-sdk",
+        "jinja2",
+        "mlflow-skinny",
+        "tenacity",
+        "tiktoken",
+        "tqdm",
+        "urllib3",
+        "pydantic",
+        "whenever",
+        "boto3",
+        "botocore",
+        "litellm"
+      ]
+    },
+    "original_requirements": [
+      "databricks-connect",
+      "dataclasses-json",
+      "databricks-sdk[openai] >=0.58.0",
+      "jinja2 >=3.0.0",
+      "mlflow-skinny <4.0.0,>=3.4.0",
+      "tenacity >=8.5",
+      "tiktoken >=0.8.0",
+      "tqdm",
+      "urllib3 >=2.0",
+      "pydantic >=2",
+      "whenever ==0.7.3",
+      "boto3 >1",
+      "botocore",
+      "litellm ==1.75.9"
+    ]
+  },
+  "databricks_agents-1.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4957833dcd71622475a6ac9291929fd795131fda3aaebd37c9af873cf1db02dc",
+    "dependencies": {
+      "required": [
+        "databricks-connect",
+        "dataclasses-json",
+        "databricks-sdk",
+        "jinja2",
+        "mlflow-skinny",
+        "tenacity",
+        "tiktoken",
+        "tqdm",
+        "urllib3",
+        "pydantic",
+        "whenever",
+        "boto3",
+        "botocore",
+        "litellm"
+      ]
+    },
+    "original_requirements": [
+      "databricks-connect",
+      "dataclasses-json",
+      "databricks-sdk[openai]>=0.58.0",
+      "jinja2>=3.0.0",
+      "mlflow-skinny<4.0.0,>=3.4.0",
+      "tenacity>=8.5",
+      "tiktoken>=0.8.0",
+      "tqdm",
+      "urllib3>=2.0",
+      "pydantic>=2",
+      "whenever==0.7.3",
+      "boto3>1",
+      "botocore",
+      "litellm==1.75.9"
+    ]
+  },
+  "databricks_agents-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39cbcddd4bc8aa7cb1802c4111670ec3cc5e258d2eb34fec9b6e3318b03fea5e",
+    "dependencies": {
+      "required": [
+        "databricks-connect",
+        "dataclasses-json",
+        "databricks-sdk",
+        "jinja2",
+        "mlflow-skinny",
+        "tenacity",
+        "tiktoken",
+        "tqdm",
+        "urllib3",
+        "pydantic",
+        "whenever",
+        "boto3",
+        "botocore",
+        "litellm"
+      ]
+    },
+    "original_requirements": [
+      "databricks-connect",
+      "dataclasses-json",
+      "databricks-sdk[openai]>=0.58.0",
+      "jinja2>=3.0.0",
+      "mlflow-skinny<4.0.0,>=3.4.0",
+      "tenacity>=8.5",
+      "tiktoken>=0.8.0",
+      "tqdm",
+      "urllib3>=2.0",
+      "pydantic>=2",
+      "whenever==0.7.3",
+      "boto3>1",
+      "botocore",
+      "litellm==1.75.9"
+    ]
+  },
+  "databricks_agents-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "adc2743c431630d42f5e963bd2792880db2aef91030e9b71576e3900ce185ec3",
+    "dependencies": {
+      "required": [
+        "databricks-connect",
+        "dataclasses-json",
+        "databricks-sdk",
+        "jinja2",
+        "mlflow-skinny",
+        "tenacity",
+        "tiktoken",
+        "tqdm",
+        "urllib3",
+        "pydantic",
+        "whenever",
+        "boto3",
+        "botocore",
+        "litellm"
+      ]
+    },
+    "original_requirements": [
+      "databricks-connect",
+      "dataclasses-json",
+      "databricks-sdk[openai]>=0.58.0",
+      "jinja2>=3.0.0",
+      "mlflow-skinny<4.0.0,>=3.4.0",
+      "tenacity>=8.5",
+      "tiktoken>=0.8.0",
+      "tqdm",
+      "urllib3>=2.0",
+      "pydantic>=2",
+      "whenever==0.7.3",
+      "boto3>1",
+      "botocore",
+      "litellm==1.75.9"
+    ]
+  },
+  "databricks_agents-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5bca181a5b8342a4b6b67389de379ba2db6dbfe01080c70e75940042593a7cfd",
+    "dependencies": {
+      "required": [
+        "databricks-connect",
+        "dataclasses-json",
+        "databricks-sdk",
+        "jinja2",
+        "mlflow-skinny",
+        "tenacity",
+        "tiktoken",
+        "tqdm",
+        "urllib3",
+        "pydantic",
+        "whenever",
+        "boto3",
+        "botocore",
+        "litellm"
+      ]
+    },
+    "original_requirements": [
+      "databricks-connect",
+      "dataclasses-json",
+      "databricks-sdk[openai]>=0.58.0",
+      "jinja2>=3.0.0",
+      "mlflow-skinny<4.0.0,>=3.4.0",
+      "tenacity>=8.5",
+      "tiktoken>=0.8.0",
+      "tqdm",
+      "urllib3>=2.0",
+      "pydantic>=2",
+      "whenever==0.7.3",
+      "boto3>1",
+      "botocore",
+      "litellm==1.75.9"
+    ]
+  }
+}

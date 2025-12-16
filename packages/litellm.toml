@@ -1,0 +1,12 @@
+# Package configuration for litellm
+conda_forge = "litellm"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "litellm-1.80.9-py3-none-any.whl" },
+  { filename = "litellm-1.80.8-py3-none-any.whl" },
+  { filename = "litellm-1.80.7-py3-none-any.whl" },
+  { filename = "litellm-1.80.6-py3-none-any.whl" },
+  { filename = "litellm-1.80.5-py3-none-any.whl" },
+]

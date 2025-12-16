@@ -1,0 +1,12 @@
+# Package configuration for sphinx-prompt
+conda_forge = "sphinx-prompt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_prompt-1.10.2-py3-none-any.whl" },
+  { filename = "sphinx_prompt-1.10.1-py3-none-any.whl" },
+  { filename = "sphinx_prompt-1.10.0-py3-none-any.whl" },
+  { filename = "sphinx_prompt-1.9.0-py3-none-any.whl" },
+  { filename = "sphinx_prompt-1.8.0-py3-none-any.whl" },
+]

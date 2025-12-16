@@ -1,0 +1,12 @@
+# Package configuration for trove-classifiers
+conda_forge = "trove-classifiers"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "trove_classifiers-2025.12.1.14-py3-none-any.whl" },
+  { filename = "trove_classifiers-2025.11.14.15-py3-none-any.whl" },
+  { filename = "trove_classifiers-2025.9.11.17-py3-none-any.whl" },
+  { filename = "trove_classifiers-2025.9.9.12-py3-none-any.whl" },
+  { filename = "trove_classifiers-2025.9.8.13-py3-none-any.whl" },
+]

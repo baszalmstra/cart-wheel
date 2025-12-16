@@ -1,0 +1,12 @@
+# Package configuration for sphinxcontrib-jquery
+conda_forge = "sphinxcontrib-jquery"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_jquery-4.1-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_jquery-4.0-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib.jquery-3.0.0-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_jquery-2.0.0-py3-none-any.whl" },
+  { filename = "sphinxcontrib_jquery-1.0.0-py3-none-any.whl" },
+]

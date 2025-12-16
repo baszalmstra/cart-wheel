@@ -1,0 +1,30 @@
+{
+  "simpervisor-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e313318264559beea3f475ead202bc1cd58a2f1288363abb5657d306c5b8388",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "aiohttp; extra == 'test'",
+      "psutil; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov; extra == 'test'"
+    ]
+  },
+  "simpervisor-0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8af72599d089efcfff30a86266de44b874b689611baa1345213795624fbd74fa",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "simpervisor-0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e20abaf10b9e0e36212e24f5008f426771a3c15eee2ea3c81b0a8823f2f73a37",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

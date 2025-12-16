@@ -1,0 +1,12 @@
+# Package configuration for namex
+conda_forge = "namex"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "namex-0.1.0-py3-none-any.whl" },
+  { filename = "namex-0.0.9-py3-none-any.whl" },
+  { filename = "namex-0.0.8-py3-none-any.whl" },
+  { filename = "namex-0.0.7-py3-none-any.whl" },
+  { filename = "namex-0.0.6-py3-none-any.whl" },
+]

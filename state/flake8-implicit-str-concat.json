@@ -1,0 +1,65 @@
+{
+  "flake8_implicit_str_concat-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67dafdcf2ecf0437b308974dfa397b9162b654f65b01d7ad961fca595a03cba0",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == 'tests'",
+      "pytest-cov; extra == 'tests'"
+    ]
+  },
+  "flake8_implicit_str_concat-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b14f629f7fc020f0dd65283741c02681997fa83c20c317f57d3db6bb5cb222e",
+    "dependencies": {
+      "required": [
+        "more-itertools"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools>=8.0.2; python_version <= '3.9'"
+    ]
+  },
+  "flake8_implicit_str_concat-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b91805a3e0ff30ae2890830548478af25c79a4a579ec402a6ba3538043dff60c",
+    "dependencies": {
+      "required": [
+        "more-itertools"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools >=8.0.2; python_version <= '3.9'"
+    ]
+  },
+  "flake8_implicit_str_concat-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a89ebc50567790fb7b83e032ed4014ae0db70e35d89e269c3323967135023600",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "more-itertools"
+      ]
+    },
+    "original_requirements": [
+      "attrs >= 19.3",
+      "more-itertools >=8.0.2, <9"
+    ]
+  },
+  "flake8_implicit_str_concat-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ea856c22cd8dbd4ecb8d091e92784ce09a3083f1763df895693bf887d21acef5",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "more-itertools"
+      ]
+    },
+    "original_requirements": [
+      "attrs >= 19.3, <21",
+      "more-itertools >=8.0.2, <9"
+    ]
+  }
+}

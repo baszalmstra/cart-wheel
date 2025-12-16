@@ -1,0 +1,11 @@
+# Package configuration for kornia-moons
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kornia_moons-0.2.9-py3-none-any.whl" },
+  { filename = "kornia_moons-0.2.8-py3-none-any.whl" },
+  { filename = "kornia_moons-0.2.7-py3-none-any.whl" },
+  { filename = "kornia_moons-0.2.6-py3-none-any.whl" },
+  { filename = "kornia_moons-0.2.5-py3-none-any.whl" },
+]

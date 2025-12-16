@@ -1,0 +1,12 @@
+# Package configuration for python-memcached
+conda_forge = "python-memcached"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_memcached-1.62-py2.py3-none-any.whl" },
+  { filename = "python_memcached-1.61-py2.py3-none-any.whl" },
+  { filename = "python_memcached-1.60-py2.py3-none-any.whl" },
+  { filename = "python_memcached-1.59-py2.py3-none-any.whl" },
+  { filename = "python_memcached-1.57-py2.py3-none-any.whl" },
+]

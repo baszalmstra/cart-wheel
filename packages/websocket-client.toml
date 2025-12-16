@@ -1,0 +1,12 @@
+# Package configuration for websocket-client
+conda_forge = "websocket-client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "websocket_client-1.9.0-py3-none-any.whl" },
+  { filename = "websocket_client-1.8.0-py3-none-any.whl" },
+  { filename = "websocket_client-1.7.0-py3-none-any.whl" },
+  { filename = "websocket_client-1.6.4-py3-none-any.whl" },
+  { filename = "websocket_client-1.6.3-py3-none-any.whl" },
+]

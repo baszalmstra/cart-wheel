@@ -1,0 +1,118 @@
+{
+  "prefect_email-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9d11ed368f8eee4e9a55cafd04e70302acd1a7f585c9e672c4acf3675590a2ee",
+    "dependencies": {
+      "required": [
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0"
+    ]
+  },
+  "prefect_email-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e3ec6d9580bd2535fe177a27c12f0bd9754e192871cd1d9f32e0e50b9337d7b4",
+    "dependencies": {
+      "required": [
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "aiohttp; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest>=8.3; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_email-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9550b292b8bc53e5457d940f50ce666e2203c701d35abe298e303b4267938f51",
+    "dependencies": {
+      "required": [
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0rc1",
+      "aiohttp; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_email-0.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "418a223618c2e0ae0268fa208e4a58ce645a65d82d74941213c7143b2d016723",
+    "dependencies": {
+      "required": [
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "prefect<3.0.0,>=2.20.0",
+      "aiohttp; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "mock; python_version < \"3.8\" and extra == \"dev\""
+    ]
+  },
+  "prefect_email-0.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c0b0164601c503eaf25b566967ab942c373bd1e6e1628e213e2094e44c469328",
+    "dependencies": {
+      "required": [
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "prefect <3.0.0,>=2.14.10",
+      "aiohttp ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "interrogate ; extra == 'dev'",
+      "mkdocs-gen-files ; extra == 'dev'",
+      "mkdocs-material ; extra == 'dev'",
+      "mkdocs ; extra == 'dev'",
+      "mkdocstrings[python] ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pillow ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "mock ; (python_version < \"3.8\") and extra == 'dev'"
+    ]
+  }
+}

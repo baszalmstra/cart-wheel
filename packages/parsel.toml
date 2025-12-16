@@ -1,0 +1,12 @@
+# Package configuration for parsel
+conda_forge = "parsel"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "parsel-1.10.0-py2.py3-none-any.whl" },
+  { filename = "parsel-1.9.1-py2.py3-none-any.whl" },
+  { filename = "parsel-1.9.0-py2.py3-none-any.whl" },
+  { filename = "parsel-1.8.1-py2.py3-none-any.whl" },
+  { filename = "parsel-1.7.0-py2.py3-none-any.whl" },
+]

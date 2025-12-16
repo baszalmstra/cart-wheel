@@ -1,0 +1,12 @@
+# Package configuration for curated-transformers
+conda_forge = "curated-transformers"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "curated_transformers-2.0.1-py2.py3-none-any.whl" },
+  { filename = "curated_transformers-2.0.0-py2.py3-none-any.whl" },
+  { filename = "curated_transformers-1.3.2-py2.py3-none-any.whl" },
+  { filename = "curated_transformers-1.3.1-py2.py3-none-any.whl" },
+  { filename = "curated_transformers-1.3.0-py2.py3-none-any.whl" },
+]

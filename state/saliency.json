@@ -1,0 +1,82 @@
+{
+  "saliency-0.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f388286129c6bca459326fa334d2ab0c65a90607da796cb756296274f2b8f23d",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scikit-image"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scikit-image",
+      "tensorflow >=1.15 ; extra == 'full'",
+      "tensorflow >=1.15 ; extra == 'tf1'"
+    ]
+  },
+  "saliency-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eea22bc7b7ba1d93307a620ba29b3f1d21340c7def1adeda9fbae399e184afab",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scikit-image"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scikit-image",
+      "tensorflow (>=1.15) ; extra == 'full'",
+      "tensorflow (>=1.15) ; extra == 'tf1'"
+    ]
+  },
+  "saliency-0.1.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "14086f1a238ac4237457a2f89a8c66b9f4cd4be0746561844fa271772d8d974f",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scikit-image"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scikit-image",
+      "tensorflow (>=1.15) ; extra == 'full'",
+      "tensorflow (>=1.15) ; extra == 'tf1'"
+    ]
+  },
+  "saliency-0.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2af589fe79d78e3d13d4cf4f03de963d9b8bbfef67731b46af2eba0479eef478",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scikit-image"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scikit-image",
+      "tensorflow (>=1.15) ; extra == 'full'",
+      "tensorflow (>=1.15) ; extra == 'tf1'"
+    ]
+  },
+  "saliency-0.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49e414bd06df6198f661cc5278177daefc9f5bf92281ccff9314951545c25b77",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scikit-image"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scikit-image",
+      "tensorflow (>=1.15) ; extra == 'full'",
+      "tensorflow (>=1.15) ; extra == 'tf1'"
+    ]
+  }
+}

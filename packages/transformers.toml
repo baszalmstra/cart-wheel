@@ -1,0 +1,12 @@
+# Package configuration for transformers
+conda_forge = "transformers"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "transformers-4.57.3-py3-none-any.whl" },
+  { filename = "transformers-4.57.2-py3-none-any.whl" },
+  { filename = "transformers-4.57.1-py3-none-any.whl" },
+  { filename = "transformers-4.56.2-py3-none-any.whl" },
+  { filename = "transformers-4.56.1-py3-none-any.whl" },
+]

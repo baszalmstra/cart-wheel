@@ -1,0 +1,12 @@
+# Package configuration for mysql-connector-python
+conda_forge = "mysql-connector-python"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mysql_connector_python-9.5.0-py2.py3-none-any.whl" },
+  { filename = "mysql_connector_python-9.4.0-py2.py3-none-any.whl" },
+  { filename = "mysql_connector_python-9.3.0-py2.py3-none-any.whl" },
+  { filename = "mysql_connector_python-9.2.0-py2.py3-none-any.whl" },
+  { filename = "mysql_connector_python-9.1.0-py2.py3-none-any.whl" },
+]

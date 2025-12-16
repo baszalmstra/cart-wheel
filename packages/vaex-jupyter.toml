@@ -1,0 +1,12 @@
+# Package configuration for vaex-jupyter
+conda_forge = "vaex-jupyter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "vaex_jupyter-0.8.2-py3-none-any.whl" },
+  { filename = "vaex_jupyter-0.8.1-py3-none-any.whl" },
+  { filename = "vaex_jupyter-0.8.0-py3-none-any.whl" },
+  { filename = "vaex_jupyter-0.7.0-py3-none-any.whl" },
+  { filename = "vaex_jupyter-0.6.0-py3-none-any.whl" },
+]

@@ -1,0 +1,129 @@
+{
+  "mdformat_myst-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "45e305cb1e742e712c0a8410315c351f3ab43e702d979d4f0eea9d9831245adc",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "mdformat-front-matters",
+        "mdformat-footnote",
+        "mdformat-gfm",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.0",
+      "mdit-py-plugins >=0.3.0",
+      "mdformat-front-matters >= 1.0.0",
+      "mdformat-footnote >=0.1.1",
+      "mdformat-gfm >=1.0.0",
+      "ruamel.yaml >=0.16.0",
+      "pre-commit ; extra == \"dev\"",
+      "pytest>=8.0.0 ; extra == \"test\"",
+      "pytest-cov>=7.0.0 ; extra == \"test\""
+    ]
+  },
+  "mdformat_myst-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c290caee7092dae864173042e2c5e89db429dbc0d1dc885d4750d7ed57ca966c",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "mdformat-tables",
+        "mdformat-frontmatter",
+        "mdformat-footnote",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.0",
+      "mdit-py-plugins >=0.3.0",
+      "mdformat-tables >=0.4.0",
+      "mdformat-frontmatter >=0.3.2",
+      "mdformat-footnote >=0.1.1",
+      "ruamel.yaml >=0.16.0",
+      "pre-commit ; extra == \"dev\"",
+      "pytest ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_myst-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ba338b063c664d75ede0eeda1b4f85dc4f4be5a2b678d44fa402035dee3b96b1",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "mdformat-tables",
+        "mdformat-frontmatter",
+        "mdformat-footnote",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.0,<0.8.0",
+      "mdit-py-plugins >=0.3.0",
+      "mdformat-tables >=0.4.0",
+      "mdformat-frontmatter >=0.3.2",
+      "mdformat-footnote >=0.1.1",
+      "ruamel.yaml >=0.16.0",
+      "pre-commit ; extra == \"dev\"",
+      "pytest ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_myst-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "35a33d0ff3707e3c334cc37164993d8ac127302b44b823fea8152fad44868c6b",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "mdformat-tables",
+        "mdformat-frontmatter",
+        "mdformat-footnote",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.0,<0.8.0",
+      "mdit-py-plugins >=0.3.0",
+      "mdformat-tables >=0.4.0",
+      "mdformat-frontmatter >=0.3.2",
+      "mdformat-footnote >=0.1.1",
+      "ruamel.yaml >=0.16.0",
+      "pre-commit ; extra == \"dev\"",
+      "pytest ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_myst-0.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39dd461908db38c19977f066024654e84e552565e934ca3f2156eb6d9f0a26ea",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins",
+        "mdformat-tables",
+        "mdformat-frontmatter",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.0,<0.8.0",
+      "mdit-py-plugins >=0.3.0,<0.4.0",
+      "mdformat-tables >=0.4.0",
+      "mdformat-frontmatter >=0.3.2",
+      "ruamel.yaml >=0.16.0",
+      "pre-commit ; extra == \"dev\"",
+      "pytest ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for codespell
+conda_forge = "codespell"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "codespell-2.4.1-py3-none-any.whl" },
+  { filename = "codespell-2.4.0-py3-none-any.whl" },
+  { filename = "codespell-2.3.0-py3-none-any.whl" },
+  { filename = "codespell-2.2.6-py3-none-any.whl" },
+  { filename = "codespell-2.2.5-py3-none-any.whl" },
+]

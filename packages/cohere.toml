@@ -1,0 +1,12 @@
+# Package configuration for cohere
+conda_forge = "cohere"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cohere-5.20.0-py3-none-any.whl" },
+  { filename = "cohere-5.19.0-py3-none-any.whl" },
+  { filename = "cohere-5.18.0-py3-none-any.whl" },
+  { filename = "cohere-5.17.0-py3-none-any.whl" },
+  { filename = "cohere-5.16.3-py3-none-any.whl" },
+]

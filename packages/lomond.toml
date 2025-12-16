@@ -1,0 +1,11 @@
+# Package configuration for lomond
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lomond-0.3.3-py2.py3-none-any.whl" },
+  { filename = "lomond-0.3.2-py2.py3-none-any.whl" },
+  { filename = "lomond-0.3.1-py2.py3-none-any.whl" },
+  { filename = "lomond-0.3.0-py2.py3-none-any.whl" },
+  { filename = "lomond-0.2.5-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for types-aiobotocore-chime-sdk-identity
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_chime_sdk_identity-3.0.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_chime_sdk_identity-2.26.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_chime_sdk_identity-2.25.2-py3-none-any.whl" },
+  { filename = "types_aiobotocore_chime_sdk_identity-2.25.1-py3-none-any.whl" },
+  { filename = "types_aiobotocore_chime_sdk_identity-2.25.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for locust
+conda_forge = "locust"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "locust-2.42.6-py3-none-any.whl" },
+  { filename = "locust-2.42.5-py3-none-any.whl" },
+  { filename = "locust-2.42.4-py3-none-any.whl" },
+  { filename = "locust-2.42.3-py3-none-any.whl" },
+  { filename = "locust-2.42.2-py3-none-any.whl" },
+]

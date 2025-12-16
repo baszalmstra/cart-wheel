@@ -1,0 +1,44 @@
+{
+  "phaseaug-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "888b91e4d2eb7e5bc309a0d9eb2de132cd8dee4631535337f90bc5a0144f2dd2",
+    "dependencies": {
+      "required": [
+        "torch",
+        "alias-free-torch"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "alias-free-torch"
+    ]
+  },
+  "phaseaug-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b0c5d6f036b125bae38b7331c9ee7fca2062d58b45db2c71bc7d43a5c420bef",
+    "dependencies": {
+      "required": [
+        "torch",
+        "alias-free-torch"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "alias-free-torch"
+    ]
+  },
+  "phaseaug-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b23d0eec20f7fa49c6f5496f76ae70dfc2298b47f94b5b32f3e31a53b0d1918",
+    "dependencies": {
+      "required": [
+        "torch",
+        "alias-free-torch"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "alias-free-torch"
+    ]
+  }
+}

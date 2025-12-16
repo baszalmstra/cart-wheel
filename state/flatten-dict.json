@@ -1,0 +1,74 @@
+{
+  "flatten_dict-0.4.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e245b20c4c718981212210eec4284a330c9f713e632e98765560e05421e48ad",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "pathlib2",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata; python_version < \"3.8\"",
+      "pathlib2 (>=2.3,<3.0); python_version < \"3.4\"",
+      "six (>=1.12,<2.0)"
+    ]
+  },
+  "flatten_dict-0.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "59aac40e07bbf08647a023193f227d2794696a1701f96f342a4ecf220bdb7a4b",
+    "dependencies": {
+      "required": [
+        "pathlib2",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "pathlib2 (>=2.3,<3.0); python_version < \"3.4\"",
+      "six (>=1.12,<2.0)"
+    ]
+  },
+  "flatten_dict-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dfc0413c243d42178c2bfb16156af837a8f47c04cc97533cffec668e9ca02c50",
+    "dependencies": {
+      "required": [
+        "pathlib2",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "pathlib2 (>=2.3,<3.0); python_version < \"3.4\"",
+      "six (>=1.12,<2.0)"
+    ]
+  },
+  "flatten_dict-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "96038f9a0a09dca205112ae890e1f2159cfdf2af173397b2aa93d1bb9d055890",
+    "dependencies": {
+      "required": [
+        "pathlib2",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "pathlib2 (>=2.3,<3.0)",
+      "six (>=1.12,<2.0)"
+    ]
+  },
+  "flatten_dict-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "96c1ed23f05128478e30435bb54cc0a0d7d2bc638235d9ef6ca4ca221d924b3f",
+    "dependencies": {
+      "required": [
+        "pathlib2",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "pathlib2 (>=2.3,<3.0)",
+      "six (>=1.12,<2.0)"
+    ]
+  }
+}

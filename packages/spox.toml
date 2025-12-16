@@ -1,0 +1,12 @@
+# Package configuration for spox
+conda_forge = "spox"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "spox-0.16.0-py3-none-any.whl" },
+  { filename = "spox-0.15.0-py3-none-any.whl" },
+  { filename = "spox-0.14.1-py3-none-any.whl" },
+  { filename = "spox-0.12.1-py3-none-any.whl" },
+  { filename = "spox-0.12.0-py3-none-any.whl" },
+]

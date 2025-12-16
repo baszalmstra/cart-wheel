@@ -1,0 +1,83 @@
+{
+  "toonify-1.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38d6fb003196a1fa5577387be4d322152e32a959cf7389b1849e379d465346e3",
+    "dependencies": {
+      "required": [
+        "tiktoken"
+      ]
+    },
+    "original_requirements": [
+      "tiktoken>=0.5.0",
+      "pydantic>=1.10.0; extra == 'all'",
+      "black>=24.0.0; extra == 'dev'",
+      "isort>=5.13.0; extra == 'dev'",
+      "poethepoet>=0.29.0; extra == 'dev'",
+      "pylint>=3.3.0; extra == 'dev'",
+      "pytest-cov>=4.0.0; extra == 'dev'",
+      "pytest>=7.0.0; extra == 'dev'",
+      "ruff>=0.8.0; extra == 'dev'",
+      "pydantic>=1.10.0; extra == 'pydantic'"
+    ]
+  },
+  "toonify-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb4f336bcc232042927cb206468321e3f8de0c02ecb6c3f5b4de0be025c4cb1f",
+    "dependencies": {
+      "required": [
+        "tiktoken"
+      ]
+    },
+    "original_requirements": [
+      "tiktoken>=0.5.0",
+      "pydantic>=1.10.0; extra == 'all'",
+      "pytest-cov>=4.0.0; extra == 'dev'",
+      "pytest>=7.0.0; extra == 'dev'",
+      "pydantic>=1.10.0; extra == 'pydantic'"
+    ]
+  },
+  "toonify-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8053c376342b63356bad570c94d8b40eb8d6374815292542a0adc974c9c2912d",
+    "dependencies": {
+      "required": [
+        "tiktoken"
+      ]
+    },
+    "original_requirements": [
+      "tiktoken>=0.5.0",
+      "pydantic>=1.10.0; extra == 'all'",
+      "pytest-cov>=4.0.0; extra == 'dev'",
+      "pytest>=7.0.0; extra == 'dev'",
+      "pydantic>=1.10.0; extra == 'pydantic'"
+    ]
+  },
+  "toonify-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a26645d7a51f9c6c62a08f350ed7f8336397429864c13dbc025ae7257ef73e1",
+    "dependencies": {
+      "required": [
+        "tiktoken"
+      ]
+    },
+    "original_requirements": [
+      "tiktoken>=0.5.0",
+      "pytest-cov>=4.0.0; extra == 'dev'",
+      "pytest>=7.0.0; extra == 'dev'"
+    ]
+  },
+  "toonify-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ff3922912604ddb6f3051401e56c2f1b4ea9664577addbc213d7e991031ff0e",
+    "dependencies": {
+      "required": [
+        "tiktoken"
+      ]
+    },
+    "original_requirements": [
+      "tiktoken>=0.5.0",
+      "pytest-cov>=4.0.0; extra == 'dev'",
+      "pytest>=7.0.0; extra == 'dev'"
+    ]
+  }
+}

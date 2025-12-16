@@ -1,0 +1,12 @@
+# Package configuration for hyper-connections
+conda_forge = "hyper-connections"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hyper_connections-0.2.1-py3-none-any.whl" },
+  { filename = "hyper_connections-0.2.0-py3-none-any.whl" },
+  { filename = "hyper_connections-0.1.15-py3-none-any.whl" },
+  { filename = "hyper_connections-0.1.14-py3-none-any.whl" },
+  { filename = "hyper_connections-0.1.12-py3-none-any.whl" },
+]

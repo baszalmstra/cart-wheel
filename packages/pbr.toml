@@ -1,0 +1,12 @@
+# Package configuration for pbr
+conda_forge = "pbr"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pbr-7.0.3-py2.py3-none-any.whl" },
+  { filename = "pbr-7.0.2-py2.py3-none-any.whl" },
+  { filename = "pbr-7.0.1-py2.py3-none-any.whl" },
+  { filename = "pbr-7.0.0-py2.py3-none-any.whl" },
+  { filename = "pbr-6.1.1-py2.py3-none-any.whl" },
+]

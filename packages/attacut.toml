@@ -1,0 +1,11 @@
+# Package configuration for attacut
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "attacut-1.0.6-py3-none-any.whl" },
+  { filename = "attacut-1.0.5-py3-none-any.whl" },
+  { filename = "attacut-1.0.4-py3-none-any.whl" },
+  { filename = "attacut-1.0.3-py3-none-any.whl" },
+  { filename = "attacut-1.0.2-py3-none-any.whl" },
+]

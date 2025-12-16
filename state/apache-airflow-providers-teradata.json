@@ -1,0 +1,115 @@
+{
+  "apache_airflow_providers_teradata-3.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "456f260b92b8dc9f0edefb9f5e391b8b7a22d57f713d70438af110911803056f",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "teradatasqlalchemy",
+        "teradatasql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "teradatasqlalchemy>=17.20.0.0",
+      "teradatasql>=17.20.0.28",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-microsoft-azure ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-ssh ; extra == \"ssh\""
+    ]
+  },
+  "apache_airflow_providers_teradata-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "443403a17fd83705dc4408c289f2f85b2572f92b682a7ec298a741940c8592b3",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "teradatasqlalchemy",
+        "teradatasql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "teradatasqlalchemy>=17.20.0.0",
+      "teradatasql>=17.20.0.28",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-microsoft-azure ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-ssh ; extra == \"ssh\""
+    ]
+  },
+  "apache_airflow_providers_teradata-3.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c47b76ea2be8244cd3ec012c224a2dab83468f645d2b062cc5bf0ee50e446d77",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "teradatasqlalchemy",
+        "teradatasql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "teradatasqlalchemy>=17.20.0.0",
+      "teradatasql>=17.20.0.28",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-microsoft-azure ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-ssh ; extra == \"ssh\""
+    ]
+  },
+  "apache_airflow_providers_teradata-3.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e497db498df92fd51af30e7946e7f75e3a08c140611f46c59ce6ead02947abf",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "teradatasqlalchemy",
+        "teradatasql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "teradatasqlalchemy>=17.20.0.0",
+      "teradatasql>=17.20.0.28",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-microsoft-azure ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-ssh ; extra == \"ssh\""
+    ]
+  },
+  "apache_airflow_providers_teradata-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34dcf97e1e6d13b71ebdeb86a6f3f00ece9ecbeecbe68a23101a714872984bbb",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "teradatasqlalchemy",
+        "teradatasql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "teradatasqlalchemy>=17.20.0.0",
+      "teradatasql>=17.20.0.28",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-microsoft-azure ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-ssh ; extra == \"ssh\""
+    ]
+  }
+}

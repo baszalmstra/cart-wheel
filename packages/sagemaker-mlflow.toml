@@ -1,0 +1,10 @@
+# Package configuration for sagemaker-mlflow
+conda_forge = "sagemaker-mlflow"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sagemaker_mlflow-0.2.0-py3-none-any.whl" },
+  { filename = "sagemaker_mlflow-0.1.1-py3-none-any.whl" },
+  { filename = "sagemaker_mlflow-0.1.0-py3-none-any.whl" },
+]

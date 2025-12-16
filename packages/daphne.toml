@@ -1,0 +1,12 @@
+# Package configuration for daphne
+conda_forge = "daphne"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "daphne-4.2.1-py3-none-any.whl" },
+  { filename = "daphne-4.2.0-py3-none-any.whl" },
+  { filename = "daphne-4.1.2-py3-none-any.whl" },
+  { filename = "daphne-4.1.1-py3-none-any.whl" },
+  { filename = "daphne-4.1.0-py3-none-any.whl" },
+]

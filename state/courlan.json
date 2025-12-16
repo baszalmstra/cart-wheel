@@ -1,0 +1,104 @@
+{
+  "courlan-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d0dab52cf5b5b1000ee2839fbc2837e93b2514d3cb5bb61ae158a55b7a04c6be",
+    "dependencies": {
+      "required": [
+        "babel",
+        "tld",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "babel >=2.16.0",
+      "tld >=0.13",
+      "urllib3 <3,>=1.26",
+      "black ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "types-urllib3 ; extra == 'dev'"
+    ]
+  },
+  "courlan-1.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d49546b573432f761ed2ea292382eaf57b7c8546a6c744d7b4240d46e10e8381",
+    "dependencies": {
+      "required": [
+        "babel",
+        "tld",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "babel >=2.16.0",
+      "tld >=0.13",
+      "urllib3 <3,>=1.26",
+      "black ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'"
+    ]
+  },
+  "courlan-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb30982108ef987731b127f1ecf5dfd5b7e46c825630e3c9313c80b4a454954c",
+    "dependencies": {
+      "required": [
+        "babel",
+        "tld",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "babel >=2.15.0",
+      "tld >=0.13",
+      "urllib3 <3,>=1.26",
+      "black ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'"
+    ]
+  },
+  "courlan-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df9d3735b611e717c52a813a49d17a8b4d3a9d8b87bbace9065171fc5d084397",
+    "dependencies": {
+      "required": [
+        "babel",
+        "tld",
+        "urllib3",
+        "tld",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "babel >=2.11.0",
+      "tld ==0.12.6 ; python_version < \"3.7\"",
+      "urllib3 <2,>=1.26 ; python_version < \"3.7\"",
+      "tld >=0.13 ; python_version >= \"3.7\"",
+      "urllib3 <3,>=1.26 ; python_version >= \"3.7\""
+    ]
+  },
+  "courlan-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "88354c1e50fde84890c13f58924a5ecc5c0527dcf3eb36e80564fe68e330bb03",
+    "dependencies": {
+      "required": [
+        "babel",
+        "tld",
+        "urllib3",
+        "tld",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "babel >=2.11.0",
+      "tld ==0.12.6 ; python_version < \"3.7\"",
+      "urllib3 <2,>=1.26 ; python_version < \"3.7\"",
+      "tld >=0.13 ; python_version >= \"3.7\"",
+      "urllib3 <3,>=1.26 ; python_version >= \"3.7\""
+    ]
+  }
+}

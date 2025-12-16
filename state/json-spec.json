@@ -1,0 +1,91 @@
+{
+  "json_spec-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5096695f1ed4d2bf70b04bee792615cc36f8f830f5a5a2255fc43731e4deba1e",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata (>=5.0.0) ; python_version < \"3.10\"",
+      "termcolor ; extra == \"cli\""
+    ]
+  },
+  "json_spec-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ce3eab5821c5c99fdd28782ea17bbeea0fec9fed98cf9c3aae72c154a50c055",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata (>=5.0.0,<6.0.0)",
+      "termcolor; extra == \"cli\""
+    ]
+  },
+  "json_spec-0.10.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c30d7c8bee07bd3fdf620b8902398d0ab58c735adedfeff07e6a7fc358f8cbeb",
+    "dependencies": {
+      "required": [
+        "six",
+        "pathlib",
+        "pathlib",
+        "pathlib"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pathlib; python_version==\"2.7\"",
+      "pathlib; python_version==\"3.2\"",
+      "pathlib; python_version==\"3.3\"",
+      "termcolor; extra == 'cli'",
+      "ipaddress; python_version==\"2.7\" and extra == 'ip'",
+      "ipaddress; python_version==\"3.2\" and extra == 'ip'"
+    ]
+  },
+  "json_spec-0.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "995ade7956cd678e507f3772551b7add7566f0adaa9f4939142ae9b33bd51507",
+    "dependencies": {
+      "required": [
+        "six",
+        "pathlib",
+        "pathlib",
+        "pathlib"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pathlib; python_version==\"2.7\"",
+      "pathlib; python_version==\"3.2\"",
+      "pathlib; python_version==\"3.3\"",
+      "termcolor; extra == 'cli'",
+      "ipaddress; python_version==\"2.7\" and extra == 'ip'",
+      "ipaddress; python_version==\"3.2\" and extra == 'ip'"
+    ]
+  },
+  "json_spec-0.9.17-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "402683a21503aa68d27c0b586732187ba637bc5a862dfa1e9836da47cb3b62be",
+    "dependencies": {
+      "required": [
+        "six",
+        "pathlib",
+        "pathlib",
+        "pathlib"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pathlib; python_version==\"2.7\"",
+      "pathlib; python_version==\"3.2\"",
+      "pathlib; python_version==\"3.3\"",
+      "termcolor; extra == 'cli'",
+      "ipaddress; python_version==\"2.7\" and extra == 'ip'",
+      "ipaddress; python_version==\"3.2\" and extra == 'ip'"
+    ]
+  }
+}

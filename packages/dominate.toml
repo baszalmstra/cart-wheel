@@ -1,0 +1,12 @@
+# Package configuration for dominate
+conda_forge = "dominate"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dominate-2.9.1-py2.py3-none-any.whl" },
+  { filename = "dominate-2.9.0-py2.py3-none-any.whl" },
+  { filename = "dominate-2.8.0-py2.py3-none-any.whl" },
+  { filename = "dominate-2.7.0-py2.py3-none-any.whl" },
+  { filename = "dominate-2.6.0-py2.py3-none-any.whl" },
+]

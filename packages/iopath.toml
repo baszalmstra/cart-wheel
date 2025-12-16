@@ -1,0 +1,10 @@
+# Package configuration for iopath
+conda_forge = "iopath"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "iopath-0.1.9-py3-none-any.whl" },
+  { filename = "iopath-0.1.8-py3-none-any.whl" },
+  { filename = "iopath-0.1.7-py3-none-any.whl" },
+]

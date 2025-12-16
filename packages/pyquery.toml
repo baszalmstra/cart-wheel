@@ -1,0 +1,12 @@
+# Package configuration for pyquery
+conda_forge = "pyquery"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyquery-2.0.1-py3-none-any.whl" },
+  { filename = "pyquery-2.0.0-py3-none-any.whl" },
+  { filename = "pyquery-1.4.3-py3-none-any.whl" },
+  { filename = "pyquery-1.4.1-py2.py3-none-any.whl" },
+  { filename = "pyquery-1.4.0-py2.py3-none-any.whl" },
+]

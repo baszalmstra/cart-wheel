@@ -1,0 +1,12 @@
+# Package configuration for requests-toolbelt
+conda_forge = "requests-toolbelt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "requests_toolbelt-1.0.0-py2.py3-none-any.whl" },
+  { filename = "requests_toolbelt-0.10.1-py2.py3-none-any.whl" },
+  { filename = "requests_toolbelt-0.10.0-py2.py3-none-any.whl" },
+  { filename = "requests_toolbelt-0.9.1-py2.py3-none-any.whl" },
+  { filename = "requests_toolbelt-0.9.0-py2.py3-none-any.whl" },
+]

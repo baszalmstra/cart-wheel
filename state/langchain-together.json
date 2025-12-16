@@ -1,0 +1,92 @@
+{
+  "langchain_together-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6638c3a1db2732a3e62ed0fdfbac0653765f0e561e7082320952731846945b2",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "langchain-core",
+        "langchain-openai",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.1,<4.0.0)",
+      "langchain-core (>=0.3.29,<0.4.0)",
+      "langchain-openai (>=0.3,<0.4)",
+      "requests (>=2,<3)"
+    ]
+  },
+  "langchain_together-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4dcb4f6858c910c23d2268da1ed5f54e8cd01224ecf086dc7a8adbacdc6cb686",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "langchain-core",
+        "langchain-openai",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.1,<4.0.0)",
+      "langchain-core (>=0.3.29,<0.4.0)",
+      "langchain-openai (>=0.3,<0.4)",
+      "requests (>=2,<3)"
+    ]
+  },
+  "langchain_together-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6ed3c20804d9d437bacfb5b494a85c0a8aca0eca223cc2575b5d368420ca2c9f",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "langchain-core",
+        "langchain-openai",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.1,<4.0.0)",
+      "langchain-core (>=0.3,<0.4)",
+      "langchain-openai (>=0.2,<0.3)",
+      "requests (>=2,<3)"
+    ]
+  },
+  "langchain_together-0.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "785e625adab8334a49a02af5893ef1e4d4affc4e90cd29b92da7265d5dbb41f3",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "langchain-core",
+        "langchain-openai",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.1,<4.0.0)",
+      "langchain-core (>=0.2.26,<0.3.0)",
+      "langchain-openai (>=0.1.16,<0.2.0)",
+      "requests (>=2,<3)"
+    ]
+  },
+  "langchain_together-0.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41750e87cb253ee7b8e1cb757f56b178b101944cfa2bb4759aa74a7b3edd3f12",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "langchain-core",
+        "langchain-openai",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.1,<4.0.0)",
+      "langchain-core (>=0.2.17,<0.3)",
+      "langchain-openai (>=0.1.8,<0.2.0)",
+      "requests (>=2,<3)"
+    ]
+  }
+}

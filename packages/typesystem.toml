@@ -1,0 +1,12 @@
+# Package configuration for typesystem
+conda_forge = "typesystem"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "typesystem-0.4.1-py3-none-any.whl" },
+  { filename = "typesystem-0.4.0-py3-none-any.whl" },
+  { filename = "typesystem-0.3.1-py3-none-any.whl" },
+  { filename = "typesystem-0.3.0-py3-none-any.whl" },
+  { filename = "typesystem-0.2.5-py3-none-any.whl" },
+]

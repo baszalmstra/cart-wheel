@@ -1,0 +1,11 @@
+# Package configuration for docutils-stubs
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "docutils_stubs-0.0.22-py3-none-any.whl" },
+  { filename = "docutils_stubs-0.0.21-py3-none-any.whl" },
+  { filename = "docutils_stubs-0.0.20-py3-none-any.whl" },
+  { filename = "docutils_stubs-0.0.19-py3-none-any.whl" },
+  { filename = "docutils_stubs-0.0.18-py3-none-any.whl" },
+]

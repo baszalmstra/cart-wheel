@@ -1,0 +1,11 @@
+# Package configuration for sphinxcontrib.katex
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_katex-0.9.11-py3-none-any.whl" },
+  { filename = "sphinxcontrib_katex-0.9.10-py3-none-any.whl" },
+  { filename = "sphinxcontrib_katex-0.9.9-py3-none-any.whl" },
+  { filename = "sphinxcontrib_katex-0.9.8-py3-none-any.whl" },
+  { filename = "sphinxcontrib_katex-0.9.7-py3-none-any.whl" },
+]

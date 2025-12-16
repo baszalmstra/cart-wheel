@@ -1,0 +1,12 @@
+# Package configuration for pytest-benchmark
+conda_forge = "pytest-benchmark"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_benchmark-5.2.3-py3-none-any.whl" },
+  { filename = "pytest_benchmark-5.2.2-py3-none-any.whl" },
+  { filename = "pytest_benchmark-5.2.1-py3-none-any.whl" },
+  { filename = "pytest_benchmark-5.2.0-py3-none-any.whl" },
+  { filename = "pytest_benchmark-5.1.0-py3-none-any.whl" },
+]

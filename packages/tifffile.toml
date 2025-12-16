@@ -1,0 +1,12 @@
+# Package configuration for tifffile
+conda_forge = "tifffile"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tifffile-2025.12.12-py3-none-any.whl" },
+  { filename = "tifffile-2025.10.16-py3-none-any.whl" },
+  { filename = "tifffile-2025.10.4-py3-none-any.whl" },
+  { filename = "tifffile-2025.9.30-py3-none-any.whl" },
+  { filename = "tifffile-2025.9.20-py3-none-any.whl" },
+]

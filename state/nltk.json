@@ -1,0 +1,172 @@
+{
+  "nltk-3.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e209d2b3009110635ed9709a67a1a3e33a10f799490fa71cf4bec218c11c88a",
+    "dependencies": {
+      "required": [
+        "click",
+        "joblib",
+        "regex",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "joblib",
+      "regex>=2021.8.3",
+      "tqdm",
+      "numpy; extra == \"machine-learning\"",
+      "python-crfsuite; extra == \"machine-learning\"",
+      "scikit-learn; extra == \"machine-learning\"",
+      "scipy; extra == \"machine-learning\"",
+      "matplotlib; extra == \"plot\"",
+      "pyparsing; extra == \"tgrep\"",
+      "twython; extra == \"twitter\"",
+      "requests; extra == \"corenlp\"",
+      "matplotlib; extra == \"all\"",
+      "numpy; extra == \"all\"",
+      "scipy; extra == \"all\"",
+      "twython; extra == \"all\"",
+      "requests; extra == \"all\"",
+      "python-crfsuite; extra == \"all\"",
+      "pyparsing; extra == \"all\"",
+      "scikit-learn; extra == \"all\""
+    ]
+  },
+  "nltk-3.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4fa26829c5b00715afe3061398a8989dc643b92ce7dd93fb4585a70930d168a1",
+    "dependencies": {
+      "required": [
+        "click",
+        "joblib",
+        "regex",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "joblib",
+      "regex>=2021.8.3",
+      "tqdm",
+      "numpy; extra == \"all\"",
+      "requests; extra == \"all\"",
+      "twython; extra == \"all\"",
+      "python-crfsuite; extra == \"all\"",
+      "pyparsing; extra == \"all\"",
+      "scipy; extra == \"all\"",
+      "matplotlib; extra == \"all\"",
+      "scikit-learn; extra == \"all\"",
+      "requests; extra == \"corenlp\"",
+      "numpy; extra == \"machine-learning\"",
+      "python-crfsuite; extra == \"machine-learning\"",
+      "scikit-learn; extra == \"machine-learning\"",
+      "scipy; extra == \"machine-learning\"",
+      "matplotlib; extra == \"plot\"",
+      "pyparsing; extra == \"tgrep\"",
+      "twython; extra == \"twitter\""
+    ]
+  },
+  "nltk-3.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d17863e861bb33ac617893329d71d06a3dfb7e3eb9ee0b8105281c53944a45a1",
+    "dependencies": {
+      "required": [
+        "click",
+        "joblib",
+        "regex",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "joblib",
+      "regex>=2021.8.3",
+      "tqdm",
+      "requests; extra == \"all\"",
+      "numpy; extra == \"all\"",
+      "matplotlib; extra == \"all\"",
+      "scikit-learn; extra == \"all\"",
+      "scipy; extra == \"all\"",
+      "twython; extra == \"all\"",
+      "python-crfsuite; extra == \"all\"",
+      "pyparsing; extra == \"all\"",
+      "requests; extra == \"corenlp\"",
+      "numpy; extra == \"machine-learning\"",
+      "python-crfsuite; extra == \"machine-learning\"",
+      "scikit-learn; extra == \"machine-learning\"",
+      "scipy; extra == \"machine-learning\"",
+      "matplotlib; extra == \"plot\"",
+      "pyparsing; extra == \"tgrep\"",
+      "twython; extra == \"twitter\""
+    ]
+  },
+  "nltk-3.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd5c9109f976fa86bcadba8f91e47f5e9293bd034474752e92a520f81c93dda5",
+    "dependencies": {
+      "required": [
+        "click",
+        "joblib",
+        "regex",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "joblib",
+      "regex (>=2021.8.3)",
+      "tqdm",
+      "scikit-learn ; extra == 'all'",
+      "python-crfsuite ; extra == 'all'",
+      "requests ; extra == 'all'",
+      "numpy ; extra == 'all'",
+      "pyparsing ; extra == 'all'",
+      "twython ; extra == 'all'",
+      "scipy ; extra == 'all'",
+      "matplotlib ; extra == 'all'",
+      "requests ; extra == 'corenlp'",
+      "numpy ; extra == 'machine_learning'",
+      "python-crfsuite ; extra == 'machine_learning'",
+      "scikit-learn ; extra == 'machine_learning'",
+      "scipy ; extra == 'machine_learning'",
+      "matplotlib ; extra == 'plot'",
+      "pyparsing ; extra == 'tgrep'",
+      "twython ; extra == 'twitter'"
+    ]
+  },
+  "nltk-3.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3306502f487aa9fb0566e23443fa287a85a8d8d0821e2ef1655b4e3f0ea4aeee",
+    "dependencies": {
+      "required": [
+        "click",
+        "joblib",
+        "regex",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "joblib",
+      "regex (>=2021.8.3)",
+      "tqdm",
+      "numpy ; extra == 'all'",
+      "python-crfsuite ; extra == 'all'",
+      "scikit-learn ; extra == 'all'",
+      "pyparsing ; extra == 'all'",
+      "scipy ; extra == 'all'",
+      "twython ; extra == 'all'",
+      "matplotlib ; extra == 'all'",
+      "requests ; extra == 'all'",
+      "requests ; extra == 'corenlp'",
+      "numpy ; extra == 'machine_learning'",
+      "python-crfsuite ; extra == 'machine_learning'",
+      "scikit-learn ; extra == 'machine_learning'",
+      "scipy ; extra == 'machine_learning'",
+      "matplotlib ; extra == 'plot'",
+      "pyparsing ; extra == 'tgrep'",
+      "twython ; extra == 'twitter'"
+    ]
+  }
+}

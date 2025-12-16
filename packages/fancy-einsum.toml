@@ -1,0 +1,7 @@
+# Package configuration for fancy-einsum
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fancy_einsum-0.0.3-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for rank-bm25
+conda_forge = "rank-bm25"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rank_bm25-0.2.2-py3-none-any.whl" },
+  { filename = "rank_bm25-0.2.1-py3-none-any.whl" },
+  { filename = "rank_bm25-0.2-py3-none-any.whl" },
+  { filename = "rank_bm25-0.1-py3-none-any.whl" },
+]

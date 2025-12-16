@@ -1,0 +1,172 @@
+{
+  "bravado-11.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a403ef29ec2dda20a855c7c1bd591795d24e16af4fe96e2d7cb3d6edabeba94d",
+    "dependencies": {
+      "required": [
+        "bravado-core",
+        "monotonic",
+        "msgpack",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "simplejson",
+        "six",
+        "typing-extensions",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "bravado-core (>=5.16.1)",
+      "monotonic",
+      "msgpack",
+      "python-dateutil",
+      "pyyaml",
+      "requests (>=2.17)",
+      "simplejson",
+      "six",
+      "typing-extensions",
+      "typing ; python_version<\"3.5\"",
+      "fido (>=4.2.1) ; extra == 'fido'",
+      "bottle ; extra == 'integration-tests'",
+      "ephemeral-port-reserve ; extra == 'integration-tests'",
+      "pytest ; extra == 'integration-tests'"
+    ]
+  },
+  "bravado-11.0.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ac8bbb645e49607917a5c07808116c708521f51e80d9c29bc4a168ff4dd22c6",
+    "dependencies": {
+      "required": [
+        "bravado-core",
+        "msgpack",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "six",
+        "simplejson",
+        "monotonic",
+        "typing-extensions",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "bravado-core (>=5.16.1)",
+      "msgpack",
+      "python-dateutil",
+      "pyyaml",
+      "requests (>=2.17)",
+      "six",
+      "simplejson",
+      "monotonic",
+      "typing-extensions",
+      "typing; python_version<\"3.5\"",
+      "fido (>=4.2.1); extra == 'fido'",
+      "bottle; extra == 'integration-tests'",
+      "ephemeral-port-reserve; extra == 'integration-tests'",
+      "pytest; extra == 'integration-tests'"
+    ]
+  },
+  "bravado-11.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a70a6a06730eea7d10ca5b6b504efa48b5ecc192f0a4b4cdbc5651f4f995df81",
+    "dependencies": {
+      "required": [
+        "bravado-core",
+        "msgpack",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "six",
+        "simplejson",
+        "monotonic",
+        "typing-extensions",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "bravado-core (>=5.16.1)",
+      "msgpack",
+      "python-dateutil",
+      "pyyaml",
+      "requests (>=2.17)",
+      "six",
+      "simplejson",
+      "monotonic",
+      "typing-extensions",
+      "typing ; python_version<\"3.5\"",
+      "fido (>=4.2.1) ; extra == 'fido'",
+      "bottle ; extra == 'integration-tests'",
+      "ephemeral-port-reserve ; extra == 'integration-tests'",
+      "pytest ; extra == 'integration-tests'"
+    ]
+  },
+  "bravado-11.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d8035cd3933e03307d443e6cedb423225cf6d9eed174305a29e99908e7ef1a5b",
+    "dependencies": {
+      "required": [
+        "bravado-core",
+        "msgpack",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "six",
+        "simplejson",
+        "monotonic",
+        "typing-extensions",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "bravado-core (>=5.16.1)",
+      "msgpack",
+      "python-dateutil",
+      "pyyaml",
+      "requests (>=2.17)",
+      "six",
+      "simplejson",
+      "monotonic",
+      "typing-extensions",
+      "typing ; python_version<\"3.5\"",
+      "fido (>=4.2.1) ; extra == 'fido'",
+      "bottle ; extra == 'integration-tests'",
+      "ephemeral-port-reserve ; extra == 'integration-tests'",
+      "pytest ; extra == 'integration-tests'"
+    ]
+  },
+  "bravado-10.6.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5779575ea7b29006be9fdc47f667699285b0bd94381f871192f3b97605f92ee6",
+    "dependencies": {
+      "required": [
+        "bravado-core",
+        "msgpack",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "six",
+        "simplejson",
+        "monotonic",
+        "typing-extensions",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "bravado-core (>=5.16.1)",
+      "msgpack",
+      "python-dateutil",
+      "pyyaml",
+      "requests (>=2.17)",
+      "six",
+      "simplejson",
+      "monotonic",
+      "typing-extensions",
+      "typing ; python_version<\"3.5\"",
+      "fido (>=4.2.1) ; extra == 'fido'",
+      "bottle ; extra == 'integration-tests'",
+      "ephemeral-port-reserve ; extra == 'integration-tests'",
+      "pytest ; extra == 'integration-tests'"
+    ]
+  }
+}

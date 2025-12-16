@@ -1,0 +1,12 @@
+# Package configuration for pyshp
+conda_forge = "pyshp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyshp-3.0.3-py3-none-any.whl" },
+  { filename = "pyshp-3.0.2.post1-py3-none-any.whl" },
+  { filename = "pyshp-3.0.2.post0-py3-none-any.whl" },
+  { filename = "pyshp-2.3.1-py2.py3-none-any.whl" },
+  { filename = "pyshp-2.3.0-py2.py3-none-any.whl" },
+]

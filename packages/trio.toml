@@ -1,0 +1,12 @@
+# Package configuration for trio
+conda_forge = "trio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "trio-0.32.0-py3-none-any.whl" },
+  { filename = "trio-0.31.0-py3-none-any.whl" },
+  { filename = "trio-0.30.0-py3-none-any.whl" },
+  { filename = "trio-0.29.0-py3-none-any.whl" },
+  { filename = "trio-0.28.0-py3-none-any.whl" },
+]

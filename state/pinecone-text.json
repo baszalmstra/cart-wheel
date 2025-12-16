@@ -1,0 +1,149 @@
+{
+  "pinecone_text-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a2a80985c278e3dc1e8abf03f472fd472a55eea9d7b0a1ac366eb8dcbc40d63",
+    "dependencies": {
+      "required": [
+        "mmh3",
+        "nltk",
+        "numpy",
+        "python-dotenv",
+        "requests",
+        "types-requests"
+      ]
+    },
+    "original_requirements": [
+      "cohere (>=4.37,<5.0) ; extra == \"cohere\"",
+      "mmh3 (>=4.1.0,<5.0.0)",
+      "nltk (>=3.9.1,<4.0.0)",
+      "numpy (>=1.21.5)",
+      "openai (>=1.2.3,<2.0.0) ; extra == \"dense\" or extra == \"openai\"",
+      "python-dotenv (>=1.0.1,<2.0.0)",
+      "requests (>=2.25.0,<3.0.0)",
+      "sentence-transformers (>=2.0.0) ; extra == \"splade\" or extra == \"dense\"",
+      "torch (>=1.13.1) ; extra == \"splade\" or extra == \"dense\"",
+      "transformers (>=4.26.1) ; extra == \"splade\" or extra == \"dense\"",
+      "types-requests (>=2.25.0,<3.0.0)"
+    ]
+  },
+  "pinecone_text-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc1dc5d1de70af1478e92991e9dd506495b5dde52745c92150c29c921fe4de78",
+    "dependencies": {
+      "required": [
+        "mmh3",
+        "nltk",
+        "numpy",
+        "numpy",
+        "python-dotenv",
+        "requests",
+        "types-requests"
+      ]
+    },
+    "original_requirements": [
+      "cohere (>=4.37,<5.0) ; extra == \"cohere\"",
+      "mmh3 (>=4.1.0,<5.0.0)",
+      "nltk (>=3.9.1,<4.0.0)",
+      "numpy (>=1.21.5,<2.0) ; python_version < \"3.12\"",
+      "numpy (>=1.26,<2.0) ; python_version >= \"3.12\"",
+      "openai (>=1.2.3,<2.0.0) ; extra == \"dense\" or extra == \"openai\"",
+      "python-dotenv (>=1.0.1,<2.0.0)",
+      "requests (>=2.25.0,<3.0.0)",
+      "sentence-transformers (>=2.0.0) ; extra == \"splade\" or extra == \"dense\"",
+      "torch (>=1.13.1) ; extra == \"splade\" or extra == \"dense\"",
+      "transformers (>=4.26.1) ; extra == \"splade\" or extra == \"dense\"",
+      "types-requests (>=2.25.0,<3.0.0)"
+    ]
+  },
+  "pinecone_text-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a1ad2e282d10b59f0288a2a4f4b8c583a77378172232fae573cf398a3c44240",
+    "dependencies": {
+      "required": [
+        "mmh3",
+        "nltk",
+        "numpy",
+        "numpy",
+        "python-dotenv",
+        "requests",
+        "types-requests",
+        "wget"
+      ]
+    },
+    "original_requirements": [
+      "cohere (>=4.37,<5.0) ; extra == \"cohere\"",
+      "mmh3 (>=4.1.0,<5.0.0)",
+      "nltk (>=3.6.5,<4.0.0)",
+      "numpy (>=1.21.5,<2.0) ; python_version < \"3.12\"",
+      "numpy (>=1.26,<2.0) ; python_version >= \"3.12\"",
+      "openai (>=1.2.3,<2.0.0) ; extra == \"dense\" or extra == \"openai\"",
+      "python-dotenv (>=1.0.1,<2.0.0)",
+      "requests (>=2.25.0,<3.0.0)",
+      "sentence-transformers (>=2.0.0) ; extra == \"splade\" or extra == \"dense\"",
+      "torch (>=1.13.1) ; extra == \"splade\" or extra == \"dense\"",
+      "transformers (>=4.26.1) ; extra == \"splade\" or extra == \"dense\"",
+      "types-requests (>=2.25.0,<3.0.0)",
+      "wget (>=3.2,<4.0)"
+    ]
+  },
+  "pinecone_text-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf099c903f6bc630a2b9858bab63e291ebb361ca545b5968cd71eb0dcfbee221",
+    "dependencies": {
+      "required": [
+        "mmh3",
+        "nltk",
+        "numpy",
+        "numpy",
+        "python-dotenv",
+        "requests",
+        "types-requests",
+        "wget"
+      ]
+    },
+    "original_requirements": [
+      "cohere (>=4.37,<5.0) ; extra == \"cohere\"",
+      "mmh3 (>=3.1.0,<4.0.0)",
+      "nltk (>=3.6.5,<4.0.0)",
+      "numpy (>=1.21.5,<2.0) ; python_version < \"3.12\"",
+      "numpy (>=1.26,<2.0) ; python_version >= \"3.12\"",
+      "openai (>=1.2.3,<2.0.0) ; extra == \"dense\" or extra == \"openai\"",
+      "python-dotenv (>=1.0.1,<2.0.0)",
+      "requests (>=2.25.0,<3.0.0)",
+      "sentence-transformers (>=2.0.0) ; extra == \"splade\" or extra == \"dense\"",
+      "torch (>=1.13.1) ; extra == \"splade\" or extra == \"dense\"",
+      "transformers (>=4.26.1) ; extra == \"splade\" or extra == \"dense\"",
+      "types-requests (>=2.25.0,<3.0.0)",
+      "wget (>=3.2,<4.0)"
+    ]
+  },
+  "pinecone_text-0.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c4f07efbd1f94df40f50827589ece594202c72d28765ea43b2a3ea931618bde",
+    "dependencies": {
+      "required": [
+        "mmh3",
+        "nltk",
+        "numpy",
+        "numpy",
+        "requests",
+        "types-requests",
+        "wget"
+      ]
+    },
+    "original_requirements": [
+      "cohere (>=4.37,<5.0) ; extra == \"cohere\"",
+      "mmh3 (>=3.1.0,<4.0.0)",
+      "nltk (>=3.6.5,<4.0.0)",
+      "numpy (>=1.21.5,<2.0) ; python_version < \"3.12\"",
+      "numpy (>=1.26,<2.0) ; python_version >= \"3.12\"",
+      "openai (>=1.2.3,<2.0.0) ; extra == \"dense\" or extra == \"openai\"",
+      "requests (>=2.25.0,<3.0.0)",
+      "sentence-transformers (>=2.0.0) ; extra == \"splade\" or extra == \"dense\"",
+      "torch (>=1.13.1) ; extra == \"splade\" or extra == \"dense\"",
+      "transformers (>=4.26.1) ; extra == \"splade\" or extra == \"dense\"",
+      "types-requests (>=2.25.0,<3.0.0)",
+      "wget (>=3.2,<4.0)"
+    ]
+  }
+}

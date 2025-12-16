@@ -1,0 +1,120 @@
+{
+  "sphinx_design-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b11f37db1a802a183d61b159d9a202314d4d2fe29c163437001324fe2f19549c",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=6,<9",
+      "pre-commit>=3,<4 ; extra == \"code-style\"",
+      "myst-parser>=2,<4 ; extra == \"rtd\"",
+      "myst-parser>=2,<4 ; extra == \"testing\"",
+      "pytest~=8.3 ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\"",
+      "defusedxml ; extra == \"testing\"",
+      "pytest~=8.3 ; extra == \"testing-no-myst\"",
+      "pytest-cov ; extra == \"testing-no-myst\"",
+      "pytest-regressions ; extra == \"testing-no-myst\"",
+      "defusedxml ; extra == \"testing-no-myst\"",
+      "furo~=2024.7.18 ; extra == \"theme-furo\"",
+      "sphinx-immaterial~=0.12.2 ; extra == \"theme-im\"",
+      "pydata-sphinx-theme~=0.15.2 ; extra == \"theme-pydata\"",
+      "sphinx-rtd-theme~=2.0 ; extra == \"theme-rtd\"",
+      "sphinx-book-theme~=1.1 ; extra == \"theme-sbt\""
+    ]
+  },
+  "sphinx_design-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e9bd07eecec82eb07ff72cb50fc3624e186b04f5661270bc7b62db86c7546e95",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=5,<8",
+      "pre-commit>=3,<4 ; extra == \"code-style\"",
+      "myst-parser>=1,<3 ; extra == \"rtd\"",
+      "myst-parser>=1,<3 ; extra == \"testing\"",
+      "pytest~=7.1 ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\"",
+      "defusedxml ; extra == \"testing\"",
+      "furo~=2024.5.4 ; extra == \"theme-furo\"",
+      "sphinx-immaterial~=0.11.11 ; extra == \"theme-im\"",
+      "pydata-sphinx-theme~=0.15.2 ; extra == \"theme-pydata\"",
+      "sphinx-rtd-theme~=2.0 ; extra == \"theme-rtd\"",
+      "sphinx-book-theme~=1.1 ; extra == \"theme-sbt\""
+    ]
+  },
+  "sphinx_design-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1af1267b4cea2eedd6724614f19dcc88fe2e15aff65d06b2f6252cee9c4f4c1e",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=5,<8",
+      "pre-commit>=3,<4 ; extra == \"code_style\"",
+      "myst-parser>=1,<3 ; extra == \"rtd\"",
+      "myst-parser>=1,<3 ; extra == \"testing\"",
+      "pytest~=7.1 ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\"",
+      "furo~=2023.7.0 ; extra == \"theme_furo\"",
+      "pydata-sphinx-theme~=0.13.0 ; extra == \"theme_pydata\"",
+      "sphinx-rtd-theme~=1.0 ; extra == \"theme_rtd\"",
+      "sphinx-book-theme~=1.0 ; extra == \"theme_sbt\""
+    ]
+  },
+  "sphinx_design-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23bf5705eb31296d4451f68b0222a698a8a84396ffe8378dfd9319ba7ab8efd9",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=4,<7",
+      "pre-commit~=2.12 ; extra == \"code_style\"",
+      "myst-parser>=0.18.0,<2 ; extra == \"rtd\"",
+      "myst-parser>=0.18.0,<2 ; extra == \"testing\"",
+      "pytest~=7.1 ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\"",
+      "furo>=2022.06.04,<2022.07 ; extra == \"theme_furo\"",
+      "pydata-sphinx-theme~=0.9.0 ; extra == \"theme_pydata\"",
+      "sphinx-rtd-theme~=1.0 ; extra == \"theme_rtd\"",
+      "sphinx-book-theme~=0.3.0 ; extra == \"theme_sbt\""
+    ]
+  },
+  "sphinx_design-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49ca06a29700e6e4e33ed7b0da0919d1993cd570ac5f0a64b56a904ad6c6f1ad",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=4,<7",
+      "pre-commit~=2.12 ; extra == \"code_style\"",
+      "myst-parser>=0.18.0,<2 ; extra == \"rtd\"",
+      "myst-parser>=0.18.0,<2 ; extra == \"testing\"",
+      "pytest~=7.1 ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\"",
+      "furo>=2022.06.04,<2022.07 ; extra == \"theme_furo\"",
+      "pydata-sphinx-theme~=0.9.0 ; extra == \"theme_pydata\"",
+      "sphinx-rtd-theme~=1.0 ; extra == \"theme_rtd\"",
+      "sphinx-book-theme~=0.3.0 ; extra == \"theme_sbt\""
+    ]
+  }
+}

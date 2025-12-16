@@ -1,0 +1,25 @@
+{
+  "xai_tabular_widget-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b3780a90f8131efd5d5d38a17e8e3077e97ed725caebe62a57b51ea3cf37d45",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets (>=7.0.0)",
+      "sphinx (>=1.5) ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "nbsphinx (<0.4.0,>=0.2.13) ; extra == 'docs'",
+      "jupyter-sphinx ; extra == 'docs'",
+      "nbsphinx-link ; extra == 'docs'",
+      "pytest-check-links ; extra == 'docs'",
+      "pypandoc ; extra == 'docs'",
+      "pytest (>=4.6) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "nbval ; extra == 'test'"
+    ]
+  }
+}

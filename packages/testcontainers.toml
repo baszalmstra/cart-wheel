@@ -1,0 +1,12 @@
+# Package configuration for testcontainers
+conda_forge = "testcontainers"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "testcontainers-4.13.3-py3-none-any.whl" },
+  { filename = "testcontainers-4.13.2-py3-none-any.whl" },
+  { filename = "testcontainers-4.13.1-py3-none-any.whl" },
+  { filename = "testcontainers-4.13.0-py3-none-any.whl" },
+  { filename = "testcontainers-4.12.0-py3-none-any.whl" },
+]

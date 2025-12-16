@@ -1,0 +1,106 @@
+{
+  "swanboard-0.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "802a7cbe019af441b2c802396ae7207964d021178d57e9cd13c2215a01d45f63",
+    "dependencies": {
+      "required": [
+        "fastapi",
+        "peewee",
+        "psutil",
+        "setuptools",
+        "swankit",
+        "ujson",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "fastapi>=0.110.1",
+      "peewee",
+      "psutil",
+      "setuptools",
+      "swankit",
+      "ujson",
+      "uvicorn>=0.14.0"
+    ]
+  },
+  "swanboard-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e146030644d31df0a195e4c10ca90c094cb0b07adf5a2383f38cd8f7f7fbb8fb",
+    "dependencies": {
+      "required": [
+        "click",
+        "cos-python-sdk-v5",
+        "fastapi",
+        "matplotlib",
+        "numpy",
+        "peewee",
+        "pillow",
+        "psutil",
+        "pynvml",
+        "pyyaml",
+        "requests",
+        "soundfile",
+        "ujson",
+        "uvicorn",
+        "watchdog"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "cos-python-sdk-v5",
+      "fastapi>=0.110.1",
+      "matplotlib",
+      "numpy",
+      "peewee",
+      "pillow",
+      "psutil",
+      "pynvml",
+      "pyyaml",
+      "requests",
+      "soundfile",
+      "ujson",
+      "uvicorn>=0.14.0",
+      "watchdog"
+    ]
+  },
+  "swanboard-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4391b2723386c56b862b30d0ffc9c391fded2091e999d20f05c5b34d015f8865",
+    "dependencies": {
+      "required": [
+        "click",
+        "cos-python-sdk-v5",
+        "fastapi",
+        "matplotlib",
+        "numpy",
+        "peewee",
+        "pillow",
+        "psutil",
+        "pynvml",
+        "pyyaml",
+        "requests",
+        "soundfile",
+        "ujson",
+        "uvicorn",
+        "watchdog"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "cos-python-sdk-v5",
+      "fastapi>=0.110.1",
+      "matplotlib",
+      "numpy",
+      "peewee",
+      "pillow",
+      "psutil",
+      "pynvml",
+      "pyyaml",
+      "requests",
+      "soundfile",
+      "ujson",
+      "uvicorn>=0.14.0",
+      "watchdog"
+    ]
+  }
+}

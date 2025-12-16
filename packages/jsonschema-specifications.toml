@@ -1,0 +1,12 @@
+# Package configuration for jsonschema-specifications
+conda_forge = "jsonschema-specifications"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsonschema_specifications-2025.9.1-py3-none-any.whl" },
+  { filename = "jsonschema_specifications-2025.4.1-py3-none-any.whl" },
+  { filename = "jsonschema_specifications-2024.10.1-py3-none-any.whl" },
+  { filename = "jsonschema_specifications-2023.12.1-py3-none-any.whl" },
+  { filename = "jsonschema_specifications-2023.11.2-py3-none-any.whl" },
+]

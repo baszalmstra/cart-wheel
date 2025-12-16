@@ -1,0 +1,12 @@
+# Package configuration for eventlet
+conda_forge = "eventlet"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "eventlet-0.40.4-py3-none-any.whl" },
+  { filename = "eventlet-0.40.3-py3-none-any.whl" },
+  { filename = "eventlet-0.40.2-py3-none-any.whl" },
+  { filename = "eventlet-0.40.1-py3-none-any.whl" },
+  { filename = "eventlet-0.40.0-py3-none-any.whl" },
+]

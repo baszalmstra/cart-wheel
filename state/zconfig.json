@@ -1,0 +1,75 @@
+{
+  "zconfig-4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "988c64417c9255011321ba25d1eb7639fa5d0a5c657e13cacd7837e28766867e",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "docutils; extra == \"test\"",
+      "manuel; extra == \"test\"",
+      "zope.exceptions; extra == \"test\"",
+      "zope.testrunner; extra == \"test\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "sphinxcontrib-programoutput; extra == \"docs\""
+    ]
+  },
+  "ZConfig-4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43ae4b70aeb30db44341863d480d739d1fba4534796a2f46f4ce4d99e075250a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "docutils; extra == \"test\"",
+      "manuel; extra == \"test\"",
+      "zope.exceptions; extra == \"test\"",
+      "zope.testrunner; extra == \"test\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "sphinxcontrib-programoutput; extra == \"docs\""
+    ]
+  },
+  "ZConfig-4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1dd4b3fb4bfd854dea9b10cd99e66989fd74bbe0cd488c6882afe2835104d171",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "sphinxcontrib-programoutput ; extra == 'docs'",
+      "docutils ; extra == 'test'",
+      "manuel ; extra == 'test'",
+      "zope.exceptions ; extra == 'test'",
+      "zope.testrunner ; extra == 'test'"
+    ]
+  },
+  "ZConfig-4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c131c1a52d3de9bc1feaa6abc8d895961e1ebef7e1f50041e21a328c6878c73",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinxcontrib-programoutput ; extra == 'docs'",
+      "docutils ; extra == 'test'",
+      "manuel ; extra == 'test'",
+      "zope.exceptions ; extra == 'test'",
+      "zope.testrunner ; extra == 'test'"
+    ]
+  },
+  "ZConfig-3.6.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1459a11f22e1268ab1f9a368bd2fe2c2018ceeb01c653eef3a5f7d8f5608f041",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinxcontrib-programoutput ; extra == 'docs'",
+      "docutils ; extra == 'test'",
+      "manuel ; extra == 'test'",
+      "zope.exceptions ; extra == 'test'",
+      "zope.testrunner ; extra == 'test'"
+    ]
+  }
+}

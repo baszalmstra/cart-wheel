@@ -1,0 +1,11 @@
+# Package configuration for pyobjc-framework-quicklookthumbnailing
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyobjc_framework_quicklookthumbnailing-12.1-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_quicklookthumbnailing-12.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_quicklookthumbnailing-11.1-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_QuickLookThumbnailing-11.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_QuickLookThumbnailing-10.3.2-py2.py3-none-any.whl" },
+]

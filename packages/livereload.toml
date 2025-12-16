@@ -1,0 +1,12 @@
+# Package configuration for livereload
+conda_forge = "livereload"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "livereload-2.7.1-py3-none-any.whl" },
+  { filename = "livereload-2.7.0-py3-none-any.whl" },
+  { filename = "livereload-2.6.3-py2.py3-none-any.whl" },
+  { filename = "livereload-2.6.1-py2.py3-none-any.whl" },
+  { filename = "livereload-2.6.0-py2.py3-none-any.whl" },
+]

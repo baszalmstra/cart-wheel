@@ -1,0 +1,12 @@
+# Package configuration for praw
+conda_forge = "praw"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "praw-7.8.1-py3-none-any.whl" },
+  { filename = "praw-7.8.0-py3-none-any.whl" },
+  { filename = "praw-7.7.1-py3-none-any.whl" },
+  { filename = "praw-7.7.0-py3-none-any.whl" },
+  { filename = "praw-7.6.1-py3-none-any.whl" },
+]

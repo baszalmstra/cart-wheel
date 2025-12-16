@@ -1,0 +1,92 @@
+{
+  "meshio-5.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0736c6e34ecc768f62f2cde5d8233a3529512a9399b25c68ea2ca0d5900cdc10",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "rich",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.20.0",
+      "rich",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "netCDF4 ; extra == 'all'",
+      "h5py ; extra == 'all'"
+    ]
+  },
+  "meshio-5.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fbd5a7b387fdea98f4d7fed1f154f4a52b7f2e1d619762a52b8ece3df1d8aa0d",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "rich",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "rich",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "netCDF4 ; extra == 'all'",
+      "h5py ; extra == 'all'"
+    ]
+  },
+  "meshio-5.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ac134a08c752a3dc7d77d79b95e0f9cea14be7537db6a1f57c6e2360d470306",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "rich",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "rich",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "netCDF4 ; extra == 'all'",
+      "h5py ; extra == 'all'"
+    ]
+  },
+  "meshio-5.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd3b58a694dc4da7045c1715bac9d5ccee2520b2582326c5631e20c4bc0dc260",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "rich",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "rich",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "netCDF4 ; extra == 'all'",
+      "h5py ; extra == 'all'"
+    ]
+  },
+  "meshio-5.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de7511296464a979f5987daf5010e3fd2b68fbed5858ad3fdef974055ea8ae39",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "rich",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "rich",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "netCDF4 ; extra == 'all'",
+      "h5py ; extra == 'all'"
+    ]
+  }
+}

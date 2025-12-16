@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-presto
+conda_forge = "apache-airflow-providers-presto"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_presto-5.10.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_presto-5.10.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_presto-5.9.4-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_presto-5.9.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_presto-5.9.2-py3-none-any.whl" },
+]

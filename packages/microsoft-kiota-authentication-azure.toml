@@ -1,0 +1,12 @@
+# Package configuration for microsoft-kiota-authentication-azure
+conda_forge = "microsoft-kiota-authentication-azure"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "microsoft_kiota_authentication_azure-1.9.7-py3-none-any.whl" },
+  { filename = "microsoft_kiota_authentication_azure-1.9.6-py3-none-any.whl" },
+  { filename = "microsoft_kiota_authentication_azure-1.9.5-py3-none-any.whl" },
+  { filename = "microsoft_kiota_authentication_azure-1.9.4-py3-none-any.whl" },
+  { filename = "microsoft_kiota_authentication_azure-1.9.3-py3-none-any.whl" },
+]

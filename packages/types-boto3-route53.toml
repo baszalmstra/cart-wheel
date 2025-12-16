@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-route53
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_route53-1.42.6-py3-none-any.whl" },
+  { filename = "types_boto3_route53-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_route53-1.41.4-py3-none-any.whl" },
+  { filename = "types_boto3_route53-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_route53-1.40.57-py3-none-any.whl" },
+]

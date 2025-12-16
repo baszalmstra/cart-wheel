@@ -1,0 +1,76 @@
+{
+  "apache_airflow_providers_ftp-3.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2ba7a9c5a73a55f88da93e27f73c213aa19aca5d4483a7de5d30223321328be",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_ftp-3.13.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e4a0746bb71b07b75434ab015ad0f63c9d54f03d35c7c25c80769af9038b41e2",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_ftp-3.13.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d75b168931c598c726d7fcafa3f50629ecef4e8376fb4d9a5d1846ad26865a7d",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_ftp-3.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f2d38707be7ce984ea7fbb65541ba20d1649a71bec65ae0e7ca482608d33cab2",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_ftp-3.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dffbbe3cf2da0ac6baca776ad2eea1727144d95ee58e7f9b338fe3fed88dff09",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  }
+}

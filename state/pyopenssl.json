@@ -1,0 +1,95 @@
+{
+  "pyopenssl-25.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1fda6fc034d5e3d179d39e59c1895c9faeaf40a79de5fc4cbbfbe0d36f4a77b6",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cryptography<47,>=45.0.7",
+      "typing-extensions>=4.9; python_version < \"3.13\" and python_version >= \"3.8\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pretend; extra == \"test\"",
+      "pytest>=3.0.1; extra == \"test\"",
+      "sphinx!=5.2.0,!=5.2.0.post0,!=7.2.5; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\""
+    ]
+  },
+  "pyopenssl-25.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a3d87605158baffa5d35d097539b2221908f7b15c3ee03c99cdd49e79a7d5ae",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cryptography<46,>=45.0.7",
+      "typing-extensions>=4.9; python_version < \"3.13\" and python_version >= \"3.8\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pretend; extra == \"test\"",
+      "pytest>=3.0.1; extra == \"test\"",
+      "sphinx!=5.2.0,!=5.2.0.post0,!=7.2.5; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\""
+    ]
+  },
+  "pyopenssl-25.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b11f239acc47ac2e5aca04fd7fa829800aeee22a2eb30d744572a157bd8a1ab",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cryptography<46,>=41.0.5",
+      "typing-extensions>=4.9; python_version < \"3.13\" and python_version >= \"3.8\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pretend; extra == \"test\"",
+      "pytest>=3.0.1; extra == \"test\"",
+      "sphinx!=5.2.0,!=5.2.0.post0,!=7.2.5; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\""
+    ]
+  },
+  "pyOpenSSL-25.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "424c247065e46e76a37411b9ab1782541c23bb658bf003772c3405fbaa128e90",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cryptography<45,>=41.0.5",
+      "typing-extensions>=4.9; python_version < \"3.13\" and python_version >= \"3.8\"",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pretend; extra == \"test\"",
+      "pytest>=3.0.1; extra == \"test\"",
+      "sphinx!=5.2.0,!=5.2.0.post0,!=7.2.5; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\""
+    ]
+  },
+  "pyOpenSSL-24.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e474f5a473cd7f92221cc04976e48f4d11502804657a08a989fb3be5514c904a",
+    "dependencies": {
+      "required": [
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "cryptography<45,>=41.0.5",
+      "pytest-rerunfailures; extra == \"test\"",
+      "pretend; extra == \"test\"",
+      "pytest>=3.0.1; extra == \"test\"",
+      "sphinx!=5.2.0,!=5.2.0.post0,!=7.2.5; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\""
+    ]
+  }
+}

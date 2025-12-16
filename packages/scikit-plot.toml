@@ -1,0 +1,10 @@
+# Package configuration for scikit-plot
+conda_forge = "scikit-plot"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "scikit_plot-0.3.7-py3-none-any.whl" },
+  { filename = "scikit_plot-0.3.6-py3-none-any.whl" },
+  { filename = "scikit_plot-0.3.5-py2.py3-none-any.whl" },
+]

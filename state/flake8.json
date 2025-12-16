@@ -1,0 +1,82 @@
+{
+  "flake8-7.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b9696257b9ce8beb888cdbe31cf885c90d31928fe202be0889a7cdafad32f01e",
+    "dependencies": {
+      "required": [
+        "mccabe",
+        "pycodestyle",
+        "pyflakes"
+      ]
+    },
+    "original_requirements": [
+      "mccabe<0.8.0,>=0.7.0",
+      "pycodestyle<2.15.0,>=2.14.0",
+      "pyflakes<3.5.0,>=3.4.0"
+    ]
+  },
+  "flake8-7.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "93b92ba5bdb60754a6da14fa3b93a9361fd00a59632ada61fd7b130436c40343",
+    "dependencies": {
+      "required": [
+        "mccabe",
+        "pycodestyle",
+        "pyflakes"
+      ]
+    },
+    "original_requirements": [
+      "mccabe<0.8.0,>=0.7.0",
+      "pycodestyle<2.14.0,>=2.13.0",
+      "pyflakes<3.4.0,>=3.3.0"
+    ]
+  },
+  "flake8-7.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1cbc62e65536f65e6d754dfe6f1bada7f5cf392d6f5db3c2b85892466c3e7c1a",
+    "dependencies": {
+      "required": [
+        "mccabe",
+        "pycodestyle",
+        "pyflakes"
+      ]
+    },
+    "original_requirements": [
+      "mccabe<0.8.0,>=0.7.0",
+      "pycodestyle<2.13.0,>=2.12.0",
+      "pyflakes<3.3.0,>=3.2.0"
+    ]
+  },
+  "flake8-7.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "597477df7860daa5aa0fdd84bf5208a043ab96b8e96ab708770ae0364dd03213",
+    "dependencies": {
+      "required": [
+        "mccabe",
+        "pycodestyle",
+        "pyflakes"
+      ]
+    },
+    "original_requirements": [
+      "mccabe (<0.8.0,>=0.7.0)",
+      "pycodestyle (<2.13.0,>=2.12.0)",
+      "pyflakes (<3.3.0,>=3.2.0)"
+    ]
+  },
+  "flake8-7.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e416edcc62471a64cea09353f4e7bdba32aeb079b6e360554c659a122b1bc6a",
+    "dependencies": {
+      "required": [
+        "mccabe",
+        "pycodestyle",
+        "pyflakes"
+      ]
+    },
+    "original_requirements": [
+      "mccabe (<0.8.0,>=0.7.0)",
+      "pycodestyle (<2.13.0,>=2.12.0)",
+      "pyflakes (<3.3.0,>=3.2.0)"
+    ]
+  }
+}

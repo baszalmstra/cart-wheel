@@ -1,0 +1,12 @@
+# Package configuration for pdfplumber
+conda_forge = "pdfplumber"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pdfplumber-0.11.8-py3-none-any.whl" },
+  { filename = "pdfplumber-0.11.7-py3-none-any.whl" },
+  { filename = "pdfplumber-0.11.6-py3-none-any.whl" },
+  { filename = "pdfplumber-0.11.5-py3-none-any.whl" },
+  { filename = "pdfplumber-0.11.4-py3-none-any.whl" },
+]

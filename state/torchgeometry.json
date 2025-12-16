@@ -1,0 +1,26 @@
+{
+  "torchgeometry-0.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4b08b19359581f76aa93206fac4b439fbe784be2f072fca7d7e720bf0e28ce0",
+    "dependencies": {
+      "required": [
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.0.0)"
+    ]
+  },
+  "torchgeometry-0.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f61d35cb2827ff2bc83ca54af0f6c3108d9bf18fb17e2ac4f9766edbc285ee8",
+    "dependencies": {
+      "required": [
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "torch (==1.0.0)"
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "preliz-0.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6aec0a88290c0ecf63f4d967e9bbb61bbc4a0b688013dcd8dc25e31bfc68b4de",
+    "dependencies": {
+      "required": [
+        "arviz-stats",
+        "matplotlib",
+        "numba",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "arviz_stats>=0.6.0",
+      "matplotlib>=3.9",
+      "numba>=0.62",
+      "numpy>=2.0",
+      "scipy>=1.12",
+      "nbclient>=0.2 ; extra == \"full\"",
+      "ipywidgets ; extra == \"full\"",
+      "ipympl ; extra == \"full\"",
+      "jupyterlab ; extra == \"lab\"",
+      "notebook ; extra == \"notebook\""
+    ]
+  },
+  "preliz-0.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f916fcf636b0c42a6ccec529309139794d94d227b53825b20e49cd6844ea002c",
+    "dependencies": {
+      "required": [
+        "arviz-stats",
+        "matplotlib",
+        "numba",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "arviz_stats>=0.6.0",
+      "matplotlib>=3.8",
+      "numba>=0.59",
+      "numpy>=2.0",
+      "scipy>=1.12",
+      "nbclient>=0.2 ; extra == \"full\"",
+      "ipywidgets ; extra == \"full\"",
+      "ipympl ; extra == \"full\"",
+      "jupyterlab ; extra == \"lab\"",
+      "notebook ; extra == \"notebook\""
+    ]
+  },
+  "preliz-0.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b91e7d013b998380e51b0699cb3d950ec718e0aa9c16815da99597b381abca5",
+    "dependencies": {
+      "required": [
+        "arviz-stats",
+        "matplotlib",
+        "numba",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "arviz_stats>=0.6.0",
+      "matplotlib>=3.8",
+      "numba>=0.59",
+      "numpy>=2.0",
+      "scipy>=1.12",
+      "nbclient>=0.2 ; extra == \"full\"",
+      "ipywidgets ; extra == \"full\"",
+      "ipympl ; extra == \"full\"",
+      "jupyterlab ; extra == \"lab\"",
+      "notebook ; extra == \"notebook\""
+    ]
+  },
+  "preliz-0.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b6ba6da04e2acaae82865276215037f6c0e5fabc8ad19f491dedb07244a9592",
+    "dependencies": {
+      "required": [
+        "arviz-stats",
+        "matplotlib",
+        "numba",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "arviz_stats>=0.6.0",
+      "matplotlib>=3.8",
+      "numba>=0.59",
+      "numpy>=2.0",
+      "scipy>=1.12",
+      "nbclient>=0.2 ; extra == \"full\"",
+      "ipywidgets ; extra == \"full\"",
+      "ipympl ; extra == \"full\"",
+      "jupyterlab ; extra == \"lab\"",
+      "notebook ; extra == \"notebook\""
+    ]
+  },
+  "preliz-0.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e9e09d52346ac7712652fe2b84c1ecbe56638c99b9d667bea9e371653c09410e",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "numba",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib>=3.7",
+      "numba>=0.59",
+      "numpy>=1.24",
+      "scipy>=1.10, <1.16",
+      "nbclient>=0.2 ; extra == \"full\"",
+      "ipywidgets ; extra == \"full\"",
+      "ipympl ; extra == \"full\"",
+      "jupyterlab ; extra == \"lab\"",
+      "notebook ; extra == \"notebook\""
+    ]
+  }
+}

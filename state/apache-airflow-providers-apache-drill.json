@@ -1,0 +1,96 @@
+{
+  "apache_airflow_providers_apache_drill-3.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:06.706840+00:00",
+    "conda_file": "apache-airflow-providers-apache-drill-3.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "apache-airflow-providers-common-compat",
+        "sqlalchemy-drill"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "sqlalchemy-drill>=1.1.0,!=1.1.6,!=1.1.7"
+    ]
+  },
+  "apache_airflow_providers_apache_drill-3.1.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:06.760082+00:00",
+    "conda_file": "apache-airflow-providers-apache-drill-3.1.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "apache-airflow-providers-common-compat",
+        "sqlalchemy-drill"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "sqlalchemy-drill>=1.1.0,!=1.1.6,!=1.1.7"
+    ]
+  },
+  "apache_airflow_providers_apache_drill-3.1.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:06.803166+00:00",
+    "conda_file": "apache-airflow-providers-apache-drill-3.1.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "sqlalchemy-drill"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "sqlalchemy-drill>=1.1.0,!=1.1.6,!=1.1.7"
+    ]
+  },
+  "apache_airflow_providers_apache_drill-3.1.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:06.864168+00:00",
+    "conda_file": "apache-airflow-providers-apache-drill-3.1.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "sqlalchemy-drill"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "sqlalchemy-drill>=1.1.0,!=1.1.6,!=1.1.7"
+    ]
+  },
+  "apache_airflow_providers_apache_drill-3.1.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:06.950909+00:00",
+    "conda_file": "apache-airflow-providers-apache-drill-3.1.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "sqlalchemy-drill"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "sqlalchemy-drill>=1.1.0,!=1.1.6,!=1.1.7"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for python-graphblas
+conda_forge = "python-graphblas"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_graphblas-2025.2.0-py3-none-any.whl" },
+  { filename = "python_graphblas-2024.2.0-py3-none-any.whl" },
+  { filename = "python_graphblas-2023.12.0-py3-none-any.whl" },
+  { filename = "python_graphblas-2023.10.0-py3-none-any.whl" },
+  { filename = "python_graphblas-2023.7.0-py3-none-any.whl" },
+]

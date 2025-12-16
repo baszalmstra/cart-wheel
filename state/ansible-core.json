@@ -1,0 +1,112 @@
+{
+  "ansible_core-2.20.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:48.671650+00:00",
+    "conda_file": "ansible-core-2.20.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "pyyaml",
+        "cryptography",
+        "packaging",
+        "resolvelib"
+      ]
+    },
+    "original_requirements": [
+      "jinja2>=3.1.0",
+      "PyYAML>=5.1",
+      "cryptography",
+      "packaging",
+      "resolvelib<2.0.0,>=0.8.0"
+    ]
+  },
+  "ansible_core-2.20.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:48.667657+00:00",
+    "conda_file": "ansible-core-2.20.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "pyyaml",
+        "cryptography",
+        "packaging",
+        "resolvelib"
+      ]
+    },
+    "original_requirements": [
+      "jinja2>=3.1.0",
+      "PyYAML>=5.1",
+      "cryptography",
+      "packaging",
+      "resolvelib<2.0.0,>=0.8.0"
+    ]
+  },
+  "ansible_core-2.19.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:48.728966+00:00",
+    "conda_file": "ansible-core-2.19.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "pyyaml",
+        "cryptography",
+        "packaging",
+        "resolvelib"
+      ]
+    },
+    "original_requirements": [
+      "jinja2>=3.1.0",
+      "PyYAML>=5.1",
+      "cryptography",
+      "packaging",
+      "resolvelib<2.0.0,>=0.5.3"
+    ]
+  },
+  "ansible_core-2.19.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:48.966692+00:00",
+    "conda_file": "ansible-core-2.19.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "pyyaml",
+        "cryptography",
+        "packaging",
+        "resolvelib"
+      ]
+    },
+    "original_requirements": [
+      "jinja2>=3.1.0",
+      "PyYAML>=5.1",
+      "cryptography",
+      "packaging",
+      "resolvelib<2.0.0,>=0.5.3"
+    ]
+  },
+  "ansible_core-2.19.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:52.855955+00:00",
+    "conda_file": "ansible-core-2.19.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "pyyaml",
+        "cryptography",
+        "packaging",
+        "resolvelib"
+      ]
+    },
+    "original_requirements": [
+      "jinja2>=3.1.0",
+      "PyYAML>=5.1",
+      "cryptography",
+      "packaging",
+      "resolvelib<2.0.0,>=0.5.3"
+    ]
+  }
+}

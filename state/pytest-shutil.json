@@ -1,0 +1,66 @@
+{
+  "pytest_shutil-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0793e347e07b9296d814ce33377ed348ce376ffac76c0e57b28bf84235499f51",
+    "dependencies": {
+      "required": [
+        "six",
+        "execnet",
+        "pytest",
+        "termcolor",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "execnet",
+      "pytest",
+      "termcolor",
+      "importlib-metadata ; python_version < \"3.8\""
+    ]
+  },
+  "pytest_shutil-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "474371b7193818a6e59a2279505958533ef16609f27de05c6dc8ff720a4352e6",
+    "dependencies": {
+      "required": [
+        "six",
+        "execnet",
+        "pytest",
+        "termcolor"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "execnet",
+      "pytest",
+      "termcolor",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "pytest_shutil-1.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3568a675cb092c9b15c789ebd3046b79cfaca476868939748729d14557a98ff",
+    "dependencies": {
+      "required": [
+        "six",
+        "execnet",
+        "contextlib2",
+        "pytest",
+        "path.py",
+        "mock",
+        "termcolor"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "execnet",
+      "contextlib2",
+      "pytest",
+      "path.py",
+      "mock",
+      "termcolor",
+      "pytest ; extra == 'tests'"
+    ]
+  }
+}

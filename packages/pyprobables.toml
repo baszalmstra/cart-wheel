@@ -1,0 +1,12 @@
+# Package configuration for pyprobables
+conda_forge = "pyprobables"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyprobables-0.6.2-py3-none-any.whl" },
+  { filename = "pyprobables-0.6.1-py3-none-any.whl" },
+  { filename = "pyprobables-0.6.0-py3-none-any.whl" },
+  { filename = "pyprobables-0.5.9-py3-none-any.whl" },
+  { filename = "pyprobables-0.5.8-py3-none-any.whl" },
+]

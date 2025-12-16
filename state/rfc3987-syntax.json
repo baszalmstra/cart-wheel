@@ -1,0 +1,28 @@
+{
+  "rfc3987_syntax-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c3d97604e4c5ce9f714898e05401a0445a641cfa276432b0a648c80856f6a3f",
+    "dependencies": {
+      "required": [
+        "lark"
+      ]
+    },
+    "original_requirements": [
+      "lark>=1.2.2",
+      "pytest>=8.3.5; extra == 'testing'"
+    ]
+  },
+  "rfc3987_syntax-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c2af77e856f6044c05cc05c27ade3b3a3c6125f7a3fdaa173c14ba3aedaef5d9",
+    "dependencies": {
+      "required": [
+        "lark"
+      ]
+    },
+    "original_requirements": [
+      "lark>=1.2.2",
+      "pytest>=8.3.5; extra == 'testing'"
+    ]
+  }
+}

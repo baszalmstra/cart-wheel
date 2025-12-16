@@ -1,0 +1,12 @@
+# Package configuration for mkdocs-autorefs
+conda_forge = "mkdocs-autorefs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_autorefs-1.4.3-py3-none-any.whl" },
+  { filename = "mkdocs_autorefs-1.4.2-py3-none-any.whl" },
+  { filename = "mkdocs_autorefs-1.4.1-py3-none-any.whl" },
+  { filename = "mkdocs_autorefs-1.4.0-py3-none-any.whl" },
+  { filename = "mkdocs_autorefs-1.3.1-py3-none-any.whl" },
+]

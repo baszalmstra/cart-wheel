@@ -1,0 +1,90 @@
+{
+  "apache_airflow_providers_jdbc-5.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b61d97fdd99d4e8f86c13300bea43fb84136fa65b51d7888d886b5d25347dbb",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "jaydebeapi"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "jaydebeapi>=1.1.1"
+    ]
+  },
+  "apache_airflow_providers_jdbc-5.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8219ab45d7df62d95de9b1a9f796afd026cd7ef2bf5092c268fa3bb728321c7a",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "jaydebeapi"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "jaydebeapi>=1.1.1"
+    ]
+  },
+  "apache_airflow_providers_jdbc-5.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d0c3f60ac6b83d726d402282e17952db7120757d1454d8cb71569aa2e68278d6",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "jaydebeapi"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "jaydebeapi>=1.1.1"
+    ]
+  },
+  "apache_airflow_providers_jdbc-5.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef6affa1d1e12b76b7339a82b0dacbfb5a8d162b4eac5ad1ed4de4190b490075",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "jaydebeapi"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "jaydebeapi>=1.1.1"
+    ]
+  },
+  "apache_airflow_providers_jdbc-5.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8778ae0938d85891a352073b1fb41eebf3058a849e29767f9ecb6e3e46b0c392",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "jaydebeapi"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "jaydebeapi>=1.1.1"
+    ]
+  }
+}

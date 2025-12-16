@@ -1,0 +1,12 @@
+# Package configuration for jsonpatch
+conda_forge = "jsonpatch"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsonpatch-1.33-py2.py3-none-any.whl" },
+  { filename = "jsonpatch-1.32-py2.py3-none-any.whl" },
+  { filename = "jsonpatch-1.31-py2.py3-none-any.whl" },
+  { filename = "jsonpatch-1.30-py2.py3-none-any.whl" },
+  { filename = "jsonpatch-1.28-py2.py3-none-any.whl" },
+]

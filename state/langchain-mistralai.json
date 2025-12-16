@@ -1,0 +1,102 @@
+{
+  "langchain_mistralai-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "47839fc69c879bad4ff60133f238c15574416c2dcd850121621a7e9de45800c1",
+    "dependencies": {
+      "required": [
+        "httpx-sse",
+        "httpx",
+        "langchain-core",
+        "pydantic",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "httpx-sse<1.0.0,>=0.3.1",
+      "httpx<1.0.0,>=0.25.2",
+      "langchain-core<2.0.0,>=1.1.0",
+      "pydantic<3.0.0,>=2.0.0",
+      "tokenizers<1.0.0,>=0.15.1"
+    ]
+  },
+  "langchain_mistralai-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3938bcc3a8fbfbb6b90b17401d0991f8d31da3796f41f3409220ddc4815f5c9",
+    "dependencies": {
+      "required": [
+        "httpx-sse",
+        "httpx",
+        "langchain-core",
+        "pydantic",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "httpx-sse<1.0.0,>=0.3.1",
+      "httpx<1.0.0,>=0.25.2",
+      "langchain-core<2.0.0,>=1.1.0",
+      "pydantic<3.0.0,>=2.0.0",
+      "tokenizers<1.0.0,>=0.15.1"
+    ]
+  },
+  "langchain_mistralai-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1777de4ceef3d3d5b2d08ab7cf6ce2d27188469eeae4d09756fd3b08ea3751a6",
+    "dependencies": {
+      "required": [
+        "httpx-sse",
+        "httpx",
+        "langchain-core",
+        "pydantic",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "httpx-sse<1.0.0,>=0.3.1",
+      "httpx<1.0.0,>=0.25.2",
+      "langchain-core<2.0.0,>=1.0.0",
+      "pydantic<3.0.0,>=2.0.0",
+      "tokenizers<1.0.0,>=0.15.1"
+    ]
+  },
+  "langchain_mistralai-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eb476db4b82b090df0aa316ee31a18b839e3a6496542989efa1c82ee91adeb98",
+    "dependencies": {
+      "required": [
+        "httpx-sse",
+        "httpx",
+        "langchain-core",
+        "pydantic",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "httpx-sse<1.0.0,>=0.3.1",
+      "httpx<1.0.0,>=0.25.2",
+      "langchain-core<2.0.0,>=1.0.0",
+      "pydantic<3.0.0,>=2.0.0",
+      "tokenizers<1.0.0,>=0.15.1"
+    ]
+  },
+  "langchain_mistralai-0.2.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "64a85947776017eec787b586f4bfa092d237c5e95a9ed719b5ff22a81747dedf",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "tokenizers",
+        "httpx",
+        "httpx-sse",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.68",
+      "tokenizers<1,>=0.15.1",
+      "httpx<1,>=0.25.2",
+      "httpx-sse<1,>=0.3.1",
+      "pydantic<3,>=2"
+    ]
+  }
+}

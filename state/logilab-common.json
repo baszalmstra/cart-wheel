@@ -1,0 +1,92 @@
+{
+  "logilab_common-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "febc07abf653832b3935e39083e4f2e642b73396f942b90f39e9a59d8096e1c6",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "mypy-extensions",
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "mypy-extensions",
+      "typing_extensions",
+      "importlib_metadata<7,>=6; python_version < \"3.10\""
+    ]
+  },
+  "logilab_common-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ecb0bf558a5cd5d57ec4cc14fac04b481e3cca91c47ece6954985133638557af",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "mypy-extensions",
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "mypy-extensions",
+      "typing-extensions",
+      "importlib-metadata <7,>=6 ; python_version < \"3.10\""
+    ]
+  },
+  "logilab_common-1.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fdc709eacfcf3a8ce3c0901d4e91721bbfc1d42f18c1afb9869c3e23353d152f",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "mypy-extensions",
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "mypy-extensions",
+      "typing-extensions",
+      "importlib-metadata <7,>=6 ; python_version < \"3.10\""
+    ]
+  },
+  "logilab_common-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "708d5d60e4d6433b77b25abb5f3ff9abbb782dfd86ded01ccbb9f02d18d20014",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "mypy-extensions",
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "mypy-extensions",
+      "typing-extensions",
+      "importlib-metadata (<7,>=6)"
+    ]
+  },
+  "logilab_common-1.9.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39543a5f3c06dd40236af214e6762f27553428483e8af30cdffd145764d41d00",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "mypy-extensions",
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "mypy-extensions",
+      "typing-extensions",
+      "importlib-metadata (<7,>=6)"
+    ]
+  }
+}

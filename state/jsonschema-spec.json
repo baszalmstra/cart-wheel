@@ -1,0 +1,96 @@
+{
+  "jsonschema_spec-0.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e6dcf7056734ec6854f7888da6c08ce6c421f28aeeddce96bb90de0fb6d711ef",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "pathable",
+        "referencing",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=5.1)",
+      "pathable (>=0.4.1,<0.5.0)",
+      "referencing (>=0.28.0,<0.31.0)",
+      "requests (>=2.31.0,<3.0.0)"
+    ]
+  },
+  "jsonschema_spec-0.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ee005ddeca73229560ac2b8f1849590929c4b2cd17a932b229b03566e517f2a6",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "pathable",
+        "referencing",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=5.1)",
+      "pathable (>=0.4.1,<0.5.0)",
+      "referencing (>=0.28.0,<0.30.0)",
+      "requests (>=2.31.0,<3.0.0)"
+    ]
+  },
+  "jsonschema_spec-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a4be06134787e4d747dfb68851b9f9bceafcaa90647a852e8e8993af11705e2",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "pathable",
+        "referencing",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=5.1)",
+      "pathable (>=0.4.1,<0.5.0)",
+      "referencing (>=0.28.0,<0.30.0)",
+      "requests (>=2.31.0,<3.0.0)"
+    ]
+  },
+  "jsonschema_spec-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ee522fc64126f452c6be5a0bfa45cbb4935423a3c4873fba450a9007e6e2274",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "jsonschema-specifications",
+        "pathable",
+        "referencing",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=5.1)",
+      "jsonschema-specifications (>=2023.5.1,<2024.0.0)",
+      "pathable (>=0.4.1,<0.5.0)",
+      "referencing (>=0.28.0,<0.30.0)",
+      "requests (>=2.31.0,<3.0.0)"
+    ]
+  },
+  "jsonschema_spec-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f5ab2928bddfa55129461c4b8763e8e277024766cdf86de3c22273b7ba96292d",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "jsonschema-specifications",
+        "pathable",
+        "referencing",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=5.1)",
+      "jsonschema-specifications (>=2023.3.4,<2024.0.0)",
+      "pathable (>=0.4.1,<0.5.0)",
+      "referencing (>=0.24.4,<0.25.0)",
+      "requests (>=2.31.0,<3.0.0)"
+    ]
+  }
+}

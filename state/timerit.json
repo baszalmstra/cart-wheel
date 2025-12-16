@@ -1,0 +1,171 @@
+{
+  "timerit-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "20e330a6da00295e1a1f88b2c89e18f6f55e785486da817de5762c3c06a0c2e2",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "xdoctest (>=1.1.0) ; extra == 'all'",
+      "xdoctest (==1.1.0) ; extra == 'all-strict'",
+      "pytest-cov (==2.8.1) ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'all-strict'",
+      "pytest (<=4.6.11,==4.6.0) ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'all-strict'",
+      "pytest (==4.6.0) ; (python_version < \"3.10.0\" and python_version >= \"3.7.0\") and extra == 'all-strict'",
+      "pytest-cov (==2.8.1) ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'all-strict'",
+      "pytest (<=4.6.11,==4.6.0) ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'all-strict'",
+      "pytest-cov (==2.9.0) ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'all-strict'",
+      "pytest (<=6.1.2,==4.6.0) ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'all-strict'",
+      "pytest (==4.6.0) ; (python_version < \"3.7.0\" and python_version >= \"3.6.0\") and extra == 'all-strict'",
+      "pytest (==6.2.5) ; (python_version >= \"3.10.0\") and extra == 'all-strict'",
+      "pytest-cov (==3.0.0) ; (python_version >= \"3.6.0\") and extra == 'all-strict'",
+      "pytest-cov (>=2.8.1) ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'all'",
+      "pytest (<=4.6.11,>=4.6.0) ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'all'",
+      "pytest (>=4.6.0) ; (python_version < \"3.10.0\" and python_version >= \"3.7.0\") and extra == 'all'",
+      "pytest-cov (>=2.8.1) ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'all'",
+      "pytest (<=4.6.11,>=4.6.0) ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'all'",
+      "pytest-cov (>=2.9.0) ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'all'",
+      "pytest (<=6.1.2,>=4.6.0) ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'all'",
+      "pytest (>=4.6.0) ; (python_version < \"3.7.0\" and python_version >= \"3.6.0\") and extra == 'all'",
+      "pytest (>=6.2.5) ; (python_version >= \"3.10.0\") and extra == 'all'",
+      "pytest-cov (>=3.0.0) ; (python_version >= \"3.6.0\") and extra == 'all'",
+      "xdoctest (>=1.1.0) ; extra == 'tests'",
+      "xdoctest (==1.1.0) ; extra == 'tests-strict'",
+      "pytest-cov (==2.8.1) ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'tests-strict'",
+      "pytest (<=4.6.11,==4.6.0) ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'tests-strict'",
+      "pytest (==4.6.0) ; (python_version < \"3.10.0\" and python_version >= \"3.7.0\") and extra == 'tests-strict'",
+      "pytest-cov (==2.8.1) ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'tests-strict'",
+      "pytest (<=4.6.11,==4.6.0) ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'tests-strict'",
+      "pytest-cov (==2.9.0) ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'tests-strict'",
+      "pytest (<=6.1.2,==4.6.0) ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'tests-strict'",
+      "pytest (==4.6.0) ; (python_version < \"3.7.0\" and python_version >= \"3.6.0\") and extra == 'tests-strict'",
+      "pytest (==6.2.5) ; (python_version >= \"3.10.0\") and extra == 'tests-strict'",
+      "pytest-cov (==3.0.0) ; (python_version >= \"3.6.0\") and extra == 'tests-strict'",
+      "pytest-cov (>=2.8.1) ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'tests'",
+      "pytest (<=4.6.11,>=4.6.0) ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'tests'",
+      "pytest (>=4.6.0) ; (python_version < \"3.10.0\" and python_version >= \"3.7.0\") and extra == 'tests'",
+      "pytest-cov (>=2.8.1) ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'tests'",
+      "pytest (<=4.6.11,>=4.6.0) ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'tests'",
+      "pytest-cov (>=2.9.0) ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'tests'",
+      "pytest (<=6.1.2,>=4.6.0) ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'tests'",
+      "pytest (>=4.6.0) ; (python_version < \"3.7.0\" and python_version >= \"3.6.0\") and extra == 'tests'",
+      "pytest (>=6.2.5) ; (python_version >= \"3.10.0\") and extra == 'tests'",
+      "pytest-cov (>=3.0.0) ; (python_version >= \"3.6.0\") and extra == 'tests'"
+    ]
+  },
+  "timerit-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c226b965764e10c4e2adee1a343ceab55ff486e3c0efb23d10624e6eed74140d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "codecov ; extra == 'all'",
+      "xdoctest ; extra == 'all'",
+      "codecov (==2.0.15) ; extra == 'all-strict'",
+      "xdoctest (==1.1.0) ; extra == 'all-strict'",
+      "pytest-cov (==2.8.1) ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'all-strict'",
+      "pytest (<=4.6.11,==4.6.0) ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'all-strict'",
+      "pytest (==4.6.0) ; (python_version < \"3.10.0\" and python_version >= \"3.7.0\") and extra == 'all-strict'",
+      "pytest-cov (==2.8.1) ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'all-strict'",
+      "pytest (<=4.6.11,==4.6.0) ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'all-strict'",
+      "pytest-cov (==2.9.0) ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'all-strict'",
+      "pytest (<=6.1.2,==4.6.0) ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'all-strict'",
+      "pytest (==4.6.0) ; (python_version < \"3.7.0\" and python_version >= \"3.6.0\") and extra == 'all-strict'",
+      "pytest (==6.2.5) ; (python_version >= \"3.10.0\") and extra == 'all-strict'",
+      "pytest-cov (==3.0.0) ; (python_version >= \"3.6.0\") and extra == 'all-strict'",
+      "pytest ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'all'",
+      "pytest-cov ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'all'",
+      "pytest ; (python_version < \"3.10.0\" and python_version >= \"3.7.0\") and extra == 'all'",
+      "pytest ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'all'",
+      "pytest-cov ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'all'",
+      "pytest ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'all'",
+      "pytest-cov ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'all'",
+      "pytest ; (python_version < \"3.7.0\" and python_version >= \"3.6.0\") and extra == 'all'",
+      "pytest ; (python_version >= \"3.10.0\") and extra == 'all'",
+      "pytest-cov ; (python_version >= \"3.6.0\") and extra == 'all'",
+      "codecov ; extra == 'tests'",
+      "xdoctest ; extra == 'tests'",
+      "codecov (==2.0.15) ; extra == 'tests-strict'",
+      "xdoctest (==1.1.0) ; extra == 'tests-strict'",
+      "pytest-cov (==2.8.1) ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'tests-strict'",
+      "pytest (<=4.6.11,==4.6.0) ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'tests-strict'",
+      "pytest (==4.6.0) ; (python_version < \"3.10.0\" and python_version >= \"3.7.0\") and extra == 'tests-strict'",
+      "pytest-cov (==2.8.1) ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'tests-strict'",
+      "pytest (<=4.6.11,==4.6.0) ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'tests-strict'",
+      "pytest-cov (==2.9.0) ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'tests-strict'",
+      "pytest (<=6.1.2,==4.6.0) ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'tests-strict'",
+      "pytest (==4.6.0) ; (python_version < \"3.7.0\" and python_version >= \"3.6.0\") and extra == 'tests-strict'",
+      "pytest (==6.2.5) ; (python_version >= \"3.10.0\") and extra == 'tests-strict'",
+      "pytest-cov (==3.0.0) ; (python_version >= \"3.6.0\") and extra == 'tests-strict'",
+      "pytest ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'tests'",
+      "pytest-cov ; (python_version < \"2.8.0\" and python_version >= \"2.7.0\") and extra == 'tests'",
+      "pytest ; (python_version < \"3.10.0\" and python_version >= \"3.7.0\") and extra == 'tests'",
+      "pytest ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'tests'",
+      "pytest-cov ; (python_version < \"3.5.0\" and python_version >= \"3.4.0\") and extra == 'tests'",
+      "pytest ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'tests'",
+      "pytest-cov ; (python_version < \"3.6.0\" and python_version >= \"3.5.0\") and extra == 'tests'",
+      "pytest ; (python_version < \"3.7.0\" and python_version >= \"3.6.0\") and extra == 'tests'",
+      "pytest ; (python_version >= \"3.10.0\") and extra == 'tests'",
+      "pytest-cov ; (python_version >= \"3.6.0\") and extra == 'tests'"
+    ]
+  },
+  "timerit-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "943efe6c112b60a927b1bf58a9562bb990ef81b5a4e64e5deb4d0c45b0b10126",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "codecov ; extra == 'all'",
+      "coverage ; extra == 'all'",
+      "pytest ; extra == 'all'",
+      "pytest-cov ; extra == 'all'",
+      "xdoctest ; extra == 'all'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "codecov ; extra == 'tests'",
+      "coverage ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "xdoctest ; extra == 'tests'"
+    ]
+  },
+  "timerit-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e869b929c8e7e569c2122eb7ad6bbc938704445f60557318df05b19343b65a6e",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "xdoctest ; extra == 'all'",
+      "pytest ; extra == 'all'",
+      "pytest-cov ; extra == 'all'",
+      "coverage ; extra == 'all'",
+      "codecov ; extra == 'all'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "xdoctest ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "coverage ; extra == 'tests'",
+      "codecov ; extra == 'tests'"
+    ]
+  },
+  "timerit-0.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "04d90100d124ec1c58c2091c299d84ce1e143b4f7e321f5f39bc3f12bd66a4f7",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "xdoctest; extra == 'all'",
+      "pytest; extra == 'all'",
+      "pytest-cov; extra == 'all'",
+      "coverage; extra == 'all'",
+      "xdoctest; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "pytest-cov; extra == 'tests'",
+      "coverage; extra == 'tests'"
+    ]
+  }
+}

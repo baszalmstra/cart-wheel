@@ -1,0 +1,98 @@
+{
+  "tox_uv-1.29.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1d251286edeeb4bc4af1e24c8acfdd9404700143c2199ccdbb4ea195f7de6cc",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tomli",
+        "tox",
+        "typing-extensions",
+        "uv"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=25",
+      "tomli>=2.3; python_version < '3.11'",
+      "tox<5,>=4.31",
+      "typing-extensions>=4.15; python_version < '3.10'",
+      "uv<1,>=0.9.1"
+    ]
+  },
+  "tox_uv-1.28.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "29f64076c57bda643b0c25dcb925011a35bfa57b0a94d3aaf550607d31e9f30a",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tomli",
+        "tox",
+        "typing-extensions",
+        "uv"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=25",
+      "tomli>=2.2.1; python_version < '3.11'",
+      "tox<5,>=4.30.2",
+      "typing-extensions>=4.15; python_version < '3.10'",
+      "uv<1,>=0.8.16"
+    ]
+  },
+  "tox_uv-1.28.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3fbe13fa6eb6961df5512e63fc4a5cc0c8d264872674ee09164649f441839053",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tomli",
+        "tox",
+        "typing-extensions",
+        "uv"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=24.2",
+      "tomli>=2.2.1; python_version < '3.11'",
+      "tox<5,>=4.26",
+      "typing-extensions>=4.12.2; python_version < '3.10'",
+      "uv<1,>=0.5.31"
+    ]
+  },
+  "tox_uv-1.27.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "479ca855db5ad555818498181a6fbaf6979624a1eae84ef63031279cfd00cbf5",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tox",
+        "typing-extensions",
+        "uv"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=24.2",
+      "tox<5,>=4.26",
+      "typing-extensions>=4.12.2; python_version < '3.10'",
+      "uv<1,>=0.5.31"
+    ]
+  },
+  "tox_uv-1.26.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f95c8635b6e046534faf4de88f46c46ac0d644f2dbe0104fc6adac637e0d44b6",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "tox",
+        "typing-extensions",
+        "uv"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=24.2",
+      "tox<5,>=4.26",
+      "typing-extensions>=4.12.2; python_version < '3.10'",
+      "uv<1,>=0.5.31"
+    ]
+  }
+}

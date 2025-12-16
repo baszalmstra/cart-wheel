@@ -1,0 +1,141 @@
+{
+  "pythreejs-2.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8418807163ad91f4df53b58c4e991b26214852a1236f28f1afeaadf99d095818",
+    "dependencies": {
+      "required": [
+        "ipywidgets",
+        "ipydatawidgets",
+        "numpy",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets (>=7.2.1)",
+      "ipydatawidgets (>=1.1.1)",
+      "numpy",
+      "traitlets",
+      "sphinx (>=1.5) ; extra == 'docs'",
+      "nbsphinx (>=0.2.13) ; extra == 'docs'",
+      "nbsphinx-link ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "scipy ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "scikit-image ; extra == 'examples'",
+      "ipywebrtc ; extra == 'examples'",
+      "nbval ; extra == 'test'",
+      "pytest-check-links ; extra == 'test'",
+      "numpy (>=1.14) ; extra == 'test'"
+    ]
+  },
+  "pythreejs-2.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8a758b4519e56984ae42c7fae512020129d504569a096656c09f040889ed598",
+    "dependencies": {
+      "required": [
+        "ipywidgets",
+        "ipydatawidgets",
+        "numpy",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets (>=7.2.1)",
+      "ipydatawidgets (>=1.1.1)",
+      "numpy",
+      "traitlets",
+      "sphinx (>=1.5) ; extra == 'docs'",
+      "nbsphinx (>=0.2.13) ; extra == 'docs'",
+      "nbsphinx-link ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "scipy ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "scikit-image ; extra == 'examples'",
+      "ipywebrtc ; extra == 'examples'",
+      "nbval ; extra == 'test'",
+      "pytest-check-links ; extra == 'test'",
+      "numpy (>=1.14) ; extra == 'test'"
+    ]
+  },
+  "pythreejs-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9d1e661a8dd7b5eef8a14617716180ac2bbe70b634c249394acc2564e52dcf33",
+    "dependencies": {
+      "required": [
+        "ipywidgets",
+        "ipydatawidgets",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets (>=7.2.1)",
+      "ipydatawidgets (>=1.1.1)",
+      "numpy",
+      "sphinx (>=1.5) ; extra == 'docs'",
+      "nbsphinx (>=0.2.13) ; extra == 'docs'",
+      "nbsphinx-link ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "scipy ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "scikit-image ; extra == 'examples'",
+      "ipywebrtc ; extra == 'examples'",
+      "nbval ; extra == 'test'",
+      "pytest-check-links ; extra == 'test'",
+      "numpy (>=1.14) ; extra == 'test'"
+    ]
+  },
+  "pythreejs-2.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d638f600d9a7322198caaad0c4d77d89b85e4272e0d340a6c0a3f3ceaf385ed4",
+    "dependencies": {
+      "required": [
+        "ipywidgets",
+        "ipydatawidgets",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets (>=7.2.1)",
+      "ipydatawidgets (>=1.1.1)",
+      "numpy",
+      "sphinx (>=1.5) ; extra == 'docs'",
+      "nbsphinx (>=0.2.13) ; extra == 'docs'",
+      "nbsphinx-link ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "scipy ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "scikit-image ; extra == 'examples'",
+      "ipywebrtc ; extra == 'examples'",
+      "nbval ; extra == 'test'",
+      "pytest-check-links ; extra == 'test'",
+      "numpy (>=1.14) ; extra == 'test'"
+    ]
+  },
+  "pythreejs-2.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "73dd43946c5c042a2fea8cfcdc6ddd6723c0d281c4fa9c9efd1ffde554ba6371",
+    "dependencies": {
+      "required": [
+        "ipywidgets",
+        "ipydatawidgets",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets (>=7.2.1)",
+      "ipydatawidgets (>=1.1.1)",
+      "numpy",
+      "sphinx (>=1.5) ; extra == 'docs'",
+      "nbsphinx (>=0.2.13) ; extra == 'docs'",
+      "nbsphinx-link ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "scipy ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "scikit-image ; extra == 'examples'",
+      "ipywebrtc ; extra == 'examples'",
+      "nbval ; extra == 'test'",
+      "pytest-check-links ; extra == 'test'",
+      "numpy (>=1.14) ; extra == 'test'"
+    ]
+  }
+}

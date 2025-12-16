@@ -1,0 +1,212 @@
+{
+  "aws_cdk.aws_eks-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50e0a9e916b4747507e3dd223e65a52c9ee378faa6a744cabf7fd6266c9874a0",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-autoscaling",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.aws-ssm",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "aws-cdk.lambda-layer-awscli",
+        "aws-cdk.lambda-layer-kubectl",
+        "aws-cdk.lambda-layer-node-proxy-agent",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-autoscaling (==1.204.0)",
+      "aws-cdk.aws-ec2 (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-kms (==1.204.0)",
+      "aws-cdk.aws-lambda (==1.204.0)",
+      "aws-cdk.aws-s3-assets (==1.204.0)",
+      "aws-cdk.aws-ssm (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "aws-cdk.custom-resources (==1.204.0)",
+      "aws-cdk.lambda-layer-awscli (==1.204.0)",
+      "aws-cdk.lambda-layer-kubectl (==1.204.0)",
+      "aws-cdk.lambda-layer-node-proxy-agent (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_eks-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19d56a445fc1232e950c73d2301d8363fc448f8003ca0d8741b1aafbc3111778",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-autoscaling",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.aws-ssm",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "aws-cdk.lambda-layer-awscli",
+        "aws-cdk.lambda-layer-kubectl",
+        "aws-cdk.lambda-layer-node-proxy-agent",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-autoscaling (==1.203.0)",
+      "aws-cdk.aws-ec2 (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-kms (==1.203.0)",
+      "aws-cdk.aws-lambda (==1.203.0)",
+      "aws-cdk.aws-s3-assets (==1.203.0)",
+      "aws-cdk.aws-ssm (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "aws-cdk.custom-resources (==1.203.0)",
+      "aws-cdk.lambda-layer-awscli (==1.203.0)",
+      "aws-cdk.lambda-layer-kubectl (==1.203.0)",
+      "aws-cdk.lambda-layer-node-proxy-agent (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_eks-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "26bfd60e506489261068885c82c84874c7e550c6ed6c536bd2ab086b608ef386",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-autoscaling",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.aws-ssm",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "aws-cdk.lambda-layer-awscli",
+        "aws-cdk.lambda-layer-kubectl",
+        "aws-cdk.lambda-layer-node-proxy-agent",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-autoscaling (==1.202.0)",
+      "aws-cdk.aws-ec2 (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-kms (==1.202.0)",
+      "aws-cdk.aws-lambda (==1.202.0)",
+      "aws-cdk.aws-s3-assets (==1.202.0)",
+      "aws-cdk.aws-ssm (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "aws-cdk.custom-resources (==1.202.0)",
+      "aws-cdk.lambda-layer-awscli (==1.202.0)",
+      "aws-cdk.lambda-layer-kubectl (==1.202.0)",
+      "aws-cdk.lambda-layer-node-proxy-agent (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_eks-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ffd4713ee2b518e5fc316dbed51756d29f3458df3ef018bd489340cfa4f71d07",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-autoscaling",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.aws-ssm",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "aws-cdk.lambda-layer-awscli",
+        "aws-cdk.lambda-layer-kubectl",
+        "aws-cdk.lambda-layer-node-proxy-agent",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-autoscaling (==1.201.0)",
+      "aws-cdk.aws-ec2 (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-kms (==1.201.0)",
+      "aws-cdk.aws-lambda (==1.201.0)",
+      "aws-cdk.aws-s3-assets (==1.201.0)",
+      "aws-cdk.aws-ssm (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "aws-cdk.custom-resources (==1.201.0)",
+      "aws-cdk.lambda-layer-awscli (==1.201.0)",
+      "aws-cdk.lambda-layer-kubectl (==1.201.0)",
+      "aws-cdk.lambda-layer-node-proxy-agent (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_eks-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a2e28a39075da336d2710bfa6fab2890175d6d3f098ab8ff72960dd122b4723",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-autoscaling",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.aws-ssm",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "aws-cdk.lambda-layer-awscli",
+        "aws-cdk.lambda-layer-kubectl",
+        "aws-cdk.lambda-layer-node-proxy-agent",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-autoscaling (==1.200.0)",
+      "aws-cdk.aws-ec2 (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-kms (==1.200.0)",
+      "aws-cdk.aws-lambda (==1.200.0)",
+      "aws-cdk.aws-s3-assets (==1.200.0)",
+      "aws-cdk.aws-ssm (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "aws-cdk.custom-resources (==1.200.0)",
+      "aws-cdk.lambda-layer-awscli (==1.200.0)",
+      "aws-cdk.lambda-layer-kubectl (==1.200.0)",
+      "aws-cdk.lambda-layer-node-proxy-agent (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

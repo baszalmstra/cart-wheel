@@ -1,0 +1,11 @@
+# Package configuration for munch
+conda_forge = "munch"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "munch-4.0.0-py2.py3-none-any.whl" },
+  { filename = "munch-3.0.0-py2.py3-none-any.whl" },
+  { filename = "munch-2.5.0-py2.py3-none-any.whl" },
+  { filename = "munch-2.4.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for python-pptx
+conda_forge = "python-pptx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_pptx-1.0.2-py3-none-any.whl" },
+  { filename = "python_pptx-1.0.1-py3-none-any.whl" },
+  { filename = "python_pptx-1.0.0-py3-none-any.whl" },
+  { filename = "python_pptx-0.6.23-py3-none-any.whl" },
+  { filename = "python_pptx-0.6.22-py3-none-any.whl" },
+]

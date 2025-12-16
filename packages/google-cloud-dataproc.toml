@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-dataproc
+conda_forge = "google-cloud-dataproc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_dataproc-5.23.0-py3-none-any.whl" },
+  { filename = "google_cloud_dataproc-5.22.0-py3-none-any.whl" },
+  { filename = "google_cloud_dataproc-5.21.0-py3-none-any.whl" },
+  { filename = "google_cloud_dataproc-5.20.0-py3-none-any.whl" },
+  { filename = "google_cloud_dataproc-5.19.0-py3-none-any.whl" },
+]

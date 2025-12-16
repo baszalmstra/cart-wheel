@@ -1,0 +1,10 @@
+# Package configuration for flake8-absolute-import
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_absolute_import-1.0.0.3-py3-none-any.whl" },
+  { filename = "flake8_absolute_import-1.0.0.2-py3-none-any.whl" },
+  { filename = "flake8_absolute_import-1.0.0.1-py3-none-any.whl" },
+  { filename = "flake8_absolute_import-1.0-py3-none-any.whl" },
+]

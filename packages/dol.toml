@@ -1,0 +1,11 @@
+# Package configuration for dol
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dol-0.3.37-py3-none-any.whl" },
+  { filename = "dol-0.3.36-py3-none-any.whl" },
+  { filename = "dol-0.3.35-py3-none-any.whl" },
+  { filename = "dol-0.3.34-py3-none-any.whl" },
+  { filename = "dol-0.3.33-py3-none-any.whl" },
+]

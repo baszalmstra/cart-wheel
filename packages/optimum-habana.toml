@@ -1,0 +1,12 @@
+# Package configuration for optimum-habana
+conda_forge = "optimum-habana"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "optimum_habana-1.19.1-py3-none-any.whl" },
+  { filename = "optimum_habana-1.19.0-py3-none-any.whl" },
+  { filename = "optimum_habana-1.18.1-py3-none-any.whl" },
+  { filename = "optimum_habana-1.18.0-py3-none-any.whl" },
+  { filename = "optimum_habana-1.17.0-py3-none-any.whl" },
+]

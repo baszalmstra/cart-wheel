@@ -1,0 +1,7 @@
+# Package configuration for pact-python-ffi
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pact_python_ffi-0.0.0-py3-none-any.whl" },
+]

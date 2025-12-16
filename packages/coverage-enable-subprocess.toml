@@ -1,0 +1,8 @@
+# Package configuration for coverage-enable-subprocess
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "coverage_enable_subprocess-1.0-py2.py3-none-any.whl" },
+  { filename = "coverage_enable_subprocess-0-py2.py3-none-any.whl" },
+]

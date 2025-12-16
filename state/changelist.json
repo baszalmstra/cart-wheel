@@ -1,0 +1,99 @@
+{
+  "changelist-0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0aa403a877513663d1643fe71f8822daba5bd60f583ec19029d1653533858b78",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-cache",
+        "tqdm",
+        "pygithub"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "requests-cache",
+      "tqdm",
+      "PyGithub",
+      "pre-commit ==3.6.0 ; extra == 'lint'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "changelist-0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3eb70a914ae0ea5c6c2853926bf89721f54a2d640b3c45737976428a0a0edd9e",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-cache",
+        "tqdm",
+        "pygithub"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "requests-cache",
+      "tqdm",
+      "PyGithub",
+      "pre-commit ==3.4.0 ; extra == 'lint'"
+    ]
+  },
+  "changelist-0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "83e0fc551adffe83c87e9af0dcf5a44f369e5fad80d8fda5bccee7fd45271316",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-cache",
+        "tqdm",
+        "pygithub"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "requests-cache",
+      "tqdm",
+      "PyGithub",
+      "pre-commit ==3.4.0 ; extra == 'lint'"
+    ]
+  },
+  "changelist-0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "525dd93f0256ec7841907718f2d8ae1e5277127a992f7c82f13662550eee58d2",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-cache",
+        "tqdm",
+        "pygithub"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "requests-cache",
+      "tqdm",
+      "PyGithub",
+      "pre-commit ==3.4.0 ; extra == 'lint'"
+    ]
+  },
+  "changelist-0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "419dafee5d22638537fe0d3006763998f95304401de3442953e3766f0ed709b4",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-cache",
+        "tqdm",
+        "pygithub"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "requests-cache",
+      "tqdm",
+      "PyGithub",
+      "pre-commit (==3.3.3) ; extra == 'lint'"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+# Package configuration for mamba-lens
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mamba_lens-0.0.2-py3-none-any.whl" },
+]

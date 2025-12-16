@@ -1,0 +1,7 @@
+# Package configuration for py-sound-connect
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "py_sound_connect-0.1.0-py3-none-any.whl" },
+]

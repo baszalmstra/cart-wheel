@@ -1,0 +1,12 @@
+# Package configuration for gcloud-aio-bigquery
+conda_forge = "gcloud-aio-bigquery"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gcloud_aio_bigquery-7.1.0-py3-none-any.whl" },
+  { filename = "gcloud_aio_bigquery-7.0.0-py3-none-any.whl" },
+  { filename = "gcloud_aio_bigquery-6.3.0-py3-none-any.whl" },
+  { filename = "gcloud_aio_bigquery-6.2.0-py3-none-any.whl" },
+  { filename = "gcloud_aio_bigquery-6.1.2-py3-none-any.whl" },
+]

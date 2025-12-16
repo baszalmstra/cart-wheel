@@ -1,0 +1,104 @@
+{
+  "jaxtyping-0.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a1c2f0f4351a8deda84b0e3b5c5a50894a1cdae2b82d841279fce4393aff4a7c",
+    "dependencies": {
+      "required": [
+        "wadler-lindig"
+      ]
+    },
+    "original_requirements": [
+      "wadler-lindig>=0.1.3",
+      "pre-commit>=4.3.0; extra == 'dev'",
+      "griffe==1.7.3; extra == 'docs'",
+      "hippogriffe==0.2.1; extra == 'docs'",
+      "mkdocs-include-exclude-files==0.1.0; extra == 'docs'",
+      "mkdocs-ipynb==0.1.1; extra == 'docs'",
+      "mkdocs-material==9.6.7; extra == 'docs'",
+      "mkdocs==1.6.1; extra == 'docs'",
+      "mkdocstrings-python==1.16.8; extra == 'docs'",
+      "mkdocstrings==0.28.3; extra == 'docs'",
+      "pymdown-extensions==10.14.3; extra == 'docs'",
+      "beartype>=0.21.0; extra == 'tests'",
+      "cloudpickle>=3.1.1; extra == 'tests'",
+      "equinox>=0.13.1; extra == 'tests'",
+      "ipython>=8.37.0; extra == 'tests'",
+      "jax>=0.5.3; extra == 'tests'",
+      "mlx[cpu]>=0.29.1; extra == 'tests'",
+      "numpy<2; extra == 'tests'",
+      "pytest-asyncio>=1.2.0; extra == 'tests'",
+      "pytest>=8.4.2; extra == 'tests'",
+      "tensorflow>=2.18.1; extra == 'tests'",
+      "typeguard==2.13.3; extra == 'tests'"
+    ]
+  },
+  "jaxtyping-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6a020fd276226ddb5ac4f5725323843dd65e3c7e85c64fd62431e5f738c74e04",
+    "dependencies": {
+      "required": [
+        "wadler-lindig"
+      ]
+    },
+    "original_requirements": [
+      "wadler-lindig>=0.1.3",
+      "hippogriffe==0.2.0; extra == 'docs'",
+      "mkdocs-include-exclude-files==0.1.0; extra == 'docs'",
+      "mkdocs-ipynb==0.1.0; extra == 'docs'",
+      "mkdocs-material==9.6.7; extra == 'docs'",
+      "mkdocs==1.6.1; extra == 'docs'",
+      "mkdocstrings[python]==0.28.3; extra == 'docs'",
+      "pymdown-extensions==10.14.3; extra == 'docs'"
+    ]
+  },
+  "jaxtyping-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44fbd091338f7f8d592e4e8c71123658feb35a23d07d095af67dbfa96010872d",
+    "dependencies": {
+      "required": [
+        "wadler-lindig"
+      ]
+    },
+    "original_requirements": [
+      "wadler-lindig>=0.1.3",
+      "hippogriffe==0.2.0; extra == 'docs'",
+      "mkdocs-include-exclude-files==0.1.0; extra == 'docs'",
+      "mkdocs-ipynb==0.1.0; extra == 'docs'",
+      "mkdocs-material==9.6.7; extra == 'docs'",
+      "mkdocs==1.6.1; extra == 'docs'",
+      "mkdocstrings[python]==0.28.3; extra == 'docs'",
+      "pymdown-extensions==10.14.3; extra == 'docs'"
+    ]
+  },
+  "jaxtyping-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b20d4e7c94d6a2850d78d7849cf33e38a87b993f2f78977d8093efb42cdb892",
+    "dependencies": {
+      "required": [
+        "wadler-lindig"
+      ]
+    },
+    "original_requirements": [
+      "wadler-lindig>=0.1.3",
+      "hippogriffe==0.1.0; extra == 'docs'",
+      "mkdocs-include-exclude-files==0.1.0; extra == 'docs'",
+      "mkdocs-ipynb==0.1.0; extra == 'docs'",
+      "mkdocs-material==9.6.7; extra == 'docs'",
+      "mkdocs==1.6.1; extra == 'docs'",
+      "mkdocstrings[python]==0.28.3; extra == 'docs'",
+      "pymdown-extensions==10.14.3; extra == 'docs'"
+    ]
+  },
+  "jaxtyping-0.2.38-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc209ab8ec29917b6f0c7dec4a8ea1fc276f7d94f25b71c01d1243ec2b21ae12",
+    "dependencies": {
+      "required": [
+        "wadler-lindig"
+      ]
+    },
+    "original_requirements": [
+      "wadler-lindig>=0.1.3"
+    ]
+  }
+}

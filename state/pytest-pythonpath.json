@@ -1,0 +1,26 @@
+{
+  "pytest_pythonpath-0.7.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e73e11dab2f0b83e73229e261242b251f0a369d7f527dbfec068822fd26a6ce5",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (<7,>=2.5.2)"
+    ]
+  },
+  "pytest_pythonpath-0.7.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3d46b0a8276e856f7dc4f70ca97b88be6fbcf52d57ce36e35057d502388265e",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.5.2)"
+    ]
+  }
+}

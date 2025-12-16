@@ -1,0 +1,89 @@
+{
+  "neptune_aws-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c11cc802fb45571ca5945a480d6e30f87a1e78354898987aa3197f5348ee3b9b",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "boto3",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\""
+    ]
+  },
+  "neptune_aws-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b166679762ed58614475e736662fc0b7c857309fd45845bfe747a2e95156131",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "boto3",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\""
+    ]
+  },
+  "neptune_aws-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c6f962240d7f8d45e94c9ca8dc5411d11a8e41a36ab0e769e3d70839c41def08",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "boto3",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\""
+    ]
+  },
+  "neptune_aws-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52a115ce81bd8ecefa0838f377208351f3b2281931fa04d866dd3491f4102555",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\""
+    ]
+  },
+  "neptune_aws-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f53c7844ea82535c38b57eb926c1e18f405f4d8eed7e42b10ef3b2ed3cc0241",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "neptune-client"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune-client (>=0.10.0)",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\""
+    ]
+  }
+}

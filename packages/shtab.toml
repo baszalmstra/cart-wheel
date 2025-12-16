@@ -1,0 +1,12 @@
+# Package configuration for shtab
+conda_forge = "shtab"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "shtab-1.8.0-py3-none-any.whl" },
+  { filename = "shtab-1.7.2-py3-none-any.whl" },
+  { filename = "shtab-1.7.1-py3-none-any.whl" },
+  { filename = "shtab-1.7.0-py3-none-any.whl" },
+  { filename = "shtab-1.6.5-py3-none-any.whl" },
+]

@@ -1,0 +1,9 @@
+# Package configuration for nr-date
+conda_forge = "nr.date"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nr_date-2.1.0-py3-none-any.whl" },
+  { filename = "nr_date-2.0.0-py3-none-any.whl" },
+]

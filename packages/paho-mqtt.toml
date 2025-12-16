@@ -1,0 +1,9 @@
+# Package configuration for paho-mqtt
+conda_forge = "paho-mqtt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "paho_mqtt-2.1.0-py3-none-any.whl" },
+  { filename = "paho_mqtt-2.0.0-py3-none-any.whl" },
+]

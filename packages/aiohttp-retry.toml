@@ -1,0 +1,12 @@
+# Package configuration for aiohttp-retry
+conda_forge = "aiohttp-retry"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiohttp_retry-2.9.1-py3-none-any.whl" },
+  { filename = "aiohttp_retry-2.9.0-py3-none-any.whl" },
+  { filename = "aiohttp_retry-2.8.3-py3-none-any.whl" },
+  { filename = "aiohttp_retry-2.6.1-py3-none-any.whl" },
+  { filename = "aiohttp_retry-2.5.5-py3-none-any.whl" },
+]

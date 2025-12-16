@@ -1,0 +1,12 @@
+# Package configuration for ansible-compat
+conda_forge = "ansible-compat"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ansible_compat-25.12.0-py3-none-any.whl" },
+  { filename = "ansible_compat-25.11.0-py3-none-any.whl" },
+  { filename = "ansible_compat-25.8.2-py3-none-any.whl" },
+  { filename = "ansible_compat-25.8.1-py3-none-any.whl" },
+  { filename = "ansible_compat-25.8.0-py3-none-any.whl" },
+]

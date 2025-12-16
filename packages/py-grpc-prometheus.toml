@@ -1,0 +1,12 @@
+# Package configuration for py-grpc-prometheus
+conda_forge = "py-grpc-prometheus"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "py_grpc_prometheus-0.8.0-py3-none-any.whl" },
+  { filename = "py_grpc_prometheus-0.7.0-py3-none-any.whl" },
+  { filename = "py_grpc_prometheus-0.6.0-py3-none-any.whl" },
+  { filename = "py_grpc_prometheus-0.5.0-py3-none-any.whl" },
+  { filename = "py_grpc_prometheus-0.4.0-py3-none-any.whl" },
+]

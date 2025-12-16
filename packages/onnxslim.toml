@@ -1,0 +1,12 @@
+# Package configuration for onnxslim
+conda_forge = "onnxslim"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "onnxslim-0.1.79-py3-none-any.whl" },
+  { filename = "onnxslim-0.1.78-py3-none-any.whl" },
+  { filename = "onnxslim-0.1.77-py3-none-any.whl" },
+  { filename = "onnxslim-0.1.76-py3-none-any.whl" },
+  { filename = "onnxslim-0.1.75-py3-none-any.whl" },
+]

@@ -1,0 +1,148 @@
+{
+  "voyageai-0.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e282f9cef87eb949e2dd30ffe911689f1068c50b8c3c6e90e97793f2a52c83dd",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "aiolimiter",
+        "ffmpeg-python",
+        "langchain-text-splitters",
+        "numpy",
+        "numpy",
+        "pillow",
+        "pydantic",
+        "requests",
+        "tenacity",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "aiolimiter",
+      "ffmpeg-python",
+      "langchain-text-splitters (>=0.3.8)",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\" and python_version < \"3.14\"",
+      "numpy ; python_version >= \"3.9\" and python_version < \"3.13\"",
+      "pillow",
+      "pydantic (>=1.10.8)",
+      "requests",
+      "tenacity",
+      "tokenizers (>=0.14.0)"
+    ]
+  },
+  "voyageai-0.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1f70fcf3532d7e0bbc4332b1831a6fc1f714f268eeddc8b2859b81bf06a82411",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "aiolimiter",
+        "langchain-text-splitters",
+        "numpy",
+        "numpy",
+        "pillow",
+        "pydantic",
+        "requests",
+        "tenacity",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "aiolimiter",
+      "langchain-text-splitters (>=0.3.8)",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\" and python_version < \"3.14\"",
+      "numpy ; python_version >= \"3.9\" and python_version < \"3.13\"",
+      "pillow",
+      "pydantic (>=1.10.8)",
+      "requests",
+      "tenacity",
+      "tokenizers (>=0.14.0)"
+    ]
+  },
+  "voyageai-0.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "271c085bf261c86bc89e9279bf7a04203ab31e92c0c28133b03f6716d712b5fd",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "aiolimiter",
+        "langchain-text-splitters",
+        "numpy",
+        "numpy",
+        "pillow",
+        "pydantic",
+        "requests",
+        "tenacity",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "aiolimiter",
+      "langchain-text-splitters (>=0.3.8)",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\" and python_version < \"3.14\"",
+      "numpy ; python_version >= \"3.9\" and python_version < \"3.13\"",
+      "pillow",
+      "pydantic (>=1.10.8)",
+      "requests",
+      "tenacity",
+      "tokenizers (>=0.14.0)"
+    ]
+  },
+  "voyageai-0.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb607e16c10b6cfc9925b5ced4d4ea55b077b7b0ab2df111f8c7d533de63a18a",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "aiolimiter",
+        "numpy",
+        "numpy",
+        "pillow",
+        "pydantic",
+        "requests",
+        "tenacity",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "aiolimiter",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\" and python_version < \"3.14\"",
+      "numpy ; python_version >= \"3.9\" and python_version < \"3.13\"",
+      "pillow",
+      "pydantic (>=1.10.8)",
+      "requests",
+      "tenacity",
+      "tokenizers (>=0.14.0)"
+    ]
+  },
+  "voyageai-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1398d6c6bfb1dd3b484f400713e538f00ce8a335250442b0902c21116d9705a8",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "aiolimiter",
+        "numpy",
+        "pillow",
+        "pydantic",
+        "requests",
+        "tenacity",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "aiolimiter",
+      "numpy",
+      "pillow",
+      "pydantic (>=1.10.8)",
+      "requests",
+      "tenacity",
+      "tokenizers (>=0.14.0)"
+    ]
+  }
+}

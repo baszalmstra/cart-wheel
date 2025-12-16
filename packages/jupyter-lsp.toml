@@ -1,0 +1,12 @@
+# Package configuration for jupyter-lsp
+conda_forge = "jupyter-lsp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyter_lsp-2.3.0-py3-none-any.whl" },
+  { filename = "jupyter_lsp-2.2.6-py3-none-any.whl" },
+  { filename = "jupyter_lsp-2.2.5-py3-none-any.whl" },
+  { filename = "jupyter_lsp-2.2.4-py3-none-any.whl" },
+  { filename = "jupyter_lsp-2.2.3-py3-none-any.whl" },
+]

@@ -1,0 +1,74 @@
+{
+  "trustme-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d768e5fc57c86dfc5ec9365102e9b092541cd6954b35d8c1eea01a84f35a762a",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "idna"
+      ]
+    },
+    "original_requirements": [
+      "cryptography>=3.1",
+      "idna>=2.0"
+    ]
+  },
+  "trustme-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "32bf1fe9f63804e4243ae01dcab7765163abae4376aed5726a1560d21dfb3abc",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "idna"
+      ]
+    },
+    "original_requirements": [
+      "cryptography>=3.1",
+      "idna>=2.0"
+    ]
+  },
+  "trustme-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce105b68fb9f6d7ac7a9ee6e95bb2347a22ce4d3be78ef9a6494d5ef890e1e16",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "idna"
+      ]
+    },
+    "original_requirements": [
+      "cryptography (>=3.1)",
+      "idna (>=2.0)"
+    ]
+  },
+  "trustme-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a9f82ad494d661cd10c9eed38e0f708154eb59a2e415da6b02af3e5dac53134",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "idna"
+      ]
+    },
+    "original_requirements": [
+      "cryptography (>=3.1)",
+      "idna (>=2.0)"
+    ]
+  },
+  "trustme-0.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6e53039cc43e70548ebd9a42ec1af5cba803a16d14321cd96352d2b4e010e04",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "idna",
+        "ipaddress"
+      ]
+    },
+    "original_requirements": [
+      "cryptography",
+      "idna",
+      "ipaddress ; python_version < \"3.3\""
+    ]
+  }
+}

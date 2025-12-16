@@ -1,0 +1,118 @@
+{
+  "rio_vrt-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4273baa756341364e2cff2815e8730761f2989728a6871e14de07d6fb9107dc",
+    "dependencies": {
+      "required": [
+        "rasterio"
+      ]
+    },
+    "original_requirements": [
+      "rasterio",
+      "pre-commit; extra == \"dev\"",
+      "commitizen; extra == \"dev\"",
+      "nox; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "sphinx; extra == \"doc\"",
+      "pydata-sphinx-theme; extra == \"doc\"",
+      "sphinx-copybutton; extra == \"doc\"",
+      "sphinx-design; extra == \"doc\"",
+      "sphinx-icon; extra == \"doc\"",
+      "sphinx-btn; extra == \"doc\"",
+      "pytest; extra == \"test\"",
+      "pytest-sugar; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-deadfixtures; extra == \"test\"",
+      "pytest-regressions; extra == \"test\"",
+      "xmlschema; extra == \"test\"",
+      "natsort; extra == \"test\"",
+      "beautifulsoup4; extra == \"test\"",
+      "lxml; extra == \"test\""
+    ]
+  },
+  "rio_vrt-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5701ffba58bd9e701ca6b43d52484f98e9f3e555aa2eae0d647d0930ab32c277",
+    "dependencies": {
+      "required": [
+        "rasterio"
+      ]
+    },
+    "original_requirements": [
+      "rasterio",
+      "pre-commit ; extra == 'dev'",
+      "commitizen ; extra == 'dev'",
+      "nox ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "sphinx ; extra == 'doc'",
+      "pydata-sphinx-theme ; extra == 'doc'",
+      "sphinx-copybutton ; extra == 'doc'",
+      "sphinx-design ; extra == 'doc'",
+      "sphinx-icon ; extra == 'doc'",
+      "sphinx-btn ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "pytest-sugar ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-deadfixtures ; extra == 'test'",
+      "pytest-regressions ; extra == 'test'",
+      "xmlschema ; extra == 'test'",
+      "natsort ; extra == 'test'",
+      "beautifulsoup4 ; extra == 'test'",
+      "lxml ; extra == 'test'"
+    ]
+  },
+  "rio_vrt-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e781c1b5d14a5113e628fb49db56c0d5b8d92fb2436781f8faab7ff5305efa72",
+    "dependencies": {
+      "required": [
+        "rasterio"
+      ]
+    },
+    "original_requirements": [
+      "rasterio",
+      "pre-commit ; extra == 'dev'",
+      "commitizen ; extra == 'dev'",
+      "nox ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "sphinx ; extra == 'doc'",
+      "pydata-sphinx-theme ; extra == 'doc'",
+      "sphinx-copybutton ; extra == 'doc'",
+      "sphinx-design ; extra == 'doc'",
+      "sphinx-icon ; extra == 'doc'",
+      "sphinx-btn ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "pytest-sugar ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-deadfixtures ; extra == 'test'",
+      "pytest-regressions ; extra == 'test'",
+      "xmlschema ; extra == 'test'",
+      "natsort ; extra == 'test'",
+      "beautifulsoup4 ; extra == 'test'",
+      "lxml ; extra == 'test'"
+    ]
+  },
+  "rio_vrt-0.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3f546ce0fe8caf86b159bee1f87e0c467cb1226d30636a9fe98bfb0ee2d67ab",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pre-commit ; extra == 'dev'",
+      "commitizen ; extra == 'dev'",
+      "nox ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "sphinx ; extra == 'doc'",
+      "pydata-sphinx-theme ; extra == 'doc'",
+      "sphinx-copybutton ; extra == 'doc'",
+      "sphinx-design ; extra == 'doc'",
+      "sphinx-icon ; extra == 'doc'",
+      "sphinx-btn ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "pytest-sugar ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-deadfixtures ; extra == 'test'"
+    ]
+  }
+}

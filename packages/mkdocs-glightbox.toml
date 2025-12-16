@@ -1,0 +1,12 @@
+# Package configuration for mkdocs-glightbox
+conda_forge = "mkdocs-glightbox"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_glightbox-0.5.2-py3-none-any.whl" },
+  { filename = "mkdocs_glightbox-0.5.1-py3-none-any.whl" },
+  { filename = "mkdocs_glightbox-0.5.0-py3-none-any.whl" },
+  { filename = "mkdocs_glightbox-0.4.0-py3-none-any.whl" },
+  { filename = "mkdocs_glightbox-0.3.7-py3-none-any.whl" },
+]

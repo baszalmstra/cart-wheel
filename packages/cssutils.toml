@@ -1,0 +1,12 @@
+# Package configuration for cssutils
+conda_forge = "cssutils"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cssutils-2.11.1-py3-none-any.whl" },
+  { filename = "cssutils-2.11.0-py3-none-any.whl" },
+  { filename = "cssutils-2.10.3-py3-none-any.whl" },
+  { filename = "cssutils-2.10.2-py3-none-any.whl" },
+  { filename = "cssutils-2.10.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for types-pymysql
+conda_forge = "types-pymysql"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_pymysql-1.1.0.20250916-py3-none-any.whl" },
+  { filename = "types_pymysql-1.1.0.20250914-py3-none-any.whl" },
+  { filename = "types_pymysql-1.1.0.20250909-py3-none-any.whl" },
+  { filename = "types_pymysql-1.1.0.20250822-py3-none-any.whl" },
+  { filename = "types_pymysql-1.1.0.20250711-py3-none-any.whl" },
+]

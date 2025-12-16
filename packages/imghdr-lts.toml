@@ -1,0 +1,7 @@
+# Package configuration for imghdr-lts
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "imghdr_lts-1.0.0-py3-none-any.whl" },
+]

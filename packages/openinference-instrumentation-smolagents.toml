@@ -1,0 +1,11 @@
+# Package configuration for openinference-instrumentation-smolagents
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openinference_instrumentation_smolagents-0.1.21-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_smolagents-0.1.20-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_smolagents-0.1.19-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_smolagents-0.1.18-py3-none-any.whl" },
+  { filename = "openinference_instrumentation_smolagents-0.1.17-py3-none-any.whl" },
+]

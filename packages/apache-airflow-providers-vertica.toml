@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-vertica
+conda_forge = "apache-airflow-providers-vertica"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_vertica-4.2.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_vertica-4.1.4-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_vertica-4.1.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_vertica-4.1.2-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_vertica-4.1.1-py3-none-any.whl" },
+]

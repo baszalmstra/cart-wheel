@@ -1,0 +1,88 @@
+{
+  "pep517-0.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31b206f67165b3536dd577c5c3f1518e8fbaf38cbc57efff8369a392feff1721",
+    "dependencies": {
+      "required": [
+        "tomli",
+        "importlib-metadata",
+        "zipp"
+      ]
+    },
+    "original_requirements": [
+      "tomli >=1.1.0;python_version<'3.11'",
+      "importlib_metadata;python_version<'3.8'",
+      "zipp;python_version<'3.8'"
+    ]
+  },
+  "pep517-0.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ba4446d80aed5b5eac6509ade100bff3e7943a8489de249654a5ae9b33ee35b",
+    "dependencies": {
+      "required": [
+        "tomli",
+        "importlib-metadata",
+        "zipp"
+      ]
+    },
+    "original_requirements": [
+      "tomli >=1.1.0;python_version<'3.11'",
+      "importlib_metadata;python_version<'3.8'",
+      "zipp;python_version<'3.8'"
+    ]
+  },
+  "pep517-0.12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd884c326898e2c6e11f9e0b64940606a93eb10ea022a2e067959f3a110cf161",
+    "dependencies": {
+      "required": [
+        "toml",
+        "tomli",
+        "importlib-metadata",
+        "zipp"
+      ]
+    },
+    "original_requirements": [
+      "toml;python_version<'3.6'",
+      "tomli >=1.1.0;python_version>='3.6'",
+      "importlib_metadata;python_version<'3.8'",
+      "zipp;python_version<'3.8'"
+    ]
+  },
+  "pep517-0.11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "12a811fec422deae52821771113f804ddf4ae86a6ae743afd107ccef0677188d",
+    "dependencies": {
+      "required": [
+        "toml",
+        "tomli",
+        "importlib-metadata",
+        "zipp"
+      ]
+    },
+    "original_requirements": [
+      "toml;python_version<'3.6'",
+      "tomli >=1.1.0;python_version>='3.6'",
+      "importlib_metadata;python_version<'3.8'",
+      "zipp;python_version<'3.8'"
+    ]
+  },
+  "pep517-0.11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3fa6b85b9def7ba4de99fb7f96fe3f02e2d630df8aa2720a5cf3b183f087a738",
+    "dependencies": {
+      "required": [
+        "toml",
+        "tomli",
+        "importlib-metadata",
+        "zipp"
+      ]
+    },
+    "original_requirements": [
+      "toml;python_version<'3.6'",
+      "tomli;python_version>='3.6'",
+      "importlib_metadata;python_version<'3.8'",
+      "zipp;python_version<'3.8'"
+    ]
+  }
+}

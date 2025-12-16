@@ -1,0 +1,11 @@
+# Package configuration for openstackdocstheme
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openstackdocstheme-3.5.0-py3-none-any.whl" },
+  { filename = "openstackdocstheme-3.4.1-py3-none-any.whl" },
+  { filename = "openstackdocstheme-3.4.0-py3-none-any.whl" },
+  { filename = "openstackdocstheme-3.3.0-py3-none-any.whl" },
+  { filename = "openstackdocstheme-3.2.0-py3-none-any.whl" },
+]

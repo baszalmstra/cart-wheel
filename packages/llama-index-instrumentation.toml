@@ -1,0 +1,12 @@
+# Package configuration for llama-index-instrumentation
+conda_forge = "llama-index-instrumentation"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "llama_index_instrumentation-0.4.2-py3-none-any.whl" },
+  { filename = "llama_index_instrumentation-0.4.1-py3-none-any.whl" },
+  { filename = "llama_index_instrumentation-0.4.0-py3-none-any.whl" },
+  { filename = "llama_index_instrumentation-0.3.1-py3-none-any.whl" },
+  { filename = "llama_index_instrumentation-0.3.0-py3-none-any.whl" },
+]

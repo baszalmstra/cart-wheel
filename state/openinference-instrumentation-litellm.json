@@ -1,0 +1,152 @@
+{
+  "openinference_instrumentation_litellm-0.1.28-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b2fbd93ab655a00e301f26baed0ceb5d8721078fbd6fb84d5b74840302044de",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-sdk",
+        "setuptools",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-sdk",
+      "setuptools",
+      "wrapt",
+      "litellm; extra == 'test'",
+      "opentelemetry-instrumentation-httpx; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "pytest-vcr; extra == 'test'",
+      "tenacity; extra == 'test'",
+      "tokenizers==0.20.3; (python_version == '3.8') and extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation_litellm-0.1.27-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f87a1b1d7142bc5ebbf13fbc511231aceba34296f8f8c93d3c5c327678fc0b70",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-sdk",
+        "setuptools",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-sdk",
+      "setuptools",
+      "wrapt",
+      "litellm; extra == 'test'",
+      "opentelemetry-instrumentation-httpx; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "pytest-vcr; extra == 'test'",
+      "tenacity; extra == 'test'",
+      "tokenizers==0.20.3; (python_version == '3.8') and extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation_litellm-0.1.26-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e043ce002288b4882fe6cd04c0ada6b1ad3f8d8582e67f604f99650572a707ea",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-sdk",
+        "setuptools",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-sdk",
+      "setuptools",
+      "wrapt",
+      "litellm; extra == 'test'",
+      "opentelemetry-instrumentation-httpx; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "pytest-vcr; extra == 'test'",
+      "tenacity; extra == 'test'",
+      "tokenizers==0.20.3; (python_version == '3.8') and extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation_litellm-0.1.25-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a09de0fdff8b2141fea128535be2676df452f5faa774694055723b3fbd3fca5c",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-sdk",
+        "setuptools",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-sdk",
+      "setuptools",
+      "wrapt",
+      "litellm; extra == 'test'",
+      "opentelemetry-instrumentation-httpx; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "pytest-vcr; extra == 'test'",
+      "tenacity; extra == 'test'",
+      "tokenizers==0.20.3; (python_version == '3.8') and extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation_litellm-0.1.24-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c105b520eb889784a9a989d0c884be024f637e977c9a46cd4e63952e4ea8103",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-sdk",
+        "setuptools",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-sdk",
+      "setuptools",
+      "wrapt",
+      "litellm; extra == 'test'",
+      "opentelemetry-instrumentation-httpx; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "pytest-vcr; extra == 'test'",
+      "tenacity; extra == 'test'",
+      "tokenizers==0.20.3; (python_version == '3.8') and extra == 'test'"
+    ]
+  }
+}

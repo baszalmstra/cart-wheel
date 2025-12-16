@@ -1,0 +1,127 @@
+{
+  "sciform-0.39.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "86d7e9dde3182f6b1f3318526f3ba42a2f3d0a3f275e9388beca32f185e76fb3",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx; extra == \"docs\"",
+      "sphinx-rtd-dark-mode; extra == \"docs\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "sphinx-toolbox; extra == \"docs\"",
+      "coverage[toml]; extra == \"test\"",
+      "numpy; extra == \"test\"",
+      "ruff==0.5.5; extra == \"test\"",
+      "sciform[docs]; extra == \"test\"",
+      "numpy; extra == \"examples\"",
+      "scipy; extra == \"examples\"",
+      "matplotlib; extra == \"examples\"",
+      "tabulate; extra == \"examples\"",
+      "jupyter; extra == \"examples\"",
+      "sciform[docs]; extra == \"all\"",
+      "sciform[test]; extra == \"all\"",
+      "sciform[examples]; extra == \"all\""
+    ]
+  },
+  "sciform-0.39.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "46250ebcc5404ea26c0d9ed3a32de9b8fa13d5a1aaabfeb5b446be45af02c696",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sciform[docs] ; extra == 'all'",
+      "sciform[test] ; extra == 'all'",
+      "sciform[examples] ; extra == 'all'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-dark-mode ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "sphinx-toolbox ; extra == 'docs'",
+      "numpy ; extra == 'examples'",
+      "scipy ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "tabulate ; extra == 'examples'",
+      "jupyter ; extra == 'examples'",
+      "coverage[toml] ; extra == 'test'",
+      "numpy ; extra == 'test'",
+      "ruff ==0.5.5 ; extra == 'test'",
+      "sciform[docs] ; extra == 'test'"
+    ]
+  },
+  "sciform-0.38.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "87b11419c2bc0d21d0084249659a0a785df7de214535137d98c6780d131b44e5",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sciform[docs] ; extra == 'all'",
+      "sciform[test] ; extra == 'all'",
+      "sciform[examples] ; extra == 'all'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-dark-mode ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "sphinx-toolbox ; extra == 'docs'",
+      "numpy ; extra == 'examples'",
+      "scipy ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "tabulate ; extra == 'examples'",
+      "jupyter ; extra == 'examples'",
+      "coverage[toml] ; extra == 'test'",
+      "numpy ; extra == 'test'",
+      "ruff ==0.5.5 ; extra == 'test'",
+      "sciform[docs] ; extra == 'test'"
+    ]
+  },
+  "sciform-0.38.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a12fc314a83eb1f91ed196cb17ffce5379cdfc8d54254b070f9134eb45f94a88",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sciform[docs] ; extra == 'all'",
+      "sciform[test] ; extra == 'all'",
+      "sciform[examples] ; extra == 'all'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-dark-mode ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "sphinx-toolbox ; extra == 'docs'",
+      "numpy ; extra == 'examples'",
+      "scipy ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "tabulate ; extra == 'examples'",
+      "jupyter ; extra == 'examples'",
+      "coverage[toml] ; extra == 'test'",
+      "numpy ; extra == 'test'",
+      "ruff ==0.5.5 ; extra == 'test'",
+      "sciform[docs] ; extra == 'test'"
+    ]
+  },
+  "sciform-0.38.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d38c2d9869372c6805cec8e847e0472c079add2f9b32560b8f1a211b1ecaad97",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sciform[docs] ; extra == 'all'",
+      "sciform[test] ; extra == 'all'",
+      "sciform[examples] ; extra == 'all'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-dark-mode ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "sphinx-toolbox ; extra == 'docs'",
+      "numpy ; extra == 'examples'",
+      "scipy ; extra == 'examples'",
+      "matplotlib ; extra == 'examples'",
+      "tabulate ; extra == 'examples'",
+      "jupyter ; extra == 'examples'",
+      "coverage[toml] ; extra == 'test'",
+      "numpy ; extra == 'test'",
+      "ruff ==0.5.5 ; extra == 'test'",
+      "sciform[docs] ; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "apache_airflow_providers_apache_cassandra-3.9.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:06.288260+00:00",
+    "conda_file": "apache-airflow-providers-apache-cassandra-3.9.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "cassandra-driver"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "cassandra-driver>=3.29.1",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_cassandra-3.8.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:06.256489+00:00",
+    "conda_file": "apache-airflow-providers-apache-cassandra-3.8.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "cassandra-driver"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "cassandra-driver>=3.29.1",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_cassandra-3.8.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:06.329920+00:00",
+    "conda_file": "apache-airflow-providers-apache-cassandra-3.8.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "cassandra-driver"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "cassandra-driver>=3.29.1",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_cassandra-3.8.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:06.409379+00:00",
+    "conda_file": "apache-airflow-providers-apache-cassandra-3.8.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "cassandra-driver"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "cassandra-driver>=3.29.1"
+    ]
+  },
+  "apache_airflow_providers_apache_cassandra-3.8.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:06.588742+00:00",
+    "conda_file": "apache-airflow-providers-apache-cassandra-3.8.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "cassandra-driver"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "cassandra-driver>=3.29.1"
+    ]
+  }
+}

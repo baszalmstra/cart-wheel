@@ -1,0 +1,6 @@
+# Package configuration for salt
+# No pure Python wheels available - platform-specific only
+version_constraint = ""
+skip_versions = []
+
+wheels = []

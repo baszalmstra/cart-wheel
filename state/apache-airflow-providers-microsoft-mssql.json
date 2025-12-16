@@ -1,0 +1,95 @@
+{
+  "apache_airflow_providers_microsoft_mssql-4.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2af3c11875720f6897efe487f478706f20d6485917b52b83e560e2deada020a3",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pymssql",
+        "methodtools"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-sql>=1.23.0",
+      "pymssql>=2.3.5",
+      "methodtools>=0.4.7",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_microsoft_mssql-4.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84e780eba3ffc1d66ad5906ca53c0684f1d5a30c8249080d7169634cea59dc70",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pymssql",
+        "methodtools"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.23.0",
+      "pymssql>=2.3.5",
+      "methodtools>=0.4.7",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_microsoft_mssql-4.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4cb3349bce1fc13752174fae795c2474f31925ffb315b8bf1d862afc600f91a",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pymssql",
+        "methodtools"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.23.0",
+      "pymssql>=2.3.5",
+      "methodtools>=0.4.7",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_microsoft_mssql-4.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9728052a3ba60a77b6084dd2f6e0b41893752191d9932c18681f87227884ccfe",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pymssql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.23.0",
+      "pymssql>=2.3.5",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_microsoft_mssql-4.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9e7246a8a7f1ad2c9aec89813ee4bd40d1b1b7f154d9bc7bae75a0b9b360312",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pymssql",
+        "methodtools"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.23.0",
+      "pymssql>=2.3.0,!=2.3.3",
+      "methodtools>=0.4.7",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "openinference_instrumentation-0.1.42-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e7521ff90833ef7cc65db526a2f59b76a496180abeaaee30ec6abbbc0b43f8ec",
+    "dependencies": {
+      "required": [
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-sdk",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-sdk",
+      "wrapt<2,>=1.14.0",
+      "jsonschema; extra == 'test'",
+      "openai; extra == 'test'",
+      "pydantic>=2.0.0; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-recording; extra == 'test'",
+      "types-jsonschema; extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation-0.1.41-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc206d561ae2b745383a3f18bfc4efba3fc40617e7fee67015924852942704f9",
+    "dependencies": {
+      "required": [
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-sdk",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-sdk",
+      "wrapt<2,>=1.14.0",
+      "jsonschema; extra == 'test'",
+      "openai; extra == 'test'",
+      "pydantic>=2.0.0; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-recording; extra == 'test'",
+      "types-jsonschema; extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation-0.1.40-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2e894f25addb1dfba563789213139876c5a01fca0a1fa8aa52a455a988a11d4",
+    "dependencies": {
+      "required": [
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-sdk",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-sdk",
+      "wrapt>=1.14.0",
+      "jsonschema; extra == 'test'",
+      "openai; extra == 'test'",
+      "pydantic>=2.0.0; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-recording; extra == 'test'",
+      "types-jsonschema; extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation-0.1.39-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b8213976f9e126df425697417f1c1ad4f7518ad9f865305338ed25f2a137f708",
+    "dependencies": {
+      "required": [
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-sdk",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-sdk",
+      "wrapt>=1.14.0",
+      "jsonschema; extra == 'test'",
+      "openai; extra == 'test'",
+      "pydantic>=2.0.0; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-recording; extra == 'test'",
+      "types-jsonschema; extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation-0.1.38-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c45d73c5f3c79e9d9e44fbf4b2c3bdae514be74396cc1880cb845b9b7acc78f",
+    "dependencies": {
+      "required": [
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-sdk",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-sdk",
+      "wrapt>=1.14.0",
+      "jsonschema; extra == 'test'",
+      "openai; extra == 'test'",
+      "pydantic>=2.0.0; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-recording; extra == 'test'",
+      "types-jsonschema; extra == 'test'"
+    ]
+  }
+}

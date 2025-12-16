@@ -1,0 +1,72 @@
+{
+  "hydra_joblib_launcher-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "57bfd042b015056157297de93e8ec1c6bc75fd39bd3b300e1599db0c5d992eee",
+    "dependencies": {
+      "required": [
+        "hydra-core",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "hydra-core (>=1.1.0.dev7)",
+      "joblib (>=0.14.0)"
+    ]
+  },
+  "hydra_joblib_launcher-1.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90578ce6898deda8c6ee3a767be0b5cdc99c6e911decc48b83d47933064f9716",
+    "dependencies": {
+      "required": [
+        "hydra-core",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "hydra-core (>=1.1.0.dev7)",
+      "joblib (>=0.14.0)"
+    ]
+  },
+  "hydra_joblib_launcher-1.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e891b8a3ce2334fe1f95991b8eada61829d17e7f05b363fc292e010fa3d5d3ab",
+    "dependencies": {
+      "required": [
+        "hydra-core",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "hydra-core (==1.0.*)",
+      "joblib (>=0.14.0)"
+    ]
+  },
+  "hydra_joblib_launcher-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ab95624d5a56e2f02a03e6f9c5d2f7f7c5d93bad39a1af836c4910dd5c12577",
+    "dependencies": {
+      "required": [
+        "hydra-core",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "hydra-core (>=1.0.0)",
+      "joblib (>=0.14.0)"
+    ]
+  },
+  "hydra_joblib_launcher-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe09f9e1bcf23fe48e6fa9d28f2b5841c2c5353400bd817092e69ab8d5b2ea8c",
+    "dependencies": {
+      "required": [
+        "hydra-core",
+        "joblib"
+      ]
+    },
+    "original_requirements": [
+      "hydra-core (>=1.0.0)",
+      "joblib (>=0.14.0)"
+    ]
+  }
+}

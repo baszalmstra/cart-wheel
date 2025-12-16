@@ -1,0 +1,12 @@
+# Package configuration for torch-geometric
+conda_forge = "pytorch_geometric"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torch_geometric-2.7.0-py3-none-any.whl" },
+  { filename = "torch_geometric-2.6.1-py3-none-any.whl" },
+  { filename = "torch_geometric-2.6.0-py3-none-any.whl" },
+  { filename = "torch_geometric-2.5.3-py3-none-any.whl" },
+  { filename = "torch_geometric-2.5.2-py3-none-any.whl" },
+]

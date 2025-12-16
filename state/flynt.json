@@ -1,0 +1,93 @@
+{
+  "flynt-1.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e837c9597036b634a347855a89acf1483c4f8b73daa82c49372b10b6e1d1778",
+    "dependencies": {
+      "required": [
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "tomli>=1.1.0; python_version < '3.11'",
+      "build; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "ruff; extra == 'dev'",
+      "twine; extra == 'dev'"
+    ]
+  },
+  "flynt-1.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ba8b6c0735fb45595303d40817c3b37d03ed0acf1b671df6c801c721983b929",
+    "dependencies": {
+      "required": [
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "tomli>=1.1.0; python_version < '3.11'",
+      "build; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "ruff; extra == 'dev'",
+      "twine; extra == 'dev'"
+    ]
+  },
+  "flynt-1.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "200294537ad7865dac02301ca3477cc7f509156e9f3cb32b3f3acac4579e910e",
+    "dependencies": {
+      "required": [
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "tomli>=1.1.0; python_version < '3.11'",
+      "build; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "ruff; extra == 'dev'",
+      "twine; extra == 'dev'"
+    ]
+  },
+  "flynt-1.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "87bf618d00ce488f48283c42bd319fc6469484cdc8ffa9c89b7d944cdac2024a",
+    "dependencies": {
+      "required": [
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "tomli>=1.1.0; python_version < '3.11'",
+      "build; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "ruff; extra == 'dev'",
+      "twine; extra == 'dev'"
+    ]
+  },
+  "flynt-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0388f44acf5c5ccaf96dbd23b7817f56a1b0e54b36df7993b6e64e07939f7dab",
+    "dependencies": {
+      "required": [
+        "astor",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "astor",
+      "tomli>=1.1.0; python_version < '3.11'",
+      "build; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "twine; extra == 'dev'"
+    ]
+  }
+}

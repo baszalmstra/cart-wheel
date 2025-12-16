@@ -1,0 +1,192 @@
+{
+  "docling_ibm_models-3.10.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e034d1398c99059998da18e38ef80af8a5d975f04de17f6e93efa075fb29cac4",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "jsonlines",
+        "pillow",
+        "tqdm",
+        "huggingface-hub",
+        "safetensors",
+        "pydantic",
+        "docling-core",
+        "transformers",
+        "numpy",
+        "rtree",
+        "accelerate"
+      ]
+    },
+    "original_requirements": [
+      "torch<3.0.0,>=2.2.2",
+      "torchvision<1,>=0",
+      "jsonlines<5.0.0,>=3.1.0",
+      "Pillow<13.0.0,>=10.0.0",
+      "tqdm<5.0.0,>=4.64.0",
+      "huggingface_hub<1,>=0.23",
+      "safetensors[torch]<1,>=0.4.3",
+      "pydantic<3.0.0,>=2.0.0",
+      "docling-core<3.0.0,>=2.19.0",
+      "transformers<5.0.0,>=4.42.0",
+      "numpy<3.0.0,>=1.24.4",
+      "rtree>=1.0.0",
+      "accelerate<2.0.0,>=1.2.1",
+      "opencv-python-headless<5.0.0.0,>=4.6.0.66; extra == \"opencv-python-headless\"",
+      "opencv-python<5.0.0.0,>=4.6.0.66; extra == \"opencv-python\""
+    ]
+  },
+  "docling_ibm_models-3.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b2ac6fbd9fb0729320ae4970891b96684a2375841b9ba2c316d2389f8b8ef796",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "jsonlines",
+        "pillow",
+        "tqdm",
+        "huggingface-hub",
+        "safetensors",
+        "pydantic",
+        "docling-core",
+        "transformers",
+        "numpy",
+        "rtree",
+        "accelerate"
+      ]
+    },
+    "original_requirements": [
+      "torch<3.0.0,>=2.2.2",
+      "torchvision<1,>=0",
+      "jsonlines<5.0.0,>=3.1.0",
+      "Pillow<13.0.0,>=10.0.0",
+      "tqdm<5.0.0,>=4.64.0",
+      "huggingface_hub<1,>=0.23",
+      "safetensors[torch]<1,>=0.4.3",
+      "pydantic<3.0.0,>=2.0.0",
+      "docling-core<3.0.0,>=2.19.0",
+      "transformers<5.0.0,>=4.42.0",
+      "numpy<3.0.0,>=1.24.4",
+      "rtree>=1.0.0",
+      "accelerate<2.0.0,>=1.2.1",
+      "opencv-python-headless<5.0.0.0,>=4.6.0.66; extra == \"opencv-python-headless\"",
+      "opencv-python<5.0.0.0,>=4.6.0.66; extra == \"opencv-python\""
+    ]
+  },
+  "docling_ibm_models-3.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6a781d21160d389f1ed2a42967173930b877b0c96374468e8be2861af4fbf7d2",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "jsonlines",
+        "pillow",
+        "tqdm",
+        "huggingface-hub",
+        "safetensors",
+        "pydantic",
+        "docling-core",
+        "transformers",
+        "numpy",
+        "rtree",
+        "accelerate"
+      ]
+    },
+    "original_requirements": [
+      "torch<3.0.0,>=2.2.2",
+      "torchvision<1,>=0",
+      "jsonlines<5.0.0,>=3.1.0",
+      "Pillow<13.0.0,>=10.0.0",
+      "tqdm<5.0.0,>=4.64.0",
+      "huggingface_hub<1,>=0.23",
+      "safetensors[torch]<1,>=0.4.3",
+      "pydantic<3.0.0,>=2.0.0",
+      "docling-core<3.0.0,>=2.19.0",
+      "transformers<5.0.0,>=4.42.0",
+      "numpy<3.0.0,>=1.24.4",
+      "rtree>=1.0.0",
+      "accelerate<2.0.0,>=1.2.1",
+      "opencv-python-headless<5.0.0.0,>=4.6.0.66; extra == \"opencv-python-headless\"",
+      "opencv-python<5.0.0.0,>=4.6.0.66; extra == \"opencv-python\""
+    ]
+  },
+  "docling_ibm_models-3.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4392d2adfe592263cf7422b2c3959c866e9636f1d014bc5cdff5bf030660de1a",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "jsonlines",
+        "pillow",
+        "tqdm",
+        "huggingface-hub",
+        "safetensors",
+        "pydantic",
+        "docling-core",
+        "transformers",
+        "numpy",
+        "rtree",
+        "accelerate"
+      ]
+    },
+    "original_requirements": [
+      "torch<3.0.0,>=2.2.2",
+      "torchvision<1,>=0",
+      "jsonlines<5.0.0,>=3.1.0",
+      "Pillow<13.0.0,>=10.0.0",
+      "tqdm<5.0.0,>=4.64.0",
+      "huggingface_hub<1,>=0.23",
+      "safetensors[torch]<1,>=0.4.3",
+      "pydantic<3.0.0,>=2.0.0",
+      "docling-core<3.0.0,>=2.19.0",
+      "transformers<5.0.0,>=4.42.0",
+      "numpy<3.0.0,>=1.24.4",
+      "rtree>=1.0.0",
+      "accelerate<2.0.0,>=1.2.1",
+      "opencv-python-headless<5.0.0.0,>=4.6.0.66; extra == \"opencv-python-headless\"",
+      "opencv-python<5.0.0.0,>=4.6.0.66; extra == \"opencv-python\""
+    ]
+  },
+  "docling_ibm_models-3.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f2d845703877a3ca8853b57775eb8e88a7a9503d4fa110500a2550b8d63d0098",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "jsonlines",
+        "pillow",
+        "tqdm",
+        "opencv-python-headless",
+        "huggingface-hub",
+        "safetensors",
+        "pydantic",
+        "docling-core",
+        "transformers",
+        "numpy",
+        "rtree",
+        "accelerate"
+      ]
+    },
+    "original_requirements": [
+      "torch<3.0.0,>=2.2.2",
+      "torchvision<1,>=0",
+      "jsonlines<4.0.0,>=3.1.0",
+      "Pillow<12.0.0,>=10.0.0",
+      "tqdm<5.0.0,>=4.64.0",
+      "opencv-python-headless<5.0.0.0,>=4.6.0.66",
+      "huggingface_hub<1,>=0.23",
+      "safetensors[torch]<1,>=0.4.3",
+      "pydantic<3.0.0,>=2.0.0",
+      "docling-core<3.0.0,>=2.19.0",
+      "transformers<5.0.0,>=4.42.0",
+      "numpy<3.0.0,>=1.24.4",
+      "rtree>=1.0.0",
+      "accelerate<2.0.0,>=1.2.1"
+    ]
+  }
+}

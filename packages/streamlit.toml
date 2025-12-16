@@ -1,0 +1,12 @@
+# Package configuration for streamlit
+conda_forge = "streamlit"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "streamlit-1.52.1-py3-none-any.whl" },
+  { filename = "streamlit-1.52.0-py3-none-any.whl" },
+  { filename = "streamlit-1.51.0-py3-none-any.whl" },
+  { filename = "streamlit-1.50.0-py3-none-any.whl" },
+  { filename = "streamlit-1.49.1-py3-none-any.whl" },
+]

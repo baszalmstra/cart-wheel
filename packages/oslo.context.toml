@@ -1,0 +1,11 @@
+# Package configuration for oslo.context
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oslo_context-6.2.0-py3-none-any.whl" },
+  { filename = "oslo_context-6.1.0-py3-none-any.whl" },
+  { filename = "oslo_context-6.0.0-py3-none-any.whl" },
+  { filename = "oslo.context-5.7.1-py3-none-any.whl" },
+  { filename = "oslo.context-5.7.0-py3-none-any.whl" },
+]

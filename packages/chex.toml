@@ -1,0 +1,12 @@
+# Package configuration for chex
+conda_forge = "chex"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "chex-0.1.91-py3-none-any.whl" },
+  { filename = "chex-0.1.90-py3-none-any.whl" },
+  { filename = "chex-0.1.89-py3-none-any.whl" },
+  { filename = "chex-0.1.88-py3-none-any.whl" },
+  { filename = "chex-0.1.87-py3-none-any.whl" },
+]

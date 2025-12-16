@@ -1,0 +1,88 @@
+{
+  "toml_cli-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7af4679ca04c53ad0f6d300dab26f45a78fedf88e8310305bfe0a8ead37fd000",
+    "dependencies": {
+      "required": [
+        "jmespath",
+        "regex",
+        "tomlkit",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "jmespath>=1.0.1",
+      "regex>=2020.7.14",
+      "tomlkit>=0.13.3",
+      "typer>=0.16.0"
+    ]
+  },
+  "toml_cli-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ebd1672e2b512022c4db2ba01658bff17ec9bb868b64ddee29484d1517ce0d98",
+    "dependencies": {
+      "required": [
+        "jmespath",
+        "regex",
+        "tomlkit",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "jmespath>=1.0.1",
+      "regex>=2020.7.14",
+      "tomlkit>=0.13.3",
+      "typer>=0.16.0"
+    ]
+  },
+  "toml_cli-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7f1fc7997775ce3ebf3bb850e414873a4d586a3979292d5d5a5a792b41b82c03",
+    "dependencies": {
+      "required": [
+        "jmespath",
+        "regex",
+        "tomlkit",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "jmespath>=1.0.1",
+      "regex>=2020.7.14",
+      "tomlkit>=0.13.3",
+      "typer>=0.16.0"
+    ]
+  },
+  "toml_cli-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49f460ead043a86cc859ef7d710a64b912ac3596700951c9fb18491382716907",
+    "dependencies": {
+      "required": [
+        "regex",
+        "tomlkit",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "regex (>=2020.7.14)",
+      "tomlkit (>=0.12.1)",
+      "typer (>=0.3.2)"
+    ]
+  },
+  "toml_cli-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1aeba7a0aa21ee818051fc40211a79c0ce3041c3ebd96705110d782725120d71",
+    "dependencies": {
+      "required": [
+        "regex",
+        "tomlkit",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "regex (>=2020.7.14)",
+      "tomlkit (>=0.12.1)",
+      "typer (>=0.3.2)"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "nbval-0.11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "307aecc866c9a1e8a13bb5bbb008a702bacfda2394dff6fe504a3108a58042a0",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "jupyter-client",
+        "nbformat",
+        "ipykernel",
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=7",
+      "jupyter-client",
+      "nbformat",
+      "ipykernel",
+      "coverage"
+    ]
+  },
+  "nbval-0.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "427e42caabeae39f493d8baca629b03816269fc11f1b7e2046e10929a3149a73",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "jupyter-client",
+        "nbformat",
+        "ipykernel",
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.8)",
+      "jupyter-client",
+      "nbformat",
+      "ipykernel",
+      "coverage"
+    ]
+  },
+  "nbval-0.9.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f9b780997d8942408853513f2c5ee6c1863de193559fc3f95e1c1cde8110439",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "six",
+        "jupyter-client",
+        "nbformat",
+        "ipykernel",
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.8)",
+      "six",
+      "jupyter-client",
+      "nbformat",
+      "ipykernel",
+      "coverage"
+    ]
+  },
+  "nbval-0.9.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10aced0f9a28893e608c2704b2e8bdcbc57635db9640d454f85fe0545fda5002",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "six",
+        "jupyter-client",
+        "nbformat",
+        "ipykernel",
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.8)",
+      "six",
+      "jupyter-client",
+      "nbformat",
+      "ipykernel",
+      "coverage"
+    ]
+  },
+  "nbval-0.9.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "66cc65fdc143e8e13ae3801702da5b699f3d5056434d71b335434e1a2be291e5",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "six",
+        "jupyter-client",
+        "nbformat",
+        "ipykernel",
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.8)",
+      "six",
+      "jupyter-client",
+      "nbformat",
+      "ipykernel",
+      "coverage (<5)"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for firecrawl-py
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "firecrawl_py-4.10.5-py3-none-any.whl" },
+  { filename = "firecrawl_py-4.10.4-py3-none-any.whl" },
+  { filename = "firecrawl_py-4.10.3-py3-none-any.whl" },
+  { filename = "firecrawl_py-4.10.2-py3-none-any.whl" },
+  { filename = "firecrawl_py-4.10.1-py3-none-any.whl" },
+]

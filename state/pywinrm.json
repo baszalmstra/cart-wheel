@@ -1,0 +1,103 @@
+{
+  "pywinrm-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c267046d281de613fc7c8a528cdd261564d9b99bdb7c2926221eff3263b700c8",
+    "dependencies": {
+      "required": [
+        "requests",
+        "requests-ntlm",
+        "xmltodict"
+      ]
+    },
+    "original_requirements": [
+      "requests >=2.9.1",
+      "requests-ntlm >=1.1.0",
+      "xmltodict",
+      "requests-credssp >=1.0.0 ; extra == 'credssp'",
+      "pykerberos <2.0.0,>=1.2.1 ; (sys_platform != \"win32\") and extra == 'kerberos'",
+      "winkerberos >=0.5.0 ; (sys_platform == \"win32\") and extra == 'kerberos'"
+    ]
+  },
+  "pywinrm-0.4.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c476c1e20dd0875da6fe4684c4d8e242dd537025907c2f11e1990c5aee5c9526",
+    "dependencies": {
+      "required": [
+        "xmltodict",
+        "requests",
+        "requests-ntlm",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "xmltodict",
+      "requests (>=2.9.1)",
+      "requests-ntlm (>=1.1.0)",
+      "six",
+      "requests-credssp (>=1.0.0) ; extra == 'credssp'",
+      "pykerberos (<2.0.0,>=1.2.1) ; (sys_platform!=\"win32\") and extra == 'kerberos'",
+      "winkerberos (>=0.5.0) ; (sys_platform==\"win32\") and extra == 'kerberos'"
+    ]
+  },
+  "pywinrm-0.4.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "188c064c70b3c73a1548f3c67ac2aec07815fa50e0cb0bda07e447a354226f5c",
+    "dependencies": {
+      "required": [
+        "xmltodict",
+        "requests",
+        "requests-ntlm",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "xmltodict",
+      "requests (>=2.9.1)",
+      "requests-ntlm (>=0.3.0)",
+      "six",
+      "requests-credssp (>=1.0.0) ; extra == 'credssp'",
+      "pykerberos (<2.0.0,>=1.2.1) ; (sys_platform!=\"win32\") and extra == 'kerberos'",
+      "winkerberos (>=0.5.0) ; (sys_platform==\"win32\") and extra == 'kerberos'"
+    ]
+  },
+  "pywinrm-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ade21b22c72eb3e2e4656798c232ee5f7ce07d157184561eec50691502bc7464",
+    "dependencies": {
+      "required": [
+        "xmltodict",
+        "requests",
+        "requests-ntlm",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "xmltodict",
+      "requests (>=2.9.1)",
+      "requests-ntlm (>=0.3.0)",
+      "six",
+      "requests-credssp (>=0.0.1); extra == 'credssp'",
+      "requests-kerberos (>=0.10.0); extra == 'kerberos'"
+    ]
+  },
+  "pywinrm-0.2.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8836c7f70f3d15af059137e09260a8caa36b12ec295c077db7ced43a8390f4a2",
+    "dependencies": {
+      "required": [
+        "xmltodict",
+        "requests",
+        "requests-ntlm",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "xmltodict",
+      "requests (>=2.9.1)",
+      "requests-ntlm (>=0.3.0)",
+      "six",
+      "requests-credssp (>=0.0.1); extra == 'credssp'",
+      "requests-kerberos (>=0.10.0); extra == 'kerberos'"
+    ]
+  }
+}

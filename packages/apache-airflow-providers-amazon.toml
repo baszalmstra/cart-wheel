@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-amazon
+conda_forge = "apache-airflow-providers-amazon"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_amazon-9.18.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_amazon-9.18.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_amazon-9.17.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_amazon-9.16.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_amazon-9.15.0-py3-none-any.whl" },
+]

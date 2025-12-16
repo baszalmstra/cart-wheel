@@ -1,0 +1,72 @@
+{
+  "pre_commit_hooks-6.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "76161b76d321d2f8ee2a8e0b84c30ee8443e01376121fd1c90851e33e3bd7ee2",
+    "dependencies": {
+      "required": [
+        "ruamel.yaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "ruamel.yaml>=0.15",
+      "tomli>=1.1.0; python_version < \"3.11\""
+    ]
+  },
+  "pre_commit_hooks-5.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8d71cfb582c5c314a5498d94e0104b6567a8b93fb35903ea845c491f4e290a7a",
+    "dependencies": {
+      "required": [
+        "ruamel.yaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "ruamel.yaml>=0.15",
+      "tomli>=1.1.0; python_version < \"3.11\""
+    ]
+  },
+  "pre_commit_hooks-4.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a69199e6a2d45ec59c1020a81ca1549abddc2afb798276d9a0d951752d6abbfe",
+    "dependencies": {
+      "required": [
+        "ruamel.yaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "ruamel.yaml (>=0.15)",
+      "tomli (>=1.1.0) ; python_version < \"3.11\""
+    ]
+  },
+  "pre_commit_hooks-4.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b779d5c44ede9b1fda48e2d96b08e9aa5b1d2fdb8903ca09f0dbaca22d529edb",
+    "dependencies": {
+      "required": [
+        "ruamel.yaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "ruamel.yaml (>=0.15)",
+      "tomli (>=1.1.0) ; python_version < \"3.11\""
+    ]
+  },
+  "pre_commit_hooks-4.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc8837335476221ccccda3d176ed6ae29fe58753ce7e8b7863f5d0f987328fc6",
+    "dependencies": {
+      "required": [
+        "ruamel.yaml",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "ruamel.yaml (>=0.15)",
+      "tomli (>=1.1.0) ; python_version < \"3.11\""
+    ]
+  }
+}

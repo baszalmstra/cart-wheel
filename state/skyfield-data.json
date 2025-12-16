@@ -1,0 +1,87 @@
+{
+  "skyfield_data-7.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4279f999f7f8c5ef5d8bf1b714f301a0844ae5df3a3f0d23610b20d8789073f5",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "jplephem; extra == \"dev\"",
+      "numpy; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "colorama; extra == \"dev\"",
+      "termcolor; extra == \"dev\"",
+      "pytest; extra == \"tests\"",
+      "skyfield; extra == \"tests\"",
+      "mock; extra == \"tests\""
+    ]
+  },
+  "skyfield_data-6.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "12c946dbd4453fb4958faf845484222ec9d8d2cac19d2cb7bffb41301aa5b526",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "jplephem ; extra == 'dev'",
+      "numpy ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "colorama ; extra == 'dev'",
+      "termcolor ; extra == 'dev'",
+      "pytest ; extra == 'tests'",
+      "skyfield ; extra == 'tests'",
+      "mock ; extra == 'tests'"
+    ]
+  },
+  "skyfield_data-5.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "af5a04f704b1024f5cba039be2022aa72daab1fa4c3663eeaeb358ded5f8217b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "jplephem ; extra == 'dev'",
+      "numpy ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "colorama ; extra == 'dev'",
+      "termcolor ; extra == 'dev'",
+      "pytest ; extra == 'tests'",
+      "skyfield ; extra == 'tests'",
+      "mock ; extra == 'tests'"
+    ]
+  },
+  "skyfield_data-4.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd81bf9032d4833a766f4127e868d62674083ca2ccaea07e6d025e132c9c574e",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "jplephem ; extra == 'dev'",
+      "numpy ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "colorama ; extra == 'dev'",
+      "termcolor ; extra == 'dev'",
+      "pytest ; extra == 'tests'",
+      "skyfield ; extra == 'tests'",
+      "mock ; extra == 'tests'"
+    ]
+  },
+  "skyfield_data-3.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "107b07a238633294ee5c3bb668ecc427619e6a3dd8364e51144eb451f99894bd",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "colorama ; extra == 'dev'",
+      "jplephem ; extra == 'dev'",
+      "numpy ; extra == 'dev'",
+      "termcolor ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "mock ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "skyfield ; extra == 'tests'"
+    ]
+  }
+}

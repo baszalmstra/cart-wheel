@@ -1,0 +1,97 @@
+{
+  "python_box-7.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd7d74d5a848623f93b5221fd9fb00b8c00ff0e130fa87f396277aa188659c92",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruamel.yaml>=0.17; extra == \"all\"",
+      "toml; extra == \"all\"",
+      "msgpack; extra == \"all\"",
+      "ruamel.yaml>=0.17; extra == \"yaml\"",
+      "ruamel.yaml>=0.17; extra == \"ruamel-yaml\"",
+      "PyYAML; extra == \"pyyaml\"",
+      "tomli; python_version < \"3.11\" and extra == \"tomli\"",
+      "tomli-w; extra == \"tomli\"",
+      "toml; extra == \"toml\"",
+      "msgpack; extra == \"msgpack\""
+    ]
+  },
+  "python_box-7.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2d77100d0d5ad67e0d062fac4f77f973851db236f4a445c60b02d0415f83b0d6",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruamel.yaml>=0.17; extra == \"all\"",
+      "toml; extra == \"all\"",
+      "msgpack; extra == \"all\"",
+      "ruamel.yaml>=0.17; extra == \"yaml\"",
+      "ruamel.yaml>=0.17; extra == \"ruamel-yaml\"",
+      "PyYAML; extra == \"pyyaml\"",
+      "tomli; python_version < \"3.11\" and extra == \"tomli\"",
+      "tomli-w; extra == \"tomli\"",
+      "toml; extra == \"toml\"",
+      "msgpack; extra == \"msgpack\""
+    ]
+  },
+  "python_box-7.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1139bffe91bd317fd686c4c29ffc84115c1967af14112c5c4a8ac51937d530c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruamel.yaml>=0.17; extra == \"all\"",
+      "toml; extra == \"all\"",
+      "msgpack; extra == \"all\"",
+      "ruamel.yaml>=0.17; extra == \"yaml\"",
+      "ruamel.yaml>=0.17; extra == \"ruamel-yaml\"",
+      "PyYAML; extra == \"pyyaml\"",
+      "tomli; python_version < \"3.11\" and extra == \"tomli\"",
+      "tomli-w; extra == \"tomli\"",
+      "toml; extra == \"toml\"",
+      "msgpack; extra == \"msgpack\""
+    ]
+  },
+  "python_box-7.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3c90832dd772cb0197fdb5bc06123b6e1b846899a1b53d9c39450d27a584829",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "PyYAML ; extra == 'pyyaml'",
+      "ruamel.yaml >=0.17 ; extra == 'all'",
+      "toml ; extra == 'all'",
+      "msgpack ; extra == 'all'",
+      "msgpack ; extra == 'msgpack'",
+      "ruamel.yaml >=0.17 ; extra == 'ruamel.yaml'",
+      "toml ; extra == 'toml'",
+      "tomli-w ; extra == 'tomli'",
+      "tomli ; (python_version < \"3.11\") and extra == 'tomli'",
+      "ruamel.yaml >=0.17 ; extra == 'yaml'"
+    ]
+  },
+  "python_box-7.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63b609555554d7a9d4b6e725f8e78ef1717c67e7d386200e03422ad612338df8",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "PyYAML ; extra == 'pyyaml'",
+      "ruamel.yaml >=0.17 ; extra == 'all'",
+      "toml ; extra == 'all'",
+      "msgpack ; extra == 'all'",
+      "msgpack ; extra == 'msgpack'",
+      "ruamel.yaml >=0.17 ; extra == 'ruamel.yaml'",
+      "toml ; extra == 'toml'",
+      "tomli-w ; extra == 'tomli'",
+      "tomli ; (python_version < \"3.11\") and extra == 'tomli'",
+      "ruamel.yaml >=0.17 ; extra == 'yaml'"
+    ]
+  }
+}

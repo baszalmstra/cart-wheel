@@ -1,0 +1,197 @@
+{
+  "moviepy-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b56803fec2ac54b557404126ac1160e65448e03798fa282bd23e8fab3795060",
+    "dependencies": {
+      "required": [
+        "decorator",
+        "imageio",
+        "imageio-ffmpeg",
+        "numpy",
+        "proglog",
+        "python-dotenv",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "decorator<6.0,>=4.0.2",
+      "imageio<3.0,>=2.5",
+      "imageio_ffmpeg>=0.2.0",
+      "numpy>=1.25.0",
+      "proglog<=1.0.0",
+      "python-dotenv>=0.10",
+      "pillow<12.0,>=9.2.0",
+      "numpydoc<2.0; extra == \"doc\"",
+      "Sphinx==6.*; extra == \"doc\"",
+      "pydata-sphinx-theme==0.13; extra == \"doc\"",
+      "sphinx_design; extra == \"doc\"",
+      "coveralls<4.0,>=3.0; extra == \"test\"",
+      "pytest-cov<3.0,>=2.5.1; extra == \"test\"",
+      "pytest<7.0.0,>=3.0.0; extra == \"test\"",
+      "black>=23.7.0; extra == \"lint\"",
+      "flake8>=6.0.0; extra == \"lint\"",
+      "flake8-absolute-import>=1.0; extra == \"lint\"",
+      "flake8-docstrings>=1.7.0; extra == \"lint\"",
+      "flake8-rst-docstrings>=0.3; extra == \"lint\"",
+      "flake8-implicit-str-concat==0.4.0; extra == \"lint\"",
+      "isort>=5.12; extra == \"lint\"",
+      "pre-commit>=3.3; extra == \"lint\""
+    ]
+  },
+  "moviepy-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5da013da14d918ebe26cf5a113e2d763c2406149b394e1c1b441a4263cf8e322",
+    "dependencies": {
+      "required": [
+        "decorator",
+        "imageio",
+        "imageio-ffmpeg",
+        "numpy",
+        "proglog",
+        "python-dotenv",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "decorator<6.0,>=4.0.2",
+      "imageio<3.0,>=2.5",
+      "imageio_ffmpeg>=0.2.0",
+      "numpy>=1.25.0",
+      "proglog<=1.0.0",
+      "python-dotenv>=0.10",
+      "pillow<12.0,>=9.2.0",
+      "numpydoc<2.0; extra == \"doc\"",
+      "Sphinx==6.*; extra == \"doc\"",
+      "pydata-sphinx-theme==0.13; extra == \"doc\"",
+      "sphinx_design; extra == \"doc\"",
+      "coveralls<4.0,>=3.0; extra == \"test\"",
+      "pytest-cov<3.0,>=2.5.1; extra == \"test\"",
+      "pytest<7.0.0,>=3.0.0; extra == \"test\"",
+      "black>=23.7.0; extra == \"lint\"",
+      "flake8>=6.0.0; extra == \"lint\"",
+      "flake8-absolute-import>=1.0; extra == \"lint\"",
+      "flake8-docstrings>=1.7.0; extra == \"lint\"",
+      "flake8-rst-docstrings>=0.3; extra == \"lint\"",
+      "flake8-implicit-str-concat==0.4.0; extra == \"lint\"",
+      "isort>=5.12; extra == \"lint\"",
+      "pre-commit>=3.3; extra == \"lint\""
+    ]
+  },
+  "moviepy-2.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6cdc0d739110c8f347a224d72bd59eebaec010720d01eff290d37111bf545a73",
+    "dependencies": {
+      "required": [
+        "decorator",
+        "imageio",
+        "imageio-ffmpeg",
+        "numpy",
+        "proglog",
+        "python-dotenv",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "decorator<6.0,>=4.0.2",
+      "imageio<3.0,>=2.5",
+      "imageio_ffmpeg>=0.2.0",
+      "numpy>=1.25.0",
+      "proglog<=1.0.0",
+      "python-dotenv>=0.10",
+      "pillow<11.0,>=9.2.0",
+      "numpydoc<2.0; extra == \"doc\"",
+      "Sphinx==6.*; extra == \"doc\"",
+      "pydata-sphinx-theme==0.13; extra == \"doc\"",
+      "sphinx_design; extra == \"doc\"",
+      "coveralls<4.0,>=3.0; extra == \"test\"",
+      "pytest-cov<3.0,>=2.5.1; extra == \"test\"",
+      "pytest<7.0.0,>=3.0.0; extra == \"test\"",
+      "black>=23.7.0; extra == \"lint\"",
+      "flake8>=6.0.0; extra == \"lint\"",
+      "flake8-absolute-import>=1.0; extra == \"lint\"",
+      "flake8-docstrings>=1.7.0; extra == \"lint\"",
+      "flake8-rst-docstrings>=0.3; extra == \"lint\"",
+      "flake8-implicit-str-concat==0.4.0; extra == \"lint\"",
+      "isort>=5.12; extra == \"lint\"",
+      "pre-commit>=3.3; extra == \"lint\""
+    ]
+  },
+  "moviepy-2.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b236a794c1bc00162613f08b5b5a862531ac39666b6943161c1f46a4dc8d3064",
+    "dependencies": {
+      "required": [
+        "decorator",
+        "imageio",
+        "imageio-ffmpeg",
+        "numpy",
+        "proglog",
+        "python-dotenv",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "decorator<6.0,>=4.0.2",
+      "imageio<3.0,>=2.5",
+      "imageio_ffmpeg>=0.2.0",
+      "numpy>=1.25.0",
+      "proglog<=1.0.0",
+      "python-dotenv>=0.10",
+      "pillow<11.0,>=9.2.0",
+      "numpydoc<2.0; extra == \"doc\"",
+      "Sphinx==6.*; extra == \"doc\"",
+      "pydata-sphinx-theme==0.13; extra == \"doc\"",
+      "sphinx_design; extra == \"doc\"",
+      "coveralls<4.0,>=3.0; extra == \"test\"",
+      "pytest-cov<3.0,>=2.5.1; extra == \"test\"",
+      "pytest<7.0.0,>=3.0.0; extra == \"test\"",
+      "black>=23.7.0; extra == \"lint\"",
+      "flake8>=6.0.0; extra == \"lint\"",
+      "flake8-absolute-import>=1.0; extra == \"lint\"",
+      "flake8-docstrings>=1.7.0; extra == \"lint\"",
+      "flake8-rst-docstrings>=0.3; extra == \"lint\"",
+      "flake8-implicit-str-concat==0.4.0; extra == \"lint\"",
+      "isort>=5.12; extra == \"lint\"",
+      "pre-commit>=3.3; extra == \"lint\""
+    ]
+  },
+  "moviepy-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "45bbbab5fbcc4cdfb255da891dbf9c523e760a1feb5f32c928909575f0061c1d",
+    "dependencies": {
+      "required": [
+        "decorator",
+        "imageio",
+        "imageio-ffmpeg",
+        "numpy",
+        "proglog",
+        "python-dotenv",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "decorator<6.0,>=4.0.2",
+      "imageio<3.0,>=2.5",
+      "imageio_ffmpeg>=0.2.0",
+      "numpy>=1.25.0",
+      "proglog<=1.0.0",
+      "python-dotenv>=0.10",
+      "pillow<11.0,>=9.2.0",
+      "numpydoc<2.0; extra == \"doc\"",
+      "Sphinx==6.*; extra == \"doc\"",
+      "pydata-sphinx-theme==0.13; extra == \"doc\"",
+      "sphinx_design; extra == \"doc\"",
+      "coveralls<4.0,>=3.0; extra == \"test\"",
+      "pytest-cov<3.0,>=2.5.1; extra == \"test\"",
+      "pytest<7.0.0,>=3.0.0; extra == \"test\"",
+      "black>=23.7.0; extra == \"lint\"",
+      "flake8>=6.0.0; extra == \"lint\"",
+      "flake8-absolute-import>=1.0; extra == \"lint\"",
+      "flake8-docstrings>=1.7.0; extra == \"lint\"",
+      "flake8-rst-docstrings>=0.3; extra == \"lint\"",
+      "flake8-implicit-str-concat==0.4.0; extra == \"lint\"",
+      "isort>=5.12; extra == \"lint\"",
+      "pre-commit>=3.3; extra == \"lint\""
+    ]
+  }
+}

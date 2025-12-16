@@ -1,0 +1,102 @@
+{
+  "icalendar-6.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d400e9c9bb8c025e5a3c77c236941bb690494be52528a0b43cc7e8b7c9505064",
+    "dependencies": {
+      "required": [
+        "backports-zoneinfo",
+        "python-dateutil",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "backports-zoneinfo; python_version < '3.9'",
+      "python-dateutil",
+      "tzdata",
+      "coverage; extra == 'test'",
+      "hypothesis; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytz; extra == 'test'"
+    ]
+  },
+  "icalendar-6.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ea1d1b212df685353f74cdc6ec9646bf42fa557d1746ea645ce8779fdfbecdd",
+    "dependencies": {
+      "required": [
+        "backports-zoneinfo",
+        "python-dateutil",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "backports-zoneinfo; python_version < '3.9'",
+      "python-dateutil",
+      "tzdata",
+      "coverage; extra == 'test'",
+      "hypothesis; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytz; extra == 'test'"
+    ]
+  },
+  "icalendar-6.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc95bb2ebe8947580651618dbe1e0ce8e3bce7f2a88738ecb3325922c1d48a22",
+    "dependencies": {
+      "required": [
+        "backports-zoneinfo",
+        "python-dateutil",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "backports-zoneinfo; python_version < '3.9'",
+      "python-dateutil",
+      "tzdata",
+      "coverage; extra == 'test'",
+      "hypothesis; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytz; extra == 'test'"
+    ]
+  },
+  "icalendar-6.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "25c650cb6571e6f38335e88d614cadf23e347cf32c8acbd6144ce9de9018c5ae",
+    "dependencies": {
+      "required": [
+        "backports-zoneinfo",
+        "python-dateutil",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "backports-zoneinfo; python_version < '3.9'",
+      "python-dateutil",
+      "tzdata",
+      "coverage; extra == 'test'",
+      "hypothesis; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytz; extra == 'test'"
+    ]
+  },
+  "icalendar-6.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11eb5d21a1a9e119a6efc0f9e38f2cf1622ef97777cd25fb0dd7074d393a2a8d",
+    "dependencies": {
+      "required": [
+        "backports-zoneinfo",
+        "python-dateutil",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "backports-zoneinfo; python_version < '3.9'",
+      "python-dateutil",
+      "tzdata",
+      "coverage; extra == 'test'",
+      "hypothesis; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytz; extra == 'test'"
+    ]
+  }
+}

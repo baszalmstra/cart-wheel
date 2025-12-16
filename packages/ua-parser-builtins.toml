@@ -1,0 +1,12 @@
+# Package configuration for ua-parser-builtins
+conda_forge = "ua-parser-builtins"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ua_parser_builtins-0.18.0.post1-py3-none-any.whl" },
+  { filename = "ua_parser_builtins-0.18.0-py3-none-any.whl" },
+  { filename = "ua_parser_builtins-0.16.0.post1-py3-none-any.whl" },
+  { filename = "ua_parser_builtins-0.16.0-py3-none-any.whl" },
+  { filename = "ua_parser_builtins-0.15.0.post1-py3-none-any.whl" },
+]

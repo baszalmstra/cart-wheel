@@ -1,0 +1,9 @@
+# Package configuration for littleutils
+conda_forge = "littleutils"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "littleutils-0.2.4-py3-none-any.whl" },
+  { filename = "littleutils-0.0.0-py3-none-any.whl" },
+]

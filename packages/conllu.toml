@@ -1,0 +1,12 @@
+# Package configuration for conllu
+conda_forge = "conllu"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "conllu-6.0.0-py3-none-any.whl" },
+  { filename = "conllu-5.0.2-py3-none-any.whl" },
+  { filename = "conllu-5.0.1-py3-none-any.whl" },
+  { filename = "conllu-4.5.3-py2.py3-none-any.whl" },
+  { filename = "conllu-4.5.2-py2.py3-none-any.whl" },
+]

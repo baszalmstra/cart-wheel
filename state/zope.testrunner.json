@@ -1,0 +1,105 @@
+{
+  "zope_testrunner-8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34fd7c9960f82ab8f3b67ff63f8a466080c0d0a9739e6e789ffa95bec60bbeea",
+    "dependencies": {
+      "required": [
+        "zope.exceptions",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "zope.exceptions",
+      "zope.interface",
+      "zope.testing; extra == \"test\"",
+      "python-subunit>=1.4.3; extra == \"subunit\"",
+      "testtools>=0.9.30; extra == \"subunit\"",
+      "Sphinx; extra == \"docs\"",
+      "sphinxcontrib-programoutput; extra == \"docs\""
+    ]
+  },
+  "zope_testrunner-8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a64dd6775cc90dbb2f047129af34b632c95be7dde04b5f54a337bca94560e591",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.exceptions",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.exceptions",
+      "zope.interface",
+      "zope.testing; extra == \"test\"",
+      "python-subunit>=1.4.3; extra == \"subunit\"",
+      "testtools>=0.9.30; extra == \"subunit\"",
+      "Sphinx; extra == \"docs\"",
+      "sphinxcontrib-programoutput; extra == \"docs\""
+    ]
+  },
+  "zope.testrunner-7.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0f9e070a43dbe882f22e404b0180f5d48a56a5034f4dafb3922e8516ec561d0",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.exceptions",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.exceptions",
+      "zope.interface",
+      "zope.testing; extra == \"test\"",
+      "python-subunit>=1.4.3; extra == \"subunit\"",
+      "testtools>=0.9.30; extra == \"subunit\"",
+      "Sphinx; extra == \"docs\"",
+      "sphinxcontrib-programoutput; extra == \"docs\""
+    ]
+  },
+  "zope.testrunner-7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "96e9ea977c55bf3f18ae5fdbdbe8568db1a6ccbccca8b6b5adcc38a29dc7ba23",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.exceptions",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.exceptions",
+      "zope.interface",
+      "zope.testing; extra == \"test\"",
+      "python-subunit>=1.4.3; extra == \"subunit\"",
+      "testtools>=0.9.30; extra == \"subunit\"",
+      "Sphinx; extra == \"docs\"",
+      "sphinxcontrib-programoutput; extra == \"docs\""
+    ]
+  },
+  "zope.testrunner-7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fec07f0fcabf9c4c9c82fc7a596bd2db1d44c2e4476f56c4810e66e0d74c4005",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.exceptions",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.exceptions",
+      "zope.interface",
+      "zope.testing; extra == \"test\"",
+      "python-subunit>=1.4.3; extra == \"subunit\"",
+      "testtools>=0.9.30; extra == \"subunit\"",
+      "Sphinx; extra == \"docs\"",
+      "sphinxcontrib-programoutput; extra == \"docs\""
+    ]
+  }
+}

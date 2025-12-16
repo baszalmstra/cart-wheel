@@ -1,0 +1,156 @@
+{
+  "apache_airflow_providers_apache_kafka-1.11.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:09.773870+00:00",
+    "conda_file": "apache-airflow-providers-apache-kafka-1.11.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "asgiref",
+        "confluent-kafka"
+      ],
+      "optional": {
+        "common-messaging": [
+          "apache-airflow-providers-common-messaging"
+        ],
+        "google": [
+          "apache-airflow-providers-google"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "asgiref>=2.3.0",
+      "confluent-kafka>=2.6.0",
+      "apache-airflow-providers-common-messaging>=2.0.0 ; extra == \"common-messaging\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_apache_kafka-1.11.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:09.719748+00:00",
+    "conda_file": "apache-airflow-providers-apache-kafka-1.11.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "asgiref",
+        "confluent-kafka"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ],
+        "common-messaging": [
+          "apache-airflow-providers-common-messaging"
+        ],
+        "google": [
+          "apache-airflow-providers-google"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "asgiref>=2.3.0",
+      "confluent-kafka>=2.6.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-common-messaging>=2.0.0 ; extra == \"common-messaging\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_apache_kafka-1.10.6-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:09.607664+00:00",
+    "conda_file": "apache-airflow-providers-apache-kafka-1.10.6-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "asgiref",
+        "confluent-kafka"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ],
+        "common-messaging": [
+          "apache-airflow-providers-common-messaging"
+        ],
+        "google": [
+          "apache-airflow-providers-google"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "asgiref>=2.3.0",
+      "confluent-kafka>=2.6.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-common-messaging>=2.0.0 ; extra == \"common-messaging\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_apache_kafka-1.10.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:09.936630+00:00",
+    "conda_file": "apache-airflow-providers-apache-kafka-1.10.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "asgiref",
+        "confluent-kafka"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ],
+        "common-messaging": [
+          "apache-airflow-providers-common-messaging"
+        ],
+        "google": [
+          "apache-airflow-providers-google"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "asgiref>=2.3.0",
+      "confluent-kafka>=2.6.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-common-messaging>=2.0.0 ; extra == \"common-messaging\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  },
+  "apache_airflow_providers_apache_kafka-1.10.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:09.855747+00:00",
+    "conda_file": "apache-airflow-providers-apache-kafka-1.10.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "asgiref",
+        "confluent-kafka"
+      ],
+      "optional": {
+        "common-messaging": [
+          "apache-airflow-providers-common-messaging"
+        ],
+        "google": [
+          "apache-airflow-providers-google"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "asgiref>=2.3.0",
+      "confluent-kafka>=2.6.0",
+      "apache-airflow-providers-common-messaging>=2.0.0 ; extra == \"common-messaging\"",
+      "apache-airflow-providers-google ; extra == \"google\""
+    ]
+  }
+}

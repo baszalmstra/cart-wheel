@@ -1,0 +1,92 @@
+{
+  "array_api_compat-1.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a0b4795b6944a9507fde54679f9350e2ad2b1e2acf4a2408a098cdc27f890a8b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cupy; extra == \"cupy\"",
+      "dask>=2024.9.0; extra == \"dask\"",
+      "jax; extra == \"jax\"",
+      "numpy>=1.22; extra == \"numpy\"",
+      "torch; extra == \"pytorch\"",
+      "sparse>=0.15.1; extra == \"sparse\"",
+      "ndonnx; extra == \"ndonnx\"",
+      "furo; extra == \"docs\"",
+      "linkify-it-py; extra == \"docs\"",
+      "myst-parser; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "sphinx-copybutton; extra == \"docs\"",
+      "sphinx-autobuild; extra == \"docs\"",
+      "array-api-strict; extra == \"dev\"",
+      "dask[array]>=2024.9.0; extra == \"dev\"",
+      "jax[cpu]; extra == \"dev\"",
+      "numpy>=1.22; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "torch; extra == \"dev\"",
+      "sparse>=0.15.1; extra == \"dev\"",
+      "ndonnx; extra == \"dev\""
+    ]
+  },
+  "array_api_compat-1.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1d0059714a4153b3ae37c989e47b07418f727be5b22908dd3cf9d19bdc2c547",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "numpy; extra == \"numpy\"",
+      "cupy; extra == \"cupy\"",
+      "jax; extra == \"jax\"",
+      "pytorch; extra == \"pytorch\"",
+      "dask; extra == \"dask\"",
+      "sparse>=0.15.1; extra == \"sparse\""
+    ]
+  },
+  "array_api_compat-1.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf5efc8e171a65694c8d316223edebc22161dce052e994c21a9cbb4deb3d056b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "numpy; extra == \"numpy\"",
+      "cupy; extra == \"cupy\"",
+      "jax; extra == \"jax\"",
+      "pytorch; extra == \"pytorch\"",
+      "dask; extra == \"dask\"",
+      "sparse>=0.15.1; extra == \"sparse\""
+    ]
+  },
+  "array_api_compat-1.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6d8d11ba6a1366f0a8a838e993542539d38b638c27b8c2ac04965d322d66544",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "numpy; extra == \"numpy\"",
+      "cupy; extra == \"cupy\"",
+      "jax; extra == \"jax\"",
+      "pytorch; extra == \"pytorch\"",
+      "dask; extra == \"dask\"",
+      "sparse>=0.15.1; extra == \"sparse\""
+    ]
+  },
+  "array_api_compat-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d9066981fbc730174861b4394f38e27928827cbf7ed5becd8b1263b507c58864",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "numpy; extra == \"numpy\"",
+      "cupy; extra == \"cupy\"",
+      "jax; extra == \"jax\"",
+      "pytorch; extra == \"pytorch\"",
+      "dask; extra == \"dask\"",
+      "sparse>=0.15.1; extra == \"sparse\""
+    ]
+  }
+}

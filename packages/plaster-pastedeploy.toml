@@ -1,0 +1,12 @@
+# Package configuration for plaster-pastedeploy
+conda_forge = "plaster_pastedeploy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "plaster_pastedeploy-1.0.1-py2.py3-none-any.whl" },
+  { filename = "plaster_pastedeploy-1.0-py2.py3-none-any.whl" },
+  { filename = "plaster_pastedeploy-0.7-py2.py3-none-any.whl" },
+  { filename = "plaster_pastedeploy-0.6-py2.py3-none-any.whl" },
+  { filename = "plaster_pastedeploy-0.5-py2.py3-none-any.whl" },
+]

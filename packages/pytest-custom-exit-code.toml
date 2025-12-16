@@ -1,0 +1,12 @@
+# Package configuration for pytest-custom-exit-code
+conda_forge = "pytest-custom-exit-code"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_custom_exit_code-0.3.0-py3-none-any.whl" },
+  { filename = "pytest_custom_exit_code-0.2.1-py3-none-any.whl" },
+  { filename = "pytest_custom_exit_code-0.2.0-py3-none-any.whl" },
+  { filename = "pytest_custom_exit_code-0.1.2-py3-none-any.whl" },
+  { filename = "pytest_custom_exit_code-0.1.1-py3-none-any.whl" },
+]

@@ -1,0 +1,112 @@
+{
+  "sphinxcontrib_video-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d63ec68983dac36960557973281a616b5d9e68838369763313fc80533b1ad774",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "nox; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"test\"",
+      "beautifulsoup4; extra == \"test\"",
+      "pytest-regressions; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "defusedxml; extra == \"test\"",
+      "sphinx<8; extra == \"doc\"",
+      "pydata-sphinx-theme; extra == \"doc\"",
+      "sphinx-design; extra == \"doc\""
+    ]
+  },
+  "sphinxcontrib_video-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b94212a6a3489f399ab8287db01536cdd018b5410bbf78d0685db96777ce44e8",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "nox; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"test\"",
+      "beautifulsoup4; extra == \"test\"",
+      "pytest-regressions; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "defusedxml; extra == \"test\"",
+      "pydata-sphinx-theme; extra == \"doc\"",
+      "sphinx-design; extra == \"doc\""
+    ]
+  },
+  "sphinxcontrib_video-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d9601adfd57d89807ae8045c13e29e43af31dfa21a60a9f6eaec386ee00100b",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "nox; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"test\"",
+      "beautifulsoup4; extra == \"test\"",
+      "pytest-regressions; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "defusedxml; extra == \"test\"",
+      "pydata-sphinx-theme; extra == \"doc\"",
+      "sphinx-design; extra == \"doc\""
+    ]
+  },
+  "sphinxcontrib_video-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "953450be3491241c7de889eeba15cd08fc4abab558963694154446b1167264c7",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "nox; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pydata-sphinx-theme; extra == \"doc\"",
+      "sphinx-design; extra == \"doc\"",
+      "pytest; extra == \"test\"",
+      "beautifulsoup4; extra == \"test\"",
+      "pytest-regressions; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "defusedxml; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_video-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ebc31be0bb96e1aee260efe6b3806b81f9db20535c55b2f4ba355404f38d067d",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "nox ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pydata-sphinx-theme ==0.13.0rc3 ; extra == 'doc'",
+      "sphinx-design ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "beautifulsoup4 ; extra == 'test'",
+      "pytest-regressions ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  }
+}

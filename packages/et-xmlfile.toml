@@ -1,0 +1,9 @@
+# Package configuration for et-xmlfile
+conda_forge = "et-xmlfile"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "et_xmlfile-2.0.0-py3-none-any.whl" },
+  { filename = "et_xmlfile-1.1.0-py3-none-any.whl" },
+]

@@ -1,0 +1,7 @@
+# Package configuration for mypy-boto3-route53globalresolver
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_route53globalresolver-1.42.3-py3-none-any.whl" },
+]

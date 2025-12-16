@@ -1,0 +1,12 @@
+# Package configuration for ipycanvas
+conda_forge = "ipycanvas"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipycanvas-0.14.3-py2.py3-none-any.whl" },
+  { filename = "ipycanvas-0.14.2-py2.py3-none-any.whl" },
+  { filename = "ipycanvas-0.14.1-py2.py3-none-any.whl" },
+  { filename = "ipycanvas-0.14.0-py2.py3-none-any.whl" },
+  { filename = "ipycanvas-0.13.3-py2.py3-none-any.whl" },
+]

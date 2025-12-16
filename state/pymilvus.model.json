@@ -1,0 +1,62 @@
+{
+  "pymilvus_model-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df8a90519a2adc47bd40f37d8c250b0ad0c7aaafc6139b52dc896d5cfda55d35",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "onnxruntime",
+        "scipy",
+        "protobuf",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "transformers>=4.36.0",
+      "onnxruntime",
+      "scipy>=1.10.0",
+      "protobuf",
+      "numpy"
+    ]
+  },
+  "pymilvus_model-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c08286e33747319d813abf53a7cbaef812428bc10f9141dfda02e771f9c1ef44",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "onnxruntime",
+        "scipy",
+        "protobuf",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "transformers>=4.36.0",
+      "onnxruntime",
+      "scipy>=1.10.0",
+      "protobuf",
+      "numpy"
+    ]
+  },
+  "pymilvus.model-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "05c0ce5cbd073f7dab77d1ab805110b31059ffe53811a78f99a6b5729b7a2b6b",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "onnxruntime",
+        "scipy",
+        "protobuf",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "transformers>=4.36.0",
+      "onnxruntime",
+      "scipy>=1.10.0",
+      "protobuf",
+      "numpy"
+    ]
+  }
+}

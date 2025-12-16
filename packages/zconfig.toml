@@ -1,0 +1,12 @@
+# Package configuration for zconfig
+conda_forge = "zconfig"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zconfig-4.3-py3-none-any.whl" },
+  { filename = "ZConfig-4.2-py3-none-any.whl" },
+  { filename = "ZConfig-4.1-py3-none-any.whl" },
+  { filename = "ZConfig-4.0-py3-none-any.whl" },
+  { filename = "ZConfig-3.6.1-py2.py3-none-any.whl" },
+]

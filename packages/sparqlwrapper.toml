@@ -1,0 +1,11 @@
+# Package configuration for sparqlwrapper
+conda_forge = "sparqlwrapper"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "SPARQLWrapper-2.0.0-py3-none-any.whl" },
+  { filename = "SPARQLWrapper-1.8.5-py3-none-any.whl" },
+  { filename = "SPARQLWrapper-1.8.4-py3-none-any.whl" },
+  { filename = "SPARQLWrapper-1.8.2-py3-none-any.whl" },
+]

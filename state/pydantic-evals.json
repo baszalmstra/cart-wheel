@@ -1,0 +1,117 @@
+{
+  "pydantic_evals-1.32.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec4a4328d909f87a23e9f4d07256b4edfb466afd60af72288795f487a36d2a90",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "logfire-api",
+        "pydantic-ai-slim",
+        "pydantic",
+        "pyyaml",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "anyio>=0",
+      "logfire-api>=3.14.1",
+      "pydantic-ai-slim==1.32.0",
+      "pydantic>=2.10",
+      "pyyaml>=6.0.2",
+      "rich>=13.9.4",
+      "logfire>=3.14.1; extra == 'logfire'"
+    ]
+  },
+  "pydantic_evals-1.31.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d0e9e120cb40311fc7776c1433ad3281493ed4b06f43af33cc0ef4a19d7b86d",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "logfire-api",
+        "pydantic-ai-slim",
+        "pydantic",
+        "pyyaml",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "anyio>=0",
+      "logfire-api>=3.14.1",
+      "pydantic-ai-slim==1.31.0",
+      "pydantic>=2.10",
+      "pyyaml>=6.0.2",
+      "rich>=13.9.4",
+      "logfire>=3.14.1; extra == 'logfire'"
+    ]
+  },
+  "pydantic_evals-1.30.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "57954581f60dbf7147893d55c3568b14f0e3cb432c9e8a27324e280ee50a06b9",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "logfire-api",
+        "pydantic-ai-slim",
+        "pydantic",
+        "pyyaml",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "anyio>=0",
+      "logfire-api>=3.14.1",
+      "pydantic-ai-slim==1.30.1",
+      "pydantic>=2.10",
+      "pyyaml>=6.0.2",
+      "rich>=13.9.4",
+      "logfire>=3.14.1; extra == 'logfire'"
+    ]
+  },
+  "pydantic_evals-1.30.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60a6c87ac93256f387558e60a85c827421ecfdcdfda71974c13acb055eefd1a5",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "logfire-api",
+        "pydantic-ai-slim",
+        "pydantic",
+        "pyyaml",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "anyio>=0",
+      "logfire-api>=3.14.1",
+      "pydantic-ai-slim==1.30.0",
+      "pydantic>=2.10",
+      "pyyaml>=6.0.2",
+      "rich>=13.9.4",
+      "logfire>=3.14.1; extra == 'logfire'"
+    ]
+  },
+  "pydantic_evals-1.29.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1ab554e04ced57a69e65549542404131d52f8d8ac76bb2e3674dca52005f869c",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "logfire-api",
+        "pydantic-ai-slim",
+        "pydantic",
+        "pyyaml",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "anyio>=0",
+      "logfire-api>=3.14.1",
+      "pydantic-ai-slim==1.29.0",
+      "pydantic>=2.10",
+      "pyyaml>=6.0.2",
+      "rich>=13.9.4",
+      "logfire>=3.14.1; extra == 'logfire'"
+    ]
+  }
+}

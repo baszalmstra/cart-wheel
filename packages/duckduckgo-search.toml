@@ -1,0 +1,11 @@
+# Package configuration for duckduckgo-search
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "duckduckgo_search-8.1.1-py3-none-any.whl" },
+  { filename = "duckduckgo_search-8.1.0-py3-none-any.whl" },
+  { filename = "duckduckgo_search-8.0.5-py3-none-any.whl" },
+  { filename = "duckduckgo_search-8.0.4-py3-none-any.whl" },
+  { filename = "duckduckgo_search-8.0.3-py3-none-any.whl" },
+]

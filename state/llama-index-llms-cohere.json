@@ -1,0 +1,72 @@
+{
+  "llama_index_llms_cohere-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "25aa217bd842911b841eabda9625df88989cc93c56181039fffda10c7d653b38",
+    "dependencies": {
+      "required": [
+        "cohere",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "cohere<6,>=5.1.1",
+      "llama-index-core<0.15,>=0.13.0"
+    ]
+  },
+  "llama_index_llms_cohere-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72846439daf01c3a69e6bec612c69ff27680dcb74a7243195ec6eb3953be55d2",
+    "dependencies": {
+      "required": [
+        "cohere",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "cohere<6,>=5.1.1",
+      "llama-index-core<0.14,>=0.13.0"
+    ]
+  },
+  "llama_index_llms_cohere-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5e6d6de1b0be857ac25523cb08c53bb636c7c94afb060f6ca73135e55ce8dd73",
+    "dependencies": {
+      "required": [
+        "cohere",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "cohere<6,>=5.1.1",
+      "llama-index-core<0.13,>=0.12.0"
+    ]
+  },
+  "llama_index_llms_cohere-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7938890d870672a264cb7e6a5074d5193d8322014d498175e63f7aabfc5f91f9",
+    "dependencies": {
+      "required": [
+        "cohere",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "cohere (>=5.1.1,<6.0.0)",
+      "llama-index-core (>=0.12.0,<0.13.0)"
+    ]
+  },
+  "llama_index_llms_cohere-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf787a9cf0613082c728310fc9cda4e77693f7bd047e7c9395ca4e4fc8c6450b",
+    "dependencies": {
+      "required": [
+        "cohere",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "cohere (>=5.1.1,<6.0.0)",
+      "llama-index-core (>=0.12.0,<0.13.0)"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for pycparser
+conda_forge = "pycparser"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pycparser-2.23-py3-none-any.whl" },
+  { filename = "pycparser-2.22-py3-none-any.whl" },
+  { filename = "pycparser-2.21-py2.py3-none-any.whl" },
+  { filename = "pycparser-2.20-py2.py3-none-any.whl" },
+]

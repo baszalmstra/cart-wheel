@@ -1,0 +1,16 @@
+{
+  "samplerate-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f55e5c9d0a8ba3c82a53b7d9c34a2d145439c61166a7f310efaec88f2781b8f8",
+    "dependencies": {
+      "required": [
+        "cffi",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "cffi (>=1.0.0)",
+      "numpy"
+    ]
+  }
+}

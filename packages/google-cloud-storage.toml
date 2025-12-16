@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-storage
+conda_forge = "google-cloud-storage"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_storage-3.7.0-py3-none-any.whl" },
+  { filename = "google_cloud_storage-3.6.0-py3-none-any.whl" },
+  { filename = "google_cloud_storage-3.5.0-py3-none-any.whl" },
+  { filename = "google_cloud_storage-3.4.1-py3-none-any.whl" },
+  { filename = "google_cloud_storage-3.4.0-py3-none-any.whl" },
+]

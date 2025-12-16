@@ -1,0 +1,12 @@
+# Package configuration for sphinx-immaterial
+conda_forge = "sphinx-immaterial"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_immaterial-0.13.8-py3-none-any.whl" },
+  { filename = "sphinx_immaterial-0.13.7-py3-none-any.whl" },
+  { filename = "sphinx_immaterial-0.13.6-py3-none-any.whl" },
+  { filename = "sphinx_immaterial-0.13.5-py3-none-any.whl" },
+  { filename = "sphinx_immaterial-0.13.4-py3-none-any.whl" },
+]

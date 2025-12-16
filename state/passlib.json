@@ -1,0 +1,71 @@
+{
+  "passlib-1.7.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa6bca462b8d8bda89c70b382f0c298a20b5560af6cbfa2dce410c0a2fb669f1",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "argon2-cffi (>=18.2.0) ; extra == 'argon2'",
+      "bcrypt (>=3.1.0) ; extra == 'bcrypt'",
+      "sphinx (>=1.6) ; extra == 'build_docs'",
+      "sphinxcontrib-fulltoc (>=1.2.0) ; extra == 'build_docs'",
+      "cloud-sptheme (>=1.10.1) ; extra == 'build_docs'",
+      "cryptography ; extra == 'totp'"
+    ]
+  },
+  "passlib-1.7.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a203263a2dbb97f3103603c780dce7a7253722951c717b424ed8cd7c72587ae1",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "argon2-cffi (>=18.2.0) ; extra == 'argon2'",
+      "bcrypt (>=3.1.0) ; extra == 'bcrypt'",
+      "sphinx (>=1.6) ; extra == 'build_docs'",
+      "sphinxcontrib-fulltoc (>=1.2.0) ; extra == 'build_docs'",
+      "cloud-sptheme (>=1.10.1) ; extra == 'build_docs'",
+      "cryptography ; extra == 'totp'"
+    ]
+  },
+  "passlib-1.7.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "68c35c98a7968850e17f1b6892720764cc7eed0ef2b7cb3116a89a28e43fe177",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "argon2-cffi (>=18.2.0) ; extra == 'argon2'",
+      "bcrypt (>=3.1.0) ; extra == 'bcrypt'",
+      "sphinx (>=1.6) ; extra == 'build_docs'",
+      "sphinxcontrib-fulltoc (>=1.2.0) ; extra == 'build_docs'",
+      "cloud-sptheme (>=1.10.0) ; extra == 'build_docs'",
+      "cryptography ; extra == 'totp'"
+    ]
+  },
+  "passlib-1.7.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43526aea08fa32c6b6dbbbe9963c4c767285b78147b7437597f992812f69d280",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "argon2-cffi (>=16.2); extra == 'argon2'",
+      "bcrypt (>=3.1.0); extra == 'bcrypt'",
+      "cryptography; extra == 'totp'"
+    ]
+  },
+  "passlib-1.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "47d76a117a9728bc1b0710ed7d7232f5325566d2c35647ffb017e57f943d7f07",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "argon2-cffi (>=16.2); extra == 'argon2'",
+      "bcrypt (>=3.1.0); extra == 'bcrypt'",
+      "cryptography; extra == 'totp'"
+    ]
+  }
+}

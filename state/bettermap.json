@@ -1,0 +1,42 @@
+{
+  "bettermap-1.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eaf5190cb3f1eadafdbbfef30f0379f9a80a2be93085c5acdfb55e37344305a6",
+    "dependencies": {
+      "required": [
+        "dill"
+      ]
+    },
+    "original_requirements": [
+      "dill",
+      "flaky ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "packaging ; extra == 'dev'",
+      "pytest-sphinx ; extra == 'dev'",
+      "pytest (>=6.2.5) ; extra == 'dev'",
+      "setuptools ; extra == 'dev'",
+      "twine (>=1.11.0) ; extra == 'dev'",
+      "wheel ; extra == 'dev'"
+    ]
+  },
+  "bettermap-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82a48b384d0a1f7d2d36a675b260e3a80366c3a87fc913070ac56d921351755a",
+    "dependencies": {
+      "required": [
+        "dill"
+      ]
+    },
+    "original_requirements": [
+      "dill",
+      "flaky ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "packaging ; extra == 'dev'",
+      "pytest-sphinx ; extra == 'dev'",
+      "pytest (>=6.2.5) ; extra == 'dev'",
+      "setuptools ; extra == 'dev'",
+      "twine (>=1.11.0) ; extra == 'dev'",
+      "wheel ; extra == 'dev'"
+    ]
+  }
+}

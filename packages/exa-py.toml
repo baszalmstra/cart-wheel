@@ -1,0 +1,11 @@
+# Package configuration for exa-py
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "exa_py-2.0.1-py3-none-any.whl" },
+  { filename = "exa_py-2.0.0-py3-none-any.whl" },
+  { filename = "exa_py-1.16.1-py3-none-any.whl" },
+  { filename = "exa_py-1.16.0-py3-none-any.whl" },
+  { filename = "exa_py-1.15.6-py3-none-any.whl" },
+]

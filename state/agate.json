@@ -1,0 +1,222 @@
+{
+  "agate-1.13.0-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:47:25.309128+00:00",
+    "conda_file": "agate-1.13.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "babel",
+        "isodate",
+        "leather",
+        "parsedatetime",
+        "python-slugify",
+        "pytimeparse",
+        "tzdata"
+      ],
+      "optional": {
+        "test": [
+          "coverage",
+          "cssselect",
+          "lxml",
+          "pyicu",
+          "pytest",
+          "pytest-cov",
+          "backports.zoneinfo;"
+        ]
+      }
+    },
+    "original_requirements": [
+      "Babel>=2.0",
+      "isodate>=0.5.4",
+      "leather>=0.3.2",
+      "parsedatetime!=2.5,>=2.1",
+      "python-slugify>=1.2.1",
+      "pytimeparse>=1.1.5",
+      "tzdata>=2023.3; platform_system == \"Windows\"",
+      "coverage>=3.7.1; extra == \"test\"",
+      "cssselect>=0.9.1; extra == \"test\"",
+      "lxml>=3.6.0; extra == \"test\"",
+      "PyICU>=2.4.2; sys_platform == \"linux\" and extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "backports.zoneinfo; python_version < \"3.9\" and extra == \"test\""
+    ]
+  },
+  "agate-1.12.0-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:47:25.385748+00:00",
+    "conda_file": "agate-1.12.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "babel",
+        "isodate",
+        "leather",
+        "parsedatetime",
+        "python-slugify",
+        "pytimeparse",
+        "tzdata"
+      ],
+      "optional": {
+        "test": [
+          "coverage",
+          "cssselect",
+          "lxml",
+          "pytest",
+          "pytest-cov",
+          "backports.zoneinfo;",
+          "pyicu"
+        ]
+      }
+    },
+    "original_requirements": [
+      "Babel >=2.0",
+      "isodate >=0.5.4",
+      "leather >=0.3.2",
+      "parsedatetime !=2.5,>=2.1",
+      "python-slugify >=1.2.1",
+      "pytimeparse >=1.1.5",
+      "tzdata >=2023.3 ; platform_system == \"Windows\"",
+      "coverage >=3.7.1 ; extra == 'test'",
+      "cssselect >=0.9.1 ; extra == 'test'",
+      "lxml >=3.6.0 ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "backports.zoneinfo ; (python_version < \"3.9\") and extra == 'test'",
+      "PyICU >=2.4.2 ; (sys_platform == \"linux\") and extra == 'test'"
+    ]
+  },
+  "agate-1.11.0-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:47:25.457078+00:00",
+    "conda_file": "agate-1.11.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "babel",
+        "isodate",
+        "leather",
+        "parsedatetime",
+        "python-slugify",
+        "pytimeparse",
+        "tzdata"
+      ],
+      "optional": {
+        "test": [
+          "coverage",
+          "cssselect",
+          "lxml",
+          "pytest",
+          "pytest-cov",
+          "backports.zoneinfo;",
+          "pyicu"
+        ]
+      }
+    },
+    "original_requirements": [
+      "Babel >=2.0",
+      "isodate >=0.5.4",
+      "leather >=0.3.2",
+      "parsedatetime !=2.5,>=2.1",
+      "python-slugify >=1.2.1",
+      "pytimeparse >=1.1.5",
+      "tzdata >=2023.3 ; platform_system == \"Windows\"",
+      "coverage >=3.7.1 ; extra == 'test'",
+      "cssselect >=0.9.1 ; extra == 'test'",
+      "lxml >=3.6.0 ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "backports.zoneinfo ; (python_version < \"3.9\") and extra == 'test'",
+      "PyICU >=2.4.2 ; (sys_platform == \"linux\") and extra == 'test'"
+    ]
+  },
+  "agate-1.10.2-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:47:25.701406+00:00",
+    "conda_file": "agate-1.10.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "babel",
+        "isodate",
+        "leather",
+        "parsedatetime",
+        "python-slugify",
+        "pytimeparse",
+        "tzdata"
+      ],
+      "optional": {
+        "test": [
+          "coverage",
+          "cssselect",
+          "lxml",
+          "pytest",
+          "pytest-cov",
+          "backports.zoneinfo;",
+          "pyicu"
+        ]
+      }
+    },
+    "original_requirements": [
+      "Babel >=2.0",
+      "isodate >=0.5.4",
+      "leather >=0.3.2",
+      "parsedatetime !=2.5,>=2.1",
+      "python-slugify >=1.2.1",
+      "pytimeparse >=1.1.5",
+      "tzdata >=2023.3 ; platform_system == \"Windows\"",
+      "coverage >=3.7.1 ; extra == 'test'",
+      "cssselect >=0.9.1 ; extra == 'test'",
+      "lxml >=3.6.0 ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "backports.zoneinfo ; (python_version < \"3.9\") and extra == 'test'",
+      "PyICU >=2.4.2 ; (sys_platform == \"linux\") and extra == 'test'"
+    ]
+  },
+  "agate-1.10.1-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:47:25.780691+00:00",
+    "conda_file": "agate-1.10.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "babel",
+        "isodate",
+        "leather",
+        "parsedatetime",
+        "python-slugify",
+        "pytimeparse",
+        "tzdata"
+      ],
+      "optional": {
+        "test": [
+          "coverage",
+          "cssselect",
+          "lxml",
+          "pytest",
+          "pytest-cov",
+          "backports.zoneinfo;",
+          "pyicu"
+        ]
+      }
+    },
+    "original_requirements": [
+      "Babel >=2.0",
+      "isodate >=0.5.4",
+      "leather >=0.3.2",
+      "parsedatetime !=2.5,>=2.1",
+      "python-slugify >=1.2.1",
+      "pytimeparse >=1.1.5",
+      "tzdata >=2023.3 ; platform_system == \"Windows\"",
+      "coverage >=3.7.1 ; extra == 'test'",
+      "cssselect >=0.9.1 ; extra == 'test'",
+      "lxml >=3.6.0 ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "backports.zoneinfo ; (python_version < \"3.9\") and extra == 'test'",
+      "PyICU >=2.4.2 ; (sys_platform == \"linux\") and extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "b2luigi-1.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "45393de24fb7e07e40f770264c31205182ee001d51ac5a6b36f5e3934fa3265a",
+    "dependencies": {
+      "required": [
+        "luigi",
+        "parse",
+        "gitpython",
+        "colorama",
+        "cachetools",
+        "jinja2",
+        "retry2"
+      ]
+    },
+    "original_requirements": [
+      "luigi>=3.0.2",
+      "parse>=1.8.4",
+      "GitPython>=2.1.11",
+      "colorama>=0.3.9",
+      "cachetools>=2.1.0",
+      "jinja2",
+      "retry2>=0.9.3",
+      "pre_commit ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "pytest-cov ; extra == \"dev\"",
+      "python-coveralls ; extra == \"dev\"",
+      "bump-my-version ; extra == \"dev\"",
+      "sphinx ; extra == \"doc\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "sphinxcontrib-applehelp ; extra == \"doc\"",
+      "sphinxcontrib-devhelp ; extra == \"doc\"",
+      "sphinxcontrib-htmlhelp ; extra == \"doc\"",
+      "sphinxcontrib-jsmath ; extra == \"doc\"",
+      "sphinxcontrib-qthelp ; extra == \"doc\"",
+      "sphinxcontrib-serializinghtml ; extra == \"doc\"",
+      "sphinx-gallery ; extra == \"doc\"",
+      "sphinx-autobuild ; extra == \"doc\"",
+      "sphinx-sitemap ; extra == \"doc\"",
+      "sphinx-notfound-page ; extra == \"doc\""
+    ]
+  },
+  "b2luigi-1.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ae11aa07e6841930e522333b3ca2975b81204a35d55f968e303367ced8c7419",
+    "dependencies": {
+      "required": [
+        "luigi",
+        "parse",
+        "gitpython",
+        "colorama",
+        "cachetools",
+        "jinja2",
+        "retry2"
+      ]
+    },
+    "original_requirements": [
+      "luigi>=3.0.2",
+      "parse>=1.8.4",
+      "GitPython>=2.1.11",
+      "colorama>=0.3.9",
+      "cachetools>=2.1.0",
+      "jinja2",
+      "retry2>=0.9.3",
+      "pre_commit ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "pytest-cov ; extra == \"dev\"",
+      "python-coveralls ; extra == \"dev\"",
+      "bump-my-version ; extra == \"dev\"",
+      "sphinx ; extra == \"doc\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "sphinxcontrib-applehelp ; extra == \"doc\"",
+      "sphinxcontrib-devhelp ; extra == \"doc\"",
+      "sphinxcontrib-htmlhelp ; extra == \"doc\"",
+      "sphinxcontrib-jsmath ; extra == \"doc\"",
+      "sphinxcontrib-qthelp ; extra == \"doc\"",
+      "sphinxcontrib-serializinghtml ; extra == \"doc\"",
+      "sphinx-gallery ; extra == \"doc\"",
+      "sphinx-autobuild ; extra == \"doc\"",
+      "sphinx-sitemap ; extra == \"doc\"",
+      "sphinx-notfound-page ; extra == \"doc\""
+    ]
+  },
+  "b2luigi-1.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ea6cfc34b02907b259364b7649e685b28e80a807c89296af1adbcc90c9a88f9",
+    "dependencies": {
+      "required": [
+        "luigi",
+        "parse",
+        "gitpython",
+        "colorama",
+        "cachetools",
+        "jinja2",
+        "retry2"
+      ]
+    },
+    "original_requirements": [
+      "luigi>=3.0.2",
+      "parse>=1.8.4",
+      "GitPython>=2.1.11",
+      "colorama>=0.3.9",
+      "cachetools>=2.1.0",
+      "jinja2",
+      "retry2>=0.9.3",
+      "pre_commit ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "pytest-cov ; extra == \"dev\"",
+      "python-coveralls ; extra == \"dev\"",
+      "bump-my-version ; extra == \"dev\"",
+      "sphinx ; extra == \"doc\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "sphinxcontrib-applehelp ; extra == \"doc\"",
+      "sphinxcontrib-devhelp ; extra == \"doc\"",
+      "sphinxcontrib-htmlhelp ; extra == \"doc\"",
+      "sphinxcontrib-jsmath ; extra == \"doc\"",
+      "sphinxcontrib-qthelp ; extra == \"doc\"",
+      "sphinxcontrib-serializinghtml ; extra == \"doc\"",
+      "sphinx-gallery ; extra == \"doc\"",
+      "sphinx-autobuild ; extra == \"doc\""
+    ]
+  },
+  "b2luigi-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "deccfd0f94b6975743673f2ce959346385181eda4bf600e94f384759fc0da754",
+    "dependencies": {
+      "required": [
+        "luigi",
+        "parse",
+        "gitpython",
+        "colorama",
+        "cachetools",
+        "jinja2",
+        "retry2"
+      ]
+    },
+    "original_requirements": [
+      "luigi>=3.0.2",
+      "parse>=1.8.4",
+      "GitPython>=2.1.11",
+      "colorama>=0.3.9",
+      "cachetools>=2.1.0",
+      "jinja2",
+      "retry2>=0.9.3",
+      "pre_commit ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "pytest-cov ; extra == \"dev\"",
+      "python-coveralls ; extra == \"dev\"",
+      "bump-my-version ; extra == \"dev\"",
+      "sphinx ; extra == \"doc\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "sphinxcontrib-applehelp ; extra == \"doc\"",
+      "sphinxcontrib-devhelp ; extra == \"doc\"",
+      "sphinxcontrib-htmlhelp ; extra == \"doc\"",
+      "sphinxcontrib-jsmath ; extra == \"doc\"",
+      "sphinxcontrib-qthelp ; extra == \"doc\"",
+      "sphinxcontrib-serializinghtml ; extra == \"doc\"",
+      "sphinx-gallery ; extra == \"doc\"",
+      "sphinx-autobuild ; extra == \"doc\""
+    ]
+  },
+  "b2luigi-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6bd0a66a3575caee84402ba839d54ca5d6c6a55bfd6c6e4598d28df2aa76d82f",
+    "dependencies": {
+      "required": [
+        "luigi",
+        "parse",
+        "gitpython",
+        "colorama",
+        "cachetools",
+        "jinja2",
+        "retry2"
+      ]
+    },
+    "original_requirements": [
+      "luigi>=3.0.2",
+      "parse>=1.8.4",
+      "GitPython>=2.1.11",
+      "colorama>=0.3.9",
+      "cachetools>=2.1.0",
+      "jinja2",
+      "retry2>=0.9.3",
+      "pre_commit ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "pytest-cov ; extra == \"dev\"",
+      "python-coveralls ; extra == \"dev\"",
+      "bump-my-version ; extra == \"dev\"",
+      "sphinx==4.3.2 ; extra == \"doc\"",
+      "sphinx-book-theme==0.3.3 ; extra == \"doc\"",
+      "sphinxcontrib-applehelp==1.0.2 ; extra == \"doc\"",
+      "sphinxcontrib-devhelp==1.0.2 ; extra == \"doc\"",
+      "sphinxcontrib-htmlhelp==2.0.0 ; extra == \"doc\"",
+      "sphinxcontrib-jsmath==1.0.1 ; extra == \"doc\"",
+      "sphinxcontrib-qthelp==1.0.3 ; extra == \"doc\"",
+      "sphinxcontrib-serializinghtml==1.1.5 ; extra == \"doc\"",
+      "sphinx-gallery ; extra == \"doc\"",
+      "sphinx-autobuild ; extra == \"doc\""
+    ]
+  }
+}

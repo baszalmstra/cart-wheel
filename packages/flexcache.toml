@@ -1,0 +1,8 @@
+# Package configuration for flexcache
+conda_forge = "flexcache"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flexcache-0.3-py3-none-any.whl" },
+]

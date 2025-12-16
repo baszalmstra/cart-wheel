@@ -1,0 +1,10 @@
+# Package configuration for woops
+conda_forge = "woops"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "woops-0.2.1-py3-none-any.whl" },
+  { filename = "woops-0.2.0-py3-none-any.whl" },
+  { filename = "woops-0.1.0-py3-none-any.whl" },
+]

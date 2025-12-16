@@ -1,0 +1,137 @@
+{
+  "patronus_examples-0.1.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "606c05c46ad2d8f2e203c87ffb22c2b9325d41b350d112826f85971d1749f3ff",
+    "dependencies": {
+      "required": [
+        "opentelemetry-instrumentation-asyncio",
+        "opentelemetry-instrumentation-threading",
+        "patronus"
+      ]
+    },
+    "original_requirements": [
+      "opentelemetry-instrumentation-asyncio<1.0,>=0.54b0",
+      "opentelemetry-instrumentation-threading<1.0,>=0.54b0",
+      "patronus[experiments]==0.1.17",
+      "anthropic; extra == 'anthropic'",
+      "openinference-instrumentation-anthropic<0.2.0,>=0.1.17; extra == 'anthropic'",
+      "crewai<1.0.0,>=0.119.0; extra == 'crewai'",
+      "openinference-instrumentation-crewai<0.2.0,>=0.1.9; extra == 'crewai'",
+      "langchain-core; extra == 'langchain'",
+      "langchain-openai; extra == 'langchain'",
+      "langgraph; extra == 'langchain'",
+      "openinference-instrumentation-langchain<0.2.0,>=0.1.42; extra == 'langchain'",
+      "pydantic; extra == 'langchain'",
+      "openai; extra == 'openai'",
+      "openinference-instrumentation-openai<0.2.0,>=0.1.28; extra == 'openai'",
+      "openai-agents; extra == 'openai-agents'",
+      "openinference-instrumentation-openai-agents<0.2.0,>=0.1.11; extra == 'openai-agents'",
+      "pydantic-ai-slim[openai]; extra == 'pydantic-ai'",
+      "openinference-instrumentation-smolagents<0.2.0,>=0.1.11; extra == 'smolagents'",
+      "smolagents[litellm]<2.0,>=1.13.0; extra == 'smolagents'",
+      "torch<3.0,>=2.7.0; extra == 'transformers'",
+      "transformers<5.0.0,>=4.51.0; extra == 'transformers'"
+    ]
+  },
+  "patronus_examples-0.1.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "02fcc7824a3709efebbbec4499dce106c7ea487de81eb396d4160e2ffef18892",
+    "dependencies": {
+      "required": [
+        "opentelemetry-instrumentation-asyncio",
+        "opentelemetry-instrumentation-threading",
+        "patronus"
+      ]
+    },
+    "original_requirements": [
+      "opentelemetry-instrumentation-asyncio<1.0,>=0.54b0",
+      "opentelemetry-instrumentation-threading<1.0,>=0.54b0",
+      "patronus[experiments]==0.1.16",
+      "anthropic; extra == 'anthropic'",
+      "openinference-instrumentation-anthropic<0.2.0,>=0.1.17; extra == 'anthropic'",
+      "crewai<1.0.0,>=0.119.0; extra == 'crewai'",
+      "openinference-instrumentation-crewai<0.2.0,>=0.1.9; extra == 'crewai'",
+      "langchain-core; extra == 'langchain'",
+      "langchain-openai; extra == 'langchain'",
+      "langgraph; extra == 'langchain'",
+      "openinference-instrumentation-langchain<0.2.0,>=0.1.42; extra == 'langchain'",
+      "pydantic; extra == 'langchain'",
+      "openai; extra == 'openai'",
+      "openinference-instrumentation-openai<0.2.0,>=0.1.28; extra == 'openai'",
+      "openai-agents; extra == 'openai-agents'",
+      "openinference-instrumentation-openai-agents<0.2.0,>=0.1.11; extra == 'openai-agents'",
+      "pydantic-ai-slim[openai]; extra == 'pydantic-ai'",
+      "openinference-instrumentation-smolagents<0.2.0,>=0.1.11; extra == 'smolagents'",
+      "smolagents[litellm]<2.0,>=1.13.0; extra == 'smolagents'",
+      "torch<3.0,>=2.7.0; extra == 'transformers'",
+      "transformers<5.0.0,>=4.51.0; extra == 'transformers'"
+    ]
+  },
+  "patronus_examples-0.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6e8fa46ab680738813d91029c2302c504b29d7ea0d3bcda8323685f6dc8c20dd",
+    "dependencies": {
+      "required": [
+        "opentelemetry-instrumentation-asyncio",
+        "opentelemetry-instrumentation-threading",
+        "patronus"
+      ]
+    },
+    "original_requirements": [
+      "opentelemetry-instrumentation-asyncio<1.0,>=0.54b0",
+      "opentelemetry-instrumentation-threading<1.0,>=0.54b0",
+      "patronus[experiments]==0.1.5",
+      "anthropic; extra == 'anthropic'",
+      "openinference-instrumentation-anthropic<0.2.0,>=0.1.17; extra == 'anthropic'",
+      "crewai<1.0.0,>=0.119.0; extra == 'crewai'",
+      "openinference-instrumentation-crewai<0.2.0,>=0.1.9; extra == 'crewai'",
+      "langchain-core; extra == 'langchain'",
+      "langchain-openai; extra == 'langchain'",
+      "langgraph; extra == 'langchain'",
+      "openinference-instrumentation-langchain<0.2.0,>=0.1.42; extra == 'langchain'",
+      "pydantic; extra == 'langchain'",
+      "openai; extra == 'openai'",
+      "openinference-instrumentation-openai<0.2.0,>=0.1.28; extra == 'openai'",
+      "openai-agents; extra == 'openai-agents'",
+      "openinference-instrumentation-openai-agents<0.2.0,>=0.1.11; extra == 'openai-agents'",
+      "pydantic-ai-slim[openai]; extra == 'pydantic-ai'",
+      "openinference-instrumentation-smolagents<0.2.0,>=0.1.11; extra == 'smolagents'",
+      "smolagents[litellm]<2.0,>=1.13.0; extra == 'smolagents'",
+      "torch<3.0,>=2.7.0; extra == 'transformers'",
+      "transformers<5.0.0,>=4.51.0; extra == 'transformers'"
+    ]
+  },
+  "patronus_examples-0.1.4.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "259e922cced8a3422ebe9c25ef2c60189c219d7d64fe901d124a27d10b0055d9",
+    "dependencies": {
+      "required": [
+        "opentelemetry-instrumentation-asyncio",
+        "opentelemetry-instrumentation-threading",
+        "patronus"
+      ]
+    },
+    "original_requirements": [
+      "opentelemetry-instrumentation-asyncio<1.0,>=0.54b0",
+      "opentelemetry-instrumentation-threading<1.0,>=0.54b0",
+      "patronus[experiments]==0.1.4.post1",
+      "anthropic; extra == 'anthropic'",
+      "openinference-instrumentation-anthropic<0.2.0,>=0.1.17; extra == 'anthropic'",
+      "crewai<1.0.0,>=0.119.0; extra == 'crewai'",
+      "openinference-instrumentation-crewai<0.2.0,>=0.1.9; extra == 'crewai'",
+      "langchain-core; extra == 'langchain'",
+      "langchain-openai; extra == 'langchain'",
+      "langgraph; extra == 'langchain'",
+      "openinference-instrumentation-langchain<0.2.0,>=0.1.42; extra == 'langchain'",
+      "pydantic; extra == 'langchain'",
+      "openai; extra == 'openai'",
+      "openinference-instrumentation-openai<0.2.0,>=0.1.28; extra == 'openai'",
+      "openai-agents; extra == 'openai-agents'",
+      "openinference-instrumentation-openai-agents<0.2.0,>=0.1.11; extra == 'openai-agents'",
+      "pydantic-ai-slim[openai]; extra == 'pydantic-ai'",
+      "smolagents[litellm]<2.0,>=1.13.0; extra == 'smolagents'",
+      "torch<3.0,>=2.7.0; extra == 'transformers'",
+      "transformers<5.0.0,>=4.51.0; extra == 'transformers'"
+    ]
+  }
+}

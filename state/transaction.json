@@ -1,0 +1,86 @@
+{
+  "transaction-5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4c0b2d49a042d86235fa76531c3356b66d7635bb0e9f29ba2512915fc7b7a42",
+    "dependencies": {
+      "required": [
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "zope.interface",
+      "Sphinx; extra == \"docs\"",
+      "repoze.sphinx.autointerface; extra == \"docs\"",
+      "coverage; extra == \"testing\""
+    ]
+  },
+  "transaction-4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2519a316a05b14b3d483ac777df311087daaffeeafd3e9f7de62fc087ce3209",
+    "dependencies": {
+      "required": [
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "zope.interface",
+      "Sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "coverage ; extra == 'testing'"
+    ]
+  },
+  "transaction-3.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8376a959aa71821df1bdd7d066858a3f9f34b7f5f1c0a0e1efbd11d626895449",
+    "dependencies": {
+      "required": [
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "zope.interface",
+      "Sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "mock ; extra == 'test'",
+      "nose ; extra == 'testing'",
+      "coverage ; extra == 'testing'",
+      "mock ; extra == 'testing'"
+    ]
+  },
+  "transaction-3.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2329a6e6b82d1d8d4de9267ea6ee790532c375e5911d3c7633a234e94a4a0a9e",
+    "dependencies": {
+      "required": [
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "zope.interface",
+      "Sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "mock ; extra == 'test'",
+      "nose ; extra == 'testing'",
+      "coverage ; extra == 'testing'",
+      "mock ; extra == 'testing'"
+    ]
+  },
+  "transaction-3.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0397e7733124e23a670cd3eee4096c197b48f1e14730d7cc7da868389f016b7",
+    "dependencies": {
+      "required": [
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "zope.interface",
+      "Sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "mock ; extra == 'test'",
+      "nose ; extra == 'testing'",
+      "coverage ; extra == 'testing'",
+      "mock ; extra == 'testing'"
+    ]
+  }
+}

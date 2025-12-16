@@ -1,0 +1,88 @@
+{
+  "aiosmtpd-1.4.6-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:27.972506+00:00",
+    "conda_file": "aiosmtpd-1.4.6-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "atpublic",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "atpublic",
+      "attrs"
+    ]
+  },
+  "aiosmtpd-1.4.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:28.210707+00:00",
+    "conda_file": "aiosmtpd-1.4.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "atpublic",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "atpublic",
+      "attrs"
+    ]
+  },
+  "aiosmtpd-1.4.4.post2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:28.306142+00:00",
+    "conda_file": "aiosmtpd-1.4.4.post2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "atpublic",
+        "attrs",
+        "typing-extensions;"
+      ]
+    },
+    "original_requirements": [
+      "atpublic",
+      "attrs",
+      "typing-extensions ; python_version < \"3.8\""
+    ]
+  },
+  "aiosmtpd-1.4.4.post1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:28.584340+00:00",
+    "conda_file": "aiosmtpd-1.4.4.post1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "atpublic",
+        "attrs",
+        "typing-extensions;"
+      ]
+    },
+    "original_requirements": [
+      "atpublic",
+      "attrs",
+      "typing-extensions ; python_version < \"3.8\""
+    ]
+  },
+  "aiosmtpd-1.4.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:28.547566+00:00",
+    "conda_file": "aiosmtpd-1.4.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "atpublic",
+        "attrs",
+        "typing-extensions;"
+      ]
+    },
+    "original_requirements": [
+      "atpublic",
+      "attrs",
+      "typing-extensions ; python_version < \"3.8\""
+    ]
+  }
+}

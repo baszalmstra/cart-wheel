@@ -1,0 +1,150 @@
+{
+  "dbt_bigquery-1.10.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d58ca4ab34c403136f3a7e102acc41e2d254a689be81070d013daa6ce34179ed",
+    "dependencies": {
+      "required": [
+        "dbt-adapters",
+        "dbt-common",
+        "dbt-core",
+        "google-api-core",
+        "google-auth",
+        "google-cloud-aiplatform",
+        "google-cloud-bigquery",
+        "google-cloud-dataproc",
+        "google-cloud-storage",
+        "nbformat"
+      ]
+    },
+    "original_requirements": [
+      "dbt-adapters<2.0,>=1.16",
+      "dbt-common<2.0,>=1.10",
+      "dbt-core>=1.10.0rc0",
+      "google-api-core>=2.11.0",
+      "google-auth>=2.29.0",
+      "google-cloud-aiplatform>=1.72.0",
+      "google-cloud-bigquery[pandas]<4.0,>=3.0",
+      "google-cloud-dataproc~=5.0",
+      "google-cloud-storage<3.2,>=2.4",
+      "nbformat>=5.10.4"
+    ]
+  },
+  "dbt_bigquery-1.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b9198374d6742bd9cac664582bbb81eeb530ce81e6b5bc28c65f369ebd39b908",
+    "dependencies": {
+      "required": [
+        "dbt-adapters",
+        "dbt-common",
+        "dbt-core",
+        "google-api-core",
+        "google-auth",
+        "google-cloud-aiplatform",
+        "google-cloud-bigquery",
+        "google-cloud-dataproc",
+        "google-cloud-storage",
+        "nbformat"
+      ]
+    },
+    "original_requirements": [
+      "dbt-adapters<2.0,>=1.16",
+      "dbt-common<2.0,>=1.10",
+      "dbt-core>=1.10.0rc0",
+      "google-api-core>=2.11.0",
+      "google-auth>=2.29.0",
+      "google-cloud-aiplatform>=1.72.0",
+      "google-cloud-bigquery[pandas]<4.0,>=3.0",
+      "google-cloud-dataproc~=5.0",
+      "google-cloud-storage<3.2,>=2.4",
+      "nbformat>=5.10.4"
+    ]
+  },
+  "dbt_bigquery-1.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "97d39be4225ffb9ac4150cb764e4347a09485bfd6dcef8041f90167b233e060f",
+    "dependencies": {
+      "required": [
+        "dbt-adapters",
+        "dbt-common",
+        "dbt-core",
+        "google-api-core",
+        "google-auth",
+        "google-cloud-aiplatform",
+        "google-cloud-bigquery",
+        "google-cloud-dataproc",
+        "google-cloud-storage",
+        "nbformat"
+      ]
+    },
+    "original_requirements": [
+      "dbt-adapters<2.0,>=1.16",
+      "dbt-common<2.0,>=1.10",
+      "dbt-core>=1.10.0rc0",
+      "google-api-core>=2.11.0",
+      "google-auth>=2.29.0",
+      "google-cloud-aiplatform>=1.72.0",
+      "google-cloud-bigquery[pandas]<4.0,>=3.0",
+      "google-cloud-dataproc~=5.0",
+      "google-cloud-storage<3.2,>=2.4",
+      "nbformat>=5.10.4"
+    ]
+  },
+  "dbt_bigquery-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72558d0cada22ae26edfadcb832c1cb3a6329b394b1c657095c9427c411c7ad2",
+    "dependencies": {
+      "required": [
+        "dbt-adapters",
+        "dbt-common",
+        "dbt-core",
+        "google-api-core",
+        "google-auth",
+        "google-cloud-aiplatform",
+        "google-cloud-bigquery",
+        "google-cloud-dataproc",
+        "google-cloud-storage",
+        "nbformat"
+      ]
+    },
+    "original_requirements": [
+      "dbt-adapters<2.0,>=1.16",
+      "dbt-common<2.0,>=1.10",
+      "dbt-core>=1.10.0rc0",
+      "google-api-core>=2.11.0",
+      "google-auth>=2.29.0",
+      "google-cloud-aiplatform>=1.72.0",
+      "google-cloud-bigquery[pandas]<4.0,>=3.0",
+      "google-cloud-dataproc~=5.0",
+      "google-cloud-storage<3.2,>=2.4",
+      "nbformat>=5.10.4"
+    ]
+  },
+  "dbt_bigquery-1.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08b2635019308c1b8f43289cb187c38019d20e8003e9f15f3554f990cfb47349",
+    "dependencies": {
+      "required": [
+        "dbt-adapters",
+        "dbt-common",
+        "dbt-core",
+        "google-api-core",
+        "google-cloud-aiplatform",
+        "google-cloud-bigquery",
+        "google-cloud-dataproc",
+        "google-cloud-storage",
+        "nbformat"
+      ]
+    },
+    "original_requirements": [
+      "dbt-adapters<2.0,>=1.7",
+      "dbt-common<2.0,>=1.10",
+      "dbt-core>=1.8.0",
+      "google-api-core>=2.11.0",
+      "google-cloud-aiplatform>=1.72.0",
+      "google-cloud-bigquery[pandas]<4.0,>=3.0",
+      "google-cloud-dataproc~=5.0",
+      "google-cloud-storage<3.2,>=2.4",
+      "nbformat>=5.10.4"
+    ]
+  }
+}

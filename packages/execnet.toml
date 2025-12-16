@@ -1,0 +1,12 @@
+# Package configuration for execnet
+conda_forge = "execnet"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "execnet-2.1.2-py3-none-any.whl" },
+  { filename = "execnet-2.1.1-py3-none-any.whl" },
+  { filename = "execnet-2.1.0-py3-none-any.whl" },
+  { filename = "execnet-2.0.2-py3-none-any.whl" },
+  { filename = "execnet-2.0.1-py3-none-any.whl" },
+]

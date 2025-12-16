@@ -1,0 +1,8 @@
+# Package configuration for curlify
+conda_forge = "curlify"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "curlify-3.0.0-py3-none-any.whl" },
+]

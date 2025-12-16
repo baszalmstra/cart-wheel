@@ -1,0 +1,12 @@
+# Package configuration for gunicorn
+conda_forge = "gunicorn"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gunicorn-23.0.0-py3-none-any.whl" },
+  { filename = "gunicorn-22.0.0-py3-none-any.whl" },
+  { filename = "gunicorn-21.2.0-py3-none-any.whl" },
+  { filename = "gunicorn-21.1.0-py3-none-any.whl" },
+  { filename = "gunicorn-21.0.1-py3-none-any.whl" },
+]

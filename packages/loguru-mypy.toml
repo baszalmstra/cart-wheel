@@ -1,0 +1,9 @@
+# Package configuration for loguru-mypy
+conda_forge = "loguru-mypy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "loguru_mypy-0.0.4-py3-none-any.whl" },
+  { filename = "loguru_mypy-0.0.3-py3-none-any.whl" },
+]

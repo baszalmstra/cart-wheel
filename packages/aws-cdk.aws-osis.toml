@@ -1,0 +1,9 @@
+# Package configuration for aws-cdk.aws-osis
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_cdk.aws_osis-1.204.0-py3-none-any.whl" },
+  { filename = "aws_cdk.aws_osis-1.203.0-py3-none-any.whl" },
+  { filename = "aws_cdk.aws_osis-1.202.0-py3-none-any.whl" },
+]

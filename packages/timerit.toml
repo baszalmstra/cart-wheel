@@ -1,0 +1,12 @@
+# Package configuration for timerit
+conda_forge = "timerit"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "timerit-1.1.0-py3-none-any.whl" },
+  { filename = "timerit-1.0.1-py3-none-any.whl" },
+  { filename = "timerit-1.0.0-py3-none-any.whl" },
+  { filename = "timerit-0.3.0-py2.py3-none-any.whl" },
+  { filename = "timerit-0.2.1-py2.py3-none-any.whl" },
+]

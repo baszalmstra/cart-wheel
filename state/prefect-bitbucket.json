@@ -1,0 +1,110 @@
+{
+  "prefect_bitbucket-0.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d8207262ee4daf0e4d28dd1e975ec706d69d905cc34435ed5a357fb4a681e4e",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "pydantic",
+        "atlassian-python-api"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "pydantic>=2.4",
+      "atlassian-python-api!=3.41.5,!=3.41.6,!=3.41.7,!=3.41.8,>=3.32.1"
+    ]
+  },
+  "prefect_bitbucket-0.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01583947e5a87c9eed25b91394a239aa20b4c13ea5ac42eecc225eefde288f0d",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "pydantic",
+        "atlassian-python-api"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "pydantic>=2.4",
+      "atlassian-python-api!=3.41.5,!=3.41.6,!=3.41.7,!=3.41.8,>=3.32.1"
+    ]
+  },
+  "prefect_bitbucket-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "201f9c4c1ae0393ae1af3912ad4a9778c19b0f7eb8b3b8fadbcd19ba370bc892",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "pydantic",
+        "atlassian-python-api"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "pydantic>=2.4",
+      "atlassian-python-api!=3.41.5,!=3.41.6,!=3.41.7,!=3.41.8,>=3.32.1"
+    ]
+  },
+  "prefect_bitbucket-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fdecda1f58a8229933755b5986e24f79641286f7675bb8ee5df5ee62fa964a9c",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "pydantic",
+        "atlassian-python-api"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "pydantic>=2.4",
+      "atlassian-python-api!=3.41.5,!=3.41.6,!=3.41.7,!=3.41.8,>=3.32.1",
+      "aiohttp; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest>=8.3; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_bitbucket-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c3cddf2e95423ba0a3c60c29c59923543fe43dbb3a46c4c527c4e853b57e72bf",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "pydantic",
+        "atlassian-python-api"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0rc1",
+      "pydantic>=2.4",
+      "atlassian-python-api!=3.41.5,!=3.41.6,!=3.41.7,!=3.41.8,>=3.32.1",
+      "aiohttp; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  }
+}

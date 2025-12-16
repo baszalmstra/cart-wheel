@@ -1,0 +1,28 @@
+{
+  "snapshot_pyppeteer-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c47c2d4243c97c5f0124c56892927dd094f02e357bcdd30f0c4689ae3aa83b58",
+    "dependencies": {
+      "required": [
+        "pyppeteer",
+        "nest-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "pyppeteer",
+      "nest-asyncio"
+    ]
+  },
+  "snapshot_pyppeteer-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a52a46157dc8541f55a30a52dbbed4b27cb35f16100cda314e0ff96b7ec1de17",
+    "dependencies": {
+      "required": [
+        "pyppeteer"
+      ]
+    },
+    "original_requirements": [
+      "pyppeteer"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for lpips
+conda_forge = "lpips"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lpips-0.1.4-py3-none-any.whl" },
+  { filename = "lpips-0.1.3-py3-none-any.whl" },
+  { filename = "lpips-0.1.2-py3-none-any.whl" },
+  { filename = "lpips-0.1.1-py3-none-any.whl" },
+  { filename = "lpips-0.1-py3-none-any.whl" },
+]

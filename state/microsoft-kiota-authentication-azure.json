@@ -1,0 +1,102 @@
+{
+  "microsoft_kiota_authentication_azure-1.9.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2d776bef22d10be65df1ea9e8f1737e46981bd14cdb70e3fe4f4a066e92b139",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "azure-core",
+        "microsoft-kiota-abstractions",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8.0)",
+      "azure-core (>=1.21.1)",
+      "microsoft-kiota-abstractions (>=1.9.7,<1.10.0)",
+      "opentelemetry-api (>=1.27.0)",
+      "opentelemetry-sdk (>=1.27.0)"
+    ]
+  },
+  "microsoft_kiota_authentication_azure-1.9.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b34e989b97aa84d26fb8244254de0137df48dfbd567e869b8b5bf294638923b",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "azure-core",
+        "microsoft-kiota-abstractions",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8.0)",
+      "azure-core (>=1.21.1)",
+      "microsoft-kiota-abstractions (>=1.9.6,<1.10.0)",
+      "opentelemetry-api (>=1.27.0)",
+      "opentelemetry-sdk (>=1.27.0)"
+    ]
+  },
+  "microsoft_kiota_authentication_azure-1.9.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52e045c0080400cb1199d1538d5e4794b1ec8e695ac24be9377e72278c01d37d",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "azure-core",
+        "microsoft-kiota-abstractions",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8.0)",
+      "azure-core (>=1.21.1)",
+      "microsoft-kiota-abstractions (>=1.9.5,<1.10.0)",
+      "opentelemetry-api (>=1.27.0)",
+      "opentelemetry-sdk (>=1.27.0)"
+    ]
+  },
+  "microsoft_kiota_authentication_azure-1.9.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed2f1bb3bbe165141d146f893e790bba8ded09e1001166e74e8b86d7e798ed46",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "azure-core",
+        "microsoft-kiota-abstractions",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8.0)",
+      "azure-core (>=1.21.1)",
+      "microsoft-kiota-abstractions (>=1.9.4,<1.10.0)",
+      "opentelemetry-api (>=1.27.0)",
+      "opentelemetry-sdk (>=1.27.0)"
+    ]
+  },
+  "microsoft_kiota_authentication_azure-1.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bccfd312b70fd2b5222a06125022ebf6178d23333b6a594397c8d852a4efd7eb",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "azure-core",
+        "microsoft-kiota-abstractions",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8.0)",
+      "azure-core (>=1.21.1)",
+      "microsoft-kiota-abstractions (>=1.9.3,<1.10.0)",
+      "opentelemetry-api (>=1.27.0)",
+      "opentelemetry-sdk (>=1.27.0)"
+    ]
+  }
+}

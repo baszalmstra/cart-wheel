@@ -1,0 +1,130 @@
+{
+  "google_cloud_storage-3.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "469bc9540936e02f8a4bfd1619e9dca1e42dec48f95e4204d783b36476a15093",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "google-api-core",
+        "google-cloud-core",
+        "google-resumable-media",
+        "requests",
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "google-auth<3.0.0,>=2.26.1",
+      "google-api-core<3.0.0,>=2.27.0",
+      "google-cloud-core<3.0.0,>=2.4.2",
+      "google-resumable-media<3.0.0,>=2.7.2",
+      "requests<3.0.0,>=2.22.0",
+      "google-crc32c<2.0.0,>=1.1.3",
+      "google-api-core[grpc]<3.0.0,>=2.27.0; extra == \"grpc\"",
+      "grpcio<2.0.0,>=1.33.2; python_version < \"3.14\" and extra == \"grpc\"",
+      "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\" and extra == \"grpc\"",
+      "grpcio-status<2.0.0,>=1.76.0; extra == \"grpc\"",
+      "proto-plus<2.0.0,>=1.22.3; python_version < \"3.13\" and extra == \"grpc\"",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\" and extra == \"grpc\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2; extra == \"grpc\"",
+      "grpc-google-iam-v1<1.0.0,>=0.14.0; extra == \"grpc\"",
+      "protobuf<7.0.0,>=3.20.2; extra == \"protobuf\"",
+      "opentelemetry-api<2.0.0,>=1.1.0; extra == \"tracing\""
+    ]
+  },
+  "google_cloud_storage-3.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5decbdddd63b7d1fc3e266a393ad6453d2e27d172bd982b1e2f15481668db097",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "google-api-core",
+        "google-cloud-core",
+        "google-resumable-media",
+        "requests",
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "google-auth<3.0.0,>=2.26.1",
+      "google-api-core<3.0.0,>=2.27.0",
+      "google-cloud-core<3.0.0,>=2.4.2",
+      "google-resumable-media<3.0.0,>=2.7.2",
+      "requests<3.0.0,>=2.22.0",
+      "google-crc32c<2.0.0,>=1.1.3",
+      "protobuf<7.0.0,>=3.20.2; extra == \"protobuf\"",
+      "opentelemetry-api<2.0.0,>=1.1.0; extra == \"tracing\""
+    ]
+  },
+  "google_cloud_storage-3.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e28fd6ad8764e60dbb9a398a7bc3296e7920c494bc329057d828127e5f9630d3",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "google-api-core",
+        "google-cloud-core",
+        "google-resumable-media",
+        "requests",
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "google-auth<3.0.0,>=2.26.1",
+      "google-api-core<3.0.0,>=2.27.0",
+      "google-cloud-core<3.0.0,>=2.4.2",
+      "google-resumable-media<3.0.0,>=2.7.2",
+      "requests<3.0.0,>=2.22.0",
+      "google-crc32c<2.0.0,>=1.1.3",
+      "protobuf<7.0.0,>=3.20.2; extra == \"protobuf\"",
+      "opentelemetry-api<2.0.0,>=1.1.0; extra == \"tracing\""
+    ]
+  },
+  "google_cloud_storage-3.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "972764cc0392aa097be8f49a5354e22eb47c3f62370067fb1571ffff4a1c1189",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "google-api-core",
+        "google-cloud-core",
+        "google-resumable-media",
+        "requests",
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "google-auth<3.0.0,>=2.26.1",
+      "google-api-core<3.0.0,>=2.15.0",
+      "google-cloud-core<3.0.0,>=2.4.2",
+      "google-resumable-media<3.0.0,>=2.7.2",
+      "requests<3.0.0,>=2.22.0",
+      "google-crc32c<2.0.0,>=1.1.3",
+      "protobuf<7.0.0,>=3.20.2; extra == \"protobuf\"",
+      "opentelemetry-api<2.0.0,>=1.1.0; extra == \"tracing\""
+    ]
+  },
+  "google_cloud_storage-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "16eeca305e4747a6871f8f7627eef3b862fdd365b872ca74d4a89e9841d0f8e8",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "google-api-core",
+        "google-cloud-core",
+        "google-resumable-media",
+        "requests",
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "google-auth<3.0.0,>=2.26.1",
+      "google-api-core<3.0.0,>=2.15.0",
+      "google-cloud-core<3.0.0,>=2.4.2",
+      "google-resumable-media<3.0.0,>=2.7.2",
+      "requests<3.0.0,>=2.22.0",
+      "google-crc32c<2.0.0,>=1.1.3",
+      "protobuf<7.0.0,>=3.20.2; extra == \"protobuf\"",
+      "opentelemetry-api<2.0.0,>=1.1.0; extra == \"tracing\""
+    ]
+  }
+}

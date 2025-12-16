@@ -1,0 +1,12 @@
+# Package configuration for sphinxcontrib-devhelp
+conda_forge = "sphinxcontrib-devhelp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_devhelp-2.0.0-py3-none-any.whl" },
+  { filename = "sphinxcontrib_devhelp-1.0.6-py3-none-any.whl" },
+  { filename = "sphinxcontrib_devhelp-1.0.5-py3-none-any.whl" },
+  { filename = "sphinxcontrib_devhelp-1.0.4-py3-none-any.whl" },
+  { filename = "sphinxcontrib_devhelp-1.0.3-py3-none-any.whl" },
+]

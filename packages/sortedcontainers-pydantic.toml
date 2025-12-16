@@ -1,0 +1,9 @@
+# Package configuration for sortedcontainers-pydantic
+conda_forge = "sortedcontainers-pydantic"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sortedcontainers_pydantic-2.0.0-py3-none-any.whl" },
+  { filename = "sortedcontainers_pydantic-1.0.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for janus
+conda_forge = "janus"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "janus-2.0.0-py3-none-any.whl" },
+  { filename = "janus-1.2.0-py3-none-any.whl" },
+  { filename = "janus-1.1.0-py3-none-any.whl" },
+  { filename = "janus-1.0.0-py3-none-any.whl" },
+  { filename = "janus-0.7.0-py3-none-any.whl" },
+]

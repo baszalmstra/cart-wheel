@@ -1,0 +1,12 @@
+# Package configuration for pytest-github-actions-annotate-failures
+conda_forge = "pytest-github-actions-annotate-failures"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_github_actions_annotate_failures-0.3.0-py3-none-any.whl" },
+  { filename = "pytest_github_actions_annotate_failures-0.2.0-py3-none-any.whl" },
+  { filename = "pytest_github_actions_annotate_failures-0.1.8-py2.py3-none-any.whl" },
+  { filename = "pytest_github_actions_annotate_failures-0.1.7-py2.py3-none-any.whl" },
+  { filename = "pytest_github_actions_annotate_failures-0.1.6-py2.py3-none-any.whl" },
+]

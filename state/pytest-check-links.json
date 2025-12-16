@@ -1,0 +1,132 @@
+{
+  "pytest_check_links-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e4a4313d08d6c5b81a72e133fd8513a3bb0b89d54dec3565da7ae01b74f603e",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "html5lib",
+        "nbconvert",
+        "nbformat",
+        "pytest",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "docutils>=0.20.1",
+      "html5lib>=1.1",
+      "nbconvert>=7.1",
+      "nbformat>=5.1",
+      "pytest<9,>=7.0",
+      "requests>=2.22",
+      "requests-cache>=0.9.7; extra == 'cache'",
+      "flaky; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "requests-cache>=0.9.7; extra == 'test'"
+    ]
+  },
+  "pytest_check_links-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f58321cba9f33f0b0597de9e8ebedab82439f04074ea701390ee508fb4a4f0e5",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "html5lib",
+        "nbconvert",
+        "nbformat",
+        "pytest",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "docutils>=0.20.1",
+      "html5lib>=1.1",
+      "nbconvert>=7.1",
+      "nbformat>=5.0.2",
+      "pytest<9,>=7.0",
+      "requests>=2.22",
+      "requests-cache>=0.9.7; extra == 'cache'",
+      "flaky; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "requests-cache>=0.9.7; extra == 'test'"
+    ]
+  },
+  "pytest_check_links-0.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e72f6cb2e921d3b0087af20741f0860b39dd7e7ebab8c3292cd71d424d240b9",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "html5lib",
+        "nbconvert",
+        "nbformat",
+        "pytest",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "html5lib",
+      "nbconvert",
+      "nbformat",
+      "pytest<8,>=7.0",
+      "requests",
+      "requests-cache>=0.9.7; extra == 'cache'",
+      "flaky; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "requests-cache>=0.9.7; extra == 'test'"
+    ]
+  },
+  "pytest_check_links-0.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec9856eb6bed5cf0790364dd2b984d1a09f4ca965d62f1f3eceb21ed114ceca9",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "html5lib",
+        "nbconvert",
+        "nbformat",
+        "pytest",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "html5lib",
+      "nbconvert",
+      "nbformat",
+      "pytest<8,>=7.0",
+      "requests",
+      "requests-cache>=0.9.7; extra == 'cache'",
+      "flaky; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "requests-cache>=0.9.7; extra == 'test'"
+    ]
+  },
+  "pytest_check_links-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3cffe8281a32038561450b2276799642a92e69a0836124cbd518c7ba60f6ebc8",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "html5lib",
+        "nbconvert",
+        "nbformat",
+        "pytest",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "html5lib",
+      "nbconvert",
+      "nbformat",
+      "pytest>=7.0",
+      "requests",
+      "requests-cache>=0.9.7; extra == 'cache'",
+      "flaky; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "requests-cache>=0.9.7; extra == 'test'"
+    ]
+  }
+}

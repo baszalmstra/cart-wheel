@@ -1,0 +1,108 @@
+{
+  "sagemaker_train-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5565d87979f507b7c1e0c16dff3b1bcc0cb4487fca156d51c5f04aae96cec27a",
+    "dependencies": {
+      "required": [
+        "sagemaker-core",
+        "graphene",
+        "typing-extensions",
+        "tblib",
+        "pyyaml",
+        "paramiko",
+        "jinja2",
+        "sagemaker-mlflow",
+        "mlflow"
+      ]
+    },
+    "original_requirements": [
+      "sagemaker-core>=2.1.1",
+      "graphene<4,>=3",
+      "typing_extensions>=4.9.0",
+      "tblib>=1.7.0",
+      "PyYAML<7.0,>=6.0",
+      "paramiko>=2.11.0",
+      "jinja2<4.0,>=3.0",
+      "sagemaker-mlflow<1.0.0,>=0.0.1",
+      "mlflow<4.0.0,>=3.0.0",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "mock; extra == \"test\"",
+      "pydantic; extra == \"test\"",
+      "pandas; extra == \"test\"",
+      "scipy; extra == \"test\"",
+      "omegaconf; extra == \"test\"",
+      "graphene; extra == \"test\"",
+      "IPython; extra == \"test\""
+    ]
+  },
+  "sagemaker_train-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1062025d79c431298893b892594c28fb8ca348e9b06e85f57a59bd7e0d62bfa5",
+    "dependencies": {
+      "required": [
+        "sagemaker-core",
+        "graphene",
+        "typing-extensions",
+        "tblib",
+        "pyyaml",
+        "paramiko",
+        "jinja2",
+        "sagemaker-mlflow",
+        "mlflow"
+      ]
+    },
+    "original_requirements": [
+      "sagemaker-core>=2.1.0",
+      "graphene<4,>=3",
+      "typing_extensions>=4.9.0",
+      "tblib>=1.7.0",
+      "PyYAML<7.0,>=6.0",
+      "paramiko>=2.11.0",
+      "jinja2<4.0,>=3.0",
+      "sagemaker-mlflow<1.0.0,>=0.0.1",
+      "mlflow<4.0.0,>=3.0.0",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "mock; extra == \"test\"",
+      "pydantic; extra == \"test\"",
+      "pandas; extra == \"test\"",
+      "scipy; extra == \"test\"",
+      "omegaconf; extra == \"test\"",
+      "graphene; extra == \"test\""
+    ]
+  },
+  "sagemaker_train-1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4bd2560f87171ccbda619ae5f1a755a89020a4d87b5c93372616751ea7d96759",
+    "dependencies": {
+      "required": [
+        "sagemaker-core",
+        "graphene",
+        "typing-extensions",
+        "tblib",
+        "pyyaml",
+        "paramiko"
+      ]
+    },
+    "original_requirements": [
+      "sagemaker-core>=2.0.0",
+      "graphene<4,>=3",
+      "typing_extensions>=4.9.0",
+      "tblib>=1.7.0",
+      "PyYAML<7.0,>=6.0",
+      "paramiko>=2.11.0",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "mock; extra == \"test\"",
+      "pydantic; extra == \"test\"",
+      "pandas; extra == \"test\"",
+      "scipy; extra == \"test\"",
+      "omegaconf; extra == \"test\"",
+      "graphene; extra == \"test\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for debugpy
+conda_forge = "debugpy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "debugpy-1.8.18-py2.py3-none-any.whl" },
+  { filename = "debugpy-1.8.17-py2.py3-none-any.whl" },
+  { filename = "debugpy-1.8.16-py2.py3-none-any.whl" },
+  { filename = "debugpy-1.8.15-py2.py3-none-any.whl" },
+  { filename = "debugpy-1.8.14-py2.py3-none-any.whl" },
+]

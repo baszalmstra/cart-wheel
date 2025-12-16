@@ -1,0 +1,12 @@
+# Package configuration for torchao
+conda_forge = "torchao"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torchao-0.14.1-py3-none-any.whl" },
+  { filename = "torchao-0.14.0-py3-none-any.whl" },
+  { filename = "torchao-0.13.0-1-py3-none-any.whl" },
+  { filename = "torchao-0.12.0-py3-none-any.whl" },
+  { filename = "torchao-0.11.0-py3-none-any.whl" },
+]

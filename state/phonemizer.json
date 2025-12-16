@@ -1,0 +1,112 @@
+{
+  "phonemizer-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17afaa98691fe73b025dd8d8727b0e67cc376c5e7ee27590853e457fb3f43602",
+    "dependencies": {
+      "required": [
+        "joblib",
+        "segments",
+        "attrs",
+        "dlinfo",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "joblib",
+      "segments",
+      "attrs >=18.1",
+      "dlinfo",
+      "typing-extensions",
+      "sphinx ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'",
+      "pytest >=6.0 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "coverage[toml] ; extra == 'test'"
+    ]
+  },
+  "phonemizer-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65eef55cd180c1f0be245f68de12bd6014a102ecce0ed8af2584fda853c75ac7",
+    "dependencies": {
+      "required": [
+        "joblib",
+        "segments",
+        "attrs",
+        "dlinfo",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "joblib",
+      "segments",
+      "attrs (>=18.1)",
+      "dlinfo",
+      "typing-extensions",
+      "sphinx ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "phonemizer-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52c6cb20c5a2684e1b030bb6fa0db085fd62c95b885a3573821058ebd9ff5cf0",
+    "dependencies": {
+      "required": [
+        "joblib",
+        "segments",
+        "attrs",
+        "dlinfo",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "joblib",
+      "segments",
+      "attrs (>=18.1)",
+      "dlinfo",
+      "typing-extensions",
+      "sphinx ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "phonemizer-3.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2f7e2578b0d6fe275f20f76b290bb7222548e36419968fab038f42ca8f5e0387",
+    "dependencies": {
+      "required": [
+        "joblib",
+        "segments",
+        "attrs",
+        "dlinfo",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "joblib",
+      "segments",
+      "attrs (>=18.1)",
+      "dlinfo",
+      "typing-extensions",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "phonemizer-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc581456bbec6a2d5aacf02e9633adb144770181b48f1bf9d3f6b718ac2e0002",
+    "dependencies": {
+      "required": [
+        "joblib",
+        "segments",
+        "attrs",
+        "dlinfo"
+      ]
+    },
+    "original_requirements": [
+      "joblib",
+      "segments",
+      "attrs (>=18.1)",
+      "dlinfo"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for llama-index-embeddings-huggingface
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "llama_index_embeddings_huggingface-0.6.1-py3-none-any.whl" },
+  { filename = "llama_index_embeddings_huggingface-0.6.0-py3-none-any.whl" },
+  { filename = "llama_index_embeddings_huggingface-0.5.5-py3-none-any.whl" },
+  { filename = "llama_index_embeddings_huggingface-0.5.4-py3-none-any.whl" },
+  { filename = "llama_index_embeddings_huggingface-0.5.3-py3-none-any.whl" },
+]

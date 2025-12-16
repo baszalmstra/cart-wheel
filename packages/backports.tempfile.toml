@@ -1,0 +1,7 @@
+# Package configuration for backports.tempfile
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "backports.tempfile-1.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for looker-sdk
+conda_forge = "looker-sdk"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "looker_sdk-25.20.0-py3-none-any.whl" },
+  { filename = "looker_sdk-25.18.0-py3-none-any.whl" },
+  { filename = "looker_sdk-25.16.0-py3-none-any.whl" },
+  { filename = "looker_sdk-25.10.0-py3-none-any.whl" },
+  { filename = "looker_sdk-25.8.0-py3-none-any.whl" },
+]

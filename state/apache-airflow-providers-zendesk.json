@@ -1,0 +1,78 @@
+{
+  "apache_airflow_providers_zendesk-4.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18e191f571b620092b8228f16240e048af2abd683ac84dd997441962c5dbdbbc",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "zenpy"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "zenpy>=2.0.40"
+    ]
+  },
+  "apache_airflow_providers_zendesk-4.10.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf456a61fee51e835069ba65224af7b1adaf373a52ada6fb2dac1fb3d6f325af",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "zenpy"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "zenpy>=2.0.40"
+    ]
+  },
+  "apache_airflow_providers_zendesk-4.10.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4aa5ad490758ebb105413fcc6c165b5f12a1ca28861b17d4bba54e0d4b31aab9",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "zenpy"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "zenpy>=2.0.40"
+    ]
+  },
+  "apache_airflow_providers_zendesk-4.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d58d947debf833933a346890e70cf922ed12e5f513ef612e182eaf034fd2e01",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "zenpy"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "zenpy>=2.0.40"
+    ]
+  },
+  "apache_airflow_providers_zendesk-4.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e9d12540ec09bfc9f22c3d436f0d4dc859b35256cc23353f4372774601d715b",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "zenpy"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "zenpy>=2.0.40"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for dvc
+conda_forge = "dvc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dvc-3.64.2-py3-none-any.whl" },
+  { filename = "dvc-3.64.1-py3-none-any.whl" },
+  { filename = "dvc-3.64.0-py3-none-any.whl" },
+  { filename = "dvc-3.63.0-py3-none-any.whl" },
+  { filename = "dvc-3.62.0-py3-none-any.whl" },
+]

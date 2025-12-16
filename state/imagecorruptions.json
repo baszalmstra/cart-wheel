@@ -1,0 +1,102 @@
+{
+  "imagecorruptions-1.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d0e4bf529ba6fbb27d8aba1bde7c5db43bf2b969b2c767c11419e939e3e365b8",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "numpy",
+        "opencv-python",
+        "scikit-image",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "Pillow (>=5.4.1)",
+      "numpy (>=1.16)",
+      "opencv-python (>=3.4.5)",
+      "scikit-image (>=0.15)",
+      "scipy (>=1.2.1)"
+    ]
+  },
+  "imagecorruptions-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41da1e4c08accbf64a457c9ab8a4d2a5bdde7a2e1e2f7f2e388e2b219ec00f15",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pillow",
+        "scikit-image",
+        "opencv-python",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.16)",
+      "Pillow (>=5.4.1)",
+      "scikit-image (>=0.15)",
+      "opencv-python (>=3.4.5)",
+      "scipy (>=1.2.1)"
+    ]
+  },
+  "imagecorruptions-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67e904da27f631c5badf645453e814821101e6602a90a7974d393dbaa0a2cad6",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pillow",
+        "scikit-image",
+        "opencv-python",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.16)",
+      "Pillow (>=5.4.1)",
+      "scikit-image (>=0.15)",
+      "opencv-python (>=3.4.5)",
+      "scipy (>=1.2.1)"
+    ]
+  },
+  "imagecorruptions-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "536fb846a81529c9a42b55efb874a57f37abe65db8f80afe390c8f1dcb1f8cad",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pillow",
+        "scikit-image",
+        "opencv-python",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.16)",
+      "Pillow (>=5.4.1)",
+      "scikit-image (>=0.15)",
+      "opencv-python (>=3.4.5)",
+      "scipy (>=1.2.1)"
+    ]
+  },
+  "imagecorruptions-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c9b8be445c59964cee2ba377c2740d008ebd461317b031c302de71061d06e430",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pillow",
+        "scikit-image",
+        "opencv-python",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.16)",
+      "Pillow (>=5.4.1)",
+      "scikit-image (>=0.15)",
+      "opencv-python (>=3.4.5)",
+      "scipy (>=1.2.1)"
+    ]
+  }
+}

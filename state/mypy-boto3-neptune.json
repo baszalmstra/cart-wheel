@@ -1,0 +1,62 @@
+{
+  "mypy_boto3_neptune-1.42.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "76f75434797db5aaa12c4c63612e1349801ea62973682559ba58fbeeb7867ea6",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_neptune-1.41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3249f3976d843f4322bbc04299638216e05db64deba53718d1d83ab55f420159",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_neptune-1.40.63-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5cb1ac47fe8a19639e2cb1c0ab8c9e938655c8297444d9dbb4cd1674f05a3845",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_neptune-1.40.38-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62065bc8f029e3bd96442716d5ba377c08c3b1768c303cafaed1a548e913e969",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_neptune-1.40.22-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dba6661546e9a0055ca01b93e2b9626f414d73562632f62400d2abf5dec7d89b",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

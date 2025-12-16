@@ -1,0 +1,12 @@
+# Package configuration for types-html5lib
+conda_forge = "types-html5lib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_html5lib-1.1.11.20251117-py3-none-any.whl" },
+  { filename = "types_html5lib-1.1.11.20251115-py3-none-any.whl" },
+  { filename = "types_html5lib-1.1.11.20251014-py3-none-any.whl" },
+  { filename = "types_html5lib-1.1.11.20250917-py3-none-any.whl" },
+  { filename = "types_html5lib-1.1.11.20250809-py3-none-any.whl" },
+]

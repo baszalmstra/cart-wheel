@@ -1,0 +1,11 @@
+# Package configuration for pylint-per-file-ignores
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pylint_per_file_ignores-3.2.0-py3-none-any.whl" },
+  { filename = "pylint_per_file_ignores-3.1.0-py3-none-any.whl" },
+  { filename = "pylint_per_file_ignores-3.0.0-py3-none-any.whl" },
+  { filename = "pylint_per_file_ignores-2.0.3-py3-none-any.whl" },
+  { filename = "pylint_per_file_ignores-2.0.2-py3-none-any.whl" },
+]

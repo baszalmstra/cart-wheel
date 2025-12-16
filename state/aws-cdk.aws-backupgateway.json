@@ -1,0 +1,62 @@
+{
+  "aws_cdk.aws_backupgateway-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "29484381a1ee6d9210ebf0478905c93fc7ba41b41312140fcbba5f0087378b97",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_backupgateway-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf837a827b69c3334f1b02e333f8f0fa02927d895ed80f2c0125619f177c6733",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_backupgateway-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dc1b12064174045bd0e3661a53d6ee128e1f0d8850cf76ed6eb69581f9e26528",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

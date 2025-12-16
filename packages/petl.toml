@@ -1,0 +1,8 @@
+# Package configuration for petl
+conda_forge = "petl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "petl-1.7.17-py3-none-any.whl" },
+]

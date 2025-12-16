@@ -1,0 +1,154 @@
+{
+  "motor-3.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a63b9049e38eeeb56b4fdd57c3312a6d1f25d01db717fe7d82222393c410298",
+    "dependencies": {
+      "required": [
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "pymongo<5.0,>=4.9",
+      "pymongo[aws]<5,>=4.5; extra == 'aws'",
+      "aiohttp; extra == 'docs'",
+      "furo==2024.8.6; extra == 'docs'",
+      "readthedocs-sphinx-search~=0.3; extra == 'docs'",
+      "sphinx-rtd-theme<3,>=2; extra == 'docs'",
+      "sphinx<8,>=5.3; extra == 'docs'",
+      "tornado; extra == 'docs'",
+      "pymongo[encryption]<5,>=4.5; extra == 'encryption'",
+      "pymongo[gssapi]<5,>=4.5; extra == 'gssapi'",
+      "pymongo[ocsp]<5,>=4.5; extra == 'ocsp'",
+      "pymongo[snappy]<5,>=4.5; extra == 'snappy'",
+      "aiohttp>=3.8.7; extra == 'test'",
+      "cffi>=1.17.0rc1; (python_version == '3.13') and extra == 'test'",
+      "mockupdb; extra == 'test'",
+      "pymongo[encryption]<5,>=4.5; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest>=7; extra == 'test'",
+      "tornado>=5; extra == 'test'",
+      "pymongo[zstd]<5,>=4.5; extra == 'zstd'"
+    ]
+  },
+  "motor-3.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "61bdf1afded179f008d423f98066348157686f25a90776ea155db5f47f57d605",
+    "dependencies": {
+      "required": [
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "pymongo<5.0,>=4.9",
+      "pymongo[aws]<5,>=4.5; extra == 'aws'",
+      "aiohttp; extra == 'docs'",
+      "furo==2024.8.6; extra == 'docs'",
+      "readthedocs-sphinx-search~=0.3; extra == 'docs'",
+      "sphinx-rtd-theme<3,>=2; extra == 'docs'",
+      "sphinx<8,>=5.3; extra == 'docs'",
+      "tornado; extra == 'docs'",
+      "pymongo[encryption]<5,>=4.5; extra == 'encryption'",
+      "pymongo[gssapi]<5,>=4.5; extra == 'gssapi'",
+      "pymongo[ocsp]<5,>=4.5; extra == 'ocsp'",
+      "pymongo[snappy]<5,>=4.5; extra == 'snappy'",
+      "aiohttp>=3.8.7; extra == 'test'",
+      "cffi>=1.17.0rc1; (python_version == '3.13') and extra == 'test'",
+      "mockupdb; extra == 'test'",
+      "pymongo[encryption]<5,>=4.5; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest>=7; extra == 'test'",
+      "tornado>=5; extra == 'test'",
+      "pymongo[zstd]<5,>=4.5; extra == 'zstd'"
+    ]
+  },
+  "motor-3.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7fe552353aded4fa9f05ae515a179df5b1d192b1da56726f422dbb2d8c3b5962",
+    "dependencies": {
+      "required": [
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "pymongo<4.10,>=4.9",
+      "pymongo[aws]<5,>=4.5; extra == 'aws'",
+      "aiohttp; extra == 'docs'",
+      "furo==2024.8.6; extra == 'docs'",
+      "readthedocs-sphinx-search~=0.3; extra == 'docs'",
+      "sphinx-rtd-theme<3,>=2; extra == 'docs'",
+      "sphinx<8,>=5.3; extra == 'docs'",
+      "tornado; extra == 'docs'",
+      "pymongo[encryption]<5,>=4.5; extra == 'encryption'",
+      "pymongo[gssapi]<5,>=4.5; extra == 'gssapi'",
+      "pymongo[ocsp]<5,>=4.5; extra == 'ocsp'",
+      "pymongo[snappy]<5,>=4.5; extra == 'snappy'",
+      "aiohttp>=3.8.7; extra == 'test'",
+      "cffi>=1.17.0rc1; (python_version == '3.13') and extra == 'test'",
+      "mockupdb; extra == 'test'",
+      "pymongo[encryption]<5,>=4.5; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest>=7; extra == 'test'",
+      "tornado>=5; extra == 'test'",
+      "pymongo[zstd]<5,>=4.5; extra == 'zstd'"
+    ]
+  },
+  "motor-3.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f07ed96f1754963d4386944e1b52d403a5350c687edc60da487d66f98dbf894",
+    "dependencies": {
+      "required": [
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "pymongo<4.10,>=4.9",
+      "pymongo[aws]<5,>=4.5; extra == 'aws'",
+      "aiohttp; extra == 'docs'",
+      "furo==2024.8.6; extra == 'docs'",
+      "readthedocs-sphinx-search~=0.3; extra == 'docs'",
+      "sphinx-rtd-theme<3,>=2; extra == 'docs'",
+      "sphinx<8,>=5.3; extra == 'docs'",
+      "tornado; extra == 'docs'",
+      "pymongo[encryption]<5,>=4.5; extra == 'encryption'",
+      "pymongo[gssapi]<5,>=4.5; extra == 'gssapi'",
+      "pymongo[ocsp]<5,>=4.5; extra == 'ocsp'",
+      "pymongo[snappy]<5,>=4.5; extra == 'snappy'",
+      "aiohttp>=3.8.7; extra == 'test'",
+      "cffi>=1.17.0rc1; (python_version == '3.13') and extra == 'test'",
+      "mockupdb; extra == 'test'",
+      "pymongo[encryption]<5,>=4.5; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest>=7; extra == 'test'",
+      "tornado>=5; extra == 'test'",
+      "pymongo[zstd]<5,>=4.5; extra == 'zstd'"
+    ]
+  },
+  "motor-3.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c807b05603981fb18941444cb63f8c0713a0af86c9f58b222cfa79f395f167a0",
+    "dependencies": {
+      "required": [
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "pymongo<4.9,>=4.5",
+      "pymongo[aws]<5,>=4.5; extra == 'aws'",
+      "aiohttp; extra == 'docs'",
+      "readthedocs-sphinx-search~=0.3; extra == 'docs'",
+      "sphinx-rtd-theme<3,>=2; extra == 'docs'",
+      "sphinx<8,>=5.3; extra == 'docs'",
+      "tornado; extra == 'docs'",
+      "pymongo[encryption]<5,>=4.5; extra == 'encryption'",
+      "pymongo[gssapi]<5,>=4.5; extra == 'gssapi'",
+      "pymongo[ocsp]<5,>=4.5; extra == 'ocsp'",
+      "pymongo[snappy]<5,>=4.5; extra == 'snappy'",
+      "aiohttp!=3.8.6; extra == 'test'",
+      "mockupdb; extra == 'test'",
+      "pymongo[encryption]<5,>=4.5; extra == 'test'",
+      "pytest>=7; extra == 'test'",
+      "tornado>=5; extra == 'test'",
+      "pymongo[zstd]<5,>=4.5; extra == 'zstd'"
+    ]
+  }
+}

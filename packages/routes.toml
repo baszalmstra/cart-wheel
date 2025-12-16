@@ -1,0 +1,11 @@
+# Package configuration for routes
+conda_forge = "routes"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Routes-2.5.1-py2.py3-none-any.whl" },
+  { filename = "Routes-2.5.0-py2.py3-none-any.whl" },
+  { filename = "Routes-2.4.1-py2.py3-none-any.whl" },
+  { filename = "Routes-2.3.1-py2.py3-none-any.whl" },
+]

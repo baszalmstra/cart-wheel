@@ -1,0 +1,11 @@
+# Package configuration for sphinx-substitution-extensions
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_substitution_extensions-2025.11.17-py2.py3-none-any.whl" },
+  { filename = "sphinx_substitution_extensions-2025.10.24-py2.py3-none-any.whl" },
+  { filename = "sphinx_substitution_extensions-2025.6.6-py2.py3-none-any.whl" },
+  { filename = "sphinx_substitution_extensions-2025.4.3-py2.py3-none-any.whl" },
+  { filename = "sphinx_substitution_extensions-2025.3.3-py2.py3-none-any.whl" },
+]

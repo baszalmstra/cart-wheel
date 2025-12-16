@@ -1,0 +1,12 @@
+# Package configuration for mongomock
+conda_forge = "mongomock"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mongomock-4.3.0-py2.py3-none-any.whl" },
+  { filename = "mongomock-4.2.0.post1-py2.py3-none-any.whl" },
+  { filename = "mongomock-4.1.2-py2.py3-none-any.whl" },
+  { filename = "mongomock-4.0.0-py2.py3-none-any.whl" },
+  { filename = "mongomock-3.23.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,8 @@
+# Package configuration for sphinx-collections
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_collections-0.3.1-py3-none-any.whl" },
+  { filename = "sphinx_collections-0.0.1-py3-none-any.whl" },
+]

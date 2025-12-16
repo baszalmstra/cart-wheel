@@ -1,0 +1,12 @@
+# Package configuration for types-aiobotocore-sqs
+conda_forge = "types-aiobotocore-sqs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_sqs-3.0.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_sqs-2.26.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_sqs-2.25.2-py3-none-any.whl" },
+  { filename = "types_aiobotocore_sqs-2.25.1-py3-none-any.whl" },
+  { filename = "types_aiobotocore_sqs-2.25.0-py3-none-any.whl" },
+]

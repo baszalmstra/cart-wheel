@@ -1,0 +1,113 @@
+{
+  "segments-2.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30a5656787071430cd22422e04713b2a9beabe1a97d2ebf37f716a56f90577a3",
+    "dependencies": {
+      "required": [
+        "regex",
+        "csvw"
+      ]
+    },
+    "original_requirements": [
+      "regex",
+      "csvw>=1.5.6",
+      "flake8; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "pytest>=5; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-cov; extra == \"test\""
+    ]
+  },
+  "segments-2.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "069860ae5a499ad7bd86e23ee52250a16e61ba3474c17e515b16d494ac1423c1",
+    "dependencies": {
+      "required": [
+        "clldutils",
+        "csvw",
+        "regex"
+      ]
+    },
+    "original_requirements": [
+      "clldutils (>=1.7.3)",
+      "csvw (>=1.5.6)",
+      "regex",
+      "flake8 ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "pytest (>=5) ; extra == 'test'"
+    ]
+  },
+  "segments-2.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1175ca7210e443045c0b0642d735cb7cad7cd5e09d6914a8f04cfc7c4be9af1a",
+    "dependencies": {
+      "required": [
+        "regex",
+        "csvw",
+        "clldutils"
+      ]
+    },
+    "original_requirements": [
+      "regex",
+      "csvw (>=1.5.6)",
+      "clldutils (>=1.7.3)",
+      "flake8 ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "pytest (>=5) ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "segments-2.1.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "acc8a1014b0fbdbf98336f64e6e32a7695b6da22901bf0caf730db896e4af9e9",
+    "dependencies": {
+      "required": [
+        "regex",
+        "csvw",
+        "clldutils"
+      ]
+    },
+    "original_requirements": [
+      "regex",
+      "csvw (>=1.5.6)",
+      "clldutils (>=1.7.3)",
+      "flake8; extra == 'dev'",
+      "wheel; extra == 'dev'",
+      "twine; extra == 'dev'",
+      "pytest (>=3.6); extra == 'test'",
+      "pytest-mock; extra == 'test'",
+      "mock; extra == 'test'",
+      "pytest-cov; extra == 'test'"
+    ]
+  },
+  "segments-2.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3dbcc9252ccfde27dbdbe4fea345c5bff4f96635bbc244545363ece482830e40",
+    "dependencies": {
+      "required": [
+        "regex",
+        "csvw",
+        "clldutils"
+      ]
+    },
+    "original_requirements": [
+      "regex",
+      "csvw (>=1.5.6)",
+      "clldutils (>=1.7.3)",
+      "flake8; extra == 'dev'",
+      "wheel; extra == 'dev'",
+      "twine; extra == 'dev'",
+      "pytest (>=3.6); extra == 'test'",
+      "pytest-mock; extra == 'test'",
+      "mock; extra == 'test'",
+      "pytest-cov; extra == 'test'"
+    ]
+  }
+}

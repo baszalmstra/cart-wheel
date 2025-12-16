@@ -1,0 +1,66 @@
+{
+  "apache_libcloud-3.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de65a8bd946f6532830f20a83f2eae2fa056f05a674fad30afe877cb78df6050",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.26.0)",
+      "build (==0.10.0) ; extra == 'build'",
+      "twine (==4.0.2) ; extra == 'publish'",
+      "pytest ; extra == 'test'",
+      "requests-mock ; extra == 'test'"
+    ]
+  },
+  "apache_libcloud-3.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "027a9aff2c01db9c8e6f9f94b6eb44b3153d82702c42bfbe7af5624dabf1f950",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.26.0)"
+    ]
+  },
+  "apache_libcloud-3.6.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d01eee601b6367e711788c47a275ee717f23854f5267d9ba3b3e8ed3bb400e56",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.26.0)"
+    ]
+  },
+  "apache_libcloud-3.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4aa8cf11caad7090753d6b19af2abfe779847df4296b15a39db3ded15a122478",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.26.0)"
+    ]
+  },
+  "apache_libcloud-3.5.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d71dcc5bdb7d795d4d1f64ff5e2e1badbbcd274700e4a2cf451defd04a2de565",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.26.0)"
+    ]
+  }
+}

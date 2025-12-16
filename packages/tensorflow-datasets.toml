@@ -1,0 +1,12 @@
+# Package configuration for tensorflow-datasets
+conda_forge = "tensorflow-datasets"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tensorflow_datasets-4.9.9-py3-none-any.whl" },
+  { filename = "tensorflow_datasets-4.9.8-py3-none-any.whl" },
+  { filename = "tensorflow_datasets-4.9.7-py3-none-any.whl" },
+  { filename = "tensorflow_datasets-4.9.6-py3-none-any.whl" },
+  { filename = "tensorflow_datasets-4.9.5-py3-none-any.whl" },
+]

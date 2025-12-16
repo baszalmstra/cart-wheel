@@ -1,0 +1,149 @@
+{
+  "neptune_prophet-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d981c0ed110eb7f22c3e064951a2d55b27f6d65d006a86d7319324f60b314071",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "prophet",
+        "scipy",
+        "statsmodels"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "matplotlib",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "numpy (<2.0.0)",
+      "pandas (<2.0.0)",
+      "plotly (>=5.18.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "prophet (>=1.0)",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "scipy",
+      "statsmodels (>=0.13.0)"
+    ]
+  },
+  "neptune_prophet-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "25a6bb3968fa5564e87eaf4da4ff69dcaec5b5b2461e04f629049a251a0adfdb",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "prophet",
+        "scipy",
+        "statsmodels"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "matplotlib",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "numpy",
+      "pandas (<2.0.0)",
+      "plotly (>=5.18.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "prophet (>=1.0)",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "scipy",
+      "statsmodels (>=0.13.0)"
+    ]
+  },
+  "neptune_prophet-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "272b1957ad2d2baf12daabe3a862effa35557ec83eb8ace5edfb27658482ebc6",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "prophet",
+        "scipy",
+        "statsmodels"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "matplotlib (<=3.4.3)",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "numpy",
+      "pandas",
+      "plotly ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "prophet (>=1.0)",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "scipy",
+      "statsmodels (>=0.13.0)"
+    ]
+  },
+  "neptune_prophet-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e64fb281d42dbf0fb50a221c5957c881fa75a0366a71ce1d1fd611713f094bd",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "matplotlib",
+        "neptune",
+        "numpy",
+        "pandas",
+        "prophet",
+        "scipy",
+        "statsmodels"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "matplotlib (<=3.4.3)",
+      "neptune (>=1.0.0)",
+      "numpy",
+      "pandas",
+      "plotly ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "prophet (>=1.0)",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "scipy",
+      "statsmodels (>=0.13.0)"
+    ]
+  },
+  "neptune_prophet-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b094698020dd7452ee2aa76dcb2ddc8c4832a4467a0e0b5a7fa7f1b59d87fdc1",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "matplotlib",
+        "neptune-client",
+        "numpy",
+        "pandas",
+        "prophet",
+        "scipy",
+        "statsmodels"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata; python_version < \"3.8\"",
+      "matplotlib (<=3.4.3)",
+      "neptune-client (>=0.15.0)",
+      "numpy",
+      "pandas",
+      "plotly; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "prophet (>=1.0)",
+      "pytest (>=5.0); extra == \"dev\"",
+      "pytest-cov (==2.10.1); extra == \"dev\"",
+      "scipy",
+      "statsmodels (>=0.13.0)"
+    ]
+  }
+}

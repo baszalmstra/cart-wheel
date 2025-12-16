@@ -1,0 +1,9 @@
+# Package configuration for ifaddr
+conda_forge = "ifaddr"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ifaddr-0.2.0-py3-none-any.whl" },
+  { filename = "ifaddr-0.1.7-py2.py3-none-any.whl" },
+]

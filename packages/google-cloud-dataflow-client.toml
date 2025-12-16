@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-dataflow-client
+conda_forge = "google-cloud-dataflow-client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_dataflow_client-0.10.0-py3-none-any.whl" },
+  { filename = "google_cloud_dataflow_client-0.9.0-py3-none-any.whl" },
+  { filename = "google_cloud_dataflow_client-0.8.17-py3-none-any.whl" },
+  { filename = "google_cloud_dataflow_client-0.8.16-py2.py3-none-any.whl" },
+  { filename = "google_cloud_dataflow_client-0.8.15-py2.py3-none-any.whl" },
+]

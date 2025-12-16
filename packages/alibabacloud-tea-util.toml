@@ -1,0 +1,8 @@
+# Package configuration for alibabacloud-tea-util
+conda_forge = "alibabacloud-tea-util"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "alibabacloud_tea_util-0.3.14-py3-none-any.whl" },
+]

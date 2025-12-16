@@ -1,0 +1,11 @@
+# Package configuration for dockerctx
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dockerctx-2024.3.2-py2.py3-none-any.whl" },
+  { filename = "dockerctx-2024.3.1-py2.py3-none-any.whl" },
+  { filename = "dockerctx-2018.11.1-py2.py3-none-any.whl" },
+  { filename = "dockerctx-2018.3.1-py2.py3-none-any.whl" },
+  { filename = "dockerctx-2017.8.2-py2.py3-none-any.whl" },
+]

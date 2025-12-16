@@ -1,0 +1,12 @@
+# Package configuration for mimesis
+conda_forge = "mimesis"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mimesis-18.0.0-py3-none-any.whl" },
+  { filename = "mimesis-17.0.0-py3-none-any.whl" },
+  { filename = "mimesis-16.0.0-py3-none-any.whl" },
+  { filename = "mimesis-15.1.0-py3-none-any.whl" },
+  { filename = "mimesis-15.0.0-py3-none-any.whl" },
+]

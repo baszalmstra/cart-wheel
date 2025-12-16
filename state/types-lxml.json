@@ -1,0 +1,103 @@
+{
+  "types_lxml-2025.11.25-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c9e56aad336076f245e38d7f9b6bd6cdd9ffadda64ce650b9d3aa3a9ae4a8890",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "cssselect",
+        "beautifulsoup4",
+        "types-html5lib"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions~=4.15",
+      "cssselect~=1.2",
+      "beautifulsoup4~=4.13",
+      "types-html5lib~=1.1.11.20250809",
+      "mypy>=1.18.1; extra == \"mypy\"",
+      "pyright>=1.1.406; extra == \"pyright\"",
+      "basedpyright>=1.31.6; extra == \"basedpyright\""
+    ]
+  },
+  "types_lxml-2025.8.25-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d61340e5329e102d3f8d64124e90d50c12c0bfeaa9088d65558279ef4e7138ac",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "cssselect",
+        "beautifulsoup4",
+        "types-html5lib"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions~=4.10; python_version < \"3.13\"",
+      "cssselect~=1.2",
+      "beautifulsoup4~=4.13",
+      "types-html5lib!=1.1.11.20250516,~=1.1.11.20241018",
+      "mypy~=1.11; extra == \"mypy\"",
+      "pyright>=1.1.351; extra == \"pyright\"",
+      "basedpyright>=1.4.0; extra == \"basedpyright\""
+    ]
+  },
+  "types_lxml-2025.3.30-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "310b0ddf9e2104c8684362445808adf8a2cf41cf102d4ea0d16ced413cc46f66",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "cssselect",
+        "beautifulsoup4",
+        "types-html5lib"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions~=4.10; python_version < \"3.13\"",
+      "cssselect~=1.2",
+      "beautifulsoup4~=4.13",
+      "types-html5lib~=1.1.11.20241018",
+      "mypy~=1.11; extra == \"mypy\"",
+      "pyright>=1.1.351; extra == \"pyright\"",
+      "basedpyright>=1.4.0; extra == \"basedpyright\""
+    ]
+  },
+  "types_lxml-2025.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef94bd705ca0f4b613ea4c72d614c3d456d833df4034e9b488f9f8ae000bed0e",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "cssselect",
+        "beautifulsoup4",
+        "types-html5lib"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions~=4.10; python_version < \"3.13\"",
+      "cssselect~=1.2",
+      "beautifulsoup4~=4.13",
+      "types-html5lib~=1.1.11.20241018",
+      "mypy~=1.11; extra == \"mypy\"",
+      "pyright>=1.1.351; extra == \"pyright\""
+    ]
+  },
+  "types_lxml-2025.2.24-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f119a33cb650c9d48ea14b36045b207e794fdbc1485da4d369f204936d56ccc0",
+    "dependencies": {
+      "required": [
+        "types-beautifulsoup4",
+        "typing-extensions",
+        "cssselect"
+      ]
+    },
+    "original_requirements": [
+      "types-beautifulsoup4~=4.12",
+      "typing_extensions~=4.10; python_version < \"3.13\"",
+      "cssselect~=1.2",
+      "mypy~=1.11; extra == \"mypy\"",
+      "pyright>=1.1.351; extra == \"pyright\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for python-frontmatter
+conda_forge = "python-frontmatter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_frontmatter-1.1.0-py3-none-any.whl" },
+  { filename = "python_frontmatter-1.0.1-py3-none-any.whl" },
+  { filename = "python_frontmatter-1.0.0-py3-none-any.whl" },
+  { filename = "python_frontmatter-0.5.0-py3-none-any.whl" },
+  { filename = "python_frontmatter-0.4.5-py3-none-any.whl" },
+]

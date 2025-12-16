@@ -1,0 +1,12 @@
+# Package configuration for ipyparallel
+conda_forge = "ipyparallel"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipyparallel-9.0.2-py3-none-any.whl" },
+  { filename = "ipyparallel-9.0.1-py3-none-any.whl" },
+  { filename = "ipyparallel-9.0.0-py3-none-any.whl" },
+  { filename = "ipyparallel-8.8.0-py3-none-any.whl" },
+  { filename = "ipyparallel-8.7.0-py3-none-any.whl" },
+]

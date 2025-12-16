@@ -1,0 +1,187 @@
+{
+  "sentence_transformers-5.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa57180f053687d29b08206766ae7db549be5074f61849def7b17bf0b8025ca2",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "tqdm",
+        "torch",
+        "scikit-learn",
+        "scipy",
+        "huggingface-hub",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "transformers<6.0.0,>=4.41.0",
+      "tqdm",
+      "torch>=1.11.0",
+      "scikit-learn",
+      "scipy",
+      "huggingface-hub>=0.20.0",
+      "typing_extensions>=4.5.0",
+      "Pillow; extra == \"image\"",
+      "datasets; extra == \"train\"",
+      "accelerate>=0.20.3; extra == \"train\"",
+      "optimum-onnx[onnxruntime]; extra == \"onnx\"",
+      "optimum-onnx[onnxruntime-gpu]; extra == \"onnx-gpu\"",
+      "optimum-intel[openvino]; extra == \"openvino\"",
+      "datasets; extra == \"dev\"",
+      "accelerate>=0.20.3; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "peft; extra == \"dev\"",
+      "Pillow; extra == \"dev\""
+    ]
+  },
+  "sentence_transformers-5.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "724ce0ea62200f413f1a5059712aff66495bc4e815a1493f7f9bca242414c333",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "tqdm",
+        "torch",
+        "scikit-learn",
+        "scipy",
+        "huggingface-hub",
+        "pillow",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "transformers<5.0.0,>=4.41.0",
+      "tqdm",
+      "torch>=1.11.0",
+      "scikit-learn",
+      "scipy",
+      "huggingface-hub>=0.20.0",
+      "Pillow",
+      "typing_extensions>=4.5.0",
+      "datasets; extra == \"train\"",
+      "accelerate>=0.20.3; extra == \"train\"",
+      "optimum[onnxruntime]>=1.23.1; extra == \"onnx\"",
+      "optimum[onnxruntime-gpu]>=1.23.1; extra == \"onnx-gpu\"",
+      "optimum-intel[openvino]>=1.20.0; extra == \"openvino\"",
+      "datasets; extra == \"dev\"",
+      "accelerate>=0.20.3; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "peft; extra == \"dev\""
+    ]
+  },
+  "sentence_transformers-5.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ed544629eafe89ca668a8910ebff96cf0a9c5254ec14b05c66c086226c892fd",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "tqdm",
+        "torch",
+        "scikit-learn",
+        "scipy",
+        "huggingface-hub",
+        "pillow",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "transformers<5.0.0,>=4.41.0",
+      "tqdm",
+      "torch>=1.11.0",
+      "scikit-learn",
+      "scipy",
+      "huggingface-hub>=0.20.0",
+      "Pillow",
+      "typing_extensions>=4.5.0",
+      "datasets; extra == \"train\"",
+      "accelerate>=0.20.3; extra == \"train\"",
+      "optimum[onnxruntime]>=1.23.1; extra == \"onnx\"",
+      "optimum[onnxruntime-gpu]>=1.23.1; extra == \"onnx-gpu\"",
+      "optimum-intel[openvino]>=1.20.0; extra == \"openvino\"",
+      "datasets; extra == \"dev\"",
+      "accelerate>=0.20.3; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "peft; extra == \"dev\""
+    ]
+  },
+  "sentence_transformers-5.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc803929f6a3ce82e2b2c06e0efed7a36de535c633d5ce55efac0b710ea5643e",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "tqdm",
+        "torch",
+        "scikit-learn",
+        "scipy",
+        "huggingface-hub",
+        "pillow",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "transformers<5.0.0,>=4.41.0",
+      "tqdm",
+      "torch>=1.11.0",
+      "scikit-learn",
+      "scipy",
+      "huggingface-hub>=0.20.0",
+      "Pillow",
+      "typing_extensions>=4.5.0",
+      "datasets; extra == \"train\"",
+      "accelerate>=0.20.3; extra == \"train\"",
+      "optimum[onnxruntime]>=1.23.1; extra == \"onnx\"",
+      "optimum[onnxruntime-gpu]>=1.23.1; extra == \"onnx-gpu\"",
+      "optimum-intel[openvino]>=1.20.0; extra == \"openvino\"",
+      "datasets; extra == \"dev\"",
+      "accelerate>=0.20.3; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "peft; extra == \"dev\""
+    ]
+  },
+  "sentence_transformers-5.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "346240f9cc6b01af387393f03e103998190dfb0826a399d0c38a81a05c7a5d76",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "tqdm",
+        "torch",
+        "scikit-learn",
+        "scipy",
+        "huggingface-hub",
+        "pillow",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "transformers<5.0.0,>=4.41.0",
+      "tqdm",
+      "torch>=1.11.0",
+      "scikit-learn",
+      "scipy",
+      "huggingface-hub>=0.20.0",
+      "Pillow",
+      "typing_extensions>=4.5.0",
+      "datasets; extra == \"train\"",
+      "accelerate>=0.20.3; extra == \"train\"",
+      "optimum[onnxruntime]>=1.23.1; extra == \"onnx\"",
+      "optimum[onnxruntime-gpu]>=1.23.1; extra == \"onnx-gpu\"",
+      "optimum-intel[openvino]>=1.20.0; extra == \"openvino\"",
+      "datasets; extra == \"dev\"",
+      "accelerate>=0.20.3; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "peft; extra == \"dev\""
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "azure_ai_documentintelligence-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e1fb446abbdeccc9759d897898a0fe13141ed29f9ad11fc705f951925822ed59",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "azure-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "isodate>=0.6.1",
+      "azure-core>=1.30.0",
+      "typing-extensions>=4.6.0"
+    ]
+  },
+  "azure_ai_documentintelligence-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b6fcc99ff343dd8359accd63576f35047dd18cc89b5fd74414fe0bd87d8e566",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "azure-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "isodate >=0.6.1",
+      "azure-core >=1.30.0",
+      "typing-extensions >=4.6.0"
+    ]
+  },
+  "azure_ai_documentintelligence-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cdedb1a67c075f58f47a413ec5846bf8d532a83a71f0c51ec49ce9b5bfe2a519",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "azure-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "isodate >=0.6.1",
+      "azure-core >=1.30.0",
+      "typing-extensions >=4.6.0"
+    ]
+  }
+}

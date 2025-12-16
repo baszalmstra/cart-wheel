@@ -1,0 +1,11 @@
+# Package configuration for pyobjc-framework-iobluetoothui
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyobjc_framework_iobluetoothui-12.1-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_iobluetoothui-12.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_iobluetoothui-11.1-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_IOBluetoothUI-11.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_IOBluetoothUI-10.3.2-py2.py3-none-any.whl" },
+]

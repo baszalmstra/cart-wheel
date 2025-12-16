@@ -1,0 +1,12 @@
+# Package configuration for openapi-core
+conda_forge = "openapi-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openapi_core-0.19.5-py3-none-any.whl" },
+  { filename = "openapi_core-0.19.4-py3-none-any.whl" },
+  { filename = "openapi_core-0.19.3-py3-none-any.whl" },
+  { filename = "openapi_core-0.19.2-py3-none-any.whl" },
+  { filename = "openapi_core-0.19.1-py3-none-any.whl" },
+]

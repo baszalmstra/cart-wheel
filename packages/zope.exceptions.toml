@@ -1,0 +1,11 @@
+# Package configuration for zope.exceptions
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zope_exceptions-6.0-py3-none-any.whl" },
+  { filename = "zope.exceptions-5.2-py3-none-any.whl" },
+  { filename = "zope.exceptions-5.1-py3-none-any.whl" },
+  { filename = "zope.exceptions-5.0.1-py3-none-any.whl" },
+  { filename = "zope.exceptions-5.0-py3-none-any.whl" },
+]

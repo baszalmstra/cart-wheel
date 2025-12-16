@@ -1,0 +1,12 @@
+# Package configuration for sqlalchemy-drill
+conda_forge = "sqlalchemy-drill"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sqlalchemy_drill-1.1.9-py3-none-any.whl" },
+  { filename = "sqlalchemy_drill-1.1.8-py3-none-any.whl" },
+  { filename = "sqlalchemy_drill-1.1.7-py3-none-any.whl" },
+  { filename = "sqlalchemy_drill-1.1.6-py3-none-any.whl" },
+  { filename = "sqlalchemy_drill-1.1.5-py3-none-any.whl" },
+]

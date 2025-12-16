@@ -1,0 +1,12 @@
+# Package configuration for cachetools
+conda_forge = "cachetools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cachetools-6.2.3-py3-none-any.whl" },
+  { filename = "cachetools-6.2.2-py3-none-any.whl" },
+  { filename = "cachetools-6.2.1-py3-none-any.whl" },
+  { filename = "cachetools-6.2.0-py3-none-any.whl" },
+  { filename = "cachetools-6.1.0-py3-none-any.whl" },
+]

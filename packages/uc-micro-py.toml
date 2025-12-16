@@ -1,0 +1,12 @@
+# Package configuration for uc-micro-py
+conda_forge = "uc-micro-py"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "uc_micro_py-1.0.3-py3-none-any.whl" },
+  { filename = "uc_micro_py-1.0.2-py3-none-any.whl" },
+  { filename = "uc_micro_py-1.0.1-py3-none-any.whl" },
+  { filename = "uc_micro_py-1.0.0-py3-none-any.whl" },
+  { filename = "uc_micro_py-0.1.0-py3-none-any.whl" },
+]

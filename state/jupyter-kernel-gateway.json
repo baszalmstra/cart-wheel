@@ -1,0 +1,130 @@
+{
+  "jupyter_kernel_gateway-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f74a2f4ff9f03737bcab79f44ae0f6473ee32deb30fce00b8f05adcdd023f03",
+    "dependencies": {
+      "required": [
+        "jupyter-client",
+        "jupyter-core",
+        "jupyter-server",
+        "requests",
+        "tornado",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-client>=8.6",
+      "jupyter-core>=5.7",
+      "jupyter-server>=2.12",
+      "requests>=2.31",
+      "tornado>=6.4",
+      "traitlets>=5.14.1",
+      "myst-parser; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-rtd-theme; extra == 'docs'",
+      "coverage; extra == 'test'",
+      "ipykernel; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-jupyter; extra == 'test'",
+      "pytest-timeout; extra == 'test'"
+    ]
+  },
+  "jupyter_kernel_gateway-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f716dedcfd68f4a2ce25749d12c501e7afe3c9adb74c76252d9edf64ab3761e",
+    "dependencies": {
+      "required": [
+        "jupyter-client",
+        "jupyter-core",
+        "jupyter-server",
+        "requests",
+        "tornado",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-client>=8.6",
+      "jupyter-core>=5.7",
+      "jupyter-server>=2.12",
+      "requests>=2.31",
+      "tornado>=6.4",
+      "traitlets>=5.14.1",
+      "myst-parser; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-rtd-theme; extra == 'docs'",
+      "coverage; extra == 'test'",
+      "ipykernel; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-jupyter; extra == 'test'",
+      "pytest-timeout; extra == 'test'"
+    ]
+  },
+  "jupyter_kernel_gateway-2.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0a9d1a9cd70f1c59fd2a1e5e843d11f81b05c0e05cc08c01e28416c67472e3db",
+    "dependencies": {
+      "required": [
+        "jupyter-core",
+        "jupyter-client",
+        "notebook",
+        "traitlets",
+        "tornado",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-core (>=4.4.0)",
+      "jupyter-client (<8.0,>=5.2.0)",
+      "notebook (<7.0,>=5.7.6)",
+      "traitlets (>=4.2.0)",
+      "tornado (>=4.2.0)",
+      "requests (<3.0,>=2.7)"
+    ]
+  },
+  "jupyter_kernel_gateway-2.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55ef3f814d7ece739af2ce59ce111cf939c12185a7c1852911ffab9c2068484d",
+    "dependencies": {
+      "required": [
+        "jupyter-core",
+        "jupyter-client",
+        "notebook",
+        "traitlets",
+        "tornado",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-core (>=4.4.0)",
+      "jupyter-client (>=5.2.0)",
+      "notebook (<7.0,>=5.7.6)",
+      "traitlets (>=4.2.0)",
+      "tornado (>=4.2.0)",
+      "requests (<3.0,>=2.7)"
+    ]
+  },
+  "jupyter_kernel_gateway-2.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ef76906f3ee2d0ecbd0d1de03afb0bbbc6dde156bf77fe1ca3d03ec4c3f8c19",
+    "dependencies": {
+      "required": [
+        "jupyter-core",
+        "jupyter-client",
+        "notebook",
+        "traitlets",
+        "tornado",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-core (>=4.4.0)",
+      "jupyter-client (>=5.2.0)",
+      "notebook (<7.0,>=5.7.6)",
+      "traitlets (>=4.2.0)",
+      "tornado (>=4.2.0)",
+      "requests (<3.0,>=2.7)"
+    ]
+  }
+}

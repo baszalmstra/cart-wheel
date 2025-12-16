@@ -1,0 +1,152 @@
+{
+  "ai21-4.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:04.865627+00:00",
+    "conda_file": "ai21-4.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic",
+        "tenacity",
+        "typing-extensions"
+      ],
+      "optional": {
+        "aws": [
+          "boto3"
+        ],
+        "vertex": [
+          "google-auth"
+        ]
+      }
+    },
+    "original_requirements": [
+      "boto3 (>=1.28.82,<2.0.0) ; extra == \"aws\"",
+      "google-auth (>=2.31.0,<3.0.0) ; extra == \"vertex\"",
+      "httpx (>=0.27.0,<1.0.0)",
+      "pydantic (>=1.9.0,<3.0.0)",
+      "tenacity (>=8.3.0,<9.0.0)",
+      "typing-extensions (>=4.9.0,<5.0.0)"
+    ]
+  },
+  "ai21-4.2.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:05.320147+00:00",
+    "conda_file": "ai21-4.2.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic",
+        "tenacity",
+        "typing-extensions"
+      ],
+      "optional": {
+        "aws": [
+          "boto3"
+        ],
+        "vertex": [
+          "google-auth"
+        ]
+      }
+    },
+    "original_requirements": [
+      "boto3 (>=1.28.82,<2.0.0) ; extra == \"aws\"",
+      "google-auth (>=2.31.0,<3.0.0) ; extra == \"vertex\"",
+      "httpx (>=0.27.0,<1.0.0)",
+      "pydantic (>=1.9.0,<3.0.0)",
+      "tenacity (>=8.3.0,<9.0.0)",
+      "typing-extensions (>=4.9.0,<5.0.0)"
+    ]
+  },
+  "ai21-4.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:05.661059+00:00",
+    "conda_file": "ai21-4.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic",
+        "tenacity",
+        "typing-extensions"
+      ],
+      "optional": {
+        "aws": [
+          "boto3"
+        ],
+        "vertex": [
+          "google-auth"
+        ]
+      }
+    },
+    "original_requirements": [
+      "boto3 (>=1.28.82,<2.0.0) ; extra == \"aws\"",
+      "google-auth (>=2.31.0,<3.0.0) ; extra == \"vertex\"",
+      "httpx (>=0.27.0,<1.0.0)",
+      "pydantic (>=1.9.0,<3.0.0)",
+      "tenacity (>=8.3.0,<9.0.0)",
+      "typing-extensions (>=4.9.0,<5.0.0)"
+    ]
+  },
+  "ai21-4.1.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:06.042923+00:00",
+    "conda_file": "ai21-4.1.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic",
+        "tenacity",
+        "typing-extensions"
+      ],
+      "optional": {
+        "aws": [
+          "boto3"
+        ],
+        "vertex": [
+          "google-auth"
+        ]
+      }
+    },
+    "original_requirements": [
+      "boto3 (>=1.28.82,<2.0.0) ; extra == \"aws\"",
+      "google-auth (>=2.31.0,<3.0.0) ; extra == \"vertex\"",
+      "httpx (>=0.27.0,<1.0.0)",
+      "pydantic (>=1.9.0,<3.0.0)",
+      "tenacity (>=8.3.0,<9.0.0)",
+      "typing-extensions (>=4.9.0,<5.0.0)"
+    ]
+  },
+  "ai21-4.1.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:06.438190+00:00",
+    "conda_file": "ai21-4.1.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic",
+        "tenacity",
+        "typing-extensions"
+      ],
+      "optional": {
+        "aws": [
+          "boto3"
+        ],
+        "vertex": [
+          "google-auth"
+        ]
+      }
+    },
+    "original_requirements": [
+      "boto3 (>=1.28.82,<2.0.0) ; extra == \"aws\"",
+      "google-auth (>=2.31.0,<3.0.0) ; extra == \"vertex\"",
+      "httpx (>=0.27.0,<1.0.0)",
+      "pydantic (>=1.9.0,<3.0.0)",
+      "tenacity (>=8.3.0,<9.0.0)",
+      "typing-extensions (>=4.9.0,<5.0.0)"
+    ]
+  }
+}

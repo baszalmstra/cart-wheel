@@ -1,0 +1,209 @@
+{
+  "gto-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e94371a67c25256f973722c5891e551ca3cd8cc25864dcf468f2b16e6bcca6b8",
+    "dependencies": {
+      "required": [
+        "entrypoints",
+        "funcy",
+        "pydantic",
+        "pydantic-settings",
+        "rich",
+        "ruamel.yaml",
+        "scmrepo",
+        "semver",
+        "tabulate",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "entrypoints",
+      "funcy",
+      "pydantic>=2",
+      "pydantic-settings>=2",
+      "rich",
+      "ruamel.yaml",
+      "scmrepo<4,>=3",
+      "semver>=2.13.0",
+      "tabulate>=0.8.10",
+      "typer>=0.4.1",
+      "freezegun; extra == \"tests\"",
+      "pygit2; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-test-utils; extra == \"tests\"",
+      "gto[tests]; extra == \"dev\"",
+      "mypy==1.17.1; python_version > \"3.9\" and extra == \"dev\"",
+      "mypy<1.11.0; python_version <= \"3.9\" and extra == \"dev\"",
+      "pylint==3.3.8; extra == \"dev\"",
+      "types-PyYAML; extra == \"dev\"",
+      "types-filelock; extra == \"dev\"",
+      "types-freezegun; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-setuptools; extra == \"dev\"",
+      "types-six; extra == \"dev\"",
+      "types-tabulate; extra == \"dev\""
+    ]
+  },
+  "gto-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d91116bfbed0bcf669b1c2d2f4b4566afed8350e6dd42b105774e274943959f0",
+    "dependencies": {
+      "required": [
+        "entrypoints",
+        "funcy",
+        "pydantic",
+        "rich",
+        "ruamel.yaml",
+        "scmrepo",
+        "semver",
+        "tabulate",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "entrypoints",
+      "funcy",
+      "pydantic!=2.0.0,<3,>=1.9.0",
+      "rich",
+      "ruamel.yaml",
+      "scmrepo<4,>=3",
+      "semver>=2.13.0",
+      "tabulate>=0.8.10",
+      "typer>=0.4.1",
+      "freezegun; extra == \"tests\"",
+      "pygit2; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-test-utils; extra == \"tests\"",
+      "gto[tests]; extra == \"dev\"",
+      "mypy==1.17.1; extra == \"dev\"",
+      "pylint==3.3.8; extra == \"dev\"",
+      "types-PyYAML; extra == \"dev\"",
+      "types-filelock; extra == \"dev\"",
+      "types-freezegun; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-setuptools; extra == \"dev\"",
+      "types-six; extra == \"dev\"",
+      "types-tabulate; extra == \"dev\""
+    ]
+  },
+  "gto-1.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c893e5cf35ef0ffe22d342498f25c85b38f2cc507500e41b5e00d254feda1c1c",
+    "dependencies": {
+      "required": [
+        "entrypoints",
+        "funcy",
+        "pydantic",
+        "rich",
+        "ruamel.yaml",
+        "scmrepo",
+        "semver",
+        "tabulate",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "entrypoints",
+      "funcy",
+      "pydantic!=2.0.0,<3,>=1.9.0",
+      "rich",
+      "ruamel.yaml",
+      "scmrepo<4,>=3",
+      "semver>=2.13.0",
+      "tabulate>=0.8.10",
+      "typer>=0.4.1",
+      "freezegun; extra == \"tests\"",
+      "pygit2; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-test-utils; extra == \"tests\"",
+      "gto[tests]; extra == \"dev\"",
+      "mypy==1.13.0; extra == \"dev\"",
+      "pylint==3.3.2; extra == \"dev\"",
+      "types-PyYAML; extra == \"dev\"",
+      "types-filelock; extra == \"dev\"",
+      "types-freezegun; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-setuptools; extra == \"dev\"",
+      "types-six; extra == \"dev\"",
+      "types-tabulate; extra == \"dev\""
+    ]
+  },
+  "gto-1.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "466c3e059aacc7eb3b7780a5f4b49e4a32001b059feb2b426d5b0737f7e71f72",
+    "dependencies": {
+      "required": [
+        "scmrepo",
+        "typer",
+        "rich",
+        "pydantic",
+        "ruamel.yaml",
+        "semver",
+        "entrypoints",
+        "tabulate",
+        "funcy"
+      ]
+    },
+    "original_requirements": [
+      "scmrepo <4,>=3",
+      "typer >=0.4.1",
+      "rich",
+      "pydantic !=2.0.0,<3,>=1.9.0",
+      "ruamel.yaml",
+      "semver >=2.13.0",
+      "entrypoints",
+      "tabulate >=0.8.10",
+      "funcy",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "pytest-test-utils ; extra == 'tests'",
+      "pylint ==3.1.0 ; extra == 'tests'",
+      "pylint-plugin-utils ; extra == 'tests'",
+      "freezegun ; extra == 'tests'",
+      "types-freezegun ; extra == 'tests'"
+    ]
+  },
+  "gto-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a005720a00ae75906047d786e7468dc267d01da3fa94880f13a4536ff4b18871",
+    "dependencies": {
+      "required": [
+        "scmrepo",
+        "typer",
+        "rich",
+        "pydantic",
+        "ruamel.yaml",
+        "semver",
+        "entrypoints",
+        "tabulate",
+        "funcy"
+      ]
+    },
+    "original_requirements": [
+      "scmrepo <4,>=3",
+      "typer >=0.4.1",
+      "rich",
+      "pydantic !=2.0.0,<3,>=1.9.0",
+      "ruamel.yaml",
+      "semver >=3.0.0",
+      "entrypoints",
+      "tabulate >=0.8.10",
+      "funcy",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "pytest-test-utils ; extra == 'tests'",
+      "pylint ==3.0.3 ; extra == 'tests'",
+      "pylint-plugin-utils ; extra == 'tests'",
+      "freezegun ; extra == 'tests'",
+      "types-freezegun ; extra == 'tests'"
+    ]
+  }
+}

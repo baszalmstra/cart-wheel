@@ -1,0 +1,34 @@
+{
+  "fs_miniofs-1.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ceae023ad9cd67bf30517f6514ea95c543497c274e7966c385219431e180c9b",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "fs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (~=1.9)",
+      "fs (~=2.4)",
+      "six (~=1.10)"
+    ]
+  },
+  "fs_miniofs-1.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "96eca29e1be10a2468faea321a60d86b5c0f933282c0cbb28154b0a988c5909c",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "fs",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (~=1.9)",
+      "fs (~=2.4)",
+      "six (~=1.10)"
+    ]
+  }
+}

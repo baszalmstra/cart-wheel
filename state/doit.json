@@ -1,0 +1,89 @@
+{
+  "doit-0.36.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ebc285f6666871b5300091c26eafdff3de968a6bd60ea35dd1e3fc6f2e32479a",
+    "dependencies": {
+      "required": [
+        "cloudpickle",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "cloudpickle",
+      "importlib-metadata (>=4.4)",
+      "tomli ; (python_version < \"3.11\") and extra == 'toml'"
+    ]
+  },
+  "doit-0.35.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "049883079ceeca21e25ea96dfa5c1fb9881a7e4d7a63716ad5df12c140d221bc",
+    "dependencies": {
+      "required": [
+        "cloudpickle",
+        "macfsevents",
+        "pyinotify"
+      ]
+    },
+    "original_requirements": [
+      "cloudpickle",
+      "macfsevents ; sys.platform == \"darwin\"",
+      "pyinotify ; sys.platform == \"linux\"",
+      "setuptools ; extra == 'plugins'",
+      "toml (>=0.10.1) ; extra == 'toml'"
+    ]
+  },
+  "doit-0.34.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7f414de4c596a96a727890e0792709a103f1af48e8180e27e07862fff781238",
+    "dependencies": {
+      "required": [
+        "cloudpickle",
+        "macfsevents",
+        "pyinotify"
+      ]
+    },
+    "original_requirements": [
+      "cloudpickle",
+      "macfsevents ; sys.platform == \"darwin\"",
+      "pyinotify ; sys.platform == \"linux\"",
+      "setuptools ; extra == 'plugins'",
+      "toml (>=0.10.1) ; extra == 'toml'"
+    ]
+  },
+  "doit-0.34.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "772a6502f4fd2d31ef3520a9f36f4b6f81fba50c958c207943918f30a3444b30",
+    "dependencies": {
+      "required": [
+        "cloudpickle",
+        "macfsevents",
+        "pyinotify"
+      ]
+    },
+    "original_requirements": [
+      "cloudpickle",
+      "macfsevents ; sys.platform == \"darwin\"",
+      "pyinotify ; sys.platform == \"linux\"",
+      "setuptools ; extra == 'plugins'",
+      "toml (>=0.10.1) ; extra == 'toml'"
+    ]
+  },
+  "doit-0.34.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b913896a9ade2ac8e8c4f34373866be425c12ae443accf04ed0be630cb8aa13",
+    "dependencies": {
+      "required": [
+        "cloudpickle",
+        "macfsevents",
+        "pyinotify"
+      ]
+    },
+    "original_requirements": [
+      "cloudpickle",
+      "macfsevents ; sys.platform == \"darwin\"",
+      "pyinotify ; sys.platform == \"linux\"",
+      "setuptools ; extra == 'plugins'",
+      "toml (>=0.10.1) ; extra == 'toml'"
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "salib-1.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f4b6bebc1eeed1d081c8f951fa8c2ad7b0cd8a7159d206af48ef137cc806c43",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "multiprocess",
+        "numpy",
+        "pandas",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib>=3.5",
+      "multiprocess",
+      "numpy>=2.0",
+      "pandas>=2.0",
+      "scipy>=1.9.3",
+      "hatch; extra == 'dev'",
+      "myst-parser; extra == 'dev'",
+      "numpydoc; extra == 'dev'",
+      "pathos>=0.3.2; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "pydata-sphinx-theme>=0.15.2; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "sphinx; extra == 'dev'",
+      "pathos>=0.3.2; extra == 'distributed'",
+      "myst-parser; extra == 'doc'",
+      "numpydoc; extra == 'doc'",
+      "pydata-sphinx-theme>=0.15.2; extra == 'doc'",
+      "sphinx; extra == 'doc'",
+      "pathos>=0.3.2; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'"
+    ]
+  },
+  "salib-1.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a978b619c5a93eb14dd8c527f12e22d354b02f1f7143aba3cb84c1c7bc1382e5",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "multiprocess",
+        "numpy",
+        "pandas",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib>=3.5",
+      "multiprocess",
+      "numpy>=1.20.3",
+      "pandas>=2.0",
+      "scipy>=1.9.3",
+      "hatch; extra == 'dev'",
+      "myst-parser; extra == 'dev'",
+      "numpydoc; extra == 'dev'",
+      "pathos>=0.3.2; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "pydata-sphinx-theme>=0.15.2; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "sphinx; extra == 'dev'",
+      "pathos>=0.3.2; extra == 'distributed'",
+      "myst-parser; extra == 'doc'",
+      "numpydoc; extra == 'doc'",
+      "pydata-sphinx-theme>=0.15.2; extra == 'doc'",
+      "sphinx; extra == 'doc'",
+      "pathos>=0.3.2; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'"
+    ]
+  },
+  "salib-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eefbf397769c274f2c8773935235d6642d3c94d9dcc1479dfe0e21e2160dcdee",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "multiprocess",
+        "numpy",
+        "pandas",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib>=3.5",
+      "multiprocess",
+      "numpy>=1.20.3",
+      "pandas>=2.0",
+      "scipy>=1.9.3",
+      "hatch; extra == 'dev'",
+      "myst-parser; extra == 'dev'",
+      "numpydoc; extra == 'dev'",
+      "pathos>=0.3.2; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "pydata-sphinx-theme>=0.15.2; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "sphinx; extra == 'dev'",
+      "pathos>=0.3.2; extra == 'distributed'",
+      "myst-parser; extra == 'doc'",
+      "numpydoc; extra == 'doc'",
+      "pydata-sphinx-theme>=0.15.2; extra == 'doc'",
+      "sphinx; extra == 'doc'",
+      "pathos>=0.3.2; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'"
+    ]
+  },
+  "salib-1.4.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fef0f0637a97f1adca35a435e41274add6275ea42428f04d3e83deb720cc0234",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "multiprocess",
+        "numpy",
+        "pandas",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib>=3.2.2",
+      "multiprocess",
+      "numpy>=1.20.3",
+      "pandas>=1.2",
+      "scipy>=1.7.3",
+      "hatch; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "salib[distributed]; extra == 'dev'",
+      "salib[doc]; extra == 'dev'",
+      "salib[test]; extra == 'dev'",
+      "pathos>=0.2.5; extra == 'distributed'",
+      "myst-parser; extra == 'doc'",
+      "numpydoc; extra == 'doc'",
+      "pydata-sphinx-theme>=0.10; extra == 'doc'",
+      "sphinx; extra == 'doc'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "salib[distributed]; extra == 'test'"
+    ]
+  },
+  "salib-1.4.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d04657d9a4972b56ca34ac0f0b1128f21e464d505892adbf921ec70f20662e84",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "multiprocess",
+        "numpy",
+        "pandas",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib>=3.2.2",
+      "multiprocess",
+      "numpy>=1.20.3",
+      "pandas>=1.1.2",
+      "scipy>=1.7.3",
+      "hatch; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "salib[distributed]; extra == 'dev'",
+      "salib[doc]; extra == 'dev'",
+      "salib[test]; extra == 'dev'",
+      "pathos>=0.2.5; extra == 'distributed'",
+      "myst-parser; extra == 'doc'",
+      "numpydoc; extra == 'doc'",
+      "pydata-sphinx-theme>=0.10; extra == 'doc'",
+      "sphinx; extra == 'doc'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "salib[distributed]; extra == 'test'"
+    ]
+  }
+}

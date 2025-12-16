@@ -1,0 +1,146 @@
+{
+  "optimum_quanto-0.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1369b1d9a4a197f88c0d1c67e8d950694e5b86ce4c9f3878e178d5be35339f61",
+    "dependencies": {
+      "required": [
+        "torch",
+        "ninja",
+        "numpy",
+        "safetensors",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.6.0",
+      "ninja",
+      "numpy",
+      "safetensors",
+      "huggingface_hub",
+      "pytest; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "torchvision; extra == \"examples\"",
+      "transformers; extra == \"examples\"",
+      "diffusers; extra == \"examples\"",
+      "datasets; extra == \"examples\"",
+      "accelerate; extra == \"examples\"",
+      "sentencepiece; extra == \"examples\"",
+      "scipy; extra == \"examples\""
+    ]
+  },
+  "optimum_quanto-0.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b0d41757f982c7c70f8ec23bb843c7eb0e6fe3fd99d5e35d70003df2a6ee11f",
+    "dependencies": {
+      "required": [
+        "torch",
+        "ninja",
+        "numpy",
+        "safetensors",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "torch >=2.4.0",
+      "ninja",
+      "numpy",
+      "safetensors",
+      "huggingface-hub",
+      "pytest ; extra == 'dev'",
+      "ruff ; extra == 'dev'",
+      "torchvision ; extra == 'examples'",
+      "transformers ; extra == 'examples'",
+      "diffusers ; extra == 'examples'",
+      "datasets ; extra == 'examples'",
+      "accelerate ; extra == 'examples'",
+      "sentencepiece ; extra == 'examples'",
+      "scipy ; extra == 'examples'"
+    ]
+  },
+  "optimum_quanto-0.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3184134996ca8856df7607c096df3d7d132376a127c5884d8c2db673f85034d5",
+    "dependencies": {
+      "required": [
+        "torch",
+        "ninja",
+        "numpy",
+        "safetensors",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "torch >=2.4.0",
+      "ninja",
+      "numpy",
+      "safetensors",
+      "huggingface-hub",
+      "pytest ; extra == 'dev'",
+      "ruff ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "torchvision ; extra == 'examples'",
+      "transformers ; extra == 'examples'",
+      "diffusers ; extra == 'examples'",
+      "datasets ; extra == 'examples'",
+      "accelerate ; extra == 'examples'",
+      "sentencepiece ; extra == 'examples'",
+      "scipy ; extra == 'examples'"
+    ]
+  },
+  "optimum_quanto-0.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca1d5187de57c7be629d747ac71ea62df01e47d51c6e9b8d3f99341e5a88c5ed",
+    "dependencies": {
+      "required": [
+        "torch",
+        "ninja",
+        "numpy",
+        "safetensors"
+      ]
+    },
+    "original_requirements": [
+      "torch >=2.4.0",
+      "ninja",
+      "numpy",
+      "safetensors",
+      "pytest ; extra == 'dev'",
+      "ruff ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "torchvision ; extra == 'examples'",
+      "transformers ; extra == 'examples'",
+      "diffusers ; extra == 'examples'",
+      "datasets ; extra == 'examples'",
+      "accelerate ; extra == 'examples'",
+      "sentencepiece ; extra == 'examples'",
+      "scipy ; extra == 'examples'"
+    ]
+  },
+  "optimum_quanto-0.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40127666ad035ac42f41563fb81b7a0624f4bf7d60a032ccdfd0e8b7e9e69f79",
+    "dependencies": {
+      "required": [
+        "torch",
+        "ninja",
+        "numpy",
+        "safetensors"
+      ]
+    },
+    "original_requirements": [
+      "torch >=2.4.0",
+      "ninja",
+      "numpy",
+      "safetensors",
+      "pytest ; extra == 'dev'",
+      "ruff ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "torchvision ; extra == 'examples'",
+      "transformers ; extra == 'examples'",
+      "diffusers ; extra == 'examples'",
+      "datasets ; extra == 'examples'",
+      "accelerate ; extra == 'examples'",
+      "sentencepiece ; extra == 'examples'",
+      "scipy ; extra == 'examples'"
+    ]
+  }
+}

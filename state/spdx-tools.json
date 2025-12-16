@@ -1,0 +1,187 @@
+{
+  "spdx_tools-0.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "638fd9bd8be61901316eb6d063574e16d5403a1870073ec4d9241426a997501a",
+    "dependencies": {
+      "required": [
+        "click",
+        "pyyaml",
+        "xmltodict",
+        "rdflib",
+        "beartype",
+        "uritools",
+        "license-expression",
+        "ply",
+        "semantic-version"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "pyyaml",
+      "xmltodict",
+      "rdflib",
+      "beartype",
+      "uritools",
+      "license-expression",
+      "ply",
+      "semantic-version",
+      "isort ; extra == 'code_style'",
+      "black ; extra == 'code_style'",
+      "flake8 ; extra == 'code_style'",
+      "black ; extra == 'development'",
+      "flake8 ; extra == 'development'",
+      "isort ; extra == 'development'",
+      "networkx ; extra == 'development'",
+      "pytest ; extra == 'development'",
+      "pygraphviz ; extra == 'graph_generation'",
+      "networkx ; extra == 'graph_generation'",
+      "pytest ; extra == 'test'",
+      "pyshacl ; extra == 'test'",
+      "tzdata ; extra == 'test'"
+    ]
+  },
+  "spdx_tools-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c336c873f9caaf110693a1d38c007031e67bea53aa4b881007b680be66de934",
+    "dependencies": {
+      "required": [
+        "click",
+        "pyyaml",
+        "xmltodict",
+        "rdflib",
+        "beartype",
+        "uritools",
+        "license-expression",
+        "ply",
+        "semantic-version"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "pyyaml",
+      "xmltodict",
+      "rdflib",
+      "beartype",
+      "uritools",
+      "license-expression",
+      "ply",
+      "semantic-version",
+      "isort ; extra == 'code_style'",
+      "black ; extra == 'code_style'",
+      "flake8 ; extra == 'code_style'",
+      "black ; extra == 'development'",
+      "flake8 ; extra == 'development'",
+      "isort ; extra == 'development'",
+      "networkx ; extra == 'development'",
+      "pytest ; extra == 'development'",
+      "pygraphviz ; extra == 'graph_generation'",
+      "networkx ; extra == 'graph_generation'",
+      "pytest ; extra == 'test'",
+      "pyshacl ; extra == 'test'",
+      "tzdata ; extra == 'test'"
+    ]
+  },
+  "spdx_tools-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84eb4e524d2020da6120f19eab2e4ab1bb4e08453037ebe689159f74f7058684",
+    "dependencies": {
+      "required": [
+        "click",
+        "pyyaml",
+        "xmltodict",
+        "rdflib",
+        "beartype",
+        "uritools",
+        "license-expression",
+        "ply",
+        "semantic-version"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "pyyaml",
+      "xmltodict",
+      "rdflib",
+      "beartype",
+      "uritools",
+      "license-expression",
+      "ply",
+      "semantic-version",
+      "isort ; extra == 'code_style'",
+      "black ; extra == 'code_style'",
+      "flake8 ; extra == 'code_style'",
+      "black ; extra == 'development'",
+      "flake8 ; extra == 'development'",
+      "isort ; extra == 'development'",
+      "networkx ; extra == 'development'",
+      "pytest ; extra == 'development'",
+      "pygraphviz ; extra == 'graph_generation'",
+      "networkx ; extra == 'graph_generation'",
+      "pytest ; extra == 'test'",
+      "pyshacl ; extra == 'test'"
+    ]
+  },
+  "spdx_tools-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d57669c2e66f3ba2bfe253a3d9952e8761858e1af4084cd5bec43994099eda9d",
+    "dependencies": {
+      "required": [
+        "click",
+        "pyyaml",
+        "xmltodict",
+        "rdflib",
+        "beartype",
+        "uritools",
+        "license-expression",
+        "ply",
+        "semantic-version"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "pyyaml",
+      "xmltodict",
+      "rdflib",
+      "beartype",
+      "uritools",
+      "license-expression",
+      "ply",
+      "semantic-version",
+      "isort ; extra == 'code_style'",
+      "black ; extra == 'code_style'",
+      "flake8 ; extra == 'code_style'",
+      "black ; extra == 'development'",
+      "flake8 ; extra == 'development'",
+      "isort ; extra == 'development'",
+      "networkx ; extra == 'development'",
+      "pytest ; extra == 'development'",
+      "pygraphviz ; extra == 'graph_generation'",
+      "networkx ; extra == 'graph_generation'",
+      "pytest ; extra == 'test'",
+      "pyshacl ; extra == 'test'"
+    ]
+  },
+  "spdx_tools-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c89bcf650fff162bd5bfeec2d8a22c21bd7946cf58d54201401a2f70656f868a",
+    "dependencies": {
+      "required": [
+        "ply",
+        "rdflib",
+        "click",
+        "pyyaml",
+        "xmltodict",
+        "uritools"
+      ]
+    },
+    "original_requirements": [
+      "ply",
+      "rdflib",
+      "click",
+      "pyyaml",
+      "xmltodict",
+      "uritools",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

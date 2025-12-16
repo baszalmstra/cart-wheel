@@ -1,0 +1,12 @@
+# Package configuration for aioitertools
+conda_forge = "aioitertools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aioitertools-0.13.0-py3-none-any.whl" },
+  { filename = "aioitertools-0.12.0-py3-none-any.whl" },
+  { filename = "aioitertools-0.11.0-py3-none-any.whl" },
+  { filename = "aioitertools-0.10.0-py3-none-any.whl" },
+  { filename = "aioitertools-0.9.0-py3-none-any.whl" },
+]

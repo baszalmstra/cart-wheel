@@ -1,0 +1,152 @@
+{
+  "jaraco.packaging-10.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ceb5806d2ac5731ba5b265d196e4cb848afa2a958f01d0bf3a1dfaa3969ed92c",
+    "dependencies": {
+      "required": [
+        "build",
+        "jaraco.context",
+        "sphinx",
+        "domdf-python-tools"
+      ]
+    },
+    "original_requirements": [
+      "build[virtualenv]",
+      "jaraco.context",
+      "sphinx",
+      "domdf-python-tools",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "types-docutils ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "jaraco.packaging-10.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8998d249317695c1cc5d0602732c7c9ba871e41ee214a56e60cb38531c54c408",
+    "dependencies": {
+      "required": [
+        "build",
+        "jaraco.context",
+        "sphinx",
+        "domdf-python-tools"
+      ]
+    },
+    "original_requirements": [
+      "build[virtualenv]",
+      "jaraco.context",
+      "sphinx",
+      "domdf-python-tools",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'",
+      "types-docutils ; extra == 'test'"
+    ]
+  },
+  "jaraco.packaging-10.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "874a5af6f26a576d8bf2f57eeb4c4e21059c56fc1bee44a063f146a66f16927b",
+    "dependencies": {
+      "required": [
+        "build",
+        "jaraco.context",
+        "sphinx",
+        "domdf-python-tools"
+      ]
+    },
+    "original_requirements": [
+      "build[virtualenv]",
+      "jaraco.context",
+      "sphinx",
+      "domdf-python-tools",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'",
+      "types-docutils ; extra == 'test'"
+    ]
+  },
+  "jaraco.packaging-10.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ee25fb9ae416d86dbf35402022602a720065b83fd8d625665290fd0819e4b982",
+    "dependencies": {
+      "required": [
+        "build",
+        "jaraco.context",
+        "sphinx",
+        "domdf-python-tools"
+      ]
+    },
+    "original_requirements": [
+      "build[virtualenv]",
+      "jaraco.context",
+      "sphinx",
+      "domdf-python-tools",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'",
+      "types-docutils ; extra == 'test'"
+    ]
+  },
+  "jaraco.packaging-10.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2927068083355cee9e0954c37872da10b5eee212e866c58125115a2d399c390",
+    "dependencies": {
+      "required": [
+        "build",
+        "jaraco.context",
+        "sphinx",
+        "domdf-python-tools"
+      ]
+    },
+    "original_requirements": [
+      "build[virtualenv]",
+      "jaraco.context",
+      "sphinx",
+      "domdf-python-tools",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest !=8.1.1,>=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-mypy ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'",
+      "types-docutils ; extra == 'testing'"
+    ]
+  }
+}

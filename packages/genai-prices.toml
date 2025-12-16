@@ -1,0 +1,12 @@
+# Package configuration for genai-prices
+conda_forge = "genai-prices"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "genai_prices-0.0.48-py3-none-any.whl" },
+  { filename = "genai_prices-0.0.47-py3-none-any.whl" },
+  { filename = "genai_prices-0.0.46-py3-none-any.whl" },
+  { filename = "genai_prices-0.0.45-py3-none-any.whl" },
+  { filename = "genai_prices-0.0.44-py3-none-any.whl" },
+]

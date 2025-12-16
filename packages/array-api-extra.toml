@@ -1,0 +1,12 @@
+# Package configuration for array-api-extra
+conda_forge = "array-api-extra"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "array_api_extra-0.9.1-py3-none-any.whl" },
+  { filename = "array_api_extra-0.9.0-py3-none-any.whl" },
+  { filename = "array_api_extra-0.8.2-py3-none-any.whl" },
+  { filename = "array_api_extra-0.8.1-py3-none-any.whl" },
+  { filename = "array_api_extra-0.8.0-py3-none-any.whl" },
+]

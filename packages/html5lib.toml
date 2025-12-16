@@ -1,0 +1,10 @@
+# Package configuration for html5lib
+conda_forge = "html5lib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "html5lib-1.1-py2.py3-none-any.whl" },
+  { filename = "html5lib-1.0.1-py2.py3-none-any.whl" },
+  { filename = "html5lib-0.999999999-py2.py3-none-any.whl" },
+]

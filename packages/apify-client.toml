@@ -1,0 +1,11 @@
+# Package configuration for apify-client
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apify_client-2.3.0-py3-none-any.whl" },
+  { filename = "apify_client-2.2.1-py3-none-any.whl" },
+  { filename = "apify_client-2.2.0-py3-none-any.whl" },
+  { filename = "apify_client-2.1.0-py3-none-any.whl" },
+  { filename = "apify_client-2.0.0-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for types-passlib
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_passlib-1.7.7.20250602-py3-none-any.whl" },
+  { filename = "types_passlib-1.7.7.20250601-py3-none-any.whl" },
+  { filename = "types_passlib-1.7.7.20250516-py3-none-any.whl" },
+  { filename = "types_passlib-1.7.7.20250408-py3-none-any.whl" },
+  { filename = "types_passlib-1.7.7.20250401-py3-none-any.whl" },
+]

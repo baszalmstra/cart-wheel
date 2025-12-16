@@ -1,0 +1,11 @@
+# Package configuration for sphinxcontrib-moderncmakedomain
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_moderncmakedomain-3.29.0-py3-none-any.whl" },
+  { filename = "sphinxcontrib_moderncmakedomain-3.27.0-py3-none-any.whl" },
+  { filename = "sphinxcontrib_moderncmakedomain-3.26.4-py3-none-any.whl" },
+  { filename = "sphinxcontrib_moderncmakedomain-3.25.0-py3-none-any.whl" },
+  { filename = "sphinxcontrib_moderncmakedomain-3.21.4-py3-none-any.whl" },
+]

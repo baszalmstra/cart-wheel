@@ -1,0 +1,12 @@
+# Package configuration for azure-storage-file-datalake
+conda_forge = "azure-storage-file-datalake"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_storage_file_datalake-12.22.0-py3-none-any.whl" },
+  { filename = "azure_storage_file_datalake-12.21.0-py3-none-any.whl" },
+  { filename = "azure_storage_file_datalake-12.20.0-py3-none-any.whl" },
+  { filename = "azure_storage_file_datalake-12.19.0-py3-none-any.whl" },
+  { filename = "azure_storage_file_datalake-12.18.1-py3-none-any.whl" },
+]

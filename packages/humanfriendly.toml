@@ -1,0 +1,12 @@
+# Package configuration for humanfriendly
+conda_forge = "humanfriendly"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "humanfriendly-10.0-py2.py3-none-any.whl" },
+  { filename = "humanfriendly-9.2-py2.py3-none-any.whl" },
+  { filename = "humanfriendly-9.1-py2.py3-none-any.whl" },
+  { filename = "humanfriendly-9.0-py2.py3-none-any.whl" },
+  { filename = "humanfriendly-8.2-py2.py3-none-any.whl" },
+]

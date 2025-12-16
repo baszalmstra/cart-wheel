@@ -1,0 +1,12 @@
+# Package configuration for launchdarkly-eventsource
+conda_forge = "launchdarkly-eventsource"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "launchdarkly_eventsource-1.5.0-py3-none-any.whl" },
+  { filename = "launchdarkly_eventsource-1.4.0-py3-none-any.whl" },
+  { filename = "launchdarkly_eventsource-1.3.0-py3-none-any.whl" },
+  { filename = "launchdarkly_eventsource-1.2.4-py3-none-any.whl" },
+  { filename = "launchdarkly_eventsource-1.2.3-py3-none-any.whl" },
+]

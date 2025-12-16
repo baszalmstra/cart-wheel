@@ -1,0 +1,52 @@
+{
+  "ddt-1.7.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6adcfaf9785f0a36f9e73a89b91e412de9ef8649e289b750e3683bc79d5e2354",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "ddt-1.7.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c4ac421bbdc10d2403b472294500c6f75ca822386c34d9fe82882d7a2ce9682",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "ddt-1.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e3c93b961a108b4f4d5a6c7f2263513d928baf3bb5b32af8e1c804bfb041141d",
+    "dependencies": {
+      "required": [
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "enum34 ; python_version < \"3\""
+    ]
+  },
+  "ddt-1.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "78976df724bbf70e8f8c488094184fd778ce3212deb0070481b4db44d5e0fb38",
+    "dependencies": {
+      "required": [
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "enum34 ; python_version < \"3\""
+    ]
+  },
+  "ddt-1.4.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "439f163a149d47761bcb11fefdd7327c7bc9262fa1c53f5929f643a6faa6d454",
+    "dependencies": {
+      "required": [
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "enum34 ; python_version < \"3\""
+    ]
+  }
+}

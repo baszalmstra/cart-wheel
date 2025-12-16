@@ -1,0 +1,67 @@
+{
+  "googleapis_common_protos-1.72.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4299c5a82d5ae1a9702ada957347726b167f9f8d1fc352477702a1e851ff4038",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "grpcio<2.0.0,>=1.44.0; extra == \"grpc\""
+    ]
+  },
+  "googleapis_common_protos-1.71.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "59034a1d849dc4d18971997a72ac56246570afdd17f9369a0ff68218d50ab78c",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "grpcio<2.0.0,>=1.44.0; extra == \"grpc\""
+    ]
+  },
+  "googleapis_common_protos-1.70.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b8bfcca8c25a2bb253e0e0b0adaf8c00773e5e6af6fd92397576680b807e0fd8",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "grpcio<2.0.0,>=1.44.0; extra == \"grpc\""
+    ]
+  },
+  "googleapis_common_protos-1.69.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b30452ff9c7a27d80bfc5718954063e8ab53dd3697093d3bc99581f5fd24212",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "grpcio<2.0.0,>=1.44.0; extra == \"grpc\""
+    ]
+  },
+  "googleapis_common_protos-1.69.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4077f27a6900d5946ee5a369fab9c8ded4c0ef1c6e880458ea2f70c14f7b70d5",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<6.0.0.dev0,>=3.20.2",
+      "grpcio<2.0.0.dev0,>=1.44.0; extra == \"grpc\""
+    ]
+  }
+}

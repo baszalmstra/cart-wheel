@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-pricing
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_pricing-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_pricing-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_pricing-1.40.54-py3-none-any.whl" },
+  { filename = "mypy_boto3_pricing-1.40.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_pricing-1.39.5-py3-none-any.whl" },
+]

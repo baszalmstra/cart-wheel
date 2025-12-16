@@ -1,0 +1,12 @@
+# Package configuration for sqlglot
+conda_forge = "sqlglot"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sqlglot-28.3.0-py3-none-any.whl" },
+  { filename = "sqlglot-28.2.0-py3-none-any.whl" },
+  { filename = "sqlglot-28.1.0-py3-none-any.whl" },
+  { filename = "sqlglot-28.0.0-py3-none-any.whl" },
+  { filename = "sqlglot-27.29.0-py3-none-any.whl" },
+]

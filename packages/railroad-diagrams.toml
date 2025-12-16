@@ -1,0 +1,11 @@
+# Package configuration for railroad-diagrams
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "railroad_diagrams-3.0.1-py3-none-any.whl" },
+  { filename = "railroad_diagrams-3.0.0-py3-none-any.whl" },
+  { filename = "railroad_diagrams-2.0.4-py3-none-any.whl" },
+  { filename = "railroad_diagrams-1.1.1-py3-none-any.whl" },
+  { filename = "railroad_diagrams-1.1.0-py3-none-any.whl" },
+]

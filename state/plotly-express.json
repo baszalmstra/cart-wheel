@@ -1,0 +1,112 @@
+{
+  "plotly_express-0.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5f112922b0a6225dc7c010e3b86295a74449e3eac6cac8faa95175e99b7698ce",
+    "dependencies": {
+      "required": [
+        "pandas",
+        "plotly",
+        "statsmodels",
+        "scipy",
+        "patsy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "pandas (>=0.20.0)",
+      "plotly (>=4.1.0)",
+      "statsmodels (>=0.9.0)",
+      "scipy (>=0.18)",
+      "patsy (>=0.5)",
+      "numpy (>=1.11)"
+    ]
+  },
+  "plotly_express-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "845cdf371e6e69d05ea7c38a0abde325f533c6fe590daf1e434a96bd596908cc",
+    "dependencies": {
+      "required": [
+        "pandas",
+        "plotly",
+        "statsmodels",
+        "scipy",
+        "patsy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "pandas (>=0.20.0)",
+      "plotly (>=4.0.0)",
+      "statsmodels (>=0.9.0)",
+      "scipy (>=0.18)",
+      "patsy (>=0.5)",
+      "numpy (>=1.11)"
+    ]
+  },
+  "plotly_express-0.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a750d82c5c39210ba1a254ecd0c967953a6a74345a9e2def25fc2b85efc7076c",
+    "dependencies": {
+      "required": [
+        "pandas",
+        "plotly",
+        "statsmodels",
+        "scipy",
+        "patsy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "pandas (>=0.20.0)",
+      "plotly (<4.0.0a0,>=3.10.0)",
+      "statsmodels (>=0.9.0)",
+      "scipy (>=0.18)",
+      "patsy (>=0.5)",
+      "numpy (>=1.11)"
+    ]
+  },
+  "plotly_express-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a07d3bf3b9d222ada4f3b18d5e110cde1824292aebc2fd27de30d7b34b48eec0",
+    "dependencies": {
+      "required": [
+        "pandas",
+        "plotly",
+        "statsmodels",
+        "scipy",
+        "patsy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "pandas (>=0.20.0)",
+      "plotly (>=3.10.0)",
+      "statsmodels (>=0.9.0)",
+      "scipy (>=0.18)",
+      "patsy (>=0.5)",
+      "numpy (>=1.11)"
+    ]
+  },
+  "plotly_express-0.2.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc105c0b77dbab26f5a5d55684a3fa74251d5b40f02ff22bdbd44998cc557878",
+    "dependencies": {
+      "required": [
+        "pandas",
+        "plotly",
+        "statsmodels",
+        "scipy",
+        "patsy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "pandas (>=0.20.0)",
+      "plotly (>=3.9.0)",
+      "statsmodels (>=0.9.0)",
+      "scipy (>=0.18)",
+      "patsy (>=0.5)",
+      "numpy (>=1.11)"
+    ]
+  }
+}

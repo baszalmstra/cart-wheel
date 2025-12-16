@@ -1,0 +1,119 @@
+{
+  "mypy-1.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c01c99d626380752e527d5ce8e69ffbba2046eb8a060db0329690849cf9b6f9",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "mypy-extensions",
+        "pathspec",
+        "tomli",
+        "librt"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions>=4.6.0",
+      "mypy_extensions>=1.0.0",
+      "pathspec>=0.9.0",
+      "tomli>=1.1.0; python_version < \"3.11\"",
+      "librt>=0.6.2",
+      "psutil>=4.0; extra == \"dmypy\"",
+      "setuptools>=50; extra == \"mypyc\"",
+      "lxml; extra == \"reports\"",
+      "pip; extra == \"install-types\"",
+      "orjson; extra == \"faster-cache\""
+    ]
+  },
+  "mypy-1.18.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22a1748707dd62b58d2ae53562ffc4d7f8bcc727e8ac7cbc69c053ddc874d47e",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "mypy-extensions",
+        "pathspec",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions>=4.6.0",
+      "mypy_extensions>=1.0.0",
+      "pathspec>=0.9.0",
+      "tomli>=1.1.0; python_version < \"3.11\"",
+      "psutil>=4.0; extra == \"dmypy\"",
+      "setuptools>=50; extra == \"mypyc\"",
+      "lxml; extra == \"reports\"",
+      "pip; extra == \"install-types\"",
+      "orjson; extra == \"faster-cache\""
+    ]
+  },
+  "mypy-1.18.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b76a4de66a0ac01da1be14ecc8ae88ddea33b8380284a9e3eae39d57ebcbe26e",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "mypy-extensions",
+        "pathspec",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions>=4.6.0",
+      "mypy_extensions>=1.0.0",
+      "pathspec>=0.9.0",
+      "tomli>=1.1.0; python_version < \"3.11\"",
+      "psutil>=4.0; extra == \"dmypy\"",
+      "setuptools>=50; extra == \"mypyc\"",
+      "lxml; extra == \"reports\"",
+      "pip; extra == \"install-types\"",
+      "orjson; extra == \"faster-cache\""
+    ]
+  },
+  "mypy-1.17.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9f52c0351c21fe24c21d8c0eb1f62967b262d6729393397b6f443c3b773c3b9",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "mypy-extensions",
+        "pathspec",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions>=4.6.0",
+      "mypy_extensions>=1.0.0",
+      "pathspec>=0.9.0",
+      "tomli>=1.1.0; python_version < \"3.11\"",
+      "psutil>=4.0; extra == \"dmypy\"",
+      "setuptools>=50; extra == \"mypyc\"",
+      "lxml; extra == \"reports\"",
+      "pip; extra == \"install-types\"",
+      "orjson; extra == \"faster-cache\""
+    ]
+  },
+  "mypy-1.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15d9d0018237ab058e5de3d8fce61b6fa72cc59cc78fd91f1b474bce12abf496",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "mypy-extensions",
+        "pathspec",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions>=4.6.0",
+      "mypy_extensions>=1.0.0",
+      "pathspec>=0.9.0",
+      "tomli>=1.1.0; python_version < \"3.11\"",
+      "psutil>=4.0; extra == \"dmypy\"",
+      "setuptools>=50; extra == \"mypyc\"",
+      "lxml; extra == \"reports\"",
+      "pip; extra == \"install-types\"",
+      "orjson; extra == \"faster-cache\""
+    ]
+  }
+}

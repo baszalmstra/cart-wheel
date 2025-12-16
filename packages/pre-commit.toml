@@ -1,0 +1,12 @@
+# Package configuration for pre-commit
+conda_forge = "pre-commit"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pre_commit-4.5.0-py2.py3-none-any.whl" },
+  { filename = "pre_commit-4.4.0-py2.py3-none-any.whl" },
+  { filename = "pre_commit-4.3.0-py2.py3-none-any.whl" },
+  { filename = "pre_commit-4.2.0-py2.py3-none-any.whl" },
+  { filename = "pre_commit-4.1.0-py2.py3-none-any.whl" },
+]

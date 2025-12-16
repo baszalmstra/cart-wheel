@@ -1,0 +1,50 @@
+{
+  "darabonba_core-1.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "671ab8dbc4edc2a8f88013da71646839bb8914f1259efc069353243ef52ea27c",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "alibabacloud-tea",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (<4.0.0,>=3.7.0)",
+      "alibabacloud-tea",
+      "requests (<3.0.0,>=2.21.0)"
+    ]
+  },
+  "darabonba_core-1.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c3bc1d76d5af1087297b6afde8e960ea2f54f93e725e2df8453f0b4bb27dd24",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "alibabacloud-tea",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (<4.0.0,>=3.7.0)",
+      "alibabacloud-tea",
+      "requests (<3.0.0,>=2.21.0)"
+    ]
+  },
+  "darabonba_core-1.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "106c61970732cca5ee26798eed5f7baef114bba27d0fb7a28fd4065aa113a1a2",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "alibabacloud-tea",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (<4.0.0,>=3.7.0)",
+      "alibabacloud-tea",
+      "requests (<3.0.0,>=2.21.0)"
+    ]
+  }
+}

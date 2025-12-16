@@ -1,0 +1,93 @@
+{
+  "apache_airflow_providers_docker-4.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2122c7e9ddc2580413b66df0850cd4b56ebd618a999a18fbe08dac85781fbd33",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "docker",
+        "python-dotenv"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "docker>=7.1.0",
+      "python-dotenv>=0.21.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_docker-4.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c0730c165ced17e39ff04e7d2d57fedf1b8205468739f1b885df73d91ad4cdf",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "docker",
+        "python-dotenv"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.0",
+      "docker>=7.1.0",
+      "python-dotenv>=0.21.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_docker-4.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2e23c939bf937557cacdf7e0d3358912bba1cf7fac42f240abb9fbcd59fa961",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "docker",
+        "python-dotenv"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "docker>=7.1.0",
+      "python-dotenv>=0.21.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_docker-4.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52a87491ef890657f65896945d4f75167564cf6f657d618d898ecd08f469a4a5",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "docker",
+        "python-dotenv"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "docker>=7.1.0",
+      "python-dotenv>=0.21.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_docker-4.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "effd67506c755e775d139c9ffad5ad28fc482225cbaa6847694fea7d2e2f5656",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "docker",
+        "python-dotenv"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "docker>=7.1.0",
+      "python-dotenv>=0.21.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  }
+}

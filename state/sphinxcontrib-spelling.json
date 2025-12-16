@@ -1,0 +1,97 @@
+{
+  "sphinxcontrib_spelling-8.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db8b3b2945683d49e87a8a5133d2b8ed4206cb593038b986ca8686a485f9980d",
+    "dependencies": {
+      "required": [
+        "pyenchant",
+        "requests",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "pyenchant>=3.1.1",
+      "requests>=2.32.3",
+      "sphinx>=3.0.0",
+      "coverage!=4.4,>=4.0; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'"
+    ]
+  },
+  "sphinxcontrib_spelling-8.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "21704857c1b5e26e06bb07d15927df41c9d7ecfc1843169ecd22cb59f24069ac",
+    "dependencies": {
+      "required": [
+        "pyenchant",
+        "sphinx",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "PyEnchant>=3.1.1",
+      "Sphinx>=3.0.0",
+      "requests>=2.32.3",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "coverage!=4.4,>=4.0; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_spelling-8.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b27e0a16aef00bcfc888a6490dc3f16651f901dc475446c6882834278c8dc7b3",
+    "dependencies": {
+      "required": [
+        "pyenchant",
+        "sphinx",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "PyEnchant (>=3.1.1)",
+      "Sphinx (>=3.0.0)",
+      "importlib-metadata (>=1.7.0) ; python_version < \"3.8\"",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "coverage (!=4.4,>=4.0) ; extra == 'test'"
+    ]
+  },
+  "sphinxcontrib_spelling-7.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "95a0defef8ffec6526f9e83b20cc24b08c9179298729d87976891840e3aa3064",
+    "dependencies": {
+      "required": [
+        "pyenchant",
+        "sphinx",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "PyEnchant (>=3.1.1)",
+      "Sphinx (>=3.0.0)",
+      "importlib-metadata (>=1.7.0) ; (python_version<'3.8')",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "coverage (!=4.4,>=4.0) ; extra == 'test'"
+    ]
+  },
+  "sphinxcontrib_spelling-7.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7ca90eea630c825657e1344000a11d7d7f547a865e0eebbed08d112beb073d1",
+    "dependencies": {
+      "required": [
+        "pyenchant",
+        "sphinx",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "PyEnchant (>=3.1.1)",
+      "Sphinx (>=3.0.0)",
+      "importlib-metadata (>=1.7.0) ; (python_version<'3.8')",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "coverage (!=4.4,>=4.0) ; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for mock
+conda_forge = "mock"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mock-5.2.0-py3-none-any.whl" },
+  { filename = "mock-5.1.0-py3-none-any.whl" },
+  { filename = "mock-5.0.2-py3-none-any.whl" },
+  { filename = "mock-5.0.1-py3-none-any.whl" },
+  { filename = "mock-5.0.0-py3-none-any.whl" },
+]

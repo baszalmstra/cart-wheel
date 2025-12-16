@@ -1,0 +1,12 @@
+# Package configuration for dotmap
+conda_forge = "dotmap"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dotmap-1.3.30-py3-none-any.whl" },
+  { filename = "dotmap-1.3.29-py3-none-any.whl" },
+  { filename = "dotmap-1.3.28-py3-none-any.whl" },
+  { filename = "dotmap-1.3.27-py3-none-any.whl" },
+  { filename = "dotmap-1.3.26-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for livemark
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "livemark-0.110.8-py2.py3-none-any.whl" },
+  { filename = "livemark-0.110.7-py2.py3-none-any.whl" },
+  { filename = "livemark-0.110.5-py2.py3-none-any.whl" },
+  { filename = "livemark-0.110.4-py2.py3-none-any.whl" },
+  { filename = "livemark-0.110.2-py2.py3-none-any.whl" },
+]

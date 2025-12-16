@@ -1,0 +1,10 @@
+# Package configuration for pysocks
+conda_forge = "pysocks"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "PySocks-1.7.1-py3-none-any.whl" },
+  { filename = "PySocks-1.7.0-py3-none-any.whl" },
+  { filename = "PySocks-1.6.7-py3-none-any.whl" },
+]

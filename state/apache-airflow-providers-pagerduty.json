@@ -1,0 +1,90 @@
+{
+  "apache_airflow_providers_pagerduty-5.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d96973f4d8aea751cdca54a6c1c8e52307a15d8763898b6f3ddedc786805de4",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http",
+        "pagerduty"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-http",
+      "pagerduty>=2.3.0"
+    ]
+  },
+  "apache_airflow_providers_pagerduty-5.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b0ad7a1c00db49b8b96a6d38dda3782d1971f4de6f95dd94fa29a61b9e69321",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http",
+        "pagerduty"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-http",
+      "pagerduty>=2.3.0"
+    ]
+  },
+  "apache_airflow_providers_pagerduty-5.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a0a0830eb29807c9075660dbbc86f5d3246eaf150e5181bdf39fe8eff115af5",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http",
+        "pagerduty"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-http",
+      "pagerduty>=2.3.0"
+    ]
+  },
+  "apache_airflow_providers_pagerduty-5.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9db13b1908e67d157546c36fa87d6c3dd00e39a7e9c49a3fe4509e742fb439d2",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http",
+        "pagerduty"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-http",
+      "pagerduty>=2.3.0"
+    ]
+  },
+  "apache_airflow_providers_pagerduty-5.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c8e87a089795ac47fc1ae261656c604799bc40b2cc83bdb4d86a91c591d6493",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pagerduty"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "pagerduty>=2.3.0"
+    ]
+  }
+}

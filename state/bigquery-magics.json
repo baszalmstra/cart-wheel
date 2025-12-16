@@ -1,0 +1,222 @@
+{
+  "bigquery_magics-0.10.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "66ca2cc668605685adb0126d26e4b373c5719fb0418c540e8541689fd8241133",
+    "dependencies": {
+      "required": [
+        "db-dtypes",
+        "google-cloud-bigquery",
+        "ipywidgets",
+        "ipython",
+        "ipykernel",
+        "packaging",
+        "pandas",
+        "pyarrow",
+        "pydata-google-auth",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "db-dtypes<2.0.0,>=0.3.0",
+      "google-cloud-bigquery<4.0.0,>=3.13.0",
+      "ipywidgets>=7.7.1",
+      "ipython>=7.23.1",
+      "ipykernel>=5.5.6",
+      "packaging>=20.0.0",
+      "pandas>=1.2.0",
+      "pyarrow>=3.0.0",
+      "pydata-google-auth>=1.5.0",
+      "tqdm<5.0.0,>=4.7.4",
+      "google-cloud-bigquery-storage<3.0.0,>=2.6.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"bqstorage\"",
+      "bigframes>=1.17.0; extra == \"bigframes\"",
+      "geopandas>=1.0.1; extra == \"geopandas\"",
+      "spanner-graph-notebook>=1.1.7; extra == \"spanner-graph-notebook\"",
+      "portpicker; extra == \"spanner-graph-notebook\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.6.0; extra == \"all\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"all\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"all\"",
+      "bigframes>=1.17.0; extra == \"all\"",
+      "geopandas>=1.0.1; extra == \"all\"",
+      "spanner-graph-notebook>=1.1.7; extra == \"all\"",
+      "portpicker; extra == \"all\""
+    ]
+  },
+  "bigquery_magics-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "533377841112cc40bdaa644d33ee7cbc7dfaf966f6318f93e3c6e70ea7903068",
+    "dependencies": {
+      "required": [
+        "db-dtypes",
+        "google-cloud-bigquery",
+        "ipywidgets",
+        "ipython",
+        "ipykernel",
+        "packaging",
+        "pandas",
+        "pyarrow",
+        "pydata-google-auth",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "db-dtypes<2.0.0,>=0.3.0",
+      "google-cloud-bigquery<4.0.0,>=3.13.0",
+      "ipywidgets>=7.7.1",
+      "ipython>=7.23.1",
+      "ipykernel>=5.5.6",
+      "packaging>=20.0.0",
+      "pandas>=1.2.0",
+      "pyarrow>=3.0.0",
+      "pydata-google-auth>=1.5.0",
+      "tqdm<5.0.0,>=4.7.4",
+      "google-cloud-bigquery-storage<3.0.0,>=2.6.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"bqstorage\"",
+      "bigframes>=1.17.0; extra == \"bigframes\"",
+      "geopandas>=1.0.1; extra == \"geopandas\"",
+      "spanner-graph-notebook>=1.1.7; extra == \"spanner-graph-notebook\"",
+      "portpicker; extra == \"spanner-graph-notebook\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.6.0; extra == \"all\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"all\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"all\"",
+      "bigframes>=1.17.0; extra == \"all\"",
+      "geopandas>=1.0.1; extra == \"all\"",
+      "spanner-graph-notebook>=1.1.7; extra == \"all\"",
+      "portpicker; extra == \"all\""
+    ]
+  },
+  "bigquery_magics-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eba872a03150cac1dff09504f938f1167f85000e08fd5d5738aaba8f07ba824a",
+    "dependencies": {
+      "required": [
+        "db-dtypes",
+        "google-cloud-bigquery",
+        "ipywidgets",
+        "ipython",
+        "ipykernel",
+        "packaging",
+        "pandas",
+        "pyarrow",
+        "pydata-google-auth",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "db-dtypes<2.0.0,>=0.3.0",
+      "google-cloud-bigquery<4.0.0,>=3.13.0",
+      "ipywidgets>=7.7.1",
+      "ipython>=7.23.1",
+      "ipykernel>=5.5.6",
+      "packaging>=20.0.0",
+      "pandas>=1.1.0",
+      "pyarrow>=3.0.0",
+      "pydata-google-auth>=1.5.0",
+      "tqdm<5.0.0,>=4.7.4",
+      "google-cloud-bigquery-storage<3.0.0,>=2.6.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"bqstorage\"",
+      "bigframes>=1.17.0; extra == \"bigframes\"",
+      "geopandas>=1.0.1; extra == \"geopandas\"",
+      "spanner-graph-notebook<=1.1.6,>=1.1.5; extra == \"spanner-graph-notebook\"",
+      "portpicker; extra == \"spanner-graph-notebook\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.6.0; extra == \"all\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"all\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"all\"",
+      "bigframes>=1.17.0; extra == \"all\"",
+      "geopandas>=1.0.1; extra == \"all\"",
+      "spanner-graph-notebook<=1.1.6,>=1.1.5; extra == \"all\"",
+      "portpicker; extra == \"all\""
+    ]
+  },
+  "bigquery_magics-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fa037a4261550c978cca661eae2b0e79a4e0185bb64955c38b7a953db3b16355",
+    "dependencies": {
+      "required": [
+        "db-dtypes",
+        "google-cloud-bigquery",
+        "ipywidgets",
+        "ipython",
+        "ipykernel",
+        "packaging",
+        "pandas",
+        "pyarrow",
+        "pydata-google-auth",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "db-dtypes<2.0.0,>=0.3.0",
+      "google-cloud-bigquery<4.0.0,>=3.13.0",
+      "ipywidgets>=7.7.1",
+      "ipython>=7.23.1",
+      "ipykernel>=5.5.6",
+      "packaging>=20.0.0",
+      "pandas>=1.1.0",
+      "pyarrow>=3.0.0",
+      "pydata-google-auth>=1.5.0",
+      "tqdm<5.0.0,>=4.7.4",
+      "google-cloud-bigquery-storage<3.0.0,>=2.6.0; extra == \"all\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"all\"",
+      "bigframes>=1.17.0; extra == \"all\"",
+      "geopandas>=1.0.1; extra == \"all\"",
+      "spanner-graph-notebook>=1.1.5; extra == \"all\"",
+      "portpicker; extra == \"all\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"all\"",
+      "bigframes>=1.17.0; extra == \"bigframes\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.6.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"bqstorage\"",
+      "geopandas>=1.0.1; extra == \"geopandas\"",
+      "spanner-graph-notebook>=1.1.5; extra == \"spanner-graph-notebook\"",
+      "portpicker; extra == \"spanner-graph-notebook\""
+    ]
+  },
+  "bigquery_magics-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2087ae4ed53174668a1d6d9a1a36c0bbad790f80c2796e05e104206edc0b2cd",
+    "dependencies": {
+      "required": [
+        "db-dtypes",
+        "google-cloud-bigquery",
+        "ipywidgets",
+        "ipython",
+        "ipykernel",
+        "packaging",
+        "pandas",
+        "pyarrow",
+        "pydata-google-auth",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "db-dtypes<2.0.0,>=0.3.0",
+      "google-cloud-bigquery<4.0.0,>=3.13.0",
+      "ipywidgets>=7.7.1",
+      "ipython>=7.23.1",
+      "ipykernel>=5.5.6",
+      "packaging>=20.0.0",
+      "pandas>=1.1.0",
+      "pyarrow>=3.0.0",
+      "pydata-google-auth>=1.5.0",
+      "tqdm<5.0.0,>=4.7.4",
+      "google-cloud-bigquery-storage<3.0.0,>=2.6.0; extra == \"all\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"all\"",
+      "bigframes>=1.17.0; extra == \"all\"",
+      "geopandas>=1.0.1; extra == \"all\"",
+      "spanner-graph-notebook>=1.1.5; extra == \"all\"",
+      "portpicker; extra == \"all\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"all\"",
+      "bigframes>=1.17.0; extra == \"bigframes\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.6.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"bqstorage\"",
+      "geopandas>=1.0.1; extra == \"geopandas\"",
+      "spanner-graph-notebook>=1.1.5; extra == \"spanner-graph-notebook\"",
+      "portpicker; extra == \"spanner-graph-notebook\""
+    ]
+  }
+}

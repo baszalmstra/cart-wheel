@@ -1,0 +1,10 @@
+# Package configuration for pymorphy2
+conda_forge = "pymorphy2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pymorphy2-0.9.1-py3-none-any.whl" },
+  { filename = "pymorphy2-0.9-py3-none-any.whl" },
+  { filename = "pymorphy2-0.8-py2.py3-none-any.whl" },
+]

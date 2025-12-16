@@ -1,0 +1,108 @@
+{
+  "numpydoc-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3149da9874af890bcc2a82ef7aae5484e5aa81cb2778f08e3c307ba6d963721b",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=6",
+      "tomli>=1.1.0; python_version < \"3.11\""
+    ]
+  },
+  "numpydoc-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a2983b2d62bfd0a8c470c7caa25e7e0c3d163875cdec12a8a1034020a9d1135",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=6",
+      "tomli>=1.1.0; python_version < \"3.11\""
+    ]
+  },
+  "numpydoc-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72024c7fd5e17375dec3608a27c03303e8ad00c81292667955c6fea7a3ccf541",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "tabulate",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "sphinx >=6",
+      "tabulate >=0.8.10",
+      "tomli >=1.1.0 ; python_version < \"3.11\"",
+      "pre-commit >=3.3 ; extra == 'developer'",
+      "tomli ; (python_version < \"3.11\") and extra == 'developer'",
+      "numpy >=1.22 ; extra == 'doc'",
+      "matplotlib >=3.5 ; extra == 'doc'",
+      "pydata-sphinx-theme >=0.13.3 ; extra == 'doc'",
+      "sphinx >=7 ; extra == 'doc'",
+      "intersphinx-registry ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "matplotlib ; extra == 'test'"
+    ]
+  },
+  "numpydoc-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a56419d931310d79a06cfc2a126d1558700feeb9b4f3d8dcae1a8134be829c9",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "tabulate",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "sphinx >=6",
+      "tabulate >=0.8.10",
+      "tomli >=1.1.0 ; python_version < \"3.11\"",
+      "pre-commit >=3.3 ; extra == 'developer'",
+      "tomli ; (python_version < \"3.11\") and extra == 'developer'",
+      "numpy >=1.22 ; extra == 'doc'",
+      "matplotlib >=3.5 ; extra == 'doc'",
+      "pydata-sphinx-theme >=0.13.3 ; extra == 'doc'",
+      "sphinx >=7 ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "matplotlib ; extra == 'test'"
+    ]
+  },
+  "numpydoc-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6ddaa654a52bdf967763c1e773be41f1c3ae3da39ee0de973f2680048acafaa",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "jinja2",
+        "tabulate",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "sphinx >=5",
+      "Jinja2 >=2.10",
+      "tabulate >=0.8.10",
+      "tomli >=1.1.0 ; python_version < \"3.11\"",
+      "pre-commit >=3.3 ; extra == 'developer'",
+      "tomli ; (python_version < \"3.11\") and extra == 'developer'",
+      "numpy >=1.22 ; extra == 'doc'",
+      "matplotlib >=3.5 ; extra == 'doc'",
+      "pydata-sphinx-theme >=0.13.3 ; extra == 'doc'",
+      "sphinx >=7 ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "matplotlib ; extra == 'test'"
+    ]
+  }
+}

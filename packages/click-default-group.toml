@@ -1,0 +1,9 @@
+# Package configuration for click-default-group
+conda_forge = "click-default-group"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "click_default_group-1.2.4-py2.py3-none-any.whl" },
+  { filename = "click_default_group-1.2.3-py2.py3-none-any.whl" },
+]

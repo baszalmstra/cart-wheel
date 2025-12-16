@@ -1,0 +1,12 @@
+# Package configuration for keyring
+conda_forge = "keyring"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "keyring-25.7.0-py3-none-any.whl" },
+  { filename = "keyring-25.6.0-py3-none-any.whl" },
+  { filename = "keyring-25.5.0-py3-none-any.whl" },
+  { filename = "keyring-25.4.1-py3-none-any.whl" },
+  { filename = "keyring-25.4.0-py3-none-any.whl" },
+]

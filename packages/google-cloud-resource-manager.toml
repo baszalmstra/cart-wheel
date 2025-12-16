@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-resource-manager
+conda_forge = "google-cloud-resource-manager"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_resource_manager-1.15.0-py3-none-any.whl" },
+  { filename = "google_cloud_resource_manager-1.14.2-py3-none-any.whl" },
+  { filename = "google_cloud_resource_manager-1.14.1-py2.py3-none-any.whl" },
+  { filename = "google_cloud_resource_manager-1.14.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_resource_manager-1.13.1-py2.py3-none-any.whl" },
+]

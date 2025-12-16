@@ -1,0 +1,9 @@
+# Package configuration for dawg-python
+conda_forge = "dawg-python"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "DAWG_Python-0.7.2-py2.py3-none-any.whl" },
+  { filename = "DAWG_Python-0.7.1-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for coincidence
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "coincidence-0.6.6-py3-none-any.whl" },
+  { filename = "coincidence-0.6.5-py3-none-any.whl" },
+  { filename = "coincidence-0.6.4-py3-none-any.whl" },
+  { filename = "coincidence-0.6.3-py3-none-any.whl" },
+  { filename = "coincidence-0.6.2-py3-none-any.whl" },
+]

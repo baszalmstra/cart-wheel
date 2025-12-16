@@ -1,0 +1,165 @@
+{
+  "kubernetes-34.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bffba2272534e224e6a7a74d582deb0b545b7c9879d2cd9e4aae9481d1f2cc2a",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "six",
+        "python-dateutil",
+        "pyyaml",
+        "google-auth",
+        "websocket-client",
+        "requests",
+        "requests-oauthlib",
+        "urllib3",
+        "durationpy"
+      ]
+    },
+    "original_requirements": [
+      "certifi>=14.05.14",
+      "six>=1.9.0",
+      "python-dateutil>=2.5.3",
+      "pyyaml>=5.4.1",
+      "google-auth>=1.0.1",
+      "websocket-client!=0.40.0,!=0.41.*,!=0.42.*,>=0.32.0",
+      "requests",
+      "requests-oauthlib",
+      "urllib3<2.4.0,>=1.24.2",
+      "durationpy>=0.7",
+      "adal>=1.0.2; extra == \"adal\""
+    ]
+  },
+  "kubernetes-33.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "544de42b24b64287f7e0aa9513c93cb503f7f40eea39b20f66810011a86eabc5",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "six",
+        "python-dateutil",
+        "pyyaml",
+        "google-auth",
+        "websocket-client",
+        "requests",
+        "requests-oauthlib",
+        "oauthlib",
+        "urllib3",
+        "durationpy"
+      ]
+    },
+    "original_requirements": [
+      "certifi>=14.05.14",
+      "six>=1.9.0",
+      "python-dateutil>=2.5.3",
+      "pyyaml>=5.4.1",
+      "google-auth>=1.0.1",
+      "websocket-client!=0.40.0,!=0.41.*,!=0.42.*,>=0.32.0",
+      "requests",
+      "requests-oauthlib",
+      "oauthlib>=3.2.2",
+      "urllib3>=1.24.2",
+      "durationpy>=0.7",
+      "adal>=1.0.2; extra == \"adal\""
+    ]
+  },
+  "kubernetes-32.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "35282ab8493b938b08ab5526c7ce66588232df00ef5e1dbe88a419107dc10998",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "six",
+        "python-dateutil",
+        "pyyaml",
+        "google-auth",
+        "websocket-client",
+        "requests",
+        "requests-oauthlib",
+        "oauthlib",
+        "urllib3",
+        "durationpy"
+      ]
+    },
+    "original_requirements": [
+      "certifi>=14.05.14",
+      "six>=1.9.0",
+      "python-dateutil>=2.5.3",
+      "pyyaml>=5.4.1",
+      "google-auth>=1.0.1",
+      "websocket-client!=0.40.0,!=0.41.*,!=0.42.*,>=0.32.0",
+      "requests",
+      "requests-oauthlib",
+      "oauthlib>=3.2.2",
+      "urllib3>=1.24.2",
+      "durationpy>=0.7",
+      "adal>=1.0.2; extra == \"adal\""
+    ]
+  },
+  "kubernetes-32.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60fd8c29e8e43d9c553ca4811895a687426717deba9c0a66fb2dcc3f5ef96692",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "six",
+        "python-dateutil",
+        "pyyaml",
+        "google-auth",
+        "websocket-client",
+        "requests",
+        "requests-oauthlib",
+        "oauthlib",
+        "urllib3",
+        "durationpy"
+      ]
+    },
+    "original_requirements": [
+      "certifi>=14.05.14",
+      "six>=1.9.0",
+      "python-dateutil>=2.5.3",
+      "pyyaml>=5.4.1",
+      "google-auth>=1.0.1",
+      "websocket-client!=0.40.0,!=0.41.*,!=0.42.*,>=0.32.0",
+      "requests",
+      "requests-oauthlib",
+      "oauthlib>=3.2.2",
+      "urllib3>=1.24.2",
+      "durationpy>=0.7",
+      "adal>=1.0.2; extra == \"adal\""
+    ]
+  },
+  "kubernetes-31.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf141e2d380c8520eada8b351f4e319ffee9636328c137aa432bc486ca1200e1",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "six",
+        "python-dateutil",
+        "pyyaml",
+        "google-auth",
+        "websocket-client",
+        "requests",
+        "requests-oauthlib",
+        "oauthlib",
+        "urllib3",
+        "durationpy"
+      ]
+    },
+    "original_requirements": [
+      "certifi>=14.05.14",
+      "six>=1.9.0",
+      "python-dateutil>=2.5.3",
+      "pyyaml>=5.4.1",
+      "google-auth>=1.0.1",
+      "websocket-client!=0.40.0,!=0.41.*,!=0.42.*,>=0.32.0",
+      "requests",
+      "requests-oauthlib",
+      "oauthlib>=3.2.2",
+      "urllib3>=1.24.2",
+      "durationpy>=0.7",
+      "adal>=1.0.2; extra == \"adal\""
+    ]
+  }
+}

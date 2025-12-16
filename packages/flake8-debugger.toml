@@ -1,0 +1,12 @@
+# Package configuration for flake8-debugger
+conda_forge = "flake8-debugger"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_debugger-4.1.2-py3-none-any.whl" },
+  { filename = "flake8_debugger-4.1.0-py3-none-any.whl" },
+  { filename = "flake8_debugger-4.0.0-py3-none-any.whl" },
+  { filename = "flake8_debugger-3.2.0-py2.py3-none-any.whl" },
+  { filename = "flake8_debugger-3.1.1-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for jsonschema-spec
+conda_forge = "jsonschema-spec"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsonschema_spec-0.2.4-py3-none-any.whl" },
+  { filename = "jsonschema_spec-0.2.3-py3-none-any.whl" },
+  { filename = "jsonschema_spec-0.2.2-py3-none-any.whl" },
+  { filename = "jsonschema_spec-0.2.1-py3-none-any.whl" },
+  { filename = "jsonschema_spec-0.2.0-py3-none-any.whl" },
+]

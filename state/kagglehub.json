@@ -1,0 +1,124 @@
+{
+  "kagglehub-0.3.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e00dec8b81396cbad9c7b5eb62a33cf8ae27da26227abd196ed8f054c845ca00",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pyyaml",
+        "requests",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pyyaml",
+      "requests",
+      "tqdm",
+      "datasets; extra == 'hf-datasets'",
+      "pandas; extra == 'hf-datasets'",
+      "pandas; extra == 'pandas-datasets'",
+      "polars; extra == 'polars-datasets'",
+      "betterproto>=2.0.0b6; extra == 'signing'",
+      "model-signing; extra == 'signing'",
+      "sigstore>=3.6.1; extra == 'signing'"
+    ]
+  },
+  "kagglehub-0.3.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6eeb7c5c8e1f25a28e9b26d3d8ed0c24a4a32f763ea5de6e1b3aabba442f2a26",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pyyaml",
+        "requests",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pyyaml",
+      "requests",
+      "tqdm",
+      "datasets; extra == 'hf-datasets'",
+      "pandas; extra == 'hf-datasets'",
+      "pandas; extra == 'pandas-datasets'",
+      "polars; extra == 'polars-datasets'",
+      "betterproto>=2.0.0b6; extra == 'signing'",
+      "model-signing; extra == 'signing'",
+      "sigstore>=3.6.1; extra == 'signing'"
+    ]
+  },
+  "kagglehub-0.3.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "875f5bcfbda64f7e5ace96f4b2c8af5f9952ecbf8820e156300e8563ac177fc4",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pyyaml",
+        "requests",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pyyaml",
+      "requests",
+      "tqdm",
+      "datasets; extra == 'hf-datasets'",
+      "pandas; extra == 'hf-datasets'",
+      "pandas; extra == 'pandas-datasets'",
+      "betterproto>=2.0.0b6; extra == 'signing'",
+      "model-signing; extra == 'signing'",
+      "sigstore>=3.6.1; extra == 'signing'"
+    ]
+  },
+  "kagglehub-0.3.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82a204e77919da54021038971ed735450c91ea479c5c003d140a22503bc20981",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pyyaml",
+        "requests",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pyyaml",
+      "requests",
+      "tqdm",
+      "datasets; extra == 'hf-datasets'",
+      "pandas; extra == 'hf-datasets'",
+      "pandas; extra == 'pandas-datasets'",
+      "betterproto>=2.0.0b6; extra == 'signing'",
+      "model-signing; extra == 'signing'",
+      "sigstore>=3.6.1; extra == 'signing'"
+    ]
+  },
+  "kagglehub-0.3.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "895c6aadab6ab3c6b10b782256fb598ec7c25c8fb7852b3852b6382a84ed89e7",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pyyaml",
+        "requests",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pyyaml",
+      "requests",
+      "tqdm",
+      "datasets; extra == 'hf-datasets'",
+      "pandas; extra == 'hf-datasets'",
+      "pandas; extra == 'pandas-datasets'",
+      "betterproto>=2.0.0b6; extra == 'signing'",
+      "model-signing; extra == 'signing'",
+      "sigstore>=3.6.1; extra == 'signing'"
+    ]
+  }
+}

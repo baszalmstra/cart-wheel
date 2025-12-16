@@ -1,0 +1,124 @@
+{
+  "ase-3.26.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77fd0e609bd3868006d4bb3bb95cdc4081d9e292ac84f6c9fb564b5751d2689e",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.19.5",
+      "scipy>=1.6.0",
+      "matplotlib>=3.3.4",
+      "sphinx; extra == \"docs\"",
+      "sphinx_book_theme; extra == \"docs\"",
+      "pillow; extra == \"docs\"",
+      "pytest>=7.0.0; extra == \"test\"",
+      "pytest-xdist>=2.1.0; extra == \"test\"",
+      "spglib>=1.9; extra == \"spglib\"",
+      "mypy; extra == \"lint\"",
+      "ruff; extra == \"lint\"",
+      "coverage; extra == \"lint\"",
+      "types-docutils; extra == \"lint\"",
+      "types-PyMySQL; extra == \"lint\"",
+      "flake8; extra == \"lint\""
+    ]
+  },
+  "ase-3.25.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9a5295e1154da355af04726d001fa76a311c076616d98e49cd9f34fc3afe188",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.19.5",
+      "scipy>=1.6.0",
+      "matplotlib>=3.3.4",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "pillow; extra == \"docs\"",
+      "pytest>=7.0.0; extra == \"test\"",
+      "pytest-xdist>=2.1.0; extra == \"test\"",
+      "spglib>=1.9; extra == \"spglib\"",
+      "mypy; extra == \"lint\"",
+      "ruff; extra == \"lint\"",
+      "coverage; extra == \"lint\"",
+      "types-docutils; extra == \"lint\"",
+      "types-PyMySQL; extra == \"lint\"",
+      "flake8; extra == \"lint\""
+    ]
+  },
+  "ase-3.24.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "974922df87ef4ec8cf1140359a55ab4c4dc55c38e26876bdd9c00968da1f463c",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.19.5",
+      "scipy>=1.6.0",
+      "matplotlib>=3.3.4",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "pillow; extra == \"docs\"",
+      "pytest>=7.0.0; extra == \"test\"",
+      "pytest-xdist>=2.1.0; extra == \"test\"",
+      "spglib>=1.9; extra == \"spglib\""
+    ]
+  },
+  "ase-3.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52060410e720b6c701ea1ebecfdeb5ec6f9c1c63edc7cee68c15bd66d226dd43",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.18.5",
+      "scipy >=1.6.0",
+      "matplotlib >=3.3.4",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pillow ; extra == 'docs'",
+      "spglib >=1.9 ; extra == 'spglib'",
+      "pytest >=7.0.0 ; extra == 'test'",
+      "pytest-xdist >=2.1.0 ; extra == 'test'"
+    ]
+  },
+  "ase-3.22.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "66cc481e3d82bea8931d5fe677119932ea0bd1bc08b901fd84f36b37fa681c9e",
+    "dependencies": {
+      "required": [
+        "matplotlib",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "matplotlib (>=3.1.0)",
+      "numpy (>=1.15.0)",
+      "scipy (>=1.1.0)",
+      "pillow ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pytest-mock (>=3.3.0) ; extra == 'test'",
+      "pytest-xdist (>=1.30.0) ; extra == 'test'",
+      "pytest (>=5.0.0) ; extra == 'test'"
+    ]
+  }
+}

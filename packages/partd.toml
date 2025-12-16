@@ -1,0 +1,12 @@
+# Package configuration for partd
+conda_forge = "partd"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "partd-1.4.2-py3-none-any.whl" },
+  { filename = "partd-1.4.1-py3-none-any.whl" },
+  { filename = "partd-1.4.0-py3-none-any.whl" },
+  { filename = "partd-1.3.0-py3-none-any.whl" },
+  { filename = "partd-1.2.0-py3-none-any.whl" },
+]

@@ -1,0 +1,217 @@
+{
+  "cyclopts-4.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91a30b69faf128ada7cfeaefd7d9649dc222e8b2a8697f1fc99e4ee7b7ca44f3",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "docstring-parser",
+        "rich-rst",
+        "rich",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=23.1.0",
+      "docstring-parser<4.0,>=0.15",
+      "rich-rst<2.0.0,>=1.3.1",
+      "rich>=13.6.0",
+      "tomli>=2.0.0; python_version < '3.11'",
+      "typing-extensions>=4.8.0; python_version < '3.11'",
+      "ipdb>=0.13.9; extra == 'debug'",
+      "line-profiler>=3.5.1; extra == 'debug'",
+      "coverage[toml]>=5.1; extra == 'dev'",
+      "pre-commit>=2.16.0; extra == 'dev'",
+      "pydantic<3.0.0,>=2.11.2; extra == 'dev'",
+      "pytest-cov>=3.0.0; extra == 'dev'",
+      "pytest-mock>=3.7.0; extra == 'dev'",
+      "pytest>=8.2.0; extra == 'dev'",
+      "pyyaml>=6.0.1; extra == 'dev'",
+      "toml<1.0.0,>=0.10.2; extra == 'dev'",
+      "trio>=0.10.0; extra == 'dev'",
+      "gitpython>=3.1.31; extra == 'docs'",
+      "myst-parser[linkify]<5.0.0,>=3.0.1; extra == 'docs'",
+      "sphinx-autodoc-typehints<4.0.0,>=1.25.2; extra == 'docs'",
+      "sphinx-copybutton<1.0,>=0.5; extra == 'docs'",
+      "sphinx-rtd-dark-mode<2.0.0,>=1.3.0; extra == 'docs'",
+      "sphinx-rtd-theme<4.0.0,>=3.0.0; extra == 'docs'",
+      "sphinx<8.2.0,>=7.4.7; extra == 'docs'",
+      "tomli>=2.0.0; (python_version < '3.11') and extra == 'toml'",
+      "trio>=0.10.0; extra == 'trio'",
+      "pyyaml>=6.0.1; extra == 'yaml'"
+    ]
+  },
+  "cyclopts-4.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "361be316ce7f6ce674cad8d34bf6c5e39c34daaeceae40632a55b599472975c7",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "docstring-parser",
+        "rich-rst",
+        "rich",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=23.1.0",
+      "docstring-parser<4.0,>=0.15",
+      "rich-rst<2.0.0,>=1.3.1",
+      "rich>=13.6.0",
+      "tomli>=2.0.0; python_version < '3.11'",
+      "typing-extensions>=4.8.0; python_version < '3.11'",
+      "ipdb>=0.13.9; extra == 'debug'",
+      "line-profiler>=3.5.1; extra == 'debug'",
+      "coverage[toml]>=5.1; extra == 'dev'",
+      "pre-commit>=2.16.0; extra == 'dev'",
+      "pydantic<3.0.0,>=2.11.2; extra == 'dev'",
+      "pytest-cov>=3.0.0; extra == 'dev'",
+      "pytest-mock>=3.7.0; extra == 'dev'",
+      "pytest>=8.2.0; extra == 'dev'",
+      "pyyaml>=6.0.1; extra == 'dev'",
+      "toml<1.0.0,>=0.10.2; extra == 'dev'",
+      "trio>=0.10.0; extra == 'dev'",
+      "gitpython>=3.1.31; extra == 'docs'",
+      "myst-parser[linkify]<5.0.0,>=3.0.1; extra == 'docs'",
+      "sphinx-autodoc-typehints<4.0.0,>=1.25.2; extra == 'docs'",
+      "sphinx-copybutton<1.0,>=0.5; extra == 'docs'",
+      "sphinx-rtd-dark-mode<2.0.0,>=1.3.0; extra == 'docs'",
+      "sphinx-rtd-theme<4.0.0,>=3.0.0; extra == 'docs'",
+      "sphinx<8.2.0,>=7.4.7; extra == 'docs'",
+      "tomli>=2.0.0; (python_version < '3.11') and extra == 'toml'",
+      "trio>=0.10.0; extra == 'trio'",
+      "pyyaml>=6.0.1; extra == 'yaml'"
+    ]
+  },
+  "cyclopts-4.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41054f5e921a4f2b8ab9c839f12a274dec06a19560dc4898ce37cb775ca68ca4",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "docstring-parser",
+        "rich-rst",
+        "rich",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=23.1.0",
+      "docstring-parser<4.0,>=0.15",
+      "rich-rst<2.0.0,>=1.3.1",
+      "rich>=13.6.0",
+      "tomli>=2.0.0; python_version < '3.11'",
+      "typing-extensions>=4.8.0; python_version < '3.11'",
+      "ipdb>=0.13.9; extra == 'debug'",
+      "line-profiler>=3.5.1; extra == 'debug'",
+      "coverage[toml]>=5.1; extra == 'dev'",
+      "pre-commit>=2.16.0; extra == 'dev'",
+      "pydantic<3.0.0,>=2.11.2; extra == 'dev'",
+      "pytest-cov>=3.0.0; extra == 'dev'",
+      "pytest-mock>=3.7.0; extra == 'dev'",
+      "pytest>=8.2.0; extra == 'dev'",
+      "pyyaml>=6.0.1; extra == 'dev'",
+      "toml<1.0.0,>=0.10.2; extra == 'dev'",
+      "trio>=0.10.0; extra == 'dev'",
+      "gitpython>=3.1.31; extra == 'docs'",
+      "myst-parser[linkify]<5.0.0,>=3.0.1; extra == 'docs'",
+      "sphinx-autodoc-typehints<4.0.0,>=1.25.2; extra == 'docs'",
+      "sphinx-copybutton<1.0,>=0.5; extra == 'docs'",
+      "sphinx-rtd-dark-mode<2.0.0,>=1.3.0; extra == 'docs'",
+      "sphinx-rtd-theme<4.0.0,>=3.0.0; extra == 'docs'",
+      "sphinx<8.2.0,>=7.4.7; extra == 'docs'",
+      "tomli>=2.0.0; (python_version < '3.11') and extra == 'toml'",
+      "trio>=0.10.0; extra == 'trio'",
+      "pyyaml>=6.0.1; extra == 'yaml'"
+    ]
+  },
+  "cyclopts-4.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c2bc17af50e1a958f758cdc541f0a28b0eccf3f718e26be85b712c54ac0ef0b",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "docstring-parser",
+        "rich-rst",
+        "rich",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=23.1.0",
+      "docstring-parser<4.0,>=0.15",
+      "rich-rst<2.0.0,>=1.3.1",
+      "rich>=13.6.0",
+      "tomli>=2.0.0; python_version < '3.11'",
+      "typing-extensions>=4.8.0; python_version < '3.11'",
+      "ipdb>=0.13.9; extra == 'debug'",
+      "line-profiler>=3.5.1; extra == 'debug'",
+      "coverage[toml]>=5.1; extra == 'dev'",
+      "pre-commit>=2.16.0; extra == 'dev'",
+      "pydantic<3.0.0,>=2.11.2; extra == 'dev'",
+      "pytest-cov>=3.0.0; extra == 'dev'",
+      "pytest-mock>=3.7.0; extra == 'dev'",
+      "pytest>=8.2.0; extra == 'dev'",
+      "pyyaml>=6.0.1; extra == 'dev'",
+      "toml<1.0.0,>=0.10.2; extra == 'dev'",
+      "trio>=0.10.0; extra == 'dev'",
+      "gitpython>=3.1.31; extra == 'docs'",
+      "myst-parser[linkify]<5.0.0,>=3.0.1; extra == 'docs'",
+      "sphinx-autodoc-typehints<4.0.0,>=1.25.2; extra == 'docs'",
+      "sphinx-copybutton<1.0,>=0.5; extra == 'docs'",
+      "sphinx-rtd-dark-mode<2.0.0,>=1.3.0; extra == 'docs'",
+      "sphinx-rtd-theme<4.0.0,>=3.0.0; extra == 'docs'",
+      "sphinx<8.2.0,>=7.4.7; extra == 'docs'",
+      "tomli>=2.0.0; (python_version < '3.11') and extra == 'toml'",
+      "trio>=0.10.0; extra == 'trio'",
+      "pyyaml>=6.0.1; extra == 'yaml'"
+    ]
+  },
+  "cyclopts-4.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e001158ccb275723a4d820c65d114caa078073e61298f2a7c6112a8d3ba90c6",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "docstring-parser",
+        "rich-rst",
+        "rich",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=23.1.0",
+      "docstring-parser<4.0,>=0.15",
+      "rich-rst<2.0.0,>=1.3.1",
+      "rich>=13.6.0",
+      "tomli>=2.0.0; python_version < '3.11'",
+      "typing-extensions>=4.8.0; python_version < '3.11'",
+      "ipdb>=0.13.9; extra == 'debug'",
+      "line-profiler>=3.5.1; extra == 'debug'",
+      "coverage[toml]>=5.1; extra == 'dev'",
+      "pre-commit>=2.16.0; extra == 'dev'",
+      "pydantic<3.0.0,>=2.11.2; extra == 'dev'",
+      "pytest-cov>=3.0.0; extra == 'dev'",
+      "pytest-mock>=3.7.0; extra == 'dev'",
+      "pytest>=8.2.0; extra == 'dev'",
+      "pyyaml>=6.0.1; extra == 'dev'",
+      "toml<1.0.0,>=0.10.2; extra == 'dev'",
+      "trio>=0.10.0; extra == 'dev'",
+      "gitpython>=3.1.31; extra == 'docs'",
+      "myst-parser[linkify]<5.0.0,>=3.0.1; extra == 'docs'",
+      "sphinx-autodoc-typehints<4.0.0,>=1.25.2; extra == 'docs'",
+      "sphinx-copybutton<1.0,>=0.5; extra == 'docs'",
+      "sphinx-rtd-dark-mode<2.0.0,>=1.3.0; extra == 'docs'",
+      "sphinx-rtd-theme<4.0.0,>=3.0.0; extra == 'docs'",
+      "sphinx<8.2.0,>=7.4.7; extra == 'docs'",
+      "tomli>=2.0.0; (python_version < '3.11') and extra == 'toml'",
+      "trio>=0.10.0; extra == 'trio'",
+      "pyyaml>=6.0.1; extra == 'yaml'"
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "beaker_py-2.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "09bd4ef661368b05c588e7b11e9bda7fd6d6e6a97de32aa3c4f0755b1a1d6d14",
+    "dependencies": {
+      "required": [
+        "requests",
+        "packaging",
+        "pyyaml",
+        "grpcio",
+        "protobuf",
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "packaging",
+      "PyYAML",
+      "grpcio>=1.70.0",
+      "protobuf<7.0,>=5.0",
+      "google-crc32c",
+      "docker<8.0,>=5.0; extra == \"docker\"",
+      "ruff; extra == \"dev\"",
+      "mypy<1.6,>=1.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-cachetools; extra == \"dev\"",
+      "types-PyYAML; extra == \"dev\"",
+      "types-protobuf; extra == \"dev\"",
+      "black<24.0,>=23.0; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest<8.0; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "petname==2.6; extra == \"dev\"",
+      "grpcio-tools; extra == \"dev\"",
+      "beaker-py[dev,docker]; extra == \"all\""
+    ]
+  },
+  "beaker_py-2.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34beff4d1666a31d1dacebd8c5770317c9eb0a717c821681a9d73b3f33514115",
+    "dependencies": {
+      "required": [
+        "requests",
+        "packaging",
+        "pyyaml",
+        "grpcio",
+        "protobuf",
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "packaging",
+      "PyYAML",
+      "grpcio>=1.70.0",
+      "protobuf<7.0,>=5.0",
+      "google-crc32c",
+      "docker<8.0,>=5.0; extra == \"docker\"",
+      "ruff; extra == \"dev\"",
+      "mypy<1.6,>=1.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-cachetools; extra == \"dev\"",
+      "types-PyYAML; extra == \"dev\"",
+      "types-protobuf; extra == \"dev\"",
+      "black<24.0,>=23.0; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest<8.0; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "petname==2.6; extra == \"dev\"",
+      "grpcio-tools; extra == \"dev\"",
+      "beaker-py[dev,docker]; extra == \"all\""
+    ]
+  },
+  "beaker_py-2.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e160e1e5d1b2b4a868dc9557ce9076b2ff79643276eb8a000698181db5c7615e",
+    "dependencies": {
+      "required": [
+        "requests",
+        "packaging",
+        "pyyaml",
+        "grpcio",
+        "protobuf",
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "packaging",
+      "PyYAML",
+      "grpcio>=1.70.0",
+      "protobuf<7.0,>=5.0",
+      "google-crc32c",
+      "docker<8.0,>=5.0; extra == \"docker\"",
+      "ruff; extra == \"dev\"",
+      "mypy<1.6,>=1.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-cachetools; extra == \"dev\"",
+      "types-PyYAML; extra == \"dev\"",
+      "types-protobuf; extra == \"dev\"",
+      "black<24.0,>=23.0; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest<8.0; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "petname==2.6; extra == \"dev\"",
+      "grpcio-tools; extra == \"dev\"",
+      "beaker-py[dev,docker]; extra == \"all\""
+    ]
+  },
+  "beaker_py-2.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "33f46ad795487beb8a433f8669a9f2513d04d40d394f28969dfea6e637c511a8",
+    "dependencies": {
+      "required": [
+        "requests",
+        "packaging",
+        "pyyaml",
+        "grpcio",
+        "protobuf",
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "packaging",
+      "PyYAML",
+      "grpcio>=1.70.0",
+      "protobuf<7.0,>=5.0",
+      "google-crc32c",
+      "docker<8.0,>=5.0; extra == \"docker\"",
+      "ruff; extra == \"dev\"",
+      "mypy<1.6,>=1.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-cachetools; extra == \"dev\"",
+      "types-PyYAML; extra == \"dev\"",
+      "types-protobuf; extra == \"dev\"",
+      "black<24.0,>=23.0; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest<8.0; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "petname==2.6; extra == \"dev\"",
+      "grpcio-tools; extra == \"dev\"",
+      "beaker-py[dev,docker]; extra == \"all\""
+    ]
+  },
+  "beaker_py-2.4.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf4b7894facd39e84c43a95f42cb4963d3db0ceb002de9154a6eef285eb4604e",
+    "dependencies": {
+      "required": [
+        "requests",
+        "packaging",
+        "pyyaml",
+        "grpcio",
+        "protobuf",
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "packaging",
+      "PyYAML",
+      "grpcio>=1.70.0",
+      "protobuf<6.0,>=5.0",
+      "google-crc32c",
+      "docker<8.0,>=5.0; extra == \"docker\"",
+      "ruff; extra == \"dev\"",
+      "mypy<1.6,>=1.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-cachetools; extra == \"dev\"",
+      "types-PyYAML; extra == \"dev\"",
+      "types-protobuf; extra == \"dev\"",
+      "black<24.0,>=23.0; extra == \"dev\"",
+      "isort<5.13,>=5.12; extra == \"dev\"",
+      "pytest<8.0; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "petname==2.6; extra == \"dev\"",
+      "grpcio-tools; extra == \"dev\"",
+      "beaker-py[dev,docker]; extra == \"all\""
+    ]
+  }
+}

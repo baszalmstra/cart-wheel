@@ -1,0 +1,12 @@
+# Package configuration for vcrpy
+conda_forge = "vcrpy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "vcrpy-8.1.0-py3-none-any.whl" },
+  { filename = "vcrpy-8.0.0-py2.py3-none-any.whl" },
+  { filename = "vcrpy-7.0.0-py2.py3-none-any.whl" },
+  { filename = "vcrpy-6.0.2-py2.py3-none-any.whl" },
+  { filename = "vcrpy-6.0.1-py2.py3-none-any.whl" },
+]

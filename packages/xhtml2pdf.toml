@@ -1,0 +1,12 @@
+# Package configuration for xhtml2pdf
+conda_forge = "xhtml2pdf"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "xhtml2pdf-0.2.17-py3-none-any.whl" },
+  { filename = "xhtml2pdf-0.2.16-py3-none-any.whl" },
+  { filename = "xhtml2pdf-0.2.15-py3-none-any.whl" },
+  { filename = "xhtml2pdf-0.2.14-py3-none-any.whl" },
+  { filename = "xhtml2pdf-0.2.13-py3-none-any.whl" },
+]

@@ -1,0 +1,137 @@
+{
+  "furiosa_runtime-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28179528f33239b25e725649362665160597f9ded2f8673b05da9b370ff014af",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "furiosa-native-runtime",
+        "cffi",
+        "numpy",
+        "pandas",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "furiosa-native-runtime == 0.10.*",
+      "cffi ~= 1.14",
+      "numpy ~= 1.24",
+      "pandas ~= 2.0.3",
+      "pydantic",
+      "package-extras ; extra == \"legacy\"",
+      "mnist ; extra == \"test\"",
+      "mypy ; extra == \"test\"",
+      "onnxruntime ~= 1.15.1 ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "types-PyYAML ; extra == \"test\""
+    ]
+  },
+  "furiosa_runtime-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8323550ef4170b5cefa4a6ad961a96a7ee5c213b8f35430712b9d8353b0d8ba4",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "furiosa-native-runtime",
+        "cffi",
+        "numpy",
+        "pandas",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "furiosa-native-runtime == 0.10.*",
+      "cffi ~= 1.14",
+      "numpy ~= 1.24",
+      "pandas ~= 2.0.3",
+      "pydantic",
+      "package-extras ; extra == \"legacy\"",
+      "mnist ; extra == \"test\"",
+      "mypy ; extra == \"test\"",
+      "onnxruntime ~= 1.15.1 ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "types-PyYAML ; extra == \"test\""
+    ]
+  },
+  "furiosa_runtime-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "752c09aad1b4ceb6d85e4664d02aec87465ff0939ab684501b50654973402c99",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "furiosa-native-runtime",
+        "cffi",
+        "numpy",
+        "pandas",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "furiosa-native-runtime == 0.10.*",
+      "cffi ~= 1.14",
+      "numpy ~= 1.24",
+      "pandas ~= 2.0.3",
+      "pydantic",
+      "package-extras ; extra == \"legacy\"",
+      "mnist ; extra == \"test\"",
+      "mypy ; extra == \"test\"",
+      "onnxruntime ~= 1.15.1 ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "types-PyYAML ; extra == \"test\""
+    ]
+  },
+  "furiosa_runtime-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6a122e2bcaf0642e33742975b9459f0d451c5ddb9cae34b80b0b61b7cf62724",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "furiosa-registry",
+        "cffi",
+        "numpy",
+        "pydantic",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.9.*",
+      "furiosa-registry == 0.9.*",
+      "cffi ~= 1.14",
+      "numpy ~= 1.24",
+      "pydantic",
+      "pandas ~= 1.3",
+      "mnist ; extra == \"test\"",
+      "onnxruntime ~= 1.13.1 ; extra == \"test\""
+    ]
+  },
+  "furiosa_runtime-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3fe060b78c6707043644c7d3fe5777524eec7e7cc94aca930c63dc90ed7054d5",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "furiosa-registry",
+        "cffi",
+        "numpy",
+        "pydantic",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.9.*",
+      "furiosa-registry == 0.9.*",
+      "cffi ~= 1.14",
+      "numpy ~= 1.24",
+      "pydantic",
+      "pandas ~= 1.3",
+      "mnist ; extra == \"test\"",
+      "onnxruntime ~= 1.13.1 ; extra == \"test\""
+    ]
+  }
+}

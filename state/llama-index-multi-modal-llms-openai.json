@@ -1,0 +1,72 @@
+{
+  "llama_index_multi_modal_llms_openai-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94a3fc7be1050e13671e5a46604e1b6818341931bc8a7be252c8e0e74f00b2a5",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-llms-openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.14.3",
+      "llama-index-llms-openai<0.7,>=0.6.0"
+    ]
+  },
+  "llama_index_multi_modal_llms_openai-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6051ce398ee827a2746a434eb5fb1d1c12a87cc990227cbfef43d9df49057581",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-llms-openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.13.0",
+      "llama-index-llms-openai<0.6,>=0.5.0"
+    ]
+  },
+  "llama_index_multi_modal_llms_openai-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a5e3b205253ead277b5f6e622fa7fa2e5950d4a782b993b0ccd1bbaf6027e01",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-llms-openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.14,>=0.13.0",
+      "llama-index-llms-openai<0.6,>=0.5.0"
+    ]
+  },
+  "llama_index_multi_modal_llms_openai-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be6237df8f9caaa257f9beda5317287bbd2ec19473d777a30a34e41a7c5bddf8",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-llms-openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.13,>=0.12.47",
+      "llama-index-llms-openai<0.5,>=0.4.0"
+    ]
+  },
+  "llama_index_multi_modal_llms_openai-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "69bb9c310c323ce51038f0d40719f546d0d4e0853835a4f5cfa21f07dbb0b91e",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "llama-index-llms-openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.13,>=0.12.3",
+      "llama-index-llms-openai<0.5,>=0.4.0"
+    ]
+  }
+}

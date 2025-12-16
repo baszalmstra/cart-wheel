@@ -1,0 +1,147 @@
+{
+  "evojax-0.2.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8badf5453c872b713dbfcd4a877117262df85b7e4be81e010fdf1284869d9022",
+    "dependencies": {
+      "required": [
+        "flax",
+        "jax",
+        "jaxlib",
+        "pillow",
+        "cma",
+        "matplotlib",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "flax",
+      "jax >=0.2.17",
+      "jaxlib >=0.1.65",
+      "Pillow",
+      "cma",
+      "matplotlib",
+      "pyyaml",
+      "evosax ; extra == 'extra'",
+      "torchvision ; extra == 'extra'",
+      "pandas ; extra == 'extra'",
+      "procgen ; extra == 'extra'",
+      "brax ; extra == 'extra'"
+    ]
+  },
+  "evojax-0.2.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8f98ae530351ba9556259c53eefba23628517b0a65622057946ddd13aaca8827",
+    "dependencies": {
+      "required": [
+        "flax",
+        "jax",
+        "jaxlib",
+        "pillow",
+        "cma",
+        "matplotlib",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "flax <0.7.0",
+      "jax >=0.2.17",
+      "jaxlib >=0.1.65",
+      "Pillow",
+      "cma",
+      "matplotlib",
+      "pyyaml",
+      "evosax ; extra == 'extra'",
+      "torchvision ; extra == 'extra'",
+      "pandas ; extra == 'extra'",
+      "procgen ; extra == 'extra'",
+      "brax ; extra == 'extra'"
+    ]
+  },
+  "evojax-0.2.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37100b3215cc8b0c4765fb61f51fbf866f5aecff2e8c910ef1cad35d7042e408",
+    "dependencies": {
+      "required": [
+        "flax",
+        "jax",
+        "jaxlib",
+        "pillow",
+        "cma",
+        "matplotlib",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "flax",
+      "jax (>=0.2.17)",
+      "jaxlib (>=0.1.65)",
+      "Pillow",
+      "cma",
+      "matplotlib",
+      "pyyaml",
+      "evosax ; extra == 'extra'",
+      "torchvision ; extra == 'extra'",
+      "pandas ; extra == 'extra'",
+      "procgen ; extra == 'extra'",
+      "brax ; extra == 'extra'"
+    ]
+  },
+  "evojax-0.2.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9f7f0ec9c557e50cd5ce07b4d2dc25ee3b5972c9dc825f63024fdfa461fdbec",
+    "dependencies": {
+      "required": [
+        "flax",
+        "jax",
+        "jaxlib",
+        "pillow",
+        "cma",
+        "matplotlib",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "flax",
+      "jax (>=0.2.17)",
+      "jaxlib (>=0.1.65)",
+      "Pillow",
+      "cma",
+      "matplotlib",
+      "pyyaml",
+      "evosax ; extra == 'extra'",
+      "torchvision ; extra == 'extra'",
+      "pandas ; extra == 'extra'",
+      "procgen ; extra == 'extra'",
+      "brax ; extra == 'extra'"
+    ]
+  },
+  "evojax-0.2.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "29992e6ebd2862993bcfa4a181d9e7fe04273d303615e35fed9260f21b9a00f2",
+    "dependencies": {
+      "required": [
+        "flax",
+        "jax",
+        "jaxlib",
+        "pillow",
+        "cma",
+        "matplotlib",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "flax",
+      "jax (>=0.2.17)",
+      "jaxlib (>=0.1.65)",
+      "Pillow",
+      "cma",
+      "matplotlib",
+      "pyyaml",
+      "evosax ; extra == 'extra'",
+      "torchvision ; extra == 'extra'",
+      "pandas ; extra == 'extra'",
+      "procgen ; extra == 'extra'",
+      "brax ; extra == 'extra'"
+    ]
+  }
+}

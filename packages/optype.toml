@@ -1,0 +1,12 @@
+# Package configuration for optype
+conda_forge = "optype"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "optype-0.15.0-py3-none-any.whl" },
+  { filename = "optype-0.14.0-py3-none-any.whl" },
+  { filename = "optype-0.13.4-py3-none-any.whl" },
+  { filename = "optype-0.13.3-py3-none-any.whl" },
+  { filename = "optype-0.12.2-py3-none-any.whl" },
+]

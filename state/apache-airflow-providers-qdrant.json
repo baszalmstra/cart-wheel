@@ -1,0 +1,80 @@
+{
+  "apache_airflow_providers_qdrant-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f7ac6dc03991ae39bff55d6dadcc4661001802e5d53e37321d8da084fe20e6f7",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "qdrant-client"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "qdrant_client>=1.15.1"
+    ]
+  },
+  "apache_airflow_providers_qdrant-1.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7b18a2a0be3b49f7764ecd504e79495217bfa5de4f0d3a909d08bf4057ec1bf",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "qdrant-client"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "qdrant_client>=1.15.1"
+    ]
+  },
+  "apache_airflow_providers_qdrant-1.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f67f8befbee25fc1b55d85d95657cbba719bf22b8c8e2aa14bb7474b1cf9ec58",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "qdrant-client"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "qdrant_client>=1.15.1"
+    ]
+  },
+  "apache_airflow_providers_qdrant-1.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2274f49689f7dc0644800c82978fd6d3557babb14ebf028e81c00daa842bd927",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "qdrant-client",
+        "portalocker"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "qdrant_client>=1.10.1",
+      "portalocker>=2.8.1"
+    ]
+  },
+  "apache_airflow_providers_qdrant-1.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e733407bc897a9ce6793b5c70bc650e17eb65bdac5cdcb2fd898ed8c0e496d41",
+    "dependencies": {
+      "required": [
+        "qdrant-client",
+        "portalocker",
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "qdrant_client>=1.10.1",
+      "portalocker>=2.8.1",
+      "apache-airflow>=2.10.0"
+    ]
+  }
+}

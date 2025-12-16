@@ -1,0 +1,7 @@
+# Package configuration for pytest-timeouts
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_timeouts-1.0.0-py3-none-any.whl" },
+]

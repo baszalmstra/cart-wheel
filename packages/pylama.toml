@@ -1,0 +1,12 @@
+# Package configuration for pylama
+conda_forge = "pylama"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pylama-8.4.1-py3-none-any.whl" },
+  { filename = "pylama-8.4.0-py3-none-any.whl" },
+  { filename = "pylama-8.3.8-py3-none-any.whl" },
+  { filename = "pylama-8.3.7-py3-none-any.whl" },
+  { filename = "pylama-8.3.6-py3-none-any.whl" },
+]

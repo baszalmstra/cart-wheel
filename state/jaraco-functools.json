@@ -1,0 +1,127 @@
+{
+  "jaraco_functools-4.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "227ff8ed6f7b8f62c56deff101545fa7543cf2c8e7b82a7c2116e672f29c26e8",
+    "dependencies": {
+      "required": [
+        "more-itertools"
+      ]
+    },
+    "original_requirements": [
+      "more_itertools",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "jaraco.classes; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "jaraco_functools-4.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "590486285803805f4b1f99c60ca9e94ed348d4added84b74c7a12885561e524e",
+    "dependencies": {
+      "required": [
+        "more-itertools"
+      ]
+    },
+    "original_requirements": [
+      "more_itertools",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "jaraco.classes; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "jaraco_functools-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "134e6b38fa5e6bbdae0f0702882f3801313edd05ff3ec1be8d73958340cf4e97",
+    "dependencies": {
+      "required": [
+        "more-itertools"
+      ]
+    },
+    "original_requirements": [
+      "more_itertools",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "jaraco.classes; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "jaraco.functools-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad159f13428bc4acbf5541ad6dec511f91573b90fba04df61dafa2a1231cf649",
+    "dependencies": {
+      "required": [
+        "more-itertools"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools",
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "jaraco.classes ; extra == 'test'",
+      "pytest-mypy ; extra == 'type'"
+    ]
+  },
+  "jaraco.functools-4.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c9d16a3ed4ccb5a889ad8e0b7a343401ee5b2a71cee6ed192d3f68bc351e94e3",
+    "dependencies": {
+      "required": [
+        "more-itertools"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "jaraco.classes ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "jupyter_server_mathjax-0.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "416389dde2010df46d5fbbb7adb087a5607111070af65a1445391040f2babb5e",
+    "dependencies": {
+      "required": [
+        "jupyter-server"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server (>=1.1)",
+      "jupyter-server[test] ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "jupyter_server_mathjax-0.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d165c9ff876a1c32ccf99d309b57463fae206d9b6f0f3a9fa34ed01b3b26605e",
+    "dependencies": {
+      "required": [
+        "jupyter-server"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server (~=1.1)",
+      "jupyter-server[test] ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "jupyter_server_mathjax-0.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "06aac7eb5d3734aac275ed082f017f71be38f7d70f99971652e665ead0f194de",
+    "dependencies": {
+      "required": [
+        "jupyter-server"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server (~=1.1)",
+      "jupyter-server[test] ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "jupyter_server_mathjax-0.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "740de2ed0d370f1856faddfaf8c09a6d7435d09d3672f24826451467b268969d",
+    "dependencies": {
+      "required": [
+        "jupyter-server"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server (~=1.1)",
+      "jupyter-server[test] ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "jupyter_server_mathjax-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "93a9e2684507dff6e125f5f1a470760e2b3ed86031856af95bb0be6e6b0652ef",
+    "dependencies": {
+      "required": [
+        "jupyter-server"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server (~=1.1)",
+      "jupyter-server[test] ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

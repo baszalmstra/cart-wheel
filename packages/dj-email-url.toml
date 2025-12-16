@@ -1,0 +1,11 @@
+# Package configuration for dj-email-url
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dj_email_url-1.0.6-py2.py3-none-any.whl" },
+  { filename = "dj_email_url-1.0.5-py2.py3-none-any.whl" },
+  { filename = "dj_email_url-1.0.4-py2.py3-none-any.whl" },
+  { filename = "dj_email_url-1.0.3-py2.py3-none-any.whl" },
+  { filename = "dj_email_url-1.0.2-py2.py3-none-any.whl" },
+]

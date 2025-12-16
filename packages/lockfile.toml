@@ -1,0 +1,8 @@
+# Package configuration for lockfile
+conda_forge = "lockfile"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lockfile-0.12.2-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for irc
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "irc-20.5.0-py3-none-any.whl" },
+  { filename = "irc-20.4.3-py3-none-any.whl" },
+  { filename = "irc-20.4.2-py3-none-any.whl" },
+  { filename = "irc-20.4.1-py3-none-any.whl" },
+  { filename = "irc-20.4.0-py3-none-any.whl" },
+]

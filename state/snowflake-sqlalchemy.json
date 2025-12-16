@@ -1,0 +1,128 @@
+{
+  "snowflake_sqlalchemy-1.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13ad79bf51654cdaaedfbcc60d20bee417c0a128f8710eabbf4aba65b50f6d3d",
+    "dependencies": {
+      "required": [
+        "snowflake-connector-python",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "snowflake-connector-python<5.0.0",
+      "sqlalchemy>=1.4.19",
+      "mock; extra == 'development'",
+      "numpy; extra == 'development'",
+      "pre-commit; extra == 'development'",
+      "pytest; extra == 'development'",
+      "pytest-cov; extra == 'development'",
+      "pytest-rerunfailures; extra == 'development'",
+      "pytest-timeout; extra == 'development'",
+      "pytest-xdist; extra == 'development'",
+      "pytz; extra == 'development'",
+      "setuptools; extra == 'development'",
+      "syrupy; extra == 'development'",
+      "snowflake-connector-python[pandas]; extra == 'pandas'"
+    ]
+  },
+  "snowflake_sqlalchemy-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "067d2f1509f8d57938d07b0d441ae3aa19ed07acf54d2aab7c29ebf5c1426cf5",
+    "dependencies": {
+      "required": [
+        "snowflake-connector-python",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "snowflake-connector-python<5.0.0",
+      "sqlalchemy>=1.4.19",
+      "mock; extra == 'development'",
+      "numpy; extra == 'development'",
+      "pre-commit; extra == 'development'",
+      "pytest; extra == 'development'",
+      "pytest-cov; extra == 'development'",
+      "pytest-rerunfailures; extra == 'development'",
+      "pytest-timeout; extra == 'development'",
+      "pytz; extra == 'development'",
+      "setuptools; extra == 'development'",
+      "syrupy==4.6.1; extra == 'development'",
+      "snowflake-connector-python[pandas]; extra == 'pandas'"
+    ]
+  },
+  "snowflake_sqlalchemy-1.7.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e6cf9f6309a9c3f4b3fd6e8808b2fb04886da123f4d58d96323a491732a5d496",
+    "dependencies": {
+      "required": [
+        "snowflake-connector-python",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "snowflake-connector-python<4.0.0",
+      "sqlalchemy>=1.4.19",
+      "mock; extra == 'development'",
+      "numpy; extra == 'development'",
+      "pre-commit; extra == 'development'",
+      "pytest; extra == 'development'",
+      "pytest-cov; extra == 'development'",
+      "pytest-rerunfailures; extra == 'development'",
+      "pytest-timeout; extra == 'development'",
+      "pytz; extra == 'development'",
+      "setuptools; extra == 'development'",
+      "syrupy==4.6.1; extra == 'development'",
+      "snowflake-connector-python[pandas]; extra == 'pandas'"
+    ]
+  },
+  "snowflake_sqlalchemy-1.7.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce472b90755e9f7cc1ff4943e27ff4732bcf860e812249bea7491090b85d2b91",
+    "dependencies": {
+      "required": [
+        "snowflake-connector-python",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "snowflake-connector-python<4.0.0",
+      "sqlalchemy>=1.4.19",
+      "mock; extra == 'development'",
+      "numpy; extra == 'development'",
+      "pre-commit; extra == 'development'",
+      "pytest; extra == 'development'",
+      "pytest-cov; extra == 'development'",
+      "pytest-rerunfailures; extra == 'development'",
+      "pytest-timeout; extra == 'development'",
+      "pytz; extra == 'development'",
+      "setuptools; extra == 'development'",
+      "syrupy==4.6.1; extra == 'development'",
+      "snowflake-connector-python[pandas]; extra == 'pandas'"
+    ]
+  },
+  "snowflake_sqlalchemy-1.7.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3179890681e6f49f20b7dd5482eb56f32b95d6817fe44a45fb74461120619983",
+    "dependencies": {
+      "required": [
+        "snowflake-connector-python",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "snowflake-connector-python<4.0.0",
+      "sqlalchemy>=1.4.19",
+      "mock; extra == 'development'",
+      "numpy; extra == 'development'",
+      "pre-commit; extra == 'development'",
+      "pytest; extra == 'development'",
+      "pytest-cov; extra == 'development'",
+      "pytest-rerunfailures; extra == 'development'",
+      "pytest-timeout; extra == 'development'",
+      "pytz; extra == 'development'",
+      "setuptools; extra == 'development'",
+      "syrupy==4.6.1; extra == 'development'",
+      "snowflake-connector-python[pandas]; extra == 'pandas'"
+    ]
+  }
+}

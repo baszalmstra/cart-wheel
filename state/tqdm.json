@@ -1,0 +1,100 @@
+{
+  "tqdm-4.67.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "26445eca388f82e72884e0d580d5464cd801a3ea01e63e5601bdff9ba6a48de2",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama; platform_system == \"Windows\"",
+      "pytest>=6; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-timeout; extra == \"dev\"",
+      "pytest-asyncio>=0.24; extra == \"dev\"",
+      "nbval; extra == \"dev\"",
+      "requests; extra == \"discord\"",
+      "slack-sdk; extra == \"slack\"",
+      "requests; extra == \"telegram\"",
+      "ipywidgets>=6; extra == \"notebook\""
+    ]
+  },
+  "tqdm-4.67.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0cd8af9d56911acab92182e88d763100d4788bdf421d251616040cc4d44863be",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama; platform_system == \"Windows\"",
+      "pytest>=6; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-timeout; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "requests; extra == \"discord\"",
+      "ipywidgets>=6; extra == \"notebook\"",
+      "slack-sdk; extra == \"slack\"",
+      "requests; extra == \"telegram\""
+    ]
+  },
+  "tqdm-4.66.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "223e8b5359c2efc4b30555531f09e9f2f3589bcd7fdd389271191031b49b7a63",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama; platform_system == \"Windows\"",
+      "pytest>=6; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-timeout; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "ipywidgets>=6; extra == \"notebook\"",
+      "slack-sdk; extra == \"slack\"",
+      "requests; extra == \"telegram\""
+    ]
+  },
+  "tqdm-4.66.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90279a3770753eafc9194a0364852159802111925aa30eb3f9d85b0e805ac7cd",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama ; platform_system == \"Windows\"",
+      "pytest >=6 ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-timeout ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "ipywidgets >=6 ; extra == 'notebook'",
+      "slack-sdk ; extra == 'slack'",
+      "requests ; extra == 'telegram'"
+    ]
+  },
+  "tqdm-4.66.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b75ca56b413b030bc3f00af51fd2c1a1a5eac6a0c1cca83cbb37a5c52abce644",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama ; platform_system == \"Windows\"",
+      "pytest >=6 ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-timeout ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "ipywidgets >=6 ; extra == 'notebook'",
+      "slack-sdk ; extra == 'slack'",
+      "requests ; extra == 'telegram'"
+    ]
+  }
+}

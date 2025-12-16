@@ -1,0 +1,163 @@
+{
+  "limits-5.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b585c2104274528536a5b68864ec3835602b3c4a802cd6aa0b07419798394021",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "deprecated>=1.2",
+      "packaging>=21",
+      "typing-extensions",
+      "memcachio>=0.3; extra == 'async-memcached'",
+      "motor<4,>=3; extra == 'async-mongodb'",
+      "coredis<6,>=3.4.0; extra == 'async-redis'",
+      "valkey>=6; extra == 'async-valkey'",
+      "pymemcache<5.0.0,>3; extra == 'memcached'",
+      "pymongo<5,>4.1; extra == 'mongodb'",
+      "redis!=4.5.2,!=4.5.3,<7.0.0,>3; extra == 'redis'",
+      "redis!=4.5.2,!=4.5.3,>=4.2.0; extra == 'rediscluster'",
+      "valkey>=6; extra == 'valkey'"
+    ]
+  },
+  "limits-5.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "57217d01ffa5114f7e233d1f5e5bdc6fe60c9b24ade387bf4d5e83c5cf929bae",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "deprecated>=1.2",
+      "packaging>=21",
+      "typing_extensions",
+      "redis!=4.5.2,!=4.5.3,<7.0.0,>3; extra == \"redis\"",
+      "redis!=4.5.2,!=4.5.3,>=4.2.0; extra == \"rediscluster\"",
+      "pymemcache<5.0.0,>3; extra == \"memcached\"",
+      "pymongo<5,>4.1; extra == \"mongodb\"",
+      "valkey>=6; extra == \"valkey\"",
+      "coredis<6,>=3.4.0; extra == \"async-redis\"",
+      "memcachio>=0.3; extra == \"async-memcached\"",
+      "motor<4,>=3; extra == \"async-mongodb\"",
+      "valkey>=6; extra == \"async-valkey\"",
+      "redis!=4.5.2,!=4.5.3,<7.0.0,>3; extra == \"all\"",
+      "redis!=4.5.2,!=4.5.3,>=4.2.0; extra == \"all\"",
+      "pymemcache<5.0.0,>3; extra == \"all\"",
+      "pymongo<5,>4.1; extra == \"all\"",
+      "valkey>=6; extra == \"all\"",
+      "coredis<6,>=3.4.0; extra == \"all\"",
+      "memcachio>=0.3; extra == \"all\"",
+      "motor<4,>=3; extra == \"all\"",
+      "valkey>=6; extra == \"all\""
+    ]
+  },
+  "limits-5.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1afb03c0624cf004085532aa9524953f2565cf8b0a914e48dda89d172c13ceb7",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "deprecated>=1.2",
+      "packaging<26,>=21",
+      "typing_extensions",
+      "redis!=4.5.2,!=4.5.3,<6.0.0,>3; extra == \"redis\"",
+      "redis!=4.5.2,!=4.5.3,>=4.2.0; extra == \"rediscluster\"",
+      "pymemcache<5.0.0,>3; extra == \"memcached\"",
+      "pymongo<5,>4.1; extra == \"mongodb\"",
+      "valkey>=6; extra == \"valkey\"",
+      "coredis<5,>=3.4.0; extra == \"async-redis\"",
+      "memcachio>=0.3; extra == \"async-memcached\"",
+      "motor<4,>=3; extra == \"async-mongodb\"",
+      "valkey>=6; extra == \"async-valkey\"",
+      "redis!=4.5.2,!=4.5.3,<6.0.0,>3; extra == \"all\"",
+      "redis!=4.5.2,!=4.5.3,>=4.2.0; extra == \"all\"",
+      "pymemcache<5.0.0,>3; extra == \"all\"",
+      "pymongo<5,>4.1; extra == \"all\"",
+      "valkey>=6; extra == \"all\"",
+      "coredis<5,>=3.4.0; extra == \"all\"",
+      "memcachio>=0.3; extra == \"all\"",
+      "motor<4,>=3; extra == \"all\"",
+      "valkey>=6; extra == \"all\""
+    ]
+  },
+  "limits-5.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80b3df1506300d5425f6bf2845c3c1b5862d67ce229eaf6a6883a3a2e3cd65cd",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "deprecated>=1.2",
+      "packaging<26,>=21",
+      "typing_extensions",
+      "redis!=4.5.2,!=4.5.3,<6.0.0,>3; extra == \"redis\"",
+      "redis!=4.5.2,!=4.5.3,>=4.2.0; extra == \"rediscluster\"",
+      "pymemcache<5.0.0,>3; extra == \"memcached\"",
+      "pymongo<5,>4.1; extra == \"mongodb\"",
+      "valkey>=6; extra == \"valkey\"",
+      "coredis<5,>=3.4.0; extra == \"async-redis\"",
+      "memcachio>=0.3; extra == \"async-memcached\"",
+      "motor<4,>=3; extra == \"async-mongodb\"",
+      "valkey>=6; extra == \"async-valkey\"",
+      "redis!=4.5.2,!=4.5.3,<6.0.0,>3; extra == \"all\"",
+      "redis!=4.5.2,!=4.5.3,>=4.2.0; extra == \"all\"",
+      "pymemcache<5.0.0,>3; extra == \"all\"",
+      "pymongo<5,>4.1; extra == \"all\"",
+      "valkey>=6; extra == \"all\"",
+      "coredis<5,>=3.4.0; extra == \"all\"",
+      "memcachio>=0.3; extra == \"all\"",
+      "motor<4,>=3; extra == \"all\"",
+      "valkey>=6; extra == \"all\""
+    ]
+  },
+  "limits-5.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e4e2cf8ccca090d2276e1c60352658c1c498e1756927272abc6ce5bfdbcc02cc",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "deprecated>=1.2",
+      "packaging<26,>=21",
+      "typing_extensions",
+      "redis!=4.5.2,!=4.5.3,<6.0.0,>3; extra == \"redis\"",
+      "redis!=4.5.2,!=4.5.3,>=4.2.0; extra == \"rediscluster\"",
+      "pymemcache<5.0.0,>3; extra == \"memcached\"",
+      "pymongo<5,>4.1; extra == \"mongodb\"",
+      "valkey>=6; extra == \"valkey\"",
+      "coredis<5,>=3.4.0; extra == \"async-redis\"",
+      "memcachio>=0.3; extra == \"async-memcached\"",
+      "motor<4,>=3; extra == \"async-mongodb\"",
+      "valkey>=6; extra == \"async-valkey\"",
+      "redis!=4.5.2,!=4.5.3,<6.0.0,>3; extra == \"all\"",
+      "redis!=4.5.2,!=4.5.3,>=4.2.0; extra == \"all\"",
+      "pymemcache<5.0.0,>3; extra == \"all\"",
+      "pymongo<5,>4.1; extra == \"all\"",
+      "valkey>=6; extra == \"all\"",
+      "coredis<5,>=3.4.0; extra == \"all\"",
+      "memcachio>=0.3; extra == \"all\"",
+      "motor<4,>=3; extra == \"all\"",
+      "valkey>=6; extra == \"all\""
+    ]
+  }
+}

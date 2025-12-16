@@ -1,0 +1,12 @@
+# Package configuration for fastcore
+conda_forge = "fastcore"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fastcore-1.9.2-py3-none-any.whl" },
+  { filename = "fastcore-1.9.1-py3-none-any.whl" },
+  { filename = "fastcore-1.9.0-py3-none-any.whl" },
+  { filename = "fastcore-1.8.18-py3-none-any.whl" },
+  { filename = "fastcore-1.8.17-py3-none-any.whl" },
+]

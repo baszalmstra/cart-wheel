@@ -1,0 +1,11 @@
+# Package configuration for aiohttp-asgi
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiohttp_asgi-0.6.1-py3-none-any.whl" },
+  { filename = "aiohttp_asgi-0.6.0-py3-none-any.whl" },
+  { filename = "aiohttp_asgi-0.5.2-py3-none-any.whl" },
+  { filename = "aiohttp_asgi-0.5.0-py3-none-any.whl" },
+  { filename = "aiohttp_asgi-0.4.3-py3-none-any.whl" },
+]

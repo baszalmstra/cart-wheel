@@ -1,0 +1,167 @@
+{
+  "vocos-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ac13eaef68596074301e912d781399b3defa4b4ca60b6bc52c8a4b9209ca235",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchaudio",
+        "numpy",
+        "scipy",
+        "einops",
+        "pyyaml",
+        "huggingface-hub",
+        "encodec"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "torchaudio",
+      "numpy",
+      "scipy",
+      "einops",
+      "pyyaml",
+      "huggingface-hub",
+      "encodec ==0.1.1",
+      "pytorch-lightning ==1.8.6 ; extra == 'train'",
+      "jsonargparse[signatures] ; extra == 'train'",
+      "transformers ; extra == 'train'",
+      "matplotlib ; extra == 'train'",
+      "torchcrepe ; extra == 'train'",
+      "pesq ; extra == 'train'",
+      "fairseq ; extra == 'train'"
+    ]
+  },
+  "vocos-0.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7970cb18a48eddb0eb39e0b949c46de5dc4243b26465a2ffbade2080a9c49d8d",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchaudio",
+        "numpy",
+        "scipy",
+        "einops",
+        "pyyaml",
+        "huggingface-hub",
+        "encodec"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "torchaudio",
+      "numpy",
+      "scipy",
+      "einops",
+      "pyyaml",
+      "huggingface-hub",
+      "encodec ==0.1.1",
+      "pytorch-lightning ==1.8.6 ; extra == 'train'",
+      "jsonargparse[signatures] ; extra == 'train'",
+      "transformers ; extra == 'train'",
+      "matplotlib ; extra == 'train'",
+      "torchcrepe ; extra == 'train'",
+      "pesq ; extra == 'train'",
+      "fairseq ; extra == 'train'"
+    ]
+  },
+  "vocos-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0578b20b4ba57533a9d9b3e5ec3f81982f6fabd07ef02eb175fa9ee5da1e3cac",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchaudio",
+        "numpy",
+        "scipy",
+        "einops",
+        "pyyaml",
+        "huggingface-hub",
+        "encodec"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "torchaudio",
+      "numpy",
+      "scipy",
+      "einops",
+      "pyyaml",
+      "huggingface-hub",
+      "encodec (==0.1.1)",
+      "pytorch-lightning (==1.8.6) ; extra == 'train'",
+      "jsonargparse[signatures] ; extra == 'train'",
+      "transformers ; extra == 'train'",
+      "matplotlib ; extra == 'train'",
+      "torchcrepe ; extra == 'train'",
+      "pesq ; extra == 'train'",
+      "fairseq ; extra == 'train'"
+    ]
+  },
+  "vocos-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6af897243f83a4ab026ddc639a6d86c30de610acd864064f39b04be8cbc5b4e1",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchaudio",
+        "numpy",
+        "scipy",
+        "einops",
+        "pyyaml",
+        "huggingface-hub",
+        "encodec"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "torchaudio",
+      "numpy",
+      "scipy",
+      "einops",
+      "pyyaml",
+      "huggingface-hub",
+      "encodec (==0.1.1)",
+      "pytorch-lightning (==1.8.6) ; extra == 'train'",
+      "jsonargparse[signatures] ; extra == 'train'",
+      "transformers ; extra == 'train'",
+      "matplotlib ; extra == 'train'",
+      "torchcrepe ; extra == 'train'",
+      "pesq ; extra == 'train'",
+      "fairseq ; extra == 'train'"
+    ]
+  },
+  "vocos-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6b9ae852e9da165e2167a54aa0b0ae06c17b094ac0ed1b057a616841df6b8b8",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchaudio",
+        "numpy",
+        "scipy",
+        "einops",
+        "pyyaml",
+        "huggingface-hub",
+        "encodec"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "torchaudio",
+      "numpy",
+      "scipy",
+      "einops",
+      "pyyaml",
+      "huggingface-hub",
+      "encodec (==0.1.1)",
+      "pytorch-lightning (==1.8.6) ; extra == 'train'",
+      "jsonargparse[signatures] ; extra == 'train'",
+      "transformers ; extra == 'train'",
+      "matplotlib ; extra == 'train'",
+      "torchcrepe ; extra == 'train'",
+      "pesq ; extra == 'train'",
+      "fairseq ; extra == 'train'"
+    ]
+  }
+}

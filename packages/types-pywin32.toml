@@ -1,0 +1,12 @@
+# Package configuration for types-pywin32
+conda_forge = "types-pywin32"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_pywin32-311.0.0.20251008-py3-none-any.whl" },
+  { filename = "types_pywin32-311.0.0.20250915-py3-none-any.whl" },
+  { filename = "types_pywin32-311.0.0.20250914-py3-none-any.whl" },
+  { filename = "types_pywin32-311.0.0.20250822-py3-none-any.whl" },
+  { filename = "types_pywin32-311.0.0.20250809-py3-none-any.whl" },
+]

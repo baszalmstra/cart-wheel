@@ -1,0 +1,12 @@
+# Package configuration for markdown
+conda_forge = "markdown"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "markdown-3.10-py3-none-any.whl" },
+  { filename = "markdown-3.9-py3-none-any.whl" },
+  { filename = "markdown-3.8.2-py3-none-any.whl" },
+  { filename = "markdown-3.8.1-py3-none-any.whl" },
+  { filename = "markdown-3.8-py3-none-any.whl" },
+]

@@ -1,0 +1,10 @@
+# Package configuration for mosestokenizer
+conda_forge = "mosestokenizer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mosestokenizer-1.0.0-py3-none-any.whl" },
+  { filename = "mosestokenizer-0.5.0-py3-none-any.whl" },
+  { filename = "mosestokenizer-0.3.0-py3-none-any.whl" },
+]

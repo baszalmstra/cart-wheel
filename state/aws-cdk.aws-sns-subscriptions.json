@@ -1,0 +1,152 @@
+{
+  "aws_cdk.aws_sns_subscriptions-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24bc33d1c3c019b36d867c3a117f5f08cc0d10c141a7d14b657f85c35ecafcce",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns",
+        "aws-cdk.aws-sqs",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-kms (==1.204.0)",
+      "aws-cdk.aws-lambda (==1.204.0)",
+      "aws-cdk.aws-sns (==1.204.0)",
+      "aws-cdk.aws-sqs (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_sns_subscriptions-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2da732d24b2ee7cce843cf717bc135d544df2ab2df78c10f2c3d28765bc15c50",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns",
+        "aws-cdk.aws-sqs",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-kms (==1.203.0)",
+      "aws-cdk.aws-lambda (==1.203.0)",
+      "aws-cdk.aws-sns (==1.203.0)",
+      "aws-cdk.aws-sqs (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_sns_subscriptions-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55933da6c99bee2d09bf02febf1fc07428c3870e0d0882272bc56618cfe22063",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns",
+        "aws-cdk.aws-sqs",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-kms (==1.202.0)",
+      "aws-cdk.aws-lambda (==1.202.0)",
+      "aws-cdk.aws-sns (==1.202.0)",
+      "aws-cdk.aws-sqs (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_sns_subscriptions-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "481a31fef5a1a8788847afb9578dd5d68df9378b43f3c11349ec6369524ed187",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns",
+        "aws-cdk.aws-sqs",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-kms (==1.201.0)",
+      "aws-cdk.aws-lambda (==1.201.0)",
+      "aws-cdk.aws-sns (==1.201.0)",
+      "aws-cdk.aws-sqs (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_sns_subscriptions-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51e7bf664ae635878cd93b3b614a6a3a99e5bdab3cb2c163b2521f6cde1340b8",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns",
+        "aws-cdk.aws-sqs",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-kms (==1.200.0)",
+      "aws-cdk.aws-lambda (==1.200.0)",
+      "aws-cdk.aws-sns (==1.200.0)",
+      "aws-cdk.aws-sqs (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

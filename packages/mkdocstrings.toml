@@ -1,0 +1,12 @@
+# Package configuration for mkdocstrings
+conda_forge = "mkdocstrings"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocstrings-1.0.0-py3-none-any.whl" },
+  { filename = "mkdocstrings-0.30.1-py3-none-any.whl" },
+  { filename = "mkdocstrings-0.30.0-py3-none-any.whl" },
+  { filename = "mkdocstrings-0.29.1-py3-none-any.whl" },
+  { filename = "mkdocstrings-0.29.0-py3-none-any.whl" },
+]

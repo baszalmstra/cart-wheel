@@ -1,0 +1,12 @@
+# Package configuration for types-pyopenssl
+conda_forge = "types-pyopenssl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_pyOpenSSL-24.1.0.20240722-py3-none-any.whl" },
+  { filename = "types_pyOpenSSL-24.1.0.20240425-py3-none-any.whl" },
+  { filename = "types_pyOpenSSL-24.0.0.20240417-py3-none-any.whl" },
+  { filename = "types_pyOpenSSL-24.0.0.20240311-py3-none-any.whl" },
+  { filename = "types_pyOpenSSL-24.0.0.20240228-py3-none-any.whl" },
+]

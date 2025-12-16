@@ -1,0 +1,140 @@
+{
+  "flit-3.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b4e7171dc22881fa6adc2dbf083e5ecc72520be3cd7587d2a803da94d6ef431",
+    "dependencies": {
+      "required": [
+        "flit-core",
+        "requests",
+        "docutils",
+        "tomli-w",
+        "pip"
+      ]
+    },
+    "original_requirements": [
+      "flit_core >=3.12.0",
+      "requests",
+      "docutils",
+      "tomli-w",
+      "pip",
+      "sphinx ; extra == \"doc\"",
+      "sphinxcontrib_github_alt ; extra == \"doc\"",
+      "pygments-github-lexers ; extra == \"doc\"",
+      "testpath ; extra == \"test\"",
+      "responses ; extra == \"test\"",
+      "pytest>=2.7.3 ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "tomli ; extra == \"test\""
+    ]
+  },
+  "flit-3.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e4316b02fe6392e65dc489f78b561e635fd1c74652a52b95a8ce5939d688717e",
+    "dependencies": {
+      "required": [
+        "flit-core",
+        "requests",
+        "docutils",
+        "tomli-w",
+        "pip"
+      ]
+    },
+    "original_requirements": [
+      "flit_core >=3.11.0",
+      "requests",
+      "docutils",
+      "tomli-w",
+      "pip",
+      "sphinx ; extra == \"doc\"",
+      "sphinxcontrib_github_alt ; extra == \"doc\"",
+      "pygments-github-lexers ; extra == \"doc\"",
+      "testpath ; extra == \"test\"",
+      "responses ; extra == \"test\"",
+      "pytest>=2.7.3 ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "tomli ; extra == \"test\""
+    ]
+  },
+  "flit-3.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d79c19c2caae73cc486d3d827af6a11c1a84b9efdfab8d9683b714ec8d1dc1f1",
+    "dependencies": {
+      "required": [
+        "flit-core",
+        "requests",
+        "docutils",
+        "tomli-w",
+        "pip"
+      ]
+    },
+    "original_requirements": [
+      "flit_core >=3.10.1",
+      "requests",
+      "docutils",
+      "tomli-w",
+      "pip",
+      "sphinx ; extra == \"doc\"",
+      "sphinxcontrib_github_alt ; extra == \"doc\"",
+      "pygments-github-lexers ; extra == \"doc\"",
+      "testpath ; extra == \"test\"",
+      "responses ; extra == \"test\"",
+      "pytest>=2.7.3 ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "tomli ; extra == \"test\""
+    ]
+  },
+  "flit-3.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b2d44935aeea65c90c8ad66e3d7d8937cfbc139011c86d6a1ba2b06a2c044f35",
+    "dependencies": {
+      "required": [
+        "flit-core",
+        "requests",
+        "docutils",
+        "tomli-w",
+        "pip"
+      ]
+    },
+    "original_requirements": [
+      "flit_core >=3.10.0",
+      "requests",
+      "docutils",
+      "tomli-w",
+      "pip",
+      "sphinx ; extra == \"doc\"",
+      "sphinxcontrib_github_alt ; extra == \"doc\"",
+      "pygments-github-lexers ; extra == \"doc\"",
+      "testpath ; extra == \"test\"",
+      "responses ; extra == \"test\"",
+      "pytest>=2.7.3 ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "tomli ; extra == \"test\""
+    ]
+  },
+  "flit-3.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "076c3aaba5ac24cf0ad3251f910900d95a08218e6bcb26f21fef1036cc4679ca",
+    "dependencies": {
+      "required": [
+        "flit-core",
+        "requests",
+        "docutils",
+        "tomli-w"
+      ]
+    },
+    "original_requirements": [
+      "flit_core >=3.9.0",
+      "requests",
+      "docutils",
+      "tomli-w",
+      "sphinx ; extra == \"doc\"",
+      "sphinxcontrib_github_alt ; extra == \"doc\"",
+      "pygments-github-lexers ; extra == \"doc\"",
+      "testpath ; extra == \"test\"",
+      "responses ; extra == \"test\"",
+      "pytest>=2.7.3 ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "tomli ; extra == \"test\""
+    ]
+  }
+}

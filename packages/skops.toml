@@ -1,0 +1,12 @@
+# Package configuration for skops
+conda_forge = "skops"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "skops-0.13.0-py3-none-any.whl" },
+  { filename = "skops-0.12.0-py3-none-any.whl" },
+  { filename = "skops-0.11.0-py3-none-any.whl" },
+  { filename = "skops-0.10.0-py3-none-any.whl" },
+  { filename = "skops-0.9.0-py3-none-any.whl" },
+]

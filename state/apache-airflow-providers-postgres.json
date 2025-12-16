@@ -1,0 +1,144 @@
+{
+  "apache_airflow_providers_postgres-6.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41b436ad2d98fd1ad847969d1852c258a476e9ec9730454284148b9f8d0058f7",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "psycopg2-binary",
+        "psycopg2-binary",
+        "asyncpg"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-common-sql>=1.23.0",
+      "psycopg2-binary>=2.9.9; python_version < '3.13'",
+      "psycopg2-binary>=2.9.10; python_version >= '3.13'",
+      "asyncpg>=0.30.0",
+      "apache-airflow-providers-amazon>=2.6.0 ; extra == \"amazon\"",
+      "apache-airflow-providers-microsoft-azure>=12.8.0 ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "pandas>=2.1.2 ; extra == \"pandas\" and ( python_version <\"3.13\")",
+      "pandas>=2.2.3 ; extra == \"pandas\" and ( python_version >=\"3.13\")",
+      "polars>=1.26.0 ; extra == \"polars\"",
+      "psycopg[binary]>=3.2.9 ; extra == \"psycopg\""
+    ]
+  },
+  "apache_airflow_providers_postgres-6.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fed8b3eecf50eba6d4a3c81a6f444f8cba80ccfa39f64162e2e003ad6bea11b7",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "psycopg2-binary",
+        "psycopg2-binary",
+        "asyncpg"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.23.0",
+      "psycopg2-binary>=2.9.9; python_version < '3.13'",
+      "psycopg2-binary>=2.9.10; python_version >= '3.13'",
+      "asyncpg>=0.30.0",
+      "apache-airflow-providers-amazon>=2.6.0 ; extra == \"amazon\"",
+      "apache-airflow-providers-microsoft-azure>=12.8.0 ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "pandas>=2.1.2 ; extra == \"pandas\" and ( python_version <\"3.13\")",
+      "pandas>=2.2.3 ; extra == \"pandas\" and ( python_version >=\"3.13\")",
+      "polars>=1.26.0 ; extra == \"polars\"",
+      "psycopg[binary]>=3.2.9 ; extra == \"psycopg\""
+    ]
+  },
+  "apache_airflow_providers_postgres-6.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d69e109035afb84a7a7a35e35ca1cfd805e8972dadbc48362f207704a4a991a4",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "psycopg2-binary",
+        "psycopg2-binary",
+        "asyncpg"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.23.0",
+      "psycopg2-binary>=2.9.9; python_version < '3.13'",
+      "psycopg2-binary>=2.9.10; python_version >= '3.13'",
+      "asyncpg>=0.30.0",
+      "apache-airflow-providers-amazon>=2.6.0 ; extra == \"amazon\"",
+      "apache-airflow-providers-microsoft-azure>=12.8.0 ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "pandas>=2.1.2 ; extra == \"pandas\" and ( python_version <\"3.13\")",
+      "pandas>=2.2.3 ; extra == \"pandas\" and ( python_version >=\"3.13\")",
+      "polars>=1.26.0 ; extra == \"polars\"",
+      "psycopg[binary]>=3.2.9 ; extra == \"psycopg\""
+    ]
+  },
+  "apache_airflow_providers_postgres-6.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "262107be09de310da6c94a8ea29c77d4a9229997f59dd1cf61a1ae87957f7c99",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "psycopg2-binary",
+        "psycopg2-binary",
+        "asyncpg"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.23.0",
+      "psycopg2-binary>=2.9.9; python_version < '3.13'",
+      "psycopg2-binary>=2.9.10; python_version >= '3.13'",
+      "asyncpg>=0.30.0",
+      "apache-airflow-providers-amazon>=2.6.0 ; extra == \"amazon\"",
+      "apache-airflow-providers-microsoft-azure ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "pandas>=2.1.2 ; extra == \"pandas\" and ( python_version <\"3.13\")",
+      "pandas>=2.2.3 ; extra == \"pandas\" and ( python_version >=\"3.13\")",
+      "polars>=1.26.0 ; extra == \"polars\"",
+      "psycopg[binary]>=3.2.9 ; extra == \"psycopg\""
+    ]
+  },
+  "apache_airflow_providers_postgres-6.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b11ed2fb32f50427d8bba3a44beb033078b0675c04f8713b9e976044b84f439",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "psycopg2-binary",
+        "psycopg2-binary",
+        "asyncpg"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.23.0",
+      "psycopg2-binary>=2.9.9; python_version < '3.13'",
+      "psycopg2-binary>=2.9.10; python_version >= '3.13'",
+      "asyncpg>=0.30.0",
+      "apache-airflow-providers-amazon>=2.6.0 ; extra == \"amazon\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "pandas>=2.1.2 ; extra == \"pandas\" and ( python_version <\"3.13\")",
+      "pandas>=2.2.3 ; extra == \"pandas\" and ( python_version >=\"3.13\")",
+      "polars>=1.26.0 ; extra == \"polars\"",
+      "psycopg[binary]>=3.2.9 ; extra == \"psycopg\""
+    ]
+  }
+}

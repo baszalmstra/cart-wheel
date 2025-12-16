@@ -1,0 +1,147 @@
+{
+  "sanic_ext-24.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "861f809f071770cf28acd5f13e97ed59985e07361b13b4b4540da1333730c83e",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml>=3.0.0",
+      "sanic_testing>=22.9.0; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-asyncio; extra == \"test\"",
+      "tox; extra == \"test\"",
+      "Jinja2; extra == \"test\"",
+      "sanic_testing>=22.9.0; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "Jinja2; extra == \"dev\"",
+      "black>=21.4b2; extra == \"dev\"",
+      "flake8>=3.7.7; extra == \"dev\"",
+      "isort>=5.0.0; extra == \"dev\""
+    ]
+  },
+  "sanic_ext-23.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ba2c143d7c41d89b87a11c6214b9d9b52c3994ff8ce3a03792b54ec5627e2c3",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml >=3.0.0",
+      "sanic-testing >=22.9.0 ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "Jinja2 ; extra == 'dev'",
+      "black >=21.4b2 ; extra == 'dev'",
+      "flake8 >=3.7.7 ; extra == 'dev'",
+      "isort >=5.0.0 ; extra == 'dev'",
+      "sanic-testing >=22.9.0 ; extra == 'test'",
+      "coverage ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "tox ; extra == 'test'",
+      "Jinja2 ; extra == 'test'"
+    ]
+  },
+  "sanic_ext-23.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94eb84b7d1728c058e056c6fe6f4bcd39d370e826a83d1a38d977363c3b51159",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml (>=3.0.0)",
+      "sanic-testing (>=22.9.0) ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "Jinja2 ; extra == 'dev'",
+      "black (>=21.4b2) ; extra == 'dev'",
+      "flake8 (>=3.7.7) ; extra == 'dev'",
+      "isort (>=5.0.0) ; extra == 'dev'",
+      "sanic-testing (>=22.9.0) ; extra == 'test'",
+      "coverage ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "tox ; extra == 'test'",
+      "Jinja2 ; extra == 'test'"
+    ]
+  },
+  "sanic_ext-23.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "263dce66c262f1e59f663dca6e115a1d3ad20b68fcaab04bf48f6cb70dcae9d0",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml (>=3.0.0)",
+      "sanic-testing (>=22.9.0) ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "Jinja2 ; extra == 'dev'",
+      "black (>=21.4b2) ; extra == 'dev'",
+      "flake8 (>=3.7.7) ; extra == 'dev'",
+      "isort (>=5.0.0) ; extra == 'dev'",
+      "sanic-testing (>=22.9.0) ; extra == 'test'",
+      "coverage ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "tox ; extra == 'test'",
+      "Jinja2 ; extra == 'test'"
+    ]
+  },
+  "sanic_ext-22.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a090d2ae083fc81747beb3320dcac5cc796515a1be560ea7bc4c27aca378d490",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml (>=3.0.0)",
+      "sanic-testing (>=22.9.0) ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "Jinja2 ; extra == 'dev'",
+      "black (>=21.4b2) ; extra == 'dev'",
+      "flake8 (>=3.7.7) ; extra == 'dev'",
+      "isort (>=5.0.0) ; extra == 'dev'",
+      "sanic-testing (>=22.9.0) ; extra == 'test'",
+      "coverage ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "tox ; extra == 'test'",
+      "Jinja2 ; extra == 'test'"
+    ]
+  }
+}

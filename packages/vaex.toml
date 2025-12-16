@@ -1,0 +1,12 @@
+# Package configuration for vaex
+conda_forge = "vaex"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "vaex-4.17.0-py3-none-any.whl" },
+  { filename = "vaex-4.16.0-py3-none-any.whl" },
+  { filename = "vaex-4.15.0-py3-none-any.whl" },
+  { filename = "vaex-4.14.0-py3-none-any.whl" },
+  { filename = "vaex-4.13.0-py3-none-any.whl" },
+]

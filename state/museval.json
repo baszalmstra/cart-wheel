@@ -1,0 +1,153 @@
+{
+  "museval-0.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b5320bc8aff68b218ea0571959da0c1e2f11aaf78a0264b659e8ac55d98d0f8",
+    "dependencies": {
+      "required": [
+        "musdb",
+        "pandas",
+        "numpy",
+        "scipy",
+        "simplejson",
+        "soundfile",
+        "jsonschema"
+      ]
+    },
+    "original_requirements": [
+      "musdb (>=0.4.0)",
+      "pandas (>=1.0.1)",
+      "numpy",
+      "scipy",
+      "simplejson (>=3.19.0)",
+      "soundfile",
+      "jsonschema",
+      "check-manifest ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "museval-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b0a1deb98bcc5e604cc36a3766794a0ae5fd682629e936c52df0bbed3d4e02de",
+    "dependencies": {
+      "required": [
+        "musdb",
+        "pandas",
+        "numpy",
+        "scipy",
+        "simplejson",
+        "soundfile",
+        "jsonschema"
+      ]
+    },
+    "original_requirements": [
+      "musdb (>=0.4.0)",
+      "pandas (>=1.0.1)",
+      "numpy",
+      "scipy",
+      "simplejson",
+      "soundfile",
+      "jsonschema",
+      "check-manifest ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "museval-0.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d45b093e3f314c6e90b6631640a160314bf19011cbf21a7a94abc22bf68897c",
+    "dependencies": {
+      "required": [
+        "musdb",
+        "pandas",
+        "numpy",
+        "scipy",
+        "simplejson",
+        "soundfile",
+        "jsonschema"
+      ]
+    },
+    "original_requirements": [
+      "musdb (>=0.3.0)",
+      "pandas (>=1.0.1)",
+      "numpy",
+      "scipy",
+      "simplejson",
+      "soundfile",
+      "jsonschema",
+      "check-manifest ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "museval-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c913fd48224746e480b9c4d854e9b0e2c2a0ba9d457ae3dc4360b99be2677ab",
+    "dependencies": {
+      "required": [
+        "musdb",
+        "pandas",
+        "numpy",
+        "scipy",
+        "simplejson",
+        "soundfile",
+        "jsonschema"
+      ]
+    },
+    "original_requirements": [
+      "musdb (>=0.3.0)",
+      "pandas (>=0.25.0)",
+      "numpy",
+      "scipy",
+      "simplejson",
+      "soundfile",
+      "jsonschema",
+      "check-manifest ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "pytest ; extra == 'tests'",
+      "pytest-pep8 ; extra == 'tests'"
+    ]
+  },
+  "museval-0.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6122938721a54bbb24399aa096e5bad22e7fb58a5b1f71b6cb38f96ee8f0afa",
+    "dependencies": {
+      "required": [
+        "musdb",
+        "numpy",
+        "scipy",
+        "six",
+        "simplejson",
+        "soundfile",
+        "jsonschema"
+      ]
+    },
+    "original_requirements": [
+      "musdb (==0.2.3)",
+      "numpy",
+      "scipy",
+      "six",
+      "simplejson",
+      "soundfile",
+      "jsonschema",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-pep8 ; extra == 'tests'"
+    ]
+  }
+}

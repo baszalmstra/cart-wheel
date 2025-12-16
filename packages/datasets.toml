@@ -1,0 +1,12 @@
+# Package configuration for datasets
+conda_forge = "datasets"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "datasets-4.4.1-py3-none-any.whl" },
+  { filename = "datasets-4.4.0-py3-none-any.whl" },
+  { filename = "datasets-4.3.0-py3-none-any.whl" },
+  { filename = "datasets-4.2.0-py3-none-any.whl" },
+  { filename = "datasets-4.1.1-py3-none-any.whl" },
+]

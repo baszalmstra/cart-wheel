@@ -1,0 +1,9 @@
+# Package configuration for mkdocs-pycafe
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_pycafe-0.3.0-py3-none-any.whl" },
+  { filename = "mkdocs_pycafe-0.2.0-py3-none-any.whl" },
+  { filename = "mkdocs_pycafe-0.1.0-py3-none-any.whl" },
+]

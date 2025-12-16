@@ -1,0 +1,40 @@
+{
+  "pyro_api-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10e0e42e9e4401ce464dab79c870e50dfb4f413d326fa777f3582928ef9caf8f",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx (>=2.0) ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "ipython ; extra == 'dev'",
+      "flake8 ; extra == 'test'",
+      "pytest (>=5.0) ; extra == 'test'"
+    ]
+  },
+  "pyro_api-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "583276d8a9b55d585971b48fe7074472174af17b8ccc3b720bf4e9a2a6325cb0",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx (>=2.0) ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "ipython ; extra == 'dev'"
+    ]
+  },
+  "pyro_api-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe6e38d85f60295017cfcdf2ad6248ee23796acb229c75c1463ff062bf63e752",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx (>=2.0) ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "ipython ; extra == 'dev'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for imagesize
+conda_forge = "imagesize"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "imagesize-1.4.1-py2.py3-none-any.whl" },
+  { filename = "imagesize-1.4.0-py2.py3-none-any.whl" },
+  { filename = "imagesize-1.3.0-py2.py3-none-any.whl" },
+  { filename = "imagesize-1.2.0-py2.py3-none-any.whl" },
+  { filename = "imagesize-1.1.0-py2.py3-none-any.whl" },
+]

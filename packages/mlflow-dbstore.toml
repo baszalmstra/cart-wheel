@@ -1,0 +1,8 @@
+# Package configuration for mlflow-dbstore
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mlflow_dbstore-1.0.1-py2.py3-none-any.whl" },
+  { filename = "mlflow_dbstore-1.0.0-py2.py3-none-any.whl" },
+]

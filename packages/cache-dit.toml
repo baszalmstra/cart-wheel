@@ -1,0 +1,11 @@
+# Package configuration for cache-dit
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cache_dit-1.1.8-py3-none-any.whl" },
+  { filename = "cache_dit-1.1.7-py3-none-any.whl" },
+  { filename = "cache_dit-1.1.6-py3-none-any.whl" },
+  { filename = "cache_dit-1.1.5-py3-none-any.whl" },
+  { filename = "cache_dit-1.1.4-py3-none-any.whl" },
+]

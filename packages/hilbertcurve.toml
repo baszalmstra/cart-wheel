@@ -1,0 +1,12 @@
+# Package configuration for hilbertcurve
+conda_forge = "hilbertcurve"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hilbertcurve-2.0.5-py3-none-any.whl" },
+  { filename = "hilbertcurve-2.0.4-py3-none-any.whl" },
+  { filename = "hilbertcurve-2.0.3-py3-none-any.whl" },
+  { filename = "hilbertcurve-2.0.2-py3-none-any.whl" },
+  { filename = "hilbertcurve-2.0.1-py3-none-any.whl" },
+]

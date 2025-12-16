@@ -1,0 +1,175 @@
+{
+  "mkdocs_macros_plugin-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c10fabd812bf50f9170609d0ed518e54f1f0e12c334ac29141723a83c881dd6f",
+    "dependencies": {
+      "required": [
+        "hjson",
+        "jinja2",
+        "mkdocs",
+        "packaging",
+        "pathspec",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "super-collections",
+        "termcolor"
+      ]
+    },
+    "original_requirements": [
+      "hjson",
+      "jinja2",
+      "mkdocs>=0.17",
+      "packaging",
+      "pathspec",
+      "python-dateutil",
+      "pyyaml",
+      "requests",
+      "super-collections>=0.6.2",
+      "termcolor",
+      "pytest; extra == \"test\"",
+      "mkdocs-include-markdown-plugin; extra == \"test\"",
+      "mkdocs-macros-test; extra == \"test\"",
+      "mkdocs-material>=6.2; extra == \"test\"",
+      "mkdocs-test>=0.6.0; extra == \"test\"",
+      "mkdocs-d2-plugin; extra == \"test\"",
+      "mkdocs-mermaid2-plugin; extra == \"doc\""
+    ]
+  },
+  "mkdocs_macros_plugin-1.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a9e483f6056fe7ad0923802affe699233ca468672e20a9640dba237165b3240",
+    "dependencies": {
+      "required": [
+        "hjson",
+        "jinja2",
+        "mkdocs",
+        "packaging",
+        "pathspec",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "super-collections",
+        "termcolor"
+      ]
+    },
+    "original_requirements": [
+      "hjson",
+      "jinja2",
+      "mkdocs>=0.17",
+      "packaging",
+      "pathspec",
+      "python-dateutil",
+      "pyyaml",
+      "requests",
+      "super-collections>=0.6.2",
+      "termcolor",
+      "mkdocs-include-markdown-plugin; extra == \"test\"",
+      "mkdocs-macros-test; extra == \"test\"",
+      "mkdocs-material>=6.2; extra == \"test\"",
+      "mkdocs-test; extra == \"test\"",
+      "mkdocs-d2-plugin; extra == \"test\"",
+      "mkdocs-mermaid2-plugin; extra == \"doc\""
+    ]
+  },
+  "mkdocs_macros_plugin-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "630de99fe14d39c26c7915725b39bb7730058c622f547226432eb371cabff33c",
+    "dependencies": {
+      "required": [
+        "hjson",
+        "jinja2",
+        "mkdocs",
+        "packaging",
+        "pathspec",
+        "python-dateutil",
+        "pyyaml",
+        "super-collections",
+        "termcolor"
+      ]
+    },
+    "original_requirements": [
+      "hjson",
+      "jinja2",
+      "mkdocs>=0.17",
+      "packaging",
+      "pathspec",
+      "python-dateutil",
+      "pyyaml",
+      "super-collections>=0.5.7",
+      "termcolor",
+      "mkdocs-include-markdown-plugin; extra == \"test\"",
+      "mkdocs-macros-test; extra == \"test\"",
+      "mkdocs-material>=6.2; extra == \"test\"",
+      "mkdocs-test; extra == \"test\"",
+      "mkdocs-d2-plugin; extra == \"test\"",
+      "mkdocs-mermaid2-plugin; extra == \"doc\""
+    ]
+  },
+  "mkdocs_macros_plugin-1.3.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c52351295efdbdbb37a9f0ea639719055ddb64a00115457289940e85696a81d9",
+    "dependencies": {
+      "required": [
+        "hjson",
+        "jinja2",
+        "mkdocs",
+        "packaging",
+        "pathspec",
+        "python-dateutil",
+        "pyyaml",
+        "super-collections",
+        "termcolor"
+      ]
+    },
+    "original_requirements": [
+      "hjson",
+      "jinja2",
+      "mkdocs>=0.17",
+      "packaging",
+      "pathspec",
+      "python-dateutil",
+      "pyyaml",
+      "super-collections",
+      "termcolor",
+      "mkdocs-include-markdown-plugin; extra == \"test\"",
+      "mkdocs-macros-test; extra == \"test\"",
+      "mkdocs-material>=6.2; extra == \"test\"",
+      "mkdocs-test; extra == \"test\"",
+      "mkdocs-d2-plugin; extra == \"test\""
+    ]
+  },
+  "mkdocs_macros_plugin-1.3.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "02432033a5b77fb247d6ec7924e72fc4ceec264165b1644ab8d0dc159c22ce59",
+    "dependencies": {
+      "required": [
+        "hjson",
+        "jinja2",
+        "mkdocs",
+        "packaging",
+        "pathspec",
+        "python-dateutil",
+        "pyyaml",
+        "super-collections",
+        "termcolor"
+      ]
+    },
+    "original_requirements": [
+      "hjson",
+      "jinja2",
+      "mkdocs >=0.17",
+      "packaging",
+      "pathspec",
+      "python-dateutil",
+      "pyyaml",
+      "super-collections",
+      "termcolor",
+      "mkdocs-include-markdown-plugin ; extra == 'test'",
+      "mkdocs-macros-test ; extra == 'test'",
+      "mkdocs-material >=6.2 ; extra == 'test'",
+      "mkdocs-test ; extra == 'test'",
+      "mkdocs-d2-plugin ; extra == 'test'"
+    ]
+  }
+}

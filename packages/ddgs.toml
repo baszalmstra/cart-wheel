@@ -1,0 +1,11 @@
+# Package configuration for ddgs
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ddgs-9.9.3-py3-none-any.whl" },
+  { filename = "ddgs-9.9.2-py3-none-any.whl" },
+  { filename = "ddgs-9.9.1-py3-none-any.whl" },
+  { filename = "ddgs-9.9.0-py3-none-any.whl" },
+  { filename = "ddgs-9.8.0-py3-none-any.whl" },
+]

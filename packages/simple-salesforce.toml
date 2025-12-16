@@ -1,0 +1,12 @@
+# Package configuration for simple-salesforce
+conda_forge = "simple-salesforce"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "simple_salesforce-1.12.9-py3-none-any.whl" },
+  { filename = "simple_salesforce-1.12.8-py3-none-any.whl" },
+  { filename = "simple_salesforce-1.12.7-py3-none-any.whl" },
+  { filename = "simple_salesforce-1.12.6-py2.py3-none-any.whl" },
+  { filename = "simple_salesforce-1.12.5-py2.py3-none-any.whl" },
+]

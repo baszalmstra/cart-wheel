@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-codestar-connections
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_codestar_connections-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_codestar_connections-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_codestar_connections-1.40.58-py3-none-any.whl" },
+  { filename = "types_boto3_codestar_connections-1.40.18-py3-none-any.whl" },
+  { filename = "types_boto3_codestar_connections-1.40.0-py3-none-any.whl" },
+]

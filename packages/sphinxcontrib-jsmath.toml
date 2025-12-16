@@ -1,0 +1,9 @@
+# Package configuration for sphinxcontrib-jsmath
+conda_forge = "jupyter-sphinx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_jsmath-1.0.1-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_jsmath-1.0.0-py2.py3-none-any.whl" },
+]

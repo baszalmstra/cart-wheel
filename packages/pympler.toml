@@ -1,0 +1,10 @@
+# Package configuration for pympler
+conda_forge = "pympler"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Pympler-1.1-py3-none-any.whl" },
+  { filename = "Pympler-1.0.1-py3-none-any.whl" },
+  { filename = "Pympler-1.0-py3-none-any.whl" },
+]

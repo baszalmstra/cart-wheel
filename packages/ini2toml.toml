@@ -1,0 +1,11 @@
+# Package configuration for ini2toml
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ini2toml-0.15-py3-none-any.whl" },
+  { filename = "ini2toml-0.14-py3-none-any.whl" },
+  { filename = "ini2toml-0.13-py3-none-any.whl" },
+  { filename = "ini2toml-0.12-py3-none-any.whl" },
+  { filename = "ini2toml-0.11.3-py3-none-any.whl" },
+]

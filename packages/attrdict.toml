@@ -1,0 +1,9 @@
+# Package configuration for attrdict
+conda_forge = "attrdict"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "attrdict-2.0.1-py2.py3-none-any.whl" },
+  { filename = "attrdict-1.0.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,102 @@
+{
+  "aws_cdk.aws_iot1click-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1125652672b02669be5cb620ad654517ba428019a1413d91151caf0e7a8c91f0",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_iot1click-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0f4f423c12b3452901561f659df0549573b17af4529e766e3df101fdda8d53a",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_iot1click-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8d5bfc982de1b1eaeb57c522fbfcaef75c1ca05ccb47374dd4beb4000c967cef",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_iot1click-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "885ce4e3ba9db40a5754a564572acbee532b85c66f0e80a1c1cc4cc7133af50f",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_iot1click-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec679fbf3d4219fef889c9b2cba25a410d64b1cfe08b356b77c62bfcd5301b61",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

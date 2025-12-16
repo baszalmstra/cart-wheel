@@ -1,0 +1,12 @@
+# Package configuration for flake8-isort
+conda_forge = "flake8-isort"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_isort-7.0.0-py3-none-any.whl" },
+  { filename = "flake8_isort-6.1.2-py3-none-any.whl" },
+  { filename = "flake8_isort-6.1.1-py3-none-any.whl" },
+  { filename = "flake8_isort-6.0.0-py3-none-any.whl" },
+  { filename = "flake8_isort-5.0.3-py3-none-any.whl" },
+]

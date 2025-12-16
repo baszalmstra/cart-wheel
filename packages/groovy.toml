@@ -1,0 +1,12 @@
+# Package configuration for groovy
+conda_forge = "groovy-python"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "groovy-0.1.2-py3-none-any.whl" },
+  { filename = "groovy-0.1.1-py3-none-any.whl" },
+  { filename = "groovy-0.1.0-py3-none-any.whl" },
+  { filename = "groovy-0.0.16-py3-none-any.whl" },
+  { filename = "groovy-0.0.15-py3-none-any.whl" },
+]

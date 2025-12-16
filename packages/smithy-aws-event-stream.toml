@@ -1,0 +1,9 @@
+# Package configuration for smithy-aws-event-stream
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "smithy_aws_event_stream-0.2.0-py3-none-any.whl" },
+  { filename = "smithy_aws_event_stream-0.1.0-py3-none-any.whl" },
+  { filename = "smithy_aws_event_stream-0.0.1-py3-none-any.whl" },
+]

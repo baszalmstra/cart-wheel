@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_mailkit-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "536ac0c4ea3560364cd159a6512c3c18a744a12e4e0883c07df0f8a2ff21e3fe",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1"
+    ]
+  },
+  "pyobjc_framework_mailkit-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef1241515f486a91ef6d5c548043ceb0de54103e76232d6c14d3082c0e99fe2e",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0"
+    ]
+  },
+  "pyobjc_framework_mailkit-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8e6026462567baba194468e710e83787f29d9e8c98ea0583f7b401ea9515966e",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1"
+    ]
+  },
+  "pyobjc_framework_MailKit-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "78e54ff3988fd1af16c06e0c39dea3b7ff522e367d262f58e88962772291c7f9",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0"
+    ]
+  },
+  "pyobjc_framework_MailKit-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d0a6961d1adc0cda9c782265157365def72b65cfeb87a6552e2faf26fc42c0a0",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2"
+    ]
+  }
+}

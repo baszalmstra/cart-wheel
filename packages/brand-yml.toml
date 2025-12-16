@@ -1,0 +1,8 @@
+# Package configuration for brand-yml
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "brand_yml-0.1.1-py3-none-any.whl" },
+  { filename = "brand_yml-0.1.0-py3-none-any.whl" },
+]

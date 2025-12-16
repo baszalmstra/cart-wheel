@@ -1,0 +1,7 @@
+# Package configuration for uuid7
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "uuid7-0.1.0-py2.py3-none-any.whl" },
+]

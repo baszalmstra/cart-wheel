@@ -1,0 +1,96 @@
+{
+  "finch_tensor-0.2.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "772cece64ede30cd87f053f02e8c64bb2b604f20877c4e0195aee961aa0a32a6",
+    "dependencies": {
+      "required": [
+        "juliacall",
+        "juliapkg",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "juliacall (>=0.9.24,<0.10.0)",
+      "juliapkg (>=0.1.16,<0.2.0)",
+      "numba (>=0.61.0) ; extra == \"test\"",
+      "numpy (>=1.19)",
+      "pre-commit (>=3.6.0,<4) ; extra == \"test\"",
+      "pytest (>=7.4.4,<8) ; extra == \"test\"",
+      "pytest-cov (>=4.1.0,<5) ; extra == \"test\"",
+      "scipy (>=1.7,<2) ; extra == \"test\"",
+      "sparse (>=0.16.0) ; extra == \"test\""
+    ]
+  },
+  "finch_tensor-0.2.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34209c5c0dc6c570de62b308412204494d2c6511ce1f9297f1f4d0a0cc7ab253",
+    "dependencies": {
+      "required": [
+        "juliacall",
+        "juliapkg",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "juliacall (>=0.9.24,<0.10.0)",
+      "juliapkg (>=0.1.16,<0.2.0)",
+      "numba (>=0.61.0) ; extra == \"test\"",
+      "numpy (>=1.19)",
+      "pre-commit (>=3.6.0,<4) ; extra == \"test\"",
+      "pytest (>=7.4.4,<8) ; extra == \"test\"",
+      "pytest-cov (>=4.1.0,<5) ; extra == \"test\"",
+      "scipy (>=1.7,<2) ; extra == \"test\"",
+      "sparse (>=0.16.0) ; extra == \"test\""
+    ]
+  },
+  "finch_tensor-0.2.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "657b1d948ecbda1a3234cf83ae89bb170c0c6002a1a0db7f3952f6d8b74e7b3f",
+    "dependencies": {
+      "required": [
+        "juliacall",
+        "juliacall",
+        "juliapkg",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "juliacall (==0.9.24) ; sys_platform == \"darwin\"",
+      "juliacall (>=0.9.24,<0.10.0)",
+      "juliapkg (>=0.1.16,<0.2.0)",
+      "numpy (>=1.19)"
+    ]
+  },
+  "finch_tensor-0.2.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e3a76e592c0f89c5070d34dd3728569e837790c9d8db28bc02b3a88b3d71bef5",
+    "dependencies": {
+      "required": [
+        "juliacall",
+        "juliapkg",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "juliacall (>=0.9.24,<0.10.0)",
+      "juliapkg (>=0.1.16,<0.2.0)",
+      "numpy (>=1.19)"
+    ]
+  },
+  "finch_tensor-0.2.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8fc390a2f9e4108b529cef8f7313294c71c258e256e0922db6b6d4f129b728f2",
+    "dependencies": {
+      "required": [
+        "juliacall",
+        "juliapkg",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "juliacall (>=0.9.23,<0.10.0)",
+      "juliapkg (>=0.1.16,<0.2.0)",
+      "numpy (>=1.19)"
+    ]
+  }
+}

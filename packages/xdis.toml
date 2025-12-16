@@ -1,0 +1,7 @@
+# Package configuration for xdis
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "xdis-6.1.6-py3-none-any.whl" },
+]

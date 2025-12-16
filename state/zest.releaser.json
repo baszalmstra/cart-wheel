@@ -1,0 +1,177 @@
+{
+  "zest_releaser-9.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a57b298aa1feab1ae66cb19c6d06c7c66accb4a3ea9156515de83a35498694b4",
+    "dependencies": {
+      "required": [
+        "build",
+        "colorama",
+        "importlib-metadata",
+        "packaging",
+        "readme-renderer",
+        "requests",
+        "setuptools",
+        "tomli",
+        "twine",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "build>=1.2.0",
+      "colorama",
+      "importlib-metadata; python_version < \"3.10\"",
+      "packaging",
+      "readme_renderer[md]>=40",
+      "requests",
+      "setuptools>=61.0.0",
+      "tomli; python_version < \"3.11\"",
+      "twine>=1.6.0",
+      "wheel",
+      "check-manifest; extra == \"recommended\"",
+      "pep440; extra == \"recommended\"",
+      "pyroma; extra == \"recommended\"",
+      "zope.testing; extra == \"test\"",
+      "zope.testrunner; extra == \"test\""
+    ]
+  },
+  "zest_releaser-9.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "642c98746cab45019c365038a6c997bf67e58b9073ee42f251d9a320279dfb91",
+    "dependencies": {
+      "required": [
+        "build",
+        "colorama",
+        "importlib-metadata",
+        "packaging",
+        "readme-renderer",
+        "requests",
+        "setuptools",
+        "tomli",
+        "twine",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "build>=1.2.0",
+      "colorama",
+      "importlib-metadata; python_version < \"3.10\"",
+      "packaging",
+      "readme_renderer[md]>=40",
+      "requests",
+      "setuptools>=61.0.0",
+      "tomli; python_version < \"3.11\"",
+      "twine>=1.6.0",
+      "wheel",
+      "check-manifest; extra == \"recommended\"",
+      "pep440; extra == \"recommended\"",
+      "pyroma; extra == \"recommended\"",
+      "zope.testing; extra == \"test\"",
+      "zope.testrunner; extra == \"test\""
+    ]
+  },
+  "zest_releaser-9.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb1c6ca5a2e98024874b6d00fe7aa65794a7840e43e238b3352e60e028ea2ee2",
+    "dependencies": {
+      "required": [
+        "build",
+        "colorama",
+        "importlib-metadata",
+        "packaging",
+        "readme-renderer",
+        "requests",
+        "setuptools",
+        "tomli",
+        "twine",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "build>=1.2.0",
+      "colorama",
+      "importlib-metadata; python_version < \"3.10\"",
+      "packaging",
+      "readme_renderer[md]>=40",
+      "requests",
+      "setuptools>=61.0.0",
+      "tomli; python_version < \"3.11\"",
+      "twine>=1.6.0",
+      "wheel",
+      "check-manifest; extra == \"recommended\"",
+      "pep440; extra == \"recommended\"",
+      "pyroma; extra == \"recommended\"",
+      "zope.testing; extra == \"test\"",
+      "zope.testrunner; extra == \"test\""
+    ]
+  },
+  "zest_releaser-9.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a52c17dd2fa97893f880350ec5e23f8f1b8e3de36973f0cc8ba3f1dca4c5a99c",
+    "dependencies": {
+      "required": [
+        "build",
+        "colorama",
+        "importlib-metadata",
+        "packaging",
+        "readme-renderer",
+        "requests",
+        "setuptools",
+        "tomli",
+        "twine",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "build>=1.2.0",
+      "colorama",
+      "importlib-metadata; python_version < \"3.10\"",
+      "packaging",
+      "readme_renderer[md]>=40",
+      "requests",
+      "setuptools>=61.0.0",
+      "tomli; python_version < \"3.11\"",
+      "twine>=1.6.0",
+      "wheel",
+      "check-manifest; extra == \"recommended\"",
+      "pep440; extra == \"recommended\"",
+      "pyroma; extra == \"recommended\"",
+      "zope.testing; extra == \"test\"",
+      "zope.testrunner; extra == \"test\""
+    ]
+  },
+  "zest_releaser-9.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec66c997feb82450138b32be4874f509854c0009c904cbfe911c4d4b3167b339",
+    "dependencies": {
+      "required": [
+        "build",
+        "colorama",
+        "importlib-metadata",
+        "packaging",
+        "readme-renderer",
+        "requests",
+        "setuptools",
+        "tomli",
+        "twine",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "build>=1.0.0",
+      "colorama",
+      "importlib-metadata; python_version < \"3.10\"",
+      "packaging",
+      "readme_renderer[md]>=40",
+      "requests",
+      "setuptools>=61.0.0",
+      "tomli; python_version < \"3.11\"",
+      "twine>=1.6.0",
+      "wheel",
+      "check-manifest; extra == \"recommended\"",
+      "pep440; extra == \"recommended\"",
+      "pyroma; extra == \"recommended\"",
+      "zope.testing; extra == \"test\"",
+      "zope.testrunner; extra == \"test\""
+    ]
+  }
+}

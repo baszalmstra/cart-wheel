@@ -1,0 +1,10 @@
+# Package configuration for dash-iconify
+conda_forge = "dash-iconify"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dash_iconify-0.1.2-py3-none-any.whl" },
+  { filename = "dash_iconify-0.1.0-py3-none-any.whl" },
+  { filename = "dash_iconify-0.0.1-py3-none-any.whl" },
+]

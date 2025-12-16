@@ -1,0 +1,11 @@
+# Package configuration for standard-aifc
+conda_forge = "standard-aifc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "standard_aifc-3.13.0-py3-none-any.whl" },
+  { filename = "standard_aifc-3.12.2-py3-none-any.whl" },
+  { filename = "standard_aifc-3.11.9-py3-none-any.whl" },
+  { filename = "standard_aifc-3.10.14-py3-none-any.whl" },
+]

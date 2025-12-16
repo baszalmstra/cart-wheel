@@ -1,0 +1,93 @@
+{
+  "pytest_doctestplus-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ea003abfd62a787fee4cae674b0efc77c2fb73518ae60da662dc3b3ec2a47ed",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=4.6",
+      "packaging>=17.0",
+      "numpy; extra == \"test\"",
+      "pytest-remotedata>=0.3.2; extra == \"test\"",
+      "setuptools>=30.3.0; extra == \"test\"",
+      "sphinx; extra == \"test\""
+    ]
+  },
+  "pytest_doctestplus-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e13e014bab450285b3735de27a1429d4f95bca2efc7a2becd9a863247e91ae4e",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=4.6",
+      "packaging>=17.0",
+      "numpy; extra == \"test\"",
+      "pytest-remotedata>=0.3.2; extra == \"test\"",
+      "setuptools>=30.3.0; extra == \"test\"",
+      "sphinx; extra == \"test\""
+    ]
+  },
+  "pytest_doctestplus-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cfbae130ec90d4a2831819bbbfd097121b8e55f1e4d20a47ea992e4eaad2539a",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=4.6",
+      "packaging>=17.0",
+      "numpy; extra == \"test\"",
+      "pytest-remotedata>=0.3.2; extra == \"test\"",
+      "setuptools>=30.3.0; extra == \"test\"",
+      "sphinx; extra == \"test\""
+    ]
+  },
+  "pytest_doctestplus-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a7385d3e678881bb960e9200aa0db62ee32d575b3fa10d6735e8f1542c638f8",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=4.6",
+      "packaging>=17.0",
+      "numpy; extra == \"test\"",
+      "pytest-remotedata>=0.3.2; extra == \"test\"",
+      "setuptools>=30.3.0; extra == \"test\"",
+      "sphinx; extra == \"test\""
+    ]
+  },
+  "pytest_doctestplus-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "103705daee8d4468eb59d444c29b0d71eb85b8f6d582295c8bc3d68ee1d88911",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "setuptools",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=4.6",
+      "setuptools >=30.3.0",
+      "packaging >=17.0",
+      "numpy ; extra == 'test'",
+      "pytest-remotedata >=0.3.2 ; extra == 'test'",
+      "sphinx ; extra == 'test'"
+    ]
+  }
+}

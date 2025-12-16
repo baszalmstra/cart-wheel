@@ -1,0 +1,10 @@
+# Package configuration for spark-parser
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "spark_parser-1.8.9-py3-none-any.whl" },
+  { filename = "spark_parser-1.8.8-py3-none-any.whl" },
+  { filename = "spark_parser-1.8.7-py3-none-any.whl" },
+  { filename = "spark_parser-1.8.6-py3-none-any.whl" },
+]

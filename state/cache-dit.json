@@ -1,0 +1,223 @@
+{
+  "cache_dit-1.1.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db0411fc2e124d6d755ba1302e6be528f3132546ff432735868d7ae94d97beff",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "torch",
+        "diffusers",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "torch>=2.7.1",
+      "diffusers>=0.35.1",
+      "transformers>=4.55.2",
+      "einops>=0.8.1; extra == \"parallelism\"",
+      "torchao>=0.14.1; extra == \"quantization\"",
+      "bitsandbytes>=0.48.1; extra == \"quantization\"",
+      "scipy; extra == \"metrics\"",
+      "scikit-image; extra == \"metrics\"",
+      "image-reward; extra == \"metrics\"",
+      "lpips==0.1.4; extra == \"metrics\"",
+      "fastapi>=0.104.0; extra == \"serving\"",
+      "uvicorn>=0.24.0; extra == \"serving\"",
+      "pydantic>=2.0.0; extra == \"serving\"",
+      "packaging; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest<8.0.0,>=7.0.0; extra == \"dev\"",
+      "pytest-html; extra == \"dev\"",
+      "expecttest; extra == \"dev\"",
+      "hypothesis; extra == \"dev\"",
+      "accelerate; extra == \"dev\"",
+      "peft; extra == \"dev\"",
+      "protobuf; extra == \"dev\"",
+      "sentencepiece; extra == \"dev\"",
+      "opencv-python-headless; extra == \"dev\"",
+      "ftfy; extra == \"dev\"",
+      "scikit-image; extra == \"dev\"",
+      "cache-dit[parallelism]; extra == \"all\"",
+      "cache-dit[quantization]; extra == \"all\"",
+      "cache-dit[metrics]; extra == \"all\"",
+      "cache-dit[serving]; extra == \"all\""
+    ]
+  },
+  "cache_dit-1.1.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6522618cedfb9ac179dbcd8aebb621ed60cf0e4df747c29be9cb9a07fda9eb5",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "torch",
+        "diffusers",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "torch>=2.7.1",
+      "diffusers>=0.35.1",
+      "transformers>=4.55.2",
+      "einops>=0.8.1; extra == \"parallelism\"",
+      "torchao>=0.14.1; extra == \"quantization\"",
+      "bitsandbytes>=0.48.1; extra == \"quantization\"",
+      "scipy; extra == \"metrics\"",
+      "scikit-image; extra == \"metrics\"",
+      "image-reward; extra == \"metrics\"",
+      "lpips==0.1.4; extra == \"metrics\"",
+      "fastapi>=0.104.0; extra == \"serving\"",
+      "uvicorn>=0.24.0; extra == \"serving\"",
+      "pydantic>=2.0.0; extra == \"serving\"",
+      "packaging; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest<8.0.0,>=7.0.0; extra == \"dev\"",
+      "pytest-html; extra == \"dev\"",
+      "expecttest; extra == \"dev\"",
+      "hypothesis; extra == \"dev\"",
+      "accelerate; extra == \"dev\"",
+      "peft; extra == \"dev\"",
+      "protobuf; extra == \"dev\"",
+      "sentencepiece; extra == \"dev\"",
+      "opencv-python-headless; extra == \"dev\"",
+      "ftfy; extra == \"dev\"",
+      "scikit-image; extra == \"dev\"",
+      "cache-dit[parallelism]; extra == \"all\"",
+      "cache-dit[quantization]; extra == \"all\"",
+      "cache-dit[metrics]; extra == \"all\"",
+      "cache-dit[serving]; extra == \"all\""
+    ]
+  },
+  "cache_dit-1.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8d1c298012d346b4669121cd8f6ac6a5eb713171db74aabb2aff4d034171dbb5",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "torch",
+        "diffusers",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "torch>=2.7.1",
+      "diffusers>=0.35.1",
+      "transformers>=4.55.2",
+      "einops>=0.8.1; extra == \"parallelism\"",
+      "torchao>=0.14.1; extra == \"quantization\"",
+      "bitsandbytes>=0.48.1; extra == \"quantization\"",
+      "scipy; extra == \"metrics\"",
+      "scikit-image; extra == \"metrics\"",
+      "image-reward; extra == \"metrics\"",
+      "lpips==0.1.4; extra == \"metrics\"",
+      "fastapi>=0.104.0; extra == \"serving\"",
+      "uvicorn>=0.24.0; extra == \"serving\"",
+      "pydantic>=2.0.0; extra == \"serving\"",
+      "packaging; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest<8.0.0,>=7.0.0; extra == \"dev\"",
+      "pytest-html; extra == \"dev\"",
+      "expecttest; extra == \"dev\"",
+      "hypothesis; extra == \"dev\"",
+      "accelerate; extra == \"dev\"",
+      "peft; extra == \"dev\"",
+      "protobuf; extra == \"dev\"",
+      "sentencepiece; extra == \"dev\"",
+      "opencv-python-headless; extra == \"dev\"",
+      "ftfy; extra == \"dev\"",
+      "scikit-image; extra == \"dev\"",
+      "cache-dit[parallelism]; extra == \"all\"",
+      "cache-dit[quantization]; extra == \"all\"",
+      "cache-dit[metrics]; extra == \"all\"",
+      "cache-dit[serving]; extra == \"all\""
+    ]
+  },
+  "cache_dit-1.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1f0cf3f9e5cee8e62d9ac81f53017a04fa69a42f8af1d7c99d8131ece902b7b9",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "torch",
+        "diffusers",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "torch>=2.7.1",
+      "diffusers>=0.35.1",
+      "transformers>=4.55.2",
+      "einops>=0.8.1; extra == \"parallelism\"",
+      "torchao>=0.14.1; extra == \"quantization\"",
+      "bitsandbytes>=0.48.1; extra == \"quantization\"",
+      "scipy; extra == \"metrics\"",
+      "scikit-image; extra == \"metrics\"",
+      "image-reward; extra == \"metrics\"",
+      "lpips==0.1.4; extra == \"metrics\"",
+      "fastapi>=0.104.0; extra == \"serving\"",
+      "uvicorn>=0.24.0; extra == \"serving\"",
+      "pydantic>=2.0.0; extra == \"serving\"",
+      "packaging; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest<8.0.0,>=7.0.0; extra == \"dev\"",
+      "pytest-html; extra == \"dev\"",
+      "expecttest; extra == \"dev\"",
+      "hypothesis; extra == \"dev\"",
+      "accelerate; extra == \"dev\"",
+      "peft; extra == \"dev\"",
+      "protobuf; extra == \"dev\"",
+      "sentencepiece; extra == \"dev\"",
+      "opencv-python-headless; extra == \"dev\"",
+      "ftfy; extra == \"dev\"",
+      "scikit-image; extra == \"dev\"",
+      "cache-dit[parallelism]; extra == \"all\"",
+      "cache-dit[quantization]; extra == \"all\"",
+      "cache-dit[metrics]; extra == \"all\"",
+      "cache-dit[serving]; extra == \"all\""
+    ]
+  },
+  "cache_dit-1.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4208c64b9e1e4733aa55ded4a211daef7b2dcb7e890044d0cf632f0e573fb783",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "torch",
+        "diffusers",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "torch>=2.7.1",
+      "diffusers>=0.35.1",
+      "transformers>=4.55.2",
+      "einops>=0.8.1; extra == \"parallelism\"",
+      "torchao>=0.14.1; extra == \"quantization\"",
+      "bitsandbytes>=0.48.1; extra == \"quantization\"",
+      "scipy; extra == \"metrics\"",
+      "scikit-image; extra == \"metrics\"",
+      "image-reward; extra == \"metrics\"",
+      "lpips==0.1.4; extra == \"metrics\"",
+      "packaging; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest<8.0.0,>=7.0.0; extra == \"dev\"",
+      "pytest-html; extra == \"dev\"",
+      "expecttest; extra == \"dev\"",
+      "hypothesis; extra == \"dev\"",
+      "accelerate; extra == \"dev\"",
+      "peft; extra == \"dev\"",
+      "protobuf; extra == \"dev\"",
+      "sentencepiece; extra == \"dev\"",
+      "opencv-python-headless; extra == \"dev\"",
+      "ftfy; extra == \"dev\"",
+      "scikit-image; extra == \"dev\"",
+      "cache-dit[parallelism]; extra == \"all\"",
+      "cache-dit[quantization]; extra == \"all\"",
+      "cache-dit[metrics]; extra == \"all\""
+    ]
+  }
+}

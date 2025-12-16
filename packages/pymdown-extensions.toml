@@ -1,0 +1,12 @@
+# Package configuration for pymdown-extensions
+conda_forge = "pymdown-extensions"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pymdown_extensions-10.19-py3-none-any.whl" },
+  { filename = "pymdown_extensions-10.18-py3-none-any.whl" },
+  { filename = "pymdown_extensions-10.17.2-py3-none-any.whl" },
+  { filename = "pymdown_extensions-10.17.1-py3-none-any.whl" },
+  { filename = "pymdown_extensions-10.17-py3-none-any.whl" },
+]

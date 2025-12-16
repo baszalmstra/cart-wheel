@@ -1,0 +1,11 @@
+# Package configuration for honesty
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "honesty-0.2.1-py2.py3-none-any.whl" },
+  { filename = "honesty-0.2.0-py2.py3-none-any.whl" },
+  { filename = "honesty-0.1.3-py2.py3-none-any.whl" },
+  { filename = "honesty-0.1.2-py3-none-any.whl" },
+  { filename = "honesty-0.1.1-py3-none-any.whl" },
+]

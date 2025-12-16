@@ -1,0 +1,138 @@
+{
+  "prefect_gitlab-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "97228196fbc627a80f6ea635b233559683c89c71d24c03cb5c8d3e760aef7124",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "python-gitlab",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "python-gitlab>=3.12.0",
+      "tenacity>=8.2.3"
+    ]
+  },
+  "prefect_gitlab-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4949de6fc95bccca9f9e5693ee34783b24a81e6511f52f4d22911665c8aee132",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "python-gitlab",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0",
+      "python-gitlab>=3.12.0",
+      "tenacity>=8.2.3",
+      "aiohttp; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest>=8.3; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_gitlab-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0efa54ed3c0f21d14624f821553f93a06114d30d6154a67bc33336e123656259",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "python-gitlab",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.0.0rc1",
+      "python-gitlab>=3.12.0",
+      "tenacity>=8.2.3",
+      "aiohttp; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_gitlab-0.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d6012fcf105f3bfcf8062774530af8d8bd080a9d3f1d5309e7ab08f613748067",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "python-gitlab",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "prefect<3.0.0,>=2.20.0",
+      "python-gitlab>=3.12.0",
+      "tenacity>=8.2.3",
+      "aiohttp; extra == \"dev\"",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "mock; python_version < \"3.8\" and extra == \"dev\""
+    ]
+  },
+  "prefect_gitlab-0.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6bb0e05dd8572579df82c2e48ffa83051cd8f771d2bce493d1ff48fb981b89e6",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "python-gitlab",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "prefect <3.0.0,>=2.13.5",
+      "python-gitlab >=3.12.0",
+      "tenacity >=8.2.3",
+      "aiohttp ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "interrogate ; extra == 'dev'",
+      "mkdocs-gen-files ; extra == 'dev'",
+      "mkdocs-material ; extra == 'dev'",
+      "mkdocs ; extra == 'dev'",
+      "mkdocstrings[python] ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pillow ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "mock ; (python_version < \"3.8\") and extra == 'dev'"
+    ]
+  }
+}

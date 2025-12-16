@@ -1,0 +1,12 @@
+# Package configuration for gcsfs
+conda_forge = "gcsfs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gcsfs-2025.12.0-py3-none-any.whl" },
+  { filename = "gcsfs-2025.10.0-py2.py3-none-any.whl" },
+  { filename = "gcsfs-2025.9.0-py2.py3-none-any.whl" },
+  { filename = "gcsfs-2025.7.0-py2.py3-none-any.whl" },
+  { filename = "gcsfs-2025.5.1-py2.py3-none-any.whl" },
+]

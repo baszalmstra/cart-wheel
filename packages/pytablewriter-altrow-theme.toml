@@ -1,0 +1,11 @@
+# Package configuration for pytablewriter-altrow-theme
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytablewriter_altrow_theme-0.2.0-py3-none-any.whl" },
+  { filename = "pytablewriter_altrow_theme-0.1.1-py3-none-any.whl" },
+  { filename = "pytablewriter_altrow_theme-0.1.0-py3-none-any.whl" },
+  { filename = "pytablewriter_altrow_theme-0.0.3-py3-none-any.whl" },
+  { filename = "pytablewriter_altrow_theme-0.0.2-py3-none-any.whl" },
+]

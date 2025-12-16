@@ -1,0 +1,11 @@
+# Package configuration for databricks-agents
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "databricks_agents-1.9.0-py3-none-any.whl" },
+  { filename = "databricks_agents-1.8.2-py3-none-any.whl" },
+  { filename = "databricks_agents-1.8.1-py3-none-any.whl" },
+  { filename = "databricks_agents-1.8.0-py3-none-any.whl" },
+  { filename = "databricks_agents-1.7.0-py3-none-any.whl" },
+]

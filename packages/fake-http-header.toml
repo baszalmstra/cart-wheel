@@ -1,0 +1,12 @@
+# Package configuration for fake-http-header
+conda_forge = "fake-http-header"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fake_http_header-0.3.5-py3-none-any.whl" },
+  { filename = "fake_http_header-0.3.4-py3-none-any.whl" },
+  { filename = "fake_http_header-0.3.3-py3-none-any.whl" },
+  { filename = "fake_http_header-0.3.2-py3-none-any.whl" },
+  { filename = "fake_http_header-0.3.1-py3-none-any.whl" },
+]

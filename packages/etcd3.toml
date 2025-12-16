@@ -1,0 +1,8 @@
+# Package configuration for etcd3
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "etcd3-0.8.1-py2.py3-none-any.whl" },
+  { filename = "etcd3-0.8.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for logistro
+conda_forge = "logistro"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "logistro-2.0.1-py3-none-any.whl" },
+  { filename = "logistro-2.0.0-py3-none-any.whl" },
+  { filename = "logistro-1.1.0-py3-none-any.whl" },
+  { filename = "logistro-1.0.12-py3-none-any.whl" },
+  { filename = "logistro-1.0.11-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for stagehand
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "stagehand-0.5.7-py3-none-any.whl" },
+  { filename = "stagehand-0.5.6-py3-none-any.whl" },
+  { filename = "stagehand-0.5.5-py3-none-any.whl" },
+  { filename = "stagehand-0.5.4-py3-none-any.whl" },
+  { filename = "stagehand-0.5.3-py3-none-any.whl" },
+]

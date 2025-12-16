@@ -1,0 +1,133 @@
+{
+  "furiosa_litmus-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "89d260fd12bfa656855798402fd71739d08d70111325ac670e27122f089e462b",
+    "dependencies": {
+      "required": [
+        "furiosa-optimizer",
+        "furiosa-quantizer",
+        "furiosa-runtime",
+        "furiosa-tools",
+        "furiosa-device",
+        "distro",
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-optimizer == 0.10.*",
+      "furiosa-quantizer == 0.10.*",
+      "furiosa-runtime == 0.10.*",
+      "furiosa-tools == 0.10.*",
+      "furiosa-device == 0.10.*",
+      "distro ~= 1.8.0",
+      "psutil ~= 5.9.4",
+      "mypy ; extra == \"test\"",
+      "mnist ; extra == \"test\"",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "types-protobuf ; extra == \"test\"",
+      "types-psutil ; extra == \"test\"",
+      "types-PyYAML ; extra == \"test\""
+    ]
+  },
+  "furiosa_litmus-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d4d6d87c8c594363c7a8cdd0c191813becc91c4dc628ec899fbd927c441feb8a",
+    "dependencies": {
+      "required": [
+        "furiosa-optimizer",
+        "furiosa-quantizer",
+        "furiosa-runtime",
+        "furiosa-tools",
+        "furiosa-device",
+        "distro",
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-optimizer == 0.10.*",
+      "furiosa-quantizer == 0.10.*",
+      "furiosa-runtime == 0.10.*",
+      "furiosa-tools == 0.10.*",
+      "furiosa-device == 0.10.*",
+      "distro ~= 1.8.0",
+      "psutil ~= 5.9.4",
+      "mypy ; extra == \"test\"",
+      "mnist ; extra == \"test\"",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "types-protobuf ; extra == \"test\"",
+      "types-psutil ; extra == \"test\"",
+      "types-PyYAML ; extra == \"test\""
+    ]
+  },
+  "furiosa_litmus-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e482730e8f231c1a689d9f36dc3b79d9ca2a3b4896b9f345f6a8d03753987e1",
+    "dependencies": {
+      "required": [
+        "furiosa-optimizer",
+        "furiosa-quantizer",
+        "furiosa-runtime",
+        "furiosa-tools",
+        "furiosa-device",
+        "distro",
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-optimizer == 0.10.*",
+      "furiosa-quantizer == 0.10.*",
+      "furiosa-runtime == 0.10.*",
+      "furiosa-tools == 0.10.*",
+      "furiosa-device == 0.10.*",
+      "distro ~= 1.8.0",
+      "psutil ~= 5.9.4",
+      "mypy ; extra == \"test\"",
+      "mnist ; extra == \"test\"",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "types-protobuf ; extra == \"test\"",
+      "types-psutil ; extra == \"test\"",
+      "types-PyYAML ; extra == \"test\""
+    ]
+  },
+  "furiosa_litmus-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5d379680f2794fc564ce3e81b5ba4bd1b0ae4e50c018c23f0b51969de82ef177",
+    "dependencies": {
+      "required": [
+        "furiosa-runtime",
+        "furiosa-tools",
+        "furiosa-quantizer"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-runtime == 0.9.*",
+      "furiosa-tools == 0.9.*",
+      "furiosa-quantizer == 0.9.*"
+    ]
+  },
+  "furiosa_litmus-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b7db9b97f2a0fc388b3a388289db62032cef1ee65915947df6bbe579af2e4547",
+    "dependencies": {
+      "required": [
+        "furiosa-runtime",
+        "furiosa-tools",
+        "furiosa-quantizer"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-runtime == 0.9.*",
+      "furiosa-tools == 0.9.*",
+      "furiosa-quantizer == 0.9.*"
+    ]
+  }
+}

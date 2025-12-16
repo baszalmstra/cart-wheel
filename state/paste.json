@@ -1,0 +1,76 @@
+{
+  "Paste-3.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "995e9994b6a94a2bdd8bd9654fb70ca3946ffab75442468bacf31b4d06481c3d",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "flup ; extra == 'flup'",
+      "python-openid ; extra == 'openid'"
+    ]
+  },
+  "Paste-3.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed573874a932a58633002c0642068268f4c2025a8e1336cde451a4f70ff64c24",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "flup ; extra == 'flup'",
+      "python-openid ; extra == 'openid'"
+    ]
+  },
+  "Paste-3.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52db7a4b33e32515d3484bc727c9c540f3d66b64da5b7ea588fbf9259f1eb6d8",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "flup ; extra == 'flup'",
+      "python-openid ; extra == 'openid'"
+    ]
+  },
+  "Paste-3.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72530dede8d996540ec32ed420e796d1d1edc47542f50e723f3b46109900eb5c",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "six >=1.4.0",
+      "flup ; extra == 'flup'",
+      "python-openid ; extra == 'openid'"
+    ]
+  },
+  "Paste-3.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7cad69ce824bbab0bca344328ff1b800eec8104de67a010b841ea16c4c104972",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "six >=1.4.0",
+      "flup ; extra == 'flup'",
+      "python-openid ; extra == 'openid'"
+    ]
+  }
+}

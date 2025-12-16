@@ -1,0 +1,12 @@
+# Package configuration for userpath
+conda_forge = "userpath"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "userpath-1.9.2-py3-none-any.whl" },
+  { filename = "userpath-1.9.1-py3-none-any.whl" },
+  { filename = "userpath-1.8.0-py3-none-any.whl" },
+  { filename = "userpath-1.7.0-py2.py3-none-any.whl" },
+  { filename = "userpath-1.6.0-py2.py3-none-any.whl" },
+]

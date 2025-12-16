@@ -1,0 +1,82 @@
+{
+  "mauve_text-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ceafe978fd66adf4a2a8bad8c47be417e7306f43a4a4ab9121de01f81fc7e47b",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scikit-learn",
+        "faiss-cpu",
+        "tqdm",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.18.1",
+      "scikit-learn >=0.22.1",
+      "faiss-cpu >=1.7.0",
+      "tqdm >=4.40.0",
+      "requests"
+    ]
+  },
+  "mauve_text-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d21a914e03b7f1498b3a1698467744651fe54fe4f680c4527a08c80cde2b003",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scikit-learn",
+        "faiss-cpu",
+        "tqdm",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.18.1)",
+      "scikit-learn (>=0.22.1)",
+      "faiss-cpu (>=1.7.0)",
+      "tqdm (>=4.40.0)",
+      "requests"
+    ]
+  },
+  "mauve_text-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74de55d908418558e4569cbb6696530da660127a081a5ba88f771723273086f7",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scikit-learn",
+        "faiss-cpu",
+        "tqdm",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.18.1)",
+      "scikit-learn (>=0.22.1)",
+      "faiss-cpu (>=1.7.0)",
+      "tqdm (>=4.40.0)",
+      "requests"
+    ]
+  },
+  "mauve_text-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "151ea69f10627815994dc189f530fd47e6fa89f95864ed7a1d35bff0bff68d79",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scikit-learn",
+        "faiss-gpu",
+        "tqdm",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.18.1)",
+      "scikit-learn (>=0.22.1)",
+      "faiss-gpu (>=1.7.0)",
+      "tqdm (>=4.40.0)",
+      "requests"
+    ]
+  }
+}

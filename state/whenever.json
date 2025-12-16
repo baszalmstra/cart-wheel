@@ -1,0 +1,70 @@
+{
+  "whenever-0.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fea97d1b6645837a608c593bcca94d70d7edbfe66ce442edc5455fcc3b659284",
+    "dependencies": {
+      "required": [
+        "tzdata",
+        "tzlocal"
+      ]
+    },
+    "original_requirements": [
+      "tzdata>=2020.1; sys_platform == \"win32\"",
+      "tzlocal>=4.0; sys_platform != \"darwin\" and sys_platform != \"linux\""
+    ]
+  },
+  "whenever-0.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "528fb53d0ead0dc7da995634c6f2f9d550a3105b8b1247e07118d6106c86a1b7",
+    "dependencies": {
+      "required": [
+        "tzdata",
+        "tzlocal"
+      ]
+    },
+    "original_requirements": [
+      "tzdata>=2020.1; sys_platform == \"win32\"",
+      "tzlocal>=4.0; sys_platform != \"darwin\" and sys_platform != \"linux\""
+    ]
+  },
+  "whenever-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ac32eeb0c6be0517c4f5c5ac22af2e40fcb70e2a77c5897b9aeaad1a75e40ea",
+    "dependencies": {
+      "required": [
+        "tzdata",
+        "tzlocal"
+      ]
+    },
+    "original_requirements": [
+      "tzdata>=2020.1; sys_platform == \"win32\"",
+      "tzlocal>=4.0; sys_platform != \"darwin\" and sys_platform != \"linux\""
+    ]
+  },
+  "whenever-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad1150918aebb04ccd8a33d136447bfc04cf6e138739377b91c2deadfaa13f9c",
+    "dependencies": {
+      "required": [
+        "tzdata",
+        "tzlocal"
+      ]
+    },
+    "original_requirements": [
+      "tzdata>=2020.1; sys_platform == \"win32\"",
+      "tzlocal>=4.0; sys_platform != \"darwin\" and sys_platform != \"linux\""
+    ]
+  },
+  "whenever-0.8.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5393187037cff776fe1f5e0fe6094cb52f4509945459d239b9fcc09d95696f43",
+    "dependencies": {
+      "required": [
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "tzdata>=2020.1; sys_platform == \"win32\""
+    ]
+  }
+}

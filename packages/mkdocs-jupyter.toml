@@ -1,0 +1,12 @@
+# Package configuration for mkdocs-jupyter
+conda_forge = "mkdocs-jupyter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_jupyter-0.25.1-py3-none-any.whl" },
+  { filename = "mkdocs_jupyter-0.25.0-py3-none-any.whl" },
+  { filename = "mkdocs_jupyter-0.24.8-py3-none-any.whl" },
+  { filename = "mkdocs_jupyter-0.24.7-py3-none-any.whl" },
+  { filename = "mkdocs_jupyter-0.24.6-py3-none-any.whl" },
+]

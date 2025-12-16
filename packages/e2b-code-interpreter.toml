@@ -1,0 +1,11 @@
+# Package configuration for e2b-code-interpreter
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "e2b_code_interpreter-2.4.1-py3-none-any.whl" },
+  { filename = "e2b_code_interpreter-2.4.0-py3-none-any.whl" },
+  { filename = "e2b_code_interpreter-2.3.0-py3-none-any.whl" },
+  { filename = "e2b_code_interpreter-2.2.1-py3-none-any.whl" },
+  { filename = "e2b_code_interpreter-2.2.0-py3-none-any.whl" },
+]

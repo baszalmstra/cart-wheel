@@ -1,0 +1,12 @@
+# Package configuration for genshi
+conda_forge = "genshi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "genshi-0.7.10-py3-none-any.whl" },
+  { filename = "Genshi-0.7.9-py3-none-any.whl" },
+  { filename = "Genshi-0.7.8-py3-none-any.whl" },
+  { filename = "Genshi-0.7.7-py3-none-any.whl" },
+  { filename = "Genshi-0.7.6-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for intake
+conda_forge = "intake"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "intake-2.0.8-py3-none-any.whl" },
+  { filename = "intake-2.0.7-py3-none-any.whl" },
+  { filename = "intake-2.0.6-py3-none-any.whl" },
+  { filename = "intake-2.0.5-py3-none-any.whl" },
+  { filename = "intake-2.0.4-py3-none-any.whl" },
+]

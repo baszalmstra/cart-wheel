@@ -1,0 +1,68 @@
+{
+  "wonderwords-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4dd66deb6a76ca9e0b0422d1d3e111f9b910d7c16922d42de733ee8def98f8d0",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "setuptools-scm; extra == \"dev\"",
+      "sphinx; extra == \"dev\"",
+      "sphinx-copybutton; extra == \"dev\"",
+      "rich; extra == \"cli\""
+    ]
+  },
+  "wonderwords-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65fc665f1f5590e98f6d9259414ea036bf1b6dd83e51aa6ba44473c99ca92da1",
+    "dependencies": {
+      "required": [
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources (==5.1.0) ; python_version < \"3.7\"",
+      "rich (==9.10.0) ; extra == 'cli'"
+    ]
+  },
+  "wonderwords-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c6934f4b8d184df804b17b6cf126f282630157110b507522a868add69f3f7b78",
+    "dependencies": {
+      "required": [
+        "rich",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "rich (==6.1.1)",
+      "importlib-resources (==3.0.0) ; python_version < \"3.7\""
+    ]
+  },
+  "wonderwords-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e62fbdc7f3c73fa3c3b577ff07c1724107dd006fe9d06eb2193913ca656e3900",
+    "dependencies": {
+      "required": [
+        "rich",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "rich (==6.1.1)",
+      "importlib-resources (==3.0.0) ; python_version < \"3.7\""
+    ]
+  },
+  "wonderwords-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dc7c61d7f97b572f9907da0e7c4d8ee220f2b699cb4c24e65df4e94fa7548089",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

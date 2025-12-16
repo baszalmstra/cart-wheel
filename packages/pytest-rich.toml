@@ -1,0 +1,10 @@
+# Package configuration for pytest-rich
+conda_forge = "pytest-rich"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_rich-0.2.0-py3-none-any.whl" },
+  { filename = "pytest_rich-0.1.1-py3-none-any.whl" },
+  { filename = "pytest_rich-0.1.0-py3-none-any.whl" },
+]

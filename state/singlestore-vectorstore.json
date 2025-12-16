@@ -1,0 +1,30 @@
+{
+  "singlestore_vectorstore-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1c3169546c7e2ff37b15303e1125f2295a90bf14d46841bd610f64425ffa964",
+    "dependencies": {
+      "required": [
+        "singlestoredb",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "singlestoredb (>=1.13.0,<2.0.0)",
+      "sqlalchemy (>=2.0.40,<3.0.0)"
+    ]
+  },
+  "singlestore_vectorstore-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d63e713bb7b0749e2e9afb15d9538e3040853d5da840a8b2972989b65c7ebd1c",
+    "dependencies": {
+      "required": [
+        "singlestoredb",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "singlestoredb (>=1.13.0,<2.0.0)",
+      "sqlalchemy (>=2.0.40,<3.0.0)"
+    ]
+  }
+}

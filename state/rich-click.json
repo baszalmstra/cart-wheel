@@ -1,0 +1,213 @@
+{
+  "rich_click-1.9.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d70f39938bcecaf5543e8750828cbea94ef51853f7d0e174cda1e10543767389",
+    "dependencies": {
+      "required": [
+        "click",
+        "colorama",
+        "rich",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=8",
+      "colorama; platform_system == \"Windows\"",
+      "rich>=12",
+      "typing-extensions>=4; python_version < \"3.11\"",
+      "inline-snapshot>=0.24; extra == \"dev\"",
+      "jsonschema>=4; extra == \"dev\"",
+      "mypy>=1.14.1; extra == \"dev\"",
+      "nodeenv>=1.9.1; extra == \"dev\"",
+      "packaging>=25; extra == \"dev\"",
+      "pre-commit>=3.5; extra == \"dev\"",
+      "pytest>=8.3.5; extra == \"dev\"",
+      "pytest-cov>=5; extra == \"dev\"",
+      "rich-codex>=1.2.11; extra == \"dev\"",
+      "ruff>=0.12.4; extra == \"dev\"",
+      "typer>=0.15; extra == \"dev\"",
+      "types-setuptools>=75.8.0.20250110; extra == \"dev\"",
+      "markdown-include>=0.8.1; extra == \"docs\"",
+      "mike>=2.1.3; extra == \"docs\"",
+      "mkdocs[docs]>=1.6.1; extra == \"docs\"",
+      "mkdocs-github-admonitions-plugin>=0.1.1; extra == \"docs\"",
+      "mkdocs-glightbox>=0.4; extra == \"docs\"",
+      "mkdocs-include-markdown-plugin>=7.1.7; python_version >= \"3.9\" and extra == \"docs\"",
+      "mkdocs-material[imaging]~=9.5.18; extra == \"docs\"",
+      "mkdocs-material-extensions>=1.3.1; extra == \"docs\"",
+      "mkdocs-redirects>=1.2.2; extra == \"docs\"",
+      "mkdocs-rss-plugin>=1.15; extra == \"docs\"",
+      "mkdocstrings[python]>=0.26.1; extra == \"docs\"",
+      "rich-codex>=1.2.11; extra == \"docs\"",
+      "typer>=0.15; extra == \"docs\""
+    ]
+  },
+  "rich_click-1.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ef51bc340db4d048a846c15c035d27b88acf720cbbb9b6fecf6c8b1a297b909",
+    "dependencies": {
+      "required": [
+        "click",
+        "colorama",
+        "rich",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=8",
+      "colorama; platform_system == \"Windows\"",
+      "rich>=12",
+      "typing-extensions>=4; python_version < \"3.11\"",
+      "inline-snapshot>=0.24; extra == \"dev\"",
+      "jsonschema>=4; extra == \"dev\"",
+      "mypy>=1.14.1; extra == \"dev\"",
+      "nodeenv>=1.9.1; extra == \"dev\"",
+      "packaging>=25; extra == \"dev\"",
+      "pre-commit>=3.5; extra == \"dev\"",
+      "pytest>=8.3.5; extra == \"dev\"",
+      "pytest-cov>=5; extra == \"dev\"",
+      "rich-codex>=1.2.11; extra == \"dev\"",
+      "ruff>=0.12.4; extra == \"dev\"",
+      "typer>=0.15; extra == \"dev\"",
+      "types-setuptools>=75.8.0.20250110; extra == \"dev\"",
+      "markdown-include>=0.8.1; extra == \"docs\"",
+      "mike>=2.1.3; extra == \"docs\"",
+      "mkdocs[docs]>=1.6.1; extra == \"docs\"",
+      "mkdocs-github-admonitions-plugin>=0.1.1; extra == \"docs\"",
+      "mkdocs-glightbox>=0.4; extra == \"docs\"",
+      "mkdocs-include-markdown-plugin>=7.1.7; python_version >= \"3.9\" and extra == \"docs\"",
+      "mkdocs-material[imaging]~=9.5.18; extra == \"docs\"",
+      "mkdocs-material-extensions>=1.3.1; extra == \"docs\"",
+      "mkdocs-redirects>=1.2.2; extra == \"docs\"",
+      "mkdocs-rss-plugin>=1.15; extra == \"docs\"",
+      "mkdocstrings[python]>=0.26.1; extra == \"docs\"",
+      "rich-codex>=1.2.11; extra == \"docs\"",
+      "typer>=0.15; extra == \"docs\""
+    ]
+  },
+  "rich_click-1.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5079dad67ed7df434a9ec1f20b1d62d831e58c78740026f968ce3d3b861f01a0",
+    "dependencies": {
+      "required": [
+        "click",
+        "colorama",
+        "rich",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=8",
+      "colorama; platform_system == \"Windows\"",
+      "rich>=12",
+      "typing-extensions>=4; python_version < \"3.11\"",
+      "inline-snapshot>=0.24; extra == \"dev\"",
+      "jsonschema>=4; extra == \"dev\"",
+      "mypy>=1.14.1; extra == \"dev\"",
+      "nodeenv>=1.9.1; extra == \"dev\"",
+      "packaging>=25; extra == \"dev\"",
+      "pre-commit>=3.5; extra == \"dev\"",
+      "pytest>=8.3.5; extra == \"dev\"",
+      "pytest-cov>=5; extra == \"dev\"",
+      "rich-codex>=1.2.11; extra == \"dev\"",
+      "ruff>=0.12.4; extra == \"dev\"",
+      "typer>=0.15; extra == \"dev\"",
+      "types-setuptools>=75.8.0.20250110; extra == \"dev\"",
+      "markdown-include>=0.8.1; extra == \"docs\"",
+      "mike>=2.1.3; extra == \"docs\"",
+      "mkdocs[docs]>=1.6.1; extra == \"docs\"",
+      "mkdocs-github-admonitions-plugin>=0.1.1; extra == \"docs\"",
+      "mkdocs-glightbox>=0.4; extra == \"docs\"",
+      "mkdocs-include-markdown-plugin>=7.1.7; python_version >= \"3.9\" and extra == \"docs\"",
+      "mkdocs-material[imaging]~=9.5.18; extra == \"docs\"",
+      "mkdocs-material-extensions>=1.3.1; extra == \"docs\"",
+      "mkdocs-redirects>=1.2.2; extra == \"docs\"",
+      "mkdocs-rss-plugin>=1.15; extra == \"docs\"",
+      "mkdocstrings[python]>=0.26.1; extra == \"docs\"",
+      "rich-codex>=1.2.11; extra == \"docs\"",
+      "typer>=0.15; extra == \"docs\""
+    ]
+  },
+  "rich_click-1.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ea6114a9e081b7d68cc07b315070398f806f01bb0e0c49da56f129e672877817",
+    "dependencies": {
+      "required": [
+        "click",
+        "rich",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=8",
+      "rich>=12",
+      "typing-extensions>=4; python_version < \"3.11\"",
+      "inline-snapshot>=0.24; extra == \"dev\"",
+      "jsonschema>=4; extra == \"dev\"",
+      "mypy>=1.14.1; extra == \"dev\"",
+      "nodeenv>=1.9.1; extra == \"dev\"",
+      "packaging>=25; extra == \"dev\"",
+      "pre-commit>=3.5; extra == \"dev\"",
+      "pytest>=8.3.5; extra == \"dev\"",
+      "pytest-cov>=5; extra == \"dev\"",
+      "rich-codex>=1.2.11; extra == \"dev\"",
+      "ruff>=0.12.4; extra == \"dev\"",
+      "typer>=0.15; extra == \"dev\"",
+      "types-setuptools>=75.8.0.20250110; extra == \"dev\"",
+      "markdown-include>=0.8.1; extra == \"docs\"",
+      "mike>=2.1.3; extra == \"docs\"",
+      "mkdocs[docs]>=1.6.1; extra == \"docs\"",
+      "mkdocs-github-admonitions-plugin>=0.1.1; extra == \"docs\"",
+      "mkdocs-glightbox>=0.4; extra == \"docs\"",
+      "mkdocs-include-markdown-plugin>=7.1.7; python_version >= \"3.9\" and extra == \"docs\"",
+      "mkdocs-material[imaging]~=9.5.18; extra == \"docs\"",
+      "mkdocs-material-extensions>=1.3.1; extra == \"docs\"",
+      "mkdocs-redirects>=1.2.2; extra == \"docs\"",
+      "mkdocs-rss-plugin>=1.15; extra == \"docs\"",
+      "mkdocstrings[python]>=0.26.1; extra == \"docs\"",
+      "rich-codex>=1.2.11; extra == \"docs\"",
+      "typer>=0.15; extra == \"docs\""
+    ]
+  },
+  "rich_click-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28e6eb34a99c8c45eb910259078bc54dd78cf6f18cc75cb77a50012a98458664",
+    "dependencies": {
+      "required": [
+        "click",
+        "rich",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click>=8",
+      "rich>=12",
+      "typing-extensions>=4; python_version < \"3.11\"",
+      "inline-snapshot>=0.24; extra == \"dev\"",
+      "jsonschema>=4; extra == \"dev\"",
+      "mypy>=1.14.1; extra == \"dev\"",
+      "nodeenv>=1.9.1; extra == \"dev\"",
+      "packaging>=25; extra == \"dev\"",
+      "pre-commit>=3.5; extra == \"dev\"",
+      "pytest>=8.3.5; extra == \"dev\"",
+      "pytest-cov>=5; extra == \"dev\"",
+      "rich-codex>=1.2.11; extra == \"dev\"",
+      "ruff>=0.12.4; extra == \"dev\"",
+      "typer>=0.15; extra == \"dev\"",
+      "types-setuptools>=75.8.0.20250110; extra == \"dev\"",
+      "markdown-include>=0.8.1; extra == \"docs\"",
+      "mike>=2.1.3; extra == \"docs\"",
+      "mkdocs[docs]>=1.6.1; extra == \"docs\"",
+      "mkdocs-github-admonitions-plugin>=0.1.1; extra == \"docs\"",
+      "mkdocs-glightbox>=0.4; extra == \"docs\"",
+      "mkdocs-include-markdown-plugin>=7.1.7; python_version >= \"3.9\" and extra == \"docs\"",
+      "mkdocs-material[imaging]~=9.5.18; extra == \"docs\"",
+      "mkdocs-material-extensions>=1.3.1; extra == \"docs\"",
+      "mkdocs-redirects>=1.2.2; extra == \"docs\"",
+      "mkdocs-rss-plugin>=1.15; extra == \"docs\"",
+      "mkdocstrings[python]>=0.26.1; extra == \"docs\"",
+      "rich-codex>=1.2.11; extra == \"docs\"",
+      "typer>=0.15; extra == \"docs\""
+    ]
+  }
+}

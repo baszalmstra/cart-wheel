@@ -1,0 +1,8 @@
+# Package configuration for sphinx-git
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_git-10.1.1-py3-none-any.whl" },
+  { filename = "sphinx_git-10.1.0-py3-none-any.whl" },
+]

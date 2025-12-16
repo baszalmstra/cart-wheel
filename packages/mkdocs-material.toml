@@ -1,0 +1,12 @@
+# Package configuration for mkdocs-material
+conda_forge = "mkdocs-material"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_material-9.7.0-py3-none-any.whl" },
+  { filename = "mkdocs_material-9.6.23-py3-none-any.whl" },
+  { filename = "mkdocs_material-9.6.22-py3-none-any.whl" },
+  { filename = "mkdocs_material-9.6.21-py3-none-any.whl" },
+  { filename = "mkdocs_material-9.6.20-py3-none-any.whl" },
+]

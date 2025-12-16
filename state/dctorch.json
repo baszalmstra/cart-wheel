@@ -1,0 +1,50 @@
+{
+  "dctorch-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce1dde9e3aabb941240e43522212d2e03dddae81279968c8ab182c59a5b41c8f",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.22.3,<2.0.0)",
+      "scipy (>=1.8.0,<2.0.0)",
+      "torch (>=1.11.0,<3.0)"
+    ]
+  },
+  "dctorch-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91453d9f63c5fe6f76f7bf4d38955aa2ca5b20bbc0b401c9d3d8c00cfdf76784",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.22.3,<2.0.0)",
+      "scipy (>=1.8.0,<2.0.0)",
+      "torch (>=1.11.0,<3.0)"
+    ]
+  },
+  "dctorch-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6d317b99a25c521c58fdc478f2e7734337d04168527bd120b8b89ebbe5d8cc5a",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.22.3,<2.0.0)",
+      "scipy (>=1.8.0,<2.0.0)",
+      "torch (>=1.11.0,<2.0.0)"
+    ]
+  }
+}

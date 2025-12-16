@@ -1,0 +1,76 @@
+{
+  "munch-4.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "71033c45db9fb677a0b7eb517a4ce70ae09258490e419b0e7f00d1e386ecb1b4",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata (>=1.7.0) ; (python_version<'3.8')",
+      "astroid (>=2.0) ; extra == 'testing'",
+      "pylint (~=2.3.1) ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "coverage ; extra == 'testing'",
+      "PyYAML (>=5.1.0) ; extra == 'yaml'"
+    ]
+  },
+  "munch-3.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e4108418cfea898dcad01ff9569c30ff58f01d6f699331d04364f51623627c0",
+    "dependencies": {
+      "required": [
+        "six",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "importlib-metadata (>=1.7.0) ; (python_version<'3.8')",
+      "astroid (>=2.0) ; extra == 'testing'",
+      "pylint (~=2.3.1) ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "coverage ; extra == 'testing'",
+      "PyYAML (>=5.1.0) ; extra == 'yaml'"
+    ]
+  },
+  "munch-2.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f44af89a2ce4ed04ff8de41f70b226b984db10a91dcc7b9ac2efc1c77022fdd",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pytest ; extra == 'testing'",
+      "coverage ; extra == 'testing'",
+      "astroid (~=1.5.3) ; (python_version == \"2.7\") and extra == 'testing'",
+      "pylint (~=1.7.2) ; (python_version == \"2.7\") and extra == 'testing'",
+      "astroid (>=2.0) ; (python_version >= \"3.4\") and extra == 'testing'",
+      "pylint (~=2.3.1) ; (python_version >= \"3.4\") and extra == 'testing'",
+      "PyYAML (>=5.1.0) ; extra == 'yaml'"
+    ]
+  },
+  "munch-2.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "86b40da78928972aea73f93968e63fbd7c76a87a810d809a123fd34def6fc0d3",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pytest ; extra == 'testing'",
+      "coverage ; extra == 'testing'",
+      "astroid (~=1.5.3) ; (python_version == \"2.7\") and extra == 'testing'",
+      "pylint (~=1.7.2) ; (python_version == \"2.7\") and extra == 'testing'",
+      "astroid (>=2.0) ; (python_version >= \"3.4\") and extra == 'testing'",
+      "pylint (~=2.3.1) ; (python_version >= \"3.4\") and extra == 'testing'",
+      "PyYAML (>=5.1.0) ; extra == 'yaml'"
+    ]
+  }
+}

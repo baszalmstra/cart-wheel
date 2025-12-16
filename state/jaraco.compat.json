@@ -1,0 +1,105 @@
+{
+  "jaraco_compat-4.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "adfc0a0c6f3e047eb56bbfe0d66b30c7969227276309977284c540fbf35d7963",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "jaraco_compat-4.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb48efb8fb8fc88a969d3b70aabce5bda8bc39611a5f407602fc8955bcc3af79",
+    "dependencies": {
+      "required": [
+        "jaraco.context"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.context",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "jaraco.compat-4.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "323d03a749cb71c0b1485609c7aea30b610514cb86edba44203244c231131175",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-mypy ; extra == 'type'"
+    ]
+  },
+  "jaraco.compat-4.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "971b1b82487bb4d5ebcd57bf36d06eb28174cd8a558ad39c2d3ff96f3af80a05",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'"
+    ]
+  },
+  "jaraco.compat-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c96768fbaaef64644d4a12340a359bfe1a333f4a59f04811730cd5d34de568aa",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'"
+    ]
+  }
+}

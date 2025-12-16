@@ -1,0 +1,55 @@
+{
+  "dbutils-3.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0cb388a89eeecf04089aef113a7007c3fac9199e9580c8549829f954870c403a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "PyGreSQL>=5; extra == \"pg\"",
+      "docutils; extra == \"docs\"",
+      "pytest>=7; extra == \"tests\"",
+      "ruff; extra == \"tests\""
+    ]
+  },
+  "dbutils-3.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "edc8ebd8445094c335d52e2bcbcf9f7dcc54d7a294adf7d01a8baf21924317f5",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "PyGreSQL>=5; extra == \"pg\"",
+      "docutils; extra == \"docs\"",
+      "pytest>=7; extra == \"tests\"",
+      "ruff; extra == \"tests\""
+    ]
+  },
+  "DBUtils-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4afca4c7f5b037cd44dd71933904c756e041a755841b1cf62431f1011ba29234",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "docutils ; extra == 'docs'",
+      "PyGreSQL >=5 ; extra == 'pg'",
+      "pytest >=7 ; extra == 'tests'",
+      "ruff ; extra == 'tests'"
+    ]
+  },
+  "DBUtils-3.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc162b564263354d99c585ba22ae5f094283dcfa1032f7e07e5f01815b976f1c",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "DBUtils-3.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7f201108481b9ad6c5c868ec19ee9f50ba9caeac4bae0f483f4f0f50191d4edc",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

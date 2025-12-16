@@ -1,0 +1,12 @@
+# Package configuration for iniconfig
+conda_forge = "iniconfig"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "iniconfig-2.3.0-py3-none-any.whl" },
+  { filename = "iniconfig-2.2.0-py3-none-any.whl" },
+  { filename = "iniconfig-2.1.0-py3-none-any.whl" },
+  { filename = "iniconfig-2.0.0-py3-none-any.whl" },
+  { filename = "iniconfig-1.1.1-py2.py3-none-any.whl" },
+]

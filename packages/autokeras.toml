@@ -1,0 +1,12 @@
+# Package configuration for autokeras
+conda_forge = "autokeras"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "autokeras-3.0.0-py3-none-any.whl" },
+  { filename = "autokeras-2.0.0-py3-none-any.whl" },
+  { filename = "autokeras-1.1.0-py3-none-any.whl" },
+  { filename = "autokeras-1.0.20-py3-none-any.whl" },
+  { filename = "autokeras-1.0.19-py3-none-any.whl" },
+]

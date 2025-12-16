@@ -1,0 +1,96 @@
+{
+  "databind-4.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b9c3a03c0414aa4567f095d7218ac904bd2b267b58e3763dac28e83d64b69770",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "nr-date",
+        "nr-stream",
+        "setuptools",
+        "typeapi",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "Deprecated (>=1.2.12,<2.0.0)",
+      "nr-date (>=2.0.0,<3.0.0)",
+      "nr-stream (>=1.0.0,<2.0.0)",
+      "setuptools (>=40.8.0) ; python_version < \"3.10\"",
+      "typeapi (>=2.0.1,<3)",
+      "typing-extensions (>=3.10.0,<5)"
+    ]
+  },
+  "databind-4.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e8eae14d2bbf41dfbe598883deda5c8088dfcb3ce55344b216925ea4ad48d5cf",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "nr-date",
+        "nr-stream",
+        "setuptools",
+        "typeapi",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "Deprecated (>=1.2.12,<2.0.0)",
+      "nr-date (>=2.0.0,<3.0.0)",
+      "nr-stream (>=1.0.0,<2.0.0)",
+      "setuptools (>=40.8.0) ; python_version < \"3.10\"",
+      "typeapi (>=2.0.1,<3)",
+      "typing-extensions (>=3.10.0,<5)"
+    ]
+  },
+  "databind-4.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "68afe8df968a05f67fedf914b6a8ea9159c18a44a2d6d4fd716e2edd94d87f67",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "nr-date",
+        "nr-stream",
+        "setuptools",
+        "typeapi",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "Deprecated (>=1.2.12,<2.0.0)",
+      "nr-date (>=2.0.0,<3.0.0)",
+      "nr-stream (>=1.0.0,<2.0.0)",
+      "setuptools (>=40.8.0) ; python_version < \"3.10\"",
+      "typeapi (>=2.0.1,<3)",
+      "typing-extensions (>=3.10.0,<5)"
+    ]
+  },
+  "databind-4.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d002d9e79fd005f9261d46e1407c9f7ff7bb093ecabd97e465223852cab4d015",
+    "dependencies": {
+      "required": [
+        "databind.core",
+        "databind.json"
+      ]
+    },
+    "original_requirements": [
+      "databind.core (>=4.4.2,<5.0.0)",
+      "databind.json (>=4.4.2,<5.0.0)"
+    ]
+  },
+  "databind-4.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "715402ebd63ff7369a2aad47f31d22f48a0840d2e66ee86600ffccd4821b8e4b",
+    "dependencies": {
+      "required": [
+        "databind.core",
+        "databind.json"
+      ]
+    },
+    "original_requirements": [
+      "databind.core (>=4.4.1,<5.0.0)",
+      "databind.json (>=4.4.1,<5.0.0)"
+    ]
+  }
+}

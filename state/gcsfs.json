@@ -1,0 +1,134 @@
+{
+  "gcsfs-2025.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e06aaec53797dc6b83d5cc90c4d3ae7247b4ee0cf8d8b1ce50e8d6b78e3a9aea",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "decorator",
+        "fsspec",
+        "google-auth",
+        "google-auth-oauthlib",
+        "google-cloud-storage",
+        "google-cloud-storage-control",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp!=4.0.0a0,!=4.0.0a1",
+      "decorator>4.1.2",
+      "fsspec==2025.12.0",
+      "google-auth>=1.2",
+      "google-auth-oauthlib",
+      "google-cloud-storage",
+      "google-cloud-storage-control",
+      "requests",
+      "fusepy; extra == \"gcsfuse\"",
+      "crcmod; extra == \"crc\""
+    ]
+  },
+  "gcsfs-2025.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "654457af3a524e03d86658c5d8c6f3887689d6aa0c2c6b1c3b2d8e1fe2b77c09",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "decorator",
+        "fsspec",
+        "google-auth",
+        "google-auth-oauthlib",
+        "google-cloud-storage",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp!=4.0.0a0,!=4.0.0a1",
+      "decorator>4.1.2",
+      "fsspec==2025.10.0",
+      "google-auth>=1.2",
+      "google-auth-oauthlib",
+      "google-cloud-storage",
+      "requests",
+      "fusepy; extra == \"gcsfuse\"",
+      "crcmod; extra == \"crc\""
+    ]
+  },
+  "gcsfs-2025.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38208bc79af60c693e44ff2f0bd6fd3ca664fea1940fe6770ac1c6003aa0f559",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "decorator",
+        "fsspec",
+        "google-auth",
+        "google-auth-oauthlib",
+        "google-cloud-storage",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp!=4.0.0a0,!=4.0.0a1",
+      "decorator>4.1.2",
+      "fsspec==2025.9.0",
+      "google-auth>=1.2",
+      "google-auth-oauthlib",
+      "google-cloud-storage",
+      "requests",
+      "fusepy; extra == \"gcsfuse\"",
+      "crcmod; extra == \"crc\""
+    ]
+  },
+  "gcsfs-2025.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "653503331d58cb02bb34e725d4595d166e93f7f2f3ff88e4c66ef535ae66eae5",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "decorator",
+        "fsspec",
+        "google-auth",
+        "google-auth-oauthlib",
+        "google-cloud-storage",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp!=4.0.0a0,!=4.0.0a1",
+      "decorator>4.1.2",
+      "fsspec==2025.7.0",
+      "google-auth>=1.2",
+      "google-auth-oauthlib",
+      "google-cloud-storage",
+      "requests",
+      "fusepy; extra == \"gcsfuse\"",
+      "crcmod; extra == \"crc\""
+    ]
+  },
+  "gcsfs-2025.5.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "48712471ff71ac83d3e2152ba4dc232874698466e344d5e700feba06b0a0de7b",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "decorator",
+        "fsspec",
+        "google-auth",
+        "google-auth-oauthlib",
+        "google-cloud-storage",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp!=4.0.0a0,!=4.0.0a1",
+      "decorator>4.1.2",
+      "fsspec==2025.5.1",
+      "google-auth>=1.2",
+      "google-auth-oauthlib",
+      "google-cloud-storage",
+      "requests",
+      "fusepy; extra == \"gcsfuse\"",
+      "crcmod; extra == \"crc\""
+    ]
+  }
+}

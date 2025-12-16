@@ -1,0 +1,8 @@
+# Package configuration for future
+conda_forge = "future"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "future-1.0.0-py3-none-any.whl" },
+]

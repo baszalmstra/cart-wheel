@@ -1,0 +1,10 @@
+# Package configuration for torch-fidelity
+conda_forge = "torch-fidelity"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torch_fidelity-0.3.0-py3-none-any.whl" },
+  { filename = "torch_fidelity-0.2.0-py3-none-any.whl" },
+  { filename = "torch_fidelity-0.1.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for prefect-aws
+conda_forge = "prefect-aws"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "prefect_aws-0.7.1-py3-none-any.whl" },
+  { filename = "prefect_aws-0.7.0-py3-none-any.whl" },
+  { filename = "prefect_aws-0.6.0-py3-none-any.whl" },
+  { filename = "prefect_aws-0.5.16-py3-none-any.whl" },
+  { filename = "prefect_aws-0.5.15-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for sanic-testing
+conda_forge = "sanic-testing"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sanic_testing-24.6.0-py3-none-any.whl" },
+  { filename = "sanic_testing-23.12.0-py3-none-any.whl" },
+  { filename = "sanic_testing-23.6.0-py3-none-any.whl" },
+  { filename = "sanic_testing-23.3.0-py3-none-any.whl" },
+  { filename = "sanic_testing-22.12.0-py3-none-any.whl" },
+]

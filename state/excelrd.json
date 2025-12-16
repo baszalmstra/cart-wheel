@@ -1,0 +1,61 @@
+{
+  "excelrd-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "21d76a5ee0992139fb7979d736ae28d17b6369d5be897fbd963c623dbf00acc4",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "releasecmd (<1,>=0.2.0) ; extra == 'dev'",
+      "pytest (>=6.0.1) ; extra == 'dev'",
+      "pytest-md-report (>=0.3) ; extra == 'dev'",
+      "sphinx-rtd-theme (>=1.2.2) ; extra == 'docs'",
+      "Sphinx (>=2.4) ; extra == 'docs'",
+      "pytest (>=6.0.1) ; extra == 'test'",
+      "pytest-md-report (>=0.3) ; extra == 'test'"
+    ]
+  },
+  "excelrd-2.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a248ac32c353e7f39a9877d85c501d10cdadc62128305fb30174e91a4c1b2b0a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "releasecmd (<1,>=0.2.0) ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "pylama ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "excelrd-2.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6a712e1f78374f9dac8187b2e7f79e8e92d5a00dc28ec6d11ac21df5267a90c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "releasecmd (<1,>=0.2.0) ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "autoflake ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "pylama ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "excelrd-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed45bf1af0b21276681e027d92f282ee6860e8760cc433927547f02b2eefe4f9",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

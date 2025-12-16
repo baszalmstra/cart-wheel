@@ -1,0 +1,11 @@
+# Package configuration for ltp
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ltp-4.2.14-py3-none-any.whl" },
+  { filename = "ltp-4.2.13-py3-none-any.whl" },
+  { filename = "ltp-4.2.12-py3-none-any.whl" },
+  { filename = "ltp-4.2.11.post2-py3-none-any.whl" },
+  { filename = "ltp-4.2.11.post1-py3-none-any.whl" },
+]

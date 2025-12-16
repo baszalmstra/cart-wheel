@@ -1,0 +1,12 @@
+# Package configuration for inquirer
+conda_forge = "inquirer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "inquirer-3.4.1-py3-none-any.whl" },
+  { filename = "inquirer-3.4.0-py3-none-any.whl" },
+  { filename = "inquirer-3.3.0-py3-none-any.whl" },
+  { filename = "inquirer-3.2.5-py3-none-any.whl" },
+  { filename = "inquirer-3.2.4-py3-none-any.whl" },
+]

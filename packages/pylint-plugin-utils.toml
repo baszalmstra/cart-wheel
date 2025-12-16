@@ -1,0 +1,12 @@
+# Package configuration for pylint-plugin-utils
+conda_forge = "pylint-plugin-utils"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pylint_plugin_utils-0.9.0-py3-none-any.whl" },
+  { filename = "pylint_plugin_utils-0.8.2-py3-none-any.whl" },
+  { filename = "pylint_plugin_utils-0.8.1-py3-none-any.whl" },
+  { filename = "pylint_plugin_utils-0.8-py3-none-any.whl" },
+  { filename = "pylint_plugin_utils-0.7-py3-none-any.whl" },
+]

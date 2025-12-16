@@ -1,0 +1,9 @@
+# Package configuration for mlflow-jfrog-plugin
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mlflow_jfrog_plugin-1.0.2-py3-none-any.whl" },
+  { filename = "mlflow_jfrog_plugin-1.0.1-py3-none-any.whl" },
+  { filename = "mlflow_jfrog_plugin-1.0.0-py3-none-any.whl" },
+]

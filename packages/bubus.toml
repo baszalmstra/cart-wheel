@@ -1,0 +1,11 @@
+# Package configuration for bubus
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bubus-1.5.6-py3-none-any.whl" },
+  { filename = "bubus-1.5.5-py3-none-any.whl" },
+  { filename = "bubus-1.5.4-py3-none-any.whl" },
+  { filename = "bubus-1.5.1-py3-none-any.whl" },
+  { filename = "bubus-1.5.0-py3-none-any.whl" },
+]

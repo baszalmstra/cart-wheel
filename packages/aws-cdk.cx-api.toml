@@ -1,0 +1,11 @@
+# Package configuration for aws-cdk.cx-api
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_cdk_cx_api-2.232.2-py3-none-any.whl" },
+  { filename = "aws_cdk_cx_api-2.232.1-py3-none-any.whl" },
+  { filename = "aws_cdk_cx_api-2.232.0-py3-none-any.whl" },
+  { filename = "aws_cdk_cx_api-2.231.0-py3-none-any.whl" },
+  { filename = "aws_cdk_cx_api-2.230.0-py3-none-any.whl" },
+]

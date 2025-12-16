@@ -1,0 +1,153 @@
+{
+  "reconplogger-4.18.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f7c1f17ba1259309a5576f197e487283d640f4e76010178e59d24ce2ba1389ad",
+    "dependencies": {
+      "required": [
+        "python-json-logger",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "python-json-logger>=3.2.1",
+      "PyYAML>=3.13",
+      "Flask>=1.1.1; extra == \"all\"",
+      "requests>=2.24.0; extra == \"all\"",
+      "pytest>=6.2.5; extra == \"test\"",
+      "pytest-cov>=4.0.0; extra == \"test\"",
+      "testfixtures==6.10.0; extra == \"test\"",
+      "reconplogger[all]; extra == \"dev\"",
+      "reconplogger[test]; extra == \"dev\"",
+      "pre-commit>=2.19.0; extra == \"dev\"",
+      "tox>=3.25.0; extra == \"dev\"",
+      "Sphinx>=1.7.9; extra == \"doc\"",
+      "sphinx-rtd-theme>=0.4.3; extra == \"doc\"",
+      "autodocsumm>=0.1.10; extra == \"doc\"",
+      "sphinx-autodoc-typehints>=1.11.1; extra == \"doc\"",
+      "bump2version>=0.5.11; extra == \"maintainer\"",
+      "twine>=3.1.1; extra == \"maintainer\""
+    ]
+  },
+  "reconplogger-4.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a53914eeb71585da8f5269883f249a3448f7c434f6488913cc53be75d33954b",
+    "dependencies": {
+      "required": [
+        "python-json-logger",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "python-json-logger>=3.2.1",
+      "PyYAML>=3.13",
+      "Flask>=1.1.1; extra == \"all\"",
+      "requests>=2.24.0; extra == \"all\"",
+      "pytest>=6.2.5; extra == \"test\"",
+      "pytest-cov>=4.0.0; extra == \"test\"",
+      "testfixtures==6.10.0; extra == \"test\"",
+      "reconplogger[all]; extra == \"dev\"",
+      "reconplogger[test]; extra == \"dev\"",
+      "pre-commit>=2.19.0; extra == \"dev\"",
+      "tox>=3.25.0; extra == \"dev\"",
+      "Sphinx>=1.7.9; extra == \"doc\"",
+      "sphinx-rtd-theme>=0.4.3; extra == \"doc\"",
+      "autodocsumm>=0.1.10; extra == \"doc\"",
+      "sphinx-autodoc-typehints>=1.11.1; extra == \"doc\"",
+      "bump2version>=0.5.11; extra == \"maintainer\"",
+      "twine>=3.1.1; extra == \"maintainer\""
+    ]
+  },
+  "reconplogger-4.17.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90f42b36bd3d11543edfddda52020c91911d339856dfcab88b097424a75c1386",
+    "dependencies": {
+      "required": [
+        "python-json-logger",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "python-json-logger>=3.2.1",
+      "PyYAML>=3.13",
+      "Flask>=1.1.1; extra == \"all\"",
+      "requests>=2.24.0; extra == \"all\"",
+      "testfixtures==6.10.0; extra == \"test\"",
+      "coverage>=4.5.1; extra == \"test\"",
+      "Flask>=1.1.1; extra == \"dev\"",
+      "requests>=2.24.0; extra == \"dev\"",
+      "testfixtures==6.10.0; extra == \"dev\"",
+      "coverage>=4.5.1; extra == \"dev\"",
+      "pre-commit>=2.19.0; extra == \"dev\"",
+      "pylint>=1.8.3; extra == \"dev\"",
+      "tox>=3.25.0; extra == \"dev\"",
+      "Sphinx>=1.7.9; extra == \"doc\"",
+      "sphinx-rtd-theme>=0.4.3; extra == \"doc\"",
+      "autodocsumm>=0.1.10; extra == \"doc\"",
+      "sphinx-autodoc-typehints>=1.11.1; extra == \"doc\"",
+      "bump2version>=0.5.11; extra == \"maintainer\"",
+      "twine>=3.1.1; extra == \"maintainer\""
+    ]
+  },
+  "reconplogger-4.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4cdf2a285dae7f19bdf914af3c6e0ad0e3d580f7403e476d3557f6e7bd02f6c2",
+    "dependencies": {
+      "required": [
+        "python-json-logger",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "python-json-logger>=3.2.1",
+      "PyYAML>=3.13",
+      "Flask>=1.1.1; extra == \"all\"",
+      "requests>=2.24.0; extra == \"all\"",
+      "testfixtures==6.10.0; extra == \"test\"",
+      "coverage>=4.5.1; extra == \"test\"",
+      "Flask>=1.1.1; extra == \"dev\"",
+      "requests>=2.24.0; extra == \"dev\"",
+      "testfixtures==6.10.0; extra == \"dev\"",
+      "coverage>=4.5.1; extra == \"dev\"",
+      "pre-commit>=2.19.0; extra == \"dev\"",
+      "pylint>=1.8.3; extra == \"dev\"",
+      "tox>=3.25.0; extra == \"dev\"",
+      "Sphinx>=1.7.9; extra == \"doc\"",
+      "sphinx-rtd-theme>=0.4.3; extra == \"doc\"",
+      "autodocsumm>=0.1.10; extra == \"doc\"",
+      "sphinx-autodoc-typehints>=1.11.1; extra == \"doc\"",
+      "bump2version>=0.5.11; extra == \"maintainer\"",
+      "twine>=3.1.1; extra == \"maintainer\""
+    ]
+  },
+  "reconplogger-4.16.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "273906465bbf09fbf0e9a86c74feb06aaf63fc817dd5793811e6832809df8937",
+    "dependencies": {
+      "required": [
+        "logmatic-python",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "logmatic-python >=0.1.7",
+      "PyYAML >=3.13",
+      "Flask >=1.1.1 ; extra == 'all'",
+      "requests >=2.24.0 ; extra == 'all'",
+      "Flask >=1.1.1 ; extra == 'dev'",
+      "requests >=2.24.0 ; extra == 'dev'",
+      "testfixtures ==6.10.0 ; extra == 'dev'",
+      "coverage >=4.5.1 ; extra == 'dev'",
+      "pre-commit >=2.19.0 ; extra == 'dev'",
+      "pylint >=1.8.3 ; extra == 'dev'",
+      "tox >=3.25.0 ; extra == 'dev'",
+      "Sphinx >=1.7.9 ; extra == 'doc'",
+      "sphinx-rtd-theme >=0.4.3 ; extra == 'doc'",
+      "autodocsumm >=0.1.10 ; extra == 'doc'",
+      "sphinx-autodoc-typehints >=1.11.1 ; extra == 'doc'",
+      "bump2version >=0.5.11 ; extra == 'maintainer'",
+      "twine >=3.1.1 ; extra == 'maintainer'",
+      "testfixtures ==6.10.0 ; extra == 'test'",
+      "coverage >=4.5.1 ; extra == 'test'"
+    ]
+  }
+}

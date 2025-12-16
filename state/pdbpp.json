@@ -1,0 +1,75 @@
+{
+  "pdbpp-0.11.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51916b63693898cf4881b36b4501c83947758d73f582f1f84893662b163bdb75",
+    "dependencies": {
+      "required": [
+        "fancycompleter",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "fancycompleter>=0.11.0",
+      "pygments",
+      "pytest; extra == \"testing\"",
+      "pytest-cov; extra == \"testing\"",
+      "ipython; extra == \"testing\"",
+      "pexpect; extra == \"testing\""
+    ]
+  },
+  "pdbpp-0.11.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8e024d36bd2f35a3b19d8732524c696b8b4aef633250d28547198e746cd81ccb",
+    "dependencies": {
+      "required": [
+        "fancycompleter",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "fancycompleter>=0.11.0",
+      "pygments",
+      "pytest; extra == \"testing\"",
+      "pytest-cov; extra == \"testing\"",
+      "ipython; extra == \"testing\"",
+      "pexpect; extra == \"testing\""
+    ]
+  },
+  "pdbpp-0.11.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aec6495b74e2bdd3fe3e7e72b41b2d0c162940feda9aff20804bdc8a2422b512",
+    "dependencies": {
+      "required": [
+        "fancycompleter",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "fancycompleter>=0.11.0",
+      "pygments",
+      "pytest; extra == \"testing\"",
+      "pytest-cov; extra == \"testing\"",
+      "ipython; extra == \"testing\"",
+      "pexpect; extra == \"testing\""
+    ]
+  },
+  "pdbpp-0.10.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79580568e33eb3d6f6b462b1187f53e10cd8e4538f7d31495c9181e2cf9665d1",
+    "dependencies": {
+      "required": [
+        "fancycompleter",
+        "wmctrl",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "fancycompleter (>=0.8)",
+      "wmctrl",
+      "pygments",
+      "funcsigs ; extra == 'funcsigs'",
+      "funcsigs ; extra == 'testing'",
+      "pytest ; extra == 'testing'"
+    ]
+  }
+}

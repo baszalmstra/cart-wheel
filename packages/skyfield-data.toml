@@ -1,0 +1,12 @@
+# Package configuration for skyfield-data
+conda_forge = "skyfield-data"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "skyfield_data-7.0.0-py2.py3-none-any.whl" },
+  { filename = "skyfield_data-6.0.0-py2.py3-none-any.whl" },
+  { filename = "skyfield_data-5.0.0-py2.py3-none-any.whl" },
+  { filename = "skyfield_data-4.0.0-py2.py3-none-any.whl" },
+  { filename = "skyfield_data-3.0.0-py2.py3-none-any.whl" },
+]

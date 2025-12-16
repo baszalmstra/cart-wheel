@@ -1,0 +1,172 @@
+{
+  "langchain_tests-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b0a95129e24fa5d7f534df0252e22f9b9cb7f40db6932aa2e7b600432ba6e58",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "langchain-core",
+        "numpy",
+        "numpy",
+        "pytest-asyncio",
+        "pytest-benchmark",
+        "pytest-codspeed",
+        "pytest-recording",
+        "pytest-socket",
+        "pytest",
+        "syrupy",
+        "vcrpy"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1.0.0,>=0.28.1",
+      "langchain-core<2.0.0,>=1.1.0",
+      "numpy>=1.26.2; python_version < '3.13'",
+      "numpy>=2.1.0; python_version >= '3.13'",
+      "pytest-asyncio<2.0.0,>=0.20.0",
+      "pytest-benchmark",
+      "pytest-codspeed",
+      "pytest-recording",
+      "pytest-socket<1.0.0,>=0.7.0",
+      "pytest<9.0.0,>=7.0.0",
+      "syrupy<5.0.0,>=4.0.0",
+      "vcrpy<8.0.0,>=7.0.0"
+    ]
+  },
+  "langchain_tests-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "713936d9e474ba39eeade95ee8e9d2e237b15a74d4896cae66ef1a9bd0a44d48",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "langchain-core",
+        "numpy",
+        "numpy",
+        "pytest-asyncio",
+        "pytest-benchmark",
+        "pytest-codspeed",
+        "pytest-recording",
+        "pytest-socket",
+        "pytest",
+        "syrupy",
+        "vcrpy"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1.0.0,>=0.28.1",
+      "langchain-core<2.0.0,>=1.1.0",
+      "numpy>=1.26.2; python_version < '3.13'",
+      "numpy>=2.1.0; python_version >= '3.13'",
+      "pytest-asyncio<2.0.0,>=0.20.0",
+      "pytest-benchmark",
+      "pytest-codspeed",
+      "pytest-recording",
+      "pytest-socket<1.0.0,>=0.7.0",
+      "pytest<9.0.0,>=7.0.0",
+      "syrupy<5.0.0,>=4.0.0",
+      "vcrpy<8.0.0,>=7.0.0"
+    ]
+  },
+  "langchain_tests-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a74fe22fedc490c44b319ede61aa652318f601ed11f76fdf781eec29a4500c4",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "langchain-core",
+        "numpy",
+        "numpy",
+        "pytest-asyncio",
+        "pytest-benchmark",
+        "pytest-codspeed",
+        "pytest-recording",
+        "pytest-socket",
+        "pytest",
+        "syrupy",
+        "vcrpy"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1.0.0,>=0.28.1",
+      "langchain-core<2.0.0,>=1.0.3",
+      "numpy>=1.26.2; python_version < '3.13'",
+      "numpy>=2.1.0; python_version >= '3.13'",
+      "pytest-asyncio<2.0.0,>=0.20.0",
+      "pytest-benchmark",
+      "pytest-codspeed",
+      "pytest-recording",
+      "pytest-socket<1.0.0,>=0.7.0",
+      "pytest<9.0.0,>=7.0.0",
+      "syrupy<5.0.0,>=4.0.0",
+      "vcrpy<8.0.0,>=7.0.0"
+    ]
+  },
+  "langchain_tests-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c3fdf290ce79d84382dda37cfb20ab56f7ccdd2d9c921f876b77bc3eb5e9f7fb",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "langchain-core",
+        "numpy",
+        "numpy",
+        "pytest-asyncio",
+        "pytest-benchmark",
+        "pytest-codspeed",
+        "pytest-recording",
+        "pytest-socket",
+        "pytest",
+        "syrupy",
+        "vcrpy"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1.0.0,>=0.28.1",
+      "langchain-core<2.0.0,>=1.0.0",
+      "numpy>=1.26.2; python_version < '3.13'",
+      "numpy>=2.1.0; python_version >= '3.13'",
+      "pytest-asyncio<2.0.0,>=0.20.0",
+      "pytest-benchmark",
+      "pytest-codspeed",
+      "pytest-recording",
+      "pytest-socket<1.0.0,>=0.7.0",
+      "pytest<9.0.0,>=7.0.0",
+      "syrupy<5.0.0,>=4.0.0",
+      "vcrpy<8.0.0,>=7.0.0"
+    ]
+  },
+  "langchain_tests-0.3.22-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b38173666236740343432ca1619fc7f742657649ff9e237ac89db5be921ee819",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "pytest",
+        "pytest-asyncio",
+        "httpx",
+        "syrupy",
+        "pytest-socket",
+        "pytest-benchmark",
+        "pytest-codspeed",
+        "pytest-recording",
+        "vcrpy",
+        "numpy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=0.3.77",
+      "pytest<9.0.0,>=7.0.0",
+      "pytest-asyncio<2.0.0,>=0.20.0",
+      "httpx<1.0.0,>=0.28.1",
+      "syrupy<5.0.0,>=4.0.0",
+      "pytest-socket<1.0.0,>=0.7.0",
+      "pytest-benchmark",
+      "pytest-codspeed",
+      "pytest-recording",
+      "vcrpy<8.0.0,>=7.0.0",
+      "numpy>=1.26.2; python_version < \"3.13\"",
+      "numpy>=2.1.0; python_version >= \"3.13\""
+    ]
+  }
+}

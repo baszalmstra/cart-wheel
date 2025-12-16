@@ -1,0 +1,12 @@
+# Package configuration for pyjwt
+conda_forge = "pyjwt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "PyJWT-2.10.1-py3-none-any.whl" },
+  { filename = "PyJWT-2.10.0-py3-none-any.whl" },
+  { filename = "PyJWT-2.9.0-py3-none-any.whl" },
+  { filename = "PyJWT-2.8.0-py3-none-any.whl" },
+  { filename = "PyJWT-2.7.0-py3-none-any.whl" },
+]

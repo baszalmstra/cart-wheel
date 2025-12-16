@@ -1,0 +1,10 @@
+# Package configuration for jsbeautifier
+conda_forge = "jsbeautifier"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsbeautifier-1.15.4-py3-none-any.whl" },
+  { filename = "jsbeautifier-1.15.3-py3-none-any.whl" },
+  { filename = "jsbeautifier-1.15.2-py3-none-any.whl" },
+]

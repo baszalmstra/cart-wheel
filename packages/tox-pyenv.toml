@@ -1,0 +1,11 @@
+# Package configuration for tox-pyenv
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tox_pyenv-1.1.0-py2.py3-none-any.whl" },
+  { filename = "tox_pyenv-1.0.3-py2.py3-none-any.whl" },
+  { filename = "tox_pyenv-1.0.2-py2.py3-none-any.whl" },
+  { filename = "tox_pyenv-1.0.1-py2.py3-none-any.whl" },
+  { filename = "tox_pyenv-1.0.0-py2.py3-none-any.whl" },
+]

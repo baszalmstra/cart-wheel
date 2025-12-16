@@ -1,0 +1,152 @@
+{
+  "aws_cdk.aws_cognito-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a6aba26b3ddcc601bcc90883f9b21c788444ba7081b872b338135828587e441",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-certificatemanager",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-certificatemanager (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-kms (==1.204.0)",
+      "aws-cdk.aws-lambda (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "aws-cdk.custom-resources (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_cognito-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c631cdb199eaaf149bcc18b8ce2b36ae39f9a8e9fa07b95fb0c5ce1274522af5",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-certificatemanager",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-certificatemanager (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-kms (==1.203.0)",
+      "aws-cdk.aws-lambda (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "aws-cdk.custom-resources (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_cognito-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec2120d498f89b29bd1451a9fdc3db35d3991e15de30fd097d01e985635554e8",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-certificatemanager",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-certificatemanager (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-kms (==1.202.0)",
+      "aws-cdk.aws-lambda (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "aws-cdk.custom-resources (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_cognito-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2d670029db2572e60744444be953c234020fd4b4405bba4b8c1f5d50b1d1554",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-certificatemanager",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-certificatemanager (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-kms (==1.201.0)",
+      "aws-cdk.aws-lambda (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "aws-cdk.custom-resources (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_cognito-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "067ad68d7e51217a6ed009e1f6b8e5e2bb8b9c6e3bdf6f093699400ab835e6c0",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-certificatemanager",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-certificatemanager (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-kms (==1.200.0)",
+      "aws-cdk.aws-lambda (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "aws-cdk.custom-resources (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

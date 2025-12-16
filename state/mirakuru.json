@@ -1,0 +1,62 @@
+{
+  "mirakuru-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43d27dc0e59dfde27bf720516a5e96ead0b4cf9e12cb1adb57cdeea3c9239b93",
+    "dependencies": {
+      "required": [
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "psutil>=4.0.0; sys_platform != \"cygwin\""
+    ]
+  },
+  "mirakuru-2.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4be0bfd270744454fa0c0466b8127b66bd55f4decaf05bbee9b071f2acbd9473",
+    "dependencies": {
+      "required": [
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "psutil>=4.0.0; sys_platform != \"cygwin\""
+    ]
+  },
+  "mirakuru-2.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ff7080997e63289dc309d0237e137ca2cfa863b3d26b3d5e8fd4e1c2b2ef659",
+    "dependencies": {
+      "required": [
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "psutil>=4.0.0; sys_platform != \"cygwin\""
+    ]
+  },
+  "mirakuru-2.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2fab68356fb98fb5358ea3ab65f5e511f34b5a0b16cfd0a0935ef15a3393f025",
+    "dependencies": {
+      "required": [
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "psutil>=4.0.0; sys_platform != \"cygwin\""
+    ]
+  },
+  "mirakuru-2.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90c2d90a8cf14349b2f33e6db30a16acd855499811e0312e56cf80ceacf2d3e5",
+    "dependencies": {
+      "required": [
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "psutil >=4.0.0 ; sys_platform != \"cygwin\""
+    ]
+  }
+}

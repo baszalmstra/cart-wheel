@@ -1,0 +1,83 @@
+{
+  "mercantile-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30f457a73ee88261aab787b7069d85961a5703bb09dc57a170190bc042cd023f",
+    "dependencies": {
+      "required": [
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "click (>=3.0)",
+      "check-manifest ; extra == 'dev'",
+      "hypothesis ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "mercantile-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b0ca248a459efdc1263e9baee8040b3559a636d97050a86c9f59077af718241",
+    "dependencies": {
+      "required": [
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "click (>=3.0)",
+      "check-manifest ; extra == 'dev'",
+      "hypothesis ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "mercantile-1.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "20895bcee8cb346f384d8a1161fde4773f5b2aa937d90a23aebde766a0d1a536",
+    "dependencies": {
+      "required": [
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "click (>=3.0)",
+      "check-manifest ; extra == 'dev'",
+      "coveralls ; extra == 'test'",
+      "hypothesis ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pydocstyle ; extra == 'test'"
+    ]
+  },
+  "mercantile-1.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3dac4e6c4105a73caeb1d170bc3256a9cb6b0f78e0a5d5a2e76d162b980579ae",
+    "dependencies": {
+      "required": [
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "click (>=3.0)",
+      "check-manifest ; extra == 'dev'",
+      "coveralls ; extra == 'test'",
+      "hypothesis ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pydocstyle ; extra == 'test'"
+    ]
+  },
+  "mercantile-1.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6713dd64511fda3ee3aed001122fdeb6dc1e36fc19df4772759764cfb674c35",
+    "dependencies": {
+      "required": [
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "click (>=3.0)",
+      "check-manifest ; extra == 'dev'",
+      "coveralls ; extra == 'test'",
+      "hypothesis ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pydocstyle ; extra == 'test'"
+    ]
+  }
+}

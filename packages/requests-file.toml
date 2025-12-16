@@ -1,0 +1,12 @@
+# Package configuration for requests-file
+conda_forge = "requests-file"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "requests_file-3.0.1-py2.py3-none-any.whl" },
+  { filename = "requests_file-3.0.0-py2.py3-none-any.whl" },
+  { filename = "requests_file-2.1.0-py2.py3-none-any.whl" },
+  { filename = "requests_file-2.0.0-py2.py3-none-any.whl" },
+  { filename = "requests_file-1.5.1-py2.py3-none-any.whl" },
+]

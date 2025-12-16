@@ -1,0 +1,11 @@
+# Package configuration for mdformat-front-matters
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mdformat_front_matters-2.0.0-py3-none-any.whl" },
+  { filename = "mdformat_front_matters-1.1.0-py3-none-any.whl" },
+  { filename = "mdformat_front_matters-1.0.0-py3-none-any.whl" },
+  { filename = "mdformat_front_matters-0.1.0-py3-none-any.whl" },
+  { filename = "mdformat_front_matters-0.0.1-py3-none-any.whl" },
+]

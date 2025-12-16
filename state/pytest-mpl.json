@@ -1,0 +1,121 @@
+{
+  "pytest_mpl-0.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e474b7676957c521104dbe351df937da5e582231cd34daeb43b9d1ecc048e5c0",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "matplotlib",
+        "packaging",
+        "jinja2",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=5.4.0",
+      "matplotlib>=3.3.3",
+      "packaging>=22.0.0",
+      "Jinja2>=2.10.2",
+      "Pillow>=8.1.1",
+      "pytest-cov>=6.0.0; extra == \"test\"",
+      "sphinx>=7.0.0; extra == \"docs\"",
+      "mpl_sphinx_theme>=3.9.0; extra == \"docs\"",
+      "sphinx_design>=0.6.0; extra == \"docs\"",
+      "matplotlib==3.9.*; extra == \"docs\""
+    ]
+  },
+  "pytest_mpl-0.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ee7cf902ef071e45ae14fe190b3d8a9839c2fd8933e0514bf58df310d8ed66b",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "matplotlib",
+        "packaging",
+        "jinja2",
+        "pillow",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "matplotlib",
+      "packaging",
+      "Jinja2",
+      "Pillow",
+      "importlib-resources ; python_version < \"3.8\"",
+      "sphinx ; extra == 'docs'",
+      "mpl-sphinx-theme >=3.6.0.dev0 ; extra == 'docs'",
+      "sphinx-design ; extra == 'docs'",
+      "matplotlib ==3.6 ; extra == 'docs'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "pytest_mpl-0.16.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a830e6bcd218b7cdf968034095855527d8191da00c37770138eb72b9534aa228",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "matplotlib",
+        "packaging",
+        "jinja2",
+        "pillow",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "matplotlib",
+      "packaging",
+      "Jinja2",
+      "Pillow",
+      "importlib-resources ; python_version < \"3.8\"",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "pytest_mpl-0.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0133a8d9a081b1317d90bc51e24184f1b24bbc06dc4e69c43f01c5f221dd9e50",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "matplotlib",
+        "packaging",
+        "jinja2",
+        "pillow",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "matplotlib",
+      "packaging",
+      "Jinja2",
+      "Pillow",
+      "importlib-resources ; python_version < \"3.8\"",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "pytest_mpl-0.15.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b5b06978a7528710ed189c92247e867fa252d7d52cd9f9d25b8365bb675bf39e",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "matplotlib",
+        "packaging",
+        "jinja2",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "matplotlib",
+      "packaging",
+      "Jinja2",
+      "importlib-resources ; python_version < \"3.8\"",
+      "pytest-cov ; extra == 'test'"
+    ]
+  }
+}

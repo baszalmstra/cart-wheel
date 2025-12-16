@@ -1,0 +1,106 @@
+{
+  "cheroot-11.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0f6c0ba05c00fbc869fb46b1de4ec2384e1d85418ae963d3bc10ae83b688dbfa",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "jaraco.functools"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools (>=2.6)",
+      "jaraco.functools",
+      "sphinx (>=1.8.2) ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "sphinx-tabs (>=1.1.0) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "python-dateutil ; extra == 'docs'",
+      "sphinxcontrib-apidoc (>=0.3.0) ; extra == 'docs'"
+    ]
+  },
+  "cheroot-11.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39c95d162681ed938679f645bca33abfa523b862a2393d630e3376b7426c7a36",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "jaraco.functools"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools (>=2.6)",
+      "jaraco.functools",
+      "sphinx (>=1.8.2) ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "sphinx-tabs (>=1.1.0) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "python-dateutil ; extra == 'docs'",
+      "sphinxcontrib-apidoc (>=0.3.0) ; extra == 'docs'"
+    ]
+  },
+  "cheroot-11.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e3aea62026b5e70df6e63259e345bdcff404daf4b8a11204f46d4234959fccd",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "jaraco.functools"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools (>=2.6)",
+      "jaraco.functools",
+      "sphinx (>=1.8.2) ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "sphinx-tabs (>=1.1.0) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "python-dateutil ; extra == 'docs'",
+      "sphinxcontrib-apidoc (>=0.3.0) ; extra == 'docs'"
+    ]
+  },
+  "cheroot-10.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6ea332f20bfcede14e66174d112b30e9807492320d737ca628badc924d997595",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "jaraco.functools",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools (>=2.6)",
+      "jaraco.functools",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx (>=1.8.2) ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "sphinx-tabs (>=1.1.0) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "python-dateutil ; extra == 'docs'",
+      "sphinxcontrib-apidoc (>=0.3.0) ; extra == 'docs'"
+    ]
+  },
+  "cheroot-10.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8f65dd38ad3d56419cfe2d1b5e4b4e3282b1d58758ca2a336231641a80cf0717",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "jaraco.functools",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools (>=2.6)",
+      "jaraco.functools",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx (>=1.8.2) ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "sphinx-tabs (>=1.1.0) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "python-dateutil ; extra == 'docs'",
+      "sphinxcontrib-apidoc (>=0.3.0) ; extra == 'docs'"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for neural-compressor
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neural_compressor-3.6-py3-none-any.whl" },
+  { filename = "neural_compressor-3.5-py3-none-any.whl" },
+  { filename = "neural_compressor-3.4.1-py3-none-any.whl" },
+  { filename = "neural_compressor-3.4-py3-none-any.whl" },
+  { filename = "neural_compressor-3.3.1-py3-none-any.whl" },
+]

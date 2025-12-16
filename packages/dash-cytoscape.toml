@@ -1,0 +1,9 @@
+# Package configuration for dash-cytoscape
+conda_forge = "dash_cytoscape"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dash_cytoscape-1.0.0-py3-none-any.whl" },
+  { filename = "dash_cytoscape-0.3.0-py3-none-any.whl" },
+]

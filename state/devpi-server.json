@@ -1,0 +1,222 @@
+{
+  "devpi_server-6.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a7fecd9155806ba6a3442fa5d1d6c5fdd7a4f378b85a9a852615d3ea106fd59",
+    "dependencies": {
+      "required": [
+        "argon2-cffi",
+        "attrs",
+        "defusedxml",
+        "devpi-common",
+        "httpx",
+        "itsdangerous",
+        "lazy",
+        "legacy-cgi",
+        "passlib",
+        "platformdirs",
+        "pluggy",
+        "py",
+        "pyramid",
+        "repoze.lru",
+        "strictyaml",
+        "waitress",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "argon2-cffi",
+      "attrs>=22.2.0",
+      "defusedxml",
+      "devpi_common<5,>3.6.0",
+      "httpx<1",
+      "itsdangerous>=0.24",
+      "lazy",
+      "legacy-cgi; python_version >= \"3.13\"",
+      "passlib[argon2]",
+      "platformdirs",
+      "pluggy<2.0,>=0.6.0",
+      "py>=1.4.23",
+      "pyramid>=2",
+      "repoze.lru>=0.6",
+      "strictyaml",
+      "waitress>=1.0.1",
+      "ruamel.yaml"
+    ]
+  },
+  "devpi_server-6.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7dee73d9da280cc52b291ba1ea0b668d548a348af68e3a428b2962e2cb7bb8f5",
+    "dependencies": {
+      "required": [
+        "argon2-cffi",
+        "attrs",
+        "defusedxml",
+        "devpi-common",
+        "httpx",
+        "itsdangerous",
+        "lazy",
+        "legacy-cgi",
+        "passlib",
+        "platformdirs",
+        "pluggy",
+        "py",
+        "pyramid",
+        "repoze.lru",
+        "strictyaml",
+        "waitress",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "argon2-cffi",
+      "attrs>=22.2.0",
+      "defusedxml",
+      "devpi_common<5,>3.6.0",
+      "httpx",
+      "itsdangerous>=0.24",
+      "lazy",
+      "legacy-cgi; python_version >= \"3.13\"",
+      "passlib[argon2]",
+      "platformdirs",
+      "pluggy<2.0,>=0.6.0",
+      "py>=1.4.23",
+      "pyramid>=2",
+      "repoze.lru>=0.6",
+      "strictyaml",
+      "waitress>=1.0.1",
+      "ruamel.yaml"
+    ]
+  },
+  "devpi_server-6.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5cdee2123dc2f9ece26b99a42a7968dcb8c5af6a082618fb6c53a7ef3595020b",
+    "dependencies": {
+      "required": [
+        "py",
+        "httpx",
+        "argon2-cffi",
+        "attrs",
+        "defusedxml",
+        "devpi-common",
+        "itsdangerous",
+        "platformdirs",
+        "pyramid",
+        "waitress",
+        "repoze.lru",
+        "passlib",
+        "pluggy",
+        "ruamel.yaml",
+        "strictyaml",
+        "lazy",
+        "legacy-cgi"
+      ]
+    },
+    "original_requirements": [
+      "py >=1.4.23",
+      "httpx",
+      "argon2-cffi",
+      "attrs >=22.2.0",
+      "defusedxml",
+      "devpi-common <5,>3.6.0",
+      "itsdangerous >=0.24",
+      "platformdirs",
+      "pyramid >=2",
+      "waitress >=1.0.1",
+      "repoze.lru >=0.6",
+      "passlib[argon2]",
+      "pluggy <2.0,>=0.6.0",
+      "ruamel.yaml",
+      "strictyaml",
+      "lazy",
+      "legacy-cgi ; python_version >= \"3.13\""
+    ]
+  },
+  "devpi_server-6.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "000256b9af7e79e7926b92c011d76f64673059f58a40b37a95129261961d3ae1",
+    "dependencies": {
+      "required": [
+        "py",
+        "httpx",
+        "argon2-cffi",
+        "attrs",
+        "defusedxml",
+        "devpi-common",
+        "itsdangerous",
+        "platformdirs",
+        "pyramid",
+        "waitress",
+        "repoze.lru",
+        "passlib",
+        "pluggy",
+        "ruamel.yaml",
+        "strictyaml",
+        "lazy",
+        "legacy-cgi"
+      ]
+    },
+    "original_requirements": [
+      "py >=1.4.23",
+      "httpx",
+      "argon2-cffi",
+      "attrs >=22.2.0",
+      "defusedxml",
+      "devpi-common <5,>3.6.0",
+      "itsdangerous >=0.24",
+      "platformdirs",
+      "pyramid >=2",
+      "waitress >=1.0.1",
+      "repoze.lru >=0.6",
+      "passlib[argon2]",
+      "pluggy <2.0,>=0.6.0",
+      "ruamel.yaml",
+      "strictyaml",
+      "lazy",
+      "legacy-cgi ; python_version >= \"3.13\""
+    ]
+  },
+  "devpi_server-6.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb06bed9b4a40b950683df501e72444f4f4e8d8345e390482e7781017bfa79ff",
+    "dependencies": {
+      "required": [
+        "py",
+        "httpx",
+        "argon2-cffi",
+        "attrs",
+        "defusedxml",
+        "devpi-common",
+        "itsdangerous",
+        "platformdirs",
+        "pyramid",
+        "waitress",
+        "repoze.lru",
+        "passlib",
+        "pluggy",
+        "ruamel.yaml",
+        "strictyaml",
+        "lazy",
+        "legacy-cgi"
+      ]
+    },
+    "original_requirements": [
+      "py >=1.4.23",
+      "httpx",
+      "argon2-cffi",
+      "attrs >=22.2.0",
+      "defusedxml",
+      "devpi-common <5,>3.6.0",
+      "itsdangerous >=0.24",
+      "platformdirs",
+      "pyramid >=2",
+      "waitress >=1.0.1",
+      "repoze.lru >=0.6",
+      "passlib[argon2]",
+      "pluggy <2.0,>=0.6.0",
+      "ruamel.yaml",
+      "strictyaml",
+      "lazy",
+      "legacy-cgi ; python_version >= \"3.13\""
+    ]
+  }
+}

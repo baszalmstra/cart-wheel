@@ -1,0 +1,75 @@
+{
+  "commonmark-0.9.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da2f38c92590f83de410ba1a3cbceafbc74fee9def35f9251ba9a971d6d66fd9",
+    "dependencies": {
+      "required": [
+        "future"
+      ]
+    },
+    "original_requirements": [
+      "future (>=0.14.0) ; python_version < \"3\"",
+      "flake8 (==3.7.8) ; extra == 'test'",
+      "hypothesis (==3.55.3) ; extra == 'test'"
+    ]
+  },
+  "commonmark-0.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "14c3df31e8c9c463377e287b2a1eefaa6019ab97b22dad36e2f32be59d61d68d",
+    "dependencies": {
+      "required": [
+        "future"
+      ]
+    },
+    "original_requirements": [
+      "future",
+      "flake8 (==3.5.0) ; extra == 'test'",
+      "hypothesis (==3.55.3) ; extra == 'test'"
+    ]
+  },
+  "commonmark-0.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f6dda7876b2bb88dd784440166f4bc8e56cb2b2551264051123bacb0b6c1d8a",
+    "dependencies": {
+      "required": [
+        "future"
+      ]
+    },
+    "original_requirements": [
+      "future",
+      "flake8 (==3.5.0); extra == 'test'",
+      "hypothesis (==3.55.3); extra == 'test'",
+      "hypothesislegacysupport; extra == 'test'"
+    ]
+  },
+  "commonmark-0.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ef7643594cf9e30de151e82bca2e5b6aeef76644fa4e45ca5609932a3d33774",
+    "dependencies": {
+      "required": [
+        "future"
+      ]
+    },
+    "original_requirements": [
+      "future",
+      "flake8 (==3.5.0); extra == 'test'",
+      "hypothesis (==3.55.3); extra == 'test'",
+      "hypothesislegacysupport; extra == 'test'"
+    ]
+  },
+  "CommonMark-0.7.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "12deadd8ef46155a0af4213a91a95833ae6c29e1ff36cc3f6121668f345af5ad",
+    "dependencies": {
+      "required": [
+        "future"
+      ]
+    },
+    "original_requirements": [
+      "future",
+      "flake8 (==3.5.0); extra == 'test'",
+      "hypothesis (==3.47.0); extra == 'test'",
+      "hypothesislegacysupport; extra == 'test'"
+    ]
+  }
+}

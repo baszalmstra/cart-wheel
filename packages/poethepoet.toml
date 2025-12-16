@@ -1,0 +1,12 @@
+# Package configuration for poethepoet
+conda_forge = "poethepoet"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "poethepoet-0.38.0-py3-none-any.whl" },
+  { filename = "poethepoet-0.37.0-py3-none-any.whl" },
+  { filename = "poethepoet-0.36.0-py3-none-any.whl" },
+  { filename = "poethepoet-0.35.1-py3-none-any.whl" },
+  { filename = "poethepoet-0.35.0-py3-none-any.whl" },
+]

@@ -1,0 +1,102 @@
+{
+  "web_compile-0.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "92c0da44a618d5b23dbec583be6c267b606c26ef98a499c558c2684fd11479f8",
+    "dependencies": {
+      "required": [
+        "click",
+        "jinja2",
+        "libsass",
+        "gitpython",
+        "pyyaml",
+        "rjsmin",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "click (<10.0.0,>=7.1.2)",
+      "jinja2 (~=3.0.3)",
+      "libsass (~=0.20.1)",
+      "gitpython (~=3.1.8)",
+      "pyyaml",
+      "rjsmin (~=1.1.0)",
+      "toml",
+      "pytest (~=6.0.1) ; extra == 'testing'"
+    ]
+  },
+  "web_compile-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6169329be44ec4ac4385a5ea297cef03414f1e699c490eb773e5667629d67bb7",
+    "dependencies": {
+      "required": [
+        "click",
+        "jinja2",
+        "libsass",
+        "gitpython",
+        "pyyaml",
+        "rjsmin",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "click (~=7.1.2)",
+      "jinja2 (~=2.11.2)",
+      "libsass (~=0.20.1)",
+      "gitpython (~=3.1.8)",
+      "pyyaml",
+      "rjsmin (~=1.1.0)",
+      "toml",
+      "pytest (~=6.0.1) ; extra == 'testing'"
+    ]
+  },
+  "web_compile-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ad884503c83341b883b494a3999100cd12db21a65a9011d8828bc73e4f90cf5",
+    "dependencies": {
+      "required": [
+        "click",
+        "jinja2",
+        "libsass",
+        "gitpython",
+        "pyyaml",
+        "rjsmin",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "click (~=7.1.2)",
+      "jinja2 (~=2.11.2)",
+      "libsass (~=0.20.1)",
+      "gitpython (~=3.1.8)",
+      "pyyaml",
+      "rjsmin (~=1.1.0)",
+      "toml",
+      "pytest (~=6.0.1) ; extra == 'testing'"
+    ]
+  },
+  "web_compile-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "48f23b745d6b1d9522d52bf938269840e6bd1f8809a4cc75ac44be6829c60df0",
+    "dependencies": {
+      "required": [
+        "click",
+        "jinja2",
+        "libsass",
+        "gitpython",
+        "pyyaml",
+        "rjsmin",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "click (~=7.1.2)",
+      "jinja2 (~=2.11.2)",
+      "libsass (~=0.20.1)",
+      "gitpython (~=3.1.8)",
+      "pyyaml",
+      "rjsmin (~=1.1.0)",
+      "toml",
+      "pytest (~=6.0.1) ; extra == 'testing'"
+    ]
+  }
+}

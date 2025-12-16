@@ -1,0 +1,12 @@
+# Package configuration for vaex-server
+conda_forge = "vaex-server"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "vaex_server-0.9.0-py3-none-any.whl" },
+  { filename = "vaex_server-0.8.1-py3-none-any.whl" },
+  { filename = "vaex_server-0.8.0-py3-none-any.whl" },
+  { filename = "vaex_server-0.7.0-py3-none-any.whl" },
+  { filename = "vaex_server-0.6.1-py3-none-any.whl" },
+]

@@ -1,0 +1,112 @@
+{
+  "dp_accounting-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7162bf429d2d5ef2feb01836494b43f18bd657d70aea96da4347f0b4a3fb852",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "attrs",
+        "dm-tree",
+        "mpmath",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "absl-py~=1.0",
+      "attrs<24,>=22",
+      "dm-tree~=0.1.8",
+      "mpmath~=1.2",
+      "numpy<3.0,>=1.21",
+      "scipy~=1.7"
+    ]
+  },
+  "dp_accounting-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eb4481773703f7407e0ece9a2c5b973f2b4b6fda9d43600ec314a41e76853e3a",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "attrs",
+        "dm-tree",
+        "mpmath",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "absl-py~=1.0",
+      "attrs<24,>=22",
+      "dm-tree~=0.1.8",
+      "mpmath~=1.2",
+      "numpy<3.0,>=1.21",
+      "scipy~=1.7"
+    ]
+  },
+  "dp_accounting-0.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8421eb08655ea7ae9b3fb7e18b8da20a974873a869399439cf842a050b7e5567",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "attrs",
+        "dm-tree",
+        "mpmath",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "absl-py ~=1.0",
+      "attrs >=22",
+      "dm-tree ~=0.1.8",
+      "mpmath ~=1.2",
+      "numpy ~=1.21",
+      "scipy ~=1.7"
+    ]
+  },
+  "dp_accounting-0.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef231a18729f8466fe62d6bfae2a243c5ed23e57df8bd84635e041e33f0d74b9",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "attrs",
+        "dm-tree",
+        "mpmath",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "absl-py ~=1.0",
+      "attrs >=22",
+      "dm-tree ~=0.1.8",
+      "mpmath ~=1.2",
+      "numpy ~=1.21",
+      "scipy ~=1.7"
+    ]
+  },
+  "dp_accounting-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a6a08da1cf608218f8e37676b058e8645f5eaf657f66c8307c2079ef867e5d1",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "attrs",
+        "dm-tree",
+        "mpmath",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "absl-py (~=1.0)",
+      "attrs (~=21.4)",
+      "dm-tree (~=0.1.8)",
+      "mpmath (~=1.2)",
+      "numpy (~=1.21)",
+      "scipy (~=1.7)"
+    ]
+  }
+}

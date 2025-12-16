@@ -1,0 +1,136 @@
+{
+  "jaraco.tidelift-1.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "75c24c63365f96f7b69e78ab6eb38fe7f93c31a90401ffe25e10d8b53651aa68",
+    "dependencies": {
+      "required": [
+        "autocommand",
+        "requests-toolbelt",
+        "keyring",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "autocommand",
+      "requests-toolbelt",
+      "keyring",
+      "importlib-resources (>=1.6)",
+      "sphinx (>=3.5) ; extra == 'docs'",
+      "jaraco.packaging (>=9) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "flake8 (<5) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=1.3) ; extra == 'testing'",
+      "types-docutils ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-flake8 ; (python_version < \"3.12\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.tidelift-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eba636e7bd8ca263108de5bdd3f5884e2117b8e565f93bf79c98e8824fed1620",
+    "dependencies": {
+      "required": [
+        "autocommand",
+        "requests-toolbelt",
+        "keyring",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "autocommand",
+      "requests-toolbelt",
+      "keyring",
+      "importlib-resources (>=1.6)",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=9) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=1.0.1) ; extra == 'testing'",
+      "types-docutils ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.tidelift-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1479482981b461fad0f01624a0fa126f4c0b7514d117da9021662efdfaf2b8eb",
+    "dependencies": {
+      "required": [
+        "autocommand",
+        "requests-toolbelt",
+        "keyring",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "autocommand",
+      "requests-toolbelt",
+      "keyring",
+      "importlib-resources (>=1.6)",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=8.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (>=4.6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=1.0.1) ; extra == 'testing'",
+      "types-docutils ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.tidelift-1.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e8659f07c91928f66fc1ab81801eab998608d2faf51af9eed7886db97bbe1ffa",
+    "dependencies": {
+      "required": [
+        "autocommand",
+        "requests-toolbelt",
+        "keyring"
+      ]
+    },
+    "original_requirements": [
+      "autocommand",
+      "requests-toolbelt",
+      "keyring",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-black-multipy ; extra == 'testing'"
+    ]
+  },
+  "jaraco.tidelift-1.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "292c4544e8374ff34be887e6ff72e24a22d1170367c9771f424544222906d5d1",
+    "dependencies": {
+      "required": [
+        "autocommand",
+        "requests-toolbelt"
+      ]
+    },
+    "original_requirements": [
+      "autocommand",
+      "requests-toolbelt",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-black-multipy ; extra == 'testing'"
+    ]
+  }
+}

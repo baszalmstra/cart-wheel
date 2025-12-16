@@ -1,0 +1,16 @@
+{
+  "codecov-2.1.13-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c2ca5e51bba9ebb43644c43d0690148a55086f7f5e6fd36170858fa4206744d5",
+    "dependencies": {
+      "required": [
+        "requests",
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.7.9)",
+      "coverage"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for mypy-boto3-dynamodb
+conda_forge = "mypy_boto3_dynamodb"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_dynamodb-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_dynamodb-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_dynamodb-1.40.56-py3-none-any.whl" },
+  { filename = "mypy_boto3_dynamodb-1.40.44-py3-none-any.whl" },
+  { filename = "mypy_boto3_dynamodb-1.40.20-py3-none-any.whl" },
+]

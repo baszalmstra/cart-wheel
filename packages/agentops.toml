@@ -1,0 +1,11 @@
+# Package configuration for agentops
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "agentops-0.4.21-py3-none-any.whl" },
+  { filename = "agentops-0.4.20-py3-none-any.whl" },
+  { filename = "agentops-0.4.19-py3-none-any.whl" },
+  { filename = "agentops-0.4.18-py3-none-any.whl" },
+  { filename = "agentops-0.4.17-py3-none-any.whl" },
+]

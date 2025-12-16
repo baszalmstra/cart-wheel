@@ -1,0 +1,12 @@
+# Package configuration for mistletoe
+conda_forge = "mistletoe"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mistletoe-1.5.1-py3-none-any.whl" },
+  { filename = "mistletoe-1.5.0-py3-none-any.whl" },
+  { filename = "mistletoe-1.4.0-py3-none-any.whl" },
+  { filename = "mistletoe-1.3.0-py3-none-any.whl" },
+  { filename = "mistletoe-1.2.1-py3-none-any.whl" },
+]

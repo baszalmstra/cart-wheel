@@ -1,0 +1,8 @@
+# Package configuration for aws-requests-auth
+conda_forge = "aws-requests-auth"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_requests_auth-0.4.3-py2.py3-none-any.whl" },
+]

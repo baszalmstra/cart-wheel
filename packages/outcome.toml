@@ -1,0 +1,12 @@
+# Package configuration for outcome
+conda_forge = "outcome"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "outcome-1.3.0.post0-py2.py3-none-any.whl" },
+  { filename = "outcome-1.3.0-py2.py3-none-any.whl" },
+  { filename = "outcome-1.2.0-py2.py3-none-any.whl" },
+  { filename = "outcome-1.1.0-py2.py3-none-any.whl" },
+  { filename = "outcome-1.0.1-py2.py3-none-any.whl" },
+]

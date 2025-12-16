@@ -1,0 +1,28 @@
+{
+  "python3_openid-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6626f771e0417486701e0b4daff762e7212e820ca5b29fcc0d05f6f8736dfa6b",
+    "dependencies": {
+      "required": [
+        "defusedxml"
+      ]
+    },
+    "original_requirements": [
+      "defusedxml",
+      "mysql-connector-python ; extra == 'mysql'",
+      "psycopg2 ; extra == 'postgresql'"
+    ]
+  },
+  "python3_openid-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0086da6b6ef3161cfe50fb1ee5cceaf2cda1700019fda03c2c5c440ca6abe4fa",
+    "dependencies": {
+      "required": [
+        "defusedxml"
+      ]
+    },
+    "original_requirements": [
+      "defusedxml"
+    ]
+  }
+}

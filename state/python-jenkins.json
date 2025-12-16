@@ -1,0 +1,94 @@
+{
+  "python_jenkins-1.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e1766b253e3b2f28f52abfd0de45ffeaa1191f98520cc8d74d2c317786e59d0",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "multi-key-dict",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "pbr >=0.8.2",
+      "multi-key-dict",
+      "requests"
+    ]
+  },
+  "python_jenkins-1.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "585c9a25042892ce224dcddb1d4b9ff29755ca63da03ac2ce96537d373c0233e",
+    "dependencies": {
+      "required": [
+        "multi-key-dict",
+        "pbr",
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "multi-key-dict",
+      "pbr (>=0.8.2)",
+      "requests",
+      "six (>=1.3.0)"
+    ]
+  },
+  "python_jenkins-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10bc846108ec546922178a8029735147c9bffbd85f737db4e254e664ed4764a9",
+    "dependencies": {
+      "required": [
+        "multi-key-dict",
+        "pbr",
+        "requests",
+        "setuptools",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "multi-key-dict",
+      "pbr (>=0.8.2)",
+      "requests",
+      "setuptools (<66)",
+      "six (>=1.3.0)"
+    ]
+  },
+  "python_jenkins-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f40f54505da1be96160ef571363903c8d2d1eae8fa706dbe701211833f440b80",
+    "dependencies": {
+      "required": [
+        "multi-key-dict",
+        "pbr",
+        "requests",
+        "setuptools",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "multi-key-dict",
+      "pbr (>=0.8.2)",
+      "requests",
+      "setuptools (<66)",
+      "six (>=1.3.0)"
+    ]
+  },
+  "python_jenkins-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c49c6e8770966906c0be1fe21d5e2ba08e08c93f315632929b20b3c2f2c3004c",
+    "dependencies": {
+      "required": [
+        "six",
+        "pbr",
+        "multi-key-dict",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.3.0)",
+      "pbr (>=0.8.2)",
+      "multi-key-dict",
+      "requests"
+    ]
+  }
+}

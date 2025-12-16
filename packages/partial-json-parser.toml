@@ -1,0 +1,12 @@
+# Package configuration for partial-json-parser
+conda_forge = "partial-json-parser"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "partial_json_parser-0.2.1.1.post7-py3-none-any.whl" },
+  { filename = "partial_json_parser-0.2.1.1.post6-py3-none-any.whl" },
+  { filename = "partial_json_parser-0.2.1.1.post5-py3-none-any.whl" },
+  { filename = "partial_json_parser-0.2.1.1.post4-py3-none-any.whl" },
+  { filename = "partial_json_parser-0.2.1.1.post3-py3-none-any.whl" },
+]

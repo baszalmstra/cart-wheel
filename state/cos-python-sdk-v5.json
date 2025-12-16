@@ -1,0 +1,104 @@
+{
+  "cos_python_sdk_v5-1.9.39-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e36ec257abd3de7a718996d02e2a4465f18dd47c0aa8237096a5b027048aee8",
+    "dependencies": {
+      "required": [
+        "requests",
+        "xmltodict",
+        "six",
+        "crcmod",
+        "pycryptodome"
+      ]
+    },
+    "original_requirements": [
+      "requests>=2.8",
+      "xmltodict",
+      "six",
+      "crcmod",
+      "pycryptodome"
+    ]
+  },
+  "cos_python_sdk_v5-1.9.38-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d3dd3be2bd992b2e9c2dcd018e2596aa38eab022dbc86b4a5d14c8fc88370e6",
+    "dependencies": {
+      "required": [
+        "requests",
+        "xmltodict",
+        "six",
+        "crcmod",
+        "pycryptodome"
+      ]
+    },
+    "original_requirements": [
+      "requests>=2.8",
+      "xmltodict",
+      "six",
+      "crcmod",
+      "pycryptodome"
+    ]
+  },
+  "cos_python_sdk_v5-1.9.19-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "150d916cb5f0d7f3b7ab9b0eccb21ea9a251b971b1fbc671131a8b0604312bd4",
+    "dependencies": {
+      "required": [
+        "requests",
+        "dicttoxml",
+        "six",
+        "crcmod",
+        "pycryptodome"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.8)",
+      "dicttoxml",
+      "six",
+      "crcmod",
+      "pycryptodome"
+    ]
+  },
+  "cos_python_sdk_v5-1.9.18-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1038a9df5ac9f5edc8d2b9dbecbf7c6a7aa2d6aa0a62f9581f33de9b55272179",
+    "dependencies": {
+      "required": [
+        "requests",
+        "dicttoxml",
+        "six",
+        "crcmod",
+        "pycryptodome",
+        "certifi"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.8)",
+      "dicttoxml",
+      "six",
+      "crcmod",
+      "pycryptodome",
+      "certifi (<=2021.10.8) ; python_version < \"3.0\""
+    ]
+  },
+  "cos_python_sdk_v5-1.9.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0a445c4107cc42fd6d1e9bb09221c23d7fc27a2e6cc41383ccdd06bcec5b047a",
+    "dependencies": {
+      "required": [
+        "requests",
+        "dicttoxml",
+        "six",
+        "crcmod",
+        "pycryptodome"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.8)",
+      "dicttoxml",
+      "six",
+      "crcmod",
+      "pycryptodome"
+    ]
+  }
+}

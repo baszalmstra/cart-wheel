@@ -1,0 +1,44 @@
+{
+  "arabic_reshaper-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f71d5034bb694204a239a6f1ebcf323ac3c5b059de02259235e2016a1a5e2dc",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "fonttools (>=4.0) ; extra == 'with-fonttools'"
+    ]
+  },
+  "arabic_reshaper-2.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a06297fa436f56bdade4f7751710dbea5645b404debdca5017999e5233daf34a",
+    "dependencies": {
+      "required": [
+        "future",
+        "configparser"
+      ]
+    },
+    "original_requirements": [
+      "future",
+      "configparser ; python_version < \"3\"",
+      "fonttools (<4.0,>=3.0) ; (python_version < \"3\") and extra == 'with-fonttools'",
+      "fonttools (>=4.0) ; (python_version >= \"3\") and extra == 'with-fonttools'"
+    ]
+  },
+  "arabic_reshaper-2.0.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65e154a75cf55e5f82c80e133fb35701be3a2620fe5a5e92567dfe8201517580",
+    "dependencies": {
+      "required": [
+        "future",
+        "setuptools",
+        "configparser"
+      ]
+    },
+    "original_requirements": [
+      "future",
+      "setuptools",
+      "configparser ; python_version < \"3\""
+    ]
+  }
+}

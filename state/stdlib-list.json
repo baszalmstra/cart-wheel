@@ -1,0 +1,99 @@
+{
+  "stdlib_list-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df2d11e97f53812a1756fb5510393a11e3b389ebd9239dc831c7f349957f62f2",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "build ; extra == \"dev\"",
+      "stdlib-list[test, lint, doc] ; extra == \"dev\"",
+      "sphinx ; extra == \"doc\"",
+      "furo ; extra == \"doc\"",
+      "mypy ; extra == \"lint\"",
+      "ruff ; extra == \"lint\"",
+      "sphobjinv ; extra == \"support\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "coverage[toml] ; extra == \"test\""
+    ]
+  },
+  "stdlib_list-0.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9029ea5e3dfde8cd4294cfd4d1797be56a67fc4693c606181730148c3fd1da29",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "build ; extra == \"dev\"",
+      "stdlib-list[test, lint, doc] ; extra == \"dev\"",
+      "sphinx ; extra == \"doc\"",
+      "furo ; extra == \"doc\"",
+      "mypy ; extra == \"lint\"",
+      "ruff ; extra == \"lint\"",
+      "sphobjinv ; extra == \"support\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "coverage[toml] ; extra == \"test\""
+    ]
+  },
+  "stdlib_list-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8bf8decfffaaf273d4cfeb5bd852b910a00dec1037dcf163576803622bccf597",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "build ; extra == \"dev\"",
+      "stdlib-list[test,lint,doc] ; extra == \"dev\"",
+      "sphinx ; extra == \"doc\"",
+      "furo ; extra == \"doc\"",
+      "mypy ; extra == \"lint\"",
+      "ruff ; extra == \"lint\"",
+      "sphobjinv ; extra == \"support\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "coverage[toml] ; extra == \"test\""
+    ]
+  },
+  "stdlib_list-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3a911bc441d03e0332dd1a9e7d0870ba3bb0a542a74d7524f54fb431256e214",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "build ; extra == \"dev\"",
+      "stdlib-list[test,lint,doc] ; extra == \"dev\"",
+      "sphinx ; extra == \"doc\"",
+      "furo ; extra == \"doc\"",
+      "black ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "ruff ; extra == \"lint\"",
+      "sphobjinv ; extra == \"support\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "coverage[toml] ; extra == \"test\""
+    ]
+  },
+  "stdlib_list-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f79957d59e41930d44afcd81e465f740b9a7a9828707a40e24ab1092b12bd423",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "build ; extra == \"dev\"",
+      "stdlib-list[test,lint,doc] ; extra == \"dev\"",
+      "sphinx ; extra == \"doc\"",
+      "furo ; extra == \"doc\"",
+      "black ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "ruff ; extra == \"lint\"",
+      "sphobjinv ; extra == \"support\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "coverage[toml] ; extra == \"test\""
+    ]
+  }
+}

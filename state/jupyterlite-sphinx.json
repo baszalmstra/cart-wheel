@@ -1,0 +1,142 @@
+{
+  "jupyterlite_sphinx-0.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8d1acf3982a8bc4526e189efbb8b0da8bec7f6fca99b5fbe9ea5f7f113e66b22",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "jupyter-server",
+        "jupyterlab-server",
+        "jupyterlite-core",
+        "jupytext",
+        "nbformat",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "jupyter-server",
+      "jupyterlab-server",
+      "jupyterlite-core<0.8,>=0.2",
+      "jupytext",
+      "nbformat",
+      "sphinx>=4",
+      "hatch; extra == 'dev'",
+      "jupyterlite-xeus<4,>=0.1.8; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'"
+    ]
+  },
+  "jupyterlite_sphinx-0.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "196badd828151725f5befdbcf65748eca59a3c0a8b082fa6eea49d2010dd97ee",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "jupyter-server",
+        "jupyterlab-server",
+        "jupyterlite-core",
+        "jupytext",
+        "nbformat",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "jupyter-server",
+      "jupyterlab-server",
+      "jupyterlite-core<0.7,>=0.2",
+      "jupytext",
+      "nbformat",
+      "sphinx>=4",
+      "hatch; extra == 'dev'",
+      "jupyterlite-xeus<4,>=0.1.8; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'"
+    ]
+  },
+  "jupyterlite_sphinx-0.20.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6607a2df506fdca7bc2de374f26759bb26baf007847511f63f2c876441730503",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "jupyter-server",
+        "jupyterlab-server",
+        "jupyterlite-core",
+        "jupytext",
+        "nbformat",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "jupyter-server",
+      "jupyterlab-server",
+      "jupyterlite-core<0.7,>=0.2",
+      "jupytext",
+      "nbformat",
+      "sphinx>=4",
+      "hatch; extra == 'dev'",
+      "jupyterlite-xeus<4,>=0.1.8; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'"
+    ]
+  },
+  "jupyterlite_sphinx-0.20.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f477879e9793813b5ed554f08d87b2d949b68595ec5b7570332aa2d0fe0a8c1",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "jupyter-server",
+        "jupyterlab-server",
+        "jupyterlite-core",
+        "jupytext",
+        "nbformat",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "jupyter-server",
+      "jupyterlab-server",
+      "jupyterlite-core<0.6,>=0.2",
+      "jupytext",
+      "nbformat",
+      "sphinx>=4",
+      "hatch; extra == 'dev'",
+      "jupyterlite-xeus<4,>=0.1.8; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'"
+    ]
+  },
+  "jupyterlite_sphinx-0.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de2cb966f389d70cc269f501af24f0cbb1f47d521a89ee79ac83f0ad302214fc",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "jupyter-server",
+        "jupyterlab-server",
+        "jupyterlite-core",
+        "jupytext",
+        "nbformat",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "jupyter-server",
+      "jupyterlab-server",
+      "jupyterlite-core<0.6,>=0.2",
+      "jupytext",
+      "nbformat",
+      "sphinx>=4",
+      "hatch; extra == 'dev'",
+      "jupyterlite-xeus<4,>=0.1.8; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'"
+    ]
+  }
+}

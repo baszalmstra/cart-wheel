@@ -1,0 +1,12 @@
+# Package configuration for anywidget
+conda_forge = "anywidget"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "anywidget-0.9.21-py3-none-any.whl" },
+  { filename = "anywidget-0.9.20-py3-none-any.whl" },
+  { filename = "anywidget-0.9.19-py3-none-any.whl" },
+  { filename = "anywidget-0.9.18-py3-none-any.whl" },
+  { filename = "anywidget-0.9.17-py3-none-any.whl" },
+]

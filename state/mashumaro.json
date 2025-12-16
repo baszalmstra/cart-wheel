@@ -1,0 +1,87 @@
+{
+  "mashumaro-3.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3964e2c804f62de9e4c58fb985de71dcd716f9507cc18374b1bd5c4f1a1b879b",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions>=4.14.0",
+      "orjson; extra == \"orjson\"",
+      "msgpack>=0.5.6; extra == \"msgpack\"",
+      "pyyaml>=3.13; extra == \"yaml\"",
+      "tomli-w>=1.0; extra == \"toml\"",
+      "tomli>=1.1.0; python_version < \"3.11\" and extra == \"toml\""
+    ]
+  },
+  "mashumaro-3.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d72782cdad5e164748ca883023bc5a214a80835cdca75826bf0bcbff827e0bd3",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.1.0",
+      "msgpack>=0.5.6; extra == \"msgpack\"",
+      "orjson; extra == \"orjson\"",
+      "tomli-w>=1.0; extra == \"toml\"",
+      "tomli>=1.1.0; python_version < \"3.11\" and extra == \"toml\"",
+      "pyyaml>=3.13; extra == \"yaml\""
+    ]
+  },
+  "mashumaro-3.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cdd45ef5a4d09860846a3ee37a4c2f5f4bc70eb158caa55648c4c99451ca6c4c",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.1.0",
+      "msgpack>=0.5.6; extra == \"msgpack\"",
+      "orjson; extra == \"orjson\"",
+      "tomli-w>=1.0; extra == \"toml\"",
+      "tomli>=1.1.0; python_version < \"3.11\" and extra == \"toml\"",
+      "pyyaml>=3.13; extra == \"yaml\""
+    ]
+  },
+  "mashumaro-3.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c12a649599a8f7b1a0b35d18f12e678423c3066189f7bc7bd8dd431c5c8132c3",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.1.0",
+      "msgpack>=0.5.6; extra == \"msgpack\"",
+      "orjson; extra == \"orjson\"",
+      "tomli-w>=1.0; extra == \"toml\"",
+      "tomli>=1.1.0; python_version < \"3.11\" and extra == \"toml\"",
+      "pyyaml>=3.13; extra == \"yaml\""
+    ]
+  },
+  "mashumaro-3.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad0a162b8f4ea232dadd2891d77ff20165b855b9d84610f36ac84462d4576aa0",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >=4.1.0",
+      "msgpack >=0.5.6 ; extra == 'msgpack'",
+      "orjson ; extra == 'orjson'",
+      "tomli-w >=1.0 ; extra == 'toml'",
+      "tomli >=1.1.0 ; (python_version < \"3.11\") and extra == 'toml'",
+      "pyyaml >=3.13 ; extra == 'yaml'"
+    ]
+  }
+}

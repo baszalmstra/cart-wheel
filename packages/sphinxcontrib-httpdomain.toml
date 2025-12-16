@@ -1,0 +1,12 @@
+# Package configuration for sphinxcontrib-httpdomain
+conda_forge = "sphinxcontrib-httpdomain"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_httpdomain-1.8.1-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_httpdomain-1.8.0-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_httpdomain-1.7.0-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_httpdomain-1.6.1-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_httpdomain-1.6.0-py2.py3-none-any.whl" },
+]

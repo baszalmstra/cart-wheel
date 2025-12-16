@@ -1,0 +1,11 @@
+# Package configuration for sciform
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sciform-0.39.1-py3-none-any.whl" },
+  { filename = "sciform-0.39.0-py3-none-any.whl" },
+  { filename = "sciform-0.38.2-py3-none-any.whl" },
+  { filename = "sciform-0.38.1-py3-none-any.whl" },
+  { filename = "sciform-0.38.0-py3-none-any.whl" },
+]

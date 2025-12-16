@@ -1,0 +1,92 @@
+{
+  "pytest_aiohttp-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f39a11693a0dce08dd6c542d241e199dd8047a6e6596b2bcfa60d373f143456d",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "aiohttp",
+        "pytest-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.1.0",
+      "aiohttp>=3.11.0b0",
+      "pytest-asyncio>=0.17.2",
+      "coverage==6.2; extra == \"testing\"",
+      "mypy==1.12.1; extra == \"testing\""
+    ]
+  },
+  "pytest_aiohttp-1.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63a5360fd2f34dda4ab8e6baee4c5f5be4cd186a403cabd498fced82ac9c561e",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "aiohttp",
+        "pytest-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=6.1.0",
+      "aiohttp >=3.8.1",
+      "pytest-asyncio >=0.17.2",
+      "coverage ==6.2 ; extra == 'testing'",
+      "mypy ==0.931 ; extra == 'testing'"
+    ]
+  },
+  "pytest_aiohttp-1.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d2dc3a304c2be1fd496c0c2fb6b31ab60cd9fc33984f761f951f8ea1eb4ca95",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "aiohttp",
+        "pytest-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=6.1.0)",
+      "aiohttp (>=3.8.1)",
+      "pytest-asyncio (>=0.17.2)",
+      "coverage (==6.2) ; extra == 'testing'",
+      "mypy (==0.931) ; extra == 'testing'"
+    ]
+  },
+  "pytest_aiohttp-1.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51d8e0ac8799ebedb76ed7f6cf28cd9159cd2b5757ebdc8195a5766eb7a2afe9",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "aiohttp",
+        "pytest-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=6.1.0)",
+      "aiohttp (>=3.8.1)",
+      "pytest-asyncio (>=0.17.2)",
+      "coverage (==6.2) ; extra == 'testing'",
+      "mypy (==0.931) ; extra == 'testing'"
+    ]
+  },
+  "pytest_aiohttp-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f775b523c3ad6da0e267fdfeb51f004b46f08c14ac809d25f1a15559969fec76",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "aiohttp",
+        "pytest-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=6.1.0)",
+      "aiohttp (>=3.8.1)",
+      "pytest-asyncio (>=0.17.2)",
+      "coverage (==6.2) ; extra == 'testing'",
+      "mypy (==0.931) ; extra == 'testing'"
+    ]
+  }
+}

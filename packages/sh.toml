@@ -1,0 +1,12 @@
+# Package configuration for sh
+conda_forge = "sh"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sh-2.2.2-py3-none-any.whl" },
+  { filename = "sh-2.2.1-py3-none-any.whl" },
+  { filename = "sh-2.2.0-py3-none-any.whl" },
+  { filename = "sh-2.1.0-py3-none-any.whl" },
+  { filename = "sh-2.0.7-py3-none-any.whl" },
+]

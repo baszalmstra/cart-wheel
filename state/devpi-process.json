@@ -1,0 +1,100 @@
+{
+  "devpi_process-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "88a2e6118da84b95406e5330ffe6ef63f72bba0b1af745c6486e340d26a88c39",
+    "dependencies": {
+      "required": [
+        "devpi-client",
+        "devpi-server",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "devpi-client>=7.2",
+      "devpi-server>=6.17",
+      "typing-extensions>=4.15; python_version < '3.11'",
+      "covdefaults>=2.3; extra == 'testing'",
+      "httpx>=0.28.1; extra == 'testing'",
+      "pytest-cov>=7; extra == 'testing'",
+      "pytest>=8.4.2; extra == 'testing'"
+    ]
+  },
+  "devpi_process-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8cd6f6baced7759092b830f9a591685b87c42ef900d738aad9ec3130c24f2ccb",
+    "dependencies": {
+      "required": [
+        "devpi-client",
+        "devpi-server",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "devpi-client>=7.1",
+      "devpi-server>=6.12.1",
+      "typing-extensions>=4.12.2; python_version < '3.11'",
+      "covdefaults>=2.3; extra == 'testing'",
+      "httpx>=0.27.2; extra == 'testing'",
+      "pytest-cov>=5; extra == 'testing'",
+      "pytest>=8.3.2; extra == 'testing'"
+    ]
+  },
+  "devpi_process-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d330ad25f6031af953f8d3183e569e3348d92ab78906ee4c05168ea20b431a4c",
+    "dependencies": {
+      "required": [
+        "devpi-client",
+        "devpi-server",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "devpi-client>=7.1",
+      "devpi-server>=6.12.1",
+      "typing-extensions>=4.12.2; python_version < '3.11'",
+      "covdefaults>=2.3; extra == 'test'",
+      "httpx>=0.27.2; extra == 'test'",
+      "pytest-cov>=5; extra == 'test'",
+      "pytest>=8.3.2; extra == 'test'"
+    ]
+  },
+  "devpi_process-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0eebe0abb89600fbd57e0016dc526c52e5afe09c9b1c6cc421dbc6351037aee6",
+    "dependencies": {
+      "required": [
+        "devpi-client",
+        "devpi-server",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "devpi-client>=6.0.5",
+      "devpi-server>=6.9.2",
+      "typing-extensions>=4.7.1; python_version < '3.11'",
+      "covdefaults>=2.3; extra == 'test'",
+      "httpx>=0.24.1; extra == 'test'",
+      "pytest-cov>=4.1; extra == 'test'",
+      "pytest>=7.4; extra == 'test'"
+    ]
+  },
+  "devpi_process-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03d00278287dd83963311b385aa6ca41e1eb0581f742ddd97d0b77e963089bdb",
+    "dependencies": {
+      "required": [
+        "devpi-client",
+        "devpi-server"
+      ]
+    },
+    "original_requirements": [
+      "devpi-client>=6.0.4",
+      "devpi-server>=6.8",
+      "covdefaults>=2.3; extra == 'test'",
+      "httpx>=0.24; extra == 'test'",
+      "pytest-cov>=4; extra == 'test'",
+      "pytest>=7.3.1; extra == 'test'"
+    ]
+  }
+}

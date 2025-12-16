@@ -1,0 +1,12 @@
+# Package configuration for librosa
+conda_forge = "librosa"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "librosa-0.11.0-py3-none-any.whl" },
+  { filename = "librosa-0.10.2.post1-py3-none-any.whl" },
+  { filename = "librosa-0.10.2-py3-none-any.whl" },
+  { filename = "librosa-0.10.1-py3-none-any.whl" },
+  { filename = "librosa-0.10.0.post2-py3-none-any.whl" },
+]

@@ -1,0 +1,18 @@
+{
+  "pyobjc_framework_LocalAuthentication-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "307d1dc7f361b52a9929ac961c33cfae2536e1eddeff25e2b3a5b996002dd86e",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-security"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2",
+      "pyobjc-framework-Security>=10.3.2"
+    ]
+  }
+}

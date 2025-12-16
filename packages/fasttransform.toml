@@ -1,0 +1,9 @@
+# Package configuration for fasttransform
+conda_forge = "fasttransform"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fasttransform-0.0.2-py3-none-any.whl" },
+  { filename = "fasttransform-0.0.1-py3-none-any.whl" },
+]

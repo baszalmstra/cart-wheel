@@ -1,0 +1,8 @@
+# Package configuration for grad-cam
+conda_forge = "grad-cam"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "grad_cam-1.0.0-py3-none-any.whl" },
+]

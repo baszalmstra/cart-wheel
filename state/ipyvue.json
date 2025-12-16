@@ -1,0 +1,72 @@
+{
+  "ipyvue-1.11.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6f4680a8b61c190dd56a461b5c595d05d84699dde2f7dd5c43f5db7520c6028",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets>=7.0.0",
+      "pre-commit; extra == \"dev\"",
+      "solara[pytest]; extra == \"test\""
+    ]
+  },
+  "ipyvue-1.11.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e009efa97ec223c4833a6c8ef3a473385d767ff69518ff94f107400517333353",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets>=7.0.0",
+      "pre-commit; extra == \"dev\"",
+      "solara[pytest]; extra == \"test\""
+    ]
+  },
+  "ipyvue-1.11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "220371f40bd870df8c3f374c4b357dbc33ee05e55387132b203c70fb44c3b5a3",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets >=7.0.0",
+      "pre-commit ; extra == 'dev'",
+      "solara[pytest] ; extra == 'test'"
+    ]
+  },
+  "ipyvue-1.11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "609bfc886e51349cf54d0169b14d3bfd208f1c0fc9e8071a74e3ce204a3c43ab",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets >=7.0.0",
+      "pre-commit ; extra == 'dev'",
+      "solara[pytest] ; extra == 'test'"
+    ]
+  },
+  "ipyvue-1.10.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c5926f50a90cd090d58dc5ec10afed57e6726c4ba8a51ab1aa6f9f7fcbe284bc",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets >=7.0.0",
+      "pre-commit ; extra == 'dev'",
+      "solara[pytest] ; extra == 'test'"
+    ]
+  }
+}

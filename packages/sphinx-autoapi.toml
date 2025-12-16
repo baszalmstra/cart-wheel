@@ -1,0 +1,12 @@
+# Package configuration for sphinx-autoapi
+conda_forge = "sphinx-autoapi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_autoapi-3.6.1-py3-none-any.whl" },
+  { filename = "sphinx_autoapi-3.6.0-py3-none-any.whl" },
+  { filename = "sphinx_autoapi-3.5.0-py3-none-any.whl" },
+  { filename = "sphinx_autoapi-3.4.0-py3-none-any.whl" },
+  { filename = "sphinx_autoapi-3.3.3-py3-none-any.whl" },
+]

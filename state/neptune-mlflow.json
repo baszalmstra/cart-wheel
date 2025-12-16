@@ -1,0 +1,40 @@
+{
+  "neptune_mlflow-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db653ceecbb007cd120333e41c8b26d53a21ab9762e9c215005f1b293dfce301",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "mlflow"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "mlflow (>=1.24.0)",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "tensorflow (>2.0.0) ; extra == \"dev\""
+    ]
+  },
+  "neptune_mlflow-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a5e33db99405db16293d3d9e4c41c9a294c857997aef9f33beba79d0da8b707",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "mlflow"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "mlflow (>=1.24.0)",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "tensorflow (>2.0.0) ; extra == \"dev\""
+    ]
+  }
+}

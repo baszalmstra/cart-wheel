@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-slack
+conda_forge = "apache-airflow-providers-slack"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_slack-9.6.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_slack-9.6.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_slack-9.5.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_slack-9.4.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_slack-9.3.0-py3-none-any.whl" },
+]

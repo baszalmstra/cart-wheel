@@ -1,0 +1,12 @@
+# Package configuration for ai2-olmo
+conda_forge = "ai2-olmo"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ai2_olmo-0.6.0-py3-none-any.whl" },
+  { filename = "ai2_olmo-0.5.1-py3-none-any.whl" },
+  { filename = "ai2_olmo-0.5.0-py3-none-any.whl" },
+  { filename = "ai2_olmo-0.4.0-py3-none-any.whl" },
+  { filename = "ai2_olmo-0.3.0-py3-none-any.whl" },
+]

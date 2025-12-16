@@ -1,0 +1,168 @@
+{
+  "oslo_log-7.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77a2d8dd2a06074484e9e33fa1d0e31dd4d5dd1e81b34efe2b45762e4db3c996",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "oslo.config",
+        "oslo.context",
+        "oslo.i18n",
+        "oslo.utils",
+        "oslo.serialization",
+        "python-dateutil",
+        "debtcollector"
+      ]
+    },
+    "original_requirements": [
+      "pbr >=3.1.1",
+      "oslo.config >=5.2.0",
+      "oslo.context >=2.21.0",
+      "oslo.i18n >=3.20.0",
+      "oslo.utils >=3.36.0",
+      "oslo.serialization >=2.25.0",
+      "python-dateutil >=2.7.0",
+      "debtcollector >=3.0.0",
+      "fixtures >=3.0.0 ; extra == 'fixtures'",
+      "systemd-python >=234 ; extra == 'systemd'",
+      "stestr >=2.0.0 ; extra == 'test'",
+      "testtools >=2.3.0 ; extra == 'test'",
+      "oslotest >=3.3.0 ; extra == 'test'",
+      "coverage >=4.5.1 ; extra == 'test'",
+      "fixtures >=3.0.0 ; extra == 'test'",
+      "eventlet >=0.38.2 ; extra == 'test'"
+    ]
+  },
+  "oslo_log-7.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65e2c20ac404f77c1531d7fda491203ecc35306500b699067240e30e3ce21460",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "oslo.config",
+        "oslo.context",
+        "oslo.i18n",
+        "oslo.utils",
+        "oslo.serialization",
+        "python-dateutil",
+        "debtcollector"
+      ]
+    },
+    "original_requirements": [
+      "pbr >=3.1.1",
+      "oslo.config >=5.2.0",
+      "oslo.context >=2.21.0",
+      "oslo.i18n >=3.20.0",
+      "oslo.utils >=3.36.0",
+      "oslo.serialization >=2.25.0",
+      "python-dateutil >=2.7.0",
+      "debtcollector >=3.0.0",
+      "fixtures >=3.0.0 ; extra == 'fixtures'",
+      "systemd-python >=234 ; extra == 'systemd'",
+      "stestr >=2.0.0 ; extra == 'test'",
+      "testtools >=2.3.0 ; extra == 'test'",
+      "oslotest >=3.3.0 ; extra == 'test'",
+      "coverage >=4.5.1 ; extra == 'test'",
+      "fixtures >=3.0.0 ; extra == 'test'",
+      "eventlet >=0.38.2 ; extra == 'test'"
+    ]
+  },
+  "oslo.log-7.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a1e7915908294fb17d3b267cc256cd501f23d741704fb72be6bb0f8fdbcc2906",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "oslo.config",
+        "oslo.context",
+        "oslo.i18n",
+        "oslo.utils",
+        "oslo.serialization",
+        "python-dateutil",
+        "debtcollector"
+      ]
+    },
+    "original_requirements": [
+      "pbr >=3.1.1",
+      "oslo.config >=5.2.0",
+      "oslo.context >=2.21.0",
+      "oslo.i18n >=3.20.0",
+      "oslo.utils >=3.36.0",
+      "oslo.serialization >=2.25.0",
+      "python-dateutil >=2.7.0",
+      "debtcollector >=3.0.0",
+      "fixtures >=3.0.0 ; extra == 'fixtures'",
+      "systemd-python >=234 ; extra == 'systemd'",
+      "stestr >=2.0.0 ; extra == 'test'",
+      "testtools >=2.3.0 ; extra == 'test'",
+      "oslotest >=3.3.0 ; extra == 'test'",
+      "coverage >=4.5.1 ; extra == 'test'",
+      "fixtures >=3.0.0 ; extra == 'test'",
+      "eventlet >=0.30.1 ; extra == 'test'"
+    ]
+  },
+  "oslo.log-7.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e22a1862f267fd096b963e7551a6da7e0539b64405c60889d5598a65d7b835ee",
+    "dependencies": {
+      "required": [
+        "oslo.config",
+        "oslo.context",
+        "oslo.i18n",
+        "oslo.serialization",
+        "oslo.utils",
+        "pbr",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "oslo.config (>=5.2.0)",
+      "oslo.context (>=2.21.0)",
+      "oslo.i18n (>=3.20.0)",
+      "oslo.serialization (>=2.25.0)",
+      "oslo.utils (>=3.36.0)",
+      "pbr (>=3.1.1)",
+      "python-dateutil (>=2.7.0)",
+      "fixtures (>=3.0.0) ; extra == 'fixtures'",
+      "systemd-python (>=234) ; extra == 'systemd'",
+      "coverage (>=4.5.1) ; extra == 'test'",
+      "eventlet (>=0.30.1) ; extra == 'test'",
+      "fixtures (>=3.0.0) ; extra == 'test'",
+      "oslotest (>=3.3.0) ; extra == 'test'",
+      "stestr (>=2.0.0) ; extra == 'test'",
+      "testtools (>=2.3.0) ; extra == 'test'"
+    ]
+  },
+  "oslo.log-6.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "116cb325941242cafd2f0d7797685428c041f2c2580806052b16bd2a71dc38e8",
+    "dependencies": {
+      "required": [
+        "oslo.config",
+        "oslo.context",
+        "oslo.i18n",
+        "oslo.serialization",
+        "oslo.utils",
+        "pbr",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "oslo.config (>=5.2.0)",
+      "oslo.context (>=2.21.0)",
+      "oslo.i18n (>=3.20.0)",
+      "oslo.serialization (>=2.25.0)",
+      "oslo.utils (>=3.36.0)",
+      "pbr (>=3.1.1)",
+      "python-dateutil (>=2.7.0)",
+      "fixtures (>=3.0.0) ; extra == 'fixtures'",
+      "systemd-python (>=234) ; extra == 'systemd'",
+      "coverage (>=4.5.1) ; extra == 'test'",
+      "eventlet (>=0.30.1) ; extra == 'test'",
+      "fixtures (>=3.0.0) ; extra == 'test'",
+      "oslotest (>=3.3.0) ; extra == 'test'",
+      "stestr (>=2.0.0) ; extra == 'test'",
+      "testtools (>=2.3.0) ; extra == 'test'"
+    ]
+  }
+}

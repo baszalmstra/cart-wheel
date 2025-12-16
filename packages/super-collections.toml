@@ -1,0 +1,12 @@
+# Package configuration for super-collections
+conda_forge = "super_collections"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "super_collections-0.6.2-py3-none-any.whl" },
+  { filename = "super_collections-0.6.1-py3-none-any.whl" },
+  { filename = "super_collections-0.6.0-py3-none-any.whl" },
+  { filename = "super_collections-0.5.7-py3-none-any.whl" },
+  { filename = "super_collections-0.5.6-py3-none-any.whl" },
+]

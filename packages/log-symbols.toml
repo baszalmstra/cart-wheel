@@ -1,0 +1,9 @@
+# Package configuration for log-symbols
+conda_forge = "log_symbols"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "log_symbols-0.0.14-py3-none-any.whl" },
+  { filename = "log_symbols-0.0.13-py3-none-any.whl" },
+]

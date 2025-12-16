@@ -1,0 +1,22 @@
+{
+  "paho_mqtt-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6db9ba9b34ed5bc6b6e3812718c7e06e2fd7444540df2455d2c51bd58808feee",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pysocks; extra == 'proxy'"
+    ]
+  },
+  "paho_mqtt-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ef745073dfc9aa68bfec30d0b9b6f0304ea75182bae85a7c77a80cefce1eff5",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pysocks; extra == 'proxy'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for jupyter-book
+conda_forge = "jupyter-book"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyter_book-2.1.0-py3-none-any.whl" },
+  { filename = "jupyter_book-2.0.2-py3-none-any.whl" },
+  { filename = "jupyter_book-2.0.0-py3-none-any.whl" },
+  { filename = "jupyter_book-1.0.4.post1-py3-none-any.whl" },
+  { filename = "jupyter_book-1.0.4.post0-py3-none-any.whl" },
+]

@@ -1,0 +1,9 @@
+# Package configuration for mujoco-py
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mujoco_py-2.1.2.14-py3-none-any.whl" },
+  { filename = "mujoco_py-2.0.2.10-py3-none-any.whl" },
+  { filename = "mujoco_py-2.0.2.8-py3-none-any.whl" },
+]

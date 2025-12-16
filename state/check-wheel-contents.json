@@ -1,0 +1,122 @@
+{
+  "check_wheel_contents-0.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ae39c8c434b972f0740d04610759168590713175aab584b012b1b84f6771874",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "backports-cached-property",
+        "click",
+        "packaging",
+        "pydantic",
+        "tomli",
+        "wheel-filename"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=18.1",
+      "backports-cached-property; python_version < '3.8'",
+      "click!=8.2.2,~=8.2",
+      "packaging",
+      "pydantic~=2.0",
+      "tomli<3.0,>=1.2; python_version < '3.11'",
+      "wheel-filename~=1.1"
+    ]
+  },
+  "check_wheel_contents-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "041e8f932935d4b6bfa85f43c119aab97eb8c0fc039008627186adf8e729ee6d",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "backports-cached-property",
+        "click",
+        "packaging",
+        "pydantic",
+        "tomli",
+        "wheel-filename"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=18.1",
+      "backports-cached-property; python_version < '3.8'",
+      "click~=8.2",
+      "packaging",
+      "pydantic~=2.0",
+      "tomli<3.0,>=1.2; python_version < '3.11'",
+      "wheel-filename~=1.1"
+    ]
+  },
+  "check_wheel_contents-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38ccb184c89c6d378d3daba4f0edae49394fb4e6c2f082a8dbcae4f653007ec6",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "backports-cached-property",
+        "click",
+        "packaging",
+        "pydantic",
+        "tomli",
+        "wheel-filename"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=18.1",
+      "backports-cached-property; python_version < '3.8'",
+      "click>=7.0",
+      "packaging",
+      "pydantic~=2.0",
+      "tomli<3.0,>=1.2; python_version < '3.11'",
+      "wheel-filename~=1.1"
+    ]
+  },
+  "check_wheel_contents-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3430c5ae633026e15902e3153fa14a6bac2a8ae7bbc7044117712be667821da",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "packaging",
+        "pydantic",
+        "wheel-filename",
+        "tomli",
+        "backports.cached-property"
+      ]
+    },
+    "original_requirements": [
+      "attrs >=18.1",
+      "click >=7.0",
+      "packaging",
+      "pydantic ~=2.0",
+      "wheel-filename ~=1.1",
+      "tomli <3.0,>=1.2 ; python_version < \"3.11\"",
+      "backports.cached-property ; python_version < \"3.8\""
+    ]
+  },
+  "check_wheel_contents-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "87c3c4d815da6d680b34359a5b7a9eebcf05d71a05285fe022fbf42e55c43f87",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "packaging",
+        "pydantic",
+        "wheel-filename",
+        "tomli",
+        "backports.cached-property"
+      ]
+    },
+    "original_requirements": [
+      "attrs >=18.1",
+      "click >=7.0",
+      "packaging",
+      "pydantic ~=2.0",
+      "wheel-filename ~=1.1",
+      "tomli <3.0,>=1.2 ; python_version < \"3.11\"",
+      "backports.cached-property ; python_version < \"3.8\""
+    ]
+  }
+}

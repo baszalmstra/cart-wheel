@@ -1,0 +1,12 @@
+# Package configuration for pyro-ppl
+conda_forge = "pyro-ppl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyro_ppl-1.9.1-py3-none-any.whl" },
+  { filename = "pyro_ppl-1.9.0-py3-none-any.whl" },
+  { filename = "pyro_ppl-1.8.6-py3-none-any.whl" },
+  { filename = "pyro_ppl-1.8.5-py3-none-any.whl" },
+  { filename = "pyro_ppl-1.8.4-py3-none-any.whl" },
+]

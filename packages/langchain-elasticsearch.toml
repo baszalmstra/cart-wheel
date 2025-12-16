@@ -1,0 +1,11 @@
+# Package configuration for langchain-elasticsearch
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_elasticsearch-0.4.0-py3-none-any.whl" },
+  { filename = "langchain_elasticsearch-0.3.2-py3-none-any.whl" },
+  { filename = "langchain_elasticsearch-0.3.1-py3-none-any.whl" },
+  { filename = "langchain_elasticsearch-0.3.0-py3-none-any.whl" },
+  { filename = "langchain_elasticsearch-0.2.2-py3-none-any.whl" },
+]

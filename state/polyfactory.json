@@ -1,0 +1,149 @@
+{
+  "polyfactory-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "78171232342c25906d542513c9f00ebf41eadec2c67b498490a577024dd7e867",
+    "dependencies": {
+      "required": [
+        "faker",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "faker>=5.0.0",
+      "typing-extensions>=4.6.0",
+      "attrs>=22.2.0; extra == 'attrs'",
+      "beanie; extra == 'beanie'",
+      "pydantic[email]; extra == 'beanie'",
+      "pymongo<4.9; extra == 'beanie'",
+      "attrs; extra == 'full'",
+      "beanie; extra == 'full'",
+      "msgspec; extra == 'full'",
+      "odmantic; extra == 'full'",
+      "pydantic; extra == 'full'",
+      "sqlalchemy; extra == 'full'",
+      "msgspec>=0.20.0; extra == 'msgspec'",
+      "odmantic<1.0.0; extra == 'odmantic'",
+      "pydantic[email]; extra == 'odmantic'",
+      "eval-type-backport>=0.2.2; extra == 'pydantic'",
+      "pydantic[email]>=1.10; extra == 'pydantic'",
+      "sqlalchemy>=1.4.29; extra == 'sqlalchemy'"
+    ]
+  },
+  "polyfactory-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad9ba3b3f04c292d30673587946e1c5d18e249074368b09abb7c9455288cfc37",
+    "dependencies": {
+      "required": [
+        "faker",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "faker>=5.0.0",
+      "typing-extensions>=4.6.0",
+      "attrs>=22.2.0; extra == 'attrs'",
+      "beanie; extra == 'beanie'",
+      "pydantic[email]; extra == 'beanie'",
+      "pymongo<4.9; extra == 'beanie'",
+      "attrs; extra == 'full'",
+      "beanie; extra == 'full'",
+      "msgspec; extra == 'full'",
+      "odmantic; extra == 'full'",
+      "pydantic; extra == 'full'",
+      "sqlalchemy; extra == 'full'",
+      "msgspec; extra == 'msgspec'",
+      "odmantic<1.0.0; extra == 'odmantic'",
+      "pydantic[email]; extra == 'odmantic'",
+      "eval-type-backport>=0.2.2; extra == 'pydantic'",
+      "pydantic[email]>=1.10; extra == 'pydantic'",
+      "sqlalchemy>=1.4.29; extra == 'sqlalchemy'"
+    ]
+  },
+  "polyfactory-2.22.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "822d1af463520153200b4b62b06b0dc73a1d5edc8911e2e63ed0757ae21cc2b3",
+    "dependencies": {
+      "required": [
+        "faker",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "faker>=5.0.0",
+      "typing-extensions>=4.6.0",
+      "attrs>=22.2.0; extra == 'attrs'",
+      "beanie; extra == 'beanie'",
+      "pydantic[email]; extra == 'beanie'",
+      "pymongo<4.9; extra == 'beanie'",
+      "attrs; extra == 'full'",
+      "beanie; extra == 'full'",
+      "msgspec; extra == 'full'",
+      "odmantic; extra == 'full'",
+      "pydantic; extra == 'full'",
+      "sqlalchemy; extra == 'full'",
+      "msgspec; extra == 'msgspec'",
+      "odmantic<1.0.0; extra == 'odmantic'",
+      "pydantic[email]; extra == 'odmantic'",
+      "pydantic[email]>=1.10; extra == 'pydantic'",
+      "sqlalchemy>=1.4.29; extra == 'sqlalchemy'"
+    ]
+  },
+  "polyfactory-2.22.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c4ebe24e16e7e8461bdd56dfd7d4df3172936a5077c5e5d3b101a5517f267dc",
+    "dependencies": {
+      "required": [
+        "faker",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "faker>=5.0.0",
+      "typing-extensions>=4.6.0",
+      "attrs>=22.2.0; extra == 'attrs'",
+      "beanie; extra == 'beanie'",
+      "pydantic[email]; extra == 'beanie'",
+      "pymongo<4.9; extra == 'beanie'",
+      "attrs; extra == 'full'",
+      "beanie; extra == 'full'",
+      "msgspec; extra == 'full'",
+      "odmantic; extra == 'full'",
+      "pydantic; extra == 'full'",
+      "sqlalchemy; extra == 'full'",
+      "msgspec; extra == 'msgspec'",
+      "odmantic<1.0.0; extra == 'odmantic'",
+      "pydantic[email]; extra == 'odmantic'",
+      "pydantic[email]>=1.10; extra == 'pydantic'",
+      "sqlalchemy>=1.4.29; extra == 'sqlalchemy'"
+    ]
+  },
+  "polyfactory-2.22.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0bfd5fe2fb2e5db39ded6aee8e923d1961095d4ebb44185cceee4654cb85e0b1",
+    "dependencies": {
+      "required": [
+        "faker",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "faker>=5.0.0",
+      "typing-extensions>=4.6.0",
+      "attrs>=22.2.0; extra == 'attrs'",
+      "beanie; extra == 'beanie'",
+      "pydantic[email]; extra == 'beanie'",
+      "pymongo<4.9; extra == 'beanie'",
+      "attrs; extra == 'full'",
+      "beanie; extra == 'full'",
+      "msgspec; extra == 'full'",
+      "odmantic; extra == 'full'",
+      "pydantic; extra == 'full'",
+      "sqlalchemy; extra == 'full'",
+      "msgspec; extra == 'msgspec'",
+      "odmantic<1.0.0; extra == 'odmantic'",
+      "pydantic[email]; extra == 'odmantic'",
+      "pydantic[email]>=1.10; extra == 'pydantic'",
+      "sqlalchemy>=1.4.29; extra == 'sqlalchemy'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for sphinx-lint
+conda_forge = "sphinx-lint"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_lint-1.0.2-py3-none-any.whl" },
+  { filename = "sphinx_lint-1.0.1-py3-none-any.whl" },
+  { filename = "sphinx_lint-1.0.0-py3-none-any.whl" },
+  { filename = "sphinx_lint-0.9.1-py3-none-any.whl" },
+  { filename = "sphinx_lint-0.9.0-py3-none-any.whl" },
+]

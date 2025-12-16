@@ -1,0 +1,12 @@
+# Package configuration for seedir
+conda_forge = "seedir"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "seedir-0.5.1-py3-none-any.whl" },
+  { filename = "seedir-0.5.0-py3-none-any.whl" },
+  { filename = "seedir-0.4.2-py3-none-any.whl" },
+  { filename = "seedir-0.4.0-py3-none-any.whl" },
+  { filename = "seedir-0.3.1-py3-none-any.whl" },
+]

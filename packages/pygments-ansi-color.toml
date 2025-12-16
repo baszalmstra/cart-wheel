@@ -1,0 +1,12 @@
+# Package configuration for pygments-ansi-color
+conda_forge = "pygments-ansi-color"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pygments_ansi_color-0.3.0-py3-none-any.whl" },
+  { filename = "pygments_ansi_color-0.2.0-py3-none-any.whl" },
+  { filename = "pygments_ansi_color-0.1.0-py3-none-any.whl" },
+  { filename = "pygments_ansi_color-0.0.6-py2.py3-none-any.whl" },
+  { filename = "pygments_ansi_color-0.0.5-py2.py3-none-any.whl" },
+]

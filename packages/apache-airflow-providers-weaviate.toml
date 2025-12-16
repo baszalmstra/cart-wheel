@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-weaviate
+conda_forge = "apache-airflow-providers-weaviate"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_weaviate-3.3.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_weaviate-3.2.5-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_weaviate-3.2.4-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_weaviate-3.2.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_weaviate-3.2.2-py3-none-any.whl" },
+]

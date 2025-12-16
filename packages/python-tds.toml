@@ -1,0 +1,11 @@
+# Package configuration for python-tds
+conda_forge = "python-tds"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_tds-1.17.1-py3-none-any.whl" },
+  { filename = "python_tds-1.17.0-py3-none-any.whl" },
+  { filename = "python_tds-1.16.1-py3-none-any.whl" },
+  { filename = "python_tds-1.16.0-py3-none-any.whl" },
+]

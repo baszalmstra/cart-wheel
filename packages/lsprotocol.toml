@@ -1,0 +1,10 @@
+# Package configuration for lsprotocol
+conda_forge = "lsprotocol"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lsprotocol-2025.0.0-py3-none-any.whl" },
+  { filename = "lsprotocol-2023.0.1-py3-none-any.whl" },
+  { filename = "lsprotocol-2023.0.0-py3-none-any.whl" },
+]

@@ -1,0 +1,102 @@
+{
+  "jaxns-2.6.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6cf87650428e30d1fdf74e6eedcb9986561498b4cb1d6b61d0aec7f29154a4d8",
+    "dependencies": {
+      "required": [
+        "jax",
+        "jaxlib",
+        "matplotlib",
+        "numpy",
+        "scipy",
+        "tfp-nightly"
+      ]
+    },
+    "original_requirements": [
+      "jax>=0.6.0",
+      "jaxlib",
+      "matplotlib",
+      "numpy",
+      "scipy",
+      "tfp_nightly",
+      "scikit-learn; extra == \"examples\"",
+      "optax; extra == \"examples\"",
+      "scikit-learn; extra == \"tests\"",
+      "networkx; extra == \"tests\"",
+      "psutil; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "flake8; extra == \"tests\""
+    ]
+  },
+  "jaxns-2.6.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ee9b10c6926e9af292a255d7f09fec5d0344bd6d6729c10c71ff2bfa26cc944",
+    "dependencies": {
+      "required": [
+        "jax",
+        "jaxlib",
+        "matplotlib",
+        "numpy",
+        "scipy",
+        "tensorflow-probability"
+      ]
+    },
+    "original_requirements": [
+      "jax>=0.6.0",
+      "jaxlib",
+      "matplotlib",
+      "numpy",
+      "scipy",
+      "tensorflow_probability",
+      "scikit-learn; extra == \"examples\"",
+      "optax; extra == \"examples\"",
+      "scikit-learn; extra == \"tests\"",
+      "networkx; extra == \"tests\"",
+      "psutil; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "flake8; extra == \"tests\""
+    ]
+  },
+  "jaxns-2.6.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d85be97804b97699b2e21b1740682cfa5451d4ed183bc3ea4215bfb9bd829e22",
+    "dependencies": {
+      "required": [
+        "jax",
+        "jaxlib",
+        "matplotlib",
+        "numpy",
+        "scipy",
+        "tensorflow-probability",
+        "tqdm",
+        "optax",
+        "jaxopt"
+      ]
+    },
+    "original_requirements": [
+      "jax>=0.4.25",
+      "jaxlib",
+      "matplotlib",
+      "numpy<2",
+      "scipy",
+      "tensorflow_probability",
+      "tqdm",
+      "optax",
+      "jaxopt"
+    ]
+  },
+  "jaxns-2.6.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df42496a48cb36a98a69c48cac431b9ab3b54a56f11b7935302ad5dfb68d0162",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "jaxns-2.6.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9e542a58555c690eeeebd49197583264ff5ec5b442b2cac9015c0948b282662",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

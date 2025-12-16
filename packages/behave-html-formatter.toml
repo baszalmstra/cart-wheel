@@ -1,0 +1,12 @@
+# Package configuration for behave-html-formatter
+conda_forge = "behave-html-formatter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "behave_html_formatter-0.9.10-py3-none-any.whl" },
+  { filename = "behave_html_formatter-0.9.9-py3-none-any.whl" },
+  { filename = "behave_html_formatter-0.9.8-py3-none-any.whl" },
+  { filename = "behave_html_formatter-0.9.7-py3-none-any.whl" },
+  { filename = "behave_html_formatter-0.9.6-py3-none-any.whl" },
+]

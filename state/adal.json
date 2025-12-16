@@ -1,0 +1,102 @@
+{
+  "adal-1.2.7-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:40.361935+00:00",
+    "conda_file": "adal-1.2.7-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "requests",
+        "python-dateutil",
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "PyJWT (<3,>=1.0.0)",
+      "requests (<3,>=2.0.0)",
+      "python-dateutil (<3,>=2.1.0)",
+      "cryptography (>=1.1.0)"
+    ]
+  },
+  "adal-1.2.6-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:40.760595+00:00",
+    "conda_file": "adal-1.2.6-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "requests",
+        "python-dateutil",
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "PyJWT (<3,>=1.0.0)",
+      "requests (<3,>=2.0.0)",
+      "python-dateutil (<3,>=2.1.0)",
+      "cryptography (>=1.1.0)"
+    ]
+  },
+  "adal-1.2.5-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:40.953228+00:00",
+    "conda_file": "adal-1.2.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "requests",
+        "python-dateutil",
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "PyJWT (>=1.0.0)",
+      "requests (>=2.0.0)",
+      "python-dateutil (>=2.1.0)",
+      "cryptography (>=1.1.0)"
+    ]
+  },
+  "adal-1.2.4-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:41.083139+00:00",
+    "conda_file": "adal-1.2.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "requests",
+        "python-dateutil",
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "PyJWT (>=1.0.0)",
+      "requests (>=2.0.0)",
+      "python-dateutil (>=2.1.0)",
+      "cryptography (>=1.1.0)"
+    ]
+  },
+  "adal-1.2.3-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:40.758373+00:00",
+    "conda_file": "adal-1.2.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "requests",
+        "python-dateutil",
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "PyJWT (>=1.0.0)",
+      "requests (>=2.0.0)",
+      "python-dateutil (>=2.1.0)",
+      "cryptography (>=1.1.0)"
+    ]
+  }
+}

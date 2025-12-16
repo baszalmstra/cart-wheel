@@ -1,0 +1,11 @@
+# Package configuration for fix-busted-json
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fix_busted_json-0.0.18-py3-none-any.whl" },
+  { filename = "fix_busted_json-0.0.17-py3-none-any.whl" },
+  { filename = "fix_busted_json-0.0.16-py3-none-any.whl" },
+  { filename = "fix_busted_json-0.0.15-py3-none-any.whl" },
+  { filename = "fix_busted_json-0.0.14-py3-none-any.whl" },
+]

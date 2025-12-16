@@ -1,0 +1,12 @@
+# Package configuration for sqlalchemy-spanner
+conda_forge = "sqlalchemy-spanner"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sqlalchemy_spanner-1.17.1-py3-none-any.whl" },
+  { filename = "sqlalchemy_spanner-1.17.0-py3-none-any.whl" },
+  { filename = "sqlalchemy_spanner-1.16.0-py3-none-any.whl" },
+  { filename = "sqlalchemy_spanner-1.15.0-py3-none-any.whl" },
+  { filename = "sqlalchemy_spanner-1.14.0-py3-none-any.whl" },
+]

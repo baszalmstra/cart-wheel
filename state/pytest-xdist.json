@@ -1,0 +1,87 @@
+{
+  "pytest_xdist-3.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "202ca578cfeb7370784a8c33d6d05bc6e13b4f25b5053c30a152269fd10f0b88",
+    "dependencies": {
+      "required": [
+        "execnet",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "execnet>=2.1",
+      "pytest>=7.0.0",
+      "filelock; extra == \"testing\"",
+      "psutil>=3.0; extra == \"psutil\"",
+      "setproctitle; extra == \"setproctitle\""
+    ]
+  },
+  "pytest_xdist-3.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d3fbd255998265052435eb9daa4e99b62e6fb9cfb6efd1f858d4d8c0c7f0ca0",
+    "dependencies": {
+      "required": [
+        "execnet",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "execnet>=2.1",
+      "pytest>=7.0.0",
+      "filelock; extra == \"testing\"",
+      "psutil>=3.0; extra == \"psutil\"",
+      "setproctitle; extra == \"setproctitle\""
+    ]
+  },
+  "pytest_xdist-3.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ed4adfb68a016610848639bb7e02c9352d5d9f03d04809919e2dafc3be4cca7",
+    "dependencies": {
+      "required": [
+        "execnet",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "execnet >=2.1",
+      "pytest >=7.0.0",
+      "psutil >=3.0 ; extra == 'psutil'",
+      "setproctitle ; extra == 'setproctitle'",
+      "filelock ; extra == 'testing'"
+    ]
+  },
+  "pytest_xdist-3.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d075629c7e00b611df89f490a5063944bee7a4362a5ff11c7cc7824a03dfce24",
+    "dependencies": {
+      "required": [
+        "execnet",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "execnet >=1.1",
+      "pytest >=6.2.0",
+      "psutil >=3.0 ; extra == 'psutil'",
+      "setproctitle ; extra == 'setproctitle'",
+      "filelock ; extra == 'testing'"
+    ]
+  },
+  "pytest_xdist-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e513118bf787677a427e025606f55e95937565e06dfaac8d87f55301e57ae607",
+    "dependencies": {
+      "required": [
+        "execnet",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "execnet >=1.1",
+      "pytest >=6.2.0",
+      "psutil >=3.0 ; extra == 'psutil'",
+      "setproctitle ; extra == 'setproctitle'",
+      "filelock ; extra == 'testing'"
+    ]
+  }
+}

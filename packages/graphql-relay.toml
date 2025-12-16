@@ -1,0 +1,12 @@
+# Package configuration for graphql-relay
+conda_forge = "graphql-relay"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "graphql_relay-3.2.0-py3-none-any.whl" },
+  { filename = "graphql_relay-3.1.5-py3-none-any.whl" },
+  { filename = "graphql_relay-3.1.4-py3-none-any.whl" },
+  { filename = "graphql_relay-3.1.3-py3-none-any.whl" },
+  { filename = "graphql_relay-3.1.2-py3-none-any.whl" },
+]

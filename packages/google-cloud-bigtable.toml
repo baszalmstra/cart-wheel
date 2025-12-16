@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-bigtable
+conda_forge = "google-cloud-bigtable"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_bigtable-2.34.0-py3-none-any.whl" },
+  { filename = "google_cloud_bigtable-2.33.0-py3-none-any.whl" },
+  { filename = "google_cloud_bigtable-2.32.0-py3-none-any.whl" },
+  { filename = "google_cloud_bigtable-2.31.0-py3-none-any.whl" },
+  { filename = "google_cloud_bigtable-2.30.1-py3-none-any.whl" },
+]

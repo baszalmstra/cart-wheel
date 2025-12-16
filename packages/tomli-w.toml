@@ -1,0 +1,12 @@
+# Package configuration for tomli-w
+conda_forge = "tomli-w"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tomli_w-1.2.0-py3-none-any.whl" },
+  { filename = "tomli_w-1.1.0-py3-none-any.whl" },
+  { filename = "tomli_w-1.0.0-py3-none-any.whl" },
+  { filename = "tomli_w-0.4.0-py3-none-any.whl" },
+  { filename = "tomli_w-0.3.0-py3-none-any.whl" },
+]

@@ -1,0 +1,107 @@
+{
+  "llama_index_workflows-2.11.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c5a419129114bb0b1bd83b88aa5f653f84181b2e39e33473e8747ec6e88538e",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "llama-index-instrumentation",
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2.2 ; python_full_version < '3.10'",
+      "llama-index-instrumentation>=0.1.0",
+      "pydantic>=2.11.5",
+      "typing-extensions>=4.6.0",
+      "httpx>=0.28.1,<1 ; extra == 'client'",
+      "starlette>=0.39.0 ; extra == 'server'",
+      "uvicorn>=0.32.0 ; extra == 'server'"
+    ]
+  },
+  "llama_index_workflows-2.11.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4cf29c0c40005df6a79cc478cc439d298e2077437e680e6afd142bb98cf1abe",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "llama-index-instrumentation",
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2.2 ; python_full_version < '3.10'",
+      "llama-index-instrumentation>=0.1.0",
+      "pydantic>=2.11.5",
+      "typing-extensions>=4.6.0",
+      "httpx>=0.28.1,<1 ; extra == 'client'",
+      "starlette>=0.39.0 ; extra == 'server'",
+      "uvicorn>=0.32.0 ; extra == 'server'"
+    ]
+  },
+  "llama_index_workflows-2.11.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f690266cbc421946b5140c8b042568da38294e875e594c93d87b3a6993fefb57",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "llama-index-instrumentation",
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2.2 ; python_full_version < '3.10'",
+      "llama-index-instrumentation>=0.1.0",
+      "pydantic>=2.11.5",
+      "typing-extensions>=4.6.0",
+      "httpx>=0.28.1,<1 ; extra == 'client'",
+      "starlette>=0.39.0 ; extra == 'server'",
+      "uvicorn>=0.32.0 ; extra == 'server'"
+    ]
+  },
+  "llama_index_workflows-2.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "617e8af04d32b2b8955da3fca19e8bae746f4c6d665b46acbbf8c99be13cd105",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "llama-index-instrumentation",
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2.2; python_full_version < '3.10'",
+      "llama-index-instrumentation>=0.1.0",
+      "pydantic>=2.11.5",
+      "typing-extensions>=4.6.0",
+      "httpx<1,>=0.28.1; extra == 'client'",
+      "starlette>=0.39.0; extra == 'server'",
+      "uvicorn>=0.32.0; extra == 'server'"
+    ]
+  },
+  "llama_index_workflows-2.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6faeaf39930cce904cc999f3faf7de165d962b837de22e1dc89d2fba84739e73",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "llama-index-instrumentation",
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2.2; python_full_version < '3.10'",
+      "llama-index-instrumentation>=0.1.0",
+      "pydantic>=2.11.5",
+      "typing-extensions>=4.6.0",
+      "httpx<1,>=0.28.1; extra == 'client'",
+      "starlette>=0.39.0; extra == 'server'",
+      "uvicorn>=0.32.0; extra == 'server'"
+    ]
+  }
+}

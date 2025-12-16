@@ -1,0 +1,12 @@
+# Package configuration for celery
+conda_forge = "celery"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "celery-5.6.0-py3-none-any.whl" },
+  { filename = "celery-5.5.3-py3-none-any.whl" },
+  { filename = "celery-5.5.2-py3-none-any.whl" },
+  { filename = "celery-5.5.1-py3-none-any.whl" },
+  { filename = "celery-5.5.0-py3-none-any.whl" },
+]

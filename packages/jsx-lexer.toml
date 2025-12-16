@@ -1,0 +1,12 @@
+# Package configuration for jsx-lexer
+conda_forge = "jsx-lexer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsx_lexer-2.0.1-py2.py3-none-any.whl" },
+  { filename = "jsx_lexer-2.0.0-py2.py3-none-any.whl" },
+  { filename = "jsx_lexer-1.0.0-py2.py3-none-any.whl" },
+  { filename = "jsx_lexer-0.0.8-py2.py3-none-any.whl" },
+  { filename = "jsx_lexer-0.0.7-py3-none-any.whl" },
+]

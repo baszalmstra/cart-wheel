@@ -1,0 +1,114 @@
+{
+  "multivolumefile-0.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "237f4353b60af1703087cf7725755a1f6fcaeeea48421e1896940cd1c920d678",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "check-manifest ; extra == 'check'",
+      "flake8 ; extra == 'check'",
+      "flake8-black ; extra == 'check'",
+      "readme-renderer ; extra == 'check'",
+      "pygments ; extra == 'check'",
+      "isort (>=5.0.3) ; extra == 'check'",
+      "twine ; extra == 'check'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pyannotate ; extra == 'test'",
+      "coverage[toml] (>=5.2) ; extra == 'test'",
+      "coveralls (>=2.1.1) ; extra == 'test'",
+      "hypothesis ; extra == 'test'",
+      "mypy ; extra == 'type'",
+      "mypy-extensions ; extra == 'type'"
+    ]
+  },
+  "multivolumefile-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d482cf34d1caec0640e45b0ddab84cd99de7aea8b1c9c8a554bb52fb2706c23",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "check-manifest ; extra == 'check'",
+      "flake8 ; extra == 'check'",
+      "readme-renderer ; extra == 'check'",
+      "pygments ; extra == 'check'",
+      "isort (>=5.0.3) ; extra == 'check'",
+      "twine ; extra == 'check'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pyannotate ; extra == 'test'",
+      "coverage[toml] (>=5.2) ; extra == 'test'",
+      "coveralls (>=2.1.1) ; extra == 'test'",
+      "mypy ; extra == 'type'",
+      "mypy-extensions ; extra == 'type'"
+    ]
+  },
+  "multivolumefile-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1ccd9911dcb83a1e4e4bf8b61f106c97ee2c39e9b5073f89911721447945ecb",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "check-manifest ; extra == 'check'",
+      "flake8 ; extra == 'check'",
+      "readme-renderer ; extra == 'check'",
+      "pygments ; extra == 'check'",
+      "isort (>=5.0.3) ; extra == 'check'",
+      "twine ; extra == 'check'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pyannotate ; extra == 'test'",
+      "coverage[toml] (>=5.2) ; extra == 'test'",
+      "coveralls (>=2.1.1) ; extra == 'test'",
+      "mypy ; extra == 'type'",
+      "mypy-extensions ; extra == 'type'"
+    ]
+  },
+  "multivolumefile-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c794b1820e050b97ca775a75a6cf05e4f06778c5cfae619ef653b4dd2a0a20d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "check-manifest ; extra == 'check'",
+      "flake8 ; extra == 'check'",
+      "readme-renderer ; extra == 'check'",
+      "pygments ; extra == 'check'",
+      "isort (>=5.0.3) ; extra == 'check'",
+      "twine ; extra == 'check'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pyannotate ; extra == 'test'",
+      "coverage[toml] (>=5.2) ; extra == 'test'",
+      "coveralls (>=2.1.1) ; extra == 'test'",
+      "mypy ; extra == 'type'",
+      "mypy-extensions ; extra == 'type'"
+    ]
+  },
+  "multivolumefile-0.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f0d231b83b9c9a1fb9fa1898867663dd8b53eb9d5d7be5ed7d8bcbe60cbcbf4",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "mypy (==0.701) ; extra == 'check'",
+      "mypy-extensions (==0.4.1) ; extra == 'check'",
+      "check-manifest ; extra == 'check'",
+      "flake8 ; extra == 'check'",
+      "readme-renderer ; extra == 'check'",
+      "pygments ; extra == 'check'",
+      "isort (>=5.0.3) ; extra == 'check'",
+      "twine ; extra == 'check'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pyannotate ; extra == 'test'",
+      "coverage[toml] (>=5.2) ; extra == 'test'",
+      "coveralls (>=2.1.1) ; extra == 'test'"
+    ]
+  }
+}

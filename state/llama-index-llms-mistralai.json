@@ -1,0 +1,72 @@
+{
+  "llama_index_llms_mistralai-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6e538135cc84cfa04e25bc0dca6f3560aea403cd8e8635c14947392d471f9e2a",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "mistralai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.14.5",
+      "mistralai>=1.9.11"
+    ]
+  },
+  "llama_index_llms_mistralai-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50a27abd318ac5c4ae528144db193062727cb9947d768ded5950378f49d37198",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "mistralai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.14.3",
+      "mistralai>=1.8.2"
+    ]
+  },
+  "llama_index_llms_mistralai-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22fc0445fa4531ad05e695aff708957177f37600da129a0703da4e4a8424545f",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "mistralai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.14.3",
+      "mistralai>=1.8.2"
+    ]
+  },
+  "llama_index_llms_mistralai-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a13340ee99b80074376d84c3daad74dad08a9c64fd7825efe2dee981a8daa3f5",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "mistralai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.13.0",
+      "mistralai>=1.8.2"
+    ]
+  },
+  "llama_index_llms_mistralai-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4d6e42bbe87880622e1b3c056d04f6e0d07a02250528dad9069d2d352331f04",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "mistralai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.13.0",
+      "mistralai>=1.8.2"
+    ]
+  }
+}

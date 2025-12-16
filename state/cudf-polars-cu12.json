@@ -1,0 +1,127 @@
+{
+  "cudf_polars_cu12-25.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2b3f880586b43a7eca7477f7261bc4e927138d3b52028805339de77f3211533",
+    "dependencies": {
+      "required": [
+        "nvidia-ml-py",
+        "packaging",
+        "polars",
+        "pylibcudf-cu12",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "nvidia-ml-py>=12",
+      "packaging",
+      "polars<1.35,>=1.29",
+      "pylibcudf-cu12==25.12.*",
+      "typing-extensions; python_version < \"3.11\"",
+      "dask-cuda==25.12.*; extra == \"test\"",
+      "numpy<3.0a0,>=1.23; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-httpserver; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "pytest<9.0.0a0; extra == \"test\"",
+      "rich; extra == \"test\"",
+      "structlog; extra == \"test\"",
+      "nvidia-ml-py>=12; extra == \"experimental\"",
+      "rapids-dask-dependency==25.12.*; extra == \"experimental\"",
+      "structlog; extra == \"trace\"",
+      "rapidsmpf-cu12==25.12.*; extra == \"rapidsmpf\""
+    ]
+  },
+  "cudf_polars_cu12-25.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22bd4e838a752f01a2239ce2339a7d0bbf77d968402605f70147cfa026e740f5",
+    "dependencies": {
+      "required": [
+        "nvidia-ml-py",
+        "packaging",
+        "polars",
+        "pylibcudf-cu12",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "nvidia-ml-py>=12",
+      "packaging",
+      "polars<1.33,>=1.28",
+      "pylibcudf-cu12==25.10.*",
+      "typing-extensions; python_version < \"3.11\"",
+      "dask-cuda==25.10.*; extra == \"test\"",
+      "numpy<3.0a0,>=1.23; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-httpserver; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "rich; extra == \"test\"",
+      "nvidia-ml-py>=12; extra == \"experimental\"",
+      "rapids-dask-dependency==25.10.*; extra == \"experimental\""
+    ]
+  },
+  "cudf_polars_cu12-25.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae592b4420c0ac9dfbe75c21e38c0a982416355ee7f6327163777a5707717cb7",
+    "dependencies": {
+      "required": [
+        "nvidia-ml-py",
+        "polars",
+        "pylibcudf-cu12",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "nvidia-ml-py",
+      "polars<1.32,>=1.28",
+      "pylibcudf-cu12==25.8.*",
+      "typing-extensions; python_version < \"3.11\"",
+      "dask-cuda==25.8.*; extra == \"test\"",
+      "numpy<3.0a0,>=1.23; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "rich; extra == \"test\"",
+      "rapids-dask-dependency==25.8.*; extra == \"experimental\""
+    ]
+  },
+  "cudf_polars_cu12-25.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c5e5e1dfc2b09f3e3159f3e83d2f394b33409dcaa1c7223fd078402e66f26218",
+    "dependencies": {
+      "required": [
+        "polars",
+        "pylibcudf-cu12"
+      ]
+    },
+    "original_requirements": [
+      "polars<1.29,>=1.25",
+      "pylibcudf-cu12==25.6.*",
+      "dask-cuda==25.6.*; extra == \"test\"",
+      "numpy<3.0a0,>=1.23; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "pytest<8; extra == \"test\"",
+      "rapids-dask-dependency==25.6.*; extra == \"experimental\""
+    ]
+  },
+  "cudf_polars_cu12-25.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b53cd97ebe463b6946c3380309774185d30a9857288939de9937ea5f55c9f5f6",
+    "dependencies": {
+      "required": [
+        "polars",
+        "pylibcudf-cu12"
+      ]
+    },
+    "original_requirements": [
+      "polars<1.26,>=1.24",
+      "pylibcudf-cu12==25.4.*",
+      "numpy<3.0a0,>=1.23; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-xdist; extra == \"test\"",
+      "pytest<8; extra == \"test\"",
+      "rapids-dask-dependency==25.4.*; extra == \"experimental\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for flake8-string-format
+conda_forge = "flake8-string-format"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_string_format-0.3.0-py2.py3-none-any.whl" },
+  { filename = "flake8_string_format-0.2.3-py2.py3-none-any.whl" },
+  { filename = "flake8_string_format-0.2.2-py2.py3-none-any.whl" },
+  { filename = "flake8_string_format-0.2.1-py2.py3-none-any.whl" },
+  { filename = "flake8_string_format-0.2.0-py2.py3-none-any.whl" },
+]

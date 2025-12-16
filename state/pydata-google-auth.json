@@ -1,0 +1,94 @@
+{
+  "pydata_google_auth-1.9.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "75ffce5d106e34b717b31844c1639ea505b7d9550dc23b96fb6c20d086b53fa3",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "google-auth",
+        "google-auth-oauthlib"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "google-auth<3.0dev,>=1.25.0",
+      "google-auth-oauthlib>=0.4.0"
+    ]
+  },
+  "pydata_google_auth-1.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e17a44ce8de5b48883667357c03595b85d80938bf1fb714d65bfac9a9f9c8add",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "google-auth",
+        "google-auth-oauthlib"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "google-auth<3.0dev,>=1.25.0",
+      "google-auth-oauthlib>=0.4.0"
+    ]
+  },
+  "pydata_google_auth-1.8.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9dce59af4a170ea60c4b2ebbc83ee1f74d34255a4f97b2469ae9a4a0dc98e99",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "google-auth",
+        "google-auth-oauthlib",
+        "google-auth",
+        "google-auth-oauthlib"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "google-auth (<2.0dev,>=1.25.0) ; python_version < \"3.0\"",
+      "google-auth-oauthlib (<0.4.2dev,>=0.4.0) ; python_version < \"3.0\"",
+      "google-auth (<3.0dev,>=1.25.0) ; python_version >= \"3.6\"",
+      "google-auth-oauthlib (>=0.4.0) ; python_version >= \"3.6\""
+    ]
+  },
+  "pydata_google_auth-1.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "97cebd52ae1df1bdc3bdf1a703310d401a78706462578b93d65a831f1e36d141",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "google-auth",
+        "google-auth-oauthlib",
+        "google-auth",
+        "google-auth-oauthlib"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "google-auth (<2.0dev,>=1.25.0) ; python_version < \"3.0\"",
+      "google-auth-oauthlib (<0.4.2dev,>=0.4.0) ; python_version < \"3.0\"",
+      "google-auth (<3.0dev,>=1.25.0) ; python_version >= \"3.6\"",
+      "google-auth-oauthlib (>=0.4.0) ; python_version >= \"3.6\""
+    ]
+  },
+  "pydata_google_auth-1.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a093294bbae6de980a83794345b634b163f7374fa9d84c7b0059ea4b2001700",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "google-auth",
+        "google-auth-oauthlib",
+        "google-auth",
+        "google-auth-oauthlib"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "google-auth (<2.0dev,>=1.25.0) ; python_version < \"3.0\"",
+      "google-auth-oauthlib (<0.4.2dev,>=0.4.0) ; python_version < \"3.0\"",
+      "google-auth (<3.0dev,>=1.25.0) ; python_version >= \"3.6\"",
+      "google-auth-oauthlib (>=0.4.0) ; python_version >= \"3.6\""
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sphinx_issues-5.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58cdd94df25546fa96a224afc9df17063deffaf38336c4a694d2bf478aec75a4",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "sphinx-issues[tests] ; extra == \"dev\"",
+      "tox ; extra == \"dev\"",
+      "pre-commit>=3.6,<5.0 ; extra == \"dev\"",
+      "pytest ; extra == \"tests\""
+    ]
+  },
+  "sphinx_issues-5.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d80704a01c8af3d76586771a67a9e48f2d1a6091a0377458c49908460a6a31ea",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "sphinx-issues[tests] ; extra == \"dev\"",
+      "tox ; extra == \"dev\"",
+      "pre-commit>=3.6,<5.0 ; extra == \"dev\"",
+      "pytest ; extra == \"tests\""
+    ]
+  },
+  "sphinx_issues-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d779dddff441175c9fddb7a4018eca38f9f6cdb1e0a2fe31d93b4f89587c7ba1",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "sphinx-issues[tests] ; extra == \"dev\"",
+      "tox ; extra == \"dev\"",
+      "pre-commit~=3.6 ; extra == \"dev\"",
+      "pytest ; extra == \"tests\""
+    ]
+  },
+  "sphinx_issues-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce1ee87682eb8e661d2d500672756916f113ac0a37da3678aa474b7d8ce3d039",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "sphinx-issues[tests] ; extra == \"dev\"",
+      "tox ; extra == \"dev\"",
+      "pre-commit~=3.6 ; extra == \"dev\"",
+      "pytest ; extra == \"tests\""
+    ]
+  },
+  "sphinx_issues-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b25dc0301159375468f563b3699af7a63720fd84caf81c1442036fcd418b20c",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx",
+      "pytest (>=6.2.0) ; extra == 'dev'",
+      "flake8 (==3.9.2) ; extra == 'dev'",
+      "flake8-bugbear (==20.11.1) ; extra == 'dev'",
+      "pre-commit (~=2.7) ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "flake8 (==3.9.2) ; extra == 'lint'",
+      "flake8-bugbear (==20.11.1) ; extra == 'lint'",
+      "pre-commit (~=2.7) ; extra == 'lint'",
+      "pytest (>=6.2.0) ; extra == 'tests'"
+    ]
+  }
+}

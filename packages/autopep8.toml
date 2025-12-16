@@ -1,0 +1,12 @@
+# Package configuration for autopep8
+conda_forge = "autopep8"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "autopep8-2.3.2-py2.py3-none-any.whl" },
+  { filename = "autopep8-2.3.1-py2.py3-none-any.whl" },
+  { filename = "autopep8-2.3.0-py2.py3-none-any.whl" },
+  { filename = "autopep8-2.2.0-py2.py3-none-any.whl" },
+  { filename = "autopep8-2.1.2-py2.py3-none-any.whl" },
+]

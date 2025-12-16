@@ -1,0 +1,72 @@
+{
+  "delta_spark-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e4ded07bb9ee4f6a0df45606d84395239d4b82001e765a627fecc1e914f3029",
+    "dependencies": {
+      "required": [
+        "pyspark",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pyspark (>=4.0.0)",
+      "importlib-metadata (>=1.0.0)"
+    ]
+  },
+  "delta_spark-3.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0a34c720b4368f1655e2348e380b5b3baaca0f2b3d519a3198208f00f65e4062",
+    "dependencies": {
+      "required": [
+        "pyspark",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pyspark<3.6.0,>=3.5.3",
+      "importlib_metadata>=1.0.0"
+    ]
+  },
+  "delta_spark-3.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "007dac57b8d92ece52ea9f7260f31834e6588d335aec4afa93e4d918cb8f96a1",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "pyspark"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata (>=1.0.0)",
+      "pyspark (<3.6.0,>=3.5.3)"
+    ]
+  },
+  "delta_spark-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd28e455e1e59bf3c74ab2ba71cfa14fffd9cfa1c55c9fb522448acc68674881",
+    "dependencies": {
+      "required": [
+        "pyspark",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pyspark (<3.6.0,>=3.5.3)",
+      "importlib-metadata (>=1.0.0)"
+    ]
+  },
+  "delta_spark-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "662ff591acbe190d0d0a07e65cde77f9b81f58da940ae8ca85f620b562165fc3",
+    "dependencies": {
+      "required": [
+        "pyspark",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pyspark<3.6.0,>=3.5.3",
+      "importlib-metadata>=1.0.0"
+    ]
+  }
+}

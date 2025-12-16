@@ -1,0 +1,10 @@
+# Package configuration for transforms3d
+conda_forge = "transforms3d"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "transforms3d-0.4.2-py3-none-any.whl" },
+  { filename = "transforms3d-0.4.1-py3-none-any.whl" },
+  { filename = "transforms3d-0.2.1-py3-none-any.whl" },
+]

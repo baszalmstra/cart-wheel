@@ -1,0 +1,52 @@
+{
+  "roman_numerals-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "842ae5fd12912d62720c9aad8cab706e8c692556d01a38443e051ee6cc158d90",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "mypy==1.15.0 ; extra == \"lint\"",
+      "ruff==0.9.7 ; extra == \"lint\"",
+      "pyright==1.1.394 ; extra == \"lint\"",
+      "pytest>=8 ; extra == \"test\""
+    ]
+  },
+  "roman_numerals-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b88f3020a23d2a69e0d84ad07e66a9e08da53801bf35da4d035efe0930198f3",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "mypy==1.15.0 ; extra == \"lint\"",
+      "ruff==0.9.6 ; extra == \"lint\"",
+      "pyright==1.1.394 ; extra == \"lint\"",
+      "pytest>=8 ; extra == \"test\""
+    ]
+  },
+  "roman_numerals-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a906300b6b0bf76aeda0087c1cf4f182ce8d0c4f5b152c9900f6e2fe3d337ce7",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "mypy ; extra == \"lint\"",
+      "ruff ; extra == \"lint\"",
+      "pytest ; extra == \"test\""
+    ]
+  },
+  "roman_numerals-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d210bdc4d82339d91297a4911ddeee3f34aa53b99090227a826db46ccfcf4407",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "mypy ; extra == \"lint\"",
+      "ruff ; extra == \"lint\"",
+      "pytest ; extra == \"test\""
+    ]
+  }
+}

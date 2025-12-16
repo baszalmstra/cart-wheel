@@ -1,0 +1,11 @@
+# Package configuration for types-aiobotocore-mediapackage
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_mediapackage-3.0.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_mediapackage-2.26.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_mediapackage-2.25.2-py3-none-any.whl" },
+  { filename = "types_aiobotocore_mediapackage-2.25.1-py3-none-any.whl" },
+  { filename = "types_aiobotocore_mediapackage-2.25.0-py3-none-any.whl" },
+]

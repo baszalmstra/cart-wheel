@@ -1,0 +1,147 @@
+{
+  "mistralai-1.9.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a3dc2b8ef3fceaa3582220234261b5c4e3e03a972563b07afa150e44a25a6d3",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "httpx",
+        "invoke",
+        "pydantic",
+        "python-dateutil",
+        "pyyaml",
+        "typing-inspection"
+      ]
+    },
+    "original_requirements": [
+      "authlib (>=1.5.2,<2.0) ; extra == \"agents\"",
+      "eval-type-backport (>=0.2.0)",
+      "google-auth (>=2.27.0) ; extra == \"gcp\"",
+      "griffe (>=1.7.3,<2.0) ; extra == \"agents\"",
+      "httpx (>=0.28.1)",
+      "invoke (>=2.2.0,<3.0.0)",
+      "mcp (>=1.0,<2.0) ; (python_version >= \"3.10\") and (extra == \"agents\")",
+      "pydantic (>=2.10.3)",
+      "python-dateutil (>=2.8.2)",
+      "pyyaml (>=6.0.2,<7.0.0)",
+      "requests (>=2.32.3) ; extra == \"gcp\"",
+      "typing-inspection (>=0.4.0)"
+    ]
+  },
+  "mistralai-1.9.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf0a2906e254bb4825209a26e1957e6e0bacbbe61875bd22128dc3d5d51a7b0a",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "httpx",
+        "invoke",
+        "pydantic",
+        "python-dateutil",
+        "pyyaml",
+        "typing-inspection"
+      ]
+    },
+    "original_requirements": [
+      "authlib (>=1.5.2,<2.0) ; extra == \"agents\"",
+      "eval-type-backport (>=0.2.0)",
+      "google-auth (>=2.27.0) ; extra == \"gcp\"",
+      "griffe (>=1.7.3,<2.0) ; extra == \"agents\"",
+      "httpx (>=0.28.1)",
+      "invoke (>=2.2.0,<3.0.0)",
+      "mcp (>=1.0,<2.0) ; (python_version >= \"3.10\") and (extra == \"agents\")",
+      "pydantic (>=2.10.3)",
+      "python-dateutil (>=2.8.2)",
+      "pyyaml (>=6.0.2,<7.0.0)",
+      "requests (>=2.32.3) ; extra == \"gcp\"",
+      "typing-inspection (>=0.4.0)"
+    ]
+  },
+  "mistralai-1.9.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6742fdbf4a277b605287538761e2665b6fb025328676a024868734ffe78ef72f",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "httpx",
+        "invoke",
+        "pydantic",
+        "python-dateutil",
+        "pyyaml",
+        "typing-inspection"
+      ]
+    },
+    "original_requirements": [
+      "authlib (>=1.5.2,<2.0) ; extra == \"agents\"",
+      "eval-type-backport (>=0.2.0)",
+      "google-auth (>=2.27.0) ; extra == \"gcp\"",
+      "griffe (>=1.7.3,<2.0) ; extra == \"agents\"",
+      "httpx (>=0.28.1)",
+      "invoke (>=2.2.0,<3.0.0)",
+      "mcp (>=1.0,<2.0) ; (python_version >= \"3.10\") and (extra == \"agents\")",
+      "pydantic (>=2.10.3)",
+      "python-dateutil (>=2.8.2)",
+      "pyyaml (>=6.0.2,<7.0.0)",
+      "requests (>=2.32.3) ; extra == \"gcp\"",
+      "typing-inspection (>=0.4.0)"
+    ]
+  },
+  "mistralai-1.9.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4874d62932245c438c4fce04aaf740a9d6da651dc598bf660978a21fb73f017",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "httpx",
+        "invoke",
+        "pydantic",
+        "python-dateutil",
+        "pyyaml",
+        "typing-inspection"
+      ]
+    },
+    "original_requirements": [
+      "authlib (>=1.5.2,<2.0) ; extra == \"agents\"",
+      "eval-type-backport (>=0.2.0)",
+      "google-auth (>=2.27.0) ; extra == \"gcp\"",
+      "griffe (>=1.7.3,<2.0) ; extra == \"agents\"",
+      "httpx (>=0.28.1)",
+      "invoke (>=2.2.0,<3.0.0)",
+      "mcp (>=1.0,<2.0) ; (python_version >= \"3.10\") and (extra == \"agents\")",
+      "pydantic (>=2.10.3)",
+      "python-dateutil (>=2.8.2)",
+      "pyyaml (>=6.0.2,<7.0.0)",
+      "requests (>=2.32.3) ; extra == \"gcp\"",
+      "typing-inspection (>=0.4.0)"
+    ]
+  },
+  "mistralai-1.9.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "abbd32c0c21a870681bca72d4e667a59c02cc87f8d2def788c81b7dc361e8c0f",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "httpx",
+        "invoke",
+        "pydantic",
+        "python-dateutil",
+        "pyyaml",
+        "typing-inspection"
+      ]
+    },
+    "original_requirements": [
+      "authlib (>=1.5.2,<2.0) ; extra == \"agents\"",
+      "eval-type-backport (>=0.2.0)",
+      "google-auth (>=2.27.0) ; extra == \"gcp\"",
+      "griffe (>=1.7.3,<2.0) ; extra == \"agents\"",
+      "httpx (>=0.28.1)",
+      "invoke (>=2.2.0,<3.0.0)",
+      "mcp (>=1.0,<2.0) ; (python_version >= \"3.10\") and (extra == \"agents\")",
+      "pydantic (>=2.10.3)",
+      "python-dateutil (>=2.8.2)",
+      "pyyaml (>=6.0.2,<7.0.0)",
+      "requests (>=2.32.3) ; extra == \"gcp\"",
+      "typing-inspection (>=0.4.0)"
+    ]
+  }
+}

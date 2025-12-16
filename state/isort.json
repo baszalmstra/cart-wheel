@@ -1,0 +1,59 @@
+{
+  "isort-7.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1bcabac8bc3c36c7fb7b98a76c8abb18e0f841a3ba81decac7691008592499c1",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "colorama; extra == 'colors'",
+      "setuptools; extra == 'plugins'"
+    ]
+  },
+  "isort-6.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58d8927ecce74e5087aef019f778d4081a3b6c98f15a80ba35782ca8a2097784",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=4.6.0; python_version < '3.10'",
+      "colorama; extra == 'colors'",
+      "setuptools; extra == 'plugins'"
+    ]
+  },
+  "isort-6.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2dc5d7f65c9678d94c88dfc29161a320eec67328bc97aad576874cb4be1e9615",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "colorama; extra == 'colors'",
+      "setuptools; extra == 'plugins'"
+    ]
+  },
+  "isort-6.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "567954102bb47bb12e0fae62606570faacddd441e45683968c8d1734fb1af892",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "colorama; extra == 'colors'",
+      "setuptools; extra == 'plugins'"
+    ]
+  },
+  "isort-5.13.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ca5e72a8d85860d5a3fa69b8745237f2939afe12dbf656afbcb47fe72d947a6",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "colorama (>=0.4.6) ; extra == \"colors\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for types-beautifulsoup4
+conda_forge = "types-beautifulsoup4"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_beautifulsoup4-4.12.0.20250516-py3-none-any.whl" },
+  { filename = "types_beautifulsoup4-4.12.0.20250204-py3-none-any.whl" },
+  { filename = "types_beautifulsoup4-4.12.0.20241020-py3-none-any.whl" },
+  { filename = "types_beautifulsoup4-4.12.0.20240907-py3-none-any.whl" },
+  { filename = "types_beautifulsoup4-4.12.0.20240511-py3-none-any.whl" },
+]

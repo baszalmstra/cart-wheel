@@ -1,0 +1,137 @@
+{
+  "openinference_instrumentation_openai_agents-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "539361d0f3bdebdb1e898250fbba8e6173f2bce9d7ba007cf7934f10850f474b",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport; python_version < '3.10'",
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.21",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "openai-agents>=0.2.6; extra == 'instruments'"
+    ]
+  },
+  "openinference_instrumentation_openai_agents-1.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6505910e435eb3c371ba486b468ff3eae9aae65e16f2f3be5e3eb300f955794",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport; python_version < '3.10'",
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.21",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "openai-agents>=0.2.6; extra == 'instruments'"
+    ]
+  },
+  "openinference_instrumentation_openai_agents-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4038b5b080dc1194de236ae153026924c69896a48b2f7668c8fd87a628f726d1",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport; python_version < '3.10'",
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.21",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "openai-agents>=0.2.6; extra == 'instruments'"
+    ]
+  },
+  "openinference_instrumentation_openai_agents-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df4de2cb3ceb57a519d7649c5250b44b45cf563da7b758cd207ba16d313ffbeb",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport; python_version < '3.10'",
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.21",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "openai-agents>=0.2.6; extra == 'instruments'"
+    ]
+  },
+  "openinference_instrumentation_openai_agents-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4beb3241ecfac7682100731eaa11f2b44a1e8dec2c4df2646e5906ceeebd596",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport; python_version < '3.10'",
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.21",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "openai-agents>=0.1.0; extra == 'instruments'"
+    ]
+  }
+}

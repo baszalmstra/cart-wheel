@@ -1,0 +1,152 @@
+{
+  "redshift_connector-2.1.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5432261c40f6ff1c4d363ad70c7d8fad75100fc6982fd3c5c8ee9b5962a56602",
+    "dependencies": {
+      "required": [
+        "scramp",
+        "pytz",
+        "beautifulsoup4",
+        "boto3",
+        "requests",
+        "lxml",
+        "botocore",
+        "packaging",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "scramp<1.5.0,>=1.2.0",
+      "pytz>=2020.1",
+      "beautifulsoup4<5.0.0,>=4.7.0",
+      "boto3<2.0.0,>=1.9.201",
+      "requests<3.0.0,>=2.23.0",
+      "lxml<6.0.0,>=4.6.5",
+      "botocore<2.0.0,>=1.12.201",
+      "packaging",
+      "setuptools",
+      "numpy; extra == \"full\"",
+      "pandas; extra == \"full\""
+    ]
+  },
+  "redshift_connector-2.1.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8e1d1c1063eef9b3b6b60c6206171f60642c1bae6d0457e0de9508d244725107",
+    "dependencies": {
+      "required": [
+        "scramp",
+        "pytz",
+        "beautifulsoup4",
+        "boto3",
+        "requests",
+        "lxml",
+        "botocore",
+        "packaging",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "scramp (<1.5.0,>=1.2.0)",
+      "pytz (>=2020.1)",
+      "beautifulsoup4 (<5.0.0,>=4.7.0)",
+      "boto3 (<2.0.0,>=1.9.201)",
+      "requests (<3.0.0,>=2.23.0)",
+      "lxml (<6.0.0,>=4.6.5)",
+      "botocore (<2.0.0,>=1.12.201)",
+      "packaging",
+      "setuptools",
+      "numpy ; extra == 'full'",
+      "pandas ; extra == 'full'"
+    ]
+  },
+  "redshift_connector-2.1.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "160dff3720e8facb5f50f9585f3f68dd5565dd0d986e4e6a879371313da1b36e",
+    "dependencies": {
+      "required": [
+        "scramp",
+        "pytz",
+        "beautifulsoup4",
+        "boto3",
+        "requests",
+        "lxml",
+        "botocore",
+        "packaging",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "scramp (<1.5.0,>=1.2.0)",
+      "pytz (>=2020.1)",
+      "beautifulsoup4 (<5.0.0,>=4.7.0)",
+      "boto3 (<2.0.0,>=1.9.201)",
+      "requests (<3.0.0,>=2.23.0)",
+      "lxml (<6.0.0,>=4.6.5)",
+      "botocore (<2.0.0,>=1.12.201)",
+      "packaging",
+      "setuptools",
+      "numpy ; extra == 'full'",
+      "pandas ; extra == 'full'"
+    ]
+  },
+  "redshift_connector-2.1.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "99c0eef62b5c38283275a33056740949ad45a0e1c0d9da7a8f7fe674cf290d8b",
+    "dependencies": {
+      "required": [
+        "scramp",
+        "pytz",
+        "beautifulsoup4",
+        "boto3",
+        "requests",
+        "lxml",
+        "botocore",
+        "packaging",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "scramp (<1.5.0,>=1.2.0)",
+      "pytz (>=2020.1)",
+      "beautifulsoup4 (<5.0.0,>=4.7.0)",
+      "boto3 (<2.0.0,>=1.9.201)",
+      "requests (<3.0.0,>=2.23.0)",
+      "lxml (>=4.6.5)",
+      "botocore (<2.0.0,>=1.12.201)",
+      "packaging",
+      "setuptools",
+      "numpy ; extra == 'full'",
+      "pandas ; extra == 'full'"
+    ]
+  },
+  "redshift_connector-2.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10d62b1e1402f9db9f6d443cb3830a6e6823203bf3b1bc84cb164d2457d9c51b",
+    "dependencies": {
+      "required": [
+        "scramp",
+        "pytz",
+        "beautifulsoup4",
+        "boto3",
+        "requests",
+        "lxml",
+        "botocore",
+        "packaging",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "scramp (<1.5.0,>=1.2.0)",
+      "pytz (>=2020.1)",
+      "beautifulsoup4 (<5.0.0,>=4.7.0)",
+      "boto3 (<2.0.0,>=1.9.201)",
+      "requests (<3.0.0,>=2.23.0)",
+      "lxml (>=4.6.5)",
+      "botocore (<2.0.0,>=1.12.201)",
+      "packaging",
+      "setuptools",
+      "numpy ; extra == 'full'",
+      "pandas ; extra == 'full'"
+    ]
+  }
+}

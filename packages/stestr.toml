@@ -1,0 +1,12 @@
+# Package configuration for stestr
+conda_forge = "stestr"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "stestr-4.2.0-py3-none-any.whl" },
+  { filename = "stestr-4.1.0-py3-none-any.whl" },
+  { filename = "stestr-4.0.1-py3-none-any.whl" },
+  { filename = "stestr-4.0.0-py3-none-any.whl" },
+  { filename = "stestr-3.2.1-py3-none-any.whl" },
+]

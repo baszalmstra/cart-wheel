@@ -1,0 +1,162 @@
+{
+  "aws_cdk.aws_batch-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "917d4578e36c6a5efc61bdc42c5ec95a197a748c11215171d12f84aee9ee977e",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-ecr",
+        "aws-cdk.aws-ecs",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.aws-ssm",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-ec2 (==1.204.0)",
+      "aws-cdk.aws-ecr (==1.204.0)",
+      "aws-cdk.aws-ecs (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-secretsmanager (==1.204.0)",
+      "aws-cdk.aws-ssm (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_batch-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9830a5972f8bc7f32cf7529843796ddbaf2a0f830ec8fa1334843af23c9115ae",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-ecr",
+        "aws-cdk.aws-ecs",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.aws-ssm",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-ec2 (==1.203.0)",
+      "aws-cdk.aws-ecr (==1.203.0)",
+      "aws-cdk.aws-ecs (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-secretsmanager (==1.203.0)",
+      "aws-cdk.aws-ssm (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_batch-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40d86961bd45afb06f0215a6820f35b49cac8dd4926cc4e4803fc64bd960d8cd",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-ecr",
+        "aws-cdk.aws-ecs",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.aws-ssm",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-ec2 (==1.202.0)",
+      "aws-cdk.aws-ecr (==1.202.0)",
+      "aws-cdk.aws-ecs (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-secretsmanager (==1.202.0)",
+      "aws-cdk.aws-ssm (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_batch-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b47dc94725f1fd2bb3a4802be191a5dba479171342daa26906afad9398d1d7d6",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-ecr",
+        "aws-cdk.aws-ecs",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.aws-ssm",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-ec2 (==1.201.0)",
+      "aws-cdk.aws-ecr (==1.201.0)",
+      "aws-cdk.aws-ecs (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-secretsmanager (==1.201.0)",
+      "aws-cdk.aws-ssm (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_batch-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de077e1d043b1d3f511eddcb352488ed815482095acbe2c666154fdfb17641c2",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-ecr",
+        "aws-cdk.aws-ecs",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.aws-ssm",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-ec2 (==1.200.0)",
+      "aws-cdk.aws-ecr (==1.200.0)",
+      "aws-cdk.aws-ecs (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-secretsmanager (==1.200.0)",
+      "aws-cdk.aws-ssm (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

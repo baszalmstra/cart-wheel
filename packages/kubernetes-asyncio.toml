@@ -1,0 +1,12 @@
+# Package configuration for kubernetes-asyncio
+conda_forge = "kubernetes_asyncio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kubernetes_asyncio-33.3.0-py3-none-any.whl" },
+  { filename = "kubernetes_asyncio-32.3.2-py3-none-any.whl" },
+  { filename = "kubernetes_asyncio-32.3.1-py3-none-any.whl" },
+  { filename = "kubernetes_asyncio-32.3.0-py3-none-any.whl" },
+  { filename = "kubernetes_asyncio-32.0.0-py3-none-any.whl" },
+]

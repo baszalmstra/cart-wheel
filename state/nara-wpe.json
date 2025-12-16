@@ -1,0 +1,174 @@
+{
+  "nara_wpe-0.0.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce5f51478da5fa87925c85b8f5fecc784d2b4775488ada64e7b36099d3438711",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "tqdm",
+        "soundfile",
+        "bottleneck",
+        "click",
+        "pathlib2"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "tqdm",
+      "soundfile",
+      "bottleneck",
+      "click",
+      "pathlib2 ; python_version < \"3.0\"",
+      "check-manifest ; extra == 'dev'",
+      "pytest ; extra == 'test'",
+      "coverage ; extra == 'test'",
+      "jupyter ; extra == 'test'",
+      "matplotlib ; extra == 'test'",
+      "scipy ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "codecov ; extra == 'test'",
+      "pandas ; extra == 'test'",
+      "torch ; extra == 'test'",
+      "cached-property ; extra == 'test'",
+      "zmq ; extra == 'test'",
+      "pyzmq ; extra == 'test'",
+      "pymatbridge ; extra == 'test'",
+      "tensorflow ==1.12.0 ; (python_version < \"3.7\") and extra == 'test'"
+    ]
+  },
+  "nara_wpe-0.0.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1ffcf6946be8b22320c45a3b6b9563d7a50b164b6c7a6105fa6a7a6d967d4f4a",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "tqdm",
+        "soundfile",
+        "bottleneck",
+        "click",
+        "pathlib2"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "tqdm",
+      "soundfile",
+      "bottleneck",
+      "click",
+      "pathlib2 ; python_version < \"3.0\"",
+      "check-manifest ; extra == 'dev'",
+      "pytest ; extra == 'test'",
+      "coverage ; extra == 'test'",
+      "jupyter ; extra == 'test'",
+      "matplotlib ; extra == 'test'",
+      "scipy ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "codecov ; extra == 'test'",
+      "pandas ; extra == 'test'",
+      "torch ; extra == 'test'",
+      "cached-property ; extra == 'test'",
+      "zmq ; extra == 'test'",
+      "pyzmq ; extra == 'test'",
+      "pymatbridge ; extra == 'test'",
+      "tensorflow ==1.12.0 ; (python_version < \"3.7\") and extra == 'test'"
+    ]
+  },
+  "nara_wpe-0.0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3207bc4668224d6abdfe80feaaa53ceb9f432ca247a1e67b2f47dad2213d13c5",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "tqdm",
+        "soundfile",
+        "bottleneck",
+        "click",
+        "pathlib2"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "tqdm",
+      "soundfile",
+      "bottleneck",
+      "click",
+      "pathlib2 ; python_version < \"3.0\"",
+      "check-manifest ; extra == 'dev'",
+      "pytest ; extra == 'test'",
+      "coverage ; extra == 'test'",
+      "jupyter ; extra == 'test'",
+      "matplotlib ; extra == 'test'",
+      "scipy ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "codecov ; extra == 'test'",
+      "pandas ; extra == 'test'",
+      "torch ; extra == 'test'",
+      "cached-property ; extra == 'test'",
+      "pyzmq ; extra == 'test'",
+      "pymatbridge ; extra == 'test'",
+      "tensorflow (==1.12.0) ; (python_version < \"3.7\") and extra == 'test'"
+    ]
+  },
+  "nara_wpe-0.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f552768dfe1a5ba22ca07633fff3dd173f657084f7d8909eefb4e78107d72408",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "tqdm",
+        "soundfile",
+        "bottleneck",
+        "click",
+        "pathlib2"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "tqdm",
+      "soundfile",
+      "bottleneck",
+      "click",
+      "pathlib2 ; python_version < \"3.0\"",
+      "check-manifest ; extra == 'dev'",
+      "pytest ; extra == 'test'",
+      "coverage ; extra == 'test'",
+      "jupyter ; extra == 'test'",
+      "matplotlib ; extra == 'test'",
+      "scipy ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "codecov ; extra == 'test'",
+      "pandas ; extra == 'test'",
+      "torch ; extra == 'test'",
+      "cached-property ; extra == 'test'",
+      "pyzmq ; extra == 'test'",
+      "pymatbridge ; extra == 'test'",
+      "tensorflow (==1.12.0) ; (python_version < \"3.7\") and extra == 'test'"
+    ]
+  },
+  "nara_wpe-0.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ebcd08ad5f9050238d501e81eddcd6a73fc4669935d4f9677d72ee1ef3dfb7be",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "tqdm",
+        "soundfile",
+        "bottleneck",
+        "click",
+        "pathlib2"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "tqdm",
+      "soundfile",
+      "bottleneck",
+      "click",
+      "pathlib2 ; python_version < \"3.0\"",
+      "check-manifest ; extra == 'dev'",
+      "coverage ; extra == 'test'",
+      "jupyter ; extra == 'test'",
+      "matplotlib ; extra == 'test'"
+    ]
+  }
+}

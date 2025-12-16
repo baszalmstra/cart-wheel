@@ -1,0 +1,117 @@
+{
+  "flask_limiter-4.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e1ae13e06e6b3e39a4902e7d240b901586b25932c2add7bd5f5eeb4bdc11111b",
+    "dependencies": {
+      "required": [
+        "flask",
+        "limits",
+        "ordered-set",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "flask>=2",
+      "limits>=3.13",
+      "ordered-set<5,>4",
+      "typing-extensions>=4.3",
+      "rich<15,>=12; extra == 'cli'",
+      "limits[memcached]; extra == 'memcached'",
+      "limits[mongodb]; extra == 'mongodb'",
+      "limits[redis]; extra == 'redis'",
+      "limits[valkey]; extra == 'valkey'"
+    ]
+  },
+  "flask_limiter-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c67c0d334f50ae9f1288b0c2f622cc9ed42018a145f66e59918b9aecb5efcdc",
+    "dependencies": {
+      "required": [
+        "flask",
+        "limits",
+        "ordered-set",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "flask>=2",
+      "limits>=3.13",
+      "ordered-set<5,>4",
+      "typing-extensions>=4.3",
+      "rich<15,>=12; extra == 'cli'",
+      "limits[memcached]; extra == 'memcached'",
+      "limits[mongodb]; extra == 'mongodb'",
+      "limits[redis]; extra == 'redis'",
+      "limits[valkey]; extra == 'valkey'"
+    ]
+  },
+  "flask_limiter-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be62b462d5a052d21572d4c932e18a8da58cf9ddc18a34b6f1c21fa2ec35a395",
+    "dependencies": {
+      "required": [
+        "flask",
+        "limits",
+        "ordered-set",
+        "rich",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "flask>=2",
+      "limits>=3.13",
+      "ordered-set<5,>4",
+      "rich<15,>=12",
+      "typing-extensions>=4.3",
+      "limits[memcached]; extra == 'memcached'",
+      "limits[mongodb]; extra == 'mongodb'",
+      "limits[redis]; extra == 'redis'",
+      "limits[valkey]; extra == 'valkey'"
+    ]
+  },
+  "flask_limiter-3.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b94c9e9584df98209542686947cf647f1ede35ed7e4ab564934a2bb9ed46b143",
+    "dependencies": {
+      "required": [
+        "limits",
+        "flask",
+        "ordered-set",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "limits>=3.13",
+      "Flask>=2",
+      "ordered-set<5,>4",
+      "rich<14,>=12",
+      "limits[redis]; extra == \"redis\"",
+      "limits[memcached]; extra == \"memcached\"",
+      "limits[mongodb]; extra == \"mongodb\"",
+      "limits[valkey]; extra == \"valkey\""
+    ]
+  },
+  "flask_limiter-3.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae7ef0b3742228df91073d72eab0ce114fe6b00e6201ad9e12aefd53fe597352",
+    "dependencies": {
+      "required": [
+        "limits",
+        "flask",
+        "ordered-set",
+        "rich",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "limits>=3.13",
+      "Flask>=2",
+      "ordered-set<5,>4",
+      "rich<14,>=12",
+      "typing_extensions>=4",
+      "limits[redis]; extra == \"redis\"",
+      "limits[memcached]; extra == \"memcached\"",
+      "limits[mongodb]; extra == \"mongodb\""
+    ]
+  }
+}

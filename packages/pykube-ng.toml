@@ -1,0 +1,12 @@
+# Package configuration for pykube-ng
+conda_forge = "pykube-ng"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pykube_ng-23.6.0-py3-none-any.whl" },
+  { filename = "pykube_ng-22.9.0-py3-none-any.whl" },
+  { filename = "pykube_ng-22.7.0-py3-none-any.whl" },
+  { filename = "pykube_ng-22.6.0-py3-none-any.whl" },
+  { filename = "pykube_ng-22.1.0-py3-none-any.whl" },
+]

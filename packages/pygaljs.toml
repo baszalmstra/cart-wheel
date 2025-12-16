@@ -1,0 +1,9 @@
+# Package configuration for pygaljs
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pygaljs-1.0.2-py2.py3-none-any.whl" },
+  { filename = "pygaljs-1.0.1-py2.py3-none-any.whl" },
+  { filename = "pygaljs-1.0.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for types-aiobotocore-opsworkscm
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_opsworkscm-2.24.2-py3-none-any.whl" },
+  { filename = "types_aiobotocore_opsworkscm-2.24.1-py3-none-any.whl" },
+  { filename = "types_aiobotocore_opsworkscm-2.24.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_opsworkscm-2.23.2-py3-none-any.whl" },
+  { filename = "types_aiobotocore_opsworkscm-2.23.1-py3-none-any.whl" },
+]

@@ -1,0 +1,92 @@
+{
+  "mdformat_gfm-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7305a50efd2a140d7c83505b58e3ac5df2b09e293f9bbe72f6c7bee8c678b005",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "markdown-it-py",
+        "mdit-py-plugins",
+        "wcwidth"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.5",
+      "markdown-it-py",
+      "mdit-py-plugins >=0.2.0",
+      "wcwidth >=0.2.13"
+    ]
+  },
+  "mdformat_gfm-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63c92cfa5102f55779d4e04b16a79a6a5171e658c6c479175c0955fb4ca78dde",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "markdown-it-py",
+        "mdit-py-plugins",
+        "mdformat-tables"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.5,<0.8.0",
+      "markdown-it-py",
+      "mdit-py-plugins >=0.2.0",
+      "mdformat-tables >=0.4.0"
+    ]
+  },
+  "mdformat_gfm-0.3.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c40966ef26e334226961ab77908dc9697ed63668f6383a18c80cca1cb4bb5c10",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "markdown-it-py",
+        "mdit-py-plugins",
+        "mdformat-tables"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.5,<0.8.0",
+      "markdown-it-py[linkify]",
+      "mdit-py-plugins >=0.2.0",
+      "mdformat-tables >=0.4.0"
+    ]
+  },
+  "mdformat_gfm-0.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "579e3619bedd3b7123df888b6929ab8ac5dfc8205d0b67153b1633262bdafc42",
+    "dependencies": {
+      "required": [
+        "markdown-it-py",
+        "mdformat",
+        "mdformat-tables",
+        "mdit-py-plugins"
+      ]
+    },
+    "original_requirements": [
+      "markdown-it-py[linkify]",
+      "mdformat (>=0.7.5,<0.8.0)",
+      "mdformat-tables (>=0.4.0)",
+      "mdit-py-plugins (>=0.2.0)"
+    ]
+  },
+  "mdformat_gfm-0.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e627edc7665b59e008b3b9e5decc18c40cbd625c196d77e5ea3bc624e80ac8a",
+    "dependencies": {
+      "required": [
+        "markdown-it-py",
+        "mdformat",
+        "mdformat-tables",
+        "mdit-py-plugins"
+      ]
+    },
+    "original_requirements": [
+      "markdown-it-py[linkify]",
+      "mdformat (>=0.7.5,<0.8.0)",
+      "mdformat-tables (>=0.4.0)",
+      "mdit-py-plugins (>=0.2.0,<0.4.0)"
+    ]
+  }
+}

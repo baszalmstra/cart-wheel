@@ -1,0 +1,12 @@
+# Package configuration for text-generation
+conda_forge = "text-generation"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "text_generation-0.7.0-py3-none-any.whl" },
+  { filename = "text_generation-0.6.1-py3-none-any.whl" },
+  { filename = "text_generation-0.6.0-py3-none-any.whl" },
+  { filename = "text_generation-0.5.2-py3-none-any.whl" },
+  { filename = "text_generation-0.5.1-py3-none-any.whl" },
+]

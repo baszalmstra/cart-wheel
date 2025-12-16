@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-guardduty
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_guardduty-1.42.6-py3-none-any.whl" },
+  { filename = "mypy_boto3_guardduty-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_guardduty-1.42.1-py3-none-any.whl" },
+  { filename = "mypy_boto3_guardduty-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_guardduty-1.40.75-py3-none-any.whl" },
+]

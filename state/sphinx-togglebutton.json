@@ -1,0 +1,108 @@
+{
+  "sphinx_togglebutton-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9647ba7874b7d1e2d43413d8497153a85edc6ac95a3fea9a75ef9c1e08aaae2b",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "wheel",
+        "sphinx",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "wheel",
+      "sphinx",
+      "docutils",
+      "matplotlib ; extra == 'sphinx'",
+      "numpy ; extra == 'sphinx'",
+      "myst-nb ; extra == 'sphinx'",
+      "sphinx-book-theme ; extra == 'sphinx'",
+      "sphinx-design ; extra == 'sphinx'",
+      "sphinx-examples ; extra == 'sphinx'"
+    ]
+  },
+  "sphinx_togglebutton-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c7dd61a952cab848697b9633727554257960e399dcfbc9f6328ac0ae39bfb96",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "wheel",
+        "sphinx",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "wheel",
+      "sphinx",
+      "docutils",
+      "myst-parser ; extra == 'sphinx'",
+      "sphinx-book-theme ; extra == 'sphinx'",
+      "sphinx-design ; extra == 'sphinx'"
+    ]
+  },
+  "sphinx_togglebutton-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6f37dc04fab6f07154c598973fcb4615171885d90a0e4575f80203c9ddef44a",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "wheel",
+        "sphinx",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "wheel",
+      "sphinx",
+      "docutils",
+      "myst-parser ; extra == 'sphinx'",
+      "sphinx-book-theme ; extra == 'sphinx'",
+      "sphinx-design ; extra == 'sphinx'"
+    ]
+  },
+  "sphinx_togglebutton-0.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a3707154b1b3480a7918f189f43b7eee0d34ffa552895af77bb273476b8d5e0",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "wheel",
+        "sphinx",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "wheel",
+      "sphinx",
+      "docutils",
+      "myst-nb ; extra == 'sphinx'",
+      "sphinx-book-theme ; extra == 'sphinx'"
+    ]
+  },
+  "sphinx_togglebutton-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4ebd79d2ed0a0940502f4649cff0fdb45a5dbda80a1878f9cce437bf8909fe6",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "wheel",
+        "sphinx",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "wheel",
+      "sphinx",
+      "docutils",
+      "myst-nb ; extra == 'sphinx'",
+      "sphinx-book-theme ; extra == 'sphinx'"
+    ]
+  }
+}

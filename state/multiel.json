@@ -1,0 +1,186 @@
+{
+  "MultiEL-0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c036e85f7f048339bdcdcf8401beca484351bbf9440d80cbf5ac8000ec465ec2",
+    "dependencies": {
+      "required": [
+        "faiss-gpu",
+        "fairscale",
+        "hydra-core",
+        "hydra-submitit-launcher",
+        "pyyaml",
+        "pytorch-lightning",
+        "transformers",
+        "tqdm",
+        "sentencepiece",
+        "h5py",
+        "protobuf",
+        "ujson",
+        "huggingface-hub",
+        "accelerate"
+      ]
+    },
+    "original_requirements": [
+      "faiss-gpu",
+      "fairscale",
+      "hydra-core",
+      "hydra-submitit-launcher",
+      "pyyaml",
+      "pytorch-lightning",
+      "transformers",
+      "tqdm",
+      "sentencepiece",
+      "h5py",
+      "protobuf (==3.20)",
+      "ujson",
+      "huggingface-hub",
+      "accelerate (>=0.9.0)"
+    ]
+  },
+  "MultiEL-0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc9e2ee2aed04471b5cc8845e8120815afcd16811247b0c0554cf5f76f5f030e",
+    "dependencies": {
+      "required": [
+        "faiss-gpu",
+        "fairscale",
+        "hydra-core",
+        "hydra-submitit-launcher",
+        "pyyaml",
+        "pytorch-lightning",
+        "transformers",
+        "tqdm",
+        "sentencepiece",
+        "h5py",
+        "protobuf",
+        "ujson",
+        "huggingface-hub",
+        "accelerate"
+      ]
+    },
+    "original_requirements": [
+      "faiss-gpu",
+      "fairscale",
+      "hydra-core",
+      "hydra-submitit-launcher",
+      "pyyaml",
+      "pytorch-lightning",
+      "transformers",
+      "tqdm",
+      "sentencepiece",
+      "h5py",
+      "protobuf (==3.20)",
+      "ujson",
+      "huggingface-hub",
+      "accelerate (>=0.9.0)"
+    ]
+  },
+  "MultiEL-0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b7e251812c605259ee05f2546e9089933b7d237270679333cc33b66cb4489e0",
+    "dependencies": {
+      "required": [
+        "faiss-gpu",
+        "fairscale",
+        "hydra-core",
+        "hydra-submitit-launcher",
+        "pyyaml",
+        "pytorch-lightning",
+        "transformers",
+        "tqdm",
+        "sentencepiece",
+        "h5py",
+        "protobuf",
+        "ujson",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "faiss-gpu",
+      "fairscale",
+      "hydra-core",
+      "hydra-submitit-launcher",
+      "pyyaml",
+      "pytorch-lightning",
+      "transformers",
+      "tqdm",
+      "sentencepiece",
+      "h5py",
+      "protobuf (==3.20)",
+      "ujson",
+      "huggingface-hub"
+    ]
+  },
+  "MultiEL-0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4edeba7fcdf631814e1f4094472037b5506f933c1e4328d3e263a380486218d4",
+    "dependencies": {
+      "required": [
+        "faiss-gpu",
+        "fairscale",
+        "hydra-core",
+        "hydra-submitit-launcher",
+        "pyyaml",
+        "pytorch-lightning",
+        "transformers",
+        "tqdm",
+        "sentencepiece",
+        "h5py",
+        "protobuf",
+        "ujson",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "faiss-gpu",
+      "fairscale",
+      "hydra-core",
+      "hydra-submitit-launcher",
+      "pyyaml",
+      "pytorch-lightning",
+      "transformers",
+      "tqdm",
+      "sentencepiece",
+      "h5py",
+      "protobuf (==3.20)",
+      "ujson",
+      "huggingface-hub"
+    ]
+  },
+  "MultiEL-0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0517250115693c9de9f2cc3552fde36842d1427c4bad8843b6eeb04735c721be",
+    "dependencies": {
+      "required": [
+        "faiss-gpu",
+        "fairscale",
+        "hydra-core",
+        "hydra-submitit-launcher",
+        "pyyaml",
+        "pytorch-lightning",
+        "transformers",
+        "tqdm",
+        "sentencepiece",
+        "h5py",
+        "protobuf",
+        "ujson",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "faiss-gpu",
+      "fairscale",
+      "hydra-core",
+      "hydra-submitit-launcher",
+      "pyyaml",
+      "pytorch-lightning",
+      "transformers",
+      "tqdm",
+      "sentencepiece",
+      "h5py",
+      "protobuf (==3.20)",
+      "ujson",
+      "huggingface-hub"
+    ]
+  }
+}

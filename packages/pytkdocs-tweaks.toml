@@ -1,0 +1,11 @@
+# Package configuration for pytkdocs-tweaks
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytkdocs_tweaks-0.0.8-py3-none-any.whl" },
+  { filename = "pytkdocs_tweaks-0.0.7-py3-none-any.whl" },
+  { filename = "pytkdocs_tweaks-0.0.6-py3-none-any.whl" },
+  { filename = "pytkdocs_tweaks-0.0.5-py3-none-any.whl" },
+  { filename = "pytkdocs_tweaks-0.0.4-py3-none-any.whl" },
+]

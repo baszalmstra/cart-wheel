@@ -1,0 +1,12 @@
+# Package configuration for kedro
+conda_forge = "kedro"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kedro-1.1.1-py3-none-any.whl" },
+  { filename = "kedro-1.1.0-py3-none-any.whl" },
+  { filename = "kedro-1.0.0-py3-none-any.whl" },
+  { filename = "kedro-0.19.15-py3-none-any.whl" },
+  { filename = "kedro-0.19.14-py3-none-any.whl" },
+]

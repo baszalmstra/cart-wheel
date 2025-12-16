@@ -1,0 +1,12 @@
+# Package configuration for juliapkg
+conda_forge = "pyjuliapkg"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "juliapkg-0.1.22-py3-none-any.whl" },
+  { filename = "juliapkg-0.1.21-py3-none-any.whl" },
+  { filename = "juliapkg-0.1.20-py3-none-any.whl" },
+  { filename = "juliapkg-0.1.19-py3-none-any.whl" },
+  { filename = "juliapkg-0.1.18-py3-none-any.whl" },
+]

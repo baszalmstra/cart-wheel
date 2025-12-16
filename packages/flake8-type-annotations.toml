@@ -1,0 +1,7 @@
+# Package configuration for flake8-type-annotations
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_type_annotations-0.1.0-py3-none-any.whl" },
+]

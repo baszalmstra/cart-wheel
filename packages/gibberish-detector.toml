@@ -1,0 +1,9 @@
+# Package configuration for gibberish-detector
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gibberish_detector-0.1.1-py3-none-any.whl" },
+  { filename = "gibberish_detector-0.1.0-py3-none-any.whl" },
+  { filename = "gibberish_detector-0.0.1-py3-none-any.whl" },
+]

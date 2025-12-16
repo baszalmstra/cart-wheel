@@ -1,0 +1,10 @@
+# Package configuration for rdflib-jsonld
+conda_forge = "rdflib-jsonld"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rdflib_jsonld-0.6.2-py2.py3-none-any.whl" },
+  { filename = "rdflib_jsonld-0.6.1-py2.py3-none-any.whl" },
+  { filename = "rdflib_jsonld-0.6.0-py2.py3-none-any.whl" },
+]

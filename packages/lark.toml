@@ -1,0 +1,12 @@
+# Package configuration for lark
+conda_forge = "lark"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lark-1.3.1-py3-none-any.whl" },
+  { filename = "lark-1.3.0-py3-none-any.whl" },
+  { filename = "lark-1.2.2-py3-none-any.whl" },
+  { filename = "lark-1.2.1-py3-none-any.whl" },
+  { filename = "lark-1.1.9-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for reconplogger
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "reconplogger-4.18.1-py3-none-any.whl" },
+  { filename = "reconplogger-4.18.0-py3-none-any.whl" },
+  { filename = "reconplogger-4.17.1-py3-none-any.whl" },
+  { filename = "reconplogger-4.17.0-py3-none-any.whl" },
+  { filename = "reconplogger-4.16.1-py3-none-any.whl" },
+]

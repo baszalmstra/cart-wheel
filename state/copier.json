@@ -1,0 +1,202 @@
+{
+  "copier-9.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "628adac090f7b333bb64bf5cab03456b99971a77e4d5b2b979e30b8451cbda9d",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "dunamai",
+        "funcy",
+        "jinja2-ansible-filters",
+        "jinja2",
+        "packaging",
+        "pathspec",
+        "platformdirs",
+        "plumbum",
+        "pydantic",
+        "pygments",
+        "pyyaml",
+        "questionary",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "colorama>=0.4.6",
+      "dunamai>=1.7.0",
+      "funcy>=1.17",
+      "jinja2-ansible-filters>=1.3.1",
+      "jinja2>=3.1.5",
+      "packaging>=23.0",
+      "pathspec>=0.9.0",
+      "platformdirs>=4.3.6",
+      "plumbum>=1.6.9",
+      "pydantic>=2.4.2",
+      "pygments>=2.7.1",
+      "pyyaml>=5.3.1",
+      "questionary>=1.8.1",
+      "typing-extensions<5.0.0,>=4.0.0; python_version < '3.11'"
+    ]
+  },
+  "copier-9.10.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7165239566f68e9e36c148f71e0552bf1e4911eef96bfa7cf33e6a0dbfed3c96",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "dunamai",
+        "eval-type-backport",
+        "funcy",
+        "jinja2-ansible-filters",
+        "jinja2",
+        "packaging",
+        "pathspec",
+        "platformdirs",
+        "plumbum",
+        "pydantic",
+        "pygments",
+        "pyyaml",
+        "questionary",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "colorama>=0.4.6",
+      "dunamai>=1.7.0",
+      "eval-type-backport<0.3.0,>=0.1.3; python_version < '3.10'",
+      "funcy>=1.17",
+      "jinja2-ansible-filters>=1.3.1",
+      "jinja2>=3.1.5",
+      "packaging>=23.0",
+      "pathspec>=0.9.0",
+      "platformdirs>=4.3.6",
+      "plumbum>=1.6.9",
+      "pydantic>=2.4.2",
+      "pygments>=2.7.1",
+      "pyyaml>=5.3.1",
+      "questionary>=1.8.1",
+      "typing-extensions<5.0.0,>=4.0.0; python_version < '3.11'"
+    ]
+  },
+  "copier-9.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85b37839e2bac93b8b48d17dc438f362fdf8787a07d821d8263a427e8be8a522",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "dunamai",
+        "eval-type-backport",
+        "funcy",
+        "jinja2-ansible-filters",
+        "jinja2",
+        "packaging",
+        "pathspec",
+        "platformdirs",
+        "plumbum",
+        "pydantic",
+        "pygments",
+        "pyyaml",
+        "questionary",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "colorama>=0.4.6",
+      "dunamai>=1.7.0",
+      "eval-type-backport<0.3.0,>=0.1.3; python_version < '3.10'",
+      "funcy>=1.17",
+      "jinja2-ansible-filters>=1.3.1",
+      "jinja2>=3.1.5",
+      "packaging>=23.0",
+      "pathspec>=0.9.0",
+      "platformdirs>=4.3.6",
+      "plumbum>=1.6.9",
+      "pydantic>=2.4.2",
+      "pygments>=2.7.1",
+      "pyyaml>=5.3.1",
+      "questionary>=1.8.1",
+      "typing-extensions<5.0.0,>=4.0.0; python_version < '3.11'"
+    ]
+  },
+  "copier-9.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b1b406367c67e5ee389778246cea18cddd55e71bfc6503d5fa13fe73304407a",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "dunamai",
+        "eval-type-backport",
+        "funcy",
+        "jinja2-ansible-filters",
+        "jinja2",
+        "packaging",
+        "pathspec",
+        "platformdirs",
+        "plumbum",
+        "prompt-toolkit",
+        "pydantic",
+        "pygments",
+        "pyyaml",
+        "questionary",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "colorama>=0.4.6",
+      "dunamai>=1.7.0",
+      "eval-type-backport<0.3.0,>=0.1.3; python_version < '3.10'",
+      "funcy>=1.17",
+      "jinja2-ansible-filters>=1.3.1",
+      "jinja2>=3.1.5",
+      "packaging>=23.0",
+      "pathspec>=0.9.0",
+      "platformdirs>=4.3.6",
+      "plumbum>=1.6.9",
+      "prompt-toolkit<3.0.52",
+      "pydantic>=2.4.2",
+      "pygments>=2.7.1",
+      "pyyaml>=5.3.1",
+      "questionary>=1.8.1",
+      "typing-extensions<5.0.0,>=4.0.0; python_version < '3.11'"
+    ]
+  },
+  "copier-9.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dbefbe01795980bc6300afa63f7e0c4d44191c022d3b9cfd3ac63d9e61f9b390",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "dunamai",
+        "eval-type-backport",
+        "funcy",
+        "jinja2-ansible-filters",
+        "jinja2",
+        "packaging",
+        "pathspec",
+        "platformdirs",
+        "plumbum",
+        "pydantic",
+        "pygments",
+        "pyyaml",
+        "questionary",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "colorama>=0.4.6",
+      "dunamai>=1.7.0",
+      "eval-type-backport<0.3.0,>=0.1.3; python_version < '3.10'",
+      "funcy>=1.17",
+      "jinja2-ansible-filters>=1.3.1",
+      "jinja2>=3.1.5",
+      "packaging>=23.0",
+      "pathspec>=0.9.0",
+      "platformdirs>=4.3.6",
+      "plumbum>=1.6.9",
+      "pydantic>=2.4.2",
+      "pygments>=2.7.1",
+      "pyyaml>=5.3.1",
+      "questionary>=1.8.1",
+      "typing-extensions<5.0.0,>=4.0.0; python_version < '3.11'"
+    ]
+  }
+}

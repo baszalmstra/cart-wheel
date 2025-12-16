@@ -1,0 +1,11 @@
+# Package configuration for google-cloud-pipeline-components
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_pipeline_components-2.22.0-py3-none-any.whl" },
+  { filename = "google_cloud_pipeline_components-2.21.0-py3-none-any.whl" },
+  { filename = "google_cloud_pipeline_components-2.20.1-py3-none-any.whl" },
+  { filename = "google_cloud_pipeline_components-2.20.0-py3-none-any.whl" },
+  { filename = "google_cloud_pipeline_components-2.19.0-py3-none-any.whl" },
+]

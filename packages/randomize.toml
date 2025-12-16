@@ -1,0 +1,9 @@
+# Package configuration for randomize
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "randomize-0.14-py2.py3-none-any.whl" },
+  { filename = "randomize-0.13-py2.py3-none-any.whl" },
+  { filename = "randomize-0.12-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,86 @@
+{
+  "ptflops-0.7.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c47543d5209a21e0805b39a50d452c8f8f6f5b648684777490db6f9459bdda07",
+    "dependencies": {
+      "required": [
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.0",
+      "flake8==5.0.1; extra == \"dev\"",
+      "flake8-import-order==0.18.1; extra == \"dev\"",
+      "isort==4.3.21; extra == \"dev\"",
+      "torchvision>=0.5.0; extra == \"dev\"",
+      "pytest==7.1.2; extra == \"dev\"",
+      "packaging; extra == \"dev\""
+    ]
+  },
+  "ptflops-0.7.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17f63e2da8651979fdffff7bab2091d04dddde22f7b42f96a6297a135d1de049",
+    "dependencies": {
+      "required": [
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "torch >=2.0",
+      "flake8 ==3.8.1 ; extra == 'dev'",
+      "flake8-import-order ==0.18.1 ; extra == 'dev'",
+      "isort ==4.3.21 ; extra == 'dev'",
+      "torchvision >=0.5.0 ; extra == 'dev'",
+      "pytest ==7.1.2 ; extra == 'dev'",
+      "packaging ; extra == 'dev'"
+    ]
+  },
+  "ptflops-0.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19272f25f716fd1edafba9212698b8b0961b0e8b4fd6c8ffc0a47f02c33e0d15",
+    "dependencies": {
+      "required": [
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "flake8 ==3.8.1 ; extra == 'dev'",
+      "flake8-import-order ==0.18.1 ; extra == 'dev'",
+      "isort ==4.3.21 ; extra == 'dev'",
+      "torchvision >=0.5.0 ; extra == 'dev'",
+      "pytest ==7.1.2 ; extra == 'dev'",
+      "packaging ; extra == 'dev'"
+    ]
+  },
+  "ptflops-0.7.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4660c057f59be22c160c9b080aa7f8f4ad6336d84a3390957b572f0bf98f7650",
+    "dependencies": {
+      "required": [
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "flake8 ==3.8.1 ; extra == 'dev'",
+      "flake8-import-order ==0.18.1 ; extra == 'dev'",
+      "isort ==4.3.21 ; extra == 'dev'",
+      "torchvision >=0.5.0 ; extra == 'dev'",
+      "pytest ==7.1.2 ; extra == 'dev'",
+      "packaging ; extra == 'dev'"
+    ]
+  },
+  "ptflops-0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "130b7920bf5993bb28a5daf1a5ef693be9bcf7d0fdd3764ec87e804df0e33880",
+    "dependencies": {
+      "required": [
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "torch"
+    ]
+  }
+}

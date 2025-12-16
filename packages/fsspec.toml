@@ -1,0 +1,12 @@
+# Package configuration for fsspec
+conda_forge = "filesystem-spec"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fsspec-2025.12.0-py3-none-any.whl" },
+  { filename = "fsspec-2025.10.0-py3-none-any.whl" },
+  { filename = "fsspec-2025.9.0-py3-none-any.whl" },
+  { filename = "fsspec-2025.7.0-py3-none-any.whl" },
+  { filename = "fsspec-2025.5.1-py3-none-any.whl" },
+]

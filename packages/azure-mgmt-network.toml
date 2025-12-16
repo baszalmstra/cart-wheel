@@ -1,0 +1,12 @@
+# Package configuration for azure-mgmt-network
+conda_forge = "azure-mgmt-network"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_mgmt_network-30.1.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_network-30.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_network-29.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_network-28.1.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_network-28.0.0-py3-none-any.whl" },
+]

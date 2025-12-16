@@ -1,0 +1,147 @@
+{
+  "allpairspy-2.5.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:41.113438+00:00",
+    "conda_file": "allpairspy-2.5.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "test": [
+          "pytest",
+          "pytest-md-report"
+        ]
+      }
+    },
+    "original_requirements": [
+      "pytest (>=6.0.1) ; extra == 'test'",
+      "pytest-md-report (>=0.3) ; extra == 'test'"
+    ]
+  },
+  "allpairspy-2.5.0-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:41.271366+00:00",
+    "conda_file": "allpairspy-2.5.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "six"
+      ],
+      "optional": {
+        "build": [
+          "twine",
+          "wheel"
+        ],
+        "release": [
+          "releasecmd"
+        ],
+        "test": [
+          "pytest"
+        ]
+      }
+    },
+    "original_requirements": [
+      "six (<2.0.0,>=1.10.0)",
+      "twine ; extra == 'build'",
+      "wheel ; extra == 'build'",
+      "releasecmd (<0.1.0,>=0.0.18) ; extra == 'release'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "allpairspy-2.4.3-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:41.237148+00:00",
+    "conda_file": "allpairspy-2.4.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "six"
+      ],
+      "optional": {
+        "build": [
+          "wheel"
+        ],
+        "release": [
+          "releasecmd"
+        ],
+        "test": [
+          "pytest-cov",
+          "pytest",
+          "tox"
+        ]
+      }
+    },
+    "original_requirements": [
+      "six (<2.0.0,>=1.11.0)",
+      "wheel ; extra == 'build'",
+      "releasecmd (<0.1.0,>=0.0.12) ; extra == 'release'",
+      "pytest-cov ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "tox ; extra == 'test'"
+    ]
+  },
+  "allpairspy-2.4.2-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:41.206818+00:00",
+    "conda_file": "allpairspy-2.4.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "six"
+      ],
+      "optional": {
+        "build": [
+          "wheel"
+        ],
+        "release": [
+          "releasecmd"
+        ],
+        "test": [
+          "pytest-cov",
+          "pytest",
+          "tox"
+        ]
+      }
+    },
+    "original_requirements": [
+      "six (>=1.11.0)",
+      "wheel; extra == 'build'",
+      "releasecmd (>=0.0.12); extra == 'release'",
+      "pytest-cov; extra == 'test'",
+      "pytest; extra == 'test'",
+      "tox; extra == 'test'"
+    ]
+  },
+  "allpairspy-2.4.1-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:41.331675+00:00",
+    "conda_file": "allpairspy-2.4.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "six"
+      ],
+      "optional": {
+        "build": [
+          "wheel"
+        ],
+        "release": [
+          "releasecmd"
+        ],
+        "test": [
+          "pytest-cov",
+          "pytest",
+          "tox"
+        ]
+      }
+    },
+    "original_requirements": [
+      "six (>=1.11.0)",
+      "wheel; extra == 'build'",
+      "releasecmd (>=0.0.12); extra == 'release'",
+      "pytest-cov; extra == 'test'",
+      "pytest; extra == 'test'",
+      "tox; extra == 'test'"
+    ]
+  }
+}

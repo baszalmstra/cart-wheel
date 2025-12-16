@@ -1,0 +1,12 @@
+# Package configuration for flask
+conda_forge = "flask"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flask-3.1.2-py3-none-any.whl" },
+  { filename = "flask-3.1.1-py3-none-any.whl" },
+  { filename = "flask-3.1.0-py3-none-any.whl" },
+  { filename = "flask-3.0.3-py3-none-any.whl" },
+  { filename = "flask-3.0.2-py3-none-any.whl" },
+]

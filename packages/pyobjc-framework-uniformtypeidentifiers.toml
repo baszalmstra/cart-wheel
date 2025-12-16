@@ -1,0 +1,11 @@
+# Package configuration for pyobjc-framework-uniformtypeidentifiers
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyobjc_framework_uniformtypeidentifiers-12.1-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_uniformtypeidentifiers-12.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_uniformtypeidentifiers-11.1-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_UniformTypeIdentifiers-11.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_UniformTypeIdentifiers-10.3.2-py2.py3-none-any.whl" },
+]

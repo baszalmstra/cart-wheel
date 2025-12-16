@@ -1,0 +1,176 @@
+{
+  "tritonclient-2.63.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aee07908b87e05338ec2224c4aa6f540d86dc71bfcb6a228b3a37048d63fe5b6",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "perf-analyzer",
+        "python-rapidjson",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.19.1",
+      "perf-analyzer",
+      "python-rapidjson >=0.9.1",
+      "urllib3 >=2.0.7",
+      "aiohttp <4.0.0,>=3.8.1 ; extra == 'all'",
+      "cuda-python ; extra == 'all'",
+      "geventhttpclient >=2.3.3 ; extra == 'all'",
+      "grpcio <1.68,>=1.63.0 ; extra == 'all'",
+      "numpy >=1.19.1 ; extra == 'all'",
+      "packaging >=14.1 ; extra == 'all'",
+      "protobuf <6.0dev,>=5.26.1 ; extra == 'all'",
+      "python-rapidjson >=0.9.1 ; extra == 'all'",
+      "cuda-python ; extra == 'cuda'",
+      "grpcio <1.68,>=1.63.0 ; extra == 'grpc'",
+      "numpy >=1.19.1 ; extra == 'grpc'",
+      "packaging >=14.1 ; extra == 'grpc'",
+      "protobuf <6.0dev,>=5.26.1 ; extra == 'grpc'",
+      "python-rapidjson >=0.9.1 ; extra == 'grpc'",
+      "aiohttp <4.0.0,>=3.8.1 ; extra == 'http'",
+      "geventhttpclient >=2.3.3 ; extra == 'http'",
+      "numpy >=1.19.1 ; extra == 'http'",
+      "python-rapidjson >=0.9.1 ; extra == 'http'"
+    ]
+  },
+  "tritonclient-2.62.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c64dd3e905ff9688fa9871c6245273ab81ecde42f281f43bc5e31f84c094a4cf",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "python-rapidjson",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.19.1",
+      "python-rapidjson >=0.9.1",
+      "urllib3 >=2.0.7",
+      "aiohttp <4.0.0,>=3.8.1 ; extra == 'all'",
+      "cuda-python ; extra == 'all'",
+      "geventhttpclient >=2.3.3 ; extra == 'all'",
+      "grpcio <1.68,>=1.63.0 ; extra == 'all'",
+      "numpy >=1.19.1 ; extra == 'all'",
+      "packaging >=14.1 ; extra == 'all'",
+      "protobuf <6.0dev,>=5.26.1 ; extra == 'all'",
+      "python-rapidjson >=0.9.1 ; extra == 'all'",
+      "cuda-python ; extra == 'cuda'",
+      "grpcio <1.68,>=1.63.0 ; extra == 'grpc'",
+      "numpy >=1.19.1 ; extra == 'grpc'",
+      "packaging >=14.1 ; extra == 'grpc'",
+      "protobuf <6.0dev,>=5.26.1 ; extra == 'grpc'",
+      "python-rapidjson >=0.9.1 ; extra == 'grpc'",
+      "aiohttp <4.0.0,>=3.8.1 ; extra == 'http'",
+      "geventhttpclient >=2.3.3 ; extra == 'http'",
+      "numpy >=1.19.1 ; extra == 'http'",
+      "python-rapidjson >=0.9.1 ; extra == 'http'"
+    ]
+  },
+  "tritonclient-2.61.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e86b47142d2ede7ba2ae566f631358f45d68f0d0ddea7ef93a35c138d570497b",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "perf-analyzer",
+        "python-rapidjson",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.19.1",
+      "perf-analyzer",
+      "python-rapidjson >=0.9.1",
+      "urllib3 >=2.0.7",
+      "aiohttp <4.0.0,>=3.8.1 ; extra == 'all'",
+      "cuda-python ; extra == 'all'",
+      "geventhttpclient >=2.3.3 ; extra == 'all'",
+      "grpcio <1.68,>=1.63.0 ; extra == 'all'",
+      "numpy >=1.19.1 ; extra == 'all'",
+      "packaging >=14.1 ; extra == 'all'",
+      "protobuf <6.0dev,>=5.26.1 ; extra == 'all'",
+      "python-rapidjson >=0.9.1 ; extra == 'all'",
+      "cuda-python ; extra == 'cuda'",
+      "grpcio <1.68,>=1.63.0 ; extra == 'grpc'",
+      "numpy >=1.19.1 ; extra == 'grpc'",
+      "packaging >=14.1 ; extra == 'grpc'",
+      "protobuf <6.0dev,>=5.26.1 ; extra == 'grpc'",
+      "python-rapidjson >=0.9.1 ; extra == 'grpc'",
+      "aiohttp <4.0.0,>=3.8.1 ; extra == 'http'",
+      "geventhttpclient >=2.3.3 ; extra == 'http'",
+      "numpy >=1.19.1 ; extra == 'http'",
+      "python-rapidjson >=0.9.1 ; extra == 'http'"
+    ]
+  },
+  "tritonclient-2.60.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4953bcf0e30bdd2a63960ed5b37f3939df5d9416f0036d1eec0bcec4c42f8928",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "python-rapidjson",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.19.1",
+      "python-rapidjson >=0.9.1",
+      "urllib3 >=2.0.7",
+      "aiohttp <4.0.0,>=3.8.1 ; extra == 'all'",
+      "cuda-python ; extra == 'all'",
+      "geventhttpclient >=2.3.3 ; extra == 'all'",
+      "grpcio <1.68,>=1.63.0 ; extra == 'all'",
+      "numpy >=1.19.1 ; extra == 'all'",
+      "packaging >=14.1 ; extra == 'all'",
+      "protobuf <6.0dev,>=5.26.1 ; extra == 'all'",
+      "python-rapidjson >=0.9.1 ; extra == 'all'",
+      "cuda-python ; extra == 'cuda'",
+      "grpcio <1.68,>=1.63.0 ; extra == 'grpc'",
+      "numpy >=1.19.1 ; extra == 'grpc'",
+      "packaging >=14.1 ; extra == 'grpc'",
+      "protobuf <6.0dev,>=5.26.1 ; extra == 'grpc'",
+      "python-rapidjson >=0.9.1 ; extra == 'grpc'",
+      "aiohttp <4.0.0,>=3.8.1 ; extra == 'http'",
+      "geventhttpclient >=2.3.3 ; extra == 'http'",
+      "numpy >=1.19.1 ; extra == 'http'",
+      "python-rapidjson >=0.9.1 ; extra == 'http'"
+    ]
+  },
+  "tritonclient-2.59.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dc06a52e21e0f072930d664a677db005851624f448d46b23fe7ec5dea9927ec7",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "python-rapidjson",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.19.1",
+      "python-rapidjson >=0.9.1",
+      "urllib3 >=2.0.7",
+      "aiohttp <4.0.0,>=3.8.1 ; extra == 'all'",
+      "cuda-python ; extra == 'all'",
+      "geventhttpclient >=2.3.3 ; extra == 'all'",
+      "grpcio <1.68,>=1.63.0 ; extra == 'all'",
+      "numpy >=1.19.1 ; extra == 'all'",
+      "packaging >=14.1 ; extra == 'all'",
+      "protobuf <6.0dev,>=5.26.1 ; extra == 'all'",
+      "python-rapidjson >=0.9.1 ; extra == 'all'",
+      "cuda-python ; extra == 'cuda'",
+      "grpcio <1.68,>=1.63.0 ; extra == 'grpc'",
+      "numpy >=1.19.1 ; extra == 'grpc'",
+      "packaging >=14.1 ; extra == 'grpc'",
+      "protobuf <6.0dev,>=5.26.1 ; extra == 'grpc'",
+      "python-rapidjson >=0.9.1 ; extra == 'grpc'",
+      "aiohttp <4.0.0,>=3.8.1 ; extra == 'http'",
+      "geventhttpclient >=2.3.3 ; extra == 'http'",
+      "numpy >=1.19.1 ; extra == 'http'",
+      "python-rapidjson >=0.9.1 ; extra == 'http'"
+    ]
+  }
+}

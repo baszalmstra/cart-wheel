@@ -1,0 +1,100 @@
+{
+  "Gooey-1.0.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "222793cf4a5dd2f9d5c3174ad7369c3df541d91a49e54d51bbee95745ed75ae2",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "psutil",
+        "colored",
+        "pygtrie",
+        "wxpython"
+      ]
+    },
+    "original_requirements": [
+      "Pillow (>=4.3.0)",
+      "psutil (>=5.4.2)",
+      "colored (>=1.3.93)",
+      "pygtrie (>=2.3.3)",
+      "wxpython (>=4.1.0)"
+    ]
+  },
+  "Gooey-1.0.8-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5576e73efb289f7dac538352591b7707e474889536d1ee105a7dfb5094dbf93d",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "psutil",
+        "colored",
+        "pygtrie",
+        "wxpython"
+      ]
+    },
+    "original_requirements": [
+      "Pillow (>=4.3.0)",
+      "psutil (>=5.4.2)",
+      "colored (>=1.3.93)",
+      "pygtrie (>=2.3.3)",
+      "wxpython (==4.1.0)"
+    ]
+  },
+  "Gooey-1.0.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "afec6d0eeba96e8b05dbe5ad414b55a26d4666a5f765c5a403a9609be2fef83c",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "psutil",
+        "colored",
+        "pygtrie",
+        "wxpython"
+      ]
+    },
+    "original_requirements": [
+      "Pillow (>=4.3.0)",
+      "psutil (>=5.4.2)",
+      "colored (>=1.3.93)",
+      "pygtrie (>=2.3.3)",
+      "wxpython (==4.1.0)"
+    ]
+  },
+  "Gooey-1.0.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c043f85505b0888caeca122b910d50fad1607e43a7f95cf750265460e06a11c9",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "psutil",
+        "colored",
+        "pygtrie",
+        "wxpython"
+      ]
+    },
+    "original_requirements": [
+      "Pillow (>=4.3.0)",
+      "psutil (>=5.4.2)",
+      "colored (>=1.3.93)",
+      "pygtrie (>=2.3.3)",
+      "wxpython (==4.1.0)"
+    ]
+  },
+  "Gooey-1.0.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6957cbf8e7ff8e3e19aaa3b536e763c2efdbf36ebc039893d286e82381b75b82",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "psutil",
+        "colored",
+        "wxpython"
+      ]
+    },
+    "original_requirements": [
+      "Pillow (>=4.3.0)",
+      "psutil (>=5.4.2)",
+      "colored (>=1.3.93)",
+      "wxpython (==4.1.0)"
+    ]
+  }
+}

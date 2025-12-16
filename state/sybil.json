@@ -1,0 +1,109 @@
+{
+  "sybil-9.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b108b980ab9fac774953042b07fcb5858aa19a38404d0cb42c30c93423ac0c1",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest>=8; extra == \"pytest\"",
+      "mypy; extra == \"test\"",
+      "myst_parser; extra == \"test\"",
+      "pytest>=8; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "seedir; extra == \"test\"",
+      "testfixtures; extra == \"test\"",
+      "types-PyYAML; extra == \"test\"",
+      "furo; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "twine; extra == \"release\"",
+      "wheel; extra == \"release\""
+    ]
+  },
+  "sybil-9.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c0c82823a86c2a9e202fb628526aa973700cc20dbfd5c91481c265521e40b742",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest>=8; extra == \"pytest\"",
+      "mypy; extra == \"test\"",
+      "myst_parser; extra == \"test\"",
+      "pytest>=8; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "seedir; extra == \"test\"",
+      "testfixtures; extra == \"test\"",
+      "types-PyYAML; extra == \"test\"",
+      "furo; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "twine; extra == \"release\"",
+      "wheel; extra == \"release\""
+    ]
+  },
+  "sybil-9.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7fe20074289bbb5f06dc7ad564dff4ffe42a678add7860345089a7b78125132a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest>=8; extra == \"pytest\"",
+      "mypy; extra == \"test\"",
+      "myst_parser; extra == \"test\"",
+      "pytest>=8; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "seedir; extra == \"test\"",
+      "testfixtures; extra == \"test\"",
+      "types-PyYAML; extra == \"test\"",
+      "furo; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "twine; extra == \"release\"",
+      "wheel; extra == \"release\""
+    ]
+  },
+  "sybil-9.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dbcbd7f11a0d438aad22bc24f0bc0c651ad2dde7f3b1023e72e92ea4aed9e02b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "furo; extra == \"build\"",
+      "sphinx; extra == \"build\"",
+      "twine; extra == \"build\"",
+      "urllib3<2; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "pytest>=8; extra == \"pytest\"",
+      "mypy; extra == \"test\"",
+      "myst-parser; extra == \"test\"",
+      "pytest>=8; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "seedir; extra == \"test\"",
+      "testfixtures; extra == \"test\"",
+      "types-PyYAML; extra == \"test\""
+    ]
+  },
+  "sybil-8.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b563b4e44fb315d0f5a0fc6f6364e63fe5058e0726f25dc95b609dbed3a41f34",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "furo; extra == \"build\"",
+      "sphinx; extra == \"build\"",
+      "twine; extra == \"build\"",
+      "urllib3<2; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "pytest>=8; extra == \"pytest\"",
+      "mypy; extra == \"test\"",
+      "myst-parser; extra == \"test\"",
+      "pytest>=8; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "seedir; extra == \"test\"",
+      "testfixtures; extra == \"test\"",
+      "types-PyYAML; extra == \"test\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for dbt-protos
+conda_forge = "dbt-protos"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dbt_protos-1.0.405-py3-none-any.whl" },
+  { filename = "dbt_protos-1.0.402-py3-none-any.whl" },
+  { filename = "dbt_protos-1.0.397-py3-none-any.whl" },
+  { filename = "dbt_protos-1.0.396-py3-none-any.whl" },
+  { filename = "dbt_protos-1.0.382-py3-none-any.whl" },
+]

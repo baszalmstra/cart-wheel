@@ -1,0 +1,12 @@
+# Package configuration for diskcache
+conda_forge = "diskcache"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "diskcache-5.6.3-py3-none-any.whl" },
+  { filename = "diskcache-5.6.1-py3-none-any.whl" },
+  { filename = "diskcache-5.6.0-py3-none-any.whl" },
+  { filename = "diskcache-5.5.1-py3-none-any.whl" },
+  { filename = "diskcache-5.4.0-py3-none-any.whl" },
+]

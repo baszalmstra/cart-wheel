@@ -1,0 +1,11 @@
+# Package configuration for mmpretrain
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mmpretrain-1.2.0-py2.py3-none-any.whl" },
+  { filename = "mmpretrain-1.1.1-py2.py3-none-any.whl" },
+  { filename = "mmpretrain-1.1.0-py2.py3-none-any.whl" },
+  { filename = "mmpretrain-1.0.2-py2.py3-none-any.whl" },
+  { filename = "mmpretrain-1.0.1-py2.py3-none-any.whl" },
+]

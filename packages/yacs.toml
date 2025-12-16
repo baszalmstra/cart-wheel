@@ -1,0 +1,12 @@
+# Package configuration for yacs
+conda_forge = "yacs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "yacs-0.1.8-py3-none-any.whl" },
+  { filename = "yacs-0.1.7-py3-none-any.whl" },
+  { filename = "yacs-0.1.6-py3-none-any.whl" },
+  { filename = "yacs-0.1.5-py3-none-any.whl" },
+  { filename = "yacs-0.1.4-py3-none-any.whl" },
+]

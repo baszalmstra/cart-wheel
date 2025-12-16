@@ -1,0 +1,12 @@
+# Package configuration for flake8-pyi
+conda_forge = "flake8-pyi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_pyi-25.5.0-py3-none-any.whl" },
+  { filename = "flake8_pyi-24.9.0-py3-none-any.whl" },
+  { filename = "flake8_pyi-24.6.0-py3-none-any.whl" },
+  { filename = "flake8_pyi-24.4.1-py3-none-any.whl" },
+  { filename = "flake8_pyi-24.4.0-py3-none-any.whl" },
+]

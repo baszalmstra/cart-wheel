@@ -1,0 +1,197 @@
+{
+  "zope_component-7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b643b8520752894934c4408ad4eb5a5a19cd57da2b100773ba5f3f33568865dc",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.event",
+        "zope.hookable",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.event",
+      "zope.hookable>=4.2.0",
+      "zope.interface>=5.3",
+      "persistent; extra == \"persistentregistry\"",
+      "zope.location; extra == \"security\"",
+      "zope.proxy; extra == \"security\"",
+      "zope.security; extra == \"security\"",
+      "zope.configuration; extra == \"zcml\"",
+      "zope.i18nmessageid; extra == \"zcml\"",
+      "zope.configuration; extra == \"mintests\"",
+      "zope.i18nmessageid; extra == \"mintests\"",
+      "zope.testing; extra == \"mintests\"",
+      "zope.testrunner>=6.4; extra == \"mintests\"",
+      "zope.configuration; extra == \"test\"",
+      "zope.i18nmessageid; extra == \"test\"",
+      "zope.testing; extra == \"test\"",
+      "zope.testrunner>=6.4; extra == \"test\"",
+      "persistent; extra == \"test\"",
+      "zope.location; extra == \"test\"",
+      "zope.proxy; extra == \"test\"",
+      "zope.security; extra == \"test\"",
+      "Sphinx; extra == \"docs\"",
+      "repoze.sphinx.autointerface; extra == \"docs\"",
+      "ZODB; extra == \"docs\""
+    ]
+  },
+  "zope_component-6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "948905a3bf78b548d9f3d9cbf19ef7d1cfe1a9d73f5bce46215af3659f7735a7",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.event",
+        "zope.hookable",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.event",
+      "zope.hookable>=4.2.0",
+      "zope.interface>=5.3",
+      "persistent; extra == \"persistentregistry\"",
+      "zope.location; extra == \"security\"",
+      "zope.proxy; extra == \"security\"",
+      "zope.security; extra == \"security\"",
+      "zope.configuration; extra == \"zcml\"",
+      "zope.i18nmessageid; extra == \"zcml\"",
+      "zope.configuration; extra == \"mintests\"",
+      "zope.i18nmessageid; extra == \"mintests\"",
+      "zope.testing; extra == \"mintests\"",
+      "zope.testrunner; extra == \"mintests\"",
+      "zope.configuration; extra == \"test\"",
+      "zope.i18nmessageid; extra == \"test\"",
+      "zope.testing; extra == \"test\"",
+      "zope.testrunner; extra == \"test\"",
+      "persistent; extra == \"test\"",
+      "zope.location; extra == \"test\"",
+      "zope.proxy; extra == \"test\"",
+      "zope.security; extra == \"test\"",
+      "Sphinx; extra == \"docs\"",
+      "repoze.sphinx.autointerface; extra == \"docs\"",
+      "ZODB; extra == \"docs\""
+    ]
+  },
+  "zope.component-6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "96d0a04db39643caf2dfaec152340f3e914df1dc3fa32fbb913782620dc6c3c6",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.event",
+        "zope.hookable",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.event",
+      "zope.hookable (>=4.2.0)",
+      "zope.interface (>=5.3)",
+      "Sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "ZODB ; extra == 'docs'",
+      "zope.configuration ; extra == 'mintests'",
+      "zope.i18nmessageid ; extra == 'mintests'",
+      "zope.testing ; extra == 'mintests'",
+      "zope.testrunner ; extra == 'mintests'",
+      "persistent ; extra == 'persistentregistry'",
+      "zope.location ; extra == 'security'",
+      "zope.proxy ; extra == 'security'",
+      "zope.security ; extra == 'security'",
+      "zope.configuration ; extra == 'test'",
+      "zope.i18nmessageid ; extra == 'test'",
+      "zope.testing ; extra == 'test'",
+      "zope.testrunner ; extra == 'test'",
+      "persistent ; extra == 'test'",
+      "zope.location ; extra == 'test'",
+      "zope.proxy ; extra == 'test'",
+      "zope.security ; extra == 'test'",
+      "zope.configuration ; extra == 'zcml'",
+      "zope.i18nmessageid ; extra == 'zcml'"
+    ]
+  },
+  "zope.component-5.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cbd279e15a959f35a813b64ec4f1027c08b86fcca26f73250c0c912251df90dd",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.event",
+        "zope.hookable",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.event",
+      "zope.hookable (>=4.2.0)",
+      "zope.interface (>=5.3.0a1)",
+      "Sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "ZODB ; extra == 'docs'",
+      "zope.configuration ; extra == 'mintests'",
+      "zope.i18nmessageid ; extra == 'mintests'",
+      "zope.testing ; extra == 'mintests'",
+      "zope.testrunner ; extra == 'mintests'",
+      "persistent ; extra == 'persistentregistry'",
+      "zope.location ; extra == 'security'",
+      "zope.proxy ; extra == 'security'",
+      "zope.security ; extra == 'security'",
+      "zope.configuration ; extra == 'test'",
+      "zope.i18nmessageid ; extra == 'test'",
+      "zope.testing ; extra == 'test'",
+      "zope.testrunner ; extra == 'test'",
+      "persistent ; extra == 'test'",
+      "zope.location ; extra == 'test'",
+      "zope.proxy ; extra == 'test'",
+      "zope.security ; extra == 'test'",
+      "zope.configuration ; extra == 'zcml'",
+      "zope.i18nmessageid ; extra == 'zcml'"
+    ]
+  },
+  "zope.component-5.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e955eb9f1e55d30e2d8097c8baa9ee012c356887eef3b0d43e6bfcd4868221e5",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.event",
+        "zope.hookable",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.event",
+      "zope.hookable (>=4.2.0)",
+      "zope.interface (>=5.3.0a1)",
+      "Sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "ZODB ; extra == 'docs'",
+      "zope.configuration ; extra == 'mintests'",
+      "zope.i18nmessageid ; extra == 'mintests'",
+      "zope.testing ; extra == 'mintests'",
+      "zope.testrunner ; extra == 'mintests'",
+      "persistent ; extra == 'persistentregistry'",
+      "zope.location ; extra == 'security'",
+      "zope.proxy ; extra == 'security'",
+      "zope.security ; extra == 'security'",
+      "zope.configuration ; extra == 'test'",
+      "zope.i18nmessageid ; extra == 'test'",
+      "zope.testing ; extra == 'test'",
+      "zope.testrunner ; extra == 'test'",
+      "persistent ; extra == 'test'",
+      "zope.location ; extra == 'test'",
+      "zope.proxy ; extra == 'test'",
+      "zope.security ; extra == 'test'",
+      "zope.configuration ; extra == 'zcml'",
+      "zope.i18nmessageid ; extra == 'zcml'"
+    ]
+  }
+}

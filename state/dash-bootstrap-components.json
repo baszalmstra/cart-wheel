@@ -1,0 +1,72 @@
+{
+  "dash_bootstrap_components-2.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "767cf0084586c1b2b614ccf50f79fe4525fdbbf8e3a161ed60016e584a14f5d1",
+    "dependencies": {
+      "required": [
+        "dash"
+      ]
+    },
+    "original_requirements": [
+      "dash>=3.0.4",
+      "numpy>=2.0.2; extra == 'pandas'",
+      "pandas>=2.2.3; extra == 'pandas'"
+    ]
+  },
+  "dash_bootstrap_components-2.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82754d3d001ad5482b8a82b496c7bf98a1c68d2669d607a89dda7ec627304af5",
+    "dependencies": {
+      "required": [
+        "dash"
+      ]
+    },
+    "original_requirements": [
+      "dash>=3.0.4",
+      "numpy>=2.0.2; extra == 'pandas'",
+      "pandas>=2.2.3; extra == 'pandas'"
+    ]
+  },
+  "dash_bootstrap_components-2.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "033d87511f7a9be72657de52c0c41539e1bf2aac8fe6c0c3a00f153c1bd4ed61",
+    "dependencies": {
+      "required": [
+        "dash"
+      ]
+    },
+    "original_requirements": [
+      "dash>=3.0.3",
+      "numpy>=2.0.2; extra == 'pandas'",
+      "pandas>=2.2.3; extra == 'pandas'"
+    ]
+  },
+  "dash_bootstrap_components-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e598fc47f8fb1622eec5b06ccbfec3be9a0ed8ee4405c35bcf3c2c54b74f80c5",
+    "dependencies": {
+      "required": [
+        "dash"
+      ]
+    },
+    "original_requirements": [
+      "dash>=3.0.0",
+      "numpy>=2.0.2; extra == 'pandas'",
+      "pandas>=2.2.3; extra == 'pandas'"
+    ]
+  },
+  "dash_bootstrap_components-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ac012321477b6d409c4ece0a9b6a0fb61dd46e06ba6763abdbd22557a16f480",
+    "dependencies": {
+      "required": [
+        "dash"
+      ]
+    },
+    "original_requirements": [
+      "dash>=3.0.0",
+      "numpy>=2.0.2; extra == 'pandas'",
+      "pandas>=2.2.3; extra == 'pandas'"
+    ]
+  }
+}

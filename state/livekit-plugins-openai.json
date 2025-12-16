@@ -1,0 +1,77 @@
+{
+  "livekit_plugins_openai-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7bfbbe789408d12993a81aeeb50e61d9ddd921bad98dff00c2c16cab68fb7c70",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs,images]>=1.3.6",
+      "openai[realtime]>=1.107.2",
+      "google-auth>=2.0.0; extra == 'vertex'"
+    ]
+  },
+  "livekit_plugins_openai-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ba351a8a28afcc4d292aaae089c069d6db45f1a001e3b0ae6815d783f11eef6c",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs,images]>=1.3.5",
+      "openai[realtime]>=1.107.2",
+      "google-auth>=2.0.0; extra == 'vertex'"
+    ]
+  },
+  "livekit_plugins_openai-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1f1adb4ba6bbbb3ffffc25766b302de2e7679ad77bf74902acc4ea4558b96519",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs,images]>=1.3.4",
+      "openai[realtime]>=1.107.2",
+      "google-auth>=2.0.0; extra == 'vertex'"
+    ]
+  },
+  "livekit_plugins_openai-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d7840dca3e68a22cbbc18ef720308bed917ba88180e163aa2a4849996c0a4ea7",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs,images]>=1.3.3",
+      "openai[realtime]>=1.107.2",
+      "google-auth>=2.0.0; extra == 'vertex'"
+    ]
+  },
+  "livekit_plugins_openai-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c227c202690c7802b55828f807cc371f79ef9e51366d1a157285602de05fab0",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs,images]>=1.3.2",
+      "openai[realtime]>=1.107.2",
+      "google-auth>=2.0.0; extra == 'vertex'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for scienceplots
+conda_forge = "scienceplots"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "scienceplots-2.2.0-py3-none-any.whl" },
+  { filename = "SciencePlots-2.1.1-py3-none-any.whl" },
+  { filename = "SciencePlots-2.1.0-py3-none-any.whl" },
+  { filename = "SciencePlots-2.0.1-py3-none-any.whl" },
+  { filename = "SciencePlots-2.0.0-py3-none-any.whl" },
+]

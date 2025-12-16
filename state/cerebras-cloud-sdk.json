@@ -1,0 +1,122 @@
+{
+  "cerebras_cloud_sdk-1.59.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "89228068a8d649cad0a9231b34bdc2fcdb925241eb3434d788dfea317f274ed7",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'"
+    ]
+  },
+  "cerebras_cloud_sdk-1.56.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "92a412421adbf6025dde68f204fc21de14e3c733a64ffa4cfac933d9b680f37c",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  },
+  "cerebras_cloud_sdk-1.50.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2f6c31301762075dd254d66c5f6083375ea4b44efb0d7d3ddd17783df62fd2d6",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  },
+  "cerebras_cloud_sdk-1.50.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d629e82733a72358e1a163d2872ef77face3e69927bdb00d4c83bde0b1e5b6a3",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  },
+  "cerebras_cloud_sdk-1.49.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "20043304a8a85761b741bf66c828eb1e9b248730b60178fdc23b1ef883756685",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "fs.smbfs-1.0.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "59b496559af50cd87a76ddb764e5bfcf244fa9d23e8b4f636a75608e261ebb3a",
+    "dependencies": {
+      "required": [
+        "fs",
+        "pysmb",
+        "six",
+        "setuptools",
+        "configparser"
+      ]
+    },
+    "original_requirements": [
+      "fs (~=2.2)",
+      "pysmb (!=1.1.26,!=1.1.29,<=1.2.9.1,>=1.1.22)",
+      "six (~=1.10)",
+      "setuptools (>=38.3.0)",
+      "configparser (~=3.2) ; python_version < \"3\""
+    ]
+  },
+  "fs.smbfs-1.0.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30ae89ce69ac539c9b6c5fc601f922e6e538658c95ed3bb3922da206b7652006",
+    "dependencies": {
+      "required": [
+        "fs",
+        "pysmb",
+        "six",
+        "setuptools",
+        "configparser"
+      ]
+    },
+    "original_requirements": [
+      "fs (~=2.2)",
+      "pysmb (!=1.1.26,!=1.1.29,<=1.2.8,>=1.1.22)",
+      "six (~=1.10)",
+      "setuptools (>=38.3.0)",
+      "configparser (~=3.2) ; python_version < \"3\""
+    ]
+  },
+  "fs.smbfs-1.0.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79f231856380680e9b972b1ca36c245834ae51f3f77952d0fabc78dac9ba8f24",
+    "dependencies": {
+      "required": [
+        "fs",
+        "pysmb",
+        "six",
+        "setuptools",
+        "configparser"
+      ]
+    },
+    "original_requirements": [
+      "fs (~=2.2)",
+      "pysmb (!=1.1.26,!=1.1.29,<=1.2.8,>=1.1.22)",
+      "six (~=1.10)",
+      "setuptools (>=38.3.0)",
+      "configparser (~=3.2) ; python_version < \"3\""
+    ]
+  },
+  "fs.smbfs-1.0.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b3b274a4053e53098435fb36ff4954de5e1cc2de8ca887db261b45e588188c1",
+    "dependencies": {
+      "required": [
+        "fs",
+        "pysmb",
+        "six",
+        "setuptools",
+        "configparser"
+      ]
+    },
+    "original_requirements": [
+      "fs (~=2.2)",
+      "pysmb (!=1.1.26,!=1.1.29,<=1.2.7,>=1.1.22)",
+      "six (~=1.10)",
+      "setuptools (>=38.3.0)",
+      "configparser (~=3.2) ; python_version < \"3\""
+    ]
+  },
+  "fs.smbfs-1.0.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c238ca024202c916aa0e0eb47c48b1a215f87bd9660ad28724ebf0a13dc30ff",
+    "dependencies": {
+      "required": [
+        "fs",
+        "pysmb",
+        "six",
+        "setuptools",
+        "configparser"
+      ]
+    },
+    "original_requirements": [
+      "fs (~=2.2)",
+      "pysmb (!=1.1.26,!=1.1.29,<=1.2.7,>=1.1.22)",
+      "six (~=1.10)",
+      "setuptools (>=38.3.0)",
+      "configparser (~=3.2) ; python_version < \"3\""
+    ]
+  }
+}

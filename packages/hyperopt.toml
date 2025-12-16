@@ -1,0 +1,12 @@
+# Package configuration for hyperopt
+conda_forge = "hyperopt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hyperopt-0.2.7-py2.py3-none-any.whl" },
+  { filename = "hyperopt-0.2.6-py2.py3-none-any.whl" },
+  { filename = "hyperopt-0.2.5-py2.py3-none-any.whl" },
+  { filename = "hyperopt-0.2.4-py2.py3-none-any.whl" },
+  { filename = "hyperopt-0.2.3-py3-none-any.whl" },
+]

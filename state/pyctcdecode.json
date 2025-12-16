@@ -1,0 +1,154 @@
+{
+  "pyctcdecode-0.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b4282872ddc8e30fe7ac45112f4ab6134ac67fc03df0bbecf48667d032a0914",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pygtrie",
+        "hypothesis",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "numpy (<2.0.0,>=1.15.0)",
+      "pygtrie (<3.0,>=2.1)",
+      "hypothesis (<7,>=6.14)",
+      "importlib-metadata (<5) ; python_version == \"3.7\"",
+      "bandit ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "codecov ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "huggingface-hub ; extra == 'dev'",
+      "isort (<6,>=5.0.0) ; extra == 'dev'",
+      "jupyter ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "nbconvert ; extra == 'dev'",
+      "nbformat ; extra == 'dev'",
+      "pydocstyle ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'"
+    ]
+  },
+  "pyctcdecode-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "732aea201f99c90ae4561cd3063e35f6d41a569ae6ded93ec61a7dd232ee7437",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pygtrie",
+        "hypothesis"
+      ]
+    },
+    "original_requirements": [
+      "numpy (<2.0.0,>=1.15.0)",
+      "pygtrie (<3.0,>=2.1)",
+      "hypothesis (<7,>=6.14)",
+      "bandit ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "codecov ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "huggingface-hub ; extra == 'dev'",
+      "isort (<6,>=5.0.0) ; extra == 'dev'",
+      "jupyter ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "nbconvert ; extra == 'dev'",
+      "nbformat ; extra == 'dev'",
+      "pydocstyle ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'"
+    ]
+  },
+  "pyctcdecode-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "589079425023c0e91bd796998b6513ac2e0599902ea2d6ba3ac854a60cd87081",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pygtrie",
+        "hypothesis"
+      ]
+    },
+    "original_requirements": [
+      "numpy (<2.0.0,>=1.15.0)",
+      "pygtrie (<3.0,>=2.1)",
+      "hypothesis (<7,>=6.14)",
+      "bandit ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "codecov ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "huggingface-hub ; extra == 'dev'",
+      "isort (<6,>=5.0.0) ; extra == 'dev'",
+      "jupyter ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "nbconvert ; extra == 'dev'",
+      "nbformat ; extra == 'dev'",
+      "pydocstyle ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'"
+    ]
+  },
+  "pyctcdecode-0.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b037ccc7a58dadd16d02c4082a6b12a9e1cd47eaa80569901353b1cf8cd1c9a4",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pygtrie",
+        "hypothesis"
+      ]
+    },
+    "original_requirements": [
+      "numpy (<2.0.0,>=1.15.0)",
+      "pygtrie (<3.0,>=2.1)",
+      "hypothesis (<7,>=6.14)",
+      "bandit ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "codecov ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "huggingface-hub ; extra == 'dev'",
+      "isort (<6,>=5.0.0) ; extra == 'dev'",
+      "jupyter ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "nbconvert ; extra == 'dev'",
+      "nbformat ; extra == 'dev'",
+      "pydocstyle ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'"
+    ]
+  },
+  "pyctcdecode-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e08790299f8895cc40ab0517f0c6c39ee3a119eac4dffd209ad169ceb7ad7653",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pygtrie",
+        "hypothesis"
+      ]
+    },
+    "original_requirements": [
+      "numpy (<2.0.0,>=1.15.0)",
+      "pygtrie (<3.0,>=2.1)",
+      "hypothesis (<7,>=6.14)",
+      "bandit ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "codecov ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "huggingface-hub ; extra == 'dev'",
+      "isort (<6,>=5.0.0) ; extra == 'dev'",
+      "jupyter ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "nbconvert ; extra == 'dev'",
+      "nbformat ; extra == 'dev'",
+      "pydocstyle ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'"
+    ]
+  }
+}

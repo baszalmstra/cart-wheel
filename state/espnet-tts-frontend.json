@@ -1,0 +1,84 @@
+{
+  "espnet_tts_frontend-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5412326b5d6915ecdfddf484722b29c2350b471f31d00a27fd0bab9c9fe326b5",
+    "dependencies": {
+      "required": [
+        "unidecode",
+        "inflect",
+        "jaconv",
+        "g2p-en",
+        "pypinyin"
+      ]
+    },
+    "original_requirements": [
+      "unidecode (>=1.0.22)",
+      "inflect (>=1.0.0)",
+      "jaconv",
+      "g2p-en",
+      "pypinyin"
+    ]
+  },
+  "espnet_tts_frontend-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3755772a7554f7ff4c9273902c48788e7e652aa5677755ced34988359ec5dab2",
+    "dependencies": {
+      "required": [
+        "unidecode",
+        "inflect",
+        "underthesea",
+        "jaconv",
+        "g2p-en",
+        "pypinyin"
+      ]
+    },
+    "original_requirements": [
+      "unidecode (>=1.0.22)",
+      "inflect (>=1.0.0)",
+      "underthesea",
+      "jaconv",
+      "g2p-en",
+      "pypinyin"
+    ]
+  },
+  "espnet_tts_frontend-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "920a147d3a3b4f80d74a088d3c00585687343716a811ed78cc3ea9b8d72c80af",
+    "dependencies": {
+      "required": [
+        "unidecode",
+        "inflect",
+        "underthesea",
+        "jaconv",
+        "g2p-en"
+      ]
+    },
+    "original_requirements": [
+      "unidecode (>=1.0.22)",
+      "inflect (>=1.0.0)",
+      "underthesea",
+      "jaconv",
+      "g2p-en"
+    ]
+  },
+  "espnet_tts_frontend-0.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6d2b39bf992508e6e4234d42f3464e08c5b81d78a9046678f634035e5180969",
+    "dependencies": {
+      "required": [
+        "unidecode",
+        "inflect",
+        "underthesea",
+        "jaconv",
+        "g2p-en"
+      ]
+    },
+    "original_requirements": [
+      "unidecode (>=1.0.22)",
+      "inflect (>=1.0.0)",
+      "underthesea",
+      "jaconv",
+      "g2p-en"
+    ]
+  }
+}

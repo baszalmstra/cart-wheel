@@ -1,0 +1,12 @@
+# Package configuration for daiquiri
+conda_forge = "daiquiri"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "daiquiri-3.4.0-py3-none-any.whl" },
+  { filename = "daiquiri-3.3.0-py3-none-any.whl" },
+  { filename = "daiquiri-3.2.5.1-py3-none-any.whl" },
+  { filename = "daiquiri-3.2.3-py3-none-any.whl" },
+  { filename = "daiquiri-3.2.1-py3-none-any.whl" },
+]

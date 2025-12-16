@@ -1,0 +1,82 @@
+{
+  "pyobjc_framework_discrecordingui-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6544ef99cad3dee95716c83cb207088768b6ecd3de178f7e1b17df5997689dfd",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-discrecording"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1",
+      "pyobjc-framework-DiscRecording>=12.1"
+    ]
+  },
+  "pyobjc_framework_discrecordingui-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3cce85f3d13f28561e734b61facc1a16b632b73e69c5f14943816cf0fa184cdc",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-discrecording"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0",
+      "pyobjc-framework-DiscRecording>=12.0"
+    ]
+  },
+  "pyobjc_framework_discrecordingui-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "33233b87d7b85ce277a51d27acca0f5b38485cf1d1dc8e28a065910047766ee2",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-discrecording"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1",
+      "pyobjc-framework-DiscRecording>=11.1"
+    ]
+  },
+  "pyobjc_framework_DiscRecordingUI-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1af226c9350bb1d49960c02505e1e2f286e9377040dc2777a3f9a318925e081b",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-discrecording"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0",
+      "pyobjc-framework-DiscRecording >=11.0"
+    ]
+  },
+  "pyobjc_framework_DiscRecordingUI-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4622c47f89cd73e8a9c9ff324c50133a82a596d6f71f69c2fb99a9168b632f50",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-discrecording"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2",
+      "pyobjc-framework-DiscRecording>=10.3.2"
+    ]
+  }
+}

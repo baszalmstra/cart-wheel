@@ -1,0 +1,102 @@
+{
+  "aws_cdk.aws_securityhub-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94e8640b0ff9d7f7eae39aafd255ebf4b975b3cef47f600e58a296bdadcc0eef",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_securityhub-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3cf71caddf63b70cba255124ad676848e49de65689857eb777e497da5036d4a7",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_securityhub-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4b36630819a3af84e1de2097820c8e5bdaedf11ee87489d8a71e03f10edab2c",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_securityhub-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "96ab8c42daab37ab5f4624720b5cb172134f5db2ece1087f2fd751e06b009316",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_securityhub-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "007b9a613ab5b2cf09848eeaab21b69bf5ae5f8792a62d8a745205665a65f2f1",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

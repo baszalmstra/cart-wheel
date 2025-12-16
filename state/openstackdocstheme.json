@@ -1,0 +1,78 @@
+{
+  "openstackdocstheme-3.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8eb121adeee4108a42769f90d7bee1133326fb692fee84de6e2f480c9c6b784d",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "dulwich",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "pbr !=2.1.0,>=2.0.0",
+      "dulwich >=0.15.0",
+      "sphinx >=6.0.0"
+    ]
+  },
+  "openstackdocstheme-3.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40170757aa9d076a6b92eaa4c621e640abc9cc0b46932027e9f21380f06e7fbe",
+    "dependencies": {
+      "required": [
+        "dulwich",
+        "pbr",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "dulwich (>=0.15.0)",
+      "pbr (!=2.1.0,>=2.0.0)",
+      "sphinx (>=6.0.0)"
+    ]
+  },
+  "openstackdocstheme-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b59801aaab427f1183462487f7e536be48df51e75019eb79e90d1b9a07dd1c8",
+    "dependencies": {
+      "required": [
+        "dulwich",
+        "pbr",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "dulwich (>=0.15.0)",
+      "pbr (!=2.1.0,>=2.0.0)",
+      "sphinx (>=6.0.0)"
+    ]
+  },
+  "openstackdocstheme-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52e7013e4d86557a1506bc8c4cef5d78bf76cf5ad6d3d2b0a5203bbaa8944c58",
+    "dependencies": {
+      "required": [
+        "dulwich",
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "dulwich (>=0.15.0)",
+      "pbr (!=2.1.0,>=2.0.0)"
+    ]
+  },
+  "openstackdocstheme-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4dc3ed88668e2e25abe95f48b25c45f4c57897af6fce43badd77b475d9ddd246",
+    "dependencies": {
+      "required": [
+        "dulwich",
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "dulwich (>=0.15.0)",
+      "pbr (!=2.1.0,>=2.0.0)"
+    ]
+  }
+}

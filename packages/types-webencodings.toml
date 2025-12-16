@@ -1,0 +1,8 @@
+# Package configuration for types-webencodings
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_webencodings-0.5.0.20251108-py3-none-any.whl" },
+  { filename = "types_webencodings-0.5.0.20251107-py3-none-any.whl" },
+]

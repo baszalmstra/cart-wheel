@@ -1,0 +1,12 @@
+# Package configuration for amqp
+conda_forge = "amqp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "amqp-5.3.1-py3-none-any.whl" },
+  { filename = "amqp-5.3.0-py3-none-any.whl" },
+  { filename = "amqp-5.2.0-py3-none-any.whl" },
+  { filename = "amqp-5.1.1-py3-none-any.whl" },
+  { filename = "amqp-5.1.0-py3-none-any.whl" },
+]

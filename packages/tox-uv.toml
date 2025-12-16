@@ -1,0 +1,12 @@
+# Package configuration for tox-uv
+conda_forge = "tox-uv"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tox_uv-1.29.0-py3-none-any.whl" },
+  { filename = "tox_uv-1.28.1-py3-none-any.whl" },
+  { filename = "tox_uv-1.28.0-py3-none-any.whl" },
+  { filename = "tox_uv-1.27.0-py3-none-any.whl" },
+  { filename = "tox_uv-1.26.2-py3-none-any.whl" },
+]

@@ -1,0 +1,72 @@
+{
+  "pytest_rerunfailures-16.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5d11b12c0ca9a1665b5054052fcc1084f8deadd9328962745ef6b04e26382e86",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=17.1",
+      "pytest!=8.2.2,>=7.4"
+    ]
+  },
+  "pytest_rerunfailures-16.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0bccc0e3b0e3388275c25a100f7077081318196569a121217688ed05e58984b9",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=17.1",
+      "pytest!=8.2.2,>=7.4"
+    ]
+  },
+  "pytest_rerunfailures-16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed1b2c101450991265ff43fc7f2193bf50d29cec5db935e0db2b9651f5130e69",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=17.1",
+      "pytest!=8.2.2,>=7.4"
+    ]
+  },
+  "pytest_rerunfailures-15.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f674c3594845aba8b23c78e99b1ff8068556cc6a8b277f728071fdc4f4b0b355",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=17.1",
+      "pytest!=8.2.2,>=7.4"
+    ]
+  },
+  "pytest_rerunfailures-15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd150c4795c229ef44320adc9a0c0532c51b78bb7a6843a8c53556b9a611df1a",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "packaging >=17.1",
+      "pytest !=8.2.2,>=7.4"
+    ]
+  }
+}

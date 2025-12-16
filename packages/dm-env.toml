@@ -1,0 +1,12 @@
+# Package configuration for dm-env
+conda_forge = "dm-env"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dm_env-1.6-py3-none-any.whl" },
+  { filename = "dm_env-1.5-py3-none-any.whl" },
+  { filename = "dm_env-1.4-py3-none-any.whl" },
+  { filename = "dm_env-1.3-py3-none-any.whl" },
+  { filename = "dm_env-1.2-py3-none-any.whl" },
+]

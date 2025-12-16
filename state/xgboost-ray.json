@@ -1,0 +1,112 @@
+{
+  "xgboost_ray-0.1.19-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c6956250e1686df207149962b1f18346335a65414324a2c135f88fb0b418d25b",
+    "dependencies": {
+      "required": [
+        "ray",
+        "numpy",
+        "pandas",
+        "wrapt",
+        "xgboost",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "ray (>=2.7)",
+      "numpy (>=1.16)",
+      "pandas",
+      "wrapt (>=1.12.1)",
+      "xgboost (>=0.90)",
+      "packaging"
+    ]
+  },
+  "xgboost_ray-0.1.18-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "efcaebefd15eefb1caede24952f86793ef2de6c7161586e9adfcad6d2ad7c311",
+    "dependencies": {
+      "required": [
+        "ray",
+        "numpy",
+        "pandas",
+        "wrapt",
+        "xgboost",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "ray (>=2.0)",
+      "numpy (>=1.16)",
+      "pandas",
+      "wrapt (>=1.12.1)",
+      "xgboost (>=0.90)",
+      "packaging"
+    ]
+  },
+  "xgboost_ray-0.1.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "890ef7e84ab1a1b01790889c41930890bfe260d462628b49520c6f19041ccb05",
+    "dependencies": {
+      "required": [
+        "ray",
+        "numpy",
+        "pandas",
+        "wrapt",
+        "xgboost",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "ray (>=2.0)",
+      "numpy (>=1.16)",
+      "pandas",
+      "wrapt (>=1.12.1)",
+      "xgboost (>=0.90)",
+      "packaging"
+    ]
+  },
+  "xgboost_ray-0.1.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8fb2467dad14cde8ede19f55791612da65a2cc51e653da15185cd924c56d735",
+    "dependencies": {
+      "required": [
+        "ray",
+        "numpy",
+        "pandas",
+        "wrapt",
+        "xgboost",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "ray (>=1.10)",
+      "numpy (>=1.16)",
+      "pandas",
+      "wrapt (>=1.12.1)",
+      "xgboost (>=0.90)",
+      "packaging"
+    ]
+  },
+  "xgboost_ray-0.1.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e73e8e90df6c9d76af8e3da57e460e44f29713ab0c6b1d5a5367eb8787ed2e2a",
+    "dependencies": {
+      "required": [
+        "ray",
+        "numpy",
+        "pandas",
+        "wrapt",
+        "xgboost",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "ray (>=1.10)",
+      "numpy (>=1.16)",
+      "pandas",
+      "wrapt (>=1.12.1)",
+      "xgboost (>=0.90)",
+      "packaging"
+    ]
+  }
+}

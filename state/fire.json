@@ -1,0 +1,23 @@
+{
+  "fire-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e43fd8a5033a9001e7e2973bab96070694b9f12f2e0ecf96d4683971b5ab1882",
+    "dependencies": {
+      "required": [
+        "termcolor"
+      ]
+    },
+    "original_requirements": [
+      "termcolor",
+      "setuptools<=80.9.0; extra == \"test\"",
+      "pip; extra == \"test\"",
+      "pylint<3.3.8; extra == \"test\"",
+      "pytest<=8.4.1; extra == \"test\"",
+      "pytest-pylint<=1.1.2; extra == \"test\"",
+      "pytest-runner<7.0.0; extra == \"test\"",
+      "termcolor<3.2.0; extra == \"test\"",
+      "hypothesis<6.136.0; extra == \"test\"",
+      "levenshtein<=0.27.1; extra == \"test\""
+    ]
+  }
+}

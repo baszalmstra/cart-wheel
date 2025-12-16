@@ -1,0 +1,10 @@
+# Package configuration for sphinx-remove-toctrees
+conda_forge = "sphinx-remove-toctrees"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_remove_toctrees-1.0.0.post1-py3-none-any.whl" },
+  { filename = "sphinx_remove_toctrees-0.0.3-py3-none-any.whl" },
+  { filename = "sphinx_remove_toctrees-0.0.2-py3-none-any.whl" },
+]

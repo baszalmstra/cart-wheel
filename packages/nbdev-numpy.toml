@@ -1,0 +1,11 @@
+# Package configuration for nbdev-numpy
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nbdev_numpy-0.0.2275-py3-none-any.whl" },
+  { filename = "nbdev_numpy-0.0.2274-py3-none-any.whl" },
+  { filename = "nbdev_numpy-0.0.2273-py3-none-any.whl" },
+  { filename = "nbdev_numpy-0.0.2272-py3-none-any.whl" },
+  { filename = "nbdev_numpy-0.0.2271-py3-none-any.whl" },
+]

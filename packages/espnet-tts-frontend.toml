@@ -1,0 +1,11 @@
+# Package configuration for espnet-tts-frontend
+conda_forge = "espnet-tts-frontend"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "espnet_tts_frontend-0.0.3-py3-none-any.whl" },
+  { filename = "espnet_tts_frontend-0.0.2-py3-none-any.whl" },
+  { filename = "espnet_tts_frontend-0.0.1-py3-none-any.whl" },
+  { filename = "espnet_tts_frontend-0.0.0-py3-none-any.whl" },
+]

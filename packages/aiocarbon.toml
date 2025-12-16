@@ -1,0 +1,11 @@
+# Package configuration for aiocarbon
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiocarbon-0.15.3-py3-none-any.whl" },
+  { filename = "aiocarbon-0.15.2-py3-none-any.whl" },
+  { filename = "aiocarbon-0.15.1-py3-none-any.whl" },
+  { filename = "aiocarbon-0.15.0-py3-none-any.whl" },
+  { filename = "aiocarbon-0.14.2-py3-none-any.whl" },
+]

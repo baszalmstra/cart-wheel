@@ -1,0 +1,41 @@
+{
+  "pytest_skip_slow-0.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2f6401d6ed0db3be1402622a7b24f7df14f61ebd26feda808a0d45433d4d474",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2.0",
+      "tox ; extra == \"test\""
+    ]
+  },
+  "pytest_skip_slow-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4b419f545251ce9a24d574c70b15e6f24614d648b5c16ae8551ec0c4b5e48d6",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2.0",
+      "tox ; extra == \"test\""
+    ]
+  },
+  "pytest_skip_slow-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9029eb8c258e6c3c4b499848d864c9e9c48499d8b8bf5bb413044f59874cfd06",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2.0",
+      "tox ; extra == \"test\""
+    ]
+  }
+}

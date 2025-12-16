@@ -1,0 +1,100 @@
+{
+  "onnxconverter_common-1.16.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df39ee96f17fff119dff10dd245467651b60b9e8a96020eb93402239794852f7",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "onnx",
+        "packaging",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "onnx",
+      "packaging",
+      "protobuf>=3.20.2",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "ruff; extra == \"lint\"",
+      "pyright; extra == \"lint\"",
+      "onnxconverter-common[lint,test]; extra == \"dev\""
+    ]
+  },
+  "onnxconverter_common-1.15.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24579ed1bb3c10beca39a4517d196c17341911be5bd09bd0e6050a7379a2a7d9",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "onnx",
+        "packaging",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "onnx",
+      "packaging",
+      "protobuf>=3.20.2",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "ruff; extra == \"lint\"",
+      "pyright; extra == \"lint\"",
+      "onnxconverter-common[lint,test]; extra == \"dev\""
+    ]
+  },
+  "onnxconverter_common-1.14.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9723e4a9b47f283e298605dce9f357d5ebd5e5e70172fca26e282a1b490916c4",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "onnx",
+        "packaging",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "onnx",
+      "packaging",
+      "protobuf ==3.20.2"
+    ]
+  },
+  "onnxconverter_common-1.13.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ee1c025ef6c3b4abaede8425bc6b393248941a6cf8c21563d0d0e3f04634a0a",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "onnx",
+        "packaging",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "onnx",
+      "packaging",
+      "protobuf"
+    ]
+  },
+  "onnxconverter_common-1.12.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "29b7caade27aeda1b827232554cec352db8afc6e16c3e3ea8c4264449f9ff3a6",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "protobuf",
+        "onnx"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "protobuf",
+      "onnx"
+    ]
+  }
+}

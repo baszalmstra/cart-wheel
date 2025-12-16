@@ -1,0 +1,8 @@
+# Package configuration for intake-parquet
+conda_forge = "intake-parquet"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "intake_parquet-0.3.0-py3-none-any.whl" },
+]

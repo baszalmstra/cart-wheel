@@ -1,0 +1,42 @@
+{
+  "retry2-0.9.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f7fee13b1e15d0611c462910a6aa72a8919823988dd0412152bc3719c89a4e55",
+    "dependencies": {
+      "required": [
+        "decorator"
+      ]
+    },
+    "original_requirements": [
+      "decorator (>=3.4.2)"
+    ]
+  },
+  "retry2-0.9.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2947017008e37a9a2d7506080e137d6a1d53f5a172bb2b036d7a9987aa1e3fb5",
+    "dependencies": {
+      "required": [
+        "decorator",
+        "py"
+      ]
+    },
+    "original_requirements": [
+      "decorator (>=3.4.2)",
+      "py (<2.0.0,>=1.4.26)"
+    ]
+  },
+  "retry2-0.9.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dad23fe6222fe72436a244f2fb893a5c498831283d96df008e4811d8485b55bd",
+    "dependencies": {
+      "required": [
+        "decorator",
+        "py"
+      ]
+    },
+    "original_requirements": [
+      "decorator (>=3.4.2)",
+      "py (<2.0.0,>=1.4.26)"
+    ]
+  }
+}

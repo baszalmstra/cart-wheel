@@ -1,0 +1,32 @@
+{
+  "outdated-0.2.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e9c2ee6d17e86ae8cc7bb71d70c4172690121cda367155a30994742172678c8",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "littleutils",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "setuptools (>=44)",
+      "littleutils",
+      "requests"
+    ]
+  },
+  "outdated-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "177e381857c10c410dc643b48ace8753ab977d5ae39642297a7f76eb4a3c1c8e",
+    "dependencies": {
+      "required": [
+        "littleutils",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "littleutils",
+      "requests"
+    ]
+  }
+}

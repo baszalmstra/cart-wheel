@@ -1,0 +1,11 @@
+# Package configuration for jaraco.path
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaraco.path-3.7.2-py3-none-any.whl" },
+  { filename = "jaraco.path-3.7.1-py3-none-any.whl" },
+  { filename = "jaraco.path-3.7.0-py3-none-any.whl" },
+  { filename = "jaraco.path-3.6.0-py3-none-any.whl" },
+  { filename = "jaraco.path-3.5.0-py3-none-any.whl" },
+]

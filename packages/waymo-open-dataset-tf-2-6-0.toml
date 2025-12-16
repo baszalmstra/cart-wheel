@@ -1,0 +1,6 @@
+# Package configuration for waymo-open-dataset-tf-2-6-0
+# No pure Python wheels available - platform-specific only
+version_constraint = ""
+skip_versions = []
+
+wheels = []

@@ -1,0 +1,12 @@
+# Package configuration for yapf
+conda_forge = "yapf"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "yapf-0.43.0-py3-none-any.whl" },
+  { filename = "yapf-0.40.2-py3-none-any.whl" },
+  { filename = "yapf-0.40.1-py3-none-any.whl" },
+  { filename = "yapf-0.32.0-py2.py3-none-any.whl" },
+  { filename = "yapf-0.31.0-py2.py3-none-any.whl" },
+]

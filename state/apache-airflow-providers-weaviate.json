@@ -1,0 +1,108 @@
+{
+  "apache_airflow_providers_weaviate-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f537b7e3cf5d9d6828ad7e20d437405fdb139dcb4698f7b7d7493e29f99634c6",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "httpx",
+        "weaviate-client",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "httpx>=0.25.0",
+      "weaviate-client>=4.4.0,!=4.16.7",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_weaviate-3.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5fb520b4331acd800c9e4cd594aab3f5b5ae1fd3633030813f5ad45fe4027a77",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "httpx",
+        "weaviate-client",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "httpx>=0.25.0",
+      "weaviate-client>=4.4.0,!=4.16.7",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_weaviate-3.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "318d056b8a1ffaa453e1a563e9d1036a3bcea730eceda2007af29c8cb5636e19",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "httpx",
+        "weaviate-client",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "httpx>=0.25.0",
+      "weaviate-client>=4.4.0,!=4.16.7",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_weaviate-3.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1fe49b612bac14d8962e2e0c1fb3f9cf4ffd8a05ef4965856af1a157170edcfe",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "httpx",
+        "weaviate-client",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "httpx>=0.25.0",
+      "weaviate-client>=4.4.0,!=4.16.7",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_weaviate-3.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c445cfc786fd8926ca923f63c755e428ec4a4cc4660094af82ffb53496612a9",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "httpx",
+        "weaviate-client",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "httpx>=0.25.0",
+      "weaviate-client>=4.4.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  }
+}

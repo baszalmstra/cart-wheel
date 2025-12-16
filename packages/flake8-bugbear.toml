@@ -1,0 +1,12 @@
+# Package configuration for flake8-bugbear
+conda_forge = "flake8-bugbear"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_bugbear-25.11.29-py3-none-any.whl" },
+  { filename = "flake8_bugbear-25.10.21-py3-none-any.whl" },
+  { filename = "flake8_bugbear-24.12.12-py3-none-any.whl" },
+  { filename = "flake8_bugbear-24.10.31-py3-none-any.whl" },
+  { filename = "flake8_bugbear-24.8.19-py3-none-any.whl" },
+]

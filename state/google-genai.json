@@ -1,0 +1,151 @@
+{
+  "google_genai-1.55.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "98c422762b5ff6e16b8d9a1e4938e8e0ad910392a5422e47f5301498d7f373a1",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "google-auth",
+        "httpx",
+        "pydantic",
+        "requests",
+        "tenacity",
+        "websockets",
+        "typing-extensions",
+        "distro",
+        "sniffio"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5.0.0,>=4.8.0",
+      "google-auth[requests]<3.0.0,>=2.14.1",
+      "httpx<1.0.0,>=0.28.1",
+      "pydantic<3.0.0,>=2.9.0",
+      "requests<3.0.0,>=2.28.1",
+      "tenacity<9.2.0,>=8.2.3",
+      "websockets<15.1.0,>=13.0.0",
+      "typing-extensions<5.0.0,>=4.11.0",
+      "distro<2,>=1.7.0",
+      "sniffio",
+      "aiohttp<3.13.3; extra == \"aiohttp\"",
+      "sentencepiece>=0.2.0; extra == \"local-tokenizer\"",
+      "protobuf; extra == \"local-tokenizer\""
+    ]
+  },
+  "google_genai-1.54.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c06853402814a47bb020f2dc50fc03fb77cc349dff65da35cddbd19046f9bd58",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "google-auth",
+        "httpx",
+        "pydantic",
+        "requests",
+        "tenacity",
+        "websockets",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5.0.0,>=4.8.0",
+      "google-auth[requests]<3.0.0,>=2.14.1",
+      "httpx<1.0.0,>=0.28.1",
+      "pydantic<3.0.0,>=2.9.0",
+      "requests<3.0.0,>=2.28.1",
+      "tenacity<9.2.0,>=8.2.3",
+      "websockets<15.1.0,>=13.0.0",
+      "typing-extensions<5.0.0,>=4.11.0",
+      "aiohttp<3.13.3; extra == \"aiohttp\"",
+      "sentencepiece>=0.2.0; extra == \"local-tokenizer\"",
+      "protobuf; extra == \"local-tokenizer\""
+    ]
+  },
+  "google_genai-1.53.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65a3f99e5c03c372d872cda7419f5940e723374bb12a2f3ffd5e3e56e8eb2094",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "google-auth",
+        "httpx",
+        "pydantic",
+        "requests",
+        "tenacity",
+        "websockets",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5.0.0,>=4.8.0",
+      "google-auth[requests]<3.0.0,>=2.14.1",
+      "httpx<1.0.0,>=0.28.1",
+      "pydantic<3.0.0,>=2.9.0",
+      "requests<3.0.0,>=2.28.1",
+      "tenacity<9.2.0,>=8.2.3",
+      "websockets<15.1.0,>=13.0.0",
+      "typing-extensions<5.0.0,>=4.11.0",
+      "aiohttp<3.13.3; extra == \"aiohttp\"",
+      "sentencepiece>=0.2.0; extra == \"local-tokenizer\"",
+      "protobuf; extra == \"local-tokenizer\""
+    ]
+  },
+  "google_genai-1.52.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8352b9f065ae14b9322b949c7debab8562982f03bf71d44130cd2b798c20743",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "google-auth",
+        "httpx",
+        "pydantic",
+        "requests",
+        "tenacity",
+        "websockets",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5.0.0,>=4.8.0",
+      "google-auth<3.0.0,>=2.14.1",
+      "httpx<1.0.0,>=0.28.1",
+      "pydantic<3.0.0,>=2.9.0",
+      "requests<3.0.0,>=2.28.1",
+      "tenacity<9.2.0,>=8.2.3",
+      "websockets<15.1.0,>=13.0.0",
+      "typing-extensions<5.0.0,>=4.11.0",
+      "aiohttp<3.13.3; extra == \"aiohttp\"",
+      "sentencepiece>=0.2.0; extra == \"local-tokenizer\"",
+      "protobuf; extra == \"local-tokenizer\""
+    ]
+  },
+  "google_genai-1.51.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bfb7d0c6ba48ba9bda539f0d5e69dad827d8735a8b1e4703bafa0a2945d293e1",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "google-auth",
+        "httpx",
+        "pydantic",
+        "requests",
+        "tenacity",
+        "websockets",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5.0.0,>=4.8.0",
+      "google-auth<3.0.0,>=2.14.1",
+      "httpx<1.0.0,>=0.28.1",
+      "pydantic<3.0.0,>=2.9.0",
+      "requests<3.0.0,>=2.28.1",
+      "tenacity<9.2.0,>=8.2.3",
+      "websockets<15.1.0,>=13.0.0",
+      "typing-extensions<5.0.0,>=4.11.0",
+      "aiohttp<4.0.0; extra == \"aiohttp\"",
+      "sentencepiece>=0.2.0; extra == \"local-tokenizer\"",
+      "protobuf; extra == \"local-tokenizer\""
+    ]
+  }
+}

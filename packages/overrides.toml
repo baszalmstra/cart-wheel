@@ -1,0 +1,12 @@
+# Package configuration for overrides
+conda_forge = "overrides"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "overrides-7.7.0-py3-none-any.whl" },
+  { filename = "overrides-7.6.0-py3-none-any.whl" },
+  { filename = "overrides-7.5.0-py3-none-any.whl" },
+  { filename = "overrides-7.4.0-py3-none-any.whl" },
+  { filename = "overrides-7.3.1-py3-none-any.whl" },
+]

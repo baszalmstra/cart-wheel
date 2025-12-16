@@ -1,0 +1,57 @@
+{
+  "repeated_test-2.3.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0036c4103438304fdec107ec4a3eac83adc854c88f95b7fe3245e2296cbfdd13",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "repeated_test-2.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9fb0a1e7ae80b26384c492fa786d7be94341a0d7960065d0f34ea078bcda42be",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.7)"
+    ]
+  },
+  "repeated_test-2.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f7b35a6e60e75574722bbbb2645fbc53565aa95c42fb182fa8b78c816e6ebb5a",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.7)"
+    ]
+  },
+  "repeated_test-2.1.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "88a69ec2d456ae64e64a7b07920b21ca4d48435fde66ea7a1ef95b1352226381",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.7)"
+    ]
+  },
+  "repeated_test-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d0ceddc886981fb55a5d87df89d1b2efc0b6f8b734e6814fbc0adc166228eed",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.7)"
+    ]
+  }
+}

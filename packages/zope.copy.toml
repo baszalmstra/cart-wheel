@@ -1,0 +1,11 @@
+# Package configuration for zope.copy
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zope_copy-6.0-py3-none-any.whl" },
+  { filename = "zope.copy-5.0-py3-none-any.whl" },
+  { filename = "zope.copy-4.3-py2.py3-none-any.whl" },
+  { filename = "zope.copy-4.2-py2.py3-none-any.whl" },
+  { filename = "zope.copy-4.1.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,22 @@
+{
+  "azure_ai_projects-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81369ed7a2f84a65864f57d3fa153e16c30f411a1504d334e184fb070165a3fa",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "azure-core",
+        "typing-extensions",
+        "azure-storage-blob",
+        "azure-ai-agents"
+      ]
+    },
+    "original_requirements": [
+      "isodate>=0.6.1",
+      "azure-core>=1.30.0",
+      "typing-extensions>=4.12.2",
+      "azure-storage-blob>=12.15.0",
+      "azure-ai-agents>=1.0.0"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "apache_airflow_providers_keycloak-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e05bcf665934d70e5f13bfa5b9206aa4dada20e276acf6a9f662d8f7074d4af2",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-keycloak"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "python-keycloak>=5.0.0"
+    ]
+  },
+  "apache_airflow_providers_keycloak-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "baed30e965fad63dbdcb77a3c8b6caa2abe73d2aada521c33c138779a01c6489",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "python-keycloak"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.0",
+      "python-keycloak>=5.0.0"
+    ]
+  },
+  "apache_airflow_providers_keycloak-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "921dd1627c78ed5dc917a74d1f8a76ba95c716a24434b247ed2133155755ce3e",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "python-keycloak"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.0",
+      "python-keycloak>=5.0.0"
+    ]
+  },
+  "apache_airflow_providers_keycloak-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c400bb5298fa2a2d3189ad2d66cce3150bacd84473259bb5e83ecfb51837057",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "python-keycloak"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.0",
+      "python-keycloak>=5.0.0"
+    ]
+  },
+  "apache_airflow_providers_keycloak-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b77eb982e34aef3e11927ed937f8c496708fecab6d97776bee0dd0b07cdd030",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "python-keycloak"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.0",
+      "python-keycloak>=5.0.0"
+    ]
+  }
+}

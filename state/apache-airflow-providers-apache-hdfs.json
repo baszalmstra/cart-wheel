@@ -1,0 +1,132 @@
+{
+  "apache_airflow_providers_apache_hdfs-4.11.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:07.946294+00:00",
+    "conda_file": "apache-airflow-providers-apache-hdfs-4.11.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "hdfs[extras=[avro,dataframe,kerberos]]",
+        "hdfs[extras=[avro,dataframe,kerberos]]",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "hdfs[avro, dataframe, kerberos]>=2.5.4;python_version<\"3.12\"",
+      "hdfs[avro, dataframe, kerberos]>=2.7.3;python_version>=\"3.12\"",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_apache_hdfs-4.11.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:07.998084+00:00",
+    "conda_file": "apache-airflow-providers-apache-hdfs-4.11.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "hdfs[extras=[avro,dataframe,kerberos]]",
+        "hdfs[extras=[avro,dataframe,kerberos]]",
+        "pandas",
+        "pandas"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "hdfs[avro, dataframe, kerberos]>=2.5.4;python_version<\"3.12\"",
+      "hdfs[avro, dataframe, kerberos]>=2.7.3;python_version>=\"3.12\"",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_hdfs-4.10.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:07.893118+00:00",
+    "conda_file": "apache-airflow-providers-apache-hdfs-4.10.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "hdfs[extras=[avro,dataframe,kerberos]]",
+        "hdfs[extras=[avro,dataframe,kerberos]]",
+        "pandas",
+        "pandas"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "hdfs[avro, dataframe, kerberos]>=2.5.4;python_version<\"3.12\"",
+      "hdfs[avro, dataframe, kerberos]>=2.7.3;python_version>=\"3.12\"",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_hdfs-4.10.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:08.207133+00:00",
+    "conda_file": "apache-airflow-providers-apache-hdfs-4.10.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "hdfs[extras=[avro,dataframe,kerberos]]",
+        "hdfs[extras=[avro,dataframe,kerberos]]",
+        "pandas",
+        "pandas"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "hdfs[avro, dataframe, kerberos]>=2.5.4;python_version<\"3.12\"",
+      "hdfs[avro, dataframe, kerberos]>=2.7.3;python_version>=\"3.12\"",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_hdfs-4.10.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:08.241485+00:00",
+    "conda_file": "apache-airflow-providers-apache-hdfs-4.10.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "hdfs[extras=[avro,dataframe,kerberos]]",
+        "hdfs[extras=[avro,dataframe,kerberos]]",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "hdfs[avro, dataframe, kerberos]>=2.5.4;python_version<\"3.12\"",
+      "hdfs[avro, dataframe, kerberos]>=2.7.3;python_version>=\"3.12\"",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  }
+}

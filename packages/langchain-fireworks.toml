@@ -1,0 +1,12 @@
+# Package configuration for langchain-fireworks
+conda_forge = "langchain-fireworks"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_fireworks-1.1.0-py3-none-any.whl" },
+  { filename = "langchain_fireworks-1.0.0-py3-none-any.whl" },
+  { filename = "langchain_fireworks-0.3.0-py3-none-any.whl" },
+  { filename = "langchain_fireworks-0.2.9-py3-none-any.whl" },
+  { filename = "langchain_fireworks-0.2.8-py3-none-any.whl" },
+]

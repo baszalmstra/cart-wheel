@@ -1,0 +1,92 @@
+{
+  "aws_cdk.aws_route53recoverycontrol-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac566b9b22adfd18a776aa88bdfe011e4fc297a27e30206bb9fffe507a2cc819",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_route53recoverycontrol-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d0c9fdfa6f18dc08f077dc2463d8fdd8da10b9689468ed45abf8773361d25c4a",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_route53recoverycontrol-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4f3cb45ed89cd042df6d28822b73d3e4ae76975635eefd04cf801a2df3c8d03",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_route53recoverycontrol-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b418da390c505740ed569174858bf6ede999d3405eb11edd24d7bf188c61c97",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_route53recoverycontrol-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07a41cb4d112039c984f9b6a191c88ef725114bf2ede6d2b86abe48f5539cb2b",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

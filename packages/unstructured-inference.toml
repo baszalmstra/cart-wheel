@@ -1,0 +1,11 @@
+# Package configuration for unstructured-inference
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "unstructured_inference-1.1.2-py3-none-any.whl" },
+  { filename = "unstructured_inference-1.1.1-py3-none-any.whl" },
+  { filename = "unstructured_inference-1.0.5-py3-none-any.whl" },
+  { filename = "unstructured_inference-1.0.2-py3-none-any.whl" },
+  { filename = "unstructured_inference-0.8.10-py3-none-any.whl" },
+]

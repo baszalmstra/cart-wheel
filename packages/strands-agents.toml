@@ -1,0 +1,12 @@
+# Package configuration for strands-agents
+conda_forge = "strands-agents"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "strands_agents-1.19.0-py3-none-any.whl" },
+  { filename = "strands_agents-1.18.0-py3-none-any.whl" },
+  { filename = "strands_agents-1.17.0-py3-none-any.whl" },
+  { filename = "strands_agents-1.16.0-py3-none-any.whl" },
+  { filename = "strands_agents-1.15.0-py3-none-any.whl" },
+]

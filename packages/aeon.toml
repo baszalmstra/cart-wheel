@@ -1,0 +1,12 @@
+# Package configuration for aeon
+conda_forge = "aeon"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aeon-1.3.0-py3-none-any.whl" },
+  { filename = "aeon-1.2.0-py3-none-any.whl" },
+  { filename = "aeon-1.1.0-py3-none-any.whl" },
+  { filename = "aeon-1.0.0-py3-none-any.whl" },
+  { filename = "aeon-0.11.1-py3-none-any.whl" },
+]

@@ -1,0 +1,122 @@
+{
+  "vaex-4.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b48dafa590028b103d7a21dcf31d0ea511d83714899a97644eca96f3725bf7cc",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "vaex-astro",
+        "vaex-hdf5",
+        "vaex-viz",
+        "vaex-server",
+        "vaex-jupyter",
+        "vaex-ml"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (~=4.17.1)",
+      "vaex-astro (<0.10,>=0.9.3)",
+      "vaex-hdf5 (<0.15,>=0.13.0)",
+      "vaex-viz (<0.6,>=0.5.4)",
+      "vaex-server (~=0.9.0)",
+      "vaex-jupyter (<0.9,>=0.8.2)",
+      "vaex-ml (<0.19,>=0.18.3)"
+    ]
+  },
+  "vaex-4.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2a03b2c391c8bbbc3d56098f241307fcdbdbd508599442939a8a58127ff14a4",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "vaex-astro",
+        "vaex-hdf5",
+        "vaex-viz",
+        "vaex-server",
+        "vaex-jupyter",
+        "vaex-ml"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<4.17,>=4.16.0)",
+      "vaex-astro (<0.10,>=0.9.3)",
+      "vaex-hdf5 (<0.15,>=0.13.0)",
+      "vaex-viz (<0.6,>=0.5.4)",
+      "vaex-server (<0.9,>=0.8.1)",
+      "vaex-jupyter (<0.9,>=0.8.1)",
+      "vaex-ml (<0.19,>=0.18.1)"
+    ]
+  },
+  "vaex-4.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6a016f56a2984e564d5f590ee721dddb2f2ab91161519f15d5e16e01cf470510",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "vaex-astro",
+        "vaex-hdf5",
+        "vaex-viz",
+        "vaex-server",
+        "vaex-jupyter",
+        "vaex-ml"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<4.16,>=4.15.0)",
+      "vaex-astro (<0.10,>=0.9.2)",
+      "vaex-hdf5 (<0.15,>=0.13.0)",
+      "vaex-viz (<0.6,>=0.5.4)",
+      "vaex-server (<0.9,>=0.8.1)",
+      "vaex-jupyter (<0.9,>=0.8.1)",
+      "vaex-ml (<0.19,>=0.18.1)"
+    ]
+  },
+  "vaex-4.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c43be5c8baf327608db91907fead0080c3ddee75f1339102b439499fd410026f",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "vaex-astro",
+        "vaex-hdf5",
+        "vaex-viz",
+        "vaex-server",
+        "vaex-jupyter",
+        "vaex-ml"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<4.15,>=4.14.0)",
+      "vaex-astro (<0.10,>=0.9.2)",
+      "vaex-hdf5 (<0.14,>=0.13.0)",
+      "vaex-viz (<0.6,>=0.5.4)",
+      "vaex-server (<0.9,>=0.8.1)",
+      "vaex-jupyter (<0.9,>=0.8.0)",
+      "vaex-ml (<0.19,>=0.18.0)"
+    ]
+  },
+  "vaex-4.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7f3e3318e41fd7bbc9e943ef50237bb264c292d4579eac448c7952b495eb1cde",
+    "dependencies": {
+      "required": [
+        "vaex-core",
+        "vaex-astro",
+        "vaex-hdf5",
+        "vaex-viz",
+        "vaex-server",
+        "vaex-jupyter",
+        "vaex-ml"
+      ]
+    },
+    "original_requirements": [
+      "vaex-core (<4.14,>=4.13.0)",
+      "vaex-astro (<0.10,>=0.9.2)",
+      "vaex-hdf5 (<0.14,>=0.13.0)",
+      "vaex-viz (<0.6,>=0.5.4)",
+      "vaex-server (<0.9,>=0.8.1)",
+      "vaex-jupyter (<0.9,>=0.8.0)",
+      "vaex-ml (<0.19,>=0.18.0)"
+    ]
+  }
+}

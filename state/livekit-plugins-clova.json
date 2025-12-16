@@ -1,0 +1,72 @@
+{
+  "livekit_plugins_clova-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b2449301ffcc6e3fa77b6fa2ab35bc0dfee275d9a83521eece147a6f722b05e",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "pydub"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents>=1.3.6",
+      "pydub~=0.25.1"
+    ]
+  },
+  "livekit_plugins_clova-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b645d435c5f4730c561ba9c4f271b192ce85f7be747118e1e6f1a451fed0c18",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "pydub"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents>=1.3.5",
+      "pydub~=0.25.1"
+    ]
+  },
+  "livekit_plugins_clova-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d789ff7d9f16fea1d500b9c6349d598312d149d3bb63506481396b096e9603aa",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "pydub"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents>=1.3.4",
+      "pydub~=0.25.1"
+    ]
+  },
+  "livekit_plugins_clova-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1f231386390b184f2407e98df87aaae2c5b74877877d8dc7fb50646b3656f447",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "pydub"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents>=1.3.3",
+      "pydub~=0.25.1"
+    ]
+  },
+  "livekit_plugins_clova-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c9616dc834c446b29e3090380d6729d1b4a8cdfefee8158679cb750a360e0d2e",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "pydub"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents>=1.3.2",
+      "pydub~=0.25.1"
+    ]
+  }
+}

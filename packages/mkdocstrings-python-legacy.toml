@@ -1,0 +1,12 @@
+# Package configuration for mkdocstrings-python-legacy
+conda_forge = "mkdocstrings-python-legacy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocstrings_python_legacy-0.2.7-py3-none-any.whl" },
+  { filename = "mkdocstrings_python_legacy-0.2.6-py3-none-any.whl" },
+  { filename = "mkdocstrings_python_legacy-0.2.5-py3-none-any.whl" },
+  { filename = "mkdocstrings_python_legacy-0.2.4-py3-none-any.whl" },
+  { filename = "mkdocstrings_python_legacy-0.2.3-py3-none-any.whl" },
+]

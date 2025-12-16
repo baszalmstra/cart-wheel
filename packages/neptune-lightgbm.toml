@@ -1,0 +1,10 @@
+# Package configuration for neptune-lightgbm
+conda_forge = "neptune-lightgbm"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neptune_lightgbm-2.0.0-py3-none-any.whl" },
+  { filename = "neptune_lightgbm-1.0.0-py3-none-any.whl" },
+  { filename = "neptune_lightgbm-0.10.0-py3-none-any.whl" },
+]

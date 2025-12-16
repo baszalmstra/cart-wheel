@@ -1,0 +1,12 @@
+# Package configuration for palettable
+conda_forge = "palettable"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "palettable-3.3.3-py2.py3-none-any.whl" },
+  { filename = "palettable-3.3.2-py2.py3-none-any.whl" },
+  { filename = "palettable-3.3.1-py2.py3-none-any.whl" },
+  { filename = "palettable-3.3.0-py2.py3-none-any.whl" },
+  { filename = "palettable-3.2.0-py2.py3-none-any.whl" },
+]

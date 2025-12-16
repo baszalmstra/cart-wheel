@@ -1,0 +1,12 @@
+# Package configuration for wcwidth
+conda_forge = "wcwidth"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "wcwidth-0.2.14-py2.py3-none-any.whl" },
+  { filename = "wcwidth-0.2.13-py2.py3-none-any.whl" },
+  { filename = "wcwidth-0.2.12-py2.py3-none-any.whl" },
+  { filename = "wcwidth-0.2.11-py2.py3-none-any.whl" },
+  { filename = "wcwidth-0.2.10-py2.py3-none-any.whl" },
+]

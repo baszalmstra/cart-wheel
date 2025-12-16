@@ -1,0 +1,12 @@
+# Package configuration for azure-storage-queue
+conda_forge = "azure-storage-queue"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_storage_queue-12.14.1-py3-none-any.whl" },
+  { filename = "azure_storage_queue-12.14.0-py3-none-any.whl" },
+  { filename = "azure_storage_queue-12.13.0-py3-none-any.whl" },
+  { filename = "azure_storage_queue-12.12.0-py3-none-any.whl" },
+  { filename = "azure_storage_queue-12.11.0-py3-none-any.whl" },
+]

@@ -1,0 +1,122 @@
+{
+  "aws_cdk.aws_iam-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b29137995dc7a5e49c8d0be16526db60895f811461f9fca9e7a0f850ec1ac90",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "aws-cdk.region-info",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "aws-cdk.cx-api (==1.204.0)",
+      "aws-cdk.region-info (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_iam-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd893727c05b2478e0c0c73091c398603b98876813e289d197f44ab4d04903a0",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "aws-cdk.region-info",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "aws-cdk.cx-api (==1.203.0)",
+      "aws-cdk.region-info (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_iam-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b13aea59f61d6fa7f7f995b2d45f5363d412acdcb0388202af80c88f8cf9b034",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "aws-cdk.region-info",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "aws-cdk.cx-api (==1.202.0)",
+      "aws-cdk.region-info (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_iam-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19502649cac9e5d9c4084bc3510f66f73150c89d08795273e9fe9039dbe6c6fd",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "aws-cdk.region-info",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "aws-cdk.cx-api (==1.201.0)",
+      "aws-cdk.region-info (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_iam-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c3e1a5f3cdd6043c588f40507574f571617c0e16d5189e9734704ad41a79ced5",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "aws-cdk.region-info",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "aws-cdk.cx-api (==1.200.0)",
+      "aws-cdk.region-info (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

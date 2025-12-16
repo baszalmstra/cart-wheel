@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-stepfunctions
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_stepfunctions-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_stepfunctions-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_stepfunctions-1.40.60-py3-none-any.whl" },
+  { filename = "mypy_boto3_stepfunctions-1.40.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_stepfunctions-1.39.8-py3-none-any.whl" },
+]

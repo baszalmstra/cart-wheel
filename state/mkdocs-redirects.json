@@ -1,0 +1,36 @@
+{
+  "mkdocs_redirects-1.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7dbfa5647b79a3589da4401403d69494bd1f4ad03b9c15136720367e1f340ed5",
+    "dependencies": {
+      "required": [
+        "mkdocs"
+      ]
+    },
+    "original_requirements": [
+      "mkdocs>=1.1.1"
+    ]
+  },
+  "mkdocs_redirects-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "497089f9e0219e7389304cffefccdfa1cac5ff9509f2cb706f4c9b221726dffb",
+    "dependencies": {
+      "required": [
+        "mkdocs"
+      ]
+    },
+    "original_requirements": [
+      "mkdocs >=1.1.1",
+      "pytest ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "isort ; extra == 'dev'",
+      "autoflake ; extra == 'dev'",
+      "twine >=1.13.0 ; extra == 'dev'",
+      "twine >=1.13.0 ; extra == 'release'",
+      "pytest ; extra == 'test'",
+      "black ; extra == 'test'",
+      "isort ; extra == 'test'",
+      "autoflake ; extra == 'test'"
+    ]
+  }
+}

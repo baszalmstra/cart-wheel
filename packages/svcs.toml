@@ -1,0 +1,12 @@
+# Package configuration for svcs
+conda_forge = "svcs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "svcs-25.1.0-py3-none-any.whl" },
+  { filename = "svcs-24.1.0-py3-none-any.whl" },
+  { filename = "svcs-23.21.0-py3-none-any.whl" },
+  { filename = "svcs-23.20.0-py3-none-any.whl" },
+  { filename = "svcs-23.19.0-py3-none-any.whl" },
+]

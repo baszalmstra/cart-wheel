@@ -1,0 +1,12 @@
+# Package configuration for sgqlc
+conda_forge = "sgqlc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sgqlc-17.1-py3-none-any.whl" },
+  { filename = "sgqlc-17-py3-none-any.whl" },
+  { filename = "sgqlc-16.5-py3-none-any.whl" },
+  { filename = "sgqlc-16.4-py3-none-any.whl" },
+  { filename = "sgqlc-16.3-py3-none-any.whl" },
+]

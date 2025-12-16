@@ -1,0 +1,96 @@
+{
+  "matrix_client-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "20cb42fb644879858c3fdd348d1c349c33676f11d1597f820abfd0fc0e009cb1",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "requests (~=2.22)",
+      "urllib3 (~=1.21)",
+      "Sphinx (==1.*,>=1.7.6) ; extra == 'doc'",
+      "sphinx-rtd-theme (==0.1.*,>=0.1.9) ; extra == 'doc'",
+      "sphinxcontrib-napoleon (==0.5.*,>=0.5.3) ; extra == 'doc'",
+      "python-olm (~=3.1) ; extra == 'e2e'",
+      "canonicaljson (~=1.1) ; extra == 'e2e'",
+      "pytest (<6.0.0,>=4.6) ; extra == 'test'",
+      "responses (==0.10.*,>=0.10.6) ; extra == 'test'"
+    ]
+  },
+  "matrix_client-0.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2855a2614a177db66f9bc3ba38cbd2876041456f663c334f72a160ab6bb11c49",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "Sphinx (==1.4.6); extra == 'doc'",
+      "sphinx-rtd-theme (==0.1.9); extra == 'doc'",
+      "sphinxcontrib-napoleon (==0.5.3); extra == 'doc'",
+      "flake8; extra == 'format'",
+      "pytest; extra == 'test'",
+      "responses; extra == 'test'"
+    ]
+  },
+  "matrix_client-0.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b632998708fd3e47e03ffec725eaa07910a4fdd21f41d8552267f452257ad3f",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "Sphinx (==1.4.6); extra == 'doc'",
+      "sphinx-rtd-theme (==0.1.9); extra == 'doc'",
+      "sphinxcontrib-napoleon (==0.5.3); extra == 'doc'",
+      "flake8; extra == 'format'",
+      "pytest; extra == 'test'",
+      "responses; extra == 'test'"
+    ]
+  },
+  "matrix_client-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bcb024107483460985864993c87ebf2c5f016827eb4f78cde21ec4e8a395a2e5",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "Sphinx (==1.4.6); extra == 'doc'",
+      "sphinx-rtd-theme (==0.1.9); extra == 'doc'",
+      "sphinxcontrib-napoleon (==0.5.3); extra == 'doc'",
+      "flake8; extra == 'format'",
+      "pytest; extra == 'test'",
+      "responses; extra == 'test'"
+    ]
+  },
+  "matrix_client-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "138cc15937c04edc1fdfc25ef0bc630fa34a086a387a56b709359d26a31cbdc2",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "Sphinx (==1.4.6); extra == 'doc'",
+      "sphinx-rtd-theme (==0.1.9); extra == 'doc'",
+      "sphinxcontrib-napoleon (==0.5.3); extra == 'doc'",
+      "tox; extra == 'test'",
+      "pytest; extra == 'test'",
+      "flake8; extra == 'test'",
+      "responses; extra == 'test'"
+    ]
+  }
+}

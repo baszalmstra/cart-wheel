@@ -1,0 +1,11 @@
+# Package configuration for zest.releaser
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zest_releaser-9.7.0-py3-none-any.whl" },
+  { filename = "zest_releaser-9.6.2-py3-none-any.whl" },
+  { filename = "zest_releaser-9.6.1-py3-none-any.whl" },
+  { filename = "zest_releaser-9.6.0-py3-none-any.whl" },
+  { filename = "zest_releaser-9.5.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-apache-livy
+conda_forge = "apache-airflow-providers-apache-livy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_apache_livy-4.5.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_apache_livy-4.5.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_apache_livy-4.4.5-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_apache_livy-4.4.4-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_apache_livy-4.4.3-py3-none-any.whl" },
+]

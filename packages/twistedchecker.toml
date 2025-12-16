@@ -1,0 +1,10 @@
+# Package configuration for twistedchecker
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "twistedchecker-0.7.4-py2.py3-none-any.whl" },
+  { filename = "twistedchecker-0.7.3-py2.py3-none-any.whl" },
+  { filename = "twistedchecker-0.7.2-py2.py3-none-any.whl" },
+  { filename = "twistedchecker-0.7.1-py2.py3-none-any.whl" },
+]

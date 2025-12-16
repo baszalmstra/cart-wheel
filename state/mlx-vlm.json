@@ -1,0 +1,217 @@
+{
+  "mlx_vlm-0.3.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fa94a450161ae3978ca71565b5364c4ce0e86f0c1fae98a24afaa43feb121c57",
+    "dependencies": {
+      "required": [
+        "mlx",
+        "datasets",
+        "tqdm",
+        "transformers",
+        "pillow",
+        "requests",
+        "mlx-lm",
+        "fastapi",
+        "soundfile",
+        "opencv-python",
+        "numpy",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "mlx>=0.26.0",
+      "datasets>=2.19.1",
+      "tqdm>=4.66.2",
+      "transformers>=4.57.0",
+      "Pillow>=10.3.0",
+      "requests>=2.31.0",
+      "mlx-lm>=0.23.0",
+      "fastapi>=0.95.1",
+      "soundfile>=0.13.1",
+      "opencv-python>=4.12.0.88",
+      "numpy",
+      "uvicorn",
+      "gradio>=5.19.0; extra == \"ui\"",
+      "mlx-audio; extra == \"audio\"",
+      "torch; extra == \"torch\"",
+      "torchvision; extra == \"torch\"",
+      "einops; extra == \"torch\"",
+      "blobfile; extra == \"torch\"",
+      "tiktoken; extra == \"torch\"",
+      "mlx-cuda; extra == \"cuda\"",
+      "mlx-cpu; extra == \"cpu\""
+    ]
+  },
+  "mlx_vlm-0.3.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13616978c82acb49808ee5e8139f20ab1a3feeebf7f748a3491e582bb14c2f68",
+    "dependencies": {
+      "required": [
+        "mlx",
+        "datasets",
+        "tqdm",
+        "transformers",
+        "pillow",
+        "requests",
+        "mlx-lm",
+        "fastapi",
+        "soundfile",
+        "opencv-python",
+        "numpy",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "mlx>=0.26.0",
+      "datasets>=2.19.1",
+      "tqdm>=4.66.2",
+      "transformers>=4.57.0",
+      "Pillow>=10.3.0",
+      "requests>=2.31.0",
+      "mlx-lm>=0.23.0",
+      "fastapi>=0.95.1",
+      "soundfile>=0.13.1",
+      "opencv-python>=4.12.0.88",
+      "numpy",
+      "uvicorn",
+      "gradio>=5.19.0; extra == \"ui\"",
+      "mlx-audio; extra == \"audio\"",
+      "torch; extra == \"torch\"",
+      "torchvision; extra == \"torch\"",
+      "einops; extra == \"torch\"",
+      "blobfile; extra == \"torch\"",
+      "tiktoken; extra == \"torch\"",
+      "mlx-cuda; extra == \"cuda\"",
+      "mlx-cpu; extra == \"cpu\""
+    ]
+  },
+  "mlx_vlm-0.3.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "803ff263dab29803123134281c99d509a2140a39a942bfa05b203870f4df8d70",
+    "dependencies": {
+      "required": [
+        "mlx",
+        "datasets",
+        "tqdm",
+        "transformers",
+        "pillow",
+        "requests",
+        "mlx-lm",
+        "fastapi",
+        "soundfile",
+        "opencv-python",
+        "numpy",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "mlx>=0.26.0",
+      "datasets>=2.19.1",
+      "tqdm>=4.66.2",
+      "transformers>=4.57.0",
+      "Pillow>=10.3.0",
+      "requests>=2.31.0",
+      "mlx-lm>=0.23.0",
+      "fastapi>=0.95.1",
+      "soundfile>=0.13.1",
+      "opencv-python>=4.12.0.88",
+      "numpy",
+      "uvicorn",
+      "gradio>=5.19.0; extra == \"ui\"",
+      "mlx-audio; extra == \"audio\"",
+      "torch; extra == \"torch\"",
+      "torchvision; extra == \"torch\"",
+      "einops; extra == \"torch\"",
+      "blobfile; extra == \"torch\"",
+      "tiktoken; extra == \"torch\"",
+      "mlx-cuda; extra == \"cuda\"",
+      "mlx-cpu; extra == \"cpu\""
+    ]
+  },
+  "mlx_vlm-0.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e33022299507e6d828b6c9bfaff986999e959390f03d4f3dffd66ff003edc76",
+    "dependencies": {
+      "required": [
+        "mlx",
+        "datasets",
+        "tqdm",
+        "transformers",
+        "pillow",
+        "requests",
+        "mlx-lm",
+        "fastapi",
+        "soundfile",
+        "opencv-python",
+        "numpy",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "mlx>=0.26.0",
+      "datasets>=2.19.1",
+      "tqdm>=4.66.2",
+      "transformers>=4.57.0",
+      "Pillow>=10.3.0",
+      "requests>=2.31.0",
+      "mlx-lm>=0.23.0",
+      "fastapi>=0.95.1",
+      "soundfile>=0.13.1",
+      "opencv-python>=4.12.0.88",
+      "numpy",
+      "uvicorn",
+      "gradio>=5.19.0; extra == \"ui\"",
+      "mlx-audio; extra == \"audio\"",
+      "torch; extra == \"torch\"",
+      "torchvision; extra == \"torch\"",
+      "einops; extra == \"torch\"",
+      "blobfile; extra == \"torch\"",
+      "tiktoken; extra == \"torch\"",
+      "mlx-cuda; extra == \"cuda\"",
+      "mlx-cpu; extra == \"cpu\""
+    ]
+  },
+  "mlx_vlm-0.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "320dbf5cfd0cbedf24c2406edef3b5dca5d658210dc801d077d5c9a03e155455",
+    "dependencies": {
+      "required": [
+        "mlx",
+        "datasets",
+        "tqdm",
+        "transformers",
+        "pillow",
+        "requests",
+        "mlx-lm",
+        "fastapi",
+        "soundfile",
+        "opencv-python",
+        "numpy",
+        "uvicorn"
+      ]
+    },
+    "original_requirements": [
+      "mlx>=0.26.0",
+      "datasets>=2.19.1",
+      "tqdm>=4.66.2",
+      "transformers>=4.57.0",
+      "Pillow>=10.3.0",
+      "requests>=2.31.0",
+      "mlx-lm>=0.23.0",
+      "fastapi>=0.95.1",
+      "soundfile>=0.13.1",
+      "opencv-python>=4.12.0.88",
+      "numpy",
+      "uvicorn",
+      "gradio>=5.19.0; extra == \"ui\"",
+      "mlx-audio; extra == \"audio\"",
+      "torch; extra == \"torch\"",
+      "torchvision; extra == \"torch\"",
+      "einops; extra == \"torch\"",
+      "blobfile; extra == \"torch\"",
+      "tiktoken; extra == \"torch\"",
+      "mlx-cuda; extra == \"cuda\"",
+      "mlx-cpu; extra == \"cpu\""
+    ]
+  }
+}

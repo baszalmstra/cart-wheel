@@ -1,0 +1,11 @@
+# Package configuration for torchsummary
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torchsummary-1.5.1-py3-none-any.whl" },
+  { filename = "torchsummary-1.5-py3-none-any.whl" },
+  { filename = "torchsummary-1.4-py3-none-any.whl" },
+  { filename = "torchsummary-1.3-py3-none-any.whl" },
+  { filename = "torchsummary-1.1-py3-none-any.whl" },
+]

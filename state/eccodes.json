@@ -1,0 +1,96 @@
+{
+  "eccodes-2.44.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c3f11041bde7c3f53767c5bbed608c43695f257c09c58bb4de24bcd9cdae4e3a",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "attrs",
+        "cffi",
+        "findlibs",
+        "eccodeslib"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "attrs",
+      "cffi",
+      "findlibs",
+      "eccodeslib; platform_system != \"Windows\""
+    ]
+  },
+  "eccodes-2.43.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fbb85816d9646f603a5b0c4c2768b6b5ead6d2aa2bf118cecbca852377ada3b1",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "attrs",
+        "cffi",
+        "findlibs",
+        "eccodeslib"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "attrs",
+      "cffi",
+      "findlibs",
+      "eccodeslib; platform_system != \"Windows\""
+    ]
+  },
+  "eccodes-2.42.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cff7533d447c76fd96ae742d70329bb9b29f2de05f8fd3603c844eb6c4240b00",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "attrs",
+        "cffi",
+        "findlibs"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "attrs",
+      "cffi",
+      "findlibs"
+    ]
+  },
+  "eccodes-2.41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3f4444757aac6a249cc47947dee5660309d48854ebfc5e6ca8515374398e1bf",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "attrs",
+        "cffi",
+        "findlibs"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "attrs",
+      "cffi",
+      "findlibs"
+    ]
+  },
+  "eccodes-2.40.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a0ae2653e88fee740e53a13c91066682eca1b885bf33bf1547ac8e25e82845e",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "attrs",
+        "cffi",
+        "findlibs"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "attrs",
+      "cffi",
+      "findlibs"
+    ]
+  }
+}

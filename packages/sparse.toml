@@ -1,0 +1,12 @@
+# Package configuration for sparse
+conda_forge = "sparse"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sparse-0.17.0-py2.py3-none-any.whl" },
+  { filename = "sparse-0.16.0-py2.py3-none-any.whl" },
+  { filename = "sparse-0.15.5-py2.py3-none-any.whl" },
+  { filename = "sparse-0.15.4-py2.py3-none-any.whl" },
+  { filename = "sparse-0.15.3-py2.py3-none-any.whl" },
+]

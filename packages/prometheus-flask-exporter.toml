@@ -1,0 +1,12 @@
+# Package configuration for prometheus-flask-exporter
+conda_forge = "prometheus_flask_exporter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "prometheus_flask_exporter-0.23.2-py3-none-any.whl" },
+  { filename = "prometheus_flask_exporter-0.23.1-py3-none-any.whl" },
+  { filename = "prometheus_flask_exporter-0.23.0-py3-none-any.whl" },
+  { filename = "prometheus_flask_exporter-0.22.4-py3-none-any.whl" },
+  { filename = "prometheus_flask_exporter-0.22.3-py3-none-any.whl" },
+]

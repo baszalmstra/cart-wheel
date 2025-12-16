@@ -1,0 +1,82 @@
+{
+  "constructs-10.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c160b149aa16360531c55a55eb1aaf973fa1949f35477c6bd4f3d6171d279e5",
+    "dependencies": {
+      "required": [
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "jsii <2.0.0,>=1.121.0",
+      "publication >=0.0.3",
+      "typeguard ==2.13.3"
+    ]
+  },
+  "constructs-10.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43bbefa1ac1c044577d0b1a30648fe5b49557b8b95de2648186f6b909febf7f9",
+    "dependencies": {
+      "required": [
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "jsii <2.0.0,>=1.118.0",
+      "publication >=0.0.3",
+      "typeguard <4.3.0,>=2.13.3"
+    ]
+  },
+  "constructs-10.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1f0f59b004edebfde0f826340698b8c34611f57848139b7954904c61645f13c1",
+    "dependencies": {
+      "required": [
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "jsii<2.0.0,>=1.102.0",
+      "publication>=0.0.3",
+      "typeguard~=2.13.3"
+    ]
+  },
+  "constructs-10.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f1f9b03cf20b60537c1ece1cc62e66c8216393620a9127ec30b958ec0c519517",
+    "dependencies": {
+      "required": [
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "jsii<2.0.0,>=1.102.0",
+      "publication>=0.0.3",
+      "typeguard~=2.13.3"
+    ]
+  },
+  "constructs-10.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd9ece77cc45339cab3d2894e3178c5a887927bb5860a094da0bbfc9897c4e12",
+    "dependencies": {
+      "required": [
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "jsii<2.0.0,>=1.102.0",
+      "publication>=0.0.3",
+      "typeguard~=2.13.3"
+    ]
+  }
+}

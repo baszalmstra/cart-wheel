@@ -1,0 +1,11 @@
+# Package configuration for snowflake-cli
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "snowflake_cli-3.14.0-py3-none-any.whl" },
+  { filename = "snowflake_cli-3.13.1-py3-none-any.whl" },
+  { filename = "snowflake_cli-3.13.0-py3-none-any.whl" },
+  { filename = "snowflake_cli-3.12.0-py3-none-any.whl" },
+  { filename = "snowflake_cli-3.11.0-py3-none-any.whl" },
+]

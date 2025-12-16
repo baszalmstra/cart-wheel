@@ -1,0 +1,147 @@
+{
+  "linear_operator-0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b7c30ce0f6599e19c1cb970e00811828df98783b20c1dd2f765928415012f41c",
+    "dependencies": {
+      "required": [
+        "torch",
+        "scipy",
+        "jaxtyping",
+        "mpmath"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.0",
+      "scipy",
+      "jaxtyping",
+      "mpmath<=1.3,>=0.19",
+      "pre-commit; extra == \"dev\"",
+      "setuptools-scm; extra == \"dev\"",
+      "ufmt; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "myst-parser; extra == \"docs\"",
+      "setuptools-scm; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "six; extra == \"docs\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "sphinx-autodoc-typehints; extra == \"docs\"",
+      "flake8==5.0.4; extra == \"test\"",
+      "flake8-print==5.0.0; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "typeguard~=2.13.3; extra == \"test\""
+    ]
+  },
+  "linear_operator-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "908df4e64e25312edfa5502b30b71df97383cb604a13f420921030ae40c47838",
+    "dependencies": {
+      "required": [
+        "torch",
+        "scipy",
+        "jaxtyping",
+        "mpmath"
+      ]
+    },
+    "original_requirements": [
+      "torch>=1.11",
+      "scipy",
+      "jaxtyping==0.2.19",
+      "mpmath<=1.3,>=0.19",
+      "pre-commit; extra == \"dev\"",
+      "setuptools-scm; extra == \"dev\"",
+      "ufmt; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "myst-parser; extra == \"docs\"",
+      "setuptools-scm; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "six; extra == \"docs\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "sphinx-autodoc-typehints; extra == \"docs\"",
+      "uncompyle6<=3.9.0; extra == \"docs\"",
+      "flake8==5.0.4; extra == \"test\"",
+      "flake8-print==5.0.0; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "typeguard~=2.13.3; extra == \"test\""
+    ]
+  },
+  "linear_operator-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "26defe85e3c924f24d49117bf78afaf0207f6847877903309dc9bf40a46d08a7",
+    "dependencies": {
+      "required": [
+        "torch",
+        "scipy",
+        "jaxtyping",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "torch >=1.11",
+      "scipy",
+      "jaxtyping >=0.2.9",
+      "typeguard ~=2.13.3",
+      "pre-commit ; extra == 'dev'",
+      "setuptools-scm ; extra == 'dev'",
+      "ufmt ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "myst-parser ; extra == 'docs'",
+      "setuptools-scm ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "six ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "sphinx-autodoc-typehints ; extra == 'docs'",
+      "uncompyle6 ; extra == 'docs'",
+      "flake8 ==5.0.4 ; extra == 'test'",
+      "flake8-print ==5.0.0 ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "linear_operator-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d40ea5c93a230c8800df80993e49ecc7ec44e63081f80dde2bb0e2a082cb5b1",
+    "dependencies": {
+      "required": [
+        "torch",
+        "scipy",
+        "jaxtyping",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.11)",
+      "scipy",
+      "jaxtyping (>=0.2.9)",
+      "typeguard (~=2.13.3)",
+      "ufmt ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "flake8 (==5.0.4) ; extra == 'test'",
+      "flake8-print (==5.0.0) ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "linear_operator-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15c9194ea904c69132399d30b5cee4e9e86bdf7eb6a164c6213822cf9571af85",
+    "dependencies": {
+      "required": [
+        "torch",
+        "scipy",
+        "jaxtyping",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.11)",
+      "scipy",
+      "jaxtyping (>=0.2.9)",
+      "typeguard (~=2.13.3)",
+      "ufmt ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "flake8 (==5.0.4) ; extra == 'test'",
+      "flake8-print (==5.0.0) ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

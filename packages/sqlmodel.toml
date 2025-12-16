@@ -1,0 +1,12 @@
+# Package configuration for sqlmodel
+conda_forge = "sqlmodel"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sqlmodel-0.0.27-py3-none-any.whl" },
+  { filename = "sqlmodel-0.0.26-py3-none-any.whl" },
+  { filename = "sqlmodel-0.0.25-py3-none-any.whl" },
+  { filename = "sqlmodel-0.0.24-py3-none-any.whl" },
+  { filename = "sqlmodel-0.0.23-py3-none-any.whl" },
+]

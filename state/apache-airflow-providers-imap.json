@@ -1,0 +1,68 @@
+{
+  "apache_airflow_providers_imap-3.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb6bc0b2e369374ff55fa5e9ca4887f2bd6e72ae1bb7080ae4e200015a2eec29",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1"
+    ]
+  },
+  "apache_airflow_providers_imap-3.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ea88cf234bb4eb95b4ac6b93f13f76a8110e1819431b165b6614a11e0850a975",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0"
+    ]
+  },
+  "apache_airflow_providers_imap-3.9.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4672aad3836044f7eb99b1b2d9f64b974448f9deb13d91727b024c7a2f61404",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0"
+    ]
+  },
+  "apache_airflow_providers_imap-3.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8fddac3028ed00b1b27f7fdfea3da5867b7e7bf5defd69167dab9937ace1fd79",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0"
+    ]
+  },
+  "apache_airflow_providers_imap-3.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6bf1b0bff25116dd7b265c0aa5aabd2ff82733bab5a827fb7c4bc08905cb5e3",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0"
+    ]
+  }
+}

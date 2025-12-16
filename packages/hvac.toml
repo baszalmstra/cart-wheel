@@ -1,0 +1,12 @@
+# Package configuration for hvac
+conda_forge = "hvac"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hvac-2.4.0-py3-none-any.whl" },
+  { filename = "hvac-2.3.0-py3-none-any.whl" },
+  { filename = "hvac-2.2.0-py3-none-any.whl" },
+  { filename = "hvac-2.1.0-py3-none-any.whl" },
+  { filename = "hvac-2.0.0-py3-none-any.whl" },
+]

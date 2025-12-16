@@ -1,0 +1,100 @@
+{
+  "url_normalize-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3deb687587dc91f7b25c9ae5162ffc0f057ae85d22b1e15cf5698311247f567b",
+    "dependencies": {
+      "required": [
+        "idna"
+      ]
+    },
+    "original_requirements": [
+      "idna>=3.3",
+      "mypy; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-socket; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "ruff; extra == \"dev\""
+    ]
+  },
+  "url_normalize-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3fe387b62f5b66db94304bc703bf6d34de52aaa9590d4d1f1bbdf305a1430064",
+    "dependencies": {
+      "required": [
+        "idna"
+      ]
+    },
+    "original_requirements": [
+      "idna>=3.3",
+      "mypy; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-ruff; extra == \"dev\"",
+      "pytest-socket; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "tox; extra == \"dev\""
+    ]
+  },
+  "url_normalize-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f95abe0563bf731e81e6ac34ea0d2c0a1fd9a8720bb78f4cee78c41d119e81ca",
+    "dependencies": {
+      "required": [
+        "idna"
+      ]
+    },
+    "original_requirements": [
+      "idna>=3.3",
+      "mypy; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-ruff; extra == \"dev\"",
+      "pytest-socket; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "tox; extra == \"dev\""
+    ]
+  },
+  "url_normalize-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c15cabbee757b94c86868bc2adb1d31679851307681e2f3d424b40e652799231",
+    "dependencies": {
+      "required": [
+        "idna"
+      ]
+    },
+    "original_requirements": [
+      "idna>=3.3",
+      "mypy; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-ruff; extra == \"dev\"",
+      "pytest-socket; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "tox; extra == \"dev\""
+    ]
+  },
+  "url_normalize-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b563eadd6dc364e47930390f5c2e273df78bc4dbb5f8b0a97962fb2a1fa238dd",
+    "dependencies": {
+      "required": [
+        "idna"
+      ]
+    },
+    "original_requirements": [
+      "idna>=3.3",
+      "mypy; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-ruff; extra == \"dev\"",
+      "pytest-socket; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "tox; extra == \"dev\""
+    ]
+  }
+}

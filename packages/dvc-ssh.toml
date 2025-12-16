@@ -1,0 +1,12 @@
+# Package configuration for dvc-ssh
+conda_forge = "dvc-ssh"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dvc_ssh-4.2.2-py3-none-any.whl" },
+  { filename = "dvc_ssh-4.2.1-py3-none-any.whl" },
+  { filename = "dvc_ssh-4.2.0-py3-none-any.whl" },
+  { filename = "dvc_ssh-4.1.1-py3-none-any.whl" },
+  { filename = "dvc_ssh-4.1.0-py3-none-any.whl" },
+]

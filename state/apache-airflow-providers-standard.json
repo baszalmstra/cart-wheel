@@ -1,0 +1,72 @@
+{
+  "apache_airflow_providers_standard-1.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1543fc73b1c33ebb30a385c0f110ef292cff3d102b35392c9767f9a1c8d44131",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_standard-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8ca3ee95ed9415a2707c6fa5da5c22c3241501ee913e5bfe4c8ed0ee6d0734f",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.0",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_standard-1.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e05d935a2d065c81d9b7f107559983d009727c17ecba19ea84916298d941aa42",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0"
+    ]
+  },
+  "apache_airflow_providers_standard-1.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11d0394061003494780230e921427c5d66302ed95750087157842bb3e1e4ccbf",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0"
+    ]
+  },
+  "apache_airflow_providers_standard-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2abb8c9a148b853d7a732e8a688846418ff9d9b31686efe059f2644ca2560ca3",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0"
+    ]
+  }
+}

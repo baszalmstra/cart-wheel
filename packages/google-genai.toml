@@ -1,0 +1,12 @@
+# Package configuration for google-genai
+conda_forge = "google-genai"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_genai-1.55.0-py3-none-any.whl" },
+  { filename = "google_genai-1.54.0-py3-none-any.whl" },
+  { filename = "google_genai-1.53.0-py3-none-any.whl" },
+  { filename = "google_genai-1.52.0-py3-none-any.whl" },
+  { filename = "google_genai-1.51.0-py3-none-any.whl" },
+]

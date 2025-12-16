@@ -1,0 +1,11 @@
+# Package configuration for jaraco.ui
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaraco.ui-2.4.0-py3-none-any.whl" },
+  { filename = "jaraco.ui-2.3.0-py3-none-any.whl" },
+  { filename = "jaraco.ui-2.2.0-py3-none-any.whl" },
+  { filename = "jaraco.ui-2.0.1-py2.py3-none-any.whl" },
+  { filename = "jaraco.ui-1.6-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for python-arango
+conda_forge = "python-arango"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_arango-8.2.3-py3-none-any.whl" },
+  { filename = "python_arango-8.2.2-py3-none-any.whl" },
+  { filename = "python_arango-8.2.1-py3-none-any.whl" },
+  { filename = "python_arango-8.2.0-py3-none-any.whl" },
+  { filename = "python_arango-8.1.7-py3-none-any.whl" },
+]

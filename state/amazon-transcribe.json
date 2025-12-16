@@ -1,0 +1,63 @@
+{
+  "amazon_transcribe-0.6.4-py3-none-any.whl": {
+    "status": "failed",
+    "error": "IndexError: tuple index out of range",
+    "retry_count": 1
+  },
+  "amazon_transcribe-0.6.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:42.762444+00:00",
+    "conda_file": "amazon-transcribe-0.6.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "awscrt"
+      ]
+    },
+    "original_requirements": [
+      "awscrt~=0.26.1"
+    ]
+  },
+  "amazon_transcribe-0.6.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:42.656727+00:00",
+    "conda_file": "amazon-transcribe-0.6.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "awscrt"
+      ]
+    },
+    "original_requirements": [
+      "awscrt (~=0.16.0)"
+    ]
+  },
+  "amazon_transcribe-0.6.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:42.700489+00:00",
+    "conda_file": "amazon-transcribe-0.6.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "awscrt"
+      ]
+    },
+    "original_requirements": [
+      "awscrt (~=0.14.0)"
+    ]
+  },
+  "amazon_transcribe-0.6.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:42.806411+00:00",
+    "conda_file": "amazon-transcribe-0.6.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "awscrt"
+      ]
+    },
+    "original_requirements": [
+      "awscrt (~=0.13.8)"
+    ]
+  }
+}

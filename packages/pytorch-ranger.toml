@@ -1,0 +1,10 @@
+# Package configuration for pytorch-ranger
+conda_forge = "pytorch-ranger"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytorch_ranger-0.1.1-py3-none-any.whl" },
+  { filename = "pytorch_ranger-0.1.0-py3-none-any.whl" },
+  { filename = "pytorch_ranger-0.0.6-py3-none-any.whl" },
+]

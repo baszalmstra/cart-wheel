@@ -1,0 +1,12 @@
+# Package configuration for click-plugins
+conda_forge = "click-plugins"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "click_plugins-1.1.1.2-py2.py3-none-any.whl" },
+  { filename = "click_plugins-1.1.1.1-py2.py3-none-any.whl" },
+  { filename = "click_plugins-1.1.1-py2.py3-none-any.whl" },
+  { filename = "click_plugins-1.1-py2.py3-none-any.whl" },
+  { filename = "click_plugins-1.0.4-py2.py3-none-any.whl" },
+]

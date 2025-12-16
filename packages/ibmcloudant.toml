@@ -1,0 +1,12 @@
+# Package configuration for ibmcloudant
+conda_forge = "ibmcloudant"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ibmcloudant-0.11.2-py3-none-any.whl" },
+  { filename = "ibmcloudant-0.11.1-py3-none-any.whl" },
+  { filename = "ibmcloudant-0.11.0-py3-none-any.whl" },
+  { filename = "ibmcloudant-0.10.7-py3-none-any.whl" },
+  { filename = "ibmcloudant-0.10.6-py3-none-any.whl" },
+]

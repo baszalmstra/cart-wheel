@@ -1,0 +1,38 @@
+{
+  "torchpippy-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1908beff329a3d9af99e9fa8e1aecbaa110d16cba2d337bebbafee23c8ffc7c8",
+    "dependencies": {
+      "required": [
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "torch >=2.2.0.dev"
+    ]
+  },
+  "torchpippy-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c9e36552bb1858face1081bbd83c14a7a5a53fd642b69e7760db88e96cdc18f8",
+    "dependencies": {
+      "required": [
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.13.0)"
+    ]
+  },
+  "torchpippy-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e1110a8b981e805613cc9be7caf23f56cc5905e956c1e578af6166e948d2eb8",
+    "dependencies": {
+      "required": [
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.13.0)"
+    ]
+  }
+}

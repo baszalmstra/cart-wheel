@@ -1,0 +1,112 @@
+{
+  "onnxscript-0.5.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b0c3355fea3eecab8ca291da8b77afddcaacd3ada5ee59294390a049ea123938",
+    "dependencies": {
+      "required": [
+        "ml-dtypes",
+        "numpy",
+        "onnx-ir",
+        "onnx",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "ml_dtypes",
+      "numpy",
+      "onnx_ir<2,>=0.1.12",
+      "onnx>=1.16",
+      "packaging",
+      "typing_extensions>=4.10"
+    ]
+  },
+  "onnxscript-0.5.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "640d2aa55364b9b0d66c280cc4b22cd2c918fde9a1a72c2460d2fbe24b9181dc",
+    "dependencies": {
+      "required": [
+        "ml-dtypes",
+        "numpy",
+        "onnx-ir",
+        "onnx",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "ml_dtypes",
+      "numpy",
+      "onnx_ir<2,>=0.1.10",
+      "onnx>=1.16",
+      "packaging",
+      "typing_extensions>=4.10"
+    ]
+  },
+  "onnxscript-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4ac2887a5bebb276643a5fb046898d8b8041ab365efd5e0bb9e5c5efdbf84c1",
+    "dependencies": {
+      "required": [
+        "ml-dtypes",
+        "numpy",
+        "onnx-ir",
+        "onnx",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "ml_dtypes",
+      "numpy",
+      "onnx_ir<2,>=0.1.10",
+      "onnx>=1.16",
+      "packaging",
+      "typing_extensions>=4.10"
+    ]
+  },
+  "onnxscript-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62fdf0ed642a00e12cd0a41b31475d349ddac9538aeb221702ec12d0838aa754",
+    "dependencies": {
+      "required": [
+        "ml-dtypes",
+        "numpy",
+        "onnx-ir",
+        "onnx",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "ml_dtypes",
+      "numpy",
+      "onnx_ir<2,>=0.1.9",
+      "onnx>=1.16",
+      "packaging",
+      "typing_extensions>=4.10"
+    ]
+  },
+  "onnxscript-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1fefea7a18d5ed340500c76b90d4b75947b3cc40860f7c646dc50fe0d48d0b05",
+    "dependencies": {
+      "required": [
+        "ml-dtypes",
+        "numpy",
+        "onnx-ir",
+        "onnx",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "ml_dtypes",
+      "numpy",
+      "onnx_ir<2,>=0.1.9",
+      "onnx>=1.16",
+      "packaging",
+      "typing_extensions>=4.10"
+    ]
+  }
+}

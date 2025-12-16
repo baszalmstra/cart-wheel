@@ -1,0 +1,12 @@
+# Package configuration for dash-ag-grid
+conda_forge = "dash-ag-grid"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dash_ag_grid-32.3.2-py3-none-any.whl" },
+  { filename = "dash_ag_grid-32.3.1-py3-none-any.whl" },
+  { filename = "dash_ag_grid-32.3.0-py3-none-any.whl" },
+  { filename = "dash_ag_grid-31.3.1-py3-none-any.whl" },
+  { filename = "dash_ag_grid-31.3.0-py3-none-any.whl" },
+]

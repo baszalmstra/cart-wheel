@@ -1,0 +1,8 @@
+# Package configuration for lazy-object-proxy
+conda_forge = "lazy-object-proxy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lazy_object_proxy-1.11.0-py3-none-any.whl" },
+]

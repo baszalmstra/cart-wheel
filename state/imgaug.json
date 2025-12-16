@@ -1,0 +1,140 @@
+{
+  "imgaug-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce61e65b4eb7405fc62c1b0a79d2fa92fd47f763aaecb65152d29243592111f9",
+    "dependencies": {
+      "required": [
+        "six",
+        "numpy",
+        "scipy",
+        "pillow",
+        "matplotlib",
+        "scikit-image",
+        "opencv-python",
+        "imageio",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "numpy (>=1.15)",
+      "scipy",
+      "Pillow",
+      "matplotlib",
+      "scikit-image (>=0.14.2)",
+      "opencv-python",
+      "imageio",
+      "Shapely"
+    ]
+  },
+  "imgaug-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "99b8a38e137a76dd2780c4e86fa799ec4d0753cfc9088f9b51789f4a23fbe9d9",
+    "dependencies": {
+      "required": [
+        "six",
+        "numpy",
+        "scipy",
+        "pillow",
+        "matplotlib",
+        "scikit-image",
+        "opencv-python-headless",
+        "imageio",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "numpy (>=1.15)",
+      "scipy",
+      "Pillow",
+      "matplotlib",
+      "scikit-image (>=0.14.2)",
+      "opencv-python-headless",
+      "imageio",
+      "Shapely"
+    ]
+  },
+  "imgaug-0.2.9-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "286ab93f88f7b80874fcc41ce1867033097bedfc3d43ce25fceafb8ceef04e82",
+    "dependencies": {
+      "required": [
+        "scipy",
+        "scikit-image",
+        "numpy",
+        "six",
+        "imageio",
+        "pillow",
+        "matplotlib",
+        "shapely",
+        "opencv-python"
+      ]
+    },
+    "original_requirements": [
+      "scipy",
+      "scikit-image (>=0.11.0)",
+      "numpy (>=1.15.0)",
+      "six",
+      "imageio",
+      "Pillow",
+      "matplotlib",
+      "Shapely",
+      "opencv-python"
+    ]
+  },
+  "imgaug-0.2.8-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eb260a222d107186e86d3e64295b6f45af801d4df998ac807ab6876777b80b6a",
+    "dependencies": {
+      "required": [
+        "scipy",
+        "scikit-image",
+        "numpy",
+        "six",
+        "imageio",
+        "pillow",
+        "matplotlib",
+        "shapely",
+        "opencv-python"
+      ]
+    },
+    "original_requirements": [
+      "scipy",
+      "scikit-image (>=0.11.0)",
+      "numpy (>=1.15.0)",
+      "six",
+      "imageio",
+      "Pillow",
+      "matplotlib",
+      "Shapely",
+      "opencv-python"
+    ]
+  },
+  "imgaug-0.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a5bbadfe391ca0e00e4062e7413ed11e2733b10244621b746d8917d092cf5868",
+    "dependencies": {
+      "required": [
+        "scipy",
+        "scikit-image",
+        "numpy",
+        "six",
+        "imageio",
+        "pillow",
+        "matplotlib",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "scipy",
+      "scikit-image (>=0.11.0)",
+      "numpy (>=1.7.0)",
+      "six",
+      "imageio",
+      "Pillow",
+      "matplotlib",
+      "Shapely"
+    ]
+  }
+}

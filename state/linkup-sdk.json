@@ -1,0 +1,77 @@
+{
+  "linkup_sdk-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "240615dfb666995230773492e634190969e83510baab2b153e65ab6b37a574b8",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.23.0",
+      "pydantic>=2.0.0",
+      "uv<0.9.0,>=0.8.0; extra == 'build'"
+    ]
+  },
+  "linkup_sdk-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f7138fbf83899d6cc906a5e7baa63637c24710cc65d7f26c6d7e113ea37a09f",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.23.0",
+      "pydantic>=2.0.0",
+      "uv<0.9.0,>=0.8.0; extra == 'build'"
+    ]
+  },
+  "linkup_sdk-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ad8c68a7f6a9969464eac38dfdff2dfeea1efa9f1193c4193abaf69081d1ea6",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.23.0",
+      "pydantic>=2.0.0",
+      "uv<0.9.0,>=0.8.0; extra == 'build'"
+    ]
+  },
+  "linkup_sdk-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d12c5ba8c54003f83d4ebeaedfdce214a697224e2cbdabf3d9a02c541e6160e",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.23.0",
+      "pydantic>=2.0.0",
+      "uv<0.9.0,>=0.8.0; extra == 'build'"
+    ]
+  },
+  "linkup_sdk-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dafaf57458480a07bef4c0acbd44fe8e522f4b09f66086b058ab755551b1f5e5",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.23.0",
+      "pydantic>=2.0.0",
+      "uv<0.9.0,>=0.8.0; extra == 'build'"
+    ]
+  }
+}

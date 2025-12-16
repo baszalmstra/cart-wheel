@@ -1,0 +1,11 @@
+# Package configuration for prts
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "prts-1.0.0.3-py3-none-any.whl" },
+  { filename = "prts-1.0.0.1-py3-none-any.whl" },
+  { filename = "prts-1.0.0.0-py3-none-any.whl" },
+  { filename = "prts-0.1.1.0-py3-none-any.whl" },
+  { filename = "prts-0.1.0.2-py3-none-any.whl" },
+]

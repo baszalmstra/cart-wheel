@@ -1,0 +1,62 @@
+{
+  "aiomcache-0.8.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:21.807297+00:00",
+    "conda_file": "aiomcache-0.8.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions >=4 ; python_version < \"3.11\""
+    ]
+  },
+  "aiomcache-0.8.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:21.914041+00:00",
+    "conda_file": "aiomcache-0.8.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions (>=4) ; python_version < \"3.11\""
+    ]
+  },
+  "aiomcache-0.8.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:22.178811+00:00",
+    "conda_file": "aiomcache-0.8.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions (>=3.10) ; python_version < \"3.10\""
+    ]
+  },
+  "aiomcache-0.7.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:22.174113+00:00",
+    "conda_file": "aiomcache-0.7.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "aiomcache-0.6.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:22.452557+00:00",
+    "conda_file": "aiomcache-0.6.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

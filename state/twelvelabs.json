@@ -1,0 +1,88 @@
+{
+  "twelvelabs-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01074eb18f8035d3cb860ecb50080220c9b9f42b1cc5114f027e6b8e3589b78a",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic",
+        "pydantic-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpx (>=0.21.2)",
+      "pydantic (>=1.9.2)",
+      "pydantic-core (>=2.18.2)",
+      "typing_extensions (>=4.0.0)"
+    ]
+  },
+  "twelvelabs-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6e22265224c2d70a415f25869bec14020e20dc50276bd03a6cc1db5155ef6bd",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic",
+        "pydantic-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpx (>=0.21.2)",
+      "pydantic (>=1.9.2)",
+      "pydantic-core (>=2.18.2)",
+      "typing_extensions (>=4.0.0)"
+    ]
+  },
+  "twelvelabs-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43e533c93ecdd15b11585fb7e677b965417364aad88abee2e24d804ce2bfb860",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic",
+        "pydantic-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpx (>=0.21.2)",
+      "pydantic (>=1.9.2)",
+      "pydantic-core (>=2.18.2)",
+      "typing_extensions (>=4.0.0)"
+    ]
+  },
+  "twelvelabs-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58e379562de3d79179ce583549190be3d1974a96f86ce53a86a31733055f5c12",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "pydantic",
+        "pydantic-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpx (>=0.21.2)",
+      "pydantic (>=1.9.2)",
+      "pydantic-core (>=2.18.2)",
+      "typing_extensions (>=4.0.0)"
+    ]
+  },
+  "twelvelabs-0.4.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2d6c7261b53889693430c5c29938b312391ef3bd2d92db1ac435072b4a3dba6a",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=2.4.2",
+      "httpx>=0.25.2"
+    ]
+  }
+}

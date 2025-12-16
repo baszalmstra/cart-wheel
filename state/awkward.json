@@ -1,0 +1,112 @@
+{
+  "awkward-2.8.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2099e9e1204ada8745cc19d642b3da98c7a5adf2adca4d8a6909b309f1d88042",
+    "dependencies": {
+      "required": [
+        "awkward-cpp",
+        "fsspec",
+        "importlib-metadata",
+        "numpy",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "awkward-cpp==50",
+      "fsspec>=2022.11.0",
+      "importlib-metadata>=4.13.0; python_version < '3.12'",
+      "numpy>=1.18.0",
+      "packaging",
+      "typing-extensions>=4.1.0; python_version < '3.11'"
+    ]
+  },
+  "awkward-2.8.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2129d68a83480074dfae5c829d683d5c579f1a2aa858d85d65dc05e333a1fb50",
+    "dependencies": {
+      "required": [
+        "awkward-cpp",
+        "fsspec",
+        "importlib-metadata",
+        "numpy",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "awkward-cpp==50",
+      "fsspec>=2022.11.0",
+      "importlib-metadata>=4.13.0; python_version < '3.12'",
+      "numpy>=1.18.0",
+      "packaging",
+      "typing-extensions>=4.1.0; python_version < '3.11'"
+    ]
+  },
+  "awkward-2.8.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c6abc2ebe3f044ad0f60417578347ff7a6f12f5d9120a278f7c26c20316222a7",
+    "dependencies": {
+      "required": [
+        "awkward-cpp",
+        "fsspec",
+        "importlib-metadata",
+        "numpy",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "awkward-cpp==49",
+      "fsspec>=2022.11.0",
+      "importlib-metadata>=4.13.0; python_version < '3.12'",
+      "numpy>=1.18.0",
+      "packaging",
+      "typing-extensions>=4.1.0; python_version < '3.11'"
+    ]
+  },
+  "awkward-2.8.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34f516dc4916efc451552a185363e7a7cd2cf33a1ae62c96f2ff6f5cc9a02919",
+    "dependencies": {
+      "required": [
+        "awkward-cpp",
+        "fsspec",
+        "importlib-metadata",
+        "numpy",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "awkward-cpp==48",
+      "fsspec>=2022.11.0",
+      "importlib-metadata>=4.13.0; python_version < '3.12'",
+      "numpy>=1.18.0",
+      "packaging",
+      "typing-extensions>=4.1.0; python_version < '3.11'"
+    ]
+  },
+  "awkward-2.8.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a53a45b5ae23d635e25d4262571f1a56c2ebe48dcf60788cb38b82ffeaff66a8",
+    "dependencies": {
+      "required": [
+        "awkward-cpp",
+        "fsspec",
+        "importlib-metadata",
+        "numpy",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "awkward-cpp==48",
+      "fsspec>=2022.11.0",
+      "importlib-metadata>=4.13.0; python_version < '3.12'",
+      "numpy>=1.18.0",
+      "packaging",
+      "typing-extensions>=4.1.0; python_version < '3.11'"
+    ]
+  }
+}

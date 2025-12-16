@@ -1,0 +1,12 @@
+# Package configuration for azure-mgmt-containerservice
+conda_forge = "azure-mgmt-containerservice"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_mgmt_containerservice-40.2.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_containerservice-40.1.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_containerservice-40.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_containerservice-39.1.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_containerservice-39.0.0-py3-none-any.whl" },
+]

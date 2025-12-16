@@ -1,0 +1,12 @@
+# Package configuration for fonttools
+conda_forge = "fonttools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fonttools-4.61.1-py3-none-any.whl" },
+  { filename = "fonttools-4.61.0-py3-none-any.whl" },
+  { filename = "fonttools-4.60.2-py3-none-any.whl" },
+  { filename = "fonttools-4.60.1-py3-none-any.whl" },
+  { filename = "fonttools-4.60.0-py3-none-any.whl" },
+]

@@ -1,0 +1,26 @@
+{
+  "optimum_amd-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b9e3030aaadca8a192a6616f3a1b48f04686d077af4304c9bb8e09ae0493d47",
+    "dependencies": {
+      "required": [
+        "optimum",
+        "transformers",
+        "onnx",
+        "onnxruntime",
+        "onnxruntime-extensions"
+      ]
+    },
+    "original_requirements": [
+      "optimum",
+      "transformers",
+      "onnx",
+      "onnxruntime <1.16.0",
+      "onnxruntime-extensions",
+      "black ~=23.1 ; extra == 'quality'",
+      "ruff <=0.0.259,>=0.0.241 ; extra == 'quality'",
+      "pytest ; extra == 'tests'",
+      "parameterized ; extra == 'tests'"
+    ]
+  }
+}

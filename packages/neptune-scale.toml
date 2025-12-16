@@ -1,0 +1,11 @@
+# Package configuration for neptune-scale
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neptune_scale-0.30.0-py3-none-any.whl" },
+  { filename = "neptune_scale-0.29.0-py3-none-any.whl" },
+  { filename = "neptune_scale-0.28.0-py3-none-any.whl" },
+  { filename = "neptune_scale-0.27.0-py3-none-any.whl" },
+  { filename = "neptune_scale-0.25.1-py3-none-any.whl" },
+]

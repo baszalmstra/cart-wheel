@@ -1,0 +1,219 @@
+{
+  "opensearch_py-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e5af83d0454323e6ea9ddee8c0dcc185c0181054592d23cb701da46271a3b65b",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "urllib3",
+        "requests",
+        "python-dateutil",
+        "certifi",
+        "events",
+        "opensearch-protobufs"
+      ]
+    },
+    "original_requirements": [
+      "urllib3<1.27,>=1.26.19; python_version < \"3.10\"",
+      "urllib3!=2.2.0,!=2.2.1,<3,>=1.26.19; python_version >= \"3.10\"",
+      "requests<3.0.0,>=2.32.0",
+      "python-dateutil",
+      "certifi>=2024.07.04",
+      "Events",
+      "opensearch-protobufs==0.19.0",
+      "requests<3.0.0,>=2.0.0; extra == \"develop\"",
+      "coverage<8.0.0; extra == \"develop\"",
+      "pyyaml; extra == \"develop\"",
+      "pytest>=3.0.0; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "pytz; extra == \"develop\"",
+      "botocore; extra == \"develop\"",
+      "pytest-mock<4.0.0; extra == \"develop\"",
+      "sphinx; extra == \"develop\"",
+      "sphinx_rtd_theme; extra == \"develop\"",
+      "myst_parser; extra == \"develop\"",
+      "sphinx_copybutton; extra == \"develop\"",
+      "black>=24.3.0; extra == \"develop\"",
+      "jinja2; extra == \"develop\"",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "myst_parser; extra == \"docs\"",
+      "sphinx_copybutton; extra == \"docs\"",
+      "aiohttp<4,>=3.12.14; extra == \"docs\"",
+      "aiohttp<4,>=3.12.14; extra == \"async\"",
+      "requests_kerberos; extra == \"kerberos\""
+    ]
+  },
+  "opensearch_py-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "842bf5d56a4a0d8290eda9bb921c50f3080e5dc4e5fefb9c9648289da3f6a8bb",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "urllib3",
+        "requests",
+        "python-dateutil",
+        "certifi",
+        "events"
+      ]
+    },
+    "original_requirements": [
+      "urllib3<1.27,>=1.26.19; python_version < \"3.10\"",
+      "urllib3!=2.2.0,!=2.2.1,<3,>=1.26.19; python_version >= \"3.10\"",
+      "requests<3.0.0,>=2.32.0",
+      "python-dateutil",
+      "certifi>=2024.07.04",
+      "Events",
+      "requests<3.0.0,>=2.0.0; extra == \"develop\"",
+      "coverage<8.0.0; extra == \"develop\"",
+      "pyyaml; extra == \"develop\"",
+      "pytest>=3.0.0; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "pytz; extra == \"develop\"",
+      "botocore; extra == \"develop\"",
+      "pytest-mock<4.0.0; extra == \"develop\"",
+      "sphinx; extra == \"develop\"",
+      "sphinx_rtd_theme; extra == \"develop\"",
+      "myst_parser; extra == \"develop\"",
+      "sphinx_copybutton; extra == \"develop\"",
+      "black>=24.3.0; extra == \"develop\"",
+      "jinja2; extra == \"develop\"",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "myst_parser; extra == \"docs\"",
+      "sphinx_copybutton; extra == \"docs\"",
+      "aiohttp<4,>=3.9.4; extra == \"docs\"",
+      "aiohttp<4,>=3.9.4; extra == \"async\"",
+      "requests_kerberos; extra == \"kerberos\""
+    ]
+  },
+  "opensearch_py-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52c60fdb5d4dcf6cce3ee746c13b194529b0161e0f41268b98ab8f1624abe2fa",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "urllib3",
+        "requests",
+        "python-dateutil",
+        "certifi",
+        "events"
+      ]
+    },
+    "original_requirements": [
+      "urllib3<1.27,>=1.26.19; python_version < \"3.10\"",
+      "urllib3!=2.2.0,!=2.2.1,<3,>=1.26.19; python_version >= \"3.10\"",
+      "requests<3.0.0,>=2.32.0",
+      "python-dateutil",
+      "certifi>=2024.07.04",
+      "Events",
+      "requests<3.0.0,>=2.0.0; extra == \"develop\"",
+      "coverage<8.0.0; extra == \"develop\"",
+      "pyyaml; extra == \"develop\"",
+      "pytest>=3.0.0; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "pytz; extra == \"develop\"",
+      "botocore; extra == \"develop\"",
+      "pytest-mock<4.0.0; extra == \"develop\"",
+      "sphinx; extra == \"develop\"",
+      "sphinx_rtd_theme; extra == \"develop\"",
+      "myst_parser; extra == \"develop\"",
+      "sphinx_copybutton; extra == \"develop\"",
+      "black>=24.3.0; extra == \"develop\"",
+      "jinja2; extra == \"develop\"",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "myst_parser; extra == \"docs\"",
+      "sphinx_copybutton; extra == \"docs\"",
+      "aiohttp<4,>=3.9.4; extra == \"docs\"",
+      "aiohttp<4,>=3.9.4; extra == \"async\"",
+      "requests_kerberos; extra == \"kerberos\""
+    ]
+  },
+  "opensearch_py-2.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5417650eba98a1c7648e502207cebf3a12beab623ffe0ebbf55f9b1b4b6e44e9",
+    "dependencies": {
+      "required": [
+        "requests",
+        "python-dateutil",
+        "certifi",
+        "events",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "requests <3.0.0,>=2.32.0",
+      "python-dateutil",
+      "certifi >=2024.07.04",
+      "Events",
+      "urllib3 <1.27,>=1.26.19 ; python_version < \"3.10\"",
+      "urllib3 !=2.2.0,!=2.2.1,<3,>=1.26.19 ; python_version >= \"3.10\"",
+      "aiohttp <4,>=3.9.4 ; extra == 'async'",
+      "requests <3.0.0,>=2.0.0 ; extra == 'develop'",
+      "coverage <8.0.0 ; extra == 'develop'",
+      "pyyaml ; extra == 'develop'",
+      "pytest >=3.0.0 ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "pytz ; extra == 'develop'",
+      "botocore ; extra == 'develop'",
+      "pytest-mock <4.0.0 ; extra == 'develop'",
+      "sphinx ; extra == 'develop'",
+      "sphinx-rtd-theme ; extra == 'develop'",
+      "myst-parser ; extra == 'develop'",
+      "sphinx-copybutton ; extra == 'develop'",
+      "black >=24.3.0 ; extra == 'develop'",
+      "jinja2 ; extra == 'develop'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "myst-parser ; extra == 'docs'",
+      "sphinx-copybutton ; extra == 'docs'",
+      "aiohttp <4,>=3.9.4 ; extra == 'docs'",
+      "requests-kerberos ; extra == 'kerberos'"
+    ]
+  },
+  "opensearch_py-2.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6a36535efcda870c820fd84c4bda96d7d57fc900a8c7dec660a48c079904df97",
+    "dependencies": {
+      "required": [
+        "requests",
+        "python-dateutil",
+        "certifi",
+        "events",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "requests <3.0.0,>=2.32.0",
+      "python-dateutil",
+      "certifi >=2024.07.04",
+      "Events",
+      "urllib3 <1.27,>=1.26.19 ; python_version < \"3.10\"",
+      "urllib3 !=2.2.0,!=2.2.1,<3,>=1.26.19 ; python_version >= \"3.10\"",
+      "aiohttp <4,>=3.9.4 ; extra == 'async'",
+      "requests <3.0.0,>=2.0.0 ; extra == 'develop'",
+      "coverage <8.0.0 ; extra == 'develop'",
+      "pyyaml ; extra == 'develop'",
+      "pytest >=3.0.0 ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "pytz ; extra == 'develop'",
+      "botocore ; extra == 'develop'",
+      "pytest-mock <4.0.0 ; extra == 'develop'",
+      "sphinx ; extra == 'develop'",
+      "sphinx-rtd-theme ; extra == 'develop'",
+      "myst-parser ; extra == 'develop'",
+      "sphinx-copybutton ; extra == 'develop'",
+      "black >=24.3.0 ; extra == 'develop'",
+      "jinja2 ; extra == 'develop'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "myst-parser ; extra == 'docs'",
+      "sphinx-copybutton ; extra == 'docs'",
+      "aiohttp <4,>=3.9.4 ; extra == 'docs'",
+      "requests-kerberos ; extra == 'kerberos'"
+    ]
+  }
+}

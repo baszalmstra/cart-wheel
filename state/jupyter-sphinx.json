@@ -1,0 +1,107 @@
+{
+  "jupyter_sphinx-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a67b3208d4da5b3508dbb8260d3b359ae476c36c6c642747b78a2520e5be0b05",
+    "dependencies": {
+      "required": [
+        "ipykernel",
+        "ipython",
+        "ipywidgets",
+        "nbconvert",
+        "nbformat",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "ipykernel>=4.5.1",
+      "ipython",
+      "ipywidgets>=7.0.0",
+      "nbconvert>=5.5",
+      "nbformat",
+      "sphinx>=7",
+      "matplotlib; extra == 'doc'",
+      "bash-kernel; extra == 'test'",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "jupyter_sphinx-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "32ad3c32900bb5cc4db300ed54c3798f2264bd2d9a8cb7c04c01b6004f063da1",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "ipywidgets",
+        "ipython",
+        "nbconvert",
+        "nbformat"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=2)",
+      "ipywidgets (>=7.0.0)",
+      "IPython",
+      "nbconvert (>=5.5)",
+      "nbformat"
+    ]
+  },
+  "jupyter_sphinx-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "301e36d0fb3007bb5802f6b65b60c24990eb99c983332a2ab6eecff385207dc9",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "ipywidgets",
+        "ipython",
+        "nbconvert",
+        "nbformat"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=2)",
+      "ipywidgets (>=7.0.0)",
+      "IPython",
+      "nbconvert (>=5.5)",
+      "nbformat"
+    ]
+  },
+  "jupyter_sphinx-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "56f4cd319b96c491c61bfa9d11a2ee452d2758beecbd2723b23916aaac4c2bab",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "ipywidgets",
+        "ipython",
+        "nbconvert",
+        "nbformat"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=2)",
+      "ipywidgets (>=7.0.0)",
+      "IPython",
+      "nbconvert (>=5.5)",
+      "nbformat"
+    ]
+  },
+  "jupyter_sphinx-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f64a64493f8b9202131fa561ad2254e1f7fe2a14be017b67f32c93632062e8db",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "ipywidgets",
+        "ipython",
+        "nbconvert",
+        "nbformat"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=2)",
+      "ipywidgets (>=7.0.0)",
+      "IPython",
+      "nbconvert (>=5.5)",
+      "nbformat"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+# Package configuration for betterproto-fw
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "betterproto_fw-2.0.3-py3-none-any.whl" },
+  { filename = "betterproto_fw-2.0.2-py3-none-any.whl" },
+  { filename = "betterproto_fw-2.0.1-py3-none-any.whl" },
+  { filename = "betterproto_fw-2.0.0-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for jaraco.compat
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaraco_compat-4.3.1-py3-none-any.whl" },
+  { filename = "jaraco_compat-4.3.0-py3-none-any.whl" },
+  { filename = "jaraco.compat-4.2.2-py3-none-any.whl" },
+  { filename = "jaraco.compat-4.2.1-py3-none-any.whl" },
+  { filename = "jaraco.compat-4.2.0-py3-none-any.whl" },
+]

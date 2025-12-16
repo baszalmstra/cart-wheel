@@ -1,0 +1,21 @@
+{
+  "configobj-5.0.9-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1ba10c5b6ee16229c79a05047aeda2b55eb4e80d7c7d8ecf17ec1ca600c79882",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "configobj-5.0.8-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7a8c6ab7daade85c3f329931a807c8aee750a2494363934f8ea84d8a54c87ea",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six"
+    ]
+  }
+}

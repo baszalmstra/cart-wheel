@@ -1,0 +1,10 @@
+# Package configuration for pysmb
+conda_forge = "pysmb"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pysmb-1.2.13-py3-none-any.whl" },
+  { filename = "pysmb-1.2.12-py3-none-any.whl" },
+  { filename = "pysmb-1.2.11-py3-none-any.whl" },
+]

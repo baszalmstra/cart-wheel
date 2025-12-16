@@ -1,0 +1,10 @@
+# Package configuration for wikipedia-api
+conda_forge = "wikipedia-api"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Wikipedia_API-0.6.0-py3-none-any.whl" },
+  { filename = "Wikipedia_API-0.5.8-py3-none-any.whl" },
+  { filename = "Wikipedia_API-0.5.7-py3-none-any.whl" },
+]

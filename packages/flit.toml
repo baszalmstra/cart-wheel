@@ -1,0 +1,12 @@
+# Package configuration for flit
+conda_forge = "flit"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flit-3.12.0-py3-none-any.whl" },
+  { filename = "flit-3.11.0-py3-none-any.whl" },
+  { filename = "flit-3.10.1-py3-none-any.whl" },
+  { filename = "flit-3.10.0-py3-none-any.whl" },
+  { filename = "flit-3.9.0-py3-none-any.whl" },
+]

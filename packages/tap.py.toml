@@ -1,0 +1,11 @@
+# Package configuration for tap.py
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tap_py-3.2.1-py3-none-any.whl" },
+  { filename = "tap.py-3.1-py3-none-any.whl" },
+  { filename = "tap.py-3.0-py2.py3-none-any.whl" },
+  { filename = "tap.py-2.6.2-py2.py3-none-any.whl" },
+  { filename = "tap.py-2.6.1-py2.py3-none-any.whl" },
+]

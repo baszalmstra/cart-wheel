@@ -1,0 +1,12 @@
+# Package configuration for rq
+conda_forge = "rq"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rq-2.6.1-py3-none-any.whl" },
+  { filename = "rq-2.6.0-py3-none-any.whl" },
+  { filename = "rq-2.5.0-py3-none-any.whl" },
+  { filename = "rq-2.4.1-py3-none-any.whl" },
+  { filename = "rq-2.4.0-py3-none-any.whl" },
+]

@@ -1,0 +1,82 @@
+{
+  "livekit_plugins_anthropic-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13e3bf844566a5d750aa6c602ebad67e5635232af79fa72afc9136800655c5ac",
+    "dependencies": {
+      "required": [
+        "anthropic",
+        "httpx",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "anthropic>=0.41",
+      "httpx",
+      "livekit-agents>=1.3.6"
+    ]
+  },
+  "livekit_plugins_anthropic-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e9107f477b8d9632fe0bad69dec84079df8cb8a9683a981da3719e4b81d0de5d",
+    "dependencies": {
+      "required": [
+        "anthropic",
+        "httpx",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "anthropic>=0.41",
+      "httpx",
+      "livekit-agents>=1.3.5"
+    ]
+  },
+  "livekit_plugins_anthropic-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d9ed14556eb1fb62ea46e9da5bdfd2f7b6dacf20b10456b9d86dab566d68a96",
+    "dependencies": {
+      "required": [
+        "anthropic",
+        "httpx",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "anthropic>=0.41",
+      "httpx",
+      "livekit-agents>=1.3.4"
+    ]
+  },
+  "livekit_plugins_anthropic-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f3eaf86d9aaf49c53e2b23c7ff10e251ede267407fb598a213ee952b830f567",
+    "dependencies": {
+      "required": [
+        "anthropic",
+        "httpx",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "anthropic>=0.41",
+      "httpx",
+      "livekit-agents>=1.3.3"
+    ]
+  },
+  "livekit_plugins_anthropic-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91d61815c79178279e8cc3ebffdfcc943ee512573c22c5b04b26e515a695ec37",
+    "dependencies": {
+      "required": [
+        "anthropic",
+        "httpx",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "anthropic>=0.41",
+      "httpx",
+      "livekit-agents>=1.3.2"
+    ]
+  }
+}

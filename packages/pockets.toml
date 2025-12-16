@@ -1,0 +1,12 @@
+# Package configuration for pockets
+conda_forge = "pockets"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pockets-0.9.1-py2.py3-none-any.whl" },
+  { filename = "pockets-0.9-py2.py3-none-any.whl" },
+  { filename = "pockets-0.8-py2.py3-none-any.whl" },
+  { filename = "pockets-0.7.2-py2.py3-none-any.whl" },
+  { filename = "pockets-0.7.1-py2.py3-none-any.whl" },
+]

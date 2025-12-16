@@ -1,0 +1,12 @@
+# Package configuration for pytest-env
+conda_forge = "pytest-env"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_env-1.2.0-py3-none-any.whl" },
+  { filename = "pytest_env-1.1.5-py3-none-any.whl" },
+  { filename = "pytest_env-1.1.4-py3-none-any.whl" },
+  { filename = "pytest_env-1.1.3-py3-none-any.whl" },
+  { filename = "pytest_env-1.1.2-py3-none-any.whl" },
+]

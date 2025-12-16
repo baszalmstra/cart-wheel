@@ -1,0 +1,10 @@
+# Package configuration for msgraphfs
+conda_forge = "msgraphfs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "msgraphfs-0.4-py3-none-any.whl" },
+  { filename = "msgraphfs-0.3-py3-none-any.whl" },
+  { filename = "msgraphfs-0.1-py3-none-any.whl" },
+]

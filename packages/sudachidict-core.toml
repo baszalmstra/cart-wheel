@@ -1,0 +1,12 @@
+# Package configuration for sudachidict-core
+conda_forge = "sudachidict-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sudachidict_core-20251022-py3-none-any.whl" },
+  { filename = "sudachidict_core-20250825-py3-none-any.whl" },
+  { filename = "sudachidict_core-20250515-py3-none-any.whl" },
+  { filename = "SudachiDict_core-20250129-py3-none-any.whl" },
+  { filename = "SudachiDict_core-20241021-py3-none-any.whl" },
+]

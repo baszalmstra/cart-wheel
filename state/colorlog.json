@@ -1,0 +1,87 @@
+{
+  "colorlog-6.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2d7e8348291948af66122cff006c9f8da6255d224e7cf8e37d8de2df3bad8c9c",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama; sys_platform == \"win32\"",
+      "black; extra == \"development\"",
+      "flake8; extra == \"development\"",
+      "mypy; extra == \"development\"",
+      "pytest; extra == \"development\"",
+      "types-colorama; extra == \"development\""
+    ]
+  },
+  "colorlog-6.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5906e71acd67cb07a71e779c47c4bcb45fb8c2993eebe9e5adcd6a6f1b283eff",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama; sys_platform == \"win32\"",
+      "black; extra == \"development\"",
+      "flake8; extra == \"development\"",
+      "mypy; extra == \"development\"",
+      "pytest; extra == \"development\"",
+      "types-colorama; extra == \"development\""
+    ]
+  },
+  "colorlog-6.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4dcbb62368e2800cb3c5abd348da7e53f6c362dda502ec27c560b2e58a66bd33",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama ; sys_platform==\"win32\"",
+      "black ; extra == 'development'",
+      "flake8 ; extra == 'development'",
+      "mypy ; extra == 'development'",
+      "pytest ; extra == 'development'",
+      "types-colorama ; extra == 'development'"
+    ]
+  },
+  "colorlog-6.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ed23b05a1154294ac99f511fabe8c1d6d4364ec1f7fc989c7fb515ccc29d375",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama ; sys_platform==\"win32\"",
+      "black ; extra == 'development'",
+      "flake8 ; extra == 'development'",
+      "mypy ; extra == 'development'",
+      "pytest ; extra == 'development'",
+      "types-colorama ; extra == 'development'"
+    ]
+  },
+  "colorlog-6.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d33ca236784a1ba3ff9c532d4964126d8a2c44f1f0cb1d2b0728196f512f662",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama ; sys_platform==\"win32\"",
+      "black ; extra == 'development'",
+      "flake8 ; extra == 'development'",
+      "mypy ; extra == 'development'",
+      "pytest ; extra == 'development'",
+      "types-colorama ; extra == 'development'"
+    ]
+  }
+}

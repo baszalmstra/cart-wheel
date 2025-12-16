@@ -1,0 +1,66 @@
+{
+  "hmsclient-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6163c46ecbd7b97e10099039186155fe2712ade1630da7c90075e3ccac91d909",
+    "dependencies": {
+      "required": [
+        "thrift",
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "thrift",
+      "click",
+      "pytest; extra == 'dev'",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "hmsclient-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "984fb96f29f70501ba849495a890c6db5778a3fa78e1e4c405654c0c667eda45",
+    "dependencies": {
+      "required": [
+        "thrift",
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "thrift",
+      "click",
+      "pytest; extra == 'dev'",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "hmsclient-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f9888252939b09a5fe6863bdf456a220672b44d7f93e8ad879bd0013a5f2e45",
+    "dependencies": {
+      "required": [
+        "thrift",
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "thrift",
+      "click",
+      "pytest; extra == 'dev'",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "hmsclient-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34d0a8ab676b2fff06d09bc23f757ceb448a076fead295a8f6a2ba86d71ce692",
+    "dependencies": {
+      "required": [
+        "thrift",
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "thrift",
+      "click",
+      "pytest; extra == 'dev'",
+      "pytest; extra == 'test'"
+    ]
+  }
+}

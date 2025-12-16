@@ -1,0 +1,9 @@
+# Package configuration for smithy-json
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "smithy_json-0.2.0-py3-none-any.whl" },
+  { filename = "smithy_json-0.1.0-py3-none-any.whl" },
+  { filename = "smithy_json-0.0.1-py3-none-any.whl" },
+]

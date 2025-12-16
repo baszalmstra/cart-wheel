@@ -1,0 +1,12 @@
+# Package configuration for types-cffi
+conda_forge = "types-cffi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_cffi-1.17.0.20250915-py3-none-any.whl" },
+  { filename = "types_cffi-1.17.0.20250914-py3-none-any.whl" },
+  { filename = "types_cffi-1.17.0.20250822-py3-none-any.whl" },
+  { filename = "types_cffi-1.17.0.20250809-py3-none-any.whl" },
+  { filename = "types_cffi-1.17.0.20250805-py3-none-any.whl" },
+]

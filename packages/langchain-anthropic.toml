@@ -1,0 +1,12 @@
+# Package configuration for langchain-anthropic
+conda_forge = "langchain-anthropic"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_anthropic-1.3.0-py3-none-any.whl" },
+  { filename = "langchain_anthropic-1.2.0-py3-none-any.whl" },
+  { filename = "langchain_anthropic-1.1.0-py3-none-any.whl" },
+  { filename = "langchain_anthropic-1.0.4-py3-none-any.whl" },
+  { filename = "langchain_anthropic-1.0.3-py3-none-any.whl" },
+]

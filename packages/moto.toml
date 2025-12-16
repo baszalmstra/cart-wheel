@@ -1,0 +1,12 @@
+# Package configuration for moto
+conda_forge = "moto"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "moto-5.1.18-py3-none-any.whl" },
+  { filename = "moto-5.1.17-py3-none-any.whl" },
+  { filename = "moto-5.1.16-py3-none-any.whl" },
+  { filename = "moto-5.1.15-py3-none-any.whl" },
+  { filename = "moto-5.1.14-py3-none-any.whl" },
+]

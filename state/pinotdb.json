@@ -1,0 +1,84 @@
+{
+  "pinotdb-5.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "42b7f931537a1c82c40d7b448ae637188fb90ad8e8714d86c25d831002201b29",
+    "dependencies": {
+      "required": [
+        "ciso8601",
+        "h11",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "ciso8601 (>=2.1.3,<3.0.0)",
+      "h11 (==0.16.0)",
+      "httpx (>=0.28.1,<0.29)",
+      "requests (>=2.25.0,<3.0.0) ; extra == \"sqlalchemy\"",
+      "sqlalchemy (>=1.4,<2) ; extra == \"sqlalchemy\""
+    ]
+  },
+  "pinotdb-5.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa4f239d2ed70cc4d9533d8ed1a098b72ecc749d7960f4c9af874009ae03db4c",
+    "dependencies": {
+      "required": [
+        "ciso8601",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "ciso8601 (>=2.1.3,<3.0.0)",
+      "httpx (>=0.23.0,<0.28.0)",
+      "requests (>=2.25.0,<3.0.0) ; extra == \"sqlalchemy\"",
+      "sqlalchemy (>=1.4,<2) ; extra == \"sqlalchemy\""
+    ]
+  },
+  "pinotdb-5.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ddfd2d8160bad7567f8993f1c776b4b44674f2776d9f47a62538d19b5f13bd5b",
+    "dependencies": {
+      "required": [
+        "ciso8601",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "ciso8601 (>=2.1.3,<3.0.0)",
+      "httpx (>=0.23.0,<0.28.0)",
+      "requests (>=2.25.0,<3.0.0) ; extra == \"sqlalchemy\"",
+      "sqlalchemy (>=1.4,<2) ; extra == \"sqlalchemy\""
+    ]
+  },
+  "pinotdb-5.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d6e4395b4a7743a196a32adb6f49e7058385315fd8de14625b5ba32c50a773f7",
+    "dependencies": {
+      "required": [
+        "ciso8601",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "ciso8601 (>=2.1.3,<3.0.0)",
+      "httpx (>=0.23.0,<0.28.0)",
+      "requests (>=2.25.0,<3.0.0) ; extra == \"sqlalchemy\"",
+      "sqlalchemy (>=1.4,<2) ; extra == \"sqlalchemy\""
+    ]
+  },
+  "pinotdb-5.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f5aa8daff2867ac303ea69b3a58fc3c1cb473793a9f47065d3e5e3dd164a2c40",
+    "dependencies": {
+      "required": [
+        "ciso8601",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "ciso8601 (>=2.1.3,<3.0.0)",
+      "httpx (>=0.23.0,<0.28.0)",
+      "requests (>=2.25.0,<3.0.0) ; extra == \"sqlalchemy\"",
+      "sqlalchemy (>=1.4,<2) ; extra == \"sqlalchemy\""
+    ]
+  }
+}

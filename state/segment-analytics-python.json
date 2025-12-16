@@ -1,0 +1,107 @@
+{
+  "segment_analytics_python-2.3.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "139f111ce0d6f5ec04ac881014f62ac238b8a74d8dacb81ab69822d428f8219e",
+    "dependencies": {
+      "required": [
+        "requests",
+        "backoff",
+        "python-dateutil",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "requests~=2.7",
+      "backoff~=2.1",
+      "python-dateutil~=2.2",
+      "PyJWT~=2.10.1",
+      "mock==2.0.0; extra == \"test\"",
+      "pylint==3.3.1; extra == \"test\"",
+      "flake8==3.7.9; extra == \"test\""
+    ]
+  },
+  "segment_analytics_python-2.3.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ea2b6432bef1c017d24f69bf5f778e45c2385ec9df527242e2b42ee6cefd7367",
+    "dependencies": {
+      "required": [
+        "requests",
+        "backoff",
+        "python-dateutil",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "requests~=2.7",
+      "backoff~=2.1",
+      "python-dateutil~=2.2",
+      "PyJWT~=2.10.1",
+      "mock==2.0.0; extra == \"test\"",
+      "pylint==3.3.1; extra == \"test\"",
+      "flake8==3.7.9; extra == \"test\""
+    ]
+  },
+  "segment_analytics_python-2.3.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "769251706d71f4c96d2039391d119222dbd9faf00308400f7b314ec9fb86cfc7",
+    "dependencies": {
+      "required": [
+        "requests",
+        "backoff",
+        "python-dateutil",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "requests (~=2.7)",
+      "backoff (~=2.1)",
+      "python-dateutil (~=2.2)",
+      "PyJWT (~=2.8)",
+      "mock (==2.0.0) ; extra == 'test'",
+      "pylint (==2.8.0) ; extra == 'test'",
+      "flake8 (==3.7.9) ; extra == 'test'"
+    ]
+  },
+  "segment_analytics_python-2.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ba881e019c396f17b4e0a66117691a189a555bc13da47de69cb8db8e3adecad",
+    "dependencies": {
+      "required": [
+        "requests",
+        "backoff",
+        "python-dateutil",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "requests (~=2.7)",
+      "backoff (~=2.1)",
+      "python-dateutil (~=2.2)",
+      "PyJWT (~=2.8.0)",
+      "mock (==2.0.0) ; extra == 'test'",
+      "pylint (==2.8.0) ; extra == 'test'",
+      "flake8 (==3.7.9) ; extra == 'test'"
+    ]
+  },
+  "segment_analytics_python-2.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b5d415247f983e8698de7e094f141cf48f9098b49cc95e108c5bf1e08127d636",
+    "dependencies": {
+      "required": [
+        "requests",
+        "backoff",
+        "python-dateutil",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "requests (~=2.7)",
+      "backoff (~=2.1)",
+      "python-dateutil (~=2.2)",
+      "PyJWT (~=2.8.0)",
+      "mock (==2.0.0) ; extra == 'test'",
+      "pylint (==2.8.0) ; extra == 'test'",
+      "flake8 (==3.7.9) ; extra == 'test'"
+    ]
+  }
+}

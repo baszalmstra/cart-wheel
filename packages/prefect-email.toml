@@ -1,0 +1,11 @@
+# Package configuration for prefect-email
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "prefect_email-0.4.2-py3-none-any.whl" },
+  { filename = "prefect_email-0.4.1-py3-none-any.whl" },
+  { filename = "prefect_email-0.4.0-py3-none-any.whl" },
+  { filename = "prefect_email-0.3.6-py3-none-any.whl" },
+  { filename = "prefect_email-0.3.5-py3-none-any.whl" },
+]

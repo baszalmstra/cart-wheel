@@ -1,0 +1,92 @@
+{
+  "langchain_google_genai-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "42c592a222a075ce87f424d466ba6d39194eb58fbb9a84006c401d08034a4feb",
+    "dependencies": {
+      "required": [
+        "filetype",
+        "google-genai",
+        "langchain-core",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "filetype<2.0.0,>=1.2.0",
+      "google-genai<2.0.0,>=1.53.0",
+      "langchain-core<2.0.0,>=1.1.2",
+      "pydantic<3.0.0,>=2.0.0"
+    ]
+  },
+  "langchain_google_genai-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "689fc159d4623a184678e24771f6d52373e983a8fc8d342e44352aaf28e9445d",
+    "dependencies": {
+      "required": [
+        "filetype",
+        "google-ai-generativelanguage",
+        "langchain-core",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "filetype<2.0.0,>=1.2.0",
+      "google-ai-generativelanguage<1.0.0,>=0.9.0",
+      "langchain-core<2.0.0,>=1.1.0",
+      "pydantic<3.0.0,>=2.0.0"
+    ]
+  },
+  "langchain_google_genai-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de076459a1a56f120c68465cad0e022a2ea1d3157bd8677e7b2061f0e1718bbb",
+    "dependencies": {
+      "required": [
+        "filetype",
+        "google-ai-generativelanguage",
+        "langchain-core",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "filetype<2.0.0,>=1.2.0",
+      "google-ai-generativelanguage<1.0.0,>=0.9.0",
+      "langchain-core<2.0.0,>=1.0.5",
+      "pydantic<3.0.0,>=2.0.0"
+    ]
+  },
+  "langchain_google_genai-3.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e77d7d42d7167aa0bcf73742c4b237b6378a35436c3f1a5703a67804b1556b4e",
+    "dependencies": {
+      "required": [
+        "filetype",
+        "google-ai-generativelanguage",
+        "langchain-core",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "filetype<2.0.0,>=1.2.0",
+      "google-ai-generativelanguage<1.0.0,>=0.7.0",
+      "langchain-core<2.0.0,>=1.0.0",
+      "pydantic<3.0.0,>=2.0.0"
+    ]
+  },
+  "langchain_google_genai-3.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3ba6174f2044b9711a08159aa4c585745eca341dcefb97b8c65c175b0ef0097",
+    "dependencies": {
+      "required": [
+        "filetype",
+        "google-ai-generativelanguage",
+        "langchain-core",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "filetype<2.0.0,>=1.2.0",
+      "google-ai-generativelanguage<1.0.0,>=0.7.0",
+      "langchain-core<2.0.0,>=1.0.0",
+      "pydantic<3.0.0,>=2.0.0"
+    ]
+  }
+}

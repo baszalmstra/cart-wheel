@@ -1,0 +1,11 @@
+# Package configuration for types-backports
+conda_forge = "types-backports"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_backports-0.1.3-py2.py3-none-any.whl" },
+  { filename = "types_backports-0.1.2-py2.py3-none-any.whl" },
+  { filename = "types_backports-0.1.1-py2.py3-none-any.whl" },
+  { filename = "types_backports-0.1.0-py2.py3-none-any.whl" },
+]

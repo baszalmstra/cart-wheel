@@ -1,0 +1,11 @@
+# Package configuration for sphinx-argparse-cli
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_argparse_cli-1.20.1-py3-none-any.whl" },
+  { filename = "sphinx_argparse_cli-1.20.0-py3-none-any.whl" },
+  { filename = "sphinx_argparse_cli-1.19.0-py3-none-any.whl" },
+  { filename = "sphinx_argparse_cli-1.18.2-py3-none-any.whl" },
+  { filename = "sphinx_argparse_cli-1.18.1-py3-none-any.whl" },
+]

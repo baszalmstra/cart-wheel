@@ -1,0 +1,135 @@
+{
+  "attribution-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ddb7748c4bd2f23cdf8848b81b0d1deeb98d6dbc978b580b9f47f9983e4e0ac",
+    "dependencies": {
+      "required": [
+        "click",
+        "jinja2",
+        "packaging",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "click >= 8.0",
+      "jinja2 >= 2.7",
+      "packaging >= 16.2",
+      "tomlkit >= 0.7.0",
+      "black==24.4.2 ; extra == \"dev\"",
+      "coverage==7.5.3 ; extra == \"dev\"",
+      "flake8==7.1.0 ; extra == \"dev\"",
+      "flake8-bugbear==24.4.26 ; extra == \"dev\"",
+      "flit==3.9.0 ; extra == \"dev\"",
+      "mypy==1.10.0 ; extra == \"dev\"",
+      "pessimist==0.9.3 ; extra == \"dev\"",
+      "rich==13.7.1 ; extra == \"dev\"",
+      "ufmt==2.6.0 ; extra == \"dev\"",
+      "usort==1.0.8.post1 ; extra == \"dev\"",
+      "wheel==0.43.0 ; extra == \"dev\"",
+      "sphinx==7.3.7 ; extra == \"docs\"",
+      "sphinx-mdinclude==0.6.1 ; extra == \"docs\""
+    ]
+  },
+  "attribution-1.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43edb44b21b014d53f188b84ead79b1488fee308e87a66e6db8b27e935103fc8",
+    "dependencies": {
+      "required": [
+        "click",
+        "jinja2",
+        "packaging",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "click >= 8.0",
+      "jinja2 >= 2.7",
+      "packaging >= 16.2",
+      "tomlkit >= 0.7.0",
+      "black==24.2.0 ; extra == \"dev\"",
+      "coverage==7.4.1 ; extra == \"dev\"",
+      "flake8==7.0.0 ; extra == \"dev\"",
+      "flake8-bugbear==24.2.6 ; extra == \"dev\"",
+      "flit==3.9.0 ; extra == \"dev\"",
+      "mypy==1.8.0 ; extra == \"dev\"",
+      "pessimist==0.9.3 ; extra == \"dev\"",
+      "rich==13.7.0 ; extra == \"dev\"",
+      "ufmt==2.3.0 ; extra == \"dev\"",
+      "usort==1.0.7 ; extra == \"dev\"",
+      "wheel==0.42.0 ; extra == \"dev\"",
+      "sphinx==7.2.6 ; extra == \"docs\"",
+      "sphinx-mdinclude==0.5.3 ; extra == \"docs\""
+    ]
+  },
+  "attribution-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30cc28807f28679967e72a548ba10e733d2e1360a0f02200f4f74876699cc9a4",
+    "dependencies": {
+      "required": [
+        "click",
+        "jinja2",
+        "packaging",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "click >= 8.0",
+      "jinja2 >= 2.7",
+      "packaging >= 16.2",
+      "tomlkit >= 0.7.0",
+      "black==24.2.0 ; extra == \"dev\"",
+      "coverage==7.4.1 ; extra == \"dev\"",
+      "flake8==7.0.0 ; extra == \"dev\"",
+      "flake8-bugbear==24.2.6 ; extra == \"dev\"",
+      "flit==3.9.0 ; extra == \"dev\"",
+      "mypy==1.8.0 ; extra == \"dev\"",
+      "pessimist==0.9.3 ; extra == \"dev\"",
+      "rich==13.7.0 ; extra == \"dev\"",
+      "ufmt==2.3.0 ; extra == \"dev\"",
+      "usort==1.0.7 ; extra == \"dev\"",
+      "wheel==0.42.0 ; extra == \"dev\"",
+      "sphinx==7.2.6 ; extra == \"docs\"",
+      "sphinx-mdinclude==0.5.3 ; extra == \"docs\""
+    ]
+  },
+  "attribution-1.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "201acd16f6ff24d767ac1058433cddd710d520ad7a1ec4a77b548898a90ac0c3",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "jinja2",
+        "packaging",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "attrs >= 19.2.0",
+      "click >= 8.0",
+      "jinja2 >= 2.7",
+      "packaging >= 16.2",
+      "tomlkit >= 0.7.0"
+    ]
+  },
+  "attribution-1.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9a867089b6b68c87f792c19667920ce887ea9d06349cda3a778edb1680a74aa",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "click",
+        "jinja2",
+        "packaging",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "attrs >= 19.2.0",
+      "click >= 8.0",
+      "jinja2 >= 2.7",
+      "packaging >= 16.2",
+      "tomlkit >= 0.7.0"
+    ]
+  }
+}

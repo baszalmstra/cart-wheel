@@ -1,0 +1,105 @@
+{
+  "pydeck-0.9.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3f75ba0d273fc917094fa61224f3f6076ca8752b93d46faf3bcfd9f9d59b038",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "jinja2 >=2.10.1",
+      "numpy >=1.16.4",
+      "pydeck-carto ; extra == 'carto'",
+      "ipywidgets <8,>=7 ; extra == 'jupyter'",
+      "traitlets >=4.3.2 ; extra == 'jupyter'",
+      "ipython >=5.8.0 ; (python_version < \"3.4\") and extra == 'jupyter'",
+      "ipykernel >=5.1.2 ; (python_version >= \"3.4\") and extra == 'jupyter'"
+    ]
+  },
+  "pydeck-0.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ab6e657210919fed2992cfad20afb4135d67ab6d8374f0b06fcc82b4e77b055",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "jinja2 >=2.10.1",
+      "numpy >=1.16.4",
+      "pydeck-carto ; extra == 'carto'",
+      "ipywidgets <8,>=7 ; extra == 'jupyter'",
+      "traitlets >=4.3.2 ; extra == 'jupyter'",
+      "ipython >=5.8.0 ; (python_version < \"3.4\") and extra == 'jupyter'",
+      "ipykernel >=5.1.2 ; (python_version >= \"3.4\") and extra == 'jupyter'"
+    ]
+  },
+  "pydeck-0.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8fa7757c6f24bba033af39db3147cb020eef44012ba7e60d954de187f9ed4d5",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "jinja2 (>=2.10.1)",
+      "numpy (>=1.16.4)",
+      "pydeck-carto ; extra == 'carto'",
+      "ipywidgets (<8,>=7) ; extra == 'jupyter'",
+      "traitlets (>=4.3.2) ; extra == 'jupyter'",
+      "ipython (>=5.8.0) ; (python_version < \"3.4\") and extra == 'jupyter'",
+      "ipykernel (>=5.1.2) ; (python_version >= \"3.4\") and extra == 'jupyter'"
+    ]
+  },
+  "pydeck-0.7.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7fc49b00840608068b930f9269169c7c9f3198b8b4635c934ba6d887c4e54503",
+    "dependencies": {
+      "required": [
+        "ipywidgets",
+        "traitlets",
+        "jinja2",
+        "numpy",
+        "ipython",
+        "ipykernel"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets (>=7.0.0)",
+      "traitlets (>=4.3.2)",
+      "jinja2 (>=2.10.1)",
+      "numpy (>=1.16.4)",
+      "ipython (>=5.8.0) ; python_version < \"3.4\"",
+      "ipykernel (>=5.1.2) ; python_version >= \"3.4\"",
+      "pytest ; extra == 'testing'"
+    ]
+  },
+  "pydeck-0.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8db699ff8f5226e6b26d04aa01f9a32e986427219c176a216c8156fd5a37bfc6",
+    "dependencies": {
+      "required": [
+        "ipywidgets",
+        "traitlets",
+        "jinja2",
+        "numpy",
+        "ipython",
+        "ipykernel"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets (>=7.0.0)",
+      "traitlets (>=4.3.2)",
+      "jinja2 (>=2.10.1)",
+      "numpy (>=1.16.4)",
+      "ipython (>=5.8.0) ; python_version < \"3.4\"",
+      "ipykernel (>=5.1.2) ; python_version >= \"3.4\"",
+      "pytest ; extra == 'testing'"
+    ]
+  }
+}

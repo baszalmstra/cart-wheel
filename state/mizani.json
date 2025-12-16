@@ -1,0 +1,182 @@
+{
+  "mizani-0.14.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6d2ca9b1b8366ff85668f0cc1b6095f1e702e26e66f132c4f02a949efa32a688",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "pandas",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.23.5",
+      "scipy>=1.8.0",
+      "pandas>=2.2.0",
+      "tzdata; platform_system == \"Windows\" or platform_system == \"Emscripten\"",
+      "mizani[doc]; extra == \"all\"",
+      "mizani[build]; extra == \"all\"",
+      "mizani[lint]; extra == \"all\"",
+      "mizani[test]; extra == \"all\"",
+      "mizani[dev]; extra == \"all\"",
+      "sphinx>=7.2.0; extra == \"doc\"",
+      "numpydoc>=1.7.0; extra == \"doc\"",
+      "mock; extra == \"rtd\"",
+      "build; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "ruff; extra == \"lint\"",
+      "pytest-cov>=4.0.0; extra == \"test\"",
+      "notebook; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mizani[typing]; extra == \"dev\"",
+      "pyright==1.1.402; extra == \"typing\"",
+      "pandas-stubs; extra == \"typing\""
+    ]
+  },
+  "mizani-0.14.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c35fdfa9a68824e80c724ffbd9bb776db23bf73ea94b90b46dbc7f58cb2233cb",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "pandas",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.23.5",
+      "scipy>=1.8.0",
+      "pandas>=2.2.0",
+      "tzdata; platform_system == \"Windows\" or platform_system == \"Emscripten\"",
+      "mizani[doc]; extra == \"all\"",
+      "mizani[build]; extra == \"all\"",
+      "mizani[lint]; extra == \"all\"",
+      "mizani[test]; extra == \"all\"",
+      "mizani[dev]; extra == \"all\"",
+      "sphinx>=7.2.0; extra == \"doc\"",
+      "numpydoc>=1.7.0; extra == \"doc\"",
+      "mock; extra == \"rtd\"",
+      "build; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "ruff; extra == \"lint\"",
+      "pytest-cov>=4.0.0; extra == \"test\"",
+      "notebook; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mizani[typing]; extra == \"dev\"",
+      "pyright==1.1.402; extra == \"typing\"",
+      "pandas-stubs; extra == \"typing\""
+    ]
+  },
+  "mizani-0.14.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b86baee619a7b9a0874fa59a58b029da12acd0b5a2c8997a4b9ca4817d88c95",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "pandas",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.23.5",
+      "scipy>=1.8.0",
+      "pandas>=2.2.0",
+      "tzdata; platform_system == \"Windows\" or platform_system == \"Emscripten\"",
+      "mizani[doc]; extra == \"all\"",
+      "mizani[build]; extra == \"all\"",
+      "mizani[lint]; extra == \"all\"",
+      "mizani[test]; extra == \"all\"",
+      "mizani[dev]; extra == \"all\"",
+      "sphinx>=7.2.0; extra == \"doc\"",
+      "numpydoc>=1.7.0; extra == \"doc\"",
+      "mock; extra == \"rtd\"",
+      "build; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "ruff; extra == \"lint\"",
+      "pytest-cov>=4.0.0; extra == \"test\"",
+      "notebook; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mizani[typing]; extra == \"dev\"",
+      "pyright==1.1.402; extra == \"typing\"",
+      "pandas-stubs; extra == \"typing\""
+    ]
+  },
+  "mizani-0.13.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6024cf3b5780457d7aa56725946857fd9908215efcd5460399d2bc3267ac329",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "pandas",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.23.5",
+      "scipy>=1.8.0",
+      "pandas>=2.2.0",
+      "tzdata; platform_system == \"Windows\" or platform_system == \"Emscripten\"",
+      "mizani[doc]; extra == \"all\"",
+      "mizani[build]; extra == \"all\"",
+      "mizani[lint]; extra == \"all\"",
+      "mizani[test]; extra == \"all\"",
+      "mizani[dev]; extra == \"all\"",
+      "sphinx>=7.2.0; extra == \"doc\"",
+      "numpydoc>=1.7.0; extra == \"doc\"",
+      "mock; extra == \"rtd\"",
+      "build; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "ruff; extra == \"lint\"",
+      "pytest-cov>=4.0.0; extra == \"test\"",
+      "notebook; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mizani[typing]; extra == \"dev\"",
+      "pyright==1.1.400; extra == \"typing\"",
+      "pandas-stubs; extra == \"typing\""
+    ]
+  },
+  "mizani-0.13.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a5be59bae5773468ed1389208d9abb494c8a3e86aff4501679e955a4be5561ff",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "pandas",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.23.5",
+      "scipy>=1.8.0",
+      "pandas>=2.2.0",
+      "tzdata; platform_system == \"Windows\" or platform_system == \"Emscripten\"",
+      "mizani[doc]; extra == \"all\"",
+      "mizani[build]; extra == \"all\"",
+      "mizani[lint]; extra == \"all\"",
+      "mizani[test]; extra == \"all\"",
+      "mizani[dev]; extra == \"all\"",
+      "sphinx>=7.2.0; extra == \"doc\"",
+      "numpydoc>=1.7.0; extra == \"doc\"",
+      "mock; extra == \"rtd\"",
+      "build; extra == \"build\"",
+      "wheel; extra == \"build\"",
+      "ruff; extra == \"lint\"",
+      "pytest-cov>=4.0.0; extra == \"test\"",
+      "notebook; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mizani[typing]; extra == \"dev\"",
+      "pyright==1.1.400; extra == \"typing\"",
+      "pandas-stubs; extra == \"typing\""
+    ]
+  }
+}

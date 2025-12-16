@@ -1,0 +1,194 @@
+{
+  "mcpadapt-0.1.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "117a661eb536dfb0b2a73e5730c2f5ad4e611263e014fb1cebaaff9e78a18f78",
+    "dependencies": {
+      "required": [
+        "jsonref",
+        "mcp",
+        "pydantic",
+        "python-dotenv"
+      ]
+    },
+    "original_requirements": [
+      "jsonref>=1.1.0",
+      "mcp[ws]>=1.10.1",
+      "pydantic>=2.10.6",
+      "python-dotenv>=1.0.1",
+      "soundfile>=0.13.1; extra == 'audio'",
+      "torchaudio>=2.7.1; extra == 'audio'",
+      "torchcodec>=0.8.0; extra == 'audio'",
+      "crewai>=0.108.0; extra == 'crewai'",
+      "google-genai>=1.2.0; extra == 'google-genai'",
+      "langchain-anthropic>=0.3.1; extra == 'langchain'",
+      "langchain>=0.3.14; extra == 'langchain'",
+      "langgraph>=0.2.62; extra == 'langchain'",
+      "llama-index>=0.12.14; extra == 'llamaindex'",
+      "smolagents>=1.2.2; extra == 'smolagents'",
+      "crewai>=0.108.0; extra == 'test'",
+      "google-genai>=1.2.0; extra == 'test'",
+      "langchain-anthropic>=0.3.1; extra == 'test'",
+      "langchain>=0.3.14; extra == 'test'",
+      "langgraph>=0.2.62; extra == 'test'",
+      "pytest-asyncio>=0.25.2; extra == 'test'",
+      "pytest-datadir>=1.7.2; extra == 'test'",
+      "pytest>=8.3.4; extra == 'test'",
+      "smolagents>=1.2.2; extra == 'test'",
+      "soundfile>=0.13.1; extra == 'test'",
+      "torchaudio>=2.7.1; extra == 'test'",
+      "torchcodec>=0.8.0; extra == 'test'"
+    ]
+  },
+  "mcpadapt-0.1.19-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "052e91dea8b6f530770d6fd45a1640a8c34816d18d060918dc752c5221083525",
+    "dependencies": {
+      "required": [
+        "jsonref",
+        "mcp",
+        "pydantic",
+        "python-dotenv"
+      ]
+    },
+    "original_requirements": [
+      "jsonref>=1.1.0",
+      "mcp[ws]>=1.10.1",
+      "pydantic>=2.10.6",
+      "python-dotenv>=1.0.1",
+      "soundfile>=0.13.1; extra == 'audio'",
+      "torchaudio>=2.7.1; extra == 'audio'",
+      "crewai>=0.108.0; extra == 'crewai'",
+      "google-genai>=1.2.0; extra == 'google-genai'",
+      "langchain-anthropic>=0.3.1; extra == 'langchain'",
+      "langchain>=0.3.14; extra == 'langchain'",
+      "langgraph>=0.2.62; extra == 'langchain'",
+      "llama-index>=0.12.14; extra == 'llamaindex'",
+      "smolagents>=1.2.2; extra == 'smolagents'",
+      "crewai>=0.108.0; extra == 'test'",
+      "google-genai>=1.2.0; extra == 'test'",
+      "langchain-anthropic>=0.3.1; extra == 'test'",
+      "langchain>=0.3.14; extra == 'test'",
+      "langgraph>=0.2.62; extra == 'test'",
+      "pytest-asyncio>=0.25.2; extra == 'test'",
+      "pytest-datadir>=1.7.2; extra == 'test'",
+      "pytest>=8.3.4; extra == 'test'",
+      "smolagents>=1.2.2; extra == 'test'",
+      "soundfile>=0.13.1; extra == 'test'",
+      "torchaudio>=2.7.1; extra == 'test'"
+    ]
+  },
+  "mcpadapt-0.1.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4714e0feaa7574ee1e8cedbb788a00b1d2b43ce0588eaebd5b9db0b80464f218",
+    "dependencies": {
+      "required": [
+        "jsonref",
+        "mcp",
+        "pydantic",
+        "python-dotenv"
+      ]
+    },
+    "original_requirements": [
+      "jsonref>=1.1.0",
+      "mcp>=1.10.1",
+      "pydantic>=2.10.6",
+      "python-dotenv>=1.0.1",
+      "soundfile>=0.13.1; extra == 'audio'",
+      "torchaudio>=2.7.1; extra == 'audio'",
+      "crewai>=0.108.0; extra == 'crewai'",
+      "google-genai>=1.2.0; extra == 'google-genai'",
+      "langchain-anthropic>=0.3.1; extra == 'langchain'",
+      "langchain>=0.3.14; extra == 'langchain'",
+      "langgraph>=0.2.62; extra == 'langchain'",
+      "llama-index>=0.12.14; extra == 'llamaindex'",
+      "smolagents>=1.2.2; extra == 'smolagents'",
+      "crewai>=0.108.0; extra == 'test'",
+      "google-genai>=1.2.0; extra == 'test'",
+      "langchain-anthropic>=0.3.1; extra == 'test'",
+      "langchain>=0.3.14; extra == 'test'",
+      "langgraph>=0.2.62; extra == 'test'",
+      "pytest-asyncio>=0.25.2; extra == 'test'",
+      "pytest-datadir>=1.7.2; extra == 'test'",
+      "pytest>=8.3.4; extra == 'test'",
+      "smolagents>=1.2.2; extra == 'test'",
+      "soundfile>=0.13.1; extra == 'test'",
+      "torchaudio>=2.7.1; extra == 'test'"
+    ]
+  },
+  "mcpadapt-0.1.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "caeb4b335700cb767d07a24c17287576621dfdc091329250e4e1d438940e65b3",
+    "dependencies": {
+      "required": [
+        "jsonref",
+        "mcp",
+        "pydantic",
+        "python-dotenv"
+      ]
+    },
+    "original_requirements": [
+      "jsonref>=1.1.0",
+      "mcp>=1.10.1",
+      "pydantic>=2.10.6",
+      "python-dotenv>=1.0.1",
+      "soundfile>=0.13.1; extra == 'audio'",
+      "torchaudio>=2.7.1; extra == 'audio'",
+      "crewai>=0.108.0; extra == 'crewai'",
+      "google-genai>=1.2.0; extra == 'google-genai'",
+      "langchain-anthropic>=0.3.1; extra == 'langchain'",
+      "langchain>=0.3.14; extra == 'langchain'",
+      "langgraph>=0.2.62; extra == 'langchain'",
+      "llama-index>=0.12.14; extra == 'llamaindex'",
+      "smolagents>=1.2.2; extra == 'smolagents'",
+      "crewai>=0.108.0; extra == 'test'",
+      "google-genai>=1.2.0; extra == 'test'",
+      "langchain-anthropic>=0.3.1; extra == 'test'",
+      "langchain>=0.3.14; extra == 'test'",
+      "langgraph>=0.2.62; extra == 'test'",
+      "pytest-asyncio>=0.25.2; extra == 'test'",
+      "pytest-datadir>=1.7.2; extra == 'test'",
+      "pytest>=8.3.4; extra == 'test'",
+      "smolagents>=1.2.2; extra == 'test'",
+      "soundfile>=0.13.1; extra == 'test'",
+      "torchaudio>=2.7.1; extra == 'test'"
+    ]
+  },
+  "mcpadapt-0.1.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "75a6efd66d31a9a5d9348a7fd9ee21cd818662f480d917a51449fb581fd926ab",
+    "dependencies": {
+      "required": [
+        "jsonref",
+        "mcp",
+        "pydantic",
+        "python-dotenv"
+      ]
+    },
+    "original_requirements": [
+      "jsonref>=1.1.0",
+      "mcp>=1.10.1",
+      "pydantic>=2.10.6",
+      "python-dotenv>=1.0.1",
+      "soundfile>=0.13.1; extra == 'audio'",
+      "torchaudio>=2.7.1; extra == 'audio'",
+      "crewai>=0.108.0; extra == 'crewai'",
+      "google-genai>=1.2.0; extra == 'google-genai'",
+      "langchain-anthropic>=0.3.1; extra == 'langchain'",
+      "langchain>=0.3.14; extra == 'langchain'",
+      "langgraph>=0.2.62; extra == 'langchain'",
+      "llama-index>=0.12.14; extra == 'llamaindex'",
+      "smolagents>=1.2.2; extra == 'smolagents'",
+      "crewai>=0.108.0; extra == 'test'",
+      "google-genai>=1.2.0; extra == 'test'",
+      "langchain-anthropic>=0.3.1; extra == 'test'",
+      "langchain>=0.3.14; extra == 'test'",
+      "langgraph>=0.2.62; extra == 'test'",
+      "pytest-asyncio>=0.25.2; extra == 'test'",
+      "pytest-datadir>=1.7.2; extra == 'test'",
+      "pytest>=8.3.4; extra == 'test'",
+      "smolagents>=1.2.2; extra == 'test'",
+      "soundfile>=0.13.1; extra == 'test'",
+      "torchaudio>=2.7.1; extra == 'test'"
+    ]
+  }
+}

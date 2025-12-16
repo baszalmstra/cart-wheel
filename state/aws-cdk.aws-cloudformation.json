@@ -1,0 +1,152 @@
+{
+  "aws_cdk.aws_cloudformation-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c52f910070fc2dde7ac7cf2b7e78a45f2091609202f01aa13b40c3daa22cbe08",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-lambda (==1.204.0)",
+      "aws-cdk.aws-s3 (==1.204.0)",
+      "aws-cdk.aws-sns (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "aws-cdk.cx-api (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_cloudformation-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10c050d75d19398d7ccbaa2a501a2c8c219fe40268e4439b1811f9e26b49db2c",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-lambda (==1.203.0)",
+      "aws-cdk.aws-s3 (==1.203.0)",
+      "aws-cdk.aws-sns (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "aws-cdk.cx-api (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_cloudformation-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "871633c5e7776fd45d80dea05e88810dfc3c3bdaefcc9b24473cf0e0967cc372",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-lambda (==1.202.0)",
+      "aws-cdk.aws-s3 (==1.202.0)",
+      "aws-cdk.aws-sns (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "aws-cdk.cx-api (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_cloudformation-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cdd5ffc75ab10a68c23fa5c099018cd9623e09b9400d5b5e4d91c1988292fd2b",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-lambda (==1.201.0)",
+      "aws-cdk.aws-s3 (==1.201.0)",
+      "aws-cdk.aws-sns (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "aws-cdk.cx-api (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_cloudformation-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c03c6161b651a5ecd6d05965cfb80eee92cecbe69ffcd08b6c40bd0fc9f247a3",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-lambda (==1.200.0)",
+      "aws-cdk.aws-s3 (==1.200.0)",
+      "aws-cdk.aws-sns (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "aws-cdk.cx-api (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

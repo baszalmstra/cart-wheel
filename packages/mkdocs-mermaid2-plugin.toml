@@ -1,0 +1,11 @@
+# Package configuration for mkdocs-mermaid2-plugin
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_mermaid2_plugin-1.2.3-py3-none-any.whl" },
+  { filename = "mkdocs_mermaid2_plugin-1.2.2-py3-none-any.whl" },
+  { filename = "mkdocs_mermaid2_plugin-1.2.1-py3-none-any.whl" },
+  { filename = "mkdocs_mermaid2_plugin-1.1.1-py3-none-any.whl" },
+  { filename = "mkdocs_mermaid2_plugin-1.1.0-py3-none-any.whl" },
+]

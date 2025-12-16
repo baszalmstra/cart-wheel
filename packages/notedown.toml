@@ -1,0 +1,9 @@
+# Package configuration for notedown
+conda_forge = "notedown"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "notedown-1.5.1-py3-none-any.whl" },
+  { filename = "notedown-1.5.0-py3-none-any.whl" },
+]

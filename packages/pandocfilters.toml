@@ -1,0 +1,9 @@
+# Package configuration for pandocfilters
+conda_forge = "pandocfilters"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pandocfilters-1.5.1-py2.py3-none-any.whl" },
+  { filename = "pandocfilters-1.5.0-py2.py3-none-any.whl" },
+]

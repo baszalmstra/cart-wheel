@@ -1,0 +1,11 @@
+# Package configuration for sphinx-ioam-theme
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_ioam_theme-0.1.1-py2.py3-none-any.whl" },
+  { filename = "sphinx_ioam_theme-0.0.9-py2.py3-none-any.whl" },
+  { filename = "sphinx_ioam_theme-0.0.8-py2.py3-none-any.whl" },
+  { filename = "sphinx_ioam_theme-0.0.7-py2.py3-none-any.whl" },
+  { filename = "sphinx_ioam_theme-0.0.6-py2.py3-none-any.whl" },
+]

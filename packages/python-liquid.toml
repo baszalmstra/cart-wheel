@@ -1,0 +1,12 @@
+# Package configuration for python-liquid
+conda_forge = "python-liquid"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_liquid-2.1.0-py3-none-any.whl" },
+  { filename = "python_liquid-2.0.2-py3-none-any.whl" },
+  { filename = "python_liquid-2.0.1-py3-none-any.whl" },
+  { filename = "python_liquid-2.0.0-py3-none-any.whl" },
+  { filename = "python_liquid-1.13.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for parameterized
+conda_forge = "parameterized"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "parameterized-0.9.0-py2.py3-none-any.whl" },
+  { filename = "parameterized-0.8.1-py2.py3-none-any.whl" },
+  { filename = "parameterized-0.7.5-py2.py3-none-any.whl" },
+  { filename = "parameterized-0.7.4-py2.py3-none-any.whl" },
+  { filename = "parameterized-0.7.3-py2.py3-none-any.whl" },
+]

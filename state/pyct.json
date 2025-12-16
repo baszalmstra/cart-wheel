@@ -1,0 +1,95 @@
+{
+  "pyct-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cfaded7289fca72ddf6579b81459e3ec8db323a508e61c49aa318ee3cd6ff160",
+    "dependencies": {
+      "required": [
+        "param"
+      ]
+    },
+    "original_requirements": [
+      "param>=1.7.0",
+      "pyyaml; extra == 'cmd'",
+      "requests; extra == 'cmd'",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "pyct-0.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a4038a8885059ab8cac6f946ea30e0b5e6bdbe0b92b6723f06737035f9d65e8c",
+    "dependencies": {
+      "required": [
+        "param"
+      ]
+    },
+    "original_requirements": [
+      "param (>=1.7.0)",
+      "setuptools ; extra == 'build'",
+      "param (>=1.7.0) ; extra == 'build'",
+      "pyyaml ; extra == 'cmd'",
+      "requests ; extra == 'cmd'",
+      "nbsite ; extra == 'doc'",
+      "sphinx-ioam-theme ; extra == 'doc'",
+      "flake8 ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "pyct-0.4.8-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "222e104d561b28cfdb56667d2ba10e5290b4466db66d0af38ab935577af85390",
+    "dependencies": {
+      "required": [
+        "param"
+      ]
+    },
+    "original_requirements": [
+      "param (>=1.7.0)",
+      "setuptools ; extra == 'build'",
+      "param (>=1.7.0) ; extra == 'build'",
+      "pyyaml ; extra == 'cmd'",
+      "requests ; extra == 'cmd'",
+      "nbsite ; extra == 'doc'",
+      "sphinx-ioam-theme ; extra == 'doc'",
+      "flake8 ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "pyct-0.4.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cbccd93c8f9b3d179e6b8b137e8c376dbb6026d5f3ae48aef324477ca7fabccb",
+    "dependencies": {
+      "required": [
+        "param"
+      ]
+    },
+    "original_requirements": [
+      "param (>=1.7.0)",
+      "setuptools ; extra == 'build'",
+      "param (>=1.7.0) ; extra == 'build'",
+      "pyyaml ; extra == 'cmd'",
+      "requests ; extra == 'cmd'",
+      "nbsite ; extra == 'doc'",
+      "sphinx-ioam-theme ; extra == 'doc'",
+      "flake8 ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "pyct-0.4.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "359eab8c91e63c705f838ccdd56548258f013de0bd3481c99775552ee2ab9de6",
+    "dependencies": {
+      "required": [
+        "param"
+      ]
+    },
+    "original_requirements": [
+      "param (>=1.7.0)",
+      "pyyaml; extra == 'cmd'",
+      "requests; extra == 'cmd'",
+      "nbsite; extra == 'doc'",
+      "sphinx-ioam-theme; extra == 'doc'",
+      "flake8; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  }
+}

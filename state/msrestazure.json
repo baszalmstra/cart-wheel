@@ -1,0 +1,76 @@
+{
+  "msrestazure-0.6.4.post1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2264493b086c2a0a82ddf5fd87b35b3fffc443819127fed992ac5028354c151e",
+    "dependencies": {
+      "required": [
+        "adal",
+        "msrest",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "adal (<2.0.0,>=0.6.0)",
+      "msrest (<2.0.0,>=0.6.0)",
+      "six"
+    ]
+  },
+  "msrestazure-0.6.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3de50f56147ef529b31e099a982496690468ecef33f0544cb0fa0cfe1e1de5b9",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "adal",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "msrest (<2.0.0,>=0.6.0)",
+      "adal (<2.0.0,>=0.6.0)",
+      "six"
+    ]
+  },
+  "msrestazure-0.6.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ae7f903ff81631512beef39602c4104a8fe04cb7d166f28a1ec43c0f0985749",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "adal"
+      ]
+    },
+    "original_requirements": [
+      "msrest (<2.0.0,>=0.6.0)",
+      "adal (<2.0.0,>=0.6.0)"
+    ]
+  },
+  "msrestazure-0.6.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63db9f646fffc9244b332090e679d1e5f283ac491ee0cc321f5116f9450deb4a",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "adal"
+      ]
+    },
+    "original_requirements": [
+      "msrest (<2.0.0,>=0.6.0)",
+      "adal (<2.0.0,>=0.6.0)"
+    ]
+  },
+  "msrestazure-0.6.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e9d525b11d88f1073744e128ae19a4e023e4085893cfcfd02483fdd4cee25091",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "adal"
+      ]
+    },
+    "original_requirements": [
+      "msrest (<2.0.0,>=0.6.0)",
+      "adal (<2.0.0,>=0.6.0)"
+    ]
+  }
+}

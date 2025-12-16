@@ -1,0 +1,12 @@
+# Package configuration for ntlm-auth
+conda_forge = "ntlm-auth"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ntlm_auth-1.5.0-py2.py3-none-any.whl" },
+  { filename = "ntlm_auth-1.4.0-py2.py3-none-any.whl" },
+  { filename = "ntlm_auth-1.3.0-py2.py3-none-any.whl" },
+  { filename = "ntlm_auth-1.2.0-py2.py3-none-any.whl" },
+  { filename = "ntlm_auth-1.1.0-py2.py3-none-any.whl" },
+]

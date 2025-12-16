@@ -1,0 +1,12 @@
+# Package configuration for betamax
+conda_forge = "betamax"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "betamax-0.9.0-py2.py3-none-any.whl" },
+  { filename = "betamax-0.8.1-py2.py3-none-any.whl" },
+  { filename = "betamax-0.8.0-py2.py3-none-any.whl" },
+  { filename = "betamax-0.7.2-py2.py3-none-any.whl" },
+  { filename = "betamax-0.7.1-py2.py3-none-any.whl" },
+]

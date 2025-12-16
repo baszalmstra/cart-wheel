@@ -1,0 +1,78 @@
+{
+  "docspec-2.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "854d25401e7ec2d155b0c1e001e25819d16b6df3a7575212a7f340ae8b00122e",
+    "dependencies": {
+      "required": [
+        "databind-core",
+        "databind-json",
+        "deprecated"
+      ]
+    },
+    "original_requirements": [
+      "databind-core>=4.2.6",
+      "databind-json>=4.2.6",
+      "deprecated>=1.2.12"
+    ]
+  },
+  "docspec-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7538f750095a9688c6980ff9a4e029a823a500f64bd00b6b4bdb27951feb31cb",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "databind.core",
+        "databind.json"
+      ]
+    },
+    "original_requirements": [
+      "Deprecated (>=1.2.12,<2.0.0)",
+      "databind.core (>=4.2.6,<5.0.0)",
+      "databind.json (>=4.2.6,<5.0.0)"
+    ]
+  },
+  "docspec-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "99f5be569ba99618c3b251605bcc22455a6552577f691f62dd497bb95167a82f",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "databind-core",
+        "databind-json"
+      ]
+    },
+    "original_requirements": [
+      "Deprecated (>=1.2.12,<2.0.0)",
+      "databind-core (>=4.2.6,<5.0.0)",
+      "databind-json (>=4.2.6,<5.0.0)"
+    ]
+  },
+  "docspec-2.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19168242b1e6ca39553feba91b6284479e2bfdf6500949ce63e10c49354d00d7",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "databind"
+      ]
+    },
+    "original_requirements": [
+      "Deprecated (>=1.2.12,<2.0.0)",
+      "databind (>=1.5.0,<2.0.0)"
+    ]
+  },
+  "docspec-2.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a10f39c9f968079b683deae24c48a99ecfa8eff92dd9c81f32420b62d226119f",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "databind"
+      ]
+    },
+    "original_requirements": [
+      "Deprecated (>=1.2.12,<2.0.0)",
+      "databind (>=1.5.0,<2.0.0)"
+    ]
+  }
+}

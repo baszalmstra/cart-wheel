@@ -1,0 +1,11 @@
+# Package configuration for text-unidecode
+conda_forge = "text-unidecode"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "text_unidecode-1.3-py2.py3-none-any.whl" },
+  { filename = "text_unidecode-1.2-py2.py3-none-any.whl" },
+  { filename = "text_unidecode-1.1-py2.py3-none-any.whl" },
+  { filename = "text_unidecode-1.0-py2.py3-none-any.whl" },
+]

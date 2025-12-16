@@ -1,0 +1,10 @@
+# Package configuration for pytest-virtualenv
+conda_forge = "pytest-virtualenv"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_virtualenv-1.8.1-py3-none-any.whl" },
+  { filename = "pytest_virtualenv-1.8.0-py3-none-any.whl" },
+  { filename = "pytest_virtualenv-1.7.0-py2.py3-none-any.whl" },
+]

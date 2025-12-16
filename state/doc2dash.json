@@ -1,0 +1,145 @@
+{
+  "doc2dash-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79384307304c226139365134e3df8838e1774b07065ecda386a307637cdbc03d",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "beautifulsoup4",
+        "click",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=23.2",
+      "beautifulsoup4",
+      "click>8",
+      "rich",
+      "doc2dash[tests,typing]; extra == 'dev'",
+      "nox; extra == 'dev'",
+      "mkdocs; extra == 'docs'",
+      "mkdocs-callouts; extra == 'docs'",
+      "mkdocs-click; extra == 'docs'",
+      "mkdocs-include-markdown-plugin; extra == 'docs'",
+      "mkdocs-material; extra == 'docs'",
+      "mkdocstrings[python]; extra == 'docs'",
+      "coverage[toml]; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "mypy; extra == 'typing'",
+      "types-urllib3; extra == 'typing'"
+    ]
+  },
+  "doc2dash-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "afa169fd44f2b7231a15c90e2f124b552da4f94353d4c1f7b13f84a0e2a9be58",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "beautifulsoup4",
+        "click",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3",
+      "beautifulsoup4",
+      "click",
+      "rich",
+      "doc2dash[tests,typing]; extra == 'dev'",
+      "mkdocs; extra == 'docs'",
+      "mkdocs-click; extra == 'docs'",
+      "mkdocs-include-markdown-plugin; extra == 'docs'",
+      "mkdocs-material; extra == 'docs'",
+      "mkdocstrings[python]; extra == 'docs'",
+      "coverage[toml]; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "mypy; extra == 'typing'",
+      "types-urllib3; extra == 'typing'"
+    ]
+  },
+  "doc2dash-2.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b5f0de85882685a99f7ce03d85ddec2bb91c3c04c86519b90df8d0ea19aac32",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "attrs",
+        "beautifulsoup4",
+        "click",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx",
+      "attrs",
+      "beautifulsoup4",
+      "click",
+      "colorama ; platform_system == \"Windows\"",
+      "coverage[toml] ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "furo ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "furo ; extra == 'docs'",
+      "coverage[toml] ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "doc2dash-2.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ebc1431a66dc7c381a030ceea79327a25612a7f75650254bdbb64c00a97acd0",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "attrs",
+        "beautifulsoup4",
+        "click",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx",
+      "attrs",
+      "beautifulsoup4",
+      "click",
+      "colorama ; platform_system == \"Windows\"",
+      "coverage[toml] ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "furo ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "furo ; extra == 'docs'",
+      "coverage[toml] ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "doc2dash-2.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1cffcb96f6daa6e408d6a79477404080ff29fa72dbd4d6c805ff8297f583721a",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "attrs",
+        "beautifulsoup4",
+        "click",
+        "colorama",
+        "six",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx",
+      "attrs",
+      "beautifulsoup4",
+      "click",
+      "colorama",
+      "six",
+      "zope.interface",
+      "coverage ; extra == 'dev'",
+      "mock ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "coverage ; extra == 'tests'",
+      "mock ; extra == 'tests'",
+      "pytest ; extra == 'tests'"
+    ]
+  }
+}

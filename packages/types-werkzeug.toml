@@ -1,0 +1,12 @@
+# Package configuration for types-werkzeug
+conda_forge = "types-werkzeug"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_Werkzeug-1.0.9-py3-none-any.whl" },
+  { filename = "types_Werkzeug-1.0.8-py3-none-any.whl" },
+  { filename = "types_Werkzeug-1.0.7-py3-none-any.whl" },
+  { filename = "types_Werkzeug-1.0.6-py3-none-any.whl" },
+  { filename = "types_Werkzeug-1.0.5-py3-none-any.whl" },
+]

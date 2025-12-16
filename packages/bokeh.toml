@@ -1,0 +1,12 @@
+# Package configuration for bokeh
+conda_forge = "bokeh"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bokeh-3.8.1-py3-none-any.whl" },
+  { filename = "bokeh-3.8.0-py3-none-any.whl" },
+  { filename = "bokeh-3.7.3-py3-none-any.whl" },
+  { filename = "bokeh-3.7.2-py3-none-any.whl" },
+  { filename = "bokeh-3.7.1-py3-none-any.whl" },
+]

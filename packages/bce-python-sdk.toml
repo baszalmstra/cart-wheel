@@ -1,0 +1,11 @@
+# Package configuration for bce-python-sdk
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bce_python_sdk-0.9.55-py3-none-any.whl" },
+  { filename = "bce_python_sdk-0.9.54-py3-none-any.whl" },
+  { filename = "bce_python_sdk-0.9.53-py3-none-any.whl" },
+  { filename = "bce_python_sdk-0.9.52-py3-none-any.whl" },
+  { filename = "bce_python_sdk-0.9.50-py3-none-any.whl" },
+]

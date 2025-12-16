@@ -1,0 +1,12 @@
+# Package configuration for readme-renderer
+conda_forge = "readme_renderer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "readme_renderer-44.0-py3-none-any.whl" },
+  { filename = "readme_renderer-43.0-py3-none-any.whl" },
+  { filename = "readme_renderer-42.0-py3-none-any.whl" },
+  { filename = "readme_renderer-41.0-py3-none-any.whl" },
+  { filename = "readme_renderer-40.0-py3-none-any.whl" },
+]

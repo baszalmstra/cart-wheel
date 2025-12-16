@@ -1,0 +1,128 @@
+{
+  "stumpy-1.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c61b04402a328266009a9c0f63f739a28c708bf974d8c64efdf571e688a5c67a",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "numba"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.21",
+      "scipy >=1.10",
+      "numba >=0.57.1",
+      "pandas >=0.20.0 ; extra == 'ci'",
+      "dask >=1.2.2 ; extra == 'ci'",
+      "distributed >=1.28.1 ; extra == 'ci'",
+      "coverage >=4.5.3 ; extra == 'ci'",
+      "flake8 >=3.7.7 ; extra == 'ci'",
+      "flake8-docstrings >=1.5.0 ; extra == 'ci'",
+      "black >=22.1.0 ; extra == 'ci'",
+      "pytest >=4.4.1 ; extra == 'ci'",
+      "isort >=5.11.0 ; extra == 'ci'",
+      "tbb >=2019.5 ; (platform_system == \"Linux\") and extra == 'ci'"
+    ]
+  },
+  "stumpy-1.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b404e47d5d12f39a0036d67edfa3190893d17d8988ab3be44915b7f6581eae69",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "numba"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.18",
+      "scipy >=1.5",
+      "numba >=0.55.2",
+      "pandas >=0.20.0 ; extra == 'ci'",
+      "dask >=1.2.2 ; extra == 'ci'",
+      "distributed >=1.28.1 ; extra == 'ci'",
+      "coverage >=4.5.3 ; extra == 'ci'",
+      "flake8 >=3.7.7 ; extra == 'ci'",
+      "flake8-docstrings >=1.5.0 ; extra == 'ci'",
+      "black >=22.1.0 ; extra == 'ci'",
+      "pytest >=4.4.1 ; extra == 'ci'",
+      "isort >=5.11.0 ; extra == 'ci'"
+    ]
+  },
+  "stumpy-1.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0342d70b374b4ca7efc17f15644d6cd7ca7c682a6b2e6c401afafc1c39bfa6de",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "numba"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.17)",
+      "scipy (>=1.5)",
+      "numba (>=0.54)",
+      "pandas (>=0.20.0) ; extra == 'ci'",
+      "dask (>=1.2.2) ; extra == 'ci'",
+      "distributed (>=1.28.1) ; extra == 'ci'",
+      "coverage (>=4.5.3) ; extra == 'ci'",
+      "flake8 (>=3.7.7) ; extra == 'ci'",
+      "flake8-docstrings (>=1.5.0) ; extra == 'ci'",
+      "black (>=19.3b0) ; extra == 'ci'",
+      "pytest (>=4.4.1) ; extra == 'ci'",
+      "codecov ; extra == 'ci'"
+    ]
+  },
+  "stumpy-1.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9b53435d4684ab9367db3af820099aa6cbfe614546d919d17fa0f4fffa6beba",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "numba"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.17)",
+      "scipy (>=1.5)",
+      "numba (>=0.54)",
+      "pandas (>=0.20.0) ; extra == 'ci'",
+      "dask (>=1.2.2) ; extra == 'ci'",
+      "distributed (>=1.28.1) ; extra == 'ci'",
+      "coverage (>=4.5.3) ; extra == 'ci'",
+      "flake8 (>=3.7.7) ; extra == 'ci'",
+      "flake8-docstrings (>=1.5.0) ; extra == 'ci'",
+      "black (>=19.3b0) ; extra == 'ci'",
+      "pytest (>=4.4.1) ; extra == 'ci'",
+      "codecov ; extra == 'ci'"
+    ]
+  },
+  "stumpy-1.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94c6fd77892da13b678c4f46e59bd0d2100a624dfc8abfd38b6732a7dc220de9",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "numba"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.15)",
+      "scipy (>=1.5)",
+      "numba (>=0.48)",
+      "pandas (>=0.20.0) ; extra == 'ci'",
+      "dask (>=1.2.2) ; extra == 'ci'",
+      "distributed (>=1.28.1) ; extra == 'ci'",
+      "coverage (>=4.5.3) ; extra == 'ci'",
+      "flake8 (>=3.7.7) ; extra == 'ci'",
+      "flake8-docstrings (>=1.5.0) ; extra == 'ci'",
+      "black (>=19.3b0) ; extra == 'ci'",
+      "pytest (>=4.4.1) ; extra == 'ci'",
+      "codecov ; extra == 'ci'"
+    ]
+  }
+}

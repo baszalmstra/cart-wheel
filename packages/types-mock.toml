@@ -1,0 +1,12 @@
+# Package configuration for types-mock
+conda_forge = "types-mock"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_mock-5.2.0.20250924-py3-none-any.whl" },
+  { filename = "types_mock-5.2.0.20250809-py3-none-any.whl" },
+  { filename = "types_mock-5.2.0.20250516-py3-none-any.whl" },
+  { filename = "types_mock-5.2.0.20250306-py3-none-any.whl" },
+  { filename = "types_mock-5.1.0.20240425-py3-none-any.whl" },
+]

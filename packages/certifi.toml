@@ -1,0 +1,12 @@
+# Package configuration for certifi
+conda_forge = "certifi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "certifi-2025.11.12-py3-none-any.whl" },
+  { filename = "certifi-2025.10.5-py3-none-any.whl" },
+  { filename = "certifi-2025.8.3-py3-none-any.whl" },
+  { filename = "certifi-2025.7.14-py3-none-any.whl" },
+  { filename = "certifi-2025.7.9-py3-none-any.whl" },
+]

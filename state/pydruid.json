@@ -1,0 +1,16 @@
+{
+  "pydruid-0.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "789771b3c74a66c622f6eb9f9d30d7d1f95e1189bc98b2a2308ffc0337bb0554",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9.0)",
+      "tornado; extra == 'async'",
+      "pandas; extra == 'pandas'"
+    ]
+  }
+}

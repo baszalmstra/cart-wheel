@@ -1,0 +1,54 @@
+{
+  "uncompyle6-3.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c2b059147afb97498b6cc42eb14bd09dea23f513aee957f461d0ab84a02d3c36",
+    "dependencies": {
+      "required": [
+        "click",
+        "spark-parser",
+        "xdis"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "spark-parser<1.9.2,>=1.8.9",
+      "xdis<6.3,>=6.1.0",
+      "pre-commit; extra == \"dev\"",
+      "pytest; extra == \"dev\""
+    ]
+  },
+  "uncompyle6-3.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf699888b7198b896fbd33208cc3dbc81cdc59018fede7b90694d6a3cd30fd59",
+    "dependencies": {
+      "required": [
+        "click",
+        "spark-parser",
+        "xdis"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "spark-parser <1.9.0,>=1.8.9",
+      "xdis <6.2.0,>=6.1.0",
+      "pre-commit ; extra == 'dev'",
+      "pytest ; extra == 'dev'"
+    ]
+  },
+  "uncompyle6-3.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1528eb7c2b2d656084ccd7d3fe2487ca4124ae4b5a659a235da57bc46f552beb",
+    "dependencies": {
+      "required": [
+        "click",
+        "spark-parser",
+        "xdis"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "spark-parser <1.9.0,>=1.8.9",
+      "xdis <6.2.0,>=6.0.8"
+    ]
+  }
+}

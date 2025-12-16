@@ -1,0 +1,11 @@
+# Package configuration for mypy-zope
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_zope-1.0.14-py3-none-any.whl" },
+  { filename = "mypy_zope-1.0.13-py3-none-any.whl" },
+  { filename = "mypy_zope-1.0.12-py3-none-any.whl" },
+  { filename = "mypy_zope-1.0.11-py3-none-any.whl" },
+  { filename = "mypy_zope-1.0.10-py3-none-any.whl" },
+]

@@ -1,0 +1,81 @@
+{
+  "python_frontmatter-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "335465556358d9d0e6c98bbeb69b1c969f2a4a21360587b9873bfc3b213407c1",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "sphinx ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "toml ; extra == 'test'",
+      "pyaml ; extra == 'test'",
+      "mypy ; extra == 'test'",
+      "types-PyYAML ; extra == 'test'",
+      "types-toml ; extra == 'test'"
+    ]
+  },
+  "python_frontmatter-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0599198cc01b445e5d0be74ff35be0a6c7442dddbdb0803e018be4e055397f6a",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "sphinx ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "toml ; extra == 'test'",
+      "pyaml ; extra == 'test'"
+    ]
+  },
+  "python_frontmatter-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "766ae75f1b301ffc5fe3494339147e0fd80bc3deff3d7590a93991978b579b08",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "sphinx ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "toml ; extra == 'test'",
+      "pyaml ; extra == 'test'"
+    ]
+  },
+  "python_frontmatter-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7dcdfdaf498d488dce98bfa9452f8b70f803a923760ceab1ebd99291d98d28a",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "six"
+    ]
+  },
+  "python_frontmatter-0.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13a61749910f2e1968c011103406429abc79c41d52b69adfb07f702ae2df32cc",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "six"
+    ]
+  }
+}

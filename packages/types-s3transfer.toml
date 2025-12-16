@@ -1,0 +1,12 @@
+# Package configuration for types-s3transfer
+conda_forge = "boto3-stubs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_s3transfer-0.16.0-py3-none-any.whl" },
+  { filename = "types_s3transfer-0.15.0-py3-none-any.whl" },
+  { filename = "types_s3transfer-0.14.0-py3-none-any.whl" },
+  { filename = "types_s3transfer-0.13.1-py3-none-any.whl" },
+  { filename = "types_s3transfer-0.13.0-py3-none-any.whl" },
+]

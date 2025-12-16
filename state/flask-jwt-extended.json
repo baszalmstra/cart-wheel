@@ -1,0 +1,93 @@
+{
+  "Flask_JWT_Extended-4.7.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52f35bf0985354d7fb7b876e2eb0e0b141aaff865a22ff6cc33d9a18aa987978",
+    "dependencies": {
+      "required": [
+        "werkzeug",
+        "flask",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "Werkzeug>=0.14",
+      "Flask<4.0,>=2.0",
+      "PyJWT<3.0,>=2.0",
+      "cryptography>=3.3.1; extra == \"asymmetric-crypto\""
+    ]
+  },
+  "Flask_JWT_Extended-4.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d8939ca006c92209fad82e591471db897f33b6a85561f8e792c5aa6816ef39c",
+    "dependencies": {
+      "required": [
+        "werkzeug",
+        "flask",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "Werkzeug>=0.14",
+      "Flask<4.0,>=2.0",
+      "PyJWT<3.0,>=2.0",
+      "cryptography>=3.3.1; extra == \"asymmetric-crypto\""
+    ]
+  },
+  "Flask_JWT_Extended-4.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63a28fc9731bcc6c4b8815b6f954b5904caa534fc2ae9b93b1d3ef12930dca95",
+    "dependencies": {
+      "required": [
+        "werkzeug",
+        "flask",
+        "pyjwt",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "Werkzeug >=0.14",
+      "Flask <4.0,>=2.0",
+      "PyJWT <3.0,>=2.0",
+      "typing-extensions >=3.7.4 ; python_version < \"3.8\"",
+      "cryptography >=3.3.1 ; extra == 'asymmetric_crypto'"
+    ]
+  },
+  "Flask_JWT_Extended-4.5.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eaec42af107dcb919785a4b3766c09ffba9f286b92a8d58603933f28fd4db6a3",
+    "dependencies": {
+      "required": [
+        "werkzeug",
+        "flask",
+        "pyjwt",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "Werkzeug >=0.14",
+      "Flask <4.0,>=2.0",
+      "PyJWT <3.0,>=2.0",
+      "typing-extensions >=3.7.4 ; python_version < \"3.8\"",
+      "cryptography >=3.3.1 ; extra == 'asymmetric_crypto'"
+    ]
+  },
+  "Flask_JWT_Extended-4.5.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0ef23d8c863746bd141046167073699e1a7b03c97169cbba70f05b8d9cd6b9e",
+    "dependencies": {
+      "required": [
+        "werkzeug",
+        "flask",
+        "pyjwt",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "Werkzeug (>=0.14)",
+      "Flask (<3.0,>=2.0)",
+      "PyJWT (<3.0,>=2.0)",
+      "typing-extensions (>=3.7.4) ; python_version < \"3.8\"",
+      "cryptography (>=3.3.1) ; extra == 'asymmetric_crypto'"
+    ]
+  }
+}

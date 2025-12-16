@@ -1,0 +1,78 @@
+{
+  "apache_airflow_providers_common_compat-1.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a22c63441e597aa473ffd0dc7302171feab41981b0e09806f07f6d77301befc",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "asgiref>=2.3.0",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "apache-airflow-providers-standard ; extra == \"standard\""
+    ]
+  },
+  "apache_airflow_providers_common_compat-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7161e6d779b9dcc68b213e0eceac8c069f435233efb7a0e9d9bfaee3d933d080",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "asgiref>=2.3.0",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "apache-airflow-providers-standard ; extra == \"standard\""
+    ]
+  },
+  "apache_airflow_providers_common_compat-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6fc5463e804a742f0e21441e9c2c2441d280af7b8e68094759f7f65b398319b3",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "asgiref>=2.3.0",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "apache-airflow-providers-standard ; extra == \"standard\""
+    ]
+  },
+  "apache_airflow_providers_common_compat-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eaeea70747b346dcd6aaf895ef81e58c71778fec69109071822c629bcdb45fc8",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "apache-airflow-providers-standard ; extra == \"standard\""
+    ]
+  },
+  "apache_airflow_providers_common_compat-1.7.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "54b7be46724c5f0fdc6f96f9f177c1a7c80336394ba33ef9e2c946e7d708574c",
+    "dependencies": {
+      "required": [
+        "apache-airflow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "apache-airflow-providers-standard ; extra == \"standard\""
+    ]
+  }
+}

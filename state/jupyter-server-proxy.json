@@ -1,0 +1,186 @@
+{
+  "jupyter_server_proxy-4.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "707b5c84810bb8863d50f6c6d50a386fec216149e11802b7d4c451b54a63a9a6",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "importlib-metadata",
+        "jupyter-server",
+        "simpervisor",
+        "tornado",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "importlib-metadata>=4.8.3; python_version < '3.10'",
+      "jupyter-server>=1.24.0",
+      "simpervisor>=1.0.0",
+      "tornado>=6.1.0",
+      "traitlets>=5.1.0",
+      "pytest; extra == 'acceptance'",
+      "pytest-asyncio; extra == 'acceptance'",
+      "pytest-cov; extra == 'acceptance'",
+      "pytest-html; extra == 'acceptance'",
+      "robotframework-jupyterlibrary>=0.4.2; extra == 'acceptance'",
+      "jupyter-server<2; extra == 'classic'",
+      "jupyterlab<4.0.0a0,>=3.0.0; extra == 'classic'",
+      "notebook<7.0.0a0; extra == 'classic'",
+      "jupyter-server>=2; extra == 'lab'",
+      "jupyterlab<5.0.0a0,>=4.0.5; extra == 'lab'",
+      "nbclassic; extra == 'lab'",
+      "notebook>=7; extra == 'lab'",
+      "pytest; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-html; extra == 'test'"
+    ]
+  },
+  "jupyter_server_proxy-4.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e664cf46ff8acd4c66b947ef33eb6e8a1a7bc3896ba47517ab8f24da5d198d7",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "importlib-metadata",
+        "jupyter-server",
+        "simpervisor",
+        "tornado",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "importlib-metadata>=4.8.3; python_version < '3.10'",
+      "jupyter-server>=1.24.0",
+      "simpervisor>=1.0.0",
+      "tornado>=6.1.0",
+      "traitlets>=5.1.0",
+      "pytest; extra == 'acceptance'",
+      "pytest-asyncio; extra == 'acceptance'",
+      "pytest-cov; extra == 'acceptance'",
+      "pytest-html; extra == 'acceptance'",
+      "robotframework-jupyterlibrary>=0.4.2; extra == 'acceptance'",
+      "jupyter-server<2; extra == 'classic'",
+      "jupyterlab<4.0.0a0,>=3.0.0; extra == 'classic'",
+      "notebook<7.0.0a0; extra == 'classic'",
+      "jupyter-server>=2; extra == 'lab'",
+      "jupyterlab<5.0.0a0,>=4.0.5; extra == 'lab'",
+      "nbclassic; extra == 'lab'",
+      "notebook>=7; extra == 'lab'",
+      "pytest; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-html; extra == 'test'"
+    ]
+  },
+  "jupyter_server_proxy-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "747567cc08ae22ca7decf9178f9893ab0f008de9b98726574f5dd11343a08c23",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "importlib-metadata",
+        "jupyter-server",
+        "simpervisor",
+        "tornado",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "importlib-metadata>=4.8.3; python_version < '3.10'",
+      "jupyter-server>=1.24.0",
+      "simpervisor>=1.0.0",
+      "tornado>=6.1.0",
+      "traitlets>=5.1.0",
+      "pytest; extra == 'acceptance'",
+      "pytest-asyncio; extra == 'acceptance'",
+      "pytest-cov; extra == 'acceptance'",
+      "pytest-html; extra == 'acceptance'",
+      "robotframework-jupyterlibrary>=0.4.2; extra == 'acceptance'",
+      "jupyter-server<2; extra == 'classic'",
+      "jupyterlab<4.0.0a0,>=3.0.0; extra == 'classic'",
+      "notebook<7.0.0a0; extra == 'classic'",
+      "jupyter-server>=2; extra == 'lab'",
+      "jupyterlab<5.0.0a0,>=4.0.5; extra == 'lab'",
+      "nbclassic; extra == 'lab'",
+      "notebook>=7; extra == 'lab'",
+      "pytest; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-html; extra == 'test'"
+    ]
+  },
+  "jupyter_server_proxy-4.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f97bd0c6bbba4931d8ae22bef872703c9785fc1258c4bc196955e2bd034f3eaa",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "importlib-metadata",
+        "jupyter-server",
+        "simpervisor",
+        "tornado",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "importlib-metadata>=4.8.3; python_version < '3.10'",
+      "jupyter-server>=1.0",
+      "simpervisor>=1.0",
+      "tornado>=5.1",
+      "traitlets>=4.2.1",
+      "jupyter-server-proxy[test]; extra == 'acceptance'",
+      "robotframework-jupyterlibrary>=0.4.2; extra == 'acceptance'",
+      "jupyter-server<2; extra == 'classic'",
+      "jupyterlab<4.0.0a0,>=3.0.0; extra == 'classic'",
+      "notebook<7.0.0a0; extra == 'classic'",
+      "jupyter-server>=2; extra == 'lab'",
+      "jupyterlab<5.0.0a0,>=4.0.5; extra == 'lab'",
+      "nbclassic; extra == 'lab'",
+      "notebook>=7; extra == 'lab'",
+      "pytest; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-html; extra == 'test'"
+    ]
+  },
+  "jupyter_server_proxy-4.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "effe041a6771c179045ee3ceaa08993f50feaaeca7ce11e04d8178a215673b7a",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "importlib-metadata",
+        "jupyter-server",
+        "simpervisor",
+        "tornado",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "importlib-metadata>=4.8.3; python_version < '3.10'",
+      "jupyter-server>=1.0",
+      "simpervisor>=1.0",
+      "tornado>=5.1",
+      "traitlets>=4.2.1",
+      "jupyter-server-proxy[test]; extra == 'acceptance'",
+      "robotframework-jupyterlibrary>=0.4.2; extra == 'acceptance'",
+      "jupyter-server<2; extra == 'classic'",
+      "jupyterlab<4.0.0a0,>=3.0.0; extra == 'classic'",
+      "notebook<7.0.0a0; extra == 'classic'",
+      "jupyter-server>=2; extra == 'lab'",
+      "jupyterlab<5.0.0a0,>=4.0.5; extra == 'lab'",
+      "nbclassic; extra == 'lab'",
+      "notebook>=7; extra == 'lab'",
+      "pytest; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-html; extra == 'test'"
+    ]
+  }
+}

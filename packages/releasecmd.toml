@@ -1,0 +1,12 @@
+# Package configuration for releasecmd
+conda_forge = "releasecmd"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "releasecmd-0.10.4-py3-none-any.whl" },
+  { filename = "releasecmd-0.10.3-py3-none-any.whl" },
+  { filename = "releasecmd-0.10.0-py3-none-any.whl" },
+  { filename = "releasecmd-0.9.0-py3-none-any.whl" },
+  { filename = "releasecmd-0.8.1-py3-none-any.whl" },
+]

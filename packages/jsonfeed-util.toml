@@ -1,0 +1,8 @@
+# Package configuration for jsonfeed-util
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsonfeed_util-1.2.0-py3-none-any.whl" },
+  { filename = "jsonfeed_util-1.1.4-py3-none-any.whl" },
+]

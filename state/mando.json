@@ -1,0 +1,69 @@
+{
+  "mando-0.8.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bad558078031366ee3bed2f290449be6788d8beaddcd20751105d30550534319",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "rst2ansi; extra == \"restructuredtext\""
+    ]
+  },
+  "mando-0.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff97580057a95a42377c6f1c9697633a1bef93d02e3cc82035fc64c39fde407f",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "rst2ansi; extra == \"restructuredtext\""
+    ]
+  },
+  "mando-0.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4fbc05a6a6f988d1320b45bb22ee126226db28c1975a8a3f9520422333a4569",
+    "dependencies": {
+      "required": [
+        "funcsigs"
+      ]
+    },
+    "original_requirements": [
+      "funcsigs; python_version <= \"3.2\"",
+      "rst2ansi; extra == \"restructuredtext\""
+    ]
+  },
+  "mando-0.7.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "26ef1d70928b6057ee3ca12583d73c63e05c49de8972d620c278a7b206581a8a",
+    "dependencies": {
+      "required": [
+        "six",
+        "argparse",
+        "funcsigs"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "argparse ; python_version <= \"2.6\"",
+      "funcsigs ; python_version <= \"3.2\"",
+      "rst2ansi ; extra == 'restructuredtext'"
+    ]
+  },
+  "mando-0.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58069aa9b00f99ca3ac89b012f1cefb20896134b18e850e221362745d96f70db",
+    "dependencies": {
+      "required": [
+        "six",
+        "argparse",
+        "funcsigs"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "argparse ; python_version <= \"2.6\"",
+      "funcsigs ; python_version <= \"3.2\"",
+      "rst2ansi ; extra == 'restructuredtext'"
+    ]
+  }
+}

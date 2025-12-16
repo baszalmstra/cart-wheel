@@ -1,0 +1,153 @@
+{
+  "autoawq-0.2.7.post3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "02e09d71ca961ca131ac9963a2635fe8c34eb52d6b6a104b8574056aef8f2efe",
+    "dependencies": {
+      "required": [
+        "torch",
+        "triton",
+        "transformers",
+        "tokenizers",
+        "typing-extensions",
+        "accelerate",
+        "datasets",
+        "zstandard",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.2.0",
+      "triton",
+      "transformers>=4.45.0",
+      "tokenizers>=0.12.1",
+      "typing_extensions>=4.8.0",
+      "accelerate",
+      "datasets>=2.20",
+      "zstandard",
+      "huggingface_hub>=0.26.5",
+      "lm_eval==0.4.1; extra == \"eval\"",
+      "tabulate; extra == \"eval\"",
+      "protobuf; extra == \"eval\"",
+      "evaluate; extra == \"eval\"",
+      "scipy; extra == \"eval\"",
+      "black; extra == \"dev\"",
+      "mkdocstrings-python; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "griffe-typingdoc; extra == \"dev\"",
+      "intel-extension-for-pytorch>=2.4.0; extra == \"cpu\"",
+      "autoawq-kernels; extra == \"kernels\"",
+      "flash-attn>=2.2.0; extra == \"kernels\""
+    ]
+  },
+  "autoawq-0.2.7.post2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cef26e2b21a812e298f1752326545cf1ea0456af4c54a92e1941b2d018b92815",
+    "dependencies": {
+      "required": [
+        "torch",
+        "triton",
+        "transformers",
+        "tokenizers",
+        "typing-extensions",
+        "accelerate",
+        "datasets",
+        "zstandard"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.2.0",
+      "triton",
+      "transformers>=4.35.0",
+      "tokenizers>=0.12.1",
+      "typing-extensions>=4.8.0",
+      "accelerate",
+      "datasets>=2.20",
+      "zstandard",
+      "intel-extension-for-pytorch>=2.4.0; extra == \"cpu\"",
+      "black; extra == \"dev\"",
+      "mkdocstrings-python; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "griffe-typingdoc; extra == \"dev\"",
+      "lm-eval==0.4.1; extra == \"eval\"",
+      "tabulate; extra == \"eval\"",
+      "protobuf; extra == \"eval\"",
+      "evaluate; extra == \"eval\"",
+      "scipy; extra == \"eval\"",
+      "autoawq-kernels; extra == \"kernels\""
+    ]
+  },
+  "autoawq-0.2.7.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb06773796cdb584f21a676a6e3d83b285206581cf1243b655df6f42da2d49c6",
+    "dependencies": {
+      "required": [
+        "torch",
+        "triton",
+        "transformers",
+        "tokenizers",
+        "typing-extensions",
+        "accelerate",
+        "datasets",
+        "zstandard",
+        "intel-extension-for-pytorch"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.2.0",
+      "triton",
+      "transformers>=4.35.0",
+      "tokenizers>=0.12.1",
+      "typing-extensions>=4.8.0",
+      "accelerate",
+      "datasets>=2.20",
+      "zstandard",
+      "intel-extension-for-pytorch>=2.4.0",
+      "black; extra == \"dev\"",
+      "mkdocstrings-python; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "griffe-typingdoc; extra == \"dev\"",
+      "lm-eval==0.4.1; extra == \"eval\"",
+      "tabulate; extra == \"eval\"",
+      "protobuf; extra == \"eval\"",
+      "evaluate; extra == \"eval\"",
+      "scipy; extra == \"eval\""
+    ]
+  },
+  "autoawq-0.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a0e6cf74b75647c6fbb753dfc059aa71532480b7bac62c3d677d2b4ccd3029a0",
+    "dependencies": {
+      "required": [
+        "torch",
+        "triton",
+        "transformers",
+        "tokenizers",
+        "typing-extensions",
+        "accelerate",
+        "datasets",
+        "zstandard",
+        "intel-extension-for-pytorch"
+      ]
+    },
+    "original_requirements": [
+      "torch>=2.5.1",
+      "triton",
+      "transformers>=4.35.0",
+      "tokenizers>=0.12.1",
+      "typing-extensions>=4.8.0",
+      "accelerate",
+      "datasets>=2.20",
+      "zstandard",
+      "intel-extension-for-pytorch>=2.4.0",
+      "black; extra == \"dev\"",
+      "mkdocstrings-python; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "griffe-typingdoc; extra == \"dev\"",
+      "lm-eval==0.4.1; extra == \"eval\"",
+      "tabulate; extra == \"eval\"",
+      "protobuf; extra == \"eval\"",
+      "evaluate; extra == \"eval\"",
+      "scipy; extra == \"eval\""
+    ]
+  }
+}

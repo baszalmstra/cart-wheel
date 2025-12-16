@@ -1,0 +1,53 @@
+{
+  "geobuf-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01e89318861a5f80a2980c1fe602c1f378439cbfd3a0d99f1991550956c4ecf6",
+    "dependencies": {
+      "required": [
+        "click",
+        "protobuf",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "protobuf",
+      "six",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "geobuf-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6b81a0a09505996ee23b6caa303cde8c0d2f75d31826241a452a19bf675f8c2",
+    "dependencies": {
+      "required": [
+        "click",
+        "protobuf",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "protobuf",
+      "six",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "geobuf-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28351e2029f5100fa146b9a1af0a4a7bf5a426760d2bb078b4362fd94eb03689",
+    "dependencies": {
+      "required": [
+        "click",
+        "protobuf",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "protobuf",
+      "six",
+      "pytest; extra == 'test'"
+    ]
+  }
+}

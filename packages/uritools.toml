@@ -1,0 +1,12 @@
+# Package configuration for uritools
+conda_forge = "uritools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "uritools-5.0.0-py3-none-any.whl" },
+  { filename = "uritools-4.0.3-py3-none-any.whl" },
+  { filename = "uritools-4.0.2-py3-none-any.whl" },
+  { filename = "uritools-4.0.1-py3-none-any.whl" },
+  { filename = "uritools-4.0.0-py3-none-any.whl" },
+]

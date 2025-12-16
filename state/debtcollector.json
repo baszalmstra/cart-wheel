@@ -1,0 +1,78 @@
+{
+  "debtcollector-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "46f9dacbe8ce49c47ebf2bf2ec878d50c9443dfae97cc7b8054be684e54c3e91",
+    "dependencies": {
+      "required": [
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "wrapt (>=1.7.0)"
+    ]
+  },
+  "debtcollector-2.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1393a527d2c72f143ffa6a629e9c33face6642634eece475b48cab7b04ba61f3",
+    "dependencies": {
+      "required": [
+        "wrapt",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "wrapt (>=1.7.0)",
+      "importlib-metadata (>=1.7.0) ; (python_version<'3.8')"
+    ]
+  },
+  "debtcollector-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "637a1d2cc95c7158dc843dd74ee9f191410af87375a9e66575ea01057cd5015a",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "wrapt",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pbr (!=2.1.0,>=2.0.0)",
+      "wrapt (>=1.7.0)",
+      "importlib-metadata (>=1.7.0) ; (python_version<'3.8')"
+    ]
+  },
+  "debtcollector-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f1fae29c9091a6f7e8f68da7ec17f3167f98abac13c019968e144108f381b7e",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "six",
+        "wrapt",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pbr (!=2.1.0,>=2.0.0)",
+      "six (>=1.10.0)",
+      "wrapt (>=1.7.0)",
+      "importlib-metadata (>=1.7.0) ; (python_version<'3.8')"
+    ]
+  },
+  "debtcollector-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34663e5de257c67bf38827cfbea259c4d4ad27eba6b5a9d9242cb54076bfb4ad",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "six",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "pbr (!=2.1.0,>=2.0.0)",
+      "six (>=1.10.0)",
+      "wrapt (>=1.7.0)"
+    ]
+  }
+}

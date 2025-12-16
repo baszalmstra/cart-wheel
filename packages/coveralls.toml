@@ -1,0 +1,12 @@
+# Package configuration for coveralls
+conda_forge = "coveralls"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "coveralls-4.0.2-py3-none-any.whl" },
+  { filename = "coveralls-4.0.1-py3-none-any.whl" },
+  { filename = "coveralls-4.0.0-py3-none-any.whl" },
+  { filename = "coveralls-3.3.1-py2.py3-none-any.whl" },
+  { filename = "coveralls-3.3.0-py2.py3-none-any.whl" },
+]

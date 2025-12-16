@@ -1,0 +1,88 @@
+{
+  "flake8_bandit-4.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c8a53eb48f23d4ef1e59293657181a3c989d0077c9952717e98a0eace43e06d",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "bandit"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=5.0.0)",
+      "bandit (>=1.7.3)"
+    ]
+  },
+  "flake8_bandit-3.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "61b617f4f7cdaa0e2b1e6bf7b68afb2b619a227bb3e3ae00dd36c213bd17900a",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "bandit",
+        "flake8-polyfill",
+        "pycodestyle"
+      ]
+    },
+    "original_requirements": [
+      "flake8",
+      "bandit (>=1.7.3)",
+      "flake8-polyfill",
+      "pycodestyle"
+    ]
+  },
+  "flake8_bandit-2.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5eac24fa9fef532e4e4ce599c5b3c5248c5cc435d2927537b529b0a7bcb72467",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "bandit",
+        "flake8-polyfill",
+        "pycodestyle"
+      ]
+    },
+    "original_requirements": [
+      "flake8",
+      "bandit",
+      "flake8-polyfill",
+      "pycodestyle"
+    ]
+  },
+  "flake8_bandit-2.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6995d850a4c1cd8b56efe15607e6689c69e485f377338fe25b3e58e297fb29f5",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "bandit",
+        "flake8-polyfill",
+        "pycodestyle"
+      ]
+    },
+    "original_requirements": [
+      "flake8",
+      "bandit",
+      "flake8-polyfill",
+      "pycodestyle"
+    ]
+  },
+  "flake8_bandit-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0456cd5c932cedfdf03bfc1ba17481947dafec7b9af656ec7b3333ce71c599b",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "bandit",
+        "flake8-polyfill",
+        "pycodestyle"
+      ]
+    },
+    "original_requirements": [
+      "flake8",
+      "bandit",
+      "flake8-polyfill",
+      "pycodestyle"
+    ]
+  }
+}

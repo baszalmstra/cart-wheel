@@ -1,0 +1,12 @@
+# Package configuration for pyhanko-certvalidator
+conda_forge = "pyhanko-certvalidator"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyhanko_certvalidator-0.29.0-py3-none-any.whl" },
+  { filename = "pyhanko_certvalidator-0.28.0-py3-none-any.whl" },
+  { filename = "pyhanko_certvalidator-0.27.0-py3-none-any.whl" },
+  { filename = "pyhanko_certvalidator-0.26.8-py3-none-any.whl" },
+  { filename = "pyhanko_certvalidator-0.26.7-py3-none-any.whl" },
+]

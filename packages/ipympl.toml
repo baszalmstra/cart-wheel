@@ -1,0 +1,12 @@
+# Package configuration for ipympl
+conda_forge = "ipympl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipympl-0.9.8-py3-none-any.whl" },
+  { filename = "ipympl-0.9.7-py3-none-any.whl" },
+  { filename = "ipympl-0.9.6-py3-none-any.whl" },
+  { filename = "ipympl-0.9.5-py3-none-any.whl" },
+  { filename = "ipympl-0.9.4-py3-none-any.whl" },
+]

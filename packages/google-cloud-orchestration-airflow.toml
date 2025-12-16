@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-orchestration-airflow
+conda_forge = "google-cloud-orchestration-airflow"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_orchestration_airflow-1.18.0-py3-none-any.whl" },
+  { filename = "google_cloud_orchestration_airflow-1.17.5-py3-none-any.whl" },
+  { filename = "google_cloud_orchestration_airflow-1.17.4-py3-none-any.whl" },
+  { filename = "google_cloud_orchestration_airflow-1.17.3-py3-none-any.whl" },
+  { filename = "google_cloud_orchestration_airflow-1.17.2-py3-none-any.whl" },
+]

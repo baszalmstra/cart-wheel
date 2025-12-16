@@ -1,0 +1,123 @@
+{
+  "affine-2.4.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:48.573437+00:00",
+    "conda_file": "affine-2.4.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "dev": [
+          "pydocstyle",
+          "flake8",
+          "coveralls"
+        ],
+        "test": [
+          "pytest",
+          "pytest-cov"
+        ]
+      }
+    },
+    "original_requirements": [
+      "pydocstyle ; extra == \"dev\"",
+      "flake8 ; extra == \"dev\"",
+      "coveralls ; extra == \"dev\"",
+      "pytest >=4.6 ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "affine-2.3.1-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:48.768602+00:00",
+    "conda_file": "affine-2.3.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "test": [
+          "pytest",
+          "pytest-cov",
+          "pydocstyle",
+          "flake8",
+          "coveralls"
+        ]
+      }
+    },
+    "original_requirements": [
+      "pytest (>=4.6) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pydocstyle ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "coveralls ; extra == 'test'"
+    ]
+  },
+  "affine-2.3.0-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:48.831551+00:00",
+    "conda_file": "affine-2.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "test": [
+          "pytest",
+          "pytest-cov",
+          "pydocstyle",
+          "coveralls"
+        ]
+      }
+    },
+    "original_requirements": [
+      "pytest (>=3.0) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pydocstyle ; extra == 'test'",
+      "coveralls ; extra == 'test'"
+    ]
+  },
+  "affine-2.2.2-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:49.176724+00:00",
+    "conda_file": "affine-2.2.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "test": [
+          "pytest",
+          "pytest-cov",
+          "pydocstyle",
+          "coveralls"
+        ]
+      }
+    },
+    "original_requirements": [
+      "pytest (>=3.0) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pydocstyle ; extra == 'test'",
+      "coveralls ; extra == 'test'"
+    ]
+  },
+  "affine-2.2.1-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:49.107142+00:00",
+    "conda_file": "affine-2.2.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [],
+      "optional": {
+        "test": [
+          "pytest",
+          "pytest-cov",
+          "pydocstyle",
+          "coveralls"
+        ]
+      }
+    },
+    "original_requirements": [
+      "pytest (>=3.0); extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pydocstyle; extra == 'test'",
+      "coveralls; extra == 'test'"
+    ]
+  }
+}

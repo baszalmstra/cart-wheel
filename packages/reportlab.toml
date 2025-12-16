@@ -1,0 +1,12 @@
+# Package configuration for reportlab
+conda_forge = "reportlab"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "reportlab-4.4.6-py3-none-any.whl" },
+  { filename = "reportlab-4.4.5-py3-none-any.whl" },
+  { filename = "reportlab-4.4.4-py3-none-any.whl" },
+  { filename = "reportlab-4.4.3-py3-none-any.whl" },
+  { filename = "reportlab-4.4.2-py3-none-any.whl" },
+]

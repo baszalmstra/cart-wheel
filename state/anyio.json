@@ -1,0 +1,194 @@
+{
+  "anyio-4.12.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:54.124888+00:00",
+    "conda_file": "anyio-4.12.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "exceptiongroup",
+        "idna",
+        "typing-extensions"
+      ],
+      "optional": {
+        "trio": [
+          "trio",
+          "trio"
+        ]
+      }
+    },
+    "original_requirements": [
+      "exceptiongroup>=1.0.2; python_version < \"3.11\"",
+      "idna>=2.8",
+      "typing_extensions>=4.5; python_version < \"3.13\"",
+      "trio>=0.32.0; python_version >= \"3.10\" and extra == \"trio\"",
+      "trio>=0.31.0; python_version < \"3.10\" and extra == \"trio\""
+    ]
+  },
+  "anyio-4.11.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:54.242469+00:00",
+    "conda_file": "anyio-4.11.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "exceptiongroup",
+        "idna",
+        "sniffio",
+        "typing-extensions"
+      ],
+      "optional": {
+        "trio": [
+          "trio"
+        ]
+      }
+    },
+    "original_requirements": [
+      "exceptiongroup>=1.0.2; python_version < \"3.11\"",
+      "idna>=2.8",
+      "sniffio>=1.1",
+      "typing_extensions>=4.5; python_version < \"3.13\"",
+      "trio>=0.31.0; extra == \"trio\""
+    ]
+  },
+  "anyio-4.10.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:54.314441+00:00",
+    "conda_file": "anyio-4.10.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "exceptiongroup",
+        "idna",
+        "sniffio",
+        "typing-extensions"
+      ],
+      "optional": {
+        "trio": [
+          "trio"
+        ]
+      }
+    },
+    "original_requirements": [
+      "exceptiongroup>=1.0.2; python_version < \"3.11\"",
+      "idna>=2.8",
+      "sniffio>=1.1",
+      "typing_extensions>=4.5; python_version < \"3.13\"",
+      "trio>=0.26.1; extra == \"trio\""
+    ]
+  },
+  "anyio-4.9.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:54.593688+00:00",
+    "conda_file": "anyio-4.9.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "exceptiongroup",
+        "idna",
+        "sniffio",
+        "typing-extensions"
+      ],
+      "optional": {
+        "trio": [
+          "trio"
+        ],
+        "test": [
+          "anyio[extras=[trio]]",
+          "blockbuster",
+          "coverage[extras=[toml]]",
+          "exceptiongroup",
+          "hypothesis",
+          "psutil",
+          "pytest",
+          "trustme",
+          "truststore",
+          "uvloop"
+        ],
+        "doc": [
+          "packaging",
+          "sphinx",
+          "sphinx-rtd-theme",
+          "sphinx-autodoc-typehints"
+        ]
+      }
+    },
+    "original_requirements": [
+      "exceptiongroup>=1.0.2; python_version < \"3.11\"",
+      "idna>=2.8",
+      "sniffio>=1.1",
+      "typing_extensions>=4.5; python_version < \"3.13\"",
+      "trio>=0.26.1; extra == \"trio\"",
+      "anyio[trio]; extra == \"test\"",
+      "blockbuster>=1.5.23; extra == \"test\"",
+      "coverage[toml]>=7; extra == \"test\"",
+      "exceptiongroup>=1.2.0; extra == \"test\"",
+      "hypothesis>=4.0; extra == \"test\"",
+      "psutil>=5.9; extra == \"test\"",
+      "pytest>=7.0; extra == \"test\"",
+      "trustme; extra == \"test\"",
+      "truststore>=0.9.1; python_version >= \"3.10\" and extra == \"test\"",
+      "uvloop>=0.21; (platform_python_implementation == \"CPython\" and platform_system != \"Windows\" and python_version < \"3.14\") and extra == \"test\"",
+      "packaging; extra == \"doc\"",
+      "Sphinx~=8.2; extra == \"doc\"",
+      "sphinx_rtd_theme; extra == \"doc\"",
+      "sphinx-autodoc-typehints>=1.2.0; extra == \"doc\""
+    ]
+  },
+  "anyio-4.8.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:54.413451+00:00",
+    "conda_file": "anyio-4.8.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "exceptiongroup",
+        "idna",
+        "sniffio",
+        "typing-extensions"
+      ],
+      "optional": {
+        "trio": [
+          "trio"
+        ],
+        "test": [
+          "anyio[extras=[trio]]",
+          "coverage[extras=[toml]]",
+          "exceptiongroup",
+          "hypothesis",
+          "psutil",
+          "pytest",
+          "trustme",
+          "truststore",
+          "uvloop"
+        ],
+        "doc": [
+          "packaging",
+          "sphinx",
+          "sphinx-rtd-theme",
+          "sphinx-autodoc-typehints"
+        ]
+      }
+    },
+    "original_requirements": [
+      "exceptiongroup>=1.0.2; python_version < \"3.11\"",
+      "idna>=2.8",
+      "sniffio>=1.1",
+      "typing_extensions>=4.5; python_version < \"3.13\"",
+      "trio>=0.26.1; extra == \"trio\"",
+      "anyio[trio]; extra == \"test\"",
+      "coverage[toml]>=7; extra == \"test\"",
+      "exceptiongroup>=1.2.0; extra == \"test\"",
+      "hypothesis>=4.0; extra == \"test\"",
+      "psutil>=5.9; extra == \"test\"",
+      "pytest>=7.0; extra == \"test\"",
+      "trustme; extra == \"test\"",
+      "truststore>=0.9.1; python_version >= \"3.10\" and extra == \"test\"",
+      "uvloop>=0.21; (platform_python_implementation == \"CPython\" and platform_system != \"Windows\" and python_version < \"3.14\") and extra == \"test\"",
+      "packaging; extra == \"doc\"",
+      "Sphinx~=7.4; extra == \"doc\"",
+      "sphinx_rtd_theme; extra == \"doc\"",
+      "sphinx-autodoc-typehints>=1.2.0; extra == \"doc\""
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "aiooss2-0.2.11-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:25.614377+00:00",
+    "conda_file": "aiooss2-0.2.11-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "oss2"
+      ],
+      "optional": {
+        "dev": [
+          "pytest",
+          "pytest-sugar",
+          "pytest-cov",
+          "pytest-mock",
+          "pylint",
+          "pylint-pytest",
+          "mypy",
+          "nox"
+        ],
+        "tests": [
+          "pytest",
+          "pytest-sugar",
+          "pytest-cov",
+          "pytest-mock",
+          "pylint",
+          "pylint-pytest",
+          "mypy"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiohttp <4,>=3.9.1",
+      "oss2 ==2.18.4",
+      "pytest ==7.2.0 ; extra == 'dev'",
+      "pytest-sugar ==0.9.5 ; extra == 'dev'",
+      "pytest-cov ==3.0.0 ; extra == 'dev'",
+      "pytest-mock ==3.8.2 ; extra == 'dev'",
+      "pylint ==2.15.0 ; extra == 'dev'",
+      "pylint-pytest ==1.1.7 ; extra == 'dev'",
+      "mypy ==0.971 ; extra == 'dev'",
+      "nox ==2024.3.2 ; extra == 'dev'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-sugar ==0.9.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-mock ==3.8.2 ; extra == 'tests'",
+      "pylint ==2.15.0 ; extra == 'tests'",
+      "pylint-pytest ==1.1.7 ; extra == 'tests'",
+      "mypy ==0.971 ; extra == 'tests'"
+    ]
+  },
+  "aiooss2-0.2.10-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:25.689558+00:00",
+    "conda_file": "aiooss2-0.2.10-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "oss2"
+      ],
+      "optional": {
+        "dev": [
+          "pytest",
+          "pytest-sugar",
+          "pytest-cov",
+          "pytest-mock",
+          "pylint",
+          "pylint-pytest",
+          "mypy",
+          "nox"
+        ],
+        "tests": [
+          "pytest",
+          "pytest-sugar",
+          "pytest-cov",
+          "pytest-mock",
+          "pylint",
+          "pylint-pytest",
+          "mypy"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiohttp <4,>=3.9.1",
+      "oss2 ==2.18.1",
+      "pytest ==7.2.0 ; extra == 'dev'",
+      "pytest-sugar ==0.9.5 ; extra == 'dev'",
+      "pytest-cov ==3.0.0 ; extra == 'dev'",
+      "pytest-mock ==3.8.2 ; extra == 'dev'",
+      "pylint ==2.15.0 ; extra == 'dev'",
+      "pylint-pytest ==1.1.7 ; extra == 'dev'",
+      "mypy ==0.971 ; extra == 'dev'",
+      "nox ==2024.3.2 ; extra == 'dev'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-sugar ==0.9.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-mock ==3.8.2 ; extra == 'tests'",
+      "pylint ==2.15.0 ; extra == 'tests'",
+      "pylint-pytest ==1.1.7 ; extra == 'tests'",
+      "mypy ==0.971 ; extra == 'tests'"
+    ]
+  },
+  "aiooss2-0.2.9-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:25.804518+00:00",
+    "conda_file": "aiooss2-0.2.9-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "oss2"
+      ],
+      "optional": {
+        "dev": [
+          "pytest",
+          "pytest-sugar",
+          "pytest-cov",
+          "pytest-mock",
+          "pylint",
+          "pylint-pytest",
+          "mypy",
+          "nox"
+        ],
+        "tests": [
+          "pytest",
+          "pytest-sugar",
+          "pytest-cov",
+          "pytest-mock",
+          "pylint",
+          "pylint-pytest",
+          "mypy"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiohttp <4,>=3.9.1",
+      "oss2 ==2.18.1",
+      "pytest ==7.2.0 ; extra == 'dev'",
+      "pytest-sugar ==0.9.5 ; extra == 'dev'",
+      "pytest-cov ==3.0.0 ; extra == 'dev'",
+      "pytest-mock ==3.8.2 ; extra == 'dev'",
+      "pylint ==2.15.0 ; extra == 'dev'",
+      "pylint-pytest ==1.1.2 ; extra == 'dev'",
+      "mypy ==0.971 ; extra == 'dev'",
+      "nox ==2023.4.22 ; extra == 'dev'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-sugar ==0.9.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-mock ==3.8.2 ; extra == 'tests'",
+      "pylint ==2.15.0 ; extra == 'tests'",
+      "pylint-pytest ==1.1.2 ; extra == 'tests'",
+      "mypy ==0.971 ; extra == 'tests'"
+    ]
+  },
+  "aiooss2-0.2.8-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:25.766571+00:00",
+    "conda_file": "aiooss2-0.2.8-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "oss2"
+      ],
+      "optional": {
+        "dev": [
+          "pytest",
+          "pytest-sugar",
+          "pytest-cov",
+          "pytest-mock",
+          "pylint",
+          "pylint-pytest",
+          "mypy",
+          "nox"
+        ],
+        "tests": [
+          "pytest",
+          "pytest-sugar",
+          "pytest-cov",
+          "pytest-mock",
+          "pylint",
+          "pylint-pytest",
+          "mypy"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiohttp ==3.9.1",
+      "oss2 ==2.18.1",
+      "pytest ==7.2.0 ; extra == 'dev'",
+      "pytest-sugar ==0.9.5 ; extra == 'dev'",
+      "pytest-cov ==3.0.0 ; extra == 'dev'",
+      "pytest-mock ==3.8.2 ; extra == 'dev'",
+      "pylint ==2.15.0 ; extra == 'dev'",
+      "pylint-pytest ==1.1.2 ; extra == 'dev'",
+      "mypy ==0.971 ; extra == 'dev'",
+      "nox ==2023.4.22 ; extra == 'dev'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-sugar ==0.9.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-mock ==3.8.2 ; extra == 'tests'",
+      "pylint ==2.15.0 ; extra == 'tests'",
+      "pylint-pytest ==1.1.2 ; extra == 'tests'",
+      "mypy ==0.971 ; extra == 'tests'"
+    ]
+  },
+  "aiooss2-0.2.7-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:25.937892+00:00",
+    "conda_file": "aiooss2-0.2.7-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "oss2"
+      ],
+      "optional": {
+        "dev": [
+          "pytest",
+          "pytest-sugar",
+          "pytest-cov",
+          "pytest-mock",
+          "pylint",
+          "pylint-pytest",
+          "mypy",
+          "nox"
+        ],
+        "tests": [
+          "pytest",
+          "pytest-sugar",
+          "pytest-cov",
+          "pytest-mock",
+          "pylint",
+          "pylint-pytest",
+          "mypy"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiohttp (==3.8.5)",
+      "oss2 (==2.18.1)",
+      "pytest (==7.2.0) ; extra == 'dev'",
+      "pytest-sugar (==0.9.5) ; extra == 'dev'",
+      "pytest-cov (==3.0.0) ; extra == 'dev'",
+      "pytest-mock (==3.8.2) ; extra == 'dev'",
+      "pylint (==2.15.0) ; extra == 'dev'",
+      "pylint-pytest (==1.1.2) ; extra == 'dev'",
+      "mypy (==0.971) ; extra == 'dev'",
+      "nox (==2023.4.22) ; extra == 'dev'",
+      "pytest (==7.2.0) ; extra == 'tests'",
+      "pytest-sugar (==0.9.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-mock (==3.8.2) ; extra == 'tests'",
+      "pylint (==2.15.0) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "mypy (==0.971) ; extra == 'tests'"
+    ]
+  }
+}

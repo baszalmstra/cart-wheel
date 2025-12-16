@@ -1,0 +1,176 @@
+{
+  "dvc_gs-3.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b125a2ff1a6b024f427fc64acbae7f6925ab22f6d833ddb132e3f56977adff2b",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "gcsfs"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "gcsfs>=2022.11.0",
+      "dvc-gs[tests]; extra == \"dev\"",
+      "mypy==1.16.0; extra == \"dev\"",
+      "dvc[testing]; extra == \"tests\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-xdist>=3.2; extra == \"tests\"",
+      "pytest-servers[gcs]>=0.4.0; extra == \"tests\"",
+      "google-cloud-storage>=2.7.0; extra == \"tests\""
+    ]
+  },
+  "dvc_gs-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e5d834760f6ac384bbc557c65ba027be298df7af4796eaf84b66b2df3bc64233",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "gcsfs"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "gcsfs >=2022.11.0",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==7.1.2 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-servers[gcs] >=0.3.0 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "pylint ==2.15.9 ; extra == 'tests'",
+      "pylint-plugin-utils ==0.6 ; extra == 'tests'",
+      "mypy ==0.931 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "google-cloud-storage >=2.7.0 ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_gs-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ab41a0f70e7bb5cd6e3fcd85f1e0114edf898dcd4cfc6681ba0a420bba1202d",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "gcsfs"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "gcsfs >=2022.11.0",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==7.1.2 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-servers[gcs] ==0.2.6 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "pylint ==2.15.9 ; extra == 'tests'",
+      "pylint-plugin-utils ==0.6 ; extra == 'tests'",
+      "mypy ==0.931 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "google-cloud-storage >=2.7.0 ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_gs-2.22.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d09a5d9e6f3d2f3c441e8af2f8a6830f8f16d6b9c1dae005801d55d6e9655598",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "gcsfs"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "gcsfs (>=2022.11.0)",
+      "wheel (==0.37.0) ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest (==7.1.2) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "pytest-servers[gcs] (==0.2.0) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "mock (==4.0.3) ; extra == 'tests'",
+      "wget (==3.2) ; extra == 'tests'",
+      "filelock (==3.3.2) ; extra == 'tests'",
+      "xmltodict (==0.12.0) ; extra == 'tests'",
+      "Pygments (==2.10.0) ; extra == 'tests'",
+      "collective.checkdocs (==0.2) ; extra == 'tests'",
+      "pydocstyle (==6.1.1) ; extra == 'tests'",
+      "pylint (==2.15.9) ; extra == 'tests'",
+      "pylint-plugin-utils (==0.6) ; extra == 'tests'",
+      "mypy (==0.931) ; extra == 'tests'",
+      "types-requests (==2.25.11) ; extra == 'tests'",
+      "types-tabulate (==0.8.3) ; extra == 'tests'",
+      "types-toml (==0.10.1) ; extra == 'tests'",
+      "google-cloud-storage (>=2.7.0) ; extra == 'tests'",
+      "pywin32 (>=225) ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_gs-2.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aac9f3390558518d801f43dd1e2be042c573cbb4963fb25a58099e3805dc8e71",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "gcsfs"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "gcsfs (>=2022.11.0)",
+      "wheel (==0.37.0) ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest (==7.1.2) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "pytest-servers[gcs] (==0.2.0) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "mock (==4.0.3) ; extra == 'tests'",
+      "wget (==3.2) ; extra == 'tests'",
+      "filelock (==3.3.2) ; extra == 'tests'",
+      "xmltodict (==0.12.0) ; extra == 'tests'",
+      "Pygments (==2.10.0) ; extra == 'tests'",
+      "collective.checkdocs (==0.2) ; extra == 'tests'",
+      "pydocstyle (==6.1.1) ; extra == 'tests'",
+      "pylint (==2.15.9) ; extra == 'tests'",
+      "pylint-plugin-utils (==0.6) ; extra == 'tests'",
+      "mypy (==0.931) ; extra == 'tests'",
+      "types-requests (==2.25.11) ; extra == 'tests'",
+      "types-tabulate (==0.8.3) ; extra == 'tests'",
+      "types-toml (==0.10.1) ; extra == 'tests'",
+      "google-cloud-storage (>=2.7.0) ; extra == 'tests'",
+      "pywin32 (>=225) ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "opentelemetry_exporter_gcp_trace-1.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3dcb314e1a9985e9185cb7720b693eb393886fde98ae4c095ffc0893de6cefa",
+    "dependencies": {
+      "required": [
+        "google-cloud-trace",
+        "opentelemetry-api",
+        "opentelemetry-sdk",
+        "opentelemetry-resourcedetector-gcp"
+      ]
+    },
+    "original_requirements": [
+      "google-cloud-trace~=1.1",
+      "opentelemetry-api~=1.30",
+      "opentelemetry-sdk~=1.30",
+      "opentelemetry-resourcedetector-gcp==1.*,>=1.5.0dev0"
+    ]
+  },
+  "opentelemetry_exporter_gcp_trace-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "766277704ebd86d0225cf734cd6d6c07c57ddb1d006bad5b3ede97e6d9018794",
+    "dependencies": {
+      "required": [
+        "google-cloud-trace",
+        "opentelemetry-api",
+        "opentelemetry-sdk",
+        "opentelemetry-resourcedetector-gcp"
+      ]
+    },
+    "original_requirements": [
+      "google-cloud-trace~=1.1",
+      "opentelemetry-api~=1.30",
+      "opentelemetry-sdk~=1.30",
+      "opentelemetry-resourcedetector-gcp==1.*,>=1.5.0dev0"
+    ]
+  },
+  "opentelemetry_exporter_gcp_trace-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0a8396e8b39f636eeddc3f0ae08ddb40c40f288bc8c5544727c3581545e77254",
+    "dependencies": {
+      "required": [
+        "google-cloud-trace",
+        "opentelemetry-api",
+        "opentelemetry-resourcedetector-gcp",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "google-cloud-trace ~=1.1",
+      "opentelemetry-api ~=1.0",
+      "opentelemetry-resourcedetector-gcp ==1.*,>=1.5.0dev0",
+      "opentelemetry-sdk ~=1.0"
+    ]
+  },
+  "opentelemetry_exporter_gcp_trace-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ffd4fe9c78683b4e70f0f59df7e9e76c65dcf9b928decfdb4da47facdad26871",
+    "dependencies": {
+      "required": [
+        "google-cloud-trace",
+        "opentelemetry-api",
+        "opentelemetry-resourcedetector-gcp",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "google-cloud-trace ~=1.1",
+      "opentelemetry-api ~=1.0",
+      "opentelemetry-resourcedetector-gcp ==1.*,>=1.5.0dev0",
+      "opentelemetry-sdk ~=1.0"
+    ]
+  },
+  "opentelemetry_exporter_gcp_trace-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6fd66256a0a7feb3d87334ec7981f2a477c63cb6d7696b1bc603f105293b06db",
+    "dependencies": {
+      "required": [
+        "google-cloud-trace",
+        "opentelemetry-api",
+        "opentelemetry-resourcedetector-gcp",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "google-cloud-trace ~=1.1",
+      "opentelemetry-api ~=1.0",
+      "opentelemetry-resourcedetector-gcp ==1.*,>=1.5.0dev0",
+      "opentelemetry-sdk ~=1.0"
+    ]
+  }
+}

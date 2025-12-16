@@ -1,0 +1,125 @@
+{
+  "fs-2.4.16-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "660064febbccda264ae0b6bace80a8d1be9e089e0a5eb2427b7d517f9a91545c",
+    "dependencies": {
+      "required": [
+        "appdirs",
+        "setuptools",
+        "six",
+        "backports.os",
+        "enum34",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "appdirs (~=1.4.3)",
+      "setuptools",
+      "six (~=1.10)",
+      "backports.os (~=0.1) ; python_version < \"3.0\"",
+      "enum34 (~=1.1.6) ; python_version < \"3.4\"",
+      "typing (~=3.6) ; python_version < \"3.6\"",
+      "scandir (~=1.5) ; (python_version < \"3.5\") and extra == 'scandir'"
+    ]
+  },
+  "fs-2.4.15-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "86fbd7268edc365e5f120c4871addf2a0a899049625c35fe579910339296d13d",
+    "dependencies": {
+      "required": [
+        "appdirs",
+        "pytz",
+        "setuptools",
+        "six",
+        "backports.os",
+        "enum34",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "appdirs (~=1.4.3)",
+      "pytz",
+      "setuptools",
+      "six (~=1.10)",
+      "backports.os (~=0.1) ; python_version < \"3.0\"",
+      "enum34 (~=1.1.6) ; python_version < \"3.4\"",
+      "typing (~=3.6) ; python_version < \"3.6\"",
+      "scandir (~=1.5) ; (python_version < \"3.5\") and extra == 'scandir'"
+    ]
+  },
+  "fs-2.4.14-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b298013377f51125b3d7f0c86920de4e3e2d4a83731bd5caf1f1e5bddabe7798",
+    "dependencies": {
+      "required": [
+        "appdirs",
+        "pytz",
+        "setuptools",
+        "six",
+        "backports.os",
+        "enum34",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "appdirs (~=1.4.3)",
+      "pytz",
+      "setuptools",
+      "six (~=1.10)",
+      "backports.os (~=0.1) ; python_version < \"3.0\"",
+      "enum34 (~=1.1.6) ; python_version < \"3.4\"",
+      "typing (~=3.6) ; python_version < \"3.6\"",
+      "scandir (~=1.5) ; (python_version < \"3.5\") and extra == 'scandir'"
+    ]
+  },
+  "fs-2.4.13-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d10cc8f9c55fbcf7b23775289a13f6796dca7acd5a135c379f49e87a56a7230",
+    "dependencies": {
+      "required": [
+        "appdirs",
+        "pytz",
+        "setuptools",
+        "six",
+        "backports.os",
+        "enum34",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "appdirs (~=1.4.3)",
+      "pytz",
+      "setuptools",
+      "six (~=1.10)",
+      "backports.os (~=0.1) ; python_version < \"3.0\"",
+      "enum34 (~=1.1.6) ; python_version < \"3.4\"",
+      "typing (~=3.6) ; python_version < \"3.6\"",
+      "scandir (~=1.5) ; (python_version < \"3.5\") and extra == 'scandir'"
+    ]
+  },
+  "fs-2.4.12-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da6cc360677712ae27ac4be8a3ef404dd7970dbd1c3eebe87a25bebd94e84b4c",
+    "dependencies": {
+      "required": [
+        "appdirs",
+        "pytz",
+        "setuptools",
+        "six",
+        "backports.os",
+        "enum34",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "appdirs (~=1.4.3)",
+      "pytz",
+      "setuptools",
+      "six (~=1.10)",
+      "backports.os (~=0.1) ; python_version < \"3.0\"",
+      "enum34 (~=1.1.6) ; python_version < \"3.4\"",
+      "typing (~=3.6) ; python_version < \"3.6\"",
+      "scandir (~=1.5) ; (python_version < \"3.5\") and extra == 'scandir'"
+    ]
+  }
+}

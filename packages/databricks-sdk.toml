@@ -1,0 +1,12 @@
+# Package configuration for databricks-sdk
+conda_forge = "databricks-sdk"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "databricks_sdk-0.74.0-py3-none-any.whl" },
+  { filename = "databricks_sdk-0.73.0-py3-none-any.whl" },
+  { filename = "databricks_sdk-0.72.0-py3-none-any.whl" },
+  { filename = "databricks_sdk-0.71.0-py3-none-any.whl" },
+  { filename = "databricks_sdk-0.70.0-py3-none-any.whl" },
+]

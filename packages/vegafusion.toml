@@ -1,0 +1,8 @@
+# Package configuration for vegafusion
+conda_forge = "vegafusion"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "vegafusion-1.6.9-py3-none-any.whl" },
+]

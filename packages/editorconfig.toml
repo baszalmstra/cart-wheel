@@ -1,0 +1,11 @@
+# Package configuration for editorconfig
+conda_forge = "editorconfig"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "editorconfig-0.17.1-py3-none-any.whl" },
+  { filename = "EditorConfig-0.17.0-py3-none-any.whl" },
+  { filename = "EditorConfig-0.12.3-py3-none-any.whl" },
+  { filename = "EditorConfig-0.12.1-py3-none-any.whl" },
+]

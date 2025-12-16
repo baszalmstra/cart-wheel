@@ -1,0 +1,12 @@
+# Package configuration for cached-path
+conda_forge = "cached_path"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cached_path-1.8.0-py3-none-any.whl" },
+  { filename = "cached_path-1.7.4-py3-none-any.whl" },
+  { filename = "cached_path-1.7.3-py3-none-any.whl" },
+  { filename = "cached_path-1.7.2-py3-none-any.whl" },
+  { filename = "cached_path-1.7.1-py3-none-any.whl" },
+]

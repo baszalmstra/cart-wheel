@@ -1,0 +1,11 @@
+# Package configuration for google-cloud-storage-control
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_storage_control-1.8.0-py3-none-any.whl" },
+  { filename = "google_cloud_storage_control-1.7.0-py3-none-any.whl" },
+  { filename = "google_cloud_storage_control-1.6.1-py3-none-any.whl" },
+  { filename = "google_cloud_storage_control-1.6.0-py3-none-any.whl" },
+  { filename = "google_cloud_storage_control-1.5.0-py3-none-any.whl" },
+]

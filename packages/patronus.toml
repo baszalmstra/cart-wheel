@@ -1,0 +1,11 @@
+# Package configuration for patronus
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "patronus-0.1.24-py3-none-any.whl" },
+  { filename = "patronus-0.1.23-py3-none-any.whl" },
+  { filename = "patronus-0.1.22-py3-none-any.whl" },
+  { filename = "patronus-0.1.21-py3-none-any.whl" },
+  { filename = "patronus-0.1.20-py3-none-any.whl" },
+]

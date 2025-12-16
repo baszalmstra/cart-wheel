@@ -1,0 +1,26 @@
+{
+  "types_aiobotocore_partnercentral_channel-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b00cf6b5ce4b9d39faf0094a240376429f1b9738a471e18bbe3b7f7256a5d82",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "types_aiobotocore_partnercentral_channel-2.26.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23a1d3a2d1958c05a8f7a0207004df7175332c949ad355ab235dda9e3a754e1e",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

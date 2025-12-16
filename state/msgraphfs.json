@@ -1,0 +1,71 @@
+{
+  "msgraphfs-0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "758c249d8894eeaf3192a1c193521ad2d8cb4cd68a17fcb7fa449a146ad2357a",
+    "dependencies": {
+      "required": [
+        "authlib",
+        "fsspec",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "authlib",
+      "fsspec>=0.7.5",
+      "httpx[http2]",
+      "towncrier; extra == 'release'",
+      "coverage[toml]; extra == 'test'",
+      "keyring; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "requests; extra == 'test'"
+    ]
+  },
+  "msgraphfs-0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "959def5a5b514892e7bd6a5cfa206bcd44635cce915152ae996f333a97b173e5",
+    "dependencies": {
+      "required": [
+        "authlib",
+        "fsspec",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "authlib",
+      "fsspec>=0.7.5",
+      "httpx[http2]",
+      "towncrier; extra == 'release'",
+      "coverage[toml]; extra == 'test'",
+      "keyring; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "requests; extra == 'test'"
+    ]
+  },
+  "msgraphfs-0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f36aafc8c31d5d21e8bbcc99e4c640bed07365e6efba602de7eed8791d98a62",
+    "dependencies": {
+      "required": [
+        "authlib",
+        "fsspec",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "authlib",
+      "fsspec>=0.7.5",
+      "httpx[http2]",
+      "towncrier; extra == 'release'",
+      "coverage[toml]; extra == 'test'",
+      "keyring; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-asyncio; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "requests; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "flake8_import_order-0.19.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2dfe60175e7195cf36d4c573861fd2e3258cd6650cbd7616da3c6b8193b29b7c",
+    "dependencies": {
+      "required": [
+        "pycodestyle",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "pycodestyle",
+      "setuptools"
+    ]
+  },
+  "flake8_import_order-0.19.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8235d8cba5bead8e119dc129b7286df2d92046ceebbd48fc18394abe57c5f467",
+    "dependencies": {
+      "required": [
+        "pycodestyle",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "pycodestyle",
+      "setuptools"
+    ]
+  },
+  "flake8_import_order-0.18.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82ed59f1083b629b030ee9d3928d9e06b6213eb196fe745b3a7d4af2168130df",
+    "dependencies": {
+      "required": [
+        "pycodestyle",
+        "setuptools",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "pycodestyle",
+      "setuptools",
+      "enum34 ; python_version <= \"2.7\""
+    ]
+  },
+  "flake8_import_order-0.18.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90a80e46886259b9c396b578d75c749801a41ee969a235e163cfe1be7afd2543",
+    "dependencies": {
+      "required": [
+        "pycodestyle",
+        "setuptools",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "pycodestyle",
+      "setuptools",
+      "enum34 ; python_version <= \"2.7\""
+    ]
+  },
+  "flake8_import_order-0.18-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "feca2fd0a17611b33b7fa84449939196c2c82764e262486d5c3e143ed77d387b",
+    "dependencies": {
+      "required": [
+        "pycodestyle",
+        "setuptools",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "pycodestyle",
+      "setuptools",
+      "enum34; python_version <= \"2.7\""
+    ]
+  }
+}

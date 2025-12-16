@@ -1,0 +1,101 @@
+{
+  "fastapi_cli-0.0.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "addcb6d130b5b9c91adbbf3f2947fe115991495fdb442fe3e51b5fc6327df9f4",
+    "dependencies": {
+      "required": [
+        "typer",
+        "uvicorn",
+        "rich-toolkit",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "typer>=0.15.1",
+      "uvicorn[standard]>=0.15.0",
+      "rich-toolkit>=0.14.8",
+      "tomli>=2.0.0; python_version < \"3.11\"",
+      "uvicorn[standard]>=0.15.0; extra == \"standard\"",
+      "fastapi-cloud-cli>=0.1.1; extra == \"standard\"",
+      "uvicorn[standard]>=0.15.0; extra == \"standard-no-fastapi-cloud-cli\""
+    ]
+  },
+  "fastapi_cli-0.0.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6fda4f0d4c78a1f08bea1db74c5fb6a14ec1e7e4adbec0f6667f7c293c2e717e",
+    "dependencies": {
+      "required": [
+        "typer",
+        "uvicorn",
+        "rich-toolkit",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "typer>=0.15.1",
+      "uvicorn[standard]>=0.15.0",
+      "rich-toolkit>=0.14.8",
+      "tomli>=2.0.0; python_version < \"3.11\"",
+      "uvicorn[standard]>=0.15.0; extra == \"standard\"",
+      "fastapi-cloud-cli>=0.1.1; extra == \"standard\"",
+      "uvicorn[standard]>=0.15.0; extra == \"standard-no-fastapi-cloud-cli\""
+    ]
+  },
+  "fastapi_cli-0.0.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e66b9ad499ee77a4e6007545cde6de1459b7f21df199d7f29aad2adaab168eca",
+    "dependencies": {
+      "required": [
+        "typer",
+        "uvicorn",
+        "rich-toolkit"
+      ]
+    },
+    "original_requirements": [
+      "typer>=0.15.1",
+      "uvicorn[standard]>=0.15.0",
+      "rich-toolkit>=0.14.8",
+      "uvicorn[standard]>=0.15.0; extra == \"standard\"",
+      "fastapi-cloud-cli>=0.1.1; extra == \"standard\"",
+      "uvicorn[standard]>=0.15.0; extra == \"standard-no-fastapi-cloud-cli\""
+    ]
+  },
+  "fastapi_cli-0.0.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "219b73ccfde7622559cef1d43197da928516acb4f21f2ec69128c4b90057baba",
+    "dependencies": {
+      "required": [
+        "typer",
+        "uvicorn",
+        "rich-toolkit"
+      ]
+    },
+    "original_requirements": [
+      "typer>=0.15.1",
+      "uvicorn[standard]>=0.15.0",
+      "rich-toolkit>=0.14.8",
+      "uvicorn[standard]>=0.15.0; extra == \"standard\"",
+      "fastapi-cloud-cli>=0.1.1; extra == \"standard\"",
+      "uvicorn[standard]>=0.15.0; extra == \"standard-no-fastapi-cloud-cli\""
+    ]
+  },
+  "fastapi_cli-0.0.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec8f8b12080b5a29a08c7f15ba50649f59b5cd28646cb1737c511b319d0408e4",
+    "dependencies": {
+      "required": [
+        "typer",
+        "uvicorn",
+        "rich-toolkit"
+      ]
+    },
+    "original_requirements": [
+      "typer>=0.15.1",
+      "uvicorn[standard]>=0.15.0",
+      "rich-toolkit>=0.14.8",
+      "uvicorn[standard]>=0.15.0; extra == \"standard\"",
+      "fastapi-cloud-cli>=0.1.1; extra == \"standard\"",
+      "uvicorn[standard]>=0.15.0; extra == \"standard-no-fastapi-cloud-cli\""
+    ]
+  }
+}

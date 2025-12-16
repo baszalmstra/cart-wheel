@@ -1,0 +1,107 @@
+{
+  "sshfs-2025.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90a3a2e815d28a0e8475f10fe8ef0127a507b60f77df17c3473c1a28e78c7f4b",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "asyncssh"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2021.8.1",
+      "asyncssh <3,>=2.11.0",
+      "asyncssh[bcrypt] ; extra == 'bcrypt'",
+      "asyncssh[fido2] ; extra == 'fido2'",
+      "asyncssh[gssapi] ; extra == 'gssapi'",
+      "asyncssh[libnacl] ; extra == 'libnacl'",
+      "asyncssh[python-pkcs11] ; extra == 'pkcs11'",
+      "asyncssh[pyopenssl] ; extra == 'pyopenssl'",
+      "asyncssh[pywin32] ; extra == 'pywin32'"
+    ]
+  },
+  "sshfs-2025.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4cd44cacba983cdaf14fed868c154dfebd7c270601922690bb38e839073138a8",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "asyncssh"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2021.8.1",
+      "asyncssh <3,>=2.11.0",
+      "asyncssh[bcrypt] ; extra == 'bcrypt'",
+      "asyncssh[fido2] ; extra == 'fido2'",
+      "asyncssh[gssapi] ; extra == 'gssapi'",
+      "asyncssh[libnacl] ; extra == 'libnacl'",
+      "asyncssh[python-pkcs11] ; extra == 'pkcs11'",
+      "asyncssh[pyopenssl] ; extra == 'pyopenssl'",
+      "asyncssh[pywin32] ; extra == 'pywin32'"
+    ]
+  },
+  "sshfs-2025.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c5213e11da42f6c31f3fb6332726cc5a894cde44cc47cd1519c9da705dafccdc",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "asyncssh"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2021.8.1",
+      "asyncssh <3,>=2.11.0",
+      "asyncssh[bcrypt] ; extra == 'bcrypt'",
+      "asyncssh[fido2] ; extra == 'fido2'",
+      "asyncssh[gssapi] ; extra == 'gssapi'",
+      "asyncssh[libnacl] ; extra == 'libnacl'",
+      "asyncssh[python-pkcs11] ; extra == 'pkcs11'",
+      "asyncssh[pyopenssl] ; extra == 'pyopenssl'",
+      "asyncssh[pywin32] ; extra == 'pywin32'"
+    ]
+  },
+  "sshfs-2024.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc3f4bd33b20b3e5fd8fbbf640d0b87d8a9531ff8e94a7beb8778d3853b07053",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "asyncssh"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2021.8.1",
+      "asyncssh <3,>=2.11.0",
+      "asyncssh[bcrypt] ; extra == 'bcrypt'",
+      "asyncssh[fido2] ; extra == 'fido2'",
+      "asyncssh[gssapi] ; extra == 'gssapi'",
+      "asyncssh[libnacl] ; extra == 'libnacl'",
+      "asyncssh[python-pkcs11] ; extra == 'pkcs11'",
+      "asyncssh[pyopenssl] ; extra == 'pyopenssl'",
+      "asyncssh[pywin32] ; extra == 'pywin32'"
+    ]
+  },
+  "sshfs-2024.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b713e399deff4946c0a4ace895e24ebf8894bb89bf876ad5997bc3a7d92bd5e",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "asyncssh"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2021.8.1",
+      "asyncssh <3,>=2.11.0",
+      "asyncssh[bcrypt] ; extra == 'bcrypt'",
+      "asyncssh[fido2] ; extra == 'fido2'",
+      "asyncssh[gssapi] ; extra == 'gssapi'",
+      "asyncssh[libnacl] ; extra == 'libnacl'",
+      "asyncssh[python-pkcs11] ; extra == 'pkcs11'",
+      "asyncssh[pyopenssl] ; extra == 'pyopenssl'",
+      "asyncssh[pywin32] ; extra == 'pywin32'"
+    ]
+  }
+}

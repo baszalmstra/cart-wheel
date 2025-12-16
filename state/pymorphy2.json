@@ -1,0 +1,53 @@
+{
+  "pymorphy2-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a5224ec153cd6920a33961ae636793ad5185143bc8045b3f9a9f8bd62ecacf68",
+    "dependencies": {
+      "required": [
+        "dawg-python",
+        "pymorphy2-dicts-ru",
+        "docopt"
+      ]
+    },
+    "original_requirements": [
+      "dawg-python (>=0.7.1)",
+      "pymorphy2-dicts-ru (<3.0,>=2.4)",
+      "docopt (>=0.6)",
+      "DAWG (>=0.8) ; extra == 'fast'"
+    ]
+  },
+  "pymorphy2-0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fac815036a66b55fb466c37bea370fe636187144438307cbdb609231dcac8a5c",
+    "dependencies": {
+      "required": [
+        "dawg-python",
+        "pymorphy2-dicts-ru",
+        "docopt"
+      ]
+    },
+    "original_requirements": [
+      "dawg-python (>=0.7.1)",
+      "pymorphy2-dicts-ru (<3.0,>=2.4)",
+      "docopt (>=0.6)",
+      "DAWG (>=0.8) ; extra == 'fast'"
+    ]
+  },
+  "pymorphy2-0.8-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "549a1141abe01093242b9e11a1f60110ee4818f7fe57c9bb363e504339f382f5",
+    "dependencies": {
+      "required": [
+        "dawg-python",
+        "pymorphy2-dicts",
+        "docopt"
+      ]
+    },
+    "original_requirements": [
+      "dawg-python (>=0.7)",
+      "pymorphy2-dicts (>=2.4,<3.0)",
+      "docopt (>=0.6)",
+      "DAWG (>=0.7.3); extra == 'fast'"
+    ]
+  }
+}

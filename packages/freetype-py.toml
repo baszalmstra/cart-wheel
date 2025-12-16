@@ -1,0 +1,8 @@
+# Package configuration for freetype-py
+conda_forge = "freetype-py"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "freetype_py-2.1.0.post1-py2.py3-none-any.whl" },
+]

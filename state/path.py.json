@@ -1,0 +1,117 @@
+{
+  "path.py-12.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a43e82eb2c344c3fd0b9d6352f6b856f40b8b7d3d65cc05978b42c3715668496",
+    "dependencies": {
+      "required": [
+        "path"
+      ]
+    },
+    "original_requirements": [
+      "path",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs (>=1.2.3) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-black-multipy ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "appdirs ; extra == 'testing'",
+      "packaging ; extra == 'testing'",
+      "pygments ; extra == 'testing'"
+    ]
+  },
+  "path.py-12.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c88fb6073b955b2b2c9f3da61b94a2a4c61d722b776b562c26f29e05425eb55a",
+    "dependencies": {
+      "required": [
+        "path"
+      ]
+    },
+    "original_requirements": [
+      "path (<13.2)",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs (>=1.2.3) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-black-multipy ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "appdirs ; extra == 'testing'",
+      "packaging ; extra == 'testing'",
+      "pygments ; extra == 'testing'"
+    ]
+  },
+  "path.py-12.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dde384eaf9ad73416b8444e8f870f533a6046402c5300bedadc25a23d8ce16e5",
+    "dependencies": {
+      "required": [
+        "path"
+      ]
+    },
+    "original_requirements": [
+      "path (<13.1)",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs (>=1.2.3) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-black-multipy ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "appdirs ; extra == 'testing'",
+      "packaging ; extra == 'testing'",
+      "pygments ; extra == 'testing'"
+    ]
+  },
+  "path.py-12.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a21d050e99dd0dbe6561177f6d361af869d1f4b27d9134d12d8d65dfbe78e765",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata (>=0.5) ; python_version < \"3.8\"",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs (>=1.2.3) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-black-multipy ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "appdirs ; extra == 'testing'",
+      "packaging ; extra == 'testing'",
+      "pygments ; extra == 'testing'"
+    ]
+  },
+  "path.py-12.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a5fad1f5214eec5f07228882d7fa372f969d75d508bd3c9e4ee199f536c5b503",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata (>=0.5) ; python_version < \"3.8\"",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs (>=1.2.3) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-black-multipy ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "appdirs ; extra == 'testing'",
+      "packaging ; extra == 'testing'",
+      "pygments ; extra == 'testing'"
+    ]
+  }
+}

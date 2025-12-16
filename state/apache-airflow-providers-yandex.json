@@ -1,0 +1,91 @@
+{
+  "apache_airflow_providers_yandex-4.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bebe585d6fb518cc898f6bbdd08eec5442b6f27abc1079cc014dc1028bce663e",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "yandexcloud",
+        "yandex-query-client",
+        "apache-airflow-providers-common-compat"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "yandexcloud>=0.308.0; python_version < '3.13'",
+      "yandex-query-client>=0.1.4; python_version < '3.13'",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_yandex-4.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "005ad7946e04cc8aa56ae05d058585fc43ace1a45b1b9e3070a0242c9a7c514d",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "yandexcloud",
+        "yandex-query-client",
+        "apache-airflow-providers-common-compat"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "yandexcloud>=0.308.0; python_version < '3.13'",
+      "yandex-query-client>=0.1.4; python_version < '3.13'",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_yandex-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c57e85b2214ba339f5bccbe350d9642b057cf57ee36388c85f5a6ddd6be18c82",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "yandexcloud",
+        "yandex-query-client"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "yandexcloud>=0.308.0; python_version < '3.13'",
+      "yandex-query-client>=0.1.4; python_version < '3.13'",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_yandex-4.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b14b7ad96a250ee808b87274fe1bde49d7b70e775f1034373cc9b5e90799e2ef",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "yandexcloud",
+        "yandex-query-client"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "yandexcloud>=0.308.0",
+      "yandex-query-client>=0.1.4",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_yandex-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41a513e50f2073dab333e7ed3abc89d60b21888df54ca3df781f11750c00d2d0",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "yandexcloud",
+        "yandex-query-client"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "yandexcloud>=0.308.0",
+      "yandex-query-client>=0.1.4",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  }
+}

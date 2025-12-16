@@ -1,0 +1,7 @@
+# Package configuration for emukit
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "emukit-0.4.9-py3-none-any.whl" },
+]

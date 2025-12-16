@@ -1,0 +1,72 @@
+{
+  "beanie_batteries_queue-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dfb5653532b1a1d6d26544fd9373d3a2e266d29bd3b612ccc0a2713f80e879a0",
+    "dependencies": {
+      "required": [
+        "beanie"
+      ]
+    },
+    "original_requirements": [
+      "beanie>=1.23.4",
+      "pre-commit>=2.3.0 ; extra == \"test\"",
+      "pytest>=6.0.0 ; extra == \"test\"",
+      "pytest-asyncio>=0.21.0 ; extra == \"test\"",
+      "pytest-cov>=2.8.1 ; extra == \"test\"",
+      "dnspython>=2.1.0 ; extra == \"test\"",
+      "flake8>=3 ; extra == \"test\"",
+      "pyright>=0 ; extra == \"test\"",
+      "pydantic-settings>=2.0 ; extra == \"test\""
+    ]
+  },
+  "beanie_batteries_queue-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e9b4db19e9a57ca500971175b59b4aaf36d20863748f4b7cb0c1bb5950cf780",
+    "dependencies": {
+      "required": [
+        "beanie"
+      ]
+    },
+    "original_requirements": [
+      "beanie>=1.20",
+      "pre-commit>=2.3.0 ; extra == \"test\"",
+      "pytest>=6.0.0 ; extra == \"test\"",
+      "pytest-asyncio>=0.21.0 ; extra == \"test\"",
+      "pytest-cov>=2.8.1 ; extra == \"test\"",
+      "dnspython>=2.1.0 ; extra == \"test\"",
+      "flake8>=3 ; extra == \"test\"",
+      "pyright>=0 ; extra == \"test\""
+    ]
+  },
+  "beanie_batteries_queue-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "69703540a64ea42c73e31f64893f8d6831cd4f8fcb2227ef6d166ddf362c1f05",
+    "dependencies": {
+      "required": [
+        "beanie"
+      ]
+    },
+    "original_requirements": [
+      "beanie==1.20.0b1",
+      "pre-commit>=2.3.0 ; extra == \"test\"",
+      "pytest>=6.0.0 ; extra == \"test\"",
+      "pytest-asyncio>=0.21.0 ; extra == \"test\"",
+      "pytest-cov>=2.8.1 ; extra == \"test\"",
+      "dnspython>=2.1.0 ; extra == \"test\"",
+      "flake8>=3 ; extra == \"test\"",
+      "pyright>=0 ; extra == \"test\""
+    ]
+  },
+  "beanie_batteries_queue-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1721f255d642993508beecfbc5a6beb816ea690a2399fb58c2d0641dc33368cc",
+    "dependencies": {
+      "required": [
+        "beanie"
+      ]
+    },
+    "original_requirements": [
+      "beanie (>=1.19.1,<2.0.0)"
+    ]
+  }
+}

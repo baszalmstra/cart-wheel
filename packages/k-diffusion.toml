@@ -1,0 +1,11 @@
+# Package configuration for k-diffusion
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "k_diffusion-0.1.1.post1-py3-none-any.whl" },
+  { filename = "k_diffusion-0.1.1-py3-none-any.whl" },
+  { filename = "k_diffusion-0.1.0-py3-none-any.whl" },
+  { filename = "k_diffusion-0.0.16-py3-none-any.whl" },
+  { filename = "k_diffusion-0.0.15-py3-none-any.whl" },
+]

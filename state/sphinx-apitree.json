@@ -1,0 +1,119 @@
+{
+  "sphinx_apitree-1.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "570116a420cc292c12903257222bf421f6a85e88e71919d83496de10c0a9dbd2",
+    "dependencies": {
+      "required": [
+        "etils",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "etils[edc, enp, epath, epy, etree]",
+      "typing_extensions",
+      "pytest>=3.4 ; extra == \"dev\"",
+      "pytest-xdist ; extra == \"dev\"",
+      "pylint>=2.6.0 ; extra == \"dev\"",
+      "pyink ; extra == \"dev\"",
+      "sphinx-apitree[ext] ; extra == \"dev\"",
+      "etils[ecolab] ; extra == \"dev\"",
+      "sphinx ; extra == \"ext\"",
+      "myst_nb ; extra == \"ext\"",
+      "sphinx_book_theme ; extra == \"ext\"",
+      "sphinx-reredirects ; extra == \"ext\""
+    ]
+  },
+  "sphinx_apitree-1.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "09ff2bd21f93d75f1eee45ab34dcf8e0d2089392c24eadf5b1ae2eab6f304290",
+    "dependencies": {
+      "required": [
+        "etils",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "etils[edc, enp, epath, epy, etree]",
+      "typing_extensions",
+      "pytest>=3.4 ; extra == \"dev\"",
+      "pytest-xdist ; extra == \"dev\"",
+      "pylint>=2.6.0 ; extra == \"dev\"",
+      "pyink ; extra == \"dev\"",
+      "sphinx-apitree[ext] ; extra == \"dev\"",
+      "etils[ecolab] ; extra == \"dev\"",
+      "sphinx ; extra == \"ext\"",
+      "myst_nb ; extra == \"ext\"",
+      "sphinx_book_theme ; extra == \"ext\"",
+      "sphinx-reredirects ; extra == \"ext\""
+    ]
+  },
+  "sphinx_apitree-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bbf8d8808a08093845079620fdf6cf23e9836b8a25cee0ca69a04e352c4b5a25",
+    "dependencies": {
+      "required": [
+        "etils",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "etils[edc, enp, epath, epy, etree]",
+      "typing_extensions",
+      "pytest>=3.4 ; extra == \"dev\"",
+      "pytest-xdist ; extra == \"dev\"",
+      "pylint>=2.6.0 ; extra == \"dev\"",
+      "pyink ; extra == \"dev\"",
+      "sphinx-apitree[ext] ; extra == \"dev\"",
+      "etils[ecolab] ; extra == \"dev\"",
+      "sphinx ; extra == \"ext\"",
+      "myst_nb ; extra == \"ext\"",
+      "sphinx_book_theme ; extra == \"ext\""
+    ]
+  },
+  "sphinx_apitree-1.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8809a0a66ccb701582ca8b39125057d022b538d16b5017f02c4469e5e72f48a9",
+    "dependencies": {
+      "required": [
+        "etils",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "etils[edc,enp,epath,epy,etree]",
+      "typing_extensions",
+      "pytest>=3.4 ; extra == \"dev\"",
+      "pytest-xdist ; extra == \"dev\"",
+      "pylint>=2.6.0 ; extra == \"dev\"",
+      "pyink ; extra == \"dev\"",
+      "sphinx-apitree[ext] ; extra == \"dev\"",
+      "etils[ecolab] ; extra == \"dev\"",
+      "sphinx ; extra == \"ext\"",
+      "myst_nb ; extra == \"ext\"",
+      "sphinx_book_theme ; extra == \"ext\""
+    ]
+  },
+  "sphinx_apitree-1.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f5aa7bdad5131b86fc9f5507245cf2a0613b59af52c8c31d62c1e862d226f25",
+    "dependencies": {
+      "required": [
+        "etils",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "etils[edc,enp,epath,epy,etree]",
+      "typing_extensions",
+      "pytest>=3.4 ; extra == \"dev\"",
+      "pytest-xdist ; extra == \"dev\"",
+      "pylint>=2.6.0 ; extra == \"dev\"",
+      "pyink ; extra == \"dev\"",
+      "sphinx-apitree[ext] ; extra == \"dev\"",
+      "etils[ecolab] ; extra == \"dev\"",
+      "sphinx ; extra == \"ext\"",
+      "myst_nb ; extra == \"ext\"",
+      "sphinx_book_theme ; extra == \"ext\""
+    ]
+  }
+}

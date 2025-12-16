@@ -1,0 +1,12 @@
+# Package configuration for jplephem
+conda_forge = "jplephem"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jplephem-2.23-py3-none-any.whl" },
+  { filename = "jplephem-2.22-py3-none-any.whl" },
+  { filename = "jplephem-2.21-py3-none-any.whl" },
+  { filename = "jplephem-2.20-py3-none-any.whl" },
+  { filename = "jplephem-2.19-py3-none-any.whl" },
+]

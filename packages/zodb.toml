@@ -1,0 +1,12 @@
+# Package configuration for zodb
+conda_forge = "zodb"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zodb-6.1-py3-none-any.whl" },
+  { filename = "zodb-6.0.1-py3-none-any.whl" },
+  { filename = "ZODB-6.0-py3-none-any.whl" },
+  { filename = "ZODB-5.8.1-py2.py3-none-any.whl" },
+  { filename = "ZODB-5.8.0-py2.py3-none-any.whl" },
+]

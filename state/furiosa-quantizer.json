@@ -1,0 +1,101 @@
+{
+  "furiosa_quantizer-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8456ec758aca7b9c55d8eba16c27efee24cab5d26dbaddbc136ed474e6117ee1",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "furiosa-quantizer-impl",
+        "numpy",
+        "onnx"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "furiosa-quantizer-impl == 0.10.*",
+      "numpy ~= 1.24",
+      "onnx ~= 1.14.0",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\""
+    ]
+  },
+  "furiosa_quantizer-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "946917be66700e128c7d24fc58d4387e818d2737cf34fc2dd25e668615505acb",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "furiosa-quantizer-impl",
+        "numpy",
+        "onnx"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "furiosa-quantizer-impl == 0.10.*",
+      "numpy ~= 1.24",
+      "onnx ~= 1.14.0",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\""
+    ]
+  },
+  "furiosa_quantizer-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dad67d5a25c1803188d233f006a649cb1abaa7bdacd31bab0ffda546666753db",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "furiosa-quantizer-impl",
+        "numpy",
+        "onnx"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "furiosa-quantizer-impl == 0.10.*",
+      "numpy ~= 1.24",
+      "onnx ~= 1.14.0",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\""
+    ]
+  },
+  "furiosa_quantizer-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "093acf1da2ae1bf4707fb8a4b39b9bd6045f714945c1dada2c623656300f84e1",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "furiosa-quantizer-impl",
+        "numpy",
+        "onnx"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.9.*",
+      "furiosa-quantizer-impl == 0.9.*",
+      "numpy ~= 1.24",
+      "onnx ~= 1.12.0"
+    ]
+  },
+  "furiosa_quantizer-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "143cea591867c2302d738b4fe64ed4c497aa199f9821aba104f4481d895a75d6",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "furiosa-quantizer-impl",
+        "numpy",
+        "onnx"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.9.*",
+      "furiosa-quantizer-impl == 0.9.*",
+      "numpy ~= 1.24",
+      "onnx ~= 1.12.0"
+    ]
+  }
+}

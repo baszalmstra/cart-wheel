@@ -1,0 +1,9 @@
+# Package configuration for pytest-profiling
+conda_forge = "pytest-profiling"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_profiling-1.8.1-py3-none-any.whl" },
+  { filename = "pytest_profiling-1.7.0-py2.py3-none-any.whl" },
+]

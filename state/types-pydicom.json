@@ -1,0 +1,13 @@
+{
+  "types_pydicom-3.0.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03634ecaf30765606ab0abdee9e743076f76bdb69bbca8712626996b4c29c2e8",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "mypy ; extra == 'dev'",
+      "build ; extra == 'dev'"
+    ]
+  }
+}

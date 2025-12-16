@@ -1,0 +1,98 @@
+{
+  "coredis-5.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d44beb557889e5061ded34f182883660f27b4fbd3162415a5c5d6c2b12484e14",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "beartype",
+        "deprecated",
+        "packaging",
+        "pympler",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout<6,>4",
+      "beartype>=0.20",
+      "deprecated>=1.2",
+      "packaging<26,>=21",
+      "pympler<2,>1",
+      "typing-extensions>=4.13",
+      "aiobotocore>=2.15.2; extra == 'recipes'",
+      "asyncache>=0.3.1; extra == 'recipes'"
+    ]
+  },
+  "coredis-5.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "afc934c4a1db935e2f5cb4af75a69158ae5730f896695ea936195f103b35f4cb",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "beartype",
+        "deprecated",
+        "typing-extensions",
+        "packaging",
+        "pympler"
+      ]
+    },
+    "original_requirements": [
+      "async_timeout<6,>4",
+      "beartype>=0.20",
+      "deprecated>=1.2",
+      "typing_extensions>=4.13",
+      "packaging<26,>=21",
+      "pympler<2,>1",
+      "aiobotocore>=2.15.2; extra == \"recipes\"",
+      "asyncache>=0.3.1; extra == \"recipes\""
+    ]
+  },
+  "coredis-5.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1bf6098a17832d232ca429640662b25be378139dd54574853ac21dc48cefd4ba",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "beartype",
+        "deprecated",
+        "typing-extensions",
+        "packaging",
+        "pympler"
+      ]
+    },
+    "original_requirements": [
+      "async_timeout<6,>4",
+      "beartype>=0.20",
+      "deprecated>=1.2",
+      "typing_extensions>=4.13",
+      "packaging<26,>=21",
+      "pympler<2,>1",
+      "aiobotocore>=2.15.2; extra == \"recipes\"",
+      "asyncache>=0.3.1; extra == \"recipes\""
+    ]
+  },
+  "coredis-5.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15f16cb40a61e99f7c8f0f65878316ed76ce9f22d002a4d7743235a4d2805d4d",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "beartype",
+        "deprecated",
+        "typing-extensions",
+        "packaging",
+        "pympler"
+      ]
+    },
+    "original_requirements": [
+      "async_timeout<6,>4",
+      "beartype>=0.20",
+      "deprecated>=1.2",
+      "typing_extensions>=4.13",
+      "packaging<26,>=21",
+      "pympler<2,>1",
+      "aiobotocore>=2.15.2; extra == \"recipes\"",
+      "asyncache>=0.3.1; extra == \"recipes\""
+    ]
+  }
+}

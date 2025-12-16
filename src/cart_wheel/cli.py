@@ -3,14 +3,19 @@
 from __future__ import annotations
 
 import argparse
+import asyncio
 import sys
 import time
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import UTC, datetime
 from pathlib import Path
+from typing import TYPE_CHECKING
 
 from rich.console import Console
+from rich.live import Live
 from rich.progress import Progress, SpinnerColumn, TextColumn
+from rich.prompt import Prompt
+from rich.table import Table
 
 from .channel import index_channel
 from .conda import DependencyConversionError, convert_wheel
@@ -24,6 +29,9 @@ from .state import (
     validate_all_dependencies,
 )
 from .sync import check_for_updates, sync_all, sync_package
+
+if TYPE_CHECKING:
+    from hishel.httpx import AsyncCacheClient
 
 console = Console()
 
@@ -115,6 +123,8 @@ def cmd_convert(args: argparse.Namespace) -> int:
 
 def cmd_sync(args: argparse.Namespace) -> int:
     """Sync all packages."""
+    from .sync import sync_all_async
+
     packages_dir = args.packages_dir
     state_dir = args.state_dir
     output_dir = args.output_dir
@@ -125,13 +135,42 @@ def cmd_sync(args: argparse.Namespace) -> int:
         print(f"Error: Packages directory not found: {packages_dir}", file=sys.stderr)
         return 1
 
-    results = sync_all(
-        packages_dir,
-        state_dir,
-        output_dir,
-        dry_run=dry_run,
-        show_progress=not quiet,
-    )
+    if quiet:
+        # Use original sync_all for quiet mode
+        results = sync_all(
+            packages_dir,
+            state_dir,
+            output_dir,
+            dry_run=dry_run,
+            show_progress=False,
+        )
+    else:
+        # Use async version with Rich Live display
+        console.print("[bold]Syncing packages...[/]")
+        console.print()
+
+        results = asyncio.run(
+            sync_all_async(
+                packages_dir,
+                state_dir,
+                output_dir,
+                live_console=console,
+                dry_run=dry_run,
+            )
+        )
+
+        # Print summary
+        console.print()
+        total_converted = sum(len(r.converted) for r in results)
+        total_failed = sum(len(r.failed) for r in results)
+
+        console.print("[bold]Summary:[/]")
+        if total_converted:
+            console.print(f"  [green]✓[/] {total_converted} wheel(s) converted")
+        if total_failed:
+            console.print(f"  [red]✗[/] {total_failed} wheel(s) failed")
+        if not total_converted and not total_failed:
+            console.print("  [dim]No wheels to process[/]")
 
     total_failed = sum(len(r.failed) for r in results)
     return 1 if total_failed > 0 else 0
@@ -288,6 +327,8 @@ class PackageInfo:
     optional_deps: set[str]
     error: str | None = None
     conda_forge: str | None = None  # Conda-forge package name if mapped
+    warnings: list[str] = field(default_factory=list)  # PyPI warnings
+    required_by: str | None = None  # Parent package that requires this
 
 
 def _fetch_package_info(
@@ -414,6 +455,381 @@ def _fetch_package_info(
     )
 
 
+async def _lookup_conda_mapping_async(
+    pypi_name: str,
+    client: AsyncCacheClient,
+) -> str | None:
+    """Look up conda-forge mapping asynchronously."""
+    normalized = pypi_name.lower().replace("_", "-")
+    url = f"{CONDA_MAPPING_URL}/{normalized}.json"
+
+    try:
+        response = await client.get(url)
+        if response.status_code != 200:
+            return None
+
+        data = response.json()
+        conda_versions = data.get("conda_versions", {})
+
+        for version_packages in conda_versions.values():
+            if version_packages:
+                return version_packages[0]
+        return None
+    except Exception:
+        return None
+
+
+async def _fetch_package_info_async(
+    package: str,
+    constraint: str,
+    max_versions: int,
+    client: AsyncCacheClient,
+    required_by: str | None = None,
+) -> PackageInfo:
+    """Fetch and validate package info from PyPI asynchronously."""
+    from .pypi import (
+        PyPIError,
+        fetch_wheel_metadata_async,
+        get_matching_versions_async,
+    )
+    from .wheel import parse_dependencies_from_metadata
+
+    normalized_name = package.lower().replace("_", "-")
+
+    # Fetch from PyPI
+    try:
+        releases, pypi_warnings = await get_matching_versions_async(
+            package, constraint or ">=0", client, max_versions=max_versions
+        )
+    except PyPIError as e:
+        return PackageInfo(
+            name=normalized_name,
+            original_name=package,
+            constraint=constraint,
+            wheels=[],
+            wheel_dependencies={},
+            required_deps=set(),
+            optional_deps=set(),
+            error=str(e),
+            required_by=required_by,
+        )
+
+    if not releases:
+        return PackageInfo(
+            name=normalized_name,
+            original_name=package,
+            constraint=constraint,
+            wheels=[],
+            wheel_dependencies={},
+            required_deps=set(),
+            optional_deps=set(),
+            error=f"No releases found matching constraint '{constraint or '>=0'}'",
+            warnings=pypi_warnings,
+            required_by=required_by,
+        )
+
+    # Select pure Python wheels only
+    wheels_to_add = []
+    for release in releases:
+        for wheel in release.wheels:
+            if "py3-none-any" in wheel.filename or "py2.py3-none-any" in wheel.filename:
+                wheels_to_add.append((release, wheel))
+                break
+
+    if not wheels_to_add:
+        return PackageInfo(
+            name=normalized_name,
+            original_name=package,
+            constraint=constraint,
+            wheels=[],
+            wheel_dependencies={},
+            required_deps=set(),
+            optional_deps=set(),
+            error="No pure Python wheels found",
+            warnings=pypi_warnings,
+            required_by=required_by,
+        )
+
+    # Fetch dependencies using PEP 658 metadata (concurrently)
+    required_deps: set[str] = set()
+    optional_deps: set[str] = set()
+    wheel_dependencies: dict[str, list[str]] = {}
+
+    async def fetch_metadata(wheel):
+        metadata = await fetch_wheel_metadata_async(wheel.url, client)
+        return wheel.filename, metadata
+
+    metadata_tasks = [fetch_metadata(w) for _, w in wheels_to_add]
+    metadata_results = await asyncio.gather(*metadata_tasks, return_exceptions=True)
+
+    for result in metadata_results:
+        if isinstance(result, Exception):
+            continue
+        filename, metadata = result
+        if metadata:
+            deps = parse_dependencies_from_metadata(metadata)
+            wheel_dependencies[filename] = deps
+            for dep in deps:
+                dep_name = _extract_dep_name(dep)
+                if dep_name != "python":
+                    if _is_required_dep(dep):
+                        required_deps.add(dep_name)
+                    else:
+                        optional_deps.add(dep_name)
+
+    return PackageInfo(
+        name=normalized_name,
+        original_name=package,
+        constraint=constraint,
+        wheels=wheels_to_add,
+        wheel_dependencies=wheel_dependencies,
+        required_deps=required_deps,
+        optional_deps=optional_deps,
+        warnings=pypi_warnings,
+        required_by=required_by,
+    )
+
+
+@dataclass
+class _FetchResult:
+    """Result of fetching a single package."""
+
+    info: PackageInfo
+    conda_name: str | None
+
+
+async def _fetch_single_package(
+    package: str,
+    constraint: str,
+    max_versions: int,
+    client: AsyncCacheClient,
+    required_by: str | None = None,
+) -> _FetchResult:
+    """Fetch conda mapping and PyPI info concurrently."""
+    conda_task = _lookup_conda_mapping_async(package, client)
+    pypi_task = _fetch_package_info_async(package, constraint, max_versions, client, required_by)
+
+    conda_name, info = await asyncio.gather(conda_task, pypi_task)
+    return _FetchResult(info=info, conda_name=conda_name)
+
+
+def _make_progress_table(
+    total: int,
+    completed: int,
+    succeeded: int,
+    conda_forge: int,
+    need_input: int,
+    in_flight: list[str],
+) -> Table:
+    """Create a progress table for Rich Live display."""
+    table = Table.grid(padding=(0, 2))
+    table.add_column()
+    table.add_column()
+
+    # Progress row
+    progress_text = f"Progress: {completed}/{total}"
+    stats_text = (
+        f"[green]✓ {succeeded}[/] ok  "
+        f"[cyan]⚡ {conda_forge}[/] conda-forge  "
+        f"[yellow]? {need_input}[/] need input"
+    )
+    table.add_row(progress_text, stats_text)
+
+    # In-flight row
+    if in_flight:
+        pkg_list = ", ".join(in_flight[:8])
+        if len(in_flight) > 8:
+            pkg_list += f" (+{len(in_flight) - 8} more)"
+        table.add_row("Fetching:", f"[dim]{pkg_list}[/]")
+
+    return table
+
+
+async def _add_packages_async(
+    package: str,
+    constraint: str,
+    max_versions: int,
+    packages_dir: Path,
+    force: bool,
+    live_console: Console,
+) -> tuple[list[PackageInfo], list[PackageInfo], bool]:
+    """Fetch packages concurrently with live progress display.
+
+    Returns:
+        Tuple of (packages_to_add, needs_input, aborted)
+    """
+    from .http import get_async_client
+
+    packages_to_add: list[PackageInfo] = []
+    needs_input: list[PackageInfo] = []
+
+    # Track state
+    seen: set[str] = set()
+    existing_packages = set(list_packages(packages_dir))
+    pending: list[tuple[str, str, str | None]] = [(package, constraint, None)]
+
+    # Stats for display
+    total = 0
+    completed = 0
+    succeeded = 0
+    conda_forge_count = 0
+    need_input_count = 0
+    in_flight: list[str] = []
+
+    # Semaphore to limit concurrent requests
+    semaphore = asyncio.Semaphore(50)
+
+    async with get_async_client() as client:
+        active_tasks: dict[asyncio.Task, str] = {}
+
+        def update_display(live: Live) -> None:
+            table = _make_progress_table(
+                total, completed, succeeded, conda_forge_count, need_input_count, in_flight
+            )
+            live.update(table)
+
+        with Live(
+            _make_progress_table(0, 0, 0, 0, 0, []),
+            console=live_console,
+            refresh_per_second=4,
+        ) as live:
+
+            async def fetch_wrapper(
+                pkg: str, cons: str, req_by: str | None
+            ) -> tuple[_FetchResult, str, str | None]:
+                async with semaphore:
+                    result = await _fetch_single_package(pkg, cons, max_versions, client, req_by)
+                    return result, pkg, req_by
+
+            def start_fetch(pkg: str, cons: str, req_by: str | None) -> asyncio.Task | None:
+                nonlocal total
+                normalized = pkg.lower().replace("_", "-")
+
+                if normalized in seen:
+                    return None
+                seen.add(normalized)
+
+                if normalized in existing_packages and not force:
+                    live.console.print(f"[dim]Skipping {normalized} (exists)[/]")
+                    return None
+
+                total += 1
+                in_flight.append(normalized)
+                update_display(live)
+
+                task = asyncio.create_task(fetch_wrapper(pkg, cons, req_by))
+                active_tasks[task] = normalized
+                return task
+
+            # Start initial package
+            start_fetch(package, constraint, None)
+
+            while active_tasks or pending:
+                # Start any pending fetches
+                while pending:
+                    pkg, cons, req_by = pending.pop(0)
+                    start_fetch(pkg, cons, req_by)
+
+                if not active_tasks:
+                    break
+
+                # Wait for at least one task to complete
+                done, _ = await asyncio.wait(
+                    active_tasks.keys(), return_when=asyncio.FIRST_COMPLETED
+                )
+
+                for task in done:
+                    normalized = active_tasks.pop(task)
+                    if normalized in in_flight:
+                        in_flight.remove(normalized)
+                    completed += 1
+
+                    try:
+                        result, pkg_name, req_by = task.result()
+                    except Exception as e:
+                        live.console.print(f"[red]Error fetching {normalized}: {e}[/]")
+                        update_display(live)
+                        continue
+
+                    info = result.info
+
+                    # Print warnings
+                    for warning in info.warnings:
+                        live.console.print(f"[dim yellow]⚠ {warning}[/]")
+
+                    if info.error:
+                        if result.conda_name:
+                            # Has conda-forge mapping - use it
+                            info.conda_forge = result.conda_name
+                            packages_to_add.append(info)
+                            succeeded += 1
+                            conda_forge_count += 1
+                            live.console.print(
+                                f"[green]✓[/] {info.name} → conda-forge: {result.conda_name}"
+                            )
+                        else:
+                            # Needs user input
+                            needs_input.append(info)
+                            need_input_count += 1
+                            err_short = info.error[:50] + "..." if len(info.error) > 50 else info.error
+                            live.console.print(f"[yellow]?[/] {info.name}: {err_short}")
+                    else:
+                        # Success
+                        info.conda_forge = result.conda_name
+                        packages_to_add.append(info)
+                        succeeded += 1
+                        if result.conda_name:
+                            conda_forge_count += 1
+
+                        wheel_count = len(info.wheels)
+                        conda_info = f" [dim](cf: {result.conda_name})[/]" if result.conda_name else ""
+                        live.console.print(f"[green]✓[/] {info.name}: {wheel_count} wheels{conda_info}")
+
+                        # Queue dependencies
+                        all_deps = info.required_deps | info.optional_deps
+                        for dep in sorted(all_deps):
+                            dep_normalized = dep.lower().replace("_", "-")
+                            if dep_normalized not in seen:
+                                pending.append((dep, "", info.name))
+
+                    update_display(live)
+
+    return packages_to_add, needs_input, False
+
+
+def _prompt_for_package(info: PackageInfo, console: Console) -> tuple[str, str | None]:
+    """Prompt user to resolve a package that needs input.
+
+    Returns:
+        Tuple of (action, value) where action is "map", "empty", or "abort"
+    """
+    console.print()
+    if info.required_by:
+        console.print(f"[red]Error:[/] {info.name} (required by {info.required_by}): {info.error}")
+    else:
+        console.print(f"[red]Error:[/] {info.name}: {info.error}")
+    console.print()
+    console.print("Options:")
+    console.print("  [bold]1[/] - Map to conda-forge package")
+    console.print("  [bold]2[/] - Add as empty package (no wheels)")
+    console.print("  [bold]3[/] - Abort")
+    console.print()
+
+    try:
+        choice = Prompt.ask("Choice", choices=["1", "2", "3"], default="1")
+
+        if choice == "3":
+            return "abort", None
+        elif choice == "2":
+            return "empty", info.name
+        else:
+            conda_name = Prompt.ask("Conda-forge package name", default=info.name)
+            return "map", conda_name or info.name
+
+    except (EOFError, KeyboardInterrupt):
+        return "abort", None
+
+
 def _write_package_files(
     info: PackageInfo,
     packages_dir: Path,
@@ -479,80 +895,6 @@ def _write_package_files(
     console.print(f"  [green]Created[/] {info.name} ({wheel_info}{conda_info})")
 
 
-@dataclass
-class MappingResult:
-    """Result of the dependency resolution prompt."""
-
-    action: str  # "map", "empty_package", "abort"
-    value: str | None = None  # conda name or None
-
-
-def _prompt_for_dependency_deferred(
-    package: str,
-    error: str,
-    required_by: str | None,
-    console: Console,
-) -> MappingResult:
-    """Prompt user to resolve a failed dependency (deferred file writing).
-
-    Options:
-    - Map to conda-forge package
-    - Add as package with no wheels
-    - Abort
-
-    Args:
-        package: Package name that failed
-        error: Error message
-        required_by: Parent package that requires this one
-        console: Rich console for output
-
-    Returns:
-        MappingResult with action and optional value (no files written)
-    """
-    from InquirerPy import inquirer
-    from InquirerPy.base.control import Choice
-
-    console.print()
-    if required_by:
-        console.print(f"[red]Error:[/] {package} (required by {required_by}): {error}")
-    else:
-        console.print(f"[red]Error:[/] {package}: {error}")
-    console.print()
-
-    try:
-        action = inquirer.select(
-            message="What would you like to do?",
-            choices=[
-                Choice(value="map", name=f"Map to conda-forge package (default: {package})"),
-                Choice(value="empty_package", name="Add as package with no wheels"),
-                Choice(value="abort", name="Abort"),
-            ],
-            default="map",
-            pointer=">",
-            show_cursor=False,
-        ).execute()
-
-        if action == "abort":
-            return MappingResult(action="abort")
-
-        if action == "empty_package":
-            return MappingResult(action="empty_package", value=package)
-
-        # Prompt for conda package name with default
-        conda_name = inquirer.text(
-            message="Conda-forge package name",
-            default=package,
-        ).execute()
-
-        if not conda_name:
-            conda_name = package
-
-        return MappingResult(action="map", value=conda_name)
-
-    except (EOFError, KeyboardInterrupt):
-        return MappingResult(action="abort")
-
-
 def _write_empty_package(
     package: str,
     packages_dir: Path,
@@ -609,12 +951,8 @@ conda_forge = "{conda_name}"
 def cmd_add(args: argparse.Namespace) -> int:
     """Add a new package to the channel.
 
-    This command uses a two-phase approach:
-    1. Phase 1: Recursively fetch and validate ALL packages (no files written)
-    2. Phase 2: If all packages are valid, write all files
-
-    If a package fails validation (e.g., no pure Python wheels), the user is
-    prompted to either create a conda-forge reference or abort.
+    Uses concurrent fetching with Rich Live progress display.
+    Packages needing user input are prompted after fetching completes.
     """
     package = args.package
     constraint = args.constraint or ""
@@ -626,105 +964,71 @@ def cmd_add(args: argparse.Namespace) -> int:
     # Auto-detect non-interactive mode if stdin is not a TTY
     non_interactive = args.non_interactive or not sys.stdin.isatty()
 
-    console.print("[bold]Phase 1:[/] Validating packages and dependencies...")
+    console.print("[bold]Fetching packages and dependencies...[/]")
     console.print()
 
-    # Track packages: (name, constraint, required_by)
-    pending: list[tuple[str, str, str | None]] = [(package, constraint, None)]
-    seen: set[str] = set()  # Normalized names we've processed
-    packages_to_add: list[PackageInfo] = []  # Packages with wheels to convert
-    empty_packages_to_add: list[str] = []  # Packages with no wheels
-
-    while pending:
-        current_pkg, current_constraint, required_by = pending.pop(0)
-        normalized = current_pkg.lower().replace("_", "-")
-
-        # Skip if already processed
-        if normalized in seen:
-            continue
-        seen.add(normalized)
-
-        # Check if already exists as a package (includes conda-forge references)
-        existing_packages = list_packages(packages_dir)
-        if normalized in existing_packages and not args.force:
-            console.print(f"[dim]Skipping {normalized} (already exists)[/]")
-            continue
-
-        # Check conda-forge mapping (stored as metadata in the package file)
-        conda_name = lookup_conda_mapping(normalized)
-
-        # Fetch package info from PyPI
-        info = _fetch_package_info(
-            package=current_pkg,
-            constraint=current_constraint,
+    # Run async fetching
+    packages_to_add, needs_input, _ = asyncio.run(
+        _add_packages_async(
+            package=package,
+            constraint=constraint,
             max_versions=max_versions,
             packages_dir=packages_dir,
             force=args.force,
-            console=console,
-            indent=1 if required_by else 0,
+            live_console=console,
         )
-
-        # None means package already exists (and not force)
-        if info is None:
-            continue
-
-        # Check for errors - use conda mapping if available, otherwise prompt or abort
-        if info.error:
-            # If we have a conda-forge mapping, use it instead of prompting
-            if conda_name:
-                info.conda_forge = conda_name
-                packages_to_add.append(info)  # Will be written as conda-forge only
-                continue
-
-            # No conda-forge mapping - prompt user or abort
-            if non_interactive:
-                console.print()
-                if required_by:
-                    console.print(f"[red]Error:[/] {normalized} (required by {required_by}): {info.error}")
-                else:
-                    console.print(f"[red]Error:[/] {normalized}: {info.error}")
-                console.print()
-                console.print("[yellow]No files were written.[/]")
-                console.print("Tip: Create a conda-forge reference package if it exists on conda-forge.")
-                return 1
-
-            result = _prompt_for_dependency_deferred(
-                normalized, info.error, required_by, console
-            )
-            if result.action == "abort":
-                console.print()
-                console.print("[yellow]Aborted. No files were written.[/]")
-                return 1
-
-            # Track for Phase 2
-            if result.action == "map":
-                info.conda_forge = result.value or normalized
-                packages_to_add.append(info)  # Will be written as conda-forge only
-            elif result.action == "empty_package":
-                empty_packages_to_add.append(normalized)
-            continue
-
-        # Success - store conda mapping if found
-        info.conda_forge = conda_name
-        packages_to_add.append(info)
-
-        # Queue dependencies for processing
-        all_deps = info.required_deps | info.optional_deps
-        for dep in sorted(all_deps):
-            dep_normalized = dep.lower().replace("_", "-")
-            if dep_normalized not in seen:
-                pending.append((dep, "", info.name))
+    )
 
     console.print()
+    console.print(f"[bold]Fetching complete.[/] {len(packages_to_add)} ready, {len(needs_input)} need input.")
+    console.print()
+
+    # Handle packages that need user input
+    empty_packages_to_add: list[str] = []
+    aborted = False
+
+    if needs_input:
+        if non_interactive:
+            console.print(f"[red]Error:[/] {len(needs_input)} package(s) need user input (non-interactive mode):")
+            for info in needs_input[:10]:  # Show first 10
+                req_info = f" (required by {info.required_by})" if info.required_by else ""
+                console.print(f"  - {info.name}{req_info}: {info.error}")
+            if len(needs_input) > 10:
+                console.print(f"  ... and {len(needs_input) - 10} more")
+            console.print()
+            console.print("[yellow]No files were written.[/]")
+            console.print("[dim]Tip: Run interactively to resolve these packages, or pre-create conda-forge references.[/]")
+            return 1
+
+        console.print(f"[yellow]{len(needs_input)} package(s) need your input:[/]")
+        console.print()
+
+        for info in needs_input:
+            action, value = _prompt_for_package(info, console)
+
+            if action == "abort":
+                aborted = True
+                break
+            elif action == "map":
+                info.conda_forge = value
+                packages_to_add.append(info)
+            elif action == "empty":
+                empty_packages_to_add.append(info.name)
+
+    if aborted:
+        console.print()
+        console.print("[yellow]Aborted. No files were written.[/]")
+        return 1
 
     total_to_add = len(packages_to_add) + len(empty_packages_to_add)
     if total_to_add == 0:
         console.print("[yellow]No new packages to add.[/]")
         return 0
 
-    # Phase 2: Write all files
+    # Write files
     if dry_run:
-        console.print("[bold]Phase 2:[/] Dry run - no files written")
+        console.print()
+        console.print("[bold]Dry run - no files written[/]")
         console.print()
         console.print(f"Would add {total_to_add} package(s):")
         for info in packages_to_add:
@@ -735,7 +1039,8 @@ def cmd_add(args: argparse.Namespace) -> int:
             console.print(f"  [dim]-[/] {pkg_name} (empty package)")
         return 0
 
-    console.print("[bold]Phase 2:[/] Writing package files...")
+    console.print()
+    console.print("[bold]Writing package files...[/]")
     console.print()
 
     for info in packages_to_add:
@@ -745,14 +1050,7 @@ def cmd_add(args: argparse.Namespace) -> int:
         _write_empty_package(pkg_name, packages_dir, state_dir, console)
 
     console.print()
-    console.print(f"[bold green]Successfully added {total_to_add} package(s):[/]")
-    for info in packages_to_add:
-        suffix = ""
-        if info.conda_forge:
-            suffix = " (conda-forge)" if not info.wheels else f" (conda-forge: {info.conda_forge})"
-        console.print(f"  [dim]-[/] {info.name}{suffix}")
-    for pkg_name in empty_packages_to_add:
-        console.print(f"  [dim]-[/] {pkg_name} (empty)")
+    console.print(f"[bold green]Successfully added {total_to_add} package(s)[/]")
 
     return 0
 

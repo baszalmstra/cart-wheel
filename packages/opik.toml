@@ -1,0 +1,11 @@
+# Package configuration for opik
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "opik-1.9.46-py3-none-any.whl" },
+  { filename = "opik-1.9.45-py3-none-any.whl" },
+  { filename = "opik-1.9.44-py3-none-any.whl" },
+  { filename = "opik-1.9.43-py3-none-any.whl" },
+  { filename = "opik-1.9.42-py3-none-any.whl" },
+]

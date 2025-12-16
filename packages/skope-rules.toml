@@ -1,0 +1,10 @@
+# Package configuration for skope-rules
+conda_forge = "skope-rules"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "skope_rules-1.0.1-py3-none-any.whl" },
+  { filename = "skope_rules-1.0.0-py3-none-any.whl" },
+  { filename = "skope_rules-0.0.1-py3-none-any.whl" },
+]

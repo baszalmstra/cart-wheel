@@ -1,0 +1,11 @@
+# Package configuration for azureml-mlflow
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azureml_mlflow-1.61.0.post1-py3-none-any.whl" },
+  { filename = "azureml_mlflow-1.61.0-py3-none-any.whl" },
+  { filename = "azureml_mlflow-1.60.0.post1-py3-none-any.whl" },
+  { filename = "azureml_mlflow-1.60.0-py3-none-any.whl" },
+  { filename = "azureml_mlflow-1.59.0.post1-py3-none-any.whl" },
+]

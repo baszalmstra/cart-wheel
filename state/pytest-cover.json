@@ -1,0 +1,56 @@
+{
+  "pytest_cover-3.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "578249955eb3b5f3991209df6e532bb770b647743b7392d3d97698dc02f39ebb",
+    "dependencies": {
+      "required": [
+        "pytest-cov"
+      ]
+    },
+    "original_requirements": [
+      "pytest-cov (>=2.0)"
+    ]
+  },
+  "pytest_cover-2.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f14434ef80cc1817df1de8f1bb1568d6fe90fd28de31a45234f9a50505d7f293",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.6.0)",
+      "coverage (>=3.7.1)"
+    ]
+  },
+  "pytest_cover-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e828d5ca17d411ec8e89336ebec62f38aac0ac9eda36a2252b1cc86bc83a6435",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.6.0)",
+      "coverage (>=3.7.1)"
+    ]
+  },
+  "pytest_cover-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c17c851a638ab9641f1a67a41e388972f5f8b3c0a6b5790ab448794bcfef678",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.6.0)",
+      "coverage (>=3.7.1)"
+    ]
+  }
+}

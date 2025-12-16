@@ -1,0 +1,12 @@
+# Package configuration for pytest-qt
+conda_forge = "pytest-qt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_qt-4.5.0-py3-none-any.whl" },
+  { filename = "pytest_qt-4.4.0-py3-none-any.whl" },
+  { filename = "pytest_qt-4.3.1-py3-none-any.whl" },
+  { filename = "pytest_qt-4.2.0-py2.py3-none-any.whl" },
+  { filename = "pytest_qt-4.1.0-py2.py3-none-any.whl" },
+]

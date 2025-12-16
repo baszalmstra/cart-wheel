@@ -1,0 +1,74 @@
+{
+  "pytest_tornado-0.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8d43f400c64fabc85af58891096d4f93f05e9f9baae2c751e039932a0f62d0b5",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "tornado",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.6)",
+      "tornado (>=4.1)",
+      "setuptools"
+    ]
+  },
+  "pytest_tornado-0.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "875d4047183d9e9a8b8bbba3ca762e27d7bf2205791444b2e0768e5a58a4d84c",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.6)",
+      "tornado (>=4.1)"
+    ]
+  },
+  "pytest_tornado-0.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad76fa156537840ae0e881543a1874438d992b47a75ef3e825578c327e92426e",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.6)",
+      "tornado (>=4.1)"
+    ]
+  },
+  "pytest_tornado-0.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9f650f7423605aee4771d118b09b1b802eb74dab3a84e74896bb20aae0dc93d",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.6)",
+      "tornado (<6,>=4)"
+    ]
+  },
+  "pytest_tornado-0.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "687c1f9c0f5bda7808c1e53c14bbebfe4fb9452e34cc95b440e598d4724265e0",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "tornado (>=4)"
+    ]
+  }
+}

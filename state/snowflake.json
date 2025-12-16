@@ -1,0 +1,77 @@
+{
+  "snowflake-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d9cc7138d115208c9d4e9999ef2e7c5dcc26fe59f38559e097d2668b3f180171",
+    "dependencies": {
+      "required": [
+        "snowflake-core",
+        "snowflake-legacy"
+      ]
+    },
+    "original_requirements": [
+      "snowflake-core==1.10.0",
+      "snowflake-legacy",
+      "snowflake-ml-python; extra == 'ml'"
+    ]
+  },
+  "snowflake-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2336f0382edfb8c7010500eee3a0a58dd9e909ffe8a614dd1ad64655b2311b9b",
+    "dependencies": {
+      "required": [
+        "snowflake-core",
+        "snowflake-legacy"
+      ]
+    },
+    "original_requirements": [
+      "snowflake-core==1.9.0",
+      "snowflake-legacy",
+      "snowflake-ml-python; extra == 'ml'"
+    ]
+  },
+  "snowflake-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "36fa6b4b730755ff549203d52311c004eed90ab442dd36d2393fe29ac6ad200d",
+    "dependencies": {
+      "required": [
+        "snowflake-core",
+        "snowflake-legacy"
+      ]
+    },
+    "original_requirements": [
+      "snowflake-core==1.8.0",
+      "snowflake-legacy",
+      "snowflake-ml-python; extra == 'ml'"
+    ]
+  },
+  "snowflake-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce6c88fd0d589b1f0452754fca5d2ee81dc5613d9734a951bbff6d8e1f1e04fe",
+    "dependencies": {
+      "required": [
+        "snowflake-core",
+        "snowflake-legacy"
+      ]
+    },
+    "original_requirements": [
+      "snowflake-core==1.7.0",
+      "snowflake-legacy",
+      "snowflake-ml-python; extra == 'ml'"
+    ]
+  },
+  "snowflake-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e4d61f891fb63e154e0dd6e4086fc268d45f605940421290288df37448954d86",
+    "dependencies": {
+      "required": [
+        "snowflake-core",
+        "snowflake-legacy"
+      ]
+    },
+    "original_requirements": [
+      "snowflake-core==1.6.0",
+      "snowflake-legacy",
+      "snowflake-ml-python; extra == 'ml'"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "zc_lockfile-4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa3aa295257bebaa09ea9ad5cb288bf9f98f88de6932f96b6659f62715d83581",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.testing; extra == \"test\""
+    ]
+  },
+  "zc.lockfile-3.0.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ddb2d71088c061dc8a5edbaa346b637d742ca1e1564be75cb98e7dcae715de19",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.testing ; extra == 'test'"
+    ]
+  },
+  "zc.lockfile-2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc33599b549f0c8a248cb72f3bf32d77712de1ff7ee8814312eb6456b42c015f",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.testing ; extra == 'test'"
+    ]
+  }
+}

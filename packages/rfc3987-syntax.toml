@@ -1,0 +1,9 @@
+# Package configuration for rfc3987-syntax
+conda_forge = "rfc3987-syntax"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rfc3987_syntax-1.1.0-py3-none-any.whl" },
+  { filename = "rfc3987_syntax-1.0.0-py3-none-any.whl" },
+]

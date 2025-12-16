@@ -1,0 +1,82 @@
+{
+  "pytest_datadir-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c677bc097d907ac71ca418109adc3abe34cf0bddfe6cf78aecfbabd96a15cf0",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.0",
+      "pytest; extra == \"testing\"",
+      "tox; extra == \"testing\"",
+      "pytest-datadir[testing]; extra == \"dev\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  },
+  "pytest_datadir-1.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8392ba0e9eaf37030e663dcd91cc5123dec99c44300f0c5eac44f35f13f0e086",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.0",
+      "pytest; extra == \"testing\"",
+      "tox; extra == \"testing\"",
+      "pytest-datadir[testing]; extra == \"dev\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  },
+  "pytest_datadir-1.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "12372417ff2cec4db8aecaf6b6fac119db91515f17e81c7926220e342148e3b4",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.0",
+      "pytest; extra == \"testing\"",
+      "tox; extra == \"testing\"",
+      "pytest-datadir[testing]; extra == \"dev\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  },
+  "pytest_datadir-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9dfb14e082a9e9c41b178ca35c3553266d54554f80d7941ed926957d8303c3e9",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.0",
+      "pytest; extra == \"testing\"",
+      "tox; extra == \"testing\"",
+      "pytest-datadir[testing]; extra == \"dev\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  },
+  "pytest_datadir-1.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa427f6218d3fc7481129d59c892bd7adfb8822613a2726ffc97f51968879cdb",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.0",
+      "pytest; extra == \"testing\"",
+      "tox; extra == \"testing\"",
+      "pytest-datadir[testing]; extra == \"dev\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  }
+}

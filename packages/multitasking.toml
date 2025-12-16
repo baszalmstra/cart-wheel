@@ -1,0 +1,8 @@
+# Package configuration for multitasking
+conda_forge = "multitasking"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "multitasking-0.0.11-py3-none-any.whl" },
+]

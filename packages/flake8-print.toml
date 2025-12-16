@@ -1,0 +1,11 @@
+# Package configuration for flake8-print
+conda_forge = "flake8-print"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_print-5.0.0-py3-none-any.whl" },
+  { filename = "flake8_print-4.0.1-py3-none-any.whl" },
+  { filename = "flake8_print-4.0.0-py3-none-any.whl" },
+  { filename = "flake8_print-3.1.1-py2.py3-none-any.whl" },
+]

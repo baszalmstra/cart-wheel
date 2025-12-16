@@ -1,0 +1,182 @@
+{
+  "geopy-2.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae8b4bc5c1131820f4d75fce9d4aaaca0c85189b3aa5d64c3dcaf5e3b7b882a7",
+    "dependencies": {
+      "required": [
+        "geographiclib"
+      ]
+    },
+    "original_requirements": [
+      "geographiclib (<3,>=1.52)",
+      "aiohttp ; extra == 'aiohttp'",
+      "coverage ; extra == 'dev'",
+      "flake8 (<5.1,>=5.0) ; extra == 'dev'",
+      "isort (<5.11.0,>=5.10.0) ; extra == 'dev'",
+      "pytest-asyncio (>=0.17) ; extra == 'dev'",
+      "pytest (>=3.10) ; extra == 'dev'",
+      "readme-renderer ; extra == 'dev'",
+      "sphinx-issues ; extra == 'dev'",
+      "sphinx (<=4.3.2) ; extra == 'dev'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'dev'",
+      "readme-renderer ; extra == 'dev-docs'",
+      "sphinx (<=4.3.2) ; extra == 'dev-docs'",
+      "sphinx-issues ; extra == 'dev-docs'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'dev-docs'",
+      "flake8 (<5.1,>=5.0) ; extra == 'dev-lint'",
+      "isort (<5.11.0,>=5.10.0) ; extra == 'dev-lint'",
+      "coverage ; extra == 'dev-test'",
+      "pytest-asyncio (>=0.17) ; extra == 'dev-test'",
+      "pytest (>=3.10) ; extra == 'dev-test'",
+      "sphinx (<=4.3.2) ; extra == 'dev-test'",
+      "urllib3 (>=1.24.2) ; extra == 'requests'",
+      "requests (>=2.16.2) ; extra == 'requests'",
+      "pytz ; extra == 'timezone'"
+    ]
+  },
+  "geopy-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2639a46d0ce4c091e9688b750ba94348a14b898a1e55c68f4b4a07e7d1afa20",
+    "dependencies": {
+      "required": [
+        "geographiclib"
+      ]
+    },
+    "original_requirements": [
+      "geographiclib (<3,>=1.52)",
+      "aiohttp ; extra == 'aiohttp'",
+      "coverage ; extra == 'dev'",
+      "flake8 (<5.1,>=5.0) ; extra == 'dev'",
+      "isort (<5.11.0,>=5.10.0) ; extra == 'dev'",
+      "pytest-asyncio (>=0.17) ; extra == 'dev'",
+      "pytest (>=3.10) ; extra == 'dev'",
+      "readme-renderer ; extra == 'dev'",
+      "sphinx-issues ; extra == 'dev'",
+      "sphinx (<=4.3.2) ; extra == 'dev'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'dev'",
+      "readme-renderer ; extra == 'dev-docs'",
+      "sphinx (<=4.3.2) ; extra == 'dev-docs'",
+      "sphinx-issues ; extra == 'dev-docs'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'dev-docs'",
+      "flake8 (<5.1,>=5.0) ; extra == 'dev-lint'",
+      "isort (<5.11.0,>=5.10.0) ; extra == 'dev-lint'",
+      "coverage ; extra == 'dev-test'",
+      "pytest-asyncio (>=0.17) ; extra == 'dev-test'",
+      "pytest (>=3.10) ; extra == 'dev-test'",
+      "sphinx (<=4.3.2) ; extra == 'dev-test'",
+      "urllib3 (>=1.24.2) ; extra == 'requests'",
+      "requests (>=2.16.2) ; extra == 'requests'",
+      "pytz ; extra == 'timezone'"
+    ]
+  },
+  "geopy-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a29a16d41d8e56ba8e07310802a1cbdf098eeb6069cc3d6d3068fc770629ffc",
+    "dependencies": {
+      "required": [
+        "geographiclib"
+      ]
+    },
+    "original_requirements": [
+      "geographiclib (<3,>=1.52)",
+      "aiohttp ; extra == 'aiohttp'",
+      "coverage ; extra == 'dev'",
+      "flake8 (<5.1,>=5.0) ; extra == 'dev'",
+      "isort (<5.11.0,>=5.10.0) ; extra == 'dev'",
+      "pytest-asyncio (>=0.17) ; extra == 'dev'",
+      "pytest (>=3.10) ; extra == 'dev'",
+      "readme-renderer ; extra == 'dev'",
+      "sphinx-issues ; extra == 'dev'",
+      "sphinx (<=4.3.2) ; extra == 'dev'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'dev'",
+      "readme-renderer ; extra == 'dev-docs'",
+      "sphinx (<=4.3.2) ; extra == 'dev-docs'",
+      "sphinx-issues ; extra == 'dev-docs'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'dev-docs'",
+      "flake8 (<5.1,>=5.0) ; extra == 'dev-lint'",
+      "isort (<5.11.0,>=5.10.0) ; extra == 'dev-lint'",
+      "coverage ; extra == 'dev-test'",
+      "pytest-asyncio (>=0.17) ; extra == 'dev-test'",
+      "pytest (>=3.10) ; extra == 'dev-test'",
+      "sphinx (<=4.3.2) ; extra == 'dev-test'",
+      "urllib3 (>=1.24.2) ; extra == 'requests'",
+      "requests (>=2.16.2) ; extra == 'requests'",
+      "pytz ; extra == 'timezone'"
+    ]
+  },
+  "geopy-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8f1f949082b964385de61fcc3a667a6a9a6e242beb1ae8972449f164b2ba0e89",
+    "dependencies": {
+      "required": [
+        "geographiclib"
+      ]
+    },
+    "original_requirements": [
+      "geographiclib (<2,>=1.49)",
+      "aiohttp ; extra == 'aiohttp'",
+      "async-generator ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "flake8 (<3.9.0,>=3.8.0) ; extra == 'dev'",
+      "isort (<5.7.0,>=5.6.0) ; extra == 'dev'",
+      "pytest-aiohttp ; extra == 'dev'",
+      "pytest (>=3.10) ; extra == 'dev'",
+      "readme-renderer ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "sphinx-issues ; extra == 'dev'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'dev'",
+      "readme-renderer ; extra == 'dev-docs'",
+      "sphinx ; extra == 'dev-docs'",
+      "sphinx-issues ; extra == 'dev-docs'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'dev-docs'",
+      "async-generator ; extra == 'dev-lint'",
+      "flake8 (<3.9.0,>=3.8.0) ; extra == 'dev-lint'",
+      "isort (<5.7.0,>=5.6.0) ; extra == 'dev-lint'",
+      "async-generator ; extra == 'dev-test'",
+      "coverage ; extra == 'dev-test'",
+      "pytest-aiohttp ; extra == 'dev-test'",
+      "pytest (>=3.10) ; extra == 'dev-test'",
+      "sphinx ; extra == 'dev-test'",
+      "urllib3 (>=1.24.2) ; extra == 'requests'",
+      "requests (>=2.16.2) ; extra == 'requests'",
+      "pytz ; extra == 'timezone'"
+    ]
+  },
+  "geopy-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4db8a2b79a2b3358a7d020ea195be639251a831a1b429c0d1b20c9f00c67c788",
+    "dependencies": {
+      "required": [
+        "geographiclib"
+      ]
+    },
+    "original_requirements": [
+      "geographiclib (<2,>=1.49)",
+      "aiohttp ; extra == 'aiohttp'",
+      "async-generator ; extra == 'dev'",
+      "flake8 (<3.9.0,>=3.8.0) ; extra == 'dev'",
+      "isort (<5.7.0,>=5.6.0) ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "pytest-aiohttp ; extra == 'dev'",
+      "pytest (>=3.10) ; extra == 'dev'",
+      "readme-renderer ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "sphinx-issues ; extra == 'dev'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'dev'",
+      "readme-renderer ; extra == 'dev-docs'",
+      "sphinx ; extra == 'dev-docs'",
+      "sphinx-issues ; extra == 'dev-docs'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'dev-docs'",
+      "async-generator ; extra == 'dev-lint'",
+      "flake8 (<3.9.0,>=3.8.0) ; extra == 'dev-lint'",
+      "isort (<5.7.0,>=5.6.0) ; extra == 'dev-lint'",
+      "async-generator ; extra == 'dev-test'",
+      "coverage ; extra == 'dev-test'",
+      "pytest-aiohttp ; extra == 'dev-test'",
+      "pytest (>=3.10) ; extra == 'dev-test'",
+      "urllib3 (>=1.24.2) ; extra == 'requests'",
+      "requests (>=2.16.2) ; extra == 'requests'",
+      "pytz ; extra == 'timezone'"
+    ]
+  }
+}

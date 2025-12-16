@@ -1,0 +1,149 @@
+{
+  "qtconsole-5.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "42ff0734269a77129097131ce96059f97dc864e6e061d7ed919609ccfe18dd22",
+    "dependencies": {
+      "required": [
+        "traitlets",
+        "jupyter-core",
+        "jupyter-client",
+        "pygments",
+        "ipykernel",
+        "ipython-pygments-lexers",
+        "qtpy",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "traitlets!=5.2.1,!=5.2.2",
+      "jupyter_core",
+      "jupyter_client>=4.1",
+      "pygments",
+      "ipykernel>=4.1",
+      "ipython_pygments_lexers",
+      "qtpy>=2.4.0",
+      "packaging",
+      "flaky; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-qt; extra == \"test\"",
+      "pytest-asyncio; extra == \"test\"",
+      "Sphinx>=1.3; extra == \"doc\""
+    ]
+  },
+  "qtconsole-5.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d22490d9589bace566ad4f3455b61fa2209156f40e87e19e2c3cb64e9264950",
+    "dependencies": {
+      "required": [
+        "traitlets",
+        "jupyter-core",
+        "jupyter-client",
+        "pygments",
+        "ipykernel",
+        "qtpy",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "traitlets!=5.2.1,!=5.2.2",
+      "jupyter-core",
+      "jupyter-client>=4.1",
+      "pygments",
+      "ipykernel>=4.1",
+      "qtpy>=2.4.0",
+      "packaging",
+      "Sphinx>=1.3; extra == \"doc\"",
+      "flaky; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-qt; extra == \"test\""
+    ]
+  },
+  "qtconsole-5.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c36e0d497a473b67898b96dd38666e645e4594019244263da7b409b84fa2ebb5",
+    "dependencies": {
+      "required": [
+        "traitlets",
+        "jupyter-core",
+        "jupyter-client",
+        "pygments",
+        "ipykernel",
+        "qtpy",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "traitlets!=5.2.1,!=5.2.2",
+      "jupyter-core",
+      "jupyter-client>=4.1",
+      "pygments",
+      "ipykernel>=4.1",
+      "qtpy>=2.4.0",
+      "packaging",
+      "Sphinx>=1.3; extra == \"doc\"",
+      "flaky; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-qt; extra == \"test\""
+    ]
+  },
+  "qtconsole-5.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "42d745f3d05d36240244a04e1e1ec2a86d5d9b6edb16dbdef582ccb629e87e0b",
+    "dependencies": {
+      "required": [
+        "traitlets",
+        "jupyter-core",
+        "jupyter-client",
+        "pygments",
+        "ipykernel",
+        "qtpy",
+        "pyzmq",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "traitlets !=5.2.1,!=5.2.2",
+      "jupyter-core",
+      "jupyter-client >=4.1",
+      "pygments",
+      "ipykernel >=4.1",
+      "qtpy >=2.4.0",
+      "pyzmq >=17.1",
+      "packaging",
+      "Sphinx >=1.3 ; extra == 'doc'",
+      "flaky ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-qt ; extra == 'test'"
+    ]
+  },
+  "qtconsole-5.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c75fa3e9b4ed884880ff7cea90a1b67451219279ec33deaee1d59e3df1a5d2b",
+    "dependencies": {
+      "required": [
+        "traitlets",
+        "jupyter-core",
+        "jupyter-client",
+        "pygments",
+        "ipykernel",
+        "qtpy",
+        "pyzmq",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "traitlets !=5.2.1,!=5.2.2",
+      "jupyter-core",
+      "jupyter-client >=4.1",
+      "pygments",
+      "ipykernel >=4.1",
+      "qtpy >=2.4.0",
+      "pyzmq >=17.1",
+      "packaging",
+      "Sphinx >=1.3 ; extra == 'doc'",
+      "flaky ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-qt ; extra == 'test'"
+    ]
+  }
+}

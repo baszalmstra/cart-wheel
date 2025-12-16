@@ -1,0 +1,12 @@
+# Package configuration for flask-jwt-extended
+conda_forge = "flask-jwt-extended"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Flask_JWT_Extended-4.7.1-py2.py3-none-any.whl" },
+  { filename = "Flask_JWT_Extended-4.7.0-py2.py3-none-any.whl" },
+  { filename = "Flask_JWT_Extended-4.6.0-py2.py3-none-any.whl" },
+  { filename = "Flask_JWT_Extended-4.5.3-py2.py3-none-any.whl" },
+  { filename = "Flask_JWT_Extended-4.5.2-py2.py3-none-any.whl" },
+]

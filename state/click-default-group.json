@@ -1,0 +1,25 @@
+{
+  "click_default_group-1.2.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b60486923720e7fc61731bdb32b617039aba820e22e1c88766b1125592eaa5f",
+    "dependencies": {
+      "required": [
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "pytest ; extra == \"test\""
+    ]
+  },
+  "click_default_group-1.2.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6cea0793e19f9bc2c9bfadaecd306d5751eb3bd51bbd7daa5e81898d14d2ba64",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == \"test\""
+    ]
+  }
+}

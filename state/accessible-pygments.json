@@ -1,0 +1,94 @@
+{
+  "accessible_pygments-0.0.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:40.491169+00:00",
+    "conda_file": "accessible-pygments-0.0.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pygments"
+      ],
+      "optional": {
+        "dev": [
+          "pillow",
+          "pkginfo",
+          "playwright",
+          "pre-commit",
+          "setuptools",
+          "twine"
+        ],
+        "tests": [
+          "hypothesis",
+          "pytest"
+        ]
+      }
+    },
+    "original_requirements": [
+      "pygments>=1.5",
+      "pillow; extra == 'dev'",
+      "pkginfo>=1.10; extra == 'dev'",
+      "playwright; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "setuptools; extra == 'dev'",
+      "twine>=5.0; extra == 'dev'",
+      "hypothesis; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "accessible_pygments-0.0.4-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:37.074923+00:00",
+    "conda_file": "accessible-pygments-0.0.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "pygments (>=1.5)"
+    ]
+  },
+  "accessible_pygments-0.0.3-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:37.744651+00:00",
+    "conda_file": "accessible-pygments-0.0.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "pygments (>=1.5)"
+    ]
+  },
+  "accessible_pygments-0.0.2-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:37.623756+00:00",
+    "conda_file": "accessible-pygments-0.0.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "pygments (>=1.5)"
+    ]
+  },
+  "accessible_pygments-0.0.1-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:37.343834+00:00",
+    "conda_file": "accessible-pygments-0.0.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "pygments (>=1.5)"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+# Package configuration for types-boto3-bcm-dashboards
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_bcm_dashboards-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_bcm_dashboards-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_bcm_dashboards-1.40.57-py3-none-any.whl" },
+  { filename = "types_boto3_bcm_dashboards-1.40.12-py3-none-any.whl" },
+]

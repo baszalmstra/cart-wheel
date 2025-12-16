@@ -1,0 +1,163 @@
+{
+  "arviz_plots-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c5a4d8fd5fa11c54fa91d21df76e8cd657eebc12ad718931f3e766b9b0b00309",
+    "dependencies": {
+      "required": [
+        "arviz-base",
+        "arviz-stats"
+      ]
+    },
+    "original_requirements": [
+      "arviz-base >=0.7.0",
+      "arviz-stats[xarray] >=0.7.0",
+      "bokeh ; extra == \"bokeh\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=6 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "h5netcdf ; extra == \"doc\"",
+      "plotly<6 ; extra == \"doc\"",
+      "matplotlib ; extra == \"matplotlib\"",
+      "plotly ; extra == \"plotly\"",
+      "webcolors ; extra == \"plotly\"",
+      "hypothesis ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "h5netcdf ; extra == \"test\"",
+      "kaleido ; extra == \"test\""
+    ]
+  },
+  "arviz_plots-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a244cda3259d409a33a7c7252e57b4a82bc4841599cb75139af84ab126083872",
+    "dependencies": {
+      "required": [
+        "arviz-base",
+        "arviz-stats"
+      ]
+    },
+    "original_requirements": [
+      "arviz-base >=0.6.0",
+      "arviz-stats[xarray] >=0.6.0",
+      "bokeh ; extra == \"bokeh\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=6 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "h5netcdf ; extra == \"doc\"",
+      "plotly<6 ; extra == \"doc\"",
+      "matplotlib ; extra == \"matplotlib\"",
+      "plotly ; extra == \"plotly\"",
+      "webcolors ; extra == \"plotly\"",
+      "hypothesis ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "h5netcdf ; extra == \"test\"",
+      "kaleido ; extra == \"test\""
+    ]
+  },
+  "arviz_plots-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a981e59b5b138d94dc1446c4aa1756bad2a249274692cbba47d33f335df1fde",
+    "dependencies": {
+      "required": [
+        "arviz-base",
+        "arviz-stats"
+      ]
+    },
+    "original_requirements": [
+      "arviz-base >=0.5.0",
+      "arviz-stats[xarray] >=0.5.0",
+      "bokeh ; extra == \"bokeh\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5,<8 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "h5netcdf ; extra == \"doc\"",
+      "plotly<6 ; extra == \"doc\"",
+      "matplotlib ; extra == \"matplotlib\"",
+      "plotly ; extra == \"plotly\"",
+      "webcolors ; extra == \"plotly\"",
+      "hypothesis ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "h5netcdf ; extra == \"test\""
+    ]
+  },
+  "arviz_plots-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5eea19a1a4378360f6226422bad4276a6f1005774d1a35eb609a2d7a83249167",
+    "dependencies": {
+      "required": [
+        "arviz-base",
+        "arviz-stats"
+      ]
+    },
+    "original_requirements": [
+      "arviz-base",
+      "arviz-stats[xarray]",
+      "bokeh ; extra == \"bokeh\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5,<8 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "h5netcdf ; extra == \"doc\"",
+      "plotly<6 ; extra == \"doc\"",
+      "matplotlib ; extra == \"matplotlib\"",
+      "plotly ; extra == \"plotly\"",
+      "webcolors ; extra == \"plotly\"",
+      "hypothesis ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "h5netcdf ; extra == \"test\""
+    ]
+  },
+  "arviz_plots-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82b6f38035244efed8a41343c6b9676fb0d9f1d71fea6b1c4c4e7a482497e082",
+    "dependencies": {
+      "required": [
+        "arviz-base",
+        "arviz-stats"
+      ]
+    },
+    "original_requirements": [
+      "arviz-base==0.3.0",
+      "arviz-stats[xarray]==0.3.0",
+      "bokeh ; extra == \"bokeh\"",
+      "sphinx-book-theme ; extra == \"doc\"",
+      "myst-parser[linkify] ; extra == \"doc\"",
+      "myst-nb ; extra == \"doc\"",
+      "sphinx-copybutton ; extra == \"doc\"",
+      "numpydoc ; extra == \"doc\"",
+      "sphinx>=5,<8 ; extra == \"doc\"",
+      "sphinx-design ; extra == \"doc\"",
+      "jupyter-sphinx ; extra == \"doc\"",
+      "h5netcdf ; extra == \"doc\"",
+      "matplotlib ; extra == \"matplotlib\"",
+      "plotly>5 ; extra == \"plotly\"",
+      "webcolors ; extra == \"plotly\"",
+      "hypothesis ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "h5netcdf ; extra == \"test\""
+    ]
+  }
+}

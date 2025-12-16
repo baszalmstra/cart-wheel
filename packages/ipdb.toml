@@ -1,0 +1,10 @@
+# Package configuration for ipdb
+conda_forge = "ipdb"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipdb-0.13.13-py3-none-any.whl" },
+  { filename = "ipdb-0.13.12-py3-none-any.whl" },
+  { filename = "ipdb-0.13.11-py3-none-any.whl" },
+]

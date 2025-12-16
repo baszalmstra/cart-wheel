@@ -1,0 +1,12 @@
+# Package configuration for cython-lint
+conda_forge = "cython-lint"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cython_lint-0.18.1-py3-none-any.whl" },
+  { filename = "cython_lint-0.18.0-py3-none-any.whl" },
+  { filename = "cython_lint-0.17.0-py3-none-any.whl" },
+  { filename = "cython_lint-0.16.7-py3-none-any.whl" },
+  { filename = "cython_lint-0.16.6-py3-none-any.whl" },
+]

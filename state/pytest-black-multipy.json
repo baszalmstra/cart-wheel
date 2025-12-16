@@ -1,0 +1,38 @@
+{
+  "pytest_black_multipy-1.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9eacd3c203c6b310ef9e22fb6261f2b43254d77d63a0a6e4adc3efdbe8fe68b6",
+    "dependencies": {
+      "required": [
+        "pytest-black"
+      ]
+    },
+    "original_requirements": [
+      "pytest-black ; python_version >= \"3.6\"",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'"
+    ]
+  },
+  "pytest_black_multipy-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae01145cce155bfcf7d07c74836a89952e6c2b8e0262b3c0cec61a3eaa8f23a0",
+    "dependencies": {
+      "required": [
+        "pytest-black"
+      ]
+    },
+    "original_requirements": [
+      "pytest-black ; python_version >= \"3.6\"",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'"
+    ]
+  }
+}

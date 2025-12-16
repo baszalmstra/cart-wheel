@@ -1,0 +1,12 @@
+# Package configuration for flask-cors
+conda_forge = "flask-cors"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flask_cors-6.0.2-py3-none-any.whl" },
+  { filename = "flask_cors-6.0.1-py3-none-any.whl" },
+  { filename = "flask_cors-6.0.0-py3-none-any.whl" },
+  { filename = "flask_cors-5.0.1-py3-none-any.whl" },
+  { filename = "Flask_Cors-5.0.0-py2.py3-none-any.whl" },
+]

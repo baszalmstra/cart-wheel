@@ -1,0 +1,12 @@
+# Package configuration for hatch-fancy-pypi-readme
+conda_forge = "hatch-fancy-pypi-readme"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hatch_fancy_pypi_readme-25.1.0-py3-none-any.whl" },
+  { filename = "hatch_fancy_pypi_readme-24.1.0-py3-none-any.whl" },
+  { filename = "hatch_fancy_pypi_readme-23.2.0-py3-none-any.whl" },
+  { filename = "hatch_fancy_pypi_readme-23.1.0-py3-none-any.whl" },
+  { filename = "hatch_fancy_pypi_readme-22.8.0-py3-none-any.whl" },
+]

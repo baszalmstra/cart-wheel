@@ -1,0 +1,109 @@
+{
+  "dm_haiku-0.0.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bcdae40ae21ada79b9295e961fb5e9f212440aaf690238011ee3956aaf2566c6",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "jmp",
+        "numpy",
+        "tabulate"
+      ]
+    },
+    "original_requirements": [
+      "absl-py>=0.7.1",
+      "jmp>=0.0.2",
+      "numpy>=1.18.0",
+      "tabulate>=0.8.9",
+      "jax>=0.7.2; extra == \"jax\"",
+      "jaxlib>=0.7.2; extra == \"jax\"",
+      "flax>=0.7.1; extra == \"flax\""
+    ]
+  },
+  "dm_haiku-0.0.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79f2fc2bf2985f99687209b72a193769ba2bcfde471ce7746cd36a64ea9ce74a",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "jmp",
+        "numpy",
+        "tabulate"
+      ]
+    },
+    "original_requirements": [
+      "absl-py>=0.7.1",
+      "jmp>=0.0.2",
+      "numpy>=1.18.0",
+      "tabulate>=0.8.9",
+      "jax>=0.6.0; extra == \"jax\"",
+      "jaxlib>=0.6.0; extra == \"jax\"",
+      "flax>=0.7.1; extra == \"flax\""
+    ]
+  },
+  "dm_haiku-0.0.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ee9562c68a059f146ad07f555ca591cb8c11ef751afecc38353863562bd23f43",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "jmp",
+        "numpy",
+        "tabulate"
+      ]
+    },
+    "original_requirements": [
+      "absl-py>=0.7.1",
+      "jmp>=0.0.2",
+      "numpy>=1.18.0",
+      "tabulate>=0.8.9",
+      "flax>=0.7.1; extra == \"flax\"",
+      "jax>=0.4.28; extra == \"jax\"",
+      "jaxlib>=0.4.28; extra == \"jax\""
+    ]
+  },
+  "dm_haiku-0.0.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7448a43a6486bff95253f84e18eacc607d9c1256592573117a9d1d23e2780706",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "jmp",
+        "numpy",
+        "tabulate",
+        "flax"
+      ]
+    },
+    "original_requirements": [
+      "absl-py >=0.7.1",
+      "jmp >=0.0.2",
+      "numpy >=1.18.0",
+      "tabulate >=0.8.9",
+      "flax >=0.7.1",
+      "jax >=0.4.24 ; extra == 'jax'",
+      "jaxlib >=0.4.24 ; extra == 'jax'"
+    ]
+  },
+  "dm_haiku-0.0.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4cac556a9d0e41758abda66bef5ff9dbb36e409c8cfc2b6f20247bc7d39ae45b",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "jmp",
+        "numpy",
+        "tabulate",
+        "flax"
+      ]
+    },
+    "original_requirements": [
+      "absl-py >=0.7.1",
+      "jmp >=0.0.2",
+      "numpy >=1.18.0",
+      "tabulate >=0.8.9",
+      "flax >=0.7.1",
+      "jax >=0.4.16 ; extra == 'jax'",
+      "jaxlib >=0.4.16 ; extra == 'jax'"
+    ]
+  }
+}

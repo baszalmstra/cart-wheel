@@ -1,0 +1,102 @@
+{
+  "reportlab-4.4.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c7c31d5c815bae7c76fc17f64ffc417e68992901acddb24504296cc39b065424",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "charset-normalizer"
+      ]
+    },
+    "original_requirements": [
+      "pillow>=9.0.0",
+      "charset-normalizer",
+      "rl_accel<1.1,>=0.9.0; extra == \"accel\"",
+      "rl_renderPM<4.1,>=4.0.3; extra == \"renderpm\"",
+      "rlPyCairo<1,>=0.2.0; extra == \"pycairo\"",
+      "freetype-py<2.4,>=2.3.0; extra == \"pycairo\"",
+      "rlbidi; extra == \"bidi\"",
+      "uharfbuzz; extra == \"shaping\""
+    ]
+  },
+  "reportlab-4.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "849773d7cd5dde2072fedbac18c8bc909506c8befba8f088ba7b09243c6684cc",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "charset-normalizer"
+      ]
+    },
+    "original_requirements": [
+      "pillow>=9.0.0",
+      "charset-normalizer",
+      "rl_accel<1.1,>=0.9.0; extra == \"accel\"",
+      "rl_renderPM<4.1,>=4.0.3; extra == \"renderpm\"",
+      "rlPyCairo<1,>=0.2.0; extra == \"pycairo\"",
+      "freetype-py<2.4,>=2.3.0; extra == \"pycairo\"",
+      "rlbidi; extra == \"bidi\"",
+      "uharfbuzz; extra == \"shaping\""
+    ]
+  },
+  "reportlab-4.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "299b3b0534e7202bb94ed2ddcd7179b818dcda7de9d8518a57c85a58a1ebaadb",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "charset-normalizer"
+      ]
+    },
+    "original_requirements": [
+      "pillow>=9.0.0",
+      "charset-normalizer",
+      "rl_accel<1.1,>=0.9.0; extra == \"accel\"",
+      "rl_renderPM<4.1,>=4.0.3; extra == \"renderpm\"",
+      "rlPyCairo<1,>=0.2.0; extra == \"pycairo\"",
+      "freetype-py<2.4,>=2.3.0; extra == \"pycairo\"",
+      "rlbidi; extra == \"bidi\"",
+      "uharfbuzz; extra == \"shaping\""
+    ]
+  },
+  "reportlab-4.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df905dc5ec5ddaae91fc9cb3371af863311271d555236410954961c5ee6ee1b5",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "charset-normalizer"
+      ]
+    },
+    "original_requirements": [
+      "pillow>=9.0.0",
+      "charset-normalizer",
+      "rl_accel<1.1,>=0.9.0; extra == \"accel\"",
+      "rl_renderPM<4.1,>=4.0.3; extra == \"renderpm\"",
+      "rlPyCairo<1,>=0.2.0; extra == \"pycairo\"",
+      "freetype-py<2.4,>=2.3.0; extra == \"pycairo\"",
+      "rlbidi; extra == \"bidi\"",
+      "uharfbuzz; extra == \"shaping\""
+    ]
+  },
+  "reportlab-4.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58e11be387457928707c12153b7e41e52533a5da3f587b15ba8f8fd0805c6ee2",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "charset-normalizer"
+      ]
+    },
+    "original_requirements": [
+      "pillow>=9.0.0",
+      "charset-normalizer",
+      "rl_accel<1.1,>=0.9.0; extra == \"accel\"",
+      "rl_renderPM<4.1,>=4.0.3; extra == \"renderpm\"",
+      "rlPyCairo<1,>=0.2.0; extra == \"pycairo\"",
+      "freetype-py<2.4,>=2.3.0; extra == \"pycairo\"",
+      "rlbidi; extra == \"bidi\"",
+      "uharfbuzz; extra == \"shaping\""
+    ]
+  }
+}

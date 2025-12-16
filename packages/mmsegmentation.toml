@@ -1,0 +1,12 @@
+# Package configuration for mmsegmentation
+conda_forge = "mmsegmentation"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mmsegmentation-1.2.2-py3-none-any.whl" },
+  { filename = "mmsegmentation-1.2.1-py3-none-any.whl" },
+  { filename = "mmsegmentation-1.2.0-py3-none-any.whl" },
+  { filename = "mmsegmentation-1.1.2-py3-none-any.whl" },
+  { filename = "mmsegmentation-1.1.1-py3-none-any.whl" },
+]

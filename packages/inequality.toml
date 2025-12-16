@@ -1,0 +1,11 @@
+# Package configuration for inequality
+conda_forge = "inequality"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "inequality-1.1.2-py3-none-any.whl" },
+  { filename = "inequality-1.1.1-py3-none-any.whl" },
+  { filename = "inequality-1.1.0-py3-none-any.whl" },
+  { filename = "inequality-1.0.1-py3-none-any.whl" },
+]

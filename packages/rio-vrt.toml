@@ -1,0 +1,11 @@
+# Package configuration for rio-vrt
+conda_forge = "rio-vrt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rio_vrt-0.3.1-py3-none-any.whl" },
+  { filename = "rio_vrt-0.2.0-py3-none-any.whl" },
+  { filename = "rio_vrt-0.1.0-py3-none-any.whl" },
+  { filename = "rio_vrt-0.0.0-py3-none-any.whl" },
+]

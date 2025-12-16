@@ -1,0 +1,8 @@
+# Package configuration for isoduration
+conda_forge = "isoduration"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "isoduration-20.11.0-py3-none-any.whl" },
+]

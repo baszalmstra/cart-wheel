@@ -1,0 +1,9 @@
+# Package configuration for fish-audio-sdk
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fish_audio_sdk-1.1.0-py3-none-any.whl" },
+  { filename = "fish_audio_sdk-1.0.0-py3-none-any.whl" },
+  { filename = "fish_audio_sdk-0.1.0-py3-none-any.whl" },
+]

@@ -1,0 +1,57 @@
+{
+  "tap_py-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae2a8a7999529ec568d03462e75968289cee5927dfd52fcc3a6381c8892d10ef",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "more-itertools; extra == 'yaml'",
+      "pyyaml>=5.1; extra == 'yaml'"
+    ]
+  },
+  "tap.py-3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "928c852f3361707b796c93730cc5402c6378660b161114461066acf53d65bf5d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "more-itertools ; extra == 'yaml'",
+      "PyYAML (>=5.1) ; extra == 'yaml'"
+    ]
+  },
+  "tap.py-3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a598bfaa2e224d71f2e86147c2ef822c18ff2e1b8ef006397e5056b08f92f699",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "more-itertools ; extra == 'yaml'",
+      "PyYAML (>=5.1) ; extra == 'yaml'"
+    ]
+  },
+  "tap.py-2.6.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b9ad4d17fa3615bbe2262ab16204d20662b4bff61ec5ecdba60398801e8c096",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "more-itertools; extra == 'yaml'",
+      "PyYAML; extra == 'yaml'"
+    ]
+  },
+  "tap.py-2.6.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e50bfd97ad731e5197ae9774f95fd872720d4548035fe17efd92cddc46e0880b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "more-itertools; extra == 'yaml'",
+      "PyYAML; extra == 'yaml'"
+    ]
+  }
+}

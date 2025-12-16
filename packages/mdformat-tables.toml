@@ -1,0 +1,12 @@
+# Package configuration for mdformat-tables
+conda_forge = "mdformat-tables"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mdformat_tables-1.0.0-py3-none-any.whl" },
+  { filename = "mdformat_tables-0.4.1-py3-none-any.whl" },
+  { filename = "mdformat_tables-0.4.0-py3-none-any.whl" },
+  { filename = "mdformat_tables-0.3.0-py3-none-any.whl" },
+  { filename = "mdformat_tables-0.2.1-py3-none-any.whl" },
+]

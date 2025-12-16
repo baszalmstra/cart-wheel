@@ -1,0 +1,140 @@
+{
+  "pytest_mypy_plugins-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "46e24e8d9eaeabcddd0a5dc5fb089c021903d5952e0c9d8af79383db99b9ffae",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "decorator",
+        "jsonschema",
+        "mypy",
+        "packaging",
+        "pytest",
+        "pyyaml",
+        "regex",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2",
+      "decorator",
+      "jsonschema",
+      "mypy>=1.3",
+      "packaging",
+      "pytest>=7.0.0",
+      "pyyaml",
+      "regex",
+      "tomlkit>=0.11"
+    ]
+  },
+  "pytest_mypy_plugins-3.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3478ccb68e26a159e1287c4614c60f84cd0720e3895f174365c7440498234b9f",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "decorator",
+        "jsonschema",
+        "mypy",
+        "packaging",
+        "pytest",
+        "pyyaml",
+        "regex",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2",
+      "decorator",
+      "jsonschema",
+      "mypy >=1.3",
+      "packaging",
+      "pytest >=7.0.0",
+      "pyyaml",
+      "regex",
+      "tomlkit >=0.11"
+    ]
+  },
+  "pytest_mypy_plugins-3.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e4bac8843db9a39f035ab7d9d18bb63d54fd54c3217a18e131ac50e41450847",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "decorator",
+        "jsonschema",
+        "mypy",
+        "packaging",
+        "pytest",
+        "pyyaml",
+        "regex",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2",
+      "decorator",
+      "jsonschema",
+      "mypy >=1.3",
+      "packaging",
+      "pytest >=7.0.0",
+      "pyyaml",
+      "regex",
+      "tomlkit >=0.11"
+    ]
+  },
+  "pytest_mypy_plugins-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc22cd07f15c14d2311459619a3524a0355c7d13a0d782a5b8aa10a2526d0e16",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "decorator",
+        "jsonschema",
+        "mypy",
+        "packaging",
+        "pytest",
+        "pyyaml",
+        "regex",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2",
+      "decorator",
+      "jsonschema",
+      "mypy >=1.3",
+      "packaging",
+      "pytest >=7.0.0",
+      "pyyaml",
+      "regex",
+      "tomlkit >=0.11"
+    ]
+  },
+  "pytest_mypy_plugins-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a1e3f51b68898bc25713cc53718a28d9dc0cfd51d28a537ef18c7df3b123ed84",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "mypy",
+        "decorator",
+        "pyyaml",
+        "jinja2",
+        "regex",
+        "packaging",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=7.0.0)",
+      "mypy (>=1.3)",
+      "decorator",
+      "pyyaml",
+      "Jinja2",
+      "regex",
+      "packaging",
+      "tomlkit (>=0.11)"
+    ]
+  }
+}

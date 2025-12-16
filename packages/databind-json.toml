@@ -1,0 +1,12 @@
+# Package configuration for databind-json
+conda_forge = "databind.json"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "databind.json-4.5.2-py3-none-any.whl" },
+  { filename = "databind.json-4.5.1-py3-none-any.whl" },
+  { filename = "databind_json-4.5.0-py3-none-any.whl" },
+  { filename = "databind.json-4.4.2-py3-none-any.whl" },
+  { filename = "databind.json-4.4.1-py3-none-any.whl" },
+]

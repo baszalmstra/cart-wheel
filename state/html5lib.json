@@ -1,0 +1,70 @@
+{
+  "html5lib-1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d78f8fde1c230e99fe37986a60526d7049ed4bf8a9fadbad5f00e22e58e041d",
+    "dependencies": {
+      "required": [
+        "six",
+        "webencodings"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9)",
+      "webencodings",
+      "genshi ; extra == 'all'",
+      "chardet (>=2.2) ; extra == 'all'",
+      "lxml ; (platform_python_implementation == 'CPython') and extra == 'all'",
+      "chardet (>=2.2) ; extra == 'chardet'",
+      "genshi ; extra == 'genshi'",
+      "lxml ; (platform_python_implementation == 'CPython') and extra == 'lxml'"
+    ]
+  },
+  "html5lib-1.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "20b159aa3badc9d5ee8f5c647e5efd02ed2a66ab8d354930bd9ff139fc1dc0a3",
+    "dependencies": {
+      "required": [
+        "six",
+        "webencodings"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9)",
+      "webencodings",
+      "genshi; extra == 'all'",
+      "chardet (>=2.2); extra == 'all'",
+      "datrie; platform_python_implementation == 'CPython' and extra == 'all'",
+      "lxml; platform_python_implementation == 'CPython' and extra == 'all'",
+      "chardet (>=2.2); extra == 'chardet'",
+      "datrie; platform_python_implementation == 'CPython' and extra == 'datrie'",
+      "genshi; extra == 'genshi'",
+      "lxml; platform_python_implementation == 'CPython' and extra == 'lxml'"
+    ]
+  },
+  "html5lib-0.999999999-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b8934484cf22f1db684c0fae27569a0db404d0208d20163fbf51cc537245d008",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "six",
+        "webencodings",
+        "ordereddict"
+      ]
+    },
+    "original_requirements": [
+      "setuptools (>=18.5)",
+      "six",
+      "webencodings",
+      "ordereddict; python_version == '2.6'",
+      "chardet (>=2.2); extra == 'all'",
+      "genshi; extra == 'all'",
+      "datrie; platform_python_implementation == 'CPython' and extra == 'all'",
+      "lxml; platform_python_implementation == 'CPython' and extra == 'all'",
+      "chardet (>=2.2); extra == 'chardet'",
+      "datrie; platform_python_implementation == 'CPython' and extra == 'datrie'",
+      "genshi; extra == 'genshi'",
+      "lxml; platform_python_implementation == 'CPython' and extra == 'lxml'"
+    ]
+  }
+}

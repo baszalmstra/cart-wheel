@@ -1,0 +1,128 @@
+{
+  "fastapi_code_generator-0.5.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "721db5d2c9b78d5f1c7a3ce33b86a73390b97b0409768e387f6454abc96df2f1",
+    "dependencies": {
+      "required": [
+        "pysnooper",
+        "datamodel-code-generator",
+        "jinja2",
+        "pydantic",
+        "stringcase",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "PySnooper (>=0.4.1,<1.2.0)",
+      "datamodel-code-generator[http] (==0.30.1)",
+      "jinja2 (>=2.11.2,<4.0.0)",
+      "pydantic (>=2.8,<3.0)",
+      "stringcase (>=1.2.0,<2.0.0)",
+      "typer[all] (>=0.2.1,<0.13.0)"
+    ]
+  },
+  "fastapi_code_generator-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa5893599bdf2fc99cdeaca31277670845a9db8b4b939015b17a74fae2519f87",
+    "dependencies": {
+      "required": [
+        "pysnooper",
+        "datamodel-code-generator",
+        "jinja2",
+        "pydantic",
+        "stringcase",
+        "typed-ast",
+        "typed-ast",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "PySnooper (>=0.4.1,<1.2.0)",
+      "datamodel-code-generator[http] (==0.28.5)",
+      "jinja2 (>=2.11.2,<4.0.0)",
+      "pydantic (>=2.8,<3.0)",
+      "stringcase (>=1.2.0,<2.0.0)",
+      "typed-ast (>=1.4.2) ; python_full_version < \"3.9.8\"",
+      "typed-ast (>=1.5.0) ; python_full_version >= \"3.9.8\"",
+      "typer[all] (>=0.2.1,<0.13.0)"
+    ]
+  },
+  "fastapi_code_generator-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ca9adedfc3cfd7403a203422122131494a41a508b66e2d8f0359a8fea2a673f",
+    "dependencies": {
+      "required": [
+        "pysnooper",
+        "datamodel-code-generator",
+        "jinja2",
+        "pydantic",
+        "stringcase",
+        "typed-ast",
+        "typed-ast",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "PySnooper (>=0.4.1,<1.2.0)",
+      "datamodel-code-generator[http] (==0.25.6)",
+      "jinja2 (>=2.11.2,<4.0.0)",
+      "pydantic (>=2.8,<3.0)",
+      "stringcase (>=1.2.0,<2.0.0)",
+      "typed-ast (>=1.4.2) ; python_full_version < \"3.9.8\"",
+      "typed-ast (>=1.5.0) ; python_full_version >= \"3.9.8\"",
+      "typer[all] (>=0.2.1,<0.13.0)"
+    ]
+  },
+  "fastapi_code_generator-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c1f5c055a73716eebb008c72be93ab6cc8114d643eeb2bd74b3303903055084b",
+    "dependencies": {
+      "required": [
+        "pysnooper",
+        "datamodel-code-generator",
+        "jinja2",
+        "pydantic",
+        "stringcase",
+        "typed-ast",
+        "typed-ast",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "PySnooper (>=0.4.1,<1.2.0)",
+      "datamodel-code-generator[http] (==0.25.6)",
+      "jinja2 (>=2.11.2,<4.0.0)",
+      "pydantic (>=2.0,<3.0)",
+      "stringcase (>=1.2.0,<2.0.0)",
+      "typed-ast (>=1.4.2) ; python_full_version < \"3.9.8\"",
+      "typed-ast (>=1.5.0) ; python_full_version >= \"3.9.8\"",
+      "typer[all] (>=0.2.1,<0.13.0)"
+    ]
+  },
+  "fastapi_code_generator-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd18b5a8cff0cac2c653d86b6a8a01dec8ed06f03f673eb85db7a11c3481851c",
+    "dependencies": {
+      "required": [
+        "pysnooper",
+        "datamodel-code-generator",
+        "jinja2",
+        "pydantic",
+        "stringcase",
+        "typed-ast",
+        "typed-ast",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "PySnooper (>=0.4.1,<1.2.0)",
+      "datamodel-code-generator[http] (==0.25.6)",
+      "jinja2 (>=2.11.2,<4.0.0)",
+      "pydantic (>=2.0,<3.0)",
+      "stringcase (>=1.2.0,<2.0.0)",
+      "typed-ast (>=1.4.2) ; python_full_version < \"3.9.8\"",
+      "typed-ast (>=1.5.0) ; python_full_version >= \"3.9.8\"",
+      "typer[all] (>=0.2.1,<0.10.0)"
+    ]
+  }
+}

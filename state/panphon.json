@@ -1,0 +1,126 @@
+{
+  "panphon-0.22.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a4c65113430d0699054cb00df978c02712d3c80913a1ef67697f888d96f3a00a",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "unicodecsv",
+        "pyyaml",
+        "regex",
+        "numpy",
+        "editdistance",
+        "munkres",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "unicodecsv",
+      "PyYAML",
+      "regex",
+      "numpy>=1.20.2",
+      "editdistance",
+      "munkres",
+      "pandas"
+    ]
+  },
+  "panphon-0.22.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ece1651a1ef63123502ff16d54e5448f3306e0d80de25aa5e925da75eaae1be",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "unicodecsv",
+        "pyyaml",
+        "regex",
+        "numpy",
+        "editdistance",
+        "munkres",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "unicodecsv",
+      "PyYAML",
+      "regex",
+      "numpy>=1.20.2",
+      "editdistance",
+      "munkres",
+      "pandas"
+    ]
+  },
+  "panphon-0.22.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c694583edfb330bf459c201b3f810b9e3b0a67aeaf6ead263af56e25e09e64c",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "unicodecsv",
+        "pyyaml",
+        "regex",
+        "numpy",
+        "editdistance",
+        "munkres"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "unicodecsv",
+      "PyYAML",
+      "regex",
+      "numpy>=1.20.2",
+      "editdistance",
+      "munkres"
+    ]
+  },
+  "panphon-0.21.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "53aa8375b69e78b585c4559d347d890e9953b4e06fb899b7998f1d8d56b91056",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "unicodecsv",
+        "pyyaml",
+        "regex",
+        "numpy",
+        "editdistance",
+        "munkres"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "unicodecsv",
+      "PyYAML",
+      "regex",
+      "numpy (>=1.20.2)",
+      "editdistance",
+      "munkres"
+    ]
+  },
+  "panphon-0.21.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a140ebd59d2017fb87c90479a40fbec9841f313ef8dee4c05f3aeb10866a5a5",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "unicodecsv",
+        "pyyaml",
+        "regex",
+        "numpy",
+        "editdistance",
+        "munkres"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "unicodecsv",
+      "PyYAML",
+      "regex",
+      "numpy (>=1.20.2)",
+      "editdistance",
+      "munkres"
+    ]
+  }
+}

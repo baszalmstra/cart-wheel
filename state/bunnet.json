@@ -1,0 +1,137 @@
+{
+  "bunnet-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "feaf0e3a061e98411110bcc02a5f4fbf7e7483f575dddda748888e293fb3c1a1",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "pymongo",
+        "click",
+        "toml",
+        "lazy-model",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=1.10,<3.0",
+      "pymongo>=3",
+      "click>=7",
+      "toml",
+      "lazy-model==0.2.0",
+      "typing-extensions>=4.7; python_version < '3.11'",
+      "Pygments>=2.8.0 ; extra == \"doc\"",
+      "Markdown>=3.3 ; extra == \"doc\"",
+      "pydoc-markdown>=4.8 ; extra == \"doc\"",
+      "mkdocs>=1.4 ; extra == \"doc\"",
+      "mkdocs-material>=9.0 ; extra == \"doc\"",
+      "jinja2>=3.0.3 ; extra == \"doc\"",
+      "beanie-batteries-queue>=0.2 ; extra == \"queue\"",
+      "pre-commit>=2.3.0 ; extra == \"test\"",
+      "pytest>=6.0.0 ; extra == \"test\"",
+      "pytest-asyncio>=0.21.0 ; extra == \"test\"",
+      "pytest-cov>=2.8.1 ; extra == \"test\"",
+      "dnspython>=2.1.0 ; extra == \"test\"",
+      "flake8>=3 ; extra == \"test\"",
+      "pyright>=0 ; extra == \"test\"",
+      "asgi-lifespan>=1.0.1 ; extra == \"test\"",
+      "httpx>=0.23.0 ; extra == \"test\"",
+      "fastapi>=0.100 ; extra == \"test\"",
+      "pydantic-settings>=2 ; extra == \"test\"",
+      "pydantic-extra-types>=2 ; extra == \"test\"",
+      "pydantic[email] ; extra == \"test\""
+    ]
+  },
+  "bunnet-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c13511fc33a109ebaaa8aed0ff4488c2f553d97a3a521c02a2346d16dc79270",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "pymongo",
+        "click",
+        "toml",
+        "lazy-model",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=1.10,<3.0",
+      "pymongo>=3",
+      "click>=7",
+      "toml",
+      "lazy-model==0.2.0",
+      "typing-extensions>=4.7; python_version < '3.11'",
+      "Pygments>=2.8.0 ; extra == \"doc\"",
+      "Markdown>=3.3 ; extra == \"doc\"",
+      "pydoc-markdown>=4.8 ; extra == \"doc\"",
+      "mkdocs>=1.4 ; extra == \"doc\"",
+      "mkdocs-material>=9.0 ; extra == \"doc\"",
+      "jinja2>=3.0.3 ; extra == \"doc\"",
+      "beanie-batteries-queue>=0.2 ; extra == \"queue\"",
+      "pre-commit>=2.3.0 ; extra == \"test\"",
+      "pytest>=6.0.0 ; extra == \"test\"",
+      "pytest-asyncio>=0.21.0 ; extra == \"test\"",
+      "pytest-cov>=2.8.1 ; extra == \"test\"",
+      "dnspython>=2.1.0 ; extra == \"test\"",
+      "flake8>=3 ; extra == \"test\"",
+      "pyright>=0 ; extra == \"test\"",
+      "asgi-lifespan>=1.0.1 ; extra == \"test\"",
+      "httpx>=0.23.0 ; extra == \"test\"",
+      "fastapi>=0.100 ; extra == \"test\"",
+      "pydantic-settings>=2 ; extra == \"test\"",
+      "pydantic-extra-types>=2 ; extra == \"test\""
+    ]
+  },
+  "bunnet-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "860d79bed3f97c0e45e631a725e6da22598712dad2a599240d62c5ee581dde1a",
+    "dependencies": {
+      "required": [
+        "click",
+        "lazy-model",
+        "pydantic",
+        "pymongo",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "click (>=7)",
+      "lazy-model (>=0.0.3)",
+      "pydantic (>=1.9.0)",
+      "pymongo",
+      "toml"
+    ]
+  },
+  "bunnet-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c56dbead2155d9a2cf4b081a6cf0304feccb0a3f3784b29f19621d6e97e24189",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "pymongo",
+        "yarl"
+      ]
+    },
+    "original_requirements": [
+      "pydantic (>=1.9.0)",
+      "pymongo",
+      "yarl (>=1.6)"
+    ]
+  },
+  "bunnet-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "baed9d76dc43849afd88e4da088ae6ac48e5305fc9c1467b5a716986a1b882f1",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "pymongo",
+        "yarl"
+      ]
+    },
+    "original_requirements": [
+      "pydantic (>=1.9.0)",
+      "pymongo",
+      "yarl (>=1.6)"
+    ]
+  }
+}

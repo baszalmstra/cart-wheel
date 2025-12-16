@@ -1,0 +1,11 @@
+# Package configuration for zope.configuration
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zope_configuration-7.0-py3-none-any.whl" },
+  { filename = "zope.configuration-6.0-py3-none-any.whl" },
+  { filename = "zope.configuration-5.0.1-py3-none-any.whl" },
+  { filename = "zope.configuration-5.0-py3-none-any.whl" },
+  { filename = "zope.configuration-4.4.1-py2.py3-none-any.whl" },
+]

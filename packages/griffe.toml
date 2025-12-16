@@ -1,0 +1,12 @@
+# Package configuration for griffe
+conda_forge = "griffe"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "griffe-1.15.0-py3-none-any.whl" },
+  { filename = "griffe-1.14.0-py3-none-any.whl" },
+  { filename = "griffe-1.13.0-py3-none-any.whl" },
+  { filename = "griffe-1.12.1-py3-none-any.whl" },
+  { filename = "griffe-1.12.0-py3-none-any.whl" },
+]

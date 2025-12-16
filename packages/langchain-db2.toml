@@ -1,0 +1,11 @@
+# Package configuration for langchain-db2
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_db2-1.0.0-py3-none-any.whl" },
+  { filename = "langchain_db2-0.1.7-py3-none-any.whl" },
+  { filename = "langchain_db2-0.1.6-py3-none-any.whl" },
+  { filename = "langchain_db2-0.1.5-py3-none-any.whl" },
+  { filename = "langchain_db2-0.1.4-py3-none-any.whl" },
+]

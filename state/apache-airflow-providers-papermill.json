@@ -1,0 +1,131 @@
+{
+  "apache_airflow_providers_papermill-3.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5956432ce568680d16d59e296a6b965e3bfa20fb2861c861413ae4add4c50e17",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "papermill",
+        "scrapbook",
+        "ipykernel",
+        "pandas",
+        "pandas",
+        "nbconvert"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "papermill[all]>=2.6.0",
+      "scrapbook[all]>=0.5.0",
+      "ipykernel>=6.29.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "nbconvert>=7.16.1",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_papermill-3.11.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b88ef4afed2c243827913ae34f5ad31b7f6122bae29d52aebd9b6d7ab4383457",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "papermill",
+        "scrapbook",
+        "ipykernel",
+        "pandas",
+        "pandas",
+        "nbconvert"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "papermill[all]>=2.6.0",
+      "scrapbook[all]>=0.5.0",
+      "ipykernel>=6.29.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "nbconvert>=7.16.1",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_papermill-3.11.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40c972fed1bb07e97aa9b79b27ea21d271b1b3b26c1219fc7d581bf6af304c34",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "papermill",
+        "scrapbook",
+        "ipykernel",
+        "pandas",
+        "pandas",
+        "nbconvert"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "papermill[all]>=2.6.0",
+      "scrapbook[all]>=0.5.0",
+      "ipykernel>=6.29.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "nbconvert>=7.16.1",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_papermill-3.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d28e00044392475ddd2bce233be714a4ef88fb12f3f6c42f8c67d53264978267",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "papermill",
+        "scrapbook",
+        "ipykernel",
+        "pandas",
+        "pandas",
+        "nbconvert"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "papermill[all]>=2.6.0",
+      "scrapbook[all]>=0.5.0",
+      "ipykernel>=6.29.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "nbconvert>=7.16.1",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_papermill-3.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d0e3219f9544e50e166cfedd40cc1acace711bb658cd185ad3dfaa673f6782d9",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "papermill",
+        "scrapbook",
+        "ipykernel",
+        "pandas",
+        "pandas",
+        "nbconvert"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "papermill[all]>=2.6.0",
+      "scrapbook[all]>=0.5.0",
+      "ipykernel>=6.29.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "nbconvert>=7.16.1",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  }
+}

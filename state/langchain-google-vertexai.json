@@ -1,0 +1,162 @@
+{
+  "langchain_google_vertexai-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c679c047f16b21030ba8901edac1abb7e6d9826cdab9b82c6f8e7234c9fd1cf6",
+    "dependencies": {
+      "required": [
+        "bottleneck",
+        "google-cloud-aiplatform",
+        "google-cloud-storage",
+        "httpx-sse",
+        "httpx",
+        "langchain-core",
+        "numexpr",
+        "pyarrow",
+        "pydantic",
+        "validators"
+      ]
+    },
+    "original_requirements": [
+      "bottleneck<2.0.0,>=1.4.0",
+      "google-cloud-aiplatform<2.0.0,>=1.97.0",
+      "google-cloud-storage<4.0.0,>=2.18.0",
+      "httpx-sse<1.0.0,>=0.4.0",
+      "httpx<1.0.0,>=0.28.0",
+      "langchain-core<2.0.0,>=1.1.1",
+      "numexpr<3.0.0,>=2.8.6",
+      "pyarrow<23.0.0,>=19.0.1",
+      "pydantic<3.0.0,>=2.9.0",
+      "validators<1.0.0,>=0.22.0",
+      "anthropic<1.0.0,>=0.35.0; extra == 'anthropic'",
+      "langchain-mistralai<2.0.0,>=0.2.0; extra == 'mistral'"
+    ]
+  },
+  "langchain_google_vertexai-3.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "100587669ab38330e9b1cac0035f8f341b5df65e70ddbec73efa9e8d45a3bf96",
+    "dependencies": {
+      "required": [
+        "bottleneck",
+        "google-cloud-aiplatform",
+        "google-cloud-storage",
+        "httpx-sse",
+        "httpx",
+        "langchain-core",
+        "numexpr",
+        "pyarrow",
+        "pydantic",
+        "validators"
+      ]
+    },
+    "original_requirements": [
+      "bottleneck<2.0.0,>=1.4.0",
+      "google-cloud-aiplatform<2.0.0,>=1.97.0",
+      "google-cloud-storage<4.0.0,>=2.18.0",
+      "httpx-sse<1.0.0,>=0.4.0",
+      "httpx<1.0.0,>=0.28.0",
+      "langchain-core<2.0.0,>=1.1.0",
+      "numexpr<3.0.0,>=2.8.6",
+      "pyarrow<23.0.0,>=19.0.1",
+      "pydantic<3.0.0,>=2.9.0",
+      "validators<1.0.0,>=0.22.0",
+      "anthropic<1.0.0,>=0.35.0; extra == 'anthropic'",
+      "langchain-mistralai<2.0.0,>=0.2.0; extra == 'mistral'"
+    ]
+  },
+  "langchain_google_vertexai-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c7498b47a44d656990704b5bdf8a0c37fb720c52bfce3e7bd492101bb6a092d",
+    "dependencies": {
+      "required": [
+        "bottleneck",
+        "google-cloud-aiplatform",
+        "google-cloud-storage",
+        "httpx-sse",
+        "httpx",
+        "langchain-core",
+        "numexpr",
+        "pyarrow",
+        "pydantic",
+        "validators"
+      ]
+    },
+    "original_requirements": [
+      "bottleneck<2.0.0,>=1.4.0",
+      "google-cloud-aiplatform<2.0.0,>=1.97.0",
+      "google-cloud-storage<4.0.0,>=2.18.0",
+      "httpx-sse<1.0.0,>=0.4.0",
+      "httpx<1.0.0,>=0.28.0",
+      "langchain-core<2.0.0,>=1.1.0",
+      "numexpr<3.0.0,>=2.8.6",
+      "pyarrow<23.0.0,>=19.0.1",
+      "pydantic<3.0.0,>=2.9.0",
+      "validators<1.0.0,>=0.22.0",
+      "anthropic<1.0.0,>=0.35.0; extra == 'anthropic'",
+      "langchain-mistralai<2.0.0,>=0.2.0; extra == 'mistral'"
+    ]
+  },
+  "langchain_google_vertexai-3.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa7aae407c2188da638edc473b859b99f0b09bb2b80e40e3b1de0930a0ff1aac",
+    "dependencies": {
+      "required": [
+        "bottleneck",
+        "google-cloud-aiplatform",
+        "google-cloud-storage",
+        "httpx-sse",
+        "httpx",
+        "langchain-core",
+        "numexpr",
+        "pyarrow",
+        "pydantic",
+        "validators"
+      ]
+    },
+    "original_requirements": [
+      "bottleneck<2.0.0,>=1.4.0",
+      "google-cloud-aiplatform<2.0.0,>=1.97.0",
+      "google-cloud-storage<4.0.0,>=2.18.0",
+      "httpx-sse<1.0.0,>=0.4.0",
+      "httpx<1.0.0,>=0.28.0",
+      "langchain-core<2.0.0,>=1.0.0",
+      "numexpr<3.0.0,>=2.8.6",
+      "pyarrow<22.0.0,>=19.0.1",
+      "pydantic<3.0.0,>=2.9.0",
+      "validators<1.0.0,>=0.22.0",
+      "anthropic<1.0.0,>=0.35.0; extra == 'anthropic'",
+      "langchain-mistralai<2.0.0,>=0.2.0; extra == 'mistral'"
+    ]
+  },
+  "langchain_google_vertexai-3.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f90cbbdd789583f5d5e026e5cbb9dd6cea7a1efd9138729e0732b4eb6a8f53a4",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "google-cloud-aiplatform",
+        "google-cloud-storage",
+        "httpx",
+        "httpx-sse",
+        "pydantic",
+        "validators",
+        "bottleneck",
+        "numexpr",
+        "pyarrow"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=1.0.0",
+      "google-cloud-aiplatform<2.0.0,>=1.97.0",
+      "google-cloud-storage<3.0.0,>=2.18.0",
+      "httpx<1.0.0,>=0.28.0",
+      "httpx-sse<1.0.0,>=0.4.0",
+      "pydantic<3.0.0,>=2.9.0",
+      "validators<1.0.0,>=0.22.0",
+      "bottleneck<2.0.0,>=1.4.0",
+      "numexpr<3.0.0,>=2.8.6",
+      "pyarrow<22.0.0,>=19.0.1",
+      "anthropic<1.0.0,>=0.35.0; extra == \"anthropic\"",
+      "langchain-mistralai<2.0.0,>=0.2.0; extra == \"mistral\""
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "partd-1.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "978e4ac767ec4ba5b86c6eaa52e5a2a3bc748a2ca839e8cc798f1cc6ce6efb0f",
+    "dependencies": {
+      "required": [
+        "locket",
+        "toolz"
+      ]
+    },
+    "original_requirements": [
+      "locket",
+      "toolz",
+      "numpy >=1.20.0 ; extra == 'complete'",
+      "pandas >=1.3 ; extra == 'complete'",
+      "pyzmq ; extra == 'complete'",
+      "blosc ; extra == 'complete'"
+    ]
+  },
+  "partd-1.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "27e766663d36c161e2827aa3e28541c992f0b9527d3cca047e13fb3acdb989e6",
+    "dependencies": {
+      "required": [
+        "locket",
+        "toolz"
+      ]
+    },
+    "original_requirements": [
+      "locket",
+      "toolz",
+      "numpy (>=1.9.0) ; extra == 'complete'",
+      "pandas (>=0.19.0) ; extra == 'complete'",
+      "pyzmq ; extra == 'complete'",
+      "blosc ; extra == 'complete'"
+    ]
+  },
+  "partd-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a63529348cf0dff14b986db641cd1b83c16b5cb9fc647c2851779db03282ef8",
+    "dependencies": {
+      "required": [
+        "locket",
+        "toolz"
+      ]
+    },
+    "original_requirements": [
+      "locket",
+      "toolz",
+      "numpy (>=1.9.0) ; extra == 'complete'",
+      "pandas (>=0.19.0) ; extra == 'complete'",
+      "pyzmq ; extra == 'complete'",
+      "blosc ; extra == 'complete'"
+    ]
+  },
+  "partd-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6393a0c898a0ad945728e34e52de0df3ae295c5aff2e2926ba7cc3c60a734a15",
+    "dependencies": {
+      "required": [
+        "locket",
+        "toolz"
+      ]
+    },
+    "original_requirements": [
+      "locket",
+      "toolz",
+      "numpy (>=1.9.0) ; extra == 'complete'",
+      "pandas (>=0.19.0) ; extra == 'complete'",
+      "pyzmq ; extra == 'complete'",
+      "blosc ; extra == 'complete'"
+    ]
+  },
+  "partd-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c3a5d70da89485c27916328dc1e26232d0e270771bd4caef4a5124b6a457288",
+    "dependencies": {
+      "required": [
+        "locket",
+        "toolz"
+      ]
+    },
+    "original_requirements": [
+      "locket",
+      "toolz",
+      "numpy (>=1.9.0) ; extra == 'complete'",
+      "pandas (>=0.19.0) ; extra == 'complete'",
+      "pyzmq ; extra == 'complete'",
+      "blosc ; extra == 'complete'"
+    ]
+  }
+}

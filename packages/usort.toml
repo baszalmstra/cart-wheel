@@ -1,0 +1,12 @@
+# Package configuration for usort
+conda_forge = "usort"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "usort-1.1.0-py3-none-any.whl" },
+  { filename = "usort-1.0.8.post1-py3-none-any.whl" },
+  { filename = "usort-1.0.8-py3-none-any.whl" },
+  { filename = "usort-1.0.7-py3-none-any.whl" },
+  { filename = "usort-1.0.6-py3-none-any.whl" },
+]

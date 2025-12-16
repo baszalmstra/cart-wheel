@@ -1,0 +1,12 @@
+# Package configuration for ipyvue
+conda_forge = "ipyvue"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipyvue-1.11.3-py2.py3-none-any.whl" },
+  { filename = "ipyvue-1.11.2-py2.py3-none-any.whl" },
+  { filename = "ipyvue-1.11.1-py2.py3-none-any.whl" },
+  { filename = "ipyvue-1.11.0-py2.py3-none-any.whl" },
+  { filename = "ipyvue-1.10.2-py2.py3-none-any.whl" },
+]

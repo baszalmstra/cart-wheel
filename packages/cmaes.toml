@@ -1,0 +1,12 @@
+# Package configuration for cmaes
+conda_forge = "cmaes"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cmaes-0.12.0-py3-none-any.whl" },
+  { filename = "cmaes-0.11.1-py3-none-any.whl" },
+  { filename = "cmaes-0.11.0-py3-none-any.whl" },
+  { filename = "cmaes-0.10.0-py3-none-any.whl" },
+  { filename = "cmaes-0.9.1-py3-none-any.whl" },
+]

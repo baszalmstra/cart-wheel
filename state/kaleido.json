@@ -1,0 +1,60 @@
+{
+  "kaleido-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c27ed82b51df6b923d0e656feac221343a0dbcd2fb9bc7e6b1db97f61e9a1513",
+    "dependencies": {
+      "required": [
+        "choreographer",
+        "logistro",
+        "orjson",
+        "packaging",
+        "pytest-timeout"
+      ]
+    },
+    "original_requirements": [
+      "choreographer>=1.1.1",
+      "logistro>=1.0.8",
+      "orjson>=3.10.15",
+      "packaging",
+      "pytest-timeout>=2.4.0"
+    ]
+  },
+  "kaleido-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "839ed2357b89dd2f93c478960f41c401fe4038d404ae33e2fdbde028c18d7430",
+    "dependencies": {
+      "required": [
+        "choreographer",
+        "logistro",
+        "orjson",
+        "packaging",
+        "pytest-timeout"
+      ]
+    },
+    "original_requirements": [
+      "choreographer>=1.0.10",
+      "logistro>=1.0.8",
+      "orjson>=3.10.15",
+      "packaging",
+      "pytest-timeout>=2.4.0"
+    ]
+  },
+  "kaleido-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7e8bd95648378d2746f6c86084d419d15f95b1ec7bb0ec810289b7feb25b18d",
+    "dependencies": {
+      "required": [
+        "choreographer",
+        "logistro",
+        "orjson",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "choreographer>=1.0.5",
+      "logistro>=1.0.8",
+      "orjson>=3.10.15",
+      "packaging"
+    ]
+  }
+}

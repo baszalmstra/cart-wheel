@@ -1,0 +1,12 @@
+# Package configuration for prefect
+conda_forge = "prefect"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "prefect-3.6.6-py3-none-any.whl" },
+  { filename = "prefect-3.6.5-py3-none-any.whl" },
+  { filename = "prefect-3.6.4-py3-none-any.whl" },
+  { filename = "prefect-3.6.3-py3-none-any.whl" },
+  { filename = "prefect-3.6.2-py3-none-any.whl" },
+]

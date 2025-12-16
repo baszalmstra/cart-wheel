@@ -1,0 +1,12 @@
+# Package configuration for jupyter-events
+conda_forge = "jupyter_events"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyter_events-0.12.0-py3-none-any.whl" },
+  { filename = "jupyter_events-0.11.0-py3-none-any.whl" },
+  { filename = "jupyter_events-0.10.0-py3-none-any.whl" },
+  { filename = "jupyter_events-0.9.1-py3-none-any.whl" },
+  { filename = "jupyter_events-0.9.0-py3-none-any.whl" },
+]

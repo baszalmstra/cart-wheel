@@ -1,0 +1,111 @@
+{
+  "graphviz-0.21-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "54f33de9f4f911d7e84e4191749cac8cc5653f815b06738c54db9a15ab8b1e42",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "build; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "Flake8-pyproject; extra == \"dev\"",
+      "pep8-naming; extra == \"dev\"",
+      "tox>=3; extra == \"dev\"",
+      "pytest<8.1,>=7; extra == \"test\"",
+      "pytest-mock>=3; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "sphinx<7,>=5; extra == \"docs\"",
+      "sphinx-autodoc-typehints; extra == \"docs\"",
+      "sphinx-rtd-theme>=0.2.5; extra == \"docs\""
+    ]
+  },
+  "graphviz-0.20.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81f848f2904515d8cd359cc611faba817598d2feaac4027b266aa3eda7b3dde5",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "tox >=3 ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pep8-naming ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "sphinx <7,>=5 ; extra == 'docs'",
+      "sphinx-autodoc-typehints ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pytest <8.1,>=7 ; extra == 'test'",
+      "pytest-mock >=3 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "coverage ; extra == 'test'"
+    ]
+  },
+  "graphviz-0.20.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63d1ae75f1ca60f980e1cd3a61a678eef8de645ef8427736b2bb9bdd035ca44b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "tox >=3 ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pep8-naming ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "sphinx <7,>=5 ; extra == 'docs'",
+      "sphinx-autodoc-typehints ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pytest <8.1,>=7 ; extra == 'test'",
+      "pytest-mock >=3 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "coverage ; extra == 'test'"
+    ]
+  },
+  "graphviz-0.20.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "587c58a223b51611c0cf461132da386edd896a029524ca61a1462b880bf97977",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "tox (>=3) ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pep8-naming ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "sphinx (>=5) ; extra == 'docs'",
+      "sphinx-autodoc-typehints ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pytest (>=7) ; extra == 'test'",
+      "pytest-mock (>=3) ; extra == 'test'",
+      "mock (>=4) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "coverage ; extra == 'test'"
+    ]
+  },
+  "graphviz-0.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62c5f48bcc534a45b4588c548ff75e419c1f1f3a33d31a91796ae80a7f581e4a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "tox (>=3) ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pep8-naming ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "sphinx (>=4) ; extra == 'docs'",
+      "sphinx-autodoc-typehints ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pytest (>=7) ; extra == 'test'",
+      "pytest-mock (>=3) ; extra == 'test'",
+      "mock (>=4) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "coverage ; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "daiquiri-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "64d2d6e1cd5f03d86a3a111b2a526cf335e5e85332b7835a9199404785df0753",
+    "dependencies": {
+      "required": [
+        "python-json-logger"
+      ]
+    },
+    "original_requirements": [
+      "python-json-logger>=3",
+      "pytest; extra == \"test\"",
+      "systemd-python>=234; extra == \"systemd\""
+    ]
+  },
+  "daiquiri-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ceb2e7923280a18be3fa6a37cb6da705bb92436607a3ee71bc79cdedae0b9aeb",
+    "dependencies": {
+      "required": [
+        "python-json-logger"
+      ]
+    },
+    "original_requirements": [
+      "python-json-logger>=3",
+      "pytest; extra == \"test\"",
+      "systemd-python>=234; extra == \"systemd\""
+    ]
+  },
+  "daiquiri-3.2.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a3457f54fc077e12796b258dfdc7f16572177e41c95d84c54bf010a9fd371d3",
+    "dependencies": {
+      "required": [
+        "python-json-logger"
+      ]
+    },
+    "original_requirements": [
+      "python-json-logger",
+      "systemd-python >=234 ; extra == 'systemd'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "daiquiri-3.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8a7b034b9d12bb957e49ffbfecdbe6de74c176b3e19ae4f521d108fc79b8e1d",
+    "dependencies": {
+      "required": [
+        "python-json-logger"
+      ]
+    },
+    "original_requirements": [
+      "python-json-logger",
+      "systemd-python >=234 ; extra == 'systemd'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "daiquiri-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b797a7ac94219dc26ef8ebf04f1f507eefa83a7d174e9eb41acc33e3ebf16f38",
+    "dependencies": {
+      "required": [
+        "python-json-logger"
+      ]
+    },
+    "original_requirements": [
+      "python-json-logger",
+      "systemd-python (>=234) ; extra == 'systemd'",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

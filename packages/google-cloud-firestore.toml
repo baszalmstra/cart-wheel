@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-firestore
+conda_forge = "google-cloud-firestore"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_firestore-2.21.0-py3-none-any.whl" },
+  { filename = "google_cloud_firestore-2.20.2-py3-none-any.whl" },
+  { filename = "google_cloud_firestore-2.20.1-py2.py3-none-any.whl" },
+  { filename = "google_cloud_firestore-2.20.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_firestore-2.19.0-py2.py3-none-any.whl" },
+]

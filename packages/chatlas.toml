@@ -1,0 +1,11 @@
+# Package configuration for chatlas
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "chatlas-0.14.0-py3-none-any.whl" },
+  { filename = "chatlas-0.13.2-py3-none-any.whl" },
+  { filename = "chatlas-0.13.1-py3-none-any.whl" },
+  { filename = "chatlas-0.13.0-py3-none-any.whl" },
+  { filename = "chatlas-0.12.0-py3-none-any.whl" },
+]

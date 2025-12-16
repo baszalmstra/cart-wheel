@@ -1,0 +1,12 @@
+# Package configuration for coolname
+conda_forge = "coolname"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "coolname-2.2.0-py2.py3-none-any.whl" },
+  { filename = "coolname-2.1.0-py2.py3-none-any.whl" },
+  { filename = "coolname-2.0.0-py2.py3-none-any.whl" },
+  { filename = "coolname-1.1.0-py2.py3-none-any.whl" },
+  { filename = "coolname-1.0.4-py2.py3-none-any.whl" },
+]

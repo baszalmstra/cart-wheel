@@ -1,0 +1,12 @@
+# Package configuration for win32-setctime
+conda_forge = "win32_setctime"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "win32_setctime-1.2.0-py3-none-any.whl" },
+  { filename = "win32_setctime-1.1.0-py3-none-any.whl" },
+  { filename = "win32_setctime-1.0.4-py3-none-any.whl" },
+  { filename = "win32_setctime-1.0.3-py3-none-any.whl" },
+  { filename = "win32_setctime-1.0.2-py3-none-any.whl" },
+]

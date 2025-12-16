@@ -1,0 +1,172 @@
+{
+  "interpret_community-0.32.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "29c0100de72380d471c96847df43c98da3f3389225189006ffa9defcec15581c",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "scipy",
+        "ml-wrappers",
+        "scikit-learn",
+        "packaging",
+        "interpret-core",
+        "shap",
+        "raiutils"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pandas",
+      "scipy",
+      "ml-wrappers~=0.6.0",
+      "scikit-learn",
+      "packaging",
+      "interpret-core<=0.6.9,>=0.1.20",
+      "shap<=0.46.0,>=0.20.0",
+      "raiutils~=0.4.0",
+      "hdbscan; extra == \"sample\"",
+      "tensorflow; extra == \"deep\"",
+      "pyyaml; extra == \"deep\"",
+      "keras; extra == \"deep\"",
+      "lightgbm; extra == \"mimic\"",
+      "lime>=0.2.0.0; extra == \"lime\""
+    ]
+  },
+  "interpret_community-0.31.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c21e14d4c79bf3af77c058e41e985fb83be1f7684561b706986d07afeaf8e56",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "scipy",
+        "ml-wrappers",
+        "scikit-learn",
+        "packaging",
+        "shap",
+        "raiutils",
+        "interpret-core",
+        "interpret-core"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pandas <2.0.0",
+      "scipy",
+      "ml-wrappers ~=0.5.4",
+      "scikit-learn",
+      "packaging",
+      "shap <=0.44.0,>=0.20.0",
+      "raiutils ~=0.4.0",
+      "interpret-core <0.5.0,>=0.1.20 ; python_version <= \"3.7\"",
+      "interpret-core <=0.5.0,>=0.1.20 ; python_version >= \"3.8\"",
+      "tensorflow ; extra == 'deep'",
+      "pyyaml ; extra == 'deep'",
+      "keras ; extra == 'deep'",
+      "lime >=0.2.0.0 ; extra == 'lime'",
+      "lightgbm ; extra == 'mimic'",
+      "hdbscan ; extra == 'sample'"
+    ]
+  },
+  "interpret_community-0.30.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4df7eb5773d56c92aa53d8460ecd82a327e78ef84b70a0c2f360daece33a795c",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "scipy",
+        "ml-wrappers",
+        "scikit-learn",
+        "packaging",
+        "interpret-core",
+        "shap",
+        "raiutils"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pandas <2.0.0",
+      "scipy",
+      "ml-wrappers ~=0.5.0",
+      "scikit-learn",
+      "packaging",
+      "interpret-core[required] <=0.4.3,>=0.1.20",
+      "shap <=0.41.0,>=0.20.0",
+      "raiutils ~=0.4.0",
+      "tensorflow ; extra == 'deep'",
+      "pyyaml ; extra == 'deep'",
+      "keras ; extra == 'deep'",
+      "lime >=0.2.0.0 ; extra == 'lime'",
+      "lightgbm ; extra == 'mimic'",
+      "hdbscan ; extra == 'sample'"
+    ]
+  },
+  "interpret_community-0.29.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "853a4b537a0d18f9eee1c5df090d60fce714832c4df433a49685a4d833d4101f",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "scipy",
+        "ml-wrappers",
+        "scikit-learn",
+        "packaging",
+        "interpret-core",
+        "shap",
+        "raiutils"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pandas (<2.0.0)",
+      "scipy",
+      "ml-wrappers (~=0.4.3)",
+      "scikit-learn",
+      "packaging",
+      "interpret-core[required] (<=0.3.2,>=0.1.20)",
+      "shap (<=0.41.0,>=0.20.0)",
+      "raiutils (~=0.4.0)",
+      "tensorflow ; extra == 'deep'",
+      "pyyaml ; extra == 'deep'",
+      "keras ; extra == 'deep'",
+      "lime (>=0.2.0.0) ; extra == 'lime'",
+      "lightgbm ; extra == 'mimic'",
+      "hdbscan ; extra == 'sample'"
+    ]
+  },
+  "interpret_community-0.28.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f67ba76e01465d02ee56a329b42f5a7c2fa11b7c8ad964c38828caf44c4378ce",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pandas",
+        "scipy",
+        "ml-wrappers",
+        "scikit-learn",
+        "packaging",
+        "interpret-core",
+        "shap"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pandas",
+      "scipy",
+      "ml-wrappers (~=0.4.2)",
+      "scikit-learn",
+      "packaging",
+      "interpret-core[required] (<=0.2.7,>=0.1.20)",
+      "shap (<=0.41.0,>=0.20.0)",
+      "tensorflow ; extra == 'deep'",
+      "pyyaml ; extra == 'deep'",
+      "keras ; extra == 'deep'",
+      "lime (>=0.2.0.0) ; extra == 'lime'",
+      "lightgbm ; extra == 'mimic'",
+      "hdbscan ; extra == 'sample'"
+    ]
+  }
+}

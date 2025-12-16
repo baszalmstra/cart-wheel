@@ -1,0 +1,12 @@
+# Package configuration for dataclasses
+conda_forge = "dataclasses"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dataclasses-0.8-py3-none-any.whl" },
+  { filename = "dataclasses-0.7-py3-none-any.whl" },
+  { filename = "dataclasses-0.6-py3-none-any.whl" },
+  { filename = "dataclasses-0.5-py3-none-any.whl" },
+  { filename = "dataclasses-0.4-py3-none-any.whl" },
+]

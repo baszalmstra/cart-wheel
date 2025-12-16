@@ -1,0 +1,212 @@
+{
+  "fastapi-0.124.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6d1e703698443ccb89e50abe4893f3c84d9d6689c0cf1ca4fad6d3c15cf69f15",
+    "dependencies": {
+      "required": [
+        "starlette",
+        "pydantic",
+        "typing-extensions",
+        "annotated-doc"
+      ]
+    },
+    "original_requirements": [
+      "starlette<0.51.0,>=0.40.0",
+      "pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4",
+      "typing-extensions>=4.8.0",
+      "annotated-doc>=0.0.2",
+      "fastapi-cli[standard]>=0.0.8; extra == \"standard\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"standard\"",
+      "jinja2>=3.1.5; extra == \"standard\"",
+      "python-multipart>=0.0.18; extra == \"standard\"",
+      "email-validator>=2.0.0; extra == \"standard\"",
+      "uvicorn[standard]>=0.12.0; extra == \"standard\"",
+      "fastapi-cli[standard-no-fastapi-cloud-cli]>=0.0.8; extra == \"standard-no-fastapi-cloud-cli\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "jinja2>=3.1.5; extra == \"standard-no-fastapi-cloud-cli\"",
+      "python-multipart>=0.0.18; extra == \"standard-no-fastapi-cloud-cli\"",
+      "email-validator>=2.0.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "uvicorn[standard]>=0.12.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "fastapi-cli[standard]>=0.0.8; extra == \"all\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"all\"",
+      "jinja2>=3.1.5; extra == \"all\"",
+      "python-multipart>=0.0.18; extra == \"all\"",
+      "itsdangerous>=1.1.0; extra == \"all\"",
+      "pyyaml>=5.3.1; extra == \"all\"",
+      "ujson!=4.0.2,!=4.1.0,!=4.2.0,!=4.3.0,!=5.0.0,!=5.1.0,>=4.0.1; extra == \"all\"",
+      "orjson>=3.2.1; extra == \"all\"",
+      "email-validator>=2.0.0; extra == \"all\"",
+      "uvicorn[standard]>=0.12.0; extra == \"all\"",
+      "pydantic-settings>=2.0.0; extra == \"all\"",
+      "pydantic-extra-types>=2.0.0; extra == \"all\""
+    ]
+  },
+  "fastapi-0.124.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "09d57f9a7e37e13a693212cba34a6b76e3a1d6e1b9e7fc8e4c357988c4624e47",
+    "dependencies": {
+      "required": [
+        "starlette",
+        "pydantic",
+        "typing-extensions",
+        "annotated-doc"
+      ]
+    },
+    "original_requirements": [
+      "starlette<0.51.0,>=0.40.0",
+      "pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4",
+      "typing-extensions>=4.8.0",
+      "annotated-doc>=0.0.2",
+      "fastapi-cli[standard]>=0.0.8; extra == \"standard\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"standard\"",
+      "jinja2>=3.1.5; extra == \"standard\"",
+      "python-multipart>=0.0.18; extra == \"standard\"",
+      "email-validator>=2.0.0; extra == \"standard\"",
+      "uvicorn[standard]>=0.12.0; extra == \"standard\"",
+      "fastapi-cli[standard-no-fastapi-cloud-cli]>=0.0.8; extra == \"standard-no-fastapi-cloud-cli\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "jinja2>=3.1.5; extra == \"standard-no-fastapi-cloud-cli\"",
+      "python-multipart>=0.0.18; extra == \"standard-no-fastapi-cloud-cli\"",
+      "email-validator>=2.0.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "uvicorn[standard]>=0.12.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "fastapi-cli[standard]>=0.0.8; extra == \"all\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"all\"",
+      "jinja2>=3.1.5; extra == \"all\"",
+      "python-multipart>=0.0.18; extra == \"all\"",
+      "itsdangerous>=1.1.0; extra == \"all\"",
+      "pyyaml>=5.3.1; extra == \"all\"",
+      "ujson!=4.0.2,!=4.1.0,!=4.2.0,!=4.3.0,!=5.0.0,!=5.1.0,>=4.0.1; extra == \"all\"",
+      "orjson>=3.2.1; extra == \"all\"",
+      "email-validator>=2.0.0; extra == \"all\"",
+      "uvicorn[standard]>=0.12.0; extra == \"all\"",
+      "pydantic-settings>=2.0.0; extra == \"all\"",
+      "pydantic-extra-types>=2.0.0; extra == \"all\""
+    ]
+  },
+  "fastapi-0.124.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6314385777a507bb19b34bd064829fddaea0eea54436deb632b5de587554055c",
+    "dependencies": {
+      "required": [
+        "starlette",
+        "pydantic",
+        "typing-extensions",
+        "annotated-doc"
+      ]
+    },
+    "original_requirements": [
+      "starlette<0.51.0,>=0.40.0",
+      "pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4",
+      "typing-extensions>=4.8.0",
+      "annotated-doc>=0.0.2",
+      "fastapi-cli[standard]>=0.0.8; extra == \"standard\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"standard\"",
+      "jinja2>=3.1.5; extra == \"standard\"",
+      "python-multipart>=0.0.18; extra == \"standard\"",
+      "email-validator>=2.0.0; extra == \"standard\"",
+      "uvicorn[standard]>=0.12.0; extra == \"standard\"",
+      "fastapi-cli[standard-no-fastapi-cloud-cli]>=0.0.8; extra == \"standard-no-fastapi-cloud-cli\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "jinja2>=3.1.5; extra == \"standard-no-fastapi-cloud-cli\"",
+      "python-multipart>=0.0.18; extra == \"standard-no-fastapi-cloud-cli\"",
+      "email-validator>=2.0.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "uvicorn[standard]>=0.12.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "fastapi-cli[standard]>=0.0.8; extra == \"all\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"all\"",
+      "jinja2>=3.1.5; extra == \"all\"",
+      "python-multipart>=0.0.18; extra == \"all\"",
+      "itsdangerous>=1.1.0; extra == \"all\"",
+      "pyyaml>=5.3.1; extra == \"all\"",
+      "ujson!=4.0.2,!=4.1.0,!=4.2.0,!=4.3.0,!=5.0.0,!=5.1.0,>=4.0.1; extra == \"all\"",
+      "orjson>=3.2.1; extra == \"all\"",
+      "email-validator>=2.0.0; extra == \"all\"",
+      "uvicorn[standard]>=0.12.0; extra == \"all\"",
+      "pydantic-settings>=2.0.0; extra == \"all\"",
+      "pydantic-extra-types>=2.0.0; extra == \"all\""
+    ]
+  },
+  "fastapi-0.124.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8a2deaa03837e5694eaf1eb538b7637abd86f25973cbaf9d51525e5c03a967a",
+    "dependencies": {
+      "required": [
+        "starlette",
+        "pydantic",
+        "typing-extensions",
+        "annotated-doc"
+      ]
+    },
+    "original_requirements": [
+      "starlette<0.51.0,>=0.40.0",
+      "pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4",
+      "typing-extensions>=4.8.0",
+      "annotated-doc>=0.0.2",
+      "fastapi-cli[standard]>=0.0.8; extra == \"standard\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"standard\"",
+      "jinja2>=3.1.5; extra == \"standard\"",
+      "python-multipart>=0.0.18; extra == \"standard\"",
+      "email-validator>=2.0.0; extra == \"standard\"",
+      "uvicorn[standard]>=0.12.0; extra == \"standard\"",
+      "fastapi-cli[standard-no-fastapi-cloud-cli]>=0.0.8; extra == \"standard-no-fastapi-cloud-cli\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "jinja2>=3.1.5; extra == \"standard-no-fastapi-cloud-cli\"",
+      "python-multipart>=0.0.18; extra == \"standard-no-fastapi-cloud-cli\"",
+      "email-validator>=2.0.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "uvicorn[standard]>=0.12.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "fastapi-cli[standard]>=0.0.8; extra == \"all\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"all\"",
+      "jinja2>=3.1.5; extra == \"all\"",
+      "python-multipart>=0.0.18; extra == \"all\"",
+      "itsdangerous>=1.1.0; extra == \"all\"",
+      "pyyaml>=5.3.1; extra == \"all\"",
+      "ujson!=4.0.2,!=4.1.0,!=4.2.0,!=4.3.0,!=5.0.0,!=5.1.0,>=4.0.1; extra == \"all\"",
+      "orjson>=3.2.1; extra == \"all\"",
+      "email-validator>=2.0.0; extra == \"all\"",
+      "uvicorn[standard]>=0.12.0; extra == \"all\"",
+      "pydantic-settings>=2.0.0; extra == \"all\"",
+      "pydantic-extra-types>=2.0.0; extra == \"all\""
+    ]
+  },
+  "fastapi-0.124.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91596bdc6dde303c318f06e8d2bc75eafb341fc793a0c9c92c0bc1db1ac52480",
+    "dependencies": {
+      "required": [
+        "starlette",
+        "pydantic",
+        "typing-extensions",
+        "annotated-doc"
+      ]
+    },
+    "original_requirements": [
+      "starlette<0.51.0,>=0.40.0",
+      "pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4",
+      "typing-extensions>=4.8.0",
+      "annotated-doc>=0.0.2",
+      "fastapi-cli[standard]>=0.0.8; extra == \"standard\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"standard\"",
+      "jinja2>=3.1.5; extra == \"standard\"",
+      "python-multipart>=0.0.18; extra == \"standard\"",
+      "email-validator>=2.0.0; extra == \"standard\"",
+      "uvicorn[standard]>=0.12.0; extra == \"standard\"",
+      "fastapi-cli[standard-no-fastapi-cloud-cli]>=0.0.8; extra == \"standard-no-fastapi-cloud-cli\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "jinja2>=3.1.5; extra == \"standard-no-fastapi-cloud-cli\"",
+      "python-multipart>=0.0.18; extra == \"standard-no-fastapi-cloud-cli\"",
+      "email-validator>=2.0.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "uvicorn[standard]>=0.12.0; extra == \"standard-no-fastapi-cloud-cli\"",
+      "fastapi-cli[standard]>=0.0.8; extra == \"all\"",
+      "httpx<1.0.0,>=0.23.0; extra == \"all\"",
+      "jinja2>=3.1.5; extra == \"all\"",
+      "python-multipart>=0.0.18; extra == \"all\"",
+      "itsdangerous>=1.1.0; extra == \"all\"",
+      "pyyaml>=5.3.1; extra == \"all\"",
+      "ujson!=4.0.2,!=4.1.0,!=4.2.0,!=4.3.0,!=5.0.0,!=5.1.0,>=4.0.1; extra == \"all\"",
+      "orjson>=3.2.1; extra == \"all\"",
+      "email-validator>=2.0.0; extra == \"all\"",
+      "uvicorn[standard]>=0.12.0; extra == \"all\"",
+      "pydantic-settings>=2.0.0; extra == \"all\"",
+      "pydantic-extra-types>=2.0.0; extra == \"all\""
+    ]
+  }
+}

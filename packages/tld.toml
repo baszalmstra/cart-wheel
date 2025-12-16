@@ -1,0 +1,9 @@
+# Package configuration for tld
+conda_forge = "tld"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tld-0.13.1-py2.py3-none-any.whl" },
+  { filename = "tld-0.13-py2.py3-none-any.whl" },
+]

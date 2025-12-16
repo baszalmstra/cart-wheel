@@ -1,0 +1,62 @@
+{
+  "types_boto3_eks-1.42.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e5e0a062633094dc1153461116b5e328caeec362dcae3e1ca789d1c65816daa6",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "types_boto3_eks-1.41.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4bc7157245c926c7b630e23487d4a17c48a75c053b24e8c7173f546aac8917c",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "types_boto3_eks-1.41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "14c3f1225b88a601dc4da93457af100b5c155df15874a7e0668c2fe6956a524e",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "types_boto3_eks-1.40.59-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63f6699462e2f4923e7d1499525f227bfbf1c30c69733a3f730c4480e93ca2b5",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "types_boto3_eks-1.40.36-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8869cfaa3ec1cb3b4e424a67e6e3fbdb5db7493296ee730dbef540d84598c1ec",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "tabulator-1.53.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6de83026f9dc8ac34dbc9e60cced1785ed2f4022ae0250eeaa59e92b5090f477",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "chardet",
+        "boto3",
+        "unicodecsv",
+        "ijson",
+        "jsonlines",
+        "sqlalchemy",
+        "linear-tsv",
+        "xlrd",
+        "openpyxl"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9)",
+      "click (>=6.0)",
+      "requests (>=2.8)",
+      "chardet (>=3.0)",
+      "boto3 (>=1.9)",
+      "unicodecsv (>=0.14)",
+      "ijson (>=3.0.3)",
+      "jsonlines (>=1.1)",
+      "sqlalchemy (>=0.9.6)",
+      "linear-tsv (>=1.0)",
+      "xlrd (>=1.0)",
+      "openpyxl (>=2.6)",
+      "cchardet (>=2.0) ; extra == 'cchardet'",
+      "datapackage (>=1.12) ; extra == 'datapackage'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "moto[server] ; extra == 'develop'",
+      "pyquery (<1.4.2) ; extra == 'html'",
+      "ezodf (>=0.3) ; extra == 'ods'",
+      "lxml (>=3.0) ; extra == 'ods'"
+    ]
+  },
+  "tabulator-1.53.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d68ec8271fbc23a7b58c38f249af789a86f6f6afed82ddb3ba7b7732e37e9d48",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "chardet",
+        "boto3",
+        "unicodecsv",
+        "ijson",
+        "jsonlines",
+        "sqlalchemy",
+        "linear-tsv",
+        "xlrd",
+        "openpyxl"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9)",
+      "click (>=6.0)",
+      "requests (>=2.8)",
+      "chardet (>=3.0)",
+      "boto3 (>=1.9)",
+      "unicodecsv (>=0.14)",
+      "ijson (>=3.0.3)",
+      "jsonlines (>=1.1)",
+      "sqlalchemy (>=0.9.6)",
+      "linear-tsv (>=1.0)",
+      "xlrd (>=1.0)",
+      "openpyxl (>=2.6)",
+      "cchardet (>=2.0) ; extra == 'cchardet'",
+      "datapackage (>=1.12) ; extra == 'datapackage'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "moto[server] ; extra == 'develop'",
+      "pyquery (<1.4.2) ; extra == 'html'",
+      "ezodf (>=0.3) ; extra == 'ods'",
+      "lxml (>=3.0) ; extra == 'ods'"
+    ]
+  },
+  "tabulator-1.53.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4fba0a9fcfbf1020825f37de879a7328945db7f4b342ab1730e760bda7523f62",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "chardet",
+        "boto3",
+        "unicodecsv",
+        "ijson",
+        "jsonlines",
+        "sqlalchemy",
+        "linear-tsv",
+        "xlrd",
+        "openpyxl"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9)",
+      "click (>=6.0)",
+      "requests (>=2.8)",
+      "chardet (>=3.0)",
+      "boto3 (>=1.9)",
+      "unicodecsv (>=0.14)",
+      "ijson (>=3.0.3)",
+      "jsonlines (>=1.1)",
+      "sqlalchemy (>=0.9.6)",
+      "linear-tsv (>=1.0)",
+      "xlrd (>=1.0)",
+      "openpyxl (>=2.6)",
+      "cchardet (>=2.0) ; extra == 'cchardet'",
+      "datapackage (>=1.12) ; extra == 'datapackage'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "moto[server] ; extra == 'develop'",
+      "pyquery (<1.4.2) ; extra == 'html'",
+      "ezodf (>=0.3) ; extra == 'ods'",
+      "lxml (>=3.0) ; extra == 'ods'"
+    ]
+  },
+  "tabulator-1.53.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a19a08a6cc69ceb392914061304f534da52e28ee9a85ede84a83787f8a9f9ea6",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "chardet",
+        "boto3",
+        "unicodecsv",
+        "ijson",
+        "jsonlines",
+        "sqlalchemy",
+        "linear-tsv",
+        "xlrd",
+        "openpyxl"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9)",
+      "click (>=6.0)",
+      "requests (>=2.8)",
+      "chardet (>=3.0)",
+      "boto3 (>=1.9)",
+      "unicodecsv (>=0.14)",
+      "ijson (>=3.0.3)",
+      "jsonlines (>=1.1)",
+      "sqlalchemy (>=0.9.6)",
+      "linear-tsv (>=1.0)",
+      "xlrd (>=1.0)",
+      "openpyxl (>=2.6)",
+      "cchardet (>=2.0) ; extra == 'cchardet'",
+      "datapackage (>=1.12) ; extra == 'datapackage'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "moto[server] ; extra == 'develop'",
+      "pyquery (<1.4.2) ; extra == 'html'",
+      "ezodf (>=0.3) ; extra == 'ods'",
+      "lxml (>=3.0) ; extra == 'ods'"
+    ]
+  },
+  "tabulator-1.53.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8e9f03ccfaad424da811f002f457c2d7f666a5f601193f325676f0ee78347e72",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "requests",
+        "chardet",
+        "boto3",
+        "unicodecsv",
+        "ijson",
+        "jsonlines",
+        "sqlalchemy",
+        "linear-tsv",
+        "xlrd",
+        "openpyxl"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.9)",
+      "click (>=6.0)",
+      "requests (>=2.8)",
+      "chardet (>=3.0)",
+      "boto3 (>=1.9)",
+      "unicodecsv (>=0.14)",
+      "ijson (>=3.0.3)",
+      "jsonlines (>=1.1)",
+      "sqlalchemy (>=0.9.6)",
+      "linear-tsv (>=1.0)",
+      "xlrd (>=1.0)",
+      "openpyxl (>=2.6)",
+      "cchardet (>=2.0) ; extra == 'cchardet'",
+      "datapackage (>=1.12) ; extra == 'datapackage'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "moto[server] ; extra == 'develop'",
+      "pyquery (<2) ; extra == 'html'",
+      "ezodf (>=0.3) ; extra == 'ods'",
+      "lxml (>=3.0) ; extra == 'ods'"
+    ]
+  }
+}

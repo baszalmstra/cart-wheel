@@ -1,0 +1,12 @@
+# Package configuration for safety
+conda_forge = "safety"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "safety-3.7.0-py3-none-any.whl" },
+  { filename = "safety-3.6.2-py3-none-any.whl" },
+  { filename = "safety-3.6.1-py3-none-any.whl" },
+  { filename = "safety-3.6.0-py3-none-any.whl" },
+  { filename = "safety-3.5.2-py3-none-any.whl" },
+]

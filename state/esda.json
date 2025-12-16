@@ -1,0 +1,214 @@
+{
+  "esda-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a93a3208178ab1d24393828570bca41eb955efccd2ab3052faa300c7b0505bdb",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "libpysal",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=0.14",
+      "libpysal>=4.12",
+      "numpy>=1.26",
+      "pandas>=2.1",
+      "scikit-learn>=1.4",
+      "scipy>=1.12",
+      "shapely>=2.1",
+      "matplotlib>=3.8; extra == \"plus\"",
+      "numba>=0.58; extra == \"plus\"",
+      "rtree>=1.1; extra == \"plus\"",
+      "seaborn>=0.12; extra == \"plus\"",
+      "codecov; extra == \"tests\"",
+      "folium>=0.15; extra == \"tests\"",
+      "mapclassify>=2.6; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "ruff; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "nbsphinx; extra == \"docs\"",
+      "numpydoc; extra == \"docs\"",
+      "pandoc; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "sphinxcontrib-bibtex; extra == \"docs\"",
+      "sphinx_bootstrap_theme; extra == \"docs\"",
+      "matplotlib-scalebar; extra == \"notebooks\"",
+      "watermark; extra == \"notebooks\""
+    ]
+  },
+  "esda-2.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "93d1b0e0bf8d98fb2f9b6439d10a887def3ab62d698c3fbae4146beaea92dcc6",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "libpysal",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=0.14",
+      "libpysal>=4.12",
+      "numpy>=1.26",
+      "pandas>=2.1",
+      "scikit-learn>=1.4",
+      "scipy>=1.12",
+      "shapely>=2.1",
+      "matplotlib>=3.8; extra == \"plus\"",
+      "numba>=0.58; extra == \"plus\"",
+      "rtree>=1.1; extra == \"plus\"",
+      "seaborn>=0.12; extra == \"plus\"",
+      "codecov; extra == \"tests\"",
+      "folium>=0.15; extra == \"tests\"",
+      "mapclassify>=2.6; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "ruff; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "nbsphinx; extra == \"docs\"",
+      "numpydoc; extra == \"docs\"",
+      "pandoc; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "sphinxcontrib-bibtex; extra == \"docs\"",
+      "sphinx_bootstrap_theme; extra == \"docs\"",
+      "matplotlib-scalebar; extra == \"notebooks\"",
+      "watermark; extra == \"notebooks\""
+    ]
+  },
+  "esda-2.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74cb6bce4e9e9ef7d3826d808d987588bbf3aa9ec787c38a0a341485365d73cd",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "libpysal",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "geopandas>=0.12",
+      "libpysal>=4.12",
+      "numpy>=1.24",
+      "pandas>1.5",
+      "scikit-learn>=1.2",
+      "scipy>=1.9",
+      "shapely>=2.0",
+      "matplotlib; extra == \"plus\"",
+      "numba>=0.57; extra == \"plus\"",
+      "rtree>=1.0; extra == \"plus\"",
+      "seaborn; extra == \"plus\"",
+      "codecov; extra == \"tests\"",
+      "folium; extra == \"tests\"",
+      "mapclassify; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "ruff; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "nbsphinx; extra == \"docs\"",
+      "numpydoc; extra == \"docs\"",
+      "pandoc; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "sphinxcontrib-bibtex; extra == \"docs\"",
+      "sphinx_bootstrap_theme; extra == \"docs\"",
+      "matplotlib-scalebar; extra == \"notebooks\"",
+      "watermark; extra == \"notebooks\""
+    ]
+  },
+  "esda-2.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d825247f1e3dd7bf63e59835989d934a5edc03ece6cb816bbccb3cd9a3f313fc",
+    "dependencies": {
+      "required": [
+        "geopandas",
+        "libpysal",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "geopandas >=0.12",
+      "libpysal >=4.12",
+      "numpy >=1.24",
+      "pandas >1.5",
+      "scikit-learn >=1.2",
+      "scipy >=1.9",
+      "shapely >=2.0",
+      "ruff ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "nbsphinx ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "pandoc ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "sphinxcontrib-bibtex ; extra == 'docs'",
+      "sphinx-bootstrap-theme ; extra == 'docs'",
+      "matplotlib-scalebar ; extra == 'notebooks'",
+      "seaborn ; extra == 'notebooks'",
+      "watermark ; extra == 'notebooks'",
+      "numba >=0.57 ; extra == 'plus'",
+      "rtree >=1.0 ; extra == 'plus'",
+      "codecov ; extra == 'tests'",
+      "folium ; extra == 'tests'",
+      "mapclassify ; extra == 'tests'",
+      "matplotlib ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'"
+    ]
+  },
+  "esda-2.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6fdbce49e8ef39feeca7ab0f92cd1d8f1ddda527425c42e61d0e8199b70bc8e8",
+    "dependencies": {
+      "required": [
+        "libpysal",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "libpysal",
+      "pandas >1.4",
+      "scikit-learn >=1.0",
+      "scipy >=1.9",
+      "pre-commit ; extra == 'dev'",
+      "nbsphinx ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "pandoc ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "sphinxcontrib-bibtex ; extra == 'docs'",
+      "sphinx-bootstrap-theme ; extra == 'docs'",
+      "folium ; extra == 'notebooks'",
+      "matplotlib ; extra == 'notebooks'",
+      "matplotlib-scalebar ; extra == 'notebooks'",
+      "seaborn ; extra == 'notebooks'",
+      "watermark ; extra == 'notebooks'",
+      "codecov ; extra == 'tests'",
+      "coverage ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "geopandas ; extra == 'tests'"
+    ]
+  }
+}

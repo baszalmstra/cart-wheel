@@ -1,0 +1,158 @@
+{
+  "kopf-1.39.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e8ddb0e82582877a2ec3c656895fe3b5f3a48e4d05bed8f93b547a371515989e",
+    "dependencies": {
+      "required": [
+        "python-json-logger",
+        "iso8601",
+        "pyyaml",
+        "click",
+        "aiohttp",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "python-json-logger",
+      "iso8601",
+      "pyyaml",
+      "click>=8.2.0",
+      "aiohttp",
+      "aiohttp>=3.9.0; python_version >= \"3.12\"",
+      "pykube-ng; extra == \"full-auth\"",
+      "kubernetes; extra == \"full-auth\"",
+      "uvloop; extra == \"uvloop\"",
+      "uvloop>=0.18.0; python_version >= \"3.12\" and extra == \"uvloop\"",
+      "oscrypto; extra == \"dev\"",
+      "certbuilder; extra == \"dev\"",
+      "certvalidator; extra == \"dev\"",
+      "pyngrok; extra == \"dev\""
+    ]
+  },
+  "kopf-1.38.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2384b8021032d9f87e53a6b46097c47e566d9280c838809483698640e1b36df0",
+    "dependencies": {
+      "required": [
+        "python-json-logger",
+        "iso8601",
+        "click",
+        "aiohttp",
+        "aiohttp",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "python-json-logger",
+      "iso8601",
+      "click",
+      "aiohttp",
+      "aiohttp>=3.9.0; python_version >= \"3.12\"",
+      "pyyaml",
+      "pykube-ng; extra == \"full-auth\"",
+      "kubernetes; extra == \"full-auth\"",
+      "uvloop; extra == \"uvloop\"",
+      "uvloop>=0.18.0; python_version >= \"3.12\" and extra == \"uvloop\"",
+      "oscrypto; extra == \"dev\"",
+      "certbuilder; extra == \"dev\"",
+      "certvalidator; extra == \"dev\"",
+      "pyngrok; extra == \"dev\""
+    ]
+  },
+  "kopf-1.37.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca6999350052c2f179200bead2386cc35f5bed873f60af3cb8f8a736994e0d68",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "python-json-logger",
+        "iso8601",
+        "click",
+        "aiohttp",
+        "aiohttp",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions",
+      "python-json-logger",
+      "iso8601",
+      "click",
+      "aiohttp",
+      "aiohttp>=3.9.0; python_version >= \"3.12\"",
+      "pyyaml",
+      "pykube-ng; extra == \"full-auth\"",
+      "kubernetes; extra == \"full-auth\"",
+      "uvloop; extra == \"uvloop\"",
+      "uvloop>=0.18.0; python_version >= \"3.12\" and extra == \"uvloop\"",
+      "oscrypto; extra == \"dev\"",
+      "certbuilder; extra == \"dev\"",
+      "certvalidator; extra == \"dev\"",
+      "pyngrok; extra == \"dev\""
+    ]
+  },
+  "kopf-1.37.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e0f9984eca5d50e4b5f1fd646bdbbd9f3cf164fab9ab86a437a5e69cde629d1",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "python-json-logger",
+        "iso8601",
+        "click",
+        "aiohttp",
+        "aiohttp",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions",
+      "python-json-logger",
+      "iso8601",
+      "click",
+      "aiohttp",
+      "aiohttp>=3.9.0; python_version >= \"3.12\"",
+      "pyyaml",
+      "pykube-ng; extra == \"full-auth\"",
+      "kubernetes; extra == \"full-auth\"",
+      "uvloop; extra == \"uvloop\"",
+      "uvloop>=0.18.0; python_version >= \"3.12\" and extra == \"uvloop\"",
+      "pyngrok; extra == \"dev\"",
+      "oscrypto; extra == \"dev\"",
+      "certbuilder; extra == \"dev\"",
+      "certvalidator; extra == \"dev\""
+    ]
+  },
+  "kopf-1.37.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed6338db46a7243e1e5ea86e978914ffa2b6e9cd3ba4daf374b4cedaeff3f523",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "python-json-logger",
+        "iso8601",
+        "click",
+        "aiohttp",
+        "pyyaml",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "python-json-logger",
+      "iso8601",
+      "click",
+      "aiohttp",
+      "pyyaml",
+      "aiohttp>=3.9.0; python_version >= \"3.12\"",
+      "pyngrok; extra == \"dev\"",
+      "oscrypto; extra == \"dev\"",
+      "certbuilder; extra == \"dev\"",
+      "certvalidator; extra == \"dev\"",
+      "pykube-ng; extra == \"full-auth\"",
+      "kubernetes; extra == \"full-auth\"",
+      "uvloop; extra == \"uvloop\"",
+      "uvloop>=0.18.0; python_version >= \"3.12\" and extra == \"uvloop\""
+    ]
+  }
+}

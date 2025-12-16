@@ -1,0 +1,12 @@
+# Package configuration for semver
+conda_forge = "semver"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "semver-3.0.4-py3-none-any.whl" },
+  { filename = "semver-3.0.2-py3-none-any.whl" },
+  { filename = "semver-3.0.1-py3-none-any.whl" },
+  { filename = "semver-3.0.0-py3-none-any.whl" },
+  { filename = "semver-2.13.0-py2.py3-none-any.whl" },
+]

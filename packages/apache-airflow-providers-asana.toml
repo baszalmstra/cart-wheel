@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-asana
+conda_forge = "apache-airflow-providers-asana"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_asana-2.11.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_asana-2.10.4-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_asana-2.10.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_asana-2.10.2-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_asana-2.10.1-py3-none-any.whl" },
+]

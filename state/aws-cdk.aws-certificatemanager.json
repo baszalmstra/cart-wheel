@@ -1,0 +1,152 @@
+{
+  "aws_cdk.aws_certificatemanager-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c24ac09f536a39d26a91be435319041417eb028d8ea870050bc9bb73feee90f",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-acmpca",
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-route53",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-acmpca (==1.204.0)",
+      "aws-cdk.aws-cloudwatch (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-lambda (==1.204.0)",
+      "aws-cdk.aws-route53 (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_certificatemanager-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e6033fa0bde63bc7cb022f64c736104eecd732248165f2aae9532ee4e24b379b",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-acmpca",
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-route53",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-acmpca (==1.203.0)",
+      "aws-cdk.aws-cloudwatch (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-lambda (==1.203.0)",
+      "aws-cdk.aws-route53 (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_certificatemanager-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43e399405751c043dd3d5953566a504a04c5bdfa3bbc56f10907e5cc987b23e9",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-acmpca",
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-route53",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-acmpca (==1.202.0)",
+      "aws-cdk.aws-cloudwatch (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-lambda (==1.202.0)",
+      "aws-cdk.aws-route53 (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_certificatemanager-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fab216695633e932d6a6e38a5a4d121931c44e5ef0615ea372369d1c8abcec5c",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-acmpca",
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-route53",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-acmpca (==1.201.0)",
+      "aws-cdk.aws-cloudwatch (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-lambda (==1.201.0)",
+      "aws-cdk.aws-route53 (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_certificatemanager-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "29d77c0355bcf3842b397c98eb5a91b4dc1b7e584365896847349bfb0e68c15a",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-acmpca",
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-route53",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-acmpca (==1.200.0)",
+      "aws-cdk.aws-cloudwatch (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-lambda (==1.200.0)",
+      "aws-cdk.aws-route53 (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

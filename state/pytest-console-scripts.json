@@ -1,0 +1,42 @@
+{
+  "pytest_console_scripts-1.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad860a951a90eca4bd3bd1159b8f5428633ba4ea01abd5c9526b67a95f65437a",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=4.0.0)",
+      "importlib-metadata (>=3.6) ; python_version < \"3.10\""
+    ]
+  },
+  "pytest_console_scripts-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3646c8850584ec1c416d49500c4ff875325e40ea2d85e7267a83766c5a043271",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=4.0.0)",
+      "importlib-metadata (>=3.6) ; python_version < \"3.10\""
+    ]
+  },
+  "pytest_console_scripts-1.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "21063b2e32df96da51412116e654babb1447a415929158d81d445667de9ea946",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=4.0.0)"
+    ]
+  }
+}

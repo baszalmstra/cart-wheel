@@ -1,0 +1,8 @@
+# Package configuration for inspect2
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "inspect2-0.1.2-py2.py3-none-any.whl" },
+  { filename = "inspect2-0.1-py2.py3-none-any.whl" },
+]

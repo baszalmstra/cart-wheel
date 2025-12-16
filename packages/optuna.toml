@@ -1,0 +1,12 @@
+# Package configuration for optuna
+conda_forge = "optuna"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "optuna-4.6.0-py3-none-any.whl" },
+  { filename = "optuna-4.5.0-py3-none-any.whl" },
+  { filename = "optuna-4.4.0-py3-none-any.whl" },
+  { filename = "optuna-4.3.0-py3-none-any.whl" },
+  { filename = "optuna-4.2.1-py3-none-any.whl" },
+]

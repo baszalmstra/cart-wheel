@@ -1,0 +1,125 @@
+{
+  "empack-6.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be9508e3e4ecabeddbc353cbc764d0be12140103613db8c988a6cf54f782d43e",
+    "dependencies": {
+      "required": [
+        "click",
+        "networkx",
+        "platformdirs",
+        "pyyaml",
+        "requests",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "click<8.2",
+      "networkx",
+      "platformdirs",
+      "pyyaml",
+      "requests",
+      "typer",
+      "black; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "ruff==0.0.262; extra == 'dev'"
+    ]
+  },
+  "empack-5.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "edbac085235328850533b4dbfd4da14a7d081cbae7c70a73d8a3c4e9eb801c24",
+    "dependencies": {
+      "required": [
+        "click",
+        "networkx",
+        "platformdirs",
+        "pyyaml",
+        "requests",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "click<8.2",
+      "networkx",
+      "platformdirs",
+      "pyyaml",
+      "requests",
+      "typer",
+      "black; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "ruff==0.0.262; extra == 'dev'"
+    ]
+  },
+  "empack-5.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b0a3d3cb0221630309744f94e211e75f2ceb0341696e895edb2deb82d4b94220",
+    "dependencies": {
+      "required": [
+        "click",
+        "networkx",
+        "platformdirs",
+        "pyyaml",
+        "requests",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "click<8.2",
+      "networkx",
+      "platformdirs",
+      "pyyaml",
+      "requests",
+      "typer",
+      "black; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "ruff==0.0.262; extra == 'dev'"
+    ]
+  },
+  "empack-5.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e4fb6c4fa255b79a1099b346990dd40451fc15896a635cb2159186e945e327c",
+    "dependencies": {
+      "required": [
+        "click",
+        "networkx",
+        "platformdirs",
+        "pyyaml",
+        "requests",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "click<8.2",
+      "networkx",
+      "platformdirs",
+      "pyyaml",
+      "requests",
+      "typer",
+      "black; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "ruff==0.0.262; extra == 'dev'"
+    ]
+  },
+  "empack-5.0.9-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "948df305905b0748703cb9e52beeabcbed6f39d35dac556da7975820c9e8b126",
+    "dependencies": {
+      "required": [
+        "networkx",
+        "platformdirs",
+        "pyyaml",
+        "requests",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "networkx",
+      "platformdirs",
+      "pyyaml",
+      "requests",
+      "typer",
+      "black; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "ruff==0.0.262; extra == 'dev'"
+    ]
+  }
+}

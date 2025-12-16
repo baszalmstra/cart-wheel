@@ -1,0 +1,11 @@
+# Package configuration for sphinx-pytest
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_pytest-0.2.0-py3-none-any.whl" },
+  { filename = "sphinx_pytest-0.1.1-py3-none-any.whl" },
+  { filename = "sphinx_pytest-0.0.5-py3-none-any.whl" },
+  { filename = "sphinx_pytest-0.0.4-py3-none-any.whl" },
+  { filename = "sphinx_pytest-0.0.3-py3-none-any.whl" },
+]

@@ -1,0 +1,90 @@
+{
+  "watermark-2.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d775afa075f5ea15152ad9f4c82dfc95bffb9d0cb4341c9b62073b627191464d",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "importlib-metadata",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "ipython (>=6.0)",
+      "importlib-metadata (>=1.4)",
+      "setuptools",
+      "py3nvml (>=0.2) ; extra == 'gpu'"
+    ]
+  },
+  "watermark-2.4.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39be67f043d7fa0351537fa9b746bbf03ad1bb1ce3d3d84ec96eca954a5e1579",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "importlib-metadata",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "ipython (>=6.0)",
+      "importlib-metadata (>=1.4)",
+      "setuptools",
+      "py3nvml (>=0.2) ; extra == 'gpu'"
+    ]
+  },
+  "watermark-2.4.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "118e8e49c1a87db69ce025e0c88bbcc2954c4573d43106b14c2747ad3ba56558",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "importlib-metadata",
+        "py3nvml",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "ipython (>=6.0)",
+      "importlib-metadata (>=1.4)",
+      "py3nvml (>=0.2)",
+      "setuptools"
+    ]
+  },
+  "watermark-2.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7352ca2cd8eef35def2cec0482c186472679c87fbb355026a57ef157d552de0d",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "importlib-metadata",
+        "py3nvml",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "ipython (>=6.0)",
+      "importlib-metadata (>=1.4)",
+      "py3nvml (>=0.2)",
+      "setuptools"
+    ]
+  },
+  "watermark-2.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a4d4cf677151588c8c070757aed12311412bc1fd298c6de13bc408a051c69433",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "importlib-metadata",
+        "py3nvml",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "ipython (>=6.0)",
+      "importlib-metadata (>=1.4)",
+      "py3nvml (>=0.2)",
+      "setuptools"
+    ]
+  }
+}

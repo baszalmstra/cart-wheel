@@ -1,0 +1,80 @@
+{
+  "recommonmark-0.7.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b1db69af0231efce3fa21b94ff627ea33dee7079a01dd0a7f8482c3da148b3f",
+    "dependencies": {
+      "required": [
+        "commonmark",
+        "docutils",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "commonmark (>=0.8.1)",
+      "docutils (>=0.11)",
+      "sphinx (>=1.3.1)"
+    ]
+  },
+  "recommonmark-0.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "efe1419f94ec3c9df934073c3b417dd7f13003a59272bd432323a3348b9e5efe",
+    "dependencies": {
+      "required": [
+        "commonmark",
+        "docutils",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "commonmark (>=0.8.1)",
+      "docutils (>=0.11)",
+      "sphinx (>=1.3.1)"
+    ]
+  },
+  "recommonmark-0.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ec4207a574289355d5b6ae4ae4abb29043346ca12cdd5f07d374dc5987d2852",
+    "dependencies": {
+      "required": [
+        "commonmark",
+        "docutils",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "commonmark (>=0.8.1)",
+      "docutils (>=0.11)",
+      "sphinx (>=1.3.1)"
+    ]
+  },
+  "recommonmark-0.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c85228b9b7aea7157662520e74b4e8791c5eacd375332ec68381b52bf10165be",
+    "dependencies": {
+      "required": [
+        "commonmark",
+        "docutils",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "commonmark (>=0.7.3)",
+      "docutils (>=0.11)",
+      "sphinx (>=1.3.1)"
+    ]
+  },
+  "recommonmark-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd8bf902e469dae94d00367a8197fb7b81fcabc9cfb79d520e0d22d0fbeaa8b7",
+    "dependencies": {
+      "required": [
+        "commonmark",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "commonmark (<=0.5.4)",
+      "docutils (>=0.11)"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "aiofile-3.9.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:14.008919+00:00",
+    "conda_file": "aiofile-3.9.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "caio"
+      ]
+    },
+    "original_requirements": [
+      "caio (>=0.9.0,<0.10.0)"
+    ]
+  },
+  "aiofile-3.8.8-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:14.174885+00:00",
+    "conda_file": "aiofile-3.8.8-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "caio"
+      ],
+      "optional": {
+        "develop": [
+          "aiomisc-pytest",
+          "pytest",
+          "pytest-rst",
+          "pytest-cov",
+          "coveralls"
+        ]
+      }
+    },
+    "original_requirements": [
+      "caio (~=0.9.0)",
+      "aiomisc-pytest ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-rst ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "coveralls ; extra == 'develop'"
+    ]
+  },
+  "aiofile-3.8.7-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:14.340029+00:00",
+    "conda_file": "aiofile-3.8.7-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "caio"
+      ],
+      "optional": {
+        "develop": [
+          "aiomisc-pytest",
+          "pytest",
+          "pytest-rst",
+          "pytest-cov",
+          "coveralls"
+        ]
+      }
+    },
+    "original_requirements": [
+      "caio (~=0.9.0)",
+      "aiomisc-pytest ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-rst ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "coveralls ; extra == 'develop'"
+    ]
+  },
+  "aiofile-3.8.6-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:14.609977+00:00",
+    "conda_file": "aiofile-3.8.6-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "caio"
+      ],
+      "optional": {
+        "develop": [
+          "aiomisc-pytest",
+          "pytest",
+          "pytest-rst",
+          "pytest-cov",
+          "coveralls"
+        ]
+      }
+    },
+    "original_requirements": [
+      "caio (~=0.9.0)",
+      "aiomisc-pytest ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-rst ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "coveralls ; extra == 'develop'"
+    ]
+  },
+  "aiofile-3.8.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:14.886877+00:00",
+    "conda_file": "aiofile-3.8.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "caio"
+      ],
+      "optional": {
+        "develop": [
+          "aiomisc-pytest",
+          "pytest",
+          "pytest-rst",
+          "pytest-cov",
+          "coveralls"
+        ]
+      }
+    },
+    "original_requirements": [
+      "caio (~=0.9.0)",
+      "aiomisc-pytest ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-rst ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "coveralls ; extra == 'develop'"
+    ]
+  }
+}

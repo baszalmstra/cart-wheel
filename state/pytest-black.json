@@ -1,0 +1,50 @@
+{
+  "pytest_black-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7eb747f54b6c997497b5cbc66a988be114b92016dbfa66d210d1d1f9f6b2dc76",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "black",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.0.0",
+      "black; python_version >= \"3.6\"",
+      "toml"
+    ]
+  },
+  "pytest_black-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3e089494dfc9af94488e0e6de78c9cf85ac2b22a8a30fc6915eed645b0594e7",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "black",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.0.0",
+      "black; python_version >= \"3.6\"",
+      "toml"
+    ]
+  },
+  "pytest_black-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "339c3bd111195853511c9484f31e82f17af0113e92c34fe1c1613ef6fc497ee9",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "black",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=3.5.0",
+      "black; python_version >= \"3.6\"",
+      "toml"
+    ]
+  }
+}

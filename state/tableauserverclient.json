@@ -1,0 +1,137 @@
+{
+  "tableauserverclient-0.38-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "454d7f8828dc3f45ca38e8c85d3cab5b6e1bb8e5600426f7a86cdf4c69b740e0",
+    "dependencies": {
+      "required": [
+        "defusedxml",
+        "packaging",
+        "requests",
+        "urllib3",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "defusedxml>=0.7.1",
+      "packaging>=23.1",
+      "requests>=2.32",
+      "urllib3<3,>=2.2.2",
+      "typing_extensions>=4.0",
+      "black==24.8; extra == \"test\"",
+      "build; extra == \"test\"",
+      "mypy==1.4; extra == \"test\"",
+      "pytest>=7.0; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-subtests; extra == \"test\"",
+      "requests-mock<2.0,>=1.0; extra == \"test\""
+    ]
+  },
+  "tableauserverclient-0.37-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "642df301702bbd2bd549d345d9c13dc2ecd878a3c4232a41288d8689ce501007",
+    "dependencies": {
+      "required": [
+        "defusedxml",
+        "packaging",
+        "requests",
+        "urllib3",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "defusedxml>=0.7.1",
+      "packaging>=23.1",
+      "requests>=2.32",
+      "urllib3<3,>=2.2.2",
+      "typing_extensions>=4.0",
+      "black==24.8; extra == \"test\"",
+      "build; extra == \"test\"",
+      "mypy==1.4; extra == \"test\"",
+      "pytest>=7.0; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-subtests; extra == \"test\"",
+      "requests-mock<2.0,>=1.0; extra == \"test\""
+    ]
+  },
+  "tableauserverclient-0.36-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d74353e5ec0c89fe1d8cc6ebed55aca495dcd131e2aa5348246115543ab103a9",
+    "dependencies": {
+      "required": [
+        "defusedxml",
+        "packaging",
+        "requests",
+        "urllib3",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "defusedxml>=0.7.1",
+      "packaging>=23.1",
+      "requests>=2.32",
+      "urllib3<3,>=2.2.2",
+      "typing_extensions>=4.0",
+      "black==24.8; extra == \"test\"",
+      "build; extra == \"test\"",
+      "mypy==1.4; extra == \"test\"",
+      "pytest>=7.0; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-subtests; extra == \"test\"",
+      "requests-mock<2.0,>=1.0; extra == \"test\""
+    ]
+  },
+  "tableauserverclient-0.35-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b8a49862917e9373318bdb581a6440c0fea2130679aaa1507ba039f52d34d0f",
+    "dependencies": {
+      "required": [
+        "defusedxml",
+        "packaging",
+        "requests",
+        "urllib3",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "defusedxml>=0.7.1",
+      "packaging>=23.1",
+      "requests>=2.32",
+      "urllib3<3,>=2.2.2",
+      "typing_extensions>=4.0",
+      "black==24.8; extra == \"test\"",
+      "build; extra == \"test\"",
+      "mypy==1.4; extra == \"test\"",
+      "pytest>=7.0; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-subtests; extra == \"test\"",
+      "requests-mock<2.0,>=1.0; extra == \"test\""
+    ]
+  },
+  "tableauserverclient-0.34-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fbcf2ff415c9d31fe599ee32c23ef076d068fc4ee6f97fb7ffb6b84dff7a1bfd",
+    "dependencies": {
+      "required": [
+        "defusedxml",
+        "packaging",
+        "requests",
+        "urllib3",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "defusedxml>=0.7.1",
+      "packaging>=23.1",
+      "requests>=2.32",
+      "urllib3<3,>=2.2.2",
+      "typing-extensions>=4.0.1",
+      "black==24.8; extra == \"test\"",
+      "build; extra == \"test\"",
+      "mypy==1.4; extra == \"test\"",
+      "pytest>=7.0; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-subtests; extra == \"test\"",
+      "requests-mock<2.0,>=1.0; extra == \"test\""
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for nbdev-stdlib
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nbdev_stdlib-0.0.2293-py3-none-any.whl" },
+  { filename = "nbdev_stdlib-0.0.2292-py3-none-any.whl" },
+  { filename = "nbdev_stdlib-0.0.2291-py3-none-any.whl" },
+  { filename = "nbdev_stdlib-0.0.2290-py3-none-any.whl" },
+  { filename = "nbdev_stdlib-0.0.2289-py3-none-any.whl" },
+]

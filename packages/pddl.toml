@@ -1,0 +1,11 @@
+# Package configuration for pddl
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pddl-0.4.3-py2.py3-none-any.whl" },
+  { filename = "pddl-0.4.2-py2.py3-none-any.whl" },
+  { filename = "pddl-0.4.1-py2.py3-none-any.whl" },
+  { filename = "pddl-0.4.0-py2.py3-none-any.whl" },
+  { filename = "pddl-0.3.1-py2.py3-none-any.whl" },
+]

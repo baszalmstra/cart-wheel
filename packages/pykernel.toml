@@ -1,0 +1,11 @@
+# Package configuration for pykernel
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pykernel-0.1.6-py3-none-any.whl" },
+  { filename = "pykernel-0.1.5-py3-none-any.whl" },
+  { filename = "pykernel-0.1.4-py3-none-any.whl" },
+  { filename = "pykernel-0.0.4-py3-none-any.whl" },
+  { filename = "pykernel-0.0.3-py3-none-any.whl" },
+]

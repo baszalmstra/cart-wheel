@@ -1,0 +1,164 @@
+{
+  "qdrant_client-1.16.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "442c7ef32ae0f005e88b5d3c0783c63d4912b97ae756eb5e052523be682f17d3",
+    "dependencies": {
+      "required": [
+        "grpcio",
+        "httpx",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "portalocker",
+        "protobuf",
+        "pydantic",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "fastembed (>=0.7,<0.8) ; extra == \"fastembed\"",
+      "fastembed-gpu (>=0.7,<0.8) ; extra == \"fastembed-gpu\"",
+      "grpcio (>=1.41.0)",
+      "httpx[http2] (>=0.20.0)",
+      "numpy (>=1.21) ; python_version == \"3.11\"",
+      "numpy (>=1.21,<2.3.0) ; python_version == \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version == \"3.13\"",
+      "numpy (>=2.3.0) ; python_version >= \"3.14\"",
+      "portalocker (>=2.7.0,<4.0)",
+      "protobuf (>=3.20.0)",
+      "pydantic (>=1.10.8,!=2.0.*,!=2.1.*,!=2.2.0)",
+      "urllib3 (>=1.26.14,<3)"
+    ]
+  },
+  "qdrant_client-1.16.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1eefe89f66e8a468ba0de1680e28b441e69825cfb62e8fb2e457c15e24ce5e3b",
+    "dependencies": {
+      "required": [
+        "grpcio",
+        "httpx",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "portalocker",
+        "protobuf",
+        "pydantic",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "fastembed (>=0.7,<0.8) ; extra == \"fastembed\"",
+      "fastembed-gpu (>=0.7,<0.8) ; extra == \"fastembed-gpu\"",
+      "grpcio (>=1.41.0)",
+      "httpx[http2] (>=0.20.0)",
+      "numpy (>=1.21) ; python_version >= \"3.10\" and python_version < \"3.12\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\"",
+      "portalocker (>=2.7.0,<4.0)",
+      "protobuf (>=3.20.0)",
+      "pydantic (>=1.10.8,!=2.0.*,!=2.1.*,!=2.2.0)",
+      "urllib3 (>=1.26.14,<3)"
+    ]
+  },
+  "qdrant_client-1.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b932393e84e4c0233e5b2eb96b0918e968725855adae4d9c541761f4c50cf11",
+    "dependencies": {
+      "required": [
+        "grpcio",
+        "httpx",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "portalocker",
+        "protobuf",
+        "pydantic",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "fastembed (>=0.7,<0.8) ; extra == \"fastembed\"",
+      "fastembed-gpu (>=0.7,<0.8) ; extra == \"fastembed-gpu\"",
+      "grpcio (>=1.41.0)",
+      "httpx[http2] (>=0.20.0)",
+      "numpy (>=1.21) ; python_version >= \"3.10\" and python_version < \"3.12\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\"",
+      "portalocker (>=2.7.0,<4.0)",
+      "protobuf (>=3.20.0)",
+      "pydantic (>=1.10.8,!=2.0.*,!=2.1.*,!=2.2.0)",
+      "urllib3 (>=1.26.14,<3)"
+    ]
+  },
+  "qdrant_client-1.15.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b975099b378382f6ca1cfb43f0d59e541be6e16a5892f282a4b8de7eff5cb63",
+    "dependencies": {
+      "required": [
+        "grpcio",
+        "httpx",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "portalocker",
+        "protobuf",
+        "pydantic",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "fastembed (>=0.7,<0.8) ; extra == \"fastembed\"",
+      "fastembed-gpu (>=0.7,<0.8) ; extra == \"fastembed-gpu\"",
+      "grpcio (>=1.41.0)",
+      "httpx[http2] (>=0.20.0)",
+      "numpy (>=1.21) ; python_version >= \"3.10\" and python_version < \"3.12\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\"",
+      "portalocker (>=2.7.0,<4.0)",
+      "protobuf (>=3.20.0)",
+      "pydantic (>=1.10.8,!=2.0.*,!=2.1.*,!=2.2.0)",
+      "urllib3 (>=1.26.14,<3)"
+    ]
+  },
+  "qdrant_client-1.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f18bb311543de7e256ffa831be0d8a9d0729aaf549db7bcf95a5d356b48143f2",
+    "dependencies": {
+      "required": [
+        "grpcio",
+        "httpx",
+        "numpy",
+        "numpy",
+        "numpy",
+        "numpy",
+        "portalocker",
+        "protobuf",
+        "pydantic",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "fastembed (>=0.7,<0.8) ; extra == \"fastembed\"",
+      "fastembed-gpu (>=0.7,<0.8) ; extra == \"fastembed-gpu\"",
+      "grpcio (>=1.41.0)",
+      "httpx[http2] (>=0.20.0)",
+      "numpy (>=1.21) ; python_version >= \"3.10\" and python_version < \"3.12\"",
+      "numpy (>=1.21,<2.1.0) ; python_version < \"3.10\"",
+      "numpy (>=1.26) ; python_version == \"3.12\"",
+      "numpy (>=2.1.0) ; python_version >= \"3.13\"",
+      "portalocker (>=2.7.0,<4.0)",
+      "protobuf (>=3.20.0)",
+      "pydantic (>=1.10.8,!=2.0.*,!=2.1.*,!=2.2.0)",
+      "urllib3 (>=1.26.14,<3)"
+    ]
+  }
+}

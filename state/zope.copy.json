@@ -1,0 +1,106 @@
+{
+  "zope_copy-6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "841f644a12310552565829d88a26f0a2542ee409568fdb1a3b09b0e1e39f41e8",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zodbpickle",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zodbpickle",
+      "zope.interface",
+      "zope.component; extra == \"test\"",
+      "zope.location; extra == \"test\"",
+      "zope.testing; extra == \"test\"",
+      "zope.testrunner>=6.4; extra == \"test\"",
+      "Sphinx; extra == \"docs\"",
+      "repoze.sphinx.autointerface; extra == \"docs\""
+    ]
+  },
+  "zope.copy-5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "efb3aad81a4b1ce853c8d16e1d1dd6c50696f6c8a84532ecc675f0560249aadc",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zodbpickle",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zodbpickle",
+      "zope.interface",
+      "Sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "zope.component ; extra == 'test'",
+      "zope.location ; extra == 'test'",
+      "zope.testing ; extra == 'test'",
+      "zope.testrunner ; extra == 'test'"
+    ]
+  },
+  "zope.copy-4.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8178c485b0e04479adb22a34e88473360daf1e50c9d4b1a30e2c43fe960fc0b2",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.interface",
+      "Sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "zope.component ; extra == 'test'",
+      "zope.location ; extra == 'test'",
+      "zope.testing ; extra == 'test'",
+      "zope.testrunner ; extra == 'test'"
+    ]
+  },
+  "zope.copy-4.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "00a0e1e3e2b9323bcf61ac3f9238e8e62d6b4f6adc10e28c7a85cee890615a51",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.interface",
+      "Sphinx; extra == 'docs'",
+      "repoze.sphinx.autointerface; extra == 'docs'",
+      "zope.component; extra == 'test'",
+      "zope.location; extra == 'test'",
+      "zope.testing; extra == 'test'",
+      "zope.testrunner; extra == 'test'"
+    ]
+  },
+  "zope.copy-4.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6ebb1fa2d66351f9d23f347d0dc320896d9b000d7e9ce393c1a0ac0266a740ab",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.interface",
+      "Sphinx; extra == 'docs'",
+      "repoze.sphinx.autointerface; extra == 'docs'",
+      "zope.component; extra == 'test'",
+      "zope.location; extra == 'test'",
+      "zope.testing; extra == 'test'",
+      "zope.testrunner; extra == 'test'"
+    ]
+  }
+}

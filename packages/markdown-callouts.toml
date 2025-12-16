@@ -1,0 +1,10 @@
+# Package configuration for markdown-callouts
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "markdown_callouts-0.4.0-py3-none-any.whl" },
+  { filename = "markdown_callouts-0.3.0-py3-none-any.whl" },
+  { filename = "markdown_callouts-0.2.0-py3-none-any.whl" },
+  { filename = "markdown_callouts-0.1.0-py3-none-any.whl" },
+]

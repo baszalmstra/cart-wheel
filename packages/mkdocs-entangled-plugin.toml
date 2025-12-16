@@ -1,0 +1,11 @@
+# Package configuration for mkdocs-entangled-plugin
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_entangled_plugin-0.6.0-py3-none-any.whl" },
+  { filename = "mkdocs_entangled_plugin-0.5.0-py3-none-any.whl" },
+  { filename = "mkdocs_entangled_plugin-0.4.0-py3-none-any.whl" },
+  { filename = "mkdocs_entangled_plugin-0.3.0-py3-none-any.whl" },
+  { filename = "mkdocs_entangled_plugin-0.2.0-py3-none-any.whl" },
+]

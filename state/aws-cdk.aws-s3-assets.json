@@ -1,0 +1,152 @@
+{
+  "aws_cdk.aws_s3_assets-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "041450f122448677e330324baaede02b20c1beaed0177f80c306bc94772da471",
+    "dependencies": {
+      "required": [
+        "aws-cdk.assets",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-s3",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.assets (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-kms (==1.204.0)",
+      "aws-cdk.aws-s3 (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "aws-cdk.cx-api (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_s3_assets-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "328cd7c6b79163908749372c762e4727b5a480a4bb68d45c7f3771908d7516d9",
+    "dependencies": {
+      "required": [
+        "aws-cdk.assets",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-s3",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.assets (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-kms (==1.203.0)",
+      "aws-cdk.aws-s3 (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "aws-cdk.cx-api (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_s3_assets-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2eecc2d017370dca02ca2f5fdf55146d9ecde190fc7b8519f77828a4119ed0c",
+    "dependencies": {
+      "required": [
+        "aws-cdk.assets",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-s3",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.assets (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-kms (==1.202.0)",
+      "aws-cdk.aws-s3 (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "aws-cdk.cx-api (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_s3_assets-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9220bf38eeada20db0cbe94f9ae9dfc479ebdc38e27abccac55b62e3dd09821e",
+    "dependencies": {
+      "required": [
+        "aws-cdk.assets",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-s3",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.assets (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-kms (==1.201.0)",
+      "aws-cdk.aws-s3 (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "aws-cdk.cx-api (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_s3_assets-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "907c9838a2a547bccdcd5b08cc66678d2f9f6beb34e2cb1ba3ec1426f9f08a7c",
+    "dependencies": {
+      "required": [
+        "aws-cdk.assets",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-s3",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.assets (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-kms (==1.200.0)",
+      "aws-cdk.aws-s3 (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "aws-cdk.cx-api (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

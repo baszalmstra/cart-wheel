@@ -1,0 +1,20 @@
+{
+  "mamba_lens-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "130a006234f436cbecbf4f0d4fff4c056636d93618e895a6f80736c6a3d8bfd9",
+    "dependencies": {
+      "required": [
+        "transformer-lens",
+        "torch",
+        "einops",
+        "jaxtyping"
+      ]
+    },
+    "original_requirements": [
+      "transformer-lens",
+      "torch",
+      "einops",
+      "jaxtyping"
+    ]
+  }
+}

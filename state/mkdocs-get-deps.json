@@ -1,0 +1,38 @@
+{
+  "mkdocs_get_deps-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2bf11d0b133e77a0dd036abeeb06dec8775e46efa526dc70667d8863eefc6134",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "mergedeep",
+        "platformdirs",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=4.3; python_version < '3.10'",
+      "mergedeep>=1.3.4",
+      "platformdirs>=2.2.0",
+      "pyyaml>=5.1"
+    ]
+  },
+  "mkdocs_get_deps-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a3117dbd8a5a61390e7ca4bcc6ecfdffa47cd7db67b3c15e22b5f8d2bae4d20",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "mergedeep",
+        "platformdirs",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata>=4.3; python_version < '3.10'",
+      "mergedeep>=1.3.4",
+      "platformdirs>=2.2.0",
+      "pyyaml>=5.1"
+    ]
+  }
+}

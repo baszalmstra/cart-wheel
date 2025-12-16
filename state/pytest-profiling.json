@@ -1,0 +1,35 @@
+{
+  "pytest_profiling-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3dd8713a96298b42d83de8f5951df3ada3e61b3e5d2a06956684175529e17aea",
+    "dependencies": {
+      "required": [
+        "six",
+        "pytest",
+        "gprof2dot"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pytest",
+      "gprof2dot"
+    ]
+  },
+  "pytest_profiling-1.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "999cc9ac94f2e528e3f5d43465da277429984a1c237ae9818f8cfd0b06acb019",
+    "dependencies": {
+      "required": [
+        "six",
+        "pytest",
+        "gprof2dot"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pytest",
+      "gprof2dot",
+      "pytest-virtualenv ; extra == 'tests'"
+    ]
+  }
+}

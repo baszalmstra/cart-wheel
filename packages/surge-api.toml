@@ -1,0 +1,11 @@
+# Package configuration for surge-api
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "surge_api-1.5.19-py3-none-any.whl" },
+  { filename = "surge_api-1.5.18-py3-none-any.whl" },
+  { filename = "surge_api-1.5.17-py3-none-any.whl" },
+  { filename = "surge_api-1.5.16-py3-none-any.whl" },
+  { filename = "surge_api-1.5.15-py3-none-any.whl" },
+]

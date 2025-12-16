@@ -1,0 +1,148 @@
+{
+  "pinecone_client-6.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d81a9e73cae441e4ab6dfc9c1d8b51c9895dae2488cda64f3e21b9dfc10c8d94",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "pinecone-plugin-interface",
+        "python-dateutil",
+        "typing-extensions",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.9.0) ; extra == \"asyncio\"",
+      "certifi (>=2019.11.17)",
+      "googleapis-common-protos (>=1.66.0) ; extra == \"grpc\"",
+      "grpcio (>=1.44.0) ; (python_version >= \"3.8\" and python_version < \"3.11\") and (extra == \"grpc\")",
+      "grpcio (>=1.59.0) ; (python_version >= \"3.11\" and python_version < \"4.0\") and (extra == \"grpc\")",
+      "grpcio (>=1.68.0) ; (python_version >= \"3.13\" and python_version < \"4.0\") and (extra == \"grpc\")",
+      "lz4 (>=3.1.3) ; extra == \"grpc\"",
+      "pinecone-plugin-interface (>=0.0.7,<0.0.8)",
+      "protobuf (>=5.29,<6.0) ; extra == \"grpc\"",
+      "protoc-gen-openapiv2 (>=0.0.1,<0.0.2) ; extra == \"grpc\"",
+      "python-dateutil (>=2.5.3)",
+      "typing-extensions (>=3.7.4)",
+      "urllib3 (>=1.26.0) ; python_version >= \"3.8\" and python_version < \"3.12\"",
+      "urllib3 (>=1.26.5) ; python_version >= \"3.12\" and python_version < \"4.0\""
+    ]
+  },
+  "pinecone_client-5.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8f7835e1045ba84e295f217a8e85573ffb80b41501bbc1af6d92c9631c567a7",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "pinecone-plugin-inference",
+        "pinecone-plugin-interface",
+        "tqdm",
+        "typing-extensions",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi (>=2019.11.17)",
+      "googleapis-common-protos (>=1.53.0) ; extra == \"grpc\"",
+      "grpcio (>=1.44.0) ; (python_version >= \"3.8\" and python_version < \"3.11\") and (extra == \"grpc\")",
+      "grpcio (>=1.59.0) ; (python_version >= \"3.11\" and python_version < \"4.0\") and (extra == \"grpc\")",
+      "lz4 (>=3.1.3) ; extra == \"grpc\"",
+      "pinecone-plugin-inference (>=1.0.3,<2.0.0)",
+      "pinecone-plugin-interface (>=0.0.7,<0.0.8)",
+      "protobuf (>=4.25,<5.0) ; extra == \"grpc\"",
+      "protoc-gen-openapiv2 (>=0.0.1,<0.0.2) ; extra == \"grpc\"",
+      "tqdm (>=4.64.1)",
+      "typing-extensions (>=3.7.4)",
+      "urllib3 (>=1.26.0) ; python_version >= \"3.8\" and python_version < \"3.12\"",
+      "urllib3 (>=1.26.5) ; python_version >= \"3.12\" and python_version < \"4.0\""
+    ]
+  },
+  "pinecone_client-5.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "243a58b761835a05629fe5bfc863ffa49c89d58e700b869e7b57ed7822c14311",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "pinecone-plugin-inference",
+        "pinecone-plugin-interface",
+        "tqdm",
+        "typing-extensions",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi (>=2019.11.17)",
+      "googleapis-common-protos (>=1.53.0) ; extra == \"grpc\"",
+      "grpcio (>=1.44.0) ; (python_version >= \"3.8\" and python_version < \"3.11\") and (extra == \"grpc\")",
+      "grpcio (>=1.59.0) ; (python_version >= \"3.11\" and python_version < \"4.0\") and (extra == \"grpc\")",
+      "lz4 (>=3.1.3) ; extra == \"grpc\"",
+      "pinecone-plugin-inference (==1.0.2)",
+      "pinecone-plugin-interface (>=0.0.7,<0.0.8)",
+      "protobuf (>=4.25,<5.0) ; extra == \"grpc\"",
+      "protoc-gen-openapiv2 (>=0.0.1,<0.0.2) ; extra == \"grpc\"",
+      "tqdm (>=4.64.1)",
+      "typing-extensions (>=3.7.4)",
+      "urllib3 (>=1.26.0) ; python_version >= \"3.8\" and python_version < \"3.12\"",
+      "urllib3 (>=1.26.5) ; python_version >= \"3.12\" and python_version < \"4.0\""
+    ]
+  },
+  "pinecone_client-4.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d69cbbca2d9d4f77c90bad59a1194e3d20d535b29f277eee32b439fd526546b",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "pinecone-plugin-interface",
+        "tqdm",
+        "typing-extensions",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi (>=2019.11.17)",
+      "googleapis-common-protos (>=1.53.0) ; extra == \"grpc\"",
+      "grpcio (>=1.44.0) ; (python_version >= \"3.8\" and python_version < \"3.11\") and (extra == \"grpc\")",
+      "grpcio (>=1.59.0) ; (python_version >= \"3.11\" and python_version < \"4.0\") and (extra == \"grpc\")",
+      "lz4 (>=3.1.3) ; extra == \"grpc\"",
+      "pinecone-plugin-interface (>=0.0.7,<0.0.8)",
+      "protobuf (>=4.25,<5.0) ; extra == \"grpc\"",
+      "protoc-gen-openapiv2 (>=0.0.1,<0.0.2) ; extra == \"grpc\"",
+      "tqdm (>=4.64.1)",
+      "typing-extensions (>=3.7.4)",
+      "urllib3 (>=1.26.0) ; python_version >= \"3.8\" and python_version < \"3.12\"",
+      "urllib3 (>=1.26.5) ; python_version >= \"3.12\" and python_version < \"4.0\""
+    ]
+  },
+  "pinecone_client-4.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e74ea91a0129a80f301662e286b1883f2eb896683ff7d2cdb03ea06346844d0d",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "pinecone-plugin-interface",
+        "tqdm",
+        "typing-extensions",
+        "urllib3",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi (>=2019.11.17)",
+      "googleapis-common-protos (>=1.53.0) ; extra == \"grpc\"",
+      "grpcio (>=1.44.0) ; (python_version >= \"3.8\" and python_version < \"3.11\") and (extra == \"grpc\")",
+      "grpcio (>=1.59.0) ; (python_version >= \"3.11\" and python_version < \"4.0\") and (extra == \"grpc\")",
+      "lz4 (>=3.1.3) ; extra == \"grpc\"",
+      "pinecone-plugin-interface (>=0.0.7,<0.0.8)",
+      "protobuf (>=4.25,<5.0) ; extra == \"grpc\"",
+      "protoc-gen-openapiv2 (>=0.0.1,<0.0.2) ; extra == \"grpc\"",
+      "tqdm (>=4.64.1)",
+      "typing-extensions (>=3.7.4)",
+      "urllib3 (>=1.26.0) ; python_version >= \"3.8\" and python_version < \"3.12\"",
+      "urllib3 (>=1.26.5) ; python_version >= \"3.12\" and python_version < \"4.0\""
+    ]
+  }
+}

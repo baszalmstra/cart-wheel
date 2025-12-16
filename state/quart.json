@@ -1,0 +1,171 @@
+{
+  "quart-0.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "003c08f551746710acb757de49d9b768986fd431517d0eb127380b656b98b8f1",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "blinker",
+        "click",
+        "flask",
+        "hypercorn",
+        "importlib-metadata",
+        "itsdangerous",
+        "jinja2",
+        "markupsafe",
+        "typing-extensions",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles",
+      "blinker>=1.6",
+      "click>=8.0",
+      "flask>=3.0",
+      "hypercorn>=0.11.2",
+      "importlib-metadata; python_version < '3.10'",
+      "itsdangerous",
+      "jinja2",
+      "markupsafe",
+      "typing-extensions; python_version < '3.10'",
+      "werkzeug>=3.0",
+      "python-dotenv ; extra == \"dotenv\""
+    ]
+  },
+  "quart-0.19.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8acb8b299c72b66ee9e506ae141498bbbfcc250b5298fbdb712e97f3d7e4082f",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "blinker",
+        "click",
+        "flask",
+        "hypercorn",
+        "importlib-metadata",
+        "itsdangerous",
+        "jinja2",
+        "markupsafe",
+        "typing-extensions",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles",
+      "blinker (>=1.6)",
+      "click (>=8.0.0)",
+      "flask (>=3.0.0)",
+      "hypercorn (>=0.11.2)",
+      "importlib_metadata ; python_version < \"3.10\"",
+      "itsdangerous",
+      "jinja2",
+      "markupsafe",
+      "pydata_sphinx_theme ; extra == \"docs\"",
+      "python-dotenv ; extra == \"dotenv\"",
+      "typing_extensions ; python_version < \"3.10\"",
+      "werkzeug (>=3.0.0)"
+    ]
+  },
+  "quart-0.19.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34eeb559014f4e72e093d034cfe203b1a6262e9d3504f826f293090e230609f2",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "blinker",
+        "click",
+        "flask",
+        "hypercorn",
+        "importlib-metadata",
+        "itsdangerous",
+        "jinja2",
+        "markupsafe",
+        "typing-extensions",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles",
+      "blinker (>=1.6)",
+      "click (>=8.0.0)",
+      "flask (>=3.0.0)",
+      "hypercorn (>=0.11.2)",
+      "importlib_metadata ; python_version < \"3.10\"",
+      "itsdangerous",
+      "jinja2",
+      "markupsafe",
+      "pydata_sphinx_theme ; extra == \"docs\"",
+      "python-dotenv ; extra == \"dotenv\"",
+      "typing_extensions ; python_version < \"3.10\"",
+      "werkzeug (>=3.0.0)"
+    ]
+  },
+  "quart-0.19.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c605e4f1378c3ba12bd39311735f9245d128c1149631a561f5b976596423088",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "blinker",
+        "click",
+        "flask",
+        "hypercorn",
+        "importlib-metadata",
+        "itsdangerous",
+        "jinja2",
+        "markupsafe",
+        "typing-extensions",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles",
+      "blinker (>=1.6)",
+      "click (>=8.0.0)",
+      "flask (>=3.0.0)",
+      "hypercorn (>=0.11.2)",
+      "importlib_metadata ; python_version < \"3.10\"",
+      "itsdangerous",
+      "jinja2",
+      "markupsafe",
+      "pydata_sphinx_theme ; extra == \"docs\"",
+      "python-dotenv ; extra == \"dotenv\"",
+      "typing_extensions ; python_version < \"3.10\"",
+      "werkzeug (>=3.0.0)"
+    ]
+  },
+  "quart-0.19.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9092310f4eb120903da692a5e4354f05d48c28ca7ec3054d3d94dd862412c58",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "blinker",
+        "click",
+        "flask",
+        "hypercorn",
+        "importlib-metadata",
+        "itsdangerous",
+        "jinja2",
+        "markupsafe",
+        "typing-extensions",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles",
+      "blinker (>=1.6)",
+      "click (>=8.0.0)",
+      "flask (>=3.0.0)",
+      "hypercorn (>=0.11.2)",
+      "importlib_metadata ; python_version < \"3.10\"",
+      "itsdangerous",
+      "jinja2",
+      "markupsafe",
+      "pydata_sphinx_theme ; extra == \"docs\"",
+      "python-dotenv ; extra == \"dotenv\"",
+      "typing_extensions ; python_version < \"3.10\"",
+      "werkzeug (>=3.0.0)"
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "graphene-3.4.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "820db6289754c181007a150db1f7fff544b94142b556d12e3ebc777a7bf36c71",
+    "dependencies": {
+      "required": [
+        "graphql-core",
+        "graphql-relay",
+        "python-dateutil",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "graphql-core<3.3,>=3.1",
+      "graphql-relay<3.3,>=3.1",
+      "python-dateutil<3,>=2.7.0",
+      "typing-extensions<5,>=4.7.1",
+      "ruff==0.5.0; extra == \"dev\"",
+      "types-python-dateutil<3,>=2.8.1; extra == \"dev\"",
+      "mypy<2,>=1.10; extra == \"dev\"",
+      "pytest<9,>=8; extra == \"dev\"",
+      "pytest-benchmark<5,>=4; extra == \"dev\"",
+      "pytest-cov<6,>=5; extra == \"dev\"",
+      "pytest-mock<4,>=3; extra == \"dev\"",
+      "pytest-asyncio<2,>=0.16; extra == \"dev\"",
+      "coveralls<5,>=3.3; extra == \"dev\"",
+      "pytest<9,>=8; extra == \"test\"",
+      "pytest-benchmark<5,>=4; extra == \"test\"",
+      "pytest-cov<6,>=5; extra == \"test\"",
+      "pytest-mock<4,>=3; extra == \"test\"",
+      "pytest-asyncio<2,>=0.16; extra == \"test\"",
+      "coveralls<5,>=3.3; extra == \"test\""
+    ]
+  },
+  "graphene-3.4.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b5e9f2087856a9a6e2278783c02ac949ebdfe950cce37c6608e6c58f8f08088",
+    "dependencies": {
+      "required": [
+        "graphql-core",
+        "graphql-relay",
+        "python-dateutil",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "graphql-core<3.3,>=3.1",
+      "graphql-relay<3.3,>=3.1",
+      "python-dateutil<3,>=2.7.0",
+      "typing-extensions<5,>=4.7.1",
+      "ruff==0.5.0; extra == \"dev\"",
+      "types-python-dateutil<3,>=2.8.1; extra == \"dev\"",
+      "mypy<2,>=1.10; extra == \"dev\"",
+      "pytest<9,>=8; extra == \"dev\"",
+      "pytest-benchmark<5,>=4; extra == \"dev\"",
+      "pytest-cov<6,>=5; extra == \"dev\"",
+      "pytest-mock<4,>=3; extra == \"dev\"",
+      "pytest-asyncio<2,>=0.16; extra == \"dev\"",
+      "coveralls<5,>=3.3; extra == \"dev\"",
+      "pytest<9,>=8; extra == \"test\"",
+      "pytest-benchmark<5,>=4; extra == \"test\"",
+      "pytest-cov<6,>=5; extra == \"test\"",
+      "pytest-mock<4,>=3; extra == \"test\"",
+      "pytest-asyncio<2,>=0.16; extra == \"test\"",
+      "coveralls<5,>=3.3; extra == \"test\""
+    ]
+  },
+  "graphene-3.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca98f853201293871cdc7f55faf2523a9bc077181fe0f4947db5a243e5c67083",
+    "dependencies": {
+      "required": [
+        "graphql-core",
+        "graphql-relay",
+        "python-dateutil",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "graphql-core<3.3,>=3.1",
+      "graphql-relay<3.3,>=3.1",
+      "python-dateutil<3,>=2.7.0",
+      "typing-extensions<5,>=4.7.1",
+      "ruff==0.5.0; extra == \"dev\"",
+      "types-python-dateutil<3,>=2.8.1; extra == \"dev\"",
+      "mypy<2,>=1.10; extra == \"dev\"",
+      "pytest<9,>=8; extra == \"dev\"",
+      "pytest-benchmark<5,>=4; extra == \"dev\"",
+      "pytest-cov<6,>=5; extra == \"dev\"",
+      "pytest-mock<4,>=3; extra == \"dev\"",
+      "pytest-asyncio<2,>=0.16; extra == \"dev\"",
+      "coveralls<5,>=3.3; extra == \"dev\"",
+      "pytest<9,>=8; extra == \"test\"",
+      "pytest-benchmark<5,>=4; extra == \"test\"",
+      "pytest-cov<6,>=5; extra == \"test\"",
+      "pytest-mock<4,>=3; extra == \"test\"",
+      "pytest-asyncio<2,>=0.16; extra == \"test\"",
+      "coveralls<5,>=3.3; extra == \"test\""
+    ]
+  },
+  "graphene-3.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28bf359b802cdb808130a5521135d4c88a262564598cfdc91628d2c172b99dce",
+    "dependencies": {
+      "required": [
+        "graphql-core",
+        "graphql-relay",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "graphql-core<3.3,>=3.1",
+      "graphql-relay<3.3,>=3.1",
+      "typing-extensions<5,>=4.7.1",
+      "ruff==0.5.0; extra == \"dev\"",
+      "pytest<9,>=8; extra == \"dev\"",
+      "pytest-benchmark<5,>=4; extra == \"dev\"",
+      "pytest-cov<6,>=5; extra == \"dev\"",
+      "pytest-mock<4,>=3; extra == \"dev\"",
+      "pytest-asyncio<2,>=0.16; extra == \"dev\"",
+      "coveralls<5,>=3.3; extra == \"dev\"",
+      "pytest<9,>=8; extra == \"test\"",
+      "pytest-benchmark<5,>=4; extra == \"test\"",
+      "pytest-cov<6,>=5; extra == \"test\"",
+      "pytest-mock<4,>=3; extra == \"test\"",
+      "pytest-asyncio<2,>=0.16; extra == \"test\"",
+      "coveralls<5,>=3.3; extra == \"test\""
+    ]
+  },
+  "graphene-3.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb3810be33b54cb3e6969506671eb72319e8d7ba0d5ca9c8066472f75bf35a38",
+    "dependencies": {
+      "required": [
+        "graphql-core",
+        "graphql-relay",
+        "aniso8601"
+      ]
+    },
+    "original_requirements": [
+      "graphql-core (<3.3,>=3.1)",
+      "graphql-relay (<3.3,>=3.1)",
+      "aniso8601 (<10,>=8)",
+      "black (==22.3.0) ; extra == 'dev'",
+      "flake8 (<5,>=4) ; extra == 'dev'",
+      "pytest (<7,>=6) ; extra == 'dev'",
+      "pytest-benchmark (<4,>=3.4) ; extra == 'dev'",
+      "pytest-cov (<4,>=3) ; extra == 'dev'",
+      "pytest-mock (<4,>=3) ; extra == 'dev'",
+      "pytest-asyncio (<2,>=0.16) ; extra == 'dev'",
+      "snapshottest (<1,>=0.6) ; extra == 'dev'",
+      "coveralls (<4,>=3.3) ; extra == 'dev'",
+      "mock (<5,>=4) ; extra == 'dev'",
+      "pytz (==2022.1) ; extra == 'dev'",
+      "iso8601 (<2,>=1) ; extra == 'dev'",
+      "pytest (<7,>=6) ; extra == 'test'",
+      "pytest-benchmark (<4,>=3.4) ; extra == 'test'",
+      "pytest-cov (<4,>=3) ; extra == 'test'",
+      "pytest-mock (<4,>=3) ; extra == 'test'",
+      "pytest-asyncio (<2,>=0.16) ; extra == 'test'",
+      "snapshottest (<1,>=0.6) ; extra == 'test'",
+      "coveralls (<4,>=3.3) ; extra == 'test'",
+      "mock (<5,>=4) ; extra == 'test'",
+      "pytz (==2022.1) ; extra == 'test'",
+      "iso8601 (<2,>=1) ; extra == 'test'"
+    ]
+  }
+}

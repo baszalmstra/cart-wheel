@@ -1,0 +1,84 @@
+{
+  "zope_testing-6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2d80fc061c361a57d651df91f2bbe82f54bdbacecd517805b8d2263b17aadcd6",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.testrunner>=6.4; extra == \"test\"",
+      "sphinx; extra == \"docs\"",
+      "repoze.sphinx.autointerface; extra == \"docs\"",
+      "zope.exceptions; extra == \"docs\"",
+      "zope.interface; extra == \"docs\""
+    ]
+  },
+  "zope.testing-5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ad71af81a66988817e74dcee02f53ed26e65ae6e88c0bbff98790e465e0d223",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.testrunner; extra == \"test\"",
+      "sphinx; extra == \"docs\"",
+      "repoze.sphinx.autointerface; extra == \"docs\"",
+      "zope.exceptions; extra == \"docs\"",
+      "zope.interface; extra == \"docs\""
+    ]
+  },
+  "zope.testing-5.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3c8fc322418ab561d56d1cdad92812a2b2d79d366e7bb9a31437c72ad4b4dad",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "zope.exceptions ; extra == 'docs'",
+      "zope.interface ; extra == 'docs'",
+      "zope.testrunner ; extra == 'test'"
+    ]
+  },
+  "zope.testing-4.10-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa32eeb971aa5e50aaa1657d97ff97669e4c1054db0dc92ee6338361f2864be4",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "sphinx ; extra == 'docs'",
+      "repoze.sphinx.autointerface ; extra == 'docs'",
+      "zope.exceptions ; extra == 'docs'",
+      "zope.interface ; extra == 'docs'",
+      "mock ; (python_version == \"2.7\") and extra == 'docs'",
+      "zope.testrunner ; extra == 'test'"
+    ]
+  },
+  "zope.testing-4.9-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c5179a770361669d740d711c93c16eff6beea733f332147635759381f971442",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "zope.testrunner ; extra == 'test'"
+    ]
+  }
+}

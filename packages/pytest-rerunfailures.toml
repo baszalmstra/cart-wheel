@@ -1,0 +1,12 @@
+# Package configuration for pytest-rerunfailures
+conda_forge = "pytest-rerunfailures"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_rerunfailures-16.1-py3-none-any.whl" },
+  { filename = "pytest_rerunfailures-16.0.1-py3-none-any.whl" },
+  { filename = "pytest_rerunfailures-16.0-py3-none-any.whl" },
+  { filename = "pytest_rerunfailures-15.1-py3-none-any.whl" },
+  { filename = "pytest_rerunfailures-15.0-py3-none-any.whl" },
+]

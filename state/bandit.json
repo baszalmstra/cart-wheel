@@ -1,0 +1,157 @@
+{
+  "bandit-1.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bda8d68610fc33a6e10b7a8f1d61d92c8f6c004051d5e946406be1fb1b16a868",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "stevedore",
+        "rich",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML>=5.3.1",
+      "stevedore>=1.20.0",
+      "rich",
+      "colorama>=0.3.9; platform_system == \"Windows\"",
+      "PyYAML; extra == \"yaml\"",
+      "tomli>=1.1.0; python_version < \"3.11\" and extra == \"toml\"",
+      "GitPython>=3.1.30; extra == \"baseline\"",
+      "sarif-om>=1.0.4; extra == \"sarif\"",
+      "jschema-to-python>=1.2.3; extra == \"sarif\"",
+      "coverage>=4.5.4; extra == \"test\"",
+      "fixtures>=3.0.0; extra == \"test\"",
+      "flake8>=4.0.0; extra == \"test\"",
+      "stestr>=2.5.0; extra == \"test\"",
+      "testscenarios>=0.5.0; extra == \"test\"",
+      "testtools>=2.3.0; extra == \"test\"",
+      "beautifulsoup4>=4.8.0; extra == \"test\"",
+      "pylint==1.9.4; extra == \"test\""
+    ]
+  },
+  "bandit-1.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0a1f34c04f067ee28985b7854edaa659c9299bd71e1b7e18236e46cccc79720b",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "stevedore",
+        "rich",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML>=5.3.1",
+      "stevedore>=1.20.0",
+      "rich",
+      "colorama>=0.3.9; platform_system == \"Windows\"",
+      "PyYAML; extra == \"yaml\"",
+      "tomli>=1.1.0; python_version < \"3.11\" and extra == \"toml\"",
+      "GitPython>=3.1.30; extra == \"baseline\"",
+      "sarif-om>=1.0.4; extra == \"sarif\"",
+      "jschema-to-python>=1.2.3; extra == \"sarif\"",
+      "coverage>=4.5.4; extra == \"test\"",
+      "fixtures>=3.0.0; extra == \"test\"",
+      "flake8>=4.0.0; extra == \"test\"",
+      "stestr>=2.5.0; extra == \"test\"",
+      "testscenarios>=0.5.0; extra == \"test\"",
+      "testtools>=2.3.0; extra == \"test\"",
+      "beautifulsoup4>=4.8.0; extra == \"test\"",
+      "pylint==1.9.4; extra == \"test\""
+    ]
+  },
+  "bandit-1.8.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3348e934d736fcdb68b6aa4030487097e23a501adf3e7827b63658df464dddd0",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "stevedore",
+        "rich",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML>=5.3.1",
+      "stevedore>=1.20.0",
+      "rich",
+      "colorama>=0.3.9; platform_system == \"Windows\"",
+      "GitPython>=3.1.30; extra == \"baseline\"",
+      "sarif-om>=1.0.4; extra == \"sarif\"",
+      "jschema-to-python>=1.2.3; extra == \"sarif\"",
+      "coverage>=4.5.4; extra == \"test\"",
+      "fixtures>=3.0.0; extra == \"test\"",
+      "flake8>=4.0.0; extra == \"test\"",
+      "stestr>=2.5.0; extra == \"test\"",
+      "testscenarios>=0.5.0; extra == \"test\"",
+      "testtools>=2.3.0; extra == \"test\"",
+      "beautifulsoup4>=4.8.0; extra == \"test\"",
+      "pylint==1.9.4; extra == \"test\"",
+      "tomli>=1.1.0; python_version < \"3.11\" and extra == \"toml\"",
+      "PyYAML; extra == \"yaml\""
+    ]
+  },
+  "bandit-1.8.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb2e57524e99e33ced48833c6cc9c12ac78ae970bb6a450a83c4b506ecc1e2f9",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "stevedore",
+        "rich",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML>=5.3.1",
+      "stevedore>=1.20.0",
+      "rich",
+      "colorama>=0.3.9; platform_system == \"Windows\"",
+      "GitPython>=3.1.30; extra == \"baseline\"",
+      "sarif-om>=1.0.4; extra == \"sarif\"",
+      "jschema-to-python>=1.2.3; extra == \"sarif\"",
+      "coverage>=4.5.4; extra == \"test\"",
+      "fixtures>=3.0.0; extra == \"test\"",
+      "flake8>=4.0.0; extra == \"test\"",
+      "stestr>=2.5.0; extra == \"test\"",
+      "testscenarios>=0.5.0; extra == \"test\"",
+      "testtools>=2.3.0; extra == \"test\"",
+      "beautifulsoup4>=4.8.0; extra == \"test\"",
+      "pylint==1.9.4; extra == \"test\"",
+      "tomli>=1.1.0; python_version < \"3.11\" and extra == \"toml\"",
+      "PyYAML; extra == \"yaml\""
+    ]
+  },
+  "bandit-1.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28f04dc0d258e1dd0f99dee8eefa13d1cb5e3fde1a5ab0c523971f97b289bcd8",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "stevedore",
+        "rich",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML>=5.3.1",
+      "stevedore>=1.20.0",
+      "rich",
+      "colorama>=0.3.9; platform_system == \"Windows\"",
+      "GitPython>=3.1.30; extra == \"baseline\"",
+      "sarif-om>=1.0.4; extra == \"sarif\"",
+      "jschema-to-python>=1.2.3; extra == \"sarif\"",
+      "coverage>=4.5.4; extra == \"test\"",
+      "fixtures>=3.0.0; extra == \"test\"",
+      "flake8>=4.0.0; extra == \"test\"",
+      "stestr>=2.5.0; extra == \"test\"",
+      "testscenarios>=0.5.0; extra == \"test\"",
+      "testtools>=2.3.0; extra == \"test\"",
+      "beautifulsoup4>=4.8.0; extra == \"test\"",
+      "pylint==1.9.4; extra == \"test\"",
+      "tomli>=1.1.0; python_version < \"3.11\" and extra == \"toml\"",
+      "PyYAML; extra == \"yaml\""
+    ]
+  }
+}

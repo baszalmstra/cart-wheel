@@ -1,0 +1,79 @@
+{
+  "prison-0.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f90bab63fca497aa0819a852f64fb21a4e181ed9f6114deaa5dc04001a7555c5",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "nose ; extra == 'dev'",
+      "pipreqs ; extra == 'dev'",
+      "twine ; extra == 'dev'"
+    ]
+  },
+  "prison-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3cc4d2514dfe73f7f137de4c3e8dd13d7729d3e55dc801bed9b668a0a6a1812b",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "nose ; extra == 'dev'",
+      "pipreqs ; extra == 'dev'",
+      "twine ; extra == 'dev'"
+    ]
+  },
+  "prison-0.1.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58e972709e9e2feabc1aa06cb6493f9c43b55a8afd7d653cf0aa82e3923fbd35",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "nose ; extra == 'dev'",
+      "pipreqs ; extra == 'dev'",
+      "twine ; extra == 'dev'"
+    ]
+  },
+  "prison-0.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bdde209e4e0b1c2fe804b0ded70062c26b1ece2d694439192a724618f85ed991",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "nose; extra == 'dev'",
+      "pipreqs; extra == 'dev'",
+      "twine; extra == 'dev'"
+    ]
+  },
+  "prison-0.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c5749d4b8da9857d1dc239d8368f1f2d5c599d16ecc5f758bf128ff95e0886ca",
+    "dependencies": {
+      "required": [
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "six",
+      "nose; extra == 'dev'",
+      "pipreqs; extra == 'dev'",
+      "twine; extra == 'dev'"
+    ]
+  }
+}

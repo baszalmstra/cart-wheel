@@ -1,0 +1,12 @@
+# Package configuration for ansi
+conda_forge = "ansi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ansi-0.3.7-py3-none-any.whl" },
+  { filename = "ansi-0.3.6-py3-none-any.whl" },
+  { filename = "ansi-0.3.5-py3-none-any.whl" },
+  { filename = "ansi-0.3.4-py3-none-any.whl" },
+  { filename = "ansi-0.3.3-py3-none-any.whl" },
+]

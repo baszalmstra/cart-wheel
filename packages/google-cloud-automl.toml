@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-automl
+conda_forge = "google-cloud-automl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_automl-2.17.0-py3-none-any.whl" },
+  { filename = "google_cloud_automl-2.16.4-py3-none-any.whl" },
+  { filename = "google_cloud_automl-2.16.3-py3-none-any.whl" },
+  { filename = "google_cloud_automl-2.16.2-py2.py3-none-any.whl" },
+  { filename = "google_cloud_automl-2.16.1-py2.py3-none-any.whl" },
+]

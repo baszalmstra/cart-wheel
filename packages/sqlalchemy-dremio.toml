@@ -1,0 +1,12 @@
+# Package configuration for sqlalchemy-dremio
+conda_forge = "sqlalchemy-dremio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sqlalchemy_dremio-3.0.3-py2.py3-none-any.whl" },
+  { filename = "sqlalchemy_dremio-3.0.2-py2.py3-none-any.whl" },
+  { filename = "sqlalchemy_dremio-3.0.1-py2.py3-none-any.whl" },
+  { filename = "sqlalchemy_dremio-3.0.0-py2.py3-none-any.whl" },
+  { filename = "sqlalchemy_dremio-2.0.2-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,116 @@
+{
+  "fal_client-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "794baf3dc03e89593b3b5b7ee5eaedee79539bbba88a3c3368a18b7a1e1ec6b8",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "httpx-sse",
+        "msgpack",
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1,>=0.21.0",
+      "httpx-sse<0.5,>=0.4.0",
+      "msgpack<2,>=1.0.7",
+      "websockets>=12.0",
+      "sphinx; extra == \"docs\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "sphinx-autodoc-typehints; extra == \"docs\"",
+      "pytest; extra == \"test\"",
+      "pytest-asyncio; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pillow; extra == \"test\"",
+      "fal_client[docs,test]; extra == \"dev\""
+    ]
+  },
+  "fal_client-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8eba86c947299852c8306f685eee883ce01856543bf4344b87f65abd4b7d7622",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "httpx-sse"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1,>=0.21.0",
+      "httpx-sse<0.5,>=0.4.0",
+      "sphinx; extra == \"docs\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "sphinx-autodoc-typehints; extra == \"docs\"",
+      "pytest; extra == \"test\"",
+      "pytest-asyncio; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pillow; extra == \"test\"",
+      "fal_client[docs,test]; extra == \"dev\""
+    ]
+  },
+  "fal_client-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ab37063f2b35ca6fad06f75fe45b05b72c774ad7590e0f93d47a8f6ad5e1f9db",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "httpx-sse"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1,>=0.21.0",
+      "httpx-sse<0.5,>=0.4.0",
+      "sphinx; extra == \"docs\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "sphinx-autodoc-typehints; extra == \"docs\"",
+      "pytest; extra == \"test\"",
+      "pytest-asyncio; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pillow; extra == \"test\"",
+      "fal_client[docs,test]; extra == \"dev\""
+    ]
+  },
+  "fal_client-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f2fd9801a7b67b075e388f845065c1f2969f477267233311d34cd07039cab77d",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "httpx-sse"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1,>=0.21.0",
+      "httpx-sse<0.5,>=0.4.0",
+      "sphinx; extra == \"docs\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "sphinx-autodoc-typehints; extra == \"docs\"",
+      "pytest; extra == \"test\"",
+      "pytest-asyncio; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pillow; extra == \"test\"",
+      "fal_client[docs,test]; extra == \"dev\""
+    ]
+  },
+  "fal_client-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f847ff76af5bd8f4f68541eff629481730656a374e6071dbb947a2ad9212f129",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "httpx-sse"
+      ]
+    },
+    "original_requirements": [
+      "httpx<1,>=0.21.0",
+      "httpx-sse<0.5,>=0.4.0",
+      "sphinx; extra == \"docs\"",
+      "sphinx-rtd-theme; extra == \"docs\"",
+      "sphinx-autodoc-typehints; extra == \"docs\"",
+      "pytest; extra == \"test\"",
+      "pytest-asyncio; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pillow; extra == \"test\"",
+      "fal_client[docs,test]; extra == \"dev\""
+    ]
+  }
+}

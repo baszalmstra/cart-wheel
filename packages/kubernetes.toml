@@ -1,0 +1,12 @@
+# Package configuration for kubernetes
+conda_forge = "python-kubernetes"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kubernetes-34.1.0-py2.py3-none-any.whl" },
+  { filename = "kubernetes-33.1.0-py2.py3-none-any.whl" },
+  { filename = "kubernetes-32.0.1-py2.py3-none-any.whl" },
+  { filename = "kubernetes-32.0.0-py2.py3-none-any.whl" },
+  { filename = "kubernetes-31.0.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,121 @@
+{
+  "gdown-5.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "33083832d82b1101bdd0e9df3edd0fbc0e1c5f14c9d8c38d2a35bf1683b526d6",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "filelock",
+        "requests",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4",
+      "filelock",
+      "requests[socks]",
+      "tqdm",
+      "build; extra == 'test'",
+      "mypy; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "ruff; extra == 'test'",
+      "twine; extra == 'test'",
+      "types-requests; extra == 'test'",
+      "types-setuptools; extra == 'test'"
+    ]
+  },
+  "gdown-5.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "421530fd238fa15d41ba43219a79fdc28efe8ac11022173abad333701b77de2c",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "filelock",
+        "requests",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4",
+      "filelock",
+      "requests[socks]",
+      "tqdm",
+      "build; extra == 'test'",
+      "mypy; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "ruff; extra == 'test'",
+      "twine; extra == 'test'",
+      "types-requests; extra == 'test'"
+    ]
+  },
+  "gdown-5.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f595fcfd4b1bccd5cf73453f60984c5fa1c18eed499277a52b23337238c2670",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "filelock",
+        "requests",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4",
+      "filelock",
+      "requests[socks]",
+      "tqdm",
+      "build; extra == 'test'",
+      "mypy; extra == 'test'",
+      "pytest; extra == 'test'",
+      "ruff; extra == 'test'",
+      "twine; extra == 'test'",
+      "types-requests; extra == 'test'"
+    ]
+  },
+  "gdown-5.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f8c709a07262054ad8076ce718700ac1cc708617b482844c55281d4be4826412",
+    "dependencies": {
+      "required": [
+        "beautifulsoup4",
+        "filelock",
+        "requests",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "beautifulsoup4",
+      "filelock",
+      "requests[socks]",
+      "tqdm",
+      "build; extra == 'test'",
+      "mypy; extra == 'test'",
+      "pytest; extra == 'test'",
+      "ruff; extra == 'test'",
+      "twine; extra == 'test'",
+      "types-requests; extra == 'test'"
+    ]
+  },
+  "gdown-4.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aeb7b979b35efd007d0c12fee17350f007aeb5fa84a9def09381d765075ba9ce",
+    "dependencies": {
+      "required": [
+        "filelock",
+        "requests",
+        "six",
+        "tqdm",
+        "beautifulsoup4"
+      ]
+    },
+    "original_requirements": [
+      "filelock",
+      "requests[socks]",
+      "six",
+      "tqdm",
+      "beautifulsoup4"
+    ]
+  }
+}

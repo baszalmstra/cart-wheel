@@ -1,0 +1,11 @@
+# Package configuration for modernize
+conda_forge = "modernize"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "modernize-0.8.0-py2.py3-none-any.whl" },
+  { filename = "modernize-0.7-py2.py3-none-any.whl" },
+  { filename = "modernize-0.6.1-py2.py3-none-any.whl" },
+  { filename = "modernize-0.6-py3-none-any.whl" },
+]

@@ -1,0 +1,133 @@
+{
+  "jupyter_core-5.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ebf87fdc6073d142e114c72c9e29a9d7ca03fad818c5d300ce2adc1fb0743407",
+    "dependencies": {
+      "required": [
+        "platformdirs",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "platformdirs>=2.5",
+      "traitlets>=5.3",
+      "intersphinx-registry; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx-autodoc-typehints; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "traitlets; extra == 'docs'",
+      "ipykernel; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest<9; extra == 'test'"
+    ]
+  },
+  "jupyter_core-5.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf13431d292ce34a25568586729a3b9deb07d112289b77350dc4c2340c2f34c1",
+    "dependencies": {
+      "required": [
+        "platformdirs",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "platformdirs>=2.5",
+      "traitlets>=5.3",
+      "intersphinx-registry; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx-autodoc-typehints; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "traitlets; extra == 'docs'",
+      "ipykernel; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest<9; extra == 'test'"
+    ]
+  },
+  "jupyter_core-5.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c28d268fc90fb53f1338ded2eb410704c5449a358406e8a948b75706e24863d0",
+    "dependencies": {
+      "required": [
+        "platformdirs",
+        "pywin32",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "platformdirs>=2.5",
+      "pywin32>=300; sys_platform == 'win32' and platform_python_implementation != 'PyPy'",
+      "traitlets>=5.3",
+      "intersphinx-registry; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx-autodoc-typehints; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "traitlets; extra == 'docs'",
+      "ipykernel; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest<9; extra == 'test'"
+    ]
+  },
+  "jupyter_core-5.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55493149572e9d48592c9c81f0ec4b025589769eb935e2fb1d3049b24a832784",
+    "dependencies": {
+      "required": [
+        "platformdirs",
+        "pywin32",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "platformdirs>=2.5",
+      "pywin32>=300; sys_platform == 'win32' and platform_python_implementation != 'PyPy'",
+      "traitlets>=5.3",
+      "intersphinx-registry; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx-autodoc-typehints; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "traitlets; extra == 'docs'",
+      "ipykernel; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest<9; extra == 'test'"
+    ]
+  },
+  "jupyter_core-5.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f7315d2f6b4bcf2e3e7cb6e46772eba760ae459cd1f59d29eb57b0a01bd7409",
+    "dependencies": {
+      "required": [
+        "platformdirs",
+        "pywin32",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "platformdirs>=2.5",
+      "pywin32>=300; sys_platform == 'win32' and platform_python_implementation != 'PyPy'",
+      "traitlets>=5.3",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx-autodoc-typehints; extra == 'docs'",
+      "sphinxcontrib-github-alt; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "traitlets; extra == 'docs'",
+      "ipykernel; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest<8; extra == 'test'"
+    ]
+  }
+}

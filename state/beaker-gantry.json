@@ -1,0 +1,217 @@
+{
+  "beaker_gantry-3.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b734d482c13e96011a3f4a0951a99cc68cdf225119a3ec5dfc9ee7bd1c7c677",
+    "dependencies": {
+      "required": [
+        "beaker-py",
+        "gitpython",
+        "rich",
+        "click",
+        "click-help-colors",
+        "click-option-group",
+        "petname",
+        "requests",
+        "packaging",
+        "tomli",
+        "dataclass-extensions",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "beaker-py<3.0,>=2.5.1",
+      "GitPython<4.0,>=3.0",
+      "rich",
+      "click",
+      "click-help-colors",
+      "click-option-group",
+      "petname<3.0,>=2.6",
+      "requests",
+      "packaging",
+      "tomli",
+      "dataclass-extensions",
+      "PyYAML",
+      "ruff; extra == \"dev\"",
+      "mypy<1.6,>=1.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-protobuf; extra == \"dev\"",
+      "types-PyYAML; extra == \"dev\"",
+      "black<24.0,>=23.0; extra == \"dev\"",
+      "isort<5.13,>=5.11; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\""
+    ]
+  },
+  "beaker_gantry-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3828bbfebf327c1d78d3397b1062e6eb16bb84fda1449b36a62d8cfdfc4b08fb",
+    "dependencies": {
+      "required": [
+        "beaker-py",
+        "gitpython",
+        "rich",
+        "click",
+        "click-help-colors",
+        "click-option-group",
+        "petname",
+        "requests",
+        "packaging",
+        "tomli",
+        "dataclass-extensions"
+      ]
+    },
+    "original_requirements": [
+      "beaker-py<3.0,>=2.5.1",
+      "GitPython<4.0,>=3.0",
+      "rich",
+      "click",
+      "click-help-colors",
+      "click-option-group",
+      "petname<3.0,>=2.6",
+      "requests",
+      "packaging",
+      "tomli",
+      "dataclass-extensions",
+      "ruff; extra == \"dev\"",
+      "mypy<1.6,>=1.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-protobuf; extra == \"dev\"",
+      "black<24.0,>=23.0; extra == \"dev\"",
+      "isort<5.13,>=5.11; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\""
+    ]
+  },
+  "beaker_gantry-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db32cc87520ed627c5fb2c1bd19126f40e4d849a6ffd554358e1a85c26592e99",
+    "dependencies": {
+      "required": [
+        "beaker-py",
+        "gitpython",
+        "rich",
+        "click",
+        "click-help-colors",
+        "click-option-group",
+        "petname",
+        "requests",
+        "packaging",
+        "tomli",
+        "dataclass-extensions"
+      ]
+    },
+    "original_requirements": [
+      "beaker-py<3.0,>=2.4.7",
+      "GitPython<4.0,>=3.0",
+      "rich",
+      "click",
+      "click-help-colors",
+      "click-option-group",
+      "petname<3.0,>=2.6",
+      "requests",
+      "packaging",
+      "tomli",
+      "dataclass-extensions",
+      "ruff; extra == \"dev\"",
+      "mypy<1.6,>=1.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-protobuf; extra == \"dev\"",
+      "black<24.0,>=23.0; extra == \"dev\"",
+      "isort<5.13,>=5.11; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\""
+    ]
+  },
+  "beaker_gantry-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8cd788b52f4d0d7de1aefff2532cff190881d8494e2d1d43bc1a76c1263aa70",
+    "dependencies": {
+      "required": [
+        "beaker-py",
+        "gitpython",
+        "rich",
+        "click",
+        "click-help-colors",
+        "click-option-group",
+        "petname",
+        "requests",
+        "packaging",
+        "tomli",
+        "dataclass-extensions"
+      ]
+    },
+    "original_requirements": [
+      "beaker-py<3.0,>=2.4.7",
+      "GitPython<4.0,>=3.0",
+      "rich",
+      "click",
+      "click-help-colors",
+      "click-option-group",
+      "petname<3.0,>=2.6",
+      "requests",
+      "packaging",
+      "tomli",
+      "dataclass-extensions",
+      "ruff; extra == \"dev\"",
+      "mypy<1.6,>=1.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-protobuf; extra == \"dev\"",
+      "black<24.0,>=23.0; extra == \"dev\"",
+      "isort<5.13,>=5.11; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\""
+    ]
+  },
+  "beaker_gantry-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ef62cb8325702b366520fbc76dd8eeb14180ec9ac17d9b0bcbb8f90411c0ee1",
+    "dependencies": {
+      "required": [
+        "beaker-py",
+        "gitpython",
+        "rich",
+        "click",
+        "click-help-colors",
+        "click-option-group",
+        "petname",
+        "requests",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "beaker-py<3.0,>=2.4.7",
+      "GitPython<4.0,>=3.0",
+      "rich",
+      "click",
+      "click-help-colors",
+      "click-option-group",
+      "petname<3.0,>=2.6",
+      "requests",
+      "packaging",
+      "ruff; extra == \"dev\"",
+      "mypy<1.6,>=1.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "types-protobuf; extra == \"dev\"",
+      "black<24.0,>=23.0; extra == \"dev\"",
+      "isort<5.13,>=5.11; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "packaging; extra == \"dev\""
+    ]
+  }
+}

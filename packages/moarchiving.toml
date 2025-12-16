@@ -1,0 +1,10 @@
+# Package configuration for moarchiving
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "moarchiving-1.0.0-py3-none-any.whl" },
+  { filename = "moarchiving-0.6.0-py2.py3-none-any.whl" },
+  { filename = "moarchiving-0.5.3-py2.py3-none-any.whl" },
+  { filename = "moarchiving-0.5.2-py2.py3-none-any.whl" },
+]

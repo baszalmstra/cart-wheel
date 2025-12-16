@@ -1,0 +1,30 @@
+{
+  "pyzstd-0.19.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "267e2eb0de0291dfcb7ccfebc4ffe75b2f9d84e7007ac38844f6ccafc6dce081",
+    "dependencies": {
+      "required": [
+        "backports-zstd",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "backports-zstd>=1.0.0; python_version < '3.14'",
+      "typing-extensions>=4.13.2; python_version < '3.13'"
+    ]
+  },
+  "pyzstd-0.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "878cfc4af81715e32139f7bd50871a06d58693849f946e55fd45c84f4c9a014c",
+    "dependencies": {
+      "required": [
+        "backports-zstd",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "backports-zstd>=1.0.0; python_version < '3.14'",
+      "typing-extensions>=4.13.2; python_version < '3.13'"
+    ]
+  }
+}

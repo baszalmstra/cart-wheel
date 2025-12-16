@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_phase-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "99a1c1efc6644f5312cce3693117d4e4482538f65ad08fe59e41e2579b67ab17",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-avfoundation"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-AVFoundation>=12.1"
+    ]
+  },
+  "pyobjc_framework_phase-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a520e94ac9163bd4c586bfefdb8a129a15c5fbda59d728c4135835e3ce5c6031",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-avfoundation"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-AVFoundation>=12.0"
+    ]
+  },
+  "pyobjc_framework_phase-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cfa61f9c6c004161913946501538258aed48c448b886adbf9ed035957d93fa15",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-avfoundation"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-AVFoundation>=11.1"
+    ]
+  },
+  "pyobjc_framework_PHASE-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3e41c2b2fdf4b2ce39f558a08762c6864449ff87b618e42747777ad3f821323",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-avfoundation"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-AVFoundation >=11.0"
+    ]
+  },
+  "pyobjc_framework_PHASE-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24791034d0c81023d8fd4d22a0373ed508a1624410c1364d4db12c615f6f0247",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-avfoundation"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-AVFoundation>=10.3.2"
+    ]
+  }
+}

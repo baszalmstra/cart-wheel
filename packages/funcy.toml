@@ -1,0 +1,12 @@
+# Package configuration for funcy
+conda_forge = "funcy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "funcy-2.0-py2.py3-none-any.whl" },
+  { filename = "funcy-1.18-py2.py3-none-any.whl" },
+  { filename = "funcy-1.17-py2.py3-none-any.whl" },
+  { filename = "funcy-1.16-py2.py3-none-any.whl" },
+  { filename = "funcy-1.15-py2.py3-none-any.whl" },
+]

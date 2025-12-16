@@ -1,0 +1,12 @@
+# Package configuration for roman
+conda_forge = "roman"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "roman-5.2-py3-none-any.whl" },
+  { filename = "roman-5.1-py3-none-any.whl" },
+  { filename = "roman-5.0-py3-none-any.whl" },
+  { filename = "roman-4.2-py3-none-any.whl" },
+  { filename = "roman-4.1-py3-none-any.whl" },
+]

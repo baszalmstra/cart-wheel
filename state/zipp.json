@@ -1,0 +1,141 @@
+{
+  "zipp-3.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "071652d6115ed432f5ce1d34c336c0adfd6a884660d1e9712a256d3d3bd4b14e",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "jaraco.itertools; extra == \"test\"",
+      "jaraco.functools; extra == \"test\"",
+      "more_itertools; extra == \"test\"",
+      "big-O; extra == \"test\"",
+      "pytest-ignore-flaky; extra == \"test\"",
+      "jaraco.test; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "zipp-3.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe208f65f2aca48b81f9e6fd8cf7b8b32c26375266b009b413d45306b6148343",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "jaraco.itertools; extra == \"test\"",
+      "jaraco.functools; extra == \"test\"",
+      "more_itertools; extra == \"test\"",
+      "big-O; extra == \"test\"",
+      "pytest-ignore-flaky; extra == \"test\"",
+      "jaraco.test; extra == \"test\"",
+      "importlib_resources; python_version < \"3.9\" and extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "zipp-3.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac1bbe05fd2991f160ebce24ffbac5f6d11d83dc90891255885223d42b3cd931",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "jaraco.itertools ; extra == 'test'",
+      "jaraco.functools ; extra == 'test'",
+      "more-itertools ; extra == 'test'",
+      "big-O ; extra == 'test'",
+      "pytest-ignore-flaky ; extra == 'test'",
+      "jaraco.test ; extra == 'test'",
+      "importlib-resources ; (python_version < \"3.9\") and extra == 'test'",
+      "pytest-mypy ; extra == 'type'"
+    ]
+  },
+  "zipp-3.20.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a817ac80d6cf4b23bf7f2828b7cabf326f15a001bea8b1f9b49631780ba28350",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "jaraco.itertools ; extra == 'test'",
+      "jaraco.functools ; extra == 'test'",
+      "more-itertools ; extra == 'test'",
+      "big-O ; extra == 'test'",
+      "pytest-ignore-flaky ; extra == 'test'",
+      "jaraco.test ; extra == 'test'",
+      "importlib-resources ; (python_version < \"3.9\") and extra == 'test'",
+      "pytest-mypy ; extra == 'type'"
+    ]
+  },
+  "zipp-3.20.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9960cd8967c8f85a56f920d5d507274e74f9ff813a0ab8889a5b5be2daf44064",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "jaraco.itertools ; extra == 'test'",
+      "jaraco.functools ; extra == 'test'",
+      "more-itertools ; extra == 'test'",
+      "big-O ; extra == 'test'",
+      "pytest-ignore-flaky ; extra == 'test'",
+      "jaraco.test ; extra == 'test'",
+      "importlib-resources ; (python_version < \"3.9\") and extra == 'test'",
+      "pytest-mypy ; extra == 'type'"
+    ]
+  }
+}

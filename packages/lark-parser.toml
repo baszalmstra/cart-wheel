@@ -1,0 +1,12 @@
+# Package configuration for lark-parser
+conda_forge = "lark-parser"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lark_parser-0.12.0-py2.py3-none-any.whl" },
+  { filename = "lark_parser-0.11.1-py2.py3-none-any.whl" },
+  { filename = "lark_parser-0.11.0-py2.py3-none-any.whl" },
+  { filename = "lark_parser-0.10.0-py2.py3-none-any.whl" },
+  { filename = "lark_parser-0.8.5-py2.py3-none-any.whl" },
+]

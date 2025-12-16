@@ -1,0 +1,12 @@
+# Package configuration for jupyterlite-pyodide-kernel
+conda_forge = "jupyterlite-pyodide-kernel"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyterlite_pyodide_kernel-0.7.0-py3-none-any.whl" },
+  { filename = "jupyterlite_pyodide_kernel-0.6.1-py3-none-any.whl" },
+  { filename = "jupyterlite_pyodide_kernel-0.6.0-py3-none-any.whl" },
+  { filename = "jupyterlite_pyodide_kernel-0.5.2-py3-none-any.whl" },
+  { filename = "jupyterlite_pyodide_kernel-0.5.1-py3-none-any.whl" },
+]

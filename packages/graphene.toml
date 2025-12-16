@@ -1,0 +1,12 @@
+# Package configuration for graphene
+conda_forge = "graphene"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "graphene-3.4.3-py2.py3-none-any.whl" },
+  { filename = "graphene-3.4.2-py2.py3-none-any.whl" },
+  { filename = "graphene-3.4.1-py2.py3-none-any.whl" },
+  { filename = "graphene-3.4-py2.py3-none-any.whl" },
+  { filename = "graphene-3.3-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,149 @@
+{
+  "jaraco.services-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b503ff6d9158e55457dc1709b9851cff606e935ba95c6403600269aef8af8fc1",
+    "dependencies": {
+      "required": [
+        "portend",
+        "path",
+        "tempora",
+        "jaraco.classes"
+      ]
+    },
+    "original_requirements": [
+      "portend",
+      "path",
+      "tempora",
+      "jaraco.classes",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest !=8.1.*,>=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-mypy ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'"
+    ]
+  },
+  "jaraco.services-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb9e1fd639a89d7cc939f7a36281357765ca800be80771f415cffde7fd5d02e5",
+    "dependencies": {
+      "required": [
+        "portend",
+        "path",
+        "tempora",
+        "jaraco.classes"
+      ]
+    },
+    "original_requirements": [
+      "portend",
+      "path",
+      "tempora",
+      "jaraco.classes",
+      "sphinx (>=3.5) ; extra == 'docs'",
+      "jaraco.packaging (>=9.3) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=2.2) ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.services-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e151388b299eb0ac0609a8eb99692a954e0662a7e51a423c7093a979fea33b2",
+    "dependencies": {
+      "required": [
+        "portend",
+        "path",
+        "tempora",
+        "jaraco.classes"
+      ]
+    },
+    "original_requirements": [
+      "portend",
+      "path",
+      "tempora",
+      "jaraco.classes",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=8.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs (>=1.2.3) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.services-3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b99362d098a8f863410e21d35cacf1f32c539897d2b041c83dba1fe9caaee27",
+    "dependencies": {
+      "required": [
+        "six",
+        "portend",
+        "path.py",
+        "tempora",
+        "jaraco.classes"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "portend",
+      "path.py (>=6.2)",
+      "tempora",
+      "jaraco.classes",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'"
+    ]
+  },
+  "jaraco.services-2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "620b4e5f088e65ecc4f8e6b780aca823a752ab214108357744aab1b6dbeaeb51",
+    "dependencies": {
+      "required": [
+        "six",
+        "portend",
+        "path.py",
+        "tempora",
+        "jaraco.classes",
+        "contextlib2",
+        "virtualenv",
+        "tox",
+        "tox-venv"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "portend",
+      "path.py (>=6.2)",
+      "tempora",
+      "jaraco.classes",
+      "contextlib2",
+      "virtualenv",
+      "tox",
+      "tox-venv",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'"
+    ]
+  }
+}

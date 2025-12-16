@@ -1,0 +1,112 @@
+{
+  "apache_airflow_providers_openlineage-2.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03b419ffd025ed842ce07b22e43f450c41c357f12b9b8a6d5b272e59e9d7fe43",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "apache-airflow-providers-common-compat",
+        "attrs",
+        "openlineage-integration-common",
+        "openlineage-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "attrs>=22.2",
+      "openlineage-integration-common>=1.40.0",
+      "openlineage-python>=1.40.0"
+    ]
+  },
+  "apache_airflow_providers_openlineage-2.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2fad5f3d2e611e094cc2ed1ff6fb8ef56b4978abd50b22898896afc3107010e5",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "apache-airflow-providers-common-compat",
+        "attrs",
+        "openlineage-integration-common",
+        "openlineage-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "attrs>=22.2",
+      "openlineage-integration-common>=1.40.0",
+      "openlineage-python>=1.40.0"
+    ]
+  },
+  "apache_airflow_providers_openlineage-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b0e0e04e0dd6f659e763633e4b5a8862bad3b70091ce6675f55178e1bc86233",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "apache-airflow-providers-common-compat",
+        "attrs",
+        "openlineage-integration-common",
+        "openlineage-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "attrs>=22.2",
+      "openlineage-integration-common>=1.38.0",
+      "openlineage-python>=1.38.0"
+    ]
+  },
+  "apache_airflow_providers_openlineage-2.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e40b6353c16c9c0d4ae497cf7adccb2e807f8e1f697fed1284619948bcaaa3e",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "apache-airflow-providers-common-compat",
+        "attrs",
+        "openlineage-integration-common",
+        "openlineage-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "attrs>=22.2",
+      "openlineage-integration-common>=1.38.0",
+      "openlineage-python>=1.38.0"
+    ]
+  },
+  "apache_airflow_providers_openlineage-2.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "09f3456530db2da63f5755bc04a7886674794f244ac6f60b7a3e1990bbcda13d",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "apache-airflow-providers-common-compat",
+        "attrs",
+        "openlineage-integration-common",
+        "openlineage-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "apache-airflow-providers-common-compat>=1.4.0",
+      "attrs>=22.2",
+      "openlineage-integration-common>=1.36.0",
+      "openlineage-python>=1.36.0"
+    ]
+  }
+}

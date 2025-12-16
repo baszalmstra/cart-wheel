@@ -1,0 +1,9 @@
+# Package configuration for sefr-cut
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "SEFR_CUT-1.1-py3-none-any.whl" },
+  { filename = "SEFR_CUT-1.0-py3-none-any.whl" },
+  { filename = "SEFR_CUT-0.2-py3-none-any.whl" },
+]

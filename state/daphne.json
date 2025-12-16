@@ -1,0 +1,114 @@
+{
+  "daphne-4.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "881e96b387b95b35ad85acd855f229d7f5b79073d6649089c8a33f661885e055",
+    "dependencies": {
+      "required": [
+        "asgiref",
+        "autobahn",
+        "twisted"
+      ]
+    },
+    "original_requirements": [
+      "asgiref<4,>=3.5.2",
+      "autobahn>=22.4.2",
+      "twisted[tls]>=22.4",
+      "django; extra == \"tests\"",
+      "hypothesis; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-asyncio; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "black; extra == \"tests\"",
+      "tox; extra == \"tests\"",
+      "flake8; extra == \"tests\"",
+      "flake8-bugbear; extra == \"tests\"",
+      "mypy; extra == \"tests\""
+    ]
+  },
+  "daphne-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ccc7a476c498272237e27758a02aff11c76ab777c4e20b9b6c141729db599d5d",
+    "dependencies": {
+      "required": [
+        "asgiref",
+        "autobahn",
+        "twisted"
+      ]
+    },
+    "original_requirements": [
+      "asgiref<4,>=3.5.2",
+      "autobahn>=22.4.2",
+      "twisted[tls]>=22.4",
+      "django; extra == \"tests\"",
+      "hypothesis; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-asyncio; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "black; extra == \"tests\"",
+      "tox; extra == \"tests\"",
+      "flake8; extra == \"tests\"",
+      "flake8-bugbear; extra == \"tests\"",
+      "mypy; extra == \"tests\""
+    ]
+  },
+  "daphne-4.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "618d1322bb4d875342b99dd2a10da2d9aae7ee3645f765965fdc1e658ea5290a",
+    "dependencies": {
+      "required": [
+        "asgiref",
+        "autobahn",
+        "twisted"
+      ]
+    },
+    "original_requirements": [
+      "asgiref <4,>=3.5.2",
+      "autobahn >=22.4.2",
+      "twisted[tls] >=22.4",
+      "django ; extra == 'tests'",
+      "hypothesis ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-asyncio ; extra == 'tests'"
+    ]
+  },
+  "daphne-4.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2f9d7469b41fb3a06b5a0a94022b6ee5b850544df1337565470e457034974e2c",
+    "dependencies": {
+      "required": [
+        "asgiref",
+        "autobahn",
+        "twisted"
+      ]
+    },
+    "original_requirements": [
+      "asgiref <4,>=3.5.2",
+      "autobahn >=22.4.2",
+      "twisted[tls] >=22.4",
+      "django ; extra == 'tests'",
+      "hypothesis ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-asyncio ; extra == 'tests'"
+    ]
+  },
+  "daphne-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7228cd6a3ca5a9b11c9a1c1c0414dab1bfb4ddc55ff234b545db8d71f6c24938",
+    "dependencies": {
+      "required": [
+        "asgiref",
+        "autobahn",
+        "twisted"
+      ]
+    },
+    "original_requirements": [
+      "asgiref <4,>=3.5.2",
+      "autobahn >=22.4.2",
+      "twisted[tls] >=22.4",
+      "django ; extra == 'tests'",
+      "hypothesis ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-asyncio ; extra == 'tests'"
+    ]
+  }
+}

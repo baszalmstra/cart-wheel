@@ -1,0 +1,11 @@
+# Package configuration for sphinx-tippy
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_tippy-0.4.3-py3-none-any.whl" },
+  { filename = "sphinx_tippy-0.4.2-py3-none-any.whl" },
+  { filename = "sphinx_tippy-0.4.1-py3-none-any.whl" },
+  { filename = "sphinx_tippy-0.4.0-py3-none-any.whl" },
+  { filename = "sphinx_tippy-0.3.1-py3-none-any.whl" },
+]

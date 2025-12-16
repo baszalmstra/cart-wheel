@@ -1,0 +1,12 @@
+# Package configuration for cyclopts
+conda_forge = "cyclopts"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cyclopts-4.3.0-py3-none-any.whl" },
+  { filename = "cyclopts-4.2.5-py3-none-any.whl" },
+  { filename = "cyclopts-4.2.4-py3-none-any.whl" },
+  { filename = "cyclopts-4.2.3-py3-none-any.whl" },
+  { filename = "cyclopts-4.2.2-py3-none-any.whl" },
+]

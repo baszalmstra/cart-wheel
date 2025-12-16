@@ -1,0 +1,7 @@
+# Package configuration for paint-ldm
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "paint_ldm-0.1.0-py3-none-any.whl" },
+]

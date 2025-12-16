@@ -1,0 +1,12 @@
+# Package configuration for sphinx-markdown-builder
+conda_forge = "sphinx-markdown-builder"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_markdown_builder-0.6.9-py3-none-any.whl" },
+  { filename = "sphinx_markdown_builder-0.6.8-py3-none-any.whl" },
+  { filename = "sphinx_markdown_builder-0.6.7-py3-none-any.whl" },
+  { filename = "sphinx_markdown_builder-0.6.6-py3-none-any.whl" },
+  { filename = "sphinx_markdown_builder-0.6.5-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for pyppeteer
+conda_forge = "pyppeteer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyppeteer-2.0.0-py3-none-any.whl" },
+  { filename = "pyppeteer-1.0.2-py3-none-any.whl" },
+  { filename = "pyppeteer-1.0.1-py3-none-any.whl" },
+  { filename = "pyppeteer-1.0.0-py3-none-any.whl" },
+  { filename = "pyppeteer-0.2.6-py3-none-any.whl" },
+]

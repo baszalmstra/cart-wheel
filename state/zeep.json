@@ -1,0 +1,217 @@
+{
+  "zeep-4.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed08c3179709172bfaaa9b76a6a545f8a57043ec6218e64e9deb81ff1e0ff79b",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "isodate",
+        "lxml",
+        "platformdirs",
+        "requests",
+        "requests-toolbelt",
+        "requests-file",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=17.2.0",
+      "isodate>=0.5.4",
+      "lxml>=4.6.0",
+      "platformdirs>=1.4.0",
+      "requests>=2.7.0",
+      "requests-toolbelt>=0.7.1",
+      "requests-file>=1.5.1",
+      "pytz",
+      "sphinx>=1.4.0; extra == \"docs\"",
+      "coverage[toml]==7.6.2; extra == \"test\"",
+      "freezegun==1.5.1; extra == \"test\"",
+      "pretend==1.0.9; extra == \"test\"",
+      "pytest-cov==5.0.0; extra == \"test\"",
+      "pytest-httpx; extra == \"test\"",
+      "pytest-asyncio; extra == \"test\"",
+      "pytest==8.3.3; extra == \"test\"",
+      "requests_mock==1.12.1; extra == \"test\"",
+      "isort==5.13.2; extra == \"test\"",
+      "flake8==7.1.1; extra == \"test\"",
+      "flake8-blind-except==0.2.1; extra == \"test\"",
+      "flake8-debugger==4.1.2; extra == \"test\"",
+      "flake8-imports==0.1.1; extra == \"test\"",
+      "httpx>=0.15.0; extra == \"async\"",
+      "packaging; extra == \"async\"",
+      "xmlsec>=0.6.1; extra == \"xmlsec\""
+    ]
+  },
+  "zeep-4.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a637aa7eedb6330bb27e8c94c5233ddf23553904323adf9398f8cf5025acb216",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "isodate",
+        "lxml",
+        "platformdirs",
+        "requests",
+        "requests-toolbelt",
+        "requests-file",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=17.2.0",
+      "isodate>=0.5.4",
+      "lxml>=4.6.0",
+      "platformdirs>=1.4.0",
+      "requests>=2.7.0",
+      "requests-toolbelt>=0.7.1",
+      "requests-file>=1.5.1",
+      "pytz",
+      "httpx>=0.15.0; extra == \"async\"",
+      "sphinx>=1.4.0; extra == \"docs\"",
+      "coverage[toml]==7.6.2; extra == \"test\"",
+      "freezegun==1.5.1; extra == \"test\"",
+      "pretend==1.0.9; extra == \"test\"",
+      "pytest-cov==5.0.0; extra == \"test\"",
+      "pytest-httpx; extra == \"test\"",
+      "pytest-asyncio; extra == \"test\"",
+      "pytest==8.3.3; extra == \"test\"",
+      "requests-mock==1.12.1; extra == \"test\"",
+      "isort==5.13.2; extra == \"test\"",
+      "flake8==7.1.1; extra == \"test\"",
+      "flake8-blind-except==0.2.1; extra == \"test\"",
+      "flake8-debugger==4.1.2; extra == \"test\"",
+      "flake8-imports==0.1.1; extra == \"test\"",
+      "xmlsec>=0.6.1; extra == \"xmlsec\""
+    ]
+  },
+  "zeep-4.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4bafaf1997a46b5560c5e928f2bc1b04f04c31dad121ecbe1e952f23aee4c19e",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "isodate",
+        "lxml",
+        "platformdirs",
+        "requests",
+        "requests-toolbelt",
+        "requests-file",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=17.2.0",
+      "isodate>=0.5.4",
+      "lxml>=4.6.0",
+      "platformdirs>=1.4.0",
+      "requests>=2.7.0",
+      "requests-toolbelt>=0.7.1",
+      "requests-file>=1.5.1",
+      "pytz",
+      "httpx>=0.15.0; extra == \"async\"",
+      "sphinx>=1.4.0; extra == \"docs\"",
+      "coverage[toml]==7.6.2; extra == \"test\"",
+      "freezegun==1.5.1; extra == \"test\"",
+      "pretend==1.0.9; extra == \"test\"",
+      "pytest-cov==5.0.0; extra == \"test\"",
+      "pytest-httpx; extra == \"test\"",
+      "pytest-asyncio; extra == \"test\"",
+      "pytest==8.3.3; extra == \"test\"",
+      "requests-mock==1.12.1; extra == \"test\"",
+      "isort==5.13.2; extra == \"test\"",
+      "flake8==7.1.1; extra == \"test\"",
+      "flake8-blind-except==0.2.1; extra == \"test\"",
+      "flake8-debugger==4.1.2; extra == \"test\"",
+      "flake8-imports==0.1.1; extra == \"test\"",
+      "xmlsec>=0.6.1; extra == \"xmlsec\""
+    ]
+  },
+  "zeep-4.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6754feb4c34a4b6d65fbc359252bf6654dcce3937bf1d95aae4402a60a8f5939",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "isodate",
+        "lxml",
+        "platformdirs",
+        "requests",
+        "requests-toolbelt",
+        "requests-file",
+        "pytz",
+        "cached-property"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=17.2.0)",
+      "isodate (>=0.5.4)",
+      "lxml (>=4.6.0)",
+      "platformdirs (>=1.4.0)",
+      "requests (>=2.7.0)",
+      "requests-toolbelt (>=0.7.1)",
+      "requests-file (>=1.5.1)",
+      "pytz",
+      "cached-property (>=1.3.0) ; python_version < \"3.8\"",
+      "httpx (>=0.15.0) ; extra == 'async'",
+      "sphinx (>=1.4.0) ; extra == 'docs'",
+      "coverage[toml] (==5.2.1) ; extra == 'test'",
+      "freezegun (==0.3.15) ; extra == 'test'",
+      "pretend (==1.0.9) ; extra == 'test'",
+      "pytest-cov (==2.8.1) ; extra == 'test'",
+      "pytest-httpx ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "pytest (==6.2.5) ; extra == 'test'",
+      "requests-mock (>=0.7.0) ; extra == 'test'",
+      "isort (==5.3.2) ; extra == 'test'",
+      "flake8 (==3.8.3) ; extra == 'test'",
+      "flake8-blind-except (==0.1.1) ; extra == 'test'",
+      "flake8-debugger (==3.2.1) ; extra == 'test'",
+      "flake8-imports (==0.1.1) ; extra == 'test'",
+      "xmlsec (>=0.6.1) ; extra == 'xmlsec'"
+    ]
+  },
+  "zeep-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0a2f35a694c78504e48e03341ff94f8c74ac9b5ebfac5a7b47b42cb7cf5b659",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "isodate",
+        "lxml",
+        "platformdirs",
+        "requests",
+        "requests-toolbelt",
+        "requests-file",
+        "pytz",
+        "cached-property"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=17.2.0)",
+      "isodate (>=0.5.4)",
+      "lxml (>=4.6.0)",
+      "platformdirs (>=1.4.0)",
+      "requests (>=2.7.0)",
+      "requests-toolbelt (>=0.7.1)",
+      "requests-file (>=1.5.1)",
+      "pytz",
+      "cached-property (>=1.3.0) ; python_version < \"3.8\"",
+      "httpx (>=0.15.0) ; extra == 'async'",
+      "sphinx (>=1.4.0) ; extra == 'docs'",
+      "coverage[toml] (==5.2.1) ; extra == 'test'",
+      "freezegun (==0.3.15) ; extra == 'test'",
+      "pretend (==1.0.9) ; extra == 'test'",
+      "pytest-cov (==2.8.1) ; extra == 'test'",
+      "pytest-httpx ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "pytest (==6.2.5) ; extra == 'test'",
+      "requests-mock (>=0.7.0) ; extra == 'test'",
+      "isort (==5.3.2) ; extra == 'test'",
+      "flake8 (==3.8.3) ; extra == 'test'",
+      "flake8-blind-except (==0.1.1) ; extra == 'test'",
+      "flake8-debugger (==3.2.1) ; extra == 'test'",
+      "flake8-imports (==0.1.1) ; extra == 'test'",
+      "xmlsec (>=0.6.1) ; extra == 'xmlsec'"
+    ]
+  }
+}

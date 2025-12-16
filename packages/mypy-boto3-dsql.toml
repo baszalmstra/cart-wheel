@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-dsql
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_dsql-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_dsql-1.41.1-py3-none-any.whl" },
+  { filename = "mypy_boto3_dsql-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_dsql-1.40.70-py3-none-any.whl" },
+  { filename = "mypy_boto3_dsql-1.40.58-py3-none-any.whl" },
+]

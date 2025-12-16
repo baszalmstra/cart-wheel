@@ -1,0 +1,11 @@
+# Package configuration for resend
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "resend-2.19.0-py2.py3-none-any.whl" },
+  { filename = "resend-2.18.0-py2.py3-none-any.whl" },
+  { filename = "resend-2.17.0-py2.py3-none-any.whl" },
+  { filename = "resend-2.16.0-py2.py3-none-any.whl" },
+  { filename = "resend-2.15.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,140 @@
+{
+  "pyroma-5.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e71fd3e0f213b36870a607eccf491241dbadf5462ec1cdda94d08bfa1c26951e",
+    "dependencies": {
+      "required": [
+        "build",
+        "docutils",
+        "packaging",
+        "pygments",
+        "requests",
+        "setuptools",
+        "trove-classifiers"
+      ]
+    },
+    "original_requirements": [
+      "build (>=0.7.0)",
+      "docutils",
+      "packaging",
+      "pygments",
+      "requests",
+      "setuptools (>=61)",
+      "trove-classifiers (>=2022.6.26)",
+      "pytest ; extra == 'test'",
+      "setuptools (>=60) ; extra == 'test'",
+      "zest.releaser[recommended] ; extra == 'test'",
+      "flit-core (<4,>=3.4) ; extra == 'test'",
+      "tox ; extra == 'test'"
+    ]
+  },
+  "pyroma-5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dabe6ad75e362b56ba189982510fd928ca8aecb8cb21ee18e927c2acf6dbf167",
+    "dependencies": {
+      "required": [
+        "build",
+        "docutils",
+        "packaging",
+        "pygments",
+        "requests",
+        "setuptools",
+        "trove-classifiers"
+      ]
+    },
+    "original_requirements": [
+      "build (>=0.7.0)",
+      "docutils",
+      "packaging",
+      "pygments",
+      "requests",
+      "setuptools (>=61)",
+      "trove-classifiers (>=2022.6.26)",
+      "pytest ; extra == 'test'",
+      "setuptools (>=60) ; extra == 'test'",
+      "zest.releaser[recommended] ; extra == 'test'",
+      "flit-core (<4,>=3.4) ; extra == 'test'"
+    ]
+  },
+  "pyroma-4.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b3e0aca92450914b240c1905b1030fa51446a1dbdf186fea055a778da506155",
+    "dependencies": {
+      "required": [
+        "build",
+        "docutils",
+        "packaging",
+        "pygments",
+        "requests",
+        "setuptools",
+        "trove-classifiers"
+      ]
+    },
+    "original_requirements": [
+      "build>=0.7.0",
+      "docutils",
+      "packaging",
+      "pygments",
+      "requests",
+      "setuptools>=42",
+      "trove-classifiers>=2022.6.26",
+      "pytest; extra == \"test\"",
+      "setuptools>=60; extra == \"test\"",
+      "zest.releaser[recommended]; extra == \"test\""
+    ]
+  },
+  "pyroma-4.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb0a783325a4d65aa6044e643ea7105acce45434bac3df24c89b1b3e3a6f2fa5",
+    "dependencies": {
+      "required": [
+        "build",
+        "docutils",
+        "packaging",
+        "pygments",
+        "requests",
+        "setuptools",
+        "trove-classifiers"
+      ]
+    },
+    "original_requirements": [
+      "build (>=0.7.0)",
+      "docutils",
+      "packaging",
+      "pygments",
+      "requests",
+      "setuptools (>=42)",
+      "trove-classifiers (>=2022.6.26)",
+      "pytest ; extra == 'test'",
+      "setuptools (>=60) ; extra == 'test'",
+      "zest.releaser[recommended] ; extra == 'test'"
+    ]
+  },
+  "pyroma-4.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b8a6530484f26a09cc4328b7737e0825fe8cf907f0b14c619eb51669e0c0d0d",
+    "dependencies": {
+      "required": [
+        "build",
+        "docutils",
+        "packaging",
+        "pygments",
+        "requests",
+        "setuptools",
+        "trove-classifiers"
+      ]
+    },
+    "original_requirements": [
+      "build (>=0.7.0)",
+      "docutils",
+      "packaging",
+      "pygments",
+      "requests",
+      "setuptools (>=42)",
+      "trove-classifiers (>=2022.6.26)",
+      "pytest ; extra == 'test'",
+      "setuptools (>=60) ; extra == 'test'",
+      "zest.releaser[recommended] ; extra == 'test'"
+    ]
+  }
+}

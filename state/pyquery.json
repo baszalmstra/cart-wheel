@@ -1,0 +1,82 @@
+{
+  "pyquery-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aedfa0bd0eb9afc94b3ddbec8f375a6362b32bc9662f46e3e0d866483f4771b0",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "cssselect"
+      ]
+    },
+    "original_requirements": [
+      "lxml >=2.1",
+      "cssselect >=1.2.0",
+      "requests ; extra == 'test'",
+      "webob ; extra == 'test'",
+      "webtest ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "pyquery-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8dfc9b4b7c5f877d619bbae74b1898d5743f6ca248cfd5d72b504dd614da312f",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "cssselect"
+      ]
+    },
+    "original_requirements": [
+      "lxml (>=2.1)",
+      "cssselect (>=1.2.0)",
+      "requests ; extra == 'test'",
+      "webob ; extra == 'test'",
+      "webtest ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "pyquery-1.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1fc33b7699455ed25c75282bc8f80ace1ac078b0dda5a933dacbd8b1c1f83963",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "cssselect"
+      ]
+    },
+    "original_requirements": [
+      "lxml (>=2.1)",
+      "cssselect (>0.7.9)"
+    ]
+  },
+  "pyquery-1.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "710eac327b87f15f74a95c3378c6ba62ef6fcfb0a6d009a7d33349c9f7e65835",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "cssselect"
+      ]
+    },
+    "original_requirements": [
+      "lxml (>=2.1)",
+      "cssselect (>0.7.9)"
+    ]
+  },
+  "pyquery-1.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07987c2ed2aed5cba29ff18af95e56e9eb04a2249f42ce47bddfb37f487229a3",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "cssselect"
+      ]
+    },
+    "original_requirements": [
+      "lxml (>=2.1)",
+      "cssselect (>0.7.9)"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for pkginfo
+conda_forge = "pkginfo"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pkginfo-1.12.1.2-py3-none-any.whl" },
+  { filename = "pkginfo-1.12.1.1-py3-none-any.whl" },
+  { filename = "pkginfo-1.12.1-py3-none-any.whl" },
+  { filename = "pkginfo-1.12.0-py3-none-any.whl" },
+  { filename = "pkginfo-1.11.3-py3-none-any.whl" },
+]

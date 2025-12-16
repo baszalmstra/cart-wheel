@@ -1,0 +1,12 @@
+# Package configuration for devpi-process
+conda_forge = "devpi-process"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "devpi_process-1.1.0-py3-none-any.whl" },
+  { filename = "devpi_process-1.0.2-py3-none-any.whl" },
+  { filename = "devpi_process-1.0.1-py3-none-any.whl" },
+  { filename = "devpi_process-1.0.0-py3-none-any.whl" },
+  { filename = "devpi_process-0.3.1-py3-none-any.whl" },
+]

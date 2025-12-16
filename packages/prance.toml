@@ -1,0 +1,12 @@
+# Package configuration for prance
+conda_forge = "prance"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "prance-25.4.8.0-py3-none-any.whl" },
+  { filename = "prance-23.6.21.0-py3-none-any.whl" },
+  { filename = "prance-0.22.11.4.0-py3-none-any.whl" },
+  { filename = "prance-0.22.2.22.0-py3-none-any.whl" },
+  { filename = "prance-0.21.8.0-py3-none-any.whl" },
+]

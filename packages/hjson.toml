@@ -1,0 +1,10 @@
+# Package configuration for hjson
+conda_forge = "hjson-py"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hjson-3.1.0-py3-none-any.whl" },
+  { filename = "hjson-3.0.2-py3-none-any.whl" },
+  { filename = "hjson-3.0.1-py3-none-any.whl" },
+]

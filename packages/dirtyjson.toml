@@ -1,0 +1,8 @@
+# Package configuration for dirtyjson
+conda_forge = "dirtyjson"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dirtyjson-1.0.8-py3-none-any.whl" },
+]

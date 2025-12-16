@@ -1,0 +1,7 @@
+# Package configuration for pytest-playwright-snapshot
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_playwright_snapshot-1.0-py3-none-any.whl" },
+]

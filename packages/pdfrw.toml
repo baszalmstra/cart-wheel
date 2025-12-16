@@ -1,0 +1,10 @@
+# Package configuration for pdfrw
+conda_forge = "pdfrw"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pdfrw-0.4-py2.py3-none-any.whl" },
+  { filename = "pdfrw-0.3-py2.py3-none-any.whl" },
+  { filename = "pdfrw-0.2-py2.py3-none-any.whl" },
+]

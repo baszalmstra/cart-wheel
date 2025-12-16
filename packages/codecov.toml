@@ -1,0 +1,8 @@
+# Package configuration for codecov
+conda_forge = "codecov"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "codecov-2.1.13-py2.py3-none-any.whl" },
+]

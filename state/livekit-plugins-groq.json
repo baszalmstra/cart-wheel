@@ -1,0 +1,82 @@
+{
+  "livekit_plugins_groq-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8b70fc800c0d55bf8f7d2fdb24100286c5752bdae3b42796aad9ee6a188b635",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "livekit",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "livekit",
+      "livekit-agents[codecs,openai]>=1.3.6"
+    ]
+  },
+  "livekit_plugins_groq-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "718cf3dd29589154d28ee18340ea672db95558e52e34bd78350d71cffb03df03",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "livekit",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "livekit",
+      "livekit-agents[codecs,openai]>=1.3.5"
+    ]
+  },
+  "livekit_plugins_groq-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "596c43f4243954c23140455a53c101c487b44039edc7c837801ea64be2b46442",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "livekit",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "livekit",
+      "livekit-agents[codecs,openai]>=1.3.4"
+    ]
+  },
+  "livekit_plugins_groq-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6bf482e5add6647329a8fda32228eb18180e8a37afa0bf101884604d143d1d38",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "livekit",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "livekit",
+      "livekit-agents[codecs,openai]>=1.3.3"
+    ]
+  },
+  "livekit_plugins_groq-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77616209624c8d2046c2ef72aba55259dbb4b3ec44ae0927e5908ff1fd51f01a",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "livekit",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "livekit",
+      "livekit-agents[codecs,openai]>=1.3.2"
+    ]
+  }
+}

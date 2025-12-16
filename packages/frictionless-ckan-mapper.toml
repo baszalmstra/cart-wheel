@@ -1,0 +1,12 @@
+# Package configuration for frictionless-ckan-mapper
+conda_forge = "frictionless-ckan-mapper"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "frictionless_ckan_mapper-1.0.9-py2.py3-none-any.whl" },
+  { filename = "frictionless_ckan_mapper-1.0.8-py2.py3-none-any.whl" },
+  { filename = "frictionless_ckan_mapper-1.0.7-py2.py3-none-any.whl" },
+  { filename = "frictionless_ckan_mapper-1.0.6-py2.py3-none-any.whl" },
+  { filename = "frictionless_ckan_mapper-1.0.5-py2.py3-none-any.whl" },
+]

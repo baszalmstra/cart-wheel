@@ -1,0 +1,12 @@
+# Package configuration for pip-tools
+conda_forge = "pip-tools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pip_tools-7.5.2-py3-none-any.whl" },
+  { filename = "pip_tools-7.5.1-py3-none-any.whl" },
+  { filename = "pip_tools-7.5.0-py3-none-any.whl" },
+  { filename = "pip_tools-7.4.1-py3-none-any.whl" },
+  { filename = "pip_tools-7.4.0-py3-none-any.whl" },
+]

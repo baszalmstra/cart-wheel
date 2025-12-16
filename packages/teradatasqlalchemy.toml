@@ -1,0 +1,11 @@
+# Package configuration for teradatasqlalchemy
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "teradatasqlalchemy-20.0.0.8-py3-none-any.whl" },
+  { filename = "teradatasqlalchemy-20.0.0.7-py3-none-any.whl" },
+  { filename = "teradatasqlalchemy-20.0.0.6-py3-none-any.whl" },
+  { filename = "teradatasqlalchemy-20.0.0.5-py3-none-any.whl" },
+  { filename = "teradatasqlalchemy-20.0.0.4-py3-none-any.whl" },
+]

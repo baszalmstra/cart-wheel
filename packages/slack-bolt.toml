@@ -1,0 +1,12 @@
+# Package configuration for slack-bolt
+conda_forge = "slack-bolt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "slack_bolt-1.27.0-py2.py3-none-any.whl" },
+  { filename = "slack_bolt-1.26.0-py2.py3-none-any.whl" },
+  { filename = "slack_bolt-1.25.0-py2.py3-none-any.whl" },
+  { filename = "slack_bolt-1.24.0-py2.py3-none-any.whl" },
+  { filename = "slack_bolt-1.23.0-py2.py3-none-any.whl" },
+]

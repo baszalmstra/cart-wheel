@@ -1,0 +1,110 @@
+{
+  "dapr-1.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "076dd559a0b450eae24b1c2ae779c9299ed3e06a05c1f72719a6613af8d19ced",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio",
+        "grpcio-status",
+        "aiohttp",
+        "python-dateutil",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "protobuf>=4.22",
+      "grpcio>=1.37.0",
+      "grpcio-status>=1.37.0",
+      "aiohttp>=3.9.0b0",
+      "python-dateutil>=2.8.1",
+      "typing-extensions>=4.4.0"
+    ]
+  },
+  "dapr-1.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0093bf6df5eb9a14fbab60191a619438e0b6b336f60a7994e184276bcc35d5fb",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio",
+        "grpcio-status",
+        "aiohttp",
+        "python-dateutil",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "protobuf>=4.22",
+      "grpcio>=1.37.0",
+      "grpcio-status>=1.37.0",
+      "aiohttp>=3.9.0b0",
+      "python-dateutil>=2.8.1",
+      "typing-extensions>=4.4.0"
+    ]
+  },
+  "dapr-1.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31bfa9587b58d410a575dd46e568cd731e790e235d7b61b18cb17420977e9c84",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio",
+        "grpcio-status",
+        "aiohttp",
+        "python-dateutil",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "protobuf>=4.22",
+      "grpcio>=1.37.0",
+      "grpcio-status>=1.37.0",
+      "aiohttp>=3.9.0b0",
+      "python-dateutil>=2.8.1",
+      "typing-extensions>=4.4.0"
+    ]
+  },
+  "dapr-1.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6fb500a5858b07769f4ef2cdd440cbacf3012b94d817a65e6f7dcf148d589c3",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio",
+        "grpcio-status",
+        "aiohttp",
+        "python-dateutil",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "protobuf >=4.22",
+      "grpcio >=1.37.0",
+      "grpcio-status >=1.37.0",
+      "aiohttp >=3.9.0b0",
+      "python-dateutil >=2.8.1",
+      "typing-extensions >=4.4.0"
+    ]
+  },
+  "dapr-1.12.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "317edf92ed29f23fc42515b979acf189461b3ecfa7ba230df03778728802e6f9",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio",
+        "aiohttp",
+        "python-dateutil",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "protobuf >=4.22",
+      "grpcio >=1.37.0",
+      "aiohttp >=3.9.0b0",
+      "python-dateutil >=2.8.1",
+      "typing-extensions >=4.4.0"
+    ]
+  }
+}

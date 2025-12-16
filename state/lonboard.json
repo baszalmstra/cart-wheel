@@ -1,0 +1,184 @@
+{
+  "lonboard-0.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8acb17fdcbb34bd147a68aebd4b887996171e0eb9df7f4fc06e467cdfa32fb07",
+    "dependencies": {
+      "required": [
+        "anywidget",
+        "arro3-compute",
+        "arro3-core",
+        "arro3-io",
+        "geoarrow-rust-core",
+        "ipywidgets",
+        "numpy",
+        "pyproj",
+        "traitlets",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anywidget~=0.9.0",
+      "arro3-compute>=0.4.1",
+      "arro3-core>=0.4.1",
+      "arro3-io>=0.4.1",
+      "geoarrow-rust-core>=0.5.2",
+      "ipywidgets>=7.6.0",
+      "numpy>=1.14",
+      "pyproj>=3.3",
+      "traitlets>=5.7.1",
+      "typing-extensions>=4.12.0",
+      "click>=8.1.7; extra == 'cli'",
+      "pyogrio>=0.8; extra == 'cli'",
+      "shapely>=2; extra == 'cli'",
+      "geopandas>=0.13; extra == 'geopandas'",
+      "pandas>=2; extra == 'geopandas'",
+      "pyarrow>=16; extra == 'geopandas'",
+      "shapely>=2; extra == 'geopandas'",
+      "movingpandas>=0.17; extra == 'movingpandas'"
+    ]
+  },
+  "lonboard-0.12.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74fd1a904443d38018aa142214367d183a89fc41d16a36f5b3cde17b2e293773",
+    "dependencies": {
+      "required": [
+        "anywidget",
+        "arro3-compute",
+        "arro3-core",
+        "arro3-io",
+        "geoarrow-rust-core",
+        "ipywidgets",
+        "numpy",
+        "pyproj",
+        "traitlets",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anywidget~=0.9.0",
+      "arro3-compute>=0.4.1",
+      "arro3-core>=0.4.1",
+      "arro3-io>=0.4.1",
+      "geoarrow-rust-core>=0.5.2",
+      "ipywidgets>=7.6.0",
+      "numpy>=1.14",
+      "pyproj>=3.3",
+      "traitlets>=5.7.1",
+      "typing-extensions>=4.6.0; python_version < '3.12'",
+      "click>=8.1.7; extra == 'cli'",
+      "pyogrio>=0.8; extra == 'cli'",
+      "shapely>=2; extra == 'cli'",
+      "geopandas>=0.13; extra == 'geopandas'",
+      "pandas>=2; extra == 'geopandas'",
+      "shapely>=2; extra == 'geopandas'",
+      "movingpandas>=0.17; extra == 'movingpandas'"
+    ]
+  },
+  "lonboard-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b606c23b77c5f0168c6885357c385eb0e0e7ece2d11c5ead48f807110da6042",
+    "dependencies": {
+      "required": [
+        "anywidget",
+        "arro3-compute",
+        "arro3-core",
+        "arro3-io",
+        "geoarrow-rust-core",
+        "ipywidgets",
+        "numpy",
+        "pyproj",
+        "traitlets",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anywidget~=0.9.0",
+      "arro3-compute>=0.4.1",
+      "arro3-core>=0.4.1",
+      "arro3-io>=0.4.1",
+      "geoarrow-rust-core>=0.5.2",
+      "ipywidgets>=7.6.0",
+      "numpy>=1.14",
+      "pyproj>=3.3",
+      "traitlets>=5.7.1",
+      "typing-extensions>=4.6.0; python_version < '3.12'",
+      "click>=8.1.7; extra == 'cli'",
+      "pyogrio>=0.8; extra == 'cli'",
+      "shapely>=2; extra == 'cli'",
+      "geopandas>=0.13; extra == 'geopandas'",
+      "pandas>=2; extra == 'geopandas'",
+      "shapely>=2; extra == 'geopandas'",
+      "movingpandas>=0.17; extra == 'movingpandas'"
+    ]
+  },
+  "lonboard-0.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e708921a2b9e4dd87f8736aa7b2edf89b631c94a282381b37468fc86fd5d428e",
+    "dependencies": {
+      "required": [
+        "anywidget",
+        "arro3-compute",
+        "arro3-core",
+        "arro3-io",
+        "ipywidgets",
+        "numpy",
+        "pyproj",
+        "traitlets",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anywidget~=0.9.0",
+      "arro3-compute>=0.4.1",
+      "arro3-core>=0.4.1",
+      "arro3-io>=0.4.1",
+      "ipywidgets>=7.6.0",
+      "numpy>=1.14",
+      "pyproj>=3.3",
+      "traitlets>=5.7.1",
+      "typing-extensions>=4.6.0; python_version < '3.12'",
+      "click>=8.1.7; extra == 'cli'",
+      "pyogrio>=0.8; extra == 'cli'",
+      "shapely>=2; extra == 'cli'",
+      "geopandas>=0.13; extra == 'geopandas'",
+      "pandas>=2; extra == 'geopandas'",
+      "shapely>=2; extra == 'geopandas'",
+      "movingpandas>=0.17; extra == 'movingpandas'"
+    ]
+  },
+  "lonboard-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8fdd48280f99bac4763e52a36f4830c4e76c2a846fe865abc59b7faeb972cbda",
+    "dependencies": {
+      "required": [
+        "anywidget",
+        "arro3-compute",
+        "arro3-core",
+        "arro3-io",
+        "ipywidgets",
+        "numpy",
+        "pyproj",
+        "traitlets",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anywidget~=0.9.0",
+      "arro3-compute>=0.4.1",
+      "arro3-core>=0.4.1",
+      "arro3-io>=0.4.1",
+      "ipywidgets>=7.6.0",
+      "numpy>=1.14",
+      "pyproj>=3.3",
+      "traitlets>=5.7.1",
+      "typing-extensions~=4.6.0; python_version < '3.12'",
+      "click>=8.1.7; extra == 'cli'",
+      "pyogrio>=0.8; extra == 'cli'",
+      "shapely>=2; extra == 'cli'",
+      "geopandas>=0.13; extra == 'geopandas'",
+      "pandas>=2; extra == 'geopandas'",
+      "shapely>=2; extra == 'geopandas'",
+      "movingpandas>=0.17; extra == 'movingpandas'"
+    ]
+  }
+}

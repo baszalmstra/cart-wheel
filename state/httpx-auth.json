@@ -1,0 +1,87 @@
+{
+  "httpx_auth-0.23.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "04f8bd0824efe3d9fb79690cc670b0da98ea809babb7aea04a72f334d4fd5ec5",
+    "dependencies": {
+      "required": [
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "httpx==0.28.*",
+      "pyjwt==2.*; extra == \"testing\"",
+      "pytest_httpx==0.35.*; extra == \"testing\"",
+      "time-machine==2.*; extra == \"testing\"",
+      "pytest-cov==6.*; extra == \"testing\"",
+      "pytest-asyncio==0.25.*; extra == \"testing\""
+    ]
+  },
+  "httpx_auth-0.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ab3c3dd33287bc114ace37cb059a279c623e730cf76e512e94f7dc1a7db8dfe",
+    "dependencies": {
+      "required": [
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "httpx==0.28.*",
+      "pyjwt==2.*; extra == \"testing\"",
+      "pytest_httpx==0.35.*; extra == \"testing\"",
+      "time-machine==2.*; extra == \"testing\"",
+      "pytest-cov==6.*; extra == \"testing\"",
+      "pytest-asyncio==0.25.*; extra == \"testing\""
+    ]
+  },
+  "httpx_auth-0.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c60198e8160728f00e754b5181f4b9d1e4530260b94bbd09fd8abfe826b5be50",
+    "dependencies": {
+      "required": [
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "httpx ==0.27.*",
+      "pyjwt ==2.* ; extra == 'testing'",
+      "pytest-httpx ==0.30.* ; extra == 'testing'",
+      "time-machine ==2.* ; extra == 'testing'",
+      "pytest-cov ==4.* ; extra == 'testing'",
+      "pytest-asyncio ==0.23.* ; extra == 'testing'"
+    ]
+  },
+  "httpx_auth-0.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "281e2566b92d1bdce7346a6662cca14082ad8a6d7b2601c5947c5b5f21e6d5bc",
+    "dependencies": {
+      "required": [
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "httpx ==0.26.*",
+      "pyjwt ==2.* ; extra == 'testing'",
+      "pytest-httpx ==0.29.* ; extra == 'testing'",
+      "time-machine ==2.* ; extra == 'testing'",
+      "pytest-cov ==4.* ; extra == 'testing'",
+      "pytest-asyncio ==0.23.* ; extra == 'testing'"
+    ]
+  },
+  "httpx_auth-0.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1155a660a32e89da6ec1f1a7dc7046903cf57e50a2967be27553a20d2b6aa910",
+    "dependencies": {
+      "required": [
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "httpx ==0.26.*",
+      "pyjwt ==2.* ; extra == 'testing'",
+      "pytest-httpx ==0.28.* ; extra == 'testing'",
+      "time-machine ==2.* ; extra == 'testing'",
+      "pytest-cov ==4.* ; extra == 'testing'",
+      "pytest-asyncio ==0.23.* ; extra == 'testing'"
+    ]
+  }
+}

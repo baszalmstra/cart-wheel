@@ -1,0 +1,12 @@
+# Package configuration for pipenv
+conda_forge = "pipenv"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pipenv-2026.0.2-py3-none-any.whl" },
+  { filename = "pipenv-2026.0.1-py3-none-any.whl" },
+  { filename = "pipenv-2026.0.0-py3-none-any.whl" },
+  { filename = "pipenv-2025.1.3-py3-none-any.whl" },
+  { filename = "pipenv-2025.1.1-py3-none-any.whl" },
+]

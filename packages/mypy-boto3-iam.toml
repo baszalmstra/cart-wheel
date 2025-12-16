@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-iam
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_iam-1.42.4-py3-none-any.whl" },
+  { filename = "mypy_boto3_iam-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_iam-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_iam-1.40.76-py3-none-any.whl" },
+  { filename = "mypy_boto3_iam-1.40.70-py3-none-any.whl" },
+]

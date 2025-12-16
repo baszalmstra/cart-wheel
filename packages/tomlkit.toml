@@ -1,0 +1,12 @@
+# Package configuration for tomlkit
+conda_forge = "tomlkit"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tomlkit-0.13.3-py3-none-any.whl" },
+  { filename = "tomlkit-0.13.2-py3-none-any.whl" },
+  { filename = "tomlkit-0.13.1-py3-none-any.whl" },
+  { filename = "tomlkit-0.13.0-py3-none-any.whl" },
+  { filename = "tomlkit-0.12.5-py3-none-any.whl" },
+]

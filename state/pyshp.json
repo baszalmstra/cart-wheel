@@ -1,0 +1,56 @@
+{
+  "pyshp-3.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28c8fac8c0c25bb0fecbbfd10ead7f319c2ff2f3b0b44a94f22bd2c93510ad42",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pre-commit; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "ruff; extra == 'dev'",
+      "pyshp-stubs; extra == 'stubs'",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "pyshp-3.0.2.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b0aec66bc55f7cd3a846f6b02c5a9eec1fc1d2cff16ccfcf6493a6773c7eb602",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pre-commit; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "ruff; extra == 'dev'",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "pyshp-3.0.2.post0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "487751ba4d1b549316ff5e93d822e9b41287942229d590a28546931fcb243dcd",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pre-commit; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "ruff; extra == 'dev'",
+      "pytest; extra == 'test'"
+    ]
+  },
+  "pyshp-2.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67024c0ccdc352ba5db777c4e968483782dfa78f8e200672a90d2d30fd8b7b49",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "pyshp-2.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd391f7ee82a7b775eaf79dd26f9bfb43c5940fe8126c8664fd3ad7c2af539e4",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

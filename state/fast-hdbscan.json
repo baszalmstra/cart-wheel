@@ -1,0 +1,50 @@
+{
+  "fast_hdbscan-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b75144a5c9c6ec46d444f1bf3d122512efaf88c1f7776dabfb6f2ca405dca79",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "numba",
+        "scikit-learn"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.21",
+      "numba>=0.56",
+      "scikit-learn>=1.6"
+    ]
+  },
+  "fast_hdbscan-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "29928bc861cfe105c8fd5f4884f624892961954a44ee3a81b6aad64a249ac546",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "numba",
+        "scikit-learn"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.21",
+      "numba>=0.56",
+      "scikit-learn>=1.6"
+    ]
+  },
+  "fast_hdbscan-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7315af09f5b19a4f1a8d6113b90eb4e98813d3bc0d55f05c0f24984252e164f2",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "numba",
+        "scikit-learn"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.21",
+      "numba>=0.56",
+      "scikit-learn>=1.1"
+    ]
+  }
+}

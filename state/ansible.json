@@ -1,0 +1,62 @@
+{
+  "ansible-13.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6a31b9c983e529f7ed0cfbc956a966d420874442d7d9a1cb7d8b4c08b70b04af",
+    "dependencies": {
+      "required": [
+        "ansible-core"
+      ]
+    },
+    "original_requirements": [
+      "ansible-core~=2.20.1"
+    ]
+  },
+  "ansible-13.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c5efd095be1e4d15aa39691e3ce8233727269da4a17043f16f67c6899b98a239",
+    "dependencies": {
+      "required": [
+        "ansible-core"
+      ]
+    },
+    "original_requirements": [
+      "ansible-core~=2.20.0"
+    ]
+  },
+  "ansible-12.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd156f82fa87f7a899212b0efa9f7ca3a24d609212de9f78428a572eb01e5414",
+    "dependencies": {
+      "required": [
+        "ansible-core"
+      ]
+    },
+    "original_requirements": [
+      "ansible-core~=2.19.5"
+    ]
+  },
+  "ansible-12.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "daafa5c528317f60f68033ad70c59733f4a7548b6255759183cfc7cf422c7fda",
+    "dependencies": {
+      "required": [
+        "ansible-core"
+      ]
+    },
+    "original_requirements": [
+      "ansible-core~=2.19.4"
+    ]
+  },
+  "ansible-12.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e9b616ff1f3bb5fbf48c89755a1ed395e453dc73d971ed68158933f8bfd4084",
+    "dependencies": {
+      "required": [
+        "ansible-core"
+      ]
+    },
+    "original_requirements": [
+      "ansible-core~=2.19.3"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "fancycompleter-0.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44243d7fab37087208ca5acacf8f74c0aa4d733d04d593857873af7513cdf8a6",
+    "dependencies": {
+      "required": [
+        "pyreadline3",
+        "pyrepl"
+      ]
+    },
+    "original_requirements": [
+      "pyreadline3; platform_system == \"Windows\" and python_version < \"3.13\"",
+      "pyrepl>=0.11.3; python_version < \"3.13\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "ruff==0.11.8; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "fancycompleter[tests]; extra == \"dev\""
+    ]
+  },
+  "fancycompleter-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a4712fdda8d7f3df08511ab2755ea0f1e669e2c65701a28c0c0aa2ff528521ed",
+    "dependencies": {
+      "required": [
+        "pyreadline3",
+        "pyrepl"
+      ]
+    },
+    "original_requirements": [
+      "pyreadline3; platform_system == \"Windows\"",
+      "pyrepl>=0.11.3; python_version < \"3.13\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "ruff==0.11.2; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "fancycompleter[tests]; extra == \"dev\""
+    ]
+  },
+  "fancycompleter-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd076bca7d9d524cc7f25ec8f35ef95388ffef9ef46def4d3d25e9b044ad7080",
+    "dependencies": {
+      "required": [
+        "pyrepl",
+        "pyreadline"
+      ]
+    },
+    "original_requirements": [
+      "pyrepl (>=0.8.2)",
+      "pyreadline ; platform_system == \"Windows\""
+    ]
+  },
+  "fancycompleter-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c36a55eb2ecf8a35e6e1d827ce26abc419e093765223f110f4c66f8f534fbd84",
+    "dependencies": {
+      "required": [
+        "pyrepl",
+        "pyreadline"
+      ]
+    },
+    "original_requirements": [
+      "pyrepl (>=0.8.2)",
+      "pyreadline ; platform_system == \"Windows\""
+    ]
+  }
+}

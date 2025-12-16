@@ -1,0 +1,12 @@
+# Package configuration for jupyter-fs
+conda_forge = "jupyter-fs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyter_fs-1.1.2-py3-none-any.whl" },
+  { filename = "jupyter_fs-1.1.1-py3-none-any.whl" },
+  { filename = "jupyter_fs-1.1.0-py3-none-any.whl" },
+  { filename = "jupyter_fs-1.0.1-py3-none-any.whl" },
+  { filename = "jupyter_fs-1.0.0.post1-py3-none-any.whl" },
+]

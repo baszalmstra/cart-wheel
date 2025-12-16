@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-codecommit
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_codecommit-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_codecommit-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_codecommit-1.40.63-py3-none-any.whl" },
+  { filename = "mypy_boto3_codecommit-1.40.18-py3-none-any.whl" },
+  { filename = "mypy_boto3_codecommit-1.40.0-py3-none-any.whl" },
+]

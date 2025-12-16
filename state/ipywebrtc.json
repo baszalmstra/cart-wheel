@@ -1,0 +1,33 @@
+{
+  "ipywebrtc-0.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01a6c9d79ab937c280ce4635a149c7b681457e99ea779c00c7a6aa44ee6916f8",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "ipywebrtc-0.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "89fb07b296916c3d231c802419e2951fc6825fa81d87bab325d7edf86721083f",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets (>=7.4.0)"
+    ]
+  },
+  "ipywebrtc-0.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd84a45bed211ef04c0a2b2977d7809cd8b782ef4cac6d7b9e49dd27eac7a483",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets (>=7.4.0)"
+    ]
+  }
+}

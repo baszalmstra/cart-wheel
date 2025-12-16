@@ -1,0 +1,11 @@
+# Package configuration for pyobjc-framework-iosurface
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyobjc_framework_iosurface-12.1-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_iosurface-12.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_iosurface-11.1-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_IOSurface-11.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_IOSurface-10.3.2-py2.py3-none-any.whl" },
+]

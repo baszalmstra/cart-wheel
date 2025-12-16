@@ -1,0 +1,12 @@
+# Package configuration for boltons
+conda_forge = "boltons"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "boltons-25.0.0-py3-none-any.whl" },
+  { filename = "boltons-24.1.0-py3-none-any.whl" },
+  { filename = "boltons-24.0.0-py3-none-any.whl" },
+  { filename = "boltons-23.1.1-py2.py3-none-any.whl" },
+  { filename = "boltons-23.1.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for bottle
+conda_forge = "bottle"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bottle-0.13.4-py2.py3-none-any.whl" },
+  { filename = "bottle-0.13.3-py2.py3-none-any.whl" },
+  { filename = "bottle-0.13.2-py2.py3-none-any.whl" },
+  { filename = "bottle-0.13.1-py2.py3-none-any.whl" },
+  { filename = "bottle-0.13.0-py2.py3-none-any.whl" },
+]

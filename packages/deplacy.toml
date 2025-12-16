@@ -1,0 +1,11 @@
+# Package configuration for deplacy
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "deplacy-2.1.1-py3-none-any.whl" },
+  { filename = "deplacy-2.1.0-py3-none-any.whl" },
+  { filename = "deplacy-2.0.9-py3-none-any.whl" },
+  { filename = "deplacy-2.0.8-py3-none-any.whl" },
+  { filename = "deplacy-2.0.7-py3-none-any.whl" },
+]

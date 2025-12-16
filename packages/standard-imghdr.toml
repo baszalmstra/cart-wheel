@@ -1,0 +1,11 @@
+# Package configuration for standard-imghdr
+conda_forge = "standard-imghdr"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "standard_imghdr-3.13.0-py3-none-any.whl" },
+  { filename = "standard_imghdr-3.12.2-py3-none-any.whl" },
+  { filename = "standard_imghdr-3.11.9-py3-none-any.whl" },
+  { filename = "standard_imghdr-3.10.14-py3-none-any.whl" },
+]

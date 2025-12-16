@@ -1,0 +1,30 @@
+{
+  "flake8_imports-0.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa2c0a66022710254e431061cc11717df3614b1619cd0316f4825b8ac004333f",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "isort"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3.0.0)",
+      "isort"
+    ]
+  },
+  "flake8_imports-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0fc19671f3349f2392bf8afb312cb561b965bb93bb226e9bcb320ccb6f760410",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "isort"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3.0.0)",
+      "isort"
+    ]
+  }
+}

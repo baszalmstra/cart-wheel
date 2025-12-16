@@ -1,0 +1,11 @@
+# Package configuration for multilingual-clip
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "multilingual_clip-1.0.10-py3-none-any.whl" },
+  { filename = "multilingual_clip-1.0.9-py3-none-any.whl" },
+  { filename = "multilingual_clip-1.0.8-py3-none-any.whl" },
+  { filename = "multilingual_clip-1.0.7-py3-none-any.whl" },
+  { filename = "multilingual_clip-1.0.6-py3-none-any.whl" },
+]

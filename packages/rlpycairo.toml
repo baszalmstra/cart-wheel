@@ -1,0 +1,12 @@
+# Package configuration for rlpycairo
+conda_forge = "rlpycairo"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rlpycairo-0.4.0-py3-none-any.whl" },
+  { filename = "rlPyCairo-0.3.0-py3-none-any.whl" },
+  { filename = "rlPyCairo-0.2.0-py3-none-any.whl" },
+  { filename = "rlPyCairo-0.1.0-py2.py3-none-any.whl" },
+  { filename = "rlPyCairo-0.0.8-py2.py3-none-any.whl" },
+]

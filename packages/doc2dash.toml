@@ -1,0 +1,12 @@
+# Package configuration for doc2dash
+conda_forge = "doc2dash"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "doc2dash-3.1.0-py3-none-any.whl" },
+  { filename = "doc2dash-3.0.0-py3-none-any.whl" },
+  { filename = "doc2dash-2.4.1-py2.py3-none-any.whl" },
+  { filename = "doc2dash-2.4.0-py2.py3-none-any.whl" },
+  { filename = "doc2dash-2.3.0-py2.py3-none-any.whl" },
+]

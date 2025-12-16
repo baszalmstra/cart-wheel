@@ -1,0 +1,11 @@
+# Package configuration for nvidia-modelopt
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nvidia_modelopt-0.40.0-py3-none-any.whl" },
+  { filename = "nvidia_modelopt-0.39.0-py3-none-any.whl" },
+  { filename = "nvidia_modelopt-0.37.0-py3-none-any.whl" },
+  { filename = "nvidia_modelopt-0.35.1-py3-none-any.whl" },
+  { filename = "nvidia_modelopt-0.35.0-py3-none-any.whl" },
+]

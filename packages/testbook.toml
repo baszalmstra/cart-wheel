@@ -1,0 +1,12 @@
+# Package configuration for testbook
+conda_forge = "testbook"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "testbook-0.4.2-py3-none-any.whl" },
+  { filename = "testbook-0.4.1-py3-none-any.whl" },
+  { filename = "testbook-0.4.0-py3-none-any.whl" },
+  { filename = "testbook-0.3.0-py3-none-any.whl" },
+  { filename = "testbook-0.2.6-py3-none-any.whl" },
+]

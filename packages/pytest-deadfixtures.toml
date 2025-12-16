@@ -1,0 +1,12 @@
+# Package configuration for pytest-deadfixtures
+conda_forge = "pytest-deadfixtures"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_deadfixtures-3.0.0-py2.py3-none-any.whl" },
+  { filename = "pytest_deadfixtures-2.2.1-py2.py3-none-any.whl" },
+  { filename = "pytest_deadfixtures-2.2.0-py2.py3-none-any.whl" },
+  { filename = "pytest_deadfixtures-2.1.0-py2.py3-none-any.whl" },
+  { filename = "pytest_deadfixtures-2.0.1-py2.py3-none-any.whl" },
+]

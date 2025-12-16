@@ -1,0 +1,72 @@
+{
+  "opensearch_protobufs-0.24.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10dad81c02680afc098acf70db0ef3d0631cec4046fe12a87fec049a6c574f58",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "protobuf>=3.25.8",
+      "grpcio>=1.70.0"
+    ]
+  },
+  "opensearch_protobufs-0.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6d77e0f6c8e9026c59ca32fc66de60a65ed6ac32589fe1af73a5ea2651118feb",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "protobuf>=3.20.3",
+      "grpcio>=1.68.1"
+    ]
+  },
+  "opensearch_protobufs-0.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8667a6594a1b4c4500402bda041a8667cb5e49f3ae399134d9fdd716243dd9a3",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "protobuf>=3.20.3",
+      "grpcio>=1.68.1"
+    ]
+  },
+  "opensearch_protobufs-0.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c0c07d74c96180d291b4c0c1196d174f445ba69fe602ebf1c48fdc5bc2ba09c4",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "protobuf>=3.20.3",
+      "grpcio>=1.68.1"
+    ]
+  },
+  "opensearch_protobufs-0.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7694705a997b959207a52e49745e662035038675536aabf437406b4457bc60c9",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "grpcio"
+      ]
+    },
+    "original_requirements": [
+      "protobuf>=3.20.3",
+      "grpcio>=1.68.1"
+    ]
+  }
+}

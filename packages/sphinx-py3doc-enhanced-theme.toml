@@ -1,0 +1,11 @@
+# Package configuration for sphinx-py3doc-enhanced-theme
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_py3doc_enhanced_theme-2.4.0-py2.py3-none-any.whl" },
+  { filename = "sphinx_py3doc_enhanced_theme-2.3.2-py2.py3-none-any.whl" },
+  { filename = "sphinx_py3doc_enhanced_theme-2.3.1-py2.py3-none-any.whl" },
+  { filename = "sphinx_py3doc_enhanced_theme-2.3.0-py2.py3-none-any.whl" },
+  { filename = "sphinx_py3doc_enhanced_theme-2.2.4-py2.py3-none-any.whl" },
+]

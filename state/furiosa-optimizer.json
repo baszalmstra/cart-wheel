@@ -1,0 +1,124 @@
+{
+  "furiosa_optimizer-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d39100664081bc91ec6b7e737da1a79109ab096632e80ae3daa07ace2cb58d9e",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "numpy",
+        "onnx",
+        "onnx-simplifier",
+        "onnxoptimizer",
+        "onnxruntime"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "numpy ~= 1.24",
+      "onnx ~= 1.14.0",
+      "onnx-simplifier ~= 0.4.33",
+      "onnxoptimizer == 0.3.13",
+      "onnxruntime ~= 1.15.1",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "ruff ; extra == \"test\""
+    ]
+  },
+  "furiosa_optimizer-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8d50590fbabfae36ab369f93ba2b8913fa455aac7e3f4e5eceeaafa75fe712d4",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "numpy",
+        "onnx",
+        "onnx-simplifier",
+        "onnxoptimizer",
+        "onnxruntime"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "numpy ~= 1.24",
+      "onnx ~= 1.14.0",
+      "onnx-simplifier ~= 0.4.33",
+      "onnxoptimizer == 0.3.13",
+      "onnxruntime ~= 1.15.1",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "ruff ; extra == \"test\""
+    ]
+  },
+  "furiosa_optimizer-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28638419f65f3f0f654176a6b5d7171441502bbd49467e18701b334884c7ac0d",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "numpy",
+        "onnx",
+        "onnx-simplifier",
+        "onnxoptimizer",
+        "onnxruntime"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "numpy ~= 1.24",
+      "onnx ~= 1.14.0",
+      "onnx-simplifier ~= 0.4.33",
+      "onnxoptimizer == 0.3.13",
+      "onnxruntime ~= 1.15.1",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "ruff ; extra == \"test\""
+    ]
+  },
+  "furiosa_optimizer-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6866da067ab42affd85b55d451b75269d7ca8d15dbd24b8a6dedd3a44dbe021d",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "numpy",
+        "onnx",
+        "onnx-simplifier",
+        "onnxoptimizer",
+        "onnxruntime"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.9.*",
+      "numpy ~= 1.24",
+      "onnx ~= 1.12.0",
+      "onnx-simplifier ~= 0.4.22",
+      "onnxoptimizer ~= 0.3.13",
+      "onnxruntime ~= 1.13.1"
+    ]
+  },
+  "furiosa_optimizer-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44933710c8ad3894966692bfa4104c46be7c180a6d746ddf95c50137f8bd647c",
+    "dependencies": {
+      "required": [
+        "furiosa-common",
+        "numpy",
+        "onnx",
+        "onnx-simplifier",
+        "onnxoptimizer",
+        "onnxruntime"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.9.*",
+      "numpy ~= 1.24",
+      "onnx ~= 1.12.0",
+      "onnx-simplifier ~= 0.4.22",
+      "onnxoptimizer == 0.3.13",
+      "onnxruntime ~= 1.13.1"
+    ]
+  }
+}

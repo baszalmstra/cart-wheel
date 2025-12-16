@@ -1,0 +1,11 @@
+# Package configuration for backports.functools-lru-cache
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "backports.functools_lru_cache-2.0.0-py2.py3-none-any.whl" },
+  { filename = "backports.functools_lru_cache-1.6.6-py2.py3-none-any.whl" },
+  { filename = "backports.functools_lru_cache-1.6.5-py2.py3-none-any.whl" },
+  { filename = "backports.functools_lru_cache-1.6.4-py2.py3-none-any.whl" },
+  { filename = "backports.functools_lru_cache-1.6.3-py2.py3-none-any.whl" },
+]

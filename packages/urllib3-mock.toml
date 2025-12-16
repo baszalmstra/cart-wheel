@@ -1,0 +1,9 @@
+# Package configuration for urllib3-mock
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "urllib3_mock-0.3.3-py2.py3-none-any.whl" },
+  { filename = "urllib3_mock-0.3.2-py2.py3-none-any.whl" },
+  { filename = "urllib3_mock-0.3.1-py3-none-any.whl" },
+]

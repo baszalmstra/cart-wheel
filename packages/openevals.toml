@@ -1,0 +1,11 @@
+# Package configuration for openevals
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openevals-0.1.2-py3-none-any.whl" },
+  { filename = "openevals-0.1.1-py3-none-any.whl" },
+  { filename = "openevals-0.1.0-py3-none-any.whl" },
+  { filename = "openevals-0.0.20-py3-none-any.whl" },
+  { filename = "openevals-0.0.19-py3-none-any.whl" },
+]

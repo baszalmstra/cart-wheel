@@ -1,0 +1,160 @@
+{
+  "sacrebleu-2.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c9f7ee75bec3a5bf19dd87112dfd654952130e403ad30c48298fb7da3212d5d",
+    "dependencies": {
+      "required": [
+        "portalocker",
+        "regex",
+        "tabulate",
+        "numpy",
+        "colorama",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "portalocker",
+      "regex",
+      "tabulate>=0.8.9",
+      "numpy>=1.17",
+      "colorama",
+      "lxml",
+      "wheel; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "types-tabulate; extra == \"dev\"",
+      "lxml-stubs; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "mecab-python3<2.0.0,>=1.0.9; extra == \"ja\"",
+      "ipadic<2.0,>=1.0; extra == \"ja\"",
+      "mecab-ko<=1.0.1,>=1.0.0; extra == \"ko\"",
+      "mecab-ko-dic<2.0,>=1.0; extra == \"ko\""
+    ]
+  },
+  "sacrebleu-2.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9839313447704668cf261b6ffd14d91af7f6e8957a87a1790a444075a4172c44",
+    "dependencies": {
+      "required": [
+        "portalocker",
+        "regex",
+        "tabulate",
+        "numpy",
+        "colorama",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "portalocker",
+      "regex",
+      "tabulate>=0.8.9",
+      "numpy>=1.17",
+      "colorama",
+      "lxml",
+      "wheel; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "types-tabulate; extra == \"dev\"",
+      "lxml-stubs; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "mecab-python3<2.0.0,>=1.0.9; extra == \"ja\"",
+      "ipadic<2.0,>=1.0; extra == \"ja\"",
+      "mecab-ko<=1.0.1,>=1.0.0; extra == \"ko\"",
+      "mecab-ko-dic<2.0,>=1.0; extra == \"ko\""
+    ]
+  },
+  "sacrebleu-2.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a976fd6998d8ced267a722120ec7fc47083c8e9745d8808ccee6424464a0aa31",
+    "dependencies": {
+      "required": [
+        "portalocker",
+        "regex",
+        "tabulate",
+        "numpy",
+        "colorama",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "portalocker",
+      "regex",
+      "tabulate >=0.8.9",
+      "numpy >=1.17",
+      "colorama",
+      "lxml",
+      "wheel ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "types-tabulate ; extra == 'dev'",
+      "lxml-stubs ; extra == 'dev'",
+      "setuptools ; extra == 'dev'",
+      "mecab-python3 <2.0.0,>=1.0.9 ; extra == 'ja'",
+      "ipadic <2.0,>=1.0 ; extra == 'ja'",
+      "mecab-ko <=1.0.1,>=1.0.0 ; extra == 'ko'",
+      "mecab-ko-dic <2.0,>=1.0 ; extra == 'ko'"
+    ]
+  },
+  "sacrebleu-2.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "611a581d205828912f0b05f806b110180087184d3be2dc650fda7a729d6ecb89",
+    "dependencies": {
+      "required": [
+        "portalocker",
+        "regex",
+        "tabulate",
+        "numpy",
+        "colorama",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "portalocker",
+      "regex",
+      "tabulate (>=0.8.9)",
+      "numpy (>=1.17)",
+      "colorama",
+      "lxml",
+      "wheel ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "types-tabulate ; extra == 'dev'",
+      "lxml-stubs ; extra == 'dev'",
+      "mecab-python3 (<=1.0.6,>=1.0.5) ; extra == 'ja'",
+      "ipadic (<2.0,>=1.0) ; extra == 'ja'",
+      "mecab-ko (<=1.0.1,>=1.0.0) ; extra == 'ko'",
+      "mecab-ko-dic (<2.0,>=1.0) ; extra == 'ko'"
+    ]
+  },
+  "sacrebleu-2.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d24a783598ea5cfa2bb461cd377a5e3f76fa38a7df170bf99069fbd4c8157d25",
+    "dependencies": {
+      "required": [
+        "portalocker",
+        "regex",
+        "tabulate",
+        "numpy",
+        "colorama",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "portalocker",
+      "regex",
+      "tabulate (>=0.8.9)",
+      "numpy (>=1.17)",
+      "colorama",
+      "lxml",
+      "wheel ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "types-tabulate ; extra == 'dev'",
+      "lxml-stubs ; extra == 'dev'",
+      "mecab-python3 (<=1.0.6,>=1.0.5) ; extra == 'ja'",
+      "ipadic (<2.0,>=1.0) ; extra == 'ja'",
+      "mecab-ko (<=1.0.1,>=1.0.0) ; extra == 'ko'",
+      "mecab-ko-dic (<2.0,>=1.0) ; extra == 'ko'"
+    ]
+  }
+}

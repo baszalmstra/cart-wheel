@@ -1,0 +1,11 @@
+# Package configuration for graze
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "graze-0.1.39-py3-none-any.whl" },
+  { filename = "graze-0.1.38-py3-none-any.whl" },
+  { filename = "graze-0.1.37-py3-none-any.whl" },
+  { filename = "graze-0.1.36-py3-none-any.whl" },
+  { filename = "graze-0.1.35-py3-none-any.whl" },
+]

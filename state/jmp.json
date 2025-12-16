@@ -1,0 +1,50 @@
+{
+  "jmp-0.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6aa7adbddf2bd574b28c7faf6e81a735eb11f53386447896909c6968dc36807d",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.19.5)",
+      "dataclasses (>=0.7) ; python_version < \"3.7\"",
+      "jax (>=0.2.20) ; extra == 'jax'",
+      "jaxlib (>=0.1.71) ; extra == 'jax'"
+    ]
+  },
+  "jmp-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1934bd2de39f6d9dd90ba9fdbd3cbfc596028b03357b29ec030106f6e86927b3",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.19.5)",
+      "dataclasses (>=0.7) ; python_version < \"3.7\"",
+      "jax (>=0.2.20) ; extra == 'jax'",
+      "jaxlib (>=0.1.71) ; extra == 'jax'"
+    ]
+  },
+  "jmp-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "48f94b2ba0c9db759851a23cce2fbfa622e954c3c811651bc11b196246f02527",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.19.5)",
+      "dataclasses (>=0.7) ; python_version < \"3.7\"",
+      "jax (>=0.1.71) ; extra == 'jax'",
+      "jaxlib (>=0.1.49) ; extra == 'jaxlib'"
+    ]
+  }
+}

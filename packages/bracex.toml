@@ -1,0 +1,12 @@
+# Package configuration for bracex
+conda_forge = "bracex"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bracex-2.6-py3-none-any.whl" },
+  { filename = "bracex-2.5.post1-py3-none-any.whl" },
+  { filename = "bracex-2.5-py3-none-any.whl" },
+  { filename = "bracex-2.4-py3-none-any.whl" },
+  { filename = "bracex-2.3.post1-py3-none-any.whl" },
+]

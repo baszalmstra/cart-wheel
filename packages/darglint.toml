@@ -1,0 +1,12 @@
+# Package configuration for darglint
+conda_forge = "darglint"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "darglint-1.8.1-py3-none-any.whl" },
+  { filename = "darglint-1.8.0-py3-none-any.whl" },
+  { filename = "darglint-1.7.0-py3-none-any.whl" },
+  { filename = "darglint-1.6.0-py3-none-any.whl" },
+  { filename = "darglint-1.5.8-py3-none-any.whl" },
+]

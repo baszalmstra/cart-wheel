@@ -1,0 +1,8 @@
+# Package configuration for ansicon
+conda_forge = "ansicon"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ansicon-1.89.0-py2.py3-none-any.whl" },
+]

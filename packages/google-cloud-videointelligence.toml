@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-videointelligence
+conda_forge = "google-cloud-videointelligence"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_videointelligence-2.17.0-py3-none-any.whl" },
+  { filename = "google_cloud_videointelligence-2.16.2-py3-none-any.whl" },
+  { filename = "google_cloud_videointelligence-2.16.1-py3-none-any.whl" },
+  { filename = "google_cloud_videointelligence-2.16.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_videointelligence-2.15.0-py2.py3-none-any.whl" },
+]

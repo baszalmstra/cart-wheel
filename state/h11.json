@@ -1,0 +1,49 @@
+{
+  "h11-0.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63cf8bbe7522de3bf65932fda1d9c2772064ffb3dae62d55932da54b31cb6c86",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "h11-0.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ba64a7de94075657373ea90d9bd313a1429ba54868e702702ebeb089054f9812",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "h11-0.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e3fe4ac4b851c468cc8363d500db52c2ead036020723024a109d37346efaa761",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions ; python_version < \"3.8\""
+    ]
+  },
+  "h11-0.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ddd78563b633ca55346c8cd41ec0af27d3c79931828beffb46ce70a379e7442",
+    "dependencies": {
+      "required": [
+        "dataclasses",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses ; python_version < \"3.7\"",
+      "typing-extensions ; python_version < \"3.8\""
+    ]
+  },
+  "h11-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "36a3cb8c0a032f56e2da7084577878a035d3b61d104230d4bd49c0c6b555a9c6",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

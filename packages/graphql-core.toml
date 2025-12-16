@@ -1,0 +1,12 @@
+# Package configuration for graphql-core
+conda_forge = "graphql-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "graphql_core-3.2.7-py3-none-any.whl" },
+  { filename = "graphql_core-3.2.6-py3-none-any.whl" },
+  { filename = "graphql_core-3.2.5-py3-none-any.whl" },
+  { filename = "graphql_core-3.2.4-py3-none-any.whl" },
+  { filename = "graphql_core-3.2.3-py3-none-any.whl" },
+]

@@ -1,0 +1,9 @@
+# Package configuration for pyod
+conda_forge = "pyod"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyod-2.0.6-py3-none-any.whl" },
+  { filename = "pyod-2.0.5-py3-none-any.whl" },
+]

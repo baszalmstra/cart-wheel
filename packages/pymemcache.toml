@@ -1,0 +1,12 @@
+# Package configuration for pymemcache
+conda_forge = "pymemcache"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pymemcache-4.0.0-py2.py3-none-any.whl" },
+  { filename = "pymemcache-3.5.2-py2.py3-none-any.whl" },
+  { filename = "pymemcache-3.5.1-py2.py3-none-any.whl" },
+  { filename = "pymemcache-3.5.0-py2.py3-none-any.whl" },
+  { filename = "pymemcache-3.4.4-py2.py3-none-any.whl" },
+]

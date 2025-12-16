@@ -1,0 +1,12 @@
+# Package configuration for jax
+conda_forge = "jax"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jax-0.8.1-py3-none-any.whl" },
+  { filename = "jax-0.8.0-py3-none-any.whl" },
+  { filename = "jax-0.7.2-py3-none-any.whl" },
+  { filename = "jax-0.7.1-py3-none-any.whl" },
+  { filename = "jax-0.7.0-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for boolean.py
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "boolean_py-5.0-py3-none-any.whl" },
+  { filename = "boolean.py-4.0-py3-none-any.whl" },
+  { filename = "boolean.py-3.8-py2.py3-none-any.whl" },
+  { filename = "boolean.py-3.7-py2.py3-none-any.whl" },
+  { filename = "boolean.py-3.6-py2.py3-none-any.whl" },
+]

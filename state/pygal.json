@@ -1,0 +1,142 @@
+{
+  "pygal-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e923490f3490c90c481f4535fa3adcda20ff374257ab9d8ae897f91b632c0bb",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pygal-sphinx-directives ; extra == 'docs'",
+      "lxml ; extra == 'lxml'",
+      "flask ; extra == 'moulinrouge'",
+      "pygal-maps-ch ; extra == 'moulinrouge'",
+      "pygal-maps-fr ; extra == 'moulinrouge'",
+      "pygal-maps-world ; extra == 'moulinrouge'",
+      "cairosvg ; extra == 'png'",
+      "cairosvg ; extra == 'test'",
+      "coveralls ; extra == 'test'",
+      "lxml ; extra == 'test'",
+      "pyquery ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "ruff >=0.5.6 ; extra == 'test'"
+    ]
+  },
+  "pygal-3.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3268a5667b470c8fbbb0eca7e987561a7321caeba589d40e4c1bc16dbe71393",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pygal-sphinx-directives ; extra == 'docs'",
+      "lxml ; extra == 'lxml'",
+      "flask ; extra == 'moulinrouge'",
+      "pygal-maps-ch ; extra == 'moulinrouge'",
+      "pygal-maps-fr ; extra == 'moulinrouge'",
+      "pygal-maps-world ; extra == 'moulinrouge'",
+      "cairosvg ; extra == 'png'",
+      "cairosvg ; extra == 'test'",
+      "coveralls ; extra == 'test'",
+      "lxml ; extra == 'test'",
+      "pyquery ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "ruff >=0.5.6 ; extra == 'test'"
+    ]
+  },
+  "pygal-3.0.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e931caf08b4be0e6ec119a4c0e20dbed2d77829c641b7dea0ed21fe6ec81f2ea",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pygal-sphinx-directives ; extra == 'docs'",
+      "lxml ; extra == 'lxml'",
+      "cairosvg ; extra == 'png'",
+      "pyquery ; extra == 'test'",
+      "flask ; extra == 'test'",
+      "cairosvg ; extra == 'test'",
+      "lxml ; extra == 'test'",
+      "pygal-maps-world ; extra == 'test'",
+      "pygal-maps-fr ; extra == 'test'",
+      "pygal-maps-ch ; extra == 'test'",
+      "coveralls ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "pytest-runner ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-isort ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "pygal-3.0.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d28216edc37af6a13474217015d207080bf07156d126f7b5c8823ca9932e57e1",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pygal-sphinx-directives ; extra == 'docs'",
+      "lxml ; extra == 'lxml'",
+      "cairosvg ; extra == 'png'",
+      "pyquery ; extra == 'test'",
+      "flask ; extra == 'test'",
+      "cairosvg ; extra == 'test'",
+      "lxml ; extra == 'test'",
+      "pygal-maps-world ; extra == 'test'",
+      "pygal-maps-fr ; extra == 'test'",
+      "pygal-maps-ch ; extra == 'test'",
+      "coveralls ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "pytest-runner ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-isort ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "pygal-3.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d9a726d7f9c7334b3d143c5ec914915b648546f8ad3ab8efe3e55a4d7a2d815",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "pygal-sphinx-directives ; extra == 'docs'",
+      "lxml ; extra == 'lxml'",
+      "cairosvg ; extra == 'png'",
+      "pyquery ; extra == 'test'",
+      "flask ; extra == 'test'",
+      "cairosvg ; extra == 'test'",
+      "lxml ; extra == 'test'",
+      "pygal-maps-world ; extra == 'test'",
+      "pygal-maps-fr ; extra == 'test'",
+      "pygal-maps-ch ; extra == 'test'",
+      "coveralls ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "pytest-runner ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-isort ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

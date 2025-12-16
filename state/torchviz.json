@@ -1,0 +1,30 @@
+{
+  "torchviz-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5eab98d17cbe8a54727cfa6a527681cff613430fff8fc68f52302ca5fa26cdf1",
+    "dependencies": {
+      "required": [
+        "torch",
+        "graphviz"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "graphviz"
+    ]
+  },
+  "torchviz-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a15bc5692cf931d0df4edc76de8bf45353bcefb218d7c9f55382a2ba5ba426a0",
+    "dependencies": {
+      "required": [
+        "torch",
+        "graphviz"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "graphviz"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "cuda_python-13.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "944cc4fe6482673d28dd545797a28840945a1668739328fa2ad1e9be4f7050d9",
+    "dependencies": {
+      "required": [
+        "cuda-bindings",
+        "cuda-pathfinder"
+      ]
+    },
+    "original_requirements": [
+      "cuda-bindings~=13.1.1",
+      "cuda-pathfinder~=1.1",
+      "cuda-bindings[all]~=13.1.1; extra == \"all\""
+    ]
+  },
+  "cuda_python-13.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19ce93ab3c8b2116ebe23c87fe023d82df0766af4f956582a42d3482a2787e33",
+    "dependencies": {
+      "required": [
+        "cuda-bindings",
+        "cuda-pathfinder"
+      ]
+    },
+    "original_requirements": [
+      "cuda-bindings~=13.1.0",
+      "cuda-pathfinder~=1.1",
+      "cuda-bindings[all]~=13.1.0; extra == \"all\""
+    ]
+  },
+  "cuda_python-13.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "914cd7e2dd075bd06a2d5121c1d9ccdd3d0c94b03ea5a44dbd98d24d8ed93bab",
+    "dependencies": {
+      "required": [
+        "cuda-bindings",
+        "cuda-pathfinder"
+      ]
+    },
+    "original_requirements": [
+      "cuda-bindings~=13.0.3",
+      "cuda-pathfinder~=1.1",
+      "cuda-bindings[all]~=13.0.3; extra == \"all\""
+    ]
+  },
+  "cuda_python-13.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ad711c64236f4cf62ba94806e47042121ceb4f4c3be2600a84b0ab6b0f698a0",
+    "dependencies": {
+      "required": [
+        "cuda-bindings",
+        "cuda-pathfinder"
+      ]
+    },
+    "original_requirements": [
+      "cuda-bindings~=13.0.2",
+      "cuda-pathfinder~=1.1",
+      "cuda-bindings[all]~=13.0.2; extra == \"all\""
+    ]
+  },
+  "cuda_python-13.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9d8c021953cfbb2c1916a3977c04ad23846cc8ac7647916cb6a1bf4f3280412c",
+    "dependencies": {
+      "required": [
+        "cuda-bindings",
+        "cuda-pathfinder"
+      ]
+    },
+    "original_requirements": [
+      "cuda-bindings~=13.0.1",
+      "cuda-pathfinder~=1.1",
+      "cuda-bindings[all]~=13.0.1; extra == \"all\""
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-autoscaling-plans
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_autoscaling_plans-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_autoscaling_plans-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_autoscaling_plans-1.40.54-py3-none-any.whl" },
+  { filename = "types_boto3_autoscaling_plans-1.40.20-py3-none-any.whl" },
+  { filename = "types_boto3_autoscaling_plans-1.40.0-py3-none-any.whl" },
+]

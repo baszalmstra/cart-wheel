@@ -1,0 +1,12 @@
+# Package configuration for waitress
+conda_forge = "waitress"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "waitress-3.0.2-py3-none-any.whl" },
+  { filename = "waitress-3.0.1-py3-none-any.whl" },
+  { filename = "waitress-3.0.0-py3-none-any.whl" },
+  { filename = "waitress-2.1.2-py3-none-any.whl" },
+  { filename = "waitress-2.1.1-py3-none-any.whl" },
+]

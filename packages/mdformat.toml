@@ -1,0 +1,12 @@
+# Package configuration for mdformat
+conda_forge = "mdformat"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mdformat-1.0.0-py3-none-any.whl" },
+  { filename = "mdformat-0.7.22-py3-none-any.whl" },
+  { filename = "mdformat-0.7.21-py3-none-any.whl" },
+  { filename = "mdformat-0.7.19-py3-none-any.whl" },
+  { filename = "mdformat-0.7.18-py3-none-any.whl" },
+]

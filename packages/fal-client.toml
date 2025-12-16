@@ -1,0 +1,11 @@
+# Package configuration for fal-client
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fal_client-0.10.0-py3-none-any.whl" },
+  { filename = "fal_client-0.9.1-py3-none-any.whl" },
+  { filename = "fal_client-0.8.1-py3-none-any.whl" },
+  { filename = "fal_client-0.8.0-py3-none-any.whl" },
+  { filename = "fal_client-0.7.0-py3-none-any.whl" },
+]

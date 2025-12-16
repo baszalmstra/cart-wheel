@@ -1,0 +1,152 @@
+{
+  "apache_airflow_providers_apache_spark-5.4.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:11.390345+00:00",
+    "conda_file": "apache-airflow-providers-apache-spark-5.4.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pyspark",
+        "grpcio-status"
+      ],
+      "optional": {
+        "cncf-kubernetes": [
+          "apache-airflow-providers-cncf-kubernetes"
+        ],
+        "openlineage": [
+          "apache-airflow-providers-openlineage"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "pyspark>=3.5.2",
+      "grpcio-status>=1.59.0",
+      "apache-airflow-providers-cncf-kubernetes>=7.4.0 ; extra == \"cncf-kubernetes\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_apache_spark-5.4.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:11.452282+00:00",
+    "conda_file": "apache-airflow-providers-apache-spark-5.4.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pyspark",
+        "grpcio-status"
+      ],
+      "optional": {
+        "cncf-kubernetes": [
+          "apache-airflow-providers-cncf-kubernetes"
+        ],
+        "openlineage": [
+          "apache-airflow-providers-openlineage"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pyspark>=3.5.2",
+      "grpcio-status>=1.59.0",
+      "apache-airflow-providers-cncf-kubernetes>=7.4.0 ; extra == \"cncf-kubernetes\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_apache_spark-5.3.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:11.486287+00:00",
+    "conda_file": "apache-airflow-providers-apache-spark-5.3.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pyspark",
+        "grpcio-status"
+      ],
+      "optional": {
+        "cncf-kubernetes": [
+          "apache-airflow-providers-cncf-kubernetes"
+        ],
+        "openlineage": [
+          "apache-airflow-providers-openlineage"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pyspark>=3.5.2",
+      "grpcio-status>=1.59.0",
+      "apache-airflow-providers-cncf-kubernetes>=7.4.0 ; extra == \"cncf-kubernetes\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_apache_spark-5.3.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:11.448492+00:00",
+    "conda_file": "apache-airflow-providers-apache-spark-5.3.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pyspark",
+        "grpcio-status"
+      ],
+      "optional": {
+        "cncf-kubernetes": [
+          "apache-airflow-providers-cncf-kubernetes"
+        ],
+        "openlineage": [
+          "apache-airflow-providers-openlineage"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pyspark>=3.5.2",
+      "grpcio-status>=1.59.0",
+      "apache-airflow-providers-cncf-kubernetes>=7.4.0 ; extra == \"cncf-kubernetes\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_apache_spark-5.3.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:11.613488+00:00",
+    "conda_file": "apache-airflow-providers-apache-spark-5.3.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pyspark",
+        "grpcio-status"
+      ],
+      "optional": {
+        "cncf-kubernetes": [
+          "apache-airflow-providers-cncf-kubernetes"
+        ],
+        "openlineage": [
+          "apache-airflow-providers-openlineage"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.5.0",
+      "pyspark>=3.5.2",
+      "grpcio-status>=1.59.0",
+      "apache-airflow-providers-cncf-kubernetes>=7.4.0 ; extra == \"cncf-kubernetes\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  }
+}

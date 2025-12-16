@@ -1,0 +1,52 @@
+{
+  "requests_unixsocket-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60c4942e9dbecc2f64d611039fb1dfc25da382083c6434ac0316dca3ff908f4d",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests>=1.1"
+    ]
+  },
+  "requests_unixsocket-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ff2def6c6752ff3f200f1f28de6d463e8ba8808354f40141d99157ebe557b8f",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests>=1.1"
+    ]
+  },
+  "requests_unixsocket-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c685c680f0809e1b2955339b1e5afc3c0022b3066f4f7eb343f43a6065fc0e5d",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=1.1)"
+    ]
+  },
+  "requests_unixsocket-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "014d07bfb66dc805a011a8b4b306cf4ec96d2eddb589f6b2b5765e626f0dc0cc",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=1.1)",
+      "urllib3 (>=1.8)"
+    ]
+  }
+}

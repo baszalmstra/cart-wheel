@@ -1,0 +1,11 @@
+# Package configuration for pymochow
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pymochow-2.3.6-py3-none-any.whl" },
+  { filename = "pymochow-2.3.5-py3-none-any.whl" },
+  { filename = "pymochow-2.3.4-py3-none-any.whl" },
+  { filename = "pymochow-2.3.3-py3-none-any.whl" },
+  { filename = "pymochow-2.3.2-py3-none-any.whl" },
+]

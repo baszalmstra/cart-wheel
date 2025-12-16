@@ -1,0 +1,12 @@
+# Package configuration for google-auth-httplib2
+conda_forge = "google-auth-httplib2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_auth_httplib2-0.2.1-py3-none-any.whl" },
+  { filename = "google_auth_httplib2-0.2.0-py2.py3-none-any.whl" },
+  { filename = "google_auth_httplib2-0.1.1-py2.py3-none-any.whl" },
+  { filename = "google_auth_httplib2-0.1.0-py2.py3-none-any.whl" },
+  { filename = "google_auth_httplib2-0.0.4-py2.py3-none-any.whl" },
+]

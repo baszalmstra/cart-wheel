@@ -1,0 +1,204 @@
+{
+  "psycopg-3.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e94bc5f4690247d734599af56e51bae8e0db8e4311ea413f801fef82b14a99b",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.6; python_version < \"3.13\"",
+      "tzdata; sys_platform == \"win32\"",
+      "psycopg-c==3.3.2; implementation_name != \"pypy\" and extra == \"c\"",
+      "psycopg-binary==3.3.2; implementation_name != \"pypy\" and extra == \"binary\"",
+      "psycopg-pool; extra == \"pool\"",
+      "anyio>=4.0; extra == \"test\"",
+      "mypy>=1.19.0; implementation_name != \"pypy\" and extra == \"test\"",
+      "pproxy>=2.7; extra == \"test\"",
+      "pytest>=6.2.5; extra == \"test\"",
+      "pytest-cov>=3.0; extra == \"test\"",
+      "pytest-randomly>=3.5; extra == \"test\"",
+      "ast-comments>=1.1.2; extra == \"dev\"",
+      "black>=24.1.0; extra == \"dev\"",
+      "codespell>=2.2; extra == \"dev\"",
+      "cython-lint>=0.16; extra == \"dev\"",
+      "dnspython>=2.1; extra == \"dev\"",
+      "flake8>=4.0; extra == \"dev\"",
+      "isort[colors]>=6.0; extra == \"dev\"",
+      "isort-psycopg; extra == \"dev\"",
+      "mypy>=1.19.0; extra == \"dev\"",
+      "pre-commit>=4.0.1; extra == \"dev\"",
+      "types-setuptools>=57.4; extra == \"dev\"",
+      "types-shapely>=2.0; extra == \"dev\"",
+      "wheel>=0.37; extra == \"dev\"",
+      "Sphinx>=5.0; extra == \"docs\"",
+      "furo==2022.6.21; extra == \"docs\"",
+      "sphinx-autobuild>=2021.3.14; extra == \"docs\"",
+      "sphinx-autodoc-typehints>=1.12; extra == \"docs\""
+    ]
+  },
+  "psycopg-3.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e44d8eae209752efe46318f36dd0fdf5863e928009338d736843bb1084f6435c",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.6; python_version < \"3.13\"",
+      "tzdata; sys_platform == \"win32\"",
+      "psycopg-c==3.3.1; implementation_name != \"pypy\" and extra == \"c\"",
+      "psycopg-binary==3.3.1; implementation_name != \"pypy\" and extra == \"binary\"",
+      "psycopg-pool; extra == \"pool\"",
+      "anyio>=4.0; extra == \"test\"",
+      "mypy>=1.19.0; implementation_name != \"pypy\" and extra == \"test\"",
+      "pproxy>=2.7; extra == \"test\"",
+      "pytest>=6.2.5; extra == \"test\"",
+      "pytest-cov>=3.0; extra == \"test\"",
+      "pytest-randomly>=3.5; extra == \"test\"",
+      "ast-comments>=1.1.2; extra == \"dev\"",
+      "black>=24.1.0; extra == \"dev\"",
+      "codespell>=2.2; extra == \"dev\"",
+      "cython-lint>=0.16; extra == \"dev\"",
+      "dnspython>=2.1; extra == \"dev\"",
+      "flake8>=4.0; extra == \"dev\"",
+      "isort[colors]>=6.0; extra == \"dev\"",
+      "isort-psycopg; extra == \"dev\"",
+      "mypy>=1.19.0; extra == \"dev\"",
+      "pre-commit>=4.0.1; extra == \"dev\"",
+      "types-setuptools>=57.4; extra == \"dev\"",
+      "types-shapely>=2.0; extra == \"dev\"",
+      "wheel>=0.37; extra == \"dev\"",
+      "Sphinx>=5.0; extra == \"docs\"",
+      "furo==2022.6.21; extra == \"docs\"",
+      "sphinx-autobuild>=2021.3.14; extra == \"docs\"",
+      "sphinx-autodoc-typehints>=1.12; extra == \"docs\""
+    ]
+  },
+  "psycopg-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c9f070afeda682f6364f86cd77145f43feaf60648b2ce1f6e883e594d04cbea8",
+    "dependencies": {
+      "required": [
+        "typing-extensions",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.6; python_version < \"3.13\"",
+      "tzdata; sys_platform == \"win32\"",
+      "psycopg-c==3.3.0; implementation_name != \"pypy\" and extra == \"c\"",
+      "psycopg-binary==3.3.0; implementation_name != \"pypy\" and extra == \"binary\"",
+      "psycopg-pool; extra == \"pool\"",
+      "anyio>=4.0; extra == \"test\"",
+      "mypy>=1.19.0; implementation_name != \"pypy\" and extra == \"test\"",
+      "pproxy>=2.7; extra == \"test\"",
+      "pytest>=6.2.5; extra == \"test\"",
+      "pytest-cov>=3.0; extra == \"test\"",
+      "pytest-randomly>=3.5; extra == \"test\"",
+      "ast-comments>=1.1.2; extra == \"dev\"",
+      "black>=24.1.0; extra == \"dev\"",
+      "codespell>=2.2; extra == \"dev\"",
+      "cython-lint>=0.16; extra == \"dev\"",
+      "dnspython>=2.1; extra == \"dev\"",
+      "flake8>=4.0; extra == \"dev\"",
+      "isort[colors]>=6.0; extra == \"dev\"",
+      "isort-psycopg; extra == \"dev\"",
+      "mypy>=1.19.0; extra == \"dev\"",
+      "pre-commit>=4.0.1; extra == \"dev\"",
+      "types-setuptools>=57.4; extra == \"dev\"",
+      "types-shapely>=2.0; extra == \"dev\"",
+      "wheel>=0.37; extra == \"dev\"",
+      "Sphinx>=5.0; extra == \"docs\"",
+      "furo==2022.6.21; extra == \"docs\"",
+      "sphinx-autobuild>=2021.3.14; extra == \"docs\"",
+      "sphinx-autodoc-typehints>=1.12; extra == \"docs\""
+    ]
+  },
+  "psycopg-3.2.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a481374514f2da627157f767a9336705ebefe93ea7a0522a6cbacba165da179a",
+    "dependencies": {
+      "required": [
+        "backports.zoneinfo",
+        "typing-extensions",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "backports.zoneinfo>=0.2.0; python_version < \"3.9\"",
+      "typing-extensions>=4.6; python_version < \"3.13\"",
+      "tzdata; sys_platform == \"win32\"",
+      "psycopg-c==3.2.13; implementation_name != \"pypy\" and extra == \"c\"",
+      "psycopg-binary==3.2.13; implementation_name != \"pypy\" and extra == \"binary\"",
+      "psycopg-pool; extra == \"pool\"",
+      "anyio>=4.0; extra == \"test\"",
+      "mypy>=1.14; extra == \"test\"",
+      "pproxy>=2.7; extra == \"test\"",
+      "pytest>=6.2.5; extra == \"test\"",
+      "pytest-cov>=3.0; extra == \"test\"",
+      "pytest-randomly>=3.5; extra == \"test\"",
+      "ast-comments>=1.1.2; extra == \"dev\"",
+      "black>=24.1.0; extra == \"dev\"",
+      "codespell>=2.2; extra == \"dev\"",
+      "dnspython>=2.1; extra == \"dev\"",
+      "flake8>=4.0; extra == \"dev\"",
+      "isort[colors]>=6.0; extra == \"dev\"",
+      "isort-psycopg; extra == \"dev\"",
+      "mypy>=1.14; extra == \"dev\"",
+      "pre-commit>=4.0.1; extra == \"dev\"",
+      "types-setuptools>=57.4; extra == \"dev\"",
+      "types-shapely>=2.0; extra == \"dev\"",
+      "wheel>=0.37; extra == \"dev\"",
+      "Sphinx>=5.0; extra == \"docs\"",
+      "furo==2022.6.21; extra == \"docs\"",
+      "sphinx-autobuild>=2021.3.14; extra == \"docs\"",
+      "sphinx-autodoc-typehints>=1.12; extra == \"docs\""
+    ]
+  },
+  "psycopg-3.2.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a1611a2d4c16ae37eada46438be9029a35bb959bb50b3d0e1e93c0f3d54c9ee",
+    "dependencies": {
+      "required": [
+        "backports.zoneinfo",
+        "typing-extensions",
+        "tzdata"
+      ]
+    },
+    "original_requirements": [
+      "backports.zoneinfo>=0.2.0; python_version < \"3.9\"",
+      "typing-extensions>=4.6; python_version < \"3.13\"",
+      "tzdata; sys_platform == \"win32\"",
+      "psycopg-c==3.2.12; implementation_name != \"pypy\" and extra == \"c\"",
+      "psycopg-binary==3.2.12; implementation_name != \"pypy\" and extra == \"binary\"",
+      "psycopg-pool; extra == \"pool\"",
+      "anyio>=4.0; extra == \"test\"",
+      "mypy>=1.14; extra == \"test\"",
+      "pproxy>=2.7; extra == \"test\"",
+      "pytest>=6.2.5; extra == \"test\"",
+      "pytest-cov>=3.0; extra == \"test\"",
+      "pytest-randomly>=3.5; extra == \"test\"",
+      "ast-comments>=1.1.2; extra == \"dev\"",
+      "black>=24.1.0; extra == \"dev\"",
+      "codespell>=2.2; extra == \"dev\"",
+      "dnspython>=2.1; extra == \"dev\"",
+      "flake8>=4.0; extra == \"dev\"",
+      "isort[colors]>=6.0; extra == \"dev\"",
+      "isort-psycopg; extra == \"dev\"",
+      "mypy>=1.14; extra == \"dev\"",
+      "pre-commit>=4.0.1; extra == \"dev\"",
+      "types-setuptools>=57.4; extra == \"dev\"",
+      "types-shapely>=2.0; extra == \"dev\"",
+      "wheel>=0.37; extra == \"dev\"",
+      "Sphinx>=5.0; extra == \"docs\"",
+      "furo==2022.6.21; extra == \"docs\"",
+      "sphinx-autobuild>=2021.3.14; extra == \"docs\"",
+      "sphinx-autodoc-typehints>=1.12; extra == \"docs\""
+    ]
+  }
+}

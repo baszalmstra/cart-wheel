@@ -1,0 +1,11 @@
+# Package configuration for types-aiobotocore-rolesanywhere
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_rolesanywhere-3.0.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_rolesanywhere-2.26.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_rolesanywhere-2.25.2-py3-none-any.whl" },
+  { filename = "types_aiobotocore_rolesanywhere-2.25.1-py3-none-any.whl" },
+  { filename = "types_aiobotocore_rolesanywhere-2.25.0-py3-none-any.whl" },
+]

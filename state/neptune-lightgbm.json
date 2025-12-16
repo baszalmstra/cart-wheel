@@ -1,0 +1,76 @@
+{
+  "neptune_lightgbm-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1413068c34c1fd534b89b407e8da27485401d5ae3e2bb21f683153b72c5a53df",
+    "dependencies": {
+      "required": [
+        "graphviz",
+        "importlib-metadata",
+        "lightgbm",
+        "matplotlib",
+        "scikit-plot"
+      ]
+    },
+    "original_requirements": [
+      "graphviz",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "lightgbm",
+      "matplotlib",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "scikit-plot"
+    ]
+  },
+  "neptune_lightgbm-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c1d068056fc6bef6ecdfa9774d9d0a78e350c4762231e598bfbf827de42f8a2a",
+    "dependencies": {
+      "required": [
+        "graphviz",
+        "importlib-metadata",
+        "lightgbm",
+        "matplotlib",
+        "neptune-client",
+        "scikit-plot"
+      ]
+    },
+    "original_requirements": [
+      "graphviz",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "lightgbm",
+      "matplotlib",
+      "neptune-client (>=0.16.17)",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "scikit-plot"
+    ]
+  },
+  "neptune_lightgbm-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3af3ce03a7c4a20e6fe6b22c1d843a30ed6dc6ef14de3a203d6b8f9be3d3a33",
+    "dependencies": {
+      "required": [
+        "graphviz",
+        "importlib-metadata",
+        "lightgbm",
+        "matplotlib",
+        "neptune-client",
+        "scikit-plot"
+      ]
+    },
+    "original_requirements": [
+      "graphviz",
+      "importlib-metadata; python_version < \"3.8\"",
+      "lightgbm",
+      "matplotlib",
+      "neptune-client (>=0.16.7)",
+      "pre-commit; extra == \"dev\"",
+      "pytest (>=5.0); extra == \"dev\"",
+      "pytest-cov (==2.10.1); extra == \"dev\"",
+      "scikit-plot"
+    ]
+  }
+}

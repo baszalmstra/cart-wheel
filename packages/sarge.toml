@@ -1,0 +1,9 @@
+# Package configuration for sarge
+conda_forge = "sarge"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sarge-0.1.7.post1-py2.py3-none-any.whl" },
+  { filename = "sarge-0.1.5-py2.py3-none-any.whl" },
+]

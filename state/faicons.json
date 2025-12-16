@@ -1,0 +1,43 @@
+{
+  "faicons-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d45d7c2635b53582a3375c67d7e975a28a91d2c16ef5f6b5033b5cdd507224b6",
+    "dependencies": {
+      "required": [
+        "htmltools"
+      ]
+    },
+    "original_requirements": [
+      "htmltools >=0.1.4.9002",
+      "black >=23.1.0 ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "flake8 ==3.9.2 ; (python_version <= \"3.7\") and extra == 'dev'",
+      "flake8 >=6.0.0 ; (python_version > \"3.7\") and extra == 'dev'",
+      "pytest >=6.2.4 ; extra == 'test'"
+    ]
+  },
+  "faicons-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a32638798dfaae1f84c1d215fef2fa4936e51a07ea48b667422b6756943ab4c",
+    "dependencies": {
+      "required": [
+        "htmltools"
+      ]
+    },
+    "original_requirements": [
+      "htmltools"
+    ]
+  },
+  "faicons-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37fbd9896fb984fcd7c7a3d6822df5c1cd50e2a627e2be9f352cb83fae7363b4",
+    "dependencies": {
+      "required": [
+        "htmltools"
+      ]
+    },
+    "original_requirements": [
+      "htmltools"
+    ]
+  }
+}

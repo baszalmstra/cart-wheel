@@ -1,0 +1,82 @@
+{
+  "click_plugins-1.1.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "008d65743833ffc1f5417bf0e78e8d2c23aab04d9745ba817bd3e71b0feb6aa6",
+    "dependencies": {
+      "required": [
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "click>=4.0",
+      "pytest>=3.6; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "coveralls; extra == \"dev\""
+    ]
+  },
+  "click_plugins-1.1.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ddf28a31428ff431ba21e1d47eb51861004a95a1990cef9c90fb7666050f8cc6",
+    "dependencies": {
+      "required": [
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "click>=4.0",
+      "pytest>=3.6; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "coveralls; extra == \"dev\""
+    ]
+  },
+  "click_plugins-1.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5d262006d3222f5057fd81e1623d4443e41dcda5dc815c06b442aa3c02889fc8",
+    "dependencies": {
+      "required": [
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "click (>=4.0)",
+      "pytest (>=3.6) ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "coveralls ; extra == 'dev'"
+    ]
+  },
+  "click_plugins-1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c313f8af17036d2667d0165bf9030f672a6d5f4b9c084090ada5584b9bd7de13",
+    "dependencies": {
+      "required": [
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "click (>=4.0)",
+      "pytest (>=3.6) ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "coveralls ; extra == 'dev'"
+    ]
+  },
+  "click_plugins-1.0.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1ee1ccc9421c73007fe290680d97984eb6eaf5f4512b7620c6aa46031d6cb6b",
+    "dependencies": {
+      "required": [
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "click (>=3.0)",
+      "pytest (>=3); extra == 'dev'",
+      "pytest-cov; extra == 'dev'",
+      "wheel; extra == 'dev'",
+      "coveralls; extra == 'dev'"
+    ]
+  }
+}

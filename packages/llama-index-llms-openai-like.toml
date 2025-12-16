@@ -1,0 +1,11 @@
+# Package configuration for llama-index-llms-openai-like
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "llama_index_llms_openai_like-0.5.3-py3-none-any.whl" },
+  { filename = "llama_index_llms_openai_like-0.5.2-py3-none-any.whl" },
+  { filename = "llama_index_llms_openai_like-0.5.1-py3-none-any.whl" },
+  { filename = "llama_index_llms_openai_like-0.5.0-py3-none-any.whl" },
+  { filename = "llama_index_llms_openai_like-0.4.0-py3-none-any.whl" },
+]

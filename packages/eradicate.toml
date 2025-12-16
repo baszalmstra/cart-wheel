@@ -1,0 +1,12 @@
+# Package configuration for eradicate
+conda_forge = "eradicate"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "eradicate-3.0.1-py3-none-any.whl" },
+  { filename = "eradicate-3.0.0-py3-none-any.whl" },
+  { filename = "eradicate-2.3.0-py3-none-any.whl" },
+  { filename = "eradicate-2.2.0-py3-none-any.whl" },
+  { filename = "eradicate-2.1.0-py3-none-any.whl" },
+]

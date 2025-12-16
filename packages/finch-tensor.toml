@@ -1,0 +1,11 @@
+# Package configuration for finch-tensor
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "finch_tensor-0.2.14-py3-none-any.whl" },
+  { filename = "finch_tensor-0.2.13-py3-none-any.whl" },
+  { filename = "finch_tensor-0.2.12-py3-none-any.whl" },
+  { filename = "finch_tensor-0.2.11-py3-none-any.whl" },
+  { filename = "finch_tensor-0.2.10-py3-none-any.whl" },
+]

@@ -1,0 +1,10 @@
+# Package configuration for excelrd
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "excelrd-3.0.0-py3-none-any.whl" },
+  { filename = "excelrd-2.0.3-py3-none-any.whl" },
+  { filename = "excelrd-2.0.2-py3-none-any.whl" },
+  { filename = "excelrd-2.0.0-py2.py3-none-any.whl" },
+]

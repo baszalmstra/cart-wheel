@@ -1,0 +1,8 @@
+# Package configuration for scrapbook
+conda_forge = "scrapbook"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "scrapbook-0.5.0-py3-none-any.whl" },
+]

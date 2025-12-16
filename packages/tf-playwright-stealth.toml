@@ -1,0 +1,12 @@
+# Package configuration for tf-playwright-stealth
+conda_forge = "tf-playwright-stealth"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tf_playwright_stealth-1.2.0-py3-none-any.whl" },
+  { filename = "tf_playwright_stealth-1.1.5-py3-none-any.whl" },
+  { filename = "tf_playwright_stealth-1.1.3-py3-none-any.whl" },
+  { filename = "tf_playwright_stealth-1.1.2-py3-none-any.whl" },
+  { filename = "tf_playwright_stealth-1.1.1-py3-none-any.whl" },
+]

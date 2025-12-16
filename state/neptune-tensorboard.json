@@ -1,0 +1,118 @@
+{
+  "neptune_tensorboard-1.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "305b67202d3cfa3046e494e83e8c5afad5ec1f019ab64f9fab9c578be0b7d816",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "matplotlib",
+        "pytest-xdist",
+        "tbparse",
+        "tensorboardx",
+        "tensorflow",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "matplotlib",
+      "neptune (>=1.0.1) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "pytest-xdist",
+      "tbparse",
+      "tensorboardX (>=2.2.0)",
+      "tensorflow (>=2.0.0)",
+      "torch (>=1.9.0)"
+    ]
+  },
+  "neptune_tensorboard-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8e0357b6a8be975f8bcc78071b7d9dfcef36cfcd59f0acc8f6d044a4cddc6ba",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "matplotlib",
+        "pytest-xdist",
+        "tbparse",
+        "tensorboardx",
+        "tensorflow",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "matplotlib",
+      "neptune (>=1.0.1) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "pytest-xdist",
+      "tbparse",
+      "tensorboardX (>=2.2.0)",
+      "tensorflow (>=2.0.0)",
+      "torch (>=1.9.0)"
+    ]
+  },
+  "neptune_tensorboard-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6c7d3ce8ce4ee098dad3abeb2c1f52c9f0781d236dfd15db82d0aece3c90b92",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "matplotlib",
+        "pytest-xdist",
+        "tbparse",
+        "tensorboardx",
+        "tensorflow",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "matplotlib",
+      "neptune (>=1.0.1) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "pytest-xdist",
+      "tbparse",
+      "tensorboardX (>=2.2.0)",
+      "tensorflow (>=2.0.0)",
+      "torch (>=1.9.0)"
+    ]
+  },
+  "neptune_tensorboard-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "148a2217ad6696c9f02381939fc67cf4ddbd024fdefc8df4dd651ca4aa5cd2e3",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "matplotlib",
+        "pytest-xdist",
+        "tbparse",
+        "tensorboardx",
+        "tensorflow",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "matplotlib",
+      "neptune (>=1.0.1) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "pytest-xdist",
+      "tbparse",
+      "tensorboardX (>=2.2.0)",
+      "tensorflow (>=2.0.0)",
+      "torch (>=1.9.0)"
+    ]
+  }
+}

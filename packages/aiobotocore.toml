@@ -1,0 +1,12 @@
+# Package configuration for aiobotocore
+conda_forge = "aiobotocore"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiobotocore-3.0.0-py3-none-any.whl" },
+  { filename = "aiobotocore-2.26.0-py3-none-any.whl" },
+  { filename = "aiobotocore-2.25.2-py3-none-any.whl" },
+  { filename = "aiobotocore-2.25.1-py3-none-any.whl" },
+  { filename = "aiobotocore-2.25.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for ipylab
+conda_forge = "ipylab"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipylab-1.1.0-py3-none-any.whl" },
+  { filename = "ipylab-1.0.0-py3-none-any.whl" },
+  { filename = "ipylab-0.7.1-py3-none-any.whl" },
+  { filename = "ipylab-0.7.0-py3-none-any.whl" },
+  { filename = "ipylab-0.6.0-py3-none-any.whl" },
+]

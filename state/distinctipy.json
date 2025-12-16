@@ -1,0 +1,165 @@
+{
+  "distinctipy-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2bf57d9d20dbc5c2fd462298573cc963c037f493d04ec61e94cb8d0bf5023c74",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.16.3",
+      "sphinx-rtd-theme >=0.2.3 ; extra == 'docs'",
+      "nbsphinx >=0.8.0 ; extra == 'docs'",
+      "ipython >=7.34.0 ; extra == 'docs'",
+      "pandas >=0.24.2 ; extra == 'extras'",
+      "matplotlib >=3.1.0 ; extra == 'extras'",
+      "black ==22.6.0 ; extra == 'tests'",
+      "codecov >=2.0.15 ; extra == 'tests'",
+      "coverage >=5.3.1 ; extra == 'tests'",
+      "flake8 ==4.0.1 ; extra == 'tests'",
+      "isort ==5.10.1 ; extra == 'tests'",
+      "pytest >=4.6.0 ; extra == 'tests'",
+      "pytest-cov >=2.9.0 ; extra == 'tests'"
+    ]
+  },
+  "distinctipy-1.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f46aabb671bf5296b406ce32df418dbdda4e2047a207e4094788a61ac104476b",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "numpy ; extra == 'all'",
+      "black ; extra == 'all'",
+      "codecov ; extra == 'all'",
+      "coverage ; extra == 'all'",
+      "flake8 ; extra == 'all'",
+      "isort ; extra == 'all'",
+      "pytest ; extra == 'all'",
+      "pytest-cov ; extra == 'all'",
+      "pandas ; extra == 'all'",
+      "matplotlib ; extra == 'all'",
+      "sphinx-rtd-theme ; extra == 'all'",
+      "nbsphinx ; extra == 'all'",
+      "ipython ; extra == 'all'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "nbsphinx ; extra == 'docs'",
+      "ipython ; extra == 'docs'",
+      "pandas ; extra == 'optional'",
+      "matplotlib ; extra == 'optional'",
+      "black ; extra == 'tests'",
+      "codecov ; extra == 'tests'",
+      "coverage ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "isort ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'"
+    ]
+  },
+  "distinctipy-1.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "deab7bbabf488c7be5051559c428c1cb4a5e78681cbb8e5156c513465a8d85bf",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "numpy ; extra == 'all'",
+      "black ; extra == 'all'",
+      "codecov ; extra == 'all'",
+      "coverage ; extra == 'all'",
+      "flake8 ; extra == 'all'",
+      "isort ; extra == 'all'",
+      "pytest ; extra == 'all'",
+      "pytest-cov ; extra == 'all'",
+      "pandas ; extra == 'all'",
+      "matplotlib ; extra == 'all'",
+      "sphinx-rtd-theme ; extra == 'all'",
+      "nbsphinx ; extra == 'all'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "nbsphinx ; extra == 'docs'",
+      "pandas ; extra == 'optional'",
+      "matplotlib ; extra == 'optional'",
+      "black ; extra == 'tests'",
+      "codecov ; extra == 'tests'",
+      "coverage ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "isort ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'"
+    ]
+  },
+  "distinctipy-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52c27a57b5ad12e0e8b6e6ab04d6c76f365ecf7d12ba30ab4596e23f80df7278",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "numpy ; extra == 'all'",
+      "black ; extra == 'all'",
+      "codecov ; extra == 'all'",
+      "coverage ; extra == 'all'",
+      "flake8 ; extra == 'all'",
+      "isort ; extra == 'all'",
+      "pytest ; extra == 'all'",
+      "pytest-cov ; extra == 'all'",
+      "pandas ; extra == 'all'",
+      "matplotlib ; extra == 'all'",
+      "sphinx-rtd-theme ; extra == 'all'",
+      "nbsphinx ; extra == 'all'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "nbsphinx ; extra == 'docs'",
+      "pandas ; extra == 'optional'",
+      "matplotlib ; extra == 'optional'",
+      "black ; extra == 'tests'",
+      "codecov ; extra == 'tests'",
+      "coverage ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "isort ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'"
+    ]
+  },
+  "distinctipy-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1cac7b6ce4c12b443fe430aafff35c22a6c764990775594bf5596ca5414b775e",
+    "dependencies": {
+      "required": [
+        "cycler",
+        "kiwisolver",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "pyparsing",
+        "python-dateutil",
+        "pytz",
+        "six",
+        "sphinx-rtd-theme",
+        "nbsphinx"
+      ]
+    },
+    "original_requirements": [
+      "cycler",
+      "kiwisolver",
+      "matplotlib",
+      "numpy",
+      "pandas",
+      "pyparsing",
+      "python-dateutil",
+      "pytz",
+      "six",
+      "sphinx-rtd-theme",
+      "nbsphinx"
+    ]
+  }
+}

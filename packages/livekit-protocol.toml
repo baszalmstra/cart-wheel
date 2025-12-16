@@ -1,0 +1,11 @@
+# Package configuration for livekit-protocol
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "livekit_protocol-1.1.1-py3-none-any.whl" },
+  { filename = "livekit_protocol-1.1.0-py3-none-any.whl" },
+  { filename = "livekit_protocol-1.0.8-py3-none-any.whl" },
+  { filename = "livekit_protocol-1.0.7-py3-none-any.whl" },
+  { filename = "livekit_protocol-1.0.6-py3-none-any.whl" },
+]

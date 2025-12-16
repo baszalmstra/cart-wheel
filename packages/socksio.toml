@@ -1,0 +1,11 @@
+# Package configuration for socksio
+conda_forge = "socksio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "socksio-1.0.0-py3-none-any.whl" },
+  { filename = "socksio-0.2.0-py3-none-any.whl" },
+  { filename = "socksio-0.1.1-py3-none-any.whl" },
+  { filename = "socksio-0.1.0-py3-none-any.whl" },
+]

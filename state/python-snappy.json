@@ -1,0 +1,52 @@
+{
+  "python_snappy-0.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "074c0636cfcd97e7251330f428064050ac81a52c62ed884fc2ddebbb60ed7f50",
+    "dependencies": {
+      "required": [
+        "cramjam"
+      ]
+    },
+    "original_requirements": [
+      "cramjam"
+    ]
+  },
+  "python_snappy-0.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4b2c39142064925d5a554672a09de4188fc4f2b2494a2ecb35042930e129444",
+    "dependencies": {
+      "required": [
+        "cramjam"
+      ]
+    },
+    "original_requirements": [
+      "cramjam"
+    ]
+  },
+  "python_snappy-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c9111be1ae1dcbf4ce32b752366d4a5d4f07898d517691c4003d41e04b03488",
+    "dependencies": {
+      "required": [
+        "cramjam"
+      ]
+    },
+    "original_requirements": [
+      "cramjam"
+    ]
+  },
+  "python_snappy-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "95561ab69cca7d95477f7db157d268f2beafc1e00b36586fb4225ff404142788",
+    "dependencies": {
+      "required": [
+        "cramjam",
+        "crc32c"
+      ]
+    },
+    "original_requirements": [
+      "cramjam >=2.6.0",
+      "crc32c"
+    ]
+  }
+}

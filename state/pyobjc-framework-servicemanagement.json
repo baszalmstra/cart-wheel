@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_servicemanagement-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a2941f16eeb71e55e1cd94f50197f91520778c7f48ad896761f5e78725cc08f",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1"
+    ]
+  },
+  "pyobjc_framework_servicemanagement-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "57c22bb43aa6eb956aa5dee5976fe8602d45b72271e9ae9ed6f328645907fdac",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0"
+    ]
+  },
+  "pyobjc_framework_servicemanagement-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "104f56557342a05ad68cd0c9daf63b7f4678957fe1f919f03a872f1607a50710",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1"
+    ]
+  },
+  "pyobjc_framework_ServiceManagement-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "35cfd7a369a120fa55e64b719a2dda00295b2cc6ddab16ffa8939f4326d1b37d",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0"
+    ]
+  },
+  "pyobjc_framework_ServiceManagement-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd5e5e0e461550bb7c9ddb7170372530eb3a391c7ba797675be86f87fbd062b3",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2"
+    ]
+  }
+}

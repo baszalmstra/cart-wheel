@@ -1,0 +1,12 @@
+# Package configuration for types-redis
+conda_forge = "types-redis"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_redis-4.6.0.20241004-py3-none-any.whl" },
+  { filename = "types_redis-4.6.0.20240903-py3-none-any.whl" },
+  { filename = "types_redis-4.6.0.20240819-py3-none-any.whl" },
+  { filename = "types_redis-4.6.0.20240806-py3-none-any.whl" },
+  { filename = "types_redis-4.6.0.20240726-py3-none-any.whl" },
+]

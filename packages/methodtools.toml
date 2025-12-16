@@ -1,0 +1,9 @@
+# Package configuration for methodtools
+conda_forge = "methodtools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "methodtools-0.4.7-py2.py3-none-any.whl" },
+  { filename = "methodtools-0.1.0-py2.py3-none-any.whl" },
+]

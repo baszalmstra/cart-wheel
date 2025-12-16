@@ -1,0 +1,11 @@
+# Package configuration for pytest-ipywidgets
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_ipywidgets-1.55.1-py3-none-any.whl" },
+  { filename = "pytest_ipywidgets-1.55.0-py3-none-any.whl" },
+  { filename = "pytest_ipywidgets-1.54.0-py3-none-any.whl" },
+  { filename = "pytest_ipywidgets-1.53.0-py3-none-any.whl" },
+  { filename = "pytest_ipywidgets-1.52.0-py3-none-any.whl" },
+]

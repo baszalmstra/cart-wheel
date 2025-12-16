@@ -1,0 +1,12 @@
+# Package configuration for ruamel-yaml
+conda_forge = "ruamel.yaml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ruamel.yaml-0.18.16-py3-none-any.whl" },
+  { filename = "ruamel.yaml-0.18.15-py3-none-any.whl" },
+  { filename = "ruamel.yaml-0.18.14-py3-none-any.whl" },
+  { filename = "ruamel.yaml-0.18.13-py3-none-any.whl" },
+  { filename = "ruamel.yaml-0.18.12-py3-none-any.whl" },
+]

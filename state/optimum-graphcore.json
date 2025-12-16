@@ -1,0 +1,198 @@
+{
+  "optimum_graphcore-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f105ff3c1e5ef48ffa1f46c615638a3fd46dfec8c00aeb25da664b3548c27fb8",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "optimum",
+        "diffusers",
+        "cppimport",
+        "datasets",
+        "tokenizers",
+        "typeguard",
+        "sentencepiece",
+        "scipy",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "transformers (==4.29.2)",
+      "optimum (==1.6.1)",
+      "diffusers[torch] (==0.12.1)",
+      "cppimport (==22.8.2)",
+      "datasets",
+      "tokenizers",
+      "typeguard",
+      "sentencepiece",
+      "scipy",
+      "pillow",
+      "black (~=23.1) ; extra == 'quality'",
+      "isort (>=5.5.4) ; extra == 'quality'",
+      "ruff (<=0.0.259,>=0.0.241) ; extra == 'quality'",
+      "filelock ; extra == 'testing'",
+      "GitPython ; extra == 'testing'",
+      "parameterized ; extra == 'testing'",
+      "psutil ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-pythonpath ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'",
+      "librosa ; extra == 'testing'",
+      "soundfile ; extra == 'testing'"
+    ]
+  },
+  "optimum_graphcore-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63a64aba6fb8c88ded282c4ec7e88cef1263a0989f6841ff93fdacb11f59e7a0",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "optimum",
+        "diffusers",
+        "datasets",
+        "tokenizers",
+        "typeguard",
+        "sentencepiece",
+        "scipy",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "transformers (==4.29.2)",
+      "optimum (==1.6.1)",
+      "diffusers[torch] (==0.12.1)",
+      "datasets",
+      "tokenizers",
+      "typeguard",
+      "sentencepiece",
+      "scipy",
+      "pillow",
+      "black (~=23.1) ; extra == 'quality'",
+      "isort (>=5.5.4) ; extra == 'quality'",
+      "ruff (<=0.0.259,>=0.0.241) ; extra == 'quality'",
+      "filelock ; extra == 'testing'",
+      "GitPython ; extra == 'testing'",
+      "parameterized ; extra == 'testing'",
+      "psutil ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-pythonpath ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'",
+      "librosa ; extra == 'testing'",
+      "soundfile ; extra == 'testing'"
+    ]
+  },
+  "optimum_graphcore-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77ec852f414a27e850dbe2218bbf045e87cd4e9d2b4cada0ad8fd61c0f1e25c5",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "optimum",
+        "diffusers",
+        "datasets",
+        "tokenizers",
+        "typeguard",
+        "sentencepiece",
+        "scipy",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "transformers (==4.25.1)",
+      "optimum (==1.6.1)",
+      "diffusers[torch] (==0.12.1)",
+      "datasets",
+      "tokenizers",
+      "typeguard",
+      "sentencepiece",
+      "scipy",
+      "pillow",
+      "black ; extra == 'quality'",
+      "isort ; extra == 'quality'",
+      "filelock ; extra == 'testing'",
+      "GitPython ; extra == 'testing'",
+      "parameterized ; extra == 'testing'",
+      "psutil ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-pythonpath ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'",
+      "librosa ; extra == 'testing'",
+      "soundfile ; extra == 'testing'"
+    ]
+  },
+  "optimum_graphcore-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d4dca112cd308653d8aae30d8a1eedd747112b10ea880ee8c8c2eb37e90f87e7",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "optimum",
+        "diffusers",
+        "datasets",
+        "tokenizers",
+        "torch",
+        "sentencepiece",
+        "scipy",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "transformers (==4.25.1)",
+      "optimum (==1.6.1)",
+      "diffusers[torch] (==0.12.1)",
+      "datasets",
+      "tokenizers",
+      "torch",
+      "sentencepiece",
+      "scipy",
+      "pillow",
+      "black ; extra == 'quality'",
+      "isort ; extra == 'quality'",
+      "filelock ; extra == 'testing'",
+      "GitPython ; extra == 'testing'",
+      "parameterized ; extra == 'testing'",
+      "psutil ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-pythonpath ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'",
+      "librosa ; extra == 'testing'",
+      "soundfile ; extra == 'testing'"
+    ]
+  },
+  "optimum_graphcore-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b2cd572c0f883cec5bbe82a7360f65176b69f6f6d45f93d4f5ea43f237d2894f",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "optimum",
+        "datasets",
+        "tokenizers",
+        "torch",
+        "sentencepiece",
+        "scipy",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "transformers (==4.20.1)",
+      "optimum",
+      "datasets",
+      "tokenizers",
+      "torch",
+      "sentencepiece",
+      "scipy",
+      "pillow",
+      "black ; extra == 'quality'",
+      "isort ; extra == 'quality'",
+      "hf-doc-builder ; extra == 'quality'",
+      "GitPython ; extra == 'testing'",
+      "parameterized ; extra == 'testing'",
+      "psutil ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-pythonpath ; extra == 'testing'",
+      "librosa ; extra == 'testing'",
+      "soundfile ; extra == 'testing'"
+    ]
+  }
+}

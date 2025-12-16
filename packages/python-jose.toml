@@ -1,0 +1,12 @@
+# Package configuration for python-jose
+conda_forge = "python-jose"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_jose-3.5.0-py2.py3-none-any.whl" },
+  { filename = "python_jose-3.4.0-py2.py3-none-any.whl" },
+  { filename = "python_jose-3.3.0-py2.py3-none-any.whl" },
+  { filename = "python_jose-3.2.0-py2.py3-none-any.whl" },
+  { filename = "python_jose-3.1.0-py2.py3-none-any.whl" },
+]

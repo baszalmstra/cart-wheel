@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-sesv2
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_sesv2-1.42.8-py3-none-any.whl" },
+  { filename = "types_boto3_sesv2-1.42.5-py3-none-any.whl" },
+  { filename = "types_boto3_sesv2-1.42.4-py3-none-any.whl" },
+  { filename = "types_boto3_sesv2-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_sesv2-1.41.2-py3-none-any.whl" },
+]

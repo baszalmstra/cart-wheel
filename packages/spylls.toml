@@ -1,0 +1,11 @@
+# Package configuration for spylls
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "spylls-0.1.7-py2.py3-none-any.whl" },
+  { filename = "spylls-0.1.6-py2.py3-none-any.whl" },
+  { filename = "spylls-0.1.5-py2.py3-none-any.whl" },
+  { filename = "spylls-0.1.4-py2.py3-none-any.whl" },
+  { filename = "spylls-0.1.3-py2.py3-none-any.whl" },
+]

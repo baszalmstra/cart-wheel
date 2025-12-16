@@ -1,0 +1,12 @@
+# Package configuration for croniter
+conda_forge = "croniter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "croniter-6.0.0-py2.py3-none-any.whl" },
+  { filename = "croniter-5.0.1-py2.py3-none-any.whl" },
+  { filename = "croniter-4.0.0-py2.py3-none-any.whl" },
+  { filename = "croniter-3.0.4-py2.py3-none-any.whl" },
+  { filename = "croniter-3.0.3-py2.py3-none-any.whl" },
+]

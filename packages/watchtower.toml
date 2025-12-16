@@ -1,0 +1,12 @@
+# Package configuration for watchtower
+conda_forge = "watchtower"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "watchtower-3.4.0-py3-none-any.whl" },
+  { filename = "watchtower-3.3.1-py3-none-any.whl" },
+  { filename = "watchtower-3.3.0-py3-none-any.whl" },
+  { filename = "watchtower-3.2.0-py3-none-any.whl" },
+  { filename = "watchtower-3.1.0-py3-none-any.whl" },
+]

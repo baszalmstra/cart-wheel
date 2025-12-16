@@ -1,0 +1,185 @@
+{
+  "connexion-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ed0b1a90f5a39f58e984b270b3e945c5038a1d064748a23478833027428102c",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "pyyaml",
+        "asgiref",
+        "httpx",
+        "inflection",
+        "jsonschema",
+        "python-multipart",
+        "requests",
+        "starlette",
+        "typing-extensions",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2 (>=3.0.0)",
+      "PyYAML (>=5.1)",
+      "a2wsgi (>=1.7) ; extra == \"flask\"",
+      "asgiref (>=3.4)",
+      "flask[async] (>=2.2) ; extra == \"flask\"",
+      "httpx (>=0.23)",
+      "inflection (>=0.3.1)",
+      "jsf (>=0.10.0) ; extra == \"mock\"",
+      "jsonschema (>=4.17.3)",
+      "python-multipart (>=0.0.15)",
+      "requests (>=2.27)",
+      "starlette (>=0.35)",
+      "swagger-ui-bundle (>=1.1.0) ; extra == \"swagger-ui\"",
+      "typing-extensions (>=4.6.1)",
+      "uvicorn[standard] (>=0.17.6) ; extra == \"uvicorn\"",
+      "werkzeug (>=2.2.1)"
+    ]
+  },
+  "connexion-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "905950337d40f526fb4f2eed3b15fc15d8c367625921ab9442954a025d3e03b3",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "pyyaml",
+        "asgiref",
+        "httpx",
+        "inflection",
+        "jsonschema",
+        "python-multipart",
+        "requests",
+        "starlette",
+        "typing-extensions",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2 (>=3.0.0)",
+      "PyYAML (>=5.1)",
+      "a2wsgi (>=1.7) ; extra == \"flask\"",
+      "asgiref (>=3.4)",
+      "flask[async] (>=2.2) ; extra == \"flask\"",
+      "httpx (>=0.23)",
+      "inflection (>=0.3.1)",
+      "jsf (>=0.10.0) ; extra == \"mock\"",
+      "jsonschema (>=4.17.3)",
+      "python-multipart (>=0.0.15)",
+      "requests (>=2.27)",
+      "starlette (>=0.35)",
+      "swagger-ui-bundle (>=1.1.0) ; extra == \"swagger-ui\"",
+      "typing-extensions (>=4.6.1)",
+      "uvicorn[standard] (>=0.17.6) ; extra == \"uvicorn\"",
+      "werkzeug (>=2.2.1)"
+    ]
+  },
+  "connexion-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e92b6d0412eb54b3b69f2516b93d982a06b0e23f6d5c1ab94257c55d365f63ce",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "pyyaml",
+        "asgiref",
+        "httpx",
+        "inflection",
+        "jsonschema",
+        "python-multipart",
+        "requests",
+        "starlette",
+        "typing-extensions",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2 (>=3.0.0)",
+      "PyYAML (>=5.1)",
+      "a2wsgi (>=1.7) ; extra == \"flask\"",
+      "asgiref (>=3.4)",
+      "flask[async] (>=2.2) ; extra == \"flask\"",
+      "httpx (>=0.23)",
+      "inflection (>=0.3.1)",
+      "jsf (>=0.10.0) ; extra == \"mock\"",
+      "jsonschema (>=4.17.3)",
+      "python-multipart (>=0.0.5)",
+      "requests (>=2.27)",
+      "starlette (>=0.35)",
+      "swagger-ui-bundle (>=1.1.0) ; extra == \"swagger-ui\"",
+      "typing-extensions (>=4.6.1)",
+      "uvicorn[standard] (>=0.17.6) ; extra == \"uvicorn\"",
+      "werkzeug (>=2.2.1)"
+    ]
+  },
+  "connexion-3.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9172600de1fd315ca368d6005f6cd56672559f4c7a3b5b239f0b3d473a10758f",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "pyyaml",
+        "asgiref",
+        "httpx",
+        "inflection",
+        "jsonschema",
+        "python-multipart",
+        "requests",
+        "starlette",
+        "typing-extensions",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2 (>=3.0.0)",
+      "PyYAML (>=5.1)",
+      "a2wsgi (>=1.7) ; extra == \"flask\"",
+      "asgiref (>=3.4)",
+      "flask[async] (>=2.2) ; extra == \"flask\"",
+      "httpx (>=0.23)",
+      "inflection (>=0.3.1)",
+      "jsonschema (>=4.0.1)",
+      "python-multipart (>=0.0.5)",
+      "requests (>=2.27)",
+      "starlette (>=0.35)",
+      "swagger-ui-bundle (>=1.1.0) ; extra == \"swagger-ui\"",
+      "typing-extensions (>=4)",
+      "uvicorn[standard] (>=0.17.6) ; extra == \"uvicorn\"",
+      "werkzeug (>=2.2.1)"
+    ]
+  },
+  "connexion-3.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72055519cc4460d2e7f03774b822067be3e9e959aaac0fa0a91eef8dbd0b4436",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "pyyaml",
+        "asgiref",
+        "httpx",
+        "inflection",
+        "jsonschema",
+        "python-multipart",
+        "requests",
+        "starlette",
+        "typing-extensions",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2 (>=3.0.0)",
+      "PyYAML (>=5.1)",
+      "a2wsgi (>=1.7) ; extra == \"flask\"",
+      "asgiref (>=3.4)",
+      "flask[async] (>=2.2) ; extra == \"flask\"",
+      "httpx (>=0.23)",
+      "inflection (>=0.3.1)",
+      "jsonschema (>=4.0.1)",
+      "python-multipart (>=0.0.5)",
+      "requests (>=2.27)",
+      "starlette (>=0.27,<0.33)",
+      "swagger-ui-bundle (>=1.1.0) ; extra == \"swagger-ui\"",
+      "typing-extensions (>=4)",
+      "uvicorn[standard] (>=0.17.6) ; extra == \"uvicorn\"",
+      "werkzeug (>=2.2.1)"
+    ]
+  }
+}

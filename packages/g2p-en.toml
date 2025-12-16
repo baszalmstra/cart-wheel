@@ -1,0 +1,10 @@
+# Package configuration for g2p-en
+conda_forge = "g2p-en"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "g2p_en-2.1.0-py3-none-any.whl" },
+  { filename = "g2p_en-2.0.0-py3-none-any.whl" },
+  { filename = "g2p_en-1.0.1-py3-none-any.whl" },
+]

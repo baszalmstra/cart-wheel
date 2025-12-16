@@ -1,0 +1,11 @@
+# Package configuration for types-aiobotocore-pca-connector-scep
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_pca_connector_scep-3.0.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_pca_connector_scep-2.26.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_pca_connector_scep-2.25.2-py3-none-any.whl" },
+  { filename = "types_aiobotocore_pca_connector_scep-2.25.1-py3-none-any.whl" },
+  { filename = "types_aiobotocore_pca_connector_scep-2.25.0-py3-none-any.whl" },
+]

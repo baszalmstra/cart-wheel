@@ -1,0 +1,12 @@
+# Package configuration for aenum
+conda_forge = "aenum"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aenum-3.1.16-py3-none-any.whl" },
+  { filename = "aenum-3.1.15-py3-none-any.whl" },
+  { filename = "aenum-3.1.14-py3-none-any.whl" },
+  { filename = "aenum-3.1.13-py3-none-any.whl" },
+  { filename = "aenum-3.1.12-py3-none-any.whl" },
+]

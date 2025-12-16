@@ -1,0 +1,12 @@
+# Package configuration for ipydatawidgets
+conda_forge = "ipydatawidgets"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipydatawidgets-4.3.5-py2.py3-none-any.whl" },
+  { filename = "ipydatawidgets-4.3.4-py2.py3-none-any.whl" },
+  { filename = "ipydatawidgets-4.3.3-py2.py3-none-any.whl" },
+  { filename = "ipydatawidgets-4.3.2-py2.py3-none-any.whl" },
+  { filename = "ipydatawidgets-4.3.1.post1-py2.py3-none-any.whl" },
+]

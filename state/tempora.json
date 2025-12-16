@@ -1,0 +1,149 @@
+{
+  "tempora-5.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6945ec409ca930e5040490931dc0d8f516f2cd9798eb175dc3b3c6a0fc481ea2",
+    "dependencies": {
+      "required": [
+        "jaraco.functools",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.functools>=1.20",
+      "python-dateutil",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "pytest-freezer; extra == \"test\"",
+      "backports.zoneinfo; python_version < \"3.9\" and extra == \"test\"",
+      "tzdata; platform_system == \"Windows\" and extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\"",
+      "types-python-dateutil; extra == \"type\""
+    ]
+  },
+  "tempora-5.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c6fa4bc090e0b3b7ce879a81fdda6e4e0e7ab20d1cd580b5c92fecdcf9e5fb65",
+    "dependencies": {
+      "required": [
+        "jaraco.functools",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.functools>=1.20",
+      "python-dateutil",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "pytest-freezer; extra == \"test\"",
+      "backports.zoneinfo; python_version < \"3.9\" and extra == \"test\"",
+      "tzdata; platform_system == \"Windows\" and extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\"",
+      "types-python-dateutil; extra == \"type\""
+    ]
+  },
+  "tempora-5.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2087f411040bfcb912dd32f407033754d330d9b71f8e27cabcd04cea0591df17",
+    "dependencies": {
+      "required": [
+        "jaraco.functools",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.functools>=1.20",
+      "python-dateutil",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "pytest-freezer; extra == \"test\"",
+      "backports.zoneinfo; python_version < \"3.9\" and extra == \"test\"",
+      "tzdata; platform_system == \"Windows\" and extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\"",
+      "types-python-dateutil; extra == \"type\""
+    ]
+  },
+  "tempora-5.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "93dac0d33825e66c8314d7bd206b9ecb959075c8728bb05b9b050b2726d0442a",
+    "dependencies": {
+      "required": [
+        "jaraco.functools",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.functools >=1.20",
+      "python-dateutil",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-freezer ; extra == 'test'",
+      "types-python-dateutil ; extra == 'test'",
+      "tzdata ; (platform_system == \"Windows\") and extra == 'test'",
+      "backports.zoneinfo ; (python_version < \"3.9\") and extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "tempora-5.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "af9e5c7fff8fd7b877a1cb4213e5dd93c50d09cdc85517ec31914790ef9468c5",
+    "dependencies": {
+      "required": [
+        "jaraco.functools"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.functools >=1.20",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'",
+      "pytest-freezer ; extra == 'test'",
+      "tzdata ; (platform_system == \"Windows\") and extra == 'test'",
+      "backports.zoneinfo ; (python_version < \"3.9\") and extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for pyproject-hooks
+conda_forge = "pyproject_hooks"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyproject_hooks-1.2.0-py3-none-any.whl" },
+  { filename = "pyproject_hooks-1.1.0-py3-none-any.whl" },
+  { filename = "pyproject_hooks-1.0.0-py3-none-any.whl" },
+  { filename = "pyproject_hooks-0.1.0-py3-none-any.whl" },
+]

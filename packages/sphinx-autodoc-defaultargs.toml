@@ -1,0 +1,8 @@
+# Package configuration for sphinx-autodoc-defaultargs
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_autodoc_defaultargs-0.1.2-py3-none-any.whl" },
+  { filename = "sphinx_autodoc_defaultargs-0.1.1-py3-none-any.whl" },
+]

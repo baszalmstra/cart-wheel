@@ -1,0 +1,12 @@
+# Package configuration for tenacity
+conda_forge = "tenacity"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tenacity-9.1.2-py3-none-any.whl" },
+  { filename = "tenacity-9.0.0-py3-none-any.whl" },
+  { filename = "tenacity-8.5.0-py3-none-any.whl" },
+  { filename = "tenacity-8.4.2-py3-none-any.whl" },
+  { filename = "tenacity-8.4.1-py3-none-any.whl" },
+]

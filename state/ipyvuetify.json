@@ -1,0 +1,132 @@
+{
+  "ipyvuetify-1.11.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fa83aaf9f4ce669172d532094d60bd7c40d3cb9c5d6bb2f4a14565da2b09a8d8",
+    "dependencies": {
+      "required": [
+        "ipyvue"
+      ]
+    },
+    "original_requirements": [
+      "ipyvue<2,>=1.7",
+      "nox; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"test\"",
+      "pytest-playwright<0.6; extra == \"test\"",
+      "nbformat<5.10; extra == \"test\"",
+      "jupyterlab<4; extra == \"test\"",
+      "solara[pytest]; extra == \"test\"",
+      "sphinx<7; extra == \"doc\"",
+      "jupyter-sphinx; extra == \"doc\"",
+      "ipykernel; extra == \"doc\"",
+      "pydata-sphinx-theme; extra == \"doc\"",
+      "sphinx-design; extra == \"doc\"",
+      "sphinx_rtd_theme; extra == \"doc\""
+    ]
+  },
+  "ipyvuetify-1.11.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6456372d661da82edab32b51f373046773dd67ad4610de4c272dda2561fb5980",
+    "dependencies": {
+      "required": [
+        "ipyvue"
+      ]
+    },
+    "original_requirements": [
+      "ipyvue<2,>=1.7",
+      "nox; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"test\"",
+      "pytest-playwright<0.6; extra == \"test\"",
+      "nbformat<5.10; extra == \"test\"",
+      "jupyterlab<4; extra == \"test\"",
+      "solara[pytest]; extra == \"test\"",
+      "sphinx<7; extra == \"doc\"",
+      "jupyter-sphinx; extra == \"doc\"",
+      "ipykernel; extra == \"doc\"",
+      "pydata-sphinx-theme; extra == \"doc\"",
+      "sphinx-design; extra == \"doc\"",
+      "sphinx_rtd_theme; extra == \"doc\""
+    ]
+  },
+  "ipyvuetify-1.11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c1d018d994cc670c3c9804b3d75f377da28e3beb54dfcd7d39dcdbe867def69e",
+    "dependencies": {
+      "required": [
+        "ipyvue"
+      ]
+    },
+    "original_requirements": [
+      "ipyvue<2,>=1.7",
+      "nox; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"test\"",
+      "pytest-playwright<0.6; extra == \"test\"",
+      "nbformat<5.10; extra == \"test\"",
+      "jupyterlab<4; extra == \"test\"",
+      "solara[pytest]; extra == \"test\"",
+      "sphinx<7; extra == \"doc\"",
+      "jupyter-sphinx; extra == \"doc\"",
+      "ipykernel; extra == \"doc\"",
+      "pydata-sphinx-theme; extra == \"doc\"",
+      "sphinx-design; extra == \"doc\"",
+      "sphinx_rtd_theme; extra == \"doc\""
+    ]
+  },
+  "ipyvuetify-1.11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "327655b5903b16308d422bd644a07130906ddc95696661d3e00bb0b7d7a81176",
+    "dependencies": {
+      "required": [
+        "ipyvue"
+      ]
+    },
+    "original_requirements": [
+      "ipyvue<2,>=1.7",
+      "nox; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"test\"",
+      "pytest-playwright<0.6; extra == \"test\"",
+      "nbformat<5.10; extra == \"test\"",
+      "jupyterlab<4; extra == \"test\"",
+      "solara[pytest]; extra == \"test\"",
+      "sphinx<7; extra == \"doc\"",
+      "jupyter-sphinx; extra == \"doc\"",
+      "ipykernel; extra == \"doc\"",
+      "pydata-sphinx-theme; extra == \"doc\"",
+      "sphinx-design; extra == \"doc\"",
+      "sphinx_rtd_theme; extra == \"doc\""
+    ]
+  },
+  "ipyvuetify-1.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f867941a9b6a65dc560e9616d2ab3be79af2fcb4846eac93c7d5f74a58d96ee0",
+    "dependencies": {
+      "required": [
+        "ipyvue"
+      ]
+    },
+    "original_requirements": [
+      "ipyvue <2,>=1.7",
+      "nox ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "sphinx <7 ; extra == 'doc'",
+      "jupyter-sphinx ; extra == 'doc'",
+      "ipykernel ; extra == 'doc'",
+      "pydata-sphinx-theme ; extra == 'doc'",
+      "sphinx-design ; extra == 'doc'",
+      "sphinx-rtd-theme ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "pytest-playwright ; extra == 'test'",
+      "nbformat <5.10 ; extra == 'test'",
+      "jupyterlab <4 ; extra == 'test'",
+      "solara[pytest] ; extra == 'test'"
+    ]
+  }
+}

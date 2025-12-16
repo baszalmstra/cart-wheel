@@ -1,0 +1,184 @@
+{
+  "parse_type-0.6.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ca79bbe71e170dfccc8ec6c341edfd1c2a0fc1e5cfd18330f93af938de2348c",
+    "dependencies": {
+      "required": [
+        "parse",
+        "parse",
+        "enum34",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "parse>=1.18.0; python_version >= \"3.0\"",
+      "parse>=1.13.1; python_version <= \"2.7\"",
+      "enum34; python_version < \"3.4\"",
+      "six>=1.15",
+      "setuptools; extra == \"develop\"",
+      "setuptools-scm; extra == \"develop\"",
+      "wheel; extra == \"develop\"",
+      "build>=0.5.1; extra == \"develop\"",
+      "twine>=1.13.0; extra == \"develop\"",
+      "coverage>=4.4; extra == \"develop\"",
+      "pytest<5.0; python_version < \"3.0\" and extra == \"develop\"",
+      "pytest>=5.0; python_version >= \"3.0\" and extra == \"develop\"",
+      "pytest-html>=1.19.0; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "tox<4.0,>=2.8; extra == \"develop\"",
+      "virtualenv<20.22.0; python_version <= \"3.6\" and extra == \"develop\"",
+      "virtualenv>=20.0.0; python_version > \"3.6\" and extra == \"develop\"",
+      "ruff; python_version >= \"3.7\" and extra == \"develop\"",
+      "pylint; extra == \"develop\"",
+      "Sphinx>=1.6; extra == \"docs\"",
+      "sphinx_bootstrap_theme>=0.6.0; extra == \"docs\"",
+      "pytest<5.0; python_version < \"3.0\" and extra == \"testing\"",
+      "pytest>=5.0; python_version >= \"3.0\" and extra == \"testing\"",
+      "pytest-html>=1.19.0; extra == \"testing\""
+    ]
+  },
+  "parse_type-0.6.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "83d41144a82d6b8541127bf212dd76c7f01baff680b498ce8a4d052a7a5bce4c",
+    "dependencies": {
+      "required": [
+        "six",
+        "enum34",
+        "parse",
+        "parse"
+      ]
+    },
+    "original_requirements": [
+      "six>=1.15",
+      "enum34; python_version < \"3.4\"",
+      "parse>=1.13.1; python_version <= \"2.7\"",
+      "parse>=1.18.0; python_version >= \"3.0\"",
+      "setuptools; extra == \"develop\"",
+      "setuptools-scm; extra == \"develop\"",
+      "wheel; extra == \"develop\"",
+      "build>=0.5.1; extra == \"develop\"",
+      "twine>=1.13.0; extra == \"develop\"",
+      "coverage>=4.4; extra == \"develop\"",
+      "pytest-html>=1.19.0; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "tox<4.0,>=2.8; extra == \"develop\"",
+      "pylint; extra == \"develop\"",
+      "pytest<5.0; python_version < \"3.0\" and extra == \"develop\"",
+      "virtualenv<20.22.0; python_version <= \"3.6\" and extra == \"develop\"",
+      "virtualenv>=20.0.0; python_version > \"3.6\" and extra == \"develop\"",
+      "pytest>=5.0; python_version >= \"3.0\" and extra == \"develop\"",
+      "ruff; python_version >= \"3.7\" and extra == \"develop\"",
+      "Sphinx>=1.6; extra == \"docs\"",
+      "sphinx-bootstrap-theme>=0.6.0; extra == \"docs\"",
+      "pytest-html>=1.19.0; extra == \"testing\"",
+      "pytest<5.0; python_version < \"3.0\" and extra == \"testing\"",
+      "pytest>=5.0; python_version >= \"3.0\" and extra == \"testing\""
+    ]
+  },
+  "parse_type-0.6.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8d94a52e0197fbad63fee8f70df16e6ed689e5e4f105b705c9afa7a30397a5aa",
+    "dependencies": {
+      "required": [
+        "six",
+        "enum34",
+        "parse",
+        "parse"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.15",
+      "enum34 ; python_version < \"3.4\"",
+      "parse >=1.13.1 ; python_version <= \"2.7\"",
+      "parse >=1.18.0 ; python_version >= \"3.0\"",
+      "setuptools ; extra == 'develop'",
+      "build >=0.5.1 ; extra == 'develop'",
+      "twine >=1.13.0 ; extra == 'develop'",
+      "coverage >=4.4 ; extra == 'develop'",
+      "pytest-html >=1.19.0 ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "tox <4.0,>=2.8 ; extra == 'develop'",
+      "pylint ; extra == 'develop'",
+      "pytest <5.0 ; (python_version < \"3.0\") and extra == 'develop'",
+      "virtualenv <20.22.0 ; (python_version <= \"3.6\") and extra == 'develop'",
+      "virtualenv >=20.0.0 ; (python_version > \"3.6\") and extra == 'develop'",
+      "pytest >=5.0 ; (python_version >= \"3.0\") and extra == 'develop'",
+      "ruff ; (python_version >= \"3.7\") and extra == 'develop'",
+      "Sphinx >=1.6 ; extra == 'docs'",
+      "sphinx-bootstrap-theme >=0.6.0 ; extra == 'docs'",
+      "pytest-html >=1.19.0 ; extra == 'testing'",
+      "pytest <5.0 ; (python_version < \"3.0\") and extra == 'testing'",
+      "pytest >=5.0 ; (python_version >= \"3.0\") and extra == 'testing'"
+    ]
+  },
+  "parse_type-0.6.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "06d39a8b70fde873eb2a131141a0e79bb34a432941fb3d66fad247abafc9766c",
+    "dependencies": {
+      "required": [
+        "six",
+        "enum34",
+        "parse",
+        "parse"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.15)",
+      "enum34 ; python_version < \"3.4\"",
+      "parse (>=1.13.1) ; python_version <= \"2.7\"",
+      "parse (>=1.18.0) ; python_version >= \"3.0\"",
+      "build (>=0.5.1) ; extra == 'develop'",
+      "twine (>=1.13.0) ; extra == 'develop'",
+      "coverage (>=4.4) ; extra == 'develop'",
+      "pytest-html (>=1.19.0) ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "tox (<4.0,>=2.8) ; extra == 'develop'",
+      "pylint ; extra == 'develop'",
+      "pytest (<5.0) ; (python_version < \"3.0\") and extra == 'develop'",
+      "virtualenv (<20.22.0) ; (python_version <= \"3.6\") and extra == 'develop'",
+      "virtualenv (>=20.0.0) ; (python_version > \"3.6\") and extra == 'develop'",
+      "pytest (>=5.0) ; (python_version >= \"3.0\") and extra == 'develop'",
+      "ruff ; (python_version >= \"3.7\") and extra == 'develop'",
+      "Sphinx (>=1.6) ; extra == 'docs'",
+      "sphinx-bootstrap-theme (>=0.6.0) ; extra == 'docs'",
+      "pytest-html (>=1.19.0) ; extra == 'testing'",
+      "pytest (<5.0) ; (python_version < \"3.0\") and extra == 'testing'",
+      "pytest (>=5.0) ; (python_version >= \"3.0\") and extra == 'testing'"
+    ]
+  },
+  "parse_type-0.6.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "696502e748843a1a26bd47367ad248f790b825d6b2ea8b8208ef7cd37d6f3ddd",
+    "dependencies": {
+      "required": [
+        "six",
+        "enum34",
+        "parse",
+        "parse"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.15)",
+      "enum34 ; python_version < \"3.4\"",
+      "parse (>=1.13.1) ; python_version <= \"2.7\"",
+      "parse (>=1.18.0) ; python_version >= \"3.0\"",
+      "build (>=0.5.1) ; extra == 'develop'",
+      "twine (>=1.13.0) ; extra == 'develop'",
+      "coverage (>=4.4) ; extra == 'develop'",
+      "pytest-html (>=1.19.0) ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "tox (<4.0,>=2.8) ; extra == 'develop'",
+      "pylint ; extra == 'develop'",
+      "pytest (<5.0) ; (python_version < \"3.0\") and extra == 'develop'",
+      "virtualenv (<20.22.0) ; (python_version <= \"3.6\") and extra == 'develop'",
+      "virtualenv (>=20.0.0) ; (python_version > \"3.6\") and extra == 'develop'",
+      "pytest (>=5.0) ; (python_version >= \"3.0\") and extra == 'develop'",
+      "ruff ; (python_version >= \"3.7\") and extra == 'develop'",
+      "Sphinx (>=1.6) ; extra == 'docs'",
+      "sphinx-bootstrap-theme (>=0.6.0) ; extra == 'docs'",
+      "pytest-html (>=1.19.0) ; extra == 'testing'",
+      "pytest (<5.0) ; (python_version < \"3.0\") and extra == 'testing'",
+      "pytest (>=5.0) ; (python_version >= \"3.0\") and extra == 'testing'"
+    ]
+  }
+}

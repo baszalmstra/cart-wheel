@@ -1,0 +1,11 @@
+# Package configuration for zope.deprecation
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zope_deprecation-6.0-py3-none-any.whl" },
+  { filename = "zope.deprecation-5.1-py3-none-any.whl" },
+  { filename = "zope.deprecation-5.0-py3-none-any.whl" },
+  { filename = "zope.deprecation-4.4.0-py2.py3-none-any.whl" },
+  { filename = "zope.deprecation-4.3.0-py2.py3-none-any.whl" },
+]

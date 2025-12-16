@@ -1,0 +1,12 @@
+# Package configuration for falcon
+conda_forge = "falcon"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "falcon-4.2.0-py3-none-any.whl" },
+  { filename = "falcon-4.1.0-py3-none-any.whl" },
+  { filename = "falcon-4.0.2-py3-none-any.whl" },
+  { filename = "falcon-4.0.1-py3-none-any.whl" },
+  { filename = "falcon-4.0.0-py3-none-any.whl" },
+]

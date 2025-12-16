@@ -1,0 +1,80 @@
+{
+  "apache_airflow_providers_microsoft_winrm-3.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf5cdd6bd3ef0768996f32124acd0ca48233d409e888b7d9ea9019d110074917",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pywinrm"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "pywinrm>=0.5.0"
+    ]
+  },
+  "apache_airflow_providers_microsoft_winrm-3.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ef7edbd55044ae5a34540b5a24fe7957a53cb6217bfbd8d36707e81b036af8a",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pywinrm"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pywinrm>=0.5.0"
+    ]
+  },
+  "apache_airflow_providers_microsoft_winrm-3.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "827b2f1c66aabf6558f4efac426040c1c72c3426a6e1c72ef9da7b6c3f2d911c",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pywinrm"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pywinrm>=0.5.0"
+    ]
+  },
+  "apache_airflow_providers_microsoft_winrm-3.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "efd223a7f69bb436bc79852d122ad0ec3d74a00b9b062a56cb42cc8e24175172",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pywinrm"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pywinrm>=0.5.0"
+    ]
+  },
+  "apache_airflow_providers_microsoft_winrm-3.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b0304e145e09b6cc61da1de66b42ad250149e7c2739e7fd5565b14d4422f2d5",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "pywinrm"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "pywinrm>=0.5.0"
+    ]
+  }
+}

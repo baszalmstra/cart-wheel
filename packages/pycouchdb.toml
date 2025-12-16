@@ -1,0 +1,9 @@
+# Package configuration for pycouchdb
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pycouchdb-1.16.0-py3-none-any.whl" },
+  { filename = "pycouchdb-1.14.2-py2.py3-none-any.whl" },
+  { filename = "pycouchdb-1.14.1-py2.py3-none-any.whl" },
+]

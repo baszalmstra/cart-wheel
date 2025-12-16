@@ -1,0 +1,174 @@
+{
+  "geopandas-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "589e61aaf39b19828843df16cb90234e72897e2579be236f10eee0d052ad98e8",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pyogrio",
+        "packaging",
+        "pandas",
+        "pyproj",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24",
+      "pyogrio>=0.7.2",
+      "packaging",
+      "pandas>=2.0.0",
+      "pyproj>=3.5.0",
+      "shapely>=2.0.0",
+      "psycopg[binary]>=3.1.0; extra == \"all\"",
+      "SQLAlchemy>=2.0; extra == \"all\"",
+      "geopy; extra == \"all\"",
+      "matplotlib>=3.7; extra == \"all\"",
+      "mapclassify>=2.5; extra == \"all\"",
+      "xyzservices; extra == \"all\"",
+      "folium; extra == \"all\"",
+      "GeoAlchemy2; extra == \"all\"",
+      "pyarrow>=10.0.0; extra == \"all\"",
+      "scipy; extra == \"all\"",
+      "pytest>=3.1.0; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "codecov; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "ruff; extra == \"dev\""
+    ]
+  },
+  "geopandas-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b19b18bdc736ee05b237f5e9184211c452768a4c883f7d7f8421b0cbe1da5875",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pyogrio",
+        "packaging",
+        "pandas",
+        "pyproj",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24",
+      "pyogrio>=0.7.2",
+      "packaging",
+      "pandas>=2.0.0",
+      "pyproj>=3.5.0",
+      "shapely>=2.0.0",
+      "psycopg[binary]>=3.1.0; extra == \"all\"",
+      "SQLAlchemy>=2.0; extra == \"all\"",
+      "geopy; extra == \"all\"",
+      "matplotlib>=3.7; extra == \"all\"",
+      "mapclassify>=2.5; extra == \"all\"",
+      "xyzservices; extra == \"all\"",
+      "folium; extra == \"all\"",
+      "GeoAlchemy2; extra == \"all\"",
+      "pyarrow>=10.0.0; extra == \"all\"",
+      "scipy; extra == \"all\"",
+      "pytest>=3.1.0; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "codecov; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "ruff; extra == \"dev\""
+    ]
+  },
+  "geopandas-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01e147d9420cc374d26f51fc23716ac307f32b49406e4bd8462c07e82ed1d3d6",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pyogrio",
+        "packaging",
+        "pandas",
+        "pyproj",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.22",
+      "pyogrio >=0.7.2",
+      "packaging",
+      "pandas >=1.4.0",
+      "pyproj >=3.3.0",
+      "shapely >=2.0.0",
+      "psycopg-binary >=3.1.0 ; extra == 'all'",
+      "SQLAlchemy >=1.3 ; extra == 'all'",
+      "geopy ; extra == 'all'",
+      "matplotlib >=3.5.0 ; extra == 'all'",
+      "mapclassify ; extra == 'all'",
+      "xyzservices ; extra == 'all'",
+      "folium ; extra == 'all'",
+      "GeoAlchemy2 ; extra == 'all'",
+      "pyarrow >=8.0.0 ; extra == 'all'",
+      "pytest >=3.1.0 ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "codecov ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'"
+    ]
+  },
+  "geopandas-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cdd3ddf3c9f978997c7f08d0c544b6f887c94af4bc2e01e3df3ae69a43510df3",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pyogrio",
+        "packaging",
+        "pandas",
+        "pyproj",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.22",
+      "pyogrio >=0.7.2",
+      "packaging",
+      "pandas >=1.4.0",
+      "pyproj >=3.3.0",
+      "shapely >=2.0.0",
+      "psycopg-binary >=3.1.0 ; extra == 'all'",
+      "SQLAlchemy >=1.3 ; extra == 'all'",
+      "geopy ; extra == 'all'",
+      "matplotlib >=3.5.0 ; extra == 'all'",
+      "mapclassify ; extra == 'all'",
+      "xyzservices ; extra == 'all'",
+      "folium ; extra == 'all'",
+      "GeoAlchemy2 ; extra == 'all'",
+      "pyarrow >=8.0.0 ; extra == 'all'",
+      "pytest >=3.1.0 ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "codecov ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'"
+    ]
+  },
+  "geopandas-0.14.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3bb6473cb59d51e1a7fe2dbc24a1a063fb0ebdeddf3ce08ddbf8c7ddc99689aa",
+    "dependencies": {
+      "required": [
+        "fiona",
+        "numpy",
+        "packaging",
+        "pandas",
+        "pyproj",
+        "shapely"
+      ]
+    },
+    "original_requirements": [
+      "fiona >=1.8.21",
+      "numpy >=1.22",
+      "packaging",
+      "pandas >=1.4.0",
+      "pyproj >=3.3.0",
+      "shapely >=1.8.0"
+    ]
+  }
+}

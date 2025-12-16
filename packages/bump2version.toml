@@ -1,0 +1,12 @@
+# Package configuration for bump2version
+conda_forge = "bump2version"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bump2version-1.0.1-py2.py3-none-any.whl" },
+  { filename = "bump2version-1.0.0-py2.py3-none-any.whl" },
+  { filename = "bump2version-0.5.11-py2.py3-none-any.whl" },
+  { filename = "bump2version-0.5.10-py2.py3-none-any.whl" },
+  { filename = "bump2version-0.5.8-py2.py3-none-any.whl" },
+]

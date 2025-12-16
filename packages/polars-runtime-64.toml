@@ -1,0 +1,8 @@
+# Package configuration for polars-runtime-64
+conda_forge = "polars-runtime-64"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "polars_runtime_64-0.0.0-py3-none-any.whl" },
+]

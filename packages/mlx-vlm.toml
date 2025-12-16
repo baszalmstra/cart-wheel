@@ -1,0 +1,12 @@
+# Package configuration for mlx-vlm
+conda_forge = "mlx-vlm"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mlx_vlm-0.3.9-py3-none-any.whl" },
+  { filename = "mlx_vlm-0.3.8-py3-none-any.whl" },
+  { filename = "mlx_vlm-0.3.7-py3-none-any.whl" },
+  { filename = "mlx_vlm-0.3.6-py3-none-any.whl" },
+  { filename = "mlx_vlm-0.3.5-py3-none-any.whl" },
+]

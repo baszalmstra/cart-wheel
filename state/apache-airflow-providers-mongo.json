@@ -1,0 +1,86 @@
+{
+  "apache_airflow_providers_mongo-5.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d61ca694a0d09cb5612cd09dd7a5f6d31a9a8cecd21d2156220b625480f779b2",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "dnspython",
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "dnspython>=1.13.0",
+      "pymongo>=4.13.2"
+    ]
+  },
+  "apache_airflow_providers_mongo-5.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "899a1c573ef4b4435b45918bce257d624842d42c117601711d988b82dbfd5901",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "dnspython",
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "dnspython>=1.13.0",
+      "pymongo>=4.13.2"
+    ]
+  },
+  "apache_airflow_providers_mongo-5.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd239c5a041f7c75d96529805937b0c357739dcaa4f577bc9216fb84fe3f7746",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "dnspython",
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "dnspython>=1.13.0",
+      "pymongo>=4.13.2"
+    ]
+  },
+  "apache_airflow_providers_mongo-5.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b4955b0fc4196dd803a143344639340f28cd4cd4ca2a7b3471b6ede5385ef77",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "dnspython",
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "dnspython>=1.13.0",
+      "pymongo>=4.0.0,<4.11.0"
+    ]
+  },
+  "apache_airflow_providers_mongo-5.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3918919d51fef44940f22bca4e9ec1167f344f19fa12d3fedfcb4946a8fcf51",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "dnspython",
+        "pymongo"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "dnspython>=1.13.0",
+      "pymongo>=4.0.0,<4.11.0"
+    ]
+  }
+}

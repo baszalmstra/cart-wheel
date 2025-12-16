@@ -1,0 +1,120 @@
+{
+  "apache_airflow_providers_alibaba-3.3.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:02.984705+00:00",
+    "conda_file": "apache-airflow-providers-alibaba-3.3.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "oss2",
+        "alibabacloud-adb20211201",
+        "alibabacloud-tea-openapi",
+        "pyodps"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "oss2>=2.14.0",
+      "alibabacloud_adb20211201>=1.0.0",
+      "alibabacloud_tea_openapi>=0.3.7",
+      "pyodps>=0.12.2.2"
+    ]
+  },
+  "apache_airflow_providers_alibaba-3.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:03.043219+00:00",
+    "conda_file": "apache-airflow-providers-alibaba-3.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "oss2",
+        "alibabacloud-adb20211201",
+        "alibabacloud-tea-openapi",
+        "pyodps"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "oss2>=2.14.0",
+      "alibabacloud_adb20211201>=1.0.0",
+      "alibabacloud_tea_openapi>=0.3.7",
+      "pyodps>=0.12.2.2"
+    ]
+  },
+  "apache_airflow_providers_alibaba-3.2.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:03.175469+00:00",
+    "conda_file": "apache-airflow-providers-alibaba-3.2.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "oss2",
+        "alibabacloud-adb20211201",
+        "alibabacloud-tea-openapi",
+        "pyodps"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "oss2>=2.14.0",
+      "alibabacloud_adb20211201>=1.0.0",
+      "alibabacloud_tea_openapi>=0.3.7",
+      "pyodps>=0.12.2.2"
+    ]
+  },
+  "apache_airflow_providers_alibaba-3.2.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:03.298678+00:00",
+    "conda_file": "apache-airflow-providers-alibaba-3.2.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "oss2",
+        "alibabacloud-adb20211201",
+        "alibabacloud-tea-openapi",
+        "pyodps"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "oss2>=2.14.0",
+      "alibabacloud_adb20211201>=1.0.0",
+      "alibabacloud_tea_openapi>=0.3.7",
+      "pyodps>=0.12.2.2"
+    ]
+  },
+  "apache_airflow_providers_alibaba-3.2.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:03.349507+00:00",
+    "conda_file": "apache-airflow-providers-alibaba-3.2.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "oss2",
+        "alibabacloud-adb20211201",
+        "alibabacloud-tea-openapi",
+        "pyodps"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "oss2>=2.14.0",
+      "alibabacloud_adb20211201>=1.0.0",
+      "alibabacloud_tea_openapi>=0.3.7",
+      "pyodps>=0.12.2.2"
+    ]
+  }
+}

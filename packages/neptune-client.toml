@@ -1,0 +1,12 @@
+# Package configuration for neptune-client
+conda_forge = "neptune-client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neptune_client-1.14.0-py3-none-any.whl" },
+  { filename = "neptune_client-1.13.0-py3-none-any.whl" },
+  { filename = "neptune_client-1.12.0-py3-none-any.whl" },
+  { filename = "neptune_client-1.11.1-py3-none-any.whl" },
+  { filename = "neptune_client-1.11.0-py3-none-any.whl" },
+]

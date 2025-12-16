@@ -1,0 +1,27 @@
+{
+  "dash_cytoscape-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6e240679e0e3ad20f5ba609b0dadfda2d57b3b1cf8976c7dca9173c4120c748",
+    "dependencies": {
+      "required": [
+        "dash"
+      ]
+    },
+    "original_requirements": [
+      "dash",
+      "dash-leaflet (>=1.0.10) ; extra == 'leaflet'"
+    ]
+  },
+  "dash_cytoscape-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "718dc1568b9e7bfe7f64376aa903c64a1a1fe6daed4e559b254456f18dd3135f",
+    "dependencies": {
+      "required": [
+        "dash"
+      ]
+    },
+    "original_requirements": [
+      "dash"
+    ]
+  }
+}

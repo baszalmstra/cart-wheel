@@ -1,0 +1,11 @@
+# Package configuration for mmtrack
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mmtrack-0.14.0-py3-none-any.whl" },
+  { filename = "mmtrack-0.13.0-py3-none-any.whl" },
+  { filename = "mmtrack-0.12.0-py3-none-any.whl" },
+  { filename = "mmtrack-0.11.0-py3-none-any.whl" },
+  { filename = "mmtrack-0.10.0-py3-none-any.whl" },
+]

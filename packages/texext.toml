@@ -1,0 +1,8 @@
+# Package configuration for texext
+conda_forge = "texext"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "texext-0.6.7-py3-none-any.whl" },
+]

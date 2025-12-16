@@ -1,0 +1,12 @@
+# Package configuration for multivolumefile
+conda_forge = "multivolumefile"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "multivolumefile-0.2.3-py3-none-any.whl" },
+  { filename = "multivolumefile-0.2.2-py3-none-any.whl" },
+  { filename = "multivolumefile-0.2.1-py3-none-any.whl" },
+  { filename = "multivolumefile-0.2.0-py3-none-any.whl" },
+  { filename = "multivolumefile-0.1.4-py3-none-any.whl" },
+]

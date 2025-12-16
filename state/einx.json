@@ -1,0 +1,74 @@
+{
+  "einx-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "367d62bab8dbb8c4937308512abb6f746cc0920990589892ba0d281356d39345",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "sympy",
+        "frozendict"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "sympy",
+      "frozendict",
+      "keras >=3 ; extra == 'keras'",
+      "torch >=2 ; extra == 'torch'"
+    ]
+  },
+  "einx-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bde86f19a60bc8ce3c3aa173c0f1ba59df8d8c0435c4b61638499c3d187dd28b",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "sympy",
+        "frozendict"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "sympy",
+      "frozendict",
+      "keras >=3 ; extra == 'keras'",
+      "torch >=2 ; extra == 'torch'"
+    ]
+  },
+  "einx-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df66c68ab4eaf593b70252eaca34a48a44d711ce7733b4a779ce783387d062dc",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "sympy",
+        "frozendict"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "sympy",
+      "frozendict",
+      "keras >=3 ; extra == 'keras'",
+      "torch >=2 ; extra == 'torch'"
+    ]
+  },
+  "einx-0.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b614e6749dfd8dc24eb35c555b4bd7bd7cdf09b2e740943d115fb6cc9d21bded",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "sympy",
+        "frozendict"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "sympy",
+      "frozendict",
+      "keras >=3 ; extra == 'keras'",
+      "torch >=2 ; extra == 'torch'"
+    ]
+  }
+}

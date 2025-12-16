@@ -1,0 +1,77 @@
+{
+  "smpplib-2.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0fab94702f0a70500d654e8df69933465728770e75838ecceef0314b4442d0c2",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "typing; python_version < \"3.5\" and extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "mock; extra == \"tests\""
+    ]
+  },
+  "smpplib-2.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62abc429602bd3f4e351ee786eed514f9d12fffc05d1b8d2dc715d96a733820a",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pytest ; extra == 'tests'",
+      "mock ; extra == 'tests'",
+      "typing ; (python_version < \"3.5\") and extra == 'tests'"
+    ]
+  },
+  "smpplib-2.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "879144778448deee37cb8ec9a18cc39fb7364ddb45b0d6c367134319ffac5e3f",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pytest ; extra == 'tests'",
+      "mock ; extra == 'tests'",
+      "typing ; (python_version < \"3.5\") and extra == 'tests'"
+    ]
+  },
+  "smpplib-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff7591d957344be05d5664dff20816f5b132cc7f4937515ada6645aef1b0a9c5",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pytest ; extra == 'tests'",
+      "mock ; extra == 'tests'",
+      "typing ; (python_version < \"3.5\") and extra == 'tests'"
+    ]
+  },
+  "smpplib-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac28739dfe6cc003be142ac1a7ecc9a4715d82b393b7e1eacb221298cb3c4325",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pytest ; extra == 'tests'",
+      "mock ; extra == 'tests'",
+      "typing ; (python_version < \"3.5\") and extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for polib
+conda_forge = "polib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "polib-1.2.0-py2.py3-none-any.whl" },
+  { filename = "polib-1.1.1-py2.py3-none-any.whl" },
+  { filename = "polib-1.1.0-py2.py3-none-any.whl" },
+  { filename = "polib-1.0.8-py2.py3-none-any.whl" },
+  { filename = "polib-1.0.7-py2.py3-none-any.whl" },
+]

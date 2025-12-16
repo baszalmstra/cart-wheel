@@ -1,0 +1,11 @@
+# Package configuration for rich-codex
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rich_codex-1.2.11-py3-none-any.whl" },
+  { filename = "rich_codex-1.2.10-py3-none-any.whl" },
+  { filename = "rich_codex-1.2.9-py3-none-any.whl" },
+  { filename = "rich_codex-1.2.7-py3-none-any.whl" },
+  { filename = "rich_codex-1.2.6-py3-none-any.whl" },
+]

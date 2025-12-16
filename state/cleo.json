@@ -1,0 +1,68 @@
+{
+  "cleo-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a31bd4dd45695a64ee3c4758f583f134267c2bc518d8ae9a29cf237d009b07e",
+    "dependencies": {
+      "required": [
+        "crashtest",
+        "rapidfuzz"
+      ]
+    },
+    "original_requirements": [
+      "crashtest (>=0.4.1,<0.5.0)",
+      "rapidfuzz (>=3.0.0,<4.0.0)"
+    ]
+  },
+  "cleo-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6eb133670a3ed1f3b052d53789017b6e50fca66d1287e6e6696285f4cb8ea448",
+    "dependencies": {
+      "required": [
+        "crashtest",
+        "rapidfuzz"
+      ]
+    },
+    "original_requirements": [
+      "crashtest (>=0.4.1,<0.5.0)",
+      "rapidfuzz (>=2.2.0,<3.0.0)"
+    ]
+  },
+  "cleo-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "daad7ff76134ebe2c7bf74520b1bbd59e6e77026535b967efc5a15a0eaa2e19c",
+    "dependencies": {
+      "required": [
+        "crashtest",
+        "rapidfuzz"
+      ]
+    },
+    "original_requirements": [
+      "crashtest (>=0.4.1,<0.5.0)",
+      "rapidfuzz (>=2.2.0,<3.0.0)"
+    ]
+  },
+  "cleo-0.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "141cda6dc94a92343be626bb87a0b6c86ae291dfc732a57bf04310d4b4201753",
+    "dependencies": {
+      "required": [
+        "clikit"
+      ]
+    },
+    "original_requirements": [
+      "clikit (>=0.6.0,<0.7.0)"
+    ]
+  },
+  "cleo-0.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcb791b246c02d59ea8eaf05a05d986e547dbe8ba2496ed59048e5d4ab93b537",
+    "dependencies": {
+      "required": [
+        "clikit"
+      ]
+    },
+    "original_requirements": [
+      "clikit (>=0.5.0,<0.6.0)"
+    ]
+  }
+}

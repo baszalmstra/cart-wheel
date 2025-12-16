@@ -1,0 +1,67 @@
+{
+  "proto_plus-1.26.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13285478c2dcf2abb829db158e1047e2f1e8d63a077d94263c2b88b043c75a66",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf<7.0.0,>=3.19.0",
+      "google-api-core>=1.31.5; extra == \"testing\""
+    ]
+  },
+  "proto_plus-1.26.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf2dfaa3da281fc3187d12d224c707cb57214fb2c22ba854eb0c105a3fb2d4d7",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf<6.0.0dev,>=3.19.0",
+      "google-api-core>=1.31.5; extra == \"testing\""
+    ]
+  },
+  "proto_plus-1.25.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c91fc4a65074ade8e458e95ef8bac34d4008daa7cce4a12d6707066fca648961",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf<6.0.0dev,>=3.19.0",
+      "google-api-core>=1.31.5; extra == \"testing\""
+    ]
+  },
+  "proto_plus-1.24.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "402576830425e5f6ce4c2a6702400ac79897dab0b4343821aa5188b0fab81a12",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf <6.0.0dev,>=3.19.0",
+      "google-api-core >=1.31.5 ; extra == 'testing'"
+    ]
+  },
+  "proto_plus-1.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a829c79e619e1cf632de091013a4173deed13a55f326ef84f05af6f50ff4c82c",
+    "dependencies": {
+      "required": [
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "protobuf <5.0.0dev,>=3.19.0",
+      "google-api-core[grpc] >=1.31.5 ; extra == 'testing'"
+    ]
+  }
+}

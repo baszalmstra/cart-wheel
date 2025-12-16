@@ -1,0 +1,94 @@
+{
+  "abydos-0.5.0-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:55.038848+00:00",
+    "conda_file": "abydos-0.5.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "deprecation"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "deprecation"
+    ]
+  },
+  "abydos-0.4.1-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:56.172850+00:00",
+    "conda_file": "abydos-0.4.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "six",
+        "deprecation",
+        "pyliblzma"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "six",
+      "deprecation",
+      "pyliblzma (<0.6.0,>=0.5.3) ; python_version >= \"2.7\" and python_version < \"2.8\""
+    ]
+  },
+  "abydos-0.4.0-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:57.191734+00:00",
+    "conda_file": "abydos-0.4.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "six",
+        "deprecation",
+        "pyliblzma"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "six",
+      "deprecation",
+      "pyliblzma (<0.6.0,>=0.5.3) ; python_version >= \"2.7\" and python_version < \"2.8\""
+    ]
+  },
+  "abydos-0.3.6-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:57.801517+00:00",
+    "conda_file": "abydos-0.3.6-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "six",
+        "pyliblzma"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "six",
+      "pyliblzma (<0.6.0,>=0.5.3); python_version >= \"2.7\" and python_version < \"2.8\""
+    ]
+  },
+  "abydos-0.3.5-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:58.234525+00:00",
+    "conda_file": "abydos-0.3.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "six",
+        "pyliblzma"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "six",
+      "pyliblzma (<0.6.0,>=0.5.3); python_version >= \"2.7\" and python_version < \"2.8\""
+    ]
+  }
+}

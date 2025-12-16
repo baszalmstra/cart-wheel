@@ -1,0 +1,110 @@
+{
+  "textual_dev-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "227b6d24a485fbbc77e302aa21f4fdf3083beb57eb45cd95bae082c81cbeddeb",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "click",
+        "msgpack",
+        "textual",
+        "textual-serve",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8.1)",
+      "click (>=8.1.2)",
+      "msgpack (>=1.0.3)",
+      "textual (>=0.86.2)",
+      "textual_serve (>=1.0.3)",
+      "typing-extensions (>=4.4.0,<5.0.0)"
+    ]
+  },
+  "textual_dev-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a93a846aeb6a06edb7808504d9c301565f7f4bf2e7046d56583ed755af356c8d",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "click",
+        "msgpack",
+        "textual",
+        "textual-serve",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8.1)",
+      "click (>=8.1.2)",
+      "msgpack (>=1.0.3)",
+      "textual (>=0.86.2)",
+      "textual_serve (>=1.0.3)",
+      "typing-extensions (>=4.4.0,<5.0.0)"
+    ]
+  },
+  "textual_dev-1.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de93279da6dd0772be88a83e494be1bc895df0a0c3e47bcd48fa1acb1a83a34b",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "click",
+        "msgpack",
+        "textual",
+        "textual-serve",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8.1)",
+      "click (>=8.1.2)",
+      "msgpack (>=1.0.3)",
+      "textual (>=0.36.0)",
+      "textual_serve (>=1.0.3)",
+      "typing-extensions (>=4.4.0,<5.0.0)"
+    ]
+  },
+  "textual_dev-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6897649eb5b217f732649be7839c2b2d81811695ad6ad13c589e91af9c7bdd1b",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "click",
+        "msgpack",
+        "textual",
+        "textual-serve",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8.1)",
+      "click (>=8.1.2)",
+      "msgpack (>=1.0.3)",
+      "textual (>=0.36.0)",
+      "textual_serve (>=1.0.3)",
+      "typing-extensions (>=4.4.0,<5.0.0)"
+    ]
+  },
+  "textual_dev-1.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb37dd769ae6b67e1422aa97f6d6ef952e0a6d2aafe08327449e8bdd70474776",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "click",
+        "msgpack",
+        "textual",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8.1)",
+      "click (>=8.1.2)",
+      "msgpack (>=1.0.3)",
+      "textual (>=0.36.0)",
+      "typing-extensions (>=4.4.0,<5.0.0)"
+    ]
+  }
+}

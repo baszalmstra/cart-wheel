@@ -1,0 +1,82 @@
+{
+  "text_generation-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "02ab337a0ee0e7c70e04a607b311c261caae74bde46a7d837c6fdd150108f4d8",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "huggingface-hub",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8,<4.0)",
+      "huggingface-hub (>=0.12,<1.0)",
+      "pydantic (>2,<3)"
+    ]
+  },
+  "text_generation-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ebca00587eeabc0f5118f66ee1048bf690bd7735a9a10361c533c31c8c0bf994",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "huggingface-hub",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8,<4.0)",
+      "huggingface-hub (>=0.12,<1.0)",
+      "pydantic (>1.10,<3)"
+    ]
+  },
+  "text_generation-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "42ae7f7c9ff11f3a6c9d210f94fe708fe693eede79c6776da727456da1606ef9",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "huggingface-hub",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8,<4.0)",
+      "huggingface-hub (>=0.12,<1.0)",
+      "pydantic (>=1.10,<2.0)"
+    ]
+  },
+  "text_generation-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "110dd5b05f8ec9cef00f3977001f1ce0464b133b14d4939b15260b0e863c942d",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "huggingface-hub",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8,<4.0)",
+      "huggingface-hub (>=0.12,<1.0)",
+      "pydantic (>=1.10,<2.0)"
+    ]
+  },
+  "text_generation-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b30537a40c5fe084e66372c3eb71a5de97d03f2b382ffe2cf0665c3996ab23c",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "huggingface-hub",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.8,<4.0)",
+      "huggingface-hub (>=0.12,<1.0)",
+      "pydantic (>=1.10,<2.0)"
+    ]
+  }
+}

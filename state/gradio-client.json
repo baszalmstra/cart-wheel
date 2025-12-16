@@ -1,0 +1,108 @@
+{
+  "gradio_client-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6322eecb5963a07703306c0b048bb98518063d05ca99a65fe384417188af8c63",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "httpx",
+        "huggingface-hub",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "fsspec",
+      "httpx>=0.24.1",
+      "huggingface-hub<2.0,>=0.19.3",
+      "packaging",
+      "typing-extensions~=4.0"
+    ]
+  },
+  "gradio_client-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77bedf20edcc232d8e7986c1a22165b2bbca1c7c7df10ba808a093d5180dae18",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "httpx",
+        "huggingface-hub",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "fsspec",
+      "httpx>=0.24.1",
+      "huggingface-hub<2.0,>=0.19.3",
+      "packaging",
+      "typing-extensions~=4.0"
+    ]
+  },
+  "gradio_client-1.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a2f5151978411e0f8b55a2d38cddd0a94491851149d14db4af96f5a09774825",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "httpx",
+        "huggingface-hub",
+        "packaging",
+        "typing-extensions",
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "fsspec",
+      "httpx>=0.24.1",
+      "huggingface-hub<2.0,>=0.19.3",
+      "packaging",
+      "typing-extensions~=4.0",
+      "websockets<16.0,>=13.0"
+    ]
+  },
+  "gradio_client-1.13.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f63e4d33a2899c1a12b10fe3cf77b82a6919ff1a1fb6391f6aa225811aa390c",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "httpx",
+        "huggingface-hub",
+        "packaging",
+        "typing-extensions",
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "fsspec",
+      "httpx>=0.24.1",
+      "huggingface-hub<2.0,>=0.19.3",
+      "packaging",
+      "typing-extensions~=4.0",
+      "websockets<16.0,>=13.0"
+    ]
+  },
+  "gradio_client-1.13.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4fe7dfef16849304dbe007aeaca694b36f16159eb6891fea139c99fce9a911f4",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "httpx",
+        "huggingface-hub",
+        "packaging",
+        "typing-extensions",
+        "websockets"
+      ]
+    },
+    "original_requirements": [
+      "fsspec",
+      "httpx>=0.24.1",
+      "huggingface-hub>=0.19.3",
+      "packaging",
+      "typing-extensions~=4.0",
+      "websockets<16.0,>=13.0"
+    ]
+  }
+}

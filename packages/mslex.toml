@@ -1,0 +1,12 @@
+# Package configuration for mslex
+conda_forge = "mslex"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mslex-1.3.0-py3-none-any.whl" },
+  { filename = "mslex-1.2.0-py3-none-any.whl" },
+  { filename = "mslex-1.1.0-py2.py3-none-any.whl" },
+  { filename = "mslex-1.0.1-py2.py3-none-any.whl" },
+  { filename = "mslex-1.0.0-py2.py3-none-any.whl" },
+]

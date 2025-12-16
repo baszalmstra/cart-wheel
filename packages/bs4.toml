@@ -1,0 +1,7 @@
+# Package configuration for bs4
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bs4-0.0.2-py2.py3-none-any.whl" },
+]

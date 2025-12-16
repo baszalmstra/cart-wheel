@@ -1,0 +1,117 @@
+{
+  "pydantic_settings-2.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fddb9fd99a5b18da837b29710391e945b1e30c135477f484084ee513adb93809",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "python-dotenv",
+        "typing-inspection"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=2.7.0",
+      "python-dotenv>=0.21.0",
+      "typing-inspection>=0.4.0",
+      "boto3-stubs[secretsmanager]; extra == 'aws-secrets-manager'",
+      "boto3>=1.35.0; extra == 'aws-secrets-manager'",
+      "azure-identity>=1.16.0; extra == 'azure-key-vault'",
+      "azure-keyvault-secrets>=4.8.0; extra == 'azure-key-vault'",
+      "google-cloud-secret-manager>=2.23.1; extra == 'gcp-secret-manager'",
+      "tomli>=2.0.1; extra == 'toml'",
+      "pyyaml>=6.0.1; extra == 'yaml'"
+    ]
+  },
+  "pydantic_settings-2.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe2cea3413b9530d10f3a5875adffb17ada5c1e1bab0b2885546d7310415207c",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "python-dotenv",
+        "typing-inspection"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=2.7.0",
+      "python-dotenv>=0.21.0",
+      "typing-inspection>=0.4.0",
+      "boto3-stubs[secretsmanager]; extra == 'aws-secrets-manager'",
+      "boto3>=1.35.0; extra == 'aws-secrets-manager'",
+      "azure-identity>=1.16.0; extra == 'azure-key-vault'",
+      "azure-keyvault-secrets>=4.8.0; extra == 'azure-key-vault'",
+      "google-cloud-secret-manager>=2.23.1; extra == 'gcp-secret-manager'",
+      "tomli>=2.0.1; extra == 'toml'",
+      "pyyaml>=6.0.1; extra == 'yaml'"
+    ]
+  },
+  "pydantic_settings-2.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a60952460b99cf661dc25c29c0ef171721f98bfcb52ef8d9ea4c943d7c8cc796",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "python-dotenv",
+        "typing-inspection"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=2.7.0",
+      "python-dotenv>=0.21.0",
+      "typing-inspection>=0.4.0",
+      "boto3-stubs[secretsmanager]; extra == 'aws-secrets-manager'",
+      "boto3>=1.35.0; extra == 'aws-secrets-manager'",
+      "azure-identity>=1.16.0; extra == 'azure-key-vault'",
+      "azure-keyvault-secrets>=4.8.0; extra == 'azure-key-vault'",
+      "google-cloud-secret-manager>=2.23.1; extra == 'gcp-secret-manager'",
+      "tomli>=2.0.1; extra == 'toml'",
+      "pyyaml>=6.0.1; extra == 'yaml'"
+    ]
+  },
+  "pydantic_settings-2.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "33781dfa1c7405d5ed2b6f150830a93bb58462a847357bd8f162f8bacb77c027",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "python-dotenv",
+        "typing-inspection"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=2.7.0",
+      "python-dotenv>=0.21.0",
+      "typing-inspection>=0.4.0",
+      "boto3-stubs[secretsmanager]; extra == 'aws-secrets-manager'",
+      "boto3>=1.35.0; extra == 'aws-secrets-manager'",
+      "azure-identity>=1.16.0; extra == 'azure-key-vault'",
+      "azure-keyvault-secrets>=4.8.0; extra == 'azure-key-vault'",
+      "google-cloud-secret-manager>=2.23.1; extra == 'gcp-secret-manager'",
+      "tomli>=2.0.1; extra == 'toml'",
+      "pyyaml>=6.0.1; extra == 'yaml'"
+    ]
+  },
+  "pydantic_settings-2.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "59b4f431b1defb26fe620c71a7d3968a710d719f5f4cdbbdb7926edeb770f6ef",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "python-dotenv",
+        "typing-inspection"
+      ]
+    },
+    "original_requirements": [
+      "pydantic>=2.7.0",
+      "python-dotenv>=0.21.0",
+      "typing-inspection>=0.4.0",
+      "boto3-stubs[secretsmanager]; extra == 'aws-secrets-manager'",
+      "boto3>=1.35.0; extra == 'aws-secrets-manager'",
+      "azure-identity>=1.16.0; extra == 'azure-key-vault'",
+      "azure-keyvault-secrets>=4.8.0; extra == 'azure-key-vault'",
+      "google-cloud-secret-manager>=2.23.1; extra == 'gcp-secret-manager'",
+      "tomli>=2.0.1; extra == 'toml'",
+      "pyyaml>=6.0.1; extra == 'yaml'"
+    ]
+  }
+}

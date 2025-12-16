@@ -1,0 +1,12 @@
+# Package configuration for findspark
+conda_forge = "findspark"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "findspark-2.0.1-py2.py3-none-any.whl" },
+  { filename = "findspark-2.0.0-py2.py3-none-any.whl" },
+  { filename = "findspark-1.4.2-py2.py3-none-any.whl" },
+  { filename = "findspark-1.4.1-py2.py3-none-any.whl" },
+  { filename = "findspark-1.4.0-py2.py3-none-any.whl" },
+]

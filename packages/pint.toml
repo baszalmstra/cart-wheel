@@ -1,0 +1,12 @@
+# Package configuration for pint
+conda_forge = "pint"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pint-0.25.2-py3-none-any.whl" },
+  { filename = "pint-0.25.1-py3-none-any.whl" },
+  { filename = "pint-0.25-py3-none-any.whl" },
+  { filename = "Pint-0.24.4-py3-none-any.whl" },
+  { filename = "Pint-0.24.3-py3-none-any.whl" },
+]

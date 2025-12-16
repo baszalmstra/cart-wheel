@@ -1,0 +1,92 @@
+{
+  "flask_compress-1.23-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52108afb4d133a5aab9809e6ac3c085ed7b9c788c75c6846c129faa28468f08c",
+    "dependencies": {
+      "required": [
+        "flask",
+        "brotli",
+        "brotlicffi",
+        "backports.zstd"
+      ]
+    },
+    "original_requirements": [
+      "flask",
+      "brotli; platform_python_implementation != \"PyPy\"",
+      "brotlicffi; platform_python_implementation == \"PyPy\"",
+      "backports.zstd; python_version < \"3.14\""
+    ]
+  },
+  "flask_compress-1.22-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e5024c6f20a153a5c7920d49e9196b3161827da97470c566ba6ff837ec3bfdc8",
+    "dependencies": {
+      "required": [
+        "flask",
+        "brotli",
+        "brotlicffi",
+        "backports.zstd"
+      ]
+    },
+    "original_requirements": [
+      "flask",
+      "brotli; platform_python_implementation != \"PyPy\"",
+      "brotlicffi; platform_python_implementation == \"PyPy\"",
+      "backports.zstd; python_version < \"3.14\""
+    ]
+  },
+  "flask_compress-1.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3efde1c36b274bce583d1dc7df9b3c3763394d1efdca70deca262d810c4c03bd",
+    "dependencies": {
+      "required": [
+        "flask",
+        "brotli",
+        "brotlicffi",
+        "backports.zstd"
+      ]
+    },
+    "original_requirements": [
+      "flask",
+      "brotli; platform_python_implementation != \"PyPy\"",
+      "brotlicffi; platform_python_implementation == \"PyPy\"",
+      "backports.zstd; python_version < \"3.14\""
+    ]
+  },
+  "flask_compress-1.19-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ba8ad3c62e0a257536345994c7087e11223bd4f54590c529ee3b075718f414c0",
+    "dependencies": {
+      "required": [
+        "flask",
+        "brotli",
+        "brotlicffi",
+        "backports.zstd"
+      ]
+    },
+    "original_requirements": [
+      "flask",
+      "brotli; platform_python_implementation != \"PyPy\"",
+      "brotlicffi; platform_python_implementation == \"PyPy\"",
+      "backports.zstd; python_version < \"3.14\""
+    ]
+  },
+  "flask_compress-1.18-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c3b7defbd0f29a06e51617b910eab07bd4db314507e4edc4c6b02a2e139fda9",
+    "dependencies": {
+      "required": [
+        "flask",
+        "brotli",
+        "brotlicffi",
+        "pyzstd"
+      ]
+    },
+    "original_requirements": [
+      "flask",
+      "brotli; platform_python_implementation != \"PyPy\"",
+      "brotlicffi; platform_python_implementation == \"PyPy\"",
+      "pyzstd; python_version < \"3.14\""
+    ]
+  }
+}

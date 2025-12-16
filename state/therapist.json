@@ -1,0 +1,94 @@
+{
+  "therapist-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79fea4093e663f0df6332c473c405f63f8bf550deffcf8dad670555b8549114e",
+    "dependencies": {
+      "required": [
+        "click",
+        "colorama",
+        "pathspec",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "colorama",
+      "pathspec",
+      "PyYAML"
+    ]
+  },
+  "therapist-2.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "136537f0e7a9de4ebb3b14bd4251d24a1ed68bdab2069ab5ecb9e40773b4eab0",
+    "dependencies": {
+      "required": [
+        "click",
+        "colorama",
+        "pathspec",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "colorama",
+      "pathspec",
+      "PyYAML"
+    ]
+  },
+  "therapist-2.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e6bef92a032b91e011431c0d19b6cb2e92385af8c0ff6069fe511d262537103b",
+    "dependencies": {
+      "required": [
+        "click",
+        "colorama",
+        "pathspec",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "click (==8.0)",
+      "colorama (==0.4)",
+      "pathspec (==0.8)",
+      "PyYAML (==5.4)"
+    ]
+  },
+  "therapist-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9d647f2a469f4ca9c6bff9781a662ea994a63efc729d4362288b9e32e058ba4b",
+    "dependencies": {
+      "required": [
+        "click",
+        "colorama",
+        "pathspec",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "click (==7.1.2)",
+      "colorama (==0.4.3)",
+      "pathspec (==0.8.0)",
+      "PyYAML (==5.3.1)"
+    ]
+  },
+  "therapist-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55e2e23c5d9ec0cc47b75b0bf6ce92378fe9669bf8947e95052f72c9a9ad44b7",
+    "dependencies": {
+      "required": [
+        "click",
+        "colorama",
+        "pathspec",
+        "pyyaml",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "click (>=6.7)",
+      "colorama (>=0.3.7)",
+      "pathspec (>=0.5.0)",
+      "PyYAML (>=3.12)",
+      "six (>=1.10.0)"
+    ]
+  }
+}

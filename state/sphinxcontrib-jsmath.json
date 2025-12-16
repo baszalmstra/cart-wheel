@@ -1,0 +1,26 @@
+{
+  "sphinxcontrib_jsmath-1.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ec2eaebfb78f3f2078e73666b1415417a116cc848b72e5172e596c871103178",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "mypy ; extra == 'test'"
+    ]
+  },
+  "sphinxcontrib_jsmath-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9feca71a27075f17d604fa57b90306e08bf4739c7f6134d9787f920bcc18a542",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "mypy ; extra == 'test'"
+    ]
+  }
+}

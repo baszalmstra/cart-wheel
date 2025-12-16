@@ -1,0 +1,11 @@
+# Package configuration for scrapfly-sdk
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "scrapfly_sdk-0.8.23-py3-none-any.whl" },
+  { filename = "scrapfly_sdk-0.8.21-py3-none-any.whl" },
+  { filename = "scrapfly_sdk-0.8.20-py3-none-any.whl" },
+  { filename = "scrapfly_sdk-0.8.19-py3-none-any.whl" },
+  { filename = "scrapfly_sdk-0.8.18-py3-none-any.whl" },
+]

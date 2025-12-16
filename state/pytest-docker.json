@@ -1,0 +1,112 @@
+{
+  "pytest_docker-3.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79f3d209f928f45d4385cb825944861bc8a8cccd309804d9c9cd63bcef03edba",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "pytest<10.0,>=4.0",
+      "attrs>=19.2.0",
+      "docker-compose<2.0,>=1.27.3; extra == \"docker-compose-v1\"",
+      "requests<3.0,>=2.22.0; extra == \"tests\"",
+      "mypy<2.000,>=0.500; extra == \"tests\"",
+      "pytest-pylint<1.0,>=0.14.1; extra == \"tests\"",
+      "pytest-pycodestyle<3.0,>=2.0.0; extra == \"tests\"",
+      "pytest-mypy<1.0,>=0.10; extra == \"tests\"",
+      "types-requests<3.0,>=2.31; extra == \"tests\"",
+      "types-setuptools<70.0,>=69.0; extra == \"tests\""
+    ]
+  },
+  "pytest_docker-3.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "909094dc2e9764406f30764f89553f08a1c3ab4d00ff6116cc58f6adfa839360",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "pytest<10.0,>=4.0",
+      "attrs>=19.2.0",
+      "docker-compose<2.0,>=1.27.3; extra == \"docker-compose-v1\"",
+      "requests<3.0,>=2.22.0; extra == \"tests\"",
+      "mypy<2.000,>=0.500; extra == \"tests\"",
+      "pytest-pylint<1.0,>=0.14.1; extra == \"tests\"",
+      "pytest-pycodestyle<3.0,>=2.0.0; extra == \"tests\"",
+      "pytest-mypy<1.0,>=0.10; extra == \"tests\"",
+      "types-requests<3.0,>=2.31; extra == \"tests\"",
+      "types-setuptools<70.0,>=69.0; extra == \"tests\""
+    ]
+  },
+  "pytest_docker-3.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f973c35e6f2b674c8fc87e8b3354b02c15866a21994c0841a338c240a05de1eb",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "pytest<9.0,>=4.0",
+      "attrs>=19.2.0",
+      "docker-compose<2.0,>=1.27.3; extra == \"docker-compose-v1\"",
+      "requests<3.0,>=2.22.0; extra == \"tests\"",
+      "mypy<2.000,>=0.500; extra == \"tests\"",
+      "pytest-pylint<1.0,>=0.14.1; extra == \"tests\"",
+      "pytest-pycodestyle<3.0,>=2.0.0; extra == \"tests\"",
+      "pytest-mypy<1.0,>=0.10; extra == \"tests\"",
+      "types-requests<3.0,>=2.31; extra == \"tests\"",
+      "types-setuptools<70.0,>=69.0; extra == \"tests\""
+    ]
+  },
+  "pytest_docker-3.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2926033d48a10de611070fce17f6e67b9e81af2d8ccc59debbbf39872b8ebef9",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "pytest<9.0,>=4.0",
+      "attrs>=19.2.0",
+      "docker-compose<2.0,>=1.27.3; extra == \"docker-compose-v1\"",
+      "requests<3.0,>=2.22.0; extra == \"tests\"",
+      "mypy<2.000,>=0.500; extra == \"tests\"",
+      "pytest-pylint<1.0,>=0.14.1; extra == \"tests\"",
+      "pytest-pycodestyle<3.0,>=2.0.0; extra == \"tests\"",
+      "pytest-mypy<1.0,>=0.10; extra == \"tests\"",
+      "types-requests<3.0,>=2.31; extra == \"tests\"",
+      "types-setuptools<70.0,>=69.0; extra == \"tests\""
+    ]
+  },
+  "pytest_docker-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad1be411336959bee768b965c1c4949657e743eec9cf9e7a921fadf83ad97526",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "pytest<9.0,>=4.0",
+      "attrs>=19.2.0",
+      "docker-compose<2.0,>=1.27.3; extra == \"docker-compose-v1\"",
+      "requests<3.0,>=2.22.0; extra == \"tests\"",
+      "mypy<2.000,>=0.500; extra == \"tests\"",
+      "pytest-pylint<1.0,>=0.14.1; extra == \"tests\"",
+      "pytest-pycodestyle<3.0,>=2.0.0; extra == \"tests\"",
+      "pytest-mypy<1.0,>=0.10; extra == \"tests\"",
+      "types-requests<3.0,>=2.31; extra == \"tests\"",
+      "types-setuptools<70.0,>=69.0; extra == \"tests\""
+    ]
+  }
+}

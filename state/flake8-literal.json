@@ -1,0 +1,178 @@
+{
+  "flake8_literal-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "854bbbb0a55dd52b5476ba27b5b74041fba160dbc1f7c094649949021e54fa0d",
+    "dependencies": {
+      "required": [
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "flake8<8.0,>=3.8.0",
+      "mypy; extra == \"dev\"",
+      "flake8<6.0.0,>=3.8.0; extra == \"dev\"",
+      "flake8-annotations; extra == \"dev\"",
+      "flake8-bandit; extra == \"dev\"",
+      "flake8-bugbear; extra == \"dev\"",
+      "flake8-commas; extra == \"dev\"",
+      "flake8-comprehensions; extra == \"dev\"",
+      "flake8-continuation; extra == \"dev\"",
+      "flake8-datetimez; extra == \"dev\"",
+      "flake8-docstrings; extra == \"dev\"",
+      "flake8-import-order; extra == \"dev\"",
+      "flake8-literal; extra == \"dev\"",
+      "flake8-noqa; extra == \"dev\"",
+      "flake8-polyfill; extra == \"dev\"",
+      "flake8-pyproject; extra == \"dev\"",
+      "flake8-modern-annotations; extra == \"dev\"",
+      "flake8-requirements; extra == \"dev\"",
+      "flake8-typechecking-import; extra == \"dev\"",
+      "flake8-use-fstring; extra == \"dev\"",
+      "pep8-naming; extra == \"dev\""
+    ]
+  },
+  "flake8_literal-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8672260cc05f47fbf278007ba370a6fa7665d226e7349938350d466dd56a63a3",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "flake8 <8.0,>=3.8.0",
+      "typing-extensions >=3.7.4.2",
+      "importlib-metadata <5.0.0,>=4.0.0 ; python_version < \"3.8.0\"",
+      "mypy ; extra == 'dev'",
+      "flake8 <6.0.0,>=3.8.0 ; extra == 'dev'",
+      "flake8-annotations ; extra == 'dev'",
+      "flake8-bandit ; extra == 'dev'",
+      "flake8-bugbear ; extra == 'dev'",
+      "flake8-commas ; extra == 'dev'",
+      "flake8-comprehensions ; extra == 'dev'",
+      "flake8-continuation ; extra == 'dev'",
+      "flake8-datetimez ; extra == 'dev'",
+      "flake8-docstrings ; extra == 'dev'",
+      "flake8-import-order ; extra == 'dev'",
+      "flake8-literal ; extra == 'dev'",
+      "flake8-noqa ; extra == 'dev'",
+      "flake8-polyfill ; extra == 'dev'",
+      "flake8-pyproject ; extra == 'dev'",
+      "flake8-modern-annotations ; extra == 'dev'",
+      "flake8-requirements ; extra == 'dev'",
+      "flake8-typechecking-import ; extra == 'dev'",
+      "flake8-use-fstring ; extra == 'dev'",
+      "pep8-naming ; extra == 'dev'"
+    ]
+  },
+  "flake8_literal-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1579ecdcf9487a71f39b6277dd4bd0fc77766c42e04d05c8dc6f68e2817520ca",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (<7.0,>=3.8.0)",
+      "typing-extensions (>=3.7.4.2)",
+      "importlib-metadata (<5.0.0,>=4.0.0) ; python_version < \"3.8.0\"",
+      "mypy ; extra == 'dev'",
+      "flake8 (<6.0.0,>=3.8.0) ; extra == 'dev'",
+      "flake8-annotations ; extra == 'dev'",
+      "flake8-bandit ; extra == 'dev'",
+      "flake8-bugbear ; extra == 'dev'",
+      "flake8-commas ; extra == 'dev'",
+      "flake8-comprehensions ; extra == 'dev'",
+      "flake8-continuation ; extra == 'dev'",
+      "flake8-datetimez ; extra == 'dev'",
+      "flake8-docstrings ; extra == 'dev'",
+      "flake8-import-order ; extra == 'dev'",
+      "flake8-literal ; extra == 'dev'",
+      "flake8-noqa ; extra == 'dev'",
+      "flake8-polyfill ; extra == 'dev'",
+      "flake8-pyproject ; extra == 'dev'",
+      "flake8-modern-annotations ; extra == 'dev'",
+      "flake8-requirements ; extra == 'dev'",
+      "flake8-typechecking-import ; extra == 'dev'",
+      "flake8-use-fstring ; extra == 'dev'",
+      "pep8-naming ; extra == 'dev'"
+    ]
+  },
+  "flake8_literal-1.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e069e5d243ccc0d8b40fe6d06cc4253866759a7a8164ff6a486790ca644c33c",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (<6.0,>=3.8.0)",
+      "typing-extensions (>=3.7.4.2)",
+      "importlib-metadata (<5.0.0,>=4.0.0) ; python_version < \"3.8.0\"",
+      "mypy ; extra == 'dev'",
+      "flake8 (<5.0) ; extra == 'dev'",
+      "flake8-annotations ; extra == 'dev'",
+      "flake8-bandit ; extra == 'dev'",
+      "flake8-bugbear ; extra == 'dev'",
+      "flake8-commas ; extra == 'dev'",
+      "flake8-comprehensions ; extra == 'dev'",
+      "flake8-continuation ; extra == 'dev'",
+      "flake8-datetimez ; extra == 'dev'",
+      "flake8-docstrings ; extra == 'dev'",
+      "flake8-import-order ; extra == 'dev'",
+      "flake8-literal ; extra == 'dev'",
+      "flake8-noqa ; extra == 'dev'",
+      "flake8-polyfill ; extra == 'dev'",
+      "flake8-postponed-annotations ; extra == 'dev'",
+      "flake8-requirements ; extra == 'dev'",
+      "flake8-tabs ; extra == 'dev'",
+      "flake8-typechecking-import ; extra == 'dev'",
+      "flake8-use-fstring ; extra == 'dev'",
+      "pep8-naming ; extra == 'dev'"
+    ]
+  },
+  "flake8_literal-1.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c0be877dd86ab4967c71290a77d76c638d80ac0b4705f6d32fecb7735aabd83",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "typing-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (<6.0,>=3.8.0)",
+      "typing-extensions (>=3.7.4.2)",
+      "importlib-metadata (<5.0.0,>=4.0.0) ; python_version < \"3.8.0\"",
+      "mypy ; extra == 'dev'",
+      "flake8 (<5.0) ; extra == 'dev'",
+      "flake8-annotations ; extra == 'dev'",
+      "flake8-bandit ; extra == 'dev'",
+      "flake8-bugbear ; extra == 'dev'",
+      "flake8-commas ; extra == 'dev'",
+      "flake8-comprehensions ; extra == 'dev'",
+      "flake8-continuation ; extra == 'dev'",
+      "flake8-datetimez ; extra == 'dev'",
+      "flake8-docstrings ; extra == 'dev'",
+      "flake8-import-order ; extra == 'dev'",
+      "flake8-literal ; extra == 'dev'",
+      "flake8-noqa ; extra == 'dev'",
+      "flake8-polyfill ; extra == 'dev'",
+      "flake8-postponed-annotations ; extra == 'dev'",
+      "flake8-requirements ; extra == 'dev'",
+      "flake8-tabs ; extra == 'dev'",
+      "flake8-typechecking-import ; extra == 'dev'",
+      "flake8-use-fstring ; extra == 'dev'",
+      "pep8-naming ; extra == 'dev'"
+    ]
+  }
+}

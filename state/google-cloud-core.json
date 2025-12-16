@@ -1,0 +1,93 @@
+{
+  "google_cloud_core-2.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67d977b41ae6c7211ee830c7912e41003ea8194bff15ae7d72fd6f51e57acabc",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0,>=1.31.6",
+      "google-auth<3.0.0,>=1.25.0",
+      "importlib-metadata>1.0.0; python_version < \"3.8\"",
+      "grpcio<2.0.0,>=1.38.0; python_version < \"3.14\" and extra == \"grpc\"",
+      "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\" and extra == \"grpc\"",
+      "grpcio-status<2.0.0,>=1.38.0; extra == \"grpc\""
+    ]
+  },
+  "google_cloud_core-2.4.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5130f9f4c14b4fafdff75c79448f9495cfade0d8775facf1b09c3bf67e027f6e",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.6",
+      "google-auth<3.0dev,>=1.25.0",
+      "importlib-metadata>1.0.0; python_version < \"3.8\"",
+      "grpcio<2.0dev,>=1.38.0; extra == \"grpc\"",
+      "grpcio-status<2.0.dev0,>=1.38.0; extra == \"grpc\""
+    ]
+  },
+  "google_cloud_core-2.4.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7459c3e83de7cb8b9ecfec9babc910efb4314030c56dd798eaad12c426f7d180",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.6",
+      "google-auth<3.0dev,>=1.25.0",
+      "importlib-metadata>1.0.0; python_version < \"3.8\"",
+      "grpcio<2.0dev,>=1.38.0; extra == \"grpc\"",
+      "grpcio-status<2.0.dev0,>=1.38.0; extra == \"grpc\""
+    ]
+  },
+  "google_cloud_core-2.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9e6a4422b9ac5c29f79a0ede9485473338e2ce78d91f2370c01e730eab22e61",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core !=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.6",
+      "google-auth <3.0dev,>=1.25.0",
+      "importlib-metadata >1.0.0 ; python_version < \"3.8\"",
+      "grpcio <2.0dev,>=1.38.0 ; extra == 'grpc'",
+      "grpcio-status <2.0.dev0,>=1.38.0 ; extra == 'grpc'"
+    ]
+  },
+  "google_cloud_core-2.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f8af1b71002b685345ffcac2c96e0207b3782c358c3d4f9bafe601f470481a34",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core !=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0dev,>=1.31.6",
+      "google-auth <3.0dev,>=1.25.0",
+      "importlib-metadata >1.0.0 ; python_version < \"3.8\"",
+      "grpcio <2.0dev,>=1.38.0 ; extra == 'grpc'",
+      "grpcio-status <2.0.dev0,>=1.38.0 ; extra == 'grpc'"
+    ]
+  }
+}

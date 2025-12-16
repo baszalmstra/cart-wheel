@@ -1,0 +1,10 @@
+# Package configuration for torchdata
+conda_forge = "torchdata"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torchdata-0.11.0-py3-none-any.whl" },
+  { filename = "torchdata-0.10.1-py3-none-any.whl" },
+  { filename = "torchdata-0.10.0-py3-none-any.whl" },
+]

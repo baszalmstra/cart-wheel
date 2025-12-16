@@ -1,0 +1,102 @@
+{
+  "aws_cdk.aws_amazonmq-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c58275bf6bec2d56b435d3fa16b235f5b88114802377333cc398652a8c9162f",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_amazonmq-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d6ba358b6aa65ba55a78d34fc9088bcebd517db2ebc800a7caa48ee99149dcf",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_amazonmq-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e432e505eff0929e47adba6aa3b60d1966d4d35e4651905e6591f9d24f423ef8",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_amazonmq-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e30f70ae340754b98a1195eb1888fee63ad7b5ac2a8091da540f8046c6daa62",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_amazonmq-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5af31ad12432c7294ebc31c5de47a08dfba4c187bd325452c4151a2f879eb7ba",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

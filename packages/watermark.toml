@@ -1,0 +1,12 @@
+# Package configuration for watermark
+conda_forge = "watermark"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "watermark-2.5.0-py2.py3-none-any.whl" },
+  { filename = "watermark-2.4.3-py2.py3-none-any.whl" },
+  { filename = "watermark-2.4.2-py2.py3-none-any.whl" },
+  { filename = "watermark-2.4.1-py2.py3-none-any.whl" },
+  { filename = "watermark-2.4.0-py2.py3-none-any.whl" },
+]

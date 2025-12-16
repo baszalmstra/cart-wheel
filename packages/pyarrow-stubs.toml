@@ -1,0 +1,12 @@
+# Package configuration for pyarrow-stubs
+conda_forge = "pyarrow-stubs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyarrow_stubs-20.0.0.20251209-py3-none-any.whl" },
+  { filename = "pyarrow_stubs-20.0.0.20251107-py3-none-any.whl" },
+  { filename = "pyarrow_stubs-20.0.0.20251104-py3-none-any.whl" },
+  { filename = "pyarrow_stubs-20.0.0.20250928-py3-none-any.whl" },
+  { filename = "pyarrow_stubs-20.0.0.20250825-py3-none-any.whl" },
+]

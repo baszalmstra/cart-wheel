@@ -1,0 +1,12 @@
+# Package configuration for rich-rst
+conda_forge = "rich-rst"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rich_rst-1.3.2-py3-none-any.whl" },
+  { filename = "rich_rst-1.3.1-py3-none-any.whl" },
+  { filename = "rich_rst-1.3.0-py3-none-any.whl" },
+  { filename = "rich_rst-1.2.0-py3-none-any.whl" },
+  { filename = "rich_rst-1.1.7-py3-none-any.whl" },
+]

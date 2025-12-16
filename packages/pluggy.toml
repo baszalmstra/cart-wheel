@@ -1,0 +1,12 @@
+# Package configuration for pluggy
+conda_forge = "pluggy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pluggy-1.6.0-py3-none-any.whl" },
+  { filename = "pluggy-1.5.0-py3-none-any.whl" },
+  { filename = "pluggy-1.4.0-py3-none-any.whl" },
+  { filename = "pluggy-1.3.0-py3-none-any.whl" },
+  { filename = "pluggy-1.2.0-py3-none-any.whl" },
+]

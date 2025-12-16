@@ -1,0 +1,12 @@
+# Package configuration for optimum
+conda_forge = "optimum"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "optimum-2.0.0-py3-none-any.whl" },
+  { filename = "optimum-1.27.0-py3-none-any.whl" },
+  { filename = "optimum-1.26.1-py3-none-any.whl" },
+  { filename = "optimum-1.26.0-py3-none-any.whl" },
+  { filename = "optimum-1.25.3-py3-none-any.whl" },
+]

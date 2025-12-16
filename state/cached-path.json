@@ -1,0 +1,213 @@
+{
+  "cached_path-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e24aefa67e41722274e1ecac8453d0d908a6eabdb02cb9fafe1a99520ed1a453",
+    "dependencies": {
+      "required": [
+        "requests",
+        "rich",
+        "filelock",
+        "boto3",
+        "google-cloud-storage",
+        "huggingface-hub",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "rich<14.0,>=12.1",
+      "filelock<4.0,>=3.4",
+      "boto3<2.0,>=1.0",
+      "google-cloud-storage<3.0,>=1.32.0",
+      "huggingface-hub<2.0,>=0.8.1",
+      "packaging",
+      "beaker-py<3.0; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "mypy<2.0,>=1.6.0; extra == \"dev\"",
+      "black<25.0,>=23.1.0; extra == \"dev\"",
+      "isort<6.0,>=5.12.0; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "flaky; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "responses==0.21.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "Sphinx<8.0,>=6.0; extra == \"dev\"",
+      "furo==2024.1.29; extra == \"dev\"",
+      "myst-parser<3.0,>=1.0.0; extra == \"dev\"",
+      "sphinx-copybutton==0.5.2; extra == \"dev\"",
+      "sphinx-autobuild==2021.3.14; extra == \"dev\"",
+      "sphinx-autodoc-typehints; extra == \"dev\""
+    ]
+  },
+  "cached_path-1.7.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d0a59ccd47f12bbdd08dd48ff1a9feda13eb83d50d55f7904b82cde1d7c7865b",
+    "dependencies": {
+      "required": [
+        "requests",
+        "rich",
+        "filelock",
+        "boto3",
+        "google-cloud-storage",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "rich<14.0,>=12.1",
+      "filelock<4.0,>=3.4",
+      "boto3<2.0,>=1.0",
+      "google-cloud-storage<3.0,>=1.32.0",
+      "huggingface-hub<2.0,>=0.8.1",
+      "beaker-py<2.0,>=1.13.2; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "mypy<2.0,>=1.6.0; extra == \"dev\"",
+      "black<25.0,>=23.1.0; extra == \"dev\"",
+      "isort<6.0,>=5.12.0; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "flaky; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "responses==0.21.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "Sphinx<8.0,>=6.0; extra == \"dev\"",
+      "furo==2024.1.29; extra == \"dev\"",
+      "myst-parser<3.0,>=1.0.0; extra == \"dev\"",
+      "sphinx-copybutton==0.5.2; extra == \"dev\"",
+      "sphinx-autobuild==2021.3.14; extra == \"dev\"",
+      "sphinx-autodoc-typehints; extra == \"dev\"",
+      "packaging; extra == \"dev\""
+    ]
+  },
+  "cached_path-1.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe2b396b4816205c95d6e961efb35c66288966c4f96b82cd87c4fb03d4d037d1",
+    "dependencies": {
+      "required": [
+        "requests",
+        "rich",
+        "filelock",
+        "boto3",
+        "google-cloud-storage",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "rich<14.0,>=12.1",
+      "filelock<4.0,>=3.4",
+      "boto3<2.0,>=1.0",
+      "google-cloud-storage<3.0,>=1.32.0",
+      "huggingface-hub<1.0,>=0.8.1",
+      "beaker-py<2.0,>=1.13.2; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "mypy<2.0,>=1.6.0; extra == \"dev\"",
+      "black<25.0,>=23.1.0; extra == \"dev\"",
+      "isort<6.0,>=5.12.0; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "flaky; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "responses==0.21.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "Sphinx<8.0,>=6.0; extra == \"dev\"",
+      "furo==2024.1.29; extra == \"dev\"",
+      "myst-parser<3.0,>=1.0.0; extra == \"dev\"",
+      "sphinx-copybutton==0.5.2; extra == \"dev\"",
+      "sphinx-autobuild==2021.3.14; extra == \"dev\"",
+      "sphinx-autodoc-typehints; extra == \"dev\"",
+      "packaging; extra == \"dev\""
+    ]
+  },
+  "cached_path-1.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5023c88d1a7d5161f7dcd496157cfd9662193a274f129a36a70333899c8693d4",
+    "dependencies": {
+      "required": [
+        "requests",
+        "rich",
+        "filelock",
+        "boto3",
+        "google-cloud-storage",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "rich<14.0,>=12.1",
+      "filelock<4.0,>=3.4",
+      "boto3<2.0,>=1.0",
+      "google-cloud-storage<3.0,>=1.32.0",
+      "huggingface-hub<0.28.0,>=0.8.1",
+      "beaker-py<2.0,>=1.13.2; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "mypy<2.0,>=1.6.0; extra == \"dev\"",
+      "black<25.0,>=23.1.0; extra == \"dev\"",
+      "isort<6.0,>=5.12.0; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "flaky; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "responses==0.21.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "Sphinx<8.0,>=6.0; extra == \"dev\"",
+      "furo==2024.1.29; extra == \"dev\"",
+      "myst-parser<3.0,>=1.0.0; extra == \"dev\"",
+      "sphinx-copybutton==0.5.2; extra == \"dev\"",
+      "sphinx-autobuild==2021.3.14; extra == \"dev\"",
+      "sphinx-autodoc-typehints; extra == \"dev\"",
+      "packaging; extra == \"dev\""
+    ]
+  },
+  "cached_path-1.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "02350fd1beab781e947f794943c9f5ebb62f782cfd9202206d3851748eeaea0c",
+    "dependencies": {
+      "required": [
+        "requests",
+        "rich",
+        "filelock",
+        "boto3",
+        "google-cloud-storage",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "rich<14.0,>=12.1",
+      "filelock<4.0,>=3.4",
+      "boto3<2.0,>=1.0",
+      "google-cloud-storage<3.0,>=1.32.0",
+      "huggingface-hub<0.28.0,>=0.8.1",
+      "beaker-py<2.0,>=1.13.2; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "mypy<2.0,>=1.6.0; extra == \"dev\"",
+      "black<25.0,>=23.1.0; extra == \"dev\"",
+      "isort<6.0,>=5.12.0; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "flaky; extra == \"dev\"",
+      "twine>=1.11.0; extra == \"dev\"",
+      "setuptools; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "responses==0.21.0; extra == \"dev\"",
+      "types-requests; extra == \"dev\"",
+      "Sphinx<8.0,>=6.0; extra == \"dev\"",
+      "furo==2024.1.29; extra == \"dev\"",
+      "myst-parser<3.0,>=1.0.0; extra == \"dev\"",
+      "sphinx-copybutton==0.5.2; extra == \"dev\"",
+      "sphinx-autobuild==2021.3.14; extra == \"dev\"",
+      "sphinx-autodoc-typehints; extra == \"dev\"",
+      "packaging; extra == \"dev\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for dbt-semantic-interfaces
+conda_forge = "dbt-semantic-interfaces"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dbt_semantic_interfaces-0.10.0-py3-none-any.whl" },
+  { filename = "dbt_semantic_interfaces-0.9.0-py3-none-any.whl" },
+  { filename = "dbt_semantic_interfaces-0.8.5-py3-none-any.whl" },
+  { filename = "dbt_semantic_interfaces-0.8.4-py3-none-any.whl" },
+  { filename = "dbt_semantic_interfaces-0.8.3-py3-none-any.whl" },
+]

@@ -1,0 +1,116 @@
+{
+  "ansible_runner-2.4.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:51.060524+00:00",
+    "conda_file": "ansible-runner-2.4.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pexpect",
+        "packaging",
+        "python-daemon",
+        "pyyaml",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pexpect>=4.5",
+      "packaging",
+      "python-daemon",
+      "pyyaml",
+      "importlib-metadata<6.3,>=4.6; python_version < \"3.10\""
+    ]
+  },
+  "ansible_runner-2.4.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:51.245711+00:00",
+    "conda_file": "ansible-runner-2.4.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pexpect",
+        "packaging",
+        "python-daemon",
+        "pyyaml",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pexpect>=4.5",
+      "packaging",
+      "python-daemon",
+      "pyyaml",
+      "importlib-metadata<6.3,>=4.6; python_version < \"3.10\""
+    ]
+  },
+  "ansible_runner-2.4.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:51.315293+00:00",
+    "conda_file": "ansible-runner-2.4.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pexpect",
+        "packaging",
+        "python-daemon",
+        "pyyaml",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pexpect >=4.5",
+      "packaging",
+      "python-daemon",
+      "pyyaml",
+      "importlib-metadata <6.3,>=4.6 ; python_version < \"3.10\""
+    ]
+  },
+  "ansible_runner-2.3.7-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:51.503637+00:00",
+    "conda_file": "ansible-runner-2.3.7-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pexpect",
+        "packaging",
+        "python-daemon",
+        "pyyaml",
+        "six",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pexpect>=4.5",
+      "packaging",
+      "python-daemon",
+      "pyyaml",
+      "six",
+      "importlib-metadata<6.3,>=4.6; python_version < \"3.10\""
+    ]
+  },
+  "ansible_runner-2.3.6-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:51.538079+00:00",
+    "conda_file": "ansible-runner-2.3.6-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pexpect",
+        "packaging",
+        "python-daemon",
+        "pyyaml",
+        "six",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pexpect >=4.5",
+      "packaging",
+      "python-daemon",
+      "pyyaml",
+      "six",
+      "importlib-metadata <6.3,>=4.6 ; (python_version < '3.10')"
+    ]
+  }
+}

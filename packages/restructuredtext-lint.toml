@@ -1,0 +1,9 @@
+# Package configuration for restructuredtext-lint
+conda_forge = "restructuredtext_lint"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "restructuredtext_lint-2.0.2-py3-none-any.whl" },
+  { filename = "restructuredtext_lint-2.0.1-py3-none-any.whl" },
+]

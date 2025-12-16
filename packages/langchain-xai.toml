@@ -1,0 +1,11 @@
+# Package configuration for langchain-xai
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_xai-1.1.0-py3-none-any.whl" },
+  { filename = "langchain_xai-1.0.0-py3-none-any.whl" },
+  { filename = "langchain_xai-0.2.5-py3-none-any.whl" },
+  { filename = "langchain_xai-0.2.4-py3-none-any.whl" },
+  { filename = "langchain_xai-0.2.3-py3-none-any.whl" },
+]

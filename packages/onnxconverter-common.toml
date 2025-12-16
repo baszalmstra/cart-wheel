@@ -1,0 +1,12 @@
+# Package configuration for onnxconverter-common
+conda_forge = "onnxconverter-common"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "onnxconverter_common-1.16.0-py2.py3-none-any.whl" },
+  { filename = "onnxconverter_common-1.15.0-py2.py3-none-any.whl" },
+  { filename = "onnxconverter_common-1.14.0-py2.py3-none-any.whl" },
+  { filename = "onnxconverter_common-1.13.0-py2.py3-none-any.whl" },
+  { filename = "onnxconverter_common-1.12.2-py2.py3-none-any.whl" },
+]

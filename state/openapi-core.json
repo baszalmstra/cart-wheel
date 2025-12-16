@@ -1,0 +1,179 @@
+{
+  "openapi_core-0.19.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef7210e83a59394f46ce282639d8d26ad6fc8094aa904c9c16eb1bac8908911f",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "jsonschema",
+        "jsonschema-path",
+        "more-itertools",
+        "openapi-schema-validator",
+        "openapi-spec-validator",
+        "parse",
+        "typing-extensions",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.0) ; extra == \"aiohttp\"",
+      "aioitertools (>=0.11,<0.13) ; extra == \"starlette\"",
+      "django (>=3.0) ; extra == \"django\"",
+      "falcon (>=3.0) ; extra == \"falcon\"",
+      "fastapi (>=0.111,<0.116) ; extra == \"fastapi\"",
+      "flask ; extra == \"flask\"",
+      "isodate",
+      "jsonschema (>=4.18.0,<5.0.0)",
+      "jsonschema-path (>=0.3.1,<0.4.0)",
+      "more-itertools",
+      "multidict (>=6.0.4,<7.0.0) ; extra == \"aiohttp\"",
+      "openapi-schema-validator (>=0.6.0,<0.7.0)",
+      "openapi-spec-validator (>=0.7.1,<0.8.0)",
+      "parse",
+      "requests ; extra == \"requests\"",
+      "starlette (>=0.26.1,<0.45.0) ; extra == \"starlette\"",
+      "typing-extensions (>=4.8.0,<5.0.0)",
+      "werkzeug (<3.1.2)"
+    ]
+  },
+  "openapi_core-0.19.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38e8347b6ebeafe8d3beb588214ecf0171874bb65411e9d4efd23cb011687201",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "jsonschema",
+        "jsonschema-path",
+        "more-itertools",
+        "openapi-schema-validator",
+        "openapi-spec-validator",
+        "parse",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.0) ; extra == \"aiohttp\"",
+      "aioitertools (>=0.11.0,<0.12.0) ; extra == \"starlette\"",
+      "django (>=3.0) ; extra == \"django\"",
+      "falcon (>=3.0) ; extra == \"falcon\"",
+      "fastapi (>=0.111,<0.113) ; extra == \"fastapi\"",
+      "flask ; extra == \"flask\"",
+      "isodate",
+      "jsonschema (>=4.18.0,<5.0.0)",
+      "jsonschema-path (>=0.3.1,<0.4.0)",
+      "more-itertools",
+      "multidict (>=6.0.4,<7.0.0) ; extra == \"aiohttp\"",
+      "openapi-schema-validator (>=0.6.0,<0.7.0)",
+      "openapi-spec-validator (>=0.7.1,<0.8.0)",
+      "parse",
+      "requests ; extra == \"requests\"",
+      "starlette (>=0.26.1,<0.39.0) ; extra == \"starlette\"",
+      "werkzeug"
+    ]
+  },
+  "openapi_core-0.19.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "88c8be49b083a39923ada4c1269919ba119ab617c951f901757a054a483988b0",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "jsonschema",
+        "jsonschema-path",
+        "more-itertools",
+        "openapi-schema-validator",
+        "openapi-spec-validator",
+        "parse",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.0) ; extra == \"aiohttp\"",
+      "aioitertools (>=0.11.0,<0.12.0) ; extra == \"starlette\"",
+      "django (>=3.0) ; extra == \"django\"",
+      "falcon (>=3.0) ; extra == \"falcon\"",
+      "fastapi (>=0.111,<0.113) ; extra == \"fastapi\"",
+      "flask ; extra == \"flask\"",
+      "isodate",
+      "jsonschema (>=4.18.0,<5.0.0)",
+      "jsonschema-path (>=0.3.1,<0.4.0)",
+      "more-itertools",
+      "multidict (>=6.0.4,<7.0.0) ; extra == \"aiohttp\"",
+      "openapi-schema-validator (>=0.6.0,<0.7.0)",
+      "openapi-spec-validator (>=0.7.1,<0.8.0)",
+      "parse",
+      "requests ; extra == \"requests\"",
+      "starlette (>=0.26.1,<0.38.0) ; extra == \"starlette\"",
+      "werkzeug"
+    ]
+  },
+  "openapi_core-0.19.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b05f81031cc5b14f3a90b02f955d2ec756ccd5fba4f4e80bc4362520dac679a4",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "jsonschema",
+        "jsonschema-path",
+        "more-itertools",
+        "openapi-schema-validator",
+        "openapi-spec-validator",
+        "parse",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.0) ; extra == \"aiohttp\"",
+      "aioitertools (>=0.11.0,<0.12.0) ; extra == \"starlette\"",
+      "django (>=3.0) ; extra == \"django\"",
+      "falcon (>=3.0) ; extra == \"falcon\"",
+      "fastapi (>=0.108.0,<0.109.0) ; extra == \"fastapi\"",
+      "flask ; extra == \"flask\"",
+      "isodate",
+      "jsonschema (>=4.18.0,<5.0.0)",
+      "jsonschema-path (>=0.3.1,<0.4.0)",
+      "more-itertools",
+      "multidict (>=6.0.4,<7.0.0) ; extra == \"aiohttp\"",
+      "openapi-schema-validator (>=0.6.0,<0.7.0)",
+      "openapi-spec-validator (>=0.7.1,<0.8.0)",
+      "parse",
+      "requests ; extra == \"requests\"",
+      "starlette (>=0.26.1,<0.38.0) ; extra == \"starlette\"",
+      "werkzeug"
+    ]
+  },
+  "openapi_core-0.19.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a1eeb93d2a7e41a8c34ccebd55b180d1f73c5dddffbad657315746e955283cfc",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "jsonschema",
+        "jsonschema-path",
+        "more-itertools",
+        "openapi-schema-validator",
+        "openapi-spec-validator",
+        "parse",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.0) ; extra == \"aiohttp\"",
+      "aioitertools (>=0.11.0,<0.12.0) ; extra == \"starlette\"",
+      "django (>=3.0) ; extra == \"django\"",
+      "falcon (>=3.0) ; extra == \"falcon\"",
+      "fastapi (>=0.108.0,<0.109.0) ; extra == \"fastapi\"",
+      "flask ; extra == \"flask\"",
+      "isodate",
+      "jsonschema (>=4.18.0,<5.0.0)",
+      "jsonschema-path (>=0.3.1,<0.4.0)",
+      "more-itertools",
+      "multidict (>=6.0.4,<7.0.0) ; extra == \"aiohttp\"",
+      "openapi-schema-validator (>=0.6.0,<0.7.0)",
+      "openapi-spec-validator (>=0.7.1,<0.8.0)",
+      "parse",
+      "requests ; extra == \"requests\"",
+      "starlette (>=0.26.1,<0.38.0) ; extra == \"starlette\"",
+      "werkzeug"
+    ]
+  }
+}

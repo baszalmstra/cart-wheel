@@ -1,0 +1,8 @@
+# Package configuration for rinoh-typeface-dejavuserif
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rinoh_typeface_dejavuserif-0.1.3-py3-none-any.whl" },
+  { filename = "rinoh_typeface_dejavuserif-0.1.1-py3-none-any.whl" },
+]

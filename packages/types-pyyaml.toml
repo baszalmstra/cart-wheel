@@ -1,0 +1,12 @@
+# Package configuration for types-pyyaml
+conda_forge = "types-pyyaml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_pyyaml-6.0.12.20250915-py3-none-any.whl" },
+  { filename = "types_pyyaml-6.0.12.20250822-py3-none-any.whl" },
+  { filename = "types_pyyaml-6.0.12.20250809-py3-none-any.whl" },
+  { filename = "types_pyyaml-6.0.12.20250516-py3-none-any.whl" },
+  { filename = "types_pyyaml-6.0.12.20250402-py3-none-any.whl" },
+]

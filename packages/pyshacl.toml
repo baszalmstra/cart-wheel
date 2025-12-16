@@ -1,0 +1,12 @@
+# Package configuration for pyshacl
+conda_forge = "pyshacl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyshacl-0.30.1-py3-none-any.whl" },
+  { filename = "pyshacl-0.30.0-py3-none-any.whl" },
+  { filename = "pyshacl-0.29.1-py3-none-any.whl" },
+  { filename = "pyshacl-0.29.0-py3-none-any.whl" },
+  { filename = "pyshacl-0.28.1-py3-none-any.whl" },
+]

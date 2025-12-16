@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_social-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2f3b36ba5769503b1bc945f85fd7b255d42d7f6e417d78567507816502ff2b44",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1"
+    ]
+  },
+  "pyobjc_framework_social-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0bf4b935014f70957d0dd6316ce47c944495201c30990738d9be11431fa0db00",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0"
+    ]
+  },
+  "pyobjc_framework_social-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ab5878c47d7a0639704c191cee43eeb259e09688808f0905c42551b9f79e1d57",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1"
+    ]
+  },
+  "pyobjc_framework_Social-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa379009738afb0d6abc0347e8189f7f316109e9dfcb904f7f14e6b7c3d5bad8",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0"
+    ]
+  },
+  "pyobjc_framework_Social-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a2cbb8a25f1923e867ead924d9252992109a8462272dba47c1097e1fae4a61b",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2"
+    ]
+  }
+}

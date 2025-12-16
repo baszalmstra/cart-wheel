@@ -1,0 +1,12 @@
+# Package configuration for retrolab
+conda_forge = "retrolab"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "retrolab-0.3.21-py3-none-any.whl" },
+  { filename = "retrolab-0.3.20-py3-none-any.whl" },
+  { filename = "retrolab-0.3.19-py3-none-any.whl" },
+  { filename = "retrolab-0.3.18-py3-none-any.whl" },
+  { filename = "retrolab-0.3.17-py3-none-any.whl" },
+]

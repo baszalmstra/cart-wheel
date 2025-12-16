@@ -1,0 +1,12 @@
+# Package configuration for pyre-extensions
+conda_forge = "pyre-extensions"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyre_extensions-0.0.32-py3-none-any.whl" },
+  { filename = "pyre_extensions-0.0.31-py3-none-any.whl" },
+  { filename = "pyre_extensions-0.0.30-py3-none-any.whl" },
+  { filename = "pyre_extensions-0.0.29-py3-none-any.whl" },
+  { filename = "pyre_extensions-0.0.28-py3-none-any.whl" },
+]

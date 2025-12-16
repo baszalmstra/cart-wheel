@@ -1,0 +1,12 @@
+# Package configuration for yarg
+conda_forge = "yarg"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "yarg-0.1.10-py2.py3-none-any.whl" },
+  { filename = "yarg-0.1.9-py2.py3-none-any.whl" },
+  { filename = "yarg-0.1.8-py2.py3-none-any.whl" },
+  { filename = "yarg-0.1.7-py2.py3-none-any.whl" },
+  { filename = "yarg-0.1.6-py2.py3-none-any.whl" },
+]

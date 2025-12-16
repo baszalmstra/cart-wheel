@@ -1,0 +1,9 @@
+# Package configuration for ordered-set
+conda_forge = "ordered-set"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ordered_set-4.1.0-py3-none-any.whl" },
+  { filename = "ordered_set-3.1-py2.py3-none-any.whl" },
+]

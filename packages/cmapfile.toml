@@ -1,0 +1,11 @@
+# Package configuration for cmapfile
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cmapfile-2025.1.1-py3-none-any.whl" },
+  { filename = "cmapfile-2024.8.28-py3-none-any.whl" },
+  { filename = "cmapfile-2023.8.30-py3-none-any.whl" },
+  { filename = "cmapfile-2022.9.29-py3-none-any.whl" },
+  { filename = "cmapfile-2022.2.2-py3-none-any.whl" },
+]

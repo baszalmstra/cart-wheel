@@ -1,0 +1,11 @@
+# Package configuration for mkdocs-rss-plugin
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_rss_plugin-1.17.7-py3-none-any.whl" },
+  { filename = "mkdocs_rss_plugin-1.17.6-py3-none-any.whl" },
+  { filename = "mkdocs_rss_plugin-1.17.5-py3-none-any.whl" },
+  { filename = "mkdocs_rss_plugin-1.17.4-py2.py3-none-any.whl" },
+  { filename = "mkdocs_rss_plugin-1.17.3-py2.py3-none-any.whl" },
+]

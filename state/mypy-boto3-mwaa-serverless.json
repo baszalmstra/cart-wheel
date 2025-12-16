@@ -1,0 +1,38 @@
+{
+  "mypy_boto3_mwaa_serverless-1.42.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd20c571290186da81251c2f5c885b2430c3d851df38ac541a676bbbe5e09765",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_mwaa_serverless-1.41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b7814d546e98d6f1b32676a654e2db0a1028fc249a608cb0675ee23e6f94df8",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_mwaa_serverless-1.40.75-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb8165b4b4314be9f45049f2ba1e12e3150c7a745fbafc1c3483e01d5eea08fd",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

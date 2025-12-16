@@ -1,0 +1,12 @@
+# Package configuration for solara-assets
+conda_forge = "solara-assets"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "solara_assets-1.55.1-py3-none-any.whl" },
+  { filename = "solara_assets-1.55.0-py3-none-any.whl" },
+  { filename = "solara_assets-1.54.0-py3-none-any.whl" },
+  { filename = "solara_assets-1.53.0-py3-none-any.whl" },
+  { filename = "solara_assets-1.52.0-py3-none-any.whl" },
+]

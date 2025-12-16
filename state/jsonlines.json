@@ -1,0 +1,61 @@
+{
+  "jsonlines-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "185b334ff2ca5a91362993f42e83588a360cf95ce4b71a73548502bda52a7c55",
+    "dependencies": {
+      "required": [
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "attrs >=19.2.0"
+    ]
+  },
+  "jsonlines-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "632f5e38f93dfcb1ac8c4e09780b92af3a55f38f26e7c47ae85109d420b6ad39",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=19.2.0)",
+      "typing-extensions ; python_version < \"3.8\""
+    ]
+  },
+  "jsonlines-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15f93e1817162c85bc268c7428952beec4fc4a41f118abf891c4bedf5653624f",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=19.2.0)",
+      "typing-extensions ; python_version < \"3.8\""
+    ]
+  },
+  "jsonlines-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bfb043d4e25fd894dca67b1f2adf014e493cb65d0f18b3a74a98bfcd97c3d983",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "jsonlines-1.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ebd5b0c3efe0d4b5018b320fb0ee1a7b680ab39f6eb853715859f818d386cc8",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six"
+    ]
+  }
+}

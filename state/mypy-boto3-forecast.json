@@ -1,0 +1,62 @@
+{
+  "mypy_boto3_forecast-1.42.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3163deb36e951fbee64ed484e65b35071dc13b7879054988c0f4086d29ee5e9",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_forecast-1.41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "511ddffab7435597c9ea4fb20aef7ec3e5b450850b0465735d3ccca93399747a",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_forecast-1.40.60-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17cdd7e0fe317136ac098965ae06f8826a8757a749e9dd8ddf3ba5f6c969aba7",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_forecast-1.40.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b146bc37ac733ce8ff66940aeeeae521e5eb5ef1b7ec429f02cc4caec94fadb",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_forecast-1.40.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19b0eb41449feced6416a5506c59dfa724722a7f19a7d66d1fa92c3a3e48c441",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

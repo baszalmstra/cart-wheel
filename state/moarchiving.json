@@ -1,0 +1,45 @@
+{
+  "moarchiving-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc7bc11aee744efdfd5ead92f2915c67fa39c36bd3d5adc227ffaf1f7204bb3e",
+    "dependencies": {
+      "required": [
+        "sortedcontainers"
+      ]
+    },
+    "original_requirements": [
+      "sortedcontainers>=2.4.0",
+      "fractions; extra == \"arbitrary-precision\""
+    ]
+  },
+  "moarchiving-0.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "16a2e2e12edfa324da1cd5c7fdf147a45fd7c4884c00ef2d2868a8ebf793b309",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "fraction ; extra == 'arbitrary-precision'"
+    ]
+  },
+  "moarchiving-0.5.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9da6e2479e28d1b48eb99d53b77dfd054a81126f1c9ce950a91ed77633542497",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "fraction ; extra == 'arbitrary-precision'"
+    ]
+  },
+  "moarchiving-0.5.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60d5665fc929bc86e1aa7563543d60ad7e5efec0b04f43859f813ad8b141995e",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "fraction ; extra == 'arbitrary-precision'"
+    ]
+  }
+}

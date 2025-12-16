@@ -1,0 +1,100 @@
+{
+  "apache_airflow_providers_celery-3.14.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:13.559107+00:00",
+    "conda_file": "apache-airflow-providers-celery-3.14.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "celery[extras=[redis]]",
+        "flower"
+      ],
+      "optional": {
+        "cncf-kubernetes": [
+          "apache-airflow-providers-cncf-kubernetes"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "celery[redis]>=5.5.0,<6",
+      "flower>=1.0.0",
+      "apache-airflow-providers-cncf-kubernetes>=7.4.0 ; extra == \"cncf-kubernetes\""
+    ]
+  },
+  "apache_airflow_providers_celery-3.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d43ccd519145a480734f656866b5de5ad39955c25eee74bd7b1b8567623c30d",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "celery",
+        "flower"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.0",
+      "celery[redis]>=5.5.0,<6",
+      "flower>=1.0.0",
+      "apache-airflow-providers-cncf-kubernetes>=7.4.0 ; extra == \"cncf-kubernetes\""
+    ]
+  },
+  "apache_airflow_providers_celery-3.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "821aee8eed348d052b98aa16db2069ddc6c0db201db9c9de3f7cf53e1c019682",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "celery",
+        "flower"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "celery[redis]>=5.5.0,<6",
+      "flower>=1.0.0",
+      "apache-airflow-providers-cncf-kubernetes>=7.4.0 ; extra == \"cncf-kubernetes\""
+    ]
+  },
+  "apache_airflow_providers_celery-3.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "551b29ef4b9871fd91286510e965ea9e6b0d267c36bdf455117477293be2dfb2",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "celery",
+        "flower"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "celery[redis]>=5.5.0,<6",
+      "flower>=1.0.0",
+      "apache-airflow-providers-cncf-kubernetes>=7.4.0 ; extra == \"cncf-kubernetes\""
+    ]
+  },
+  "apache_airflow_providers_celery-3.12.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "928adaf6fa8c8b4e1ba910ca5cdeb180335e0491e58622824766273289a809c4",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "celery",
+        "flower"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "celery[redis]>=5.5.0,<6",
+      "flower>=1.0.0",
+      "apache-airflow-providers-cncf-kubernetes>=7.4.0 ; extra == \"cncf-kubernetes\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for pbs-installer
+conda_forge = "pbs-installer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pbs_installer-2025.12.5-py3-none-any.whl" },
+  { filename = "pbs_installer-2025.12.2-py3-none-any.whl" },
+  { filename = "pbs_installer-2025.11.20-py3-none-any.whl" },
+  { filename = "pbs_installer-2025.10.31-py3-none-any.whl" },
+  { filename = "pbs_installer-2025.10.28-py3-none-any.whl" },
+]

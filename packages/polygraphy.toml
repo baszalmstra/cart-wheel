@@ -1,0 +1,11 @@
+# Package configuration for polygraphy
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "polygraphy-0.49.26-py2.py3-none-any.whl" },
+  { filename = "polygraphy-0.49.24-py2.py3-none-any.whl" },
+  { filename = "polygraphy-0.49.22-py2.py3-none-any.whl" },
+  { filename = "polygraphy-0.49.20-py2.py3-none-any.whl" },
+  { filename = "polygraphy-0.49.18-py2.py3-none-any.whl" },
+]

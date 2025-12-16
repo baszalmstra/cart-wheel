@@ -1,0 +1,12 @@
+# Package configuration for more-itertools
+conda_forge = "more-itertools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "more_itertools-10.8.0-py3-none-any.whl" },
+  { filename = "more_itertools-10.7.0-py3-none-any.whl" },
+  { filename = "more_itertools-10.6.0-py3-none-any.whl" },
+  { filename = "more_itertools-10.5.0-py3-none-any.whl" },
+  { filename = "more_itertools-10.4.0-py3-none-any.whl" },
+]

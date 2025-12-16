@@ -1,0 +1,11 @@
+# Package configuration for aboutcode-toolkit
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aboutcode_toolkit-11.1.1-py3-none-any.whl" },
+  { filename = "aboutcode_toolkit-11.0.0-py3-none-any.whl" },
+  { filename = "aboutcode_toolkit-10.1.0-py3-none-any.whl" },
+  { filename = "aboutcode_toolkit-10.0.0-py3-none-any.whl" },
+  { filename = "aboutcode_toolkit-9.0.0-py3-none-any.whl" },
+]

@@ -1,0 +1,143 @@
+{
+  "equinox-0.13.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc1ee687e4841945d8b776664403839639a05e2f2c02c1da353ff3386e0e43b0",
+    "dependencies": {
+      "required": [
+        "jax",
+        "jaxtyping",
+        "typing-extensions",
+        "wadler-lindig"
+      ]
+    },
+    "original_requirements": [
+      "jax!=0.7.0,!=0.7.1,>=0.4.38",
+      "jaxtyping>=0.2.20",
+      "typing-extensions>=4.5.0",
+      "wadler-lindig>=0.1.0",
+      "pre-commit; extra == 'dev'",
+      "griffe==1.7.3; extra == 'docs'",
+      "hippogriffe==0.2.2; extra == 'docs'",
+      "mkdocs-include-exclude-files==0.1.0; extra == 'docs'",
+      "mkdocs-ipynb==0.1.1; extra == 'docs'",
+      "mkdocs-material==9.6.7; extra == 'docs'",
+      "mkdocs==1.6.1; extra == 'docs'",
+      "mkdocstrings-python==1.16.8; extra == 'docs'",
+      "mkdocstrings==0.28.3; extra == 'docs'",
+      "pymdown-extensions==10.14.3; extra == 'docs'",
+      "beartype; extra == 'tests'",
+      "jaxlib; extra == 'tests'",
+      "optax; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "equinox-0.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c6e9043352c9a63216b40e3f3cdd1d1452f82a0175cfe322f79630ebdb80d71",
+    "dependencies": {
+      "required": [
+        "jax",
+        "jaxtyping",
+        "typing-extensions",
+        "wadler-lindig"
+      ]
+    },
+    "original_requirements": [
+      "jax!=0.7.0,!=0.7.1,>=0.4.38",
+      "jaxtyping>=0.2.20",
+      "typing-extensions>=4.5.0",
+      "wadler-lindig>=0.1.0",
+      "pre-commit; extra == 'dev'",
+      "griffe==1.7.3; extra == 'docs'",
+      "hippogriffe==0.2.1; extra == 'docs'",
+      "mkdocs-include-exclude-files==0.1.0; extra == 'docs'",
+      "mkdocs-ipynb==0.1.1; extra == 'docs'",
+      "mkdocs-material==9.6.7; extra == 'docs'",
+      "mkdocs==1.6.1; extra == 'docs'",
+      "mkdocstrings-python==1.16.8; extra == 'docs'",
+      "mkdocstrings==0.28.3; extra == 'docs'",
+      "pymdown-extensions==10.14.3; extra == 'docs'",
+      "beartype; extra == 'tests'",
+      "jaxlib; extra == 'tests'",
+      "optax; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "equinox-0.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "66720e6f39b4907812e2c5912ca523d698293f6f1d25736362b174f426b02c49",
+    "dependencies": {
+      "required": [
+        "jax",
+        "jaxtyping",
+        "typing-extensions",
+        "wadler-lindig"
+      ]
+    },
+    "original_requirements": [
+      "jax>=0.4.38",
+      "jaxtyping>=0.2.20",
+      "typing-extensions>=4.5.0",
+      "wadler-lindig>=0.1.0",
+      "griffe==1.7.3; extra == 'docs'",
+      "hippogriffe==0.2.0; extra == 'docs'",
+      "mkdocs-include-exclude-files==0.1.0; extra == 'docs'",
+      "mkdocs-ipynb==0.1.0; extra == 'docs'",
+      "mkdocs-material==9.6.7; extra == 'docs'",
+      "mkdocs==1.6.1; extra == 'docs'",
+      "mkdocstrings[python]==0.28.3; extra == 'docs'",
+      "pymdown-extensions==10.14.3; extra == 'docs'"
+    ]
+  },
+  "equinox-0.12.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d9c09c077e7895a5334930ddb9ecd7d39840c3ad252cf8262aa8ddc6bb8ae97",
+    "dependencies": {
+      "required": [
+        "jax",
+        "jaxtyping",
+        "typing-extensions",
+        "wadler-lindig"
+      ]
+    },
+    "original_requirements": [
+      "jax>=0.4.38",
+      "jaxtyping>=0.2.20",
+      "typing-extensions>=4.5.0",
+      "wadler-lindig>=0.1.0",
+      "griffe==1.7.3; extra == 'docs'",
+      "hippogriffe==0.2.0; extra == 'docs'",
+      "mkdocs-include-exclude-files==0.1.0; extra == 'docs'",
+      "mkdocs-ipynb==0.1.0; extra == 'docs'",
+      "mkdocs-material==9.6.7; extra == 'docs'",
+      "mkdocs==1.6.1; extra == 'docs'",
+      "mkdocstrings[python]==0.28.3; extra == 'docs'",
+      "pymdown-extensions==10.14.3; extra == 'docs'"
+    ]
+  },
+  "equinox-0.12.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd0e22863e8b4d4c988b412ef50ea244377061973344ab0be002363ac284148f",
+    "dependencies": {
+      "required": [
+        "jax",
+        "jaxtyping",
+        "typing-extensions",
+        "wadler-lindig"
+      ]
+    },
+    "original_requirements": [
+      "jax>=0.4.38",
+      "jaxtyping>=0.2.20",
+      "typing-extensions>=4.5.0",
+      "wadler-lindig>=0.1.0",
+      "hippogriffe==0.2.0; extra == 'docs'",
+      "mkdocs-include-exclude-files==0.1.0; extra == 'docs'",
+      "mkdocs-ipynb==0.1.0; extra == 'docs'",
+      "mkdocs-material==9.6.7; extra == 'docs'",
+      "mkdocs==1.6.1; extra == 'docs'",
+      "mkdocstrings[python]==0.28.3; extra == 'docs'",
+      "pymdown-extensions==10.14.3; extra == 'docs'"
+    ]
+  }
+}

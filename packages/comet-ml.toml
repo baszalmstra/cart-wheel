@@ -1,0 +1,12 @@
+# Package configuration for comet-ml
+conda_forge = "comet-ml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "comet_ml-3.55.0-py3-none-any.whl" },
+  { filename = "comet_ml-3.54.2-py3-none-any.whl" },
+  { filename = "comet_ml-3.54.1-py3-none-any.whl" },
+  { filename = "comet_ml-3.54.0-py3-none-any.whl" },
+  { filename = "comet_ml-3.53.2-py3-none-any.whl" },
+]

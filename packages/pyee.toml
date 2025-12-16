@@ -1,0 +1,12 @@
+# Package configuration for pyee
+conda_forge = "pyee"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyee-13.0.0-py3-none-any.whl" },
+  { filename = "pyee-12.1.1-py3-none-any.whl" },
+  { filename = "pyee-12.1.0-py3-none-any.whl" },
+  { filename = "pyee-12.0.0-py3-none-any.whl" },
+  { filename = "pyee-11.1.1-py3-none-any.whl" },
+]

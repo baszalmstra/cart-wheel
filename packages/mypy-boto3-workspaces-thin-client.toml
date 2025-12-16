@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-workspaces-thin-client
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_workspaces_thin_client-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_workspaces_thin_client-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_workspaces_thin_client-1.40.59-py3-none-any.whl" },
+  { filename = "mypy_boto3_workspaces_thin_client-1.40.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_workspaces_thin_client-1.39.12-py3-none-any.whl" },
+]

@@ -1,0 +1,163 @@
+{
+  "kedro_telemetry-0.6.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6ceb2768d25645c6c8651c5d7fed9f085fdfbccaa21881742deb3206584e543b",
+    "dependencies": {
+      "required": [
+        "appdirs",
+        "kedro",
+        "requests",
+        "tomli",
+        "tomli-w"
+      ]
+    },
+    "original_requirements": [
+      "appdirs>=1.4.4",
+      "kedro<2.0.0,>=0.18.0",
+      "requests~=2.20",
+      "tomli>=1.1.0; python_version < \"3.11\"",
+      "tomli-w",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-xdist[psutil]~=2.2.1; extra == \"test\"",
+      "PyYAML==5.3.1; extra == \"test\"",
+      "wheel; extra == \"test\"",
+      "bandit<2.0,>=1.6.2; extra == \"lint\"",
+      "black~=22.0; extra == \"lint\"",
+      "detect-secrets~=1.5.0; extra == \"lint\"",
+      "mypy~=1.0; extra == \"lint\"",
+      "pre-commit>=2.9.2; extra == \"lint\"",
+      "ruff~=0.12.1; extra == \"lint\"",
+      "types-requests; extra == \"lint\"",
+      "types-PyYAML; extra == \"lint\""
+    ]
+  },
+  "kedro_telemetry-0.6.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "04c6b2836ebcd544e3c374dcb4cfc875e9699149eaef7b21ee902cb831c603c7",
+    "dependencies": {
+      "required": [
+        "appdirs",
+        "kedro",
+        "requests",
+        "tomli",
+        "tomli-w"
+      ]
+    },
+    "original_requirements": [
+      "appdirs>=1.4.4",
+      "kedro<2.0.0,>=0.18.0",
+      "requests~=2.20",
+      "tomli>=1.1.0; python_version < \"3.11\"",
+      "tomli-w",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-xdist[psutil]~=2.2.1; extra == \"test\"",
+      "PyYAML==5.3.1; extra == \"test\"",
+      "wheel; extra == \"test\"",
+      "bandit<2.0,>=1.6.2; extra == \"lint\"",
+      "black~=22.0; extra == \"lint\"",
+      "detect-secrets~=1.5.0; extra == \"lint\"",
+      "mypy~=1.0; extra == \"lint\"",
+      "pre-commit>=2.9.2; extra == \"lint\"",
+      "ruff~=0.12.1; extra == \"lint\"",
+      "types-requests; extra == \"lint\"",
+      "types-PyYAML; extra == \"lint\""
+    ]
+  },
+  "kedro_telemetry-0.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "115c214092d186415f1e590550ae49bc8befabe2101b6961aac89a7e52be4a30",
+    "dependencies": {
+      "required": [
+        "kedro",
+        "requests",
+        "appdirs"
+      ]
+    },
+    "original_requirements": [
+      "kedro>=0.18.0",
+      "requests~=2.20",
+      "appdirs>=1.4.4",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-xdist[psutil]~=2.2.1; extra == \"test\"",
+      "PyYAML==5.3.1; extra == \"test\"",
+      "wheel; extra == \"test\"",
+      "bandit<2.0,>=1.6.2; extra == \"lint\"",
+      "black~=22.0; extra == \"lint\"",
+      "detect-secrets~=1.5.0; extra == \"lint\"",
+      "mypy~=1.0; extra == \"lint\"",
+      "pre-commit>=2.9.2; extra == \"lint\"",
+      "ruff~=0.0.290; extra == \"lint\"",
+      "types-requests; extra == \"lint\"",
+      "types-PyYAML; extra == \"lint\"",
+      "types-toml; extra == \"lint\""
+    ]
+  },
+  "kedro_telemetry-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a05a4483d1bf2a832ed86a9e72c9f8d4d1e8aa23119a13c77e612f7775d7335f",
+    "dependencies": {
+      "required": [
+        "kedro",
+        "requests",
+        "appdirs"
+      ]
+    },
+    "original_requirements": [
+      "kedro>=0.18.0",
+      "requests~=2.20",
+      "appdirs>=1.4.4",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-xdist[psutil]~=2.2.1; extra == \"test\"",
+      "PyYAML==5.3.1; extra == \"test\"",
+      "wheel; extra == \"test\"",
+      "bandit<2.0,>=1.6.2; extra == \"lint\"",
+      "black~=22.0; extra == \"lint\"",
+      "mypy~=1.0; extra == \"lint\"",
+      "pre-commit>=2.9.2; extra == \"lint\"",
+      "trufflehog<3.0,>=2.1.0; extra == \"lint\"",
+      "ruff~=0.0.290; extra == \"lint\"",
+      "types-requests; extra == \"lint\"",
+      "types-PyYAML; extra == \"lint\"",
+      "types-toml; extra == \"lint\""
+    ]
+  },
+  "kedro_telemetry-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf67858bfeec979ea38b5f758f21446ed69738638ae8212e3b61e0d65f8e91f3",
+    "dependencies": {
+      "required": [
+        "kedro",
+        "requests",
+        "appdirs"
+      ]
+    },
+    "original_requirements": [
+      "kedro >=0.18.0",
+      "requests ~=2.20",
+      "appdirs >=1.4.4",
+      "bandit <2.0,>=1.6.2 ; extra == 'test'",
+      "black ~=22.0 ; extra == 'test'",
+      "mypy ~=1.0 ; extra == 'test'",
+      "pre-commit >=2.9.2 ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mock ; extra == 'test'",
+      "pytest-xdist[psutil] ~=2.2.1 ; extra == 'test'",
+      "PyYAML ==5.3.1 ; extra == 'test'",
+      "trufflehog <3.0,>=2.1.0 ; extra == 'test'",
+      "ruff ~=0.0.290 ; extra == 'test'",
+      "wheel ; extra == 'test'",
+      "types-requests ; extra == 'test'",
+      "types-PyYAML ; extra == 'test'",
+      "types-toml ; extra == 'test'"
+    ]
+  }
+}

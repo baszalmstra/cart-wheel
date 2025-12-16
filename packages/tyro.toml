@@ -1,0 +1,12 @@
+# Package configuration for tyro
+conda_forge = "tyro"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tyro-1.0.1-py3-none-any.whl" },
+  { filename = "tyro-1.0.0-py3-none-any.whl" },
+  { filename = "tyro-0.9.35-py3-none-any.whl" },
+  { filename = "tyro-0.9.34-py3-none-any.whl" },
+  { filename = "tyro-0.9.33-py3-none-any.whl" },
+]

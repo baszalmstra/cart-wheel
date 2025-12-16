@@ -1,0 +1,110 @@
+{
+  "pycln-2.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "32faabf77daf2a8995238f7522399d9e6f2dc40bcfe90e619299512cdb5bd8f2",
+    "dependencies": {
+      "required": [
+        "libcst",
+        "pathspec",
+        "pyyaml",
+        "tomlkit",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "libcst (>=0.3.10)",
+      "pathspec (>=0.9.0)",
+      "pyyaml (>=5.3.1)",
+      "tomlkit (>=0.11.1)",
+      "typer (>=0.4.1)"
+    ]
+  },
+  "pycln-2.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6aec7a5b8df47e23399842b1f8470da4164956e26391f9b86c5edced5344da92",
+    "dependencies": {
+      "required": [
+        "libcst",
+        "pathspec",
+        "pyyaml",
+        "tomlkit",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "libcst (>=0.3.10)",
+      "pathspec (>=0.9.0)",
+      "pyyaml (>=5.3.1)",
+      "tomlkit (>=0.11.1)",
+      "typer (>=0.4.1)"
+    ]
+  },
+  "pycln-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1bf648df17077306100815d255d45430035b36f66bac635df04a323c61ba126",
+    "dependencies": {
+      "required": [
+        "libcst",
+        "pathspec",
+        "pyyaml",
+        "tomlkit",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "libcst (>=0.3.10)",
+      "pathspec (>=0.9.0)",
+      "pyyaml (>=5.3.1)",
+      "tomlkit (>=0.11.1)",
+      "typer (>=0.4.1)"
+    ]
+  },
+  "pycln-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d6731e17a60728b827211de2ca4bfc9b40ea1df99a12f3e0fd06a98a0c9e6caa",
+    "dependencies": {
+      "required": [
+        "dataclasses",
+        "libcst",
+        "libcst",
+        "pathspec",
+        "pyyaml",
+        "tomlkit",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses (>=0.7,<0.8) ; python_version == \"3.6\"",
+      "libcst (>=0.3.10) ; python_version >= \"3.7\"",
+      "libcst (>=0.3.10,<0.4.0) ; python_version < \"3.7\"",
+      "pathspec (>=0.9.0)",
+      "pyyaml (>=5.3.1)",
+      "tomlkit (>=0.11.1)",
+      "typer (>=0.4.1)"
+    ]
+  },
+  "pycln-2.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "73ed5e997dac02cb6dc84bf87c1d834191d026cfabade94e913973610abd65f7",
+    "dependencies": {
+      "required": [
+        "dataclasses",
+        "libcst",
+        "libcst",
+        "pathspec",
+        "pyyaml",
+        "tomlkit",
+        "typer"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses (>=0.7,<0.8) ; python_version == \"3.6\"",
+      "libcst (>=0.3.10) ; python_version >= \"3.7\"",
+      "libcst (>=0.3.10,<0.4.0) ; python_version < \"3.7\"",
+      "pathspec (>=0.9.0)",
+      "pyyaml (>=5.3.1)",
+      "tomlkit (>=0.11.1)",
+      "typer (>=0.4.1)"
+    ]
+  }
+}

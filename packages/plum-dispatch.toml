@@ -1,0 +1,12 @@
+# Package configuration for plum-dispatch
+conda_forge = "plum-dispatch"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "plum_dispatch-2.6.0-py3-none-any.whl" },
+  { filename = "plum_dispatch-2.5.8-py3-none-any.whl" },
+  { filename = "plum_dispatch-2.5.7-py3-none-any.whl" },
+  { filename = "plum_dispatch-2.5.6-py3-none-any.whl" },
+  { filename = "plum_dispatch-2.5.5-py3-none-any.whl" },
+]

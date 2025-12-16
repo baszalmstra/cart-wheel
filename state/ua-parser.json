@@ -1,0 +1,53 @@
+{
+  "ua_parser-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b059f2cb0935addea7e551251cbbf42e9a8872f86134163bc1a4f79e0945ffea",
+    "dependencies": {
+      "required": [
+        "ua-parser-builtins"
+      ]
+    },
+    "original_requirements": [
+      "ua-parser-builtins",
+      "PyYaml; extra == \"yaml\"",
+      "google-re2; extra == \"re2\"",
+      "ua-parser-rs; extra == \"regex\""
+    ]
+  },
+  "ua_parser-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b31133606a781f56692caa11a9671a9f330c22604b3c4957a7ba18c152212d0",
+    "dependencies": {
+      "required": [
+        "ua-parser-builtins"
+      ]
+    },
+    "original_requirements": [
+      "ua-parser-builtins",
+      "PyYaml; extra == \"yaml\"",
+      "google-re2; extra == \"re2\"",
+      "ua-parser-rs; extra == \"regex\""
+    ]
+  },
+  "ua_parser-0.18.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9d94ac3a80bcb0166823956a779186c746b50ea4c9fd9bf30fdb758553c38950",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "ua_parser-0.16.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f97126300df8ac0f8f2c9d8559669532d626a1af529265fd253cba56e73ab36e",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "ua_parser-0.16.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f11dcec514d211be24671da296c491adbe43d76e6866d99972fda966c77b6349",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

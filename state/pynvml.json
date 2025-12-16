@@ -1,0 +1,53 @@
+{
+  "pynvml-13.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2b20e0a501eeec951e2455b7ab444759cf048e0e13a57b08049fa2775266aa8",
+    "dependencies": {
+      "required": [
+        "nvidia-ml-py"
+      ]
+    },
+    "original_requirements": [
+      "nvidia-ml-py>=12.0.0",
+      "pytest>=3.6; extra == \"test\"",
+      "pytest-runner; extra == \"test\"",
+      "pytest-cov; extra == \"test\""
+    ]
+  },
+  "pynvml-12.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fdff84b62a27dbe98e08e1a647eb77342bef1aebe0878bcd15e99a83fcbecb9e",
+    "dependencies": {
+      "required": [
+        "nvidia-ml-py"
+      ]
+    },
+    "original_requirements": [
+      "nvidia-ml-py<13.0.0a0,>=12.0.0",
+      "pytest>=3.6; extra == \"test\"",
+      "pytest-runner; extra == \"test\"",
+      "pytest-cov; extra == \"test\""
+    ]
+  },
+  "pynvml-11.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a5fba3ab14febda50d19dbda012ef62ae0aed45b7ccc07af0bc5be79223e450c",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "pynvml-11.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "227ccc843f8fa37ff50c73b272b15c073ce210c0e2da8dd329b86f5522072181",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "pynvml-11.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5cce014ac01b098d08f06178f86c37be409b80b2e903a5a03ce15eed60f55e25",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

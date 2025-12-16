@@ -1,0 +1,102 @@
+{
+  "livekit_api-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bfc1c2c65392eb3f580a2c28108269f0e79873f053578a677eee7bb1de8aa8fb",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "aiohttp",
+        "protobuf",
+        "types-protobuf",
+        "livekit-protocol"
+      ]
+    },
+    "original_requirements": [
+      "pyjwt>=2.0.0",
+      "aiohttp>=3.9.0",
+      "protobuf>=4",
+      "types-protobuf>=4",
+      "livekit-protocol<2.0.0,>=1.1.1"
+    ]
+  },
+  "livekit_api-1.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "517eb61028a858f2a245f17f900e4c1eee4638a536bfb0f94728673d35c8970e",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "aiohttp",
+        "protobuf",
+        "types-protobuf",
+        "livekit-protocol"
+      ]
+    },
+    "original_requirements": [
+      "pyjwt>=2.0.0",
+      "aiohttp>=3.9.0",
+      "protobuf>=4",
+      "types-protobuf>=4",
+      "livekit-protocol<2.0.0,>=1.0.4"
+    ]
+  },
+  "livekit_api-1.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "577e103881a260abe737ec5ce44f5ff59193618d7db77052f9c7e86903d36fe4",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "aiohttp",
+        "protobuf",
+        "types-protobuf",
+        "livekit-protocol"
+      ]
+    },
+    "original_requirements": [
+      "pyjwt>=2.0.0",
+      "aiohttp>=3.9.0",
+      "protobuf>=4",
+      "types-protobuf>=4",
+      "livekit-protocol<2.0.0,>=1.0.4"
+    ]
+  },
+  "livekit_api-1.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6af149b58b182f43e9a5d2d764582ed6f083c80b520ab3d489c817cea554255e",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "aiohttp",
+        "protobuf",
+        "types-protobuf",
+        "livekit-protocol"
+      ]
+    },
+    "original_requirements": [
+      "pyjwt>=2.0.0",
+      "aiohttp>=3.9.0",
+      "protobuf>=4",
+      "types-protobuf>=4",
+      "livekit-protocol<2.0.0,>=1.0.4"
+    ]
+  },
+  "livekit_api-1.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "583004fc6aa7255d53932c5863145dbec16a4645fbf3944f0fdcbf2bb8ed9f86",
+    "dependencies": {
+      "required": [
+        "pyjwt",
+        "aiohttp",
+        "protobuf",
+        "types-protobuf",
+        "livekit-protocol"
+      ]
+    },
+    "original_requirements": [
+      "pyjwt>=2.0.0",
+      "aiohttp>=3.9.0",
+      "protobuf>=4",
+      "types-protobuf>=4",
+      "livekit-protocol<2.0.0,>=1.0.4"
+    ]
+  }
+}

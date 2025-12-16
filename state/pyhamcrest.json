@@ -1,0 +1,118 @@
+{
+  "pyhamcrest-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6913d2f392e30e0375b3ecbd7aee79e5d1faa25d345c8f4ff597665dcac2587",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "black; extra == 'dev'",
+      "doc2dash; extra == 'dev'",
+      "flake8; extra == 'dev'",
+      "pyhamcrest[docs,tests]; extra == 'dev'",
+      "pytest-mypy; extra == 'dev'",
+      "towncrier; extra == 'dev'",
+      "tox; extra == 'dev'",
+      "tox-asdf; extra == 'dev'",
+      "twine; extra == 'dev'",
+      "alabaster~=0.7; extra == 'docs'",
+      "sphinx~=4.0; extra == 'docs'",
+      "coverage[toml]; extra == 'tests'",
+      "dataclasses; python_version < '3.7' and extra == 'tests'",
+      "mypy!=0.940; platform_python_implementation != 'PyPy' and extra == 'tests'",
+      "pytest-mypy-plugins; platform_python_implementation != 'PyPy' and extra == 'tests'",
+      "pytest-sugar; extra == 'tests'",
+      "pytest-xdist; extra == 'tests'",
+      "pytest>=5.0; extra == 'tests'",
+      "pyyaml; extra == 'tests'",
+      "types-dataclasses; python_version < '3.7' and extra == 'tests'",
+      "types-mock; extra == 'tests'",
+      "numpy; extra == 'tests-numpy'",
+      "pyhamcrest[tests]; extra == 'tests-numpy'"
+    ]
+  },
+  "pyhamcrest-2.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60a41d4783b9d56c9ec8586635d2301db5072b3ea8a51c32dd03c408ae2b0f79",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "black; extra == 'dev'",
+      "flake8; extra == 'dev'",
+      "pyhamcrest[docs,tests]; extra == 'dev'",
+      "pytest-mypy; extra == 'dev'",
+      "towncrier; extra == 'dev'",
+      "tox; extra == 'dev'",
+      "tox-asdf; extra == 'dev'",
+      "twine; extra == 'dev'",
+      "alabaster~=0.7; extra == 'docs'",
+      "sphinx~=4.0; extra == 'docs'",
+      "coverage[toml]; extra == 'tests'",
+      "dataclasses; python_version < '3.7' and extra == 'tests'",
+      "mypy!=0.940; platform_python_implementation != 'PyPy' and extra == 'tests'",
+      "pytest-mypy-plugins; platform_python_implementation != 'PyPy' and extra == 'tests'",
+      "pytest-sugar; extra == 'tests'",
+      "pytest-xdist; extra == 'tests'",
+      "pytest>=5.0; extra == 'tests'",
+      "types-dataclasses; python_version < '3.7' and extra == 'tests'",
+      "types-mock; extra == 'tests'",
+      "numpy; extra == 'tests-numpy'",
+      "pyhamcrest[tests]; extra == 'tests-numpy'"
+    ]
+  },
+  "PyHamcrest-2.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c29dc977154c49e17c30d1ed49a0a6e31cb0dc7bcf733ac4aa9cb58519c2b00c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx (~=3.0) ; extra == 'dev'",
+      "alabaster (~=0.7) ; extra == 'dev'",
+      "pytest (>=5.0) ; extra == 'dev'",
+      "pytest-sugar ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "coverage[toml] ; extra == 'dev'",
+      "types-mock ; extra == 'dev'",
+      "towncrier ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "pytest-mypy ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "tox-pyenv ; extra == 'dev'",
+      "tox-asdf ; extra == 'dev'",
+      "pytest-mypy-plugins ; (platform_python_implementation != \"PyPy\") and extra == 'dev'",
+      "sphinx (~=3.0) ; extra == 'docs'",
+      "alabaster (~=0.7) ; extra == 'docs'",
+      "pytest (>=5.0) ; extra == 'tests'",
+      "pytest-sugar ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "coverage[toml] ; extra == 'tests'",
+      "types-mock ; extra == 'tests'",
+      "pytest (>=5.0) ; extra == 'tests-numpy'",
+      "pytest-sugar ; extra == 'tests-numpy'",
+      "pytest-xdist ; extra == 'tests-numpy'",
+      "coverage[toml] ; extra == 'tests-numpy'",
+      "types-mock ; extra == 'tests-numpy'",
+      "numpy ; extra == 'tests-numpy'",
+      "pytest-mypy-plugins ; (platform_python_implementation != \"PyPy\") and extra == 'tests-numpy'",
+      "pytest-mypy-plugins ; (platform_python_implementation != \"PyPy\") and extra == 'tests'"
+    ]
+  },
+  "PyHamcrest-2.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ead136e03655af85069b6f47b23eb7c3e5c221aa9f022a4fbb499f5b7308f29",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "PyHamcrest-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55abfc14ec38ed2bd6093add3be72385c1b7fd8e6aeb27448c00f95cb501c60e",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

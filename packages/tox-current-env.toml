@@ -1,0 +1,12 @@
+# Package configuration for tox-current-env
+conda_forge = "tox-current-env"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tox_current_env-0.0.16-py3-none-any.whl" },
+  { filename = "tox_current_env-0.0.15-py3-none-any.whl" },
+  { filename = "tox_current_env-0.0.14-py3-none-any.whl" },
+  { filename = "tox_current_env-0.0.12-py3-none-any.whl" },
+  { filename = "tox_current_env-0.0.11-py3-none-any.whl" },
+]

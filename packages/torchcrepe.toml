@@ -1,0 +1,11 @@
+# Package configuration for torchcrepe
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "torchcrepe-0.0.24-py3-none-any.whl" },
+  { filename = "torchcrepe-0.0.23-py3-none-any.whl" },
+  { filename = "torchcrepe-0.0.22-py3-none-any.whl" },
+  { filename = "torchcrepe-0.0.21-py3-none-any.whl" },
+  { filename = "torchcrepe-0.0.20-py3-none-any.whl" },
+]

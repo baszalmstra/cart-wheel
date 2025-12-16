@@ -1,0 +1,12 @@
+# Package configuration for sigtools
+conda_forge = "sigtools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sigtools-4.0.1-py2.py3-none-any.whl" },
+  { filename = "sigtools-4.0.0-py2.py3-none-any.whl" },
+  { filename = "sigtools-2.0.3-py2.py3-none-any.whl" },
+  { filename = "sigtools-2.0.2-py2.py3-none-any.whl" },
+  { filename = "sigtools-2.0.1-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,7 @@
+# Package configuration for vmaf-torch
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "vmaf_torch-1.1.0-py3-none-any.whl" },
+]

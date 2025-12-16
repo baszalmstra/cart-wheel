@@ -1,0 +1,28 @@
+{
+  "trectools-0.0.45-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84125eae46c1d80701bf71efa0bc1181e05216df134b40a49516c2b476f6981f",
+    "dependencies": {
+      "required": [
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "scipy",
+        "sarge",
+        "lxml",
+        "bs4",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "pandas (>=0.15.0)",
+      "numpy (>=1.0.0)",
+      "scikit-learn (>=0.15)",
+      "scipy (>=0.10.0)",
+      "sarge (>=0.1.1)",
+      "lxml (>=3.6.0)",
+      "bs4 (>=0.0.0.1)",
+      "matplotlib (>=1.5)"
+    ]
+  }
+}

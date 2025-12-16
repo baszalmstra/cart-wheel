@@ -1,0 +1,12 @@
+# Package configuration for pulp
+conda_forge = "pulp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pulp-3.3.0-py3-none-any.whl" },
+  { filename = "pulp-3.2.2-py3-none-any.whl" },
+  { filename = "pulp-3.2.1-py3-none-any.whl" },
+  { filename = "pulp-3.2.0-py3-none-any.whl" },
+  { filename = "pulp-3.1.1-py3-none-any.whl" },
+]

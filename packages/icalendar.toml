@@ -1,0 +1,12 @@
+# Package configuration for icalendar
+conda_forge = "icalendar"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "icalendar-6.3.2-py3-none-any.whl" },
+  { filename = "icalendar-6.3.1-py3-none-any.whl" },
+  { filename = "icalendar-6.3.0-py3-none-any.whl" },
+  { filename = "icalendar-6.2.0-py3-none-any.whl" },
+  { filename = "icalendar-6.1.3-py3-none-any.whl" },
+]

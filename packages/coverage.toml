@@ -1,0 +1,12 @@
+# Package configuration for coverage
+conda_forge = "coverage"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "coverage-7.13.0-py3-none-any.whl" },
+  { filename = "coverage-7.12.0-py3-none-any.whl" },
+  { filename = "coverage-7.11.3-py3-none-any.whl" },
+  { filename = "coverage-7.11.2-py3-none-any.whl" },
+  { filename = "coverage-7.11.1-py3-none-any.whl" },
+]

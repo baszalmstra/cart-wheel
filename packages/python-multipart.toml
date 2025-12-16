@@ -1,0 +1,12 @@
+# Package configuration for python-multipart
+conda_forge = "python-multipart"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_multipart-0.0.20-py3-none-any.whl" },
+  { filename = "python_multipart-0.0.19-py3-none-any.whl" },
+  { filename = "python_multipart-0.0.18-py3-none-any.whl" },
+  { filename = "python_multipart-0.0.17-py3-none-any.whl" },
+  { filename = "python_multipart-0.0.16-py3-none-any.whl" },
+]

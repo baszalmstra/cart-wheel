@@ -1,0 +1,11 @@
+# Package configuration for summ-eval
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "summ_eval-0.892-py3-none-any.whl" },
+  { filename = "summ_eval-0.891-py3-none-any.whl" },
+  { filename = "summ_eval-0.89-py3-none-any.whl" },
+  { filename = "summ_eval-0.88-py3-none-any.whl" },
+  { filename = "summ_eval-0.87-py3-none-any.whl" },
+]

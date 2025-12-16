@@ -1,0 +1,75 @@
+{
+  "pytest_httpbin-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3bf7346cc2ad231447189cd85b458e341056684a7a69d69533dd29692209cdd",
+    "dependencies": {
+      "required": [
+        "httpbin"
+      ]
+    },
+    "original_requirements": [
+      "httpbin",
+      "requests; extra == \"test\"",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "pytest_httpbin-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d977f8095796e27a45911bbafa3587c081c9025e060e2fdb559794db2d45e82d",
+    "dependencies": {
+      "required": [
+        "httpbin"
+      ]
+    },
+    "original_requirements": [
+      "httpbin",
+      "requests ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "werkzeug (<2.1.0) ; extra == 'test'"
+    ]
+  },
+  "pytest_httpbin-1.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe690f4808b668fba4737d052d533ab86a2d30cb7a17fe7e64fdaa985b3d1b7e",
+    "dependencies": {
+      "required": [
+        "httpbin",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "httpbin",
+      "six",
+      "requests ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "pytest_httpbin-1.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "97a7f733b151b7298f8c26821931e2248fe62c0ce357ee34cc67319af21ca7ed",
+    "dependencies": {
+      "required": [
+        "httpbin",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "httpbin",
+      "six"
+    ]
+  },
+  "pytest_httpbin-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "973047d5c36c03afbbb91322e510e0f2337fd25cb0c837d749c989620d3be16a",
+    "dependencies": {
+      "required": [
+        "httpbin",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "httpbin",
+      "six"
+    ]
+  }
+}

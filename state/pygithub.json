@@ -1,0 +1,106 @@
+{
+  "pygithub-2.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23a0a5bca93baef082e03411bf0ce27204c32be8bfa7abc92fe4a3e132936df0",
+    "dependencies": {
+      "required": [
+        "pynacl",
+        "requests",
+        "pyjwt",
+        "typing-extensions",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "pynacl>=1.4.0",
+      "requests>=2.14.0",
+      "pyjwt[crypto]>=2.4.0",
+      "typing-extensions>=4.5.0",
+      "urllib3>=1.26.0"
+    ]
+  },
+  "pygithub-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11a3473c1c2f1c39c525d0ee8c559f369c6d46c272cb7321c9b0cabc7aa1ce7d",
+    "dependencies": {
+      "required": [
+        "pynacl",
+        "requests",
+        "pyjwt",
+        "typing-extensions",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "pynacl>=1.4.0",
+      "requests>=2.14.0",
+      "pyjwt[crypto]>=2.4.0",
+      "typing-extensions>=4.5.0",
+      "urllib3>=1.26.0"
+    ]
+  },
+  "pygithub-2.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40ecbfe26dc55cc34ab4b0ffa1d455e6f816ef9a2bc8d6f5ad18ce572f163700",
+    "dependencies": {
+      "required": [
+        "pynacl",
+        "requests",
+        "pyjwt",
+        "typing-extensions",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "pynacl>=1.4.0",
+      "requests>=2.14.0",
+      "pyjwt[crypto]>=2.4.0",
+      "typing-extensions>=4.5.0",
+      "urllib3>=1.26.0"
+    ]
+  },
+  "PyGithub-2.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f2fa6d076ccae475f9fc392cc6cdbd54db985d4f69b8833a28397de75ed6ca3",
+    "dependencies": {
+      "required": [
+        "pynacl",
+        "requests",
+        "pyjwt",
+        "typing-extensions",
+        "urllib3",
+        "deprecated"
+      ]
+    },
+    "original_requirements": [
+      "pynacl>=1.4.0",
+      "requests>=2.14.0",
+      "pyjwt[crypto]>=2.4.0",
+      "typing-extensions>=4.0.0",
+      "urllib3>=1.26.0",
+      "Deprecated"
+    ]
+  },
+  "PyGithub-2.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22635b245b885413c607bb86393603cadcfdcb67a9b81ce9a64634e64f308084",
+    "dependencies": {
+      "required": [
+        "pynacl",
+        "requests",
+        "pyjwt",
+        "typing-extensions",
+        "urllib3",
+        "deprecated"
+      ]
+    },
+    "original_requirements": [
+      "pynacl>=1.4.0",
+      "requests>=2.14.0",
+      "pyjwt[crypto]>=2.4.0",
+      "typing-extensions>=4.0.0",
+      "urllib3>=1.26.0",
+      "Deprecated"
+    ]
+  }
+}

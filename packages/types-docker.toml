@@ -1,0 +1,12 @@
+# Package configuration for types-docker
+conda_forge = "types-docker"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_docker-7.1.0.20251202-py3-none-any.whl" },
+  { filename = "types_docker-7.1.0.20251129-py3-none-any.whl" },
+  { filename = "types_docker-7.1.0.20251127-py3-none-any.whl" },
+  { filename = "types_docker-7.1.0.20251125-py3-none-any.whl" },
+  { filename = "types_docker-7.1.0.20251009-py3-none-any.whl" },
+]

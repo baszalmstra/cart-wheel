@@ -1,0 +1,11 @@
+# Package configuration for types-aiobotocore-bedrock-data-automation-runtime
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_bedrock_data_automation_runtime-3.0.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_bedrock_data_automation_runtime-2.26.0-py3-none-any.whl" },
+  { filename = "types_aiobotocore_bedrock_data_automation_runtime-2.25.2-py3-none-any.whl" },
+  { filename = "types_aiobotocore_bedrock_data_automation_runtime-2.25.1-py3-none-any.whl" },
+  { filename = "types_aiobotocore_bedrock_data_automation_runtime-2.25.0-py3-none-any.whl" },
+]

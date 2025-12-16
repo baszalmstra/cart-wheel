@@ -1,0 +1,203 @@
+{
+  "seqio-0.0.20-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b57ca3048a707d14504842b151edafc2b1c684df52aeb06672cfe166db9000d",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "clu",
+        "editdistance",
+        "jax",
+        "jaxlib",
+        "numpy",
+        "packaging",
+        "pyglove",
+        "sentencepiece",
+        "tensorflow-text",
+        "tensorflow-datasets"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "clu",
+      "editdistance",
+      "jax",
+      "jaxlib",
+      "numpy",
+      "packaging",
+      "pyglove",
+      "sentencepiece>=0.2",
+      "tensorflow-text",
+      "tensorflow-datasets",
+      "gevent; extra == \"gcp\"",
+      "google-api-python-client; extra == \"gcp\"",
+      "google-compute-engine; extra == \"gcp\"",
+      "google-cloud-storage; extra == \"gcp\"",
+      "oauth2client; extra == \"gcp\"",
+      "apache-beam; extra == \"cache-tasks\"",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "seqio-0.0.19-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c3b1d8d6bbd9d6dd96ca9a110c10d12aaaa4cf82123957e222155c72a396e76",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "clu",
+        "editdistance",
+        "jax",
+        "jaxlib",
+        "numpy",
+        "packaging",
+        "pyglove",
+        "sentencepiece",
+        "tensorflow-text",
+        "tfds-nightly",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "clu",
+      "editdistance",
+      "jax",
+      "jaxlib",
+      "numpy",
+      "packaging",
+      "pyglove",
+      "sentencepiece",
+      "tensorflow-text",
+      "tfds-nightly ==4.9.2.dev202308090034",
+      "protobuf <=3.20.3",
+      "apache-beam ; extra == 'cache-tasks'",
+      "gevent ; extra == 'gcp'",
+      "google-api-python-client ; extra == 'gcp'",
+      "google-compute-engine ; extra == 'gcp'",
+      "google-cloud-storage ; extra == 'gcp'",
+      "oauth2client ; extra == 'gcp'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "seqio-0.0.18-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "856fec6be4f2f5f5ffafb10d36b41f6a5b90670ee964dd600a341c6319349c7b",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "clu",
+        "editdistance",
+        "jax",
+        "jaxlib",
+        "numpy",
+        "packaging",
+        "pyglove",
+        "sentencepiece",
+        "tensorflow-text",
+        "tfds-nightly",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "clu",
+      "editdistance",
+      "jax",
+      "jaxlib",
+      "numpy",
+      "packaging",
+      "pyglove",
+      "sentencepiece",
+      "tensorflow-text",
+      "tfds-nightly",
+      "protobuf <=3.20.3",
+      "apache-beam ; extra == 'cache-tasks'",
+      "gevent ; extra == 'gcp'",
+      "google-api-python-client ; extra == 'gcp'",
+      "google-compute-engine ; extra == 'gcp'",
+      "google-cloud-storage ; extra == 'gcp'",
+      "oauth2client ; extra == 'gcp'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "seqio-0.0.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c1d3e6b640d0287ad65837cf3518aeeee7ad1cb09d0527340ef04001abe4a55",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "clu",
+        "editdistance",
+        "jax",
+        "jaxlib",
+        "numpy",
+        "packaging",
+        "pyglove",
+        "sentencepiece",
+        "tensorflow-text",
+        "tfds-nightly",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "clu",
+      "editdistance",
+      "jax",
+      "jaxlib",
+      "numpy",
+      "packaging",
+      "pyglove",
+      "sentencepiece",
+      "tensorflow-text",
+      "tfds-nightly",
+      "protobuf <=3.20.3",
+      "apache-beam ; extra == 'cache-tasks'",
+      "gevent ; extra == 'gcp'",
+      "google-api-python-client ; extra == 'gcp'",
+      "google-compute-engine ; extra == 'gcp'",
+      "google-cloud-storage ; extra == 'gcp'",
+      "oauth2client ; extra == 'gcp'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "seqio-0.0.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "54271a4cc540ef8b2734acfe5f37edf6f0fe8065b45158b3700c02c7934ac84e",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "clu",
+        "editdistance",
+        "jax",
+        "jaxlib",
+        "numpy",
+        "packaging",
+        "pyglove",
+        "sentencepiece",
+        "tensorflow-text",
+        "tfds-nightly"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "clu",
+      "editdistance",
+      "jax",
+      "jaxlib",
+      "numpy",
+      "packaging",
+      "pyglove",
+      "sentencepiece",
+      "tensorflow-text",
+      "tfds-nightly",
+      "apache-beam ; extra == 'cache-tasks'",
+      "gevent ; extra == 'gcp'",
+      "google-api-python-client ; extra == 'gcp'",
+      "google-compute-engine ; extra == 'gcp'",
+      "google-cloud-storage ; extra == 'gcp'",
+      "oauth2client ; extra == 'gcp'",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

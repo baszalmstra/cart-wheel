@@ -1,0 +1,12 @@
+# Package configuration for yamlfix
+conda_forge = "yamlfix"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "yamlfix-1.19.0-py3-none-any.whl" },
+  { filename = "yamlfix-1.18.0-py3-none-any.whl" },
+  { filename = "yamlfix-1.17.0-py3-none-any.whl" },
+  { filename = "yamlfix-1.16.1-py3-none-any.whl" },
+  { filename = "yamlfix-1.16.0-py3-none-any.whl" },
+]

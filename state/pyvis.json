@@ -1,0 +1,90 @@
+{
+  "pyvis-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5720c4ca8161dc5d9ab352015723abb7a8bb8fb443edeb07f7a322db34a97555",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "jinja2",
+        "jsonpickle",
+        "networkx"
+      ]
+    },
+    "original_requirements": [
+      "ipython (>=5.3.0)",
+      "jinja2 (>=2.9.6)",
+      "jsonpickle (>=1.4.1)",
+      "networkx (>=1.11)"
+    ]
+  },
+  "pyvis-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd45edfa709e0f08695aa8df730866aa1d2c487823e7938d6d0ddbf52d099510",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "jinja2",
+        "jsonpickle",
+        "networkx"
+      ]
+    },
+    "original_requirements": [
+      "ipython (>=5.3.0)",
+      "jinja2 (>=2.9.6)",
+      "jsonpickle (>=1.4.1)",
+      "networkx (>=1.11)"
+    ]
+  },
+  "pyvis-0.1.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d7cab58f120db544e668ac53194fbb3f312e5ba691d7843e2048a43981b1356",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "networkx",
+        "ipython",
+        "jsonpickle"
+      ]
+    },
+    "original_requirements": [
+      "jinja2 (>=2.9.6)",
+      "networkx (>=1.11)",
+      "ipython (>=5.3.0)",
+      "jsonpickle (>=1.4.1)"
+    ]
+  },
+  "pyvis-0.1.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b903cc71d9f2ac8d7e7959cc8722f22cd0c57f9993ee0f1cb5059346eef37b7e",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "networkx",
+        "ipython",
+        "jsonpickle"
+      ]
+    },
+    "original_requirements": [
+      "jinja2 (>=2.9.6)",
+      "networkx (>=1.11)",
+      "ipython (>=5.3.0)",
+      "jsonpickle (>=1.4.1)"
+    ]
+  },
+  "pyvis-0.1.8.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd22265af1efecf3cd7a2dca409f6ee3cd16c23c002cfff4c047f0f00923d3bb",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "networkx",
+        "ipython"
+      ]
+    },
+    "original_requirements": [
+      "jinja2 (>=2.9.6)",
+      "networkx (>=1.11)",
+      "ipython (>=5.3.0)"
+    ]
+  }
+}

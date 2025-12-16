@@ -1,0 +1,168 @@
+{
+  "zodb-6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "619e69c66b3cc9faf4752202c932b19799e70dcf60fc11d10cd1145d0c59e34b",
+    "dependencies": {
+      "required": [
+        "persistent",
+        "btrees",
+        "zconfig",
+        "transaction",
+        "zc.lockfile",
+        "zope.interface",
+        "zodbpickle"
+      ]
+    },
+    "original_requirements": [
+      "persistent>=4.4.0",
+      "BTrees>=4.2.0",
+      "ZConfig",
+      "transaction>=2.4",
+      "zc.lockfile",
+      "zope.interface",
+      "zodbpickle>=1.0.1",
+      "manuel; extra == \"test\"",
+      "zope.testing; extra == \"test\"",
+      "zope.testrunner>=4.4.6; extra == \"test\"",
+      "Sphinx<7; extra == \"docs\"",
+      "ZODB; extra == \"docs\"",
+      "j1m.sphinxautozconfig; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "sphinxcontrib_zopeext; extra == \"docs\""
+    ]
+  },
+  "zodb-6.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "484132ca9273894615606974cce4c0efa80e6cde9ba9b38fa2cbe6849bab1d33",
+    "dependencies": {
+      "required": [
+        "persistent",
+        "btrees",
+        "zconfig",
+        "transaction",
+        "zc.lockfile",
+        "zope.interface",
+        "zodbpickle"
+      ]
+    },
+    "original_requirements": [
+      "persistent>=4.4.0",
+      "BTrees>=4.2.0",
+      "ZConfig",
+      "transaction>=2.4",
+      "zc.lockfile",
+      "zope.interface",
+      "zodbpickle>=1.0.1",
+      "manuel; extra == \"test\"",
+      "zope.testing; extra == \"test\"",
+      "zope.testrunner>=4.4.6; extra == \"test\"",
+      "Sphinx<7; extra == \"docs\"",
+      "ZODB; extra == \"docs\"",
+      "j1m.sphinxautozconfig; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "sphinxcontrib_zopeext; extra == \"docs\""
+    ]
+  },
+  "ZODB-6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "271c5b2cf488f2b3045bb431a2ffc07b69fc3fdba9938587ff8ad37affb2ea43",
+    "dependencies": {
+      "required": [
+        "persistent",
+        "btrees",
+        "zconfig",
+        "transaction",
+        "zc.lockfile",
+        "zope.interface",
+        "zodbpickle"
+      ]
+    },
+    "original_requirements": [
+      "persistent >=4.4.0",
+      "BTrees >=4.2.0",
+      "ZConfig",
+      "transaction >=2.4",
+      "zc.lockfile",
+      "zope.interface",
+      "zodbpickle >=1.0.1",
+      "Sphinx <7 ; extra == 'docs'",
+      "ZODB ; extra == 'docs'",
+      "j1m.sphinxautozconfig ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "sphinxcontrib-zopeext ; extra == 'docs'",
+      "manuel ; extra == 'test'",
+      "zope.testing ; extra == 'test'",
+      "zope.testrunner >=4.4.6 ; extra == 'test'"
+    ]
+  },
+  "ZODB-5.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9059ac90d3b6d05deb7b9a70a298ed266b8fa4899201d78c6c05fd8140ed0ec4",
+    "dependencies": {
+      "required": [
+        "persistent",
+        "btrees",
+        "zconfig",
+        "transaction",
+        "six",
+        "zc.lockfile",
+        "zope.interface",
+        "zodbpickle"
+      ]
+    },
+    "original_requirements": [
+      "persistent (>=4.4.0)",
+      "BTrees (>=4.2.0)",
+      "ZConfig",
+      "transaction (>=2.4)",
+      "six",
+      "zc.lockfile",
+      "zope.interface",
+      "zodbpickle (>=1.0.1)",
+      "Sphinx ; extra == 'docs'",
+      "ZODB ; extra == 'docs'",
+      "j1m.sphinxautozconfig ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "sphinxcontrib-zopeext ; extra == 'docs'",
+      "manuel ; extra == 'test'",
+      "zope.testing ; extra == 'test'",
+      "zope.testrunner (>=4.4.6) ; extra == 'test'",
+      "mock ; (python_version == \"2.7\") and extra == 'test'"
+    ]
+  },
+  "ZODB-5.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52db974ae558cc184eb45f82d79f6fc75174158ef415742f9763224eab890d14",
+    "dependencies": {
+      "required": [
+        "persistent",
+        "btrees",
+        "zconfig",
+        "transaction",
+        "six",
+        "zc.lockfile",
+        "zope.interface",
+        "zodbpickle"
+      ]
+    },
+    "original_requirements": [
+      "persistent (>=4.4.0)",
+      "BTrees (>=4.2.0)",
+      "ZConfig",
+      "transaction (>=2.4)",
+      "six",
+      "zc.lockfile",
+      "zope.interface",
+      "zodbpickle (>=1.0.1)",
+      "Sphinx ; extra == 'docs'",
+      "ZODB ; extra == 'docs'",
+      "j1m.sphinxautozconfig ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "sphinxcontrib-zopeext ; extra == 'docs'",
+      "manuel ; extra == 'test'",
+      "zope.testing ; extra == 'test'",
+      "zope.testrunner (>=4.4.6) ; extra == 'test'",
+      "mock ; (python_version == \"2.7\") and extra == 'test'"
+    ]
+  }
+}

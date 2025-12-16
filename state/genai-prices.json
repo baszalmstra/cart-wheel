@@ -1,0 +1,82 @@
+{
+  "genai_prices-0.0.48-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "88ed3f9ab399389ae7acf6e62a5f7007332d2653926f205671b29e2f2ec5b27c",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "httpx",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2 ; python_full_version < '3.10'",
+      "httpx>=0.27",
+      "pydantic>=2.10"
+    ]
+  },
+  "genai_prices-0.0.47-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "735e45950d2299276f2c00cd18075b77a124cd24ee58243f236ee29af3210594",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "httpx",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2 ; python_full_version < '3.11'",
+      "httpx>=0.27",
+      "pydantic>=2.10"
+    ]
+  },
+  "genai_prices-0.0.46-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4ff7656b7d0d578a85e9828f3404079622d280af2ca004b300684a44a97c1f6",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "httpx",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2 ; python_full_version < '3.11'",
+      "httpx>=0.28.1",
+      "pydantic>=2.10"
+    ]
+  },
+  "genai_prices-0.0.45-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18f66789ed85417770533c00211b96d07a377fe5a18b4fbeb74a08f7d2579e86",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "httpx",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2 ; python_full_version < '3.11'",
+      "httpx>=0.28.1",
+      "pydantic>=2.10"
+    ]
+  },
+  "genai_prices-0.0.44-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "668debbd3d670f0e46af4f5bd0ce815a74847ee8d62d292ee33319ada3733009",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "httpx",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2 ; python_full_version < '3.11'",
+      "httpx>=0.28.1",
+      "pydantic>=2.10"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for awslogs
+conda_forge = "awslogs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "awslogs-0.15.0-py2.py3-none-any.whl" },
+  { filename = "awslogs-0.14.0-py2.py3-none-any.whl" },
+  { filename = "awslogs-0.13.0-py2.py3-none-any.whl" },
+  { filename = "awslogs-0.11.0-py2.py3-none-any.whl" },
+  { filename = "awslogs-0.10.0-py2.py3-none-any.whl" },
+]

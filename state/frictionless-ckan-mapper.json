@@ -1,0 +1,78 @@
+{
+  "frictionless_ckan_mapper-1.0.9-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d95af2d5a56bf1a300a0a20c713067e98d0b71a54cd7dfc3acb737dd4db3f968",
+    "dependencies": {
+      "required": [
+        "six",
+        "unidecode"
+      ]
+    },
+    "original_requirements": [
+      "six (<2.0,>=1.9)",
+      "unidecode",
+      "pylama ; extra == 'develop'",
+      "tox ; extra == 'develop'"
+    ]
+  },
+  "frictionless_ckan_mapper-1.0.8-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "20278277defe462480090ef3226c6b23e2fe124ca696f5a690465761a20fb55c",
+    "dependencies": {
+      "required": [
+        "six",
+        "unidecode"
+      ]
+    },
+    "original_requirements": [
+      "six (<2.0,>=1.9)",
+      "unidecode",
+      "pylama ; extra == 'develop'",
+      "tox ; extra == 'develop'"
+    ]
+  },
+  "frictionless_ckan_mapper-1.0.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8023524a916437e62595f2766d33ca9f6da61f6993ddd7f03bb7c99ab6c57472",
+    "dependencies": {
+      "required": [
+        "six",
+        "unidecode"
+      ]
+    },
+    "original_requirements": [
+      "six (<2.0,>=1.9)",
+      "unidecode",
+      "pylama ; extra == 'develop'",
+      "tox ; extra == 'develop'"
+    ]
+  },
+  "frictionless_ckan_mapper-1.0.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "09be4ebfd79e25a7236cafb54271e2edb70d3b509c9ddb819d63da89af01f6f3",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (<2.0,>=1.9)",
+      "pylama ; extra == 'develop'",
+      "tox ; extra == 'develop'"
+    ]
+  },
+  "frictionless_ckan_mapper-1.0.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "46165420e67e205f33cd236b5b3d51b31f6d507f08d8ba953f27c38451bf18f0",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six (<2.0,>=1.9)",
+      "pylama ; extra == 'develop'",
+      "tox ; extra == 'develop'"
+    ]
+  }
+}

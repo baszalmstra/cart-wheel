@@ -1,0 +1,147 @@
+{
+  "presto_python_client-0.8.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f8ae1e139f7676fb955dd180027ac9ac6450a8552d53b6b85b79fc1da6d37190",
+    "dependencies": {
+      "required": [
+        "click",
+        "requests",
+        "six",
+        "ipaddress",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "requests",
+      "six",
+      "ipaddress ; python_version==\"2.7\"",
+      "typing ; python_version==\"2.7\"",
+      "requests-kerberos ; extra == 'all'",
+      "google-auth ; extra == 'all'",
+      "google-auth ; extra == 'google_auth'",
+      "requests-kerberos ; extra == 'kerberos'",
+      "requests-kerberos ; extra == 'tests'",
+      "google-auth ; extra == 'tests'",
+      "httpretty ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-runner ; extra == 'tests'"
+    ]
+  },
+  "presto_python_client-0.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c45fbb8be71cdbca75b37836c47878eb6333733cc65ceff73b7aa116c410b5bc",
+    "dependencies": {
+      "required": [
+        "click",
+        "requests",
+        "six",
+        "ipaddress",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "requests",
+      "six",
+      "ipaddress ; python_version==\"2.7\"",
+      "typing ; python_version==\"2.7\"",
+      "requests-kerberos ; extra == 'all'",
+      "google-auth ; extra == 'all'",
+      "google-auth ; extra == 'google_auth'",
+      "requests-kerberos ; extra == 'kerberos'",
+      "requests-kerberos ; extra == 'tests'",
+      "google-auth ; extra == 'tests'",
+      "httpretty ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-runner ; extra == 'tests'"
+    ]
+  },
+  "presto_python_client-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37a675df709fb194a656c9729f539dcf153dc4d3fb000a5a8502b22c683eb1aa",
+    "dependencies": {
+      "required": [
+        "click",
+        "requests",
+        "six",
+        "ipaddress",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "requests",
+      "six",
+      "ipaddress ; python_version==\"2.7\"",
+      "typing ; python_version==\"2.7\"",
+      "requests-kerberos ; extra == 'all'",
+      "google-auth ; extra == 'all'",
+      "google-auth ; extra == 'google_auth'",
+      "requests-kerberos ; extra == 'kerberos'",
+      "requests-kerberos ; extra == 'tests'",
+      "google-auth ; extra == 'tests'",
+      "httpretty ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-runner ; extra == 'tests'"
+    ]
+  },
+  "presto_python_client-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "715942c60e7fe93cb11acab180ea1a33ee3b155cb3708dd0ac97049113456a11",
+    "dependencies": {
+      "required": [
+        "click",
+        "requests",
+        "six",
+        "ipaddress",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "requests",
+      "six",
+      "ipaddress ; python_version==\"2.7\"",
+      "typing ; python_version==\"2.7\"",
+      "requests-kerberos ; extra == 'all'",
+      "google-auth ; extra == 'all'",
+      "google-auth ; extra == 'google_auth'",
+      "requests-kerberos ; extra == 'kerberos'",
+      "requests-kerberos ; extra == 'tests'",
+      "google-auth ; extra == 'tests'",
+      "httpretty ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-runner ; extra == 'tests'"
+    ]
+  },
+  "presto_python_client-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3abe9c6d88bc07c38e91e72308e064783cb2c572ec0cd98ea980d2f9c1834de",
+    "dependencies": {
+      "required": [
+        "click",
+        "requests",
+        "six",
+        "ipaddress",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "requests",
+      "six",
+      "ipaddress ; python_version==\"2.7\"",
+      "typing ; python_version==\"2.7\"",
+      "requests-kerberos ; extra == 'all'",
+      "google-auth ; extra == 'all'",
+      "google-auth ; extra == 'google_auth'",
+      "requests-kerberos ; extra == 'kerberos'",
+      "requests-kerberos ; extra == 'tests'",
+      "google-auth ; extra == 'tests'",
+      "httpretty ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-runner ; extra == 'tests'"
+    ]
+  }
+}

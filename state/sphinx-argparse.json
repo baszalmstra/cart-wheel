@@ -1,0 +1,105 @@
+{
+  "sphinx_argparse-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d771b906c36d26dee669dbdbb5605c558d9440247a5608b810f7fa6e26ab1fd3",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=5.1.0",
+      "docutils>=0.19",
+      "furo>=2024 ; extra == \"docs\"",
+      "CommonMark>=0.5.6 ; extra == \"docs\"",
+      "ruff>=0.5 ; extra == \"lint\"",
+      "mypy>=1.10 ; extra == \"lint\"",
+      "types-docutils>=0.21 ; extra == \"lint\"",
+      "lxml-stubs>=0.4 ; extra == \"lint\"",
+      "CommonMark>=0.5.6 ; extra == \"markdown\"",
+      "pytest>=8.0 ; extra == \"test\"",
+      "coverage>=6.5 ; extra == \"test\"",
+      "lxml>=4.9 ; extra == \"test\"",
+      "setuptools>=70.0 ; extra == \"test\"",
+      "typing_extensions>=4.9 ; extra == \"test\""
+    ]
+  },
+  "sphinx_argparse-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d837c9a53119646e57fd1e82aa7c20d7d474d3f8cac1e2524f7400ec4834734",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=5.1.0",
+      "docutils>=0.19",
+      "furo>=2024 ; extra == \"docs\"",
+      "CommonMark>=0.5.6 ; extra == \"docs\"",
+      "ruff>=0.5 ; extra == \"lint\"",
+      "mypy>=1.10 ; extra == \"lint\"",
+      "types-docutils>=0.21 ; extra == \"lint\"",
+      "lxml-stubs>=0.4 ; extra == \"lint\"",
+      "CommonMark>=0.5.6 ; extra == \"markdown\"",
+      "pytest>=8.0 ; extra == \"test\"",
+      "coverage>=6.5 ; extra == \"test\"",
+      "lxml>=4.9 ; extra == \"test\"",
+      "setuptools>=70.0 ; extra == \"test\"",
+      "typing_extensions>=4.9 ; extra == \"test\""
+    ]
+  },
+  "sphinx_argparse-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b0655315b2b28c17ead4fff01ea75f05da7e2889a90b4492e2599248f4a32daa",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=4.0.0",
+      "furo>=2024 ; extra == \"docs\"",
+      "CommonMark>=0.5.6 ; extra == \"docs\"",
+      "ruff>=0.5 ; extra == \"lint\"",
+      "mypy>=1.10 ; extra == \"lint\"",
+      "types-docutils>=0.21 ; extra == \"lint\"",
+      "lxml-stubs>=0.4 ; extra == \"lint\"",
+      "CommonMark>=0.5.6 ; extra == \"markdown\"",
+      "pytest>=8.0 ; extra == \"test\"",
+      "pytest-deadfixtures>=2.2 ; extra == \"test\"",
+      "coverage>=6.5 ; extra == \"test\"",
+      "lxml>=4.9 ; extra == \"test\"",
+      "setuptools>=70.0 ; extra == \"test\"",
+      "typing_extensions>=4.9 ; extra == \"test\""
+    ]
+  },
+  "sphinx_argparse-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "73bee01f7276fae2bf621ccfe4d167af7306e7288e3482005405d9f826f9b037",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "CommonMark (>=0.5.6); extra == \"markdown\"",
+      "sphinx (>=1.2.0)"
+    ]
+  },
+  "sphinx_argparse-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "499afb62d19966651e1e5d601ac912ca2bdfb43f5dad491305d84bef4414f4f4",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "CommonMark (>=0.5.6); extra == \"markdown\"",
+      "sphinx (>=1.2.0)"
+    ]
+  }
+}

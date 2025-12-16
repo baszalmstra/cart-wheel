@@ -1,0 +1,9 @@
+# Package configuration for patronus-api
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "patronus_api-0.3.0-py3-none-any.whl" },
+  { filename = "patronus_api-0.2.0-py3-none-any.whl" },
+  { filename = "patronus_api-0.1.0-py3-none-any.whl" },
+]

@@ -1,0 +1,96 @@
+{
+  "openfga_sdk-0.9.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91ef8973ca1159278cc47b6f6a6d409ef0504ced95e7b28b6252d25e4ab18830",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "opentelemetry-api",
+        "python-dateutil",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp>=3.9.3",
+      "opentelemetry-api>=1.25.0",
+      "python-dateutil>=2.9.0",
+      "urllib3<3,>=1.26.19"
+    ]
+  },
+  "openfga_sdk-0.9.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c9d75685e84ca3c8b598eeab8ccc0c8e2de8a16617b5cef02ab4d3b4d0056b22",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "opentelemetry-api",
+        "python-dateutil",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp>=3.9.3",
+      "opentelemetry-api>=1.25.0",
+      "python-dateutil>=2.9.0",
+      "urllib3<3,>=1.26.19"
+    ]
+  },
+  "openfga_sdk-0.9.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "534b5ee71ab83029e6f27b3d5ea31dfbbfbe3d93218b0072bafec2bc96b10f72",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "opentelemetry-api",
+        "python-dateutil",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp>=3.9.3",
+      "opentelemetry-api>=1.25.0",
+      "python-dateutil>=2.9.0",
+      "urllib3<3,>=1.26.19"
+    ]
+  },
+  "openfga_sdk-0.9.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "100e861f6e15c7697f89c79f8396604862bfac64782e5ed6c490c4b95de438a0",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "opentelemetry-api",
+        "python-dateutil",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp>=3.9.3",
+      "opentelemetry-api>=1.25.0",
+      "python-dateutil>=2.9.0",
+      "urllib3<3,>=1.26.19"
+    ]
+  },
+  "openfga_sdk-0.9.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0a8e338a0c80b72e283edc6423e1869ee4884868fe41616b0e943c8aa74b0495",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "python-dateutil",
+        "setuptools",
+        "build",
+        "urllib3",
+        "opentelemetry-api"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp<4,>=3.9.3",
+      "python-dateutil<3,>=2.9.0",
+      "setuptools>=69.1.1",
+      "build<2,>=1.2.1",
+      "urllib3<3,>=1.26.19",
+      "opentelemetry-api<2,>=1.25.0"
+    ]
+  }
+}

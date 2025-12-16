@@ -1,0 +1,12 @@
+# Package configuration for validate-pyproject
+conda_forge = "validate-pyproject"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "validate_pyproject-0.24.1-py3-none-any.whl" },
+  { filename = "validate_pyproject-0.24-py3-none-any.whl" },
+  { filename = "validate_pyproject-0.23-py3-none-any.whl" },
+  { filename = "validate_pyproject-0.22-py3-none-any.whl" },
+  { filename = "validate_pyproject-0.21-py3-none-any.whl" },
+]

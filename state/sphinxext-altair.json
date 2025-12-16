@@ -1,0 +1,79 @@
+{
+  "sphinxext_altair-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a307add6a530586794ba80204d724305009b5f499782cf1f828af0fc1d056b9",
+    "dependencies": {
+      "required": [
+        "altair",
+        "docutils",
+        "jinja2",
+        "sphinx",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "altair>=4.0.0",
+      "docutils",
+      "jinja2",
+      "sphinx",
+      "typing-extensions>=4.0.1; python_version < '3.8'",
+      "black<24; extra == 'dev'",
+      "hatch; extra == 'dev'",
+      "ipython; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "ruff; extra == 'dev'",
+      "types-docutils; extra == 'dev'"
+    ]
+  },
+  "sphinxext_altair-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d66d74f073b6d987b61e6feead0715e3758066bc3c4bf6da128ddd2377c3405c",
+    "dependencies": {
+      "required": [
+        "altair",
+        "docutils",
+        "sphinx",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "altair>=4.0.0",
+      "docutils",
+      "sphinx",
+      "typing-extensions>=4.0.1; python_version < '3.8'",
+      "black<24; extra == 'dev'",
+      "hatch; extra == 'dev'",
+      "ipython; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "ruff; extra == 'dev'",
+      "types-docutils; extra == 'dev'"
+    ]
+  },
+  "sphinxext_altair-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a1a97e4c6556a2b093076c4657a6cdd566800be536840c03a6cbc0fbb2443f7",
+    "dependencies": {
+      "required": [
+        "altair",
+        "docutils",
+        "sphinx",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "altair>=4.0.0",
+      "docutils",
+      "sphinx",
+      "typing-extensions>=4.0.1; python_version < '3.8'",
+      "black<24; extra == 'dev'",
+      "hatch; extra == 'dev'",
+      "ipython; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "ruff; extra == 'dev'",
+      "types-docutils; extra == 'dev'"
+    ]
+  }
+}

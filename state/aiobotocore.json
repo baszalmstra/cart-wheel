@@ -1,0 +1,194 @@
+{
+  "aiobotocore-3.0.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:08.328248+00:00",
+    "conda_file": "aiobotocore-3.0.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "aioitertools",
+        "botocore",
+        "python-dateutil",
+        "jmespath",
+        "multidict",
+        "wrapt"
+      ],
+      "optional": {
+        "httpx": [
+          "httpx"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiohttp<4.0.0,>=3.9.2",
+      "aioitertools<1.0.0,>=0.5.1",
+      "botocore<1.42.6,>=1.41.0",
+      "python-dateutil<3.0.0,>=2.1",
+      "jmespath<2.0.0,>=0.7.1",
+      "multidict<7.0.0,>=6.0.0",
+      "wrapt<3.0.0,>=1.10.10",
+      "httpx<0.29,>=0.25.1; extra == \"httpx\""
+    ]
+  },
+  "aiobotocore-2.26.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:08.676239+00:00",
+    "conda_file": "aiobotocore-2.26.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "aioitertools",
+        "botocore",
+        "python-dateutil",
+        "jmespath",
+        "multidict",
+        "wrapt"
+      ],
+      "optional": {
+        "awscli": [
+          "awscli"
+        ],
+        "boto3": [
+          "boto3"
+        ],
+        "httpx": [
+          "httpx"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiohttp<4.0.0,>=3.9.2",
+      "aioitertools<1.0.0,>=0.5.1",
+      "botocore<1.41.6,>=1.41.0",
+      "python-dateutil<3.0.0,>=2.1",
+      "jmespath<2.0.0,>=0.7.1",
+      "multidict<7.0.0,>=6.0.0",
+      "wrapt<2.0.0,>=1.10.10",
+      "awscli<1.43.6,>=1.43.0; extra == \"awscli\"",
+      "boto3<1.41.6,>=1.41.0; extra == \"boto3\"",
+      "httpx<0.29,>=0.25.1; extra == \"httpx\""
+    ]
+  },
+  "aiobotocore-2.25.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:08.978274+00:00",
+    "conda_file": "aiobotocore-2.25.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "aioitertools",
+        "botocore",
+        "python-dateutil",
+        "jmespath",
+        "multidict",
+        "wrapt"
+      ],
+      "optional": {
+        "awscli": [
+          "awscli"
+        ],
+        "boto3": [
+          "boto3"
+        ],
+        "httpx": [
+          "httpx"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiohttp<4.0.0,>=3.9.2",
+      "aioitertools<1.0.0,>=0.5.1",
+      "botocore<1.40.71,>=1.40.46",
+      "python-dateutil<3.0.0,>=2.1",
+      "jmespath<2.0.0,>=0.7.1",
+      "multidict<7.0.0,>=6.0.0",
+      "wrapt<2.0.0,>=1.10.10",
+      "awscli<1.42.71,>=1.42.46; extra == \"awscli\"",
+      "boto3<1.40.71,>=1.40.46; extra == \"boto3\"",
+      "httpx<0.29,>=0.25.1; extra == \"httpx\""
+    ]
+  },
+  "aiobotocore-2.25.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:09.283945+00:00",
+    "conda_file": "aiobotocore-2.25.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "aioitertools",
+        "botocore",
+        "python-dateutil",
+        "jmespath",
+        "multidict",
+        "wrapt"
+      ],
+      "optional": {
+        "awscli": [
+          "awscli"
+        ],
+        "boto3": [
+          "boto3"
+        ],
+        "httpx": [
+          "httpx"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiohttp<4.0.0,>=3.9.2",
+      "aioitertools<1.0.0,>=0.5.1",
+      "botocore<1.40.62,>=1.40.46",
+      "python-dateutil<3.0.0,>=2.1",
+      "jmespath<2.0.0,>=0.7.1",
+      "multidict<7.0.0,>=6.0.0",
+      "wrapt<2.0.0,>=1.10.10",
+      "awscli<1.42.62,>=1.42.46; extra == \"awscli\"",
+      "boto3<1.40.62,>=1.40.46; extra == \"boto3\"",
+      "httpx<0.29,>=0.25.1; extra == \"httpx\""
+    ]
+  },
+  "aiobotocore-2.25.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:09.617342+00:00",
+    "conda_file": "aiobotocore-2.25.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "aioitertools",
+        "botocore",
+        "python-dateutil",
+        "jmespath",
+        "multidict",
+        "wrapt"
+      ],
+      "optional": {
+        "awscli": [
+          "awscli"
+        ],
+        "boto3": [
+          "boto3"
+        ],
+        "httpx": [
+          "httpx"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiohttp<4.0.0,>=3.9.2",
+      "aioitertools<1.0.0,>=0.5.1",
+      "botocore<1.40.50,>=1.40.46",
+      "python-dateutil<3.0.0,>=2.1",
+      "jmespath<2.0.0,>=0.7.1",
+      "multidict<7.0.0,>=6.0.0",
+      "wrapt<2.0.0,>=1.10.10",
+      "awscli<1.42.50,>=1.42.46; extra == \"awscli\"",
+      "boto3<1.40.50,>=1.40.46; extra == \"boto3\"",
+      "httpx<0.29,>=0.25.1; extra == \"httpx\""
+    ]
+  }
+}

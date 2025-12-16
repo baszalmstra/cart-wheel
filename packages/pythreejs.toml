@@ -1,0 +1,12 @@
+# Package configuration for pythreejs
+conda_forge = "pythreejs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pythreejs-2.4.2-py3-none-any.whl" },
+  { filename = "pythreejs-2.4.1-py3-none-any.whl" },
+  { filename = "pythreejs-2.4.0-py3-none-any.whl" },
+  { filename = "pythreejs-2.3.0-py2.py3-none-any.whl" },
+  { filename = "pythreejs-2.2.1-py2.py3-none-any.whl" },
+]

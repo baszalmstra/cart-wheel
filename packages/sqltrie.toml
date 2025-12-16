@@ -1,0 +1,12 @@
+# Package configuration for sqltrie
+conda_forge = "sqltrie"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sqltrie-0.11.2-py3-none-any.whl" },
+  { filename = "sqltrie-0.11.1-py3-none-any.whl" },
+  { filename = "sqltrie-0.11.0-py3-none-any.whl" },
+  { filename = "sqltrie-0.10.0-py3-none-any.whl" },
+  { filename = "sqltrie-0.9.0-py3-none-any.whl" },
+]

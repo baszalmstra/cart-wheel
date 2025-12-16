@@ -1,0 +1,7 @@
+# Package configuration for shotdetect-scenedetect-lgss
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "shotdetect_scenedetect_lgss-0.1.0-py3-none-any.whl" },
+]

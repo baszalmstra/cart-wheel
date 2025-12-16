@@ -1,0 +1,61 @@
+{
+  "SPARQLWrapper-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c99a7204fff676ee28e6acef327dc1ff8451c6f7217dcd8d49e8872f324a8a20",
+    "dependencies": {
+      "required": [
+        "rdflib"
+      ]
+    },
+    "original_requirements": [
+      "rdflib (>=6.1.1)",
+      "setuptools (>=3.7.1) ; extra == 'dev'",
+      "mypy (>=0.931) ; extra == 'dev'",
+      "pandas (>=1.3.5) ; extra == 'dev'",
+      "pandas-stubs (>=1.2.0.48) ; extra == 'dev'",
+      "sphinx (<5) ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "keepalive (>=0.5) ; extra == 'keepalive'",
+      "pandas (>=1.3.5) ; extra == 'pandas'"
+    ]
+  },
+  "SPARQLWrapper-1.8.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c7f9c9d8ebb13428771bc3b6dee54197422507dcc3dea34e30d5dcfc53478dec",
+    "dependencies": {
+      "required": [
+        "rdflib"
+      ]
+    },
+    "original_requirements": [
+      "rdflib (>=4.0)",
+      "keepalive (>=0.5); extra == 'keepalive'"
+    ]
+  },
+  "SPARQLWrapper-1.8.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "abc3e7eadcad32fa69a85c003853e2f6f73bda6cc999853838f401a5a1ea1109",
+    "dependencies": {
+      "required": [
+        "rdflib"
+      ]
+    },
+    "original_requirements": [
+      "rdflib (>=4.0)",
+      "keepalive (>=0.5); extra == 'keepalive'"
+    ]
+  },
+  "SPARQLWrapper-1.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a95fdede2833be660b81092934c4a0054ff85f2693098556762a2759ea486f1",
+    "dependencies": {
+      "required": [
+        "rdflib"
+      ]
+    },
+    "original_requirements": [
+      "rdflib (>=4.0)",
+      "keepalive (>=0.5); extra == 'keepalive'"
+    ]
+  }
+}

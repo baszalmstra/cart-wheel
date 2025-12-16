@@ -1,0 +1,12 @@
+# Package configuration for parse-type
+conda_forge = "parse_type"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "parse_type-0.6.6-py2.py3-none-any.whl" },
+  { filename = "parse_type-0.6.4-py2.py3-none-any.whl" },
+  { filename = "parse_type-0.6.3-py2.py3-none-any.whl" },
+  { filename = "parse_type-0.6.2-py2.py3-none-any.whl" },
+  { filename = "parse_type-0.6.1-py2.py3-none-any.whl" },
+]

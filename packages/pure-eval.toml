@@ -1,0 +1,12 @@
+# Package configuration for pure-eval
+conda_forge = "pure_eval"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pure_eval-0.2.3-py3-none-any.whl" },
+  { filename = "pure_eval-0.2.2-py3-none-any.whl" },
+  { filename = "pure_eval-0.2.1-py3-none-any.whl" },
+  { filename = "pure_eval-0.2.0-py3-none-any.whl" },
+  { filename = "pure_eval-0.1.1-py3-none-any.whl" },
+]

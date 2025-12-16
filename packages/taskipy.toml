@@ -1,0 +1,12 @@
+# Package configuration for taskipy
+conda_forge = "taskipy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "taskipy-1.14.1-py3-none-any.whl" },
+  { filename = "taskipy-1.14.0-py3-none-any.whl" },
+  { filename = "taskipy-1.13.0-py3-none-any.whl" },
+  { filename = "taskipy-1.12.2-py3-none-any.whl" },
+  { filename = "taskipy-1.12.0-py3-none-any.whl" },
+]

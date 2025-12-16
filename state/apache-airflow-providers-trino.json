@@ -1,0 +1,120 @@
+{
+  "apache_airflow_providers_trino-6.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3e1ab333658eb44655698e8af094cfa1f00f4efd87f9aab322aba6eb09c66b3",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "pandas",
+        "pandas",
+        "trino"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "trino>=0.319.0",
+      "apache-airflow-providers-google ; extra == \"google\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_trino-6.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b2092392b5b67cfcfe5226dba3c83e27392dbe404f29e4c9a724b934812dc8b",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "pandas",
+        "pandas",
+        "trino"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "trino>=0.319.0",
+      "apache-airflow-providers-google ; extra == \"google\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_trino-6.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eda28fd05b5900a413dd3a99f557b099c311f0545dc88f5189e3f5463acf2e43",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "pandas",
+        "pandas",
+        "trino"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "trino>=0.319.0",
+      "apache-airflow-providers-google ; extra == \"google\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_trino-6.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a87447d8a843b7a1da7da3c1237bf99993c985e98866eaebbc85e29c332d419",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "pandas",
+        "pandas",
+        "trino"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "trino>=0.319.0",
+      "apache-airflow-providers-google ; extra == \"google\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_trino-6.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "adbd5326daf2ca61fa649c51a67b42a0c95a06f5f61100195c2a19b0c88be1c3",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pandas",
+        "pandas",
+        "trino"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "trino>=0.319.0",
+      "apache-airflow-providers-google ; extra == \"google\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  }
+}

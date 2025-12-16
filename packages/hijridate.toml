@@ -1,0 +1,11 @@
+# Package configuration for hijridate
+conda_forge = "hijridate"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hijridate-2.5.0-py3-none-any.whl" },
+  { filename = "hijridate-2.4.1-py3-none-any.whl" },
+  { filename = "hijridate-2.4.0-py3-none-any.whl" },
+  { filename = "hijridate-2.3.0-py3-none-any.whl" },
+]

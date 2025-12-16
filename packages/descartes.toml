@@ -1,0 +1,9 @@
+# Package configuration for descartes
+conda_forge = "descartes"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "descartes-1.1.0-py3-none-any.whl" },
+  { filename = "descartes-1.0.2-py3-none-any.whl" },
+]

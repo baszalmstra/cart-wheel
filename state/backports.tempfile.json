@@ -1,0 +1,14 @@
+{
+  "backports.tempfile-1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "05aa50940946f05759696156a8c39be118169a0e0f94a49d0bb106503891ff54",
+    "dependencies": {
+      "required": [
+        "backports.weakref"
+      ]
+    },
+    "original_requirements": [
+      "backports.weakref"
+    ]
+  }
+}

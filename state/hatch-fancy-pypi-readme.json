@@ -1,0 +1,107 @@
+{
+  "hatch_fancy_pypi_readme-25.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce0134c40d63d874ac48f48ccc678b8f3b62b8e50e9318520d2bffc752eedaf3",
+    "dependencies": {
+      "required": [
+        "hatchling",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "hatchling",
+      "tomli; python_version < '3.11'",
+      "build; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "wheel; extra == 'dev'",
+      "build; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "wheel; extra == 'tests'"
+    ]
+  },
+  "hatch_fancy_pypi_readme-24.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "26ec5c7cfd9f604eff0ae6c927d7b197b220706dca203f0aad1928abc81f3a46",
+    "dependencies": {
+      "required": [
+        "hatchling",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "hatchling",
+      "tomli; python_version < '3.11'",
+      "typing-extensions; python_version < '3.8'",
+      "hatch-fancy-pypi-readme[tests]; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "build; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "wheel; extra == 'tests'"
+    ]
+  },
+  "hatch_fancy_pypi_readme-23.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "715adc3978e449f23f74d5916edf869d779e7c31f43cef77be77b9cac6fa0915",
+    "dependencies": {
+      "required": [
+        "hatchling",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "hatchling",
+      "tomli; python_version < '3.11'",
+      "typing-extensions; python_version < '3.8'",
+      "hatch-fancy-pypi-readme[tests]; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "build; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "wheel; extra == 'tests'"
+    ]
+  },
+  "hatch_fancy_pypi_readme-23.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a2c0e5d527611701858083bfb355876f26e04a075342b7d4da725ba5a6dd6ea",
+    "dependencies": {
+      "required": [
+        "hatchling",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "hatchling",
+      "tomli; python_version < '3.11'",
+      "typing-extensions; python_version < '3.8'",
+      "hatch-fancy-pypi-readme[tests]; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "build; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "wheel; extra == 'tests'"
+    ]
+  },
+  "hatch_fancy_pypi_readme-22.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a29671f0083ef1e9742483fa6d6336aad9f38cc1c5d061a1d6c3d79a8a4e3f15",
+    "dependencies": {
+      "required": [
+        "hatchling",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "hatchling",
+      "tomli; python_version < '3.11'",
+      "typing-extensions; python_version < '3.8'",
+      "hatch-fancy-pypi-readme[tests]; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "build; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "wheel; extra == 'tests'"
+    ]
+  }
+}

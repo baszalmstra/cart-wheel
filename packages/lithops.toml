@@ -1,0 +1,11 @@
+# Package configuration for lithops
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lithops-3.6.2-py3-none-any.whl" },
+  { filename = "lithops-3.6.1-py3-none-any.whl" },
+  { filename = "lithops-3.6.0-py3-none-any.whl" },
+  { filename = "lithops-3.5.1-py3-none-any.whl" },
+  { filename = "lithops-3.5.0-py3-none-any.whl" },
+]

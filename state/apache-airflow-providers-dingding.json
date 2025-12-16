@@ -1,0 +1,78 @@
+{
+  "apache_airflow_providers_dingding-3.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b48900d69e4bbdca07d2ebc45337fe84a1237a30ffc8fa2e553fc8942743586",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-http"
+    ]
+  },
+  "apache_airflow_providers_dingding-3.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "32a3e57bc20e5d8b790dcd3c5db2689f57b725551af35db9cd49f38a0df8d2e2",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-http"
+    ]
+  },
+  "apache_airflow_providers_dingding-3.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a86c83fbd46170c0bc1cc4258ac4ded7fbedf300e1616594302defc90350fb8f",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-http"
+    ]
+  },
+  "apache_airflow_providers_dingding-3.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "008426e46a31ddd73a81c7231f15b6c8dae2a10c3e233095ca1e5e10e756787d",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-http"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-http"
+    ]
+  },
+  "apache_airflow_providers_dingding-3.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24fdbce643a7e1b1bc8a5a52e181094e6a2c99afc2a270085ed1ef72b2c4346f",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-http"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-http"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for flaky
+conda_forge = "flaky"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flaky-3.8.1-py2.py3-none-any.whl" },
+  { filename = "flaky-3.8.0-py2.py3-none-any.whl" },
+  { filename = "flaky-3.7.0-py2.py3-none-any.whl" },
+  { filename = "flaky-3.6.1-py2.py3-none-any.whl" },
+  { filename = "flaky-3.6.0-py2.py3-none-any.whl" },
+]

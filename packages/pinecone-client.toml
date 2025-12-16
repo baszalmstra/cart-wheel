@@ -1,0 +1,11 @@
+# Package configuration for pinecone-client
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pinecone_client-6.0.0-py3-none-any.whl" },
+  { filename = "pinecone_client-5.0.1-py3-none-any.whl" },
+  { filename = "pinecone_client-5.0.0-py3-none-any.whl" },
+  { filename = "pinecone_client-4.1.2-py3-none-any.whl" },
+  { filename = "pinecone_client-4.1.1-py3-none-any.whl" },
+]

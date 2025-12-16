@@ -1,0 +1,12 @@
+# Package configuration for bravado-core
+conda_forge = "bravado-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bravado_core-6.1.0-py2.py3-none-any.whl" },
+  { filename = "bravado_core-6.0.0-py2.py3-none-any.whl" },
+  { filename = "bravado_core-5.17.1-py2.py3-none-any.whl" },
+  { filename = "bravado_core-5.17.0-py2.py3-none-any.whl" },
+  { filename = "bravado_core-5.16.1-py2.py3-none-any.whl" },
+]

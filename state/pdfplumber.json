@@ -1,0 +1,82 @@
+{
+  "pdfplumber-0.11.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7dda117b8ed21bca9c8e7d7808fee2439f93c8bd6ea45989bfb1aead6dc3cad3",
+    "dependencies": {
+      "required": [
+        "pdfminer.six",
+        "pillow",
+        "pypdfium2"
+      ]
+    },
+    "original_requirements": [
+      "pdfminer.six==20251107",
+      "Pillow>=9.1",
+      "pypdfium2>=4.18.0"
+    ]
+  },
+  "pdfplumber-0.11.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "edd2195cca68bd770da479cf528a737e362968ec2351e62a6c0b71ff612ac25e",
+    "dependencies": {
+      "required": [
+        "pdfminer.six",
+        "pillow",
+        "pypdfium2"
+      ]
+    },
+    "original_requirements": [
+      "pdfminer.six==20250506",
+      "Pillow>=9.1",
+      "pypdfium2>=4.18.0"
+    ]
+  },
+  "pdfplumber-0.11.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "169fc2b8dbf328c81a4e9bab30af0c304ad4b472fd7816616eabdb79dc5d9d17",
+    "dependencies": {
+      "required": [
+        "pdfminer.six",
+        "pillow",
+        "pypdfium2"
+      ]
+    },
+    "original_requirements": [
+      "pdfminer.six==20250327",
+      "Pillow>=9.1",
+      "pypdfium2>=4.18.0"
+    ]
+  },
+  "pdfplumber-0.11.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6e0921a57e0ef7356001a0fd811250b0e37a0b42630a922ee48f55cdd534070",
+    "dependencies": {
+      "required": [
+        "pdfminer.six",
+        "pillow",
+        "pypdfium2"
+      ]
+    },
+    "original_requirements": [
+      "pdfminer.six==20231228",
+      "Pillow>=9.1",
+      "pypdfium2>=4.18.0"
+    ]
+  },
+  "pdfplumber-0.11.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6150f0678c7aaba974ac09839c17475d6c0c4d126b5f92cb85154885f31c6d73",
+    "dependencies": {
+      "required": [
+        "pdfminer.six",
+        "pillow",
+        "pypdfium2"
+      ]
+    },
+    "original_requirements": [
+      "pdfminer.six ==20231228",
+      "Pillow >=9.1",
+      "pypdfium2 >=4.18.0"
+    ]
+  }
+}

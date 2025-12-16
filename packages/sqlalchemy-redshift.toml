@@ -1,0 +1,12 @@
+# Package configuration for sqlalchemy-redshift
+conda_forge = "sqlalchemy-redshift"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sqlalchemy_redshift-0.8.14-py2.py3-none-any.whl" },
+  { filename = "sqlalchemy_redshift-0.8.13-py2.py3-none-any.whl" },
+  { filename = "sqlalchemy_redshift-0.8.12-py2.py3-none-any.whl" },
+  { filename = "sqlalchemy_redshift-0.8.11-py2.py3-none-any.whl" },
+  { filename = "sqlalchemy_redshift-0.8.10-py2.py3-none-any.whl" },
+]

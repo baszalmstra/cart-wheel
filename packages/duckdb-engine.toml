@@ -1,0 +1,12 @@
+# Package configuration for duckdb-engine
+conda_forge = "duckdb-engine"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "duckdb_engine-0.17.0-py3-none-any.whl" },
+  { filename = "duckdb_engine-0.16.0-py3-none-any.whl" },
+  { filename = "duckdb_engine-0.15.1-py3-none-any.whl" },
+  { filename = "duckdb_engine-0.15.0-py3-none-any.whl" },
+  { filename = "duckdb_engine-0.14.2-py3-none-any.whl" },
+]

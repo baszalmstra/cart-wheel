@@ -1,0 +1,11 @@
+# Package configuration for mypy-strict-kwargs
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_strict_kwargs-2025.4.3-py2.py3-none-any.whl" },
+  { filename = "mypy_strict_kwargs-2025.3.28-py2.py3-none-any.whl" },
+  { filename = "mypy_strict_kwargs-2024.12.25-py2.py3-none-any.whl" },
+  { filename = "mypy_strict_kwargs-2024.12.24-py2.py3-none-any.whl" },
+  { filename = "mypy_strict_kwargs-2024.12.23.2-py2.py3-none-any.whl" },
+]

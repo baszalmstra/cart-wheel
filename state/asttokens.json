@@ -1,0 +1,81 @@
+{
+  "asttokens-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15a3ebc0f43c2d0a50eeafea25e19046c68398e487b9f1f5b517f7c0f40f976a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "astroid<5,>=2; extra == \"astroid\"",
+      "astroid<5,>=2; extra == \"test\"",
+      "pytest<9.0; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-xdist; extra == \"test\""
+    ]
+  },
+  "asttokens-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e3078351a059199dd5138cb1c706e6430c05eff2ff136af5eb4790f9d28932e2",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "astroid<4,>=2; extra == \"astroid\"",
+      "astroid<4,>=2; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-xdist; extra == \"test\""
+    ]
+  },
+  "asttokens-2.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "051ed49c3dcae8913ea7cd08e46a606dba30b79993209636c4875bc1d637bc24",
+    "dependencies": {
+      "required": [
+        "six",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.12.0",
+      "typing ; python_version < \"3.5\"",
+      "astroid <2,>=1 ; (python_version < \"3\") and extra == 'astroid'",
+      "astroid <4,>=2 ; (python_version >= \"3\") and extra == 'astroid'",
+      "pytest ; extra == 'test'",
+      "astroid <2,>=1 ; (python_version < \"3\") and extra == 'test'",
+      "astroid <4,>=2 ; (python_version >= \"3\") and extra == 'test'"
+    ]
+  },
+  "asttokens-2.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf8fc9e61a86461aa9fb161a14a0841a03c405fa829ac6b202670b3495d2ce69",
+    "dependencies": {
+      "required": [
+        "six",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.12.0",
+      "typing ; python_version < \"3.5\"",
+      "astroid ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "asttokens-2.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bef1a51bc256d349e9f94e7e40e44b705ed1162f55294220dd561d24583d9877",
+    "dependencies": {
+      "required": [
+        "six",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.12.0",
+      "typing ; python_version < \"3.5\"",
+      "astroid ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

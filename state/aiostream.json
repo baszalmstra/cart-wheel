@@ -1,0 +1,122 @@
+{
+  "aiostream-0.7.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:29.676784+00:00",
+    "conda_file": "aiostream-0.7.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ],
+      "optional": {
+        "dev": [
+          "pytest",
+          "pytest-asyncio",
+          "pytest-cov"
+        ]
+      }
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "pytest; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\""
+    ]
+  },
+  "aiostream-0.7.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:29.599856+00:00",
+    "conda_file": "aiostream-0.7.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ],
+      "optional": {
+        "dev": [
+          "pytest",
+          "pytest-asyncio",
+          "pytest-cov"
+        ]
+      }
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "pytest; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\""
+    ]
+  },
+  "aiostream-0.6.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:29.809189+00:00",
+    "conda_file": "aiostream-0.6.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ],
+      "optional": {
+        "dev": [
+          "pytest",
+          "pytest-asyncio",
+          "pytest-cov"
+        ]
+      }
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "pytest ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'"
+    ]
+  },
+  "aiostream-0.6.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:29.978862+00:00",
+    "conda_file": "aiostream-0.6.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ],
+      "optional": {
+        "dev": [
+          "pytest",
+          "pytest-asyncio",
+          "pytest-cov"
+        ]
+      }
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "pytest ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'"
+    ]
+  },
+  "aiostream-0.6.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:29.943135+00:00",
+    "conda_file": "aiostream-0.6.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ],
+      "optional": {
+        "dev": [
+          "pytest",
+          "pytest-asyncio",
+          "pytest-cov"
+        ]
+      }
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "pytest ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'"
+    ]
+  }
+}

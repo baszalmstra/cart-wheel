@@ -1,0 +1,14 @@
+{
+  "mypy_boto3_partnercentral_benefits-1.42.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "21276d694287892b6857372f5c50fe41b8929c4bc8e3b9d41aacf1191034a52b",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for import-linter
+conda_forge = "import-linter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "import_linter-2.9-py3-none-any.whl" },
+  { filename = "import_linter-2.8-py3-none-any.whl" },
+  { filename = "import_linter-2.7-py3-none-any.whl" },
+  { filename = "import_linter-2.6-py3-none-any.whl" },
+  { filename = "import_linter-2.5.2-py3-none-any.whl" },
+]

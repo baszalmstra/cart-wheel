@@ -1,0 +1,53 @@
+{
+  "base58-2.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11a36f4d3ce51dfc1043f3218591ac4eb1ceb172919cebe05b52a5bcc8d245c2",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "mypy ; extra == 'tests'",
+      "PyHamcrest (>=2.0.2) ; extra == 'tests'",
+      "pytest (>=4.6) ; extra == 'tests'",
+      "pytest-benchmark ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-flake8 ; extra == 'tests'"
+    ]
+  },
+  "base58-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8225891d501b68c843ffe30b86371f844a21c6ba00da76f52f9b998ba771fb48",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest (>=4.6) ; extra == 'tests'",
+      "pytest-flake8 ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "PyHamcrest (>=2.0.2) ; extra == 'tests'",
+      "coveralls ; extra == 'tests'",
+      "pytest-benchmark ; extra == 'tests'"
+    ]
+  },
+  "base58-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "447adc750d6b642987ffc6d397ecd15a799852d5f6a1d308d384500243825058",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "base58-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c7f5687da771b519cf86b3236250e7c3543368c576404c9fe2d992a287666e0",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "base58-1.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6aa0553e477478993588303c54659d15e3c17ae062508c854a8b752d07c716bd",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

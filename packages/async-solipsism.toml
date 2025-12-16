@@ -1,0 +1,11 @@
+# Package configuration for async-solipsism
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "async_solipsism-0.8-py3-none-any.whl" },
+  { filename = "async_solipsism-0.7-py3-none-any.whl" },
+  { filename = "async_solipsism-0.6-py3-none-any.whl" },
+  { filename = "async_solipsism-0.5-py3-none-any.whl" },
+  { filename = "async_solipsism-0.4-py3-none-any.whl" },
+]

@@ -1,0 +1,82 @@
+{
+  "testtools-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4371613e430ae5fbafcfc1396321c16c84cd9d4fec6d1dc5756ee07e097af7ac",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruff==0.14.4; extra == 'dev'",
+      "testresources; extra == 'test'",
+      "testscenarios; extra == 'test'",
+      "fixtures; extra == 'twisted'",
+      "twisted; extra == 'twisted'"
+    ]
+  },
+  "testtools-2.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11712e29cebbe92187c3ad47ace5c32f91e1bb7a9f1ac5e8684c2b01eaa6fd2d",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools; python_version >= '3.12'",
+      "ruff==0.4.8; extra == 'dev'",
+      "testresources; extra == 'test'",
+      "testscenarios; extra == 'test'",
+      "fixtures; extra == 'twisted'",
+      "twisted; extra == 'twisted'"
+    ]
+  },
+  "testtools-2.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "56e118ce251544d436d9fbb5ba62f44aeb237aa8fcc3147372b484bbe5f48ef7",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools; python_version >= '3.12'",
+      "testresources; extra == 'test'",
+      "testscenarios; extra == 'test'",
+      "fixtures; extra == 'twisted'",
+      "twisted; extra == 'twisted'"
+    ]
+  },
+  "testtools-2.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "068a20348482301bcee8ad6366021301469fc1c81ac3c80e8c038d711befa2c6",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools; python_version >= '3.12'",
+      "testresources; extra == 'test'",
+      "testscenarios; extra == 'test'",
+      "fixtures; extra == 'twisted'",
+      "twisted; extra == 'twisted'"
+    ]
+  },
+  "testtools-2.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cae7b2c2f459e448e0bb22c017fa1e7b4ba534b6e623d9f7ec0e0312aac8f7e8",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "fixtures"
+      ]
+    },
+    "original_requirements": [
+      "pbr (>=0.11)",
+      "fixtures (>=2.0)",
+      "testscenarios ; extra == 'test'",
+      "testresources ; extra == 'test'",
+      "Twisted ; extra == 'twisted'"
+    ]
+  }
+}

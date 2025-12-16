@@ -1,0 +1,12 @@
+# Package configuration for sagemaker-studio
+conda_forge = "sagemaker-studio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sagemaker_studio-1.1.4-py3-none-any.whl" },
+  { filename = "sagemaker_studio-1.1.3-py3-none-any.whl" },
+  { filename = "sagemaker_studio-1.1.2-py3-none-any.whl" },
+  { filename = "sagemaker_studio-1.1.1-py3-none-any.whl" },
+  { filename = "sagemaker_studio-1.1.0-py3-none-any.whl" },
+]

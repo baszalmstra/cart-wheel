@@ -1,0 +1,12 @@
+# Package configuration for antlr4-python3-runtime
+conda_forge = "antlr-python-runtime"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "antlr4_python3_runtime-4.13.2-py3-none-any.whl" },
+  { filename = "antlr4_python3_runtime-4.13.1-py3-none-any.whl" },
+  { filename = "antlr4_python3_runtime-4.13.0-py3-none-any.whl" },
+  { filename = "antlr4_python3_runtime-4.12.0-py3-none-any.whl" },
+  { filename = "antlr4_python3_runtime-4.11.1-py3-none-any.whl" },
+]

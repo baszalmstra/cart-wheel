@@ -1,0 +1,170 @@
+{
+  "apache_airflow_providers_apache_beam-6.2.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:05.237791+00:00",
+    "conda_file": "apache-airflow-providers-apache-beam-6.2.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-beam",
+        "pyarrow",
+        "numpy",
+        "numpy",
+        "numpy"
+      ],
+      "optional": {
+        "google": [
+          "apache-beam[extras=[gcp]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-beam>=2.60.0; python_version < \"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "numpy>=1.22.4; python_version<'3.11'",
+      "numpy>=1.23.2; python_version<'3.12' and python_version>='3.11'",
+      "numpy>=1.26.0; python_version>='3.12' and python_version < '3.13'",
+      "apache-beam[gcp]>=2.60.0 ; extra == \"google\" and ( python_version < \"3.13\")"
+    ]
+  },
+  "apache_airflow_providers_apache_beam-6.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:05.412355+00:00",
+    "conda_file": "apache-airflow-providers-apache-beam-6.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-beam",
+        "pyarrow",
+        "numpy",
+        "numpy",
+        "numpy"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat;"
+        ],
+        "google": [
+          "apache-beam[extras=[gcp]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-beam>=2.60.0; python_version < \"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "numpy>=1.22.4; python_version<'3.11'",
+      "numpy>=1.23.2; python_version<'3.12' and python_version>='3.11'",
+      "numpy>=1.26.0; python_version>='3.12' and python_version < '3.13'",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\" and ( python_version < '3.13')",
+      "apache-beam[gcp]>=2.60.0 ; extra == \"google\" and ( python_version < \"3.13\")"
+    ]
+  },
+  "apache_airflow_providers_apache_beam-6.1.7-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:05.804088+00:00",
+    "conda_file": "apache-airflow-providers-apache-beam-6.1.7-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-beam",
+        "pyarrow",
+        "numpy",
+        "numpy",
+        "numpy"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat;"
+        ],
+        "google": [
+          "apache-beam[extras=[gcp]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-beam>=2.60.0; python_version < \"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "numpy>=1.22.4; python_version<'3.11'",
+      "numpy>=1.23.2; python_version<'3.12' and python_version>='3.11'",
+      "numpy>=1.26.0; python_version>='3.12' and python_version < '3.13'",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\" and ( python_version < '3.13')",
+      "apache-beam[gcp]>=2.60.0 ; extra == \"google\" and ( python_version < \"3.13\")"
+    ]
+  },
+  "apache_airflow_providers_apache_beam-6.1.6-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:05.941026+00:00",
+    "conda_file": "apache-airflow-providers-apache-beam-6.1.6-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-beam",
+        "pyarrow",
+        "numpy",
+        "numpy",
+        "numpy"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat;"
+        ],
+        "google": [
+          "apache-beam[extras=[gcp]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-beam>=2.60.0; python_version < \"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "numpy>=1.22.4; python_version<'3.11'",
+      "numpy>=1.23.2; python_version<'3.12' and python_version>='3.11'",
+      "numpy>=1.26.0; python_version>='3.12' and python_version < '3.13'",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\" and ( python_version < '3.13')",
+      "apache-beam[gcp]>=2.60.0 ; extra == \"google\" and ( python_version < \"3.13\")"
+    ]
+  },
+  "apache_airflow_providers_apache_beam-6.1.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:05.994931+00:00",
+    "conda_file": "apache-airflow-providers-apache-beam-6.1.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-beam",
+        "pyarrow",
+        "numpy",
+        "numpy",
+        "numpy"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat;"
+        ],
+        "google": [
+          "apache-beam[extras=[gcp]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-beam>=2.60.0; python_version < \"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "numpy>=1.22.4; python_version<'3.11'",
+      "numpy>=1.23.2; python_version<'3.12' and python_version>='3.11'",
+      "numpy>=1.26.0; python_version>='3.12' and python_version < '3.13'",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\" and ( python_version < '3.13')",
+      "apache-beam[gcp]>=2.60.0 ; extra == \"google\" and ( python_version < \"3.13\")"
+    ]
+  }
+}

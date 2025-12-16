@@ -1,0 +1,12 @@
+# Package configuration for pytest-aiohttp
+conda_forge = "pytest-aiohttp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_aiohttp-1.1.0-py3-none-any.whl" },
+  { filename = "pytest_aiohttp-1.0.5-py3-none-any.whl" },
+  { filename = "pytest_aiohttp-1.0.4-py3-none-any.whl" },
+  { filename = "pytest_aiohttp-1.0.3-py3-none-any.whl" },
+  { filename = "pytest_aiohttp-1.0.2-py3-none-any.whl" },
+]

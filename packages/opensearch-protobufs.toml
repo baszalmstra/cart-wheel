@@ -1,0 +1,11 @@
+# Package configuration for opensearch-protobufs
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "opensearch_protobufs-0.24.0-py3-none-any.whl" },
+  { filename = "opensearch_protobufs-0.23.0-py3-none-any.whl" },
+  { filename = "opensearch_protobufs-0.22.0-py3-none-any.whl" },
+  { filename = "opensearch_protobufs-0.21.0-py3-none-any.whl" },
+  { filename = "opensearch_protobufs-0.20.0-py3-none-any.whl" },
+]

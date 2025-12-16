@@ -1,0 +1,11 @@
+# Package configuration for piccolo
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "piccolo-1.30.0-py3-none-any.whl" },
+  { filename = "piccolo-1.29.0-py3-none-any.whl" },
+  { filename = "piccolo-1.28.0-py3-none-any.whl" },
+  { filename = "piccolo-1.27.1-py3-none-any.whl" },
+  { filename = "piccolo-1.27.0-py3-none-any.whl" },
+]

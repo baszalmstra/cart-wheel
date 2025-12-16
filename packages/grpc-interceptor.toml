@@ -1,0 +1,12 @@
+# Package configuration for grpc-interceptor
+conda_forge = "grpc-interceptor"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "grpc_interceptor-0.15.4-py3-none-any.whl" },
+  { filename = "grpc_interceptor-0.15.3-py3-none-any.whl" },
+  { filename = "grpc_interceptor-0.15.2-py3-none-any.whl" },
+  { filename = "grpc_interceptor-0.15.1-py3-none-any.whl" },
+  { filename = "grpc_interceptor-0.15.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for dynaconf
+conda_forge = "dynaconf"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dynaconf-3.2.12-py2.py3-none-any.whl" },
+  { filename = "dynaconf-3.2.11-py2.py3-none-any.whl" },
+  { filename = "dynaconf-3.2.10-py2.py3-none-any.whl" },
+  { filename = "dynaconf-3.2.7-py2.py3-none-any.whl" },
+  { filename = "dynaconf-3.2.6-py2.py3-none-any.whl" },
+]

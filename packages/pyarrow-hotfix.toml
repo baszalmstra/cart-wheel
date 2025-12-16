@@ -1,0 +1,12 @@
+# Package configuration for pyarrow-hotfix
+conda_forge = "pyarrow-hotfix"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyarrow_hotfix-0.7-py3-none-any.whl" },
+  { filename = "pyarrow_hotfix-0.6-py3-none-any.whl" },
+  { filename = "pyarrow_hotfix-0.5-py3-none-any.whl" },
+  { filename = "pyarrow_hotfix-0.4-py3-none-any.whl" },
+  { filename = "pyarrow_hotfix-0.3-py3-none-any.whl" },
+]

@@ -1,0 +1,90 @@
+{
+  "dask_expr-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8840da136aadd2c4d672990744c4b82179b69ecaba991db767c62a855a31852f",
+    "dependencies": {
+      "required": [
+        "dask"
+      ]
+    },
+    "original_requirements": [
+      "dask>=2025.1.0"
+    ]
+  },
+  "dask_expr-1.1.21-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c2a9a0b0e66b26cf918679988f97e947bc936544f3a106102055adb9a9edeba",
+    "dependencies": {
+      "required": [
+        "dask",
+        "pyarrow",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "dask==2024.12.1",
+      "pyarrow>=14.0.1",
+      "pandas>=2",
+      "crick; extra == \"analyze\"",
+      "distributed; extra == \"analyze\"",
+      "graphviz; extra == \"analyze\""
+    ]
+  },
+  "dask_expr-1.1.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a10755f2bc7d7cfb060b4fc9c7e8b139a03d961c4420ebd50ea319ea906f8b80",
+    "dependencies": {
+      "required": [
+        "dask",
+        "pyarrow",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "dask==2024.12.0",
+      "pyarrow>=14.0.1",
+      "pandas>=2",
+      "crick; extra == \"analyze\"",
+      "distributed; extra == \"analyze\"",
+      "graphviz; extra == \"analyze\""
+    ]
+  },
+  "dask_expr-1.1.19-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b2931c20241a3bc1978ccccc4b8a2f7b27b15bb85ce89fec04595bc5bcf20cf5",
+    "dependencies": {
+      "required": [
+        "dask",
+        "pyarrow",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "dask ==2024.11.2",
+      "pyarrow >=14.0.1",
+      "pandas >=2",
+      "crick ; extra == 'analyze'",
+      "distributed ; extra == 'analyze'",
+      "graphviz ; extra == 'analyze'"
+    ]
+  },
+  "dask_expr-1.1.18-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9b2f5c6ba48df012276a70569934f537d0047de313b11ba9a8fd0945118cc83",
+    "dependencies": {
+      "required": [
+        "dask",
+        "pyarrow",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "dask ==2024.11.1",
+      "pyarrow >=14.0.1",
+      "pandas >=2",
+      "crick ; extra == 'analyze'",
+      "distributed ; extra == 'analyze'",
+      "graphviz ; extra == 'analyze'"
+    ]
+  }
+}

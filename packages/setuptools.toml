@@ -1,0 +1,12 @@
+# Package configuration for setuptools
+conda_forge = "ansible"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "setuptools-80.9.0-py3-none-any.whl" },
+  { filename = "setuptools-80.8.0-py3-none-any.whl" },
+  { filename = "setuptools-80.7.1-py3-none-any.whl" },
+  { filename = "setuptools-80.6.0-py3-none-any.whl" },
+  { filename = "setuptools-80.4.0-py3-none-any.whl" },
+]

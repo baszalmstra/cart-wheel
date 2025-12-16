@@ -1,0 +1,11 @@
+# Package configuration for ipinfo
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipinfo-5.3.0-py3-none-any.whl" },
+  { filename = "ipinfo-5.2.1-py3-none-any.whl" },
+  { filename = "ipinfo-5.2.0-py3-none-any.whl" },
+  { filename = "ipinfo-5.1.1-py3-none-any.whl" },
+  { filename = "ipinfo-5.1.0-py2.py3-none-any.whl" },
+]

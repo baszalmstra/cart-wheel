@@ -1,0 +1,152 @@
+{
+  "aws_cdk.aws_chatbot-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5d29ad11d55483ba054999046280952c50fd1db35a9b91ce1608e79de5684004",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-codestarnotifications",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-logs",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.204.0)",
+      "aws-cdk.aws-codestarnotifications (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-logs (==1.204.0)",
+      "aws-cdk.aws-sns (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_chatbot-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a3030789ee9413098523336ae1f62ac1b09af5f56a77274412af122a25edd65",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-codestarnotifications",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-logs",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.203.0)",
+      "aws-cdk.aws-codestarnotifications (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-logs (==1.203.0)",
+      "aws-cdk.aws-sns (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_chatbot-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5a5e7c088c2e2ae3c06594d6d1112357b32050cf5441533e7f635dcf947ab64f",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-codestarnotifications",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-logs",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.202.0)",
+      "aws-cdk.aws-codestarnotifications (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-logs (==1.202.0)",
+      "aws-cdk.aws-sns (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_chatbot-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ca02d2596883031c55e30fa8714c5863dd01678d4268da053d9a50f8e70e431",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-codestarnotifications",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-logs",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.201.0)",
+      "aws-cdk.aws-codestarnotifications (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-logs (==1.201.0)",
+      "aws-cdk.aws-sns (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_chatbot-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "030040af54c6428c34c91bf6b066c08ee66bf37b73ceaf9bdd1126e6083300fd",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-codestarnotifications",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-logs",
+        "aws-cdk.aws-sns",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.200.0)",
+      "aws-cdk.aws-codestarnotifications (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-logs (==1.200.0)",
+      "aws-cdk.aws-sns (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

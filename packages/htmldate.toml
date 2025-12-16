@@ -1,0 +1,12 @@
+# Package configuration for htmldate
+conda_forge = "htmldate"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "htmldate-1.9.4-py3-none-any.whl" },
+  { filename = "htmldate-1.9.3-py3-none-any.whl" },
+  { filename = "htmldate-1.9.2-py3-none-any.whl" },
+  { filename = "htmldate-1.9.1-py3-none-any.whl" },
+  { filename = "htmldate-1.9.0-py3-none-any.whl" },
+]

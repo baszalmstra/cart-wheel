@@ -1,0 +1,50 @@
+{
+  "WMI-1.5.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d6b085e5c445141c475476000b661f60fff1aaa19f76bf82b7abb92e0ff4942",
+    "dependencies": {
+      "required": [
+        "pywin32"
+      ]
+    },
+    "original_requirements": [
+      "pywin32",
+      "pytest ; extra == 'all'",
+      "wheel ; extra == 'all'",
+      "twine ; extra == 'all'",
+      "sphinx ; extra == 'all'",
+      "pytest ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "wheel ; extra == 'package'",
+      "twine ; extra == 'package'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "WMI-1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cddedfbf850a75eea1664fa572e841df858bffc51072051e0ebd46471c8c31b4",
+    "dependencies": {
+      "required": [
+        "pywin32"
+      ]
+    },
+    "original_requirements": [
+      "pywin32",
+      "pytest ; extra == 'all'",
+      "twine ; extra == 'all'",
+      "wheel ; extra == 'all'",
+      "sphinx ; extra == 'all'",
+      "pytest ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "wheel ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "wheel ; extra == 'package'",
+      "twine ; extra == 'package'",
+      "pytest ; extra == 'tests'"
+    ]
+  }
+}

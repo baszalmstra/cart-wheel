@@ -1,0 +1,9 @@
+# Package configuration for neptune-sacred
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neptune_sacred-1.0.1-py3-none-any.whl" },
+  { filename = "neptune_sacred-1.0.0-py3-none-any.whl" },
+  { filename = "neptune_sacred-0.10.1-py3-none-any.whl" },
+]

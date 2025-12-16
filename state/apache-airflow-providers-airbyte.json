@@ -1,0 +1,100 @@
+{
+  "apache_airflow_providers_airbyte-5.3.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:02.631061+00:00",
+    "conda_file": "apache-airflow-providers-airbyte-5.3.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "airbyte-api",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "airbyte-api>=0.52.0",
+      "requests>=2.32.0"
+    ]
+  },
+  "apache_airflow_providers_airbyte-5.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:02.521571+00:00",
+    "conda_file": "apache-airflow-providers-airbyte-5.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "airbyte-api",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "airbyte-api>=0.52.0",
+      "requests>=2.32.0"
+    ]
+  },
+  "apache_airflow_providers_airbyte-5.2.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:02.717304+00:00",
+    "conda_file": "apache-airflow-providers-airbyte-5.2.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "airbyte-api",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "airbyte-api>=0.52.0",
+      "requests>=2.32.0"
+    ]
+  },
+  "apache_airflow_providers_airbyte-5.2.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:02.714708+00:00",
+    "conda_file": "apache-airflow-providers-airbyte-5.2.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "airbyte-api",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "airbyte-api>=0.52.0",
+      "requests>=2.32.0"
+    ]
+  },
+  "apache_airflow_providers_airbyte-5.2.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:02.871478+00:00",
+    "conda_file": "apache-airflow-providers-airbyte-5.2.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "airbyte-api",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "airbyte-api>=0.52.0",
+      "requests>=2.32.0"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "livekit_plugins_google-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c271a411bd3a670a8080ed112841b7e31faed6a76519232ef6324495ac4944d5",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "google-cloud-speech",
+        "google-cloud-texttospeech",
+        "google-genai",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "google-auth<3,>=2",
+      "google-cloud-speech<3,>=2",
+      "google-cloud-texttospeech<3,>=2.27",
+      "google-genai>=v1.47.0",
+      "livekit-agents>=1.3.6"
+    ]
+  },
+  "livekit_plugins_google-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "875a8008753b47d73268d1ebe21e4e896ec9dcb347b2eab6f9058ed8b1483a15",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "google-cloud-speech",
+        "google-cloud-texttospeech",
+        "google-genai",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "google-auth<3,>=2",
+      "google-cloud-speech<3,>=2",
+      "google-cloud-texttospeech<3,>=2.27",
+      "google-genai>=v1.47.0",
+      "livekit-agents>=1.3.5"
+    ]
+  },
+  "livekit_plugins_google-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80462d00d86720bf8d873649a55925ba19eda57258422eb0d2e613d79abb5939",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "google-cloud-speech",
+        "google-cloud-texttospeech",
+        "google-genai",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "google-auth<3,>=2",
+      "google-cloud-speech<3,>=2",
+      "google-cloud-texttospeech<3,>=2.27",
+      "google-genai>=v1.47.0",
+      "livekit-agents>=1.3.4"
+    ]
+  },
+  "livekit_plugins_google-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e67f8ffb1bf711420e0cb6e42e57c5a1b34f23fdf507fcfb662cb38ab91ebc8",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "google-cloud-speech",
+        "google-cloud-texttospeech",
+        "google-genai",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "google-auth<3,>=2",
+      "google-cloud-speech<3,>=2",
+      "google-cloud-texttospeech<3,>=2.27",
+      "google-genai>=v1.47.0",
+      "livekit-agents>=1.3.3"
+    ]
+  },
+  "livekit_plugins_google-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5f120629c0877a58ff2399a5b6a37979029c59439bacbcfeb4647a65c91ddac2",
+    "dependencies": {
+      "required": [
+        "google-auth",
+        "google-cloud-speech",
+        "google-cloud-texttospeech",
+        "google-genai",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "google-auth<3,>=2",
+      "google-cloud-speech<3,>=2",
+      "google-cloud-texttospeech<3,>=2.27",
+      "google-genai>=v1.47.0",
+      "livekit-agents>=1.3.2"
+    ]
+  }
+}

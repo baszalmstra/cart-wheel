@@ -1,0 +1,116 @@
+{
+  "furiosa_common-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1150b57829d5f94e0996f3b0a058ff323a465d0bc514bb7609d385b15f9eef9",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "aiohttp",
+        "aiohttp",
+        "multipledispatch",
+        "packaging",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles",
+      "aiohttp ~= 3.8.3",
+      "aiohttp ~= 3.8.3",
+      "multipledispatch",
+      "packaging",
+      "tqdm",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-aiohttp ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "types-aiofiles ; extra == \"test\"",
+      "types-tqdm ; extra == \"test\""
+    ]
+  },
+  "furiosa_common-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c7c37b9b7c6c4903494f583ab00772397684fd126f23c6b42de7df448f9ed715",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "aiohttp",
+        "aiohttp",
+        "multipledispatch",
+        "packaging",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles",
+      "aiohttp ~= 3.8.3",
+      "aiohttp ~= 3.8.3",
+      "multipledispatch",
+      "packaging",
+      "tqdm",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-aiohttp ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "types-aiofiles ; extra == \"test\"",
+      "types-tqdm ; extra == \"test\""
+    ]
+  },
+  "furiosa_common-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28cad04c135aa40db50fa32bc3f6b3083e1096fe34d8ef7d7c60668061ede89d",
+    "dependencies": {
+      "required": [
+        "aiofiles",
+        "aiohttp",
+        "aiohttp",
+        "multipledispatch",
+        "packaging",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "aiofiles",
+      "aiohttp ~= 3.8.3",
+      "aiohttp ~= 3.8.3",
+      "multipledispatch",
+      "packaging",
+      "tqdm",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "pytest-aiohttp ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "ruff ; extra == \"test\"",
+      "types-aiofiles ; extra == \"test\"",
+      "types-tqdm ; extra == \"test\""
+    ]
+  },
+  "furiosa_common-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d4498d330699ceb9c504ac592d602d0546032c9e13d19186ba0f007565c1afb7",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging"
+    ]
+  },
+  "furiosa_common-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5d49c59efd3a819252e44e5da6c5f784506583bb4efdfbd18595861cc136b771",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging"
+    ]
+  }
+}

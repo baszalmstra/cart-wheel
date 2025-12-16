@@ -1,0 +1,11 @@
+# Package configuration for twelvelabs
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "twelvelabs-1.1.0-py3-none-any.whl" },
+  { filename = "twelvelabs-1.0.2-py3-none-any.whl" },
+  { filename = "twelvelabs-1.0.1-py3-none-any.whl" },
+  { filename = "twelvelabs-1.0.0-py3-none-any.whl" },
+  { filename = "twelvelabs-0.4.11-py3-none-any.whl" },
+]

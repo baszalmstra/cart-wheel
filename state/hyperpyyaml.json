@@ -1,0 +1,72 @@
+{
+  "HyperPyYAML-1.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c5864bdc8864b2f0fbd7bc495e7e8fdf2dfd5dd80116f72da27ca96a128bdeb",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml >=5.1",
+      "ruamel.yaml >=0.17.28"
+    ]
+  },
+  "HyperPyYAML-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8fd2fe912e953800440f5d5c1c1820cf1827bffb905364307d34939723999953",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml (>=5.1)",
+      "ruamel.yaml (<=0.17.28,>=0.17.8)"
+    ]
+  },
+  "HyperPyYAML-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ba54decb0b1680304df9aec6f5c0809bcc17178c6c1ad369cfb9725557acb965",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml (>=5.1)",
+      "ruamel.yaml (>=0.17.8)"
+    ]
+  },
+  "HyperPyYAML-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39fb02f8d80444d8a0bd92550bd4c98aff838a65cfd109149b1e1683902dc319",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml (>=5.1)",
+      "ruamel.yaml (>=0.17.8)"
+    ]
+  },
+  "HyperPyYAML-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "243ada56d8bf29f4786e7022448ff79eb8d19ae9aaaf2e4e41e1e3da8c0bb958",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml (>=5.1)",
+      "ruamel.yaml (>=0.15)"
+    ]
+  }
+}

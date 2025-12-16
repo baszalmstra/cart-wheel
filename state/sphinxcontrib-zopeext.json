@@ -1,0 +1,97 @@
+{
+  "sphinxcontrib_zopeext-0.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "923d3ca1f350ca88d4a1b1f3fbcada46ca82f537c95916b1dd7057feaf21140f",
+    "dependencies": {
+      "required": [
+        "zope.interface",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "zope.interface>=5.5.2",
+      "Sphinx>=4.5.0",
+      "importlib-metadata>=4.8.3; python_version < \"3.8\" and extra == \"test\"",
+      "pip>=22.2.1; extra == \"test\"",
+      "pytest-cov>=4.0.0; extra == \"test\"",
+      "sphinx-testing>=1.0.1; extra == \"test\"",
+      "pytest>=7.2.2; extra == \"test\"",
+      "sphinx-book-theme>=0.0.39; extra == \"doc\"",
+      "sphinx-autobuild>=2021.3.14; extra == \"doc\""
+    ]
+  },
+  "sphinxcontrib_zopeext-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2dc556263b134d22f14558d7fdaea3bdba9b51f42657a930f9bcc00d438518ea",
+    "dependencies": {
+      "required": [
+        "zope.interface",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "zope.interface>=5.5.2",
+      "Sphinx>=4.5.0",
+      "importlib-metadata>=4.8.3; python_version < \"3.8\" and extra == \"test\"",
+      "pip>=22.2.1; extra == \"test\"",
+      "pytest-cov>=4.0.0; extra == \"test\"",
+      "sphinx-testing>=1.0.1; extra == \"test\"",
+      "pytest>=7.2.2; extra == \"test\"",
+      "sphinx-book-theme>=0.0.39; extra == \"doc\"",
+      "sphinx-autobuild>=2021.3.14; extra == \"doc\""
+    ]
+  },
+  "sphinxcontrib_zopeext-0.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db41ed7c10d2af796c1b91d73754e336f20ff1cc013d231ed98b3ee6c831dfcb",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "sphinx",
+        "importlib-metadata",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=3.4.2,!=3.5.*,!=4.0.*,!=4.1.*,<6.0.0); python_version >= \"3.10\"",
+      "Sphinx (>=3.4.2,<6.0.0); python_version < \"3.9\"",
+      "importlib-metadata (>=4.8.1,<5.0.0)",
+      "sphinx-book-theme (>=0.1.7,<0.2.0); extra == \"docs\"",
+      "zope.interface (>=5.2.0,<6.0.0)"
+    ]
+  },
+  "sphinxcontrib_zopeext-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3d9a165afd5f492f110e292700cf614b658092b040d1823dcb6ef00528a2584a",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "importlib-metadata",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=3.4.2,<5.0.0)",
+      "importlib-metadata (>=4.8.1,<5.0.0)",
+      "sphinx-book-theme (>=0.1.7,<0.2.0); extra == \"docs\"",
+      "zope.interface (>=5.2.0,<6.0.0)"
+    ]
+  },
+  "sphinxcontrib_zopeext-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6ec7da2e8d6173f50fddf165ea4eaa871079053802f1c79621da766725ac43f0",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "importlib-metadata",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=3.4.2,<5.0.0)",
+      "importlib-metadata (>=4.8.1,<5.0.0)",
+      "sphinx-book-theme (>=0.1.7,<0.2.0); extra == \"docs\"",
+      "zope.interface (>=5.2.0,<6.0.0)"
+    ]
+  }
+}

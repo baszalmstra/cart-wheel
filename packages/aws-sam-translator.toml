@@ -1,0 +1,12 @@
+# Package configuration for aws-sam-translator
+conda_forge = "aws-sam-translator"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_sam_translator-1.105.0-py3-none-any.whl" },
+  { filename = "aws_sam_translator-1.104.0-py3-none-any.whl" },
+  { filename = "aws_sam_translator-1.103.0-py3-none-any.whl" },
+  { filename = "aws_sam_translator-1.102.0-py3-none-any.whl" },
+  { filename = "aws_sam_translator-1.101.0-py3-none-any.whl" },
+]

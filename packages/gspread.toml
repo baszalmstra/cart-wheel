@@ -1,0 +1,12 @@
+# Package configuration for gspread
+conda_forge = "gspread"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gspread-6.2.1-py3-none-any.whl" },
+  { filename = "gspread-6.2.0-py3-none-any.whl" },
+  { filename = "gspread-6.1.4-py3-none-any.whl" },
+  { filename = "gspread-6.1.3-py3-none-any.whl" },
+  { filename = "gspread-6.1.2-py3-none-any.whl" },
+]

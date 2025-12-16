@@ -1,0 +1,11 @@
+# Package configuration for pyrfc3339
+conda_forge = "pyrfc3339"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyrfc3339-2.1.0-py3-none-any.whl" },
+  { filename = "pyRFC3339-2.0.1-py3-none-any.whl" },
+  { filename = "pyRFC3339-1.1-py2.py3-none-any.whl" },
+  { filename = "pyRFC3339-1.0-py2.py3-none-any.whl" },
+]

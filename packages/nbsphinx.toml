@@ -1,0 +1,12 @@
+# Package configuration for nbsphinx
+conda_forge = "nbsphinx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nbsphinx-0.9.8-py3-none-any.whl" },
+  { filename = "nbsphinx-0.9.7-py3-none-any.whl" },
+  { filename = "nbsphinx-0.9.6-py3-none-any.whl" },
+  { filename = "nbsphinx-0.9.5-py3-none-any.whl" },
+  { filename = "nbsphinx-0.9.4-py3-none-any.whl" },
+]

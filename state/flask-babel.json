@@ -1,0 +1,98 @@
+{
+  "flask_babel-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "638194cf91f8b301380f36d70e2034c77ee25b98cb5d80a1626820df9a6d4625",
+    "dependencies": {
+      "required": [
+        "babel",
+        "flask",
+        "jinja2",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "Babel (>=2.12)",
+      "Flask (>=2.0)",
+      "Jinja2 (>=3.1)",
+      "pytz (>=2022.7)"
+    ]
+  },
+  "flask_babel-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "deb3ee272d5adf97f5974ed09ab501243d63e7fb4a047501a00de4bd4aca4830",
+    "dependencies": {
+      "required": [
+        "babel",
+        "flask",
+        "jinja2",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "Babel (>=2.12)",
+      "Flask (>=2.0)",
+      "Jinja2 (>=3.1)",
+      "pytz (>=2022.7)"
+    ]
+  },
+  "flask_babel-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ceb8c82039954a6b29da33ec5deb84878b78069d1ea628b21cac3f8233e9189c",
+    "dependencies": {
+      "required": [
+        "babel",
+        "flask",
+        "jinja2",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "Babel (>=2.11.0,<3.0.0)",
+      "Flask (>=2.0.0,<3.0.0)",
+      "Jinja2 (>=3.1.2,<4.0.0)",
+      "pytz (>=2022.7,<2023.0)"
+    ]
+  },
+  "flask_babel-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a5615f2305a9a2911a7cac79bcfdb05feeb6ac359abbc6e002a1c7854b7fc190",
+    "dependencies": {
+      "required": [
+        "babel",
+        "flask",
+        "jinja2",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "Babel (>=2.11.0,<3.0.0)",
+      "Flask (>=2.0.0,<3.0.0)",
+      "Jinja2 (>=3.1.2,<4.0.0)",
+      "pytz (>=2022.7,<2023.0)"
+    ]
+  },
+  "Flask_Babel-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e6820a052a8d344e178cdd36dd4bb8aea09b4bda3d5f9fa9f008df2c7f2f5468",
+    "dependencies": {
+      "required": [
+        "pytz",
+        "flask",
+        "babel",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "pytz",
+      "Flask",
+      "Babel (>=2.3)",
+      "Jinja2 (>=2.5)",
+      "pytest ; extra == 'dev'",
+      "pytest-mock ; extra == 'dev'",
+      "bumpversion ; extra == 'dev'",
+      "ghp-import ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "Pallets-Sphinx-Themes ; extra == 'dev'"
+    ]
+  }
+}

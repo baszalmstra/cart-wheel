@@ -1,0 +1,73 @@
+{
+  "pytest_param_files-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d24095dbc98bdc1e1d8236c0e01237c8a3dc3e3e7742e0f552304c4073691251",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "ruamel.yaml>=0.15",
+      "pytest-cov ; extra == \"codecov\""
+    ]
+  },
+  "pytest_param_files-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38d43ff9d643167d09ed593c28e7ce436c3b6344c6bdf034ff99ec67f2f29fb2",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "pyyaml",
+      "pytest-cov ; extra == \"codecov\""
+    ]
+  },
+  "pytest_param_files-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d28b39312bcf58d10237121b31762e8dc6a23d0157208324246b8805df76bdf",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "pyyaml",
+      "pytest-cov ; extra == \"codecov\""
+    ]
+  },
+  "pytest_param_files-0.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a7a9f19b086ee4c412d19b210c47b8285b8d4f20a6fbf9a207b34324a59c05c",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "black ; extra == \"develop\""
+    ]
+  },
+  "pytest_param_files-0.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c5f79db56ee2dfbdd353cd149fb561ad66d4d787584c1e67c1798b28048db92",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "black ; extra == \"develop\""
+    ]
+  }
+}

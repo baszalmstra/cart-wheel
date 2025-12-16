@@ -1,0 +1,8 @@
+# Package configuration for pytest-shard
+conda_forge = "pytest-shard"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_shard-0.1.2-py3-none-any.whl" },
+]

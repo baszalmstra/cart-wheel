@@ -1,0 +1,12 @@
+# Package configuration for pyhanko
+conda_forge = "pyhanko"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyhanko-0.32.0-py3-none-any.whl" },
+  { filename = "pyhanko-0.31.0-py3-none-any.whl" },
+  { filename = "pyhanko-0.30.0-py3-none-any.whl" },
+  { filename = "pyhanko-0.29.1-py3-none-any.whl" },
+  { filename = "pyhanko-0.29.0-py3-none-any.whl" },
+]

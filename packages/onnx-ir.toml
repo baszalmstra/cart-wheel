@@ -1,0 +1,12 @@
+# Package configuration for onnx-ir
+conda_forge = "onnx-ir"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "onnx_ir-0.1.12-py3-none-any.whl" },
+  { filename = "onnx_ir-0.1.11-py3-none-any.whl" },
+  { filename = "onnx_ir-0.1.10-py3-none-any.whl" },
+  { filename = "onnx_ir-0.1.9-py3-none-any.whl" },
+  { filename = "onnx_ir-0.1.8-py3-none-any.whl" },
+]

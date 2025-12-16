@@ -1,0 +1,72 @@
+{
+  "pytest_tap-3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bce47102465db4fa09c0948bbf8867543143a9b9d16af77a2efbaffb4ec1072a",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "tap-py"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=3.0",
+      "tap-py<4.0,>=3.2"
+    ]
+  },
+  "pytest_tap-3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d97a2115c94415086f6faec395d243b3c18ea846ce1c1653a4b2588082be35d8",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "tap.py"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.0)",
+      "tap.py (<4.0,>=3.0)"
+    ]
+  },
+  "pytest_tap-3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4fbbc0e090c2e94f6199bee4e4f68ab3c5e176b37a72a589ad84e0f72a2fce55",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "tap.py"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.0)",
+      "tap.py (<4.0,>=3.0)"
+    ]
+  },
+  "pytest_tap-3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18f59047f8bc68247d37f807fae7f2f8897d2c7397aea2fd2870f0421dc566cb",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "tap.py"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.0)",
+      "tap.py (<4.0,>=3.0)"
+    ]
+  },
+  "pytest_tap-3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "87503e7496f9f5505aa603fc6a7b48cf224e9f6be0206958b1ee276810a2fe8a",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "tap.py"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.0)",
+      "tap.py (<4.0,>=3.0)"
+    ]
+  }
+}

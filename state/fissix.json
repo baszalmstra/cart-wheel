@@ -1,0 +1,69 @@
+{
+  "fissix-24.4.24-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be7f5c66e9e212bd9b3365c9e8f2453e973d0a645f31c8eba842724adb4c0c50",
+    "dependencies": {
+      "required": [
+        "appdirs"
+      ]
+    },
+    "original_requirements": [
+      "appdirs >= 1.4.4",
+      "attribution==1.7.1 ; extra == \"dev\"",
+      "black==24.4.0 ; extra == \"dev\"",
+      "flit==3.9.0 ; extra == \"dev\"",
+      "isort==5.8.0 ; extra == \"dev\"",
+      "pytest==8.1.1 ; extra == \"dev\"",
+      "sphinx==7.3.7 ; extra == \"docs\"",
+      "sphinx-mdinclude==0.6.0 ; extra == \"docs\""
+    ]
+  },
+  "fissix-21.11.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55cd7541944bd15cfd8b0b2117fd63b84dcce5e3780ff7f77894059a87e5243a",
+    "dependencies": {
+      "required": [
+        "appdirs"
+      ]
+    },
+    "original_requirements": [
+      "appdirs"
+    ]
+  },
+  "fissix-21.6.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2950dcda752c8d48d0187f5863d476518f4fd63bdecf88930fb3f996e901a531",
+    "dependencies": {
+      "required": [
+        "appdirs"
+      ]
+    },
+    "original_requirements": [
+      "appdirs"
+    ]
+  },
+  "fissix-20.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb6659bc2158a04cb1a6e45e1c287b5e9fd4f7c3123ef4ac26614e832ab73a17",
+    "dependencies": {
+      "required": [
+        "appdirs"
+      ]
+    },
+    "original_requirements": [
+      "appdirs"
+    ]
+  },
+  "fissix-20.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "88233c139596485d4f90f4fc3a9d964b78effbf4d9acaad5b049daa2492f060a",
+    "dependencies": {
+      "required": [
+        "appdirs"
+      ]
+    },
+    "original_requirements": [
+      "appdirs"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for nudenet
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nudenet-3.4.2-py3-none-any.whl" },
+  { filename = "nudenet-3.4.1-py3-none-any.whl" },
+  { filename = "nudenet-3.4.0-py3-none-any.whl" },
+  { filename = "nudenet-3.0.8-py3-none-any.whl" },
+  { filename = "nudenet-3.0.7-py3-none-any.whl" },
+]

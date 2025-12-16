@@ -1,0 +1,12 @@
+# Package configuration for soupsieve
+conda_forge = "soupsieve"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "soupsieve-2.8-py3-none-any.whl" },
+  { filename = "soupsieve-2.7-py3-none-any.whl" },
+  { filename = "soupsieve-2.6-py3-none-any.whl" },
+  { filename = "soupsieve-2.5-py3-none-any.whl" },
+  { filename = "soupsieve-2.4.1-py3-none-any.whl" },
+]

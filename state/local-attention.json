@@ -1,0 +1,80 @@
+{
+  "local_attention-1.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8bbb03cef6a6f0b694de64f9ecd81886fd1e73ef367b57f02995b469ac52fd16",
+    "dependencies": {
+      "required": [
+        "einops",
+        "hyper-connections",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "einops>=0.8.0",
+      "hyper-connections>=0.1.8",
+      "torch"
+    ]
+  },
+  "local_attention-1.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8aaa0055ef195d49b82eb41b126de2e3aeb79f726831c53691ad159fb04adbc6",
+    "dependencies": {
+      "required": [
+        "einops",
+        "hyper-connections",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "einops>=0.8.0",
+      "hyper-connections>=0.1.8",
+      "torch"
+    ]
+  },
+  "local_attention-1.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9494886675907e6478d5d6423d16ab7ac2dfd1bdf84678e32372cac0675b6f71",
+    "dependencies": {
+      "required": [
+        "einops",
+        "hyper-connections",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "einops>=0.8.0",
+      "hyper-connections>=0.1.8",
+      "torch"
+    ]
+  },
+  "local_attention-1.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67fbb39106e06aa9ee9780736d649d7b66bfe853e35649cd38eca7b95bcda491",
+    "dependencies": {
+      "required": [
+        "einops",
+        "hyper-connections",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "einops>=0.8.0",
+      "hyper-connections>=0.1.8",
+      "torch"
+    ]
+  },
+  "local_attention-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f558b8a275f8475e16df602f0d856887dd44cd3ef7d4340aced936445b29e326",
+    "dependencies": {
+      "required": [
+        "einops",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "einops>=0.8.0",
+      "torch"
+    ]
+  }
+}

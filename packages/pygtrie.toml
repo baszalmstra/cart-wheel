@@ -1,0 +1,8 @@
+# Package configuration for pygtrie
+conda_forge = "pygtrie"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pygtrie-2.5.0-py3-none-any.whl" },
+]

@@ -1,0 +1,98 @@
+{
+  "ipylab-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a24c29aeb7d6d8b26c150794ef30c8d9ac2e387c47ea49f9afd8fa19dcd07b62",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets<9,>=7.6.0"
+    ]
+  },
+  "ipylab-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "86b3de8bc74925b8169b79bf56981df9a654556549a659698bc0ed24dfa6141d",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets<9,>=7.6.0"
+    ]
+  },
+  "ipylab-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2435abcb84c2dd5b1a3e5ef098603ef12200bb65671f1baf2078e83b94da95a8",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets<9,>=7.6.0",
+      "black; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "jupyter-sphinx; extra == 'docs'",
+      "nbsphinx-link; extra == 'docs'",
+      "nbsphinx<0.4.0,>=0.2.13; extra == 'docs'",
+      "pypandoc; extra == 'docs'",
+      "pytest-check-links; extra == 'docs'",
+      "recommonmark; extra == 'docs'",
+      "sphinx-rtd-theme; extra == 'docs'",
+      "sphinx>=1.5; extra == 'docs'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'"
+    ]
+  },
+  "ipylab-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe5c1809f8d532665c736e52e1cbebe16cd94045705e9066ee2c0fb6597c0434",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets<9,>=7.6.0",
+      "black; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "jupyter-sphinx; extra == 'docs'",
+      "nbsphinx-link; extra == 'docs'",
+      "nbsphinx<0.4.0,>=0.2.13; extra == 'docs'",
+      "pypandoc; extra == 'docs'",
+      "pytest-check-links; extra == 'docs'",
+      "recommonmark; extra == 'docs'",
+      "sphinx-rtd-theme; extra == 'docs'",
+      "sphinx>=1.5; extra == 'docs'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'"
+    ]
+  },
+  "ipylab-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ecdda4eb6474bbc03f241b39a4f9fa9d964f64498c0f5db1eb3144f29c24fd84",
+    "dependencies": {
+      "required": [
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "ipywidgets (<9,>=7.6.0)",
+      "black ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "sphinx (>=1.5) ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "nbsphinx (<0.4.0,>=0.2.13) ; extra == 'docs'",
+      "jupyter-sphinx ; extra == 'docs'",
+      "nbsphinx-link ; extra == 'docs'",
+      "pytest-check-links ; extra == 'docs'",
+      "pypandoc ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  }
+}

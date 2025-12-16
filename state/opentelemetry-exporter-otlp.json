@@ -1,0 +1,72 @@
+{
+  "opentelemetry_exporter_otlp-1.39.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "68ae69775291f04f000eb4b698ff16ff685fdebe5cb52871bc4e87938a7b00fe",
+    "dependencies": {
+      "required": [
+        "opentelemetry-exporter-otlp-proto-grpc",
+        "opentelemetry-exporter-otlp-proto-http"
+      ]
+    },
+    "original_requirements": [
+      "opentelemetry-exporter-otlp-proto-grpc==1.39.1",
+      "opentelemetry-exporter-otlp-proto-http==1.39.1"
+    ]
+  },
+  "opentelemetry_exporter_otlp-1.39.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe155d6968d581b325574ad6dc267c8de299397b18d11feeda2206d0a47928a9",
+    "dependencies": {
+      "required": [
+        "opentelemetry-exporter-otlp-proto-grpc",
+        "opentelemetry-exporter-otlp-proto-http"
+      ]
+    },
+    "original_requirements": [
+      "opentelemetry-exporter-otlp-proto-grpc==1.39.0",
+      "opentelemetry-exporter-otlp-proto-http==1.39.0"
+    ]
+  },
+  "opentelemetry_exporter_otlp-1.38.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc6562cef229fac8887ed7109fc5abc52315f39d9c03fd487bb8b4ef8fbbc231",
+    "dependencies": {
+      "required": [
+        "opentelemetry-exporter-otlp-proto-grpc",
+        "opentelemetry-exporter-otlp-proto-http"
+      ]
+    },
+    "original_requirements": [
+      "opentelemetry-exporter-otlp-proto-grpc==1.38.0",
+      "opentelemetry-exporter-otlp-proto-http==1.38.0"
+    ]
+  },
+  "opentelemetry_exporter_otlp-1.37.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd44592c6bc7fc3e5c0a9b60f2ee813c84c2800c449e59504ab93f356cc450fc",
+    "dependencies": {
+      "required": [
+        "opentelemetry-exporter-otlp-proto-grpc",
+        "opentelemetry-exporter-otlp-proto-http"
+      ]
+    },
+    "original_requirements": [
+      "opentelemetry-exporter-otlp-proto-grpc==1.37.0",
+      "opentelemetry-exporter-otlp-proto-http==1.37.0"
+    ]
+  },
+  "opentelemetry_exporter_otlp-1.36.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de93b7c45bcc78296998775d52add7c63729e83ef2cd6560730a6b336d7f6494",
+    "dependencies": {
+      "required": [
+        "opentelemetry-exporter-otlp-proto-grpc",
+        "opentelemetry-exporter-otlp-proto-http"
+      ]
+    },
+    "original_requirements": [
+      "opentelemetry-exporter-otlp-proto-grpc==1.36.0",
+      "opentelemetry-exporter-otlp-proto-http==1.36.0"
+    ]
+  }
+}

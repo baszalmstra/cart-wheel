@@ -1,0 +1,9 @@
+# Package configuration for flask-openid
+conda_forge = "flask-openid"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Flask_OpenID-1.3.1-py3-none-any.whl" },
+  { filename = "Flask_OpenID-1.3.0-py3-none-any.whl" },
+]

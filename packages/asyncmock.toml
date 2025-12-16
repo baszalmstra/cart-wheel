@@ -1,0 +1,12 @@
+# Package configuration for asyncmock
+conda_forge = "asyncmock"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "asyncmock-0.4.2-py3-none-any.whl" },
+  { filename = "asyncmock-0.4.1-py3-none-any.whl" },
+  { filename = "asyncmock-0.4.0-py3-none-any.whl" },
+  { filename = "asyncmock-0.3.0-py3-none-any.whl" },
+  { filename = "asyncmock-0.2.0-py3-none-any.whl" },
+]

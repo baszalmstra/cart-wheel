@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-atlassian-jira
+conda_forge = "apache-airflow-providers-atlassian-jira"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_atlassian_jira-3.3.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_atlassian_jira-3.2.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_atlassian_jira-3.2.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_atlassian_jira-3.1.2-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_atlassian_jira-3.1.1-py3-none-any.whl" },
+]

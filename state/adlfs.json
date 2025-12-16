@@ -1,0 +1,242 @@
+{
+  "adlfs-2025.8.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:43.613820+00:00",
+    "conda_file": "adlfs-2025.8.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-datalake-store",
+        "azure-identity",
+        "azure-storage-blob",
+        "fsspec",
+        "aiohttp"
+      ],
+      "optional": {
+        "docs": [
+          "sphinx",
+          "myst-parser",
+          "furo",
+          "numpydoc"
+        ],
+        "tests": [
+          "pytest",
+          "docker",
+          "pytest-mock",
+          "arrow",
+          "dask[extras=[dataframe]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "azure-core<2.0.0,>=1.28.0",
+      "azure-datalake-store<0.1,>=0.0.53",
+      "azure-identity",
+      "azure-storage-blob>=12.17.0",
+      "fsspec>=2023.12.0",
+      "aiohttp>=3.7.0",
+      "sphinx; extra == \"docs\"",
+      "myst-parser; extra == \"docs\"",
+      "furo; extra == \"docs\"",
+      "numpydoc; extra == \"docs\"",
+      "pytest; extra == \"tests\"",
+      "docker; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "arrow; extra == \"tests\"",
+      "dask[dataframe]; extra == \"tests\""
+    ]
+  },
+  "adlfs-2024.12.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:43.223367+00:00",
+    "conda_file": "adlfs-2024.12.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-datalake-store",
+        "azure-identity",
+        "azure-storage-blob",
+        "fsspec",
+        "aiohttp"
+      ],
+      "optional": {
+        "docs": [
+          "sphinx",
+          "myst-parser",
+          "furo",
+          "numpydoc"
+        ],
+        "tests": [
+          "pytest",
+          "docker",
+          "pytest-mock",
+          "arrow",
+          "dask[extras=[dataframe]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "azure-core<2.0.0,>=1.28.0",
+      "azure-datalake-store<0.1,>=0.0.53",
+      "azure-identity",
+      "azure-storage-blob>=12.17.0",
+      "fsspec>=2023.12.0",
+      "aiohttp>=3.7.0",
+      "sphinx; extra == \"docs\"",
+      "myst-parser; extra == \"docs\"",
+      "furo; extra == \"docs\"",
+      "numpydoc; extra == \"docs\"",
+      "pytest; extra == \"tests\"",
+      "docker; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "arrow; extra == \"tests\"",
+      "dask[dataframe]; extra == \"tests\""
+    ]
+  },
+  "adlfs-2024.7.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:44.012118+00:00",
+    "conda_file": "adlfs-2024.7.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-datalake-store",
+        "azure-identity",
+        "azure-storage-blob",
+        "fsspec",
+        "aiohttp"
+      ],
+      "optional": {
+        "docs": [
+          "sphinx",
+          "myst-parser",
+          "furo",
+          "numpydoc"
+        ],
+        "tests": [
+          "pytest",
+          "docker",
+          "pytest-mock",
+          "arrow",
+          "dask[extras=[dataframe]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "azure-core <2.0.0,>=1.23.1",
+      "azure-datalake-store <0.1,>=0.0.46",
+      "azure-identity",
+      "azure-storage-blob >=12.12.0",
+      "fsspec >=2023.12.0",
+      "aiohttp >=3.7.0",
+      "sphinx ; extra == 'docs'",
+      "myst-parser ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "pytest ; extra == 'tests'",
+      "docker ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "arrow ; extra == 'tests'",
+      "dask[dataframe] ; extra == 'tests'"
+    ]
+  },
+  "adlfs-2024.4.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:43.787735+00:00",
+    "conda_file": "adlfs-2024.4.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-datalake-store",
+        "azure-identity",
+        "azure-storage-blob",
+        "fsspec",
+        "aiohttp"
+      ],
+      "optional": {
+        "docs": [
+          "sphinx",
+          "myst-parser",
+          "furo",
+          "numpydoc"
+        ],
+        "tests": [
+          "pytest",
+          "docker",
+          "pytest-mock",
+          "arrow",
+          "dask[extras=[dataframe]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "azure-core <2.0.0,>=1.23.1",
+      "azure-datalake-store <0.1,>=0.0.46",
+      "azure-identity",
+      "azure-storage-blob >=12.12.0",
+      "fsspec >=2023.12.0",
+      "aiohttp >=3.7.0",
+      "sphinx ; extra == 'docs'",
+      "myst-parser ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "pytest ; extra == 'tests'",
+      "docker ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "arrow ; extra == 'tests'",
+      "dask[dataframe] ; extra == 'tests'"
+    ]
+  },
+  "adlfs-2024.4.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:45:44.071346+00:00",
+    "conda_file": "adlfs-2024.4.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-datalake-store",
+        "azure-identity",
+        "azure-storage-blob",
+        "fsspec",
+        "aiohttp"
+      ],
+      "optional": {
+        "docs": [
+          "sphinx",
+          "myst-parser",
+          "furo",
+          "numpydoc"
+        ],
+        "tests": [
+          "pytest",
+          "docker",
+          "pytest-mock",
+          "arrow",
+          "dask[extras=[dataframe]]"
+        ]
+      }
+    },
+    "original_requirements": [
+      "azure-core <2.0.0,>=1.23.1",
+      "azure-datalake-store <0.1,>=0.0.46",
+      "azure-identity",
+      "azure-storage-blob >=12.12.0",
+      "fsspec >=2023.12.0",
+      "aiohttp >=3.7.0",
+      "sphinx ; extra == 'docs'",
+      "myst-parser ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "pytest ; extra == 'tests'",
+      "docker ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "arrow ; extra == 'tests'",
+      "dask[dataframe] ; extra == 'tests'"
+    ]
+  }
+}

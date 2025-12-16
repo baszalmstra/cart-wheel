@@ -1,0 +1,107 @@
+{
+  "kokoro_onnx-0.4.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0b51d62525166af795db715c7f0efb80233621b5ddc0766ed68995545589d9e",
+    "dependencies": {
+      "required": [
+        "colorlog",
+        "espeakng-loader",
+        "numpy",
+        "onnxruntime",
+        "phonemizer-fork"
+      ]
+    },
+    "original_requirements": [
+      "colorlog>=6.9.0",
+      "espeakng-loader>=0.2.4",
+      "numpy>=2.0.2",
+      "onnxruntime>=1.20.1",
+      "phonemizer-fork>=3.3.2",
+      "onnxruntime-gpu>=1.20.1; (platform_machine == 'x86_64' and sys_platform != 'darwin') and extra == 'gpu'"
+    ]
+  },
+  "kokoro_onnx-0.4.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de571d2610d50681627d57749d7c3770c93d27b2ca01dfd32f240b8c15aa3fdf",
+    "dependencies": {
+      "required": [
+        "colorlog",
+        "espeakng-loader",
+        "numpy",
+        "onnxruntime",
+        "phonemizer-fork"
+      ]
+    },
+    "original_requirements": [
+      "colorlog>=6.9.0",
+      "espeakng-loader>=0.2.4",
+      "numpy>=2.0.2",
+      "onnxruntime>=1.20.1",
+      "phonemizer-fork==3.3.1",
+      "onnxruntime-gpu>=1.20.1; (platform_machine == 'x86_64' and sys_platform != 'darwin') and extra == 'gpu'"
+    ]
+  },
+  "kokoro_onnx-0.4.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "492599a54dcdbe62f90cf4f3d94c6c7fcd069adbbb9f6b71f79bcfb3cb66128b",
+    "dependencies": {
+      "required": [
+        "colorlog",
+        "espeakng-loader",
+        "numpy",
+        "onnxruntime",
+        "phonemizer-fork"
+      ]
+    },
+    "original_requirements": [
+      "colorlog>=6.9.0",
+      "espeakng-loader>=0.2.4",
+      "numpy>=2.0.2",
+      "onnxruntime>=1.20.1",
+      "phonemizer-fork==3.3.1",
+      "onnxruntime-gpu>=1.20.1; (platform_machine == 'x86_64' and sys_platform != 'darwin') and extra == 'gpu'"
+    ]
+  },
+  "kokoro_onnx-0.4.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ae5aad608861282aa2684bed993cb24ec87a41ded5738b4f78be9c19c0a7f86",
+    "dependencies": {
+      "required": [
+        "colorlog",
+        "espeakng-loader",
+        "numpy",
+        "onnxruntime",
+        "phonemizer-fork"
+      ]
+    },
+    "original_requirements": [
+      "colorlog>=6.9.0",
+      "espeakng-loader>=0.2.4",
+      "numpy>=2.0.2",
+      "onnxruntime>=1.20.1",
+      "phonemizer-fork==3.3.1",
+      "onnxruntime-gpu>=1.20.1; (platform_machine == 'x86_64' and sys_platform != 'darwin') and extra == 'gpu'"
+    ]
+  },
+  "kokoro_onnx-0.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6e9a049b2a84f791780b8ec390ee618f5d5c025722f430b076036168b546f042",
+    "dependencies": {
+      "required": [
+        "colorlog",
+        "espeakng-loader",
+        "numpy",
+        "onnxruntime",
+        "phonemizer-fork"
+      ]
+    },
+    "original_requirements": [
+      "colorlog>=6.9.0",
+      "espeakng-loader>=0.2.4",
+      "numpy>=2.0.2",
+      "onnxruntime>=1.20.1",
+      "phonemizer-fork==3.3.1",
+      "onnxruntime-gpu>=1.20.1; (platform_machine == 'x86_64' and sys_platform != 'darwin') and extra == 'gpu'"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "sphinx_favicon-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c93d6b634cb4c9687ceab67a8526f05d3b02679df94e273e51a43282e6b034c",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=3.4)",
+      "pre-commit ; extra == 'dev'",
+      "nox ; extra == 'dev'",
+      "sphinx (<6) ; extra == 'doc'",
+      "pydata-sphinx-theme ; extra == 'doc'",
+      "sphinx-copybutton ; extra == 'doc'",
+      "sphinx-design ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "beautifulsoup4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "sphinx_favicon-1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0f956e27545da183af3c967c06c27bf9ce14bfdce4911dfd3b29295f9da59a9e",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=3.4)",
+      "pre-commit ; extra == 'dev'",
+      "nox ; extra == 'dev'",
+      "sphinx (<6) ; extra == 'doc'",
+      "pydata-sphinx-theme ; extra == 'doc'",
+      "sphinx-copybutton ; extra == 'doc'",
+      "sphinx-design ; extra == 'doc'",
+      "pytest ; extra == 'test'",
+      "beautifulsoup4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "sphinx_favicon-0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b17cb0f9b97fb99172d47fb11fbdd0aadb26cbe0f6368e81843176ca18d06e6",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=3.4)"
+    ]
+  },
+  "sphinx_favicon-0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ca3e307ee6421a1aa6019f10529513497de88a707bd864021628d8192d51767",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>=3.4)"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "apache_airflow_providers_datadog-3.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ee773be1c39459bedbf46d613c260e1d93e78568b9a5f9424c77564f8a4ce6d",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "datadog"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "datadog>=0.50.0"
+    ]
+  },
+  "apache_airflow_providers_datadog-3.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ffb59edb23f6d6601ff1d1c1822d2254d4bc18b4ecd6c7e079ab564decd5031",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "datadog"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "datadog>=0.50.0"
+    ]
+  },
+  "apache_airflow_providers_datadog-3.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a91a2710a42508a3202acde2506fcc1b18d913a85129b58345eb2ff902179121",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "datadog"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "datadog>=0.50.0"
+    ]
+  },
+  "apache_airflow_providers_datadog-3.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18d09d4d43ceedcb3e8ed71274279678725252f11b7a42cc2ad2e6dc790cbc99",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "datadog"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "datadog>=0.50.0"
+    ]
+  },
+  "apache_airflow_providers_datadog-3.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "131c104a5f18014ed245986454d4b20dad89ba58bb4241f59e0cd5cf72ebb565",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "datadog"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "datadog>=0.14.0"
+    ]
+  }
+}

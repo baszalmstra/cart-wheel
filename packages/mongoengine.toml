@@ -1,0 +1,12 @@
+# Package configuration for mongoengine
+conda_forge = "mongoengine"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mongoengine-0.29.1-py3-none-any.whl" },
+  { filename = "mongoengine-0.29.0-py3-none-any.whl" },
+  { filename = "mongoengine-0.28.2-py3-none-any.whl" },
+  { filename = "mongoengine-0.28.1-py3-none-any.whl" },
+  { filename = "mongoengine-0.28.0-py3-none-any.whl" },
+]

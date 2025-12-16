@@ -1,0 +1,12 @@
+# Package configuration for flake8
+conda_forge = "flake8"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8-7.3.0-py2.py3-none-any.whl" },
+  { filename = "flake8-7.2.0-py2.py3-none-any.whl" },
+  { filename = "flake8-7.1.2-py2.py3-none-any.whl" },
+  { filename = "flake8-7.1.1-py2.py3-none-any.whl" },
+  { filename = "flake8-7.1.0-py2.py3-none-any.whl" },
+]

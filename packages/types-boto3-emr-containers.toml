@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-emr-containers
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_emr_containers-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_emr_containers-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_emr_containers-1.40.61-py3-none-any.whl" },
+  { filename = "types_boto3_emr_containers-1.40.29-py3-none-any.whl" },
+  { filename = "types_boto3_emr_containers-1.40.17-py3-none-any.whl" },
+]

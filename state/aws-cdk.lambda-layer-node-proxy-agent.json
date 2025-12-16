@@ -1,0 +1,112 @@
+{
+  "aws_cdk.lambda_layer_node_proxy_agent-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1a313faf383b988fde52e66ea2d0fadd76e7e9d2492d05f6d175f79c7669650",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-lambda (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.lambda_layer_node_proxy_agent-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13088cb898ed0de64845e3388fc16faf4908fdc6d463a46187d57fea6d9bf34e",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-lambda (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.lambda_layer_node_proxy_agent-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2d092d01e81b64c745ab5a4ca37a70cd0ceb5f9405bdf72047e3feeb4db32c71",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-lambda (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.lambda_layer_node_proxy_agent-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a4839acddbf6cdb58eb7149062cd38e5c4d3280982674a45c319cde83fd01345",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-lambda (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.lambda_layer_node_proxy_agent-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "334d95d52b5d77d9fc83e69570a01ce1e813499a4818b086a81a081df93c4fe3",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-lambda",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-lambda (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

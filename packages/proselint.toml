@@ -1,0 +1,12 @@
+# Package configuration for proselint
+conda_forge = "proselint"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "proselint-0.16.0-py3-none-any.whl" },
+  { filename = "proselint-0.14.0-py3-none-any.whl" },
+  { filename = "proselint-0.13.0-py3-none-any.whl" },
+  { filename = "proselint-0.12.0-py3-none-any.whl" },
+  { filename = "proselint-0.11.3-py3-none-any.whl" },
+]

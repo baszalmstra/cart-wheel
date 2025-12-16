@@ -1,0 +1,34 @@
+{
+  "carto_auth-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bcd2012b7daf90c028127f931005e779b9461a3637a2824673dd5f0a2b1485e6",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "requests",
+      "google-auth ; extra == 'carto-dw'",
+      "google-cloud-bigquery (>=2.34.4) ; extra == 'carto-dw'"
+    ]
+  },
+  "carto_auth-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e7f365a50b6ff9d0e47edfae505b7f3342d58b5354d027183c834da0e4e96ad8",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "pyyaml",
+      "requests",
+      "google-auth ; extra == 'carto-dw'",
+      "google-cloud-bigquery (>=2.34.4) ; extra == 'carto-dw'"
+    ]
+  }
+}

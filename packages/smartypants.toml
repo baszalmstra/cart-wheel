@@ -1,0 +1,12 @@
+# Package configuration for smartypants
+conda_forge = "smartypants"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "smartypants-2.0.2-py2.py3-none-any.whl" },
+  { filename = "smartypants-2.0.1-py2.py3-none-any.whl" },
+  { filename = "smartypants-2.0.0-py2.py3-none-any.whl" },
+  { filename = "smartypants-1.8.6-py2.py3-none-any.whl" },
+  { filename = "smartypants-1.8.5-py2.py3-none-any.whl" },
+]

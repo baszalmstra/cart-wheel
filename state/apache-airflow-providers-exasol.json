@@ -1,0 +1,102 @@
+{
+  "apache_airflow_providers_exasol-4.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3355efe1ece07f2a9f5c53cb3bb767fc63be59fbfd9d6683682f307694da0ae1",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pyexasol",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "pyexasol>=0.26.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_exasol-4.8.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "566060422130e27b438e00d3e06b3c3494a14ecdcd25f1fd63f4570b19d8fd39",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pyexasol",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "pyexasol>=0.26.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_exasol-4.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c0517bf0da95635d472d156b9666b6f490f28e8853fef3229c97a4deffa5039",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pyexasol",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "pyexasol>=0.26.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_exasol-4.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb4b52c79503b2c34ae214c0691ee8ec7479b26c10cc7519ae4d2a4e09d4c96e",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pyexasol",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "pyexasol>=0.26.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_exasol-4.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "47f5e305e3c1c1b2add302443a5adaefabd4dd9f17454e3adb0ad7798ac31369",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pyexasol",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "pyexasol>=0.26.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  }
+}

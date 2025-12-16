@@ -1,0 +1,7 @@
+# Package configuration for megatron-util
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "megatron_util-0.1.0-py3-none-any.whl" },
+]

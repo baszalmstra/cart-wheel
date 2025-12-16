@@ -1,0 +1,11 @@
+# Package configuration for sanic-plugin-toolkit
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sanic_plugin_toolkit-1.2.1-py3-none-any.whl" },
+  { filename = "sanic_plugin_toolkit-1.2.0-py3-none-any.whl" },
+  { filename = "sanic_plugin_toolkit-1.1.0.post1-py3-none-any.whl" },
+  { filename = "sanic_plugin_toolkit-1.1.0-py3-none-any.whl" },
+  { filename = "Sanic_Plugin_Toolkit-1.0.1-py3-none-any.whl" },
+]

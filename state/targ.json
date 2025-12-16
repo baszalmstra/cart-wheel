@@ -1,0 +1,78 @@
+{
+  "targ-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "75b83a49181d4758c2ef0caf345c8ced78156dee66613bab0a1a614e8e0ec7b6",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "docstring-parser"
+      ]
+    },
+    "original_requirements": [
+      "colorama==0.4.*",
+      "docstring-parser>=0.12"
+    ]
+  },
+  "targ-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51872ec0085aad75f7dc8e327538711d7cd8e9f0486995504b8d6629a3c1e738",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "docstring-parser"
+      ]
+    },
+    "original_requirements": [
+      "colorama==0.4.*",
+      "docstring-parser>=0.12"
+    ]
+  },
+  "targ-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5237524323661ffa899158d668468b5c94bb84e2d988bd216981932844da63eb",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "docstring-parser",
+        "typing-inspect"
+      ]
+    },
+    "original_requirements": [
+      "colorama ==0.4.*",
+      "docstring-parser >=0.12",
+      "typing-inspect >=0.6.0 ; python_version < \"3.8\""
+    ]
+  },
+  "targ-0.3.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cabee4dc7f4aa5c858dbf4ff6b948746a245616c6a370774aaf23afbabdd2676",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "docstring-parser",
+        "typing-inspect"
+      ]
+    },
+    "original_requirements": [
+      "colorama (==0.4.*)",
+      "docstring-parser (>=0.12)",
+      "typing-inspect (>=0.6.0) ; python_version < \"3.8\""
+    ]
+  },
+  "targ-0.3.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8bb472aa69f80732013c8f801df7deca3cb0ec4545acc256d1c1cd79c3fca4bd",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "docstring-parser",
+        "typing-inspect"
+      ]
+    },
+    "original_requirements": [
+      "colorama (==0.4.*)",
+      "docstring-parser (==0.12)",
+      "typing-inspect (==0.6.0) ; python_version < \"3.8\""
+    ]
+  }
+}

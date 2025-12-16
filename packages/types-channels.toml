@@ -1,0 +1,9 @@
+# Package configuration for types-channels
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_channels-4.3.0.20250822-py3-none-any.whl" },
+  { filename = "types_channels-4.3.0.20250730-py3-none-any.whl" },
+  { filename = "types_channels-4.2.0.20250712-py3-none-any.whl" },
+]

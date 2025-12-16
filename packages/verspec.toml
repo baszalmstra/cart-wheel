@@ -1,0 +1,8 @@
+# Package configuration for verspec
+conda_forge = "verspec"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "verspec-0.1.0-py3-none-any.whl" },
+]

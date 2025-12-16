@@ -1,0 +1,78 @@
+{
+  "apache_airflow_providers_segment-3.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4282e129d2db909aadf66c277b3e8eb4539fd34a24474e6aac497be2cbcf1d9",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "segment-analytics-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "segment-analytics-python>=2.3.0"
+    ]
+  },
+  "apache_airflow_providers_segment-3.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "27e7f3e63fa1ca5c09576b23a240d7ebff29dc8fad42f0149275535d428e164b",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "segment-analytics-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "segment-analytics-python>=2.3.0"
+    ]
+  },
+  "apache_airflow_providers_segment-3.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b5e99e5b33ef05c145b56ad71f09696e73ab6d05e80cce0929dabc3ba71fe2a5",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "segment-analytics-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "segment-analytics-python>=2.3.0"
+    ]
+  },
+  "apache_airflow_providers_segment-3.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ce169445eaf4f1918f8db88615efcd655b6ea02166c30de1a510d7379b2f7a1",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "segment-analytics-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "segment-analytics-python>=2.3.0"
+    ]
+  },
+  "apache_airflow_providers_segment-3.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8bf1f16c6d0b71cd1cff199a3ddbaf4556caf7f6e8a4e832fd560861b42f7a01",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "segment-analytics-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "segment-analytics-python>=2.3.0"
+    ]
+  }
+}

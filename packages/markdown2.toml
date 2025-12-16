@@ -1,0 +1,12 @@
+# Package configuration for markdown2
+conda_forge = "markdown2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "markdown2-2.5.4-py3-none-any.whl" },
+  { filename = "markdown2-2.5.3-py3-none-any.whl" },
+  { filename = "markdown2-2.5.2-py3-none-any.whl" },
+  { filename = "markdown2-2.5.1-py2.py3-none-any.whl" },
+  { filename = "markdown2-2.5.0-py2.py3-none-any.whl" },
+]

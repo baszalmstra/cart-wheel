@@ -1,0 +1,12 @@
+# Package configuration for mediapy
+conda_forge = "mediapy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mediapy-1.2.4-py3-none-any.whl" },
+  { filename = "mediapy-1.2.3-py3-none-any.whl" },
+  { filename = "mediapy-1.2.2-py3-none-any.whl" },
+  { filename = "mediapy-1.2.1-py3-none-any.whl" },
+  { filename = "mediapy-1.2.0-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for langchain-nvidia-ai-endpoints
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_nvidia_ai_endpoints-1.0.0-py3-none-any.whl" },
+  { filename = "langchain_nvidia_ai_endpoints-0.3.19-py3-none-any.whl" },
+  { filename = "langchain_nvidia_ai_endpoints-0.3.18-py3-none-any.whl" },
+  { filename = "langchain_nvidia_ai_endpoints-0.3.17-py3-none-any.whl" },
+  { filename = "langchain_nvidia_ai_endpoints-0.3.16-py3-none-any.whl" },
+]

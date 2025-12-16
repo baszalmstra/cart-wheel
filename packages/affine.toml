@@ -1,0 +1,12 @@
+# Package configuration for affine
+conda_forge = "affine"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "affine-2.4.0-py3-none-any.whl" },
+  { filename = "affine-2.3.1-py2.py3-none-any.whl" },
+  { filename = "affine-2.3.0-py2.py3-none-any.whl" },
+  { filename = "affine-2.2.2-py2.py3-none-any.whl" },
+  { filename = "affine-2.2.1-py2.py3-none-any.whl" },
+]

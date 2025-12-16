@@ -1,0 +1,72 @@
+{
+  "apache_airflow_providers_sqlite-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "925de6140a958af26b1a72946e2aa6b4c6be77453b11f4b82b4c75f2dd238a91",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-sql>=1.26.0"
+    ]
+  },
+  "apache_airflow_providers_sqlite-4.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f5baff823eec558e85ad91cfbab9fb48ac08cd60b08caca4132b28010bd46fe9",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0"
+    ]
+  },
+  "apache_airflow_providers_sqlite-4.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ee6fd5212218217ae189d280d41713ecd8b5af1d058e26e0ba4a23fa1a76f3b",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0"
+    ]
+  },
+  "apache_airflow_providers_sqlite-4.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38d133588f9452b33f1bf07f293c0d63b7df89b54e312a838122dc47737d6957",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0"
+    ]
+  },
+  "apache_airflow_providers_sqlite-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40a06d77858462c73730a3d456b49d4e3d1e47a62a0ca51dfe671e7a1d807839",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "PGPy-0.5.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c29ad9b2bcba6575c3773410894e77a7552b6a3de184fd99b4da3995986f26a9",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "pyasn1",
+        "six",
+        "singledispatch",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "cryptography (>=2.6)",
+      "pyasn1",
+      "six (>=1.9.0)",
+      "singledispatch ; python_version < \"3.4\"",
+      "enum34 ; python_version < \"3.4\""
+    ]
+  },
+  "PGPy-0.5.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cba6fbbb44a896a8a4f5807b3d8d4943a8f7a6607be11587f4a27734c711c1dd",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "pyasn1",
+        "six",
+        "singledispatch",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "cryptography (>=2.6)",
+      "pyasn1",
+      "six (>=1.9.0)",
+      "singledispatch ; python_version < \"3.4\"",
+      "enum34 ; python_version < \"3.4\""
+    ]
+  }
+}

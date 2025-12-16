@@ -1,0 +1,188 @@
+{
+  "mistral_common-1.8.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd8c0e55b397e8167751eb3da147cf23fd970824673ca0e260aa58c888be1b0a",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "jsonschema",
+        "typing-extensions",
+        "tiktoken",
+        "pillow",
+        "requests",
+        "numpy",
+        "pydantic-extra-types"
+      ]
+    },
+    "original_requirements": [
+      "pydantic<3.0,>=2.7",
+      "jsonschema>=4.21.1",
+      "typing-extensions>=4.11.0",
+      "tiktoken>=0.7.0",
+      "pillow>=10.3.0",
+      "requests>=2.0.0",
+      "numpy>=1.25",
+      "pydantic-extra-types[pycountry]>=2.10.5",
+      "opencv-python-headless>=4.0.0; extra == \"opencv\"",
+      "sentencepiece>=0.2.0; extra == \"sentencepiece\"",
+      "soundfile>=0.12.1; extra == \"soundfile\"",
+      "soxr>=0.5.0; extra == \"soxr\"",
+      "mistral_common[soundfile]; extra == \"audio\"",
+      "mistral_common[soxr]; extra == \"audio\"",
+      "mistral_common[opencv]; extra == \"image\"",
+      "huggingface-hub>=0.32.4; extra == \"hf-hub\"",
+      "fastapi[standard]>=0.115.12; extra == \"server\"",
+      "pydantic-settings>=2.9.1; extra == \"server\"",
+      "click>=8.1.0; extra == \"server\""
+    ]
+  },
+  "mistral_common-1.8.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3cf87b61958a00485e603f3fe0530eb509d7e9b2f7178329dcd260e307eced1",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "jsonschema",
+        "typing-extensions",
+        "tiktoken",
+        "pillow",
+        "requests",
+        "numpy",
+        "pydantic-extra-types"
+      ]
+    },
+    "original_requirements": [
+      "pydantic<3.0,>=2.7",
+      "jsonschema>=4.21.1",
+      "typing-extensions>=4.11.0",
+      "tiktoken>=0.7.0",
+      "pillow>=10.3.0",
+      "requests>=2.0.0",
+      "numpy>=1.25",
+      "pydantic-extra-types[pycountry]>=2.10.5",
+      "opencv-python-headless>=4.0.0; extra == \"opencv\"",
+      "sentencepiece>=0.2.0; extra == \"sentencepiece\"",
+      "soundfile>=0.12.1; extra == \"soundfile\"",
+      "soxr>=0.5.0; extra == \"soxr\"",
+      "mistral_common[soundfile]; extra == \"audio\"",
+      "mistral_common[soxr]; extra == \"audio\"",
+      "mistral_common[opencv]; extra == \"image\"",
+      "huggingface-hub>=0.32.4; extra == \"hf-hub\"",
+      "fastapi[standard]>=0.115.12; extra == \"server\"",
+      "pydantic-settings>=2.9.1; extra == \"server\"",
+      "click>=8.1.0; extra == \"server\""
+    ]
+  },
+  "mistral_common-1.8.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bfaf2550046cebe8289946adc267ba807ac266e5325647af4c4f67292124bc2f",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "jsonschema",
+        "typing-extensions",
+        "tiktoken",
+        "pillow",
+        "requests",
+        "numpy",
+        "pydantic-extra-types"
+      ]
+    },
+    "original_requirements": [
+      "pydantic<3.0,>=2.7",
+      "jsonschema>=4.21.1",
+      "typing-extensions>=4.11.0",
+      "tiktoken>=0.7.0",
+      "pillow>=10.3.0",
+      "requests>=2.0.0",
+      "numpy>=1.25",
+      "pydantic-extra-types[pycountry]>=2.10.5",
+      "opencv-python-headless>=4.0.0; extra == \"opencv\"",
+      "sentencepiece>=0.2.0; extra == \"sentencepiece\"",
+      "soundfile>=0.12.1; extra == \"soundfile\"",
+      "soxr>=0.5.0; extra == \"soxr\"",
+      "mistral_common[soundfile]; extra == \"audio\"",
+      "mistral_common[soxr]; extra == \"audio\"",
+      "mistral_common[opencv]; extra == \"image\"",
+      "huggingface-hub>=0.32.4; extra == \"hf-hub\"",
+      "fastapi[standard]>=0.115.12; extra == \"server\"",
+      "pydantic-settings>=2.9.1; extra == \"server\"",
+      "click>=8.1.0; extra == \"server\""
+    ]
+  },
+  "mistral_common-1.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "846b6e4bbe016dc2e64fd3169fa704a548f6c74467e0cb18dc165b7a7669abd6",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "jsonschema",
+        "sentencepiece",
+        "typing-extensions",
+        "tiktoken",
+        "pillow",
+        "requests",
+        "numpy",
+        "pydantic-extra-types"
+      ]
+    },
+    "original_requirements": [
+      "pydantic<3.0,>=2.7",
+      "jsonschema>=4.21.1",
+      "sentencepiece>=0.2.0",
+      "typing-extensions>=4.11.0",
+      "tiktoken>=0.7.0",
+      "pillow>=10.3.0",
+      "requests>=2.0.0",
+      "numpy>=1.25",
+      "pydantic-extra-types[pycountry]>=2.10.5",
+      "opencv-python-headless>=4.0.0; extra == \"opencv\"",
+      "soundfile>=0.12.1; extra == \"soundfile\"",
+      "soxr>=0.5.0; extra == \"soxr\"",
+      "mistral_common[soundfile]; extra == \"audio\"",
+      "mistral_common[soxr]; extra == \"audio\"",
+      "mistral_common[opencv]; extra == \"image\"",
+      "huggingface-hub>=0.32.4; extra == \"hf-hub\"",
+      "fastapi[standard]>=0.115.12; extra == \"server\"",
+      "pydantic-settings>=2.9.1; extra == \"server\"",
+      "click>=8.1.0; extra == \"server\""
+    ]
+  },
+  "mistral_common-1.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49f98e02a30dd76dcb3bbfaac8461241008a99c4b390ea3843b88bbb779481fc",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "jsonschema",
+        "sentencepiece",
+        "typing-extensions",
+        "tiktoken",
+        "pillow",
+        "requests",
+        "numpy",
+        "numpy",
+        "pydantic-extra-types"
+      ]
+    },
+    "original_requirements": [
+      "pydantic<3.0,>=2.7",
+      "jsonschema>=4.21.1",
+      "sentencepiece>=0.2.0",
+      "typing-extensions>=4.11.0",
+      "tiktoken>=0.7.0",
+      "pillow>=10.3.0",
+      "requests>=2.0.0",
+      "numpy<1.25,>=1.22; python_version < \"3.9\"",
+      "numpy>=1.25; python_version >= \"3.9\"",
+      "pydantic-extra-types[pycountry]>=2.10.5",
+      "opencv-python-headless>=4.0.0; extra == \"opencv\"",
+      "soundfile>=0.12.1; extra == \"soundfile\"",
+      "soxr>=0.5.0; extra == \"soxr\"",
+      "mistral_common[soundfile]; extra == \"audio\"",
+      "mistral_common[soxr]; extra == \"audio\"",
+      "mistral_common[opencv]; extra == \"image\"",
+      "huggingface-hub>=0.32.4; extra == \"hf-hub\""
+    ]
+  }
+}

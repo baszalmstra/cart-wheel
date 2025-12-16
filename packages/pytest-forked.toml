@@ -1,0 +1,12 @@
+# Package configuration for pytest-forked
+conda_forge = "pytest-forked"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_forked-1.6.0-py3-none-any.whl" },
+  { filename = "pytest_forked-1.5.0-py3-none-any.whl" },
+  { filename = "pytest_forked-1.4.0-py3-none-any.whl" },
+  { filename = "pytest_forked-1.3.0-py2.py3-none-any.whl" },
+  { filename = "pytest_forked-1.2.0-py2.py3-none-any.whl" },
+]

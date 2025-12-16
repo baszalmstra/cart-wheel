@@ -1,0 +1,12 @@
+# Package configuration for webob
+conda_forge = "webob"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "WebOb-1.8.9-py2.py3-none-any.whl" },
+  { filename = "WebOb-1.8.8-py2.py3-none-any.whl" },
+  { filename = "WebOb-1.8.7-py2.py3-none-any.whl" },
+  { filename = "WebOb-1.8.6-py2.py3-none-any.whl" },
+  { filename = "WebOb-1.8.5-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for ipyreact
+conda_forge = "ipyreact"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ipyreact-0.5.0-py3-none-any.whl" },
+  { filename = "ipyreact-0.4.2-py3-none-any.whl" },
+  { filename = "ipyreact-0.4.1-py3-none-any.whl" },
+  { filename = "ipyreact-0.4.0-py3-none-any.whl" },
+  { filename = "ipyreact-0.3.1-py3-none-any.whl" },
+]

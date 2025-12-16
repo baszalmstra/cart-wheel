@@ -1,0 +1,11 @@
+# Package configuration for py-txi
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "py_txi-0.10.0-py3-none-any.whl" },
+  { filename = "py_txi-0.9.0-py3-none-any.whl" },
+  { filename = "py_txi-0.8.0-py3-none-any.whl" },
+  { filename = "py_txi-0.7.0-py3-none-any.whl" },
+  { filename = "py_txi-0.6.0-py3-none-any.whl" },
+]

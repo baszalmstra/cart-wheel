@@ -1,0 +1,12 @@
+# Package configuration for skyfield
+conda_forge = "skyfield"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "skyfield-1.53-py3-none-any.whl" },
+  { filename = "skyfield-1.52-py3-none-any.whl" },
+  { filename = "skyfield-1.51-py3-none-any.whl" },
+  { filename = "skyfield-1.50-py3-none-any.whl" },
+  { filename = "skyfield-1.49-py3-none-any.whl" },
+]

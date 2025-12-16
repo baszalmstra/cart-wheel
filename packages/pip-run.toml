@@ -1,0 +1,11 @@
+# Package configuration for pip-run
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pip_run-16.1.0-py3-none-any.whl" },
+  { filename = "pip_run-16.0.4-py3-none-any.whl" },
+  { filename = "pip_run-16.0.3-py3-none-any.whl" },
+  { filename = "pip_run-16.0.2-py3-none-any.whl" },
+  { filename = "pip_run-16.0.0-py3-none-any.whl" },
+]

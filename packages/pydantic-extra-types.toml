@@ -1,0 +1,12 @@
+# Package configuration for pydantic-extra-types
+conda_forge = "pydantic-extra-types"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydantic_extra_types-2.10.6-py3-none-any.whl" },
+  { filename = "pydantic_extra_types-2.10.5-py3-none-any.whl" },
+  { filename = "pydantic_extra_types-2.10.4-py3-none-any.whl" },
+  { filename = "pydantic_extra_types-2.10.3-py3-none-any.whl" },
+  { filename = "pydantic_extra_types-2.10.2-py3-none-any.whl" },
+]

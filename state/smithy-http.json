@@ -1,0 +1,77 @@
+{
+  "smithy_http-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "972924304febd77c7134a7cffab83ce3b48423ff966dcc1f257e2c0d58fa9b18",
+    "dependencies": {
+      "required": [
+        "smithy-core"
+      ]
+    },
+    "original_requirements": [
+      "smithy-core~=0.2.0",
+      "aiohttp<4.0,>=3.11.12; extra == 'aiohttp'",
+      "yarl; extra == 'aiohttp'",
+      "awscrt~=0.28.2; extra == 'awscrt'"
+    ]
+  },
+  "smithy_http-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc284838c962d78c6171a3ae8ff8578957b276b735dff2f4b605beec5f458ca8",
+    "dependencies": {
+      "required": [
+        "smithy-core"
+      ]
+    },
+    "original_requirements": [
+      "smithy-core~=0.1.0",
+      "aiohttp<4.0,>=3.11.12; extra == 'aiohttp'",
+      "yarl; extra == 'aiohttp'",
+      "awscrt~=0.28.2; extra == 'awscrt'"
+    ]
+  },
+  "smithy_http-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49ee2402d7737798d70f99f491fbfb2a5767283ae562e21b6f86e3fd14f3e3e0",
+    "dependencies": {
+      "required": [
+        "smithy-core"
+      ]
+    },
+    "original_requirements": [
+      "smithy-core~=0.1.0",
+      "aiohttp<4.0,>=3.11.12; extra == 'aiohttp'",
+      "yarl; extra == 'aiohttp'",
+      "awscrt~=0.28.2; extra == 'awscrt'"
+    ]
+  },
+  "smithy_http-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7657aaf4b9e025cb9d317406f417b49cf19fba9d1b2ab4f5e6d9dc5a2dd7cdba",
+    "dependencies": {
+      "required": [
+        "smithy-core"
+      ]
+    },
+    "original_requirements": [
+      "smithy-core~=0.1.0",
+      "aiohttp<4.0,>=3.11.12; extra == 'aiohttp'",
+      "yarl; extra == 'aiohttp'",
+      "awscrt>=0.23.10; extra == 'awscrt'"
+    ]
+  },
+  "smithy_http-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b25ff39604de6998adc842455138c58411d2adac9b1130d58f115eea2f109f77",
+    "dependencies": {
+      "required": [
+        "smithy-core"
+      ]
+    },
+    "original_requirements": [
+      "smithy-core",
+      "aiohttp<4.0,>=3.11.12; extra == 'aiohttp'",
+      "yarl; extra == 'aiohttp'",
+      "awscrt>=0.23.10; extra == 'awscrt'"
+    ]
+  }
+}

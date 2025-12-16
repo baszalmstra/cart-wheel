@@ -1,0 +1,100 @@
+{
+  "ridgeplot-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ac18194ab32d97345c59b135e4885adc147b0f22e553dad9d706bc1fd4cf841",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "plotly",
+        "statsmodels",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1",
+      "plotly>=5.20",
+      "statsmodels!=0.14.2,>=0.12",
+      "typing-extensions"
+    ]
+  },
+  "ridgeplot-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa45ee05b22b437b5712a6cd687352ea0eaffb72951236a61ba406df49c65dd8",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "plotly",
+        "statsmodels",
+        "typing-extensions",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1",
+      "plotly>=5.20",
+      "statsmodels!=0.14.2,>=0.12",
+      "typing-extensions",
+      "importlib-resources; python_version < \"3.10\""
+    ]
+  },
+  "ridgeplot-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "00b7c6c60983c7e7528e29c69585d08f2d882e28ac09598e528dd6358d066048",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "plotly",
+        "statsmodels",
+        "typing-extensions",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1",
+      "plotly>=5.20",
+      "statsmodels!=0.14.2,>=0.12",
+      "typing-extensions",
+      "importlib-resources; python_version < \"3.10\""
+    ]
+  },
+  "ridgeplot-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "69afb2c3082d225e3b97fb0948ca4f4a495dcf5160216a2c5d977bd149dccbd4",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "plotly",
+        "statsmodels",
+        "typing-extensions",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1",
+      "plotly>=5.20",
+      "statsmodels!=0.14.2,>=0.12",
+      "typing-extensions",
+      "importlib-resources; python_version < \"3.10\""
+    ]
+  },
+  "ridgeplot-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf1755f55ec102f552c98b648106bea6beedf72bfdfe719afbace21f489a06fe",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "plotly",
+        "statsmodels",
+        "typing-extensions",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1",
+      "plotly>=5.20",
+      "statsmodels!=0.14.2,>=0.12",
+      "typing-extensions; python_version < \"3.13\"",
+      "importlib-resources; python_version < \"3.10\""
+    ]
+  }
+}

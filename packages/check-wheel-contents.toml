@@ -1,0 +1,12 @@
+# Package configuration for check-wheel-contents
+conda_forge = "check-wheel-contents"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "check_wheel_contents-0.6.3-py3-none-any.whl" },
+  { filename = "check_wheel_contents-0.6.2-py3-none-any.whl" },
+  { filename = "check_wheel_contents-0.6.1-py3-none-any.whl" },
+  { filename = "check_wheel_contents-0.6.0-py3-none-any.whl" },
+  { filename = "check_wheel_contents-0.5.0-py3-none-any.whl" },
+]

@@ -1,0 +1,35 @@
+{
+  "repoze.sphinx.autointerface-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b706d72b38d7720b21a17cbdd4dd80dade9688f1eb5e48d33ef335978a6ce852",
+    "dependencies": {
+      "required": [
+        "zope.interface",
+        "sphinx",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "zope.interface",
+      "Sphinx (>=4.0)",
+      "setuptools",
+      "zope.testrunner ; extra == 'test'"
+    ]
+  },
+  "repoze.sphinx.autointerface-0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24f917d32961e7f735819e39569ab8c21693d2b1958685f5f061d9019f14ff58",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "setuptools",
+        "zope.interface"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx (>=0.6.1)",
+      "setuptools",
+      "zope.interface"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "effdet-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10889a226228d515c948e3fcf811e64c0d78d7aa94823a300045653b9c284cb7",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "timm",
+        "pycocotools",
+        "omegaconf"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.12.1)",
+      "torchvision",
+      "timm (>=0.9.2)",
+      "pycocotools (>=2.0.2)",
+      "omegaconf (>=2.0)"
+    ]
+  },
+  "effdet-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb61d059b911bbde080f9a66813591f9f938599c184d9071133441b53f29cf7e",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "timm",
+        "pycocotools",
+        "omegaconf"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.4)",
+      "torchvision",
+      "timm (>=0.4.12)",
+      "pycocotools (>=2.0.2)",
+      "omegaconf (>=2.0)"
+    ]
+  },
+  "effdet-0.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43afa74f0ea229c23dd01d4ca9e515442eaaecc9216f16a868507442ed35dcf8",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "timm",
+        "pycocotools",
+        "omegaconf"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.4)",
+      "torchvision",
+      "timm (>=0.3.2)",
+      "pycocotools (>=2.0.2)",
+      "omegaconf (>=2.0)"
+    ]
+  },
+  "effdet-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b992049c440c544de27d5635a3720577a0c8ae666ab9617b4059221714010cff",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "timm",
+        "pycocotools",
+        "omegaconf"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.4)",
+      "torchvision",
+      "timm (>=0.3.0)",
+      "pycocotools (>=2.0.2)",
+      "omegaconf (>=2.0)"
+    ]
+  },
+  "effdet-0.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "117eca0db4fe3ecc56446fbaaaca322bc37986afb89b457ab0da89d362839d23",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "timm"
+      ]
+    },
+    "original_requirements": [
+      "torch (>=1.4)",
+      "torchvision",
+      "timm (>=0.1.28)"
+    ]
+  }
+}

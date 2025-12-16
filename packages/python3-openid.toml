@@ -1,0 +1,9 @@
+# Package configuration for python3-openid
+conda_forge = "python3-openid"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python3_openid-3.2.0-py3-none-any.whl" },
+  { filename = "python3_openid-3.1.0-py3-none-any.whl" },
+]

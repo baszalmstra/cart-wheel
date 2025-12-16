@@ -1,0 +1,78 @@
+{
+  "pandas_vet-2023.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "761c07b4479f24fc507465047111c7d21374ec678b7aba58e454fd5d3f8055fe",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=19.2.0",
+      "flake8>=6.0.0",
+      "jupyter-book; extra == 'docs'",
+      "sphinx; extra == 'docs'"
+    ]
+  },
+  "pandas_vet-2023.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "061b6040f19b30244d5761b2ce2937300ee565f25e9d894d5bfc18a4177241f0",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=19.2.0",
+      "flake8>=6.0.0",
+      "jupyter-book; extra == 'docs'",
+      "sphinx; extra == 'docs'"
+    ]
+  },
+  "pandas_vet-2023.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d7ae9a1d90ff01683d5e3382960b793d8990cee1ec2d3dc2c021a0c7d454b4a",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "flake8"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=19.2.0",
+      "flake8>=6.0.0",
+      "jupyter-book; extra == 'docs'",
+      "sphinx; extra == 'docs'"
+    ]
+  },
+  "pandas_vet-0.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "349e4240399ead316f64f9afc8e94a5bd5cfff45d7f448c5c22989e86c4ac782",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>3.0.0)",
+      "attrs"
+    ]
+  },
+  "pandas_vet-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "961235064ebe5b38ca9c3f45961fdce61796a01aea1f07b06b67f6b359aabea2",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>3.0.0)",
+      "attrs"
+    ]
+  }
+}

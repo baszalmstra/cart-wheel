@@ -1,0 +1,132 @@
+{
+  "aioboto3-15.5.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:06.703692+00:00",
+    "conda_file": "aioboto3-15.5.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiobotocore[extras=[boto3]]",
+        "aiofiles"
+      ],
+      "optional": {
+        "s3cse": [
+          "cryptography"
+        ],
+        "chalice": [
+          "chalice"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiobotocore[boto3]==2.25.1",
+      "aiofiles>=23.2.1",
+      "cryptography>=44.0.1; extra == \"s3cse\"",
+      "chalice>=1.24.0; extra == \"chalice\""
+    ]
+  },
+  "aioboto3-15.4.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:06.957179+00:00",
+    "conda_file": "aioboto3-15.4.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiobotocore[extras=[boto3]]",
+        "aiofiles"
+      ],
+      "optional": {
+        "s3cse": [
+          "cryptography"
+        ],
+        "chalice": [
+          "chalice"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiobotocore[boto3]==2.25.0",
+      "aiofiles>=23.2.1",
+      "cryptography>=44.0.1; extra == \"s3cse\"",
+      "chalice>=1.24.0; extra == \"chalice\""
+    ]
+  },
+  "aioboto3-15.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:07.258704+00:00",
+    "conda_file": "aioboto3-15.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiobotocore[extras=[boto3]]",
+        "aiofiles"
+      ],
+      "optional": {
+        "s3cse": [
+          "cryptography"
+        ],
+        "chalice": [
+          "chalice"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiobotocore[boto3]==2.24.3",
+      "aiofiles>=23.2.1",
+      "cryptography>=44.0.1; extra == \"s3cse\"",
+      "chalice>=1.24.0; extra == \"chalice\""
+    ]
+  },
+  "aioboto3-15.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:07.597254+00:00",
+    "conda_file": "aioboto3-15.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiobotocore[extras=[boto3]]",
+        "aiofiles"
+      ],
+      "optional": {
+        "s3cse": [
+          "cryptography"
+        ],
+        "chalice": [
+          "chalice"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiobotocore[boto3]==2.24.2",
+      "aiofiles>=23.2.1",
+      "cryptography>=44.0.1; extra == \"s3cse\"",
+      "chalice>=1.24.0; extra == \"chalice\""
+    ]
+  },
+  "aioboto3-15.1.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:07.850139+00:00",
+    "conda_file": "aioboto3-15.1.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiobotocore[extras=[boto3]]",
+        "aiofiles"
+      ],
+      "optional": {
+        "s3cse": [
+          "cryptography"
+        ],
+        "chalice": [
+          "chalice"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiobotocore[boto3]==2.24.0",
+      "aiofiles>=23.2.1",
+      "cryptography>=44.0.1; extra == \"s3cse\"",
+      "chalice>=1.24.0; extra == \"chalice\""
+    ]
+  }
+}

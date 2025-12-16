@@ -1,0 +1,82 @@
+{
+  "unearth-0.18.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6d2dd6cd65a28cc8e13f08d7de93135bc1976078999c0f8116c42e53be0dc9ad",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=20",
+      "httpx<1,>=0.27.0",
+      "keyring; extra == \"keyring\"",
+      "requests>=2.25; extra == \"legacy\""
+    ]
+  },
+  "unearth-0.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dfdf72c3b13674b9dfe0574cc246f86423b69f749ba035442963fee402eb8ac6",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=20",
+      "httpx<1,>=0.27.0",
+      "keyring; extra == \"keyring\"",
+      "requests>=2.25; extra == \"legacy\""
+    ]
+  },
+  "unearth-0.17.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9963e66b14f0484644c9b45b517e530befb2de6a8da4b06a9a38bed2d086dfe6",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=20",
+      "httpx<1,>=0.27.0",
+      "keyring; extra == \"keyring\"",
+      "requests>=2.25; extra == \"legacy\""
+    ]
+  },
+  "unearth-0.17.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b0eb24bfd479642ac5dc73a9123fc5f8660f1c2e5672c5fd54b1731c3ac6165",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=20",
+      "httpx<1,>=0.27.0",
+      "keyring; extra == \"keyring\"",
+      "requests>=2.25; extra == \"legacy\""
+    ]
+  },
+  "unearth-0.17.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "654dba44ac6ea9e4a73acface11dafc342fb0a8095e7d63c2d6801a047e96dfc",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=20",
+      "httpx<1,>=0.27.0",
+      "keyring; extra == \"keyring\"",
+      "requests>=2.25; extra == \"legacy\""
+    ]
+  }
+}

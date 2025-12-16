@@ -1,0 +1,11 @@
+# Package configuration for teradatasql
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "teradatasql-20.0.0.48-py3-none-any.whl" },
+  { filename = "teradatasql-20.0.0.47-py3-none-any.whl" },
+  { filename = "teradatasql-20.0.0.46-py3-none-any.whl" },
+  { filename = "teradatasql-20.0.0.44-py3-none-any.whl" },
+  { filename = "teradatasql-20.0.0.43-py3-none-any.whl" },
+]

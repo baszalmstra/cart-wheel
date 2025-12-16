@@ -1,0 +1,44 @@
+{
+  "aiocontextvars-0.2.2-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:12.561671+00:00",
+    "conda_file": "aiocontextvars-0.2.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "contextvars"
+      ]
+    },
+    "original_requirements": [
+      "contextvars (==2.4) ; python_version < \"3.7\""
+    ]
+  },
+  "aiocontextvars-0.2.1-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:12.825249+00:00",
+    "conda_file": "aiocontextvars-0.2.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "contextvars"
+      ]
+    },
+    "original_requirements": [
+      "contextvars (==2.3); python_version < \"3.7\""
+    ]
+  },
+  "aiocontextvars-0.2.0-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:13.050483+00:00",
+    "conda_file": "aiocontextvars-0.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "contextvars"
+      ]
+    },
+    "original_requirements": [
+      "contextvars (==2.3); python_version < \"3.7\""
+    ]
+  }
+}

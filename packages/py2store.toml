@@ -1,0 +1,11 @@
+# Package configuration for py2store
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "py2store-0.0.18-py3-none-any.whl" },
+  { filename = "py2store-0.0.17-py3-none-any.whl" },
+  { filename = "py2store-0.0.14-py3-none-any.whl" },
+  { filename = "py2store-0.0.13-py3-none-any.whl" },
+  { filename = "py2store-0.0.12-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for jupyter-sphinx
+conda_forge = "jupyter_sphinx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyter_sphinx-0.5.3-py3-none-any.whl" },
+  { filename = "jupyter_sphinx-0.4.0-py3-none-any.whl" },
+  { filename = "jupyter_sphinx-0.3.2-py3-none-any.whl" },
+  { filename = "jupyter_sphinx-0.3.1-py3-none-any.whl" },
+  { filename = "jupyter_sphinx-0.3.0-py3-none-any.whl" },
+]

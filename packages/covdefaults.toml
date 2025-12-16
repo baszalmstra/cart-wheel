@@ -1,0 +1,12 @@
+# Package configuration for covdefaults
+conda_forge = "covdefaults"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "covdefaults-2.3.0-py2.py3-none-any.whl" },
+  { filename = "covdefaults-2.2.2-py2.py3-none-any.whl" },
+  { filename = "covdefaults-2.2.0-py2.py3-none-any.whl" },
+  { filename = "covdefaults-2.1.0-py2.py3-none-any.whl" },
+  { filename = "covdefaults-2.0.0-py2.py3-none-any.whl" },
+]

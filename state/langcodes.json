@@ -1,0 +1,74 @@
+{
+  "langcodes-3.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6a9c25c603804e2d169165091d0cdb23934610524a21d226e4f463e8e958a72",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "build; extra == \"build\"",
+      "twine; extra == \"build\"",
+      "language-data>=1.2; extra == \"data\""
+    ]
+  },
+  "langcodes-3.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "853c69d1a35e0e13da2f427bb68fb2fa4a8f4fb899e0c62ad8df8d073dcfed33",
+    "dependencies": {
+      "required": [
+        "language-data"
+      ]
+    },
+    "original_requirements": [
+      "language-data >=1.2",
+      "build ; extra == 'build'",
+      "twine ; extra == 'build'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "langcodes-3.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "68f686fc3d358f222674ecf697ddcee3ace3c2fe325083ecad2543fd28a20e77",
+    "dependencies": {
+      "required": [
+        "language-data"
+      ]
+    },
+    "original_requirements": [
+      "language-data >=1.2",
+      "build ; extra == 'build'",
+      "twine ; extra == 'build'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "langcodes-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "10a4cc078b8e8937d8485d3352312a0a89a3125190db9f2bb2074250eef654e9",
+    "dependencies": {
+      "required": [
+        "language-data"
+      ]
+    },
+    "original_requirements": [
+      "language-data >=1.2",
+      "build ; extra == 'build'",
+      "twine ; extra == 'build'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "langcodes-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d89fc9acb6e9c8fdef70bcdf376113a3db09b67285d9e1d534de6d8818e7e69",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "language-data (>=1.1,<2.0); extra == \"data\""
+    ]
+  }
+}

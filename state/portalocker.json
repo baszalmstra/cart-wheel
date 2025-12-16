@@ -1,0 +1,116 @@
+{
+  "portalocker-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3cdc5f565312224bc570c49337bd21428bba0ef363bbcf58b9ef4a9f11779968",
+    "dependencies": {
+      "required": [
+        "pywin32"
+      ]
+    },
+    "original_requirements": [
+      "pywin32>=226; platform_system == \"Windows\"",
+      "portalocker[tests]; extra == \"docs\"",
+      "coverage-conditional-plugin>=0.9.0; extra == \"tests\"",
+      "portalocker[redis]; extra == \"tests\"",
+      "pytest-cov>=2.8.1; extra == \"tests\"",
+      "pytest-mypy>=0.8.0; extra == \"tests\"",
+      "pytest-rerunfailures>=15.0; extra == \"tests\"",
+      "pytest-timeout>=2.1.0; extra == \"tests\"",
+      "pytest>=5.4.1; extra == \"tests\"",
+      "sphinx>=6.0.0; extra == \"tests\"",
+      "types-pywin32>=310.0.0.20250429; extra == \"tests\"",
+      "types-redis; extra == \"tests\"",
+      "redis; extra == \"redis\""
+    ]
+  },
+  "portalocker-3.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80e984e24de292ff258a5bea0e4f3f778fff84c0ae1275dbaebc4658de4aacb3",
+    "dependencies": {
+      "required": [
+        "pywin32"
+      ]
+    },
+    "original_requirements": [
+      "pywin32>=226; platform_system == \"Windows\"",
+      "sphinx>=1.7.1; extra == \"docs\"",
+      "pytest>=5.4.1; extra == \"tests\"",
+      "pytest-cov>=2.8.1; extra == \"tests\"",
+      "pytest-timeout>=2.1.0; extra == \"tests\"",
+      "sphinx>=6.0.0; extra == \"tests\"",
+      "pytest-mypy>=0.8.0; extra == \"tests\"",
+      "types-redis; extra == \"tests\"",
+      "redis; extra == \"tests\"",
+      "pytest-rerunfailures>=15.0; extra == \"tests\"",
+      "redis; extra == \"redis\""
+    ]
+  },
+  "portalocker-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a78cf12db9456c2a623a90a1697cb72cca548572b7ac5820bcc6d7315ce43e77",
+    "dependencies": {
+      "required": [
+        "pywin32",
+        "tomli-w",
+        "tomlkit"
+      ]
+    },
+    "original_requirements": [
+      "pywin32>=226; platform_system == \"Windows\"",
+      "tomli-w>=1.0.0",
+      "tomlkit>=0.13.2",
+      "sphinx>=1.7.1; extra == \"docs\"",
+      "pytest>=5.4.1; extra == \"tests\"",
+      "pytest-cov>=2.8.1; extra == \"tests\"",
+      "pytest-timeout>=2.1.0; extra == \"tests\"",
+      "sphinx>=6.0.0; extra == \"tests\"",
+      "pytest-mypy>=0.8.0; extra == \"tests\"",
+      "types-redis; extra == \"tests\"",
+      "redis; extra == \"tests\"",
+      "pytest-rerunfailures>=15.0; extra == \"tests\"",
+      "redis; extra == \"redis\""
+    ]
+  },
+  "portalocker-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "211916b539a0dc3c128a3d9e86893ecfefec5379c4ff684e798f0a00f99db406",
+    "dependencies": {
+      "required": [
+        "pywin32"
+      ]
+    },
+    "original_requirements": [
+      "pywin32 >=226 ; platform_system == \"Windows\"",
+      "sphinx >=1.7.1 ; extra == 'docs'",
+      "redis ; extra == 'redis'",
+      "pytest >=5.4.1 ; extra == 'tests'",
+      "pytest-cov >=2.8.1 ; extra == 'tests'",
+      "pytest-timeout >=2.1.0 ; extra == 'tests'",
+      "sphinx >=6.0.0 ; extra == 'tests'",
+      "pytest-mypy >=0.8.0 ; extra == 'tests'",
+      "types-redis ; extra == 'tests'",
+      "redis ; extra == 'tests'"
+    ]
+  },
+  "portalocker-2.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "53a5984ebc86a025552264b459b46a2086e269b21823cb572f8f28ee759e45bf",
+    "dependencies": {
+      "required": [
+        "pywin32"
+      ]
+    },
+    "original_requirements": [
+      "pywin32 >=226 ; platform_system == \"Windows\"",
+      "sphinx >=1.7.1 ; extra == 'docs'",
+      "redis ; extra == 'redis'",
+      "pytest >=5.4.1 ; extra == 'tests'",
+      "pytest-cov >=2.8.1 ; extra == 'tests'",
+      "pytest-timeout >=2.1.0 ; extra == 'tests'",
+      "sphinx >=6.0.0 ; extra == 'tests'",
+      "pytest-mypy >=0.8.0 ; extra == 'tests'",
+      "types-redis ; extra == 'tests'",
+      "redis ; extra == 'tests'"
+    ]
+  }
+}

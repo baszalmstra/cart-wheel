@@ -1,0 +1,12 @@
+# Package configuration for snowflake-snowpark-python
+conda_forge = "snowflake-snowpark-python"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "snowflake_snowpark_python-1.43.0-py3-none-any.whl" },
+  { filename = "snowflake_snowpark_python-1.42.0-py3-none-any.whl" },
+  { filename = "snowflake_snowpark_python-1.41.0-py3-none-any.whl" },
+  { filename = "snowflake_snowpark_python-1.40.0-py3-none-any.whl" },
+  { filename = "snowflake_snowpark_python-1.39.1-py3-none-any.whl" },
+]

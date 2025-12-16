@@ -1,0 +1,92 @@
+{
+  "langchain_chroma-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff65e4a2ccefb0fb9fde2ff38705022ace402f979d557f018f6e623f7288f0fc",
+    "dependencies": {
+      "required": [
+        "chromadb",
+        "langchain-core",
+        "numpy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "chromadb<2.0.0,>=1.3.5",
+      "langchain-core<2.0.0,>=1.1.3",
+      "numpy>=1.26.0; python_version < '3.13'",
+      "numpy>=2.1.0; python_version >= '3.13'"
+    ]
+  },
+  "langchain_chroma-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b7adb991090f066f8d5e746a2d338de3116b192cec3990deef3052b7ea07324c",
+    "dependencies": {
+      "required": [
+        "chromadb",
+        "langchain-core",
+        "numpy",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "chromadb<2.0.0,>=1.0.20",
+      "langchain-core<2.0.0,>=1.0.0",
+      "numpy>=1.26.0; python_version < '3.13'",
+      "numpy>=2.1.0; python_version >= '3.13'"
+    ]
+  },
+  "langchain_chroma-0.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d7e10101b0942cd990eedb798c3d85ed3e8415a992c8a388843196f6ab97b41b",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "numpy",
+        "numpy",
+        "chromadb"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.76",
+      "numpy>=1.26.0; python_version < \"3.13\"",
+      "numpy>=2.1.0; python_version >= \"3.13\"",
+      "chromadb>=1.0.20"
+    ]
+  },
+  "langchain_chroma-0.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcb80330cd8ac9a87695a5ba237a15affeb805751bdb42dee213b12e0d379825",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "numpy",
+        "numpy",
+        "chromadb"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.70",
+      "numpy>=1.26.0; python_version < \"3.13\"",
+      "numpy>=2.1.0; python_version >= \"3.13\"",
+      "chromadb>=1.0.9"
+    ]
+  },
+  "langchain_chroma-0.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8bd5316ab415ff7c6ac911d2069926a54777aa4a04f69239a422415c02d1feeb",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "numpy",
+        "numpy",
+        "chromadb"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.60",
+      "numpy>=1.26.0; python_version < \"3.13\"",
+      "numpy>=2.1.0; python_version >= \"3.13\"",
+      "chromadb>=1.0.9"
+    ]
+  }
+}

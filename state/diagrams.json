@@ -1,0 +1,88 @@
+{
+  "diagrams-0.25.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90698eaa74c027dfffd8306ba7f08ee543959205024050a6357f34eae9961345",
+    "dependencies": {
+      "required": [
+        "graphviz",
+        "jinja2",
+        "pre-commit",
+        "typed-ast"
+      ]
+    },
+    "original_requirements": [
+      "graphviz<0.21.0,>=0.13.2",
+      "jinja2<4.0,>=2.10",
+      "pre-commit<5,>=4.0.1",
+      "typed-ast<2,>=1.5.5; python_version < '3.8'"
+    ]
+  },
+  "diagrams-0.25.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dda76dd6f5d4e4ada05f94697639ce2266cbb6df471ff76f658381cc34d551a4",
+    "dependencies": {
+      "required": [
+        "graphviz",
+        "jinja2",
+        "pre-commit",
+        "typed-ast"
+      ]
+    },
+    "original_requirements": [
+      "graphviz (>=0.13.2,<0.21.0)",
+      "jinja2 (>=2.10,<4.0)",
+      "pre-commit (>=4.0.1,<5)",
+      "typed-ast (>=1.5.5,<2) ; python_version < \"3.8\""
+    ]
+  },
+  "diagrams-0.24.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41c5c03e1317ada0a64287f704e5e9d9c8794addce96b66dd831a536aa7e6507",
+    "dependencies": {
+      "required": [
+        "graphviz",
+        "jinja2",
+        "pre-commit",
+        "typed-ast"
+      ]
+    },
+    "original_requirements": [
+      "graphviz (>=0.13.2,<0.21.0)",
+      "jinja2 (>=2.10,<4.0)",
+      "pre-commit (>=4.0.1,<5.0.0)",
+      "typed-ast (>=1.5.5,<2.0.0) ; python_version < \"3.8\""
+    ]
+  },
+  "diagrams-0.24.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c1e3267b018bdb66886a09214c7a7884796a0c28456f8aefdf38916a232c2362",
+    "dependencies": {
+      "required": [
+        "graphviz",
+        "jinja2",
+        "typed-ast"
+      ]
+    },
+    "original_requirements": [
+      "graphviz (>=0.13.2,<0.21.0)",
+      "jinja2 (>=2.10,<4.0)",
+      "typed-ast (>=1.5.5,<2.0.0) ; python_version < \"3.8\""
+    ]
+  },
+  "diagrams-0.24.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da20d7e326fd55631a86386ee484832fd00ddecf9ef0c07a42e299bf2a5cb6a2",
+    "dependencies": {
+      "required": [
+        "graphviz",
+        "jinja2",
+        "typed-ast"
+      ]
+    },
+    "original_requirements": [
+      "graphviz (>=0.13.2,<0.21.0)",
+      "jinja2 (>=2.10,<4.0)",
+      "typed-ast (>=1.5.4,<2.0.0)"
+    ]
+  }
+}

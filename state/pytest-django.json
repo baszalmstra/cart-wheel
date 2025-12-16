@@ -1,0 +1,82 @@
+{
+  "pytest_django-4.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b63773f648aa3d8541000c26929c1ea63934be1cfa674c76436966d73fe6a10",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.0.0",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "Django; extra == \"testing\"",
+      "django-configurations>=2.0; extra == \"testing\""
+    ]
+  },
+  "pytest_django-4.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ab969cc86585a1763fd4a2fa1bc0f3015abbbcb823667af48320f1a1d2053291",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.0.0",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "Django; extra == \"testing\"",
+      "django-configurations>=2.0; extra == \"testing\""
+    ]
+  },
+  "pytest_django-4.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "57c74ef3aa9d89cae5a5d73fbb69a720a62673ade7ff13b9491872409a3f5918",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.0.0",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "Django; extra == \"testing\"",
+      "django-configurations>=2.0; extra == \"testing\""
+    ]
+  },
+  "pytest_django-4.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d83692cb39188682dbb419ff0393867e9904094a549a7d38a3154d5731b2b99",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=7.0.0",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "Django ; extra == 'testing'",
+      "django-configurations >=2.0 ; extra == 'testing'"
+    ]
+  },
+  "pytest_django-4.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca1ddd1e0e4c227cf9e3e40a6afc6d106b3e70868fd2ac5798a22501271cd0c7",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=7.0.0",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "Django ; extra == 'testing'",
+      "django-configurations >=2.0 ; extra == 'testing'"
+    ]
+  }
+}

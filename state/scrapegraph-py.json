@@ -1,0 +1,122 @@
+{
+  "scrapegraph_py-1.44.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e428182a4c36cb3e7cd6b40ec8b5228a524435f13ea06d93fe28e107ca28f074",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "beautifulsoup4",
+        "pydantic",
+        "python-dotenv",
+        "requests",
+        "toonify"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp>=3.10",
+      "beautifulsoup4>=4.12.3",
+      "pydantic>=2.10.2",
+      "python-dotenv>=1.0.1",
+      "requests>=2.32.3",
+      "toonify>=1.0.0",
+      "furo==2024.5.6; extra == 'docs'",
+      "sphinx==6.0; extra == 'docs'",
+      "beautifulsoup4>=4.12.3; extra == 'html'",
+      "langchain-community>=0.2.11; extra == 'langchain'",
+      "langchain-scrapegraph>=0.1.0; extra == 'langchain'",
+      "langchain>=0.3.0; extra == 'langchain'"
+    ]
+  },
+  "scrapegraph_py-1.43.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7abaca07ef8f2b2e7499eba64be14ef010a5f15cbe93aaf954e48d730764ec04",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "pydantic",
+        "python-dotenv",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp>=3.10",
+      "pydantic>=2.10.2",
+      "python-dotenv>=1.0.1",
+      "requests>=2.32.3",
+      "furo==2024.5.6; extra == 'docs'",
+      "sphinx==6.0; extra == 'docs'",
+      "beautifulsoup4>=4.12.3; extra == 'html'",
+      "langchain-community>=0.2.11; extra == 'langchain'",
+      "langchain-scrapegraph>=0.1.0; extra == 'langchain'",
+      "langchain>=0.3.0; extra == 'langchain'"
+    ]
+  },
+  "scrapegraph_py-1.42.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b4caa130f45beabf52c07052dd89ae84150456b2eb2f8554e4c9fb3d79117aa1",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "pydantic",
+        "python-dotenv",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp>=3.10",
+      "pydantic>=2.10.2",
+      "python-dotenv>=1.0.1",
+      "requests>=2.32.3",
+      "furo==2024.5.6; extra == 'docs'",
+      "sphinx==6.0; extra == 'docs'",
+      "beautifulsoup4>=4.12.3; extra == 'html'",
+      "langchain-community>=0.2.11; extra == 'langchain'",
+      "langchain-scrapegraph>=0.1.0; extra == 'langchain'",
+      "langchain>=0.3.0; extra == 'langchain'"
+    ]
+  },
+  "scrapegraph_py-1.41.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9fa34d0535648dc19829806a54cc0d9e83a241510069584bbb4e7eb5ed709f00",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "beautifulsoup4",
+        "pydantic",
+        "python-dotenv",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp>=3.10",
+      "beautifulsoup4>=4.12.3",
+      "pydantic>=2.10.2",
+      "python-dotenv>=1.0.1",
+      "requests>=2.32.3",
+      "furo==2024.5.6; extra == 'docs'",
+      "sphinx==6.0; extra == 'docs'"
+    ]
+  },
+  "scrapegraph_py-1.41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52b6a53119abedddb1d9aa176d4c89030a4da304b2ac4faed63172938e1601a3",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "beautifulsoup4",
+        "pydantic",
+        "python-dotenv",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp>=3.10",
+      "beautifulsoup4>=4.12.3",
+      "pydantic>=2.10.2",
+      "python-dotenv>=1.0.1",
+      "requests>=2.32.3",
+      "furo==2024.5.6; extra == 'docs'",
+      "sphinx==6.0; extra == 'docs'"
+    ]
+  }
+}

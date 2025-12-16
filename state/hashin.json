@@ -1,0 +1,83 @@
+{
+  "hashin-1.0.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1b9985addd3554ec85fd5b4e749b6faf577d49ac865a4ebda591ebf1e8f4d8a",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pip"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pip",
+      "tox; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "pytest; extra == \"tests\""
+    ]
+  },
+  "hashin-1.0.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "76e76dc488ef0de599b36457ee240adace3d5946f26131cf24309be572676206",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pip"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pip",
+      "tox; extra == \"dev\"",
+      "twine; extra == \"dev\""
+    ]
+  },
+  "hashin-1.0.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c28f8eae797f1948f48607a319cffb66c24a750d1ac9d710090ba0f30aff4c1",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pip-api"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pip-api",
+      "tox ; extra == 'dev'",
+      "twine ; extra == 'dev'"
+    ]
+  },
+  "hashin-1.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41225b9e5c058e1d7cc133827f5321b5e73b1387dcc33ea233ef88697ebabbec",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pip-api"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pip-api",
+      "tox; extra == \"dev\"",
+      "twine; extra == \"dev\""
+    ]
+  },
+  "hashin-1.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15688cd80d1fe21f1fa6be035396b3604f954bd152620122ab1f575fc04fdb23",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pip-api"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pip-api",
+      "tox ; extra == 'dev'",
+      "twine ; extra == 'dev'"
+    ]
+  }
+}

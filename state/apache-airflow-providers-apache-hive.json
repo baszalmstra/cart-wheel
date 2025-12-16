@@ -1,0 +1,312 @@
+{
+  "apache_airflow_providers_apache_hive-9.2.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:08.417383+00:00",
+    "conda_file": "apache-airflow-providers-apache-hive-9.2.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "hmsclient",
+        "pandas",
+        "pandas",
+        "pyhive[extras=[hive-pure-sasl]]",
+        "jmespath"
+      ],
+      "optional": {
+        "amazon": [
+          "apache-airflow-providers-amazon"
+        ],
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ],
+        "gssapi": [
+          "winkerberos",
+          "kerberos"
+        ],
+        "microsoft-mssql": [
+          "apache-airflow-providers-microsoft-mssql"
+        ],
+        "mysql": [
+          "apache-airflow-providers-mysql"
+        ],
+        "presto": [
+          "apache-airflow-providers-presto"
+        ],
+        "samba": [
+          "apache-airflow-providers-samba"
+        ],
+        "vertica": [
+          "apache-airflow-providers-vertica"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "hmsclient>=0.1.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyhive[hive-pure-sasl]>=0.7.0",
+      "jmespath>=0.7.0",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "winkerberos>=0.7.0 ; extra == \"gssapi\" and ( sys_platform == \"win32\")",
+      "kerberos>=1.3.0 ; extra == \"gssapi\" and ( sys_platform != \"win32\")",
+      "apache-airflow-providers-microsoft-mssql ; extra == \"microsoft-mssql\"",
+      "apache-airflow-providers-mysql ; extra == \"mysql\"",
+      "apache-airflow-providers-presto ; extra == \"presto\"",
+      "apache-airflow-providers-samba ; extra == \"samba\"",
+      "apache-airflow-providers-vertica ; extra == \"vertica\""
+    ]
+  },
+  "apache_airflow_providers_apache_hive-9.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:08.327989+00:00",
+    "conda_file": "apache-airflow-providers-apache-hive-9.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "hmsclient",
+        "pandas",
+        "pandas",
+        "pyhive[extras=[hive-pure-sasl]]",
+        "jmespath"
+      ],
+      "optional": {
+        "amazon": [
+          "apache-airflow-providers-amazon"
+        ],
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ],
+        "gssapi": [
+          "winkerberos",
+          "kerberos"
+        ],
+        "microsoft-mssql": [
+          "apache-airflow-providers-microsoft-mssql"
+        ],
+        "mysql": [
+          "apache-airflow-providers-mysql"
+        ],
+        "presto": [
+          "apache-airflow-providers-presto"
+        ],
+        "samba": [
+          "apache-airflow-providers-samba"
+        ],
+        "vertica": [
+          "apache-airflow-providers-vertica"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "hmsclient>=0.1.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyhive[hive-pure-sasl]>=0.7.0",
+      "jmespath>=0.7.0",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "winkerberos>=0.7.0 ; extra == \"gssapi\" and ( sys_platform == \"win32\")",
+      "kerberos>=1.3.0 ; extra == \"gssapi\" and ( sys_platform != \"win32\")",
+      "apache-airflow-providers-microsoft-mssql ; extra == \"microsoft-mssql\"",
+      "apache-airflow-providers-mysql ; extra == \"mysql\"",
+      "apache-airflow-providers-presto ; extra == \"presto\"",
+      "apache-airflow-providers-samba ; extra == \"samba\"",
+      "apache-airflow-providers-vertica ; extra == \"vertica\""
+    ]
+  },
+  "apache_airflow_providers_apache_hive-9.1.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:08.638099+00:00",
+    "conda_file": "apache-airflow-providers-apache-hive-9.1.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "hmsclient",
+        "pandas",
+        "pandas",
+        "pyhive[extras=[hive-pure-sasl]]",
+        "jmespath"
+      ],
+      "optional": {
+        "amazon": [
+          "apache-airflow-providers-amazon"
+        ],
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ],
+        "gssapi": [
+          "winkerberos",
+          "kerberos"
+        ],
+        "microsoft-mssql": [
+          "apache-airflow-providers-microsoft-mssql"
+        ],
+        "mysql": [
+          "apache-airflow-providers-mysql"
+        ],
+        "presto": [
+          "apache-airflow-providers-presto"
+        ],
+        "samba": [
+          "apache-airflow-providers-samba"
+        ],
+        "vertica": [
+          "apache-airflow-providers-vertica"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "hmsclient>=0.1.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyhive[hive-pure-sasl]>=0.7.0",
+      "jmespath>=0.7.0",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "winkerberos>=0.7.0 ; extra == \"gssapi\" and ( sys_platform == \"win32\")",
+      "kerberos>=1.3.0 ; extra == \"gssapi\" and ( sys_platform != \"win32\")",
+      "apache-airflow-providers-microsoft-mssql ; extra == \"microsoft-mssql\"",
+      "apache-airflow-providers-mysql ; extra == \"mysql\"",
+      "apache-airflow-providers-presto ; extra == \"presto\"",
+      "apache-airflow-providers-samba ; extra == \"samba\"",
+      "apache-airflow-providers-vertica ; extra == \"vertica\""
+    ]
+  },
+  "apache_airflow_providers_apache_hive-9.1.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:08.560852+00:00",
+    "conda_file": "apache-airflow-providers-apache-hive-9.1.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "hmsclient",
+        "pandas",
+        "pandas",
+        "pyhive[extras=[hive-pure-sasl]]",
+        "thrift",
+        "jmespath"
+      ],
+      "optional": {
+        "amazon": [
+          "apache-airflow-providers-amazon"
+        ],
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ],
+        "microsoft-mssql": [
+          "apache-airflow-providers-microsoft-mssql"
+        ],
+        "mysql": [
+          "apache-airflow-providers-mysql"
+        ],
+        "presto": [
+          "apache-airflow-providers-presto"
+        ],
+        "samba": [
+          "apache-airflow-providers-samba"
+        ],
+        "vertica": [
+          "apache-airflow-providers-vertica"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "hmsclient>=0.1.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyhive[hive-pure-sasl]>=0.7.0",
+      "thrift>=0.11.0",
+      "jmespath>=0.7.0",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-microsoft-mssql ; extra == \"microsoft-mssql\"",
+      "apache-airflow-providers-mysql ; extra == \"mysql\"",
+      "apache-airflow-providers-presto ; extra == \"presto\"",
+      "apache-airflow-providers-samba ; extra == \"samba\"",
+      "apache-airflow-providers-vertica ; extra == \"vertica\""
+    ]
+  },
+  "apache_airflow_providers_apache_hive-9.1.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:08.644363+00:00",
+    "conda_file": "apache-airflow-providers-apache-hive-9.1.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "hmsclient",
+        "pandas",
+        "pandas",
+        "pyhive[extras=[hive-pure-sasl]]",
+        "thrift",
+        "jmespath"
+      ],
+      "optional": {
+        "amazon": [
+          "apache-airflow-providers-amazon"
+        ],
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ],
+        "microsoft-mssql": [
+          "apache-airflow-providers-microsoft-mssql"
+        ],
+        "mysql": [
+          "apache-airflow-providers-mysql"
+        ],
+        "presto": [
+          "apache-airflow-providers-presto"
+        ],
+        "samba": [
+          "apache-airflow-providers-samba"
+        ],
+        "vertica": [
+          "apache-airflow-providers-vertica"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "hmsclient>=0.1.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyhive[hive-pure-sasl]>=0.7.0",
+      "thrift>=0.11.0",
+      "jmespath>=0.7.0",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-microsoft-mssql ; extra == \"microsoft-mssql\"",
+      "apache-airflow-providers-mysql ; extra == \"mysql\"",
+      "apache-airflow-providers-presto ; extra == \"presto\"",
+      "apache-airflow-providers-samba ; extra == \"samba\"",
+      "apache-airflow-providers-vertica ; extra == \"vertica\""
+    ]
+  }
+}

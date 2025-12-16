@@ -1,0 +1,12 @@
+# Package configuration for langchain-perplexity
+conda_forge = "langchain-perplexity"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_perplexity-1.1.0-py3-none-any.whl" },
+  { filename = "langchain_perplexity-1.0.0-py3-none-any.whl" },
+  { filename = "langchain_perplexity-0.1.2-py3-none-any.whl" },
+  { filename = "langchain_perplexity-0.1.1-py3-none-any.whl" },
+  { filename = "langchain_perplexity-0.1.0-py3-none-any.whl" },
+]

@@ -1,0 +1,7 @@
+# Package configuration for trectools
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "trectools-0.0.45-py3-none-any.whl" },
+]

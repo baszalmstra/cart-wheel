@@ -1,0 +1,12 @@
+# Package configuration for texttable
+conda_forge = "texttable"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "texttable-1.7.0-py2.py3-none-any.whl" },
+  { filename = "texttable-1.6.7-py2.py3-none-any.whl" },
+  { filename = "texttable-1.6.6-py2.py3-none-any.whl" },
+  { filename = "texttable-1.6.5-py2.py3-none-any.whl" },
+  { filename = "texttable-1.6.4-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for coherent.deps
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "coherent_deps-1.6.0-py3-none-any.whl" },
+  { filename = "coherent_deps-1.5.1-py3-none-any.whl" },
+  { filename = "coherent_deps-1.5.0-py3-none-any.whl" },
+  { filename = "coherent_deps-1.4.0-py3-none-any.whl" },
+  { filename = "coherent_deps-1.3.0-py3-none-any.whl" },
+]

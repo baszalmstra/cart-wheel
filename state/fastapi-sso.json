@@ -1,0 +1,100 @@
+{
+  "fastapi_sso-0.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "727754ad770b70690f1471f7b0a9e17c6dfd8ebd6e477616d3bde1eaf62e53dc",
+    "dependencies": {
+      "required": [
+        "fastapi",
+        "httpx",
+        "oauthlib",
+        "pydantic",
+        "pyjwt",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "fastapi (>=0.80)",
+      "httpx (>=0.23.0)",
+      "oauthlib (>=3.1.0)",
+      "pydantic[email] (>=1.8.0)",
+      "pyjwt (>=2.10.1,<3.0.0)",
+      "typing-extensions (>=4.12.2,<5.0.0) ; python_version < \"3.10\""
+    ]
+  },
+  "fastapi_sso-0.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5acadc7e46d7a9bd7974c7046c472048dc93fb2bf7b2d496550c012fc98d0f0f",
+    "dependencies": {
+      "required": [
+        "fastapi",
+        "httpx",
+        "oauthlib",
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "fastapi (>=0.80)",
+      "httpx (>=0.23.0)",
+      "oauthlib (>=3.1.0)",
+      "pydantic[email] (>=1.8.0)",
+      "typing-extensions (>=4.12.2,<5.0.0) ; python_version < \"3.10\""
+    ]
+  },
+  "fastapi_sso-0.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a66a942474ef9756d3a9d8b945d55bd9faf99781facdb9b87a40b73d6d6b0c3",
+    "dependencies": {
+      "required": [
+        "fastapi",
+        "httpx",
+        "oauthlib",
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "fastapi (>=0.80)",
+      "httpx (>=0.23.0)",
+      "oauthlib (>=3.1.0)",
+      "pydantic[email] (>=1.8.0)",
+      "typing-extensions (>=4.12.2,<5.0.0) ; python_version < \"3.10\""
+    ]
+  },
+  "fastapi_sso-0.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "071e0c204181bdb6a8afad2714f9f6abad32bd8984b9e57500ff0d2b680fdb37",
+    "dependencies": {
+      "required": [
+        "fastapi",
+        "httpx",
+        "oauthlib",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "fastapi (>=0.80)",
+      "httpx (>=0.23.0)",
+      "oauthlib (>=3.1.0)",
+      "pydantic[email] (>=1.8.0)"
+    ]
+  },
+  "fastapi_sso-0.14.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c827d277e26c2d486d511ed9bb4d86a465537359916c597c1b162ed4668aaaff",
+    "dependencies": {
+      "required": [
+        "fastapi",
+        "httpx",
+        "oauthlib",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "fastapi (>=0.80)",
+      "httpx (>=0.23.0)",
+      "oauthlib (>=3.1.0)",
+      "pydantic[email] (>=1.8.0)"
+    ]
+  }
+}

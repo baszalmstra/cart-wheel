@@ -1,0 +1,84 @@
+{
+  "everett-3.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "996fccda259510676e599cdad4d6837dc6e0194389fcfcb5b66ac867ad2b9430",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx; extra == \"sphinx\"",
+      "configobj; extra == \"ini\"",
+      "PyYAML; extra == \"yaml\"",
+      "build; extra == \"dev\"",
+      "cogapp; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "tox-gh-actions; extra == \"dev\"",
+      "tox-uv; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "types-PyYAML; extra == \"dev\"",
+      "Sphinx==7.2.6; extra == \"dev\"",
+      "sphinx_rtd_theme; extra == \"dev\""
+    ]
+  },
+  "everett-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f8c29c7300702f47b7323b75348e2b86647246694fda7ad410c2a2bfaa980ff7",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "build ; extra == 'dev'",
+      "cogapp ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "ruff ; extra == 'dev'",
+      "tox ; extra == 'dev'",
+      "tox-gh-actions ; extra == 'dev'",
+      "tox-uv ; extra == 'dev'",
+      "twine ; extra == 'dev'",
+      "types-PyYAML ; extra == 'dev'",
+      "Sphinx ==7.2.6 ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "configobj ; extra == 'ini'",
+      "sphinx ; extra == 'sphinx'",
+      "PyYAML ; extra == 'yaml'"
+    ]
+  },
+  "everett-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "acb7b8f3c5fc9692a8ba14fb257e4649f87bea4856e7406c2e9b6c2cab889105",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "configobj ; extra == 'ini'",
+      "sphinx ; extra == 'sphinx'",
+      "PyYAML ; extra == 'yaml'"
+    ]
+  },
+  "everett-3.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80517946d9746734ff8e6bda56d629f0092083389730c72157745f8d5d43d196",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "configobj ; extra == 'ini'",
+      "PyYAML ; extra == 'yaml'"
+    ]
+  },
+  "everett-3.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db13891b849e45e54faea93ee79881d12458c5378f5b9b7f806eeff03ce1de3c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "configobj ; extra == 'ini'",
+      "PyYAML ; extra == 'yaml'"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for neptune-pytorch
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neptune_pytorch-3.0.0-py3-none-any.whl" },
+  { filename = "neptune_pytorch-2.0.0-py3-none-any.whl" },
+  { filename = "neptune_pytorch-1.0.1-py3-none-any.whl" },
+  { filename = "neptune_pytorch-1.0.0-py3-none-any.whl" },
+  { filename = "neptune_pytorch-0.2.0-py3-none-any.whl" },
+]

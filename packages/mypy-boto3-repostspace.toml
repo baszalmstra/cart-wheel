@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-repostspace
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_repostspace-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_repostspace-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_repostspace-1.40.60-py3-none-any.whl" },
+  { filename = "mypy_boto3_repostspace-1.40.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_repostspace-1.39.5-py3-none-any.whl" },
+]

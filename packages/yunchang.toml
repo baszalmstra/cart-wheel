@@ -1,0 +1,11 @@
+# Package configuration for yunchang
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "yunchang-0.6.3.post1-py3-none-any.whl" },
+  { filename = "yunchang-0.6.3-py3-none-any.whl" },
+  { filename = "yunchang-0.6.2-py3-none-any.whl" },
+  { filename = "yunchang-0.6.1-py3-none-any.whl" },
+  { filename = "yunchang-0.6.0-py3-none-any.whl" },
+]

@@ -1,0 +1,8 @@
+# Package configuration for pydruid
+conda_forge = "pydruid"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydruid-0.3.1-py2.py3-none-any.whl" },
+]

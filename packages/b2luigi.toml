@@ -1,0 +1,11 @@
+# Package configuration for b2luigi
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "b2luigi-1.2.5-py3-none-any.whl" },
+  { filename = "b2luigi-1.2.4-py3-none-any.whl" },
+  { filename = "b2luigi-1.2.2-py3-none-any.whl" },
+  { filename = "b2luigi-1.2.1-py3-none-any.whl" },
+  { filename = "b2luigi-1.2.0-py3-none-any.whl" },
+]

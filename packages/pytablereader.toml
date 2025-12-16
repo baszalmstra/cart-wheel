@@ -1,0 +1,11 @@
+# Package configuration for pytablereader
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytablereader-0.31.4-py3-none-any.whl" },
+  { filename = "pytablereader-0.31.3-py3-none-any.whl" },
+  { filename = "pytablereader-0.31.2-py3-none-any.whl" },
+  { filename = "pytablereader-0.31.1-py3-none-any.whl" },
+  { filename = "pytablereader-0.31.0-py3-none-any.whl" },
+]

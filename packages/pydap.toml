@@ -1,0 +1,12 @@
+# Package configuration for pydap
+conda_forge = "pydap"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydap-3.5.8-py3-none-any.whl" },
+  { filename = "pydap-3.5.7-py3-none-any.whl" },
+  { filename = "pydap-3.5.6-py3-none-any.whl" },
+  { filename = "pydap-3.5.5-py3-none-any.whl" },
+  { filename = "pydap-3.5.4-py3-none-any.whl" },
+]

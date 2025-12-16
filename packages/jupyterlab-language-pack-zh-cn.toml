@@ -1,0 +1,12 @@
+# Package configuration for jupyterlab-language-pack-zh-cn
+conda_forge = "jupyterlab-language-pack-zh-cn"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyterlab_language_pack_zh_cn-4.4.post3-py2.py3-none-any.whl" },
+  { filename = "jupyterlab_language_pack_zh_cn-4.4.post2-py2.py3-none-any.whl" },
+  { filename = "jupyterlab_language_pack_zh_cn-4.4.post1-py2.py3-none-any.whl" },
+  { filename = "jupyterlab_language_pack_zh_cn-4.4.post0-py2.py3-none-any.whl" },
+  { filename = "jupyterlab_language_pack_zh_cn-4.3.post3-py2.py3-none-any.whl" },
+]

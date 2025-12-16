@@ -1,0 +1,64 @@
+{
+  "numpy_typing_compat-20251206.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a82e723bd20efaa4cf2886709d4264c144f1f2b609bda83d1545113b7e47a5b5",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=2.4rc1,<2.5"
+    ]
+  },
+  "numpy_typing_compat-20251206.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bfa2e4c4945413e84552cbd34a6d368c88a06a54a896e77ced760521b08f0f61",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=2.3,<2.4"
+    ]
+  },
+  "numpy_typing_compat-20251206.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9d5bf8bca75a27ee1254fea5a2a783b5c862dd9f3e726d12bd4b6143932effd2",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=2.2,<2.3"
+    ]
+  },
+  "numpy_typing_compat-20251206.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "703ae61be7877ab0af562298776b89eae609a3985414d92011a39a42350b42e1",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=2.1,<2.2"
+    ]
+  },
+  "numpy_typing_compat-20251206.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "413171c4333c4175cbad4206c94e58422d291d20426c42581865380156715493",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=2.0,<2.1",
+      "typing-extensions>=4 ; python_full_version < '3.10'"
+    ]
+  }
+}

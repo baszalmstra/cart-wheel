@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-marketplace-catalog
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_marketplace_catalog-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_marketplace_catalog-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_marketplace_catalog-1.40.64-py3-none-any.whl" },
+  { filename = "mypy_boto3_marketplace_catalog-1.40.55-py3-none-any.whl" },
+  { filename = "mypy_boto3_marketplace_catalog-1.40.0-py3-none-any.whl" },
+]

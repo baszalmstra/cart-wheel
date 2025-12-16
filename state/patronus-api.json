@@ -1,0 +1,70 @@
+{
+  "patronus_api-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80739867685e56b874cc16cb8ee097cdd2a7fd0bd436af30e180779af81ade09",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.6; extra == 'aiohttp'"
+    ]
+  },
+  "patronus_api-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "27dedba70370c1bcc36aa4dea0bb8af416b6f839f8c03c85cd4d1eb311d3cd2e",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10"
+    ]
+  },
+  "patronus_api-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c780b8165fc613efa4970fb54643952b44aba9bdda0c7c377912893be756ddb5",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.10"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for necessary
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "necessary-0.4.3-py3-none-any.whl" },
+  { filename = "necessary-0.4.2-py3-none-any.whl" },
+  { filename = "necessary-0.4.1-py3-none-any.whl" },
+  { filename = "necessary-0.3.3-py3-none-any.whl" },
+  { filename = "necessary-0.3.2-py3-none-any.whl" },
+]

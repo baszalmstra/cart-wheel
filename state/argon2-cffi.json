@@ -1,0 +1,100 @@
+{
+  "argon2_cffi-25.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fdc8b074db390fccb6eb4a3604ae7231f219aa669a2652e0f20e16ba513d5741",
+    "dependencies": {
+      "required": [
+        "argon2-cffi-bindings"
+      ]
+    },
+    "original_requirements": [
+      "argon2-cffi-bindings"
+    ]
+  },
+  "argon2_cffi-23.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c670642b78ba29641818ab2e68bd4e6a78ba53b7eff7b4c3815ae16abf91c7ea",
+    "dependencies": {
+      "required": [
+        "argon2-cffi-bindings",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "argon2-cffi-bindings",
+      "typing-extensions; python_version < '3.8'",
+      "argon2-cffi[tests,typing]; extra == 'dev'",
+      "tox>4; extra == 'dev'",
+      "furo; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-copybutton; extra == 'docs'",
+      "sphinx-notfound-page; extra == 'docs'",
+      "hypothesis; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "mypy; extra == 'typing'"
+    ]
+  },
+  "argon2_cffi-21.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c976986f2c5c0e5000919e6de187906cfd81fb1c72bf9d88c01177e77da7f80",
+    "dependencies": {
+      "required": [
+        "argon2-cffi-bindings",
+        "dataclasses",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "argon2-cffi-bindings",
+      "dataclasses; python_version < '3.7'",
+      "typing-extensions; python_version < '3.8'",
+      "pre-commit ; extra == \"dev\"",
+      "cogapp ; extra == \"dev\"",
+      "tomli ; extra == \"dev\"",
+      "coverage[toml]>=5.0.2 ; extra == \"dev\"",
+      "hypothesis ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "sphinx ; extra == \"dev\"",
+      "sphinx-notfound-page ; extra == \"dev\"",
+      "furo ; extra == \"dev\"",
+      "sphinx ; extra == \"docs\"",
+      "sphinx-notfound-page ; extra == \"docs\"",
+      "furo ; extra == \"docs\"",
+      "coverage[toml]>=5.0.2 ; extra == \"tests\"",
+      "hypothesis ; extra == \"tests\"",
+      "pytest ; extra == \"tests\""
+    ]
+  },
+  "argon2_cffi-21.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d5d7b9d38963c2769cd0dbfc5901ae00eb9bb98a9cb5a2ea0c9c7c4fec3e6b98",
+    "dependencies": {
+      "required": [
+        "argon2-cffi-bindings",
+        "dataclasses",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "argon2-cffi-bindings",
+      "dataclasses; python_version < '3.7'",
+      "typing-extensions; python_version < '3.8'",
+      "pre-commit ; extra == \"dev\"",
+      "cogapp ; extra == \"dev\"",
+      "tomli ; extra == \"dev\"",
+      "coverage[toml]>=5.0.2 ; extra == \"dev\"",
+      "hypothesis ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "sphinx ; extra == \"dev\"",
+      "sphinx-notfound-page ; extra == \"dev\"",
+      "furo ; extra == \"dev\"",
+      "sphinx ; extra == \"docs\"",
+      "sphinx-notfound-page ; extra == \"docs\"",
+      "furo ; extra == \"docs\"",
+      "coverage[toml]>=5.0.2 ; extra == \"tests\"",
+      "hypothesis ; extra == \"tests\"",
+      "pytest ; extra == \"tests\""
+    ]
+  }
+}

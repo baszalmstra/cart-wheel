@@ -1,0 +1,123 @@
+{
+  "musdb-0.4.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5f505f1b7fdd04b0d3d75232ee7ef599ed8b8ab668914701bb3647b618aed102",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "stempeg",
+        "pyaml",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "numpy<3.0,>=1.7",
+      "stempeg>=0.2.4",
+      "pyaml",
+      "tqdm",
+      "check-manifest; extra == \"dev\"",
+      "pytest; extra == \"tests\"",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "recommonmark; extra == \"docs\""
+    ]
+  },
+  "musdb-0.4.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e26e5dcce87f90e2348a18c38b73c3fbf5b20ac2c6050111ae0a5f029c642037",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "stempeg",
+        "pyaml",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.7)",
+      "stempeg (>=0.2.3)",
+      "pyaml",
+      "tqdm",
+      "check-manifest ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "musdb-0.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9fec62f74fde77b6f3e027dbdd25ad82fe076bdb4190eb9c6bf149947b0ff21f",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "stempeg",
+        "pyaml",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.7)",
+      "stempeg (>=0.2.3)",
+      "pyaml",
+      "tqdm",
+      "check-manifest ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "pytest ; extra == 'tests'"
+    ]
+  },
+  "musdb-0.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f05ada591d871bc776ed5059787cf8c7d2624ae27fd82567d8591c36b521e5b2",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "soundfile",
+        "stempeg",
+        "pyaml",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.7)",
+      "soundfile (>=0.9.0)",
+      "stempeg (==0.1.8)",
+      "pyaml",
+      "tqdm",
+      "check-manifest ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "pytest ; extra == 'tests'",
+      "pytest-pep8 ; extra == 'tests'"
+    ]
+  },
+  "musdb-0.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db8f65b40c56938dab9e1b042254c6e3a0d75b139f98a96d6edbb646c0d25c7d",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "soundfile",
+        "stempeg",
+        "pyaml",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.7)",
+      "soundfile (>=0.9.0)",
+      "stempeg (>=0.1.7)",
+      "pyaml",
+      "tqdm",
+      "check-manifest ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "recommonmark ; extra == 'docs'",
+      "pytest ; extra == 'tests'",
+      "pytest-pep8 ; extra == 'tests'"
+    ]
+  }
+}

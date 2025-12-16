@@ -1,0 +1,12 @@
+# Package configuration for azure-keyvault-keys
+conda_forge = "azure-keyvault-keys"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_keyvault_keys-4.11.0-py3-none-any.whl" },
+  { filename = "azure_keyvault_keys-4.10.0-py3-none-any.whl" },
+  { filename = "azure_keyvault_keys-4.9.0-py3-none-any.whl" },
+  { filename = "azure_keyvault_keys-4.8.0-py3-none-any.whl" },
+  { filename = "azure_keyvault_keys-4.7.0-py3-none-any.whl" },
+]

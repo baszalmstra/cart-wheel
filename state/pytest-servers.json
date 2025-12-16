@@ -1,0 +1,190 @@
+{
+  "pytest_servers-0.5.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3cff32830f4836a4721cf5b40462266676cbb8e16f4eaba75fde70f64c116dd",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "requests",
+        "fsspec",
+        "universal-pathlib",
+        "filelock"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2",
+      "requests",
+      "fsspec",
+      "universal-pathlib>=0.2.0",
+      "filelock>=3.3.2",
+      "docker>6; extra == \"docker\"",
+      "moto[server]>=4; extra == \"s3\"",
+      "s3fs[boto3]>=2022.02.0; extra == \"s3\"",
+      "botocore>=1.31.17; extra == \"s3\"",
+      "PyYAML>=6.0.2; extra == \"s3\"",
+      "adlfs>=2022.02.22; extra == \"azure\"",
+      "pytest-servers[docker]; extra == \"azure\"",
+      "gcsfs>=2022.02.22; extra == \"gcs\"",
+      "pytest-servers[docker]; extra == \"gcs\"",
+      "pytest-servers[azure,gcs,s3]; extra == \"all\"",
+      "coverage-enable-subprocess; extra == \"tests\"",
+      "coverage[toml]>6; extra == \"tests\"",
+      "pytest-sugar==1.0.0; extra == \"tests\"",
+      "pytest-xdist==3.8.0; extra == \"tests\"",
+      "mypy==1.17.0; extra == \"tests\"",
+      "types-requests; extra == \"tests\"",
+      "pytest-servers[all]; extra == \"dev\"",
+      "pytest-servers[tests]; extra == \"dev\""
+    ]
+  },
+  "pytest_servers-0.5.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2eea5a5e2931b798030207ebd0117a75241b8d609a1977cb55bb094f848679d2",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "requests",
+        "fsspec",
+        "universal-pathlib",
+        "filelock"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2",
+      "requests",
+      "fsspec",
+      "universal-pathlib>=0.2.0",
+      "filelock>=3.3.2",
+      "docker>6; extra == \"docker\"",
+      "moto[server]>=4; extra == \"s3\"",
+      "s3fs[boto3]>=2022.02.0; extra == \"s3\"",
+      "botocore>=1.31.17; extra == \"s3\"",
+      "PyYAML>=6.0.2; extra == \"s3\"",
+      "adlfs>=2022.02.22; extra == \"azure\"",
+      "azure-storage-blob<12.26.0; extra == \"azure\"",
+      "pytest-servers[docker]; extra == \"azure\"",
+      "gcsfs>=2022.02.22; extra == \"gcs\"",
+      "pytest-servers[docker]; extra == \"gcs\"",
+      "pytest-servers[azure,gcs,s3]; extra == \"all\"",
+      "coverage-enable-subprocess; extra == \"tests\"",
+      "coverage[toml]>6; extra == \"tests\"",
+      "pytest-sugar==1.0.0; extra == \"tests\"",
+      "pytest-xdist==3.8.0; extra == \"tests\"",
+      "mypy==1.15.0; extra == \"tests\"",
+      "types-requests; extra == \"tests\"",
+      "pytest-servers[all]; extra == \"dev\"",
+      "pytest-servers[tests]; extra == \"dev\""
+    ]
+  },
+  "pytest_servers-0.5.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3887e1b9fd9fe50d7238ca0ed792267f59b5a991ff37ff4c53df4489b147f9db",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "requests",
+        "fsspec",
+        "universal-pathlib",
+        "filelock"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2",
+      "requests",
+      "fsspec",
+      "universal-pathlib>=0.2.0",
+      "filelock>=3.3.2",
+      "docker>6; extra == \"docker\"",
+      "moto[server]>=4; extra == \"s3\"",
+      "s3fs[boto3]>=2022.02.0; extra == \"s3\"",
+      "botocore>=1.31.17; extra == \"s3\"",
+      "adlfs>=2022.02.22; extra == \"azure\"",
+      "pytest-servers[docker]; extra == \"azure\"",
+      "gcsfs>=2022.02.22; extra == \"gcs\"",
+      "pytest-servers[docker]; extra == \"gcs\"",
+      "pytest-servers[azure,gcs,s3]; extra == \"all\"",
+      "coverage-enable-subprocess; extra == \"tests\"",
+      "coverage[toml]>6; extra == \"tests\"",
+      "pytest-sugar==1.0.0; extra == \"tests\"",
+      "pytest-xdist==3.6.1; extra == \"tests\"",
+      "mypy==1.14.0; extra == \"tests\"",
+      "types-requests; extra == \"tests\"",
+      "pytest-servers[all]; extra == \"dev\"",
+      "pytest-servers[tests]; extra == \"dev\""
+    ]
+  },
+  "pytest_servers-0.5.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b42308014ed1ff281edf54c40d669ffb1b5593d1d229279756492d5d038f4e8",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "requests",
+        "fsspec",
+        "universal-pathlib",
+        "filelock"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2",
+      "requests",
+      "fsspec",
+      "universal-pathlib>=0.2.0",
+      "filelock>=3.3.2",
+      "docker>6; extra == \"docker\"",
+      "moto[server]>=4; extra == \"s3\"",
+      "s3fs[boto3]>=2022.02.0; extra == \"s3\"",
+      "botocore>=1.31.17; extra == \"s3\"",
+      "adlfs>=2022.02.22; extra == \"azure\"",
+      "pytest-servers[docker]; extra == \"azure\"",
+      "gcsfs>=2022.02.22; extra == \"gcs\"",
+      "pytest-servers[docker]; extra == \"gcs\"",
+      "pytest-servers[azure,gcs,s3]; extra == \"all\"",
+      "coverage-enable-subprocess; extra == \"tests\"",
+      "coverage[toml]>6; extra == \"tests\"",
+      "pytest-sugar==1.0.0; extra == \"tests\"",
+      "pytest-xdist==3.6.1; extra == \"tests\"",
+      "mypy==1.13.0; extra == \"tests\"",
+      "types-requests; extra == \"tests\"",
+      "pytest-servers[all]; extra == \"dev\"",
+      "pytest-servers[tests]; extra == \"dev\""
+    ]
+  },
+  "pytest_servers-0.5.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51c220c9ecc39c9231f55b83620b40183b61acac33528697ab2679fab6789b0b",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "requests",
+        "fsspec",
+        "universal-pathlib",
+        "filelock"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=6.2",
+      "requests",
+      "fsspec",
+      "universal-pathlib >=0.2.0",
+      "filelock >=3.3.2",
+      "pytest-servers[azure,gcs,s3] ; extra == 'all'",
+      "adlfs >=2022.02.22 ; extra == 'azure'",
+      "pytest-servers[docker] ; extra == 'azure'",
+      "pytest-servers[all] ; extra == 'dev'",
+      "pytest-servers[tests] ; extra == 'dev'",
+      "docker >6 ; extra == 'docker'",
+      "gcsfs >=2022.02.22 ; extra == 'gcs'",
+      "pytest-servers[docker] ; extra == 'gcs'",
+      "moto[server] >=4 ; extra == 's3'",
+      "s3fs[boto3] >=2022.02.0 ; extra == 's3'",
+      "botocore >=1.31.17 ; extra == 's3'",
+      "coverage-enable-subprocess ; extra == 'tests'",
+      "coverage[toml] >6 ; extra == 'tests'",
+      "pytest-sugar ==1.0.0 ; extra == 'tests'",
+      "pytest-xdist ==3.6.1 ; extra == 'tests'",
+      "mypy ==1.13.0 ; extra == 'tests'",
+      "types-requests ; extra == 'tests'"
+    ]
+  }
+}

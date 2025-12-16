@@ -1,0 +1,58 @@
+{
+  "certbuilder-0.14.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "feed83d15b20c149debc1b73a7eb74b8e8041c78d3a8deb989e21905b4394a30",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "oscrypto"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto (>=0.18.1)",
+      "oscrypto (>=0.16.1)"
+    ]
+  },
+  "certbuilder-0.14.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc9da521fe0f9480e52f4eed0f765de6156e39f0b9621f463a321c0a816ac7a7",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "oscrypto"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto (>=0.13)",
+      "oscrypto (>=0.12)"
+    ]
+  },
+  "certbuilder-0.14.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cfd2c3b9b173c0da420b084ce1f0371c662212ddf8e2e05733bf952e8a564182",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "oscrypto"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto (>=0.13)",
+      "oscrypto (>=0.12)"
+    ]
+  },
+  "certbuilder-0.13.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d9ede4b0f04ef23efdd6724516368b8668673f83113c3f304f0c931d6c75c16e",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "oscrypto"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto (>=0.13)",
+      "oscrypto (>=0.12)"
+    ]
+  }
+}

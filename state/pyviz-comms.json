@@ -1,0 +1,127 @@
+{
+  "pyviz_comms-3.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4eba6238cd4a7f4add2d11879ce55411785b7d38a7c5dba42c7a0826ca53e6c2",
+    "dependencies": {
+      "required": [
+        "param"
+      ]
+    },
+    "original_requirements": [
+      "param",
+      "flake8; extra == 'all'",
+      "jupyterlab~=4.0; extra == 'all'",
+      "keyring; extra == 'all'",
+      "pytest; extra == 'all'",
+      "rfc3986; extra == 'all'",
+      "setuptools>=40.8.0; extra == 'all'",
+      "twine; extra == 'all'",
+      "jupyterlab~=4.0; extra == 'build'",
+      "keyring; extra == 'build'",
+      "rfc3986; extra == 'build'",
+      "setuptools>=40.8.0; extra == 'build'",
+      "twine; extra == 'build'",
+      "flake8; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "pyviz_comms-3.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc61570a9803fdd98ad5ee00570a5610c7399509c9c0da2c3b7f1d7d625fb7f8",
+    "dependencies": {
+      "required": [
+        "param"
+      ]
+    },
+    "original_requirements": [
+      "param",
+      "flake8; extra == 'all'",
+      "jupyterlab~=4.0; extra == 'all'",
+      "keyring; extra == 'all'",
+      "pytest; extra == 'all'",
+      "rfc3986; extra == 'all'",
+      "setuptools>=40.8.0; extra == 'all'",
+      "twine; extra == 'all'",
+      "jupyterlab~=4.0; extra == 'build'",
+      "keyring; extra == 'build'",
+      "rfc3986; extra == 'build'",
+      "setuptools>=40.8.0; extra == 'build'",
+      "twine; extra == 'build'",
+      "flake8; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "pyviz_comms-3.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a40d17db26ec13cf975809633804e712bd24b473e77388c193c44043f85d0b25",
+    "dependencies": {
+      "required": [
+        "param"
+      ]
+    },
+    "original_requirements": [
+      "param",
+      "flake8; extra == 'all'",
+      "jupyterlab~=4.0; extra == 'all'",
+      "keyring; extra == 'all'",
+      "pytest; extra == 'all'",
+      "rfc3986; extra == 'all'",
+      "setuptools>=40.8.0; extra == 'all'",
+      "twine; extra == 'all'",
+      "jupyterlab~=4.0; extra == 'build'",
+      "keyring; extra == 'build'",
+      "rfc3986; extra == 'build'",
+      "setuptools>=40.8.0; extra == 'build'",
+      "twine; extra == 'build'",
+      "flake8; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "pyviz_comms-3.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd26951eebc7950106d481655d91ba06296d4cf352dffb1d03f88f959832448e",
+    "dependencies": {
+      "required": [
+        "param"
+      ]
+    },
+    "original_requirements": [
+      "param",
+      "flake8; extra == 'all'",
+      "jupyterlab~=4.0; extra == 'all'",
+      "keyring; extra == 'all'",
+      "pytest; extra == 'all'",
+      "rfc3986; extra == 'all'",
+      "setuptools>=40.8.0; extra == 'all'",
+      "twine; extra == 'all'",
+      "jupyterlab~=4.0; extra == 'build'",
+      "keyring; extra == 'build'",
+      "rfc3986; extra == 'build'",
+      "setuptools>=40.8.0; extra == 'build'",
+      "twine; extra == 'build'",
+      "flake8; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  },
+  "pyviz_comms-3.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31541b976a21b7738557c3ea23bd8e44e94e736b9ed269570dcc28db4449d7e3",
+    "dependencies": {
+      "required": [
+        "param"
+      ]
+    },
+    "original_requirements": [
+      "param",
+      "pyviz-comms[build]; extra == 'all'",
+      "pyviz-comms[tests]; extra == 'all'",
+      "jupyterlab~=4.0; extra == 'build'",
+      "keyring; extra == 'build'",
+      "rfc3986; extra == 'build'",
+      "setuptools>=40.8.0; extra == 'build'",
+      "twine; extra == 'build'",
+      "flake8; extra == 'tests'",
+      "pytest; extra == 'tests'"
+    ]
+  }
+}

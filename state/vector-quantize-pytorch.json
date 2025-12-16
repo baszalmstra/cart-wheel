@@ -1,0 +1,92 @@
+{
+  "vector_quantize_pytorch-1.27.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "412c0602ed41e4268a7c89dbce6cbc44a33095daab13935467b0ff2a8aedc634",
+    "dependencies": {
+      "required": [
+        "einops",
+        "einx",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "einops>=0.8.0",
+      "einx>=0.3.0",
+      "torch>=2.4",
+      "torchvision; extra == 'examples'",
+      "tqdm; extra == 'examples'"
+    ]
+  },
+  "vector_quantize_pytorch-1.27.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c9a2c97adeb5ea0a7f0bae2d1b0ead0cf0ed3eedcbc6cbb457baadef44044daa",
+    "dependencies": {
+      "required": [
+        "einops",
+        "einx",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "einops>=0.8.0",
+      "einx>=0.3.0",
+      "torch>=2.4",
+      "torchvision; extra == 'examples'",
+      "tqdm; extra == 'examples'"
+    ]
+  },
+  "vector_quantize_pytorch-1.27.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dbf9a7756dc86628f21ea832fd7b2662ec021deed43ea7482eed969a4f560cc0",
+    "dependencies": {
+      "required": [
+        "einops",
+        "einx",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "einops>=0.8.0",
+      "einx>=0.3.0",
+      "torch>=2.4",
+      "torchvision; extra == 'examples'",
+      "tqdm; extra == 'examples'"
+    ]
+  },
+  "vector_quantize_pytorch-1.27.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "36640c1a6f9b92c814b285a57685a18026afec21e776e6638aed8bf2afc551ac",
+    "dependencies": {
+      "required": [
+        "einops",
+        "einx",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "einops>=0.8.0",
+      "einx>=0.3.0",
+      "torch>=2.4",
+      "torchvision; extra == 'examples'",
+      "tqdm; extra == 'examples'"
+    ]
+  },
+  "vector_quantize_pytorch-1.27.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dca86806516eddc42282007da3105c7f2fdff223c2e94523c0c240a7403ec91b",
+    "dependencies": {
+      "required": [
+        "einops",
+        "einx",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "einops>=0.8.0",
+      "einx>=0.3.0",
+      "torch>=2.4",
+      "torchvision; extra == 'examples'",
+      "tqdm; extra == 'examples'"
+    ]
+  }
+}

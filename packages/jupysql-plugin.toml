@@ -1,0 +1,12 @@
+# Package configuration for jupysql-plugin
+conda_forge = "jupysql-plugin"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupysql_plugin-0.4.5-py3-none-any.whl" },
+  { filename = "jupysql_plugin-0.4.4-py3-none-any.whl" },
+  { filename = "jupysql_plugin-0.4.3-py3-none-any.whl" },
+  { filename = "jupysql_plugin-0.4.2-py3-none-any.whl" },
+  { filename = "jupysql_plugin-0.4.1-py3-none-any.whl" },
+]

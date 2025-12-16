@@ -1,0 +1,11 @@
+# Package configuration for mcpadapt
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mcpadapt-0.1.20-py3-none-any.whl" },
+  { filename = "mcpadapt-0.1.19-py3-none-any.whl" },
+  { filename = "mcpadapt-0.1.17-py3-none-any.whl" },
+  { filename = "mcpadapt-0.1.16-py3-none-any.whl" },
+  { filename = "mcpadapt-0.1.15-py3-none-any.whl" },
+]

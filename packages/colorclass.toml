@@ -1,0 +1,9 @@
+# Package configuration for colorclass
+conda_forge = "colorclass"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "colorclass-2.2.2-py2.py3-none-any.whl" },
+  { filename = "colorclass-2.2.1-py2.py3-none-any.whl" },
+]

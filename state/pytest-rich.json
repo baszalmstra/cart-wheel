@@ -1,0 +1,58 @@
+{
+  "pytest_rich-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "815e4bc5a832d78f3776edf912f4bae2cf21f2bfdbf049f216cd6ff207e7af0c",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "pytest",
+        "rich"
+      ]
+    },
+    "original_requirements": [
+      "attrs",
+      "pytest>=7.0",
+      "rich",
+      "black; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "freezegun; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "reorder-python-imports; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "types-attrs; extra == \"dev\""
+    ]
+  },
+  "pytest_rich-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a9963fcbd904d1ea23e4c30726bba556e2c6b5d312f3aa55f3c68bff78f82986",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "rich",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=7.0)",
+      "rich",
+      "typing-extensions ; python_version < \"3.8\""
+    ]
+  },
+  "pytest_rich-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "498ac6da616faf859be248c565cc3cf3a33a358e4e2120374615403089760e05",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "rich",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=7.0)",
+      "rich",
+      "typing-extensions ; python_version < \"3.8\""
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "pyobjc_framework_localauthenticationembeddedui-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7ce7b56346597b9f4768be61938cbc8fc5b1292137225b6c7f631b9cde97cd7",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-localauthentication"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1",
+      "pyobjc-framework-LocalAuthentication>=12.1"
+    ]
+  },
+  "pyobjc_framework_localauthenticationembeddedui-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e78a1b41a47ca28310b4bece72bd52ba744a7f3386b8558d1b57129161a44bc",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-localauthentication"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0",
+      "pyobjc-framework-LocalAuthentication>=12.0"
+    ]
+  },
+  "pyobjc_framework_localauthenticationembeddedui-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3539a947b102b41ea6e40e7c145f27280d2f36a2a9a1211de32fa675d91585eb",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-localauthentication"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1",
+      "pyobjc-framework-LocalAuthentication>=11.1"
+    ]
+  },
+  "pyobjc_framework_LocalAuthenticationEmbeddedUI-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ccbbdd8c7142b1670885881c803f684ee356df83a5338be9135f46462caae6c",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-localauthentication"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0",
+      "pyobjc-framework-LocalAuthentication >=11.0"
+    ]
+  },
+  "pyobjc_framework_LocalAuthenticationEmbeddedUI-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be046e8a9b0d0145850621c9dab2d264cbc5f79a34d55db8b8c6514135766ba1",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-localauthentication"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2",
+      "pyobjc-framework-LocalAuthentication>=10.3.2"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for libnacl
+conda_forge = "libnacl-python-bindings"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "libnacl-2.1.0-py3-none-any.whl" },
+  { filename = "libnacl-2.0.0-py3-none-any.whl" },
+  { filename = "libnacl-1.9.0-py3-none-any.whl" },
+  { filename = "libnacl-1.8.0-py2.py3-none-any.whl" },
+  { filename = "libnacl-1.7.2-py2.py3-none-any.whl" },
+]

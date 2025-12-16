@@ -1,0 +1,105 @@
+{
+  "sigstore_rekor_types-0.0.18-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b62bf38c5b1a62bc0d7fe0ee51a0709e49311d137c7880c329882a8f4b2d1d78",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pydantic[email]<3,>=2",
+      "typing-extensions; python_version < \"3.9\"",
+      "pdoc<16.0,>=14.2; extra == \"doc\"",
+      "ruff<0.7.5; extra == \"lint\"",
+      "mypy>=1.0; extra == \"lint\"",
+      "datamodel-code-generator>=0.25.2; extra == \"codegen\"",
+      "sigstore-rekor-types[lint]; extra == \"codegen\"",
+      "sigstore-rekor-types[codegen,doc,lint]; extra == \"dev\"",
+      "build; extra == \"dev\""
+    ]
+  },
+  "sigstore_rekor_types-0.0.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "93a86c1bb53c40ac853a06c4440e3a5b3b829f54f4ef9b90b3387c605f9bbaf0",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pydantic[email] <3,>=2",
+      "typing-extensions ; python_version < \"3.9\"",
+      "datamodel-code-generator >=0.25.2 ; extra == 'codegen'",
+      "sigstore-rekor-types[lint] ; extra == 'codegen'",
+      "sigstore-rekor-types[codegen,doc,lint] ; extra == 'dev'",
+      "build ; extra == 'dev'",
+      "pdoc <16.0,>=14.2 ; extra == 'doc'",
+      "ruff <0.7.4 ; extra == 'lint'",
+      "mypy >=1.0 ; extra == 'lint'"
+    ]
+  },
+  "sigstore_rekor_types-0.0.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "377fee942d5fc66437a4f54599472157149affaece9bbc7deb05e5b42f34ceba",
+    "dependencies": {
+      "required": [
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pydantic[email] >=2,<3",
+      "typing-extensions; python_version < '3.9'",
+      "datamodel-code-generator>=0.25.2 ; extra == \"codegen\"",
+      "sigstore-rekor-types[lint] ; extra == \"codegen\"",
+      "sigstore-rekor-types[codegen,doc,lint] ; extra == \"dev\"",
+      "build ; extra == \"dev\"",
+      "pdoc ~= 14.2 ; extra == \"doc\"",
+      "ruff < 0.3.5 ; extra == \"lint\"",
+      "mypy >= 1.0 ; extra == \"lint\""
+    ]
+  },
+  "sigstore_rekor_types-0.0.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b63b4dc6dd70a3f69b236575146a18c357a3743172a03e8ceb18bbc25ef2563b",
+    "dependencies": {
+      "required": [
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "pydantic[email] >=2,<3",
+      "datamodel-code-generator ; extra == \"codegen\"",
+      "sigstore-rekor-types[lint] ; extra == \"codegen\"",
+      "sigstore-rekor-types[codegen,doc,lint] ; extra == \"dev\"",
+      "build ; extra == \"dev\"",
+      "pdoc ; extra == \"doc\"",
+      "black >= 22.3.0 ; extra == \"lint\"",
+      "ruff < 0.0.293 ; extra == \"lint\"",
+      "mypy >= 1.0 ; extra == \"lint\""
+    ]
+  },
+  "sigstore_rekor_types-0.0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b7188217473e984b7f11c618b1bbb0bc7c65f4042f5d5dec21168d7393dc541",
+    "dependencies": {
+      "required": [
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "pydantic[email] >=2,<3",
+      "datamodel-code-generator ; extra == \"codegen\"",
+      "sigstore-rekor-types[lint] ; extra == \"codegen\"",
+      "sigstore-rekor-types[codegen,doc,lint] ; extra == \"dev\"",
+      "build ; extra == \"dev\"",
+      "pdoc ; extra == \"doc\"",
+      "black >= 22.3.0 ; extra == \"lint\"",
+      "ruff < 0.0.293 ; extra == \"lint\"",
+      "mypy >= 1.0 ; extra == \"lint\""
+    ]
+  }
+}

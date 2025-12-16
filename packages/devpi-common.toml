@@ -1,0 +1,12 @@
+# Package configuration for devpi-common
+conda_forge = "devpi-common"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "devpi_common-4.1.0-py3-none-any.whl" },
+  { filename = "devpi_common-4.0.4-py3-none-any.whl" },
+  { filename = "devpi_common-4.0.3-py3-none-any.whl" },
+  { filename = "devpi_common-4.0.2-py3-none-any.whl" },
+  { filename = "devpi_common-4.0.1-py3-none-any.whl" },
+]

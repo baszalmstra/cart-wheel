@@ -1,0 +1,12 @@
+# Package configuration for icecream
+conda_forge = "icecream"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "icecream-2.1.8-py3-none-any.whl" },
+  { filename = "icecream-2.1.7-py3-none-any.whl" },
+  { filename = "icecream-2.1.6-py3-none-any.whl" },
+  { filename = "icecream-2.1.5-py3-none-any.whl" },
+  { filename = "icecream-2.1.4-py3-none-any.whl" },
+]

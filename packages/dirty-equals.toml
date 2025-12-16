@@ -1,0 +1,12 @@
+# Package configuration for dirty-equals
+conda_forge = "dirty-equals"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dirty_equals-0.11-py3-none-any.whl" },
+  { filename = "dirty_equals-0.10.0-py3-none-any.whl" },
+  { filename = "dirty_equals-0.9.0-py3-none-any.whl" },
+  { filename = "dirty_equals-0.8.0-py3-none-any.whl" },
+  { filename = "dirty_equals-0.7.1.post0-py3-none-any.whl" },
+]

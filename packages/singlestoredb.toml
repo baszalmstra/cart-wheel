@@ -1,0 +1,11 @@
+# Package configuration for singlestoredb
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "singlestoredb-1.16.6-py3-none-any.whl" },
+  { filename = "singlestoredb-1.16.5-py3-none-any.whl" },
+  { filename = "singlestoredb-1.16.4-py3-none-any.whl" },
+  { filename = "singlestoredb-1.16.3-py3-none-any.whl" },
+  { filename = "singlestoredb-1.16.2-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-salesforce
+conda_forge = "apache-airflow-providers-salesforce"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_salesforce-5.12.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_salesforce-5.12.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_salesforce-5.11.4-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_salesforce-5.11.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_salesforce-5.11.2-py3-none-any.whl" },
+]

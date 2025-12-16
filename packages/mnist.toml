@@ -1,0 +1,8 @@
+# Package configuration for mnist
+conda_forge = "mnist"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mnist-0.2.2-py2.py3-none-any.whl" },
+]

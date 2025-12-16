@@ -1,0 +1,118 @@
+{
+  "google_cloud_firestore-2.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf33ccc38a27afc60748d1f9bb7c46b078d0d39d288636bdfd967611d7b3f17f",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "google-cloud-core",
+        "proto-plus",
+        "protobuf",
+        "proto-plus",
+        "proto-plus"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.0",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "google-cloud-core<3.0.0,>=1.4.1",
+      "proto-plus<2.0.0,>=1.22.0",
+      "protobuf!=3.20.0,!=3.20.1,!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0dev,>=3.20.2",
+      "proto-plus<2.0.0,>=1.22.2; python_version >= \"3.11\"",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\""
+    ]
+  },
+  "google_cloud_firestore-2.20.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ff7b4c66e3ad2fe00f7d5d8c15127bf4ff8b316c6e4eb635ac51d9a9bcd828b",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "google-cloud-core",
+        "proto-plus",
+        "protobuf",
+        "proto-plus",
+        "proto-plus"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.0",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "google-cloud-core<3.0.0,>=1.4.1",
+      "proto-plus<2.0.0,>=1.22.0",
+      "protobuf!=3.20.0,!=3.20.1,!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0dev,>=3.20.2",
+      "proto-plus<2.0.0,>=1.22.2; python_version >= \"3.11\"",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\""
+    ]
+  },
+  "google_cloud_firestore-2.20.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6cae93e9b23fd1f5cf19dcc7417ba34712388a41692158d4396c63309b287779",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "google-cloud-core",
+        "proto-plus",
+        "protobuf",
+        "proto-plus",
+        "proto-plus"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0dev,>=1.34.0",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0dev,>=2.14.1",
+      "google-cloud-core<3.0.0dev,>=1.4.1",
+      "proto-plus<2.0.0dev,>=1.22.0",
+      "protobuf!=3.20.0,!=3.20.1,!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<6.0.0dev,>=3.20.2",
+      "proto-plus<2.0.0dev,>=1.22.2; python_version >= \"3.11\"",
+      "proto-plus<2.0.0dev,>=1.25.0; python_version >= \"3.13\""
+    ]
+  },
+  "google_cloud_firestore-2.20.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "505ef6951b56ea91f6762d99b3429ca6def6dceb254b4ba1ffc85e69b71414d7",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "google-cloud-core",
+        "proto-plus",
+        "protobuf",
+        "proto-plus"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0dev,>=1.34.0",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0dev,>=2.14.1",
+      "google-cloud-core<3.0.0dev,>=1.4.1",
+      "proto-plus<2.0.0dev,>=1.22.0",
+      "protobuf!=3.20.0,!=3.20.1,!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<6.0.0dev,>=3.20.2",
+      "proto-plus<2.0.0dev,>=1.22.2; python_version >= \"3.11\""
+    ]
+  },
+  "google_cloud_firestore-2.19.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b49f0019d7bd0d4ab5972a4cff13994b0aabe72d24242200d904db2fb49df7f7",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "google-cloud-core",
+        "proto-plus",
+        "protobuf",
+        "proto-plus"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc] !=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0dev,>=1.34.0",
+      "google-auth !=2.24.0,!=2.25.0,<3.0.0dev,>=2.14.1",
+      "google-cloud-core <3.0.0dev,>=1.4.1",
+      "proto-plus <2.0.0dev,>=1.22.0",
+      "protobuf !=3.20.0,!=3.20.1,!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<6.0.0dev,>=3.20.2",
+      "proto-plus <2.0.0dev,>=1.22.2 ; python_version >= \"3.11\""
+    ]
+  }
+}

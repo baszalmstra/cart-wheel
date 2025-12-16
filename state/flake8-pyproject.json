@@ -1,0 +1,93 @@
+{
+  "flake8_pyproject-1.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ea34c057f9a9329c76d98723bb2bb498cc6ba8ff9872c4d19932d48c91249a77",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "tomli",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "Flake8 >= 5",
+      "TOMLi      ; python_version < \"3.11\"",
+      "TOMLi  < 2 ; python_version < \"3.7\"",
+      "Flit       >= 3.4 ; extra == \"dev\"",
+      "pyTest     >= 7 ; extra == \"dev\"",
+      "pyTest-cov >= 7 ; extra == \"dev\" and ( python_version >= \"3.10\")"
+    ]
+  },
+  "flake8_pyproject-1.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6249fe53545205af5e76837644dc80b4c10037e73a0e5db87ff562d75fb5bd4a",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "tomli",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "Flake8 >= 5",
+      "TOMLi; python_version < \"3.11\"",
+      "TOMLi < 2; python_version < \"3.7\"",
+      "pyTest ; extra == \"dev\"",
+      "pyTest-cov ; extra == \"dev\""
+    ]
+  },
+  "flake8_pyproject-1.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52d412219e7db6227faa654675b1435947b11d49b453f3eced760f19bdd6f06a",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "tomli",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "Flake8 >= 5",
+      "TOMLi; python_version < \"3.11\"",
+      "TOMLi < 2; python_version < \"3.7\"",
+      "pyTest ; extra == \"dev\"",
+      "pyTest-cov ; extra == \"dev\""
+    ]
+  },
+  "flake8_pyproject-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2470803b38883881c250c27f361ca4c49e7b8f9e3a17f7d44aa43b6965b2363",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "tomli",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "Flake8 >= 5, < 7",
+      "TOMLi; python_version < \"3.11\"",
+      "TOMLi < 2; python_version < \"3.7\"",
+      "pyTest ; extra == \"dev\"",
+      "pyTest-cov ; extra == \"dev\""
+    ]
+  },
+  "flake8_pyproject-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0f90aced603bd47b1b60d83fb0b1d127e3d96a53e7a8cc980b4fb96b785be101",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "tomli",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "Flake8 >= 5, < 6",
+      "TOMLi; python_version < \"3.11\"",
+      "TOMLi < 2; python_version < \"3.7\"",
+      "pyTest ; extra == \"dev\"",
+      "pyTest-cov ; extra == \"dev\""
+    ]
+  }
+}

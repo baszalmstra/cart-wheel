@@ -1,0 +1,12 @@
+# Package configuration for dicttoxml
+conda_forge = "dicttoxml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dicttoxml-1.7.16-py3-none-any.whl" },
+  { filename = "dicttoxml-1.7.15-py3-none-any.whl" },
+  { filename = "dicttoxml-1.7.14-py3-none-any.whl" },
+  { filename = "dicttoxml-1.7.13-py3-none-any.whl" },
+  { filename = "dicttoxml-1.7.12-py3-none-any.whl" },
+]

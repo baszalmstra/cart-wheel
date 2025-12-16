@@ -1,0 +1,172 @@
+{
+  "praw-7.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15917a81a06e20ff0aaaf1358481f4588449fa2421233040cb25e5c8202a3e2f",
+    "dependencies": {
+      "required": [
+        "prawcore",
+        "update-checker",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "prawcore >=2.4, <3",
+      "update_checker >=0.18",
+      "websocket-client >=0.54.0",
+      "coveralls ; extra == \"ci\"",
+      "packaging ; extra == \"dev\"",
+      "praw[lint] ; extra == \"dev\"",
+      "praw[test] ; extra == \"dev\"",
+      "praw[readthedocs] ; extra == \"lint\"",
+      "pre-commit ; extra == \"lint\"",
+      "ruff >=0.0.291 ; extra == \"lint\"",
+      "furo ; extra == \"readthedocs\"",
+      "sphinx ; extra == \"readthedocs\"",
+      "betamax >=0.8, <0.9 ; extra == \"test\"",
+      "betamax-matchers >=0.3.0, <0.5 ; extra == \"test\"",
+      "pytest >=2.7.3 ; extra == \"test\"",
+      "requests >=2.20.1, <3 ; extra == \"test\"",
+      "urllib3 ==1.26.*, <2 ; extra == \"test\""
+    ]
+  },
+  "praw-7.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "66bb2d9dc4f9a35910bf8b4339067c8646ab03270b1c38d77b0487bef8c5c3e2",
+    "dependencies": {
+      "required": [
+        "prawcore",
+        "update-checker",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "prawcore >=2.1, <3",
+      "update_checker >=0.18",
+      "websocket-client >=0.54.0",
+      "coveralls ; extra == \"ci\"",
+      "packaging ; extra == \"dev\"",
+      "praw[lint] ; extra == \"dev\"",
+      "praw[test] ; extra == \"dev\"",
+      "praw[readthedocs] ; extra == \"lint\"",
+      "pre-commit ; extra == \"lint\"",
+      "ruff >=0.0.291 ; extra == \"lint\"",
+      "furo ; extra == \"readthedocs\"",
+      "sphinx ; extra == \"readthedocs\"",
+      "betamax >=0.8, <0.9 ; extra == \"test\"",
+      "betamax-matchers >=0.3.0, <0.5 ; extra == \"test\"",
+      "pytest >=2.7.3 ; extra == \"test\"",
+      "requests >=2.20.1, <3 ; extra == \"test\"",
+      "urllib3 ==1.26.*, <2 ; extra == \"test\""
+    ]
+  },
+  "praw-7.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ec5dc943db00c175bc6a53f4e089ce625f3fdfb27305564b616747b767d38ef",
+    "dependencies": {
+      "required": [
+        "prawcore",
+        "update-checker",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "prawcore (<3,>=2.1)",
+      "update-checker (>=0.18)",
+      "websocket-client (>=0.54.0)",
+      "coveralls ; extra == 'ci'",
+      "packaging ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "furo ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "betamax (<0.9,>=0.8) ; extra == 'dev'",
+      "betamax-matchers (<0.5,>=0.3.0) ; extra == 'dev'",
+      "pytest (>=2.7.3) ; extra == 'dev'",
+      "requests (<3,>=2.20.1) ; extra == 'dev'",
+      "urllib3 (<2,==1.26.*) ; extra == 'dev'",
+      "pre-commit ; extra == 'lint'",
+      "furo ; extra == 'lint'",
+      "sphinx ; extra == 'lint'",
+      "furo ; extra == 'readthedocs'",
+      "sphinx ; extra == 'readthedocs'",
+      "betamax (<0.9,>=0.8) ; extra == 'test'",
+      "betamax-matchers (<0.5,>=0.3.0) ; extra == 'test'",
+      "pytest (>=2.7.3) ; extra == 'test'",
+      "requests (<3,>=2.20.1) ; extra == 'test'",
+      "urllib3 (<2,==1.26.*) ; extra == 'test'"
+    ]
+  },
+  "praw-7.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22155c4b3006733a5ab0754136cf2226917747b61ec037ee335246fe0db5420e",
+    "dependencies": {
+      "required": [
+        "prawcore",
+        "update-checker",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "prawcore (<3,>=2.1)",
+      "update-checker (>=0.18)",
+      "websocket-client (>=0.54.0)",
+      "coveralls ; extra == 'ci'",
+      "packaging ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "sphinx-rtd-dark-mode ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "betamax (<0.9,>=0.8) ; extra == 'dev'",
+      "betamax-matchers (<0.5,>=0.3.0) ; extra == 'dev'",
+      "pytest (>=2.7.3) ; extra == 'dev'",
+      "requests (<3,>=2.20.1) ; extra == 'dev'",
+      "pre-commit ; extra == 'lint'",
+      "sphinx ; extra == 'lint'",
+      "sphinx-rtd-dark-mode ; extra == 'lint'",
+      "sphinx-rtd-theme ; extra == 'lint'",
+      "sphinx ; extra == 'readthedocs'",
+      "sphinx-rtd-dark-mode ; extra == 'readthedocs'",
+      "sphinx-rtd-theme ; extra == 'readthedocs'",
+      "betamax (<0.9,>=0.8) ; extra == 'test'",
+      "betamax-matchers (<0.5,>=0.3.0) ; extra == 'test'",
+      "pytest (>=2.7.3) ; extra == 'test'",
+      "requests (<3,>=2.20.1) ; extra == 'test'"
+    ]
+  },
+  "praw-7.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "33ac091cd061d9bd607ae231d4ea40025060a4ecb5e11baa5ce9a25c6d2f5a6b",
+    "dependencies": {
+      "required": [
+        "prawcore",
+        "update-checker",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "prawcore (<3,>=2.1)",
+      "update-checker (>=0.18)",
+      "websocket-client (>=0.54.0)",
+      "coveralls ; extra == 'ci'",
+      "packaging ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "sphinx-rtd-dark-mode ; extra == 'dev'",
+      "sphinx-rtd-theme ; extra == 'dev'",
+      "betamax (<0.9,>=0.8) ; extra == 'dev'",
+      "betamax-matchers (<0.5,>=0.3.0) ; extra == 'dev'",
+      "pytest (>=2.7.3) ; extra == 'dev'",
+      "requests (<3,>=2.20.1) ; extra == 'dev'",
+      "pre-commit ; extra == 'lint'",
+      "sphinx ; extra == 'lint'",
+      "sphinx-rtd-dark-mode ; extra == 'lint'",
+      "sphinx-rtd-theme ; extra == 'lint'",
+      "sphinx ; extra == 'readthedocs'",
+      "sphinx-rtd-dark-mode ; extra == 'readthedocs'",
+      "sphinx-rtd-theme ; extra == 'readthedocs'",
+      "betamax (<0.9,>=0.8) ; extra == 'test'",
+      "betamax-matchers (<0.5,>=0.3.0) ; extra == 'test'",
+      "pytest (>=2.7.3) ; extra == 'test'",
+      "requests (<3,>=2.20.1) ; extra == 'test'"
+    ]
+  }
+}

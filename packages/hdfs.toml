@@ -1,0 +1,9 @@
+# Package configuration for hdfs
+conda_forge = "python-hdfs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hdfs-2.7.0-py3-none-any.whl" },
+  { filename = "hdfs-2.6.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for yfinance
+conda_forge = "yfinance"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "yfinance-0.2.66-py2.py3-none-any.whl" },
+  { filename = "yfinance-0.2.65-py2.py3-none-any.whl" },
+  { filename = "yfinance-0.2.64-py2.py3-none-any.whl" },
+  { filename = "yfinance-0.2.63-py2.py3-none-any.whl" },
+  { filename = "yfinance-0.2.62-py2.py3-none-any.whl" },
+]

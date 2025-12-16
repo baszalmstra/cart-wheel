@@ -1,0 +1,115 @@
+{
+  "bindep-2.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c0e6cc626be2cc84f447fbaaa9d4b6cfbd92b11e8738d29d7a15df2d07fb45de",
+    "dependencies": {
+      "required": [
+        "distro",
+        "packaging",
+        "parsley",
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "distro>=1.7",
+      "packaging",
+      "Parsley",
+      "pbr>=2",
+      "fixtures>=0.3.12; extra == \"build-docs\"",
+      "reno>=2.8.0; extra == \"build-docs\"",
+      "sphinx!=1.6.6,!=1.6.7,!=2.1.0; extra == \"build-docs\"",
+      "sphinxcontrib-programoutput; extra == \"build-docs\"",
+      "bindep[test-unit]; extra == \"test-cover\"",
+      "coverage>=3.6; extra == \"test-cover\"",
+      "hacking<8,>=7; extra == \"test-linters\"",
+      "fixtures>=0.3.12; extra == \"test-unit\"",
+      "python-subunit; extra == \"test-unit\"",
+      "stestr>=1; extra == \"test-unit\"",
+      "testtools>=0.9.27; extra == \"test-unit\""
+    ]
+  },
+  "bindep-2.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24a245110705702a8bf75959dca9f14f07d1c5e399183e24752f00e44c5f56b5",
+    "dependencies": {
+      "required": [
+        "parsley",
+        "pbr",
+        "distro",
+        "packaging",
+        "distro",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "Parsley",
+      "pbr >=2.0.0",
+      "distro <1.7.0 ; (python_version < '3.6')",
+      "packaging <21.0 ; (python_version < '3.6')",
+      "distro >=1.7.0 ; (python_version >= '3.6')",
+      "packaging ; (python_version >= '3.6')"
+    ]
+  },
+  "bindep-2.11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6abe2f721e5388b518affb8bf8c8945977e75e88803e229799b3599a6da32b01",
+    "dependencies": {
+      "required": [
+        "parsley",
+        "pbr",
+        "distro",
+        "packaging",
+        "distro",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "Parsley",
+      "pbr (>=2.0.0)",
+      "distro (<1.7.0) ; (python_version < '3.6')",
+      "packaging (<21.0) ; (python_version < '3.6')",
+      "distro (>=1.7.0) ; (python_version >= '3.6')",
+      "packaging ; (python_version >= '3.6')"
+    ]
+  },
+  "bindep-2.10.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81fdf1ef59c504c36d53546fb7b3235240bbcd8420412b5956bb09564fcfb313",
+    "dependencies": {
+      "required": [
+        "parsley",
+        "distro",
+        "pbr",
+        "packaging",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "Parsley",
+      "distro",
+      "pbr (>=2.0.0)",
+      "packaging (<21.0) ; (python_version < '3.6')",
+      "packaging ; (python_version >= '3.6')"
+    ]
+  },
+  "bindep-2.10.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0f4305a9599abb559a2fe85225dff7b3d42edd2752d288a481024d33768b761",
+    "dependencies": {
+      "required": [
+        "parsley",
+        "distro",
+        "pbr",
+        "packaging",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "Parsley",
+      "distro",
+      "pbr (>=2.0.0)",
+      "packaging (<21.0) ; (python_version < '3.6')",
+      "packaging ; (python_version >= '3.6')"
+    ]
+  }
+}

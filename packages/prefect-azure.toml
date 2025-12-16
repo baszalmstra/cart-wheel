@@ -1,0 +1,12 @@
+# Package configuration for prefect-azure
+conda_forge = "prefect-azure"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "prefect_azure-0.4.7-py3-none-any.whl" },
+  { filename = "prefect_azure-0.4.6-py3-none-any.whl" },
+  { filename = "prefect_azure-0.4.5-py3-none-any.whl" },
+  { filename = "prefect_azure-0.4.4-py3-none-any.whl" },
+  { filename = "prefect_azure-0.4.3-py3-none-any.whl" },
+]

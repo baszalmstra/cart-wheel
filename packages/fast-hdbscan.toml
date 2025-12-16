@@ -1,0 +1,10 @@
+# Package configuration for fast-hdbscan
+conda_forge = "fast_hdbscan"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fast_hdbscan-0.2.2-py3-none-any.whl" },
+  { filename = "fast_hdbscan-0.2.1-py3-none-any.whl" },
+  { filename = "fast_hdbscan-0.2.0-py3-none-any.whl" },
+]

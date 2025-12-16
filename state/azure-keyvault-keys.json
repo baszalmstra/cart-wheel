@@ -1,0 +1,96 @@
+{
+  "azure_keyvault_keys-4.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fa5febd5805f0fed4c0a1d13c9096081c72a6fa36ccae1299a137f34280eda53",
+    "dependencies": {
+      "required": [
+        "cryptography",
+        "isodate",
+        "azure-core",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cryptography>=2.1.4",
+      "isodate>=0.6.1",
+      "azure-core>=1.31.0",
+      "typing-extensions>=4.6.0"
+    ]
+  },
+  "azure_keyvault_keys-4.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "210227e0061f641a79755f0e0bcbcf27bbfb4df630a933c43a99a29962283d0d",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "cryptography",
+        "isodate",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "azure-core >=1.31.0",
+      "cryptography >=2.1.4",
+      "isodate >=0.6.1",
+      "typing-extensions >=4.0.1"
+    ]
+  },
+  "azure_keyvault_keys-4.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "05eff85600f2f288a38e5c818ff77c5121840d327e66188cfa7ad333defb545b",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "cryptography",
+        "isodate",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "azure-core <2.0.0,>=1.29.5",
+      "cryptography >=2.1.4",
+      "isodate >=0.6.1",
+      "typing-extensions >=4.0.1"
+    ]
+  },
+  "azure_keyvault_keys-4.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1080fa1ffcb3bc16fc3a6b7acce63c8f0e81ad0b498673b2871b162396674f0",
+    "dependencies": {
+      "required": [
+        "azure-common",
+        "azure-core",
+        "cryptography",
+        "isodate",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "azure-common (~=1.1)",
+      "azure-core (<2.0.0,>=1.24.0)",
+      "cryptography (>=2.1.4)",
+      "isodate (>=0.6.1)",
+      "typing-extensions (>=4.0.1)"
+    ]
+  },
+  "azure_keyvault_keys-4.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cab6d1efc19381c6d9b1a1c8e38c3673af5b2f5a98314c85cd3b725aff346e06",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "cryptography",
+        "msrest",
+        "azure-common",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "azure-core (<2.0.0,>=1.20.0)",
+      "cryptography (>=2.1.4)",
+      "msrest (>=0.6.21)",
+      "azure-common (~=1.1)",
+      "six (>=1.12.0)"
+    ]
+  }
+}

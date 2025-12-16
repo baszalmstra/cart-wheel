@@ -1,0 +1,99 @@
+{
+  "ibm_code_engine_sdk-4.21.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ecfde4082c4bdef0f6114c7b8a2e88c386938a5d0c2d655f4105791e4f62d9f7",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3",
+        "python-dateutil",
+        "ibm-cloud-sdk-core"
+      ]
+    },
+    "original_requirements": [
+      "requests<3.0.0,>=2.32.4",
+      "urllib3<2.7.0,>=2.6.1",
+      "python_dateutil<3.0.0,>=2.5.3",
+      "ibm_cloud_sdk_core<4.0.0,>=3.16.0",
+      "coverage>=4.5.4; extra == \"dev\"",
+      "pylint<4.1.0,>=4.0.2; extra == \"dev\"",
+      "pytest<9.1.0,>=9.0.0; extra == \"dev\"",
+      "pytest-cov<7.1.0,>=7.0.0; extra == \"dev\"",
+      "pytest-rerunfailures>=3.1; extra == \"dev\"",
+      "responses<1.0.0,>=0.12.1; extra == \"dev\"",
+      "black>=22.10; extra == \"dev\""
+    ]
+  },
+  "ibm_code_engine_sdk-4.21.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b73770749d7d67f278aa4bfc00914801e22b80d4f35605377e980e0b13006a15",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3",
+        "python-dateutil",
+        "ibm-cloud-sdk-core"
+      ]
+    },
+    "original_requirements": [
+      "requests<3.0.0,>=2.32.4",
+      "urllib3<2.6.0,>=2.5.0",
+      "python_dateutil<3.0.0,>=2.5.3",
+      "ibm_cloud_sdk_core<4.0.0,>=3.16.0"
+    ]
+  },
+  "ibm_code_engine_sdk-4.20.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d138e2159448c1e8a2ad56caa6ce05442eb721c5a0a1ae5b88acac0743847c14",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3",
+        "python-dateutil",
+        "ibm-cloud-sdk-core"
+      ]
+    },
+    "original_requirements": [
+      "requests<3.0.0,>=2.32.4",
+      "urllib3<2.6.0,>=2.5.0",
+      "python_dateutil<3.0.0,>=2.5.3",
+      "ibm_cloud_sdk_core<4.0.0,>=3.16.0"
+    ]
+  },
+  "ibm_code_engine_sdk-4.14.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a51cb5ae7f16a5b0c2d2e4a17b7247fc44f7d1cdd198997d01175115975404df",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3",
+        "python-dateutil",
+        "ibm-cloud-sdk-core"
+      ]
+    },
+    "original_requirements": [
+      "requests<3.0.0,>=2.32.0",
+      "urllib3<2.4.0,>=2.3.0",
+      "python_dateutil<3.0.0,>=2.5.3",
+      "ibm_cloud_sdk_core<4.0.0,>=3.16.0"
+    ]
+  },
+  "ibm_code_engine_sdk-4.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da7cca14a78f05d38605cf6962d4213aede995dbacafb3298281fcddb6a80969",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3",
+        "python-dateutil",
+        "ibm-cloud-sdk-core"
+      ]
+    },
+    "original_requirements": [
+      "requests<3.0.0,>=2.32.0",
+      "urllib3<2.3.0,>=2.2.2",
+      "python_dateutil<3.0.0,>=2.5.3",
+      "ibm_cloud_sdk_core<4.0.0,>=3.16.0"
+    ]
+  }
+}

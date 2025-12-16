@@ -1,0 +1,8 @@
+# Package configuration for flake8-datetimez
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_datetimez-20.10.0-py3-none-any.whl" },
+  { filename = "flake8_datetimez-20.6.0-py3-none-any.whl" },
+]

@@ -1,0 +1,82 @@
+{
+  "plaster-1.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "42992ab1f4865f1278e2ad740e8ad145683bb4022e03534265528f0c23c0df2d",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "Sphinx ; extra == 'docs'",
+      "pylons-sphinx-themes ; extra == 'docs'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'"
+    ]
+  },
+  "plaster-1.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4eaa4358001b7cd7bc6346550fdef6a935bce870a1296f4e78e75cadc391e9d4",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "Sphinx ; extra == 'docs'",
+      "pylons-sphinx-themes ; extra == 'docs'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'"
+    ]
+  },
+  "plaster-1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50a76cfa6a283f712660110fb82e254f5444b99a2df5837426eea0b8b47bbd5e",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "Sphinx ; extra == 'docs'",
+      "pylons-sphinx-themes ; extra == 'docs'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'"
+    ]
+  },
+  "plaster-1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "215c921a438b5349931fd7df9a5a11a3572947f20f4bc6dd622ac08f1c3ba249",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "Sphinx; extra == 'docs'",
+      "pylons-sphinx-themes; extra == 'docs'",
+      "pytest; extra == 'testing'",
+      "pytest-cov; extra == 'testing'"
+    ]
+  },
+  "plaster-0.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "626f4c2ffaaa101b9eced20da42fe44c460f1b0bb52b0add37b4836516978f53",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "Sphinx; extra == 'docs'",
+      "pylons-sphinx-themes; extra == 'docs'",
+      "pytest; extra == 'testing'",
+      "pytest-cov; extra == 'testing'"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "charcut-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c282204398dda841396ea73f3821ac271b8901336b9336e458f23fbf0fe0bd08",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "isort (>=5.5.4) ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pytest ; extra == 'dev'"
+    ]
+  },
+  "charcut-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf22ead6d0fe9bb135bac1bc0fb71ed01edab76da1564e3ee12c3cca0a9efc54",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "isort (>=5.5.4) ; extra == 'dev'",
+      "black ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pytest ; extra == 'dev'"
+    ]
+  }
+}

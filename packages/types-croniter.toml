@@ -1,0 +1,12 @@
+# Package configuration for types-croniter
+conda_forge = "types-croniter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_croniter-6.0.0.20250809-py3-none-any.whl" },
+  { filename = "types_croniter-6.0.0.20250626-py3-none-any.whl" },
+  { filename = "types_croniter-6.0.0.20250411-py3-none-any.whl" },
+  { filename = "types_croniter-5.0.1.20250322-py3-none-any.whl" },
+  { filename = "types_croniter-5.0.1.20241205-py3-none-any.whl" },
+]

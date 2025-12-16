@@ -1,0 +1,12 @@
+# Package configuration for jaxns
+conda_forge = "jaxns"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaxns-2.6.9-py3-none-any.whl" },
+  { filename = "jaxns-2.6.8-py3-none-any.whl" },
+  { filename = "jaxns-2.6.7-py3-none-any.whl" },
+  { filename = "jaxns-2.6.6-py3-none-any.whl" },
+  { filename = "jaxns-2.6.5-py3-none-any.whl" },
+]

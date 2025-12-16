@@ -1,0 +1,162 @@
+{
+  "pip_tools-7.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2fe16db727bbe5bf28765aeb581e792e61be51fc275545ef6725374ad720a1ce",
+    "dependencies": {
+      "required": [
+        "build",
+        "click",
+        "pip",
+        "pyproject-hooks",
+        "tomli",
+        "setuptools",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "build>=1.0.0",
+      "click>=8",
+      "pip>=22.2",
+      "pyproject_hooks",
+      "tomli; python_version < \"3.11\"",
+      "setuptools",
+      "wheel",
+      "pytest>=7.2.0; extra == \"testing\"",
+      "pytest-rerunfailures; extra == \"testing\"",
+      "pytest-xdist; extra == \"testing\"",
+      "tomli-w; extra == \"testing\"",
+      "flit_core<4,>=2; extra == \"testing\"",
+      "poetry_core>=1.0.0; extra == \"testing\"",
+      "covdefaults; extra == \"coverage\"",
+      "pytest-cov; extra == \"coverage\""
+    ]
+  },
+  "pip_tools-7.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f5ff803823529edc0e6e40c86b1aa7da7266fb1078093c8beea4e5b77877036a",
+    "dependencies": {
+      "required": [
+        "build",
+        "click",
+        "pip",
+        "pyproject-hooks",
+        "tomli",
+        "setuptools",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "build>=1.0.0",
+      "click>=8",
+      "pip>=22.2",
+      "pyproject_hooks",
+      "tomli; python_version < \"3.11\"",
+      "setuptools",
+      "wheel",
+      "pytest>=7.2.0; extra == \"testing\"",
+      "pytest-rerunfailures; extra == \"testing\"",
+      "pytest-xdist; extra == \"testing\"",
+      "tomli-w; extra == \"testing\"",
+      "flit_core<4,>=2; extra == \"testing\"",
+      "poetry_core>=1.0.0; extra == \"testing\"",
+      "covdefaults; extra == \"coverage\"",
+      "pytest-cov; extra == \"coverage\""
+    ]
+  },
+  "pip_tools-7.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "69758e4e5a65f160e315d74db46246fdbb30d549f1ed0c4236d057122c9b0f18",
+    "dependencies": {
+      "required": [
+        "build",
+        "click",
+        "pip",
+        "pyproject-hooks",
+        "tomli",
+        "setuptools",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "build>=1.0.0",
+      "click>=8",
+      "pip>=22.2",
+      "pyproject_hooks",
+      "tomli; python_version < \"3.11\"",
+      "setuptools",
+      "wheel",
+      "pytest>=7.2.0; extra == \"testing\"",
+      "pytest-rerunfailures; extra == \"testing\"",
+      "pytest-xdist; extra == \"testing\"",
+      "tomli-w; extra == \"testing\"",
+      "flit_core<4,>=2; extra == \"testing\"",
+      "poetry_core>=1.0.0; extra == \"testing\"",
+      "covdefaults; extra == \"coverage\"",
+      "pytest-cov; extra == \"coverage\""
+    ]
+  },
+  "pip_tools-7.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c690e5fbae2f21e87843e89c26191f0d9454f362d8acdbd695716493ec8b3a9",
+    "dependencies": {
+      "required": [
+        "build",
+        "click",
+        "pip",
+        "pyproject-hooks",
+        "setuptools",
+        "wheel",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "build >=1.0.0",
+      "click >=8",
+      "pip >=22.2",
+      "pyproject-hooks",
+      "setuptools",
+      "wheel",
+      "tomli ; python_version < \"3.11\"",
+      "covdefaults ; extra == 'coverage'",
+      "pytest-cov ; extra == 'coverage'",
+      "pytest >=7.2.0 ; extra == 'testing'",
+      "pytest-rerunfailures ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'",
+      "tomli-w ; extra == 'testing'",
+      "flit-core <4,>=2 ; extra == 'testing'",
+      "poetry-core >=1.0.0 ; extra == 'testing'"
+    ]
+  },
+  "pip_tools-7.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b67432fd0759ed834c5367f9e0ce8c95441acecfec9c8e24b41aca166757adf0",
+    "dependencies": {
+      "required": [
+        "build",
+        "click",
+        "pip",
+        "pyproject-hooks",
+        "setuptools",
+        "wheel",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "build >=1.0.0",
+      "click >=8",
+      "pip >=22.2",
+      "pyproject-hooks",
+      "setuptools",
+      "wheel",
+      "tomli ; python_version < \"3.11\"",
+      "covdefaults ; extra == 'coverage'",
+      "pytest-cov ; extra == 'coverage'",
+      "pytest >=7.2.0 ; extra == 'testing'",
+      "pytest-rerunfailures ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'",
+      "tomli-w ; extra == 'testing'",
+      "flit-core <4,>=2 ; extra == 'testing'",
+      "poetry-core >=1.0.0 ; extra == 'testing'"
+    ]
+  }
+}

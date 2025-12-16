@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-redis
+conda_forge = "apache-airflow-providers-redis"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_redis-4.4.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_redis-4.4.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_redis-4.3.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_redis-4.3.2-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_redis-4.3.1-py3-none-any.whl" },
+]

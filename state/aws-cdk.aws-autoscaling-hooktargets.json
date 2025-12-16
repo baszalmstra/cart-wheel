@@ -1,0 +1,172 @@
+{
+  "aws_cdk.aws_autoscaling_hooktargets-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "29c9361f184c02bc32834bd73a6ae4f4f62c0d80578c7852ed9f8b45e451c032",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-autoscaling",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns-subscriptions",
+        "aws-cdk.aws-sns",
+        "aws-cdk.aws-sqs",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-autoscaling (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-kms (==1.204.0)",
+      "aws-cdk.aws-lambda (==1.204.0)",
+      "aws-cdk.aws-sns-subscriptions (==1.204.0)",
+      "aws-cdk.aws-sns (==1.204.0)",
+      "aws-cdk.aws-sqs (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_autoscaling_hooktargets-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "091f82de471992801441106b8c2f8c21d835b96eaefe6f7fe26e4cf76c66b970",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-autoscaling",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns-subscriptions",
+        "aws-cdk.aws-sns",
+        "aws-cdk.aws-sqs",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-autoscaling (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-kms (==1.203.0)",
+      "aws-cdk.aws-lambda (==1.203.0)",
+      "aws-cdk.aws-sns-subscriptions (==1.203.0)",
+      "aws-cdk.aws-sns (==1.203.0)",
+      "aws-cdk.aws-sqs (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_autoscaling_hooktargets-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d8173109cf93985dc73acd6b01605cd8a27ac2581f91e43a542a7cd8b1f6e5ad",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-autoscaling",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns-subscriptions",
+        "aws-cdk.aws-sns",
+        "aws-cdk.aws-sqs",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-autoscaling (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-kms (==1.202.0)",
+      "aws-cdk.aws-lambda (==1.202.0)",
+      "aws-cdk.aws-sns-subscriptions (==1.202.0)",
+      "aws-cdk.aws-sns (==1.202.0)",
+      "aws-cdk.aws-sqs (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_autoscaling_hooktargets-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff60f77f35d44e6f3e3a859b34f341cee4e8f5e5ecd9cae8ac100a1d596ad55e",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-autoscaling",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns-subscriptions",
+        "aws-cdk.aws-sns",
+        "aws-cdk.aws-sqs",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-autoscaling (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-kms (==1.201.0)",
+      "aws-cdk.aws-lambda (==1.201.0)",
+      "aws-cdk.aws-sns-subscriptions (==1.201.0)",
+      "aws-cdk.aws-sns (==1.201.0)",
+      "aws-cdk.aws-sqs (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_autoscaling_hooktargets-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58a0f77d9858a88d9abbae3993ce0feba1de65139fc434659fb9c7f67d8a0c27",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-autoscaling",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-sns-subscriptions",
+        "aws-cdk.aws-sns",
+        "aws-cdk.aws-sqs",
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-autoscaling (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-kms (==1.200.0)",
+      "aws-cdk.aws-lambda (==1.200.0)",
+      "aws-cdk.aws-sns-subscriptions (==1.200.0)",
+      "aws-cdk.aws-sns (==1.200.0)",
+      "aws-cdk.aws-sqs (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

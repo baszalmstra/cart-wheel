@@ -1,0 +1,8 @@
+# Package configuration for azure-synapse-nspkg
+conda_forge = "azure-synapse-nspkg"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_synapse_nspkg-1.0.0-py2.py3-none-any.whl" },
+]

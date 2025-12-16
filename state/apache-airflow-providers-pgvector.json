@@ -1,0 +1,93 @@
+{
+  "apache_airflow_providers_pgvector-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f58b8cba8160369089e8fb80786d438a630b8a4d32ec9f319a9eaf342236ae0",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-postgres",
+        "pgvector"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-postgres>=5.7.1",
+      "pgvector>=0.3.1",
+      "apache-airflow-providers-common-sql ; extra == \"common-sql\""
+    ]
+  },
+  "apache_airflow_providers_pgvector-1.5.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "491526b71ee7facccd2298e74a56847b8281bf4c867b60ea9a5f3a603a8b49b0",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-postgres",
+        "pgvector"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-postgres>=5.7.1",
+      "pgvector>=0.3.1",
+      "apache-airflow-providers-common-sql ; extra == \"common-sql\""
+    ]
+  },
+  "apache_airflow_providers_pgvector-1.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c16e398a6704dd989be4bc1a30417f5fe171f4b6db8373abbb9166134b50248",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-postgres",
+        "pgvector"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-postgres>=5.7.1",
+      "pgvector>=0.3.1",
+      "apache-airflow-providers-common-sql ; extra == \"common-sql\""
+    ]
+  },
+  "apache_airflow_providers_pgvector-1.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3cd3b1ec4142d37ec450807a1c595114ebc6d726b3a92b1c5813792e962a29df",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-postgres",
+        "pgvector"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-postgres>=5.7.1",
+      "pgvector>=0.3.1",
+      "apache-airflow-providers-common-sql ; extra == \"common-sql\""
+    ]
+  },
+  "apache_airflow_providers_pgvector-1.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5abec65c8e52f872444a007470b09f98792e320a478a1d9b0ff6b19003cf86b7",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-postgres",
+        "pgvector"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-postgres>=5.7.1",
+      "pgvector>=0.3.1",
+      "apache-airflow-providers-common-sql ; extra == \"common-sql\""
+    ]
+  }
+}

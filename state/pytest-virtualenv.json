@@ -1,0 +1,61 @@
+{
+  "pytest_virtualenv-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7dca99d96d071e7f1a0073e9706cb165e11f15d80e24496ac26f4d9095471769",
+    "dependencies": {
+      "required": [
+        "pytest-fixture-config",
+        "pytest-shutil",
+        "pytest",
+        "virtualenv",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pytest-fixture-config",
+      "pytest-shutil",
+      "pytest",
+      "virtualenv",
+      "importlib-metadata"
+    ]
+  },
+  "pytest_virtualenv-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60ee0b3d54937b70e296eab00c4ecdab4980ddad0b3f14c120cd281c9d7237a1",
+    "dependencies": {
+      "required": [
+        "pytest-fixture-config",
+        "pytest-shutil",
+        "pytest",
+        "virtualenv",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "pytest-fixture-config",
+      "pytest-shutil",
+      "pytest",
+      "virtualenv",
+      "importlib-metadata"
+    ]
+  },
+  "pytest_virtualenv-1.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fee44d423701d6ab550b202aa8e45ccda77bfe8e72c4318a8f43e6af553ad502",
+    "dependencies": {
+      "required": [
+        "pytest-fixture-config",
+        "pytest-shutil",
+        "pytest",
+        "virtualenv"
+      ]
+    },
+    "original_requirements": [
+      "pytest-fixture-config",
+      "pytest-shutil",
+      "pytest",
+      "virtualenv",
+      "mock ; extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "apache_airflow_providers_jenkins-4.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a1aab816f8ab2d7ee8d9718ccfc58fd0e3b6c0f2a0a2829629f81ed6a38f835b",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-jenkins"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "python-jenkins>=1.8.2"
+    ]
+  },
+  "apache_airflow_providers_jenkins-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf660e7f8be29d47305b16f7936674ef34594828d9364c62b243555e7c79d885",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-jenkins"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "python-jenkins>=1.8.2"
+    ]
+  },
+  "apache_airflow_providers_jenkins-4.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0da5ed3f53b39cd81cd7c2bd20134bffa0ccc2bbe85a5bd94efc1ed09f0a3fce",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-jenkins"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "python-jenkins>=1.8.2"
+    ]
+  },
+  "apache_airflow_providers_jenkins-4.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc6dc0544e19d2b7264135f32a560fb1b34d2c3164af7809e9a6539b2fa96a72",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "python-jenkins"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "python-jenkins>=1.8.2"
+    ]
+  },
+  "apache_airflow_providers_jenkins-4.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8db59cd1c48ba3879ebaca2fec4c8787ce475597842e6057644f9febb73d6668",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "python-jenkins"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "python-jenkins>=1.8.2"
+    ]
+  }
+}

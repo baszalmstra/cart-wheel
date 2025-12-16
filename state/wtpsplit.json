@@ -1,0 +1,162 @@
+{
+  "wtpsplit-2.1.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "26cbd2e3d5a1532127b9a422893a6e9f506f5e120b849374bdeab21a530a23f6",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "huggingface-hub",
+        "numpy",
+        "scikit-learn",
+        "tqdm",
+        "skops",
+        "pandas",
+        "cached-property",
+        "mosestokenizer",
+        "adapters"
+      ]
+    },
+    "original_requirements": [
+      "transformers>=4.22.2",
+      "huggingface-hub",
+      "numpy>=1.0",
+      "scikit-learn>=1",
+      "tqdm",
+      "skops",
+      "pandas>=1",
+      "cached_property",
+      "mosestokenizer",
+      "adapters>=1.0.1",
+      "onnxruntime-gpu>=1.13.1; extra == \"onnx-gpu\"",
+      "onnxruntime>=1.13.1; extra == \"onnx-cpu\""
+    ]
+  },
+  "wtpsplit-2.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f376e3c113d6af301889d72ac5b6eb390dfc808fad37a0959ccdb415e3f3dc0f",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "huggingface-hub",
+        "numpy",
+        "scikit-learn",
+        "tqdm",
+        "skops",
+        "pandas",
+        "cached-property",
+        "mosestokenizer",
+        "adapters"
+      ]
+    },
+    "original_requirements": [
+      "transformers>=4.22.2",
+      "huggingface-hub",
+      "numpy>=1.0",
+      "scikit-learn>=1",
+      "tqdm",
+      "skops",
+      "pandas>=1",
+      "cached_property",
+      "mosestokenizer",
+      "adapters>=1.0.1",
+      "onnxruntime-gpu>=1.13.1; extra == \"onnx-gpu\"",
+      "onnxruntime>=1.13.1; extra == \"onnx-cpu\""
+    ]
+  },
+  "wtpsplit-2.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed231553cc337455a70b563248072c3e75a0acd9ef64999723cf1a7d57ed6f04",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "huggingface-hub",
+        "numpy",
+        "scikit-learn",
+        "tqdm",
+        "skops",
+        "pandas",
+        "cached-property",
+        "mosestokenizer",
+        "adapters"
+      ]
+    },
+    "original_requirements": [
+      "transformers>=4.22.2",
+      "huggingface-hub",
+      "numpy>=1.0",
+      "scikit-learn>=1",
+      "tqdm",
+      "skops",
+      "pandas>=1",
+      "cached_property",
+      "mosestokenizer",
+      "adapters>=1.0.1",
+      "onnxruntime-gpu>=1.13.1; extra == \"onnx-gpu\"",
+      "onnxruntime>=1.13.1; extra == \"onnx-cpu\""
+    ]
+  },
+  "wtpsplit-2.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7e858d5e843a1b8a5eadcbdd2d2a917b2af52658e871ee0d1d511f6f3e72d775",
+    "dependencies": {
+      "required": [
+        "onnxruntime",
+        "transformers",
+        "huggingface-hub",
+        "numpy",
+        "scikit-learn",
+        "tqdm",
+        "skops",
+        "pandas",
+        "cached-property",
+        "mosestokenizer",
+        "adapters"
+      ]
+    },
+    "original_requirements": [
+      "onnxruntime>=1.13.1",
+      "transformers>=4.22.2",
+      "huggingface-hub",
+      "numpy>=1.0",
+      "scikit-learn>=1",
+      "tqdm",
+      "skops",
+      "pandas>=1",
+      "cached_property",
+      "mosestokenizer",
+      "adapters>=1.0.1"
+    ]
+  },
+  "wtpsplit-2.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4b4c8f55bac4af7a3230f728266250488b830f35ef078c76ba4273a72b2f4bc",
+    "dependencies": {
+      "required": [
+        "onnxruntime",
+        "transformers",
+        "huggingface-hub",
+        "numpy",
+        "scikit-learn",
+        "tqdm",
+        "skops",
+        "pandas",
+        "cached-property",
+        "mosestokenizer",
+        "adapters"
+      ]
+    },
+    "original_requirements": [
+      "onnxruntime>=1.13.1",
+      "transformers>=4.22.2",
+      "huggingface-hub==0.25.2",
+      "numpy>=1.0",
+      "scikit-learn>=1",
+      "tqdm",
+      "skops",
+      "pandas>=1",
+      "cached_property",
+      "mosestokenizer",
+      "adapters"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+# Package configuration for pathlib
+conda_forge = "pathlib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pathlib-1.0.1-py3-none-any.whl" },
+]

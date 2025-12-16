@@ -1,0 +1,11 @@
+# Package configuration for joblibspark
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "joblibspark-0.6.0-py3-none-any.whl" },
+  { filename = "joblibspark-0.5.3-py3-none-any.whl" },
+  { filename = "joblibspark-0.5.1-py3-none-any.whl" },
+  { filename = "joblibspark-0.5.0-py3-none-any.whl" },
+  { filename = "joblibspark-0.4.0-py3-none-any.whl" },
+]

@@ -1,0 +1,162 @@
+{
+  "elastic_transport-9.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f52b961e58e6b76d488993286907f61a6ddccbdae8e0135ce8d369227b6282d8",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "certifi",
+        "sniffio"
+      ]
+    },
+    "original_requirements": [
+      "urllib3<3,>=1.26.2",
+      "certifi",
+      "sniffio",
+      "pytest; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "pytest-mock; extra == \"develop\"",
+      "pytest-asyncio; extra == \"develop\"",
+      "pytest-httpbin; extra == \"develop\"",
+      "pytest-httpserver; extra == \"develop\"",
+      "trustme; extra == \"develop\"",
+      "requests; extra == \"develop\"",
+      "aiohttp; extra == \"develop\"",
+      "httpx; extra == \"develop\"",
+      "respx; extra == \"develop\"",
+      "opentelemetry-api; extra == \"develop\"",
+      "opentelemetry-sdk; extra == \"develop\"",
+      "orjson; extra == \"develop\"",
+      "anyio; extra == \"develop\"",
+      "trio; extra == \"develop\"",
+      "sphinx>2; extra == \"develop\"",
+      "furo; extra == \"develop\"",
+      "sphinx-autodoc-typehints; extra == \"develop\""
+    ]
+  },
+  "elastic_transport-9.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "369fa56874c74daae4ea10cbf40636d139f38f42bec0e006b9cd45a168ee7fce",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "certifi"
+      ]
+    },
+    "original_requirements": [
+      "urllib3<3,>=1.26.2",
+      "certifi",
+      "pytest; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "pytest-mock; extra == \"develop\"",
+      "pytest-asyncio; extra == \"develop\"",
+      "pytest-httpbin; extra == \"develop\"",
+      "pytest-httpserver; extra == \"develop\"",
+      "trustme; extra == \"develop\"",
+      "requests; extra == \"develop\"",
+      "aiohttp; extra == \"develop\"",
+      "httpx; extra == \"develop\"",
+      "respx; extra == \"develop\"",
+      "opentelemetry-api; extra == \"develop\"",
+      "opentelemetry-sdk; extra == \"develop\"",
+      "orjson; extra == \"develop\"",
+      "sphinx>2; extra == \"develop\"",
+      "furo; extra == \"develop\"",
+      "sphinx-autodoc-typehints; extra == \"develop\""
+    ]
+  },
+  "elastic_transport-8.17.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "192718f498f1d10c5e9aa8b9cf32aed405e469a7f0e9d6a8923431dbb2c59fb8",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "certifi"
+      ]
+    },
+    "original_requirements": [
+      "urllib3<3,>=1.26.2",
+      "certifi",
+      "pytest; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "pytest-mock; extra == \"develop\"",
+      "pytest-asyncio; extra == \"develop\"",
+      "pytest-httpserver; extra == \"develop\"",
+      "trustme; extra == \"develop\"",
+      "requests; extra == \"develop\"",
+      "aiohttp; extra == \"develop\"",
+      "httpx; extra == \"develop\"",
+      "respx; extra == \"develop\"",
+      "opentelemetry-api; extra == \"develop\"",
+      "opentelemetry-sdk; extra == \"develop\"",
+      "orjson; extra == \"develop\"",
+      "sphinx>2; extra == \"develop\"",
+      "furo; extra == \"develop\"",
+      "sphinx-autodoc-typehints; extra == \"develop\""
+    ]
+  },
+  "elastic_transport-8.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "59f553300866750e67a38828fede000576562a0e66930c641adb75249e0c95af",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "certifi"
+      ]
+    },
+    "original_requirements": [
+      "urllib3<3,>=1.26.2",
+      "certifi",
+      "pytest; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "pytest-mock; extra == \"develop\"",
+      "pytest-asyncio; extra == \"develop\"",
+      "pytest-httpserver; extra == \"develop\"",
+      "trustme; extra == \"develop\"",
+      "requests; extra == \"develop\"",
+      "aiohttp; extra == \"develop\"",
+      "httpx; extra == \"develop\"",
+      "httpcore<1.0.6; extra == \"develop\"",
+      "respx; extra == \"develop\"",
+      "opentelemetry-api; extra == \"develop\"",
+      "opentelemetry-sdk; extra == \"develop\"",
+      "orjson; extra == \"develop\"",
+      "sphinx>2; extra == \"develop\"",
+      "furo; extra == \"develop\"",
+      "sphinx-autodoc-typehints; extra == \"develop\""
+    ]
+  },
+  "elastic_transport-8.15.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b5e82ff1679d8c7705a03fd85c7f6ef85d6689721762d41228dd312e34f331fc",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "certifi",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "urllib3 <3,>=1.26.2",
+      "certifi",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "pytest-mock ; extra == 'develop'",
+      "pytest-asyncio ; extra == 'develop'",
+      "pytest-httpserver ; extra == 'develop'",
+      "trustme ; extra == 'develop'",
+      "requests ; extra == 'develop'",
+      "aiohttp ; extra == 'develop'",
+      "httpx ; extra == 'develop'",
+      "httpcore <1.0.6 ; extra == 'develop'",
+      "respx ; extra == 'develop'",
+      "opentelemetry-api ; extra == 'develop'",
+      "opentelemetry-sdk ; extra == 'develop'",
+      "orjson ; extra == 'develop'",
+      "sphinx >2 ; extra == 'develop'",
+      "furo ; extra == 'develop'",
+      "sphinx-autodoc-typehints ; extra == 'develop'"
+    ]
+  }
+}

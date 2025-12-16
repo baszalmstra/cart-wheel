@@ -1,0 +1,11 @@
+# Package configuration for aws-cdk-lib
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_cdk_lib-2.232.2-py3-none-any.whl" },
+  { filename = "aws_cdk_lib-2.232.1-py3-none-any.whl" },
+  { filename = "aws_cdk_lib-2.232.0-py3-none-any.whl" },
+  { filename = "aws_cdk_lib-2.231.0-py3-none-any.whl" },
+  { filename = "aws_cdk_lib-2.230.0-py3-none-any.whl" },
+]

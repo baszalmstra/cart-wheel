@@ -1,0 +1,11 @@
+# Package configuration for ibm-code-engine-sdk
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ibm_code_engine_sdk-4.21.2-py3-none-any.whl" },
+  { filename = "ibm_code_engine_sdk-4.21.1-py3-none-any.whl" },
+  { filename = "ibm_code_engine_sdk-4.20.1-py3-none-any.whl" },
+  { filename = "ibm_code_engine_sdk-4.14.1-py3-none-any.whl" },
+  { filename = "ibm_code_engine_sdk-4.9.0-py3-none-any.whl" },
+]

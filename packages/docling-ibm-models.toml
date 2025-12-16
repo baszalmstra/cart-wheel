@@ -1,0 +1,12 @@
+# Package configuration for docling-ibm-models
+conda_forge = "docling-ibm-models"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "docling_ibm_models-3.10.3-py3-none-any.whl" },
+  { filename = "docling_ibm_models-3.10.2-py3-none-any.whl" },
+  { filename = "docling_ibm_models-3.10.1-py3-none-any.whl" },
+  { filename = "docling_ibm_models-3.10.0-py3-none-any.whl" },
+  { filename = "docling_ibm_models-3.9.1-py3-none-any.whl" },
+]

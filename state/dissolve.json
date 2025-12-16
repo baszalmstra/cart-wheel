@@ -1,0 +1,55 @@
+{
+  "dissolve-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3cac889641e3e858f3f6c35b317004427ce807be56e29c48938cbf446f3b5bc",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pytest; extra == \"testing\"",
+      "pytest-asyncio; extra == \"testing\"",
+      "ruff==0.11.11; extra == \"dev\"",
+      "mypy==1.15.0; extra == \"dev\""
+    ]
+  },
+  "dissolve-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "88be228d861495f8113bd1bd3446263bf89ec2c5bdd0186723cc06b3de943886",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pytest; extra == \"testing\"",
+      "mypy==1.15.0; extra == \"dev\"",
+      "ruff==0.11.11; extra == \"dev\""
+    ]
+  },
+  "dissolve-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f7a44b70d730d8a1e9226e2b0946dc300e32af1c4ef5cab93cb11854f0b176a",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "ruff (==0.11.11) ; extra == 'dev'",
+      "mypy (==1.15.0) ; extra == 'dev'",
+      "pytest ; extra == 'testing'"
+    ]
+  },
+  "dissolve-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "98a136a642782a1a3bcf955498f581a0d13ff0f920ff843fa7fbf60b283a8670",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

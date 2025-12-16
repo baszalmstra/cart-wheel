@@ -1,0 +1,132 @@
+{
+  "spitch-1.41.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03a8fec301ec02ee2863c2ed52f435d751f2ef6902fde94ca3d94f4728c8c44f",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "cached-property",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "cached-property; python_version < '3.8'",
+      "distro<2,>=1.7.0",
+      "httpx<1,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.7",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'"
+    ]
+  },
+  "spitch-1.41.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "af8493f1e89b0e9ef978dd0c808c45db726f657885d20653139ebf7a8d838dc4",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "cached-property",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "cached-property; python_version < '3.8'",
+      "distro<2,>=1.7.0",
+      "httpx<0.28.0,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.7",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'"
+    ]
+  },
+  "spitch-1.41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f56a6555ebc2b7eaa4c87bea21c4cac1406f10e4db0c84f35c25d7a30ebbb25a",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "cached-property",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "cached-property; python_version < '3.8'",
+      "distro<2,>=1.7.0",
+      "httpx<0.28.0,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.7",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'"
+    ]
+  },
+  "spitch-1.40.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9054e1b5e82261ddb09cd8685bfd7a9b11b3b8bdf1c8c229581c7d9e8a00a5e3",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "cached-property",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "cached-property; python_version < '3.8'",
+      "distro<2,>=1.7.0",
+      "httpx<0.28.0,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.7",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.9; extra == 'aiohttp'"
+    ]
+  },
+  "spitch-1.40.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d5b812ba73ff2b9328ed076d47e1f47221af954cb232b8472862e98bc1a8ba98",
+    "dependencies": {
+      "required": [
+        "anyio",
+        "cached-property",
+        "distro",
+        "httpx",
+        "pydantic",
+        "sniffio",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "anyio<5,>=3.5.0",
+      "cached-property; python_version < '3.8'",
+      "distro<2,>=1.7.0",
+      "httpx<0.28.0,>=0.23.0",
+      "pydantic<3,>=1.9.0",
+      "sniffio",
+      "typing-extensions<5,>=4.7",
+      "aiohttp; extra == 'aiohttp'",
+      "httpx-aiohttp>=0.1.8; extra == 'aiohttp'"
+    ]
+  }
+}

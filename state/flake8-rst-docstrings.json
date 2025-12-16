@@ -1,0 +1,88 @@
+{
+  "flake8_rst_docstrings-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0fe9027af48ef84550bd641eedfbd58a35d182014d372dcb0321535e5face3a",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "restructuredtext-lint",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "flake8>=3",
+      "restructuredtext_lint",
+      "pygments",
+      "build; extra == \"develop\"",
+      "twine; extra == \"develop\""
+    ]
+  },
+  "flake8_rst_docstrings-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed831afca7ee47851e2162d5fa726b823b446fd46085c2164d7979ae5d9a96d7",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "restructuredtext-lint",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "flake8>=3",
+      "restructuredtext_lint",
+      "pygments",
+      "build; extra == \"develop\"",
+      "twine; extra == \"develop\""
+    ]
+  },
+  "flake8_rst_docstrings-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f8c3c6892ff402292651c31983a38da082480ad3ba253743de52989bdc84ca1c",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "restructuredtext-lint",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3)",
+      "restructuredtext-lint",
+      "pygments",
+      "build ; extra == 'develop'",
+      "twine ; extra == 'develop'"
+    ]
+  },
+  "flake8_rst_docstrings-0.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5d56075dce360bcc9c6775bfe7cb431aa395de600ca7e8d40580a28d50b2a803",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "restructuredtext-lint",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3.0.0)",
+      "restructuredtext-lint",
+      "pygments"
+    ]
+  },
+  "flake8_rst_docstrings-0.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7a9bd9008e763339b2e19dbece7767ac0887cfaeaf9a70b12eb4449d5df1849",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "restructuredtext-lint",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3.0.0)",
+      "restructuredtext-lint",
+      "pygments"
+    ]
+  }
+}

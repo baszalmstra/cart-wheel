@@ -1,0 +1,137 @@
+{
+  "treq-25.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e99d4e66cacaa1f0da82bb60b317d104c29dbd8ac0a75d7f657b348178d830f4",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "hyperlink",
+        "incremental",
+        "multipart",
+        "requests",
+        "twisted",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "attrs",
+      "hyperlink>=21.0.0",
+      "incremental>=24.7.2",
+      "multipart",
+      "requests>=2.1.0",
+      "twisted[tls]>=22.10.0",
+      "typing-extensions>=3.10.0",
+      "httpbin==0.7.0; extra == 'dev'",
+      "pep8; extra == 'dev'",
+      "pyflakes; extra == 'dev'",
+      "werkzeug==2.0.3; extra == 'dev'",
+      "sphinx; extra == 'docs'",
+      "sphinx-rtd-theme; extra == 'docs'"
+    ]
+  },
+  "treq-24.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eee4756fd9a857c77f180fd5202b52c518f2d3e2826dce28b89066c03bfc45d0",
+    "dependencies": {
+      "required": [
+        "incremental",
+        "requests",
+        "hyperlink",
+        "twisted",
+        "attrs",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "incremental",
+      "requests>=2.1.0",
+      "hyperlink>=21.0.0",
+      "Twisted[tls]>=22.10.0",
+      "attrs",
+      "typing-extensions>=3.10.0",
+      "pep8; extra == \"dev\"",
+      "pyflakes; extra == \"dev\"",
+      "httpbin==0.7.0; extra == \"dev\"",
+      "werkzeug==2.0.3; extra == \"dev\"",
+      "sphinx<7.0.0; extra == \"docs\""
+    ]
+  },
+  "treq-24.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11eaab6875f69776bf91f28f4436cf3d718bcbe2b99368319c5cd5db6fff9c59",
+    "dependencies": {
+      "required": [
+        "incremental",
+        "requests",
+        "hyperlink",
+        "twisted",
+        "attrs",
+        "typing-extensions",
+        "multipart"
+      ]
+    },
+    "original_requirements": [
+      "incremental",
+      "requests>=2.1.0",
+      "hyperlink>=21.0.0",
+      "Twisted[tls]>=22.10.0",
+      "attrs",
+      "typing-extensions>=3.10.0",
+      "multipart",
+      "pep8; extra == \"dev\"",
+      "pyflakes; extra == \"dev\"",
+      "httpbin==0.7.0; extra == \"dev\"",
+      "werkzeug==2.0.3; extra == \"dev\"",
+      "sphinx<7.0.0; extra == \"docs\""
+    ]
+  },
+  "treq-23.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f494c2218d61cab2cabbee37cd6606d3eea9d16cf14190323095c95d22c467e9",
+    "dependencies": {
+      "required": [
+        "incremental",
+        "requests",
+        "hyperlink",
+        "twisted",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "incremental",
+      "requests >=2.1.0",
+      "hyperlink >=21.0.0",
+      "Twisted[tls] >=22.10.0",
+      "attrs",
+      "pep8 ; extra == 'dev'",
+      "pyflakes ; extra == 'dev'",
+      "httpbin ==0.7.0 ; extra == 'dev'",
+      "werkzeug ==2.0.3 ; extra == 'dev'",
+      "sphinx <7.0.0 ; extra == 'docs'"
+    ]
+  },
+  "treq-22.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "27d95b07c5c14be3e7b280416139b036087617ad5595be913b1f9b3ce981b9b2",
+    "dependencies": {
+      "required": [
+        "incremental",
+        "requests",
+        "hyperlink",
+        "twisted",
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "incremental",
+      "requests (>=2.1.0)",
+      "hyperlink (>=21.0.0)",
+      "Twisted[tls] (>=18.7.0)",
+      "attrs",
+      "pep8 ; extra == 'dev'",
+      "pyflakes ; extra == 'dev'",
+      "httpbin (==0.5.0) ; extra == 'dev'",
+      "sphinx (>=1.4.8) ; extra == 'docs'"
+    ]
+  }
+}

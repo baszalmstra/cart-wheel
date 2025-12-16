@@ -1,0 +1,80 @@
+{
+  "pytest_services-2.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8124a8d9b666aaadde81ec94a01168638e7efe4a032a6948994885d049c81146",
+    "dependencies": {
+      "required": [
+        "requests",
+        "psutil",
+        "pytest",
+        "zc.lockfile"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "psutil",
+      "pytest",
+      "zc.lockfile>=2.0"
+    ]
+  },
+  "pytest_services-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "078ca7e77435484c12d9c8e7164fecdaf706d2c09fd9d26683d87ff275207115",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "requests",
+        "psutil",
+        "pytest",
+        "zc.lockfile"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "requests",
+      "psutil",
+      "pytest",
+      "zc.lockfile (>=2.0)"
+    ]
+  },
+  "pytest_services-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0eadae11a28b3d6f57f1b224eb7178ce3c7f83552a454abe2b4669b0c5b0273a",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "requests",
+        "psutil",
+        "pytest",
+        "zc.lockfile"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "requests",
+      "psutil",
+      "pytest",
+      "zc.lockfile (>=2.0)"
+    ]
+  },
+  "pytest_services-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0db63a2b7e2021c17bf6dfdec4200c961f86700fea50f22fe7530c00d09dd780",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "requests",
+        "psutil",
+        "pytest",
+        "zc.lockfile"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "requests",
+      "psutil",
+      "pytest",
+      "zc.lockfile (>=2.0)"
+    ]
+  }
+}

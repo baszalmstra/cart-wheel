@@ -1,0 +1,12 @@
+# Package configuration for sounddevice
+conda_forge = "python-sounddevice"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sounddevice-0.5.3-py3-none-any.whl" },
+  { filename = "sounddevice-0.5.2-py3-none-any.whl" },
+  { filename = "sounddevice-0.5.1-py3-none-any.whl" },
+  { filename = "sounddevice-0.5.0-py3-none-any.whl" },
+  { filename = "sounddevice-0.4.7-py3-none-any.whl" },
+]

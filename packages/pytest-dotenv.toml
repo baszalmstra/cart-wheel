@@ -1,0 +1,12 @@
+# Package configuration for pytest-dotenv
+conda_forge = "pytest-dotenv"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_dotenv-0.5.2-py3-none-any.whl" },
+  { filename = "pytest_dotenv-0.5.1-py3-none-any.whl" },
+  { filename = "pytest_dotenv-0.5.0-py3-none-any.whl" },
+  { filename = "pytest_dotenv-0.4.0-py3-none-any.whl" },
+  { filename = "pytest_dotenv-0.3.1-py3-none-any.whl" },
+]

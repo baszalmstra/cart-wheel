@@ -1,0 +1,28 @@
+{
+  "pytest_fixture_config-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2324a4381a57afd2ca03188eed3fcb0faf38311893f9fb0d11a92003c332050b",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "six ; extra == 'tests'"
+    ]
+  },
+  "pytest_fixture_config-1.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a0e35e239e70fa12614bbe9ca51d3238fbeb89519deb80cd365b487665a666b0",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest",
+      "six ; extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for svg.py
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "svg_py-1.9.2-py3-none-any.whl" },
+  { filename = "svg_py-1.9.1-py3-none-any.whl" },
+  { filename = "svg_py-1.9.0-py3-none-any.whl" },
+  { filename = "svg_py-1.8.0-py3-none-any.whl" },
+  { filename = "svg_py-1.7.0-py3-none-any.whl" },
+]

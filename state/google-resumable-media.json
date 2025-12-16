@@ -1,0 +1,77 @@
+{
+  "google_resumable_media-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd14a116af303845a8d932ddae161a26e86cc229645bc98b39f026f9b1717582",
+    "dependencies": {
+      "required": [
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "google-crc32c<2.0.0,>=1.0.0",
+      "requests<3.0.0,>=2.18.0; extra == \"requests\"",
+      "aiohttp<4.0.0,>=3.6.2; extra == \"aiohttp\"",
+      "google-auth<2.0.0,>=1.22.0; extra == \"aiohttp\""
+    ]
+  },
+  "google_resumable_media-2.7.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ce7551e9fe6d99e9a126101d2536612bb73486721951e9562fee0f90c6ababa",
+    "dependencies": {
+      "required": [
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "google-crc32c <2.0dev,>=1.0",
+      "aiohttp <4.0.0dev,>=3.6.2 ; extra == 'aiohttp'",
+      "google-auth <2.0dev,>=1.22.0 ; extra == 'aiohttp'",
+      "requests <3.0.0dev,>=2.18.0 ; extra == 'requests'"
+    ]
+  },
+  "google_resumable_media-2.7.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "103ebc4ba331ab1bfdac0250f8033627a2cd7cde09e7ccff9181e31ba4315b2c",
+    "dependencies": {
+      "required": [
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "google-crc32c <2.0dev,>=1.0",
+      "aiohttp <4.0.0dev,>=3.6.2 ; extra == 'aiohttp'",
+      "google-auth <2.0dev,>=1.22.0 ; extra == 'aiohttp'",
+      "requests <3.0.0dev,>=2.18.0 ; extra == 'requests'"
+    ]
+  },
+  "google_resumable_media-2.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79543cfe433b63fd81c0844b7803aba1bb8950b47bedf7d980c38fa123937e08",
+    "dependencies": {
+      "required": [
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "google-crc32c <2.0dev,>=1.0",
+      "aiohttp <4.0.0dev,>=3.6.2 ; extra == 'aiohttp'",
+      "google-auth <2.0dev,>=1.22.0 ; extra == 'aiohttp'",
+      "requests <3.0.0dev,>=2.18.0 ; extra == 'requests'"
+    ]
+  },
+  "google_resumable_media-2.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc03d344381970f79eebb632a3c18bb1828593a2dc5572b5f90115ef7d11e81b",
+    "dependencies": {
+      "required": [
+        "google-crc32c"
+      ]
+    },
+    "original_requirements": [
+      "google-crc32c (<2.0dev,>=1.0)",
+      "aiohttp (<4.0.0dev,>=3.6.2) ; extra == 'aiohttp'",
+      "google-auth (<2.0dev,>=1.22.0) ; extra == 'aiohttp'",
+      "requests (<3.0.0dev,>=2.18.0) ; extra == 'requests'"
+    ]
+  }
+}

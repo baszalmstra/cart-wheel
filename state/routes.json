@@ -1,0 +1,66 @@
+{
+  "Routes-2.5.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fab5a042a3a87778eb271d053ca2723cadf43c95b471532a191a48539cb606ea",
+    "dependencies": {
+      "required": [
+        "six",
+        "repoze.lru"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "repoze.lru (>=0.3)",
+      "Sphinx ; extra == 'docs'",
+      "webob ; extra == 'docs'",
+      "webob ; extra == 'middleware'"
+    ]
+  },
+  "Routes-2.5.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60544f0f0220a0899c704cc5d1eb49a7c32eb3f8b60c1a24817af984b1be1ed7",
+    "dependencies": {
+      "required": [
+        "repoze.lru",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "repoze.lru (>=0.3)",
+      "six",
+      "Sphinx ; extra == 'docs'",
+      "webob ; extra == 'docs'",
+      "webob ; extra == 'middleware'"
+    ]
+  },
+  "Routes-2.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d64b8ae22bef127d856afd9266a3e4cfc9e0dda0e120195e38268a95d20de135",
+    "dependencies": {
+      "required": [
+        "repoze.lru",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "repoze.lru (>=0.3)",
+      "six",
+      "webob; extra == 'middleware'"
+    ]
+  },
+  "Routes-2.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8854ba8c2e18cf731ec9ef1bd78dee73dd24f3aeac336b5143eefdf8867ebe8a",
+    "dependencies": {
+      "required": [
+        "repoze.lru",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "repoze.lru (>=0.3)",
+      "six",
+      "webob; extra == 'middleware'"
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "apache_airflow_providers_sftp-5.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "278e3bd729c5473225ceafffdb9368fca8adfd4332295d27d84355cca2692bdc",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-ssh",
+        "apache-airflow-providers-common-compat",
+        "paramiko",
+        "asyncssh"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-ssh>=4.0.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "paramiko>=2.9.0,<4.0.0",
+      "asyncssh>=2.12.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_sftp-5.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b9a69c981ad83704f4f38effed641ab5449fdb95da4ec649006e4fb85271b1d",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-ssh",
+        "apache-airflow-providers-common-compat",
+        "paramiko",
+        "asyncssh"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-ssh>=4.0.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "paramiko>=2.9.0,<4.0.0",
+      "asyncssh>=2.12.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_sftp-5.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5166fb3050a3a9103ce9af486a61459658127db5f60f0a54cae7d9d3c40a2af3",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-ssh",
+        "apache-airflow-providers-common-compat",
+        "paramiko",
+        "asyncssh"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-ssh>=4.0.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "paramiko>=2.9.0,<4.0.0",
+      "asyncssh>=2.12.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_sftp-5.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6fbc669c34a5f3b4e5e7107cf5f33cc2ca14299f78334adf840f73b147c592c1",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-ssh",
+        "paramiko",
+        "asyncssh"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-ssh>=4.0.0",
+      "paramiko>=2.9.0,<4.0.0",
+      "asyncssh>=2.12.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_sftp-5.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad0464a2a0ddc718944ea78f3ba472a37775d70da7c025febbae5677376982ba",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-ssh",
+        "paramiko",
+        "asyncssh"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-ssh>=4.0.0",
+      "paramiko>=2.9.0,<4.0.0",
+      "asyncssh>=2.12.0",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\""
+    ]
+  }
+}

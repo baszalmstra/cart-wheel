@@ -1,0 +1,11 @@
+# Package configuration for rst.linker
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rst.linker-2.6.0-py3-none-any.whl" },
+  { filename = "rst.linker-2.5.0-py3-none-any.whl" },
+  { filename = "rst.linker-2.4.0-py3-none-any.whl" },
+  { filename = "rst.linker-2.3.1-py3-none-any.whl" },
+  { filename = "rst.linker-2.3.0-py3-none-any.whl" },
+]

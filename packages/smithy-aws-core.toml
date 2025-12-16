@@ -1,0 +1,11 @@
+# Package configuration for smithy-aws-core
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "smithy_aws_core-0.2.0-py3-none-any.whl" },
+  { filename = "smithy_aws_core-0.1.1-py3-none-any.whl" },
+  { filename = "smithy_aws_core-0.1.0-py3-none-any.whl" },
+  { filename = "smithy_aws_core-0.0.3-py3-none-any.whl" },
+  { filename = "smithy_aws_core-0.0.2-py3-none-any.whl" },
+]

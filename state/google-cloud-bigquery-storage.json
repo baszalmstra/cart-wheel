@@ -1,0 +1,134 @@
+{
+  "google_cloud_bigquery_storage-2.35.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f2e3a08882155de1e9ec53c71c5784eb1f25dc6514c535f5796c3c9eeac17d17",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "grpcio",
+        "grpcio",
+        "proto-plus",
+        "proto-plus",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "grpcio<2.0.0,>=1.33.2",
+      "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "pandas>=0.21.1; extra == \"pandas\"",
+      "importlib-metadata>=1.0.0; python_version < \"3.8\" and extra == \"pandas\"",
+      "fastavro>=0.21.2; extra == \"fastavro\"",
+      "pyarrow>=0.15.0; extra == \"pyarrow\""
+    ]
+  },
+  "google_cloud_bigquery_storage-2.34.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c1b55f2a33bfb0730cf5a2f7e4f0cc6a7166d9026142ab78c2ffd5130884c46",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "grpcio",
+        "grpcio",
+        "proto-plus",
+        "proto-plus",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "grpcio<2.0.0,>=1.33.2",
+      "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\"",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "pandas>=0.21.1; extra == \"pandas\"",
+      "importlib-metadata>=1.0.0; python_version < \"3.8\" and extra == \"pandas\"",
+      "fastavro>=0.21.2; extra == \"fastavro\"",
+      "pyarrow>=0.15.0; extra == \"pyarrow\""
+    ]
+  },
+  "google_cloud_bigquery_storage-2.33.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24952aba0d69acc4d6bfbdc7a09dddbb728496b1780bd224f1056361a1b51044",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "proto-plus",
+        "proto-plus",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.1",
+      "google-auth!=2.24.0,!=2.25.0,<3.0.0,>=2.14.1",
+      "proto-plus<2.0.0,>=1.22.3",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "protobuf!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "pandas>=0.21.1; extra == \"pandas\"",
+      "importlib-metadata>=1.0.0; python_version < \"3.8\" and extra == \"pandas\"",
+      "fastavro>=0.21.2; extra == \"fastavro\"",
+      "pyarrow>=0.15.0; extra == \"pyarrow\""
+    ]
+  },
+  "google_cloud_bigquery_storage-2.33.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "760143eb6840145b390334fcd310c523780c5ac2b97920547ac0b82b455f6b1b",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "proto-plus",
+        "proto-plus",
+        "proto-plus",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.0",
+      "google-auth<3.0.0,>=2.14.1",
+      "proto-plus<2.0.0,>=1.22.0",
+      "proto-plus<2.0.0,>=1.22.2; python_version >= \"3.11\"",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "protobuf!=3.20.0,!=3.20.1,!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "pandas>=0.21.1; extra == \"pandas\"",
+      "importlib-metadata>=1.0.0; python_version < \"3.8\" and extra == \"pandas\"",
+      "fastavro>=0.21.2; extra == \"fastavro\"",
+      "pyarrow>=0.15.0; extra == \"pyarrow\""
+    ]
+  },
+  "google_cloud_bigquery_storage-2.32.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d71c2be8ae63fae6bbe6b0364477e17c11e7b362c61d9af6d4f7f19511d95829",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "proto-plus",
+        "protobuf",
+        "proto-plus",
+        "proto-plus"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0,>=1.34.0",
+      "google-auth<3.0.0,>=2.14.1",
+      "proto-plus<2.0.0,>=1.22.0",
+      "protobuf!=3.20.0,!=3.20.1,!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "proto-plus<2.0.0,>=1.22.2; python_version >= \"3.11\"",
+      "proto-plus<2.0.0,>=1.25.0; python_version >= \"3.13\"",
+      "fastavro>=0.21.2; extra == \"fastavro\"",
+      "pandas>=0.21.1; extra == \"pandas\"",
+      "importlib-metadata>=1.0.0; python_version < \"3.8\" and extra == \"pandas\"",
+      "pyarrow>=0.15.0; extra == \"pyarrow\""
+    ]
+  }
+}

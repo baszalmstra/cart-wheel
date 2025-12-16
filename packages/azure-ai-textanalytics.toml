@@ -1,0 +1,11 @@
+# Package configuration for azure-ai-textanalytics
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_ai_textanalytics-5.3.0-py3-none-any.whl" },
+  { filename = "azure_ai_textanalytics-5.2.1-py3-none-any.whl" },
+  { filename = "azure_ai_textanalytics-5.2.0-py3-none-any.whl" },
+  { filename = "azure_ai_textanalytics-5.1.0-py2.py3-none-any.whl" },
+  { filename = "azure_ai_textanalytics-5.0.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,130 @@
+{
+  "ddgs-9.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60a1d5d4b72cf23991495ea6b87d9389640d5fb3452224ecaad8e2ff17b93466",
+    "dependencies": {
+      "required": [
+        "click",
+        "primp",
+        "lxml",
+        "httpx",
+        "fake-useragent"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.1.8",
+      "primp>=0.15.0",
+      "lxml>=4.9.4",
+      "httpx[brotli,http2,socks]>=0.28.1",
+      "fake-useragent>=2.2.0",
+      "mypy>=1.17.1; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest>=8.4.1; extra == \"dev\"",
+      "pytest-dependency>=0.6.0; extra == \"dev\"",
+      "ruff>=0.13.0; extra == \"dev\"",
+      "lxml-stubs; extra == \"dev\"",
+      "types-Pygments; extra == \"dev\"",
+      "types-pexpect; extra == \"dev\""
+    ]
+  },
+  "ddgs-9.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5fd2bb828a6e3a90bd886109bfdca1b2e62d7932f617e45cda6a5864fcdfcb04",
+    "dependencies": {
+      "required": [
+        "click",
+        "primp",
+        "lxml",
+        "httpx",
+        "fake-useragent"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.1.8",
+      "primp>=0.15.0",
+      "lxml>=4.9.4",
+      "httpx[brotli,http2,socks]>=0.28.1",
+      "fake-useragent>=2.2.0",
+      "mypy>=1.17.1; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest>=8.4.1; extra == \"dev\"",
+      "pytest-dependency>=0.6.0; extra == \"dev\"",
+      "ruff>=0.13.0; extra == \"dev\"",
+      "lxml-stubs; extra == \"dev\"",
+      "types-Pygments; extra == \"dev\"",
+      "types-pexpect; extra == \"dev\""
+    ]
+  },
+  "ddgs-9.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bba5701462bc9c8eac69fdd2edf7e833e74741b2bae3593489e470e125e9601d",
+    "dependencies": {
+      "required": [
+        "click",
+        "primp",
+        "lxml",
+        "httpx",
+        "fake-useragent"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.1.8",
+      "primp>=0.15.0",
+      "lxml>=4.9.4",
+      "httpx[brotli,http2,socks]>=0.28.1",
+      "fake-useragent>=2.2.0",
+      "mypy>=1.17.1; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest>=8.4.1; extra == \"dev\"",
+      "pytest-dependency>=0.6.0; extra == \"dev\"",
+      "ruff>=0.13.0; extra == \"dev\"",
+      "lxml-stubs; extra == \"dev\"",
+      "types-Pygments; extra == \"dev\"",
+      "types-pexpect; extra == \"dev\""
+    ]
+  },
+  "ddgs-9.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcdf5cdbd66050333dd1283948b15bbeaa8f8efe71067ad71880fb952369867a",
+    "dependencies": {
+      "required": [
+        "click",
+        "primp",
+        "lxml",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.1.8",
+      "primp>=0.15.0",
+      "lxml>=4.9.4",
+      "httpx[brotli,http2,socks]>=0.28.1",
+      "mypy>=1.17.1; extra == \"dev\"",
+      "pytest>=8.4.1; extra == \"dev\"",
+      "pytest-dependency>=0.6.0; extra == \"dev\"",
+      "ruff>=0.13.0; extra == \"dev\""
+    ]
+  },
+  "ddgs-9.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63a28abc463bf2bbe33c4c58f6f864288b003c0d75a9129d31357d2c6f8d7707",
+    "dependencies": {
+      "required": [
+        "click",
+        "primp",
+        "lxml",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.1.8",
+      "primp>=0.15.0",
+      "lxml>=6.0.0",
+      "httpx[brotli,http2,socks]>=0.28.1",
+      "mypy>=1.17.1; extra == \"dev\"",
+      "pytest>=8.4.1; extra == \"dev\"",
+      "pytest-dependency>=0.6.0; extra == \"dev\"",
+      "ruff>=0.13.0; extra == \"dev\""
+    ]
+  }
+}

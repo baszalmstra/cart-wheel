@@ -1,0 +1,102 @@
+{
+  "aws_cdk.aws_rekognition-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd22c7fcecb6011e4c566ccb39c635a3d4afd85dcb9a2cf8ef865d017862246a",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_rekognition-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94db98fab966a1c55e83d48c6d0f0279ae48df3dc42ba0482a02a092f33b0795",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_rekognition-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "99679c424e2b0a19bb3b5f9f4155b9d962dc124b31ec77fa51a10dccfba19017",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_rekognition-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a5a305e1e305bb7eaf0cfe1b1f2147058c4c091bd8183622925dee20a264040",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_rekognition-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6251d0c7263159813066c0ec2a83324f4fcd225146e4e7ac4a96047ea0846eed",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

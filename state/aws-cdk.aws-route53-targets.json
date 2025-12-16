@@ -1,0 +1,212 @@
+{
+  "aws_cdk.aws_route53_targets-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03b80d91c0c126b9ad5bd1d7932cba67dce8a51f5b712253db832ccd37887d6d",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-apigateway",
+        "aws-cdk.aws-cloudfront",
+        "aws-cdk.aws-cognito",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-elasticloadbalancing",
+        "aws-cdk.aws-elasticloadbalancingv2",
+        "aws-cdk.aws-globalaccelerator",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-route53",
+        "aws-cdk.aws-s3",
+        "aws-cdk.core",
+        "aws-cdk.region-info",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-apigateway (==1.204.0)",
+      "aws-cdk.aws-cloudfront (==1.204.0)",
+      "aws-cdk.aws-cognito (==1.204.0)",
+      "aws-cdk.aws-ec2 (==1.204.0)",
+      "aws-cdk.aws-elasticloadbalancing (==1.204.0)",
+      "aws-cdk.aws-elasticloadbalancingv2 (==1.204.0)",
+      "aws-cdk.aws-globalaccelerator (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-route53 (==1.204.0)",
+      "aws-cdk.aws-s3 (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "aws-cdk.region-info (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_route53_targets-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9fa04c7ba0b40d0417670250c9f965ebd364384cfadacd63ef66329a208f8b57",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-apigateway",
+        "aws-cdk.aws-cloudfront",
+        "aws-cdk.aws-cognito",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-elasticloadbalancing",
+        "aws-cdk.aws-elasticloadbalancingv2",
+        "aws-cdk.aws-globalaccelerator",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-route53",
+        "aws-cdk.aws-s3",
+        "aws-cdk.core",
+        "aws-cdk.region-info",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-apigateway (==1.203.0)",
+      "aws-cdk.aws-cloudfront (==1.203.0)",
+      "aws-cdk.aws-cognito (==1.203.0)",
+      "aws-cdk.aws-ec2 (==1.203.0)",
+      "aws-cdk.aws-elasticloadbalancing (==1.203.0)",
+      "aws-cdk.aws-elasticloadbalancingv2 (==1.203.0)",
+      "aws-cdk.aws-globalaccelerator (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-route53 (==1.203.0)",
+      "aws-cdk.aws-s3 (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "aws-cdk.region-info (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_route53_targets-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f0062b4c292449e1bdf48d4b18890ba874219c32632fe6fdf1dafc55caa0ebe",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-apigateway",
+        "aws-cdk.aws-cloudfront",
+        "aws-cdk.aws-cognito",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-elasticloadbalancing",
+        "aws-cdk.aws-elasticloadbalancingv2",
+        "aws-cdk.aws-globalaccelerator",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-route53",
+        "aws-cdk.aws-s3",
+        "aws-cdk.core",
+        "aws-cdk.region-info",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-apigateway (==1.202.0)",
+      "aws-cdk.aws-cloudfront (==1.202.0)",
+      "aws-cdk.aws-cognito (==1.202.0)",
+      "aws-cdk.aws-ec2 (==1.202.0)",
+      "aws-cdk.aws-elasticloadbalancing (==1.202.0)",
+      "aws-cdk.aws-elasticloadbalancingv2 (==1.202.0)",
+      "aws-cdk.aws-globalaccelerator (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-route53 (==1.202.0)",
+      "aws-cdk.aws-s3 (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "aws-cdk.region-info (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_route53_targets-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "207ca310ffc25474c20259899152d43742cb896f70e9c07844878b16a7b895c4",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-apigateway",
+        "aws-cdk.aws-cloudfront",
+        "aws-cdk.aws-cognito",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-elasticloadbalancing",
+        "aws-cdk.aws-elasticloadbalancingv2",
+        "aws-cdk.aws-globalaccelerator",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-route53",
+        "aws-cdk.aws-s3",
+        "aws-cdk.core",
+        "aws-cdk.region-info",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-apigateway (==1.201.0)",
+      "aws-cdk.aws-cloudfront (==1.201.0)",
+      "aws-cdk.aws-cognito (==1.201.0)",
+      "aws-cdk.aws-ec2 (==1.201.0)",
+      "aws-cdk.aws-elasticloadbalancing (==1.201.0)",
+      "aws-cdk.aws-elasticloadbalancingv2 (==1.201.0)",
+      "aws-cdk.aws-globalaccelerator (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-route53 (==1.201.0)",
+      "aws-cdk.aws-s3 (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "aws-cdk.region-info (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_route53_targets-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ad050756da2a6d8487d11d0f3d7bcee48bc4dff106f44e4babe05509c8493f2",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-apigateway",
+        "aws-cdk.aws-cloudfront",
+        "aws-cdk.aws-cognito",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-elasticloadbalancing",
+        "aws-cdk.aws-elasticloadbalancingv2",
+        "aws-cdk.aws-globalaccelerator",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-route53",
+        "aws-cdk.aws-s3",
+        "aws-cdk.core",
+        "aws-cdk.region-info",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-apigateway (==1.200.0)",
+      "aws-cdk.aws-cloudfront (==1.200.0)",
+      "aws-cdk.aws-cognito (==1.200.0)",
+      "aws-cdk.aws-ec2 (==1.200.0)",
+      "aws-cdk.aws-elasticloadbalancing (==1.200.0)",
+      "aws-cdk.aws-elasticloadbalancingv2 (==1.200.0)",
+      "aws-cdk.aws-globalaccelerator (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-route53 (==1.200.0)",
+      "aws-cdk.aws-s3 (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "aws-cdk.region-info (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

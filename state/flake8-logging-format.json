@@ -1,0 +1,28 @@
+{
+  "flake8_logging_format-2024.24.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d93c2107354b10a05b1a0d8ccd3a9bfb793aee108007765114c958a7541d674",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "flake8 ; extra == 'lint'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "PyHamcrest ; extra == 'test'"
+    ]
+  },
+  "flake8_logging_format-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2817f44352e8bfa98a555ef1c529ddecd09acd6aea82ade0c1ea314cee458178",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "flake8 ; extra == 'lint'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "PyHamcrest ; extra == 'test'"
+    ]
+  }
+}

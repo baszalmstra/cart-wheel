@@ -1,0 +1,80 @@
+{
+  "flask_session-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5dae6e9ddab334f8dc4dea4305af37851f4e7dc0f484caf3351184001195e3b7",
+    "dependencies": {
+      "required": [
+        "flask",
+        "msgspec",
+        "cachelib"
+      ]
+    },
+    "original_requirements": [
+      "flask>=2.2",
+      "msgspec>=0.18.6",
+      "cachelib",
+      "Flask-Session[cachelib, memcached, mongodb, redis, sqlalchemy] ; extra == \"all\"",
+      "cachelib>=0.10.2 ; extra == \"cachelib\"",
+      "pymemcache ; extra == \"memcached\"",
+      "pymongo>=4.6.2 ; extra == \"mongodb\"",
+      "redis>=5.0.3 ; extra == \"redis\"",
+      "flask-sqlalchemy>=3.0.5 ; extra == \"sqlalchemy\""
+    ]
+  },
+  "flask_session-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1d4a1ce560aa82c06f25b46a105a13e9cd43776987d6ae7d9fea2cbfc7b4bc4",
+    "dependencies": {
+      "required": [
+        "flask",
+        "msgspec"
+      ]
+    },
+    "original_requirements": [
+      "flask>=2.2",
+      "msgspec>=0.18.6"
+    ]
+  },
+  "flask_session-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd77b6c5916021a540a8c188731c529596ad9ea382c07a24f9654355fa40c9ad",
+    "dependencies": {
+      "required": [
+        "flask",
+        "cachelib"
+      ]
+    },
+    "original_requirements": [
+      "flask>=2.2",
+      "cachelib"
+    ]
+  },
+  "flask_session-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1619bcbc16f04f64e90f8e0b17145ba5c9700090bb1294e889956c1282d58631",
+    "dependencies": {
+      "required": [
+        "flask",
+        "cachelib"
+      ]
+    },
+    "original_requirements": [
+      "flask>=2.2",
+      "cachelib"
+    ]
+  },
+  "Flask_Session-0.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e87c9daef93336e75dbf114f5fdec92f67bac21cef541b8d37173461b6174eca",
+    "dependencies": {
+      "required": [
+        "flask",
+        "cachelib"
+      ]
+    },
+    "original_requirements": [
+      "Flask (<2.3,>=0.8)",
+      "cachelib"
+    ]
+  }
+}

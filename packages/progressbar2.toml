@@ -1,0 +1,12 @@
+# Package configuration for progressbar2
+conda_forge = "progressbar2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "progressbar2-4.5.0-py3-none-any.whl" },
+  { filename = "progressbar2-4.4.2-py3-none-any.whl" },
+  { filename = "progressbar2-4.4.1-py3-none-any.whl" },
+  { filename = "progressbar2-4.4.0-py3-none-any.whl" },
+  { filename = "progressbar2-4.3.2-py3-none-any.whl" },
+]

@@ -1,0 +1,28 @@
+{
+  "log_symbols-0.0.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4952106ff8b605ab7d5081dd2c7e6ca7374584eff7086f499c06edd1ce56dcca",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "colorama (>=0.3.9)",
+      "enum34 (==1.1.6) ; python_version < \"3.4\""
+    ]
+  },
+  "log_symbols-0.0.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2431e5fed65ff02d151f17a598c19ef91a2a381cf080d0be0fd6573fa416c5e5",
+    "dependencies": {
+      "required": [
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "colorama (==0.3.9)"
+    ]
+  }
+}

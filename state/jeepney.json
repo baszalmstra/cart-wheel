@@ -1,0 +1,82 @@
+{
+  "jeepney-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "97e5714520c16fc0a45695e5365a2e11b81ea79bba796e26f9f1d178cb182683",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == \"test\"",
+      "pytest-trio ; extra == \"test\"",
+      "pytest-asyncio >=0.17 ; extra == \"test\"",
+      "testpath ; extra == \"test\"",
+      "trio ; extra == \"test\"",
+      "async-timeout ; extra == \"test\" and ( python_version < '3.11')",
+      "trio ; extra == \"trio\""
+    ]
+  },
+  "jeepney-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c0a454ad016ca575060802ee4d590dd912e35c122fa04e70306de3d076cce755",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == \"test\"",
+      "pytest-trio ; extra == \"test\"",
+      "pytest-asyncio >=0.17 ; extra == \"test\"",
+      "testpath ; extra == \"test\"",
+      "trio ; extra == \"test\"",
+      "async-timeout ; extra == \"test\"",
+      "trio ; extra == \"trio\"",
+      "async_generator ; extra == \"trio\" and ( python_version == '3.6')"
+    ]
+  },
+  "jeepney-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b5a0ea5c0e7b166b2f5895b91a08c14de8915afda4407fb5022a195224958ac",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == \"test\"",
+      "pytest-trio ; extra == \"test\"",
+      "pytest-asyncio ; extra == \"test\"",
+      "testpath ; extra == \"test\"",
+      "trio ; extra == \"test\"",
+      "async-timeout ; extra == \"test\"",
+      "trio ; extra == \"trio\"",
+      "async_generator ; extra == \"trio\" and ( python_version == '3.6')"
+    ]
+  },
+  "jeepney-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "71335e7a4e93817982f473f3507bffc2eff7a544119ab9b73e089c8ba1409ba3",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == \"test\"",
+      "pytest-trio ; extra == \"test\"",
+      "pytest-asyncio ; extra == \"test\"",
+      "testpath ; extra == \"test\"",
+      "trio ; extra == \"test\"",
+      "trio ; extra == \"trio\"",
+      "async_generator ; extra == \"trio\" and ( python_version == '3.6')"
+    ]
+  },
+  "jeepney-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aec56c0eb1691a841795111e184e13cad504f7703b9a64f63020816afa79a8ae",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == \"test\"",
+      "pytest-trio ; extra == \"test\"",
+      "pytest-asyncio ; extra == \"test\"",
+      "testpath ; extra == \"test\"",
+      "trio ; extra == \"test\""
+    ]
+  }
+}

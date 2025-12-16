@@ -1,0 +1,11 @@
+# Package configuration for pytest-enabler
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_enabler-3.4.0-py3-none-any.whl" },
+  { filename = "pytest_enabler-3.3.0-py3-none-any.whl" },
+  { filename = "pytest_enabler-3.2.0-py3-none-any.whl" },
+  { filename = "pytest_enabler-3.1.1-py3-none-any.whl" },
+  { filename = "pytest_enabler-3.1.0-py3-none-any.whl" },
+]

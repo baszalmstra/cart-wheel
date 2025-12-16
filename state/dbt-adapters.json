@@ -1,0 +1,122 @@
+{
+  "dbt_adapters-1.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "220368380ada10ed0f984f572595fb9dfca639530fc6c10e5683c8ff9a75a713",
+    "dependencies": {
+      "required": [
+        "agate",
+        "dbt-common",
+        "dbt-protos",
+        "mashumaro",
+        "protobuf",
+        "pytz",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "agate<2.0,>=1.0",
+      "dbt-common<2.0,>=1.36",
+      "dbt-protos<2.0,>=1.0.291",
+      "mashumaro[msgpack]<3.15,>=3.9",
+      "protobuf<7.0,>=6.0",
+      "pytz>=2015.7",
+      "typing-extensions<5.0,>=4.0"
+    ]
+  },
+  "dbt_adapters-1.20.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d83ab3c7a493232990ab40199ba7fa1a6695d631d7a891d6303d57809be0bbb3",
+    "dependencies": {
+      "required": [
+        "agate",
+        "dbt-common",
+        "dbt-protos",
+        "mashumaro",
+        "protobuf",
+        "pytz",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "agate<2.0,>=1.0",
+      "dbt-common<2.0,>=1.36",
+      "dbt-protos<2.0,>=1.0.291",
+      "mashumaro[msgpack]<3.15,>=3.9",
+      "protobuf<7.0,>=6.0",
+      "pytz>=2015.7",
+      "typing-extensions<5.0,>=4.0"
+    ]
+  },
+  "dbt_adapters-1.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd084458f76d70c5b77da0fece0673b0767619fc1df213912581c151171785d8",
+    "dependencies": {
+      "required": [
+        "agate",
+        "dbt-common",
+        "dbt-protos",
+        "mashumaro",
+        "protobuf",
+        "pytz",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "agate<2.0,>=1.0",
+      "dbt-common<2.0,>=1.36",
+      "dbt-protos<2.0,>=1.0.291",
+      "mashumaro[msgpack]<3.15,>=3.9",
+      "protobuf<7.0,>=6.0",
+      "pytz>=2015.7",
+      "typing-extensions<5.0,>=4.0"
+    ]
+  },
+  "dbt_adapters-1.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7a276cc3bc62be0b66d2590597cae73a87550c4675f3161bd21006661c9947a",
+    "dependencies": {
+      "required": [
+        "agate",
+        "dbt-common",
+        "dbt-protos",
+        "mashumaro",
+        "protobuf",
+        "pytz",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "agate<2.0,>=1.0",
+      "dbt-common<2.0,>=1.36",
+      "dbt-protos<2.0,>=1.0.291",
+      "mashumaro[msgpack]<3.15,>=3.9",
+      "protobuf<7.0,>=6.0",
+      "pytz>=2015.7",
+      "typing-extensions<5.0,>=4.0"
+    ]
+  },
+  "dbt_adapters-1.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "53a3ab10aaa0c7683a18e106075e513d15ce728d51f5b5ff95e425582a123ddf",
+    "dependencies": {
+      "required": [
+        "agate",
+        "dbt-common",
+        "dbt-protos",
+        "mashumaro",
+        "protobuf",
+        "pytz",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "agate<2.0,>=1.0",
+      "dbt-common<2.0,>=1.13",
+      "dbt-protos<2.0,>=1.0.291",
+      "mashumaro[msgpack]<3.15,>=3.9",
+      "protobuf<7.0,>=6.0",
+      "pytz>=2015.7",
+      "typing-extensions<5.0,>=4.0"
+    ]
+  }
+}

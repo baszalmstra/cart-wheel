@@ -1,0 +1,17 @@
+{
+  "retry_requests-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38e8e3f55051e7b7915c1768884269097865a5da2ea87d5dcafd6ba9498c363f",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "urllib3 (>=1.26)",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

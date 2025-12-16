@@ -1,0 +1,12 @@
+# Package configuration for litdata
+conda_forge = "litdata"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "litdata-0.2.59-py3-none-any.whl" },
+  { filename = "litdata-0.2.58-py3-none-any.whl" },
+  { filename = "litdata-0.2.57-py3-none-any.whl" },
+  { filename = "litdata-0.2.56-py3-none-any.whl" },
+  { filename = "litdata-0.2.55-py3-none-any.whl" },
+]

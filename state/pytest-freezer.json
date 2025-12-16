@@ -1,0 +1,72 @@
+{
+  "pytest_freezer-0.4.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b6c50523b7d4aec4590b52bfa5ff766d772ce506e2bf4846c88041ea9ccae59",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "freezegun"
+      ]
+    },
+    "original_requirements": [
+      "pytest >= 3.6",
+      "freezegun >= 1.1"
+    ]
+  },
+  "pytest_freezer-0.4.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "644ce7ddb8ba52b92a1df0a80a699bad2b93514c55cf92e9f2517b68ebe74814",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "freezegun"
+      ]
+    },
+    "original_requirements": [
+      "pytest >= 3.6",
+      "freezegun >= 1.0"
+    ]
+  },
+  "pytest_freezer-0.4.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e4cb3dcf10d16c15b445be4a710c85b56aaa8110f6ee6ee7b88ab85c462023b1",
+    "dependencies": {
+      "required": [
+        "freezegun",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "freezegun>=1.0",
+      "pytest>=3.6"
+    ]
+  },
+  "pytest_freezer-0.4.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca549c30a7e12bc7b242978b6fa0bb91e73cd1bd7d5b2bb658f0f9d7f1694cac",
+    "dependencies": {
+      "required": [
+        "freezegun",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "freezegun>=1.0",
+      "pytest>=3.6"
+    ]
+  },
+  "pytest_freezer-0.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d51fa35d35279659b39d0e868f7c49463c499fae564e14bcfac1d60ed5b6fbf5",
+    "dependencies": {
+      "required": [
+        "freezegun",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "freezegun>=1.0",
+      "pytest>=3.6"
+    ]
+  }
+}

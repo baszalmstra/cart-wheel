@@ -1,0 +1,12 @@
+# Package configuration for sphinx-design
+conda_forge = "sphinx-design"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_design-0.6.1-py3-none-any.whl" },
+  { filename = "sphinx_design-0.6.0-py3-none-any.whl" },
+  { filename = "sphinx_design-0.5.0-py3-none-any.whl" },
+  { filename = "sphinx_design-0.4.1-py3-none-any.whl" },
+  { filename = "sphinx_design-0.4.0-py3-none-any.whl" },
+]

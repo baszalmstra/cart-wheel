@@ -1,0 +1,12 @@
+# Package configuration for httpx
+conda_forge = "httpx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "httpx-0.28.1-py3-none-any.whl" },
+  { filename = "httpx-0.28.0-py3-none-any.whl" },
+  { filename = "httpx-0.27.2-py3-none-any.whl" },
+  { filename = "httpx-0.27.1-py3-none-any.whl" },
+  { filename = "httpx-0.27.0-py3-none-any.whl" },
+]

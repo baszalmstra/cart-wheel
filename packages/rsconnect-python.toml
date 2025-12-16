@@ -1,0 +1,12 @@
+# Package configuration for rsconnect-python
+conda_forge = "rsconnect-python"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rsconnect_python-1.28.2-py2.py3-none-any.whl" },
+  { filename = "rsconnect_python-1.28.1-py2.py3-none-any.whl" },
+  { filename = "rsconnect_python-1.28.0-py2.py3-none-any.whl" },
+  { filename = "rsconnect_python-1.27.1-py2.py3-none-any.whl" },
+  { filename = "rsconnect_python-1.27.0-py2.py3-none-any.whl" },
+]

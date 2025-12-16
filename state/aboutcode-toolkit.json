@@ -1,0 +1,274 @@
+{
+  "aboutcode_toolkit-11.1.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:50.450860+00:00",
+    "conda_file": "aboutcode-toolkit-11.1.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "boolean.py",
+        "certifi",
+        "click",
+        "jinja2",
+        "license-expression",
+        "openpyxl",
+        "packageurl-python",
+        "requests",
+        "saneyaml"
+      ],
+      "optional": {
+        "testing": [
+          "pytest",
+          "pytest-xdist",
+          "twine",
+          "black",
+          "isort"
+        ],
+        "docs": [
+          "sphinx",
+          "sphinx-rtd-theme",
+          "sphinx-reredirects",
+          "doc8"
+        ]
+      }
+    },
+    "original_requirements": [
+      "attrs",
+      "boolean.py>=3.5",
+      "certifi",
+      "click",
+      "jinja2",
+      "license_expression>=0.94",
+      "openpyxl",
+      "packageurl_python>=0.9.0",
+      "requests",
+      "saneyaml",
+      "pytest!=7.0.0,>=6; extra == \"testing\"",
+      "pytest-xdist>=2; extra == \"testing\"",
+      "twine; extra == \"testing\"",
+      "black; extra == \"testing\"",
+      "isort; extra == \"testing\"",
+      "Sphinx>=5.0.2; extra == \"docs\"",
+      "sphinx-rtd-theme>=1.0.0; extra == \"docs\"",
+      "sphinx-reredirects>=0.1.2; extra == \"docs\"",
+      "doc8>=0.11.2; extra == \"docs\""
+    ]
+  },
+  "aboutcode_toolkit-11.0.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:50.717731+00:00",
+    "conda_file": "aboutcode-toolkit-11.0.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "boolean.py",
+        "certifi",
+        "click",
+        "jinja2",
+        "license-expression",
+        "openpyxl",
+        "packageurl-python",
+        "saneyaml"
+      ],
+      "optional": {
+        "docs": [
+          "sphinx",
+          "sphinx-rtd-theme",
+          "sphinx-reredirects",
+          "doc8"
+        ],
+        "testing": [
+          "pytest",
+          "pytest-xdist",
+          "twine",
+          "black",
+          "isort"
+        ]
+      }
+    },
+    "original_requirements": [
+      "attrs",
+      "boolean.py >=3.5",
+      "certifi",
+      "click",
+      "jinja2",
+      "license-expression >=0.94",
+      "openpyxl",
+      "packageurl-python >=0.9.0",
+      "saneyaml",
+      "Sphinx >=5.0.2 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.0.0 ; extra == 'docs'",
+      "sphinx-reredirects >=0.1.2 ; extra == 'docs'",
+      "doc8 >=0.11.2 ; extra == 'docs'",
+      "pytest !=7.0.0,>=6 ; extra == 'testing'",
+      "pytest-xdist >=2 ; extra == 'testing'",
+      "twine ; extra == 'testing'",
+      "black ; extra == 'testing'",
+      "isort ; extra == 'testing'"
+    ]
+  },
+  "aboutcode_toolkit-10.1.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:50.983930+00:00",
+    "conda_file": "aboutcode-toolkit-10.1.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "boolean.py",
+        "certifi",
+        "click",
+        "jinja2",
+        "license-expression",
+        "openpyxl",
+        "packageurl-python",
+        "saneyaml"
+      ],
+      "optional": {
+        "docs": [
+          "sphinx",
+          "sphinx-rtd-theme",
+          "sphinx-reredirects",
+          "doc8"
+        ],
+        "testing": [
+          "pytest",
+          "pytest-xdist",
+          "twine",
+          "black",
+          "isort"
+        ]
+      }
+    },
+    "original_requirements": [
+      "attrs",
+      "boolean.py >=3.5",
+      "certifi",
+      "click",
+      "jinja2",
+      "license-expression >=0.94",
+      "openpyxl",
+      "packageurl-python >=0.9.0",
+      "saneyaml",
+      "Sphinx >=5.0.2 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.0.0 ; extra == 'docs'",
+      "sphinx-reredirects >=0.1.2 ; extra == 'docs'",
+      "doc8 >=0.11.2 ; extra == 'docs'",
+      "pytest !=7.0.0,>=6 ; extra == 'testing'",
+      "pytest-xdist >=2 ; extra == 'testing'",
+      "twine ; extra == 'testing'",
+      "black ; extra == 'testing'",
+      "isort ; extra == 'testing'"
+    ]
+  },
+  "aboutcode_toolkit-10.0.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:51.271538+00:00",
+    "conda_file": "aboutcode-toolkit-10.0.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "boolean.py",
+        "certifi",
+        "click",
+        "jinja2",
+        "license-expression",
+        "openpyxl",
+        "packageurl-python",
+        "saneyaml"
+      ],
+      "optional": {
+        "docs": [
+          "sphinx",
+          "sphinx-rtd-theme",
+          "sphinx-reredirects",
+          "doc8"
+        ],
+        "testing": [
+          "pytest",
+          "pytest-xdist",
+          "twine",
+          "black",
+          "isort"
+        ]
+      }
+    },
+    "original_requirements": [
+      "attrs",
+      "boolean.py >=3.5",
+      "certifi",
+      "click",
+      "jinja2",
+      "license-expression >=0.94",
+      "openpyxl",
+      "packageurl-python >=0.9.0",
+      "saneyaml",
+      "Sphinx >=5.0.2 ; extra == 'docs'",
+      "sphinx-rtd-theme >=1.0.0 ; extra == 'docs'",
+      "sphinx-reredirects >=0.1.2 ; extra == 'docs'",
+      "doc8 >=0.11.2 ; extra == 'docs'",
+      "pytest !=7.0.0,>=6 ; extra == 'testing'",
+      "pytest-xdist >=2 ; extra == 'testing'",
+      "twine ; extra == 'testing'",
+      "black ; extra == 'testing'",
+      "isort ; extra == 'testing'"
+    ]
+  },
+  "aboutcode_toolkit-9.0.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:51.798468+00:00",
+    "conda_file": "aboutcode-toolkit-9.0.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "boolean.py",
+        "certifi",
+        "click",
+        "jinja2",
+        "license-expression",
+        "openpyxl",
+        "packageurl-python",
+        "saneyaml"
+      ],
+      "optional": {
+        "docs": [
+          "sphinx",
+          "sphinx-rtd-theme",
+          "sphinx-reredirects",
+          "doc8"
+        ],
+        "testing": [
+          "pytest",
+          "pytest-xdist",
+          "twine",
+          "black",
+          "isort"
+        ]
+      }
+    },
+    "original_requirements": [
+      "attrs",
+      "boolean.py (>=3.5)",
+      "certifi",
+      "click",
+      "jinja2",
+      "license-expression (>=0.94)",
+      "openpyxl",
+      "packageurl-python (>=0.9.0)",
+      "saneyaml",
+      "Sphinx (>=5.0.2) ; extra == 'docs'",
+      "sphinx-rtd-theme (>=1.0.0) ; extra == 'docs'",
+      "sphinx-reredirects (>=0.1.2) ; extra == 'docs'",
+      "doc8 (>=0.11.2) ; extra == 'docs'",
+      "pytest (!=7.0.0,>=6) ; extra == 'testing'",
+      "pytest-xdist (>=2) ; extra == 'testing'",
+      "twine ; extra == 'testing'",
+      "black ; extra == 'testing'",
+      "isort ; extra == 'testing'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-translate
+conda_forge = "google-cloud-translate"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_translate-3.23.0-py3-none-any.whl" },
+  { filename = "google_cloud_translate-3.22.0-py3-none-any.whl" },
+  { filename = "google_cloud_translate-3.21.1-py3-none-any.whl" },
+  { filename = "google_cloud_translate-3.21.0-py3-none-any.whl" },
+  { filename = "google_cloud_translate-3.20.3-py3-none-any.whl" },
+]

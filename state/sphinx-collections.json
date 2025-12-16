@@ -1,0 +1,43 @@
+{
+  "sphinx_collections-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb93b979cc9275bd2ad980a71fd57be5521c0f879f90f8189917a8f7ca0436ab",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "jinja2",
+        "gitpython",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=4.0",
+      "jinja2>=3.0",
+      "gitpython>=3.1",
+      "packaging>=20.0",
+      "pre-commit>=3.5 ; extra == \"dev\"",
+      "pytest>=7.0 ; extra == \"dev\"",
+      "pytest-xdist>=3.0 ; extra == \"dev\"",
+      "tox>=4.0 ; extra == \"dev\"",
+      "tox-uv>=1.0 ; extra == \"dev\"",
+      "ruff>=0.4.0 ; extra == \"dev\"",
+      "sphinx>=4.0 ; extra == \"docs\""
+    ]
+  },
+  "sphinx_collections-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "caf683afc5eed2761845347410c572a96c5d344f8f5cc81105f783bcc6585282",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "jinja2",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "sphinx (>2.0)",
+      "jinja2",
+      "gitpython"
+    ]
+  }
+}

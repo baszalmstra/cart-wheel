@@ -1,0 +1,9 @@
+# Package configuration for pytest-tornado5
+conda_forge = "pytest-tornado5"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_tornado5-2.0.0-py2.py3-none-any.whl" },
+  { filename = "pytest_tornado5-1.0.0-py2.py3-none-any.whl" },
+]

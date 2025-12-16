@@ -1,0 +1,12 @@
+# Package configuration for monotonic
+conda_forge = "monotonic"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "monotonic-1.6-py2.py3-none-any.whl" },
+  { filename = "monotonic-1.5-py2.py3-none-any.whl" },
+  { filename = "monotonic-1.4-py2.py3-none-any.whl" },
+  { filename = "monotonic-1.3-py2.py3-none-any.whl" },
+  { filename = "monotonic-1.2-py2.py3-none-any.whl" },
+]

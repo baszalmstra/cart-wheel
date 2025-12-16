@@ -1,0 +1,12 @@
+# Package configuration for msrestazure
+conda_forge = "msrestazure"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "msrestazure-0.6.4.post1-py2.py3-none-any.whl" },
+  { filename = "msrestazure-0.6.4-py2.py3-none-any.whl" },
+  { filename = "msrestazure-0.6.3-py2.py3-none-any.whl" },
+  { filename = "msrestazure-0.6.2-py2.py3-none-any.whl" },
+  { filename = "msrestazure-0.6.1-py2.py3-none-any.whl" },
+]

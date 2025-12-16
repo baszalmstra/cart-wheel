@@ -1,0 +1,11 @@
+# Package configuration for jaraco.collections
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaraco_collections-5.2.1-py3-none-any.whl" },
+  { filename = "jaraco_collections-5.2.0-py3-none-any.whl" },
+  { filename = "jaraco.collections-5.1.0-py3-none-any.whl" },
+  { filename = "jaraco.collections-5.0.1-py3-none-any.whl" },
+  { filename = "jaraco.collections-5.0.0-py3-none-any.whl" },
+]

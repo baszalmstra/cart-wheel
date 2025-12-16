@@ -1,0 +1,100 @@
+{
+  "doc8-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9862710027f793c25f9b1899150660e4bf1d4c9a6738742e71f32011e2e3f590",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "restructuredtext-lint",
+        "stevedore",
+        "tomli",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "docutils<=0.21.2,>=0.19",
+      "restructuredtext-lint>=0.7",
+      "stevedore",
+      "tomli; python_version < \"3.11\"",
+      "Pygments"
+    ]
+  },
+  "doc8-1.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e787b3076b391b8b49400da5d018bacafe592dfc0a04f35a9be22d0122b82b59",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "restructuredtext-lint",
+        "stevedore",
+        "pygments",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "docutils <=0.21.2,>=0.19",
+      "restructuredtext-lint >=0.7",
+      "stevedore",
+      "Pygments",
+      "tomli ; python_version < \"3.11\""
+    ]
+  },
+  "doc8-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e493aa3f36820197c49f407583521bb76a0fde4fffbcd0e092be946ff95931ac",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "restructuredtext-lint",
+        "stevedore",
+        "pygments",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "docutils (<0.21,>=0.19)",
+      "restructuredtext-lint (>=0.7)",
+      "stevedore",
+      "Pygments",
+      "tomli ; python_version < \"3.11\""
+    ]
+  },
+  "doc8-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c6c3104fa7f7bb2103589c0a8e272c105fdff3ddd1ef4808e51b2782185e9ab",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "restructuredtext-lint",
+        "stevedore",
+        "pygments",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "docutils (<0.21,>=0.19)",
+      "restructuredtext-lint (>=0.7)",
+      "stevedore",
+      "Pygments",
+      "tomli ; python_version < \"3.11\""
+    ]
+  },
+  "doc8-0.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9187da8c9f115254bbe34f74e2bbbdd3eaa1b9e92efd19ccac7461e347b5055c",
+    "dependencies": {
+      "required": [
+        "docutils",
+        "restructuredtext-lint",
+        "stevedore",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "docutils",
+      "restructuredtext-lint (>=0.7)",
+      "stevedore",
+      "Pygments"
+    ]
+  }
+}

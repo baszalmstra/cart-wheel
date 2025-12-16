@@ -1,0 +1,84 @@
+{
+  "neptune_fastai-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "63b81ea6b9736a263434e3e3490ee89a1f483d6da374ec73a48d342355179be9",
+    "dependencies": {
+      "required": [
+        "fastai",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "fastai (>=2.4)",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "pytest-tap (==3.2) ; extra == \"dev\"",
+      "pytest-xdist (==2.2.0) ; extra == \"dev\""
+    ]
+  },
+  "neptune_fastai-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb7e423811973951bb71289a7b735fe00be5a31933bc2cc8c4f77a74fbf5c68d",
+    "dependencies": {
+      "required": [
+        "fastai",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "fastai (>=2.4)",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "pytest-tap (==3.2) ; extra == \"dev\"",
+      "pytest-xdist (==2.2.0) ; extra == \"dev\""
+    ]
+  },
+  "neptune_fastai-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6d639209985e8513809cbd208c4a159492de08c24e36a5d873c78cc5a62940ca",
+    "dependencies": {
+      "required": [
+        "fastai",
+        "importlib-metadata",
+        "neptune-client"
+      ]
+    },
+    "original_requirements": [
+      "fastai (>=2.4)",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune-client (>=0.16.17)",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "pytest-tap (==3.2) ; extra == \"dev\"",
+      "pytest-xdist (==2.2.0) ; extra == \"dev\""
+    ]
+  },
+  "neptune_fastai-0.10.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "69661e9a86692a019f15e61d2df7426e4d3492881f09a1130558577ec9606ba4",
+    "dependencies": {
+      "required": [
+        "fastai",
+        "importlib-metadata",
+        "neptune-client"
+      ]
+    },
+    "original_requirements": [
+      "fastai (>=2.4)",
+      "importlib-metadata; python_version < \"3.8\"",
+      "neptune-client (>=0.16.7)",
+      "pre-commit; extra == \"dev\"",
+      "pytest (>=5.0); extra == \"dev\"",
+      "pytest-cov (==2.10.1); extra == \"dev\"",
+      "pytest-tap (==3.2); extra == \"dev\"",
+      "pytest-xdist (==2.2.0); extra == \"dev\""
+    ]
+  }
+}

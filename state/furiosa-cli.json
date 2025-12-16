@@ -1,0 +1,71 @@
+{
+  "furiosa_cli-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c14746c11899ed690b854658e30c6828df71b2ef95a45789df9fb981ba99ff8",
+    "dependencies": {
+      "required": [
+        "furiosa-common"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\""
+    ]
+  },
+  "furiosa_cli-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "781adea4e533a94860c765f6368a04803a81bbbebf5be8eb1c1d497725bb3b71",
+    "dependencies": {
+      "required": [
+        "furiosa-common"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\""
+    ]
+  },
+  "furiosa_cli-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c9cc4ad4bf51407f77ef60d989962a402d8a1ff7ae0188d327ebb9aec3308ef",
+    "dependencies": {
+      "required": [
+        "furiosa-common"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.10.*",
+      "mypy ; extra == \"test\"",
+      "pytest ; extra == \"test\"",
+      "ruff ; extra == \"test\""
+    ]
+  },
+  "furiosa_cli-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d0eeb4d78d8bc04eda26bbf7c901f6ed0880d3090463d2fa7a26ab7f3a19e3b9",
+    "dependencies": {
+      "required": [
+        "furiosa-common"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.9.*"
+    ]
+  },
+  "furiosa_cli-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3468726c3e78231c3940543f6b743c99e427488d2be97f77e2a559bda72841ce",
+    "dependencies": {
+      "required": [
+        "furiosa-common"
+      ]
+    },
+    "original_requirements": [
+      "furiosa-common == 0.9.*"
+    ]
+  }
+}

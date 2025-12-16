@@ -1,0 +1,12 @@
+# Package configuration for copier
+conda_forge = "copier"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "copier-9.11.0-py3-none-any.whl" },
+  { filename = "copier-9.10.3-py3-none-any.whl" },
+  { filename = "copier-9.10.2-py3-none-any.whl" },
+  { filename = "copier-9.10.1-py3-none-any.whl" },
+  { filename = "copier-9.10.0-py3-none-any.whl" },
+]

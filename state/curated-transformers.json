@@ -1,0 +1,106 @@
+{
+  "curated_transformers-2.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5da92a4bf41a8a0bebca39b65ede4db49a7bc78467ca3c3ba7f84ecdcc8c45e5",
+    "dependencies": {
+      "required": [
+        "catalogue",
+        "curated-tokenizers",
+        "huggingface-hub",
+        "tokenizers",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "catalogue <2.1.0,>=2.0.4",
+      "curated-tokenizers <3.0.0,>=2.0.0",
+      "huggingface-hub >=0.14",
+      "tokenizers >=0.13.3",
+      "torch >=1.12.0",
+      "bitsandbytes >=0.40 ; extra == 'quantization'",
+      "scipy >=1.11 ; extra == 'quantization'"
+    ]
+  },
+  "curated_transformers-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a31b240a3baaa9a73820190b52a2902a218aae471012d723875f0b2d100c8df6",
+    "dependencies": {
+      "required": [
+        "catalogue",
+        "curated-tokenizers",
+        "huggingface-hub",
+        "tokenizers",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "catalogue <2.1.0,>=2.0.4",
+      "curated-tokenizers <3.0.0,>=2.0.0",
+      "huggingface-hub >=0.14",
+      "tokenizers >=0.13.3",
+      "torch >=1.12.0",
+      "bitsandbytes >=0.40 ; extra == 'quantization'",
+      "scipy >=1.11 ; extra == 'quantization'"
+    ]
+  },
+  "curated_transformers-1.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "09899821d2ad8a8d3dae4ebde58085a69be0c110db0948ce496a145aed7f5492",
+    "dependencies": {
+      "required": [
+        "curated-tokenizers",
+        "huggingface-hub",
+        "tokenizers",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "curated-tokenizers <1.0.0,>=0.9.1",
+      "huggingface-hub >=0.14",
+      "tokenizers >=0.13.3",
+      "torch <2.1.0,>=1.12.0",
+      "bitsandbytes >=0.40 ; extra == 'quantization'",
+      "scipy >=1.11 ; extra == 'quantization'"
+    ]
+  },
+  "curated_transformers-1.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c394d40d066f76ca70bec4cd70c718f112b5e4df5b07f80aabb01e5e5da6b290",
+    "dependencies": {
+      "required": [
+        "curated-tokenizers",
+        "huggingface-hub",
+        "tokenizers",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "curated-tokenizers <1.0.0,>=0.9.1",
+      "huggingface-hub >=0.14",
+      "tokenizers >=0.13.3",
+      "torch <2.1.0,>=1.12.0",
+      "bitsandbytes >=0.40 ; extra == 'quantization'",
+      "scipy >=1.11 ; extra == 'quantization'"
+    ]
+  },
+  "curated_transformers-1.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a6707839314867f5b8ba0b815ff46d9c6cb694de3a89a9d0cf18aaaa3a368d9",
+    "dependencies": {
+      "required": [
+        "curated-tokenizers",
+        "huggingface-hub",
+        "tokenizers",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "curated-tokenizers <1.0.0,>=0.9.1",
+      "huggingface-hub >=0.14",
+      "tokenizers >=0.13.3",
+      "torch >=1.12.0",
+      "bitsandbytes >=0.40 ; extra == 'quantization'",
+      "scipy >=1.11 ; extra == 'quantization'"
+    ]
+  }
+}

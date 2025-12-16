@@ -1,0 +1,137 @@
+{
+  "launchdarkly_server_sdk-9.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff0f6a56df656df5ea5acc97556c408badda0d14a3780623e3b74ec738a6c25f",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "expiringdict",
+        "launchdarkly-eventsource",
+        "pyrfc3339",
+        "semver",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.9.71) ; extra == \"dynamodb\"",
+      "certifi (>=2018.4.16)",
+      "expiringdict (>=1.1.4)",
+      "launchdarkly-eventsource (>=1.5.0,<2.0.0)",
+      "pyRFC3339 (>=1.0)",
+      "python-consul (>=1.0.1) ; extra == \"consul\"",
+      "pyyaml (>=5.3.1) ; extra == \"test-filesource\"",
+      "redis (>=2.10.5) ; extra == \"redis\"",
+      "semver (>=2.10.2)",
+      "urllib3 (>=1.26.0,<3)",
+      "watchdog (>=3.0.0) ; extra == \"test-filesource\""
+    ]
+  },
+  "launchdarkly_server_sdk-9.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "edcb7f52ff6b6c68cee8ee42e40107669879a125b2d9ea3f9579d46bca38c706",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "expiringdict",
+        "launchdarkly-eventsource",
+        "pyrfc3339",
+        "semver",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.9.71) ; extra == \"dynamodb\"",
+      "certifi (>=2018.4.16)",
+      "expiringdict (>=1.1.4)",
+      "launchdarkly-eventsource (>=1.5.0,<2.0.0)",
+      "pyRFC3339 (>=1.0)",
+      "python-consul (>=1.0.1) ; extra == \"consul\"",
+      "pyyaml (>=5.3.1) ; extra == \"test-filesource\"",
+      "redis (>=2.10.5) ; extra == \"redis\"",
+      "semver (>=2.10.2)",
+      "urllib3 (>=1.26.0,<3)",
+      "watchdog (>=3.0.0) ; extra == \"test-filesource\""
+    ]
+  },
+  "launchdarkly_server_sdk-9.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c003166e93926afada4480aca3b2323077c2e60ce7c0e484af9705a6fa556116",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "expiringdict",
+        "launchdarkly-eventsource",
+        "pyrfc3339",
+        "semver",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.9.71) ; extra == \"dynamodb\"",
+      "certifi (>=2018.4.16)",
+      "expiringdict (>=1.1.4)",
+      "launchdarkly-eventsource (>=1.5.0,<2.0.0)",
+      "pyRFC3339 (>=1.0)",
+      "python-consul (>=1.0.1) ; extra == \"consul\"",
+      "pyyaml (>=5.3.1) ; extra == \"test-filesource\"",
+      "redis (>=2.10.5) ; extra == \"redis\"",
+      "semver (>=2.10.2)",
+      "urllib3 (>=1.26.0,<3)",
+      "watchdog (>=3.0.0) ; extra == \"test-filesource\""
+    ]
+  },
+  "launchdarkly_server_sdk-9.12.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "36ae4319db3079d0ba92208cfb5034f46509c2fac45967f9faef4d82ad163ce6",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "expiringdict",
+        "launchdarkly-eventsource",
+        "pyrfc3339",
+        "semver",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.9.71) ; extra == \"dynamodb\"",
+      "certifi (>=2018.4.16)",
+      "expiringdict (>=1.1.4)",
+      "launchdarkly-eventsource (>=1.2.4,<2.0.0)",
+      "pyRFC3339 (>=1.0)",
+      "python-consul (>=1.0.1) ; extra == \"consul\"",
+      "pyyaml (>=5.3.1) ; extra == \"test-filesource\"",
+      "redis (>=2.10.5) ; extra == \"redis\"",
+      "semver (>=2.10.2)",
+      "urllib3 (>=1.26.0,<3)",
+      "watchdog (>=3.0.0) ; extra == \"test-filesource\""
+    ]
+  },
+  "launchdarkly_server_sdk-9.12.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5572f82bd0ac3ffe49c709d4f20f641a69aa9dac9ce59acf164d8a8e11c156a5",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "expiringdict",
+        "launchdarkly-eventsource",
+        "pyrfc3339",
+        "semver",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.9.71) ; extra == \"dynamodb\"",
+      "certifi (>=2018.4.16)",
+      "expiringdict (>=1.1.4)",
+      "launchdarkly-eventsource (>=1.2.4,<2.0.0)",
+      "pyRFC3339 (>=1.0)",
+      "python-consul (>=1.0.1) ; extra == \"consul\"",
+      "pyyaml (>=5.3.1) ; extra == \"test-filesource\"",
+      "redis (>=2.10.5) ; extra == \"redis\"",
+      "semver (>=2.10.2)",
+      "urllib3 (>=1.26.0,<3)",
+      "watchdog (>=3.0.0) ; extra == \"test-filesource\""
+    ]
+  }
+}

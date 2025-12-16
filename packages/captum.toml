@@ -1,0 +1,12 @@
+# Package configuration for captum
+conda_forge = "captum"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "captum-0.8.0-py3-none-any.whl" },
+  { filename = "captum-0.7.0-py3-none-any.whl" },
+  { filename = "captum-0.6.0-py3-none-any.whl" },
+  { filename = "captum-0.5.0-py3-none-any.whl" },
+  { filename = "captum-0.4.1-py3-none-any.whl" },
+]

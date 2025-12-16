@@ -1,0 +1,12 @@
+# Package configuration for requests-ratelimiter
+conda_forge = "requests-ratelimiter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "requests_ratelimiter-0.7.0-py3-none-any.whl" },
+  { filename = "requests_ratelimiter-0.6.0-py3-none-any.whl" },
+  { filename = "requests_ratelimiter-0.5.1-py3-none-any.whl" },
+  { filename = "requests_ratelimiter-0.5.0-py3-none-any.whl" },
+  { filename = "requests_ratelimiter-0.4.2-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for colorama
+conda_forge = "colorama"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "colorama-0.4.6-py2.py3-none-any.whl" },
+  { filename = "colorama-0.4.5-py2.py3-none-any.whl" },
+  { filename = "colorama-0.4.4-py2.py3-none-any.whl" },
+  { filename = "colorama-0.4.3-py2.py3-none-any.whl" },
+  { filename = "colorama-0.4.1-py2.py3-none-any.whl" },
+]

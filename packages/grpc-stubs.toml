@@ -1,0 +1,12 @@
+# Package configuration for grpc-stubs
+conda_forge = "grpc-stubs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "grpc_stubs-1.53.0.6-py3-none-any.whl" },
+  { filename = "grpc_stubs-1.53.0.5-py3-none-any.whl" },
+  { filename = "grpc_stubs-1.53.0.4-py3-none-any.whl" },
+  { filename = "grpc_stubs-1.53.0.3-py3-none-any.whl" },
+  { filename = "grpc_stubs-1.53.0.2-py3-none-any.whl" },
+]

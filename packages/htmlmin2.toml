@@ -1,0 +1,8 @@
+# Package configuration for htmlmin2
+conda_forge = "htmlmin2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "htmlmin2-0.1.13-py3-none-any.whl" },
+]

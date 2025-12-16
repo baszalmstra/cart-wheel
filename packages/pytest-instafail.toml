@@ -1,0 +1,10 @@
+# Package configuration for pytest-instafail
+conda_forge = "pytest-instafail"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_instafail-0.5.0-py3-none-any.whl" },
+  { filename = "pytest_instafail-0.4.2-py2.py3-none-any.whl" },
+  { filename = "pytest_instafail-0.4.1.post0-py2.py3-none-any.whl" },
+]

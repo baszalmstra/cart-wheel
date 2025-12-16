@@ -1,0 +1,12 @@
+# Package configuration for pyotp
+conda_forge = "pyotp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyotp-2.9.0-py3-none-any.whl" },
+  { filename = "pyotp-2.8.0-py3-none-any.whl" },
+  { filename = "pyotp-2.7.0-py3-none-any.whl" },
+  { filename = "pyotp-2.6.0-py2.py3-none-any.whl" },
+  { filename = "pyotp-2.5.1-py2.py3-none-any.whl" },
+]

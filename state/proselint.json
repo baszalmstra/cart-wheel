@@ -1,0 +1,76 @@
+{
+  "proselint-0.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c0542b8c9e869c75f4f002bae96aeb929bdff0eae7d991e255abc35cbbdf16f",
+    "dependencies": {
+      "required": [
+        "google-re2",
+        "google-re2-stubs"
+      ]
+    },
+    "original_requirements": [
+      "google-re2>=1.1.20251105",
+      "google-re2-stubs>=0.1.1"
+    ]
+  },
+  "proselint-0.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f003f5558af7034d1fd39157afd1bf22509d2ccb48ce1aaad1fa58959c15679f",
+    "dependencies": {
+      "required": [
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "click (>=8.0.0,<9.0.0)"
+    ]
+  },
+  "proselint-0.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5799a26c79e52aed18a1b7671f74381c035b3f62a565b478306298fb134c80c4",
+    "dependencies": {
+      "required": [
+        "click",
+        "future",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "click (>=8.0.0,<9.0.0)",
+      "future (>=0.18.2,<0.19.0)",
+      "six (>=1.15.0,<2.0.0)"
+    ]
+  },
+  "proselint-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c111aa1df0f4917c35d8aedab4211960653123726cdc045037663c14d1a1d83",
+    "dependencies": {
+      "required": [
+        "click",
+        "future",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "click (>=8.0.0,<9.0.0)",
+      "future (>=0.18.2,<0.19.0)",
+      "six (>=1.15.0,<2.0.0)"
+    ]
+  },
+  "proselint-0.11.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b2707103b6b3717f35174568e158a28663fe45826af621386d54bd7198133c67",
+    "dependencies": {
+      "required": [
+        "click",
+        "future",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "click (>=8.0.0,<9.0.0)",
+      "future (>=0.18.2,<0.19.0)",
+      "six (>=1.15.0,<2.0.0)"
+    ]
+  }
+}

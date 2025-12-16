@@ -1,0 +1,11 @@
+# Package configuration for langchain-apify
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_apify-0.1.6-py3-none-any.whl" },
+  { filename = "langchain_apify-0.1.4-py3-none-any.whl" },
+  { filename = "langchain_apify-0.1.3-py3-none-any.whl" },
+  { filename = "langchain_apify-0.1.2-py3-none-any.whl" },
+  { filename = "langchain_apify-0.1.1-py3-none-any.whl" },
+]

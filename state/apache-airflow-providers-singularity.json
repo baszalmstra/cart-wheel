@@ -1,0 +1,78 @@
+{
+  "apache_airflow_providers_singularity-3.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b3a9c27f7f83079cb4ee909d497c444fa236cfe015f2720b39080dbd994253b",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "spython"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "spython>=0.0.56"
+    ]
+  },
+  "apache_airflow_providers_singularity-3.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b76ed1e1a49f3fd32015647eed17b328b89ab67145a0516791918dcf39e7bb10",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "spython"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "spython>=0.0.56"
+    ]
+  },
+  "apache_airflow_providers_singularity-3.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30de40a01ede5c607c1b90e5fa1e06098a79fd1d02d24aeb1c0b35d3acacde7a",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "spython"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "spython>=0.0.56"
+    ]
+  },
+  "apache_airflow_providers_singularity-3.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "039e331b4581dc85790b3b3a63e6539d579917a17eaf32186ca630fdfc3c9f49",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "spython"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "spython>=0.0.56"
+    ]
+  },
+  "apache_airflow_providers_singularity-3.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "83bc6a573426bfe3d539fc6860caad62247cb8235a4fd2a164fc793c061094d5",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "spython"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "spython>=0.0.56"
+    ]
+  }
+}

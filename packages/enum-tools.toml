@@ -1,0 +1,12 @@
+# Package configuration for enum-tools
+conda_forge = "enum_tools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "enum_tools-0.13.0-py3-none-any.whl" },
+  { filename = "enum_tools-0.12.0-py3-none-any.whl" },
+  { filename = "enum_tools-0.11.0-py3-none-any.whl" },
+  { filename = "enum_tools-0.10.0-py3-none-any.whl" },
+  { filename = "enum_tools-0.9.0.post1-py3-none-any.whl" },
+]

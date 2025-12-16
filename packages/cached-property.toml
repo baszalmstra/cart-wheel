@@ -1,0 +1,12 @@
+# Package configuration for cached-property
+conda_forge = "cached-property"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cached_property-2.0.1-py3-none-any.whl" },
+  { filename = "cached_property-1.5.2-py2.py3-none-any.whl" },
+  { filename = "cached_property-1.5.1-py2.py3-none-any.whl" },
+  { filename = "cached_property-1.4.3-py2.py3-none-any.whl" },
+  { filename = "cached_property-1.4.2-py2.py3-none-any.whl" },
+]

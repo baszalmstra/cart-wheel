@@ -1,0 +1,74 @@
+{
+  "humanfriendly-10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1697e1a8a8f550fd43c2865cd84542fc175a61dcb779b6fee18cf6b6ccba1477",
+    "dependencies": {
+      "required": [
+        "monotonic",
+        "pyreadline",
+        "pyreadline3"
+      ]
+    },
+    "original_requirements": [
+      "monotonic ; python_version == \"2.7\"",
+      "pyreadline ; sys_platform == \"win32\" and python_version<\"3.8\"",
+      "pyreadline3 ; sys_platform == \"win32\" and python_version>=\"3.8\""
+    ]
+  },
+  "humanfriendly-9.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "332da98c24cc150efcc91b5508b19115209272bfdf4b0764a56795932f854271",
+    "dependencies": {
+      "required": [
+        "monotonic",
+        "pyreadline"
+      ]
+    },
+    "original_requirements": [
+      "monotonic ; python_version == \"2.7\"",
+      "pyreadline ; sys_platform == \"win32\""
+    ]
+  },
+  "humanfriendly-9.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d5c731705114b9ad673754f3317d9fa4c23212f36b29bdc4272a892eafc9bc72",
+    "dependencies": {
+      "required": [
+        "monotonic",
+        "pyreadline"
+      ]
+    },
+    "original_requirements": [
+      "monotonic ; python_version == \"2.7\"",
+      "pyreadline ; sys_platform == \"win32\""
+    ]
+  },
+  "humanfriendly-9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c9ab8d28e88e6cc998e41963357736dafd555ee5bb666b50e42f6ce28dd3e3d",
+    "dependencies": {
+      "required": [
+        "monotonic",
+        "pyreadline"
+      ]
+    },
+    "original_requirements": [
+      "monotonic ; python_version == \"2.7\"",
+      "pyreadline ; sys_platform == \"win32\""
+    ]
+  },
+  "humanfriendly-8.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e78960b31198511f45fd455534ae7645a6207d33e512d2e842c766d15d9c8080",
+    "dependencies": {
+      "required": [
+        "monotonic",
+        "pyreadline"
+      ]
+    },
+    "original_requirements": [
+      "monotonic ; python_version == \"2.7\"",
+      "pyreadline ; sys_platform == \"win32\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for pyopenssl
+conda_forge = "pyopenssl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyopenssl-25.3.0-py3-none-any.whl" },
+  { filename = "pyopenssl-25.2.0-py3-none-any.whl" },
+  { filename = "pyopenssl-25.1.0-py3-none-any.whl" },
+  { filename = "pyOpenSSL-25.0.0-py3-none-any.whl" },
+  { filename = "pyOpenSSL-24.3.0-py3-none-any.whl" },
+]

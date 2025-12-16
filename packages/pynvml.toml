@@ -1,0 +1,12 @@
+# Package configuration for pynvml
+conda_forge = "pynvml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pynvml-13.0.1-py3-none-any.whl" },
+  { filename = "pynvml-12.0.0-py3-none-any.whl" },
+  { filename = "pynvml-11.5.3-py3-none-any.whl" },
+  { filename = "pynvml-11.5.2-py3-none-any.whl" },
+  { filename = "pynvml-11.5.0-py3-none-any.whl" },
+]

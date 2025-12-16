@@ -1,0 +1,110 @@
+{
+  "albucore-0.0.34-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:34.359152+00:00",
+    "conda_file": "albucore-0.0.34-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "stringzilla",
+        "simsimd",
+        "opencv-python-headless"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24.4",
+      "stringzilla>=3.10.4",
+      "simsimd>=5.9.2",
+      "opencv-python-headless>=4.9.0.80"
+    ]
+  },
+  "albucore-0.0.33-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:34.512225+00:00",
+    "conda_file": "albucore-0.0.33-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "typing-extensions",
+        "stringzilla",
+        "simsimd",
+        "opencv-python-headless"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24.4",
+      "typing-extensions>=4.9.0; python_version < \"3.10\"",
+      "stringzilla>=3.10.4",
+      "simsimd>=5.9.2",
+      "opencv-python-headless>=4.9.0.80"
+    ]
+  },
+  "albucore-0.0.32-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:34.624936+00:00",
+    "conda_file": "albucore-0.0.32-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "typing-extensions",
+        "stringzilla",
+        "simsimd",
+        "opencv-python-headless"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24.4",
+      "typing-extensions>=4.9.0; python_version < \"3.10\"",
+      "stringzilla>=3.10.4",
+      "simsimd>=5.9.2",
+      "opencv-python-headless>=4.9.0.80"
+    ]
+  },
+  "albucore-0.0.31-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:34.798972+00:00",
+    "conda_file": "albucore-0.0.31-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "typing-extensions",
+        "stringzilla",
+        "simsimd",
+        "opencv-python-headless"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24.4",
+      "typing-extensions>=4.9.0; python_version < \"3.10\"",
+      "stringzilla>=3.10.4",
+      "simsimd>=5.9.2",
+      "opencv-python-headless>=4.9.0.80"
+    ]
+  },
+  "albucore-0.0.30-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:34.917686+00:00",
+    "conda_file": "albucore-0.0.30-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "typing-extensions",
+        "stringzilla",
+        "simsimd",
+        "opencv-python-headless"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24.4",
+      "typing-extensions>=4.9.0; python_version < \"3.10\"",
+      "stringzilla>=3.10.4",
+      "simsimd>=5.9.2",
+      "opencv-python-headless>=4.9.0.80"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for fastapi-utils
+conda_forge = "fastapi_utils"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fastapi_utils-0.8.0-py3-none-any.whl" },
+  { filename = "fastapi_utils-0.7.0-py3-none-any.whl" },
+  { filename = "fastapi_utils-0.6.0-py3-none-any.whl" },
+  { filename = "fastapi_utils-0.2.1-py3-none-any.whl" },
+  { filename = "fastapi_utils-0.2.0-py3-none-any.whl" },
+]

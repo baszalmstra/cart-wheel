@@ -1,0 +1,12 @@
+# Package configuration for sphinx-panels
+conda_forge = "sphinx-panels"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_panels-0.6.0-py3-none-any.whl" },
+  { filename = "sphinx_panels-0.5.2-py3-none-any.whl" },
+  { filename = "sphinx_panels-0.5.1-py3-none-any.whl" },
+  { filename = "sphinx_panels-0.5.0-py3-none-any.whl" },
+  { filename = "sphinx_panels-0.4.1-py3-none-any.whl" },
+]

@@ -1,0 +1,9 @@
+# Package configuration for aws-msk-iam-sasl-signer-python
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_msk_iam_sasl_signer_python-1.0.2-py2.py3-none-any.whl" },
+  { filename = "aws_msk_iam_sasl_signer_python-1.0.1-py2.py3-none-any.whl" },
+  { filename = "aws_msk_iam_sasl_signer_python-1.0.0-py2.py3-none-any.whl" },
+]

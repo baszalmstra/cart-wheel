@@ -1,0 +1,101 @@
+{
+  "sphinx_automodapi-0.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ecbe8c8ba33a1e3dbe03aea06879062567d611b543da3f33367512d45118b01",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "sphinx>=5",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "cython; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "setuptools; python_version >= \"3.12\" and extra == \"test\"",
+      "sphinx-rtd-theme; extra == \"rtd\""
+    ]
+  },
+  "sphinx_automodapi-0.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07acd01d4483bdc27b9445ffaf423c780aca5a41c7be7f7d111fa069c512872e",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "sphinx>=4",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "cython; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "setuptools; python_version >= \"3.12\" and extra == \"test\"",
+      "sphinx-rtd-theme; extra == \"rtd\""
+    ]
+  },
+  "sphinx_automodapi-0.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d205d4f07c22b1024b270a0340b245b5f819bc4c625ca10db8c06e437cf5d5e",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "sphinx>=4",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "cython; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "setuptools; python_version >= \"3.12\" and extra == \"test\"",
+      "sphinx-rtd-theme; extra == \"rtd\""
+    ]
+  },
+  "sphinx_automodapi-0.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "728ff271b7b8e4f84a45e97fb5d8b35c647e2919949710fc3eb9523cb76ab838",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "sphinx>=4",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "cython; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "setuptools; python_version >= \"3.12\" and extra == \"test\"",
+      "sphinx-rtd-theme; extra == \"rtd\""
+    ]
+  },
+  "sphinx_automodapi-0.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "022860385590768f52d4f6e19abb83b2574772d2721fb4050ecdb6e593a1a440",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=4",
+      "sphinx<7; extra == \"rtd\"",
+      "sphinx-rtd-theme; extra == \"rtd\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "cython; extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "setuptools; python_version >= \"3.12\" and extra == \"test\""
+    ]
+  }
+}

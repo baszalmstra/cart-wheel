@@ -1,0 +1,164 @@
+{
+  "ansible_compat-25.12.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:45.018762+00:00",
+    "conda_file": "ansible-compat-25.12.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "ansible-core",
+        "jsonschema",
+        "packaging",
+        "pyyaml",
+        "subprocess-tee"
+      ]
+    },
+    "original_requirements": [
+      "ansible-core>=2.16",
+      "jsonschema>=4.6.0",
+      "packaging>=22.0",
+      "pyyaml>=6.0.1",
+      "subprocess-tee>=0.4.1"
+    ]
+  },
+  "ansible_compat-25.11.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:45.015887+00:00",
+    "conda_file": "ansible-compat-25.11.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "ansible-core",
+        "jsonschema",
+        "packaging",
+        "pyyaml",
+        "subprocess-tee"
+      ]
+    },
+    "original_requirements": [
+      "ansible-core>=2.16",
+      "jsonschema>=4.6.0",
+      "packaging>=25.0",
+      "pyyaml>=6.0.2",
+      "subprocess-tee>=0.4.1"
+    ]
+  },
+  "ansible_compat-25.8.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:45.064445+00:00",
+    "conda_file": "ansible-compat-25.8.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "ansible-core",
+        "jsonschema",
+        "packaging",
+        "pyyaml",
+        "subprocess-tee"
+      ]
+    },
+    "original_requirements": [
+      "ansible-core>=2.16",
+      "jsonschema>=4.6.0",
+      "packaging>=25.0",
+      "pyyaml>=6.0.2",
+      "subprocess-tee>=0.4.1"
+    ]
+  },
+  "ansible_compat-25.8.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:45.164088+00:00",
+    "conda_file": "ansible-compat-25.8.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "ansible-core",
+        "packaging",
+        "pyyaml",
+        "subprocess-tee",
+        "jsonschema"
+      ],
+      "optional": {
+        "docs": [
+          "argparse-manpage",
+          "black",
+          "mkdocs-ansible"
+        ],
+        "test": [
+          "coverage",
+          "pip",
+          "pytest-instafail",
+          "pytest-mock",
+          "pytest-plus",
+          "pytest",
+          "uv"
+        ]
+      }
+    },
+    "original_requirements": [
+      "ansible-core>=2.16",
+      "packaging",
+      "PyYAML",
+      "subprocess-tee>=0.4.1",
+      "jsonschema>=4.6.0",
+      "argparse-manpage; extra == \"docs\"",
+      "black; extra == \"docs\"",
+      "mkdocs-ansible>=24.3.1; extra == \"docs\"",
+      "coverage; extra == \"test\"",
+      "pip; extra == \"test\"",
+      "pytest-instafail; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-plus>=0.6.1; extra == \"test\"",
+      "pytest>=7.2.0; extra == \"test\"",
+      "uv>=0.4.30; extra == \"test\""
+    ]
+  },
+  "ansible_compat-25.8.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:45.294604+00:00",
+    "conda_file": "ansible-compat-25.8.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "ansible-core",
+        "packaging",
+        "pyyaml",
+        "subprocess-tee",
+        "jsonschema"
+      ],
+      "optional": {
+        "docs": [
+          "argparse-manpage",
+          "black",
+          "mkdocs-ansible"
+        ],
+        "test": [
+          "coverage",
+          "pip",
+          "pytest-instafail",
+          "pytest-mock",
+          "pytest-plus",
+          "pytest",
+          "uv"
+        ]
+      }
+    },
+    "original_requirements": [
+      "ansible-core>=2.16",
+      "packaging",
+      "PyYAML",
+      "subprocess-tee>=0.4.1",
+      "jsonschema>=4.6.0",
+      "argparse-manpage; extra == \"docs\"",
+      "black; extra == \"docs\"",
+      "mkdocs-ansible>=24.3.1; extra == \"docs\"",
+      "coverage; extra == \"test\"",
+      "pip; extra == \"test\"",
+      "pytest-instafail; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-plus>=0.6.1; extra == \"test\"",
+      "pytest>=7.2.0; extra == \"test\"",
+      "uv>=0.4.30; extra == \"test\""
+    ]
+  }
+}

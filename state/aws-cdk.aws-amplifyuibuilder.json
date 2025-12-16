@@ -1,0 +1,92 @@
+{
+  "aws_cdk.aws_amplifyuibuilder-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "511c2f076c766bcccb02882d04ec577ae1b855f135b070209fcfcc901458eaaf",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.204.0)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_amplifyuibuilder-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8e4bba8f81715f89152a77dcf12ecdb3935922af7539249933539ff3e7d78f16",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.203.0)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_amplifyuibuilder-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55b36b001d5862718b07ae50eb88c760804fd4796ffc57c0d49787d91e3d7b26",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.202.0)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_amplifyuibuilder-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31021afa7a6722910c02db675c32178aa9f7157758712d0f1fb3df852fecc3ed",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.201.0)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_amplifyuibuilder-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c31fb97bd4c1fa45eb814fe617d377b409e1a990f7268320dada5d79592ee6c",
+    "dependencies": {
+      "required": [
+        "aws-cdk.core",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.core (==1.200.0)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

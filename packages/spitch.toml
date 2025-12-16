@@ -1,0 +1,11 @@
+# Package configuration for spitch
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "spitch-1.41.2-py3-none-any.whl" },
+  { filename = "spitch-1.41.1-py3-none-any.whl" },
+  { filename = "spitch-1.41.0-py3-none-any.whl" },
+  { filename = "spitch-1.40.1-py3-none-any.whl" },
+  { filename = "spitch-1.40.0-py3-none-any.whl" },
+]

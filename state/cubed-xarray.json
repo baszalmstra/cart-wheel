@@ -1,0 +1,103 @@
+{
+  "cubed_xarray-0.0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f5c90feb6ff3194991a8f7c14059dd01eb7c3222b8b259a071830a7f9a5c9127",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "cubed"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.22",
+      "xarray>=2024.09.0",
+      "cubed>=0.24.0",
+      "cubed[diagnostics]; extra == \"test\"",
+      "dill; extra == \"test\"",
+      "pre-commit; extra == \"test\"",
+      "ruff; extra == \"test\"",
+      "pytest-mypy; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "cubed_xarray-0.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ef91944c8f6628440982e3450ac1771b184b7a4e7bd682fe85d30e076e69a4c",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "cubed"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.22",
+      "xarray>=2024.09.0",
+      "cubed>=0.23.0",
+      "cubed[diagnostics]; extra == \"test\"",
+      "dill; extra == \"test\"",
+      "pre-commit; extra == \"test\"",
+      "ruff; extra == \"test\"",
+      "pytest-mypy; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "cubed_xarray-0.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "83aad6439c4ab5b58601f2ef806e45aac64adc43a84ddec21c5507ec13c8af35",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "cubed"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.17.1)",
+      "xarray (>=2024.02.0)",
+      "cubed (>=0.14.2)",
+      "cubed[diagnostics] ; extra == 'test'",
+      "dill ; extra == 'test'",
+      "pre-commit ; extra == 'test'",
+      "ruff ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "cubed_xarray-0.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a990411e0df718b0f603a257de8bcce18835ab9588be9d5ede531bb23c975377",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "cubed"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.17)",
+      "xarray (>=2024.02.0)",
+      "cubed (>=0.14.2)"
+    ]
+  },
+  "cubed_xarray-0.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "707a3799017c4866805da6858b186c49b6456293efa67b28de93294af0cb3758",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "cubed"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.17",
+      "xarray >=2024.02.0",
+      "cubed >=0.6.3"
+    ]
+  }
+}

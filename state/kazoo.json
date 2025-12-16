@@ -1,0 +1,121 @@
+{
+  "kazoo-2.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de2d69168de432ff66b457a26c727a5bf7ff53af5806653fd1df7f04b6a5483c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "flake8 ; extra == 'alldeps'",
+      "eventlet >=0.17.1 ; extra == 'alldeps'",
+      "gevent >=1.2 ; extra == 'alldeps'",
+      "pure-sasl >=0.5.1 ; extra == 'alldeps'",
+      "Sphinx >=1.2.2 ; extra == 'alldeps'",
+      "sphinx-autodoc-typehints >=1 ; extra == 'alldeps'",
+      "mypy >=0.991 ; extra == 'alldeps'",
+      "flake8 ; extra == 'dev'",
+      "Sphinx >=1.2.2 ; extra == 'docs'",
+      "sphinx-autodoc-typehints >=1 ; extra == 'docs'",
+      "eventlet >=0.17.1 ; extra == 'eventlet'",
+      "gevent >=1.2 ; extra == 'gevent'",
+      "pure-sasl >=0.5.1 ; extra == 'sasl'",
+      "objgraph ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pyjks ; extra == 'test'",
+      "pyopenssl ; extra == 'test'",
+      "gevent >=1.2 ; (implementation_name != \"pypy\") and extra == 'test'",
+      "eventlet >=0.17.1 ; (implementation_name != \"pypy\") and extra == 'test'",
+      "mypy >=0.991 ; extra == 'typing'"
+    ]
+  },
+  "kazoo-2.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b73dd6829ae6b3a78cd37ba393749f9d30860dbe39debb27c36eff159949a14e",
+    "dependencies": {
+      "required": [
+        "six",
+        "selectors2"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "selectors2 (>=2.0.2) ; python_version < \"3.4.0\"",
+      "flake8 ; extra == 'alldeps'",
+      "eventlet (>=0.17.1) ; extra == 'alldeps'",
+      "gevent (>=1.2) ; extra == 'alldeps'",
+      "pure-sasl (>=0.5.1) ; extra == 'alldeps'",
+      "Sphinx (>=1.2.2) ; extra == 'alldeps'",
+      "flake8 ; extra == 'dev'",
+      "Sphinx (>=1.2.2) ; extra == 'docs'",
+      "eventlet (>=0.17.1) ; extra == 'eventlet'",
+      "gevent (>=1.2) ; extra == 'gevent'",
+      "pure-sasl (>=0.5.1) ; extra == 'sasl'",
+      "mock ; extra == 'test'",
+      "objgraph ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "gevent (>=1.2) ; (implementation_name != \"pypy\") and extra == 'test'",
+      "eventlet (>=0.17.1) ; (implementation_name != \"pypy\") and extra == 'test'"
+    ]
+  },
+  "kazoo-2.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2dc46de17efc02e0ef42a9d92f3bbabce6204bbcc0792a1d9211344d0b8a03b8",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pure-sasl (==0.5.1) ; extra == 'sasl'",
+      "six ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "objgraph ; extra == 'test'",
+      "gevent (>=1.2) ; extra == 'test'",
+      "eventlet (>=0.17.1) ; extra == 'test'"
+    ]
+  },
+  "kazoo-2.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef83ffd126b3bb4971f58e2f6171f9063129dbce72d160f178a08b65fb75d6b6",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "pure-sasl (==0.5.1) ; extra == 'sasl'",
+      "six ; extra == 'test'",
+      "coverage ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "nose ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "objgraph ; extra == 'test'"
+    ]
+  },
+  "kazoo-2.6.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "322c0dfa7e3a91ce217d01cb954fe3bffbc9b412c3eec7d5f800412b5145773e",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "six ; extra == 'test'",
+      "coverage ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "nose ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "pure-sasl ; extra == 'test'",
+      "objgraph ; extra == 'test'"
+    ]
+  }
+}

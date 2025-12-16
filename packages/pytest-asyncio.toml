@@ -1,0 +1,12 @@
+# Package configuration for pytest-asyncio
+conda_forge = "pytest-asyncio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_asyncio-1.3.0-py3-none-any.whl" },
+  { filename = "pytest_asyncio-1.2.0-py3-none-any.whl" },
+  { filename = "pytest_asyncio-1.1.1-py3-none-any.whl" },
+  { filename = "pytest_asyncio-1.1.0-py3-none-any.whl" },
+  { filename = "pytest_asyncio-1.0.0-py3-none-any.whl" },
+]

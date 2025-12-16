@@ -1,0 +1,12 @@
+# Package configuration for mkdocs-include-markdown-plugin
+conda_forge = "mkdocs-include-markdown-plugin"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_include_markdown_plugin-7.2.0-py3-none-any.whl" },
+  { filename = "mkdocs_include_markdown_plugin-7.1.8-py3-none-any.whl" },
+  { filename = "mkdocs_include_markdown_plugin-7.1.7-py3-none-any.whl" },
+  { filename = "mkdocs_include_markdown_plugin-7.1.6-py3-none-any.whl" },
+  { filename = "mkdocs_include_markdown_plugin-7.1.5-py3-none-any.whl" },
+]

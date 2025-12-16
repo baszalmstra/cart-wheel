@@ -1,0 +1,148 @@
+{
+  "mlx_lm-0.28.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "64ff7bff02e902f1df7daafdbf27ffc836b9a7c9b332b9fc3ea40c19e31147ca",
+    "dependencies": {
+      "required": [
+        "mlx",
+        "numpy",
+        "transformers",
+        "sentencepiece",
+        "protobuf",
+        "pyyaml",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "mlx>=0.29.2; platform_system == \"Darwin\"",
+      "numpy",
+      "transformers>=4.39.3",
+      "sentencepiece",
+      "protobuf",
+      "pyyaml",
+      "jinja2",
+      "datasets; extra == \"test\"",
+      "lm-eval; extra == \"test\"",
+      "datasets; extra == \"train\"",
+      "tqdm; extra == \"train\"",
+      "lm-eval; extra == \"evaluate\"",
+      "tqdm; extra == \"evaluate\"",
+      "mlx[cuda]>=0.29.2; extra == \"cuda\"",
+      "mlx[cpu]>=0.29.2; extra == \"cpu\""
+    ]
+  },
+  "mlx_lm-0.28.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec103e2c9a06bd2cbafd41aafc975e40262176f7360d4f53ec342cebb9e0e6ea",
+    "dependencies": {
+      "required": [
+        "mlx",
+        "numpy",
+        "transformers",
+        "protobuf",
+        "pyyaml",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "mlx>=0.29.2; platform_system == \"Darwin\"",
+      "numpy",
+      "transformers>=4.39.3",
+      "protobuf",
+      "pyyaml",
+      "jinja2",
+      "datasets; extra == \"test\"",
+      "lm-eval; extra == \"test\"",
+      "datasets; extra == \"train\"",
+      "tqdm; extra == \"train\"",
+      "lm-eval; extra == \"evaluate\"",
+      "tqdm; extra == \"evaluate\"",
+      "mlx[cuda]>=0.29.2; extra == \"cuda\"",
+      "mlx[cpu]>=0.29.2; extra == \"cpu\""
+    ]
+  },
+  "mlx_lm-0.28.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1501529e625d0d648216f7bb543b8b449d5fd17bd598f635536dbc1fbde6d1d6",
+    "dependencies": {
+      "required": [
+        "mlx",
+        "numpy",
+        "transformers",
+        "protobuf",
+        "pyyaml",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "mlx>=0.29.2",
+      "numpy",
+      "transformers>=4.39.3",
+      "protobuf",
+      "pyyaml",
+      "jinja2",
+      "datasets; extra == \"test\"",
+      "lm-eval; extra == \"test\"",
+      "datasets; extra == \"train\"",
+      "tqdm; extra == \"train\"",
+      "lm-eval; extra == \"evaluate\"",
+      "tqdm; extra == \"evaluate\""
+    ]
+  },
+  "mlx_lm-0.28.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1dd5a53a127f7f00472d765d03ccd0ea78cb728f83e2bc98741f36aadd1d22b8",
+    "dependencies": {
+      "required": [
+        "mlx",
+        "numpy",
+        "transformers",
+        "protobuf",
+        "pyyaml",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "mlx>=0.29.2",
+      "numpy",
+      "transformers>=4.39.3",
+      "protobuf",
+      "pyyaml",
+      "jinja2",
+      "datasets; extra == \"test\"",
+      "lm-eval; extra == \"test\"",
+      "datasets; extra == \"train\"",
+      "tqdm; extra == \"train\"",
+      "lm-eval; extra == \"evaluate\"",
+      "tqdm; extra == \"evaluate\""
+    ]
+  },
+  "mlx_lm-0.28.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2002b14a73ac6d88685a5e6ff5c5d86811157288468bf16aff7a94e6c872f3d",
+    "dependencies": {
+      "required": [
+        "mlx",
+        "numpy",
+        "transformers",
+        "protobuf",
+        "pyyaml",
+        "jinja2"
+      ]
+    },
+    "original_requirements": [
+      "mlx>=0.29.1",
+      "numpy",
+      "transformers>=4.39.3",
+      "protobuf",
+      "pyyaml",
+      "jinja2",
+      "datasets; extra == \"test\"",
+      "lm-eval; extra == \"test\"",
+      "datasets; extra == \"train\"",
+      "tqdm; extra == \"train\"",
+      "lm-eval; extra == \"evaluate\"",
+      "tqdm; extra == \"evaluate\""
+    ]
+  }
+}

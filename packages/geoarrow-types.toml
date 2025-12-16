@@ -1,0 +1,9 @@
+# Package configuration for geoarrow-types
+conda_forge = "geoarrow-types"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "geoarrow_types-0.3.0-py3-none-any.whl" },
+  { filename = "geoarrow_types-0.2.0-py3-none-any.whl" },
+]

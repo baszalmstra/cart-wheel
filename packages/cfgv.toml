@@ -1,0 +1,12 @@
+# Package configuration for cfgv
+conda_forge = "cfgv"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cfgv-3.5.0-py2.py3-none-any.whl" },
+  { filename = "cfgv-3.4.0-py2.py3-none-any.whl" },
+  { filename = "cfgv-3.3.1-py2.py3-none-any.whl" },
+  { filename = "cfgv-3.3.0-py2.py3-none-any.whl" },
+  { filename = "cfgv-3.2.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for taming-transformers-rom1504
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "taming_transformers_rom1504-0.0.6-py3-none-any.whl" },
+  { filename = "taming_transformers_rom1504-0.0.5-py3-none-any.whl" },
+  { filename = "taming_transformers_rom1504-0.0.4-py3-none-any.whl" },
+  { filename = "taming_transformers_rom1504-0.0.3-py3-none-any.whl" },
+  { filename = "taming_transformers_rom1504-0.0.2-py3-none-any.whl" },
+]

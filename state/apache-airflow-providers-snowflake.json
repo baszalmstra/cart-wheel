@@ -1,0 +1,177 @@
+{
+  "apache_airflow_providers_snowflake-6.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72debf99beb1e0cd1673398c745edc7ce803804be1b7b2dc4baf2494cec98093",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "pandas",
+        "pandas",
+        "pyarrow",
+        "pyarrow",
+        "snowflake-connector-python",
+        "snowflake-sqlalchemy",
+        "snowflake-snowpark-python",
+        "snowflake-snowpark-python",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-common-sql>=1.27.5",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "pyarrow>=18.0.0; python_version >= '3.13'",
+      "snowflake-connector-python>=3.16.0",
+      "snowflake-sqlalchemy>=1.7.0",
+      "snowflake-snowpark-python>=1.17.0,<9999;python_version<'3.12'",
+      "snowflake-snowpark-python>=1.27.0,<9999;python_version>='3.12' and python_version<'3.14'",
+      "setuptools>=80.0.0,<9999",
+      "apache-airflow-providers-microsoft-azure>=12.8.0 ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_snowflake-6.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49acbc2eca60e740759f5da287b3911f3e796e64ad9980f52b4edd80bb0246c7",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "pandas",
+        "pandas",
+        "pyarrow",
+        "pyarrow",
+        "snowflake-connector-python",
+        "snowflake-sqlalchemy",
+        "snowflake-snowpark-python",
+        "snowflake-snowpark-python",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.27.5",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "pyarrow>=18.0.0; python_version >= '3.13'",
+      "snowflake-connector-python>=3.16.0",
+      "snowflake-sqlalchemy>=1.7.0",
+      "snowflake-snowpark-python>=1.17.0,<9999;python_version<'3.12'",
+      "snowflake-snowpark-python>=1.27.0,<9999;python_version>='3.12' and python_version<'3.14'",
+      "setuptools>=80.0.0,<9999",
+      "apache-airflow-providers-microsoft-azure>=12.8.0 ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_snowflake-6.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b80519032ac40901d3ccf67bfd4410a4708c53414ebb81a1b170760394501a4",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "pandas",
+        "pandas",
+        "pyarrow",
+        "pyarrow",
+        "snowflake-connector-python",
+        "snowflake-sqlalchemy",
+        "snowflake-snowpark-python",
+        "snowflake-snowpark-python",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.27.5",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "pyarrow>=18.0.0; python_version >= '3.13'",
+      "snowflake-connector-python>=3.16.0",
+      "snowflake-sqlalchemy>=1.7.0",
+      "snowflake-snowpark-python>=1.17.0,<9999;python_version<'3.12'",
+      "snowflake-snowpark-python>=1.27.0,<9999;python_version>='3.12' and python_version<'3.14'",
+      "setuptools>=80.0.0,<9999",
+      "apache-airflow-providers-microsoft-azure>=12.8.0 ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_snowflake-6.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "036d8935c5b1922b67cf3c180f626c1b486cb27fd98de21db66b3d233a5b0f29",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "pandas",
+        "pandas",
+        "pyarrow",
+        "pyarrow",
+        "snowflake-connector-python",
+        "snowflake-sqlalchemy",
+        "snowflake-snowpark-python",
+        "snowflake-snowpark-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.27.5",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "pyarrow>=18.0.0; python_version >= '3.13'",
+      "snowflake-connector-python>=3.7.1",
+      "snowflake-sqlalchemy>=1.4.0",
+      "snowflake-snowpark-python>=1.17.0,<9999;python_version<'3.12'",
+      "snowflake-snowpark-python>=1.27.0,<9999;python_version>='3.12' and python_version<'3.14'",
+      "apache-airflow-providers-microsoft-azure ; extra == \"microsoft-azure\"",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_snowflake-6.5.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c3015577b018b8eb94000c54818e15d69dbed4fa40a6f7c03a182efcf295240",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "pandas",
+        "pandas",
+        "pyarrow",
+        "pyarrow",
+        "snowflake-connector-python",
+        "snowflake-sqlalchemy",
+        "snowflake-snowpark-python",
+        "snowflake-snowpark-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.0",
+      "apache-airflow-providers-common-sql>=1.27.5",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "pyarrow>=18.0.0; python_version >= '3.13'",
+      "snowflake-connector-python>=3.7.1",
+      "snowflake-sqlalchemy>=1.4.0",
+      "snowflake-snowpark-python>=1.17.0;python_version<'3.12'",
+      "snowflake-snowpark-python>=1.27.0,<9999;python_version>='3.12' and python_version<'3.13'",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\""
+    ]
+  }
+}

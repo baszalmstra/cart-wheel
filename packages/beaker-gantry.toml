@@ -1,0 +1,11 @@
+# Package configuration for beaker-gantry
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "beaker_gantry-3.3.1-py3-none-any.whl" },
+  { filename = "beaker_gantry-3.3.0-py3-none-any.whl" },
+  { filename = "beaker_gantry-3.2.0-py3-none-any.whl" },
+  { filename = "beaker_gantry-3.1.0-py3-none-any.whl" },
+  { filename = "beaker_gantry-3.0.0-py3-none-any.whl" },
+]

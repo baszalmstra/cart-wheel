@@ -1,0 +1,11 @@
+# Package configuration for fiddle
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fiddle-0.3.0-py3-none-any.whl" },
+  { filename = "fiddle-0.2.11-py3-none-any.whl" },
+  { filename = "fiddle-0.2.10-py3-none-any.whl" },
+  { filename = "fiddle-0.2.9-py3-none-any.whl" },
+  { filename = "fiddle-0.2.8-py3-none-any.whl" },
+]

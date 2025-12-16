@@ -1,0 +1,11 @@
+# Package configuration for pytest-services
+conda_forge = "pytest-services"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_services-2.2.2-py3-none-any.whl" },
+  { filename = "pytest_services-2.1.0-py3-none-any.whl" },
+  { filename = "pytest_services-2.0.1-py3-none-any.whl" },
+  { filename = "pytest_services-2.0.0-py3-none-any.whl" },
+]

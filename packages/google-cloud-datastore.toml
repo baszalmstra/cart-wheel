@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-datastore
+conda_forge = "google-cloud-datastore"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_datastore-2.21.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_datastore-2.20.2-py2.py3-none-any.whl" },
+  { filename = "google_cloud_datastore-2.20.1-py2.py3-none-any.whl" },
+  { filename = "google_cloud_datastore-2.20.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_datastore-2.19.0-py2.py3-none-any.whl" },
+]

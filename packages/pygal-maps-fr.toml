@@ -1,0 +1,7 @@
+# Package configuration for pygal-maps-fr
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pygal_maps_fr-1.1.0-py3-none-any.whl" },
+]

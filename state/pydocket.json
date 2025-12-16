@@ -1,0 +1,174 @@
+{
+  "pydocket-0.15.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad0d86c9a1bea394e875bcf8c793be2d0a7ebd1891bfe99e2e9eaf99ef0cb42e",
+    "dependencies": {
+      "required": [
+        "cloudpickle",
+        "exceptiongroup",
+        "fakeredis",
+        "opentelemetry-api",
+        "opentelemetry-exporter-prometheus",
+        "opentelemetry-instrumentation",
+        "prometheus-client",
+        "py-key-value-aio",
+        "python-json-logger",
+        "redis",
+        "rich",
+        "typer",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cloudpickle>=3.1.1",
+      "exceptiongroup>=1.2.0; python_version < '3.11'",
+      "fakeredis[lua]>=2.32.1",
+      "opentelemetry-api>=1.33.0",
+      "opentelemetry-exporter-prometheus>=0.60b0",
+      "opentelemetry-instrumentation>=0.60b0",
+      "prometheus-client>=0.21.1",
+      "py-key-value-aio[memory,redis]>=0.3.0",
+      "python-json-logger>=2.0.7",
+      "redis>=5",
+      "rich>=13.9.4",
+      "typer>=0.15.1",
+      "typing-extensions>=4.12.0"
+    ]
+  },
+  "pydocket-0.15.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "21a961f87cd995b40df3f559fb0bae75d925ec0916c10b9739b6c1638ffde436",
+    "dependencies": {
+      "required": [
+        "cloudpickle",
+        "exceptiongroup",
+        "fakeredis",
+        "opentelemetry-api",
+        "opentelemetry-exporter-prometheus",
+        "prometheus-client",
+        "py-key-value-aio",
+        "python-json-logger",
+        "redis",
+        "rich",
+        "typer",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cloudpickle>=3.1.1",
+      "exceptiongroup>=1.2.0; python_version < '3.11'",
+      "fakeredis[lua]>=2.32.1",
+      "opentelemetry-api>=1.30.0",
+      "opentelemetry-exporter-prometheus>=0.51b0",
+      "prometheus-client>=0.21.1",
+      "py-key-value-aio[memory,redis]>=0.3.0",
+      "python-json-logger>=2.0.7",
+      "redis>=5",
+      "rich>=13.9.4",
+      "typer>=0.15.1",
+      "typing-extensions>=4.12.0"
+    ]
+  },
+  "pydocket-0.15.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b915e25b779516c1b1c2b191d7315546072e2cb204fd9a87ff6d70ba34432263",
+    "dependencies": {
+      "required": [
+        "cloudpickle",
+        "exceptiongroup",
+        "fakeredis",
+        "opentelemetry-api",
+        "opentelemetry-exporter-prometheus",
+        "prometheus-client",
+        "py-key-value-aio",
+        "python-json-logger",
+        "redis",
+        "rich",
+        "typer",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cloudpickle>=3.1.1",
+      "exceptiongroup>=1.2.0; python_version < '3.11'",
+      "fakeredis[lua]>=2.32.1",
+      "opentelemetry-api>=1.30.0",
+      "opentelemetry-exporter-prometheus>=0.51b0",
+      "prometheus-client>=0.21.1",
+      "py-key-value-aio[memory,redis]>=0.3.0",
+      "python-json-logger>=2.0.7",
+      "redis>=5",
+      "rich>=13.9.4",
+      "typer>=0.15.1",
+      "typing-extensions>=4.12.0"
+    ]
+  },
+  "pydocket-0.15.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8f8414315bdb2db588a09bd5ea399573052ff2cc185743e5a003db3e91f1cefc",
+    "dependencies": {
+      "required": [
+        "cloudpickle",
+        "exceptiongroup",
+        "fakeredis",
+        "opentelemetry-api",
+        "opentelemetry-exporter-prometheus",
+        "prometheus-client",
+        "py-key-value-aio",
+        "python-json-logger",
+        "redis",
+        "rich",
+        "typer",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cloudpickle>=3.1.1",
+      "exceptiongroup>=1.2.0; python_version < '3.11'",
+      "fakeredis[lua]>=2.32.1",
+      "opentelemetry-api>=1.30.0",
+      "opentelemetry-exporter-prometheus>=0.51b0",
+      "prometheus-client>=0.21.1",
+      "py-key-value-aio[memory,redis]>=0.3.0",
+      "python-json-logger>=2.0.7",
+      "redis>=5",
+      "rich>=13.9.4",
+      "typer>=0.15.1",
+      "typing-extensions>=4.12.0"
+    ]
+  },
+  "pydocket-0.15.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b763ddfae317c3e694cb0d25c690bc14cf5170e062687545b7dbbae4b55b32a",
+    "dependencies": {
+      "required": [
+        "cloudpickle",
+        "exceptiongroup",
+        "fakeredis",
+        "opentelemetry-api",
+        "opentelemetry-exporter-prometheus",
+        "prometheus-client",
+        "py-key-value-aio",
+        "python-json-logger",
+        "redis",
+        "rich",
+        "typer",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cloudpickle>=3.1.1",
+      "exceptiongroup>=1.2.0; python_version < '3.11'",
+      "fakeredis[lua]>=2.32.1",
+      "opentelemetry-api>=1.30.0",
+      "opentelemetry-exporter-prometheus>=0.51b0",
+      "prometheus-client>=0.21.1",
+      "py-key-value-aio[memory,redis]>=0.3.0",
+      "python-json-logger>=2.0.7",
+      "redis>=5",
+      "rich>=13.9.4",
+      "typer>=0.15.1",
+      "typing-extensions>=4.12.0"
+    ]
+  }
+}

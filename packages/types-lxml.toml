@@ -1,0 +1,12 @@
+# Package configuration for types-lxml
+conda_forge = "types-lxml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_lxml-2025.11.25-py3-none-any.whl" },
+  { filename = "types_lxml-2025.8.25-py3-none-any.whl" },
+  { filename = "types_lxml-2025.3.30-py3-none-any.whl" },
+  { filename = "types_lxml-2025.3.4-py3-none-any.whl" },
+  { filename = "types_lxml-2025.2.24-py3-none-any.whl" },
+]

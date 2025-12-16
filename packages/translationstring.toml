@@ -1,0 +1,9 @@
+# Package configuration for translationstring
+conda_forge = "translationstring"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "translationstring-1.4-py2.py3-none-any.whl" },
+  { filename = "translationstring-1.3-py2.py3-none-any.whl" },
+]

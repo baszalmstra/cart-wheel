@@ -1,0 +1,7 @@
+# Package configuration for xai-tabular-widget
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "xai_tabular_widget-0.1.0-py2.py3-none-any.whl" },
+]

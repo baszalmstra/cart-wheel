@@ -1,0 +1,12 @@
+# Package configuration for neo4j
+conda_forge = "neo4j-python-driver"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neo4j-6.0.3-py3-none-any.whl" },
+  { filename = "neo4j-6.0.2-py3-none-any.whl" },
+  { filename = "neo4j-6.0.1-py3-none-any.whl" },
+  { filename = "neo4j-6.0.0-py3-none-any.whl" },
+  { filename = "neo4j-5.28.2-py3-none-any.whl" },
+]

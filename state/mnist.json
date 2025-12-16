@@ -1,0 +1,16 @@
+{
+  "mnist-0.2.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80e2b07992e5cc61e6247751ce8926f6d15ab3ebde1508d9bbc8891a766c7b91",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "mock"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "mock; python_version==\"2.7\""
+    ]
+  }
+}

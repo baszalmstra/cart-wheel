@@ -1,0 +1,12 @@
+# Package configuration for objgraph
+conda_forge = "objgraph"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "objgraph-3.6.2-py3-none-any.whl" },
+  { filename = "objgraph-3.6.1-py2.py3-none-any.whl" },
+  { filename = "objgraph-3.6.0-py2.py3-none-any.whl" },
+  { filename = "objgraph-3.5.0-py2.py3-none-any.whl" },
+  { filename = "objgraph-3.4.1-py2.py3-none-any.whl" },
+]

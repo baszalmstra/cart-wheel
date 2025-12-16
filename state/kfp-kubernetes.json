@@ -1,0 +1,174 @@
+{
+  "kfp_kubernetes-2.15.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0cdb4ff9789233d47119ff5981b9f4c983ac682318df65650d813f8e4ba96e8f",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "kfp"
+      ]
+    },
+    "original_requirements": [
+      "protobuf<7.0,>=6.31.1",
+      "kfp<3,>=2.14.5",
+      "docformatter==1.4; extra == \"dev\"",
+      "isort==5.10.1; extra == \"dev\"",
+      "mypy==0.941; extra == \"dev\"",
+      "pre-commit==2.19.0; extra == \"dev\"",
+      "pycln==2.1.1; extra == \"dev\"",
+      "pytest==7.1.2; extra == \"dev\"",
+      "pytest-xdist==2.5.0; extra == \"dev\"",
+      "yapf==0.32.0; extra == \"dev\""
+    ]
+  },
+  "kfp_kubernetes-2.15.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6ad96779b443d0ed3e7681e01753285e86f6c1e481023a60bacf1a9ce43ac04",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "kfp"
+      ]
+    },
+    "original_requirements": [
+      "protobuf<7.0,>=6.31.1",
+      "kfp<3,>=2.14.5",
+      "docformatter==1.4; extra == \"dev\"",
+      "isort==5.10.1; extra == \"dev\"",
+      "mypy==0.941; extra == \"dev\"",
+      "pre-commit==2.19.0; extra == \"dev\"",
+      "pycln==2.1.1; extra == \"dev\"",
+      "pytest==7.1.2; extra == \"dev\"",
+      "pytest-xdist==2.5.0; extra == \"dev\"",
+      "yapf==0.32.0; extra == \"dev\""
+    ]
+  },
+  "kfp_kubernetes-2.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a50f89ea9f66ee9ce81daa51efde266e0d21e9766bb1f7a41eede47109d2cc0f",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "kfp"
+      ]
+    },
+    "original_requirements": [
+      "protobuf<7.0,>=6.31.1",
+      "kfp<3,>=2.14.5",
+      "docformatter==1.4; extra == \"dev\"",
+      "isort==5.10.1; extra == \"dev\"",
+      "mypy==0.941; extra == \"dev\"",
+      "pre-commit==2.19.0; extra == \"dev\"",
+      "pycln==2.1.1; extra == \"dev\"",
+      "pytest==7.1.2; extra == \"dev\"",
+      "pytest-xdist==2.5.0; extra == \"dev\"",
+      "yapf==0.32.0; extra == \"dev\""
+    ]
+  },
+  "kfp_kubernetes-2.14.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ab5e67e05ec6ff1962643ef01d9fdad98ec74b4694d2420f16e8d3a7ddb72a2",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "kfp"
+      ]
+    },
+    "original_requirements": [
+      "protobuf<7.0,>=6.31.1",
+      "kfp<3,>=2.14.5",
+      "docformatter==1.4; extra == \"dev\"",
+      "isort==5.10.1; extra == \"dev\"",
+      "mypy==0.941; extra == \"dev\"",
+      "pre-commit==2.19.0; extra == \"dev\"",
+      "pycln==2.1.1; extra == \"dev\"",
+      "pytest==7.1.2; extra == \"dev\"",
+      "pytest-xdist==2.5.0; extra == \"dev\"",
+      "yapf==0.32.0; extra == \"dev\""
+    ]
+  },
+  "kfp_kubernetes-2.14.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fa442da7e662228c10657e2893ef9298859c5aa0d452bdf57e6c44c50866d7d5",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "certifi",
+        "charset-normalizer",
+        "click",
+        "click-option-group",
+        "docstring-parser",
+        "google-api-core",
+        "google-auth",
+        "google-cloud-core",
+        "google-cloud-storage",
+        "google-crc32c",
+        "google-resumable-media",
+        "googleapis-common-protos",
+        "idna",
+        "kfp",
+        "kfp-pipeline-spec",
+        "kfp-server-api",
+        "kubernetes",
+        "oauthlib",
+        "proto-plus",
+        "protobuf",
+        "pyasn1",
+        "pyasn1-modules",
+        "python-dateutil",
+        "pyyaml",
+        "requests",
+        "requests-oauthlib",
+        "requests-toolbelt",
+        "rsa",
+        "six",
+        "tabulate",
+        "urllib3",
+        "websocket-client"
+      ]
+    },
+    "original_requirements": [
+      "cachetools==6.2.0",
+      "certifi==2025.10.5",
+      "charset-normalizer==3.4.3",
+      "click==8.1.8",
+      "click-option-group==0.5.7",
+      "docstring-parser==0.17.0",
+      "google-api-core==2.26.0",
+      "google-auth==2.41.1",
+      "google-cloud-core==2.4.3",
+      "google-cloud-storage==3.4.1",
+      "google-crc32c==1.7.1",
+      "google-resumable-media==2.7.2",
+      "googleapis-common-protos==1.70.0",
+      "idna==3.10",
+      "kfp==2.14.5",
+      "kfp-pipeline-spec==2.14.3",
+      "kfp-server-api==2.14.3",
+      "kubernetes==30.1.0",
+      "oauthlib==3.3.1",
+      "proto-plus==1.26.1",
+      "protobuf==6.31.1",
+      "pyasn1==0.6.1",
+      "pyasn1-modules==0.4.2",
+      "python-dateutil==2.9.0.post0",
+      "pyyaml==6.0.3",
+      "requests==2.32.5",
+      "requests-oauthlib==2.0.0",
+      "requests-toolbelt==1.0.0",
+      "rsa==4.9.1",
+      "six==1.17.0",
+      "tabulate==0.9.0",
+      "urllib3==2.5.0",
+      "websocket-client==1.9.0",
+      "docformatter==1.4; extra == \"dev\"",
+      "isort==5.10.1; extra == \"dev\"",
+      "mypy==0.941; extra == \"dev\"",
+      "pre-commit==2.19.0; extra == \"dev\"",
+      "pycln==2.1.1; extra == \"dev\"",
+      "pytest==7.1.2; extra == \"dev\"",
+      "pytest-xdist==2.5.0; extra == \"dev\"",
+      "yapf==0.32.0; extra == \"dev\""
+    ]
+  }
+}

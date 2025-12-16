@@ -1,0 +1,12 @@
+# Package configuration for opensearch-py
+conda_forge = "opensearch-py"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "opensearch_py-3.1.0-py3-none-any.whl" },
+  { filename = "opensearch_py-3.0.0-py3-none-any.whl" },
+  { filename = "opensearch_py-2.8.0-py3-none-any.whl" },
+  { filename = "opensearch_py-2.7.1-py3-none-any.whl" },
+  { filename = "opensearch_py-2.7.0-py3-none-any.whl" },
+]

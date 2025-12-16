@@ -1,0 +1,152 @@
+{
+  "prefect_azure-0.4.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c01ea67c51c7846fa5f9a0e795a8099f7f0fafc05b502003eae5af8abe43d35b",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "azure-identity",
+        "azure-mgmt-containerinstance",
+        "azure-mgmt-resource",
+        "prefect",
+        "prefect-docker",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "azure_identity>=1.10",
+      "azure_mgmt_containerinstance>=10.0",
+      "azure-mgmt-resource>=21.2",
+      "prefect>=3.3.5",
+      "prefect-docker>=0.6.2",
+      "setuptools",
+      "azure-storage-blob; extra == \"blob-storage\"",
+      "azure-cosmos; extra == \"cosmos-db\"",
+      "azureml-core; extra == \"ml-datastore\"",
+      "azure-cosmos; extra == \"all-extras\"",
+      "azure-storage-blob; extra == \"all-extras\"",
+      "azureml-core; extra == \"all-extras\""
+    ]
+  },
+  "prefect_azure-0.4.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b983546bd4f7c45955961b9b58ca8c6ad739ea03a161d7f425039403d6071d92",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "azure-identity",
+        "azure-mgmt-containerinstance",
+        "azure-mgmt-resource",
+        "prefect",
+        "prefect-docker",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "azure_identity>=1.10",
+      "azure_mgmt_containerinstance>=10.0",
+      "azure-mgmt-resource>=21.2",
+      "prefect>=3.3.5",
+      "prefect-docker>=0.6.2",
+      "setuptools",
+      "azure-storage-blob; extra == \"blob-storage\"",
+      "azure-cosmos; extra == \"cosmos-db\"",
+      "azureml-core; extra == \"ml-datastore\"",
+      "azure-cosmos; extra == \"all-extras\"",
+      "azure-storage-blob; extra == \"all-extras\"",
+      "azureml-core; extra == \"all-extras\""
+    ]
+  },
+  "prefect_azure-0.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "340f5ead8e32c34f73cd017b74883b9060c35f85c0156f55737df3c3201ddf54",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "azure-identity",
+        "azure-mgmt-containerinstance",
+        "azure-mgmt-resource",
+        "prefect",
+        "prefect-docker",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "azure_identity>=1.10",
+      "azure_mgmt_containerinstance>=10.0",
+      "azure-mgmt-resource>=21.2",
+      "prefect>=3.3.5",
+      "prefect-docker>=0.6.2",
+      "setuptools",
+      "azure-storage-blob; extra == \"blob-storage\"",
+      "azure-cosmos; extra == \"cosmos-db\"",
+      "azureml-core; extra == \"ml-datastore\"",
+      "azure-cosmos; extra == \"all-extras\"",
+      "azure-storage-blob; extra == \"all-extras\"",
+      "azureml-core; extra == \"all-extras\""
+    ]
+  },
+  "prefect_azure-0.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5e666c5a41f7b1f8987384d1276c29d746b1b4de0c9d78a6b0a024d633630110",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "azure-identity",
+        "azure-mgmt-containerinstance",
+        "azure-mgmt-resource",
+        "prefect",
+        "prefect-docker",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "azure_identity>=1.10",
+      "azure_mgmt_containerinstance>=10.0",
+      "azure-mgmt-resource>=21.2",
+      "prefect>=3.3.5",
+      "prefect-docker>=0.6.2",
+      "setuptools",
+      "azure-storage-blob; extra == \"blob-storage\"",
+      "azure-cosmos; extra == \"cosmos-db\"",
+      "azureml-core; extra == \"ml-datastore\"",
+      "azure-cosmos; extra == \"all-extras\"",
+      "azure-storage-blob; extra == \"all-extras\"",
+      "azureml-core; extra == \"all-extras\""
+    ]
+  },
+  "prefect_azure-0.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d292b9a7815f777326c2c109755a93ff9f6a9450213e014ce2549276c13fc80b",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "azure-identity",
+        "azure-mgmt-containerinstance",
+        "azure-mgmt-resource",
+        "prefect",
+        "prefect-docker",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp",
+      "azure_identity>=1.10",
+      "azure_mgmt_containerinstance>=10.0",
+      "azure-mgmt-resource>=21.2",
+      "prefect>=3.1.1",
+      "prefect-docker>=0.6.2",
+      "setuptools",
+      "azure-storage-blob; extra == \"blob-storage\"",
+      "azure-cosmos; extra == \"cosmos-db\"",
+      "azureml-core; extra == \"ml-datastore\"",
+      "azure-cosmos; extra == \"all-extras\"",
+      "azure-storage-blob; extra == \"all-extras\"",
+      "azureml-core; extra == \"all-extras\""
+    ]
+  }
+}

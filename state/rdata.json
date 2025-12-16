@@ -1,0 +1,139 @@
+{
+  "rdata-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b671e31676e158dc215297595d5085aee1674b91be3c26e38638ca056167d402",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "pandas",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "xarray",
+      "pandas",
+      "typing_extensions>4.4",
+      "igraph; extra == \"docs\"",
+      "ipywidgets; extra == \"docs\"",
+      "jupyterlite-sphinx; extra == \"docs\"",
+      "jupyterlite-pyodide-kernel; extra == \"docs\"",
+      "matplotlib; extra == \"docs\"",
+      "myst-parser; extra == \"docs\"",
+      "pydata-sphinx-theme; extra == \"docs\"",
+      "sphinx>=3.1; extra == \"docs\"",
+      "sphinx-codeautolink; extra == \"docs\"",
+      "sphinx-gallery; extra == \"docs\"",
+      "matplotlib>=3.8; extra == \"typing\"",
+      "mypy; extra == \"typing\"",
+      "pandas-stubs; extra == \"typing\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "numpy>=1.14; extra == \"test\""
+    ]
+  },
+  "rdata-0.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d819241bcec2aaaf5d267256cbdbcbe4fcbfae66b605e7a34980049f80521450",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "pandas",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "xarray",
+      "pandas",
+      "typing-extensions >4.4",
+      "igraph ; extra == 'docs'",
+      "ipywidgets ; extra == 'docs'",
+      "jupyterlite-sphinx ; extra == 'docs'",
+      "jupyterlite-pyodide-kernel ; extra == 'docs'",
+      "matplotlib ; extra == 'docs'",
+      "myst-parser ; extra == 'docs'",
+      "pydata-sphinx-theme ; extra == 'docs'",
+      "sphinx >=3.1 ; extra == 'docs'",
+      "sphinx-codeautolink ; extra == 'docs'",
+      "sphinx-gallery ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "numpy >=1.14 ; extra == 'test'",
+      "matplotlib >=3.8 ; extra == 'typing'",
+      "mypy ; extra == 'typing'",
+      "pandas-stubs ; extra == 'typing'"
+    ]
+  },
+  "rdata-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6c8ae03b779c1449c0ff6f9fb36aaa6b17542f54b1aa2b28cfa0b5f7c679e1e",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "xarray",
+      "pandas",
+      "igraph ; extra == 'docs'",
+      "ipywidgets ; extra == 'docs'",
+      "jupyterlite-sphinx ; extra == 'docs'",
+      "jupyterlite-pyodide-kernel ; extra == 'docs'",
+      "matplotlib ; extra == 'docs'",
+      "pydata-sphinx-theme ; extra == 'docs'",
+      "sphinx >=3.1 ; extra == 'docs'",
+      "sphinx-gallery ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "numpy >=1.14 ; extra == 'test'"
+    ]
+  },
+  "rdata-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c510aa4b8b1c48b43e77198cdc80c36a1f5f989a24d24e202803395158d06b22",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "xarray",
+      "pandas",
+      "ipywidgets ; extra == 'docs'",
+      "jupyterlite-sphinx ; extra == 'docs'",
+      "jupyterlite-pyodide-kernel ; extra == 'docs'",
+      "matplotlib ; extra == 'docs'",
+      "pydata-sphinx-theme ; extra == 'docs'",
+      "sphinx >=3.1 ; extra == 'docs'",
+      "sphinx-gallery ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "numpy >=1.14 ; extra == 'test'"
+    ]
+  },
+  "rdata-0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eec68fa652b2bbadadd81ee27f6e561b488c61d844b4a70482c160b311c5361d",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "xarray",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "xarray",
+      "pandas"
+    ]
+  }
+}

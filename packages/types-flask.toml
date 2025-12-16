@@ -1,0 +1,12 @@
+# Package configuration for types-flask
+conda_forge = "types-flask"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_Flask-1.1.6-py3-none-any.whl" },
+  { filename = "types_Flask-1.1.5-py3-none-any.whl" },
+  { filename = "types_Flask-1.1.4-py3-none-any.whl" },
+  { filename = "types_Flask-1.1.3-py3-none-any.whl" },
+  { filename = "types_Flask-1.1.2-py3-none-any.whl" },
+]

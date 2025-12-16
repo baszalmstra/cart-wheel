@@ -1,0 +1,11 @@
+# Package configuration for jaraco.functools
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaraco_functools-4.3.0-py3-none-any.whl" },
+  { filename = "jaraco_functools-4.2.1-py3-none-any.whl" },
+  { filename = "jaraco_functools-4.2.0-py3-none-any.whl" },
+  { filename = "jaraco.functools-4.1.0-py3-none-any.whl" },
+  { filename = "jaraco.functools-4.0.2-py3-none-any.whl" },
+]

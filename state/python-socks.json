@@ -1,0 +1,67 @@
+{
+  "python_socks-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "57c24b416569ccea493a101d38b0c82ed54be603aa50b6afbe64c46e4a4e4315",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "async-timeout>=4.0; python_version < \"3.11\" and extra == \"asyncio\"",
+      "trio>=0.24; extra == \"trio\"",
+      "curio>=1.4; extra == \"curio\"",
+      "anyio<5.0.0,>=3.3.4; extra == \"anyio\""
+    ]
+  },
+  "python_socks-2.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0fda261fa8d08bbcbb7852cdf5e7f576f15d5e55559f6bc16db1bad8bad399b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "async-timeout>=4.0; python_version < \"3.11\" and extra == \"asyncio\"",
+      "trio>=0.24; extra == \"trio\"",
+      "curio>=1.4; extra == \"curio\"",
+      "anyio<5.0.0,>=3.3.4; extra == \"anyio\""
+    ]
+  },
+  "python_socks-2.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d311aefbacc0ddfaa1fa1c32096c436d4fe75b899c24d78e677e1b0623c52c48",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "async-timeout>=4.0; python_version < \"3.11\" and extra == \"asyncio\"",
+      "trio>=0.24; extra == \"trio\"",
+      "curio>=1.4; extra == \"curio\"",
+      "anyio<5.0.0,>=3.3.4; extra == \"anyio\""
+    ]
+  },
+  "python_socks-2.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2603c6454eeaeb82b464ad705be188989e8cf1a4a16f0af3c921d6dd71a49cec",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "async-timeout>=4.0; python_version < \"3.11\" and extra == \"asyncio\"",
+      "trio>=0.24; extra == \"trio\"",
+      "curio>=1.4; extra == \"curio\"",
+      "anyio<5.0.0,>=3.3.4; extra == \"anyio\""
+    ]
+  },
+  "python_socks-2.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eea4d29dfc83b0a5eff65f560ecb9b7a139e1ab7268becc919faf81536f50cb6",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "async-timeout>=4.0; python_version < \"3.11\" and extra == \"asyncio\"",
+      "trio>=0.24; extra == \"trio\"",
+      "curio>=1.4; extra == \"curio\"",
+      "anyio<5.0.0,>=3.3.4; extra == \"anyio\""
+    ]
+  }
+}

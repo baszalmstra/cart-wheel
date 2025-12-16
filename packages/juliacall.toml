@@ -1,0 +1,12 @@
+# Package configuration for juliacall
+conda_forge = "pyjuliacall"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "juliacall-0.9.30-py3-none-any.whl" },
+  { filename = "juliacall-0.9.29-py3-none-any.whl" },
+  { filename = "juliacall-0.9.28-py3-none-any.whl" },
+  { filename = "juliacall-0.9.27-py3-none-any.whl" },
+  { filename = "juliacall-0.9.26-py3-none-any.whl" },
+]

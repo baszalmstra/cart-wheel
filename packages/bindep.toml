@@ -1,0 +1,11 @@
+# Package configuration for bindep
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bindep-2.13.0-py3-none-any.whl" },
+  { filename = "bindep-2.12.0-py3-none-any.whl" },
+  { filename = "bindep-2.11.0-py2.py3-none-any.whl" },
+  { filename = "bindep-2.10.2-py2.py3-none-any.whl" },
+  { filename = "bindep-2.10.1-py2.py3-none-any.whl" },
+]

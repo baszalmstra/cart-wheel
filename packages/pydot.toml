@@ -1,0 +1,12 @@
+# Package configuration for pydot
+conda_forge = "pydot"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydot-4.0.1-py3-none-any.whl" },
+  { filename = "pydot-4.0.0-py3-none-any.whl" },
+  { filename = "pydot-3.0.4-py3-none-any.whl" },
+  { filename = "pydot-3.0.3-py3-none-any.whl" },
+  { filename = "pydot-3.0.2-py3-none-any.whl" },
+]

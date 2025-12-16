@@ -1,0 +1,134 @@
+{
+  "structlog-25.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8453e9b9e636ec59bd9e79bbd4a72f025981b3ba0f5837aebf48f02f37a7f9f",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < '3.11'"
+    ]
+  },
+  "structlog-25.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe809ff5c27e557d14e613f45ca441aabda051d119ee5a0102aaba6ce40eed2c",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < '3.11'"
+    ]
+  },
+  "structlog-25.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a341f5524004c158498c3127eecded091eb67d3a611e7a3093deca30db06e172",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < '3.11'",
+      "freezegun>=0.2.8; extra == 'dev'",
+      "mypy>=1.4; extra == 'dev'",
+      "pretend; extra == 'dev'",
+      "pytest-asyncio>=0.17; extra == 'dev'",
+      "pytest>=6.0; extra == 'dev'",
+      "rich; extra == 'dev'",
+      "simplejson; extra == 'dev'",
+      "twisted; extra == 'dev'",
+      "cogapp; extra == 'docs'",
+      "furo; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-notfound-page; extra == 'docs'",
+      "sphinxcontrib-mermaid; extra == 'docs'",
+      "sphinxext-opengraph; extra == 'docs'",
+      "twisted; extra == 'docs'",
+      "freezegun>=0.2.8; extra == 'tests'",
+      "pretend; extra == 'tests'",
+      "pytest-asyncio>=0.17; extra == 'tests'",
+      "pytest>=6.0; extra == 'tests'",
+      "simplejson; extra == 'tests'",
+      "mypy>=1.4; extra == 'typing'",
+      "rich; extra == 'typing'",
+      "twisted; extra == 'typing'"
+    ]
+  },
+  "structlog-25.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0fecea2e345d5d491b72f3db2e5fcd6393abfc8cd06a4851f21fcd4d1a99f437",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < '3.11'",
+      "freezegun>=0.2.8; extra == 'dev'",
+      "mypy>=1.4; extra == 'dev'",
+      "pretend; extra == 'dev'",
+      "pytest-asyncio>=0.17; extra == 'dev'",
+      "pytest>=6.0; extra == 'dev'",
+      "rich; extra == 'dev'",
+      "simplejson; extra == 'dev'",
+      "twisted; extra == 'dev'",
+      "cogapp; extra == 'docs'",
+      "furo; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-notfound-page; extra == 'docs'",
+      "sphinxcontrib-mermaid; extra == 'docs'",
+      "sphinxext-opengraph; extra == 'docs'",
+      "twisted; extra == 'docs'",
+      "freezegun>=0.2.8; extra == 'tests'",
+      "pretend; extra == 'tests'",
+      "pytest-asyncio>=0.17; extra == 'tests'",
+      "pytest>=6.0; extra == 'tests'",
+      "simplejson; extra == 'tests'",
+      "mypy>=1.4; extra == 'typing'",
+      "rich; extra == 'typing'",
+      "twisted; extra == 'typing'"
+    ]
+  },
+  "structlog-25.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "843fe4f254540329f380812cbe612e1af5ec5b8172205ae634679cd35a6d6321",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < '3.11'",
+      "freezegun>=0.2.8; extra == 'dev'",
+      "mypy>=1.4; extra == 'dev'",
+      "pretend; extra == 'dev'",
+      "pytest-asyncio>=0.17; extra == 'dev'",
+      "pytest>=6.0; extra == 'dev'",
+      "rich; extra == 'dev'",
+      "simplejson; extra == 'dev'",
+      "twisted; extra == 'dev'",
+      "cogapp; extra == 'docs'",
+      "furo; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-notfound-page; extra == 'docs'",
+      "sphinxcontrib-mermaid; extra == 'docs'",
+      "sphinxext-opengraph; extra == 'docs'",
+      "twisted; extra == 'docs'",
+      "freezegun>=0.2.8; extra == 'tests'",
+      "pretend; extra == 'tests'",
+      "pytest-asyncio>=0.17; extra == 'tests'",
+      "pytest>=6.0; extra == 'tests'",
+      "simplejson; extra == 'tests'",
+      "mypy>=1.4; extra == 'typing'",
+      "rich; extra == 'typing'",
+      "twisted; extra == 'typing'"
+    ]
+  }
+}

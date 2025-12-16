@@ -1,0 +1,12 @@
+# Package configuration for pins
+conda_forge = "pins"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pins-0.9.1-py2.py3-none-any.whl" },
+  { filename = "pins-0.9.0-py2.py3-none-any.whl" },
+  { filename = "pins-0.8.7-py2.py3-none-any.whl" },
+  { filename = "pins-0.8.6-py2.py3-none-any.whl" },
+  { filename = "pins-0.8.5-py2.py3-none-any.whl" },
+]

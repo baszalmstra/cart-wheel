@@ -1,0 +1,8 @@
+# Package configuration for sphinx-icon
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_icon-0.2.2-py3-none-any.whl" },
+  { filename = "sphinx_icon-0.2.1-py3-none-any.whl" },
+]

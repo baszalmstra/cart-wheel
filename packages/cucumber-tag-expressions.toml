@@ -1,0 +1,12 @@
+# Package configuration for cucumber-tag-expressions
+conda_forge = "cucumber-tag-expressions"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cucumber_tag_expressions-8.1.0-py3-none-any.whl" },
+  { filename = "cucumber_tag_expressions-8.0.0-py3-none-any.whl" },
+  { filename = "cucumber_tag_expressions-7.0.0-py2.py3-none-any.whl" },
+  { filename = "cucumber_tag_expressions-6.2.0-py2.py3-none-any.whl" },
+  { filename = "cucumber_tag_expressions-6.1.2-py2.py3-none-any.whl" },
+]

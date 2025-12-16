@@ -1,0 +1,12 @@
+# Package configuration for ydb-dbapi
+conda_forge = "ydb-dbapi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ydb_dbapi-0.1.16-py3-none-any.whl" },
+  { filename = "ydb_dbapi-0.1.15-py3-none-any.whl" },
+  { filename = "ydb_dbapi-0.1.14-py3-none-any.whl" },
+  { filename = "ydb_dbapi-0.1.13-py3-none-any.whl" },
+  { filename = "ydb_dbapi-0.1.12-py3-none-any.whl" },
+]

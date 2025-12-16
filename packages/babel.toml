@@ -1,0 +1,12 @@
+# Package configuration for babel
+conda_forge = "babel"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "babel-2.17.0-py3-none-any.whl" },
+  { filename = "babel-2.16.0-py3-none-any.whl" },
+  { filename = "Babel-2.15.0-py3-none-any.whl" },
+  { filename = "Babel-2.14.0-py3-none-any.whl" },
+  { filename = "Babel-2.13.1-py3-none-any.whl" },
+]

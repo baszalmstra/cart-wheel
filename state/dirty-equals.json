@@ -1,0 +1,61 @@
+{
+  "dirty_equals-0.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b1d7093273fc2f9be12f443a8ead954ef6daaf6746fd42ef3a5616433ee85286",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pydantic>=2.4.2; extra == 'pydantic'"
+    ]
+  },
+  "dirty_equals-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bbf4a4eaafd56e371dafe2edf2265315ebd71a441b142ed801511aa33e4c3438",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pydantic>=2.4.2; extra == 'pydantic'"
+    ]
+  },
+  "dirty_equals-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff4d027f5cfa1b69573af00f7ba9043ea652dbdce3fe5cbe828e478c7346db9c",
+    "dependencies": {
+      "required": [
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "pytz>=2021.3; python_version < '3.9'",
+      "pydantic>=2.4.2; extra == 'pydantic'"
+    ]
+  },
+  "dirty_equals-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ef998ba3c395e03cf5eb3cd1c13c26a9a992efa18c0d59c22ba27344519cee1",
+    "dependencies": {
+      "required": [
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "pytz>=2021.3; python_version < '3.9'",
+      "pydantic>=2.4.2; extra == 'pydantic'"
+    ]
+  },
+  "dirty_equals-0.7.1.post0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7fb9217ea7cd04c0e95ace3bc717e2ee5532b8990518533483e53b5a43903c88",
+    "dependencies": {
+      "required": [
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "pytz>=2021.3",
+      "pydantic>=2.4.2; extra == 'pydantic'"
+    ]
+  }
+}

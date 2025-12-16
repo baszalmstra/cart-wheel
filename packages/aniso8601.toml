@@ -1,0 +1,12 @@
+# Package configuration for aniso8601
+conda_forge = "aniso8601"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aniso8601-10.0.1-py2.py3-none-any.whl" },
+  { filename = "aniso8601-10.0.0-py2.py3-none-any.whl" },
+  { filename = "aniso8601-9.0.1-py2.py3-none-any.whl" },
+  { filename = "aniso8601-9.0.0-py2.py3-none-any.whl" },
+  { filename = "aniso8601-8.1.1-py2.py3-none-any.whl" },
+]

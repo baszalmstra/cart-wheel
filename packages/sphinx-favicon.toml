@@ -1,0 +1,11 @@
+# Package configuration for sphinx-favicon
+conda_forge = "sphinx-favicon"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_favicon-1.0.1-py3-none-any.whl" },
+  { filename = "sphinx_favicon-1.0-py3-none-any.whl" },
+  { filename = "sphinx_favicon-0.2-py3-none-any.whl" },
+  { filename = "sphinx_favicon-0.1-py3-none-any.whl" },
+]

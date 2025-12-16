@@ -1,0 +1,25 @@
+{
+  "snapshottest-0.6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b177cffe0870c589df8ddbee0a770149c5474b251955bdbde58b7f32a4ec429",
+    "dependencies": {
+      "required": [
+        "six",
+        "termcolor",
+        "fastdiff"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.10.0)",
+      "termcolor",
+      "fastdiff (<1,>=0.1.4)",
+      "nose ; extra == 'nose'",
+      "pytest ; extra == 'pytest'",
+      "six ; extra == 'test'",
+      "pytest (>=4.6) ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "nose ; extra == 'test'",
+      "django (>=1.10.6) ; extra == 'test'"
+    ]
+  }
+}

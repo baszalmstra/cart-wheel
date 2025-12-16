@@ -1,0 +1,10 @@
+# Package configuration for faicons
+conda_forge = "faicons"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "faicons-0.2.2-py3-none-any.whl" },
+  { filename = "faicons-0.2.1-py3-none-any.whl" },
+  { filename = "faicons-0.2.0-py3-none-any.whl" },
+]

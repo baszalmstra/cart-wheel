@@ -1,0 +1,92 @@
+{
+  "langchain_huggingface-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ff6a17d3eb36ce2304f446e3285c74b59358703e8f7916c15bfcf9ec7b57bf1",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "langchain-core",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub<1.0.0,>=0.33.4",
+      "langchain-core<2.0.0,>=1.2.0",
+      "tokenizers<1.0.0,>=0.19.1",
+      "sentence-transformers<3.0.0,>=2.6.0; extra == 'full'",
+      "transformers<5.0.0,>=4.39.0; extra == 'full'"
+    ]
+  },
+  "langchain_huggingface-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3a5218a839062941cb616992bcbc4fe73352454727bafc351a452e76aead1a8",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "langchain-core",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub<1.0.0,>=0.33.4",
+      "langchain-core<2.0.0,>=1.1.0",
+      "tokenizers<1.0.0,>=0.19.1",
+      "sentence-transformers<3.0.0,>=2.6.0; extra == 'full'",
+      "transformers<5.0.0,>=4.39.0; extra == 'full'"
+    ]
+  },
+  "langchain_huggingface-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "032325539dd6b2970910356ecfc363283e8b4e51fb1890de40666a52e95e7d53",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "langchain-core",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub<1.0.0,>=0.33.4",
+      "langchain-core<2.0.0,>=1.0.3",
+      "tokenizers<1.0.0,>=0.19.1",
+      "sentence-transformers<3.0.0,>=2.6.0; extra == 'full'",
+      "transformers<5.0.0,>=4.39.0; extra == 'full'"
+    ]
+  },
+  "langchain_huggingface-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "06d6ac57951c6a1c47d329c38f2b32472a839eab2fa14883be784916ea075da0",
+    "dependencies": {
+      "required": [
+        "huggingface-hub",
+        "langchain-core",
+        "tokenizers"
+      ]
+    },
+    "original_requirements": [
+      "huggingface-hub<1.0.0,>=0.33.4",
+      "langchain-core<2.0.0,>=1.0.0",
+      "tokenizers<1.0.0,>=0.19.1",
+      "sentence-transformers<3.0.0,>=2.6.0; extra == 'full'",
+      "transformers<5.0.0,>=4.39.0; extra == 'full'"
+    ]
+  },
+  "langchain_huggingface-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de10a692dc812885696fbaab607d28ac86b833b0f305bccd5d82d60336b07b7d",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "tokenizers",
+        "huggingface-hub"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<1.0.0,>=0.3.70",
+      "tokenizers>=0.19.1",
+      "huggingface-hub>=0.33.4",
+      "transformers>=4.39.0; extra == \"full\"",
+      "sentence-transformers>=2.6.0; extra == \"full\""
+    ]
+  }
+}

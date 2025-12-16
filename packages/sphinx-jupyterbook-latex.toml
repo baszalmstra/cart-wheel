@@ -1,0 +1,12 @@
+# Package configuration for sphinx-jupyterbook-latex
+conda_forge = "sphinx-jupyterbook-latex"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_jupyterbook_latex-1.0.0-py3-none-any.whl" },
+  { filename = "sphinx_jupyterbook_latex-0.5.2-py3-none-any.whl" },
+  { filename = "sphinx_jupyterbook_latex-0.5.1-py3-none-any.whl" },
+  { filename = "sphinx_jupyterbook_latex-0.5.0-py3-none-any.whl" },
+  { filename = "sphinx_jupyterbook_latex-0.4.7-py3-none-any.whl" },
+]

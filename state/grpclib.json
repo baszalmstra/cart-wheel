@@ -1,0 +1,17 @@
+{
+  "grpclib-0.4.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a5047733a7acc1c1cee6abf3c841c7c6fab67d2844a45a853b113fa2e6cd2654",
+    "dependencies": {
+      "required": [
+        "h2",
+        "multidict"
+      ]
+    },
+    "original_requirements": [
+      "h2 <5,>=3.1.0",
+      "multidict",
+      "protobuf >=3.20.0 ; extra == 'protobuf'"
+    ]
+  }
+}

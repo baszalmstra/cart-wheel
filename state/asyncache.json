@@ -1,0 +1,58 @@
+{
+  "asyncache-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef20a1024d265090dd1e0785c961cf98b9c32cc7d9478973dcf25ac1b80011f5",
+    "dependencies": {
+      "required": [
+        "cachetools"
+      ]
+    },
+    "original_requirements": [
+      "cachetools (>=5.2.0,<6.0.0)"
+    ]
+  },
+  "asyncache-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2d489b4f610a9a0c68a483abe55f3cb373aac7ad3fdbb6b5731f5424adfb31e9",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "mypy",
+        "types-cachetools"
+      ]
+    },
+    "original_requirements": [
+      "cachetools (>=5.2.0,<6.0.0)",
+      "mypy (>=0.982,<0.983)",
+      "types-cachetools (>=5.2.1,<6.0.0)"
+    ]
+  },
+  "asyncache-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "357c085016058c6f4294b7f4517af8b2eaf79f3c6bc7b580492649d7893afa69",
+    "dependencies": {
+      "required": [
+        "cachetools",
+        "mypy",
+        "types-cachetools"
+      ]
+    },
+    "original_requirements": [
+      "cachetools (>=5.2.0,<6.0.0)",
+      "mypy (>=0.982,<0.983)",
+      "types-cachetools (>=5.2.1,<6.0.0)"
+    ]
+  },
+  "asyncache-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "622e3324ef4252d0afb5c1f2de15eab455276469c96d06c579a08dd31224a752",
+    "dependencies": {
+      "required": [
+        "cachetools"
+      ]
+    },
+    "original_requirements": [
+      "cachetools (>=2.1)"
+    ]
+  }
+}

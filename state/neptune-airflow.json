@@ -1,0 +1,34 @@
+{
+  "neptune_airflow-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc19c7034091b8da1c63558b3f5c99ad44f4de9af5ed31be953531191138976f",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.6.3) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\""
+    ]
+  },
+  "neptune_airflow-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39a3ac45dad092b4ea671df13c14d3ffe1845842bed1940edb28542954fe8ad9",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.6.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\""
+    ]
+  }
+}

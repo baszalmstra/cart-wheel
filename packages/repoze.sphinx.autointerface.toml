@@ -1,0 +1,8 @@
+# Package configuration for repoze.sphinx.autointerface
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "repoze.sphinx.autointerface-1.0.0-py3-none-any.whl" },
+  { filename = "repoze.sphinx.autointerface-0.8-py3-none-any.whl" },
+]

@@ -1,0 +1,312 @@
+{
+  "ansible_navigator-25.12.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:50.299102+00:00",
+    "conda_file": "ansible-navigator-25.12.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "ansible-builder",
+        "ansible-runner",
+        "ansible-lint",
+        "jinja2",
+        "jsonschema",
+        "onigurumacffi",
+        "pyyaml",
+        "setuptools",
+        "tzdata"
+      ],
+      "optional": {
+        "docs": [
+          "mkdocs-ansible"
+        ],
+        "test": [
+          "ansible-core",
+          "coverage-enable-subprocess",
+          "coverage[extras=[toml]]",
+          "darglint",
+          "flake8-docstrings",
+          "libtmux",
+          "pre-commit",
+          "pytest-env",
+          "pytest-mock",
+          "pytest-plus",
+          "pytest-subtests",
+          "pytest-xdist"
+        ]
+      }
+    },
+    "original_requirements": [
+      "ansible-builder>=3.0.0",
+      "ansible-runner<3,>=2.3.1",
+      "ansible-lint>=6.19.0",
+      "jinja2",
+      "jsonschema",
+      "onigurumacffi<2,>=1.1.0",
+      "pyyaml",
+      "setuptools>=63.1.0; python_version >= \"3.11\"",
+      "tzdata",
+      "mkdocs-ansible>=24.3.0; extra == \"docs\"",
+      "ansible-core; extra == \"test\"",
+      "coverage-enable-subprocess; extra == \"test\"",
+      "coverage[toml]>=7.4.3; extra == \"test\"",
+      "darglint; extra == \"test\"",
+      "flake8-docstrings; extra == \"test\"",
+      "libtmux>=0.36.0; extra == \"test\"",
+      "pre-commit; extra == \"test\"",
+      "pytest-env; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-plus; extra == \"test\"",
+      "pytest-subtests; extra == \"test\"",
+      "pytest-xdist; extra == \"test\""
+    ]
+  },
+  "ansible_navigator-25.11.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:50.470911+00:00",
+    "conda_file": "ansible-navigator-25.11.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "ansible-builder",
+        "ansible-runner",
+        "ansible-lint",
+        "jinja2",
+        "jsonschema",
+        "onigurumacffi",
+        "pyyaml",
+        "setuptools",
+        "tzdata"
+      ],
+      "optional": {
+        "docs": [
+          "mkdocs-ansible"
+        ],
+        "test": [
+          "ansible-core",
+          "coverage-enable-subprocess",
+          "coverage[extras=[toml]]",
+          "darglint",
+          "flake8-docstrings",
+          "libtmux",
+          "pre-commit",
+          "pytest-env",
+          "pytest-mock",
+          "pytest-plus",
+          "pytest-subtests",
+          "pytest-xdist"
+        ]
+      }
+    },
+    "original_requirements": [
+      "ansible-builder>=3.0.0",
+      "ansible-runner<3,>=2.3.1",
+      "ansible-lint>=6.19.0",
+      "jinja2",
+      "jsonschema",
+      "onigurumacffi<2,>=1.1.0",
+      "pyyaml",
+      "setuptools>=63.1.0; python_version >= \"3.11\"",
+      "tzdata",
+      "mkdocs-ansible>=24.3.0; extra == \"docs\"",
+      "ansible-core; extra == \"test\"",
+      "coverage-enable-subprocess; extra == \"test\"",
+      "coverage[toml]>=7.4.3; extra == \"test\"",
+      "darglint; extra == \"test\"",
+      "flake8-docstrings; extra == \"test\"",
+      "libtmux>=0.36.0; extra == \"test\"",
+      "pre-commit; extra == \"test\"",
+      "pytest-env; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-plus; extra == \"test\"",
+      "pytest-subtests; extra == \"test\"",
+      "pytest-xdist; extra == \"test\""
+    ]
+  },
+  "ansible_navigator-25.9.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:50.704078+00:00",
+    "conda_file": "ansible-navigator-25.9.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "ansible-builder",
+        "ansible-runner",
+        "ansible-lint",
+        "jinja2",
+        "jsonschema",
+        "onigurumacffi",
+        "pyyaml",
+        "setuptools",
+        "tzdata"
+      ],
+      "optional": {
+        "docs": [
+          "mkdocs-ansible"
+        ],
+        "test": [
+          "ansible-core",
+          "coverage-enable-subprocess",
+          "coverage[extras=[toml]]",
+          "darglint",
+          "flake8-docstrings",
+          "libtmux",
+          "pre-commit",
+          "pytest-env",
+          "pytest-mock",
+          "pytest-plus",
+          "pytest-subtests",
+          "pytest-xdist"
+        ]
+      }
+    },
+    "original_requirements": [
+      "ansible-builder>=3.0.0",
+      "ansible-runner<3,>=2.3.1",
+      "ansible-lint>=6.19.0",
+      "jinja2",
+      "jsonschema",
+      "onigurumacffi<2,>=1.1.0",
+      "pyyaml",
+      "setuptools>=63.1.0; python_version >= \"3.11\"",
+      "tzdata",
+      "mkdocs-ansible>=24.3.0; extra == \"docs\"",
+      "ansible-core; extra == \"test\"",
+      "coverage-enable-subprocess; extra == \"test\"",
+      "coverage[toml]>=7.4.3; extra == \"test\"",
+      "darglint; extra == \"test\"",
+      "flake8-docstrings; extra == \"test\"",
+      "libtmux>=0.36.0; extra == \"test\"",
+      "pre-commit; extra == \"test\"",
+      "pytest-env; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-plus; extra == \"test\"",
+      "pytest-subtests; extra == \"test\"",
+      "pytest-xdist; extra == \"test\""
+    ]
+  },
+  "ansible_navigator-25.8.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:50.953508+00:00",
+    "conda_file": "ansible-navigator-25.8.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "ansible-builder",
+        "ansible-runner",
+        "ansible-lint",
+        "jinja2",
+        "jsonschema",
+        "onigurumacffi",
+        "pyyaml",
+        "setuptools",
+        "tzdata"
+      ],
+      "optional": {
+        "docs": [
+          "mkdocs-ansible"
+        ],
+        "test": [
+          "ansible-core",
+          "coverage-enable-subprocess",
+          "coverage[extras=[toml]]",
+          "darglint",
+          "flake8-docstrings",
+          "libtmux",
+          "pre-commit",
+          "pytest-env",
+          "pytest-mock",
+          "pytest-plus",
+          "pytest-subtests",
+          "pytest-xdist"
+        ]
+      }
+    },
+    "original_requirements": [
+      "ansible-builder>=3.0.0",
+      "ansible-runner<3,>=2.3.1",
+      "ansible-lint>=6.19.0",
+      "jinja2",
+      "jsonschema",
+      "onigurumacffi<2,>=1.1.0",
+      "pyyaml",
+      "setuptools>=63.1.0; python_version >= \"3.11\"",
+      "tzdata",
+      "mkdocs-ansible>=24.3.0; extra == \"docs\"",
+      "ansible-core; extra == \"test\"",
+      "coverage-enable-subprocess; extra == \"test\"",
+      "coverage[toml]>=7.4.3; extra == \"test\"",
+      "darglint; extra == \"test\"",
+      "flake8-docstrings; extra == \"test\"",
+      "libtmux>=0.36.0; extra == \"test\"",
+      "pre-commit; extra == \"test\"",
+      "pytest-env; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-plus; extra == \"test\"",
+      "pytest-subtests; extra == \"test\"",
+      "pytest-xdist; extra == \"test\""
+    ]
+  },
+  "ansible_navigator-25.5.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:51.194526+00:00",
+    "conda_file": "ansible-navigator-25.5.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "ansible-builder",
+        "ansible-runner",
+        "ansible-lint",
+        "jinja2",
+        "jsonschema",
+        "onigurumacffi",
+        "pyyaml",
+        "setuptools",
+        "tzdata"
+      ],
+      "optional": {
+        "docs": [
+          "mkdocs-ansible"
+        ],
+        "test": [
+          "ansible-core",
+          "coverage-enable-subprocess",
+          "coverage[extras=[toml]]",
+          "darglint",
+          "flake8-docstrings",
+          "libtmux",
+          "pre-commit",
+          "pytest-env",
+          "pytest-mock",
+          "pytest-plus",
+          "pytest-subtests",
+          "pytest-xdist"
+        ]
+      }
+    },
+    "original_requirements": [
+      "ansible-builder>=3.0.0",
+      "ansible-runner<3,>=2.3.1",
+      "ansible-lint>=6.19.0",
+      "jinja2",
+      "jsonschema",
+      "onigurumacffi<2,>=1.1.0",
+      "pyyaml",
+      "setuptools>=63.1.0; python_version >= \"3.11\"",
+      "tzdata",
+      "mkdocs-ansible>=24.3.0; extra == \"docs\"",
+      "ansible-core; extra == \"test\"",
+      "coverage-enable-subprocess; extra == \"test\"",
+      "coverage[toml]>=7.4.3; extra == \"test\"",
+      "darglint; extra == \"test\"",
+      "flake8-docstrings; extra == \"test\"",
+      "libtmux>=0.36.0; extra == \"test\"",
+      "pre-commit; extra == \"test\"",
+      "pytest-env; extra == \"test\"",
+      "pytest-mock; extra == \"test\"",
+      "pytest-plus; extra == \"test\"",
+      "pytest-subtests; extra == \"test\"",
+      "pytest-xdist; extra == \"test\""
+    ]
+  }
+}

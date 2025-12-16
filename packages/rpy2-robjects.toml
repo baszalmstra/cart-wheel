@@ -1,0 +1,11 @@
+# Package configuration for rpy2-robjects
+conda_forge = "rpy2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rpy2_robjects-3.6.3-py3-none-any.whl" },
+  { filename = "rpy2_robjects-3.6.2-py3-none-any.whl" },
+  { filename = "rpy2_robjects-3.6.1-py3-none-any.whl" },
+  { filename = "rpy2_robjects-3.6.0-py3-none-any.whl" },
+]

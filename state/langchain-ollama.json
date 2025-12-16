@@ -1,0 +1,72 @@
+{
+  "langchain_ollama-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37eb939a4718a0255fe31e19fbb0def044746c717b01b97d397606ebc3e9b440",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "ollama"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=1.0.0",
+      "ollama<1.0.0,>=0.6.0"
+    ]
+  },
+  "langchain_ollama-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5828523fcbd137847490841110a6aedf96b68534e7fe2735715ecf3e835b2391",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "ollama"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=1.0.0",
+      "ollama<1.0.0,>=0.6.0"
+    ]
+  },
+  "langchain_ollama-0.3.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7550792872e8f86d362568e9ceb0f8085428bc59946c7b44e726358ba4b280f9",
+    "dependencies": {
+      "required": [
+        "ollama",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "ollama<1.0.0,>=0.5.3",
+      "langchain-core<2.0.0,>=0.3.76"
+    ]
+  },
+  "langchain_ollama-0.3.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40ee57c86325bb962d483b1f1fa602371e2d00c89a85a69ed685b5e999a88367",
+    "dependencies": {
+      "required": [
+        "ollama",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "ollama<1.0.0,>=0.5.3",
+      "langchain-core<2.0.0,>=0.3.76"
+    ]
+  },
+  "langchain_ollama-0.3.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79898316d5663c6b08bc758c82b4e136f826cad2be84b4a26be11f1b0ebf686a",
+    "dependencies": {
+      "required": [
+        "ollama",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "ollama<1.0.0,>=0.5.3",
+      "langchain-core<1.0.0,>=0.3.76"
+    ]
+  }
+}

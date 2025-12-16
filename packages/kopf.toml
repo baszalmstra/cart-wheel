@@ -1,0 +1,12 @@
+# Package configuration for kopf
+conda_forge = "kopf"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kopf-1.39.0-py3-none-any.whl" },
+  { filename = "kopf-1.38.0-py3-none-any.whl" },
+  { filename = "kopf-1.37.5-py3-none-any.whl" },
+  { filename = "kopf-1.37.4-py3-none-any.whl" },
+  { filename = "kopf-1.37.3-py3-none-any.whl" },
+]

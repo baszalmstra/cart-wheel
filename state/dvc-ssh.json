@@ -1,0 +1,143 @@
+{
+  "dvc_ssh-4.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8078b784518b29e63014f151ec21009f72de56216081b570a09fcb8aeac91dd",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "sshfs"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "sshfs[bcrypt]>=2023.4.1",
+      "dvc-ssh[tests]; extra == \"dev\"",
+      "mypy==1.18.2; extra == \"dev\"",
+      "sshfs[gssapi]>=2021.11.2; extra == \"gssapi\"",
+      "dvc[testing]; extra == \"tests\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-xdist>=3.2; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-docker<4,>=1; extra == \"tests\""
+    ]
+  },
+  "dvc_ssh-4.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "102cadbd368eddfbf211b6dd8b43c16d2c4fc6486f587a8c53afe0055c8db977",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "sshfs"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "sshfs[bcrypt]>=2023.4.1",
+      "dvc-ssh[tests]; extra == \"dev\"",
+      "mypy==1.14.1; extra == \"dev\"",
+      "sshfs[gssapi]>=2021.11.2; extra == \"gssapi\"",
+      "dvc[testing]; extra == \"tests\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-xdist>=3.2; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-docker<4,>=1; extra == \"tests\""
+    ]
+  },
+  "dvc_ssh-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b8c23acafa732e9cf51893fd9b86d7a91bb28cee3560fa1b5008f6cc0a927094",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "sshfs"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "sshfs[bcrypt]>=2023.4.1",
+      "dvc-ssh[tests]; extra == \"dev\"",
+      "mypy==1.14.1; extra == \"dev\"",
+      "sshfs[gssapi]>=2021.11.2; extra == \"gssapi\"",
+      "dvc[testing]; extra == \"tests\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-xdist>=3.2; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-docker<4,>=1; extra == \"tests\""
+    ]
+  },
+  "dvc_ssh-4.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c9221e35d566c1f4ac7fe06ccd0d9546e7f6cc417575f496b8d28bb81664c526",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "sshfs"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "sshfs[bcrypt] >=2023.4.1",
+      "sshfs[gssapi] >=2021.11.2 ; extra == 'gssapi'",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==6.2.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-docker <2,>=1 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "mypy ==0.981 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_ssh-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "42f444e8a73f823ba9f3f8898f725982d17fc9159d72f4b302abbad3e3ca1574",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "sshfs"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "sshfs[bcrypt] >=2023.4.1",
+      "sshfs[gssapi] >=2021.11.2 ; extra == 'gssapi'",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==6.2.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-docker <2,>=1 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "mypy ==0.981 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "pyobjc_framework_cinematic-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c003543bb6908379680a93dfd77a44228686b86c118cf3bc930f60241d0cd141",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-avfoundation",
+        "pyobjc-framework-coremedia",
+        "pyobjc-framework-metal"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1",
+      "pyobjc-framework-AVFoundation>=12.1",
+      "pyobjc-framework-CoreMedia>=12.1",
+      "pyobjc-framework-Metal>=12.1"
+    ]
+  },
+  "pyobjc_framework_cinematic-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c8a4e862731a623e7a4c29e466a4ad9ee7630653567aa32c586914e16f91ae7",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-avfoundation",
+        "pyobjc-framework-coremedia",
+        "pyobjc-framework-metal"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0",
+      "pyobjc-framework-AVFoundation>=12.0",
+      "pyobjc-framework-CoreMedia>=12.0",
+      "pyobjc-framework-Metal>=12.0"
+    ]
+  },
+  "pyobjc_framework_cinematic-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b62c024c1a9c7890481bc2fdfaf0cd3c251a4a08357d57dc1795d98920fcdbd1",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-avfoundation",
+        "pyobjc-framework-coremedia",
+        "pyobjc-framework-metal"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1",
+      "pyobjc-framework-AVFoundation>=11.1",
+      "pyobjc-framework-CoreMedia>=11.1",
+      "pyobjc-framework-Metal>=11.1"
+    ]
+  },
+  "pyobjc_framework_Cinematic-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "281721969978d726ded9bae38c4acd6713495c399025ff2b4179fc02ec68b336",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-avfoundation",
+        "pyobjc-framework-coremedia",
+        "pyobjc-framework-metal"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0",
+      "pyobjc-framework-AVFoundation >=11.0",
+      "pyobjc-framework-CoreMedia >=11.0",
+      "pyobjc-framework-Metal >=11.0"
+    ]
+  },
+  "pyobjc_framework_Cinematic-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67ad6860b0f171d2f2cede0afdd2707858cb7cb53b750b002e380e26500cb620",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-avfoundation",
+        "pyobjc-framework-coremedia",
+        "pyobjc-framework-metal"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2",
+      "pyobjc-framework-AVFoundation>=10.3.2",
+      "pyobjc-framework-CoreMedia>=10.3.2",
+      "pyobjc-framework-Metal>=10.3.2"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for cerebras-cloud-sdk
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cerebras_cloud_sdk-1.59.0-py3-none-any.whl" },
+  { filename = "cerebras_cloud_sdk-1.56.1-py3-none-any.whl" },
+  { filename = "cerebras_cloud_sdk-1.50.1-py3-none-any.whl" },
+  { filename = "cerebras_cloud_sdk-1.50.0-py3-none-any.whl" },
+  { filename = "cerebras_cloud_sdk-1.49.0-py3-none-any.whl" },
+]

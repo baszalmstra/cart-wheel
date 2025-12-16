@@ -1,0 +1,172 @@
+{
+  "furiosa_registry-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c0c8b6c0f3e3191ba785de1890f35d1de74a72cca9c7a58f7e55bd6c5758d11",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "aiofiles",
+        "aiohttp",
+        "multipledispatch",
+        "pydantic",
+        "toml",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "aiofiles",
+      "aiohttp ~= 3.8.3",
+      "multipledispatch",
+      "pydantic",
+      "toml",
+      "tqdm",
+      "boto3 ; extra == \"s3\"",
+      "aioboto3 ; extra == \"s3\"",
+      "moto[s3] ; extra == \"s3\"",
+      "botocore ; extra == \"s3\"",
+      "pytest ; extra == \"test\"",
+      "pytest-aiohttp ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\"",
+      "types-aiofiles ; extra == \"test\"",
+      "types-toml ; extra == \"test\"",
+      "types-PyYAML ; extra == \"test\""
+    ]
+  },
+  "furiosa_registry-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ee02a1ab415fe126cbad245d3abe581cbaee63de2a6f1722c6cf192f5a2c128",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "aiofiles",
+        "aiohttp",
+        "multipledispatch",
+        "pydantic",
+        "toml",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "aiofiles",
+      "aiohttp ~= 3.8.3",
+      "multipledispatch",
+      "pydantic",
+      "toml",
+      "tqdm",
+      "boto3 ; extra == \"s3\"",
+      "aioboto3 ; extra == \"s3\"",
+      "moto[s3] ; extra == \"s3\"",
+      "botocore ; extra == \"s3\"",
+      "pytest ; extra == \"test\"",
+      "pytest-aiohttp ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\"",
+      "types-aiofiles ; extra == \"test\"",
+      "types-toml ; extra == \"test\"",
+      "types-PyYAML ; extra == \"test\""
+    ]
+  },
+  "furiosa_registry-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "386855173ab0a4811ef39ba0c5e797b14d766d919509eb2e5d02a04f5bdf832f",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "aiofiles",
+        "aiohttp",
+        "multipledispatch",
+        "pydantic",
+        "toml",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "aiofiles",
+      "aiohttp ~= 3.8.3",
+      "multipledispatch",
+      "pydantic",
+      "toml",
+      "tqdm",
+      "boto3 ; extra == \"s3\"",
+      "aioboto3 ; extra == \"s3\"",
+      "moto[s3] ; extra == \"s3\"",
+      "botocore ; extra == \"s3\"",
+      "pytest ; extra == \"test\"",
+      "pytest-aiohttp ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\"",
+      "types-aiofiles ; extra == \"test\"",
+      "types-toml ; extra == \"test\"",
+      "types-PyYAML ; extra == \"test\""
+    ]
+  },
+  "furiosa_registry-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67bf28942d7adbabb8a7ec6452fe7de876ad857a6fd96e8cc73f1bde6b8ebe48",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "aiofiles",
+        "aiohttp",
+        "multipledispatch",
+        "pydantic",
+        "toml",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "aiofiles",
+      "aiohttp ~= 3.8.3",
+      "multipledispatch",
+      "pydantic",
+      "toml",
+      "tqdm",
+      "boto3 ; extra == \"s3\"",
+      "aioboto3 ; extra == \"s3\"",
+      "moto[s3] ; extra == \"s3\"",
+      "botocore ; extra == \"s3\"",
+      "pytest ; extra == \"test\"",
+      "pytest-aiohttp ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\"",
+      "types-aiofiles ; extra == \"test\"",
+      "types-toml ; extra == \"test\"",
+      "types-PyYAML ; extra == \"test\""
+    ]
+  },
+  "furiosa_registry-0.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7847069f1dbf2087a7a8c8ed32d220d1ea7a0cd8b0f03119c1589ce6b181ecbd",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "aiofiles",
+        "aiohttp",
+        "multipledispatch",
+        "pydantic",
+        "toml",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "aiofiles",
+      "aiohttp ~= 3.8.3",
+      "multipledispatch",
+      "pydantic",
+      "toml",
+      "tqdm",
+      "boto3 ; extra == \"s3\"",
+      "aioboto3 ; extra == \"s3\"",
+      "moto[s3] ; extra == \"s3\"",
+      "botocore ; extra == \"s3\"",
+      "pytest ; extra == \"test\"",
+      "pytest-aiohttp ; extra == \"test\"",
+      "pytest-asyncio ~= 0.17.2 ; extra == \"test\"",
+      "types-aiofiles ; extra == \"test\"",
+      "types-toml ; extra == \"test\"",
+      "types-PyYAML ; extra == \"test\""
+    ]
+  }
+}

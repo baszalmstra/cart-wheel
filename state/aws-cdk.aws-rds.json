@@ -1,0 +1,192 @@
+{
+  "aws_cdk.aws_rds-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcaa94439ea1b2797178bac81532b4b6feec9471d7555e91030c3dd7168bf37f",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-logs",
+        "aws-cdk.aws-s3",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.204.0)",
+      "aws-cdk.aws-ec2 (==1.204.0)",
+      "aws-cdk.aws-events (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-kms (==1.204.0)",
+      "aws-cdk.aws-logs (==1.204.0)",
+      "aws-cdk.aws-s3 (==1.204.0)",
+      "aws-cdk.aws-secretsmanager (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "aws-cdk.cx-api (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_rds-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d9b9b4026b6810fc500fbb8e8d4ae9a94064b775c894115459b3036eaf6aa91c",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-logs",
+        "aws-cdk.aws-s3",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.203.0)",
+      "aws-cdk.aws-ec2 (==1.203.0)",
+      "aws-cdk.aws-events (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-kms (==1.203.0)",
+      "aws-cdk.aws-logs (==1.203.0)",
+      "aws-cdk.aws-s3 (==1.203.0)",
+      "aws-cdk.aws-secretsmanager (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "aws-cdk.cx-api (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_rds-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "921a2db47447c8456b9c349c724359c0607c482d5d1b0abee4f44ae90e4f3538",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-logs",
+        "aws-cdk.aws-s3",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.202.0)",
+      "aws-cdk.aws-ec2 (==1.202.0)",
+      "aws-cdk.aws-events (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-kms (==1.202.0)",
+      "aws-cdk.aws-logs (==1.202.0)",
+      "aws-cdk.aws-s3 (==1.202.0)",
+      "aws-cdk.aws-secretsmanager (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "aws-cdk.cx-api (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_rds-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "785075be03c3761135742b158850f23dc0951b57f9ac7e7929b445e7f0f102b7",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-logs",
+        "aws-cdk.aws-s3",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.201.0)",
+      "aws-cdk.aws-ec2 (==1.201.0)",
+      "aws-cdk.aws-events (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-kms (==1.201.0)",
+      "aws-cdk.aws-logs (==1.201.0)",
+      "aws-cdk.aws-s3 (==1.201.0)",
+      "aws-cdk.aws-secretsmanager (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "aws-cdk.cx-api (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_rds-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ce335685de616c16a7dc9b57580fe86506c3d30761266815ebdf7a78747411c8",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-cloudwatch",
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-events",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-logs",
+        "aws-cdk.aws-s3",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.core",
+        "aws-cdk.cx-api",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-cloudwatch (==1.200.0)",
+      "aws-cdk.aws-ec2 (==1.200.0)",
+      "aws-cdk.aws-events (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-kms (==1.200.0)",
+      "aws-cdk.aws-logs (==1.200.0)",
+      "aws-cdk.aws-s3 (==1.200.0)",
+      "aws-cdk.aws-secretsmanager (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "aws-cdk.cx-api (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

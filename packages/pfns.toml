@@ -1,0 +1,11 @@
+# Package configuration for pfns
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pfns-0.4.2-py3-none-any.whl" },
+  { filename = "pfns-0.4.1-py3-none-any.whl" },
+  { filename = "pfns-0.4.0-py3-none-any.whl" },
+  { filename = "pfns-0.3.1-py3-none-any.whl" },
+  { filename = "pfns-0.3.0-py3-none-any.whl" },
+]

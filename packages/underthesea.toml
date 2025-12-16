@@ -1,0 +1,11 @@
+# Package configuration for underthesea
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "underthesea-8.3.0-py3-none-any.whl" },
+  { filename = "underthesea-8.2.0-py3-none-any.whl" },
+  { filename = "underthesea-8.1.0-py3-none-any.whl" },
+  { filename = "underthesea-8.0.1-py3-none-any.whl" },
+  { filename = "underthesea-8.0.0-py3-none-any.whl" },
+]

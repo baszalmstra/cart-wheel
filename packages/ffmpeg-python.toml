@@ -1,0 +1,10 @@
+# Package configuration for ffmpeg-python
+conda_forge = "ffmpeg-python"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ffmpeg_python-0.2.0-py3-none-any.whl" },
+  { filename = "ffmpeg_python-0.1.18-py3-none-any.whl" },
+  { filename = "ffmpeg_python-0.1.17-py3-none-any.whl" },
+]

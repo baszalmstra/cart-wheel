@@ -1,0 +1,12 @@
+# Package configuration for ase
+conda_forge = "ase"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ase-3.26.0-py3-none-any.whl" },
+  { filename = "ase-3.25.0-py3-none-any.whl" },
+  { filename = "ase-3.24.0-py3-none-any.whl" },
+  { filename = "ase-3.23.0-py3-none-any.whl" },
+  { filename = "ase-3.22.1-py3-none-any.whl" },
+]

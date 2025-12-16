@@ -1,0 +1,9 @@
+# Package configuration for retry2
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "retry2-0.9.5-py2.py3-none-any.whl" },
+  { filename = "retry2-0.9.4-py2.py3-none-any.whl" },
+  { filename = "retry2-0.9.3-py2.py3-none-any.whl" },
+]

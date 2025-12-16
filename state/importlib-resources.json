@@ -1,0 +1,132 @@
+{
+  "importlib_resources-6.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "789cfdc3ed28c78b67a06acb8126751ced69a3d5f79c095a98298cd8a760ccec",
+    "dependencies": {
+      "required": [
+        "zipp"
+      ]
+    },
+    "original_requirements": [
+      "zipp>=3.1.0; python_version < \"3.10\"",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "zipp>=3.17; extra == \"test\"",
+      "jaraco.test>=5.4; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "importlib_resources-6.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1db285ef06f980573f0a2c33de835cf9bcbd511c320d7bb332adfc4860c1ec2c",
+    "dependencies": {
+      "required": [
+        "zipp"
+      ]
+    },
+    "original_requirements": [
+      "zipp>=3.1.0; python_version < \"3.10\"",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "zipp>=3.17; extra == \"test\"",
+      "jaraco.test>=5.4; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "importlib_resources-6.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "47cf6506b7900dcbde3ef334e41bf759a034e110269aa9793f0e624ddb2bf090",
+    "dependencies": {
+      "required": [
+        "zipp"
+      ]
+    },
+    "original_requirements": [
+      "zipp>=3.1.0; python_version < \"3.10\"",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "zipp>=3.17; extra == \"test\"",
+      "jaraco.test>=5.4; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "importlib_resources-6.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac29d5f956f01d5e4bb63102a5a19957f1b9175e45649977264a1416783bb717",
+    "dependencies": {
+      "required": [
+        "zipp"
+      ]
+    },
+    "original_requirements": [
+      "zipp >=3.1.0 ; python_version < \"3.10\"",
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "zipp >=3.17 ; extra == 'test'",
+      "jaraco.test >=5.4 ; extra == 'test'",
+      "pytest-mypy ; extra == 'type'"
+    ]
+  },
+  "importlib_resources-6.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dda242603d1c9cd836c3368b1174ed74cb4049ecd209e7a1a0104620c18c5c11",
+    "dependencies": {
+      "required": [
+        "zipp"
+      ]
+    },
+    "original_requirements": [
+      "zipp >=3.1.0 ; python_version < \"3.10\"",
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "zipp >=3.17 ; extra == 'test'",
+      "jaraco.test >=5.4 ; extra == 'test'",
+      "pytest-mypy ; extra == 'type'"
+    ]
+  }
+}

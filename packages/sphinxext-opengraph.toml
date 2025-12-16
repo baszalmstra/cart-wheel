@@ -1,0 +1,12 @@
+# Package configuration for sphinxext-opengraph
+conda_forge = "sphinxext-opengraph"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxext_opengraph-0.13.0-py3-none-any.whl" },
+  { filename = "sphinxext_opengraph-0.12.0-py3-none-any.whl" },
+  { filename = "sphinxext_opengraph-0.11.0-py3-none-any.whl" },
+  { filename = "sphinxext_opengraph-0.10.0-py3-none-any.whl" },
+  { filename = "sphinxext_opengraph-0.9.1-py3-none-any.whl" },
+]

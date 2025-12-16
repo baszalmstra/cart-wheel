@@ -1,0 +1,12 @@
+# Package configuration for rsa
+conda_forge = "rsa"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rsa-4.9.1-py3-none-any.whl" },
+  { filename = "rsa-4.9-py3-none-any.whl" },
+  { filename = "rsa-4.8-py3-none-any.whl" },
+  { filename = "rsa-4.7.2-py3-none-any.whl" },
+  { filename = "rsa-4.7.1-py3-none-any.whl" },
+]

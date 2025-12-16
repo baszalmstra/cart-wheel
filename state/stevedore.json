@@ -1,0 +1,52 @@
+{
+  "stevedore-5.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a36dccefd7aeea0c70135526cecb7766c4c84c473b1af68db23d541b6dc1820",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "stevedore-5.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18363d4d268181e8e8452e71a38cd77630f345b2ef6b4a8d5614dac5ee0d18cf",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "stevedore-5.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d10a31c7b86cba16c1f6e8d15416955fc797052351a56af15e608ad20811fcfe",
+    "dependencies": {
+      "required": [
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "pbr >=2.0.0"
+    ]
+  },
+  "stevedore-5.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b0be3c4748b3ea7b854b265dcb4caa891015e442416422be16f8b31756107857",
+    "dependencies": {
+      "required": [
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "pbr (>=2.0.0)"
+    ]
+  },
+  "stevedore-5.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1efd34ca08f474dad08d9b19e934a22c68bb6fe416926479ba29e5013bcc8f78",
+    "dependencies": {
+      "required": [
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "pbr (>=2.0.0)"
+    ]
+  }
+}

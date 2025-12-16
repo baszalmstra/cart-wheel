@@ -1,0 +1,44 @@
+{
+  "pyproject_hooks-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e5c6bfa8dcc30091c74b0cf803c81fdd29d94f01992a7707bc97babb1141913",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "pyproject_hooks-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7ceeefe9aec63a1064c18d939bdc3adf2d8aa1988a510afec15151578b232aa2",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "pyproject_hooks-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "283c11acd6b928d2f6a7c73fa0d01cb2bdc5f07c57a2eeb6e83d5e56b97976f8",
+    "dependencies": {
+      "required": [
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "tomli >=1.1.0 ; python_version<'3.11'"
+    ]
+  },
+  "pyproject_hooks-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4361a2ade030a8ca24f2124f748563f4308733ff1046e8ff043c1057de89df87",
+    "dependencies": {
+      "required": [
+        "tomli",
+        "importlib-metadata",
+        "zipp"
+      ]
+    },
+    "original_requirements": [
+      "tomli >=1.1.0",
+      "importlib_metadata;python_version<'3.8'",
+      "zipp;python_version<'3.8'"
+    ]
+  }
+}

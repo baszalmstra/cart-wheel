@@ -1,0 +1,11 @@
+# Package configuration for kagglesdk
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kagglesdk-0.1.13-py3-none-any.whl" },
+  { filename = "kagglesdk-0.1.12-py3-none-any.whl" },
+  { filename = "kagglesdk-0.1.7-py3-none-any.whl" },
+  { filename = "kagglesdk-0.1.6-py3-none-any.whl" },
+  { filename = "kagglesdk-0.1.5-py3-none-any.whl" },
+]

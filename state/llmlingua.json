@@ -1,0 +1,184 @@
+{
+  "llmlingua-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da55137efe0db78063b3395396efe8a0dcfe4ae5a09aea0d503c34b7bf1d800c",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "accelerate",
+        "torch",
+        "tiktoken",
+        "nltk",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "transformers >=4.26.0",
+      "accelerate",
+      "torch",
+      "tiktoken",
+      "nltk",
+      "numpy",
+      "transformers >=4.26.0 ; extra == 'dev'",
+      "accelerate ; extra == 'dev'",
+      "torch ; extra == 'dev'",
+      "tiktoken ; extra == 'dev'",
+      "nltk ; extra == 'dev'",
+      "numpy ; extra == 'dev'",
+      "black ==21.4b0 ; extra == 'dev'",
+      "flake8 >=3.8.3 ; extra == 'dev'",
+      "isort >=5.5.4 ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "black ==21.4b0 ; extra == 'quality'",
+      "flake8 >=3.8.3 ; extra == 'quality'",
+      "isort >=5.5.4 ; extra == 'quality'",
+      "pre-commit ; extra == 'quality'",
+      "pytest ; extra == 'quality'",
+      "pytest-xdist ; extra == 'quality'"
+    ]
+  },
+  "llmlingua-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e032200acce5de362cf1ef18f70d79c79c45e00e4bf28150c4dbd714d5f8a988",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "accelerate",
+        "torch",
+        "tiktoken",
+        "nltk",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "transformers >=4.26.0",
+      "accelerate",
+      "torch",
+      "tiktoken",
+      "nltk",
+      "numpy",
+      "transformers >=4.26.0 ; extra == 'dev'",
+      "accelerate ; extra == 'dev'",
+      "torch ; extra == 'dev'",
+      "tiktoken ; extra == 'dev'",
+      "nltk ; extra == 'dev'",
+      "numpy ; extra == 'dev'",
+      "black ==21.4b0 ; extra == 'dev'",
+      "flake8 >=3.8.3 ; extra == 'dev'",
+      "isort >=5.5.4 ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "black ==21.4b0 ; extra == 'quality'",
+      "flake8 >=3.8.3 ; extra == 'quality'",
+      "isort >=5.5.4 ; extra == 'quality'",
+      "pre-commit ; extra == 'quality'",
+      "pytest ; extra == 'quality'",
+      "pytest-xdist ; extra == 'quality'"
+    ]
+  },
+  "llmlingua-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3578ec6a6ecbc1a418913f7cdc07321ff70df0a17d4471679a230c6f79f9f15",
+    "dependencies": {
+      "required": [
+        "transformers",
+        "accelerate",
+        "torch",
+        "tiktoken",
+        "nltk",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "transformers >=4.26.0",
+      "accelerate",
+      "torch",
+      "tiktoken",
+      "nltk",
+      "numpy",
+      "transformers >=4.26.0 ; extra == 'dev'",
+      "accelerate ; extra == 'dev'",
+      "torch ; extra == 'dev'",
+      "tiktoken ; extra == 'dev'",
+      "nltk ; extra == 'dev'",
+      "numpy ; extra == 'dev'",
+      "black ==21.4b0 ; extra == 'dev'",
+      "flake8 >=3.8.3 ; extra == 'dev'",
+      "isort >=5.5.4 ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "black ==21.4b0 ; extra == 'quality'",
+      "flake8 >=3.8.3 ; extra == 'quality'",
+      "isort >=5.5.4 ; extra == 'quality'",
+      "pre-commit ; extra == 'quality'",
+      "pytest ; extra == 'quality'",
+      "pytest-xdist ; extra == 'quality'"
+    ]
+  },
+  "llmlingua-0.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd6e7c32223ce0662df8c12eb4976beab33212fb207b2241a66733e427701ce0",
+    "dependencies": {
+      "required": [
+        "nltk",
+        "numpy",
+        "tiktoken",
+        "torch",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "nltk",
+      "numpy",
+      "tiktoken",
+      "torch",
+      "transformers (>=4.26.0)",
+      "black (==21.4b0) ; extra == 'dev'",
+      "flake8 (>=3.8.3) ; extra == 'dev'",
+      "isort (>=5.5.4) ; extra == 'dev'",
+      "nltk ; extra == 'dev'",
+      "numpy ; extra == 'dev'",
+      "tiktoken ; extra == 'dev'",
+      "torch ; extra == 'dev'",
+      "transformers (>=4.26.0) ; extra == 'dev'",
+      "black (==21.4b0) ; extra == 'quality'",
+      "flake8 (>=3.8.3) ; extra == 'quality'",
+      "isort (>=5.5.4) ; extra == 'quality'"
+    ]
+  },
+  "llmlingua-0.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "12ada2040ae489d662748221dbfc0d611cfbf8d4d2f3ad02150bd808ddd91892",
+    "dependencies": {
+      "required": [
+        "nltk",
+        "numpy",
+        "tiktoken",
+        "torch",
+        "transformers"
+      ]
+    },
+    "original_requirements": [
+      "nltk",
+      "numpy",
+      "tiktoken",
+      "torch",
+      "transformers (>=4.26.0)",
+      "black (==21.4b0) ; extra == 'dev'",
+      "flake8 (>=3.8.3) ; extra == 'dev'",
+      "isort (>=5.5.4) ; extra == 'dev'",
+      "nltk ; extra == 'dev'",
+      "numpy ; extra == 'dev'",
+      "tiktoken ; extra == 'dev'",
+      "torch ; extra == 'dev'",
+      "transformers (>=4.26.0) ; extra == 'dev'",
+      "black (==21.4b0) ; extra == 'quality'",
+      "flake8 (>=3.8.3) ; extra == 'quality'",
+      "isort (>=5.5.4) ; extra == 'quality'"
+    ]
+  }
+}

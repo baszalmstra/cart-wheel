@@ -1,0 +1,86 @@
+{
+  "oslotest-6.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0cd6cd5c283f94df214710caf629d7d603e10a5148b266ade8e3a9fa5d60b3c0",
+    "dependencies": {
+      "required": [
+        "fixtures",
+        "python-subunit",
+        "testtools"
+      ]
+    },
+    "original_requirements": [
+      "fixtures >=3.0.0",
+      "python-subunit >=1.0.0",
+      "testtools >=2.2.0"
+    ]
+  },
+  "oslotest-5.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9697273e75c8f7084313d7b12af78fb28801a7d4f3db4d7946fecf5835c3682f",
+    "dependencies": {
+      "required": [
+        "fixtures",
+        "python-subunit",
+        "testtools"
+      ]
+    },
+    "original_requirements": [
+      "fixtures >=3.0.0",
+      "python-subunit >=1.0.0",
+      "testtools >=2.2.0"
+    ]
+  },
+  "oslotest-5.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5954ae48f0dd5a6b274f3c3aeae70849d0ad539a7b31d59c30f477d912d72bc2",
+    "dependencies": {
+      "required": [
+        "fixtures",
+        "python-subunit",
+        "testtools"
+      ]
+    },
+    "original_requirements": [
+      "fixtures (>=3.0.0)",
+      "python-subunit (>=1.0.0)",
+      "testtools (>=2.2.0)"
+    ]
+  },
+  "oslotest-4.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1004554dce97d0d3e9acc9af5dcff326379ffdcc91c4df42cf4c00572419c64e",
+    "dependencies": {
+      "required": [
+        "fixtures",
+        "python-subunit",
+        "six",
+        "testtools"
+      ]
+    },
+    "original_requirements": [
+      "fixtures (>=3.0.0)",
+      "python-subunit (>=1.0.0)",
+      "six (>=1.10.0)",
+      "testtools (>=2.2.0)"
+    ]
+  },
+  "oslotest-4.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d2229a7974217c449787e97b659602f987a111dc6b1d5445032c6ffada4fd5a",
+    "dependencies": {
+      "required": [
+        "fixtures",
+        "python-subunit",
+        "six",
+        "testtools"
+      ]
+    },
+    "original_requirements": [
+      "fixtures (>=3.0.0)",
+      "python-subunit (>=1.0.0)",
+      "six (>=1.10.0)",
+      "testtools (>=2.2.0)"
+    ]
+  }
+}

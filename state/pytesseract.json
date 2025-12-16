@@ -1,0 +1,44 @@
+{
+  "pytesseract-0.3.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a99c6c2ac598360693d83a416e36e0b33a67638bb9d77fdcac094a3589d4b34",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=21.3",
+      "Pillow>=8.0.0"
+    ]
+  },
+  "pytesseract-0.3.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8f22cc98f765bf13517ead0c70effedb46c153540d25783e04014f28b55a5fc6",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "packaging (>=21.3)",
+      "Pillow (>=8.0.0)"
+    ]
+  },
+  "pytesseract-0.3.9-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fecda37d1e4eaf744c657cd03a5daab4eb97c61506ac5550274322c8ae32eca2",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pillow"
+      ]
+    },
+    "original_requirements": [
+      "packaging (>=21.3)",
+      "Pillow (>=8.0.0)"
+    ]
+  }
+}

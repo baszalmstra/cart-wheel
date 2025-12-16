@@ -1,0 +1,9 @@
+# Package configuration for pyzenodo3
+conda_forge = "pyzenodo3"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyzenodo3-0.1.1-py3-none-any.whl" },
+  { filename = "pyzenodo3-0.1.0-py3-none-any.whl" },
+]

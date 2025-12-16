@@ -1,0 +1,72 @@
+{
+  "pytest_plus-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b8e9037716c9d7b708074863933897681f86d852d9c4e9717271be143dbdfb6",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.4.2",
+      "coverage>=7.0.0; extra == \"test\"",
+      "pytest-html; extra == \"test\""
+    ]
+  },
+  "pytest_plus-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b964432773dda8fc77f767f6b3ea0a3ef5d9ead1de74d12b3dc7d6d00341d334",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.4.2",
+      "coverage>=7.0.0; extra == \"test\"",
+      "pytest-html; extra == \"test\""
+    ]
+  },
+  "pytest_plus-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9d5a98ebfb83be4a73543af19e656917dc6f067e417df6a4afbe41e73ea47723",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=7.4.2",
+      "coverage >=7.0.0 ; extra == 'test'",
+      "pytest-html ; extra == 'test'"
+    ]
+  },
+  "pytest_plus-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62cf8af1b370c772299fccb47530767f65d6880f7d36c912573552ec3464a321",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=7.4.2",
+      "coverage >=7.0.0 ; extra == 'test'",
+      "pytest-html ; extra == 'test'"
+    ]
+  },
+  "pytest_plus-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03747b121251eddde2879ccf294b9ee309ea45dd7fbc0835ea4f4d98a3f820af",
+    "dependencies": {
+      "required": [
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=7.4.2",
+      "coverage >=7.0.0 ; extra == 'test'",
+      "pytest-html ; extra == 'test'"
+    ]
+  }
+}

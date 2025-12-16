@@ -1,0 +1,102 @@
+{
+  "pylibjpeg-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "25df9496a69e64e98c887fddee12a1271e275b5f74ba804f9bf98a08bb80993e",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pylibjpeg-rle ; extra == \"all\"",
+      "pylibjpeg-openjpeg ; extra == \"all\"",
+      "pylibjpeg-libjpeg ; extra == \"all\"",
+      "black>=23.12 ; extra == \"dev\"",
+      "mypy>=1.8 ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "pytest-cov ; extra == \"dev\"",
+      "pylibjpeg-libjpeg ; extra == \"libjpeg\"",
+      "pylibjpeg-openjpeg ; extra == \"openjpeg\"",
+      "pylibjpeg-rle ; extra == \"rle\""
+    ]
+  },
+  "pylibjpeg-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90b611304c99b0752c0e0d78d3c3c25ea0b1a53c82e40c78f347367a8709edcc",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pylibjpeg-rle ; extra == \"all\"",
+      "pylibjpeg-openjpeg ; extra == \"all\"",
+      "pylibjpeg-libjpeg ; extra == \"all\"",
+      "black>=23.12 ; extra == \"dev\"",
+      "mypy>=1.8 ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "pytest-cov ; extra == \"dev\"",
+      "pylibjpeg-libjpeg ; extra == \"libjpeg\"",
+      "pylibjpeg-openjpeg ; extra == \"openjpeg\"",
+      "pylibjpeg-rle ; extra == \"rle\""
+    ]
+  },
+  "pylibjpeg-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2d1cd96d808ed180fbe386c1d4d236f2b034b1d75ed7756e3401e3718c549c3e",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pylibjpeg-rle ; extra == \"all\"",
+      "pylibjpeg-openjpeg ; extra == \"all\"",
+      "pylibjpeg-libjpeg ; extra == \"all\"",
+      "black>=23.12 ; extra == \"dev\"",
+      "mypy>=1.8 ; extra == \"dev\"",
+      "pytest ; extra == \"dev\"",
+      "pytest-cov ; extra == \"dev\"",
+      "pylibjpeg-libjpeg ; extra == \"libjpeg\"",
+      "pylibjpeg-openjpeg ; extra == \"openjpeg\"",
+      "pylibjpeg-rle ; extra == \"rle\""
+    ]
+  },
+  "pylibjpeg-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe60abba59ef34f32f2b71f2f39c0f1cddc96e3634432407f7454ab43452f51f",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pylibjpeg-libjpeg ; extra == 'all'",
+      "pylibjpeg-openjpeg ; extra == 'all'",
+      "pylibjpeg-rle ; extra == 'all'",
+      "pylibjpeg-libjpeg ; extra == 'libjpeg'",
+      "pylibjpeg-openjpeg ; extra == 'openjpeg'",
+      "pylibjpeg-rle ; extra == 'rle'"
+    ]
+  },
+  "pylibjpeg-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0436dfbe1141e9ef360b9e94546d95352257f96eabdcdab638fde31c0f816e18",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pylibjpeg-openjpeg",
+        "pylibjpeg-rle"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pylibjpeg-openjpeg",
+      "pylibjpeg-rle"
+    ]
+  }
+}

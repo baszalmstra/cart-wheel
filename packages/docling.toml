@@ -1,0 +1,12 @@
+# Package configuration for docling
+conda_forge = "docling"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "docling-2.64.1-py3-none-any.whl" },
+  { filename = "docling-2.64.0-py3-none-any.whl" },
+  { filename = "docling-2.63.0-py3-none-any.whl" },
+  { filename = "docling-2.62.0-py3-none-any.whl" },
+  { filename = "docling-2.61.2-py3-none-any.whl" },
+]

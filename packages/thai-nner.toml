@@ -1,0 +1,7 @@
+# Package configuration for thai-nner
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "thai_nner-0.3-py3-none-any.whl" },
+]

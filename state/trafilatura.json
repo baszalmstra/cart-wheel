@@ -1,0 +1,203 @@
+{
+  "trafilatura-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77eb5d1e993747f6f20938e1de2d840020719735690c840b9a1024803a4cd51d",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "charset-normalizer",
+        "courlan",
+        "htmldate",
+        "justext",
+        "lxml",
+        "lxml",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi",
+      "charset_normalizer>=3.4.0",
+      "courlan>=1.3.2",
+      "htmldate>=1.9.2",
+      "justext>=3.0.1",
+      "lxml==4.9.2; platform_system == \"Darwin\" and python_version <= \"3.8\"",
+      "lxml>=5.3.0; platform_system != \"Darwin\" or python_version > \"3.8\"",
+      "urllib3<3,>=1.26",
+      "flake8; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "types-lxml; extra == \"dev\"",
+      "types-urllib3; extra == \"dev\"",
+      "brotli; extra == \"all\"",
+      "cchardet>=2.1.7; python_version < \"3.11\" and extra == \"all\"",
+      "faust-cchardet>=2.1.19; python_version >= \"3.11\" and extra == \"all\"",
+      "htmldate[speed]>=1.9.2; extra == \"all\"",
+      "py3langid>=0.3.0; extra == \"all\"",
+      "pycurl>=7.45.3; extra == \"all\"",
+      "urllib3[socks]; extra == \"all\"",
+      "zstandard>=0.23.0; extra == \"all\""
+    ]
+  },
+  "trafilatura-1.12.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6df5b666f625c9579a50d7cc715005f450fa75606696aceab73eeda0a76dbe96",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "courlan",
+        "htmldate",
+        "justext",
+        "lxml",
+        "lxml",
+        "charset-normalizer",
+        "urllib3",
+        "importlib-metadata",
+        "charset-normalizer",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi",
+      "courlan >=1.2.0",
+      "htmldate >=1.8.1",
+      "justext >=3.0.1",
+      "lxml >=5.2.2 ; platform_system != \"Darwin\" or python_version > \"3.8\"",
+      "lxml ==4.9.2 ; platform_system == \"Darwin\" and python_version <= \"3.8\"",
+      "charset-normalizer >=3.0.1 ; python_version < \"3.7\"",
+      "urllib3 <2,>=1.26 ; python_version < \"3.7\"",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "charset-normalizer >=3.2.0 ; python_version >= \"3.7\"",
+      "urllib3 <3,>=1.26 ; python_version >= \"3.7\"",
+      "brotli ; extra == 'all'",
+      "htmldate[speed] >=1.8.1 ; extra == 'all'",
+      "py3langid >=0.2.2 ; extra == 'all'",
+      "pycurl >=7.45.3 ; extra == 'all'",
+      "urllib3[socks] ; extra == 'all'",
+      "zstandard >=0.20.0 ; extra == 'all'",
+      "cchardet >=2.1.7 ; (python_version < \"3.11\") and extra == 'all'",
+      "faust-cchardet >=2.1.19 ; (python_version >= \"3.11\") and extra == 'all'",
+      "Gooey >=1.0.1 ; extra == 'gui'"
+    ]
+  },
+  "trafilatura-1.12.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1906f2fd8b93b6869cc2325fabb38bc22ca134b980658de72f54c3f0226b557a",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "courlan",
+        "htmldate",
+        "justext",
+        "lxml",
+        "lxml",
+        "charset-normalizer",
+        "urllib3",
+        "importlib-metadata",
+        "charset-normalizer",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi",
+      "courlan >=1.2.0",
+      "htmldate >=1.8.1",
+      "justext >=3.0.1",
+      "lxml >=5.2.2 ; platform_system != \"Darwin\" or python_version > \"3.8\"",
+      "lxml ==4.9.2 ; platform_system == \"Darwin\" and python_version <= \"3.8\"",
+      "charset-normalizer >=3.0.1 ; python_version < \"3.7\"",
+      "urllib3 <2,>=1.26 ; python_version < \"3.7\"",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "charset-normalizer >=3.2.0 ; python_version >= \"3.7\"",
+      "urllib3 <3,>=1.26 ; python_version >= \"3.7\"",
+      "brotli ; extra == 'all'",
+      "htmldate[speed] >=1.8.1 ; extra == 'all'",
+      "py3langid >=0.2.2 ; extra == 'all'",
+      "pycurl >=7.45.3 ; extra == 'all'",
+      "zstandard >=0.20.0 ; extra == 'all'",
+      "cchardet >=2.1.7 ; (python_version < \"3.11\") and extra == 'all'",
+      "faust-cchardet >=2.1.19 ; (python_version >= \"3.11\") and extra == 'all'",
+      "Gooey >=1.0.1 ; extra == 'gui'"
+    ]
+  },
+  "trafilatura-1.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "544c442184db4e0a85c4dcede8b20f0d6d9202477a12faeddeb8c7c5fc5e13ca",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "courlan",
+        "htmldate",
+        "justext",
+        "lxml",
+        "lxml",
+        "charset-normalizer",
+        "urllib3",
+        "importlib-metadata",
+        "charset-normalizer",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi",
+      "courlan >=1.2.0",
+      "htmldate >=1.8.1",
+      "justext >=3.0.1",
+      "lxml >=5.2.2 ; platform_system != \"Darwin\" or python_version > \"3.8\"",
+      "lxml ==4.9.2 ; platform_system == \"Darwin\" and python_version <= \"3.8\"",
+      "charset-normalizer >=3.0.1 ; python_version < \"3.7\"",
+      "urllib3 <2,>=1.26 ; python_version < \"3.7\"",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "charset-normalizer >=3.2.0 ; python_version >= \"3.7\"",
+      "urllib3 <3,>=1.26 ; python_version >= \"3.7\"",
+      "brotli ; extra == 'all'",
+      "htmldate[speed] >=1.8.1 ; extra == 'all'",
+      "py3langid >=0.2.2 ; extra == 'all'",
+      "pycurl >=7.45.3 ; extra == 'all'",
+      "zstandard >=0.20.0 ; extra == 'all'",
+      "cchardet >=2.1.7 ; (python_version < \"3.11\") and extra == 'all'",
+      "faust-cchardet >=2.1.19 ; (python_version >= \"3.11\") and extra == 'all'",
+      "Gooey >=1.0.1 ; extra == 'gui'"
+    ]
+  },
+  "trafilatura-1.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "20f016be873a2cf3e02b9798f9537d09808559fcc667d42e1c019560ca45dce7",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "courlan",
+        "htmldate",
+        "justext",
+        "lxml",
+        "lxml",
+        "charset-normalizer",
+        "urllib3",
+        "importlib-metadata",
+        "charset-normalizer",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi",
+      "courlan >=1.1.0",
+      "htmldate >=1.8.1",
+      "justext >=3.0.1",
+      "lxml >=5.2.2 ; platform_system != \"Darwin\" or python_version > \"3.8\"",
+      "lxml ==4.9.2 ; platform_system == \"Darwin\" and python_version <= \"3.8\"",
+      "charset-normalizer >=3.0.1 ; python_version < \"3.7\"",
+      "urllib3 <2,>=1.26 ; python_version < \"3.7\"",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "charset-normalizer >=3.2.0 ; python_version >= \"3.7\"",
+      "urllib3 <3,>=1.26 ; python_version >= \"3.7\"",
+      "brotli ; extra == 'all'",
+      "htmldate[speed] >=1.8.1 ; extra == 'all'",
+      "py3langid >=0.2.2 ; extra == 'all'",
+      "pycurl >=7.45.3 ; extra == 'all'",
+      "zstandard >=0.20.0 ; extra == 'all'",
+      "cchardet >=2.1.7 ; (python_version < \"3.11\") and extra == 'all'",
+      "faust-cchardet >=2.1.19 ; (python_version >= \"3.11\") and extra == 'all'",
+      "Gooey >=1.0.1 ; extra == 'gui'"
+    ]
+  }
+}

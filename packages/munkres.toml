@@ -1,0 +1,12 @@
+# Package configuration for munkres
+conda_forge = "munkres"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "munkres-1.1.4-py2.py3-none-any.whl" },
+  { filename = "munkres-1.1.2-py2.py3-none-any.whl" },
+  { filename = "munkres-1.1.1-py2.py3-none-any.whl" },
+  { filename = "munkres-1.0.12-py2.py3-none-any.whl" },
+  { filename = "munkres-1.0.11-py2.py3-none-any.whl" },
+]

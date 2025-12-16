@@ -1,0 +1,12 @@
+# Package configuration for sphinx-external-toc
+conda_forge = "sphinx-external-toc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_external_toc-1.0.1-py3-none-any.whl" },
+  { filename = "sphinx_external_toc-1.0.0-py3-none-any.whl" },
+  { filename = "sphinx_external_toc-0.3.1-py3-none-any.whl" },
+  { filename = "sphinx_external_toc-0.3.0-py2.py3-none-any.whl" },
+  { filename = "sphinx_external_toc-0.2.4-py3-none-any.whl" },
+]

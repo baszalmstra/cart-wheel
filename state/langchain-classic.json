@@ -1,0 +1,41 @@
+{
+  "langchain_classic-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "97f71f150c10123f5511c08873f030e35ede52311d729a7688c721b4e1e01f33",
+    "dependencies": {
+      "required": [
+        "async-timeout",
+        "langchain-core",
+        "langchain-text-splitters",
+        "langsmith",
+        "pydantic",
+        "pyyaml",
+        "requests",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "async-timeout<5.0.0,>=4.0.0; python_version < '3.11'",
+      "langchain-core<2.0.0,>=1.0.0",
+      "langchain-text-splitters<2.0.0,>=1.0.0",
+      "langsmith<1.0.0,>=0.1.17",
+      "pydantic<3.0.0,>=2.7.4",
+      "pyyaml<7.0.0,>=5.3.0",
+      "requests<3.0.0,>=2.0.0",
+      "sqlalchemy<3.0.0,>=1.4.0",
+      "langchain-anthropic; extra == 'anthropic'",
+      "langchain-aws; extra == 'aws'",
+      "langchain-deepseek; extra == 'deepseek'",
+      "langchain-fireworks; extra == 'fireworks'",
+      "langchain-google-genai; extra == 'google-genai'",
+      "langchain-google-vertexai; extra == 'google-vertexai'",
+      "langchain-groq; extra == 'groq'",
+      "langchain-mistralai; extra == 'mistralai'",
+      "langchain-ollama; extra == 'ollama'",
+      "langchain-openai; extra == 'openai'",
+      "langchain-perplexity; extra == 'perplexity'",
+      "langchain-together; extra == 'together'",
+      "langchain-xai; extra == 'xai'"
+    ]
+  }
+}

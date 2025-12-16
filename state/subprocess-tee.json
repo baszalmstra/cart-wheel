@@ -1,0 +1,90 @@
+{
+  "subprocess_tee-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "21942e976715af4a19a526918adb03a8a27a8edab959f2d075b777e3d78f532d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "argparse-manpage ; extra == 'docs'",
+      "cairosvg ; extra == 'docs'",
+      "markdown-include ; extra == 'docs'",
+      "mkdocs ; extra == 'docs'",
+      "mkdocs-git-revision-date-localized-plugin ; extra == 'docs'",
+      "mkdocs-material ; extra == 'docs'",
+      "mkdocs-material-extensions ; extra == 'docs'",
+      "mkdocstrings ; extra == 'docs'",
+      "mkdocstrings-python ; extra == 'docs'",
+      "pillow ; extra == 'docs'",
+      "pymdown-extensions ; extra == 'docs'",
+      "enrich >=1.2.6 ; extra == 'test'",
+      "molecule >=3.4.0 ; extra == 'test'",
+      "pytest-cov >=2.12.1 ; extra == 'test'",
+      "pytest-plus >=0.2 ; extra == 'test'",
+      "pytest-xdist >=2.3.0 ; extra == 'test'",
+      "pytest >=6.2.5 ; extra == 'test'"
+    ]
+  },
+  "subprocess_tee-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eca56973a1c1237093c2055b2731bcaab784683b83f22c76f26e4c5763402e28",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "enrich (>=1.2.6) ; extra == 'test'",
+      "molecule (>=3.4.0) ; extra == 'test'",
+      "pytest-cov (>=2.12.1) ; extra == 'test'",
+      "pytest-plus (>=0.2) ; extra == 'test'",
+      "pytest-xdist (>=2.3.0) ; extra == 'test'",
+      "pytest (>=6.2.5) ; extra == 'test'"
+    ]
+  },
+  "subprocess_tee-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dae5fba2640b45442a84b23f887aadfbe3f9addcca8320f5f99acb8d5c36b77e",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "enrich (>=1.2.6) ; extra == 'test'",
+      "molecule (>=3.4.0) ; extra == 'test'",
+      "pytest-cov (>=2.12.1) ; extra == 'test'",
+      "pytest-plus (>=0.2) ; extra == 'test'",
+      "pytest-xdist (>=2.3.0) ; extra == 'test'",
+      "pytest (>=6.2.5) ; extra == 'test'"
+    ]
+  },
+  "subprocess_tee-0.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d34186c639aa7f8013b5dfba80e17f52589539137c9d9205f2ae1c1bd03549e1",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "enrich (>=1.2.6) ; extra == 'test'",
+      "mock (>=4.0.3) ; extra == 'test'",
+      "molecule (>=3.4.0) ; extra == 'test'",
+      "pytest-cov (>=2.12.1) ; extra == 'test'",
+      "pytest-plus (>=0.2) ; extra == 'test'",
+      "pytest-xdist (>=2.3.0) ; extra == 'test'",
+      "pytest (>=6.2.5) ; extra == 'test'"
+    ]
+  },
+  "subprocess_tee-0.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5cc6ad47e826e471adac21646f3082a4d7b445560b7005c906a33f8d14f030c3",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "enrich (>=1.2.6) ; extra == 'test'",
+      "mock (>=4.0.3) ; extra == 'test'",
+      "molecule (>=3.4.0) ; extra == 'test'",
+      "pytest-cov (>=2.12.1) ; extra == 'test'",
+      "pytest-plus (>=0.2) ; extra == 'test'",
+      "pytest-xdist (>=2.3.0) ; extra == 'test'",
+      "pytest (>=6.2.5) ; extra == 'test'"
+    ]
+  }
+}

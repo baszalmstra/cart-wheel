@@ -1,0 +1,11 @@
+# Package configuration for pmxbot
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pmxbot-1122.17.0-py3-none-any.whl" },
+  { filename = "pmxbot-1122.16.0-py3-none-any.whl" },
+  { filename = "pmxbot-1122.15.0-py3-none-any.whl" },
+  { filename = "pmxbot-1122.14.2-py3-none-any.whl" },
+  { filename = "pmxbot-1122.14.1-py3-none-any.whl" },
+]

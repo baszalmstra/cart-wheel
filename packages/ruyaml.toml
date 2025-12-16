@@ -1,0 +1,11 @@
+# Package configuration for ruyaml
+conda_forge = "ruyaml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ruyaml-0.91.0-py3-none-any.whl" },
+  { filename = "ruyaml-0.90.0.2-py2.py3-none-any.whl" },
+  { filename = "ruyaml-0.20.0-py2.py3-none-any.whl" },
+  { filename = "ruyaml-0.19.2-py2.py3-none-any.whl" },
+]

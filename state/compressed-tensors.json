@@ -1,0 +1,125 @@
+{
+  "compressed_tensors-0.12.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e554ea761710ca2b0c0ea49276a4ef8e08658624f1591e6a7368817106b48fbe",
+    "dependencies": {
+      "required": [
+        "torch",
+        "transformers",
+        "pydantic",
+        "loguru"
+      ]
+    },
+    "original_requirements": [
+      "torch>=1.7.0",
+      "transformers",
+      "pydantic>=2.0",
+      "loguru",
+      "black==22.12.0; extra == \"dev\"",
+      "isort==5.8.0; extra == \"dev\"",
+      "wheel>=0.36.2; extra == \"dev\"",
+      "flake8>=3.8.3; extra == \"dev\"",
+      "pytest>=6.0.0; extra == \"dev\"",
+      "nbconvert>=7.16.3; extra == \"dev\"",
+      "accelerate; extra == \"accelerate\""
+    ]
+  },
+  "compressed_tensors-0.12.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f7d00a00f9d14b0579a343ab71e3ec16f21c2b2abc5efc8f650f9e297fb6e7fd",
+    "dependencies": {
+      "required": [
+        "torch",
+        "transformers",
+        "pydantic",
+        "loguru"
+      ]
+    },
+    "original_requirements": [
+      "torch>=1.7.0",
+      "transformers",
+      "pydantic>=2.0",
+      "loguru",
+      "black==22.12.0; extra == \"dev\"",
+      "isort==5.8.0; extra == \"dev\"",
+      "wheel>=0.36.2; extra == \"dev\"",
+      "flake8>=3.8.3; extra == \"dev\"",
+      "pytest>=6.0.0; extra == \"dev\"",
+      "nbconvert>=7.16.3; extra == \"dev\"",
+      "accelerate; extra == \"accelerate\""
+    ]
+  },
+  "compressed_tensors-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c5f826c47a80cab9e2c6d8b9a50b52a10d17a22573a3f07540c98f501a0640d9",
+    "dependencies": {
+      "required": [
+        "torch",
+        "transformers",
+        "pydantic",
+        "loguru"
+      ]
+    },
+    "original_requirements": [
+      "torch>=1.7.0",
+      "transformers",
+      "pydantic>=2.0",
+      "loguru",
+      "black==22.12.0; extra == \"dev\"",
+      "isort==5.8.0; extra == \"dev\"",
+      "wheel>=0.36.2; extra == \"dev\"",
+      "flake8>=3.8.3; extra == \"dev\"",
+      "pytest>=6.0.0; extra == \"dev\"",
+      "nbconvert>=7.16.3; extra == \"dev\"",
+      "accelerate; extra == \"accelerate\""
+    ]
+  },
+  "compressed_tensors-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e1cbc46e1ae032b7ceea915fe18c8d2de5a54d3a50a607969b6bdfe703b6cb83",
+    "dependencies": {
+      "required": [
+        "torch",
+        "transformers",
+        "pydantic",
+        "frozendict"
+      ]
+    },
+    "original_requirements": [
+      "torch>=1.7.0",
+      "transformers",
+      "pydantic>=2.0",
+      "frozendict",
+      "black==22.12.0; extra == \"dev\"",
+      "isort==5.8.0; extra == \"dev\"",
+      "wheel>=0.36.2; extra == \"dev\"",
+      "flake8>=3.8.3; extra == \"dev\"",
+      "pytest>=6.0.0; extra == \"dev\"",
+      "nbconvert>=7.16.3; extra == \"dev\"",
+      "accelerate; extra == \"accelerate\""
+    ]
+  },
+  "compressed_tensors-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e1b4d9bc2006e3fd3a938e59085f318fdb280c5af64688a4792bf1bc263e579d",
+    "dependencies": {
+      "required": [
+        "torch",
+        "transformers",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "torch>=1.7.0",
+      "transformers",
+      "pydantic>=2.0",
+      "black==22.12.0; extra == \"dev\"",
+      "isort==5.8.0; extra == \"dev\"",
+      "wheel>=0.36.2; extra == \"dev\"",
+      "flake8>=3.8.3; extra == \"dev\"",
+      "pytest>=6.0.0; extra == \"dev\"",
+      "nbconvert>=7.16.3; extra == \"dev\"",
+      "accelerate; extra == \"accelerate\""
+    ]
+  }
+}

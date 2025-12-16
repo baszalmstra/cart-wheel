@@ -1,0 +1,26 @@
+{
+  "types_aiobotocore_compute_optimizer_automation-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd86350218032d53d51375385ab16f9f5eb7025311d02fcbc91076b6859f63db",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "types_aiobotocore_compute_optimizer_automation-2.26.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a323c9a76685cc16288c979f88a69cea7df6a16f9840219bbdcec768146e68d",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "saneyaml-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60553363ac55433cef2bc1d6c5a1c9f6e2787e5f40e8c6fad5983eb701592c5b",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "Sphinx>=3.3.1; extra == \"docs\"",
+      "sphinx-rtd-theme>=0.5.0; extra == \"docs\"",
+      "doc8>=0.8.1; extra == \"docs\"",
+      "pytest!=7.0.0,>=6; extra == \"testing\"",
+      "pytest-xdist>=2; extra == \"testing\"",
+      "aboutcode-toolkit>=7.0.2; extra == \"testing\"",
+      "twine; extra == \"testing\"",
+      "black; extra == \"testing\"",
+      "isort; extra == \"testing\""
+    ]
+  },
+  "saneyaml-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9fdf69e8fe30882221e4bf26eebd34b0fe645478e53ea10231aa49d8d949d8c7",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "Sphinx (>=3.3.1) ; extra == 'docs'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'docs'",
+      "doc8 (>=0.8.1) ; extra == 'docs'",
+      "pytest (!=7.0.0,>=6) ; extra == 'testing'",
+      "pytest-xdist (>=2) ; extra == 'testing'",
+      "aboutcode-toolkit (>=7.0.2) ; extra == 'testing'",
+      "twine ; extra == 'testing'",
+      "black ; extra == 'testing'",
+      "isort ; extra == 'testing'"
+    ]
+  },
+  "saneyaml-0.5.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e54ed827973647ee9be8e8c091536b55ad22b3f9b1296e36701a3544822e7eac",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML",
+      "Sphinx (>=3.3.1) ; extra == 'docs'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'docs'",
+      "doc8 (>=0.8.1) ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-xdist (>=2) ; extra == 'testing'"
+    ]
+  },
+  "saneyaml-0.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0d5bdd51649f3253ca8c2d9e48c78540c39d9d035810a2cd4406dbeffd8da11",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML"
+    ]
+  },
+  "saneyaml-0.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81eb66fb7e02da58f6196526d48843642ba535a8aaceaeea592472fdcc75a3a9",
+    "dependencies": {
+      "required": [
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (<=3.13,>=3.11)"
+    ]
+  }
+}

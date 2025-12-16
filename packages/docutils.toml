@@ -1,0 +1,12 @@
+# Package configuration for docutils
+conda_forge = "docutils"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "docutils-0.22.3-py3-none-any.whl" },
+  { filename = "docutils-0.22.2-py3-none-any.whl" },
+  { filename = "docutils-0.22.1-py3-none-any.whl" },
+  { filename = "docutils-0.22-py3-none-any.whl" },
+  { filename = "docutils-0.21.2-py3-none-any.whl" },
+]

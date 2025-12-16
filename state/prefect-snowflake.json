@@ -1,0 +1,82 @@
+{
+  "prefect_snowflake-0.28.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0f84259915245eb689edac67b4718fa55c28f980bc6eb4f8ea0960de7c56ab62",
+    "dependencies": {
+      "required": [
+        "snowflake",
+        "snowflake-connector-python",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "snowflake>=1.5.0",
+      "snowflake-connector-python>=3.17.2",
+      "prefect>=3.0.0"
+    ]
+  },
+  "prefect_snowflake-0.28.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9041fa85392056f11eb196e4123e139bbebae199c5cfefb0bb334888ce059447",
+    "dependencies": {
+      "required": [
+        "snowflake",
+        "snowflake-connector-python",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "snowflake>=1.5.0",
+      "snowflake-connector-python>=3.17.2",
+      "prefect>=3.0.0"
+    ]
+  },
+  "prefect_snowflake-0.28.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ed208ec7075e758c0e7d3b83a2cfac7638ccbe5ad7a6147a69c2c464d83bc26",
+    "dependencies": {
+      "required": [
+        "snowflake",
+        "snowflake-connector-python",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "snowflake>=1.5.0",
+      "snowflake-connector-python>=3.0.4",
+      "prefect>=3.0.0"
+    ]
+  },
+  "prefect_snowflake-0.28.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df7d6cdec889687c268c65b8fd6a9e67977119364f980e7a71c030d20af86318",
+    "dependencies": {
+      "required": [
+        "snowflake",
+        "snowflake-connector-python",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "snowflake>=1.2.0",
+      "snowflake-connector-python>=3.0.4",
+      "prefect>=3.0.0"
+    ]
+  },
+  "prefect_snowflake-0.28.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81800d24dbf467b88d5aae219eb121dad1e0d2852a83672813330d619848afb2",
+    "dependencies": {
+      "required": [
+        "snowflake",
+        "snowflake-connector-python",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "snowflake>=1.2.0",
+      "snowflake-connector-python>=3.0.4",
+      "prefect>=3.0.0"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for sigstore
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sigstore-4.1.0-py3-none-any.whl" },
+  { filename = "sigstore-4.0.0-py3-none-any.whl" },
+  { filename = "sigstore-3.6.6-py3-none-any.whl" },
+  { filename = "sigstore-3.6.5-py3-none-any.whl" },
+  { filename = "sigstore-3.6.4-py3-none-any.whl" },
+]

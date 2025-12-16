@@ -1,0 +1,12 @@
+# Package configuration for fastapi-cli
+conda_forge = "fastapi-cli"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fastapi_cli-0.0.16-py3-none-any.whl" },
+  { filename = "fastapi_cli-0.0.15-py3-none-any.whl" },
+  { filename = "fastapi_cli-0.0.14-py3-none-any.whl" },
+  { filename = "fastapi_cli-0.0.13-py3-none-any.whl" },
+  { filename = "fastapi_cli-0.0.12-py3-none-any.whl" },
+]

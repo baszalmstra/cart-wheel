@@ -1,0 +1,11 @@
+# Package configuration for zope.location
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zope_location-6.0-py3-none-any.whl" },
+  { filename = "zope.location-5.1-py3-none-any.whl" },
+  { filename = "zope.location-5.0-py3-none-any.whl" },
+  { filename = "zope.location-4.3-py2.py3-none-any.whl" },
+  { filename = "zope.location-4.2-py2.py3-none-any.whl" },
+]

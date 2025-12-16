@@ -1,0 +1,157 @@
+{
+  "shinylive-0.8.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85ac83b5b86adf181f79937a50c997315d30cd944a565a31d1a99abc8d715dcd",
+    "dependencies": {
+      "required": [
+        "shiny",
+        "click",
+        "appdirs",
+        "lzstring",
+        "typing-extensions",
+        "setuptools",
+        "chevron"
+      ]
+    },
+    "original_requirements": [
+      "shiny",
+      "click>=8.1.7",
+      "appdirs>=1.4.4",
+      "lzstring>=1.0.4",
+      "typing-extensions>=4.0.1",
+      "setuptools; python_version >= \"3.12\"",
+      "chevron>=0.14.0",
+      "pytest>=6.2.4; extra == \"test\"",
+      "black>=22.3.0; extra == \"dev\"",
+      "flake8>=3.9.2; extra == \"dev\"",
+      "flake8-bugbear>=22.6.22; extra == \"dev\"",
+      "isort>=5.11.2; extra == \"dev\"",
+      "pyright>=1.1.284; extra == \"dev\"",
+      "wheel; extra == \"dev\""
+    ]
+  },
+  "shinylive-0.8.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cfa063f9c7e20379d54a932ee194de92b89692dede7076631d8e70b6b81319a0",
+    "dependencies": {
+      "required": [
+        "shiny",
+        "click",
+        "appdirs",
+        "lzstring",
+        "typing-extensions",
+        "chevron",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "shiny",
+      "click>=8.1.7",
+      "appdirs>=1.4.4",
+      "lzstring>=1.0.4",
+      "typing-extensions>=4.0.1",
+      "chevron>=0.14.0",
+      "setuptools; python_version >= \"3.12\"",
+      "black>=22.3.0; extra == \"dev\"",
+      "flake8>=3.9.2; extra == \"dev\"",
+      "flake8-bugbear>=22.6.22; extra == \"dev\"",
+      "isort>=5.11.2; extra == \"dev\"",
+      "pyright>=1.1.284; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "pytest>=6.2.4; extra == \"test\""
+    ]
+  },
+  "shinylive-0.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb72da57f08c0f235fa8b2f6592e09fa348dd0f93ec3d0504f237f48aae3e433",
+    "dependencies": {
+      "required": [
+        "shiny",
+        "click",
+        "appdirs",
+        "lzstring",
+        "typing-extensions",
+        "chevron",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "shiny",
+      "click>=8.1.7",
+      "appdirs>=1.4.4",
+      "lzstring>=1.0.4",
+      "typing-extensions>=4.0.1",
+      "chevron>=0.14.0",
+      "setuptools; python_version >= \"3.12\"",
+      "black>=22.3.0; extra == \"dev\"",
+      "flake8>=3.9.2; extra == \"dev\"",
+      "flake8-bugbear>=22.6.22; extra == \"dev\"",
+      "isort>=5.11.2; extra == \"dev\"",
+      "pyright>=1.1.284; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "pytest>=6.2.4; extra == \"test\""
+    ]
+  },
+  "shinylive-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b7d348f53e6fd9f877f4fdb160de10905e40cc918e064c0b5eed0b38d49e946c",
+    "dependencies": {
+      "required": [
+        "shiny",
+        "click",
+        "appdirs",
+        "lzstring",
+        "typing-extensions",
+        "chevron",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "shiny",
+      "click>=8.1.7",
+      "appdirs>=1.4.4",
+      "lzstring>=1.0.4",
+      "typing-extensions>=4.0.1",
+      "chevron>=0.14.0",
+      "setuptools; python_version >= \"3.12\"",
+      "black>=22.3.0; extra == \"dev\"",
+      "flake8>=3.9.2; extra == \"dev\"",
+      "flake8-bugbear>=22.6.22; extra == \"dev\"",
+      "isort>=5.11.2; extra == \"dev\"",
+      "pyright>=1.1.284; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "pytest>=6.2.4; extra == \"test\""
+    ]
+  },
+  "shinylive-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d6f65434d879b77fc416242d63ee429f0be648b67018d5014378df8fcc52373",
+    "dependencies": {
+      "required": [
+        "shiny",
+        "click",
+        "appdirs",
+        "lzstring",
+        "typing-extensions",
+        "chevron",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "shiny",
+      "click>=8.1.7",
+      "appdirs>=1.4.4",
+      "lzstring>=1.0.4",
+      "typing-extensions>=4.0.1",
+      "chevron>=0.14.0",
+      "setuptools; python_version >= \"3.12\"",
+      "black>=22.3.0; extra == \"dev\"",
+      "flake8>=3.9.2; extra == \"dev\"",
+      "flake8-bugbear>=22.6.22; extra == \"dev\"",
+      "isort>=5.11.2; extra == \"dev\"",
+      "pyright>=1.1.284; extra == \"dev\"",
+      "wheel; extra == \"dev\"",
+      "pytest>=6.2.4; extra == \"test\""
+    ]
+  }
+}

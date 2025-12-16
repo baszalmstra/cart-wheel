@@ -1,0 +1,12 @@
+# Package configuration for azure-mgmt-nspkg
+conda_forge = "azure-mgmt-nspkg"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_mgmt_nspkg-3.0.2-py3-none-any.whl" },
+  { filename = "azure_mgmt_nspkg-3.0.1-py3-none-any.whl" },
+  { filename = "azure_mgmt_nspkg-3.0.0-py2.py3-none-any.whl" },
+  { filename = "azure_mgmt_nspkg-2.0.0-py2.py3-none-any.whl" },
+  { filename = "azure_mgmt_nspkg-1.0.0-py2.py3-none-any.whl" },
+]

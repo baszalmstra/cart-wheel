@@ -1,0 +1,12 @@
+# Package configuration for sqlakeyset
+conda_forge = "sqlakeyset"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sqlakeyset-2.0.1762907931-py3-none-any.whl" },
+  { filename = "sqlakeyset-2.0.1762823545-py3-none-any.whl" },
+  { filename = "sqlakeyset-2.0.1746777265-py3-none-any.whl" },
+  { filename = "sqlakeyset-2.0.1739066250-py3-none-any.whl" },
+  { filename = "sqlakeyset-2.0.1733540710-py3-none-any.whl" },
+]

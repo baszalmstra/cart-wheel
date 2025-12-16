@@ -1,0 +1,8 @@
+# Package configuration for paginate
+conda_forge = "paginate"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "paginate-0.5.7-py2.py3-none-any.whl" },
+]

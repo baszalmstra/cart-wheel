@@ -1,0 +1,12 @@
+# Package configuration for swagger-ui-bundle
+conda_forge = "swagger-ui-bundle"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "swagger_ui_bundle-1.1.0-py3-none-any.whl" },
+  { filename = "swagger_ui_bundle-0.0.9-py3-none-any.whl" },
+  { filename = "swagger_ui_bundle-0.0.8-py3-none-any.whl" },
+  { filename = "swagger_ui_bundle-0.0.7-py3-none-any.whl" },
+  { filename = "swagger_ui_bundle-0.0.6-py3-none-any.whl" },
+]

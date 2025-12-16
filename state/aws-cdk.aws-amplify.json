@@ -1,0 +1,192 @@
+{
+  "aws_cdk.aws_amplify-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b9552891a1ee62b9ce869bd89bb434fd7602acd02d23c18eb805910429d0c674",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-codebuild",
+        "aws-cdk.aws-codecommit",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda-nodejs",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-codebuild (==1.204.0)",
+      "aws-cdk.aws-codecommit (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-kms (==1.204.0)",
+      "aws-cdk.aws-lambda-nodejs (==1.204.0)",
+      "aws-cdk.aws-lambda (==1.204.0)",
+      "aws-cdk.aws-s3-assets (==1.204.0)",
+      "aws-cdk.aws-secretsmanager (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "aws-cdk.custom-resources (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_amplify-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db46d7778b6d8e0eddf1e7870cd2dbe569b554e208af424e76d7e9fe0918facf",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-codebuild",
+        "aws-cdk.aws-codecommit",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda-nodejs",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-codebuild (==1.203.0)",
+      "aws-cdk.aws-codecommit (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-kms (==1.203.0)",
+      "aws-cdk.aws-lambda-nodejs (==1.203.0)",
+      "aws-cdk.aws-lambda (==1.203.0)",
+      "aws-cdk.aws-s3-assets (==1.203.0)",
+      "aws-cdk.aws-secretsmanager (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "aws-cdk.custom-resources (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_amplify-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ada65730a75ff6b7a2443648fe1042d9c124bf0c2b85a3b4a72dc625896fb28",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-codebuild",
+        "aws-cdk.aws-codecommit",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda-nodejs",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-codebuild (==1.202.0)",
+      "aws-cdk.aws-codecommit (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-kms (==1.202.0)",
+      "aws-cdk.aws-lambda-nodejs (==1.202.0)",
+      "aws-cdk.aws-lambda (==1.202.0)",
+      "aws-cdk.aws-s3-assets (==1.202.0)",
+      "aws-cdk.aws-secretsmanager (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "aws-cdk.custom-resources (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_amplify-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be668d46e3f9c1f24e61b65c06dc96ce118d330576c9bfb670b12a273b2db4de",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-codebuild",
+        "aws-cdk.aws-codecommit",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda-nodejs",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-codebuild (==1.201.0)",
+      "aws-cdk.aws-codecommit (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-kms (==1.201.0)",
+      "aws-cdk.aws-lambda-nodejs (==1.201.0)",
+      "aws-cdk.aws-lambda (==1.201.0)",
+      "aws-cdk.aws-s3-assets (==1.201.0)",
+      "aws-cdk.aws-secretsmanager (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "aws-cdk.custom-resources (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_amplify-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a04ea006df718ae49f9cf04e7befdce95a8589af8327836d6671453f5edbe611",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-codebuild",
+        "aws-cdk.aws-codecommit",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-kms",
+        "aws-cdk.aws-lambda-nodejs",
+        "aws-cdk.aws-lambda",
+        "aws-cdk.aws-s3-assets",
+        "aws-cdk.aws-secretsmanager",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-codebuild (==1.200.0)",
+      "aws-cdk.aws-codecommit (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-kms (==1.200.0)",
+      "aws-cdk.aws-lambda-nodejs (==1.200.0)",
+      "aws-cdk.aws-lambda (==1.200.0)",
+      "aws-cdk.aws-s3-assets (==1.200.0)",
+      "aws-cdk.aws-secretsmanager (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "aws-cdk.custom-resources (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

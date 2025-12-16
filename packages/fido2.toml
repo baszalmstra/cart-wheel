@@ -1,0 +1,12 @@
+# Package configuration for fido2
+conda_forge = "fido2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fido2-2.0.0-py3-none-any.whl" },
+  { filename = "fido2-1.2.0-py3-none-any.whl" },
+  { filename = "fido2-1.1.3-py3-none-any.whl" },
+  { filename = "fido2-1.1.2-py3-none-any.whl" },
+  { filename = "fido2-1.1.1-py3-none-any.whl" },
+]

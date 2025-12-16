@@ -1,0 +1,9 @@
+# Package configuration for pycollada
+conda_forge = "pycollada"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pycollada-0.9.2-py3-none-any.whl" },
+  { filename = "pycollada-0.9.1-py3-none-any.whl" },
+]

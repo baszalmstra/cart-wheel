@@ -1,0 +1,11 @@
+# Package configuration for progiter
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "progiter-2.0.0-py3-none-any.whl" },
+  { filename = "progiter-1.3.0-py3-none-any.whl" },
+  { filename = "progiter-1.2.0-py3-none-any.whl" },
+  { filename = "progiter-1.1.0-py3-none-any.whl" },
+  { filename = "progiter-1.0.1-py3-none-any.whl" },
+]

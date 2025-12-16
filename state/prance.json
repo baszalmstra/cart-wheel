@@ -1,0 +1,157 @@
+{
+  "prance-25.4.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3c362036d625b12aeee495621cb1555fd50b2af3632af3d825176bfb50e073b",
+    "dependencies": {
+      "required": [
+        "chardet",
+        "ruamel.yaml",
+        "requests",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "chardet>=5.2",
+      "ruamel.yaml>=0.18.10",
+      "requests>=2.32.3",
+      "packaging>=24.2",
+      "tox>=4.23.2; extra == \"dev\"",
+      "bumpversion>=0.6.0; extra == \"dev\"",
+      "pytest>=8.3.5; extra == \"dev\"",
+      "pytest-cov>=6.0; extra == \"dev\"",
+      "sphinx>=8.1.3; extra == \"dev\"",
+      "towncrier>=24.8; extra == \"dev\"",
+      "PyICU~=2.14; extra == \"icu\"",
+      "swagger-spec-validator~=3.0.4; extra == \"ssv\"",
+      "openapi-spec-validator~=0.7.1; extra == \"osv\"",
+      "flex~=6.14.1; extra == \"flex\"",
+      "click>=8.1.8; extra == \"cli\""
+    ]
+  },
+  "prance-23.6.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6a4276fa07ed9f22feda4331097d7503c4adc3097e46ffae97425f2c1026bd9f",
+    "dependencies": {
+      "required": [
+        "chardet",
+        "ruamel.yaml",
+        "requests",
+        "six",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "chardet (>=3.0)",
+      "ruamel.yaml (>=0.17.10)",
+      "requests (>=2.25)",
+      "six (~=1.15)",
+      "packaging (>=21.3)",
+      "click (>=7.0) ; extra == 'cli'",
+      "tox (>=3.4) ; extra == 'dev'",
+      "bumpversion (>=0.6) ; extra == 'dev'",
+      "pytest (>=6.1) ; extra == 'dev'",
+      "pytest-cov (>=2.11) ; extra == 'dev'",
+      "sphinx (>=3.4) ; extra == 'dev'",
+      "towncrier (>=19.2) ; extra == 'dev'",
+      "flex (~=6.13) ; extra == 'flex'",
+      "PyICU (~=2.4) ; extra == 'icu'",
+      "openapi-spec-validator (~=0.5.1) ; extra == 'osv'",
+      "swagger-spec-validator (~=2.4) ; extra == 'ssv'"
+    ]
+  },
+  "prance-0.22.11.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c15e9ca889b56262e4c2aee354f52918ba5e54f46bb3da42b806d8bbd8255ee9",
+    "dependencies": {
+      "required": [
+        "chardet",
+        "ruamel.yaml",
+        "requests",
+        "six",
+        "semver",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "chardet (<5.0,>=3.0)",
+      "ruamel.yaml (~=0.17.10)",
+      "requests (~=2.25)",
+      "six (~=1.15)",
+      "semver (~=2.13)",
+      "packaging (~=21.3)",
+      "click (~=7.0) ; extra == 'cli'",
+      "tox (>=3.4) ; extra == 'dev'",
+      "bumpversion (>=0.6) ; extra == 'dev'",
+      "pytest (>=6.1) ; extra == 'dev'",
+      "pytest-cov (>=2.11) ; extra == 'dev'",
+      "sphinx (>=3.4) ; extra == 'dev'",
+      "towncrier (>=19.2) ; extra == 'dev'",
+      "flex (~=6.13) ; extra == 'flex'",
+      "PyICU (~=2.4) ; extra == 'icu'",
+      "openapi-spec-validator (~=0.5.1) ; extra == 'osv'",
+      "swagger-spec-validator (~=2.4) ; extra == 'ssv'"
+    ]
+  },
+  "prance-0.22.2.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "57deeb67b7e93ef27c1c17845bf3ccb4af288ccfb5748c7e01779c01a8507f27",
+    "dependencies": {
+      "required": [
+        "chardet",
+        "ruamel.yaml",
+        "requests",
+        "six",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "chardet (>=3.0)",
+      "ruamel.yaml (>=0.17.10)",
+      "requests (>=2.25)",
+      "six (~=1.15)",
+      "packaging (>=21.3)",
+      "click (>=7.0) ; extra == 'cli'",
+      "tox (>=3.4) ; extra == 'dev'",
+      "bumpversion (>=0.6) ; extra == 'dev'",
+      "pytest (>=6.1) ; extra == 'dev'",
+      "pytest-cov (>=2.11) ; extra == 'dev'",
+      "sphinx (>=3.4) ; extra == 'dev'",
+      "towncrier (>=19.2) ; extra == 'dev'",
+      "flex (~=6.13) ; extra == 'flex'",
+      "PyICU (~=2.4) ; extra == 'icu'",
+      "openapi-spec-validator (~=0.5.1) ; extra == 'osv'",
+      "swagger-spec-validator (~=2.4) ; extra == 'ssv'"
+    ]
+  },
+  "prance-0.21.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51ec41d10b317bf5d4e74782a7f7f0c0488c6042433b5b4fde2a988cd069d235",
+    "dependencies": {
+      "required": [
+        "chardet",
+        "ruamel.yaml",
+        "requests",
+        "six",
+        "semver"
+      ]
+    },
+    "original_requirements": [
+      "chardet (<5.0,>=3.0)",
+      "ruamel.yaml (~=0.17.10)",
+      "requests (~=2.25)",
+      "six (~=1.15)",
+      "semver (~=2.13)",
+      "click (~=7.0) ; extra == 'cli'",
+      "tox (>=3.4) ; extra == 'dev'",
+      "bumpversion (>=0.6) ; extra == 'dev'",
+      "pytest (>=6.1) ; extra == 'dev'",
+      "pytest-cov (>=2.11) ; extra == 'dev'",
+      "sphinx (>=3.4) ; extra == 'dev'",
+      "towncrier (>=19.2) ; extra == 'dev'",
+      "flex (~=6.13) ; extra == 'flex'",
+      "PyICU (~=2.4) ; extra == 'icu'",
+      "openapi-spec-validator (>0.2,>=0.2.1) ; extra == 'osv'",
+      "swagger-spec-validator (~=2.4) ; extra == 'ssv'"
+    ]
+  }
+}

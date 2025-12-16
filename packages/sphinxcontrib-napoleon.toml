@@ -1,0 +1,12 @@
+# Package configuration for sphinxcontrib-napoleon
+conda_forge = "sphinxcontrib-napoleon"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_napoleon-0.7-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_napoleon-0.6.1-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_napoleon-0.6.0-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_napoleon-0.5.4-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_napoleon-0.5.3-py2.py3-none-any.whl" },
+]

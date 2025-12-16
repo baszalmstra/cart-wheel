@@ -1,0 +1,12 @@
+# Package configuration for pinecone
+conda_forge = "pinecone"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pinecone-8.0.0-py3-none-any.whl" },
+  { filename = "pinecone-7.3.0-py3-none-any.whl" },
+  { filename = "pinecone-7.2.0-py3-none-any.whl" },
+  { filename = "pinecone-7.1.0-py3-none-any.whl" },
+  { filename = "pinecone-7.0.2-py3-none-any.whl" },
+]

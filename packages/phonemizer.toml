@@ -1,0 +1,11 @@
+# Package configuration for phonemizer
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "phonemizer-3.3.0-py3-none-any.whl" },
+  { filename = "phonemizer-3.2.1-py3-none-any.whl" },
+  { filename = "phonemizer-3.2.0-py3-none-any.whl" },
+  { filename = "phonemizer-3.1.1-py3-none-any.whl" },
+  { filename = "phonemizer-3.0.1-py3-none-any.whl" },
+]

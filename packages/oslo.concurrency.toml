@@ -1,0 +1,11 @@
+# Package configuration for oslo.concurrency
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oslo_concurrency-7.2.0-py3-none-any.whl" },
+  { filename = "oslo.concurrency-7.1.0-py3-none-any.whl" },
+  { filename = "oslo.concurrency-7.0.0-py3-none-any.whl" },
+  { filename = "oslo.concurrency-6.2.0-py3-none-any.whl" },
+  { filename = "oslo.concurrency-6.1.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for swagger-spec-validator
+conda_forge = "swagger-spec-validator"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "swagger_spec_validator-3.0.4-py2.py3-none-any.whl" },
+  { filename = "swagger_spec_validator-3.0.3-py2.py3-none-any.whl" },
+  { filename = "swagger_spec_validator-3.0.2-py2.py3-none-any.whl" },
+  { filename = "swagger_spec_validator-3.0.1-py2.py3-none-any.whl" },
+  { filename = "swagger_spec_validator-3.0.0-py2.py3-none-any.whl" },
+]

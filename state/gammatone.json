@@ -1,0 +1,76 @@
+{
+  "Gammatone-1.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "410a07344bacac651c3d8d466e25888e1925f00458f054871485c0aa22d78061",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "matplotlib",
+      "pytest ; extra == 'test'",
+      "mock ; extra == 'test'"
+    ]
+  },
+  "Gammatone-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ba34be71cde860b4604e3f5c7bfb2e7ef06805989cbb4a2055f244ea9dc8efac",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "matplotlib",
+      "pytest ; extra == 'test'",
+      "mock ; extra == 'test'"
+    ]
+  },
+  "Gammatone-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7c681e4648decacfcc9e114c410779c1996e56c7b7d8c4e3c455f691d223bffd",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "matplotlib",
+      "nose ; extra == 'test'",
+      "mock ; extra == 'test'"
+    ]
+  },
+  "Gammatone-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb03515ba0ec3962282e8659d204476dd179fdcc5f6fa84acc4a4f3d3557e891",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "nose",
+        "mock",
+        "matplotlib"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "nose",
+      "mock",
+      "matplotlib"
+    ]
+  }
+}

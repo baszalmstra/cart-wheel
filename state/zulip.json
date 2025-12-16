@@ -1,0 +1,92 @@
+{
+  "zulip-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37682bad54714a53f9286586a534c2e13217b2bbddf0b4e71c60ef67d43b9043",
+    "dependencies": {
+      "required": [
+        "requests",
+        "distro",
+        "click",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "requests[security]>=0.12.1",
+      "distro",
+      "click",
+      "typing_extensions>=4.5.0"
+    ]
+  },
+  "zulip-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a315db3e990c6b94aef323540b7f386485e8fc359dbd26af526c20dbe9068217",
+    "dependencies": {
+      "required": [
+        "requests",
+        "distro",
+        "click",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "requests[security] >=0.12.1",
+      "distro",
+      "click",
+      "typing-extensions >=4.5.0"
+    ]
+  },
+  "zulip-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22ba357f55c538120eef02781faeb46a256aad4f7a1b5419889f765766cda0a5",
+    "dependencies": {
+      "required": [
+        "requests",
+        "matrix-client",
+        "distro",
+        "click",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "requests[security] (>=0.12.1)",
+      "matrix-client",
+      "distro",
+      "click",
+      "typing-extensions (>=3.7)"
+    ]
+  },
+  "zulip-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67df49d4cf16b100c1e9a36e3f511db5c5ec000f1ab0034d9d6530a84a364f2a",
+    "dependencies": {
+      "required": [
+        "requests",
+        "matrix-client",
+        "distro",
+        "click"
+      ]
+    },
+    "original_requirements": [
+      "requests[security] (>=0.12.1)",
+      "matrix-client",
+      "distro",
+      "click"
+    ]
+  },
+  "zulip-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "92a7091e1e2da29683eccc85f7cbcac13456626f33ba0d250792e5a3daa6b1dc",
+    "dependencies": {
+      "required": [
+        "requests",
+        "matrix-client",
+        "distro"
+      ]
+    },
+    "original_requirements": [
+      "requests[security] (>=0.12.1)",
+      "matrix-client",
+      "distro"
+    ]
+  }
+}

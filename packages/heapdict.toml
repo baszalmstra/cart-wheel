@@ -1,0 +1,9 @@
+# Package configuration for heapdict
+conda_forge = "heapdict"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "HeapDict-1.0.1-py3-none-any.whl" },
+  { filename = "HeapDict-1.0.0-py3-none-any.whl" },
+]

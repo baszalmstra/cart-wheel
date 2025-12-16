@@ -1,0 +1,98 @@
+{
+  "apache_airflow_providers_salesforce-5.12.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd820be9edf50cfed6e3f34797b57d269be93bbf0de69ce01e6a1c148552fc1c",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "simple-salesforce",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "simple-salesforce>=1.0.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_salesforce-5.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "247c0bc443c15a0be4c58af885f2d74ff69ca7177bd5c07f45d176844b7d00ca",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "simple-salesforce",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "simple-salesforce>=1.0.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_salesforce-5.11.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8be59c830a7b1fd4cd1ae165bf365cd311439d6fb0991ac220fa8eca6f4c01a5",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "simple-salesforce",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "simple-salesforce>=1.0.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_salesforce-5.11.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "157447e31666dca1c3a4562987b8a96b466abcb8bdfbf00e269cdb768808a982",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "simple-salesforce",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "simple-salesforce>=1.0.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  },
+  "apache_airflow_providers_salesforce-5.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c812ddea889d80f02458f93bed2467e41ba69f5c338ab032e25a405f18debeee",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "simple-salesforce",
+        "pandas",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "simple-salesforce>=1.0.0",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\""
+    ]
+  }
+}

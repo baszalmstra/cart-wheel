@@ -1,0 +1,11 @@
+# Package configuration for azure-mgmt-logic
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_mgmt_logic-10.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_logic-9.0.0-py2.py3-none-any.whl" },
+  { filename = "azure_mgmt_logic-3.0.0-py2.py3-none-any.whl" },
+  { filename = "azure_mgmt_logic-2.1.0-py2.py3-none-any.whl" },
+  { filename = "azure_mgmt_logic-2.0.0-py2.py3-none-any.whl" },
+]

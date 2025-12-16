@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-savingsplans
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_savingsplans-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_savingsplans-1.42.1-py3-none-any.whl" },
+  { filename = "types_boto3_savingsplans-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_savingsplans-1.40.64-py3-none-any.whl" },
+  { filename = "types_boto3_savingsplans-1.40.58-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for libarchive-c
+conda_forge = "python-libarchive-c"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "libarchive_c-5.3-py3-none-any.whl" },
+  { filename = "libarchive_c-5.2-py3-none-any.whl" },
+  { filename = "libarchive_c-5.1-py2.py3-none-any.whl" },
+  { filename = "libarchive_c-5.0-py2.py3-none-any.whl" },
+  { filename = "libarchive_c-4.0-py2.py3-none-any.whl" },
+]

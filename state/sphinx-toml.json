@@ -1,0 +1,62 @@
+{
+  "sphinx_toml-0.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c518da2a0dda05a14d1759d7de1e058d6f58f4f5378c26776e6f4d4f07a6810",
+    "dependencies": {
+      "required": [
+        "tomli",
+        "intersphinx-registry",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "tomli ; python_version<'3.11'",
+      "intersphinx_registry",
+      "pydantic"
+    ]
+  },
+  "sphinx_toml-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07dc6ff2c8db207cabdbc12f31d405bdb73cec6c2ce256d03cde65ed8028c4ca",
+    "dependencies": {
+      "required": [
+        "tomli",
+        "intersphinx-registry",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "tomli ; python_version<'3.11'",
+      "intersphinx_registry",
+      "pydantic"
+    ]
+  },
+  "sphinx_toml-0.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "041622e6330ea3aae86f28837cdf8d0569ecc468ce6ad52adddfa716b983c0ec",
+    "dependencies": {
+      "required": [
+        "tomli",
+        "intersphinx-registry",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "tomli ; python_version<'3.11'",
+      "intersphinx_registry",
+      "pydantic"
+    ]
+  },
+  "sphinx_toml-0.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "83c812223a974794ccdd7e15d3394525f5ad0631aaa4b98231132773d12bd6e9",
+    "dependencies": {
+      "required": [
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "tomli ; python_version<'3.11'"
+    ]
+  }
+}

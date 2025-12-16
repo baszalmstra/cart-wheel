@@ -1,0 +1,12 @@
+# Package configuration for replicate
+conda_forge = "replicate"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "replicate-1.0.7-py3-none-any.whl" },
+  { filename = "replicate-1.0.6-py3-none-any.whl" },
+  { filename = "replicate-1.0.4-py3-none-any.whl" },
+  { filename = "replicate-1.0.3-py3-none-any.whl" },
+  { filename = "replicate-1.0.2-py3-none-any.whl" },
+]

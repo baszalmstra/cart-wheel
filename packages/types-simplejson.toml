@@ -1,0 +1,12 @@
+# Package configuration for types-simplejson
+conda_forge = "types-simplejson"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_simplejson-3.20.0.20250822-py3-none-any.whl" },
+  { filename = "types_simplejson-3.20.0.20250326-py3-none-any.whl" },
+  { filename = "types_simplejson-3.20.0.20250318-py3-none-any.whl" },
+  { filename = "types_simplejson-3.20.0.20250218-py3-none-any.whl" },
+  { filename = "types_simplejson-3.19.0.20241221-py3-none-any.whl" },
+]

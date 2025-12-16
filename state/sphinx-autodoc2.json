@@ -1,0 +1,125 @@
+{
+  "sphinx_autodoc2-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e867013b1512f9d6d7e6f6799f8b537d6884462acd118ef361f3f619a60b5c9e",
+    "dependencies": {
+      "required": [
+        "astroid",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "astroid>=2.7,<4",
+      "tomli; python_version<'3.11'",
+      "typing-extensions",
+      "typer[all] ; extra == \"cli\"",
+      "sphinx>=4.0.0 ; extra == \"docs\"",
+      "furo ; extra == \"docs\"",
+      "myst-parser ; extra == \"docs\"",
+      "sphinx>=4.0.0 ; extra == \"sphinx\"",
+      "pytest ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "sphinx>=4.0.0,<7 ; extra == \"testing\""
+    ]
+  },
+  "sphinx_autodoc2-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "00835ba8c980b9c510ea794c3e2060e5a254a74c6c22badc9bfd3642dc1034b4",
+    "dependencies": {
+      "required": [
+        "astroid",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "astroid>=2.7",
+      "tomli; python_version<'3.11'",
+      "typing-extensions",
+      "typer[all] ; extra == \"cli\"",
+      "sphinx>=4.0.0 ; extra == \"docs\"",
+      "furo ; extra == \"docs\"",
+      "myst-parser ; extra == \"docs\"",
+      "sphinx>=4.0.0 ; extra == \"sphinx\"",
+      "pytest ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "sphinx>=4.0.0 ; extra == \"testing\""
+    ]
+  },
+  "sphinx_autodoc2-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a0f0e9ae7b46ca38bc20b37bacdd04c253a36cdcfbaa9591ee150ab14e7cf7fb",
+    "dependencies": {
+      "required": [
+        "astroid",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "astroid>=2.7",
+      "tomli; python_version<'3.11'",
+      "typing-extensions",
+      "typer[all] ; extra == \"cli\"",
+      "sphinx>=4.0.0 ; extra == \"docs\"",
+      "furo ; extra == \"docs\"",
+      "myst-parser ; extra == \"docs\"",
+      "sphinx>=4.0.0 ; extra == \"sphinx\"",
+      "pytest ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "sphinx>=4.0.0 ; extra == \"testing\""
+    ]
+  },
+  "sphinx_autodoc2-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0cb91ca385b2c1cb0153b6cfd4f9ada72826fb8433bde5658ba8e9b9cda31af6",
+    "dependencies": {
+      "required": [
+        "astroid",
+        "tomli",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "astroid>=2.7",
+      "tomli; python_version<'3.11'",
+      "typing-extensions",
+      "typer[all] ; extra == \"cli\"",
+      "sphinx>=4.0.0 ; extra == \"docs\"",
+      "furo ; extra == \"docs\"",
+      "myst-parser ; extra == \"docs\"",
+      "sphinx>=4.0.0 ; extra == \"sphinx\"",
+      "pytest ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "sphinx>=4.0.0 ; extra == \"testing\""
+    ]
+  },
+  "sphinx_autodoc2-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08619a5470e782fe1096e8f5bf272341521bb25351d48b92bd6237833a45e76a",
+    "dependencies": {
+      "required": [
+        "astroid",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "astroid>=2.7",
+      "typing-extensions",
+      "typer[all] ; extra == \"cli\"",
+      "sphinx>=4.0.0 ; extra == \"docs\"",
+      "furo ; extra == \"docs\"",
+      "myst-parser ; extra == \"docs\"",
+      "sphinx>=4.0.0 ; extra == \"sphinx\"",
+      "pytest ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "sphinx>=4.0.0 ; extra == \"testing\""
+    ]
+  }
+}

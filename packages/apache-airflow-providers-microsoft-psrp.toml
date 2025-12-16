@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-microsoft-psrp
+conda_forge = "apache-airflow-providers-microsoft-psrp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_microsoft_psrp-3.2.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_microsoft_psrp-3.2.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_microsoft_psrp-3.1.6-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_microsoft_psrp-3.1.5-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_microsoft_psrp-3.1.4-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for pre-commit-hooks
+conda_forge = "pre-commit-hooks"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pre_commit_hooks-6.0.0-py2.py3-none-any.whl" },
+  { filename = "pre_commit_hooks-5.0.0-py2.py3-none-any.whl" },
+  { filename = "pre_commit_hooks-4.6.0-py2.py3-none-any.whl" },
+  { filename = "pre_commit_hooks-4.5.0-py2.py3-none-any.whl" },
+  { filename = "pre_commit_hooks-4.4.0-py2.py3-none-any.whl" },
+]

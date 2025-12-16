@@ -1,0 +1,90 @@
+{
+  "azure_mgmt_resource-24.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "27b32cd223e2784269f5a0db3c282042886ee4072d79cedc638438ece7cd0df4",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "typing-extensions",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "isodate>=0.6.1",
+      "typing-extensions>=4.6.0",
+      "azure-common>=1.1",
+      "azure-mgmt-core>=1.5.0"
+    ]
+  },
+  "azure_mgmt_resource-23.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17282d20dc643fb68a286c2c350a191dc3bf386827f65a7daeeb714367a19316",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "typing-extensions",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "isodate>=0.6.1",
+      "typing-extensions>=4.6.0",
+      "azure-common>=1.1",
+      "azure-mgmt-core>=1.5.0"
+    ]
+  },
+  "azure_mgmt_resource-23.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ab216ee28e29db6654b989746e0c85a1181f66653929d2cb6e48fba66d9af323",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "typing-extensions",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "isodate >=0.6.1",
+      "typing-extensions >=4.6.0",
+      "azure-common >=1.1",
+      "azure-mgmt-core >=1.3.2"
+    ]
+  },
+  "azure_mgmt_resource-23.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7af2bca928ecd58e57ea7f7731d245f45e9d927036d82f1d30b96baa0c26b569",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "typing-extensions",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "isodate >=0.6.1",
+      "typing-extensions >=4.6.0",
+      "azure-common >=1.1",
+      "azure-mgmt-core >=1.3.2"
+    ]
+  },
+  "azure_mgmt_resource-23.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fcaa4eca357d216f285b04e20b7f7bfaefda738ba6d30d956193090d3e325248",
+    "dependencies": {
+      "required": [
+        "isodate",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "isodate (>=0.6.1)",
+      "azure-common (>=1.1)",
+      "azure-mgmt-core (>=1.3.2)"
+    ]
+  }
+}

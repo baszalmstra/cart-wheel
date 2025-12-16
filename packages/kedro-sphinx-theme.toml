@@ -1,0 +1,10 @@
+# Package configuration for kedro-sphinx-theme
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kedro_sphinx_theme-2024.10.3-py3-none-any.whl" },
+  { filename = "kedro_sphinx_theme-2024.10.2-py3-none-any.whl" },
+  { filename = "kedro_sphinx_theme-2024.10.0-py3-none-any.whl" },
+  { filename = "kedro_sphinx_theme-2024.4.0-py3-none-any.whl" },
+]

@@ -1,0 +1,88 @@
+{
+  "sphinx_click-6.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1fb1851cb4f2c286d43cbcd57f55db6ef5a8d208bfc3370f19adde232e5803d7",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "click",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=4.0",
+      "click>=8.0",
+      "docutils",
+      "reno; extra == \"docs\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\""
+    ]
+  },
+  "sphinx_click-6.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7dbed856c3d0be75a394da444850d5fc7ecc5694534400aa5ed4f4849a8643f9",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "click",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx>=4.0",
+      "click>=8.0",
+      "docutils",
+      "reno; extra == \"docs\"",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\""
+    ]
+  },
+  "sphinx_click-6.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e0a3c83bcb7c55497751b19d07ebe56b5d7b85eb76dd399cf9061b497adc317",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "click",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx >=4.0",
+      "click >=8.0",
+      "docutils"
+    ]
+  },
+  "sphinx_click-5.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7aaa97bdce6fe315b3e719c085cd566e75470cbd91f1f6998b91213a09b8e7ec",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "click",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx >=2.0",
+      "click >=7.0",
+      "docutils"
+    ]
+  },
+  "sphinx_click-5.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a99d7e0ad5e4f7c72dc205703cd9a427475139899bd3bd8af449494b7f42276",
+    "dependencies": {
+      "required": [
+        "sphinx",
+        "click",
+        "docutils"
+      ]
+    },
+    "original_requirements": [
+      "sphinx >=2.0",
+      "click >=7.0",
+      "docutils"
+    ]
+  }
+}

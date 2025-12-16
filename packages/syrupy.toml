@@ -1,0 +1,12 @@
+# Package configuration for syrupy
+conda_forge = "syrupy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "syrupy-5.0.0-py3-none-any.whl" },
+  { filename = "syrupy-4.9.1-py3-none-any.whl" },
+  { filename = "syrupy-4.9.0-py3-none-any.whl" },
+  { filename = "syrupy-4.8.3-py3-none-any.whl" },
+  { filename = "syrupy-4.8.2-py3-none-any.whl" },
+]

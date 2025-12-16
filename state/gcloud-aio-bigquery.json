@@ -1,0 +1,64 @@
+{
+  "gcloud_aio_bigquery-7.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "524ae3cc14c1af6977a358829cc673b4471159caa7d62bba7f2d9334262bcd4a",
+    "dependencies": {
+      "required": [
+        "gcloud-aio-auth"
+      ]
+    },
+    "original_requirements": [
+      "gcloud-aio-auth (>=3.1.0,<6.0.0)"
+    ]
+  },
+  "gcloud_aio_bigquery-7.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "188b96b16b0fdbef2a0bc15ffce3f5a930ecc36de537fcfa5794fc397506fdd8",
+    "dependencies": {
+      "required": [
+        "gcloud-aio-auth"
+      ]
+    },
+    "original_requirements": [
+      "gcloud-aio-auth (>=3.1.0,<6.0.0)"
+    ]
+  },
+  "gcloud_aio_bigquery-6.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9479b2c8c3267b6fa13e31cd3b42544ba2a5fbac5af9cc30d7cf3cbe461166c4",
+    "dependencies": {
+      "required": [
+        "gcloud-aio-auth",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "gcloud-aio-auth (>=3.1.0,<5.0.0)",
+      "setuptools (>=66.0.0,<67.0.0)"
+    ]
+  },
+  "gcloud_aio_bigquery-6.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "540946f0d53ce929f7af71806fc5423611a0ae5c42fad2cc9415f7aaa03f7ec3",
+    "dependencies": {
+      "required": [
+        "gcloud-aio-auth"
+      ]
+    },
+    "original_requirements": [
+      "gcloud-aio-auth (>=3.1.0,<5.0.0)"
+    ]
+  },
+  "gcloud_aio_bigquery-6.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4cd5272cd609b99f42b4df58e2caaa639108b01e1ae7c70be870cf3abc2c7ddf",
+    "dependencies": {
+      "required": [
+        "gcloud-aio-auth"
+      ]
+    },
+    "original_requirements": [
+      "gcloud-aio-auth (>=3.1.0,<5.0.0)"
+    ]
+  }
+}

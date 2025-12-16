@@ -1,0 +1,12 @@
+# Package configuration for tensorboardx
+conda_forge = "tensorboardx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tensorboardx-2.6.4-py3-none-any.whl" },
+  { filename = "tensorboardX-2.6.2.2-py2.py3-none-any.whl" },
+  { filename = "tensorboardX-2.6.1-py2.py3-none-any.whl" },
+  { filename = "tensorboardX-2.6-py2.py3-none-any.whl" },
+  { filename = "tensorboardX-2.5.1-py2.py3-none-any.whl" },
+]

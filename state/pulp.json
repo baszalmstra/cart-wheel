@@ -1,0 +1,85 @@
+{
+  "pulp-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd6ad2d63f196d1254eddf9dcff5cd224912c1f046120cb7c143c5b0eda63fae",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cylp; extra == \"open-py\"",
+      "highspy; extra == \"open-py\"",
+      "pyscipopt; extra == \"open-py\"",
+      "gurobipy; extra == \"public-py\"",
+      "coptpy; extra == \"public-py\"",
+      "xpress; extra == \"public-py\"",
+      "cplex; (sys_platform != \"darwin\" or python_full_version < \"3.12\") and extra == \"public-py\"",
+      "highspy; extra == \"highs\"",
+      "pyscipopt; extra == \"scip\"",
+      "gurobipy; extra == \"gurobi\"",
+      "xpress; extra == \"xpress\"",
+      "coptpy; extra == \"copt\"",
+      "cplex; (sys_platform != \"darwin\" or python_full_version < \"3.12\") and extra == \"cplex\"",
+      "mosek; extra == \"mosek\""
+    ]
+  },
+  "pulp-3.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3ca5ff11a28b3e7b2508a992d7e51f3533471d89305f0560b5fe3b6cc821043",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cylp; sys_platform != \"win32\" and extra == \"open-py\"",
+      "highspy; extra == \"open-py\"",
+      "pyscipopt; extra == \"open-py\"",
+      "gurobipy; extra == \"public-py\"",
+      "coptpy; extra == \"public-py\"",
+      "xpress; extra == \"public-py\""
+    ]
+  },
+  "pulp-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c6cf7fe84cef15795bc7c27e2f3c6784db5cf6ebf68e94d5a659b02415f982c5",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cylp; extra == \"open-py\"",
+      "highspy; extra == \"open-py\"",
+      "pyscipopt; extra == \"open-py\"",
+      "gurobipy; extra == \"public-py\"",
+      "coptpy; extra == \"public-py\"",
+      "xpress; extra == \"public-py\""
+    ]
+  },
+  "pulp-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c13d2f7cbac29210ed74e02ffca45da8fa86d5d8f4ddde14a80aaa18cd6bc37",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cylp; extra == \"open-py\"",
+      "highspy; extra == \"open-py\"",
+      "pyscipopt; extra == \"open-py\"",
+      "gurobipy; extra == \"public-py\"",
+      "coptpy; extra == \"public-py\"",
+      "xpress; extra == \"public-py\""
+    ]
+  },
+  "pulp-3.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad9d46afaf78a708270a2fa9b38e56536584c048dfbd7a6dbc719abee1051261",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "cylp; extra == \"open-py\"",
+      "highspy; extra == \"open-py\"",
+      "pyscipopt; extra == \"open-py\"",
+      "gurobipy; extra == \"public-py\"",
+      "coptpy; extra == \"public-py\"",
+      "xpress; extra == \"public-py\""
+    ]
+  }
+}

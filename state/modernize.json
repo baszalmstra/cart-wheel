@@ -1,0 +1,39 @@
+{
+  "modernize-0.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b51f930ac9d726903f2c7f9038146d6061a14509140d6e4498827b19b5610120",
+    "dependencies": {
+      "required": [
+        "fissix"
+      ]
+    },
+    "original_requirements": [
+      "fissix",
+      "sphinx (~=3.2) ; extra == 'docs'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "coverage (>=5.3) ; extra == 'test'"
+    ]
+  },
+  "modernize-0.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74083e971b0b33dcdbfbc5e25628ae7673aa9ede2ce9b7e86fe6a3e52b26c550",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "modernize-0.6.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30024d839f018843b49fb68edf0f207ca2a5b819727ecaf2bc91a8590a1c0a60",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "modernize-0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "79405413de5ff3dab5f317fb83dc5add783676817bebcce6853b7c9a8dc37273",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for mkdocs
+conda_forge = "mkdocs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs-1.6.1-py3-none-any.whl" },
+  { filename = "mkdocs-1.6.0-py3-none-any.whl" },
+  { filename = "mkdocs-1.5.3-py3-none-any.whl" },
+  { filename = "mkdocs-1.5.2-py3-none-any.whl" },
+  { filename = "mkdocs-1.5.1-py3-none-any.whl" },
+]

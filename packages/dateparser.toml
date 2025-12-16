@@ -1,0 +1,12 @@
+# Package configuration for dateparser
+conda_forge = "dateparser"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dateparser-1.2.2-py3-none-any.whl" },
+  { filename = "dateparser-1.2.1-py3-none-any.whl" },
+  { filename = "dateparser-1.2.0-py2.py3-none-any.whl" },
+  { filename = "dateparser-1.1.8-py2.py3-none-any.whl" },
+  { filename = "dateparser-1.1.7-py2.py3-none-any.whl" },
+]

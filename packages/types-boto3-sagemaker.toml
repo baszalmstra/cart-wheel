@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-sagemaker
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_sagemaker-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_sagemaker-1.42.2-py3-none-any.whl" },
+  { filename = "types_boto3_sagemaker-1.42.1-py3-none-any.whl" },
+  { filename = "types_boto3_sagemaker-1.41.2-py3-none-any.whl" },
+  { filename = "types_boto3_sagemaker-1.41.1-py3-none-any.whl" },
+]

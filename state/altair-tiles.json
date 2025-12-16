@@ -1,0 +1,194 @@
+{
+  "altair_tiles-0.4.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:42.224288+00:00",
+    "conda_file": "altair-tiles-0.4.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "altair",
+        "mercantile",
+        "xyzservices"
+      ],
+      "optional": {
+        "dev": [
+          "geopandas",
+          "ghp-import",
+          "hatch",
+          "ipykernel",
+          "ipython",
+          "mypy",
+          "pytest",
+          "ruff",
+          "vega-datasets",
+          "vl-convert-python"
+        ],
+        "doc": [
+          "jupyter-book",
+          "vl-convert-python"
+        ]
+      }
+    },
+    "original_requirements": [
+      "altair",
+      "mercantile",
+      "xyzservices",
+      "geopandas; extra == 'dev'",
+      "ghp-import; extra == 'dev'",
+      "hatch; extra == 'dev'",
+      "ipykernel; extra == 'dev'",
+      "ipython; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "ruff>=0.1.4; extra == 'dev'",
+      "vega-datasets; extra == 'dev'",
+      "vl-convert-python; extra == 'dev'",
+      "jupyter-book; extra == 'doc'",
+      "vl-convert-python; extra == 'doc'"
+    ]
+  },
+  "altair_tiles-0.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:42.275930+00:00",
+    "conda_file": "altair-tiles-0.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "altair",
+        "mercantile",
+        "xyzservices"
+      ],
+      "optional": {
+        "dev": [
+          "geopandas",
+          "ghp-import",
+          "hatch",
+          "ipykernel",
+          "ipython",
+          "mypy",
+          "pytest",
+          "ruff",
+          "vega-datasets",
+          "vl-convert-python"
+        ],
+        "doc": [
+          "jupyter-book",
+          "vl-convert-python"
+        ]
+      }
+    },
+    "original_requirements": [
+      "altair",
+      "mercantile",
+      "xyzservices",
+      "geopandas; extra == 'dev'",
+      "ghp-import; extra == 'dev'",
+      "hatch; extra == 'dev'",
+      "ipykernel; extra == 'dev'",
+      "ipython; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "ruff>=0.1.4; extra == 'dev'",
+      "vega-datasets; extra == 'dev'",
+      "vl-convert-python; extra == 'dev'",
+      "jupyter-book; extra == 'doc'",
+      "vl-convert-python; extra == 'doc'"
+    ]
+  },
+  "altair_tiles-0.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:42.391302+00:00",
+    "conda_file": "altair-tiles-0.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "altair",
+        "mercantile",
+        "xyzservices"
+      ],
+      "optional": {
+        "dev": [
+          "geopandas",
+          "ghp-import",
+          "hatch",
+          "ipykernel",
+          "ipython",
+          "mypy",
+          "pytest",
+          "ruff",
+          "vega-datasets",
+          "vl-convert-python"
+        ],
+        "doc": [
+          "jupyter-book",
+          "vl-convert-python"
+        ]
+      }
+    },
+    "original_requirements": [
+      "altair",
+      "mercantile",
+      "xyzservices",
+      "geopandas; extra == 'dev'",
+      "ghp-import; extra == 'dev'",
+      "hatch; extra == 'dev'",
+      "ipykernel; extra == 'dev'",
+      "ipython; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "ruff>=0.1.4; extra == 'dev'",
+      "vega-datasets; extra == 'dev'",
+      "vl-convert-python; extra == 'dev'",
+      "jupyter-book; extra == 'doc'",
+      "vl-convert-python; extra == 'doc'"
+    ]
+  },
+  "altair_tiles-0.1.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:42.483498+00:00",
+    "conda_file": "altair-tiles-0.1.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "altair",
+        "mercantile",
+        "xyzservices"
+      ],
+      "optional": {
+        "dev": [
+          "geopandas",
+          "ghp-import",
+          "hatch",
+          "ipykernel",
+          "ipython",
+          "mypy",
+          "pytest",
+          "ruff",
+          "vega-datasets",
+          "vl-convert-python"
+        ],
+        "doc": [
+          "jupyter-book",
+          "vl-convert-python"
+        ]
+      }
+    },
+    "original_requirements": [
+      "altair",
+      "mercantile",
+      "xyzservices",
+      "geopandas; extra == 'dev'",
+      "ghp-import; extra == 'dev'",
+      "hatch; extra == 'dev'",
+      "ipykernel; extra == 'dev'",
+      "ipython; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "ruff>=0.1.4; extra == 'dev'",
+      "vega-datasets; extra == 'dev'",
+      "vl-convert-python; extra == 'dev'",
+      "jupyter-book; extra == 'doc'",
+      "vl-convert-python; extra == 'doc'"
+    ]
+  }
+}

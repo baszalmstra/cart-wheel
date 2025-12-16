@@ -1,0 +1,11 @@
+# Package configuration for permetrics
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "permetrics-2.0.0-py3-none-any.whl" },
+  { filename = "permetrics-1.5.0-py3-none-any.whl" },
+  { filename = "permetrics-1.4.3-py3-none-any.whl" },
+  { filename = "permetrics-1.4.2-py3-none-any.whl" },
+  { filename = "permetrics-1.4.1-py3-none-any.whl" },
+]

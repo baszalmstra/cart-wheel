@@ -1,0 +1,52 @@
+{
+  "rouge_score-0.0.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b57fd8a3589a392f1bb43a31788a46269102c84849564277761826b91f4d07d5",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "nltk",
+        "numpy",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "nltk",
+      "numpy",
+      "six (>=1.14.0)"
+    ]
+  },
+  "rouge_score-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8dec27969cbe6806e640ad2fd1419dd8ffb2e834846d9d3aaad1d280eaddfaf9",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "nltk",
+        "numpy",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "nltk",
+      "numpy",
+      "six (>=1.12.0)"
+    ]
+  },
+  "rouge_score-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03241cfab1e4c685308f127752217fc92f09a8413092e349c1659fb8c3c1d977",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "rouge_score-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c2d96e3c2704812a69331b57a7074f2601d7b0387e84cecf0082cbb69c578e5",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

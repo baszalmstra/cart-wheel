@@ -1,0 +1,170 @@
+{
+  "py_key_value_aio-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c781915766078bfd608daa769fefb97e65d1d73746a3dfb640460e322071b64",
+    "dependencies": {
+      "required": [
+        "py-key-value-shared",
+        "beartype"
+      ]
+    },
+    "original_requirements": [
+      "py-key-value-shared==0.3.0",
+      "beartype>=0.20.0",
+      "diskcache>=5.0.0 ; extra == 'disk'",
+      "pathvalidate>=3.3.1 ; extra == 'disk'",
+      "duckdb>=1.1.1 ; extra == 'duckdb'",
+      "pytz>=2025.2 ; extra == 'duckdb'",
+      "aioboto3>=13.3.0 ; extra == 'dynamodb'",
+      "types-aiobotocore-dynamodb>=2.16.0 ; extra == 'dynamodb'",
+      "elasticsearch>=8.0.0 ; extra == 'elasticsearch'",
+      "aiohttp>=3.12 ; extra == 'elasticsearch'",
+      "aiofile>=3.5.0 ; extra == 'filetree'",
+      "anyio>=4.4.0 ; extra == 'filetree'",
+      "keyring>=25.6.0 ; extra == 'keyring'",
+      "keyring>=25.6.0 ; extra == 'keyring-linux'",
+      "dbus-python>=1.4.0 ; extra == 'keyring-linux'",
+      "aiomcache>=0.8.0 ; extra == 'memcached'",
+      "cachetools>=5.0.0 ; extra == 'memory'",
+      "pymongo>=4.0.0 ; extra == 'mongodb'",
+      "pydantic>=2.11.9 ; extra == 'pydantic'",
+      "redis>=4.3.0 ; extra == 'redis'",
+      "rocksdict>=0.3.24 ; python_full_version >= '3.12' and extra == 'rocksdb'",
+      "rocksdict>=0.3.2 ; python_full_version < '3.12' and extra == 'rocksdb'",
+      "valkey-glide>=2.1.0 ; extra == 'valkey'",
+      "hvac>=2.3.0 ; extra == 'vault'",
+      "types-hvac>=2.3.0 ; extra == 'vault'",
+      "cryptography>=45.0.0 ; extra == 'wrappers-encryption'"
+    ]
+  },
+  "py_key_value_aio-0.2.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "561565547ce8162128fd2bd0b9d70ce04a5f4586da8500cce79a54dfac78c46a",
+    "dependencies": {
+      "required": [
+        "beartype",
+        "py-key-value-shared"
+      ]
+    },
+    "original_requirements": [
+      "beartype>=0.22.2",
+      "py-key-value-shared==0.2.8",
+      "diskcache>=5.6.0 ; extra == 'disk'",
+      "pathvalidate>=3.3.1 ; extra == 'disk'",
+      "aioboto3>=13.3.0 ; extra == 'dynamodb'",
+      "types-aiobotocore-dynamodb>=2.16.0 ; extra == 'dynamodb'",
+      "elasticsearch>=9.0.0 ; extra == 'elasticsearch'",
+      "aiohttp>=3.12 ; extra == 'elasticsearch'",
+      "keyring>=25.6.0 ; extra == 'keyring'",
+      "keyring>=25.6.0 ; extra == 'keyring-linux'",
+      "dbus-python>=1.4.0 ; extra == 'keyring-linux'",
+      "aiomcache>=0.8.0 ; extra == 'memcached'",
+      "cachetools>=6.0.0 ; extra == 'memory'",
+      "pymongo>=4.15.0 ; extra == 'mongodb'",
+      "pydantic>=2.11.9 ; extra == 'pydantic'",
+      "redis>=4.3.0 ; extra == 'redis'",
+      "rocksdict>=0.3.0 ; extra == 'rocksdb'",
+      "valkey-glide>=2.1.0 ; extra == 'valkey'",
+      "hvac>=2.3.0 ; extra == 'vault'",
+      "types-hvac>=2.3.0 ; extra == 'vault'",
+      "cryptography>=45.0.0 ; extra == 'wrappers-encryption'"
+    ]
+  },
+  "py_key_value_aio-0.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7041554cc5d793a039257c708e61f0d2d1207b44941c131d485a9c1fd3c51623",
+    "dependencies": {
+      "required": [
+        "beartype",
+        "py-key-value-shared"
+      ]
+    },
+    "original_requirements": [
+      "beartype>=0.22.2",
+      "py-key-value-shared==0.2.7",
+      "diskcache>=5.6.0 ; extra == 'disk'",
+      "pathvalidate>=3.3.1 ; extra == 'disk'",
+      "aioboto3>=13.3.0 ; extra == 'dynamodb'",
+      "types-aiobotocore-dynamodb>=2.16.0 ; extra == 'dynamodb'",
+      "elasticsearch>=9.0.0 ; extra == 'elasticsearch'",
+      "aiohttp>=3.12 ; extra == 'elasticsearch'",
+      "keyring>=25.6.0 ; extra == 'keyring'",
+      "keyring>=25.6.0 ; extra == 'keyring-linux'",
+      "dbus-python>=1.4.0 ; extra == 'keyring-linux'",
+      "aiomcache>=0.8.0 ; extra == 'memcached'",
+      "cachetools>=6.0.0 ; extra == 'memory'",
+      "pymongo>=4.15.0 ; extra == 'mongodb'",
+      "pydantic>=2.11.9 ; extra == 'pydantic'",
+      "redis>=4.3.0 ; extra == 'redis'",
+      "rocksdict>=0.3.0 ; extra == 'rocksdb'",
+      "valkey-glide>=2.1.0 ; extra == 'valkey'",
+      "hvac>=2.3.0 ; extra == 'vault'",
+      "types-hvac>=2.3.0 ; extra == 'vault'",
+      "cryptography>=45.0.0 ; extra == 'wrappers-encryption'"
+    ]
+  },
+  "py_key_value_aio-0.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "676e5be6f2818e6c51ad54f07b75aaded1aa5f6c3b2b94cfa623c19cbaa77d9e",
+    "dependencies": {
+      "required": [
+        "beartype",
+        "py-key-value-shared"
+      ]
+    },
+    "original_requirements": [
+      "beartype>=0.22.2",
+      "py-key-value-shared==0.2.6",
+      "diskcache>=5.6.0 ; extra == 'disk'",
+      "pathvalidate>=3.3.1 ; extra == 'disk'",
+      "aioboto3>=13.3.0 ; extra == 'dynamodb'",
+      "types-aiobotocore-dynamodb>=2.16.0 ; extra == 'dynamodb'",
+      "elasticsearch>=9.0.0 ; extra == 'elasticsearch'",
+      "aiohttp>=3.12 ; extra == 'elasticsearch'",
+      "keyring>=25.6.0 ; extra == 'keyring'",
+      "keyring>=25.6.0 ; extra == 'keyring-linux'",
+      "dbus-python>=1.4.0 ; extra == 'keyring-linux'",
+      "aiomcache>=0.8.0 ; extra == 'memcached'",
+      "cachetools>=6.0.0 ; extra == 'memory'",
+      "pymongo>=4.15.0 ; extra == 'mongodb'",
+      "pydantic>=2.11.9 ; extra == 'pydantic'",
+      "redis>=4.3.0 ; extra == 'redis'",
+      "rocksdict>=0.3.0 ; extra == 'rocksdb'",
+      "valkey-glide>=2.1.0 ; extra == 'valkey'",
+      "hvac>=2.3.0 ; extra == 'vault'",
+      "types-hvac>=2.3.0 ; extra == 'vault'"
+    ]
+  },
+  "py_key_value_aio-0.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae7a3f85a5955ccdfa73fce967b7afe81a0e87ff9692dee93e5999fdbe5d0a11",
+    "dependencies": {
+      "required": [
+        "beartype",
+        "py-key-value-shared"
+      ]
+    },
+    "original_requirements": [
+      "beartype>=0.22.2",
+      "py-key-value-shared==0.2.5",
+      "diskcache>=5.6.0 ; extra == 'disk'",
+      "pathvalidate>=3.3.1 ; extra == 'disk'",
+      "aioboto3>=13.3.0 ; extra == 'dynamodb'",
+      "types-aiobotocore-dynamodb>=2.16.0 ; extra == 'dynamodb'",
+      "elasticsearch>=9.0.0 ; extra == 'elasticsearch'",
+      "aiohttp>=3.12 ; extra == 'elasticsearch'",
+      "keyring>=25.6.0 ; extra == 'keyring'",
+      "keyring>=25.6.0 ; extra == 'keyring-linux'",
+      "dbus-python>=1.4.0 ; extra == 'keyring-linux'",
+      "aiomcache>=0.8.0 ; extra == 'memcached'",
+      "cachetools>=6.0.0 ; extra == 'memory'",
+      "pymongo>=4.15.0 ; extra == 'mongodb'",
+      "pydantic>=2.11.9 ; extra == 'pydantic'",
+      "redis>=6.0.0 ; extra == 'redis'",
+      "rocksdict>=0.3.0 ; extra == 'rocksdb'",
+      "valkey-glide>=2.1.0 ; extra == 'valkey'",
+      "hvac>=2.3.0 ; extra == 'vault'",
+      "types-hvac>=2.3.0 ; extra == 'vault'"
+    ]
+  }
+}

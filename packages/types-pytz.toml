@@ -1,0 +1,12 @@
+# Package configuration for types-pytz
+conda_forge = "types-pytz"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_pytz-2025.2.0.20251108-py3-none-any.whl" },
+  { filename = "types_pytz-2025.2.0.20250809-py3-none-any.whl" },
+  { filename = "types_pytz-2025.2.0.20250516-py3-none-any.whl" },
+  { filename = "types_pytz-2025.2.0.20250326-py3-none-any.whl" },
+  { filename = "types_pytz-2025.1.0.20250318-py3-none-any.whl" },
+]

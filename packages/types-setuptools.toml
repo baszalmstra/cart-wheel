@@ -1,0 +1,12 @@
+# Package configuration for types-setuptools
+conda_forge = "types-setuptools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_setuptools-80.9.0.20250822-py3-none-any.whl" },
+  { filename = "types_setuptools-80.9.0.20250809-py3-none-any.whl" },
+  { filename = "types_setuptools-80.9.0.20250801-py3-none-any.whl" },
+  { filename = "types_setuptools-80.9.0.20250529-py3-none-any.whl" },
+  { filename = "types_setuptools-80.8.0.20250521-py3-none-any.whl" },
+]

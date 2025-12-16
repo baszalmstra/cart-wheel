@@ -1,0 +1,12 @@
+# Package configuration for scriptconfig
+conda_forge = "scriptconfig"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "scriptconfig-0.8.4-py3-none-any.whl" },
+  { filename = "scriptconfig-0.8.2-py3-none-any.whl" },
+  { filename = "scriptconfig-0.8.1-py3-none-any.whl" },
+  { filename = "scriptconfig-0.8.0-py3-none-any.whl" },
+  { filename = "scriptconfig-0.7.15-py3-none-any.whl" },
+]

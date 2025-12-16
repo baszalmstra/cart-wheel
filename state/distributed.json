@@ -1,0 +1,202 @@
+{
+  "distributed-2025.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "35d18449002ea191e97f7e04a33e16f90c2243486be52d4d0f991072ea06b48a",
+    "dependencies": {
+      "required": [
+        "click",
+        "cloudpickle",
+        "dask",
+        "jinja2",
+        "locket",
+        "msgpack",
+        "packaging",
+        "psutil",
+        "pyyaml",
+        "sortedcontainers",
+        "tblib",
+        "toolz",
+        "tornado",
+        "urllib3",
+        "zict"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0",
+      "cloudpickle>=3.0.0",
+      "dask<2025.12.1,>=2025.12.0",
+      "jinja2>=2.10.3",
+      "locket>=1.0.0",
+      "msgpack>=1.0.2",
+      "packaging>=20.0",
+      "psutil>=5.8.0",
+      "pyyaml>=5.4.1",
+      "sortedcontainers>=2.0.5",
+      "tblib!=3.2.0,!=3.2.1,>=1.6.0",
+      "toolz>=0.12.0",
+      "tornado>=6.2.0",
+      "urllib3>=1.26.5",
+      "zict>=3.0.0"
+    ]
+  },
+  "distributed-2025.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1794ff25b19ba347ccce563fb1dd5898c3bb30f500b15f8c20ad373f6281b30f",
+    "dependencies": {
+      "required": [
+        "click",
+        "cloudpickle",
+        "dask",
+        "jinja2",
+        "locket",
+        "msgpack",
+        "packaging",
+        "psutil",
+        "pyyaml",
+        "sortedcontainers",
+        "tblib",
+        "toolz",
+        "tornado",
+        "urllib3",
+        "zict"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0",
+      "cloudpickle>=3.0.0",
+      "dask==2025.11.0",
+      "jinja2>=2.10.3",
+      "locket>=1.0.0",
+      "msgpack>=1.0.2",
+      "packaging>=20.0",
+      "psutil>=5.8.0",
+      "pyyaml>=5.4.1",
+      "sortedcontainers>=2.0.5",
+      "tblib>=1.6.0",
+      "toolz>=0.11.2",
+      "tornado>=6.2.0",
+      "urllib3>=1.26.5",
+      "zict>=3.0.0"
+    ]
+  },
+  "distributed-2025.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "613281c2796e4b3f349c9a1c0ef95b84a6b58f7a17d93206758a6902bd96913d",
+    "dependencies": {
+      "required": [
+        "click",
+        "cloudpickle",
+        "dask",
+        "jinja2",
+        "locket",
+        "msgpack",
+        "packaging",
+        "psutil",
+        "pyyaml",
+        "sortedcontainers",
+        "tblib",
+        "toolz",
+        "tornado",
+        "urllib3",
+        "zict"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0",
+      "cloudpickle>=3.0.0",
+      "dask==2025.10.0",
+      "jinja2>=2.10.3",
+      "locket>=1.0.0",
+      "msgpack>=1.0.2",
+      "packaging>=20.0",
+      "psutil>=5.8.0",
+      "pyyaml>=5.4.1",
+      "sortedcontainers>=2.0.5",
+      "tblib>=1.6.0",
+      "toolz>=0.11.2",
+      "tornado>=6.2.0",
+      "urllib3>=1.26.5",
+      "zict>=3.0.0"
+    ]
+  },
+  "distributed-2025.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9453a2216cb9c686be12ad66b9c8698df3c3917565367de5797993a5f83f30ba",
+    "dependencies": {
+      "required": [
+        "click",
+        "cloudpickle",
+        "dask",
+        "jinja2",
+        "locket",
+        "msgpack",
+        "packaging",
+        "psutil",
+        "pyyaml",
+        "sortedcontainers",
+        "tblib",
+        "toolz",
+        "tornado",
+        "urllib3",
+        "zict"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0",
+      "cloudpickle>=3.0.0",
+      "dask==2025.9.1",
+      "jinja2>=2.10.3",
+      "locket>=1.0.0",
+      "msgpack>=1.0.2",
+      "packaging>=20.0",
+      "psutil>=5.8.0",
+      "pyyaml>=5.4.1",
+      "sortedcontainers>=2.0.5",
+      "tblib>=1.6.0",
+      "toolz>=0.11.2",
+      "tornado>=6.2.0",
+      "urllib3>=1.26.5",
+      "zict>=3.0.0"
+    ]
+  },
+  "distributed-2025.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "87c35e4aefb5525d44032b40d7d780b4e9e398b6d567ca5bb6cc7b2150c48aa9",
+    "dependencies": {
+      "required": [
+        "click",
+        "cloudpickle",
+        "dask",
+        "jinja2",
+        "locket",
+        "msgpack",
+        "packaging",
+        "psutil",
+        "pyyaml",
+        "sortedcontainers",
+        "tblib",
+        "toolz",
+        "tornado",
+        "urllib3",
+        "zict"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0",
+      "cloudpickle>=3.0.0",
+      "dask==2025.9.0",
+      "jinja2>=2.10.3",
+      "locket>=1.0.0",
+      "msgpack>=1.0.2",
+      "packaging>=20.0",
+      "psutil>=5.8.0",
+      "pyyaml>=5.4.1",
+      "sortedcontainers>=2.0.5",
+      "tblib>=1.6.0",
+      "toolz>=0.11.2",
+      "tornado>=6.2.0",
+      "urllib3>=1.26.5",
+      "zict>=3.0.0"
+    ]
+  }
+}

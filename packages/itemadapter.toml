@@ -1,0 +1,12 @@
+# Package configuration for itemadapter
+conda_forge = "itemadapter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "itemadapter-0.12.2-py3-none-any.whl" },
+  { filename = "itemadapter-0.12.1-py3-none-any.whl" },
+  { filename = "itemadapter-0.12.0-py3-none-any.whl" },
+  { filename = "itemadapter-0.11.0-py3-none-any.whl" },
+  { filename = "itemadapter-0.10.0-py3-none-any.whl" },
+]

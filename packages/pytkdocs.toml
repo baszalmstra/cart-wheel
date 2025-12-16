@@ -1,0 +1,12 @@
+# Package configuration for pytkdocs
+conda_forge = "pytkdocs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytkdocs-0.16.5-py3-none-any.whl" },
+  { filename = "pytkdocs-0.16.4-py3-none-any.whl" },
+  { filename = "pytkdocs-0.16.3-py3-none-any.whl" },
+  { filename = "pytkdocs-0.16.2-py3-none-any.whl" },
+  { filename = "pytkdocs-0.16.1-py3-none-any.whl" },
+]

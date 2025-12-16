@@ -1,0 +1,11 @@
+# Package configuration for aurelio-sdk
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aurelio_sdk-0.0.19-py3-none-any.whl" },
+  { filename = "aurelio_sdk-0.0.18-py3-none-any.whl" },
+  { filename = "aurelio_sdk-0.0.17-py3-none-any.whl" },
+  { filename = "aurelio_sdk-0.0.16-py3-none-any.whl" },
+  { filename = "aurelio_sdk-0.0.15-py3-none-any.whl" },
+]

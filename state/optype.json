@@ -1,0 +1,70 @@
+{
+  "optype-0.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "caba40ece9ea39b499fa76c036a82e0d452a432dd4dd3e8e0d30892be2e8c76c",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.10 ; python_full_version < '3.13'",
+      "numpy>=1.25 ; extra == 'numpy'",
+      "numpy-typing-compat>=20250818.1.25,<20251207 ; extra == 'numpy'"
+    ]
+  },
+  "optype-0.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50d02edafd04edf2e5e27d6249760a51b2198adb9f6ffd778030b3d2806b026b",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.10 ; python_full_version < '3.13'",
+      "numpy>=1.25 ; extra == 'numpy'",
+      "numpy-typing-compat>=20250818.1.25,<20250819 ; extra == 'numpy'"
+    ]
+  },
+  "optype-0.13.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "500c89cfac82e2f9448a54ce0a5d5c415b6976b039c2494403cd6395bd531979",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.10 ; python_full_version < '3.13'",
+      "numpy>=1.25 ; extra == 'numpy'",
+      "numpy-typing-compat>=20250818.1.25,<20250819 ; extra == 'numpy'"
+    ]
+  },
+  "optype-0.13.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0fce3ef95da9f5eefc01b7f06fae363cfe1939027934e108f95fefd169019363",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.10 ; python_full_version < '3.13'",
+      "numpy-typing-compat>=1.25.20250814,<3 ; extra == 'numpy'"
+    ]
+  },
+  "optype-0.12.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e38966fcd5ae9dec1c1bdecccdd8fdc7cfb8f21686f45ce3669a3a566c7cc110",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.10 ; python_full_version < '3.13'",
+      "numpy>=1.25 ; extra == 'numpy'"
+    ]
+  }
+}

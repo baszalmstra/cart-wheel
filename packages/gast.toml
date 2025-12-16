@@ -1,0 +1,12 @@
+# Package configuration for gast
+conda_forge = "gast"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gast-0.7.0-py3-none-any.whl" },
+  { filename = "gast-0.6.0-py3-none-any.whl" },
+  { filename = "gast-0.5.5-py3-none-any.whl" },
+  { filename = "gast-0.5.4-py3-none-any.whl" },
+  { filename = "gast-0.5.3-py3-none-any.whl" },
+]

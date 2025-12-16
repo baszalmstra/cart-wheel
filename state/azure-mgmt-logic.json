@@ -1,0 +1,84 @@
+{
+  "azure_mgmt_logic-10.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "525c78afedf3edb35eb0a16152c8beba89769ee1bc6af01bcdc42842a551e443",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-mgmt-core"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.6.21)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-core (<2.0.0,>=1.3.0)"
+    ]
+  },
+  "azure_mgmt_logic-9.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "abacd7b493119bb74050cbfa82f80298ead8aa4a13a3d4c92e918e88b9e23b77",
+    "dependencies": {
+      "required": [
+        "msrest",
+        "azure-common",
+        "azure-mgmt-core",
+        "azure-mgmt-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrest (>=0.5.0)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-core (<2.0.0,>=1.2.0)",
+      "azure-mgmt-nspkg ; python_version<'3.0'"
+    ]
+  },
+  "azure_mgmt_logic-3.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "232c175e45582f7c547d3b50d93bd64aec37b400426962e4fd0cd235980ea110",
+    "dependencies": {
+      "required": [
+        "msrestazure",
+        "azure-common",
+        "azure-mgmt-nspkg"
+      ]
+    },
+    "original_requirements": [
+      "msrestazure (<2.0.0,>=0.4.27)",
+      "azure-common (~=1.1)",
+      "azure-mgmt-nspkg (>=2.0.0)"
+    ]
+  },
+  "azure_mgmt_logic-2.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f1936dc59977a045fe4ea87ee412b8178f8a368911569e6b36373157ae1f6bf8",
+    "dependencies": {
+      "required": [
+        "azure-common",
+        "azure-mgmt-nspkg",
+        "msrestazure"
+      ]
+    },
+    "original_requirements": [
+      "azure-common (~=1.1.5)",
+      "azure-mgmt-nspkg (>=2.0.0)",
+      "msrestazure (~=0.4.7)"
+    ]
+  },
+  "azure_mgmt_logic-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb8986a44a880e674e44c14f949653f8c55bbb839d87c753ec6404d1bc7cb56d",
+    "dependencies": {
+      "required": [
+        "azure-common",
+        "azure-mgmt-nspkg",
+        "msrestazure"
+      ]
+    },
+    "original_requirements": [
+      "azure-common (~=1.1.4)",
+      "azure-mgmt-nspkg",
+      "msrestazure (~=0.4.6)"
+    ]
+  }
+}

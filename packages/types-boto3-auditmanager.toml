@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-auditmanager
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_auditmanager-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_auditmanager-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_auditmanager-1.40.63-py3-none-any.whl" },
+  { filename = "types_boto3_auditmanager-1.40.1-py3-none-any.whl" },
+  { filename = "types_boto3_auditmanager-1.40.0-py3-none-any.whl" },
+]

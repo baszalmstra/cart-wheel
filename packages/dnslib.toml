@@ -1,0 +1,12 @@
+# Package configuration for dnslib
+conda_forge = "dnslib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dnslib-0.9.26-py3-none-any.whl" },
+  { filename = "dnslib-0.9.25-py3-none-any.whl" },
+  { filename = "dnslib-0.9.24-py3-none-any.whl" },
+  { filename = "dnslib-0.9.23-py3-none-any.whl" },
+  { filename = "dnslib-0.9.22-py3-none-any.whl" },
+]

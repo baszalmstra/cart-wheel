@@ -1,0 +1,75 @@
+{
+  "sgqlc-17.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d4d030ee687b66a840d605c81060585998fc22bba805b55e496911108800fc48",
+    "dependencies": {
+      "required": [
+        "graphql-core"
+      ]
+    },
+    "original_requirements": [
+      "graphql-core (>=3.2.6,<3.3.0)",
+      "httpx ; extra == \"httpx\"",
+      "pytest ; extra == \"pytest\"",
+      "requests ; extra == \"requests\"",
+      "websocket-client ; extra == \"websocket\""
+    ]
+  },
+  "sgqlc-17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "99187c656fd0d5f9c81e7081d2ae569823b6c9a14a6e37eb00a39602808841f0",
+    "dependencies": {
+      "required": [
+        "graphql-core"
+      ]
+    },
+    "original_requirements": [
+      "graphql-core (>=3.2.6,<3.3.0)",
+      "httpx ; extra == \"httpx\"",
+      "requests ; extra == \"requests\"",
+      "websocket-client ; extra == \"websocket\""
+    ]
+  },
+  "sgqlc-16.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "56952622e3fcd771e079de290cf8a244dc014cbd9b65059d04f262ec8d8f0f44",
+    "dependencies": {
+      "required": [
+        "graphql-core"
+      ]
+    },
+    "original_requirements": [
+      "graphql-core (>=3.2.4,<4.0.0)",
+      "requests ; extra == \"requests\"",
+      "websocket-client ; extra == \"websocket\""
+    ]
+  },
+  "sgqlc-16.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91f9e7e624c76613288b917f583c6b19c8d908a213199f1cb6e918e8f3901246",
+    "dependencies": {
+      "required": [
+        "graphql-core"
+      ]
+    },
+    "original_requirements": [
+      "graphql-core (>=3.2.4,<4.0.0)",
+      "requests ; extra == \"requests\"",
+      "websocket-client ; extra == \"websocket\""
+    ]
+  },
+  "sgqlc-16.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "89d468386a4ba4b5ade991623228b6fb0a25bea1f25643ccac130fb3ef565b72",
+    "dependencies": {
+      "required": [
+        "graphql-core"
+      ]
+    },
+    "original_requirements": [
+      "graphql-core (>=3.1.7,<4.0.0)",
+      "requests ; extra == \"requests\"",
+      "websocket-client ; extra == \"websocket\""
+    ]
+  }
+}

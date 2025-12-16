@@ -1,0 +1,84 @@
+{
+  "pandas_datareader-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b95ff3635bc3ee1a6073521b557ab0e3c39d219f4a3b720b6b0bc6e8cdb4bb7",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "pandas",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "lxml",
+      "pandas (>=0.23)",
+      "requests (>=2.19.0)"
+    ]
+  },
+  "pandas_datareader-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd9ce1238114dd199c32662a9d788271032580960bcf029e64b814d33d17477c",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "pandas",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "lxml",
+      "pandas (>=0.23)",
+      "requests (>=2.19.0)"
+    ]
+  },
+  "pandas_datareader-0.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7001a7cdeee1153e15881701bf03a3bd68931bec806e252eb6babe0ae042ec60",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "pandas",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "lxml",
+      "pandas (>=0.21)",
+      "requests (>=2.3.0)"
+    ]
+  },
+  "pandas_datareader-0.8.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b751e2f927edccd84f05512202f159f6a0fb8bb5f8abb3deac752ecd4ce7715",
+    "dependencies": {
+      "required": [
+        "lxml",
+        "pandas",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "lxml",
+      "pandas (>=0.21)",
+      "requests (>=2.3.0)"
+    ]
+  },
+  "pandas_datareader-0.7.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "898945ee91e5efbb765e9449a8f88abac0733220d7b27d5109da4f51fcff4955",
+    "dependencies": {
+      "required": [
+        "pandas",
+        "requests",
+        "wrapt",
+        "lxml"
+      ]
+    },
+    "original_requirements": [
+      "pandas (>=0.19.2)",
+      "requests (>=2.3.0)",
+      "wrapt",
+      "lxml"
+    ]
+  }
+}

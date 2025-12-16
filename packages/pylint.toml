@@ -1,0 +1,12 @@
+# Package configuration for pylint
+conda_forge = "pylint"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pylint-4.0.4-py3-none-any.whl" },
+  { filename = "pylint-4.0.3-py3-none-any.whl" },
+  { filename = "pylint-4.0.2-py3-none-any.whl" },
+  { filename = "pylint-4.0.1-py3-none-any.whl" },
+  { filename = "pylint-4.0.0-py3-none-any.whl" },
+]

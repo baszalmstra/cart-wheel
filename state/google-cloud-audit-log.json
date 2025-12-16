@@ -1,0 +1,72 @@
+{
+  "google_cloud_audit_log-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b88e2349df45f8f4cc0993b687109b1388da1571c502dc1417efa4b66ec55e0",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "googleapis-common-protos"
+      ]
+    },
+    "original_requirements": [
+      "protobuf!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "googleapis-common-protos<2.0.0,>=1.56.2"
+    ]
+  },
+  "google_cloud_audit_log-0.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "986247ca16c4399832ce1eb8de0438f7ca20f8ca99f529ff6469dbedc62e8b8b",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "googleapis-common-protos"
+      ]
+    },
+    "original_requirements": [
+      "protobuf!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "googleapis-common-protos<2.0.0,>=1.56.2"
+    ]
+  },
+  "google_cloud_audit_log-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "daaedfb947a0d77f524e1bd2b560242ab4836fe1afd6b06b92f152b9658554ed",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "googleapis-common-protos"
+      ]
+    },
+    "original_requirements": [
+      "protobuf!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<7.0.0,>=3.20.2",
+      "googleapis-common-protos<2.0.0,>=1.56.2"
+    ]
+  },
+  "google_cloud_audit_log-0.3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "547828f17a1babbc4769e4577c4e1fcc2bba6254478ab1c7076b25fba8fdabb8",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "googleapis-common-protos"
+      ]
+    },
+    "original_requirements": [
+      "protobuf!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<6.0.0dev,>=3.20.2",
+      "googleapis-common-protos<2.0dev,>=1.56.2"
+    ]
+  },
+  "google_cloud_audit_log-0.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8340793120a1d5aa143605def8704ecdcead15106f754ef1381ae3bab533722f",
+    "dependencies": {
+      "required": [
+        "protobuf",
+        "googleapis-common-protos"
+      ]
+    },
+    "original_requirements": [
+      "protobuf !=4.21.1,!=4.21.2,!=4.21.3,!=4.21.4,!=4.21.5,<6.0.0dev,>=3.20.2",
+      "googleapis-common-protos <2.0dev,>=1.56.2"
+    ]
+  }
+}

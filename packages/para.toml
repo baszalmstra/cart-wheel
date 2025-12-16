@@ -1,0 +1,9 @@
+# Package configuration for para
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "para-0.0.8-py3-none-any.whl" },
+  { filename = "para-0.0.7-py3-none-any.whl" },
+  { filename = "para-0.0.6-py3-none-any.whl" },
+]

@@ -1,0 +1,152 @@
+{
+  "aws_cdk.aws_route53-1.204.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a6610e7c9265128052d5b6993c55002cea36f4dabe4ed0c6e36a41507e35f34",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-logs",
+        "aws-cdk.cloud-assembly-schema",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-ec2 (==1.204.0)",
+      "aws-cdk.aws-iam (==1.204.0)",
+      "aws-cdk.aws-logs (==1.204.0)",
+      "aws-cdk.cloud-assembly-schema (==1.204.0)",
+      "aws-cdk.core (==1.204.0)",
+      "aws-cdk.custom-resources (==1.204.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.84.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_route53-1.203.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b0e8de087fd5a606ccfcf7247451230648ca50dd91348199fa18e089fbd59934",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-logs",
+        "aws-cdk.cloud-assembly-schema",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-ec2 (==1.203.0)",
+      "aws-cdk.aws-iam (==1.203.0)",
+      "aws-cdk.aws-logs (==1.203.0)",
+      "aws-cdk.cloud-assembly-schema (==1.203.0)",
+      "aws-cdk.core (==1.203.0)",
+      "aws-cdk.custom-resources (==1.203.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_route53-1.202.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "16999b6fd2da8b62186a80b6b2a24408960892837992f768ecad81153a75dafa",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-logs",
+        "aws-cdk.cloud-assembly-schema",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-ec2 (==1.202.0)",
+      "aws-cdk.aws-iam (==1.202.0)",
+      "aws-cdk.aws-logs (==1.202.0)",
+      "aws-cdk.cloud-assembly-schema (==1.202.0)",
+      "aws-cdk.core (==1.202.0)",
+      "aws-cdk.custom-resources (==1.202.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_route53-1.201.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "694a50f2cff008044837433dc6befe8e3ff993de1bb337a794e054b2852cfac9",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-logs",
+        "aws-cdk.cloud-assembly-schema",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-ec2 (==1.201.0)",
+      "aws-cdk.aws-iam (==1.201.0)",
+      "aws-cdk.aws-logs (==1.201.0)",
+      "aws-cdk.cloud-assembly-schema (==1.201.0)",
+      "aws-cdk.core (==1.201.0)",
+      "aws-cdk.custom-resources (==1.201.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  },
+  "aws_cdk.aws_route53-1.200.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67c73fdc8da33f8df7e80e98d8542fa1b3e73196213367ea49cf2c54dd5438fa",
+    "dependencies": {
+      "required": [
+        "aws-cdk.aws-ec2",
+        "aws-cdk.aws-iam",
+        "aws-cdk.aws-logs",
+        "aws-cdk.cloud-assembly-schema",
+        "aws-cdk.core",
+        "aws-cdk.custom-resources",
+        "constructs",
+        "jsii",
+        "publication",
+        "typeguard"
+      ]
+    },
+    "original_requirements": [
+      "aws-cdk.aws-ec2 (==1.200.0)",
+      "aws-cdk.aws-iam (==1.200.0)",
+      "aws-cdk.aws-logs (==1.200.0)",
+      "aws-cdk.cloud-assembly-schema (==1.200.0)",
+      "aws-cdk.core (==1.200.0)",
+      "aws-cdk.custom-resources (==1.200.0)",
+      "constructs (<4.0.0,>=3.3.69)",
+      "jsii (<2.0.0,>=1.74.0)",
+      "publication (>=0.0.3)",
+      "typeguard (~=2.13.3)"
+    ]
+  }
+}

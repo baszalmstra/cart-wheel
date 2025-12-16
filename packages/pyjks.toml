@@ -1,0 +1,10 @@
+# Package configuration for pyjks
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyjks-20.0.0-py2.py3-none-any.whl" },
+  { filename = "pyjks-19.0.0-py2.py3-none-any.whl" },
+  { filename = "pyjks-18.0.0-py2.py3-none-any.whl" },
+  { filename = "pyjks-17.1.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for sphinx-toml
+conda_forge = "sphinx_toml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_toml-0.0.4-py3-none-any.whl" },
+  { filename = "sphinx_toml-0.0.3-py3-none-any.whl" },
+  { filename = "sphinx_toml-0.0.2-py2.py3-none-any.whl" },
+  { filename = "sphinx_toml-0.0.1-py2.py3-none-any.whl" },
+]

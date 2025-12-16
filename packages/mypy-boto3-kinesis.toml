@@ -1,0 +1,12 @@
+# Package configuration for mypy-boto3-kinesis
+conda_forge = "mypy-boto3-kinesis"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_kinesis-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_kinesis-1.41.1-py3-none-any.whl" },
+  { filename = "mypy_boto3_kinesis-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_kinesis-1.40.64-py3-none-any.whl" },
+  { filename = "mypy_boto3_kinesis-1.40.60-py3-none-any.whl" },
+]

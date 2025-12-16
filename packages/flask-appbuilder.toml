@@ -1,0 +1,12 @@
+# Package configuration for flask-appbuilder
+conda_forge = "flask-appbuilder"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flask_appbuilder-5.0.2-py3-none-any.whl" },
+  { filename = "Flask_AppBuilder-5.0.1-py3-none-any.whl" },
+  { filename = "Flask_AppBuilder-5.0.0-py3-none-any.whl" },
+  { filename = "Flask_AppBuilder-4.8.1-py3-none-any.whl" },
+  { filename = "Flask_AppBuilder-4.8.0-py3-none-any.whl" },
+]

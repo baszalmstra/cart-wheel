@@ -1,0 +1,12 @@
+# Package configuration for opentelemetry-exporter-otlp-proto-grpc
+conda_forge = "opentelemetry-exporter-otlp-proto-grpc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "opentelemetry_exporter_otlp_proto_grpc-1.39.1-py3-none-any.whl" },
+  { filename = "opentelemetry_exporter_otlp_proto_grpc-1.39.0-py3-none-any.whl" },
+  { filename = "opentelemetry_exporter_otlp_proto_grpc-1.38.0-py3-none-any.whl" },
+  { filename = "opentelemetry_exporter_otlp_proto_grpc-1.37.0-py3-none-any.whl" },
+  { filename = "opentelemetry_exporter_otlp_proto_grpc-1.36.0-py3-none-any.whl" },
+]

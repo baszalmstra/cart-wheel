@@ -1,0 +1,71 @@
+{
+  "aiolimiter-1.2.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:21.242211+00:00",
+    "conda_file": "aiolimiter-1.2.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "aiolimiter-1.2.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:21.506849+00:00",
+    "conda_file": "aiolimiter-1.2.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "aiolimiter-1.1.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:21.433930+00:00",
+    "conda_file": "aiolimiter-1.1.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "aiolimiter-1.1.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:21.602197+00:00",
+    "conda_file": "aiolimiter-1.1.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib_metadata (>=1.3,<5.0) ; python_version < \"3.8\""
+    ]
+  },
+  "aiolimiter-1.0.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:21.724263+00:00",
+    "conda_file": "aiolimiter-1.0.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ],
+      "optional": {
+        "docs": [
+          "aiohttp-theme",
+          "sphinx",
+          "sphinx-autodoc-typehints",
+          "sphinxcontrib-spelling",
+          "toml"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aiohttp-theme (>=0.1.6,<0.2.0); extra == \"docs\"",
+      "importlib_metadata (>=1.3,<5.0); python_version < \"3.8\"",
+      "sphinx (>=2.2.1,<5.0.0); extra == \"docs\"",
+      "sphinx-autodoc-typehints (>=1.10.3,<2.0.0); extra == \"docs\"",
+      "sphinxcontrib-spelling (>=4.3,<8.0); extra == \"docs\"",
+      "toml (>=0.10.0,<0.11.0); extra == \"docs\""
+    ]
+  }
+}

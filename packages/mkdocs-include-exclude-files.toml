@@ -1,0 +1,8 @@
+# Package configuration for mkdocs-include-exclude-files
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocs_include_exclude_files-0.1.0-py3-none-any.whl" },
+  { filename = "mkdocs_include_exclude_files-0.0.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-aiplatform
+conda_forge = "google-cloud-aiplatform"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_aiplatform-1.130.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_aiplatform-1.129.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_aiplatform-1.128.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_aiplatform-1.127.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_aiplatform-1.126.1-py2.py3-none-any.whl" },
+]

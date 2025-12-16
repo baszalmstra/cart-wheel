@@ -1,0 +1,7 @@
+# Package configuration for langchain-classic
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_classic-1.0.0-py3-none-any.whl" },
+]

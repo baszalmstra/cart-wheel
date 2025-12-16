@@ -1,0 +1,12 @@
+# Package configuration for latexcodec
+conda_forge = "latexcodec"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "latexcodec-3.0.1-py3-none-any.whl" },
+  { filename = "latexcodec-3.0.0-py3-none-any.whl" },
+  { filename = "latexcodec-2.0.1-py2.py3-none-any.whl" },
+  { filename = "latexcodec-2.0.0-py2.py3-none-any.whl" },
+  { filename = "latexcodec-1.0.7-py2.py3-none-any.whl" },
+]

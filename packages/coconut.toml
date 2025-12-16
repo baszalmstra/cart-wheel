@@ -1,0 +1,12 @@
+# Package configuration for coconut
+conda_forge = "coconut"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "coconut-3.1.2-py2.py3-none-any.whl" },
+  { filename = "coconut-3.1.1-py2.py3-none-any.whl" },
+  { filename = "coconut-3.1.0-py2.py3-none-any.whl" },
+  { filename = "coconut-3.0.4-py2.py3-none-any.whl" },
+  { filename = "coconut-3.0.3-py2.py3-none-any.whl" },
+]

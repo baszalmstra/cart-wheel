@@ -1,0 +1,92 @@
+{
+  "microsoft_kiota_http-1.9.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "14ce6b14c4fa93608f535f2c6ae21d35b1d0e2635ab70501fa3a3afc90135261",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "microsoft-kiota-abstractions",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "httpx[http2] (>=0.25,<1.0.0)",
+      "microsoft-kiota-abstractions (>=1.9.7,<1.10.0)",
+      "opentelemetry-api (>=1.27.0)",
+      "opentelemetry-sdk (>=1.27.0)"
+    ]
+  },
+  "microsoft_kiota_http-1.9.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "756b7b197340f15603a88921ff878792052de5dcb02623cc6b570634ba3b97fd",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "microsoft-kiota-abstractions",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "httpx[http2] (>=0.25,<1.0.0)",
+      "microsoft-kiota-abstractions (>=1.9.6,<1.10.0)",
+      "opentelemetry-api (>=1.27.0)",
+      "opentelemetry-sdk (>=1.27.0)"
+    ]
+  },
+  "microsoft_kiota_http-1.9.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef170b7b9a5b7a7d00a7e329f6e4ec5809630f638fb026d6940789092d2bbc25",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "microsoft-kiota-abstractions",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "httpx[http2] (>=0.25,<1.0.0)",
+      "microsoft-kiota-abstractions (>=1.9.5,<1.10.0)",
+      "opentelemetry-api (>=1.27.0)",
+      "opentelemetry-sdk (>=1.27.0)"
+    ]
+  },
+  "microsoft_kiota_http-1.9.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "66636be391551eb2fe947f842e4ac76832eda9822b29bf33a8aed527a9511834",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "microsoft-kiota-abstractions",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "httpx[http2] (>=0.25,<1.0.0)",
+      "microsoft-kiota-abstractions (>=1.9.4,<1.10.0)",
+      "opentelemetry-api (>=1.27.0)",
+      "opentelemetry-sdk (>=1.27.0)"
+    ]
+  },
+  "microsoft_kiota_http-1.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9a5e2b7a96524b2978e01087f415d810d6bcad7cd866d6d60595ebab2e47c56c",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "microsoft-kiota-abstractions",
+        "opentelemetry-api",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "httpx[http2] (>=0.25,<1.0.0)",
+      "microsoft-kiota-abstractions (>=1.9.3,<1.10.0)",
+      "opentelemetry-api (>=1.27.0)",
+      "opentelemetry-sdk (>=1.27.0)"
+    ]
+  }
+}

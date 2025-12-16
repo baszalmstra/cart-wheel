@@ -1,0 +1,12 @@
+# Package configuration for decorator
+conda_forge = "decorator"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "decorator-5.2.1-py3-none-any.whl" },
+  { filename = "decorator-5.2.0-py3-none-any.whl" },
+  { filename = "decorator-5.1.1-py3-none-any.whl" },
+  { filename = "decorator-5.1.0-py3-none-any.whl" },
+  { filename = "decorator-5.0.9-py3-none-any.whl" },
+]

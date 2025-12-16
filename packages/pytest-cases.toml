@@ -1,0 +1,12 @@
+# Package configuration for pytest-cases
+conda_forge = "pytest-cases"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_cases-3.9.1-py2.py3-none-any.whl" },
+  { filename = "pytest_cases-3.8.6-py2.py3-none-any.whl" },
+  { filename = "pytest_cases-3.8.5-py2.py3-none-any.whl" },
+  { filename = "pytest_cases-3.8.4-py2.py3-none-any.whl" },
+  { filename = "pytest_cases-3.8.3-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,68 @@
+{
+  "jupyter-1.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a59533c22af65439b24bbe60373a4e95af8f16ac65a6c00820ad378e3f7cc83",
+    "dependencies": {
+      "required": [
+        "notebook",
+        "jupyter-console",
+        "nbconvert",
+        "ipykernel",
+        "ipywidgets",
+        "jupyterlab"
+      ]
+    },
+    "original_requirements": [
+      "notebook",
+      "jupyter-console",
+      "nbconvert",
+      "ipykernel",
+      "ipywidgets",
+      "jupyterlab"
+    ]
+  },
+  "jupyter-1.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6e0f0d2848158df10e25697db109f07832ff38bcfb569062ae02dc4b5885a18d",
+    "dependencies": {
+      "required": [
+        "notebook",
+        "jupyter-console",
+        "nbconvert",
+        "ipykernel",
+        "ipywidgets",
+        "jupyterlab"
+      ]
+    },
+    "original_requirements": [
+      "notebook",
+      "jupyter-console",
+      "nbconvert",
+      "ipykernel",
+      "ipywidgets",
+      "jupyterlab"
+    ]
+  },
+  "jupyter-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b290f93b98ffbc21c0c7e749f054b3267782166d72fa5e3ed1ed4eaf34a2b78",
+    "dependencies": {
+      "required": [
+        "notebook",
+        "qtconsole",
+        "jupyter-console",
+        "nbconvert",
+        "ipykernel",
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "notebook",
+      "qtconsole",
+      "jupyter-console",
+      "nbconvert",
+      "ipykernel",
+      "ipywidgets"
+    ]
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "a2a_sdk-0.3.21-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:46.873074+00:00",
+    "conda_file": "a2a-sdk-0.3.21-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "httpx-sse",
+        "httpx",
+        "protobuf",
+        "pydantic"
+      ],
+      "optional": {
+        "all": [
+          "cryptography",
+          "fastapi",
+          "grpcio-reflection",
+          "grpcio-tools",
+          "grpcio",
+          "opentelemetry-api",
+          "opentelemetry-sdk",
+          "pyjwt",
+          "sqlalchemy[extras=[aiomysql,asyncio]]",
+          "sqlalchemy[extras=[aiosqlite,asyncio]]",
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]",
+          "sse-starlette",
+          "starlette"
+        ],
+        "encryption": [
+          "cryptography"
+        ],
+        "grpc": [
+          "grpcio-reflection",
+          "grpcio-tools",
+          "grpcio"
+        ],
+        "http-server": [
+          "fastapi",
+          "sse-starlette",
+          "starlette"
+        ],
+        "mysql": [
+          "sqlalchemy[extras=[aiomysql,asyncio]]"
+        ],
+        "postgresql": [
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]"
+        ],
+        "signing": [
+          "pyjwt"
+        ],
+        "sql": [
+          "sqlalchemy[extras=[aiomysql,asyncio]]",
+          "sqlalchemy[extras=[aiosqlite,asyncio]]",
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]"
+        ],
+        "sqlite": [
+          "sqlalchemy[extras=[aiosqlite,asyncio]]"
+        ],
+        "telemetry": [
+          "opentelemetry-api",
+          "opentelemetry-sdk"
+        ]
+      }
+    },
+    "original_requirements": [
+      "google-api-core>=1.26.0",
+      "httpx-sse>=0.4.0",
+      "httpx>=0.28.1",
+      "protobuf>=5.29.5",
+      "pydantic>=2.11.3",
+      "cryptography>=43.0.0; extra == 'all'",
+      "fastapi>=0.115.2; extra == 'all'",
+      "grpcio-reflection>=1.7.0; extra == 'all'",
+      "grpcio-tools>=1.60; extra == 'all'",
+      "grpcio>=1.60; extra == 'all'",
+      "opentelemetry-api>=1.33.0; extra == 'all'",
+      "opentelemetry-sdk>=1.33.0; extra == 'all'",
+      "pyjwt>=2.0.0; extra == 'all'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'all'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'all'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'all'",
+      "sse-starlette; extra == 'all'",
+      "starlette; extra == 'all'",
+      "cryptography>=43.0.0; extra == 'encryption'",
+      "grpcio-reflection>=1.7.0; extra == 'grpc'",
+      "grpcio-tools>=1.60; extra == 'grpc'",
+      "grpcio>=1.60; extra == 'grpc'",
+      "fastapi>=0.115.2; extra == 'http-server'",
+      "sse-starlette; extra == 'http-server'",
+      "starlette; extra == 'http-server'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'mysql'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'postgresql'",
+      "pyjwt>=2.0.0; extra == 'signing'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'sqlite'",
+      "opentelemetry-api>=1.33.0; extra == 'telemetry'",
+      "opentelemetry-sdk>=1.33.0; extra == 'telemetry'"
+    ]
+  },
+  "a2a_sdk-0.3.20-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:47.176123+00:00",
+    "conda_file": "a2a-sdk-0.3.20-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "httpx-sse",
+        "httpx",
+        "protobuf",
+        "pydantic"
+      ],
+      "optional": {
+        "all": [
+          "cryptography",
+          "fastapi",
+          "grpcio-reflection",
+          "grpcio-tools",
+          "grpcio",
+          "opentelemetry-api",
+          "opentelemetry-sdk",
+          "sqlalchemy[extras=[aiomysql,asyncio]]",
+          "sqlalchemy[extras=[aiosqlite,asyncio]]",
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]",
+          "sse-starlette",
+          "starlette"
+        ],
+        "encryption": [
+          "cryptography"
+        ],
+        "grpc": [
+          "grpcio-reflection",
+          "grpcio-tools",
+          "grpcio"
+        ],
+        "http-server": [
+          "fastapi",
+          "sse-starlette",
+          "starlette"
+        ],
+        "mysql": [
+          "sqlalchemy[extras=[aiomysql,asyncio]]"
+        ],
+        "postgresql": [
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]"
+        ],
+        "sql": [
+          "sqlalchemy[extras=[aiomysql,asyncio]]",
+          "sqlalchemy[extras=[aiosqlite,asyncio]]",
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]"
+        ],
+        "sqlite": [
+          "sqlalchemy[extras=[aiosqlite,asyncio]]"
+        ],
+        "telemetry": [
+          "opentelemetry-api",
+          "opentelemetry-sdk"
+        ]
+      }
+    },
+    "original_requirements": [
+      "google-api-core>=1.26.0",
+      "httpx-sse>=0.4.0",
+      "httpx>=0.28.1",
+      "protobuf>=5.29.5",
+      "pydantic>=2.11.3",
+      "cryptography>=43.0.0; extra == 'all'",
+      "fastapi>=0.115.2; extra == 'all'",
+      "grpcio-reflection>=1.7.0; extra == 'all'",
+      "grpcio-tools>=1.60; extra == 'all'",
+      "grpcio>=1.60; extra == 'all'",
+      "opentelemetry-api>=1.33.0; extra == 'all'",
+      "opentelemetry-sdk>=1.33.0; extra == 'all'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'all'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'all'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'all'",
+      "sse-starlette; extra == 'all'",
+      "starlette; extra == 'all'",
+      "cryptography>=43.0.0; extra == 'encryption'",
+      "grpcio-reflection>=1.7.0; extra == 'grpc'",
+      "grpcio-tools>=1.60; extra == 'grpc'",
+      "grpcio>=1.60; extra == 'grpc'",
+      "fastapi>=0.115.2; extra == 'http-server'",
+      "sse-starlette; extra == 'http-server'",
+      "starlette; extra == 'http-server'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'mysql'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'postgresql'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'sqlite'",
+      "opentelemetry-api>=1.33.0; extra == 'telemetry'",
+      "opentelemetry-sdk>=1.33.0; extra == 'telemetry'"
+    ]
+  },
+  "a2a_sdk-0.3.19-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:47.527494+00:00",
+    "conda_file": "a2a-sdk-0.3.19-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "httpx-sse",
+        "httpx",
+        "protobuf",
+        "pydantic"
+      ],
+      "optional": {
+        "all": [
+          "cryptography",
+          "fastapi",
+          "grpcio-reflection",
+          "grpcio-tools",
+          "grpcio",
+          "opentelemetry-api",
+          "opentelemetry-sdk",
+          "sqlalchemy[extras=[aiomysql,asyncio]]",
+          "sqlalchemy[extras=[aiosqlite,asyncio]]",
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]",
+          "sse-starlette",
+          "starlette"
+        ],
+        "encryption": [
+          "cryptography"
+        ],
+        "grpc": [
+          "grpcio-reflection",
+          "grpcio-tools",
+          "grpcio"
+        ],
+        "http-server": [
+          "fastapi",
+          "sse-starlette",
+          "starlette"
+        ],
+        "mysql": [
+          "sqlalchemy[extras=[aiomysql,asyncio]]"
+        ],
+        "postgresql": [
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]"
+        ],
+        "sql": [
+          "sqlalchemy[extras=[aiomysql,asyncio]]",
+          "sqlalchemy[extras=[aiosqlite,asyncio]]",
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]"
+        ],
+        "sqlite": [
+          "sqlalchemy[extras=[aiosqlite,asyncio]]"
+        ],
+        "telemetry": [
+          "opentelemetry-api",
+          "opentelemetry-sdk"
+        ]
+      }
+    },
+    "original_requirements": [
+      "google-api-core>=1.26.0",
+      "httpx-sse>=0.4.0",
+      "httpx>=0.28.1",
+      "protobuf>=5.29.5",
+      "pydantic>=2.11.3",
+      "cryptography>=43.0.0; extra == 'all'",
+      "fastapi>=0.115.2; extra == 'all'",
+      "grpcio-reflection>=1.7.0; extra == 'all'",
+      "grpcio-tools>=1.60; extra == 'all'",
+      "grpcio>=1.60; extra == 'all'",
+      "opentelemetry-api>=1.33.0; extra == 'all'",
+      "opentelemetry-sdk>=1.33.0; extra == 'all'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'all'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'all'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'all'",
+      "sse-starlette; extra == 'all'",
+      "starlette; extra == 'all'",
+      "cryptography>=43.0.0; extra == 'encryption'",
+      "grpcio-reflection>=1.7.0; extra == 'grpc'",
+      "grpcio-tools>=1.60; extra == 'grpc'",
+      "grpcio>=1.60; extra == 'grpc'",
+      "fastapi>=0.115.2; extra == 'http-server'",
+      "sse-starlette; extra == 'http-server'",
+      "starlette; extra == 'http-server'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'mysql'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'postgresql'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'sqlite'",
+      "opentelemetry-api>=1.33.0; extra == 'telemetry'",
+      "opentelemetry-sdk>=1.33.0; extra == 'telemetry'"
+    ]
+  },
+  "a2a_sdk-0.3.18-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:47.847574+00:00",
+    "conda_file": "a2a-sdk-0.3.18-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "httpx-sse",
+        "httpx",
+        "protobuf",
+        "pydantic"
+      ],
+      "optional": {
+        "all": [
+          "cryptography",
+          "fastapi",
+          "grpcio-reflection",
+          "grpcio-tools",
+          "grpcio",
+          "opentelemetry-api",
+          "opentelemetry-sdk",
+          "sqlalchemy[extras=[aiomysql,asyncio]]",
+          "sqlalchemy[extras=[aiosqlite,asyncio]]",
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]",
+          "sse-starlette",
+          "starlette"
+        ],
+        "encryption": [
+          "cryptography"
+        ],
+        "grpc": [
+          "grpcio-reflection",
+          "grpcio-tools",
+          "grpcio"
+        ],
+        "http-server": [
+          "fastapi",
+          "sse-starlette",
+          "starlette"
+        ],
+        "mysql": [
+          "sqlalchemy[extras=[aiomysql,asyncio]]"
+        ],
+        "postgresql": [
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]"
+        ],
+        "sql": [
+          "sqlalchemy[extras=[aiomysql,asyncio]]",
+          "sqlalchemy[extras=[aiosqlite,asyncio]]",
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]"
+        ],
+        "sqlite": [
+          "sqlalchemy[extras=[aiosqlite,asyncio]]"
+        ],
+        "telemetry": [
+          "opentelemetry-api",
+          "opentelemetry-sdk"
+        ]
+      }
+    },
+    "original_requirements": [
+      "google-api-core>=1.26.0",
+      "httpx-sse>=0.4.0",
+      "httpx>=0.28.1",
+      "protobuf>=5.29.5",
+      "pydantic>=2.11.3",
+      "cryptography>=43.0.0; extra == 'all'",
+      "fastapi>=0.115.2; extra == 'all'",
+      "grpcio-reflection>=1.7.0; extra == 'all'",
+      "grpcio-tools>=1.60; extra == 'all'",
+      "grpcio>=1.60; extra == 'all'",
+      "opentelemetry-api>=1.33.0; extra == 'all'",
+      "opentelemetry-sdk>=1.33.0; extra == 'all'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'all'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'all'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'all'",
+      "sse-starlette; extra == 'all'",
+      "starlette; extra == 'all'",
+      "cryptography>=43.0.0; extra == 'encryption'",
+      "grpcio-reflection>=1.7.0; extra == 'grpc'",
+      "grpcio-tools>=1.60; extra == 'grpc'",
+      "grpcio>=1.60; extra == 'grpc'",
+      "fastapi>=0.115.2; extra == 'http-server'",
+      "sse-starlette; extra == 'http-server'",
+      "starlette; extra == 'http-server'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'mysql'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'postgresql'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'sqlite'",
+      "opentelemetry-api>=1.33.0; extra == 'telemetry'",
+      "opentelemetry-sdk>=1.33.0; extra == 'telemetry'"
+    ]
+  },
+  "a2a_sdk-0.3.17-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:36:48.135571+00:00",
+    "conda_file": "a2a-sdk-0.3.17-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "httpx-sse",
+        "httpx",
+        "protobuf",
+        "pydantic"
+      ],
+      "optional": {
+        "all": [
+          "cryptography",
+          "fastapi",
+          "grpcio-reflection",
+          "grpcio-tools",
+          "grpcio",
+          "opentelemetry-api",
+          "opentelemetry-sdk",
+          "sqlalchemy[extras=[aiomysql,asyncio]]",
+          "sqlalchemy[extras=[aiosqlite,asyncio]]",
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]",
+          "sse-starlette",
+          "starlette"
+        ],
+        "encryption": [
+          "cryptography"
+        ],
+        "grpc": [
+          "grpcio-reflection",
+          "grpcio-tools",
+          "grpcio"
+        ],
+        "http-server": [
+          "fastapi",
+          "sse-starlette",
+          "starlette"
+        ],
+        "mysql": [
+          "sqlalchemy[extras=[aiomysql,asyncio]]"
+        ],
+        "postgresql": [
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]"
+        ],
+        "sql": [
+          "sqlalchemy[extras=[aiomysql,asyncio]]",
+          "sqlalchemy[extras=[aiosqlite,asyncio]]",
+          "sqlalchemy[extras=[asyncio,postgresql-asyncpg]]"
+        ],
+        "sqlite": [
+          "sqlalchemy[extras=[aiosqlite,asyncio]]"
+        ],
+        "telemetry": [
+          "opentelemetry-api",
+          "opentelemetry-sdk"
+        ]
+      }
+    },
+    "original_requirements": [
+      "google-api-core>=1.26.0",
+      "httpx-sse>=0.4.0",
+      "httpx>=0.28.1",
+      "protobuf>=5.29.5",
+      "pydantic>=2.11.3",
+      "cryptography>=43.0.0; extra == 'all'",
+      "fastapi>=0.115.2; extra == 'all'",
+      "grpcio-reflection>=1.7.0; extra == 'all'",
+      "grpcio-tools>=1.60; extra == 'all'",
+      "grpcio>=1.60; extra == 'all'",
+      "opentelemetry-api>=1.33.0; extra == 'all'",
+      "opentelemetry-sdk>=1.33.0; extra == 'all'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'all'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'all'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'all'",
+      "sse-starlette; extra == 'all'",
+      "starlette; extra == 'all'",
+      "cryptography>=43.0.0; extra == 'encryption'",
+      "grpcio-reflection>=1.7.0; extra == 'grpc'",
+      "grpcio-tools>=1.60; extra == 'grpc'",
+      "grpcio>=1.60; extra == 'grpc'",
+      "fastapi>=0.115.2; extra == 'http-server'",
+      "sse-starlette; extra == 'http-server'",
+      "starlette; extra == 'http-server'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'mysql'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'postgresql'",
+      "sqlalchemy[aiomysql,asyncio]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[asyncio,postgresql-asyncpg]>=2.0.0; extra == 'sql'",
+      "sqlalchemy[aiosqlite,asyncio]>=2.0.0; extra == 'sqlite'",
+      "opentelemetry-api>=1.33.0; extra == 'telemetry'",
+      "opentelemetry-sdk>=1.33.0; extra == 'telemetry'"
+    ]
+  }
+}

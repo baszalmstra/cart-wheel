@@ -1,0 +1,11 @@
+# Package configuration for llama-api-client
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "llama_api_client-0.5.0-py3-none-any.whl" },
+  { filename = "llama_api_client-0.4.0-py3-none-any.whl" },
+  { filename = "llama_api_client-0.3.0-py3-none-any.whl" },
+  { filename = "llama_api_client-0.2.0-py3-none-any.whl" },
+  { filename = "llama_api_client-0.1.2-py3-none-any.whl" },
+]

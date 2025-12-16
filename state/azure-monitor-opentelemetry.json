@@ -1,0 +1,172 @@
+{
+  "azure_monitor_opentelemetry-1.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "647248328bb03f8044918411d57c661230277958559f067892bd79f98ce8f69c",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-core-tracing-opentelemetry",
+        "azure-monitor-opentelemetry-exporter",
+        "opentelemetry-sdk",
+        "opentelemetry-instrumentation-django",
+        "opentelemetry-instrumentation-fastapi",
+        "opentelemetry-instrumentation-flask",
+        "opentelemetry-instrumentation-psycopg2",
+        "opentelemetry-instrumentation-requests",
+        "opentelemetry-instrumentation-urllib",
+        "opentelemetry-instrumentation-urllib3",
+        "opentelemetry-resource-detector-azure"
+      ]
+    },
+    "original_requirements": [
+      "azure-core<2.0.0,>=1.28.0",
+      "azure-core-tracing-opentelemetry~=1.0.0b11",
+      "azure-monitor-opentelemetry-exporter~=1.0.0b46",
+      "opentelemetry-sdk==1.39",
+      "opentelemetry-instrumentation-django==0.60b0",
+      "opentelemetry-instrumentation-fastapi==0.60b0",
+      "opentelemetry-instrumentation-flask==0.60b0",
+      "opentelemetry-instrumentation-psycopg2==0.60b0",
+      "opentelemetry-instrumentation-requests==0.60b0",
+      "opentelemetry-instrumentation-urllib==0.60b0",
+      "opentelemetry-instrumentation-urllib3==0.60b0",
+      "opentelemetry-resource-detector-azure<1.0.0,>=0.1.5"
+    ]
+  },
+  "azure_monitor_opentelemetry-1.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f7da4de1320486ce69a9e804fc5e5a5431643888afb1b7ded55d1fb80c89c9c0",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-core-tracing-opentelemetry",
+        "azure-monitor-opentelemetry-exporter",
+        "opentelemetry-sdk",
+        "opentelemetry-instrumentation-django",
+        "opentelemetry-instrumentation-fastapi",
+        "opentelemetry-instrumentation-flask",
+        "opentelemetry-instrumentation-psycopg2",
+        "opentelemetry-instrumentation-requests",
+        "opentelemetry-instrumentation-urllib",
+        "opentelemetry-instrumentation-urllib3",
+        "opentelemetry-resource-detector-azure"
+      ]
+    },
+    "original_requirements": [
+      "azure-core<2.0.0,>=1.28.0",
+      "azure-core-tracing-opentelemetry~=1.0.0b11",
+      "azure-monitor-opentelemetry-exporter~=1.0.0b43",
+      "opentelemetry-sdk~=1.36",
+      "opentelemetry-instrumentation-django~=0.57b0",
+      "opentelemetry-instrumentation-fastapi~=0.57b0",
+      "opentelemetry-instrumentation-flask~=0.57b0",
+      "opentelemetry-instrumentation-psycopg2~=0.57b0",
+      "opentelemetry-instrumentation-requests~=0.57b0",
+      "opentelemetry-instrumentation-urllib~=0.57b0",
+      "opentelemetry-instrumentation-urllib3~=0.57b0",
+      "opentelemetry-resource-detector-azure<1.0.0,>=0.1.5"
+    ]
+  },
+  "azure_monitor_opentelemetry-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bebca6af9d81ddc52df59b281a5acc84182bbf1cbccd6f843a2074f6e283947e",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-core-tracing-opentelemetry",
+        "azure-monitor-opentelemetry-exporter",
+        "opentelemetry-sdk",
+        "opentelemetry-instrumentation-django",
+        "opentelemetry-instrumentation-fastapi",
+        "opentelemetry-instrumentation-flask",
+        "opentelemetry-instrumentation-psycopg2",
+        "opentelemetry-instrumentation-requests",
+        "opentelemetry-instrumentation-urllib",
+        "opentelemetry-instrumentation-urllib3",
+        "opentelemetry-resource-detector-azure"
+      ]
+    },
+    "original_requirements": [
+      "azure-core<2.0.0,>=1.28.0",
+      "azure-core-tracing-opentelemetry~=1.0.0b11",
+      "azure-monitor-opentelemetry-exporter~=1.0.0b41",
+      "opentelemetry-sdk~=1.36",
+      "opentelemetry-instrumentation-django~=0.57b0",
+      "opentelemetry-instrumentation-fastapi~=0.57b0",
+      "opentelemetry-instrumentation-flask~=0.57b0",
+      "opentelemetry-instrumentation-psycopg2~=0.57b0",
+      "opentelemetry-instrumentation-requests~=0.57b0",
+      "opentelemetry-instrumentation-urllib~=0.57b0",
+      "opentelemetry-instrumentation-urllib3~=0.57b0",
+      "opentelemetry-resource-detector-azure~=0.1.5"
+    ]
+  },
+  "azure_monitor_opentelemetry-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b57846a4a325f580d47f24b3f9e7b165b2d8d9524e53618ec941ec133e2d4b09",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-core-tracing-opentelemetry",
+        "azure-monitor-opentelemetry-exporter",
+        "opentelemetry-instrumentation-django",
+        "opentelemetry-instrumentation-fastapi",
+        "opentelemetry-instrumentation-flask",
+        "opentelemetry-instrumentation-psycopg2",
+        "opentelemetry-instrumentation-requests",
+        "opentelemetry-instrumentation-urllib",
+        "opentelemetry-instrumentation-urllib3",
+        "opentelemetry-resource-detector-azure",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "azure-core<2.0.0,>=1.28.0",
+      "azure-core-tracing-opentelemetry~=1.0.0b11",
+      "azure-monitor-opentelemetry-exporter~=1.0.0b41",
+      "opentelemetry-instrumentation-django~=0.57b0",
+      "opentelemetry-instrumentation-fastapi~=0.57b0",
+      "opentelemetry-instrumentation-flask~=0.57b0",
+      "opentelemetry-instrumentation-psycopg2~=0.57b0",
+      "opentelemetry-instrumentation-requests~=0.57b0",
+      "opentelemetry-instrumentation-urllib~=0.57b0",
+      "opentelemetry-instrumentation-urllib3~=0.57b0",
+      "opentelemetry-resource-detector-azure~=0.1.5",
+      "opentelemetry-sdk~=1.36.0"
+    ]
+  },
+  "azure_monitor_opentelemetry-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "937c60e9706f75c77b221979a273a27e811cc6529d6887099f53916719c66dd3",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-core-tracing-opentelemetry",
+        "azure-monitor-opentelemetry-exporter",
+        "opentelemetry-instrumentation-django",
+        "opentelemetry-instrumentation-fastapi",
+        "opentelemetry-instrumentation-flask",
+        "opentelemetry-instrumentation-psycopg2",
+        "opentelemetry-instrumentation-requests",
+        "opentelemetry-instrumentation-urllib",
+        "opentelemetry-instrumentation-urllib3",
+        "opentelemetry-resource-detector-azure",
+        "opentelemetry-sdk"
+      ]
+    },
+    "original_requirements": [
+      "azure-core<2.0.0,>=1.28.0",
+      "azure-core-tracing-opentelemetry~=1.0.0b11",
+      "azure-monitor-opentelemetry-exporter~=1.0.0b40",
+      "opentelemetry-instrumentation-django~=0.57b0",
+      "opentelemetry-instrumentation-fastapi~=0.57b0",
+      "opentelemetry-instrumentation-flask~=0.57b0",
+      "opentelemetry-instrumentation-psycopg2~=0.57b0",
+      "opentelemetry-instrumentation-requests~=0.57b0",
+      "opentelemetry-instrumentation-urllib~=0.57b0",
+      "opentelemetry-instrumentation-urllib3~=0.57b0",
+      "opentelemetry-resource-detector-azure~=0.1.5",
+      "opentelemetry-sdk~=1.36.0"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+# Package configuration for grpclib
+conda_forge = "grpclib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "grpclib-0.4.8-py3-none-any.whl" },
+]

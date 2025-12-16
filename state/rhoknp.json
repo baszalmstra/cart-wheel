@@ -1,0 +1,100 @@
+{
+  "rhoknp-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e8ec14f18d946d44a3db489765760f871a2179a464ee93eacdc14bb1e0df0893",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.4 ; python_full_version < '3.12'",
+      "typer-slim>=0.18.0 ; extra == 'cli'",
+      "pyyaml>=6.0 ; extra == 'cli'",
+      "rich>=12.6 ; extra == 'cli'",
+      "uvicorn>=0.30.0 ; extra == 'cli'",
+      "fastapi>=0.111.0 ; extra == 'cli'",
+      "jinja2>=3.1.4 ; extra == 'cli'",
+      "pygments>=2.18.0 ; extra == 'cli'"
+    ]
+  },
+  "rhoknp-1.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "975568ccb402868647b6cd707d3e6d88a43d78fe724b4a6976126fe319e4f6a0",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.4; python_version < '3.12'",
+      "fastapi>=0.111.0; extra == 'cli'",
+      "jinja2>=3.1.4; extra == 'cli'",
+      "pygments>=2.18.0; extra == 'cli'",
+      "pyyaml>=6.0; extra == 'cli'",
+      "rich>=12.6; extra == 'cli'",
+      "typer-slim>=0.15.2; extra == 'cli'",
+      "uvicorn>=0.30.0; extra == 'cli'"
+    ]
+  },
+  "rhoknp-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c1334b7d70fcc7cd7820e5786c4fe9b258ff4d11d4575ba6ae4c03035b00a32d",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=6.0,<7.0) ; extra == \"cli\"",
+      "fastapi (>=0.92.0) ; extra == \"cli\"",
+      "jinja2 (>=3.1,<4.0) ; extra == \"cli\"",
+      "pygments (>=2.16,<3.0) ; extra == \"cli\"",
+      "rich (>=12.6) ; extra == \"cli\"",
+      "typer (>=0.7) ; extra == \"cli\"",
+      "typing-extensions (>=4.4) ; python_version < \"3.12\"",
+      "uvicorn (>=0.21.0) ; extra == \"cli\""
+    ]
+  },
+  "rhoknp-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4372e2601ba7eae9a047fccbc2fe6d6668a06682c2035424ab247e38f22771c7",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=6.0,<7.0) ; extra == \"cli\"",
+      "fastapi (>=0.92.0) ; extra == \"cli\"",
+      "jinja2 (>=3.1,<4.0) ; extra == \"cli\"",
+      "pygments (>=2.16,<3.0) ; extra == \"cli\"",
+      "rich (>=12.6) ; extra == \"cli\"",
+      "typer (>=0.7) ; extra == \"cli\"",
+      "typing-extensions (>=4.4) ; python_version < \"3.12\"",
+      "uvicorn (>=0.21.0) ; extra == \"cli\""
+    ]
+  },
+  "rhoknp-1.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2135e85829747867dfe4b6fe0d20ce7870b4df0a00b1affa64286abac1c383c1",
+    "dependencies": {
+      "required": [
+        "cached-property",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=6.0,<7.0) ; extra == \"cli\"",
+      "cached-property (>=1.5,<2.0) ; python_version < \"3.8\"",
+      "fastapi (>=0.92.0,<1) ; extra == \"cli\"",
+      "importlib-metadata (>=5.2,<6.8) ; python_version < \"3.8\"",
+      "jinja2 (>=3.1,<4.0) ; extra == \"cli\"",
+      "rich (>=12.6) ; extra == \"cli\"",
+      "typer (>=0.7) ; (python_version >= \"3.8\") and (extra == \"cli\")",
+      "typer (>=0.7,<0.9) ; (python_version < \"3.8\") and (extra == \"cli\")",
+      "uvicorn (>=0.21.0) ; (python_version >= \"3.8\") and (extra == \"cli\")",
+      "uvicorn (>=0.21.0,<0.23.0) ; (python_version < \"3.8\") and (extra == \"cli\")"
+    ]
+  }
+}

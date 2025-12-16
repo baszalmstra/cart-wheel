@@ -1,0 +1,8 @@
+# Package configuration for jsonmerge
+conda_forge = "jsonmerge"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsonmerge-1.9.2-py3-none-any.whl" },
+]

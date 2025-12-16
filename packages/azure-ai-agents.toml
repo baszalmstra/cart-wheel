@@ -1,0 +1,10 @@
+# Package configuration for azure-ai-agents
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_ai_agents-1.1.0-py3-none-any.whl" },
+  { filename = "azure_ai_agents-1.0.2-py3-none-any.whl" },
+  { filename = "azure_ai_agents-1.0.1-py3-none-any.whl" },
+  { filename = "azure_ai_agents-1.0.0-py3-none-any.whl" },
+]

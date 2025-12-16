@@ -1,0 +1,12 @@
+# Package configuration for contextlib2
+conda_forge = "contextlib2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "contextlib2-21.6.0-py2.py3-none-any.whl" },
+  { filename = "contextlib2-0.6.0.post1-py2.py3-none-any.whl" },
+  { filename = "contextlib2-0.6.0-py2.py3-none-any.whl" },
+  { filename = "contextlib2-0.5.5-py2.py3-none-any.whl" },
+  { filename = "contextlib2-0.5.4-py2.py3-none-any.whl" },
+]

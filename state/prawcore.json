@@ -1,0 +1,112 @@
+{
+  "prawcore-3.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f8a656de23dbc457b258739cafd626f8d0e60014b4ee17b10c5323d00ee1ebfc",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests >=2.6.0, <3.0"
+    ]
+  },
+  "prawcore-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "86a5c842f9ba7896692025e115a27bc566c3d24e0a6719879f0bc9f23724870c",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests >=2.6.0, <3.0",
+      "coveralls ; extra == \"ci\"",
+      "packaging ; extra == \"dev\"",
+      "prawcore[lint] ; extra == \"dev\"",
+      "prawcore[test] ; extra == \"dev\"",
+      "pre-commit ; extra == \"lint\"",
+      "ruff ==0.9.* ; extra == \"lint\"",
+      "betamax >=0.8, <0.9 ; extra == \"test\"",
+      "pytest ==7.* ; extra == \"test\"",
+      "urllib3 ==1.* ; extra == \"test\""
+    ]
+  },
+  "prawcore-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5f90184310d6f6f749c8409e72bf688ad821bc95aa0f8ff26dd1eaaa6778b5ff",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests >=2.6.0, <3.0",
+      "coveralls ; extra == \"ci\"",
+      "packaging ; extra == \"dev\"",
+      "prawcore[lint] ; extra == \"dev\"",
+      "prawcore[test] ; extra == \"dev\"",
+      "pre-commit ; extra == \"lint\"",
+      "ruff ==0.9.* ; extra == \"lint\"",
+      "betamax >=0.8, <0.9 ; extra == \"test\"",
+      "pytest ==7.* ; extra == \"test\"",
+      "urllib3 ==1.* ; extra == \"test\""
+    ]
+  },
+  "prawcore-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "29af5da58d85704b439ad3c820873ad541f4535e00bb98c66f0fbcc8c603065a",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests >=2.6.0, <3.0",
+      "coveralls ; extra == \"ci\"",
+      "packaging ; extra == \"dev\"",
+      "prawcore[lint] ; extra == \"dev\"",
+      "prawcore[test] ; extra == \"dev\"",
+      "pre-commit ; extra == \"lint\"",
+      "ruff >=0.0.291 ; extra == \"lint\"",
+      "betamax >=0.8, <0.9 ; extra == \"test\"",
+      "pytest >=2.7.3 ; extra == \"test\"",
+      "urllib3 ==1.26.*, <2 ; extra == \"test\""
+    ]
+  },
+  "prawcore-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "48c17db447fa06a13ca3e722201f443031437708daa736c05a1df895fbcceff5",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (<3.0,>=2.6.0)",
+      "coveralls ; extra == 'ci'",
+      "black ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pydocstyle ; extra == 'dev'",
+      "flynt ; extra == 'dev'",
+      "betamax (<0.9,>=0.8) ; extra == 'dev'",
+      "betamax-matchers (<0.5,>=0.4.0) ; extra == 'dev'",
+      "betamax-serializers (<0.3,>=0.2.0) ; extra == 'dev'",
+      "mock (>=0.8) ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "testfixtures (<7,>4.13.2) ; extra == 'dev'",
+      "black ; extra == 'lint'",
+      "flake8 ; extra == 'lint'",
+      "pre-commit ; extra == 'lint'",
+      "pydocstyle ; extra == 'lint'",
+      "flynt ; extra == 'lint'",
+      "betamax (<0.9,>=0.8) ; extra == 'test'",
+      "betamax-matchers (<0.5,>=0.4.0) ; extra == 'test'",
+      "betamax-serializers (<0.3,>=0.2.0) ; extra == 'test'",
+      "mock (>=0.8) ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "testfixtures (<7,>4.13.2) ; extra == 'test'"
+    ]
+  }
+}

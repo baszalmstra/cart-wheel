@@ -1,0 +1,12 @@
+# Package configuration for docformatter
+conda_forge = "docformatter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "docformatter-1.7.7-py3-none-any.whl" },
+  { filename = "docformatter-1.7.6-py3-none-any.whl" },
+  { filename = "docformatter-1.7.5-py3-none-any.whl" },
+  { filename = "docformatter-1.7.4-py3-none-any.whl" },
+  { filename = "docformatter-1.7.3-py3-none-any.whl" },
+]

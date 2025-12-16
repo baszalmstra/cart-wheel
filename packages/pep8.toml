@@ -1,0 +1,12 @@
+# Package configuration for pep8
+conda_forge = "pep8"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pep8-1.7.1-py2.py3-none-any.whl" },
+  { filename = "pep8-1.7.0-py2.py3-none-any.whl" },
+  { filename = "pep8-1.6.2-py2.py3-none-any.whl" },
+  { filename = "pep8-1.6.1-py2.py3-none-any.whl" },
+  { filename = "pep8-1.6.0-py2.py3-none-any.whl" },
+]

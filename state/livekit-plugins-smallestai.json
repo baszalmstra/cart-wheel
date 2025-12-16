@@ -1,0 +1,72 @@
+{
+  "livekit_plugins_smallestai-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e876af7e79cd67ae8dabcd4a57f9a63c29119e4d3682bc8ac25ea71f67c6ef1f",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs]>=1.3.6",
+      "numpy>=1.26"
+    ]
+  },
+  "livekit_plugins_smallestai-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a65355476760d0d5004abb17b606fcaa12f6486a2c71fd10f32a54e7aef79d2",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs]>=1.3.5",
+      "numpy>=1.26"
+    ]
+  },
+  "livekit_plugins_smallestai-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3dc0b8a1158286f8ceba24ff51524d20c099bf53d6e3845d2a1db5f8c2463038",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs]>=1.3.4",
+      "numpy>=1.26"
+    ]
+  },
+  "livekit_plugins_smallestai-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c3c39f1648b91faa748fd70a8e459af104b96f5f09d5a423aeb248244cfe77b0",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs]>=1.3.3",
+      "numpy>=1.26"
+    ]
+  },
+  "livekit_plugins_smallestai-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "343e37e5f1dc4389b43e2c599176a3f80c50378ed75cadea9a7f5cfa6b4bccdf",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs]>=1.3.2",
+      "numpy>=1.26"
+    ]
+  }
+}

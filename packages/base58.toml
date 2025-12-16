@@ -1,0 +1,12 @@
+# Package configuration for base58
+conda_forge = "base58"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "base58-2.1.1-py3-none-any.whl" },
+  { filename = "base58-2.1.0-py3-none-any.whl" },
+  { filename = "base58-2.0.1-py3-none-any.whl" },
+  { filename = "base58-2.0.0-py3-none-any.whl" },
+  { filename = "base58-1.0.3-py3-none-any.whl" },
+]

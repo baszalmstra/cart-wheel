@@ -1,0 +1,11 @@
+# Package configuration for types-shapely
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_shapely-2.1.0.20250917-py3-none-any.whl" },
+  { filename = "types_shapely-2.1.0.20250915-py3-none-any.whl" },
+  { filename = "types_shapely-2.1.0.20250914-py3-none-any.whl" },
+  { filename = "types_shapely-2.1.0.20250822-py3-none-any.whl" },
+  { filename = "types_shapely-2.1.0.20250809-py3-none-any.whl" },
+]

@@ -1,0 +1,176 @@
+{
+  "loguru-0.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31a33c10c8e1e10422bfd431aeb5d351c7cf7fa671e3c4df004162264b28220c",
+    "dependencies": {
+      "required": [
+        "colorama",
+        "aiocontextvars",
+        "win32-setctime"
+      ]
+    },
+    "original_requirements": [
+      "colorama>=0.3.4 ; sys_platform=='win32'",
+      "aiocontextvars>=0.2.0 ; python_version<'3.7'",
+      "win32-setctime>=1.0.0 ; sys_platform=='win32'",
+      "pre-commit==4.0.1  ; extra == \"dev\" and ( python_version>='3.9')",
+      "tox==3.27.1  ; extra == \"dev\" and ( python_version<'3.8')",
+      "tox==4.23.2  ; extra == \"dev\" and ( python_version>='3.8')",
+      "pytest==6.1.2  ; extra == \"dev\" and ( python_version<'3.8')",
+      "pytest==8.3.2  ; extra == \"dev\" and ( python_version>='3.8')",
+      "pytest-cov==2.12.1  ; extra == \"dev\" and ( python_version<'3.8')",
+      "pytest-cov==5.0.0  ; extra == \"dev\" and ( python_version>='3.8' and python_version<'3.9')",
+      "pytest-cov==6.0.0  ; extra == \"dev\" and ( python_version>='3.9')",
+      "pytest-mypy-plugins==1.9.3  ; extra == \"dev\" and ( python_version>='3.6' and python_version<'3.8')",
+      "pytest-mypy-plugins==3.1.0  ; extra == \"dev\" and ( python_version>='3.8')",
+      "colorama==0.4.5  ; extra == \"dev\" and ( python_version<'3.8')",
+      "colorama==0.4.6  ; extra == \"dev\" and ( python_version>='3.8')",
+      "freezegun==1.1.0  ; extra == \"dev\" and ( python_version<'3.8')",
+      "freezegun==1.5.0  ; extra == \"dev\" and ( python_version>='3.8')",
+      "exceptiongroup==1.1.3  ; extra == \"dev\" and ( python_version>='3.7' and python_version<'3.11')",
+      "mypy==v0.910  ; extra == \"dev\" and ( python_version<'3.6')",
+      "mypy==v0.971  ; extra == \"dev\" and ( python_version>='3.6' and python_version<'3.7')",
+      "mypy==v1.4.1  ; extra == \"dev\" and ( python_version>='3.7' and python_version<'3.8')",
+      "mypy==v1.13.0  ; extra == \"dev\" and ( python_version>='3.8')",
+      "Sphinx==8.1.3  ; extra == \"dev\" and ( python_version>='3.11')",
+      "sphinx-rtd-theme==3.0.2  ; extra == \"dev\" and ( python_version>='3.11')",
+      "myst-parser==4.0.0  ; extra == \"dev\" and ( python_version>='3.11')",
+      "build==1.2.2  ; extra == \"dev\" and ( python_version>='3.11')",
+      "twine==6.0.1  ; extra == \"dev\" and ( python_version>='3.11')"
+    ]
+  },
+  "loguru-0.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "003d71e3d3ed35f0f8984898359d65b79e5b21943f78af86aa5491210429b8eb",
+    "dependencies": {
+      "required": [
+        "aiocontextvars",
+        "colorama",
+        "win32-setctime"
+      ]
+    },
+    "original_requirements": [
+      "aiocontextvars >=0.2.0 ; python_version < \"3.7\"",
+      "colorama >=0.3.4 ; sys_platform == \"win32\"",
+      "win32-setctime >=1.0.0 ; sys_platform == \"win32\"",
+      "mypy ==v0.910 ; (python_version < \"3.6\") and extra == 'dev'",
+      "tox ==3.27.1 ; (python_version < \"3.8\") and extra == 'dev'",
+      "pytest ==6.1.2 ; (python_version < \"3.8\") and extra == 'dev'",
+      "pytest-cov ==2.12.1 ; (python_version < \"3.8\") and extra == 'dev'",
+      "colorama ==0.4.5 ; (python_version < \"3.8\") and extra == 'dev'",
+      "freezegun ==1.1.0 ; (python_version < \"3.8\") and extra == 'dev'",
+      "mypy ==v0.971 ; (python_version >= \"3.6\" and python_version < \"3.7\") and extra == 'dev'",
+      "pytest-mypy-plugins ==1.9.3 ; (python_version >= \"3.6\" and python_version < \"3.8\") and extra == 'dev'",
+      "exceptiongroup ==1.1.3 ; (python_version >= \"3.7\" and python_version < \"3.11\") and extra == 'dev'",
+      "mypy ==v1.4.1 ; (python_version >= \"3.7\" and python_version < \"3.8\") and extra == 'dev'",
+      "pre-commit ==3.4.0 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "tox ==4.11.0 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "pytest ==7.4.0 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "pytest-cov ==4.1.0 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "pytest-mypy-plugins ==3.0.0 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "colorama ==0.4.6 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "freezegun ==1.2.2 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "mypy ==v1.5.1 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "Sphinx ==7.2.5 ; (python_version >= \"3.9\") and extra == 'dev'",
+      "sphinx-autobuild ==2021.3.14 ; (python_version >= \"3.9\") and extra == 'dev'",
+      "sphinx-rtd-theme ==1.3.0 ; (python_version >= \"3.9\") and extra == 'dev'"
+    ]
+  },
+  "loguru-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "046bf970cb3cad77a28d607cbf042ac25a407db987a1e801c7f7e692469982f9",
+    "dependencies": {
+      "required": [
+        "aiocontextvars",
+        "colorama",
+        "win32-setctime"
+      ]
+    },
+    "original_requirements": [
+      "aiocontextvars >=0.2.0 ; python_version < \"3.7\"",
+      "colorama >=0.3.4 ; sys_platform == \"win32\"",
+      "win32-setctime >=1.0.0 ; sys_platform == \"win32\"",
+      "mypy ==v0.910 ; (python_version < \"3.6\") and extra == 'dev'",
+      "tox ==3.27.1 ; (python_version < \"3.8\") and extra == 'dev'",
+      "pytest ==6.1.2 ; (python_version < \"3.8\") and extra == 'dev'",
+      "pytest-cov ==2.12.1 ; (python_version < \"3.8\") and extra == 'dev'",
+      "colorama ==0.4.5 ; (python_version < \"3.8\") and extra == 'dev'",
+      "freezegun ==1.1.0 ; (python_version < \"3.8\") and extra == 'dev'",
+      "mypy ==v0.971 ; (python_version >= \"3.6\" and python_version < \"3.7\") and extra == 'dev'",
+      "pytest-mypy-plugins ==1.9.3 ; (python_version >= \"3.6\" and python_version < \"3.8\") and extra == 'dev'",
+      "mypy ==v1.4.1 ; (python_version >= \"3.7\") and extra == 'dev'",
+      "pre-commit ==3.3.1 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "tox ==4.11.0 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "pytest ==7.4.0 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "pytest-cov ==4.1.0 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "pytest-mypy-plugins ==3.0.0 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "colorama ==0.4.6 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "freezegun ==1.2.2 ; (python_version >= \"3.8\") and extra == 'dev'",
+      "Sphinx ==7.2.5 ; (python_version >= \"3.9\") and extra == 'dev'",
+      "sphinx-autobuild ==2021.3.14 ; (python_version >= \"3.9\") and extra == 'dev'",
+      "sphinx-rtd-theme ==1.3.0 ; (python_version >= \"3.9\") and extra == 'dev'"
+    ]
+  },
+  "loguru-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b93aa30099fa6860d4727f1b81f8718e965bb96253fa190fab2077aaad6d15d3",
+    "dependencies": {
+      "required": [
+        "aiocontextvars",
+        "colorama",
+        "win32-setctime"
+      ]
+    },
+    "original_requirements": [
+      "aiocontextvars (>=0.2.0) ; python_version < \"3.7\"",
+      "colorama (>=0.3.4) ; sys_platform == \"win32\"",
+      "win32-setctime (>=1.0.0) ; sys_platform == \"win32\"",
+      "mypy (==v0.910) ; (python_version < \"3.6\") and extra == 'dev'",
+      "tox (==3.27.1) ; (python_version < \"3.8\") and extra == 'dev'",
+      "pytest (==6.1.2) ; (python_version < \"3.8\") and extra == 'dev'",
+      "pytest-cov (==2.12.1) ; (python_version < \"3.8\") and extra == 'dev'",
+      "colorama (==0.4.5) ; (python_version < \"3.8\") and extra == 'dev'",
+      "freezegun (==1.1.0) ; (python_version < \"3.8\") and extra == 'dev'",
+      "mypy (==v0.971) ; (python_version >= \"3.6\" and python_version < \"3.7\") and extra == 'dev'",
+      "pytest-mypy-plugins (==1.9.3) ; (python_version >= \"3.6\" and python_version < \"3.8\") and extra == 'dev'",
+      "mypy (==v0.990) ; (python_version >= \"3.7\") and extra == 'dev'",
+      "pre-commit (==3.2.1) ; (python_version >= \"3.8\") and extra == 'dev'",
+      "tox (==4.4.6) ; (python_version >= \"3.8\") and extra == 'dev'",
+      "pytest (==7.2.1) ; (python_version >= \"3.8\") and extra == 'dev'",
+      "pytest-cov (==4.0.0) ; (python_version >= \"3.8\") and extra == 'dev'",
+      "pytest-mypy-plugins (==1.10.1) ; (python_version >= \"3.8\") and extra == 'dev'",
+      "colorama (==0.4.6) ; (python_version >= \"3.8\") and extra == 'dev'",
+      "freezegun (==1.2.2) ; (python_version >= \"3.8\") and extra == 'dev'",
+      "Sphinx (==5.3.0) ; (python_version >= \"3.8\") and extra == 'dev'",
+      "sphinx-autobuild (==2021.3.14) ; (python_version >= \"3.8\") and extra == 'dev'",
+      "sphinx-rtd-theme (==1.2.0) ; (python_version >= \"3.8\") and extra == 'dev'"
+    ]
+  },
+  "loguru-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e2414d534a2ab57573365b3e6d0234dfb1d84b68b7f3b948e6fb743860a77c3",
+    "dependencies": {
+      "required": [
+        "aiocontextvars",
+        "colorama",
+        "win32-setctime"
+      ]
+    },
+    "original_requirements": [
+      "aiocontextvars (>=0.2.0) ; python_version < \"3.7\"",
+      "colorama (>=0.3.4) ; sys_platform == \"win32\"",
+      "win32-setctime (>=1.0.0) ; sys_platform == \"win32\"",
+      "colorama (>=0.3.4) ; extra == 'dev'",
+      "docutils (==0.16) ; extra == 'dev'",
+      "flake8 (>=3.7.7) ; extra == 'dev'",
+      "tox (>=3.9.0) ; extra == 'dev'",
+      "pytest (>=4.6.2) ; extra == 'dev'",
+      "pytest-cov (>=2.7.1) ; extra == 'dev'",
+      "black (>=19.10b0) ; (python_version >= \"3.6\") and extra == 'dev'",
+      "isort (>=5.1.1) ; (python_version >= \"3.6\") and extra == 'dev'",
+      "Sphinx (>=4.1.1) ; (python_version >= \"3.6\") and extra == 'dev'",
+      "sphinx-autobuild (>=0.7.1) ; (python_version >= \"3.6\") and extra == 'dev'",
+      "sphinx-rtd-theme (>=0.4.3) ; (python_version >= \"3.6\") and extra == 'dev'"
+    ]
+  }
+}

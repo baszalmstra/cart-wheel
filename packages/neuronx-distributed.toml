@@ -1,0 +1,7 @@
+# Package configuration for neuronx-distributed
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neuronx_distributed-0.1-py3-none-any.whl" },
+]

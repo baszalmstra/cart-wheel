@@ -1,0 +1,215 @@
+{
+  "stagehand-0.5.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44dfeb889ea1aa066d3cae27865170cf2d44ebc82992b477409f67fda50b8ae2",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "python-dotenv",
+        "pydantic",
+        "playwright",
+        "requests",
+        "browserbase",
+        "rich",
+        "openai",
+        "anthropic",
+        "litellm",
+        "nest-asyncio",
+        "google-genai"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.24.0",
+      "python-dotenv>=1.0.0",
+      "pydantic>=1.10.0",
+      "playwright>=1.42.1",
+      "requests>=2.31.0",
+      "browserbase>=1.4.0",
+      "rich>=13.7.0",
+      "openai>=1.99.6",
+      "anthropic>=0.51.0",
+      "litellm<=1.80.0,>=1.72.0",
+      "nest-asyncio>=1.6.0",
+      "google-genai>=1.40.0",
+      "pytest>=7.3.1; extra == \"dev\"",
+      "pytest-asyncio>=0.21.0; extra == \"dev\"",
+      "pytest-mock>=3.10.0; extra == \"dev\"",
+      "pytest-cov>=4.1.0; extra == \"dev\"",
+      "black>=23.3.0; extra == \"dev\"",
+      "isort>=5.12.0; extra == \"dev\"",
+      "mypy>=1.3.0; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "psutil>=5.9.0; extra == \"dev\""
+    ]
+  },
+  "stagehand-0.5.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fec684e8d64ad35a315c98a11d9df19d20e41e2a1d689916968542355b73b44f",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "python-dotenv",
+        "pydantic",
+        "playwright",
+        "requests",
+        "browserbase",
+        "rich",
+        "openai",
+        "anthropic",
+        "litellm",
+        "nest-asyncio",
+        "google-genai"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.24.0",
+      "python-dotenv>=1.0.0",
+      "pydantic>=1.10.0",
+      "playwright>=1.42.1",
+      "requests>=2.31.0",
+      "browserbase>=1.4.0",
+      "rich>=13.7.0",
+      "openai>=1.99.6",
+      "anthropic>=0.51.0",
+      "litellm<1.75.0,>=1.72.0",
+      "nest-asyncio>=1.6.0",
+      "google-genai>=1.40.0",
+      "pytest>=7.3.1; extra == \"dev\"",
+      "pytest-asyncio>=0.21.0; extra == \"dev\"",
+      "pytest-mock>=3.10.0; extra == \"dev\"",
+      "pytest-cov>=4.1.0; extra == \"dev\"",
+      "black>=23.3.0; extra == \"dev\"",
+      "isort>=5.12.0; extra == \"dev\"",
+      "mypy>=1.3.0; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "psutil>=5.9.0; extra == \"dev\""
+    ]
+  },
+  "stagehand-0.5.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf820fff5abcd946c7b43984c496a2a2ecfc2a1f683e8af70c1f32db66d2f6bd",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "python-dotenv",
+        "pydantic",
+        "playwright",
+        "requests",
+        "browserbase",
+        "rich",
+        "openai",
+        "anthropic",
+        "litellm",
+        "nest-asyncio",
+        "google-genai"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.24.0",
+      "python-dotenv>=1.0.0",
+      "pydantic>=1.10.0",
+      "playwright>=1.42.1",
+      "requests>=2.31.0",
+      "browserbase>=1.4.0",
+      "rich>=13.7.0",
+      "openai>=1.99.6",
+      "anthropic>=0.51.0",
+      "litellm<1.75.0,>=1.72.0",
+      "nest-asyncio>=1.6.0",
+      "google-genai>=1.40.0",
+      "pytest>=7.3.1; extra == \"dev\"",
+      "pytest-asyncio>=0.21.0; extra == \"dev\"",
+      "pytest-mock>=3.10.0; extra == \"dev\"",
+      "pytest-cov>=4.1.0; extra == \"dev\"",
+      "black>=23.3.0; extra == \"dev\"",
+      "isort>=5.12.0; extra == \"dev\"",
+      "mypy>=1.3.0; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "psutil>=5.9.0; extra == \"dev\""
+    ]
+  },
+  "stagehand-0.5.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "758bc9c9872d86abd9c3e2f9632ff832d226fe279809fddf9708c2fb2194263a",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "python-dotenv",
+        "pydantic",
+        "playwright",
+        "requests",
+        "browserbase",
+        "rich",
+        "openai",
+        "anthropic",
+        "litellm",
+        "nest-asyncio",
+        "google-genai"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.24.0",
+      "python-dotenv>=1.0.0",
+      "pydantic>=1.10.0",
+      "playwright>=1.42.1",
+      "requests>=2.31.0",
+      "browserbase>=1.4.0",
+      "rich>=13.7.0",
+      "openai>=1.99.6",
+      "anthropic>=0.51.0",
+      "litellm<1.75.0,>=1.72.0",
+      "nest-asyncio>=1.6.0",
+      "google-genai>=1.40.0",
+      "pytest>=7.3.1; extra == \"dev\"",
+      "pytest-asyncio>=0.21.0; extra == \"dev\"",
+      "pytest-mock>=3.10.0; extra == \"dev\"",
+      "pytest-cov>=4.1.0; extra == \"dev\"",
+      "black>=23.3.0; extra == \"dev\"",
+      "isort>=5.12.0; extra == \"dev\"",
+      "mypy>=1.3.0; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "psutil>=5.9.0; extra == \"dev\""
+    ]
+  },
+  "stagehand-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb3fa95b27f6dc5097c6535373f7a585c77aa235792959ac004e5b7df25094cd",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "python-dotenv",
+        "pydantic",
+        "playwright",
+        "requests",
+        "browserbase",
+        "rich",
+        "openai",
+        "anthropic",
+        "litellm",
+        "nest-asyncio"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.24.0",
+      "python-dotenv>=1.0.0",
+      "pydantic>=1.10.0",
+      "playwright>=1.42.1",
+      "requests>=2.31.0",
+      "browserbase>=1.4.0",
+      "rich>=13.7.0",
+      "openai>=1.99.6",
+      "anthropic>=0.51.0",
+      "litellm<1.75.0,>=1.72.0",
+      "nest-asyncio>=1.6.0",
+      "pytest>=7.3.1; extra == \"dev\"",
+      "pytest-asyncio>=0.21.0; extra == \"dev\"",
+      "pytest-mock>=3.10.0; extra == \"dev\"",
+      "pytest-cov>=4.1.0; extra == \"dev\"",
+      "black>=23.3.0; extra == \"dev\"",
+      "isort>=5.12.0; extra == \"dev\"",
+      "mypy>=1.3.0; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "psutil>=5.9.0; extra == \"dev\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for webdriver-manager
+conda_forge = "webdriver-manager"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "webdriver_manager-4.0.2-py2.py3-none-any.whl" },
+  { filename = "webdriver_manager-4.0.1-py2.py3-none-any.whl" },
+  { filename = "webdriver_manager-4.0.0-py2.py3-none-any.whl" },
+  { filename = "webdriver_manager-3.9.1-py2.py3-none-any.whl" },
+  { filename = "webdriver_manager-3.9.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-fab
+conda_forge = "apache-airflow-providers-fab"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_fab-3.1.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_fab-3.0.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_fab-3.0.2-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_fab-3.0.1-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_fab-3.0.0-py3-none-any.whl" },
+]

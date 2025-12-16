@@ -1,0 +1,11 @@
+# Package configuration for mlflow-tracing
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mlflow_tracing-3.7.0-py3-none-any.whl" },
+  { filename = "mlflow_tracing-3.6.0-py3-none-any.whl" },
+  { filename = "mlflow_tracing-3.5.1-py3-none-any.whl" },
+  { filename = "mlflow_tracing-3.5.0-py3-none-any.whl" },
+  { filename = "mlflow_tracing-3.4.0-py3-none-any.whl" },
+]

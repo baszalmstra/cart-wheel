@@ -1,0 +1,11 @@
+# Package configuration for openfga-sdk
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openfga_sdk-0.9.9-py3-none-any.whl" },
+  { filename = "openfga_sdk-0.9.8-py3-none-any.whl" },
+  { filename = "openfga_sdk-0.9.7-py3-none-any.whl" },
+  { filename = "openfga_sdk-0.9.6-py3-none-any.whl" },
+  { filename = "openfga_sdk-0.9.5-py3-none-any.whl" },
+]

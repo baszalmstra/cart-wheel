@@ -1,0 +1,11 @@
+# Package configuration for panphon
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "panphon-0.22.2-py2.py3-none-any.whl" },
+  { filename = "panphon-0.22.1-py2.py3-none-any.whl" },
+  { filename = "panphon-0.22.0-py2.py3-none-any.whl" },
+  { filename = "panphon-0.21.2-py2.py3-none-any.whl" },
+  { filename = "panphon-0.21.1-py2.py3-none-any.whl" },
+]

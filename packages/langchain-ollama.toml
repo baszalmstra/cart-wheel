@@ -1,0 +1,12 @@
+# Package configuration for langchain-ollama
+conda_forge = "langchain-ollama"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_ollama-1.0.1-py3-none-any.whl" },
+  { filename = "langchain_ollama-1.0.0-py3-none-any.whl" },
+  { filename = "langchain_ollama-0.3.10-py3-none-any.whl" },
+  { filename = "langchain_ollama-0.3.9-py3-none-any.whl" },
+  { filename = "langchain_ollama-0.3.8-py3-none-any.whl" },
+]

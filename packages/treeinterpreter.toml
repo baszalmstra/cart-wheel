@@ -1,0 +1,9 @@
+# Package configuration for treeinterpreter
+conda_forge = "treeinterpreter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "treeinterpreter-0.2.3-py2.py3-none-any.whl" },
+  { filename = "treeinterpreter-0.2.2-py2.py3-none-any.whl" },
+]

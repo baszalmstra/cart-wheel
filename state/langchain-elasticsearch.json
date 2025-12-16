@@ -1,0 +1,72 @@
+{
+  "langchain_elasticsearch-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9d7c3d3e573ff7b4b4e857483d4f7f6d0edb7409ce5134beb734e0fa7f784aa8",
+    "dependencies": {
+      "required": [
+        "elasticsearch",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "elasticsearch[vectorstore-mmr] (>=8.16.0,<9.0.0)",
+      "langchain-core (>=0.3.0,<0.4.0)"
+    ]
+  },
+  "langchain_elasticsearch-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "556b6cdb559f1587d595c6b09a77a25c669dc512c3dec6c485238504ec5d7e35",
+    "dependencies": {
+      "required": [
+        "elasticsearch",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "elasticsearch[vectorstore-mmr] (>=8.13.1,<9.0.0)",
+      "langchain-core (>=0.3.0,<0.4.0)"
+    ]
+  },
+  "langchain_elasticsearch-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d4af60b25729c34edfa5b828abb17f419603b0e5a6f29caa310c6e1921f9edd",
+    "dependencies": {
+      "required": [
+        "elasticsearch",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "elasticsearch[vectorstore-mmr] (>=8.13.1,<9.0.0)",
+      "langchain-core (>=0.3.0,<0.4.0)"
+    ]
+  },
+  "langchain_elasticsearch-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "83d26d2a29f7628bcf2c655fe988930c90249e78e6f326c0be218ad4fa96f1f4",
+    "dependencies": {
+      "required": [
+        "elasticsearch",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "elasticsearch[vectorstore-mmr] (>=8.13.1,<9.0.0)",
+      "langchain-core (>=0.3.0,<0.4.0)"
+    ]
+  },
+  "langchain_elasticsearch-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b0ae1637afc6890c371fc67be2151954db3c7f5382a07dafe4cf3bd762c6f26",
+    "dependencies": {
+      "required": [
+        "elasticsearch",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "elasticsearch[vectorstore-mmr] (>=8.13.1,<9.0.0)",
+      "langchain-core (>=0.1.50,<0.3)"
+    ]
+  }
+}

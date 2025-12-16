@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-iotwireless
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_iotwireless-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_iotwireless-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_iotwireless-1.40.73-py3-none-any.whl" },
+  { filename = "mypy_boto3_iotwireless-1.40.59-py3-none-any.whl" },
+  { filename = "mypy_boto3_iotwireless-1.40.0-py3-none-any.whl" },
+]

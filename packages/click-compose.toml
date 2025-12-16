@@ -1,0 +1,10 @@
+# Package configuration for click-compose
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "click_compose-2025.10.27.3-py2.py3-none-any.whl" },
+  { filename = "click_compose-2025.10.27.2-py2.py3-none-any.whl" },
+  { filename = "click_compose-2025.10.27.1-py2.py3-none-any.whl" },
+  { filename = "click_compose-2025.10.27-py2.py3-none-any.whl" },
+]

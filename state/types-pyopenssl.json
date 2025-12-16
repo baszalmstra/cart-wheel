@@ -1,0 +1,68 @@
+{
+  "types_pyOpenSSL-24.1.0.20240722-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6a7a5d2ec042537934cfb4c9d4deb0e16c4c6250b09358df1f083682fe6fda54",
+    "dependencies": {
+      "required": [
+        "types-cffi",
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "types-cffi",
+      "cryptography >=35.0.0"
+    ]
+  },
+  "types_pyOpenSSL-24.1.0.20240425-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f51a156835555dd2a1f025621e8c4fbe7493470331afeef96884d1d29bf3a473",
+    "dependencies": {
+      "required": [
+        "types-cffi",
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "types-cffi",
+      "cryptography >=35.0.0"
+    ]
+  },
+  "types_pyOpenSSL-24.0.0.20240417-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ce41ddaf383815168b6e21d542fd92135f10a5e82adb3e593a6b79638b0b511",
+    "dependencies": {
+      "required": [
+        "types-cffi",
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "types-cffi",
+      "cryptography >=35.0.0"
+    ]
+  },
+  "types_pyOpenSSL-24.0.0.20240311-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6e8e8bfad34924067333232c93f7fc4b369856d8bea0d5c9d1808cb290ab1972",
+    "dependencies": {
+      "required": [
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "cryptography >=35.0.0"
+    ]
+  },
+  "types_pyOpenSSL-24.0.0.20240228-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a472cf877a873549175e81972f153f44e975302a3cf17381eb5f3d41ccfb75a4",
+    "dependencies": {
+      "required": [
+        "cryptography"
+      ]
+    },
+    "original_requirements": [
+      "cryptography >=35.0.0"
+    ]
+  }
+}

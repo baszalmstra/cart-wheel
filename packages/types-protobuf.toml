@@ -1,0 +1,12 @@
+# Package configuration for types-protobuf
+conda_forge = "types-protobuf"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_protobuf-6.32.1.20251210-py3-none-any.whl" },
+  { filename = "types_protobuf-6.32.1.20251105-py3-none-any.whl" },
+  { filename = "types_protobuf-6.32.1.20250918-py3-none-any.whl" },
+  { filename = "types_protobuf-6.30.2.20250914-py3-none-any.whl" },
+  { filename = "types_protobuf-6.30.2.20250822-py3-none-any.whl" },
+]

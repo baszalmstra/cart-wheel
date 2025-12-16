@@ -1,0 +1,100 @@
+{
+  "apache_airflow_providers_apache_tinkerpop-1.1.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:11.851331+00:00",
+    "conda_file": "apache-airflow-providers-apache-tinkerpop-1.1.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "gremlinpython"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "gremlinpython>=3.7.3",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_tinkerpop-1.0.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:11.955303+00:00",
+    "conda_file": "apache-airflow-providers-apache-tinkerpop-1.0.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "gremlinpython"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "gremlinpython>=3.7.3",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_tinkerpop-1.0.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:11.951298+00:00",
+    "conda_file": "apache-airflow-providers-apache-tinkerpop-1.0.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "gremlinpython"
+      ],
+      "optional": {
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "gremlinpython>=3.7.3",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_tinkerpop-1.0.3-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:11.889901+00:00",
+    "conda_file": "apache-airflow-providers-apache-tinkerpop-1.0.3-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "gremlinpython"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "gremlinpython>=3.7.3"
+    ]
+  },
+  "apache_airflow_providers_apache_tinkerpop-1.0.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:11.917962+00:00",
+    "conda_file": "apache-airflow-providers-apache-tinkerpop-1.0.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "gremlinpython"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "gremlinpython>=3.7.0"
+    ]
+  }
+}

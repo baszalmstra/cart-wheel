@@ -1,0 +1,12 @@
+# Package configuration for check-manifest
+conda_forge = "check-manifest"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "check_manifest-0.51-py3-none-any.whl" },
+  { filename = "check_manifest-0.50-py3-none-any.whl" },
+  { filename = "check_manifest-0.49-py3-none-any.whl" },
+  { filename = "check_manifest-0.48-py3-none-any.whl" },
+  { filename = "check_manifest-0.47-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for freezegun
+conda_forge = "freezegun"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "freezegun-1.5.5-py3-none-any.whl" },
+  { filename = "freezegun-1.5.4-py3-none-any.whl" },
+  { filename = "freezegun-1.5.3-py3-none-any.whl" },
+  { filename = "freezegun-1.5.2-py3-none-any.whl" },
+  { filename = "freezegun-1.5.1-py3-none-any.whl" },
+]

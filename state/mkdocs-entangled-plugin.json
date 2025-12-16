@@ -1,0 +1,76 @@
+{
+  "mkdocs_entangled_plugin-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc5ebc47c754e3827e6472fe8aa49c556ff613a8f606a10d62ff5cf7566f5dd3",
+    "dependencies": {
+      "required": [
+        "entangled-cli",
+        "mawk",
+        "mkdocs"
+      ]
+    },
+    "original_requirements": [
+      "entangled-cli<3,>=2.4",
+      "mawk<0.2,>=0.1.7",
+      "mkdocs<2,>=1.4.2"
+    ]
+  },
+  "mkdocs_entangled_plugin-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62f34e673523b21769d57db429224f6121a2e37c4fa197c80e101ce46c55f098",
+    "dependencies": {
+      "required": [
+        "entangled-cli",
+        "mawk",
+        "mkdocs"
+      ]
+    },
+    "original_requirements": [
+      "entangled-cli<3,>=2.2",
+      "mawk<0.2,>=0.1.7",
+      "mkdocs<2,>=1.4.2"
+    ]
+  },
+  "mkdocs_entangled_plugin-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "af4fe84e2218e2c0a805d20161977e34cd56f8af24b4d1a88be4c258176b81bb",
+    "dependencies": {
+      "required": [
+        "entangled-cli",
+        "mawk",
+        "mkdocs"
+      ]
+    },
+    "original_requirements": [
+      "entangled-cli (>=2.0.0a6,<3.0.0)",
+      "mawk (>=0.1.4,<0.2.0)",
+      "mkdocs (>=1.4.2,<2.0.0)"
+    ]
+  },
+  "mkdocs_entangled_plugin-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "87ed46585fdde736850df68bc804e6207c7e7e90f2a039957622807d4e78aef6",
+    "dependencies": {
+      "required": [
+        "entangled-cli",
+        "mkdocs"
+      ]
+    },
+    "original_requirements": [
+      "entangled-cli[rich] (>=2.0.0a3,<3.0.0)",
+      "mkdocs (>=1.4.2,<2.0.0)"
+    ]
+  },
+  "mkdocs_entangled_plugin-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f386631c11e6c19a41f89902f83275c274db8abacf5adac9cff88394ec9e1788",
+    "dependencies": {
+      "required": [
+        "mkdocs"
+      ]
+    },
+    "original_requirements": [
+      "mkdocs (>=1.4.2,<2.0.0)"
+    ]
+  }
+}

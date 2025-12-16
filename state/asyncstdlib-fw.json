@@ -1,0 +1,46 @@
+{
+  "asyncstdlib_fw-3.13.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91cc2b19c232cd377f26eec0f353468eec7d80cf83709e1ca903bd954a694b27",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == \"test\"",
+      "flake8; extra == \"test\"",
+      "flake8-bugbear; extra == \"test\"",
+      "black; implementation_name == \"cpython\" and extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "flake8-2020; extra == \"test\"",
+      "mypy; implementation_name == \"cpython\" and extra == \"test\"",
+      "mypy; implementation_name == \"cpython\" and extra == \"typetest\"",
+      "pyright; extra == \"typetest\"",
+      "typing-extensions; extra == \"typetest\"",
+      "sphinx; extra == \"doc\"",
+      "sphinxcontrib-trio; extra == \"doc\""
+    ]
+  },
+  "asyncstdlib_fw-3.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1ca692be860a1acb6ec93051b51e6666d3956560b43bb99635778f5413e4fa81",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == \"test\"",
+      "flake8; extra == \"test\"",
+      "flake8-bugbear; extra == \"test\"",
+      "black; implementation_name == \"cpython\" and extra == \"test\"",
+      "coverage; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "flake8-2020; extra == \"test\"",
+      "mypy; implementation_name == \"cpython\" and extra == \"test\"",
+      "mypy; implementation_name == \"cpython\" and extra == \"typetest\"",
+      "pyright; extra == \"typetest\"",
+      "typing-extensions; extra == \"typetest\"",
+      "sphinx; extra == \"doc\"",
+      "sphinxcontrib-trio; extra == \"doc\""
+    ]
+  }
+}

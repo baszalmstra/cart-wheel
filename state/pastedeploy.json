@@ -1,0 +1,77 @@
+{
+  "PasteDeploy-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "76388ad53a661448d436df28c798063108f70e994ddc749540d733cdbd1b38cf",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "Sphinx >=1.7.5 ; extra == 'docs'",
+      "pylons-sphinx-themes ; extra == 'docs'",
+      "Paste ; extra == 'paste'",
+      "Paste ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'"
+    ]
+  },
+  "PasteDeploy-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6195c921b1c3ed9722e4e3e6aa29b70deebb2429b4ca3ff3d49185c8e80003bb",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "Sphinx (>=1.7.5) ; extra == 'docs'",
+      "pylons-sphinx-themes ; extra == 'docs'",
+      "Paste ; extra == 'paste'",
+      "Paste ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'"
+    ]
+  },
+  "PasteDeploy-2.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "14923cfd6ad4281b570693afc278bab5076fbdd4cd15aa9d99b042d694aa4217",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "Paste ; extra == 'paste'",
+      "Sphinx (>=1.7.5) ; extra == 'docs'",
+      "pylons-sphinx-themes ; extra == 'docs'"
+    ]
+  },
+  "PasteDeploy-2.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc6578735a32c77435a3e0769426983d3df6dc53a7229290c495ec10aefb81a5",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Paste ; extra == 'paste'",
+      "Sphinx (>=1.7.5) ; extra == 'docs'",
+      "pylons-sphinx-themes ; extra == 'docs'"
+    ]
+  },
+  "PasteDeploy-2.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe53697ec2754703096b75d0ba29112b0590b4ce46726fe4f9408fd006e4eefc",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Paste; extra == 'paste'",
+      "Sphinx (>=1.7.5); extra == 'docs'",
+      "pylons-sphinx-themes; extra == 'docs'"
+    ]
+  }
+}

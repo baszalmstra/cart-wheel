@@ -1,0 +1,12 @@
+# Package configuration for tf2onnx
+conda_forge = "tf2onnx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tf2onnx-1.16.1-py3-none-any.whl" },
+  { filename = "tf2onnx-1.16.0-py3-none-any.whl" },
+  { filename = "tf2onnx-1.15.1-py3-none-any.whl" },
+  { filename = "tf2onnx-1.15.0-py3-none-any.whl" },
+  { filename = "tf2onnx-1.14.0-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for contextual-client
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "contextual_client-0.10.0-py3-none-any.whl" },
+  { filename = "contextual_client-0.9.0-py3-none-any.whl" },
+  { filename = "contextual_client-0.8.0-py3-none-any.whl" },
+  { filename = "contextual_client-0.7.0-py3-none-any.whl" },
+  { filename = "contextual_client-0.6.0-py3-none-any.whl" },
+]

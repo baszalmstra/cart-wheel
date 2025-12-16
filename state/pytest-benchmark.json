@@ -1,0 +1,101 @@
+{
+  "pytest_benchmark-5.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc839726ad20e99aaa0d11a127445457b4219bdb9e80a1afc4b51da7f96b0803",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "py-cpuinfo"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=8.1",
+      "py-cpuinfo",
+      "aspectlib; extra == \"aspect\"",
+      "pygal; extra == \"histogram\"",
+      "pygaljs; extra == \"histogram\"",
+      "setuptools; extra == \"histogram\"",
+      "elasticsearch; extra == \"elasticsearch\""
+    ]
+  },
+  "pytest_benchmark-5.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "00a57d6b5c04e09052890bf04a0417192dd74427c7386a65e3db0a375753dc77",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "py-cpuinfo"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=8.1",
+      "py-cpuinfo",
+      "aspectlib; extra == \"aspect\"",
+      "pygal; extra == \"histogram\"",
+      "pygaljs; extra == \"histogram\"",
+      "setuptools; extra == \"histogram\"",
+      "elasticsearch; extra == \"elasticsearch\""
+    ]
+  },
+  "pytest_benchmark-5.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6e18fe0df2155e9d993db6ba03bdf85324794035ad986553787024ca59e8db9",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "py-cpuinfo"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=8.1",
+      "py-cpuinfo",
+      "aspectlib; extra == \"aspect\"",
+      "pygal; extra == \"histogram\"",
+      "pygaljs; extra == \"histogram\"",
+      "setuptools; extra == \"histogram\"",
+      "elasticsearch; extra == \"elasticsearch\""
+    ]
+  },
+  "pytest_benchmark-5.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0631cdf19f6032fc46d6bf9e8d15931d78473228b579a3fd84ca5e2f0e8ee06c",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "py-cpuinfo"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=8.1",
+      "py-cpuinfo",
+      "aspectlib; extra == \"aspect\"",
+      "pygal; extra == \"histogram\"",
+      "pygaljs; extra == \"histogram\"",
+      "setuptools; extra == \"histogram\"",
+      "elasticsearch; extra == \"elasticsearch\""
+    ]
+  },
+  "pytest_benchmark-5.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "922de2dfa3033c227c96da942d1878191afa135a29485fb942e85dff1c592c89",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "py-cpuinfo",
+        "statistics",
+        "pathlib2"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=8.1",
+      "py-cpuinfo",
+      "statistics ; python_version < \"3.4\"",
+      "pathlib2 ; python_version < \"3.4\"",
+      "aspectlib ; extra == 'aspect'",
+      "elasticsearch ; extra == 'elasticsearch'",
+      "pygal ; extra == 'histogram'",
+      "pygaljs ; extra == 'histogram'",
+      "setuptools ; extra == 'histogram'"
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "controlnet_aux-0.0.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cad3480d62c7df1ae569258a659c88d730873323d2adbb9f6f7aebd87917df3b",
+    "dependencies": {
+      "required": [
+        "torch",
+        "importlib-metadata",
+        "huggingface-hub",
+        "scipy",
+        "opencv-python-headless",
+        "filelock",
+        "numpy",
+        "pillow",
+        "einops",
+        "torchvision",
+        "timm",
+        "scikit-image"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "importlib_metadata",
+      "huggingface_hub",
+      "scipy",
+      "opencv-python-headless",
+      "filelock",
+      "numpy",
+      "Pillow",
+      "einops",
+      "torchvision",
+      "timm",
+      "scikit-image"
+    ]
+  },
+  "controlnet_aux-0.0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c0401e0f1992562889f15865ede34c0e9b7fbc432aed2d19f7de461a524cc9d8",
+    "dependencies": {
+      "required": [
+        "torch",
+        "importlib-metadata",
+        "huggingface-hub",
+        "scipy",
+        "opencv-python-headless",
+        "filelock",
+        "numpy",
+        "pillow",
+        "einops",
+        "torchvision",
+        "timm",
+        "scikit-image"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "importlib-metadata",
+      "huggingface-hub",
+      "scipy",
+      "opencv-python-headless",
+      "filelock",
+      "numpy",
+      "Pillow",
+      "einops",
+      "torchvision",
+      "timm (<=0.6.7)",
+      "scikit-image"
+    ]
+  },
+  "controlnet_aux-0.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "637ed006de660a5caa6a1bc0e80edd9b61faf46ce24c459a7ce6a7f5c0e74727",
+    "dependencies": {
+      "required": [
+        "torch",
+        "importlib-metadata",
+        "huggingface-hub",
+        "scipy",
+        "opencv-python-headless",
+        "filelock",
+        "numpy",
+        "pillow",
+        "einops",
+        "torchvision",
+        "timm",
+        "scikit-image"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "importlib-metadata",
+      "huggingface-hub",
+      "scipy",
+      "opencv-python-headless",
+      "filelock",
+      "numpy",
+      "Pillow",
+      "einops",
+      "torchvision",
+      "timm <=0.6.7",
+      "scikit-image"
+    ]
+  },
+  "controlnet_aux-0.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8790580486aabfcde4d0ef0595e1a40f83fafad03a8a044eaa61e4a4f74650c5",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "einops",
+        "filelock",
+        "huggingface-hub",
+        "importlib-metadata",
+        "numpy",
+        "opencv-python",
+        "scikit-image",
+        "scipy",
+        "timm",
+        "torch",
+        "torchvision"
+      ]
+    },
+    "original_requirements": [
+      "Pillow",
+      "einops",
+      "filelock",
+      "huggingface-hub",
+      "importlib-metadata",
+      "numpy",
+      "opencv-python",
+      "scikit-image",
+      "scipy",
+      "timm",
+      "torch",
+      "torchvision"
+    ]
+  },
+  "controlnet_aux-0.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82c64b6a83e96036aa1624aa22f8522fc3104719b2993ff553320e3f869674b7",
+    "dependencies": {
+      "required": [
+        "pillow",
+        "einops",
+        "filelock",
+        "huggingface-hub",
+        "importlib-metadata",
+        "numpy",
+        "opencv-python",
+        "scikit-image",
+        "scipy",
+        "timm",
+        "torch",
+        "torchvision"
+      ]
+    },
+    "original_requirements": [
+      "Pillow",
+      "einops",
+      "filelock",
+      "huggingface-hub",
+      "importlib-metadata",
+      "numpy",
+      "opencv-python",
+      "scikit-image",
+      "scipy",
+      "timm",
+      "torch",
+      "torchvision"
+    ]
+  }
+}

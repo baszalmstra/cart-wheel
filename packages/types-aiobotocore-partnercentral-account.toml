@@ -1,0 +1,7 @@
+# Package configuration for types-aiobotocore-partnercentral-account
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_aiobotocore_partnercentral_account-3.0.0-py3-none-any.whl" },
+]

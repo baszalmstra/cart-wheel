@@ -1,0 +1,12 @@
+# Package configuration for cfgrib
+conda_forge = "cfgrib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cfgrib-0.9.15.1-py3-none-any.whl" },
+  { filename = "cfgrib-0.9.15.0-py3-none-any.whl" },
+  { filename = "cfgrib-0.9.14.1-py3-none-any.whl" },
+  { filename = "cfgrib-0.9.14.0-py3-none-any.whl" },
+  { filename = "cfgrib-0.9.13.0-py3-none-any.whl" },
+]

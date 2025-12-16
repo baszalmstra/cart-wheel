@@ -1,0 +1,164 @@
+{
+  "hyperopt-0.2.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f3046d91fe4167dbf104365016596856b2524a609d22f047a066fc1ac796427c",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "six",
+        "networkx",
+        "future",
+        "tqdm",
+        "cloudpickle",
+        "py4j"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "six",
+      "networkx (>=2.2)",
+      "future",
+      "tqdm",
+      "cloudpickle",
+      "py4j",
+      "lightgbm ; extra == 'atpe'",
+      "scikit-learn ; extra == 'atpe'",
+      "pymongo ; extra == 'mongotrials'",
+      "pyspark ; extra == 'sparktrials'",
+      "black ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "nose ; extra == 'dev'",
+      "pytest ; extra == 'dev'"
+    ]
+  },
+  "hyperopt-0.2.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf3d1750091196cc87c1d4bf110ab38e5b66913f5eb86820ba8d3c109adf8f07",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "six",
+        "networkx",
+        "future",
+        "tqdm",
+        "cloudpickle"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "six",
+      "networkx (>=2.2)",
+      "future",
+      "tqdm",
+      "cloudpickle",
+      "lightgbm ; extra == 'atpe'",
+      "scikit-learn ; extra == 'atpe'",
+      "pymongo ; extra == 'mongotrials'",
+      "pyspark ; extra == 'sparktrials'",
+      "black ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "nose ; extra == 'dev'",
+      "pytest ; extra == 'dev'"
+    ]
+  },
+  "hyperopt-0.2.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dc5c7cceaf33c125b727cf92709e70035d94dd507831dae66406ac762a18a253",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "six",
+        "networkx",
+        "future",
+        "tqdm",
+        "cloudpickle"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "six",
+      "networkx (>=2.2)",
+      "future",
+      "tqdm",
+      "cloudpickle",
+      "lightgbm ; extra == 'atpe'",
+      "scikit-learn ; extra == 'atpe'",
+      "pymongo ; extra == 'mongotrials'",
+      "pyspark ; extra == 'sparktrials'",
+      "black ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "nose ; extra == 'dev'",
+      "pytest ; extra == 'dev'"
+    ]
+  },
+  "hyperopt-0.2.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e443c4da031b1d2280ee5140e524e209bae0cd6d59a0401f2ab23a144c89edb",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "six",
+        "networkx",
+        "future",
+        "tqdm",
+        "cloudpickle"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "six",
+      "networkx (>=2.2)",
+      "future",
+      "tqdm",
+      "cloudpickle",
+      "lightgbm ; extra == 'atpe'",
+      "scikit-learn ; extra == 'atpe'",
+      "pymongo ; extra == 'mongotrials'",
+      "pyspark ; extra == 'sparktrials'",
+      "black ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "nose ; extra == 'dev'",
+      "pytest ; extra == 'dev'"
+    ]
+  },
+  "hyperopt-0.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8caf0094fe824502932d949ee57bd3c92fe512dbbd93b7b7a78cd0761fa1a78f",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "six",
+        "networkx",
+        "future",
+        "tqdm",
+        "cloudpickle"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "scipy",
+      "six",
+      "networkx (==2.2)",
+      "future",
+      "tqdm",
+      "cloudpickle",
+      "lightgbm; extra == 'ATPE'",
+      "scikit-learn; extra == 'ATPE'",
+      "pymongo; extra == 'MongoTrials'",
+      "pyspark; extra == 'SparkTrials'",
+      "black; extra == 'dev'",
+      "pre-commit; extra == 'dev'",
+      "nose; extra == 'dev'",
+      "pytest; extra == 'dev'"
+    ]
+  }
+}

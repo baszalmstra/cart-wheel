@@ -1,0 +1,12 @@
+# Package configuration for apache-airflow-providers-influxdb
+conda_forge = "apache-airflow-providers-influxdb"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apache_airflow_providers_influxdb-2.10.0-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_influxdb-2.9.4-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_influxdb-2.9.3-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_influxdb-2.9.2-py3-none-any.whl" },
+  { filename = "apache_airflow_providers_influxdb-2.9.1-py3-none-any.whl" },
+]

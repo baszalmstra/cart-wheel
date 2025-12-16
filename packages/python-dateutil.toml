@@ -1,0 +1,12 @@
+# Package configuration for python-dateutil
+conda_forge = "jupyter_kernel_test"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_dateutil-2.9.0.post0-py2.py3-none-any.whl" },
+  { filename = "python_dateutil-2.9.0-py2.py3-none-any.whl" },
+  { filename = "python_dateutil-2.8.2-py2.py3-none-any.whl" },
+  { filename = "python_dateutil-2.8.1-py2.py3-none-any.whl" },
+  { filename = "python_dateutil-2.8.0-py2.py3-none-any.whl" },
+]

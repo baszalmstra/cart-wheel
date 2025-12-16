@@ -1,0 +1,12 @@
+# Package configuration for bqplot
+conda_forge = "bqplot"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bqplot-0.12.45-py2.py3-none-any.whl" },
+  { filename = "bqplot-0.12.44-py2.py3-none-any.whl" },
+  { filename = "bqplot-0.12.43-py2.py3-none-any.whl" },
+  { filename = "bqplot-0.12.42-py2.py3-none-any.whl" },
+  { filename = "bqplot-0.12.40-py2.py3-none-any.whl" },
+]

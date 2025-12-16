@@ -1,0 +1,12 @@
+# Package configuration for python3-saml
+conda_forge = "python3-saml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python3_saml-1.16.0-py3-none-any.whl" },
+  { filename = "python3_saml-1.15.0-py3-none-any.whl" },
+  { filename = "python3_saml-1.14.0-py3-none-any.whl" },
+  { filename = "python3_saml-1.13.0-py3-none-any.whl" },
+  { filename = "python3_saml-1.12.0-py3-none-any.whl" },
+]

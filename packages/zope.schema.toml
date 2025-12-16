@@ -1,0 +1,11 @@
+# Package configuration for zope.schema
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zope_schema-8.1-py3-none-any.whl" },
+  { filename = "zope_schema-8.0-py3-none-any.whl" },
+  { filename = "zope_schema-7.1-py3-none-any.whl" },
+  { filename = "zope.schema-7.0.1-py3-none-any.whl" },
+  { filename = "zope.schema-7.0.0-py3-none-any.whl" },
+]

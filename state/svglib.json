@@ -1,0 +1,29 @@
+{
+  "svglib-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9aea8e2e81cbbf9c844460e4c7dc90e0a06aea7983bc201975ccd279d7b2d194",
+    "dependencies": {
+      "required": [
+        "cssselect2",
+        "lxml",
+        "reportlab",
+        "rlpycairo",
+        "tinycss2"
+      ]
+    },
+    "original_requirements": [
+      "cssselect2>=0.2.0",
+      "lxml>=6.0.0",
+      "reportlab>=4.4.3",
+      "rlpycairo>=0.4.0",
+      "tinycss2>=0.6.0",
+      "mypy>=1.18.1; extra == 'dev'",
+      "pre-commit>=4.3.0; extra == 'dev'",
+      "pytest-cov>=7.0.0; extra == 'dev'",
+      "pytest-runner>=6.0.1; extra == 'dev'",
+      "pytest>=8.3.5; extra == 'dev'",
+      "ruff>=0.13.0; extra == 'dev'",
+      "tox>=4.30.2; extra == 'dev'"
+    ]
+  }
+}

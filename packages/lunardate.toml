@@ -1,0 +1,10 @@
+# Package configuration for lunardate
+conda_forge = "lunardate"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lunardate-0.2.2-py3-none-any.whl" },
+  { filename = "lunardate-0.2.1-py3-none-any.whl" },
+  { filename = "lunardate-0.2.0-py3-none-any.whl" },
+]

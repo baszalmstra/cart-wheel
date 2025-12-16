@@ -1,0 +1,11 @@
+# Package configuration for aws-cdk.cloud-assembly-schema
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_cdk_cloud_assembly_schema-49.0.0-py3-none-any.whl" },
+  { filename = "aws_cdk_cloud_assembly_schema-48.20.0-py3-none-any.whl" },
+  { filename = "aws_cdk_cloud_assembly_schema-48.19.0-py3-none-any.whl" },
+  { filename = "aws_cdk_cloud_assembly_schema-48.18.0-py3-none-any.whl" },
+  { filename = "aws_cdk_cloud_assembly_schema-48.17.0-py3-none-any.whl" },
+]

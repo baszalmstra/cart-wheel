@@ -1,0 +1,11 @@
+# Package configuration for sphinxcontrib-images
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_images-1.0.1-py3-none-any.whl" },
+  { filename = "sphinxcontrib_images-1.0.0-py3-none-any.whl" },
+  { filename = "sphinxcontrib_images-0.9.4-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_images-0.9.3-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_images-0.9.2-py2.py3-none-any.whl" },
+]

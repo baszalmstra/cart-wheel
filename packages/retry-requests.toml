@@ -1,0 +1,7 @@
+# Package configuration for retry-requests
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "retry_requests-2.0.0-py3-none-any.whl" },
+]

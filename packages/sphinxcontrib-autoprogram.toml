@@ -1,0 +1,12 @@
+# Package configuration for sphinxcontrib-autoprogram
+conda_forge = "sphinxcontrib-autoprogram"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_autoprogram-0.1.9-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_autoprogram-0.1.8-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_autoprogram-0.1.7-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_autoprogram-0.1.5-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_autoprogram-0.1.4-py2.py3-none-any.whl" },
+]

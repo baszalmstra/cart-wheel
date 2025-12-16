@@ -1,0 +1,9 @@
+# Package configuration for rcslice
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rcslice-1.1.0-py3-none-any.whl" },
+  { filename = "rcslice-1.0.1-py3-none-any.whl" },
+  { filename = "rcslice-1.0.0-py3-none-any.whl" },
+]

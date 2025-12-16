@@ -1,0 +1,12 @@
+# Package configuration for mistune
+conda_forge = "mistune"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mistune-3.1.4-py3-none-any.whl" },
+  { filename = "mistune-3.1.3-py3-none-any.whl" },
+  { filename = "mistune-3.1.2-py3-none-any.whl" },
+  { filename = "mistune-3.1.1-py3-none-any.whl" },
+  { filename = "mistune-3.1.0-py3-none-any.whl" },
+]

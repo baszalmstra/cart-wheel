@@ -1,0 +1,9 @@
+# Package configuration for utils
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "utils-1.0.1-py2.py3-none-any.whl" },
+  { filename = "utils-1.0.0-py2.py3-none-any.whl" },
+  { filename = "utils-0.9.0-py2.py3-none-any.whl" },
+]

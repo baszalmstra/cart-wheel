@@ -1,0 +1,12 @@
+# Package configuration for textual
+conda_forge = "textual"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "textual-6.8.0-py3-none-any.whl" },
+  { filename = "textual-6.7.1-py3-none-any.whl" },
+  { filename = "textual-6.7.0-py3-none-any.whl" },
+  { filename = "textual-6.6.0-py3-none-any.whl" },
+  { filename = "textual-6.5.0-py3-none-any.whl" },
+]

@@ -1,0 +1,50 @@
+{
+  "boolean_py-5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef28a70bd43115208441b53a045d1549e2f0ec6e3d08a9d142cbc41c1938e8d9",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest!=7.0.0,>=6; extra == \"testing\"",
+      "pytest-xdist>=2; extra == \"testing\"",
+      "twine; extra == \"dev\"",
+      "build; extra == \"dev\"",
+      "black; extra == \"linting\"",
+      "isort; extra == \"linting\"",
+      "pycodestyle; extra == \"linting\"",
+      "Sphinx>=3.3.1; extra == \"docs\"",
+      "sphinx-rtd-theme>=0.5.0; extra == \"docs\"",
+      "doc8>=0.8.1; extra == \"docs\"",
+      "sphinxcontrib-apidoc>=0.3.0; extra == \"docs\""
+    ]
+  },
+  "boolean.py-4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2876f2051d7d6394a531d82dc6eb407faa0b01a0a0b3083817ccd7323b8d96bd",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "boolean.py-3.8-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d75da0fd0354425fa64f6bbc6cec6ae1485d0eec3447b73187ff8cbf9b572e26",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "boolean.py-3.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82ae181f9c85cb5c893a5a4daba9f24d60b538a7dd27fd0c6752a77eba4fbeff",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "boolean.py-3.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d9f09821b143bb4b6da18348471e11e55b472255d0a738e4767d7a436408ea34",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

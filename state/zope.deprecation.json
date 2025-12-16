@@ -1,0 +1,72 @@
+{
+  "zope_deprecation-6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff72d51c88b516b9ddf2cfb826381cc49f99a6a89b7d35c97faca7bee3b46da6",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "Sphinx; extra == \"docs\"",
+      "zope.testrunner>=6.4; extra == \"test\""
+    ]
+  },
+  "zope.deprecation-5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "60f957b964d8f947a4a592c647d51ce0f4f844d1f041657956ddde0d9fa9a76a",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "Sphinx; extra == \"docs\"",
+      "zope.testrunner; extra == \"test\""
+    ]
+  },
+  "zope.deprecation-5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28c2ee983812efb4676d33c7a8c6ade0df191c1c6d652bbbfe6e2eeee067b2d4",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "Sphinx ; extra == 'docs'",
+      "zope.testrunner ; extra == 'test'"
+    ]
+  },
+  "zope.deprecation-4.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f1480b74995958b24ce37b0ef04d3663d2683e5d6debc96726eff18acf4ea113",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "Sphinx; extra == 'docs'",
+      "zope.testrunner; extra == 'test'"
+    ]
+  },
+  "zope.deprecation-4.3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c83cfef3085d10dcb07de5a59a2d95713865befa46e0e88784c5648610fba789",
+    "dependencies": {
+      "required": [
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "Sphinx; extra == 'docs'",
+      "zope.testrunner; extra == 'test'"
+    ]
+  }
+}

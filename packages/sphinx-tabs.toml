@@ -1,0 +1,12 @@
+# Package configuration for sphinx-tabs
+conda_forge = "sphinx-tabs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_tabs-3.4.7-py3-none-any.whl" },
+  { filename = "sphinx_tabs-3.4.5-py3-none-any.whl" },
+  { filename = "sphinx_tabs-3.4.4-py3-none-any.whl" },
+  { filename = "sphinx_tabs-3.4.1-py3-none-any.whl" },
+  { filename = "sphinx_tabs-3.4.0-py3-none-any.whl" },
+]

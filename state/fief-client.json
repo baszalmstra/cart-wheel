@@ -1,0 +1,92 @@
+{
+  "fief_client-0.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "425f40cc7c45c651daec63da402e033c53d91dcaa3f9bf208873fd8692fc16dc",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "jwcrypto"
+      ]
+    },
+    "original_requirements": [
+      "httpx<0.28.0,>=0.21.3",
+      "jwcrypto<2.0.0,>=1.4",
+      "yaspin; extra == 'cli'",
+      "fastapi; extra == 'fastapi'",
+      "makefun<2.0.0,>=1.14.0; extra == 'fastapi'",
+      "flask; extra == 'flask'"
+    ]
+  },
+  "fief_client-0.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4606e644cef026ed500355157a91bbf1fe1818c94e1d3a8c23a4f8206346e966",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "jwcrypto"
+      ]
+    },
+    "original_requirements": [
+      "httpx<0.28.0,>=0.21.3",
+      "jwcrypto<2.0.0,>=1.4",
+      "yaspin; extra == 'cli'",
+      "fastapi; extra == 'fastapi'",
+      "makefun<2.0.0,>=1.14.0; extra == 'fastapi'",
+      "flask; extra == 'flask'"
+    ]
+  },
+  "fief_client-0.18.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b27ff0677fec74a8e4991c9146e63f2abe78507f5df720b6d7ce0b7cb940ba88",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "jwcrypto"
+      ]
+    },
+    "original_requirements": [
+      "httpx<0.27.0,>=0.21.3",
+      "jwcrypto<2.0.0,>=1.4",
+      "halo; extra == 'cli'",
+      "fastapi; extra == 'fastapi'",
+      "makefun<2.0.0,>=1.14.0; extra == 'fastapi'",
+      "flask; extra == 'flask'"
+    ]
+  },
+  "fief_client-0.18.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "902aafb5a17271bbc62a155840327e65ad956fd5395f710e57abb5e5bdde2cf2",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "jwcrypto"
+      ]
+    },
+    "original_requirements": [
+      "httpx<0.26.0,>=0.21.3",
+      "jwcrypto<2.0.0,>=1.4",
+      "halo; extra == 'cli'",
+      "fastapi; extra == 'fastapi'",
+      "makefun<2.0.0,>=1.14.0; extra == 'fastapi'",
+      "flask; extra == 'flask'"
+    ]
+  },
+  "fief_client-0.18.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44cedd0dee6318be1520ced329c51a3f69828c09fe6f8e9ac9c7cd98604a827c",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "jwcrypto"
+      ]
+    },
+    "original_requirements": [
+      "httpx<0.26.0,>=0.21.3",
+      "jwcrypto<2.0.0,>=1.4",
+      "halo; extra == 'cli'",
+      "fastapi; extra == 'fastapi'",
+      "makefun<2.0.0,>=1.14.0; extra == 'fastapi'",
+      "flask; extra == 'flask'"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+# Package configuration for ilt-panphon
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ilt_panphon-0.21.4-py2.py3-none-any.whl" },
+  { filename = "ilt_panphon-0.21.3-py2.py3-none-any.whl" },
+]

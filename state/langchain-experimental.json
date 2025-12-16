@@ -1,0 +1,72 @@
+{
+  "langchain_experimental-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6ee2f42b50aaadb45e581439ecf5ee50f3a6a0986d52e74d1e64721309e387d",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain-community"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=1.0.0",
+      "langchain-community<1.0.0,>=0.4.0"
+    ]
+  },
+  "langchain_experimental-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50306e75218e3a3f002de3dd879d719addd6481284b1a282292fac46a130f4a1",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain-community"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=1.0.0",
+      "langchain-community<1.0.0,>=0.4.0"
+    ]
+  },
+  "langchain_experimental-0.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e587306aea36b60fa5e5fc05dc7281bee9f60a806f0bf9d30916e0ee096af80",
+    "dependencies": {
+      "required": [
+        "langchain-community",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "langchain-community (>=0.3.0,<0.4.0)",
+      "langchain-core (>=0.3.28,<0.4.0)"
+    ]
+  },
+  "langchain_experimental-0.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da01aafc162631475f306ca368ecae74d5becd93b8039bddb6315e755e274580",
+    "dependencies": {
+      "required": [
+        "langchain-community",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "langchain-community (>=0.3.0,<0.4.0)",
+      "langchain-core (>=0.3.15,<0.4.0)"
+    ]
+  },
+  "langchain_experimental-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6a26f2a05e056a27ad30535ed306a6b9d8cc2e3c0326d15030d11b6e7505dbb",
+    "dependencies": {
+      "required": [
+        "langchain-community",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "langchain-community (>=0.3.0,<0.4.0)",
+      "langchain-core (>=0.3.6,<0.4.0)"
+    ]
+  }
+}

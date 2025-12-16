@@ -1,0 +1,12 @@
+# Package configuration for sphinx
+conda_forge = "sphinx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx-9.0.4-py3-none-any.whl" },
+  { filename = "sphinx-9.0.3-py3-none-any.whl" },
+  { filename = "sphinx-9.0.2-py3-none-any.whl" },
+  { filename = "sphinx-9.0.1-py3-none-any.whl" },
+  { filename = "sphinx-9.0.0-py3-none-any.whl" },
+]

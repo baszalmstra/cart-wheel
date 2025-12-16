@@ -1,0 +1,8 @@
+# Package configuration for svglib
+conda_forge = "svglib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "svglib-1.6.0-py3-none-any.whl" },
+]

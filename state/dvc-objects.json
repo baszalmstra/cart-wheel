@@ -1,0 +1,120 @@
+{
+  "dvc_objects-5.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "73f1644fceb65f0908e6de974e0207f3d9daa1ae1b834f78198cd1feca9488d1",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "funcy"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=2024.2.0",
+      "funcy>=1.14; python_version < \"3.12\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-sugar; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-benchmark; extra == \"tests\"",
+      "pytest-asyncio<2,>=0.23.2; extra == \"tests\"",
+      "reflink; extra == \"tests\"",
+      "dvc-objects[tests]; extra == \"dev\"",
+      "mypy==1.18.2; extra == \"dev\""
+    ]
+  },
+  "dvc_objects-5.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd3bda1d51c6e05f67ded554b30b5b3bc4defaabfc277b2fe48106085b10f2e7",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "funcy"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=2024.2.0",
+      "funcy>=1.14; python_version < \"3.12\"",
+      "pytest<9,>=7; extra == \"tests\"",
+      "pytest-sugar; extra == \"tests\"",
+      "pytest-cov>=4.1.0; extra == \"tests\"",
+      "pytest-mock; extra == \"tests\"",
+      "pytest-benchmark; extra == \"tests\"",
+      "pytest-asyncio<1,>=0.23.2; extra == \"tests\"",
+      "reflink; extra == \"tests\"",
+      "dvc-objects[tests]; extra == \"dev\"",
+      "mypy==1.16.0; extra == \"dev\""
+    ]
+  },
+  "dvc_objects-5.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c29b28f372674f53eca13323832d7b61c14bc29d516c39f6e87c5eba871a00ba",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "funcy"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2024.2.0",
+      "funcy >=1.14 ; python_version < \"3.12\"",
+      "dvc-objects[tests] ; extra == 'dev'",
+      "mypy ==1.8.0 ; extra == 'dev'",
+      "pytest <8,>=7 ; extra == 'tests'",
+      "pytest-sugar ; extra == 'tests'",
+      "pytest-cov >=4.1.0 ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "pytest-benchmark ; extra == 'tests'",
+      "pytest-asyncio <1,>=0.23.2 ; extra == 'tests'",
+      "reflink ; extra == 'tests'"
+    ]
+  },
+  "dvc_objects-5.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a53115de7af3b2d80b82df8af658354e1caa6622e7e2af521dc75146bb7d0271",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "funcy"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2024.2.0",
+      "funcy >=1.14 ; python_version < \"3.12\"",
+      "dvc-objects[tests] ; extra == 'dev'",
+      "mypy ==1.8.0 ; extra == 'dev'",
+      "pytest <8,>=7 ; extra == 'tests'",
+      "pytest-sugar ; extra == 'tests'",
+      "pytest-cov >=4.1.0 ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "pytest-benchmark ; extra == 'tests'",
+      "pytest-asyncio <1,>=0.23.2 ; extra == 'tests'",
+      "reflink ; extra == 'tests'"
+    ]
+  },
+  "dvc_objects-4.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a3f8c3f5ef775d54380e48bc6ba3e4340b6397bd6f4de7fb7ab5335423d159d",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "funcy"
+      ]
+    },
+    "original_requirements": [
+      "fsspec >=2024.2.0",
+      "funcy >=1.14 ; python_version < \"3.12\"",
+      "dvc-objects[tests] ; extra == 'dev'",
+      "mypy ==1.8.0 ; extra == 'dev'",
+      "tqdm <5,>=4.63.1 ; extra == 'dev'",
+      "types-tqdm ; extra == 'dev'",
+      "typing-extensions >=3.7.4 ; extra == 'dev'",
+      "pytest <8,>=7 ; extra == 'tests'",
+      "pytest-sugar ; extra == 'tests'",
+      "pytest-cov >=4.1.0 ; extra == 'tests'",
+      "pytest-mock ; extra == 'tests'",
+      "pytest-benchmark ; extra == 'tests'",
+      "pytest-asyncio <1,>=0.23.2 ; extra == 'tests'",
+      "reflink ; extra == 'tests'"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+# Package configuration for addict
+conda_forge = "addict"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "addict-2.4.0-py3-none-any.whl" },
+  { filename = "addict-2.3.0-py3-none-any.whl" },
+  { filename = "addict-2.2.1-py3-none-any.whl" },
+]

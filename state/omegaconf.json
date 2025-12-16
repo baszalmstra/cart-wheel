@@ -1,0 +1,82 @@
+{
+  "omegaconf-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b4df175cdb08ba400f45cae3bdcae7ba8365db4d165fc65fd04b050ab63b46b",
+    "dependencies": {
+      "required": [
+        "antlr4-python3-runtime",
+        "pyyaml",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "antlr4-python3-runtime (==4.9.*)",
+      "PyYAML (>=5.1.0)",
+      "dataclasses ; python_version == \"3.6\""
+    ]
+  },
+  "omegaconf-2.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d6f2cbf79a992899eb76c6cb1aedfcf0fe7456a8654382edd5ee0c1b199c0657",
+    "dependencies": {
+      "required": [
+        "antlr4-python3-runtime",
+        "pyyaml",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "antlr4-python3-runtime (==4.9.*)",
+      "PyYAML (>=5.1.0)",
+      "dataclasses ; python_version == \"3.6\""
+    ]
+  },
+  "omegaconf-2.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "556917181487fb66fe832d3c7b324f51b2f4c8adc373dd5091be921501b7d420",
+    "dependencies": {
+      "required": [
+        "antlr4-python3-runtime",
+        "pyyaml",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "antlr4-python3-runtime (==4.9.*)",
+      "PyYAML (>=5.1.0)",
+      "dataclasses ; python_version == \"3.6\""
+    ]
+  },
+  "omegaconf-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ce512b0a8996b5acddc7b30f6bffa337a4b0ada1d96b4270588365e2a69e6d5",
+    "dependencies": {
+      "required": [
+        "antlr4-python3-runtime",
+        "pyyaml",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "antlr4-python3-runtime (==4.9.*)",
+      "PyYAML (>=5.1.0)",
+      "dataclasses ; python_version == \"3.6\""
+    ]
+  },
+  "omegaconf-2.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ae9cbbc1105991da5301b7a0ac8b960958c311239bb2dfd4e3f5e60d2a51029",
+    "dependencies": {
+      "required": [
+        "antlr4-python3-runtime",
+        "pyyaml",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "antlr4-python3-runtime (==4.8)",
+      "PyYAML (>=5.1.0)",
+      "dataclasses ; python_version == \"3.6\""
+    ]
+  }
+}

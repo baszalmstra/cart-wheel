@@ -1,0 +1,97 @@
+{
+  "sqlalchemy_drill-1.1.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5fb93dc714ce4d9dd376c52896740a6ed621f8b73b779a016baeb8daef8a80f7",
+    "dependencies": {
+      "required": [
+        "requests",
+        "ijson",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "ijson",
+      "sqlalchemy",
+      "JPype1; extra == \"jdbc\"",
+      "JayDeBeApi; extra == \"jdbc\"",
+      "pyodbc; extra == \"odbc\""
+    ]
+  },
+  "sqlalchemy_drill-1.1.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "71881c3cd9fa781781aa52fd9414bc34ba389835dcb7d39c8aa6a057454498e5",
+    "dependencies": {
+      "required": [
+        "requests",
+        "ijson",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "ijson",
+      "sqlalchemy",
+      "JPype1 ; extra == 'jdbc'",
+      "JayDeBeApi ; extra == 'jdbc'",
+      "pyodbc ; extra == 'odbc'"
+    ]
+  },
+  "sqlalchemy_drill-1.1.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74c6525119240a1756bef3d526a2975066be68b7fb26f3dc1b497a5b01e9be80",
+    "dependencies": {
+      "required": [
+        "requests",
+        "ijson",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "ijson",
+      "sqlalchemy",
+      "JPype1 ; extra == 'jdbc'",
+      "JayDeBeApi ; extra == 'jdbc'",
+      "pyodbc ; extra == 'odbc'"
+    ]
+  },
+  "sqlalchemy_drill-1.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2858e19eec746af1381852f4d1efe26e1eb7601a8b360dc3743740d4b532122c",
+    "dependencies": {
+      "required": [
+        "requests",
+        "ijson",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "ijson",
+      "sqlalchemy",
+      "JPype1 ; extra == 'jdbc'",
+      "JayDeBeApi ; extra == 'jdbc'",
+      "pyodbc ; extra == 'odbc'"
+    ]
+  },
+  "sqlalchemy_drill-1.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff6e1d38bde109d5a885d6425bd58e6f09927d9a51804199d0cc4b30128cd094",
+    "dependencies": {
+      "required": [
+        "requests",
+        "ijson",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "ijson",
+      "sqlalchemy",
+      "JPype1 ; extra == 'jdbc'",
+      "JayDeBeApi ; extra == 'jdbc'",
+      "pyodbc ; extra == 'odbc'"
+    ]
+  }
+}

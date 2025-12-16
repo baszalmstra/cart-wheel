@@ -1,0 +1,12 @@
+# Package configuration for websockets
+conda_forge = "websockets"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "websockets-15.0.1-py3-none-any.whl" },
+  { filename = "websockets-15.0-py3-none-any.whl" },
+  { filename = "websockets-14.2-py3-none-any.whl" },
+  { filename = "websockets-14.1-py3-none-any.whl" },
+  { filename = "websockets-14.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for paste
+conda_forge = "paste"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Paste-3.10.1-py3-none-any.whl" },
+  { filename = "Paste-3.10.0-py3-none-any.whl" },
+  { filename = "Paste-3.9.0-py3-none-any.whl" },
+  { filename = "Paste-3.8.0-py3-none-any.whl" },
+  { filename = "Paste-3.7.1-py3-none-any.whl" },
+]

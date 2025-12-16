@@ -1,0 +1,12 @@
+# Package configuration for boto3-stubs
+conda_forge = "boto3-stubs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "boto3_stubs-1.42.9-py3-none-any.whl" },
+  { filename = "boto3_stubs-1.42.8-py3-none-any.whl" },
+  { filename = "boto3_stubs-1.42.7-py3-none-any.whl" },
+  { filename = "boto3_stubs-1.42.6-py3-none-any.whl" },
+  { filename = "boto3_stubs-1.42.5-py3-none-any.whl" },
+]

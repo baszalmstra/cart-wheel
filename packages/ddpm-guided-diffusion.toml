@@ -1,0 +1,7 @@
+# Package configuration for ddpm-guided-diffusion
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ddpm_guided_diffusion-0.1.0-py3-none-any.whl" },
+]

@@ -1,0 +1,56 @@
+{
+  "skope_rules-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c03565989869f26262dc4299b49aca6ae297cbcfccf62eed8d69d5c0c0605798",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scikit-learn",
+        "scipy",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.10.4)",
+      "scikit-learn (>=0.17.1)",
+      "scipy (>=0.17.0)",
+      "pandas (>=0.18.1)"
+    ]
+  },
+  "skope_rules-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ce3d63045de7495e996f5728a71f4e56fbe49d04c8aad6bde18547142f3c2e2",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scikit-learn",
+        "scipy",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.10.4)",
+      "scikit-learn (>=0.17.1)",
+      "scipy (>=0.17.0)",
+      "pandas (>=0.18.1)"
+    ]
+  },
+  "skope_rules-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "34c2fc0e4bfc258635e285418dcbc912d72a4819977be858fd068d5b73f24546",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scikit-learn",
+        "scipy",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.10.4)",
+      "scikit-learn (>=0.17.1)",
+      "scipy (>=0.17.0)",
+      "pandas (>=0.18.1)"
+    ]
+  }
+}

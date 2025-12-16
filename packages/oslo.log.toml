@@ -1,0 +1,11 @@
+# Package configuration for oslo.log
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oslo_log-7.2.1-py3-none-any.whl" },
+  { filename = "oslo_log-7.2.0-py3-none-any.whl" },
+  { filename = "oslo.log-7.1.0-py3-none-any.whl" },
+  { filename = "oslo.log-7.0.0-py3-none-any.whl" },
+  { filename = "oslo.log-6.2.0-py3-none-any.whl" },
+]

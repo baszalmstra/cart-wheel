@@ -1,0 +1,12 @@
+# Package configuration for mdformat-gfm
+conda_forge = "mdformat-gfm"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mdformat_gfm-1.0.0-py3-none-any.whl" },
+  { filename = "mdformat_gfm-0.4.1-py3-none-any.whl" },
+  { filename = "mdformat_gfm-0.3.7-py3-none-any.whl" },
+  { filename = "mdformat_gfm-0.3.6-py3-none-any.whl" },
+  { filename = "mdformat_gfm-0.3.5-py3-none-any.whl" },
+]

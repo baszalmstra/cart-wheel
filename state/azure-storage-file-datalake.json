@@ -1,0 +1,97 @@
+{
+  "azure_storage_file_datalake-12.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dba235d2fa21135205dbcbba884ea5f8a3aff800a8f89205a1a5a404843a1fc5",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-storage-blob",
+        "typing-extensions",
+        "isodate"
+      ]
+    },
+    "original_requirements": [
+      "azure-core>=1.30.0",
+      "azure-storage-blob>=12.27.0",
+      "typing-extensions>=4.6.0",
+      "isodate>=0.6.1",
+      "azure-core[aio]>=1.30.0; extra == \"aio\""
+    ]
+  },
+  "azure_storage_file_datalake-12.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e26ef15adbf8f8b2b84823ae01dfc2e5368a2008878288c1b40f1988176af564",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-storage-blob",
+        "typing-extensions",
+        "isodate"
+      ]
+    },
+    "original_requirements": [
+      "azure-core>=1.30.0",
+      "azure-storage-blob>=12.26.0",
+      "typing-extensions>=4.6.0",
+      "isodate>=0.6.1",
+      "azure-core[aio]>=1.30.0; extra == \"aio\""
+    ]
+  },
+  "azure_storage_file_datalake-12.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d32af627ccf7f8523ac4520a4004291b8ca340d7c607545366e1b08822afa01b",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-storage-blob",
+        "typing-extensions",
+        "isodate"
+      ]
+    },
+    "original_requirements": [
+      "azure-core>=1.30.0",
+      "azure-storage-blob>=12.25.1",
+      "typing-extensions>=4.6.0",
+      "isodate>=0.6.1",
+      "azure-core[aio]>=1.30.0; extra == \"aio\""
+    ]
+  },
+  "azure_storage_file_datalake-12.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b8b2c3cac8e260786a7610689dd51da7b268e7b0620e765d7d449dada5b081b5",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-storage-blob",
+        "typing-extensions",
+        "isodate"
+      ]
+    },
+    "original_requirements": [
+      "azure-core >=1.30.0",
+      "azure-storage-blob >=12.25.0",
+      "typing-extensions >=4.6.0",
+      "isodate >=0.6.1",
+      "azure-core[aio] >=1.30.0 ; extra == 'aio'"
+    ]
+  },
+  "azure_storage_file_datalake-12.18.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "02e9d2a38df26ece5874846209c6d45fe664e3e129ade223742826501ab17b72",
+    "dependencies": {
+      "required": [
+        "azure-core",
+        "azure-storage-blob",
+        "typing-extensions",
+        "isodate"
+      ]
+    },
+    "original_requirements": [
+      "azure-core >=1.30.0",
+      "azure-storage-blob >=12.24.1",
+      "typing-extensions >=4.6.0",
+      "isodate >=0.6.1",
+      "azure-core[aio] >=1.30.0 ; extra == 'aio'"
+    ]
+  }
+}

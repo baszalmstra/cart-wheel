@@ -1,0 +1,211 @@
+{
+  "arviz-0.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "336a3a4b1aa981997945f9ca104ca9f827e9c943f13760b18bf645ee5b12d56d",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "matplotlib",
+        "numpy",
+        "scipy",
+        "packaging",
+        "pandas",
+        "xarray",
+        "h5netcdf",
+        "typing-extensions",
+        "xarray-einstats"
+      ]
+    },
+    "original_requirements": [
+      "setuptools>=60.0.0",
+      "matplotlib>=3.8",
+      "numpy>=1.26.0",
+      "scipy>=1.11.0",
+      "packaging",
+      "pandas>=2.1.0",
+      "xarray>=2023.7.0",
+      "h5netcdf>=1.0.2",
+      "typing-extensions>=4.1.0",
+      "xarray-einstats>=0.3",
+      "numba; extra == \"all\"",
+      "netcdf4; extra == \"all\"",
+      "bokeh>=3; extra == \"all\"",
+      "contourpy; extra == \"all\"",
+      "ujson; extra == \"all\"",
+      "dask[distributed]; extra == \"all\"",
+      "zarr<3,>=2.5.0; extra == \"all\"",
+      "xarray>=2024.11.0; extra == \"all\"",
+      "dm-tree>=0.1.8; extra == \"all\"",
+      "arviz-base[h5netcdf]; extra == \"preview\"",
+      "arviz-stats[xarray]; extra == \"preview\"",
+      "arviz-plots; extra == \"preview\""
+    ]
+  },
+  "arviz-0.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fee1008af6d10c35dbd6b3335569d46a685d87be1b23e17f1fd0ef673aae5623",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "matplotlib",
+        "numpy",
+        "scipy",
+        "packaging",
+        "pandas",
+        "xarray",
+        "h5netcdf",
+        "typing-extensions",
+        "xarray-einstats"
+      ]
+    },
+    "original_requirements": [
+      "setuptools>=60.0.0",
+      "matplotlib>=3.5",
+      "numpy>=1.23.0",
+      "scipy>=1.9.0",
+      "packaging",
+      "pandas>=1.5.0",
+      "xarray>=2022.6.0",
+      "h5netcdf>=1.0.2",
+      "typing-extensions>=4.1.0",
+      "xarray-einstats>=0.3",
+      "numba; extra == \"all\"",
+      "netcdf4; extra == \"all\"",
+      "bokeh>=3; extra == \"all\"",
+      "contourpy; extra == \"all\"",
+      "ujson; extra == \"all\"",
+      "dask[distributed]; extra == \"all\"",
+      "zarr<3,>=2.5.0; extra == \"all\"",
+      "xarray-datatree; extra == \"all\"",
+      "dm-tree>=0.1.8; extra == \"all\"",
+      "arviz-base[h5netcdf]; extra == \"preview\"",
+      "arviz-stats[xarray]; extra == \"preview\"",
+      "arviz-plots; extra == \"preview\""
+    ]
+  },
+  "arviz-0.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ec4f2ec180a8305ff3d1108c29e189944ab939663eb5bc3231ff199a1a5dc36",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "matplotlib",
+        "numpy",
+        "scipy",
+        "packaging",
+        "pandas",
+        "xarray",
+        "h5netcdf",
+        "typing-extensions",
+        "xarray-einstats"
+      ]
+    },
+    "original_requirements": [
+      "setuptools>=60.0.0",
+      "matplotlib>=3.5",
+      "numpy>=1.23.0",
+      "scipy>=1.9.0",
+      "packaging",
+      "pandas>=1.5.0",
+      "xarray>=2022.6.0",
+      "h5netcdf>=1.0.2",
+      "typing-extensions>=4.1.0",
+      "xarray-einstats>=0.3",
+      "numba; extra == \"all\"",
+      "netcdf4; extra == \"all\"",
+      "bokeh>=3; extra == \"all\"",
+      "contourpy; extra == \"all\"",
+      "ujson; extra == \"all\"",
+      "dask[distributed]; extra == \"all\"",
+      "zarr<3,>=2.5.0; extra == \"all\"",
+      "xarray-datatree; extra == \"all\"",
+      "dm-tree>=0.1.8; extra == \"all\"",
+      "arviz-base[h5netcdf]; extra == \"preview\"",
+      "arviz-stats[xarray]; extra == \"preview\"",
+      "arviz-plots; extra == \"preview\""
+    ]
+  },
+  "arviz-0.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "652e739f1931b898922ebe9a9dd393840a0f3f7b803b606938edadc9c263a5bc",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "matplotlib",
+        "numpy",
+        "scipy",
+        "packaging",
+        "pandas",
+        "dm-tree",
+        "xarray",
+        "h5netcdf",
+        "typing-extensions",
+        "xarray-einstats"
+      ]
+    },
+    "original_requirements": [
+      "setuptools >=60.0.0",
+      "matplotlib >=3.5",
+      "numpy >=1.23.0",
+      "scipy >=1.9.0",
+      "packaging",
+      "pandas >=1.5.0",
+      "dm-tree >=0.1.8",
+      "xarray >=2022.6.0",
+      "h5netcdf >=1.0.2",
+      "typing-extensions >=4.1.0",
+      "xarray-einstats >=0.3",
+      "numba ; extra == 'all'",
+      "netcdf4 ; extra == 'all'",
+      "bokeh >=3 ; extra == 'all'",
+      "contourpy ; extra == 'all'",
+      "ujson ; extra == 'all'",
+      "dask[distributed] ; extra == 'all'",
+      "zarr <3,>=2.5.0 ; extra == 'all'",
+      "xarray-datatree ; extra == 'all'",
+      "arviz-base[h5netcdf] ; extra == 'preview'",
+      "arviz-stats[xarray] ; extra == 'preview'",
+      "arviz-plots ; extra == 'preview'"
+    ]
+  },
+  "arviz-0.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6eaaaffff4fb90ed49bf5305c171e5c6848b2b18cc5db1537319d8fb67c4e8f5",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "matplotlib",
+        "numpy",
+        "scipy",
+        "packaging",
+        "pandas",
+        "dm-tree",
+        "xarray",
+        "h5netcdf",
+        "typing-extensions",
+        "xarray-einstats"
+      ]
+    },
+    "original_requirements": [
+      "setuptools >=60.0.0",
+      "matplotlib >=3.5",
+      "numpy <2.0,>=1.23.0",
+      "scipy >=1.9.0",
+      "packaging",
+      "pandas >=1.5.0",
+      "dm-tree >=0.1.8",
+      "xarray >=2022.6.0",
+      "h5netcdf >=1.0.2",
+      "typing-extensions >=4.1.0",
+      "xarray-einstats >=0.3",
+      "numba ; extra == 'all'",
+      "netcdf4 ; extra == 'all'",
+      "bokeh <3.0,>=1.4.0 ; extra == 'all'",
+      "contourpy ; extra == 'all'",
+      "ujson ; extra == 'all'",
+      "dask[distributed] ; extra == 'all'",
+      "zarr >=2.5.0 ; extra == 'all'",
+      "xarray-datatree ; extra == 'all'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for ansible-lint
+conda_forge = "ansible-lint"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ansible_lint-25.12.1-py3-none-any.whl" },
+  { filename = "ansible_lint-25.12.0-py3-none-any.whl" },
+  { filename = "ansible_lint-25.11.1-py3-none-any.whl" },
+  { filename = "ansible_lint-25.11.0-py3-none-any.whl" },
+  { filename = "ansible_lint-25.9.2-py3-none-any.whl" },
+]

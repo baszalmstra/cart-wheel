@@ -1,0 +1,10 @@
+# Package configuration for cowsay
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cowsay-6.1-py3-none-any.whl" },
+  { filename = "cowsay-6.0-py2.py3-none-any.whl" },
+  { filename = "cowsay-4.0-py2.py3-none-any.whl" },
+  { filename = "cowsay-3.0-py2.py3-none-any.whl" },
+]

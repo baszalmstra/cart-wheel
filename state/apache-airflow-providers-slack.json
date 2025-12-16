@@ -1,0 +1,100 @@
+{
+  "apache_airflow_providers_slack-9.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65fd0f863be8fd4e69e3b0f9470b4f7a1861663bf0d96bc9b5ac441e39abc039",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "slack-sdk",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "slack-sdk>=3.36.0",
+      "asgiref>=2.3.0"
+    ]
+  },
+  "apache_airflow_providers_slack-9.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e03ab7c473c818a8c7bd81839afa1fb4c00032d33eb3847123c9f90cd2720ec",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "slack-sdk",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.0",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "slack-sdk>=3.36.0",
+      "asgiref>=2.3.0"
+    ]
+  },
+  "apache_airflow_providers_slack-9.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a25adbd4cb2688b0edea034898ea8939b15c79465fe3f4f1fe58ac42433de788",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "slack-sdk",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.9.0",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "slack-sdk>=3.36.0",
+      "asgiref>=2.3.0"
+    ]
+  },
+  "apache_airflow_providers_slack-9.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aebfcb02c8adf8b4930968dae3db4ce6929dc5e21f6734b41924379bd4876221",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "slack-sdk",
+        "asgiref"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "slack-sdk>=3.36.0",
+      "asgiref>=2.3.0"
+    ]
+  },
+  "apache_airflow_providers_slack-9.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e0eb3c13f94cba0da53da58e21bcbaa0a0eec63f575e00ad231e2705a4c51fd",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "slack-sdk"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "slack-sdk>=3.36.0"
+    ]
+  }
+}

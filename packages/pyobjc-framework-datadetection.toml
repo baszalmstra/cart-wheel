@@ -1,0 +1,11 @@
+# Package configuration for pyobjc-framework-datadetection
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyobjc_framework_datadetection-12.1-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_datadetection-12.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_datadetection-11.1-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_DataDetection-11.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_DataDetection-10.3.2-py2.py3-none-any.whl" },
+]

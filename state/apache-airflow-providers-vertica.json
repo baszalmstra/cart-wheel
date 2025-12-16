@@ -1,0 +1,82 @@
+{
+  "apache_airflow_providers_vertica-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8f7157b15483dbc69c7dea3b474db2c84eb58cf9f6385a278c860d61ef4cf826",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "vertica-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "vertica-python>=1.3.0"
+    ]
+  },
+  "apache_airflow_providers_vertica-4.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d7458bd94bab63f28a7731f77b06e1ec577145c182de5732730d451b8a0ed7f",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "vertica-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "vertica-python>=1.3.0"
+    ]
+  },
+  "apache_airflow_providers_vertica-4.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a7cbe88079b786f29ca07b23aa6e2d4f88eca45040a10dd18280126865bf260",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "vertica-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "vertica-python>=1.3.0"
+    ]
+  },
+  "apache_airflow_providers_vertica-4.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0639775d06ca4b1041fc102cedaca6b4a8d0a266fc67eee80101421cf01d70c1",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "vertica-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "vertica-python>=1.3.0"
+    ]
+  },
+  "apache_airflow_providers_vertica-4.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eb995760807b6deb633e714c5c82b44b085c091c4b4909e0552581b3c759189e",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "vertica-python"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "vertica-python>=0.6.0"
+    ]
+  }
+}

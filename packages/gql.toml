@@ -1,0 +1,12 @@
+# Package configuration for gql
+conda_forge = "gql"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gql-4.0.0-py3-none-any.whl" },
+  { filename = "gql-3.5.3-py2.py3-none-any.whl" },
+  { filename = "gql-3.5.2-py2.py3-none-any.whl" },
+  { filename = "gql-3.5.1-py2.py3-none-any.whl" },
+  { filename = "gql-3.5.0-py2.py3-none-any.whl" },
+]

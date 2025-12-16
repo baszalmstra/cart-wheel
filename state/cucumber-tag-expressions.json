@@ -1,0 +1,124 @@
+{
+  "cucumber_tag_expressions-8.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1de26f183b1e8748e881189edd4bcdf4a80d7ed1011ad7b38cf141fcdcc51094",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "cucumber_tag_expressions-8.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bfe552226f62a4462ee91c9643582f524af84ac84952643fb09057580cbb110a",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "cucumber_tag_expressions-7.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c95ee130c0f28b356f8a92495481383e1bf8ebcdb761e0ce72826f905fbd9c9f",
+    "dependencies": {
+      "required": [
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "enum34; python_version < \"3.4\"",
+      "setuptools; extra == \"develop\"",
+      "setuptools-scm; extra == \"develop\"",
+      "wheel; extra == \"develop\"",
+      "build>=0.5.1; extra == \"develop\"",
+      "twine>=1.13.0; extra == \"develop\"",
+      "coverage; extra == \"develop\"",
+      "pytest<8.5; python_version < \"3.0\" and extra == \"develop\"",
+      "pytest>=5.0; python_version >= \"3.0\" and extra == \"develop\"",
+      "pytest-html>=1.19.0; extra == \"develop\"",
+      "tox<4.31,>=4.30; extra == \"develop\"",
+      "pylint; extra == \"develop\"",
+      "ruff; extra == \"develop\"",
+      "invoke>=1.7.3; extra == \"develop\"",
+      "six>=1.16.0; extra == \"develop\"",
+      "path>=13.1.0; python_version >= \"3.5\" and extra == \"develop\"",
+      "path.py>=11.5.0; python_version < \"3.5\" and extra == \"develop\"",
+      "pathlib; python_version <= \"3.4\" and extra == \"develop\"",
+      "backports.shutil_which; python_version <= \"3.3\" and extra == \"develop\"",
+      "pycmd; extra == \"develop\"",
+      "pytest<8.5; python_version < \"3.0\" and extra == \"testing\"",
+      "pytest>=5.0; python_version >= \"3.0\" and extra == \"testing\"",
+      "pytest-html>=1.19.0; extra == \"testing\"",
+      "PyYAML>=5.4.1; extra == \"testing\"",
+      "pathlib; python_version <= \"3.4\" and extra == \"testing\""
+    ]
+  },
+  "cucumber_tag_expressions-6.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f94404b656831c56a3815da5305ac097003884d2ae64fa51f5f4fad82d97e583",
+    "dependencies": {
+      "required": [
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "enum34; python_version < \"3.4\"",
+      "setuptools; extra == \"develop\"",
+      "setuptools-scm; extra == \"develop\"",
+      "wheel; extra == \"develop\"",
+      "build>=0.5.1; extra == \"develop\"",
+      "twine>=1.13.0; extra == \"develop\"",
+      "coverage; extra == \"develop\"",
+      "pytest<5.0; python_version < \"3.0\" and extra == \"develop\"",
+      "pytest>=5.0; python_version >= \"3.0\" and extra == \"develop\"",
+      "pytest-html>=1.19.0; extra == \"develop\"",
+      "tox<4.27,>=4.26; extra == \"develop\"",
+      "pylint; extra == \"develop\"",
+      "ruff; extra == \"develop\"",
+      "invoke>=1.7.3; extra == \"develop\"",
+      "six>=1.16.0; extra == \"develop\"",
+      "path>=13.1.0; python_version >= \"3.5\" and extra == \"develop\"",
+      "path.py>=11.5.0; python_version < \"3.5\" and extra == \"develop\"",
+      "pathlib; python_version <= \"3.4\" and extra == \"develop\"",
+      "backports.shutil_which; python_version <= \"3.3\" and extra == \"develop\"",
+      "pycmd; extra == \"develop\"",
+      "pytest<5.0; python_version < \"3.0\" and extra == \"testing\"",
+      "pytest>=5.0; python_version >= \"3.0\" and extra == \"testing\"",
+      "pytest-html>=1.19.0; extra == \"testing\"",
+      "PyYAML>=5.4.1; extra == \"testing\"",
+      "pathlib; python_version <= \"3.4\" and extra == \"testing\""
+    ]
+  },
+  "cucumber_tag_expressions-6.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58e7aff9d93f319661e24f080e02e795269b79932a787138ae6647358adb24e3",
+    "dependencies": {
+      "required": [
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "enum34; python_version < \"3.4\"",
+      "setuptools; extra == \"develop\"",
+      "setuptools-scm; extra == \"develop\"",
+      "wheel; extra == \"develop\"",
+      "build>=0.5.1; extra == \"develop\"",
+      "twine>=1.13.0; extra == \"develop\"",
+      "coverage; extra == \"develop\"",
+      "pytest<5.0; python_version < \"3.0\" and extra == \"develop\"",
+      "pytest>=5.0; python_version >= \"3.0\" and extra == \"develop\"",
+      "pytest-html>=1.19.0; extra == \"develop\"",
+      "tox<4.25,>=4.24; extra == \"develop\"",
+      "pylint; extra == \"develop\"",
+      "ruff; extra == \"develop\"",
+      "invoke>=1.7.3; extra == \"develop\"",
+      "six>=1.16.0; extra == \"develop\"",
+      "path>=13.1.0; python_version >= \"3.5\" and extra == \"develop\"",
+      "path.py>=11.5.0; python_version < \"3.5\" and extra == \"develop\"",
+      "pathlib; python_version <= \"3.4\" and extra == \"develop\"",
+      "backports.shutil_which; python_version <= \"3.3\" and extra == \"develop\"",
+      "pycmd; extra == \"develop\"",
+      "pytest<5.0; python_version < \"3.0\" and extra == \"testing\"",
+      "pytest>=5.0; python_version >= \"3.0\" and extra == \"testing\"",
+      "pytest-html>=1.19.0; extra == \"testing\"",
+      "PyYAML>=5.4.1; extra == \"testing\"",
+      "pathlib; python_version <= \"3.4\" and extra == \"testing\""
+    ]
+  }
+}

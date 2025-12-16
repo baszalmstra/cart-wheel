@@ -1,0 +1,9 @@
+# Package configuration for packaging-legacy
+conda_forge = "packaging-legacy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "packaging_legacy-23.0.post0-py3-none-any.whl" },
+  { filename = "packaging_legacy-23.0-py3-none-any.whl" },
+]

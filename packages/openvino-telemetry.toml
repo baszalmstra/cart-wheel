@@ -1,0 +1,12 @@
+# Package configuration for openvino-telemetry
+conda_forge = "openvino-telemetry"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openvino_telemetry-2025.2.0-py3-none-any.whl" },
+  { filename = "openvino_telemetry-2025.1.0-py3-none-any.whl" },
+  { filename = "openvino_telemetry-2025.0.1-py3-none-any.whl" },
+  { filename = "openvino_telemetry-2025.0.0-py3-none-any.whl" },
+  { filename = "openvino_telemetry-2024.5.0-py3-none-any.whl" },
+]

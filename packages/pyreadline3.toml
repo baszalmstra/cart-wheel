@@ -1,0 +1,12 @@
+# Package configuration for pyreadline3
+conda_forge = "pyreadline3"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyreadline3-3.5.4-py3-none-any.whl" },
+  { filename = "pyreadline3-3.5.3-py3-none-any.whl" },
+  { filename = "pyreadline3-3.5.2-py3-none-any.whl" },
+  { filename = "pyreadline3-3.5.1-py3-none-any.whl" },
+  { filename = "pyreadline3-3.5.0-py3-none-any.whl" },
+]

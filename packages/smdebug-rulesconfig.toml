@@ -1,0 +1,12 @@
+# Package configuration for smdebug-rulesconfig
+conda_forge = "smdebug-rulesconfig"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "smdebug_rulesconfig-1.0.1-py2.py3-none-any.whl" },
+  { filename = "smdebug_rulesconfig-1.0.0-py3-none-any.whl" },
+  { filename = "smdebug_rulesconfig-0.1.7-py2.py3-none-any.whl" },
+  { filename = "smdebug_rulesconfig-0.1.6-py2.py3-none-any.whl" },
+  { filename = "smdebug_rulesconfig-0.1.5-py2.py3-none-any.whl" },
+]

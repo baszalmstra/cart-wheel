@@ -1,0 +1,12 @@
+# Package configuration for pystoi
+conda_forge = "pystoi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pystoi-0.4.1-py2.py3-none-any.whl" },
+  { filename = "pystoi-0.4.0-py2.py3-none-any.whl" },
+  { filename = "pystoi-0.2.2-py2.py3-none-any.whl" },
+  { filename = "pystoi-0.2.1-py2.py3-none-any.whl" },
+  { filename = "pystoi-0.2.0-py2.py3-none-any.whl" },
+]

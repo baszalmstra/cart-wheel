@@ -1,0 +1,12 @@
+# Package configuration for python-levenshtein
+conda_forge = "python-levenshtein"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_levenshtein-0.27.3-py3-none-any.whl" },
+  { filename = "python_levenshtein-0.27.1-py3-none-any.whl" },
+  { filename = "python_Levenshtein-0.26.1-py3-none-any.whl" },
+  { filename = "python_Levenshtein-0.26.0-py3-none-any.whl" },
+  { filename = "python_Levenshtein-0.25.1-py3-none-any.whl" },
+]

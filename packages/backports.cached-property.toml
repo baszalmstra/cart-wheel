@@ -1,0 +1,11 @@
+# Package configuration for backports.cached-property
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "backports.cached_property-1.0.2-py3-none-any.whl" },
+  { filename = "backports.cached_property-1.0.1-py3-none-any.whl" },
+  { filename = "backports.cached_property-1.0.0.post2-py3-none-any.whl" },
+  { filename = "backports.cached_property-1.0.0.post1-py3-none-any.whl" },
+  { filename = "backports.cached_property-1.0.0.post0-py3-none-any.whl" },
+]

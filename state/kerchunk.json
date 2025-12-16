@@ -1,0 +1,206 @@
+{
+  "kerchunk-0.2.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5f7ff385ace07c62bd0ae5db639cac8b441169fea2389bb006fd209549f699c2",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "numcodecs",
+        "numpy",
+        "ujson",
+        "zarr"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=2025.2.0",
+      "numcodecs",
+      "numpy",
+      "ujson",
+      "zarr>=3.0.1",
+      "cftime; extra == \"cftime\"",
+      "xarray; extra == \"fits\"",
+      "h5py; extra == \"hdf\"",
+      "xarray; extra == \"hdf\"",
+      "cfgrib; extra == \"grib2\"",
+      "scipy; extra == \"netcdf3\"",
+      "cftime; extra == \"dev\"",
+      "dask; extra == \"dev\"",
+      "fastparquet>=2024.11.0; extra == \"dev\"",
+      "h5netcdf; extra == \"dev\"",
+      "h5py; extra == \"dev\"",
+      "jinja2; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "s3fs; extra == \"dev\"",
+      "gcsfs; extra == \"dev\"",
+      "types-ujson; extra == \"dev\"",
+      "xarray>=2024.10.0; extra == \"dev\"",
+      "cfgrib; extra == \"dev\"",
+      "scipy; extra == \"dev\"",
+      "netcdf4; extra == \"dev\"",
+      "pytest-subtests; extra == \"dev\""
+    ]
+  },
+  "kerchunk-0.2.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9174d4febcb53521849f3d00193e76d51470c706f622a202aa427cdff7efacdd",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "numcodecs",
+        "numpy",
+        "ujson",
+        "zarr"
+      ]
+    },
+    "original_requirements": [
+      "fsspec",
+      "numcodecs",
+      "numpy",
+      "ujson",
+      "zarr>=3.0.1",
+      "cftime; extra == \"cftime\"",
+      "xarray; extra == \"fits\"",
+      "h5py; extra == \"hdf\"",
+      "xarray; extra == \"hdf\"",
+      "cfgrib; extra == \"grib2\"",
+      "scipy; extra == \"netcdf3\"",
+      "cftime; extra == \"dev\"",
+      "dask; extra == \"dev\"",
+      "fastparquet>=2024.11.0; extra == \"dev\"",
+      "h5netcdf; extra == \"dev\"",
+      "h5py; extra == \"dev\"",
+      "jinja2; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "s3fs; extra == \"dev\"",
+      "gcsfs; extra == \"dev\"",
+      "types-ujson; extra == \"dev\"",
+      "xarray>=2024.10.0; extra == \"dev\"",
+      "cfgrib; extra == \"dev\"",
+      "scipy; extra == \"dev\"",
+      "netcdf4; extra == \"dev\"",
+      "pytest-subtests; extra == \"dev\""
+    ]
+  },
+  "kerchunk-0.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c0b4f721d0d6fef93fb5ffd3e0906d7a776bb19fb8347c02449899972c9b48c",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "numcodecs",
+        "numpy",
+        "ujson",
+        "zarr"
+      ]
+    },
+    "original_requirements": [
+      "fsspec",
+      "numcodecs",
+      "numpy",
+      "ujson",
+      "zarr <3",
+      "cftime ; extra == 'cftime'",
+      "cftime ; extra == 'dev'",
+      "dask ; extra == 'dev'",
+      "fastparquet ; extra == 'dev'",
+      "h5netcdf ; extra == 'dev'",
+      "h5py ; extra == 'dev'",
+      "jinja2 ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "s3fs ; extra == 'dev'",
+      "types-ujson ; extra == 'dev'",
+      "xarray >=2024.10.0 ; extra == 'dev'",
+      "cfgrib ; extra == 'dev'",
+      "scipy ; extra == 'dev'",
+      "netcdf4 ; extra == 'dev'",
+      "xarray ; extra == 'fits'",
+      "cfgrib ; extra == 'grib2'",
+      "h5py ; extra == 'hdf'",
+      "xarray ; extra == 'hdf'",
+      "scipy ; extra == 'netcdf3'"
+    ]
+  },
+  "kerchunk-0.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dc55fcea6560688ffc2390ff5882847fdf736982c1817553632a2bd7eb59de73",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "numcodecs",
+        "numpy",
+        "ujson",
+        "zarr"
+      ]
+    },
+    "original_requirements": [
+      "fsspec",
+      "numcodecs",
+      "numpy",
+      "ujson",
+      "zarr",
+      "cftime ; extra == 'cftime'",
+      "cftime ; extra == 'dev'",
+      "dask ; extra == 'dev'",
+      "h5netcdf ; extra == 'dev'",
+      "h5py ; extra == 'dev'",
+      "jinja2 ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "s3fs ; extra == 'dev'",
+      "types-ujson ; extra == 'dev'",
+      "xarray ; extra == 'dev'",
+      "xarray-datatree ; extra == 'dev'",
+      "cfgrib ; extra == 'dev'",
+      "scipy ; extra == 'dev'",
+      "netcdf4 ; extra == 'dev'",
+      "xarray ; extra == 'fits'",
+      "cfgrib ; extra == 'grib2'",
+      "h5py ; extra == 'hdf'",
+      "xarray ; extra == 'hdf'",
+      "scipy ; extra == 'netcdf3'"
+    ]
+  },
+  "kerchunk-0.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6d850b819af2d7c3f1a95a6d430ca8e13b2dcc5e7f799e346cebea64e5d36d0c",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "numcodecs",
+        "numpy",
+        "ujson",
+        "zarr"
+      ]
+    },
+    "original_requirements": [
+      "fsspec",
+      "numcodecs",
+      "numpy",
+      "ujson",
+      "zarr",
+      "cftime ; extra == 'cftime'",
+      "cftime ; extra == 'dev'",
+      "dask ; extra == 'dev'",
+      "h5netcdf ; extra == 'dev'",
+      "h5py ; extra == 'dev'",
+      "jinja2 ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "s3fs ; extra == 'dev'",
+      "types-ujson ; extra == 'dev'",
+      "xarray ; extra == 'dev'",
+      "xarray-datatree ; extra == 'dev'",
+      "cfgrib ; extra == 'dev'",
+      "scipy ; extra == 'dev'",
+      "netcdf4 ; extra == 'dev'",
+      "xarray ; extra == 'fits'",
+      "cfgrib ; extra == 'grib2'",
+      "h5py ; extra == 'hdf'",
+      "xarray ; extra == 'hdf'",
+      "scipy ; extra == 'netcdf3'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for h11
+conda_forge = "h11"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "h11-0.16.0-py3-none-any.whl" },
+  { filename = "h11-0.15.0-py3-none-any.whl" },
+  { filename = "h11-0.14.0-py3-none-any.whl" },
+  { filename = "h11-0.13.0-py3-none-any.whl" },
+  { filename = "h11-0.12.0-py3-none-any.whl" },
+]

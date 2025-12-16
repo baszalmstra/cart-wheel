@@ -1,0 +1,102 @@
+{
+  "parsel-1.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6a0c28bd81f9df34ba665884c88efa0b18b8d2c44c81f64e27f2f0cb37d46169",
+    "dependencies": {
+      "required": [
+        "cssselect",
+        "jmespath",
+        "lxml",
+        "packaging",
+        "w3lib"
+      ]
+    },
+    "original_requirements": [
+      "cssselect>=1.2.0",
+      "jmespath",
+      "lxml",
+      "packaging",
+      "w3lib>=1.19.0"
+    ]
+  },
+  "parsel-1.9.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4a777ee6c3ff5e39652b58e351c5cf02c12ff420d05b07a7966aebb68ab1700",
+    "dependencies": {
+      "required": [
+        "cssselect",
+        "jmespath",
+        "lxml",
+        "packaging",
+        "w3lib"
+      ]
+    },
+    "original_requirements": [
+      "cssselect >=1.2.0",
+      "jmespath",
+      "lxml",
+      "packaging",
+      "w3lib >=1.19.0"
+    ]
+  },
+  "parsel-1.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1272baeda331cbc7f3a9a91df4c15c39276dc94b4ff2e8d5cffdf8bb6c382ea1",
+    "dependencies": {
+      "required": [
+        "cssselect",
+        "jmespath",
+        "lxml",
+        "packaging",
+        "w3lib"
+      ]
+    },
+    "original_requirements": [
+      "cssselect >=1.2.0",
+      "jmespath",
+      "lxml",
+      "packaging",
+      "w3lib >=1.19.0"
+    ]
+  },
+  "parsel-1.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2708fc74daeeb4ce471e2c2e9089b650ec940c7a218053e57421e69b5b00f82c",
+    "dependencies": {
+      "required": [
+        "cssselect",
+        "jmespath",
+        "lxml",
+        "packaging",
+        "w3lib",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "cssselect (>=0.9)",
+      "jmespath",
+      "lxml",
+      "packaging",
+      "w3lib (>=1.19.0)",
+      "typing-extensions ; python_version < \"3.8\""
+    ]
+  },
+  "parsel-1.7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80ba5797b2a4968cdcdbd51c355e596f4441d0acd7f6d70f63a9e441e7fe45df",
+    "dependencies": {
+      "required": [
+        "cssselect",
+        "lxml",
+        "packaging",
+        "w3lib"
+      ]
+    },
+    "original_requirements": [
+      "cssselect (>=0.9)",
+      "lxml",
+      "packaging",
+      "w3lib (>=1.19.0)"
+    ]
+  }
+}

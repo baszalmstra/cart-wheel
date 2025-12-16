@@ -1,0 +1,10 @@
+# Package configuration for proglog
+conda_forge = "proglog"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "proglog-0.1.12-py3-none-any.whl" },
+  { filename = "proglog-0.1.11-py3-none-any.whl" },
+  { filename = "proglog-0.1.10-py3-none-any.whl" },
+]

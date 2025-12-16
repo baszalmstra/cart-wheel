@@ -1,0 +1,40 @@
+{
+  "notedown-1.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82c5aeebe8c9f56c39ca4dd66c3b0fdfcc12874fda5a3e955004314b3ed879ac",
+    "dependencies": {
+      "required": [
+        "nbconvert",
+        "nbformat",
+        "pandoc-attributes",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "nbconvert",
+      "nbformat",
+      "pandoc-attributes",
+      "six"
+    ]
+  },
+  "notedown-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c1bb1707fc032bfaa4c9f81649085b2e99a09ab5f4274878140d2b00e93015c",
+    "dependencies": {
+      "required": [
+        "ipython",
+        "nbconvert",
+        "nbformat",
+        "pandoc-attributes",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "ipython",
+      "nbconvert",
+      "nbformat",
+      "pandoc-attributes",
+      "six"
+    ]
+  }
+}

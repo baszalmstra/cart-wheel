@@ -1,0 +1,12 @@
+# Package configuration for jupyterlab-widgets
+conda_forge = "jupyterlab_widgets"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jupyterlab_widgets-3.0.16-py3-none-any.whl" },
+  { filename = "jupyterlab_widgets-3.0.15-py3-none-any.whl" },
+  { filename = "jupyterlab_widgets-3.0.14-py3-none-any.whl" },
+  { filename = "jupyterlab_widgets-3.0.13-py3-none-any.whl" },
+  { filename = "jupyterlab_widgets-3.0.12-py3-none-any.whl" },
+]

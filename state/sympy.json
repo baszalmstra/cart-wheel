@@ -1,0 +1,72 @@
+{
+  "sympy-1.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e091cc3e99d2141a0ba2847328f5479b05d94a6635cb96148ccb3f34671bd8f5",
+    "dependencies": {
+      "required": [
+        "mpmath"
+      ]
+    },
+    "original_requirements": [
+      "mpmath<1.4,>=1.1.0",
+      "pytest>=7.1.0; extra == \"dev\"",
+      "hypothesis>=6.70.0; extra == \"dev\""
+    ]
+  },
+  "sympy-1.13.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "54612cf55a62755ee71824ce692986f23c88ffa77207b30c1368eda4a7060f73",
+    "dependencies": {
+      "required": [
+        "mpmath"
+      ]
+    },
+    "original_requirements": [
+      "mpmath <1.4,>=1.1.0",
+      "pytest >=7.1.0 ; extra == 'dev'",
+      "hypothesis >=6.70.0 ; extra == 'dev'"
+    ]
+  },
+  "sympy-1.13.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c51d75517712f1aed280d4ce58506a4a88d635d6b5dd48b39102a7ae1f3fcfe9",
+    "dependencies": {
+      "required": [
+        "mpmath"
+      ]
+    },
+    "original_requirements": [
+      "mpmath <1.4,>=1.1.0",
+      "pytest >=7.1.0 ; extra == 'dev'",
+      "hypothesis >=6.70.0 ; extra == 'dev'"
+    ]
+  },
+  "sympy-1.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db36cdc64bf61b9b24578b6f7bab1ecdd2452cf008f34faa33776680c26d66f8",
+    "dependencies": {
+      "required": [
+        "mpmath"
+      ]
+    },
+    "original_requirements": [
+      "mpmath <1.4,>=1.1.0",
+      "pytest >=7.1.0 ; extra == 'dev'",
+      "hypothesis >=6.70.0 ; extra == 'dev'"
+    ]
+  },
+  "sympy-1.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b0b32a4673fb91bd3cac3b55406c8e01d53ae22780be467301cc452f6680c92",
+    "dependencies": {
+      "required": [
+        "mpmath"
+      ]
+    },
+    "original_requirements": [
+      "mpmath <1.4,>=1.1.0",
+      "pytest >=7.1.0 ; extra == 'dev'",
+      "hypothesis >=6.70.0 ; extra == 'dev'"
+    ]
+  }
+}

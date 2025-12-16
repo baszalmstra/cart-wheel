@@ -1,0 +1,12 @@
+# Package configuration for plyfile
+conda_forge = "plyfile"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "plyfile-1.1.3-py3-none-any.whl" },
+  { filename = "plyfile-1.1.2-py3-none-any.whl" },
+  { filename = "plyfile-1.1.1-py3-none-any.whl" },
+  { filename = "plyfile-1.1-py3-none-any.whl" },
+  { filename = "plyfile-1.0.3-py3-none-any.whl" },
+]

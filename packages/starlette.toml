@@ -1,0 +1,12 @@
+# Package configuration for starlette
+conda_forge = "starlette"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "starlette-0.50.0-py3-none-any.whl" },
+  { filename = "starlette-0.49.3-py3-none-any.whl" },
+  { filename = "starlette-0.49.2-py3-none-any.whl" },
+  { filename = "starlette-0.49.1-py3-none-any.whl" },
+  { filename = "starlette-0.49.0-py3-none-any.whl" },
+]

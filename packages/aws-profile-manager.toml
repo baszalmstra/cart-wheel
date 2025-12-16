@@ -1,0 +1,11 @@
+# Package configuration for aws-profile-manager
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_profile_manager-0.7.3-py3-none-any.whl" },
+  { filename = "aws_profile_manager-0.7.2-py3-none-any.whl" },
+  { filename = "aws_profile_manager-0.7.1-py3-none-any.whl" },
+  { filename = "aws_profile_manager-0.7.0-py3-none-any.whl" },
+  { filename = "aws_profile_manager-0.6.1-py3-none-any.whl" },
+]

@@ -1,0 +1,7 @@
+# Package configuration for libneuronxla
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "libneuronxla-1.0-py3-none-any.whl" },
+]

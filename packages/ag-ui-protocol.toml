@@ -1,0 +1,11 @@
+# Package configuration for ag-ui-protocol
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ag_ui_protocol-0.1.10-py3-none-any.whl" },
+  { filename = "ag_ui_protocol-0.1.9-py3-none-any.whl" },
+  { filename = "ag_ui_protocol-0.1.8-py3-none-any.whl" },
+  { filename = "ag_ui_protocol-0.1.7-py3-none-any.whl" },
+  { filename = "ag_ui_protocol-0.1.6-py3-none-any.whl" },
+]

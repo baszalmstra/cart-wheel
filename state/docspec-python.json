@@ -1,0 +1,82 @@
+{
+  "docspec_python-2.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "caa32dc1e8c470af8a5ecad67cca614e68c1563ac01dab0c0486c4d7f709d6b1",
+    "dependencies": {
+      "required": [
+        "black",
+        "docspec",
+        "nr-util"
+      ]
+    },
+    "original_requirements": [
+      "black>=24.8.0",
+      "docspec==2.2.1",
+      "nr-util>=0.8.12"
+    ]
+  },
+  "docspec_python-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "76ac41d35a8face35b2d766c2e8a416fb8832359785d396f0d53bcb00f178e54",
+    "dependencies": {
+      "required": [
+        "black",
+        "docspec",
+        "nr.util"
+      ]
+    },
+    "original_requirements": [
+      "black (>=23.1.0,<24.0.0)",
+      "docspec (>=2.2.1,<3.0.0)",
+      "nr.util (>=0.7.0)"
+    ]
+  },
+  "docspec_python-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b628df9b8108e2422b2262579e05753f81cb5bdffba929609fc5b589e1c3e20",
+    "dependencies": {
+      "required": [
+        "black",
+        "docspec",
+        "nr.util"
+      ]
+    },
+    "original_requirements": [
+      "black (>=23.1.0,<24.0.0)",
+      "docspec (>=2.2.0,<3.0.0)",
+      "nr.util (>=0.7.0)"
+    ]
+  },
+  "docspec_python-2.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad32f73ef1caca36d81171f19e86861932f53a589040c5deb4d9b85b79be8d3d",
+    "dependencies": {
+      "required": [
+        "black",
+        "docspec",
+        "nr.util"
+      ]
+    },
+    "original_requirements": [
+      "black (>=23.1.0,<24.0.0)",
+      "docspec (>=2.1.2,<3.0.0)",
+      "nr.util (>=0.7.0)"
+    ]
+  },
+  "docspec_python-2.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eeef73c4ef2ff240f15c0d87505d5bcf4066934b8932d541f1dcd3d8b0c83525",
+    "dependencies": {
+      "required": [
+        "black",
+        "docspec",
+        "nr.util"
+      ]
+    },
+    "original_requirements": [
+      "black (>=23.1.0,<24.0.0)",
+      "docspec (>=2.0.2,<3.0.0)",
+      "nr.util (>=0.7.0)"
+    ]
+  }
+}

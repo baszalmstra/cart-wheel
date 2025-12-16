@@ -1,0 +1,30 @@
+{
+  "pyobjc_framework_gamesave-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "432e69f8404be9290d42c89caba241a3156ed52013947978ac54f0f032a14ffd",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1"
+    ]
+  },
+  "pyobjc_framework_gamesave-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a5be943b5969848b44d2132e33ed88720aa4c389916e41f909e3a7a144ea71cf",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0"
+    ]
+  }
+}

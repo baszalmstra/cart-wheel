@@ -1,0 +1,12 @@
+# Package configuration for cuda-pathfinder
+conda_forge = "cuda-pathfinder"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cuda_pathfinder-1.3.3-py3-none-any.whl" },
+  { filename = "cuda_pathfinder-1.3.2-py3-none-any.whl" },
+  { filename = "cuda_pathfinder-1.3.1-py3-none-any.whl" },
+  { filename = "cuda_pathfinder-1.3.0-py3-none-any.whl" },
+  { filename = "cuda_pathfinder-1.2.3-py3-none-any.whl" },
+]

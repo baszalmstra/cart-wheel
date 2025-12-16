@@ -1,0 +1,10 @@
+# Package configuration for isodate
+conda_forge = "isodate"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "isodate-0.7.2-py3-none-any.whl" },
+  { filename = "isodate-0.6.1-py2.py3-none-any.whl" },
+  { filename = "isodate-0.6.0-py2.py3-none-any.whl" },
+]

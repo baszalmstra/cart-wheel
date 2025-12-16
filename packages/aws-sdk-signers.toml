@@ -1,0 +1,10 @@
+# Package configuration for aws-sdk-signers
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_sdk_signers-0.1.0-py3-none-any.whl" },
+  { filename = "aws_sdk_signers-0.0.3-py3-none-any.whl" },
+  { filename = "aws_sdk_signers-0.0.2-py3-none-any.whl" },
+  { filename = "aws_sdk_signers-0.0.1-py3-none-any.whl" },
+]

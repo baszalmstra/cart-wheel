@@ -1,0 +1,8 @@
+# Package configuration for aws-cdk.aws-shield
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_cdk.aws_shield-1.204.0-py3-none-any.whl" },
+  { filename = "aws_cdk.aws_shield-1.203.0-py3-none-any.whl" },
+]

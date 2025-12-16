@@ -1,0 +1,12 @@
+# Package configuration for amazon-transcribe
+conda_forge = "amazon-transcribe"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "amazon_transcribe-0.6.4-py3-none-any.whl" },
+  { filename = "amazon_transcribe-0.6.3-py3-none-any.whl" },
+  { filename = "amazon_transcribe-0.6.2-py3-none-any.whl" },
+  { filename = "amazon_transcribe-0.6.1-py3-none-any.whl" },
+  { filename = "amazon_transcribe-0.6.0-py3-none-any.whl" },
+]

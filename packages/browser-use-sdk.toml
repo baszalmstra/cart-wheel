@@ -1,0 +1,11 @@
+# Package configuration for browser-use-sdk
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "browser_use_sdk-2.0.12-py3-none-any.whl" },
+  { filename = "browser_use_sdk-2.0.11-py3-none-any.whl" },
+  { filename = "browser_use_sdk-2.0.10-py3-none-any.whl" },
+  { filename = "browser_use_sdk-2.0.9-py3-none-any.whl" },
+  { filename = "browser_use_sdk-2.0.8-py3-none-any.whl" },
+]

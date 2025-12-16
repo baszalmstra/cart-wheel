@@ -1,0 +1,74 @@
+{
+  "pathlib2-2.3.7.post1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5266a0fd000452f1b3467d782f079a4343c63aaa119221fbdc4e39577489ca5b",
+    "dependencies": {
+      "required": [
+        "six",
+        "scandir",
+        "typing"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "scandir ; python_version<\"3.5\"",
+      "typing ; python_version<\"3.5\""
+    ]
+  },
+  "pathlib2-2.3.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a130b266b3a36134dcc79c17b3c7ac9634f083825ca6ea9d8f557ee6195c9c8",
+    "dependencies": {
+      "required": [
+        "six",
+        "scandir"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "scandir ; python_version<\"3.5\""
+    ]
+  },
+  "pathlib2-2.3.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ec8205a157c80d7acc301c0b18fbd5d44fe655968f5d947b6ecef5290fc35db",
+    "dependencies": {
+      "required": [
+        "six",
+        "scandir"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "scandir; python_version<\"3.5\""
+    ]
+  },
+  "pathlib2-2.3.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2156525d6576d21c4dcaddfa427fae887ef89a7a9de5cbfe0728b3aafa78427e",
+    "dependencies": {
+      "required": [
+        "six",
+        "scandir"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "scandir; python_version<\"3.5\""
+    ]
+  },
+  "pathlib2-2.3.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5887121d7f7df3603bca2f710e7219f3eca0eb69e0b7cc6e0a022e155ac931a7",
+    "dependencies": {
+      "required": [
+        "six",
+        "scandir"
+      ]
+    },
+    "original_requirements": [
+      "six",
+      "scandir; python_version<\"3.5\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for scikit-build-core
+conda_forge = "scikit-build-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "scikit_build_core-0.11.6-py3-none-any.whl" },
+  { filename = "scikit_build_core-0.11.5-py3-none-any.whl" },
+  { filename = "scikit_build_core-0.11.4-py3-none-any.whl" },
+  { filename = "scikit_build_core-0.11.3-py3-none-any.whl" },
+  { filename = "scikit_build_core-0.11.2-py3-none-any.whl" },
+]

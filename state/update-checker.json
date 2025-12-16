@@ -1,0 +1,68 @@
+{
+  "update_checker-0.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cbba64760a36fe2640d80d85306e8fe82b6816659190993b7bdabadee4d4bbfd",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.3.0)",
+      "black ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pytest (>=2.7.3) ; extra == 'dev'",
+      "black ; extra == 'lint'",
+      "flake8 ; extra == 'lint'",
+      "pytest (>=2.7.3) ; extra == 'test'"
+    ]
+  },
+  "update_checker-0.17-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1ff5dc7aab340b4f7710bd6c69d08ff5a5351617cd4ba0eb8886ddb285e2104f",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.3.0)"
+    ]
+  },
+  "update_checker-0.16-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "59cfad7f9a0ee99f95f1dfc60f55bf184937bcab46a7270341c2c33695572453",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.3.0)"
+    ]
+  },
+  "update_checker-0.15-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f487508d2f2bad5c7e3cb9c39091079e03156842a35e120650275eff981195c",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.3.0)"
+    ]
+  },
+  "update_checker-0.14-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "670c88a4eedb18083730caf0ea56800091fdf20e93fb6e0db0ca6c036e44b5ff",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.3.0)"
+    ]
+  }
+}

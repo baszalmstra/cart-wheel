@@ -1,0 +1,132 @@
+{
+  "openinference_instrumentation_llama_index-4.3.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b2dfcc2f590759d52749da9a7afa1bdde99c5957df00eea459424bb41b854d97",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "llama-index-core>=0.13.1; extra == 'instruments'",
+      "llama-index-multi-modal-llms-openai>=0.1.7; extra == 'instruments'"
+    ]
+  },
+  "openinference_instrumentation_llama_index-4.3.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e7a16881ba124079980508d8f6b20d5b23ba15f13a976e4dd68336c036351cfb",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "llama-index-core>=0.12.3; extra == 'instruments'",
+      "llama-index-multi-modal-llms-openai>=0.1.7; extra == 'instruments'"
+    ]
+  },
+  "openinference_instrumentation_llama_index-4.3.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ec6868db3d072a997a1ce72cd7c52f95b59b668aad87cec79f1cabb4a5012207",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "llama-index-core>=0.12.3; extra == 'instruments'",
+      "llama-index-multi-modal-llms-openai>=0.1.7; extra == 'instruments'"
+    ]
+  },
+  "openinference_instrumentation_llama_index-4.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a90046f485339248031312148a386a1e60450a1ee9145295f7da925141ad870",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "llama-index-core>=0.12.3; extra == 'instruments'",
+      "llama-index-multi-modal-llms-openai>=0.1.7; extra == 'instruments'"
+    ]
+  },
+  "openinference_instrumentation_llama_index-4.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1803c5a782a1f51b61a011a833068c719a5319616bb6317b6c02d7dbcbd36ce6",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.17",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "llama-index-core>=0.12.3; extra == 'instruments'",
+      "llama-index-multi-modal-llms-openai>=0.1.7; extra == 'instruments'"
+    ]
+  }
+}

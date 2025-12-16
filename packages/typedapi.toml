@@ -1,0 +1,7 @@
+# Package configuration for typedapi
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "typedapi-0.2.0-py3-none-any.whl" },
+]

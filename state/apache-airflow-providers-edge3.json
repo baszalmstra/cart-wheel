@@ -1,0 +1,92 @@
+{
+  "apache_airflow_providers_edge3-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "05ba747e1151b018a0e62ad164b947ec3d640370862b090075bf775a8ab343fc",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pydantic",
+        "retryhttp"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.0,!=3.1.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "pydantic>=2.11.0",
+      "retryhttp>=1.2.0,!=1.3.0"
+    ]
+  },
+  "apache_airflow_providers_edge3-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d291afdca005d4636d387508fceaef2f638df12b90fe11b68f4c899c92d31779",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pydantic",
+        "retryhttp"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0,!=3.1.0",
+      "apache-airflow-providers-common-compat>=1.10.0",
+      "pydantic>=2.11.0",
+      "retryhttp>=1.2.0,!=1.3.0"
+    ]
+  },
+  "apache_airflow_providers_edge3-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0bc76eb4d4a5f66f19511064ef82b1a67ee8092c89739dc206a66b479df2f084",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pydantic",
+        "retryhttp"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0,!=3.1.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pydantic>=2.11.0",
+      "retryhttp>=1.2.0,!=1.3.0"
+    ]
+  },
+  "apache_airflow_providers_edge3-1.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8c21509bb0c0fd6ce5bf422db18407ca06df1bec3c63e9399daee8da5b08b8f6",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pydantic",
+        "retryhttp"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0,!=3.1.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pydantic>=2.11.0",
+      "retryhttp>=1.2.0,!=1.3.0"
+    ]
+  },
+  "apache_airflow_providers_edge3-1.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03f3d6db63580bf7de9084f204dc8d7762e88ad1f1aa96ebf819bebacb3c089c",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "pydantic",
+        "retryhttp"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pydantic>=2.11.0",
+      "retryhttp>=1.2.0,!=1.3.0"
+    ]
+  }
+}

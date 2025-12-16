@@ -1,0 +1,176 @@
+{
+  "jaraco.text-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08de508939b5e681b14cdac2f1f73036cd97f6f8d7b25e96b8911a9a428ca0d1",
+    "dependencies": {
+      "required": [
+        "jaraco.functools",
+        "jaraco.context",
+        "autocommand",
+        "more-itertools",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.functools",
+      "jaraco.context >=4.1",
+      "autocommand",
+      "more-itertools",
+      "importlib-resources ; python_version < \"3.9\"",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "inflect ; extra == 'inflect'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pathlib2 ; (python_version < \"3.10\") and extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "jaraco.text-3.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ab672c0042e4725e05e3fdabdc86ff2eba852708afe8b62ffbf5fb84ed22d8f",
+    "dependencies": {
+      "required": [
+        "jaraco.functools",
+        "jaraco.context",
+        "autocommand",
+        "inflect",
+        "more-itertools",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.functools",
+      "jaraco.context >=4.1",
+      "autocommand",
+      "inflect",
+      "more-itertools",
+      "importlib-resources ; python_version < \"3.9\"",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pathlib2 ; (python_version < \"3.10\") and extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "jaraco.text-3.13.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "33282690ae50eb154d24a09a00a00df6ce40cbb421686fe0e9ec32f4ceb205f1",
+    "dependencies": {
+      "required": [
+        "jaraco.functools",
+        "jaraco.context",
+        "autocommand",
+        "inflect",
+        "more-itertools",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.functools",
+      "jaraco.context >=4.1",
+      "autocommand",
+      "inflect",
+      "more-itertools",
+      "importlib-resources ; python_version < \"3.9\"",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pathlib2 ; (python_version < \"3.10\") and extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "jaraco.text-3.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad69e127f944baa08b2614be4eb06faa9948c9194e02615e079ceb6d3a2ad4d5",
+    "dependencies": {
+      "required": [
+        "jaraco.functools",
+        "jaraco.context",
+        "autocommand",
+        "inflect",
+        "more-itertools",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.functools",
+      "jaraco.context >=4.1",
+      "autocommand",
+      "inflect",
+      "more-itertools",
+      "importlib-resources ; python_version < \"3.9\"",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pathlib2 ; (python_version < \"3.10\") and extra == 'test'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'test'"
+    ]
+  },
+  "jaraco.text-3.12.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf12c58e9245eb6380d476f2ec623bb2e0a451e56bb9ed5bfd8493d6dc18ea2b",
+    "dependencies": {
+      "required": [
+        "jaraco.functools",
+        "jaraco.context",
+        "autocommand",
+        "inflect",
+        "more-itertools",
+        "importlib-resources"
+      ]
+    },
+    "original_requirements": [
+      "jaraco.functools",
+      "jaraco.context >=4.1",
+      "autocommand",
+      "inflect",
+      "more-itertools",
+      "importlib-resources ; python_version < \"3.9\"",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'",
+      "pathlib2 ; (python_version < \"3.10\") and extra == 'test'"
+    ]
+  }
+}

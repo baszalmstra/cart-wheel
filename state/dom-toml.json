@@ -1,0 +1,72 @@
+{
+  "dom_toml-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f5c4921940ad34b9e95d391f44000e001688b400fd21afb5cb430e8c29172da1",
+    "dependencies": {
+      "required": [
+        "domdf-python-tools",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "domdf-python-tools>=2.8.0",
+      "tomli>=1.2.3; python_version < \"3.11\""
+    ]
+  },
+  "dom_toml-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6681a793c94a5d1fb7b59690009cc3b1dfb1bcaae108fb8054c712a8f128efc7",
+    "dependencies": {
+      "required": [
+        "domdf-python-tools",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "domdf-python-tools>=2.8.0",
+      "tomli>=1.2.3"
+    ]
+  },
+  "dom_toml-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b6d02a72bcbc6be8175c61afc30623bbb6b74c4650f2a806fbc3fb7fe86935d",
+    "dependencies": {
+      "required": [
+        "domdf-python-tools",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "domdf-python-tools>=2.8.0",
+      "tomli>=1.2.3"
+    ]
+  },
+  "dom_toml-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b20e66b191a6e41efdb4b8849db0ece42b798b511e7d099130691e121ef56d42",
+    "dependencies": {
+      "required": [
+        "domdf-python-tools",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "domdf-python-tools>=2.8.0",
+      "toml>=0.10.2"
+    ]
+  },
+  "dom_toml-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ebdd69c571268dfa5a56b5085b5311583d8a8d2dc1811349e796160c9f36d501",
+    "dependencies": {
+      "required": [
+        "domdf-python-tools",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "domdf-python-tools>=2.8.0",
+      "toml>=0.10.2"
+    ]
+  }
+}

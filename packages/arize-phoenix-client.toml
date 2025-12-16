@@ -1,0 +1,12 @@
+# Package configuration for arize-phoenix-client
+conda_forge = "arize-phoenix-client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "arize_phoenix_client-1.27.0-py3-none-any.whl" },
+  { filename = "arize_phoenix_client-1.26.0-py3-none-any.whl" },
+  { filename = "arize_phoenix_client-1.25.0-py3-none-any.whl" },
+  { filename = "arize_phoenix_client-1.24.0-py3-none-any.whl" },
+  { filename = "arize_phoenix_client-1.23.0-py3-none-any.whl" },
+]

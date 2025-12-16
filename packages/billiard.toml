@@ -1,0 +1,12 @@
+# Package configuration for billiard
+conda_forge = "billiard"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "billiard-4.2.4-py3-none-any.whl" },
+  { filename = "billiard-4.2.3-py3-none-any.whl" },
+  { filename = "billiard-4.2.2-py3-none-any.whl" },
+  { filename = "billiard-4.2.1-py3-none-any.whl" },
+  { filename = "billiard-4.2.0-py3-none-any.whl" },
+]

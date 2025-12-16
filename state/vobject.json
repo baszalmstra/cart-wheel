@@ -1,0 +1,50 @@
+{
+  "vobject-0.9.9-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0fbdb982065cf4d1843a5d5950c88510041c6de026bda49c3502721de1c6ac3d",
+    "dependencies": {
+      "required": [
+        "pytz",
+        "six",
+        "python-dateutil",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "pytz",
+      "six",
+      "python-dateutil>=2.5.0; python_version < \"3.10\"",
+      "python-dateutil>=2.7.0; python_version >= \"3.10\""
+    ]
+  },
+  "vobject-0.9.8-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e6d8369b84462ddacef467fa667f25ba1e5f732d28f43f36fbd0079b2f8cb3b3",
+    "dependencies": {
+      "required": [
+        "pytz",
+        "six",
+        "python-dateutil",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "pytz",
+      "six",
+      "python-dateutil>=2.5.0; python_version < \"3.10\"",
+      "python-dateutil>=2.7.0; python_version >= \"3.10\""
+    ]
+  },
+  "vobject-0.9.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67ebec81ee39fc60b7355ce077f850d5f13d99d08b110fa1abcfdbb516205e20",
+    "dependencies": {
+      "required": [
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil (>=2.4.0)"
+    ]
+  }
+}

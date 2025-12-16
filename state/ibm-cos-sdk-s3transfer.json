@@ -1,0 +1,58 @@
+{
+  "ibm_cos_sdk_s3transfer-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0f7b4daf973597489242bb8e92b04bb6128350cb26e05d014df79f2532c4ca2",
+    "dependencies": {
+      "required": [
+        "ibm-cos-sdk-core",
+        "futures"
+      ]
+    },
+    "original_requirements": [
+      "ibm-cos-sdk-core>=2.0.0,==2.*",
+      "futures>=2.2.0,<4.0.0; python_version==\"2.6\" or python_version==\"2.7\""
+    ]
+  },
+  "ibm_cos_sdk_s3transfer-1.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0443c96783ba1a4d78fc7ba8461770a8b9526dbbac411703d8cbe16f8b7a553",
+    "dependencies": {
+      "required": [
+        "ibm-cos-sdk-core",
+        "futures"
+      ]
+    },
+    "original_requirements": [
+      "ibm-cos-sdk-core>=1.0.0,==1.*",
+      "futures>=2.2.0,<4.0.0; python_version==\"2.6\" or python_version==\"2.7\""
+    ]
+  },
+  "ibm_cos_sdk_s3transfer-1.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef9fc775ef0030805ce9d147eebfcbf57cefa2744449f9e9ecee3b553cf89158",
+    "dependencies": {
+      "required": [
+        "ibm-cos-sdk-core",
+        "futures"
+      ]
+    },
+    "original_requirements": [
+      "ibm-cos-sdk-core>=1.0.0,==1.*",
+      "futures>=2.2.0,<4.0.0; python_version==\"2.6\" or python_version==\"2.7\""
+    ]
+  },
+  "ibm_cos_sdk_s3transfer-1.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a20e6a2d90db56fade541e65dc41d2844720e63e053bfc104e8e9bcaec6545b0",
+    "dependencies": {
+      "required": [
+        "ibm-cos-sdk-core",
+        "futures"
+      ]
+    },
+    "original_requirements": [
+      "ibm-cos-sdk-core>=1.0.0,==1.0.*",
+      "futures>=2.2.0,<4.0.0; python_version==\"2.6\" or python_version==\"2.7\""
+    ]
+  }
+}

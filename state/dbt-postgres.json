@@ -1,0 +1,106 @@
+{
+  "dbt_postgres-1.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "114890c53b8dff20284cf432d8130f2bbec86ce156b3a16ce6defa0b68c68d7f",
+    "dependencies": {
+      "required": [
+        "agate",
+        "dbt-adapters",
+        "dbt-common",
+        "dbt-core",
+        "psycopg2-binary"
+      ]
+    },
+    "original_requirements": [
+      "agate<2.0,>=1.0",
+      "dbt-adapters<2.0,>=1.7.0",
+      "dbt-common<2.0,>=1.0.4",
+      "dbt-core>=1.8.0",
+      "psycopg2-binary<3.0,>=2.9"
+    ]
+  },
+  "dbt_postgres-1.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c85d1adb419251ac989e5f720fdbb964aa6c280da7739dc8c48d44e6f45d354a",
+    "dependencies": {
+      "required": [
+        "agate",
+        "dbt-adapters",
+        "dbt-common",
+        "dbt-core",
+        "psycopg2-binary"
+      ]
+    },
+    "original_requirements": [
+      "agate<2.0,>=1.0",
+      "dbt-adapters<2.0,>=1.7.0",
+      "dbt-common<2.0,>=1.0.4",
+      "dbt-core>=1.8.0",
+      "psycopg2-binary<3.0,>=2.9"
+    ]
+  },
+  "dbt_postgres-1.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b0d9f53b5927722cd22e8135e0b76181febf3cf89aef8caf039c59bfce78afc9",
+    "dependencies": {
+      "required": [
+        "agate",
+        "dbt-adapters",
+        "dbt-common",
+        "dbt-core",
+        "psycopg2-binary"
+      ]
+    },
+    "original_requirements": [
+      "agate<2.0,>=1.0",
+      "dbt-adapters<2.0,>=0.1.0a1",
+      "dbt-common<2.0,>=0.1.0a1",
+      "dbt-core>=1.8.0a1",
+      "psycopg2-binary<3.0,>=2.9"
+    ]
+  },
+  "dbt_postgres-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcd05f95b0f9f89cb790322827918ac07299436ded73059887abe7eef03ce2c9",
+    "dependencies": {
+      "required": [
+        "agate",
+        "dbt-adapters",
+        "dbt-common",
+        "dbt-core",
+        "psycopg2-binary",
+        "psycopg2"
+      ]
+    },
+    "original_requirements": [
+      "agate<2.0,>=1.0",
+      "dbt-adapters<2.0,>=0.1.0a1",
+      "dbt-common<2.0,>=0.1.0a1",
+      "dbt-core>=1.8.0a1",
+      "psycopg2-binary<3.0,>=2.9; platform_system != 'Linux'",
+      "psycopg2<3.0,>=2.9; platform_system == 'Linux'"
+    ]
+  },
+  "dbt_postgres-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "caae566dd3db786bb1af31f30b975ee4281a18ca1f2cd1215672f211d50182ec",
+    "dependencies": {
+      "required": [
+        "agate",
+        "dbt-adapters",
+        "dbt-common",
+        "dbt-core",
+        "psycopg2-binary",
+        "psycopg2"
+      ]
+    },
+    "original_requirements": [
+      "agate<2.0,>=1.0",
+      "dbt-adapters<2.0,>=0.1.0a1",
+      "dbt-common<2.0,>=0.1.0a1",
+      "dbt-core>=1.8.0a1",
+      "psycopg2-binary<3.0,>=2.9; platform_system != 'Linux'",
+      "psycopg2<3.0,>=2.9; platform_system == 'Linux'"
+    ]
+  }
+}

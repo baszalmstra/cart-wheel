@@ -1,0 +1,12 @@
+# Package configuration for types-pygments
+conda_forge = "types-pygments"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_pygments-2.19.0.20251121-py3-none-any.whl" },
+  { filename = "types_pygments-2.19.0.20250809-py3-none-any.whl" },
+  { filename = "types_pygments-2.19.0.20250715-py3-none-any.whl" },
+  { filename = "types_pygments-2.19.0.20250516-py3-none-any.whl" },
+  { filename = "types_pygments-2.19.0.20250514-py3-none-any.whl" },
+]

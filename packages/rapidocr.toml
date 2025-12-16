@@ -1,0 +1,11 @@
+# Package configuration for rapidocr
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rapidocr-3.4.3-py3-none-any.whl" },
+  { filename = "rapidocr-3.4.2-py3-none-any.whl" },
+  { filename = "rapidocr-3.4.1-py3-none-any.whl" },
+  { filename = "rapidocr-3.4.0-py3-none-any.whl" },
+  { filename = "rapidocr-3.3.1-py3-none-any.whl" },
+]

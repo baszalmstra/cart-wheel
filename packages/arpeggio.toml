@@ -1,0 +1,12 @@
+# Package configuration for arpeggio
+conda_forge = "arpeggio"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Arpeggio-2.0.3-py2.py3-none-any.whl" },
+  { filename = "Arpeggio-2.0.2-py2.py3-none-any.whl" },
+  { filename = "Arpeggio-2.0.1-py2.py3-none-any.whl" },
+  { filename = "Arpeggio-2.0.0-py2.py3-none-any.whl" },
+  { filename = "Arpeggio-1.10.2-py2.py3-none-any.whl" },
+]

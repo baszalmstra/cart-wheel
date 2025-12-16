@@ -1,0 +1,11 @@
+# Package configuration for jaraco.itertools
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaraco_itertools-6.4.3-py3-none-any.whl" },
+  { filename = "jaraco_itertools-6.4.2-py3-none-any.whl" },
+  { filename = "jaraco.itertools-6.4.1-py3-none-any.whl" },
+  { filename = "jaraco.itertools-6.4.0-py3-none-any.whl" },
+  { filename = "jaraco.itertools-6.2.1-py3-none-any.whl" },
+]

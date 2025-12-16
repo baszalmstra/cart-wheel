@@ -1,0 +1,52 @@
+{
+  "dockerfile_parse-2.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bdffd126d2eb26acf1066acb54cb2e336682e1d72b974a40894fac76a4df17f6",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "dockerfile_parse-2.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d8d9100f8255914378bc0524ffaad68ef043885b0fb40a6936b1bba458f40c3f",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "dockerfile_parse-1.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c3fc8f491e1af8cb5f9e23ea6437a2913467b88a4be143095f150330b090be7e",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six"
+    ]
+  },
+  "dockerfile_parse-1.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80ea4b88694ab014001e39e62335aa2f4feb695b80de751377e994a344fa5952",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six"
+    ]
+  },
+  "dockerfile_parse-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f04920c573d980904ce99abc70e31d28140d9195fb10f4d50c2dee1b6f45ebed",
+    "dependencies": {
+      "required": [
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "six"
+    ]
+  }
+}

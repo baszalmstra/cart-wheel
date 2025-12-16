@@ -1,0 +1,72 @@
+{
+  "oslo_context-6.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6ea0b5d04c3577090d6513ce4533a74cdcee958e34a6fc54d820267b799f9d29",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pbr >=2.0.0",
+      "typing-extensions >=4.12.0"
+    ]
+  },
+  "oslo_context-6.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "575c37ff767f595eb986b89b080457204a06fa8774cb9a3e4c73753f88797c1f",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pbr >=2.0.0",
+      "typing-extensions >=4.12.0"
+    ]
+  },
+  "oslo_context-6.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe0889a64441d3c76483e3696700e423ec3fc1865c15217b9c977204d8365c2d",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "pbr >=2.0.0",
+      "typing-extensions >=4.12.0"
+    ]
+  },
+  "oslo.context-5.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "947ff5e97d026e957fa1db190583a730f96bfafbcbf19c3faa07be63849e9ba3",
+    "dependencies": {
+      "required": [
+        "pbr",
+        "debtcollector"
+      ]
+    },
+    "original_requirements": [
+      "pbr >=2.0.0",
+      "debtcollector >=1.2.0"
+    ]
+  },
+  "oslo.context-5.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4a01bff7fde263f666227f5989061f6135e373e65bd30bdb3ecebcc1029da34",
+    "dependencies": {
+      "required": [
+        "debtcollector",
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "debtcollector (>=1.2.0)",
+      "pbr (>=2.0.0)"
+    ]
+  }
+}

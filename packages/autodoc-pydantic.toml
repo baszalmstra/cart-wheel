@@ -1,0 +1,12 @@
+# Package configuration for autodoc-pydantic
+conda_forge = "autodoc-pydantic"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "autodoc_pydantic-2.2.0-py3-none-any.whl" },
+  { filename = "autodoc_pydantic-2.1.0-py3-none-any.whl" },
+  { filename = "autodoc_pydantic-2.0.1-py3-none-any.whl" },
+  { filename = "autodoc_pydantic-2.0.0-py3-none-any.whl" },
+  { filename = "autodoc_pydantic-1.9.1-py3-none-any.whl" },
+]

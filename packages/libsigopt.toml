@@ -1,0 +1,8 @@
+# Package configuration for libsigopt
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "libsigopt-1.0.0-py3-none-any.whl" },
+  { filename = "libsigopt-0.0.1-py2.py3-none-any.whl" },
+]

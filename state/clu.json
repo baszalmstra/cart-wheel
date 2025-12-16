@@ -1,0 +1,174 @@
+{
+  "clu-0.0.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d183e7d25f7dd0700444510a264e24700e2f068bdabd199ed22866f7e54edba",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "etils",
+        "flax",
+        "jax",
+        "jaxlib",
+        "ml-collections",
+        "numpy",
+        "packaging",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "etils[epath]",
+      "flax",
+      "jax",
+      "jaxlib",
+      "ml-collections",
+      "numpy",
+      "packaging",
+      "typing-extensions",
+      "wrapt",
+      "pytest ; extra == 'test'",
+      "tensorflow ; extra == 'test'",
+      "tensorflow-datasets ; extra == 'test'",
+      "torch >=2.0.0 ; extra == 'test'"
+    ]
+  },
+  "clu-0.0.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "02003c3c4821429e6612be596912e93ac190492a3591a443286e41d1a595897e",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "etils",
+        "flax",
+        "jax",
+        "jaxlib",
+        "ml-collections",
+        "numpy",
+        "packaging",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "etils[epath]",
+      "flax",
+      "jax",
+      "jaxlib",
+      "ml-collections",
+      "numpy",
+      "packaging",
+      "typing-extensions",
+      "wrapt",
+      "pytest ; extra == 'test'",
+      "tensorflow ; extra == 'test'",
+      "tensorflow-datasets ; extra == 'test'",
+      "torch >=2.0.0 ; extra == 'test'"
+    ]
+  },
+  "clu-0.0.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c286c591c5207b7beed856da6e1f016c462d1234a46807802c573e0da3ea7c9",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "etils",
+        "flax",
+        "jax",
+        "jaxlib",
+        "ml-collections",
+        "numpy",
+        "packaging",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "etils[epath]",
+      "flax",
+      "jax",
+      "jaxlib",
+      "ml-collections",
+      "numpy ==1.23.1",
+      "packaging",
+      "typing-extensions",
+      "wrapt",
+      "pytest ; extra == 'test'",
+      "tensorflow ; extra == 'test'",
+      "tensorflow-datasets ; extra == 'test'",
+      "torch <2.0.0,>=1.13.0 ; extra == 'test'"
+    ]
+  },
+  "clu-0.0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2592865ed0bfa27726374e7aaa72b43f20e3b9509f211d064b775d812e794f31",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "etils",
+        "flax",
+        "jax",
+        "jaxlib",
+        "ml-collections",
+        "numpy",
+        "packaging",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "etils[epath]",
+      "flax",
+      "jax",
+      "jaxlib",
+      "ml-collections",
+      "numpy",
+      "packaging",
+      "typing-extensions",
+      "wrapt",
+      "torch (>=1.13.0) ; extra == 'pytorch'",
+      "pytest ; extra == 'test'",
+      "tensorflow ; extra == 'test'",
+      "tensorflow-datasets ; extra == 'test'",
+      "torch (!=2.0.0,>=1.13.0) ; extra == 'test'"
+    ]
+  },
+  "clu-0.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b9033bd76e950935caf94a2a1624c6f75ea26ab7b202ffe027b42cb3b9ec5bf7",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "etils",
+        "flax",
+        "jax",
+        "jaxlib",
+        "ml-collections",
+        "numpy",
+        "packaging",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "etils[epath]",
+      "flax",
+      "jax",
+      "jaxlib",
+      "ml-collections",
+      "numpy",
+      "packaging",
+      "typing-extensions",
+      "wrapt",
+      "torch (>=1.2.0) ; extra == 'pytorch'",
+      "pytest ; extra == 'test'",
+      "tensorflow ; extra == 'test'",
+      "tensorflow-datasets ; extra == 'test'",
+      "torch (>=1.2.0) ; extra == 'test'"
+    ]
+  }
+}

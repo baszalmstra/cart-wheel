@@ -1,0 +1,79 @@
+{
+  "jaraco.structures-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d77cc1b43119b58ce3b0d1a395b577a110afa38f2fe7d1cf308362bc47d7c5da",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx (>=3.5) ; extra == 'docs'",
+      "jaraco.packaging (>=9.3) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=2.2) ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.structures-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "468b5a2bfa777c50830c611ebc4f816cbb0e72ad4d018cbddc33bf580bfadb9d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=8.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs (>=1.2.3) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.structures-2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c6c065557bb2e1ee87c10a36767140636cbe79c74bc1168d922362736b7b2028",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=3.2) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (!=3.7.3,>=3.5) ; extra == 'testing'",
+      "pytest-checkdocs ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'"
+    ]
+  },
+  "jaraco.structures-1.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ddd93e4fa36c415233a36af2b4ca0dc2a7f10d2e9790930d811a62cd8a4c28a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx; extra == 'docs'",
+      "jaraco.packaging (>=3.2); extra == 'docs'",
+      "rst.linker (>=1.9); extra == 'docs'",
+      "pytest (>=2.8); extra == 'testing'",
+      "pytest-sugar; extra == 'testing'",
+      "collective.checkdocs; extra == 'testing'"
+    ]
+  },
+  "jaraco.structures-1.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2ce706b6c2cd8afc5d3c78a985e40e211781b572e251eee6081c5d4d90e831f",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

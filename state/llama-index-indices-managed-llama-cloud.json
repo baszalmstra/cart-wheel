@@ -1,0 +1,80 @@
+{
+  "llama_index_indices_managed_llama_cloud-0.9.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "535a08811046803ca6ab7f8e9d510e926aa5306608b02201ad3d9d21701383bc",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "llama-cloud",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "deprecated==1.2.18",
+      "llama-cloud==0.1.35",
+      "llama-index-core<0.15,>=0.13.0"
+    ]
+  },
+  "llama_index_indices_managed_llama_cloud-0.9.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31a5c0d1a60227c3fb9a591e75f274668f53c5c9091f737f41cf05561c0b71ef",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "llama-cloud",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "deprecated==1.2.18",
+      "llama-cloud==0.1.35",
+      "llama-index-core<0.14,>=0.13.0"
+    ]
+  },
+  "llama_index_indices_managed_llama_cloud-0.9.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d139602d1c268ae4ce2003838e857c5ef5527fb1adc78add2d9ce18fef4b4bfa",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "llama-cloud",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "deprecated==1.2.18",
+      "llama-cloud==0.1.35",
+      "llama-index-core<0.14,>=0.13.0"
+    ]
+  },
+  "llama_index_indices_managed_llama_cloud-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df33fb6d8c6b7ee22202ee7a19285a5672f0e58a1235a2504b49c90a7e1c8933",
+    "dependencies": {
+      "required": [
+        "deprecated",
+        "llama-cloud",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "deprecated==1.2.18",
+      "llama-cloud==0.1.35",
+      "llama-index-core<0.14,>=0.13.0"
+    ]
+  },
+  "llama_index_indices_managed_llama_cloud-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "392910b84fcd479d5e728553741af4f99dac7d4c56d6f0fc8e401b23f1462d09",
+    "dependencies": {
+      "required": [
+        "llama-cloud",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "llama-cloud==0.1.35",
+      "llama-index-core<0.14,>=0.13.0"
+    ]
+  }
+}

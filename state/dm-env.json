@@ -1,0 +1,94 @@
+{
+  "dm_env-1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0eabb6759dd453b625e041032f7ae0c1e87d4eb61b6a96b9ca586483837abf29",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "dm-tree",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "dm-tree",
+      "numpy"
+    ]
+  },
+  "dm_env-1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "026aaa404fb3ced1090f6a4e9ce724cb2998c4ea5fda16bff65560d458ef4467",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "dm-tree",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "dm-tree",
+      "numpy"
+    ]
+  },
+  "dm_env-1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3bdd0f4c16b34d080936782bf0856d64eccaf14b5e377c9e7886f96f18e54f15",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "dm-tree",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "dm-tree",
+      "numpy"
+    ]
+  },
+  "dm_env-1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7fafc1258340edf9aed3ce8ebf2762ffee0325f13ae156f1343ec00faa1e267c",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "dm-tree",
+        "numpy",
+        "six",
+        "funcsigs",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "dm-tree",
+      "numpy",
+      "six",
+      "funcsigs ; python_version < \"3.3\"",
+      "enum34 ; python_version < \"3.4\""
+    ]
+  },
+  "dm_env-1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d9e5b9bf2aa2ec7450cb173b25ccae4701e209376c43d9f4a7ab3e7f1eb7f69",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "dm-tree",
+        "numpy",
+        "six",
+        "funcsigs",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "absl-py",
+      "dm-tree",
+      "numpy",
+      "six",
+      "funcsigs ; python_version < \"3.3\"",
+      "enum34 ; python_version < \"3.4\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for dom-toml
+conda_forge = "dom-toml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dom_toml-2.1.0-py3-none-any.whl" },
+  { filename = "dom_toml-2.0.1-py3-none-any.whl" },
+  { filename = "dom_toml-2.0.0-py3-none-any.whl" },
+  { filename = "dom_toml-1.0.0-py3-none-any.whl" },
+  { filename = "dom_toml-0.6.1-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for smolagents
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "smolagents-1.23.0-py3-none-any.whl" },
+  { filename = "smolagents-1.22.0-py3-none-any.whl" },
+  { filename = "smolagents-1.21.3-py3-none-any.whl" },
+  { filename = "smolagents-1.21.2-py3-none-any.whl" },
+  { filename = "smolagents-1.21.1-py3-none-any.whl" },
+]

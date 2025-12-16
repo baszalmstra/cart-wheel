@@ -1,0 +1,12 @@
+# Package configuration for pipx
+conda_forge = "pipx"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pipx-1.8.0-py3-none-any.whl" },
+  { filename = "pipx-1.7.1-py3-none-any.whl" },
+  { filename = "pipx-1.7.0-py3-none-any.whl" },
+  { filename = "pipx-1.6.0-py3-none-any.whl" },
+  { filename = "pipx-1.5.0-py3-none-any.whl" },
+]

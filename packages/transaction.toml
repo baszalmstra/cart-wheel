@@ -1,0 +1,12 @@
+# Package configuration for transaction
+conda_forge = "transaction"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "transaction-5.0-py3-none-any.whl" },
+  { filename = "transaction-4.0-py3-none-any.whl" },
+  { filename = "transaction-3.1.0-py2.py3-none-any.whl" },
+  { filename = "transaction-3.0.1-py2.py3-none-any.whl" },
+  { filename = "transaction-3.0.0-py2.py3-none-any.whl" },
+]

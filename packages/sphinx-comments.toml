@@ -1,0 +1,10 @@
+# Package configuration for sphinx-comments
+conda_forge = "sphinx-comments"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_comments-0.0.3-py3-none-any.whl" },
+  { filename = "sphinx_comments-0.0.2-py3-none-any.whl" },
+  { filename = "sphinx_comments-0.0.1-py3-none-any.whl" },
+]

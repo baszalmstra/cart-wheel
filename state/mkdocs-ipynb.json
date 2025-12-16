@@ -1,0 +1,28 @@
+{
+  "mkdocs_ipynb-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dae68bd4e9b6581a1d1a102c447c921cd0c43b23712137ca80a31e0f9f70e4c1",
+    "dependencies": {
+      "required": [
+        "mkdocs"
+      ]
+    },
+    "original_requirements": [
+      "mkdocs>=1.6.1",
+      "pre-commit; extra == 'dev'"
+    ]
+  },
+  "mkdocs_ipynb-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2f40a95d9b517c616fe70aa01e0f805b521fe77576baa0f8e8086493ea1f010",
+    "dependencies": {
+      "required": [
+        "mkdocs"
+      ]
+    },
+    "original_requirements": [
+      "mkdocs>=1.6.1",
+      "pre-commit; extra == 'dev'"
+    ]
+  }
+}

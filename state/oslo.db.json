@@ -1,0 +1,209 @@
+{
+  "oslo_db-17.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c63cf2f91e3403a29f068ea10d7ed1769db3664c349a805291fb3a069cddca4d",
+    "dependencies": {
+      "required": [
+        "alembic",
+        "debtcollector",
+        "oslo.i18n",
+        "oslo.config",
+        "oslo.utils",
+        "sqlalchemy",
+        "stevedore",
+        "testresources",
+        "testscenarios"
+      ]
+    },
+    "original_requirements": [
+      "alembic >=0.9.6",
+      "debtcollector >=1.2.0",
+      "oslo.i18n >=3.15.3",
+      "oslo.config >=5.2.0",
+      "oslo.utils >=3.33.0",
+      "SQLAlchemy >=1.4.0",
+      "stevedore >=1.20.0",
+      "testresources >=2.0.0",
+      "testscenarios >=0.4",
+      "PyMySQL >=0.7.6 ; extra == 'mysql'",
+      "psycopg2-binary >=2.8.0 ; extra == 'postgresql'",
+      "coverage >=4.0 ; extra == 'test'",
+      "fixtures >=3.0.0 ; extra == 'test'",
+      "oslotest >=3.2.0 ; extra == 'test'",
+      "oslo.context >=2.19.2 ; extra == 'test'",
+      "stestr >=2.0.0 ; extra == 'test'",
+      "testtools >=2.2.0 ; extra == 'test'",
+      "pifpaf >=0.10.0 ; extra == 'test'",
+      "aiosqlite >=0.20.0 ; extra == 'test'",
+      "PyMySQL >=0.7.6 ; extra == 'test'",
+      "psycopg2 >=2.8.0 ; extra == 'test'"
+    ]
+  },
+  "oslo_db-17.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3acb3bbb9216589e3f6619d872e93dbd49b504cba6124aa52c806ab73deec5f1",
+    "dependencies": {
+      "required": [
+        "alembic",
+        "debtcollector",
+        "oslo.i18n",
+        "oslo.config",
+        "oslo.utils",
+        "sqlalchemy",
+        "stevedore",
+        "testresources",
+        "testscenarios"
+      ]
+    },
+    "original_requirements": [
+      "alembic >=0.9.6",
+      "debtcollector >=1.2.0",
+      "oslo.i18n >=3.15.3",
+      "oslo.config >=5.2.0",
+      "oslo.utils >=3.33.0",
+      "SQLAlchemy >=1.4.0",
+      "stevedore >=1.20.0",
+      "testresources >=2.0.0",
+      "testscenarios >=0.4",
+      "PyMySQL >=0.7.6 ; extra == 'mysql'",
+      "psycopg2-binary >=2.8.0 ; extra == 'postgresql'",
+      "coverage >=4.0 ; extra == 'test'",
+      "fixtures >=3.0.0 ; extra == 'test'",
+      "oslotest >=3.2.0 ; extra == 'test'",
+      "oslo.context >=2.19.2 ; extra == 'test'",
+      "stestr >=2.0.0 ; extra == 'test'",
+      "testtools >=2.2.0 ; extra == 'test'",
+      "pifpaf >=0.10.0 ; extra == 'test'",
+      "aiosqlite >=0.20.0 ; extra == 'test'",
+      "PyMySQL >=0.7.6 ; extra == 'test'",
+      "psycopg2 >=2.8.0 ; extra == 'test'"
+    ]
+  },
+  "oslo.db-17.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a7d7c1a4b68fac27e9f62e162db94b9130f28a188e160bc1487cd592346bf01a",
+    "dependencies": {
+      "required": [
+        "alembic",
+        "debtcollector",
+        "oslo.i18n",
+        "oslo.config",
+        "oslo.utils",
+        "sqlalchemy",
+        "stevedore",
+        "testresources",
+        "testscenarios"
+      ]
+    },
+    "original_requirements": [
+      "alembic >=0.9.6",
+      "debtcollector >=1.2.0",
+      "oslo.i18n >=3.15.3",
+      "oslo.config >=5.2.0",
+      "oslo.utils >=3.33.0",
+      "SQLAlchemy >=1.4.0",
+      "stevedore >=1.20.0",
+      "testresources >=2.0.0",
+      "testscenarios >=0.4",
+      "PyMySQL >=0.7.6 ; extra == 'mysql'",
+      "psycopg2 >=2.8.0 ; extra == 'postgresql'",
+      "coverage >=4.0 ; extra == 'test'",
+      "fixtures >=3.0.0 ; extra == 'test'",
+      "python-subunit >=1.0.0 ; extra == 'test'",
+      "oslotest >=3.2.0 ; extra == 'test'",
+      "oslo.context >=2.19.2 ; extra == 'test'",
+      "stestr >=2.0.0 ; extra == 'test'",
+      "testtools >=2.2.0 ; extra == 'test'",
+      "pifpaf >=0.10.0 ; extra == 'test'",
+      "aiosqlite >=0.20.0 ; extra == 'test'",
+      "PyMySQL >=0.7.6 ; extra == 'test'",
+      "psycopg2 >=2.8.0 ; extra == 'test'"
+    ]
+  },
+  "oslo.db-17.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "78e966416270bdeb014cf68113167b195918f6729982c8d7b97ab96bccf9f3c8",
+    "dependencies": {
+      "required": [
+        "alembic",
+        "debtcollector",
+        "oslo.i18n",
+        "oslo.config",
+        "oslo.utils",
+        "sqlalchemy",
+        "stevedore",
+        "testresources",
+        "testscenarios"
+      ]
+    },
+    "original_requirements": [
+      "alembic >=0.9.6",
+      "debtcollector >=1.2.0",
+      "oslo.i18n >=3.15.3",
+      "oslo.config >=5.2.0",
+      "oslo.utils >=3.33.0",
+      "SQLAlchemy >=1.4.0",
+      "stevedore >=1.20.0",
+      "testresources >=2.0.0",
+      "testscenarios >=0.4",
+      "PyMySQL >=0.7.6 ; extra == 'mysql'",
+      "psycopg2 >=2.8.0 ; extra == 'postgresql'",
+      "coverage >=4.0 ; extra == 'test'",
+      "fixtures >=3.0.0 ; extra == 'test'",
+      "python-subunit >=1.0.0 ; extra == 'test'",
+      "oslotest >=3.2.0 ; extra == 'test'",
+      "oslo.context >=2.19.2 ; extra == 'test'",
+      "stestr >=2.0.0 ; extra == 'test'",
+      "testtools >=2.2.0 ; extra == 'test'",
+      "pifpaf >=0.10.0 ; extra == 'test'",
+      "aiosqlite >=0.20.0 ; extra == 'test'",
+      "PyMySQL >=0.7.6 ; extra == 'test'",
+      "psycopg2 >=2.8.0 ; extra == 'test'"
+    ]
+  },
+  "oslo.db-17.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c416dd86e2aa6c444380b46091167d3c83d01a437c726342e8bb9e7357bd8c4",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "alembic",
+        "debtcollector",
+        "oslo.config",
+        "oslo.i18n",
+        "oslo.utils",
+        "stevedore",
+        "testresources",
+        "testscenarios"
+      ]
+    },
+    "original_requirements": [
+      "SQLAlchemy (>=1.4.0)",
+      "alembic (>=0.9.6)",
+      "debtcollector (>=1.2.0)",
+      "oslo.config (>=5.2.0)",
+      "oslo.i18n (>=3.15.3)",
+      "oslo.utils (>=3.33.0)",
+      "stevedore (>=1.20.0)",
+      "testresources (>=2.0.0)",
+      "testscenarios (>=0.4)",
+      "PyMySQL (>=0.7.6) ; extra == 'mysql'",
+      "psycopg2 (>=2.8.0) ; extra == 'postgresql'",
+      "PyMySQL (>=0.7.6) ; extra == 'test'",
+      "aiosqlite (>=0.20.0) ; extra == 'test'",
+      "bandit (<1.8.0,>=1.7.0) ; extra == 'test'",
+      "coverage (>=4.0) ; extra == 'test'",
+      "eventlet (>=0.18.2) ; extra == 'test'",
+      "fixtures (>=3.0.0) ; extra == 'test'",
+      "hacking (<6.2.0,>=6.1.0) ; extra == 'test'",
+      "oslo.context (>=2.19.2) ; extra == 'test'",
+      "oslotest (>=3.2.0) ; extra == 'test'",
+      "pifpaf (>=0.10.0) ; extra == 'test'",
+      "pre-commit (>=2.6.0) ; extra == 'test'",
+      "psycopg2 (>=2.8.0) ; extra == 'test'",
+      "python-subunit (>=1.0.0) ; extra == 'test'",
+      "stestr (>=2.0.0) ; extra == 'test'",
+      "testtools (>=2.2.0) ; extra == 'test'"
+    ]
+  }
+}

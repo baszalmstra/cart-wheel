@@ -1,0 +1,11 @@
+# Package configuration for lzstring
+conda_forge = "lzstring"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lzstring-1.0.3-py2.py3-none-any.whl" },
+  { filename = "lzstring-1.0.2-py2.py3-none-any.whl" },
+  { filename = "lzstring-1.0.1-py2.py3-none-any.whl" },
+  { filename = "lzstring-1.0.0-py2.py3-none-any.whl" },
+]

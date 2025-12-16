@@ -1,0 +1,106 @@
+{
+  "pydynamodb-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2a006525e41c3f3181243a60505a9cdc32ac66c42688edc381197c1e9c626d61",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "botocore",
+        "tenacity",
+        "pyparsing"
+      ]
+    },
+    "original_requirements": [
+      "boto3>=1.21.0",
+      "botocore>=1.24.7",
+      "tenacity>=4.1.0",
+      "pyparsing>=3.0.0",
+      "sqlalchemy>=1.0.0; extra == \"sqlalchemy\"",
+      "sqlean.py>=3.45.0; extra == \"sqlean\""
+    ]
+  },
+  "pydynamodb-0.7.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5bf4e1819738498ceb3596f090b39103f3166a4b023e0bc747d5306ec06675ea",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "botocore",
+        "tenacity",
+        "pyparsing",
+        "sqlean.py"
+      ]
+    },
+    "original_requirements": [
+      "boto3>=1.21.0",
+      "botocore>=1.24.7",
+      "tenacity>=4.1.0",
+      "pyparsing>=3.0.0",
+      "sqlean.py>=3.45.0",
+      "sqlalchemy>=1.0.0; extra == \"sqlalchemy\""
+    ]
+  },
+  "pydynamodb-0.7.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a04fab907e332b7323f8b11b79aae79f10231b268280d431207b20ce2fa0dd40",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "botocore",
+        "tenacity",
+        "pyparsing",
+        "sqlean.py"
+      ]
+    },
+    "original_requirements": [
+      "boto3>=1.21.0",
+      "botocore>=1.24.7",
+      "tenacity>=4.1.0",
+      "pyparsing>=3.0.0",
+      "sqlean.py>=3.45.0",
+      "sqlalchemy>=1.0.0; extra == \"sqlalchemy\""
+    ]
+  },
+  "pydynamodb-0.7.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f27a725506677754462aa03129e23ffad8e0e1fdf3ca876c95c5fa608750fba5",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "botocore",
+        "tenacity",
+        "pyparsing",
+        "sqlean.py"
+      ]
+    },
+    "original_requirements": [
+      "boto3>=1.21.0",
+      "botocore>=1.24.7",
+      "tenacity>=4.1.0",
+      "pyparsing>=3.0.0",
+      "sqlean.py==3.45.1",
+      "sqlalchemy>=1.0.0; extra == \"sqlalchemy\""
+    ]
+  },
+  "pydynamodb-0.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f34b7e0305807a35b0e9fb8f179c32bfed98172e321fae322bf606be8633d591",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "botocore",
+        "tenacity",
+        "pyparsing",
+        "sqlean.py"
+      ]
+    },
+    "original_requirements": [
+      "boto3>=1.21.0",
+      "botocore>=1.24.7",
+      "tenacity>=4.1.0",
+      "pyparsing>=3.0.0",
+      "sqlean.py==3.45.1",
+      "sqlalchemy>=1.0.0; extra == \"sqlalchemy\""
+    ]
+  }
+}

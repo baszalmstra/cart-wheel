@@ -1,0 +1,12 @@
+# Package configuration for fs-s3fs
+conda_forge = "fs-s3fs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fs_s3fs-1.1.1-py2.py3-none-any.whl" },
+  { filename = "fs_s3fs-1.1.0-py2.py3-none-any.whl" },
+  { filename = "fs_s3fs-1.0.0-py2.py3-none-any.whl" },
+  { filename = "fs_s3fs-0.1.9-py2.py3-none-any.whl" },
+  { filename = "fs_s3fs-0.1.8-py2.py3-none-any.whl" },
+]

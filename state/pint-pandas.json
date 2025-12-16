@@ -1,0 +1,112 @@
+{
+  "Pint_Pandas-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "785312752eba35cbc55f4fa788c9f3d315839157d94254c5c79b91c5690ba11e",
+    "dependencies": {
+      "required": [
+        "pint",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "pint>=0.24",
+      "pandas>=2.2",
+      "pytest; extra == \"test\"",
+      "pytest-mpl; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-subtests; extra == \"test\"",
+      "codecov; extra == \"test\"",
+      "coveralls; extra == \"test\"",
+      "nbval; extra == \"test\"",
+      "pyarrow; extra == \"test\""
+    ]
+  },
+  "Pint_Pandas-0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c95ebb60914219b3a32e0520953bd76e400c62cfba3cf63b4bfdae06faf904d",
+    "dependencies": {
+      "required": [
+        "pint",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "pint>=0.24",
+      "pandas>=2.2",
+      "pytest; extra == \"test\"",
+      "pytest-mpl; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "pytest-subtests; extra == \"test\"",
+      "codecov; extra == \"test\"",
+      "coveralls; extra == \"test\"",
+      "nbval; extra == \"test\"",
+      "pyarrow; extra == \"test\""
+    ]
+  },
+  "Pint_Pandas-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd2a1f50814e1b213e147d7380d37f7c079d6b9b58b0b7af90aa3b14124a64b2",
+    "dependencies": {
+      "required": [
+        "pint",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "pint >=0.24",
+      "pandas >=2.2",
+      "pytest ; extra == 'test'",
+      "pytest-mpl ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-subtests ; extra == 'test'",
+      "codecov ; extra == 'test'",
+      "coveralls ; extra == 'test'",
+      "nbval ; extra == 'test'",
+      "pyarrow ; extra == 'test'"
+    ]
+  },
+  "Pint_Pandas-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e2237f13ce1699015df151b76508ea131e34e308ef2c4ab856e993577f8539a6",
+    "dependencies": {
+      "required": [
+        "pint",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "pint >=0.24",
+      "pandas >=2.2",
+      "pytest ; extra == 'test'",
+      "pytest-mpl ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-subtests ; extra == 'test'",
+      "codecov ; extra == 'test'",
+      "coveralls ; extra == 'test'",
+      "nbval ; extra == 'test'",
+      "pyarrow ; extra == 'test'"
+    ]
+  },
+  "Pint_Pandas-0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ef7fd53be9cfd94e7d35dfad48dc34a62d9c15b149d5c205ee7ce703954da72",
+    "dependencies": {
+      "required": [
+        "pint",
+        "pandas"
+      ]
+    },
+    "original_requirements": [
+      "pint >=0.21",
+      "pandas >=1.5",
+      "pytest ; extra == 'test'",
+      "pytest-mpl ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-subtests ; extra == 'test'",
+      "codecov ; extra == 'test'",
+      "coveralls ; extra == 'test'",
+      "nbval ; extra == 'test'",
+      "pyarrow ; extra == 'test'"
+    ]
+  }
+}

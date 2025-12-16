@@ -1,0 +1,11 @@
+# Package configuration for subword-nmt
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "subword_nmt-0.3.8-py3-none-any.whl" },
+  { filename = "subword_nmt-0.3.7-py2.py3-none-any.whl" },
+  { filename = "subword_nmt-0.3.6-py2.py3-none-any.whl" },
+  { filename = "subword_nmt-0.3.5-py2.py3-none-any.whl" },
+  { filename = "subword_nmt-0.3.4-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,10 @@
+# Package configuration for mir-eval
+conda_forge = "mir_eval"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mir_eval-0.8.2-py3-none-any.whl" },
+  { filename = "mir_eval-0.8.1-py3-none-any.whl" },
+  { filename = "mir_eval-0.8.0-py3-none-any.whl" },
+]

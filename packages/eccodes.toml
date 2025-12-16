@@ -1,0 +1,12 @@
+# Package configuration for eccodes
+conda_forge = "python-eccodes"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "eccodes-2.44.0-py3-none-any.whl" },
+  { filename = "eccodes-2.43.0-py3-none-any.whl" },
+  { filename = "eccodes-2.42.0-py3-none-any.whl" },
+  { filename = "eccodes-2.41.0-py3-none-any.whl" },
+  { filename = "eccodes-2.40.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for identify
+conda_forge = "identify"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "identify-2.6.15-py2.py3-none-any.whl" },
+  { filename = "identify-2.6.14-py2.py3-none-any.whl" },
+  { filename = "identify-2.6.13-py2.py3-none-any.whl" },
+  { filename = "identify-2.6.12-py2.py3-none-any.whl" },
+  { filename = "identify-2.6.11-py2.py3-none-any.whl" },
+]

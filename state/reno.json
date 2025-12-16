@@ -1,0 +1,132 @@
+{
+  "reno-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b6a2cb768ffb7f7c74bbd76822acff70840a1219f45bcec5080dbc108df4f96",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "dulwich",
+        "packaging",
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=5.3.1)",
+      "dulwich (>=0.15.0)",
+      "packaging (>=20.4)",
+      "pbr",
+      "docutils (>=0.11) ; extra == 'sphinx'",
+      "sphinx (!=2.1.0,>=2.0.0) ; extra == 'sphinx'",
+      "coverage (!=4.4,>=4.0) ; extra == 'test'",
+      "openstackdocstheme (>=2.2.1) ; extra == 'test'",
+      "python-subunit (>=0.0.18) ; extra == 'test'",
+      "stestr (>=2.0.0) ; extra == 'test'",
+      "testscenarios (>=0.4) ; extra == 'test'",
+      "testtools (>=1.4.0) ; extra == 'test'"
+    ]
+  },
+  "reno-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "db7038061a5bfcc7bc61bfa3413fbc3202881f51ad011d21a58ae607ed1d5d9f",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "dulwich",
+        "packaging",
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=5.3.1)",
+      "dulwich (>=0.15.0)",
+      "packaging (>=20.4)",
+      "pbr",
+      "docutils (>=0.11) ; extra == 'sphinx'",
+      "sphinx (!=2.1.0,>=2.0.0) ; extra == 'sphinx'",
+      "coverage (!=4.4,>=4.0) ; extra == 'test'",
+      "openstackdocstheme (>=2.2.1) ; extra == 'test'",
+      "python-subunit (>=0.0.18) ; extra == 'test'",
+      "stestr (>=2.0.0) ; extra == 'test'",
+      "testscenarios (>=0.4) ; extra == 'test'",
+      "testtools (>=1.4.0) ; extra == 'test'"
+    ]
+  },
+  "reno-3.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55aae4c84c4849ea9d426c295d281bb5535e6ad54cebdc9f81d8d6511c08786b",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "dulwich",
+        "packaging",
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=5.3.1)",
+      "dulwich (>=0.15.0)",
+      "packaging (>=20.4)",
+      "pbr",
+      "docutils (>=0.11) ; extra == 'sphinx'",
+      "sphinx (!=2.1.0,>=2.0.0) ; extra == 'sphinx'",
+      "coverage (!=4.4,>=4.0) ; extra == 'test'",
+      "openstackdocstheme (>=2.2.1) ; extra == 'test'",
+      "python-subunit (>=0.0.18) ; extra == 'test'",
+      "stestr (>=2.0.0) ; extra == 'test'",
+      "testscenarios (>=0.4) ; extra == 'test'",
+      "testtools (>=1.4.0) ; extra == 'test'"
+    ]
+  },
+  "reno-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c3dbe6ea2f46d4138fb4a596c4e947eb0fa79f06cf9cf7b831d8171960ad534",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "dulwich",
+        "packaging",
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=5.3.1)",
+      "dulwich (>=0.15.0)",
+      "packaging (>=20.4)",
+      "pbr",
+      "docutils (>=0.11) ; extra == 'sphinx'",
+      "sphinx (!=2.1.0,>=2.0.0) ; extra == 'sphinx'",
+      "coverage (!=4.4,>=4.0) ; extra == 'test'",
+      "openstackdocstheme (>=2.2.1) ; extra == 'test'",
+      "python-subunit (>=0.0.18) ; extra == 'test'",
+      "stestr (>=2.0.0) ; extra == 'test'",
+      "testscenarios (>=0.4) ; extra == 'test'",
+      "testtools (>=1.4.0) ; extra == 'test'"
+    ]
+  },
+  "reno-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcf963b4a7cb01cbcf6d969710e72e6d366de8fa0108fe6d65892ab92de77fd1",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "dulwich",
+        "packaging",
+        "pbr"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=5.3.1)",
+      "dulwich (>=0.15.0)",
+      "packaging (>=20.4)",
+      "pbr",
+      "docutils (>=0.11) ; extra == 'sphinx'",
+      "sphinx (!=2.1.0,>=2.0.0) ; extra == 'sphinx'",
+      "coverage (!=4.4,>=4.0) ; extra == 'test'",
+      "openstackdocstheme (>=2.2.1) ; extra == 'test'",
+      "python-subunit (>=0.0.18) ; extra == 'test'",
+      "stestr (>=2.0.0) ; extra == 'test'",
+      "testscenarios (>=0.4) ; extra == 'test'",
+      "testtools (>=1.4.0) ; extra == 'test'"
+    ]
+  }
+}

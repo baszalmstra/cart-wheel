@@ -1,0 +1,216 @@
+{
+  "mapclassify-2.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dc39d6d924d546cdf2573bd587a7770e1a6ded3cb98272d6f0144319038566c5",
+    "dependencies": {
+      "required": [
+        "networkx",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "networkx>=3.2",
+      "numpy>=1.26",
+      "pandas>=2.1",
+      "scikit-learn>=1.4",
+      "scipy>=1.12",
+      "numba>=0.58; extra == \"speedups\"",
+      "ruff; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "watermark; extra == \"dev\"",
+      "nbsphinx; extra == \"docs\"",
+      "numpydoc; extra == \"docs\"",
+      "sphinx>=1.4.3; extra == \"docs\"",
+      "sphinx-gallery; extra == \"docs\"",
+      "sphinxcontrib-bibtex; extra == \"docs\"",
+      "sphinx_bootstrap_theme; extra == \"docs\"",
+      "geopandas; extra == \"spatial\"",
+      "libpysal; extra == \"spatial\"",
+      "matplotlib; extra == \"spatial\"",
+      "shapely; extra == \"spatial\"",
+      "mapclassify[spatial]; extra == \"notebooks\"",
+      "geodatasets; extra == \"notebooks\"",
+      "ipywidgets; extra == \"notebooks\"",
+      "jupyterlab; extra == \"notebooks\"",
+      "lonboard; extra == \"notebooks\"",
+      "pyarrow; extra == \"notebooks\"",
+      "pydeck; extra == \"notebooks\"",
+      "seaborn; extra == \"notebooks\"",
+      "mapclassify[spatial]; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "pytest-doctestplus; extra == \"tests\"",
+      "mapclassify[dev,docs,notebooks,speedups,tests]; extra == \"all\""
+    ]
+  },
+  "mapclassify-2.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c2902a6d83ff7a2cd4d8884238c9c111a32470b7a8bde2cf4f62fef8166a497",
+    "dependencies": {
+      "required": [
+        "networkx",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "networkx>=3.2",
+      "numpy>=1.26",
+      "pandas>=2.1",
+      "scikit-learn>=1.4",
+      "scipy>=1.12",
+      "numba>=0.58; extra == \"speedups\"",
+      "ruff; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "watermark; extra == \"dev\"",
+      "nbsphinx; extra == \"docs\"",
+      "numpydoc; extra == \"docs\"",
+      "sphinx>=1.4.3; extra == \"docs\"",
+      "sphinx-gallery; extra == \"docs\"",
+      "sphinxcontrib-bibtex; extra == \"docs\"",
+      "sphinx_bootstrap_theme; extra == \"docs\"",
+      "geopandas; extra == \"spatial\"",
+      "libpysal; extra == \"spatial\"",
+      "matplotlib; extra == \"spatial\"",
+      "shapely; extra == \"spatial\"",
+      "mapclassify[spatial]; extra == \"notebooks\"",
+      "geodatasets; extra == \"notebooks\"",
+      "ipywidgets; extra == \"notebooks\"",
+      "jupyterlab; extra == \"notebooks\"",
+      "lonboard; extra == \"notebooks\"",
+      "pyarrow; extra == \"notebooks\"",
+      "pydeck; extra == \"notebooks\"",
+      "seaborn; extra == \"notebooks\"",
+      "mapclassify[spatial]; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "pytest-doctestplus; extra == \"tests\"",
+      "pytest-mpl; extra == \"tests\"",
+      "mapclassify[dev,docs,notebooks,speedups,tests]; extra == \"all\""
+    ]
+  },
+  "mapclassify-2.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c79ba6ba9e51c16a5c209e824a47c76aa2b6df5773ec8a56a2f3871590d92fb6",
+    "dependencies": {
+      "required": [
+        "networkx",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "networkx >=2.7",
+      "numpy >=1.23",
+      "pandas !=1.5.0,>=1.4",
+      "scikit-learn >=1.0",
+      "scipy >=1.8",
+      "numba[dev,docs,speedups,tests] ; extra == 'all'",
+      "ruff ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "watermark ; extra == 'dev'",
+      "nbsphinx ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "sphinx >=1.4.3 ; extra == 'docs'",
+      "sphinx-gallery ; extra == 'docs'",
+      "sphinxcontrib-bibtex ; extra == 'docs'",
+      "sphinx-bootstrap-theme ; extra == 'docs'",
+      "numba >=0.54 ; extra == 'speedups'",
+      "geopandas ; extra == 'tests'",
+      "libpysal ; extra == 'tests'",
+      "matplotlib ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "pytest-doctestplus ; extra == 'tests'",
+      "pytest-mpl ; extra == 'tests'"
+    ]
+  },
+  "mapclassify-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fa99b107aeead9862607af7ff9bafaa15ee8e485d432be3140f3fd3b878b9451",
+    "dependencies": {
+      "required": [
+        "networkx",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "networkx >=2.7",
+      "numpy >=1.23",
+      "pandas !=1.5.0,>=1.4",
+      "scikit-learn >=1.0",
+      "scipy >=1.8",
+      "numba[dev,docs,speedups,tests] ; extra == 'all'",
+      "ruff ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "watermark ; extra == 'dev'",
+      "nbsphinx ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "sphinx >=1.4.3 ; extra == 'docs'",
+      "sphinx-gallery ; extra == 'docs'",
+      "sphinxcontrib-bibtex ; extra == 'docs'",
+      "sphinx-bootstrap-theme ; extra == 'docs'",
+      "numba >=0.54 ; extra == 'speedups'",
+      "geopandas ; extra == 'tests'",
+      "libpysal ; extra == 'tests'",
+      "matplotlib ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "pytest-doctestplus ; extra == 'tests'",
+      "pytest-mpl ; extra == 'tests'"
+    ]
+  },
+  "mapclassify-2.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "876e08c56b11524c9a0c63762b3d54c761774fdc9e2c1b282d6a3f75d7a99f29",
+    "dependencies": {
+      "required": [
+        "networkx",
+        "numpy",
+        "pandas",
+        "scikit-learn",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "networkx >=2.7",
+      "numpy >=1.23",
+      "pandas !=1.5.0,>=1.4",
+      "scikit-learn >=1.0",
+      "scipy >=1.8",
+      "numba[dev,docs,speedups,tests] ; extra == 'all'",
+      "black ; extra == 'dev'",
+      "ruff ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "nbsphinx ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "sphinx >=1.4.3 ; extra == 'docs'",
+      "sphinx-gallery ; extra == 'docs'",
+      "sphinxcontrib-bibtex ; extra == 'docs'",
+      "sphinx-bootstrap-theme ; extra == 'docs'",
+      "numba >=0.54 ; extra == 'speedups'",
+      "geopandas ; extra == 'tests'",
+      "libpysal ; extra == 'tests'",
+      "matplotlib ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "pytest-doctestplus ; extra == 'tests'",
+      "pytest-mpl ; extra == 'tests'"
+    ]
+  }
+}

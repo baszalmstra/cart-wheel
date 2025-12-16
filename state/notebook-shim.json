@@ -1,0 +1,79 @@
+{
+  "notebook_shim-0.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "411a5be4e9dc882a074ccbcae671eda64cceb068767e9a3419096986560e1cef",
+    "dependencies": {
+      "required": [
+        "jupyter-server"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server<3,>=1.8",
+      "pytest; extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest-jupyter; extra == 'test'",
+      "pytest-tornasync; extra == 'test'"
+    ]
+  },
+  "notebook_shim-0.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a83496a43341c1674b093bfcebf0fe8e74cbe7eda5fd2bbc56f8e39e1486c0c7",
+    "dependencies": {
+      "required": [
+        "jupyter-server"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server<3,>=1.8",
+      "pytest; extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest-jupyter; extra == 'test'",
+      "pytest-tornasync; extra == 'test'"
+    ]
+  },
+  "notebook_shim-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c6c30f74c4fbea6fce55c1be58e7fd0409b1c681b075dcedceb005db5026949",
+    "dependencies": {
+      "required": [
+        "jupyter-server"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server<3,>=1.8",
+      "pytest; extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest-tornasync; extra == 'test'"
+    ]
+  },
+  "notebook_shim-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "481711abddfb2e5305b83cf0efe18475824eb47d1ba9f87f66a8c574b8b5c9e4",
+    "dependencies": {
+      "required": [
+        "jupyter-server"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server<3,>=1.8",
+      "pytest; extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest-tornasync; extra == 'test'"
+    ]
+  },
+  "notebook_shim-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "02432d55a01139ac16e2100888aa2b56c614720cec73a27e71f40a5387e45324",
+    "dependencies": {
+      "required": [
+        "jupyter-server"
+      ]
+    },
+    "original_requirements": [
+      "jupyter-server (~=1.8)",
+      "pytest ; extra == 'test'",
+      "pytest-tornasync ; extra == 'test'",
+      "pytest-console-scripts ; extra == 'test'"
+    ]
+  }
+}

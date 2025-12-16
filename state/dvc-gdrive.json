@@ -1,0 +1,193 @@
+{
+  "dvc_gdrive-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ee784501aa5229d4c02f195e783836d0d466c7218cf57bddcfa0f827ba5766c",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "pydrive2"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "pydrive2[fsspec] >=1.19.0",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==6.2.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-docker <2,>=1 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "pylint ==2.16.2 ; extra == 'tests'",
+      "pylint-pytest ==1.1.2 ; extra == 'tests'",
+      "pylint-plugin-utils ==0.6 ; extra == 'tests'",
+      "mypy ==0.981 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_gdrive-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5459afadd9af9dd22d29c0d503082e593d01f2552a551e05d5976c74852679ad",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "pydrive2"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "pydrive2[fsspec] >=1.16",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==6.2.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-docker <2,>=1 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "pylint ==2.16.2 ; extra == 'tests'",
+      "pylint-pytest ==1.1.2 ; extra == 'tests'",
+      "pylint-plugin-utils ==0.6 ; extra == 'tests'",
+      "mypy ==0.981 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_gdrive-2.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc0846185d4673a7ca45f975c58f13aa7fb94b564fd83c7c3d2959d4277d9abe",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "pydrive2"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "pydrive2[fsspec] (>=1.16)",
+      "wheel (==0.37.0) ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "pytest-docker (==0.10.3) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "mock (==4.0.3) ; extra == 'tests'",
+      "wget (==3.2) ; extra == 'tests'",
+      "filelock (==3.3.2) ; extra == 'tests'",
+      "xmltodict (==0.12.0) ; extra == 'tests'",
+      "Pygments (==2.10.0) ; extra == 'tests'",
+      "collective.checkdocs (==0.2) ; extra == 'tests'",
+      "pydocstyle (==6.1.1) ; extra == 'tests'",
+      "pylint (==2.16.2) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "pylint-plugin-utils (==0.6) ; extra == 'tests'",
+      "mypy (==0.981) ; extra == 'tests'",
+      "types-requests (==2.25.11) ; extra == 'tests'",
+      "types-tabulate (==0.8.3) ; extra == 'tests'",
+      "types-toml (==0.10.1) ; extra == 'tests'",
+      "pywin32 (>=225) ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_gdrive-2.19.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b2d51fa98f231a93cdf396531d5a3b033e2f0e9788d4b0c4e81a72be083bd9b5",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "pydrive2"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "pydrive2[fsspec] (>=1.15.3)",
+      "wheel (==0.37.0) ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "pytest-docker (==0.10.3) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "mock (==4.0.3) ; extra == 'tests'",
+      "wget (==3.2) ; extra == 'tests'",
+      "filelock (==3.3.2) ; extra == 'tests'",
+      "xmltodict (==0.12.0) ; extra == 'tests'",
+      "Pygments (==2.10.0) ; extra == 'tests'",
+      "collective.checkdocs (==0.2) ; extra == 'tests'",
+      "pydocstyle (==6.1.1) ; extra == 'tests'",
+      "pylint (==2.16.2) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "pylint-plugin-utils (==0.6) ; extra == 'tests'",
+      "mypy (==0.981) ; extra == 'tests'",
+      "types-requests (==2.25.11) ; extra == 'tests'",
+      "types-tabulate (==0.8.3) ; extra == 'tests'",
+      "types-toml (==0.10.1) ; extra == 'tests'",
+      "pywin32 (>=225) ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_gdrive-2.19.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9db90073a02db04fe5d30fa0969274d97a46f64592d1d237780861526f25a474",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "pydrive2"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "pydrive2[fsspec] (>=1.15.0)",
+      "wheel (==0.37.0) ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "pytest-docker (==0.10.3) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "mock (==4.0.3) ; extra == 'tests'",
+      "wget (==3.2) ; extra == 'tests'",
+      "filelock (==3.3.2) ; extra == 'tests'",
+      "crc32c (==2.2.post0) ; extra == 'tests'",
+      "xmltodict (==0.12.0) ; extra == 'tests'",
+      "Pygments (==2.10.0) ; extra == 'tests'",
+      "collective.checkdocs (==0.2) ; extra == 'tests'",
+      "pydocstyle (==6.1.1) ; extra == 'tests'",
+      "pylint (==2.11.1) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "pylint-plugin-utils (==0.6) ; extra == 'tests'",
+      "mypy (==0.910) ; extra == 'tests'",
+      "types-requests (==2.25.11) ; extra == 'tests'",
+      "types-tabulate (==0.8.3) ; extra == 'tests'",
+      "types-toml (==0.10.1) ; extra == 'tests'",
+      "pywin32 (>=225) ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  }
+}

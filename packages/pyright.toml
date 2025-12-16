@@ -1,0 +1,12 @@
+# Package configuration for pyright
+conda_forge = "pyright"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyright-1.1.407-py3-none-any.whl" },
+  { filename = "pyright-1.1.406-py3-none-any.whl" },
+  { filename = "pyright-1.1.405-py3-none-any.whl" },
+  { filename = "pyright-1.1.404-py3-none-any.whl" },
+  { filename = "pyright-1.1.403-py3-none-any.whl" },
+]

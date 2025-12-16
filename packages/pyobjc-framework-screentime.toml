@@ -1,0 +1,11 @@
+# Package configuration for pyobjc-framework-screentime
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyobjc_framework_screentime-12.1-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_screentime-12.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_screentime-11.1-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_ScreenTime-11.0-py2.py3-none-any.whl" },
+  { filename = "pyobjc_framework_ScreenTime-10.3.2-py2.py3-none-any.whl" },
+]

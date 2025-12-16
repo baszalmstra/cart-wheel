@@ -1,0 +1,12 @@
+# Package configuration for notebook
+conda_forge = "notebook"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "notebook-7.5.0-py3-none-any.whl" },
+  { filename = "notebook-7.4.7-py3-none-any.whl" },
+  { filename = "notebook-7.4.6-py3-none-any.whl" },
+  { filename = "notebook-7.4.5-py3-none-any.whl" },
+  { filename = "notebook-7.4.4-py3-none-any.whl" },
+]

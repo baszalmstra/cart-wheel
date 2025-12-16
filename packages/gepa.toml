@@ -1,0 +1,12 @@
+# Package configuration for gepa
+conda_forge = "gepa"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "gepa-0.0.22-py3-none-any.whl" },
+  { filename = "gepa-0.0.21-py3-none-any.whl" },
+  { filename = "gepa-0.0.20-py3-none-any.whl" },
+  { filename = "gepa-0.0.19-py3-none-any.whl" },
+  { filename = "gepa-0.0.18-py3-none-any.whl" },
+]

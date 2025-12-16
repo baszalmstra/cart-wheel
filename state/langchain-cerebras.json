@@ -1,0 +1,72 @@
+{
+  "langchain_cerebras-0.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca956bd8906e4760d903d3b9c614913488a87e44ee61522fafd66267dfb6582f",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain-openai"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core (>=1.1.0,<2.0.0)",
+      "langchain-openai (>=1.0.2,<2.0.0)"
+    ]
+  },
+  "langchain_cerebras-0.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3f0b9dc1f99747d2a5fa574b58bc8d3e7ebc8cd99bd226dec40fa11c87606da",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain-openai"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core (>=0.3.29,<2.0.0)",
+      "langchain-openai (>=0.3.0,<2.0.0)"
+    ]
+  },
+  "langchain_cerebras-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ab43c3e9eba29a6322cf10ebfcf46842059dbb39bc7927fe56bd5922bc07b65a",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain-openai"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core (>=0.3.29,<2.0.0)",
+      "langchain-openai (>=0.3.0,<2.0.0)"
+    ]
+  },
+  "langchain_cerebras-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ef7ade74f745ebdcd7c2aa8c06f430a26517860d2e992adfdd1c8d3dced71156",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain-openai"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core (>=0.3.29,<2.0.0)",
+      "langchain-openai (>=0.3.0,<2.0.0)"
+    ]
+  },
+  "langchain_cerebras-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dc6cca11a6ddf67c6044cd8f7cba2af0924159802c71bf00dd9b9079c671f1ee",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain-openai"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core (>=0.3.29)",
+      "langchain-openai (>=0.3.0,<0.4.0)"
+    ]
+  }
+}

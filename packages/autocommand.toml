@@ -1,0 +1,12 @@
+# Package configuration for autocommand
+conda_forge = "autocommand"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "autocommand-2.2.2-py3-none-any.whl" },
+  { filename = "autocommand-2.2.1-py3-none-any.whl" },
+  { filename = "autocommand-2.2.0-py3-none-any.whl" },
+  { filename = "autocommand-2.1.5-py3-none-any.whl" },
+  { filename = "autocommand-2.1.4-py3-none-any.whl" },
+]

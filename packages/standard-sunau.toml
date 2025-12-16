@@ -1,0 +1,11 @@
+# Package configuration for standard-sunau
+conda_forge = "standard-sunau"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "standard_sunau-3.13.0-py3-none-any.whl" },
+  { filename = "standard_sunau-3.12.2-py3-none-any.whl" },
+  { filename = "standard_sunau-3.11.9-py3-none-any.whl" },
+  { filename = "standard_sunau-3.10.14-py3-none-any.whl" },
+]

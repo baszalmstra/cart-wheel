@@ -1,0 +1,11 @@
+# Package configuration for datetime
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "datetime-6.0-py3-none-any.whl" },
+  { filename = "DateTime-5.5-py3-none-any.whl" },
+  { filename = "DateTime-5.4-py3-none-any.whl" },
+  { filename = "DateTime-5.3-py3-none-any.whl" },
+  { filename = "DateTime-5.2-py3-none-any.whl" },
+]

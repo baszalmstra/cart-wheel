@@ -1,0 +1,90 @@
+{
+  "apache_airflow_providers_elasticsearch-6.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "845b4377fe429449d2421db569077e8093a13ee4b1f4fe8f7ea3392d925d3faa",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "elasticsearch"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "elasticsearch>=8.10,<9"
+    ]
+  },
+  "apache_airflow_providers_elasticsearch-6.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84adea0598c8117bb5bb5adb3e18cfd0d1ca747707606668590998ac8f408d3c",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "elasticsearch"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "elasticsearch>=8.10,<9"
+    ]
+  },
+  "apache_airflow_providers_elasticsearch-6.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf2c4cdd086518372d4d87ceeb9ac6d15e1eb3d0c3b9310f402941d9cacf44fb",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "elasticsearch"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "elasticsearch>=8.10,<9"
+    ]
+  },
+  "apache_airflow_providers_elasticsearch-6.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e5b2fd787179b4b0d553a74748e73ff0b837a4e2669a4709d5aca7d582f55be9",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "elasticsearch"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "elasticsearch>=8.10,<9"
+    ]
+  },
+  "apache_airflow_providers_elasticsearch-6.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23df9ca9170a03b8f4f4d890de434322ae3a53472c9b6678921c4cf4b351233c",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "elasticsearch"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "elasticsearch>=8.10,<9"
+    ]
+  }
+}

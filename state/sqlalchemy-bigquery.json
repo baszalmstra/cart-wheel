@@ -1,0 +1,194 @@
+{
+  "sqlalchemy_bigquery-1.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0fe7634cd954f3e74f5e2db6d159f9e5ee87a47fbe8d52eac3cd3bb3dadb3a77",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "google-cloud-bigquery",
+        "packaging",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0,>=1.31.5",
+      "google-auth<3.0.0,>=1.25.0",
+      "google-cloud-bigquery<4.0.0,>=3.3.6",
+      "packaging",
+      "sqlalchemy<3.0.0,>=1.4.16",
+      "GeoAlchemy2; extra == \"geography\"",
+      "shapely; extra == \"geography\"",
+      "alembic; extra == \"alembic\"",
+      "packaging; extra == \"tests\"",
+      "pytz; extra == \"tests\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.0.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.49.1; python_version == \"3.11\" and extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\" and extra == \"bqstorage\"",
+      "pyarrow>=5.0.0; extra == \"bqstorage\"",
+      "GeoAlchemy2; extra == \"all\"",
+      "shapely; extra == \"all\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.0.0; extra == \"all\"",
+      "grpcio<2.0.0,>=1.49.1; python_version == \"3.11\" and extra == \"all\"",
+      "pytz; extra == \"all\"",
+      "grpcio<2.0.0,>=1.75.1; python_version >= \"3.14\" and extra == \"all\"",
+      "pyarrow>=5.0.0; extra == \"all\"",
+      "packaging; extra == \"all\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"all\"",
+      "alembic; extra == \"all\""
+    ]
+  },
+  "sqlalchemy_bigquery-1.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5066b6557c1fa7f67bb284897db56ba51e36543386ce95f0e92c7fde75bbbcf4",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "google-cloud-bigquery",
+        "packaging",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0,>=1.31.5",
+      "google-auth<3.0.0,>=1.25.0",
+      "google-cloud-bigquery<4.0.0,>=3.3.6",
+      "packaging",
+      "sqlalchemy<3.0.0,>=1.4.16",
+      "GeoAlchemy2; extra == \"geography\"",
+      "shapely; extra == \"geography\"",
+      "alembic; extra == \"alembic\"",
+      "packaging; extra == \"tests\"",
+      "pytz; extra == \"tests\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.0.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"bqstorage\"",
+      "pyarrow>=3.0.0; extra == \"bqstorage\"",
+      "pyarrow>=3.0.0; extra == \"all\"",
+      "alembic; extra == \"all\"",
+      "pytz; extra == \"all\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.0.0; extra == \"all\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"all\"",
+      "GeoAlchemy2; extra == \"all\"",
+      "packaging; extra == \"all\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"all\"",
+      "shapely; extra == \"all\""
+    ]
+  },
+  "sqlalchemy_bigquery-1.14.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7a2906a0b799e6be2c191354794c198645d1dfb958f71a4a411c366902b2b57d",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "google-cloud-bigquery",
+        "packaging",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0,>=1.31.5",
+      "google-auth<3.0.0,>=1.25.0",
+      "google-cloud-bigquery<4.0.0,>=3.3.6",
+      "packaging",
+      "sqlalchemy<3.0.0,>=1.4.16",
+      "alembic; extra == \"alembic\"",
+      "alembic; extra == \"all\"",
+      "packaging; extra == \"all\"",
+      "pyarrow>=3.0.0; extra == \"all\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.0.0; extra == \"all\"",
+      "shapely; extra == \"all\"",
+      "pytz; extra == \"all\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"all\"",
+      "GeoAlchemy2; extra == \"all\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"all\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.0.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"bqstorage\"",
+      "pyarrow>=3.0.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"bqstorage\"",
+      "GeoAlchemy2; extra == \"geography\"",
+      "shapely; extra == \"geography\"",
+      "packaging; extra == \"tests\"",
+      "pytz; extra == \"tests\""
+    ]
+  },
+  "sqlalchemy_bigquery-1.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "679cfbd66fb2362bd7db3364fbf72c9456b309546605b2e6b255a1693e590b84",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "google-cloud-bigquery",
+        "packaging",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0,>=1.31.5",
+      "google-auth<3.0.0,>=1.25.0",
+      "google-cloud-bigquery<4.0.0,>=3.3.6",
+      "packaging",
+      "sqlalchemy<3.0.0,>=1.4.16",
+      "alembic; extra == \"alembic\"",
+      "GeoAlchemy2; extra == \"all\"",
+      "pyarrow>=3.0.0; extra == \"all\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"all\"",
+      "shapely; extra == \"all\"",
+      "alembic; extra == \"all\"",
+      "packaging; extra == \"all\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.0.0; extra == \"all\"",
+      "pytz; extra == \"all\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"all\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.0.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"bqstorage\"",
+      "pyarrow>=3.0.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"bqstorage\"",
+      "GeoAlchemy2; extra == \"geography\"",
+      "shapely; extra == \"geography\"",
+      "packaging; extra == \"tests\"",
+      "pytz; extra == \"tests\""
+    ]
+  },
+  "sqlalchemy_bigquery-1.13.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7af8e58e9d22db7b1268753463a95e38a9e6d6fe923687557288fa4be74753d4",
+    "dependencies": {
+      "required": [
+        "google-api-core",
+        "google-auth",
+        "google-cloud-bigquery",
+        "packaging",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "google-api-core!=2.0.*,!=2.1.*,!=2.2.*,!=2.3.0,<3.0.0,>=1.31.5",
+      "google-auth<3.0.0,>=1.25.0",
+      "google-cloud-bigquery<4.0.0,>=3.3.6",
+      "packaging",
+      "sqlalchemy<3.0.0,>=1.4.16",
+      "alembic; extra == \"alembic\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"all\"",
+      "GeoAlchemy2; extra == \"all\"",
+      "alembic; extra == \"all\"",
+      "shapely; extra == \"all\"",
+      "pytz; extra == \"all\"",
+      "packaging; extra == \"all\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.0.0; extra == \"all\"",
+      "pyarrow>=3.0.0; extra == \"all\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"all\"",
+      "google-cloud-bigquery-storage<3.0.0,>=2.0.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.47.0; extra == \"bqstorage\"",
+      "pyarrow>=3.0.0; extra == \"bqstorage\"",
+      "grpcio<2.0.0,>=1.49.1; python_version >= \"3.11\" and extra == \"bqstorage\"",
+      "GeoAlchemy2; extra == \"geography\"",
+      "shapely; extra == \"geography\"",
+      "packaging; extra == \"tests\"",
+      "pytz; extra == \"tests\""
+    ]
+  }
+}

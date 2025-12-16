@@ -1,0 +1,8 @@
+# Package configuration for mwcli
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mwcli-0.0.3-py2.py3-none-any.whl" },
+  { filename = "mwcli-0.0.2-py2.py3-none-any.whl" },
+]

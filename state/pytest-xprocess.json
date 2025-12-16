@@ -1,0 +1,74 @@
+{
+  "pytest_xprocess-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b0444d1f789fd9b4ba8b6b38b1d0139f226ab14091db2698a0521c1770523dd",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=2.8",
+      "psutil"
+    ]
+  },
+  "pytest_xprocess-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "804539ecdf88e91b854cc359c2316bf5f8ae68c94a63ce2191974f69ed291ec3",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=2.8",
+      "psutil"
+    ]
+  },
+  "pytest_xprocess-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b36e65dadf758632c3f0e4808a9847cdc7375812a8f90443ab7087403615fe3",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "pytest >=2.8",
+      "psutil"
+    ]
+  },
+  "pytest_xprocess-0.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "709a8de844aca4681e4bd46970020f65fdf75c1fc0d91406ec9e9f64b242991e",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "psutil"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.8)",
+      "psutil"
+    ]
+  },
+  "pytest_xprocess-0.22.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dabd65bc06485df85bb40d26d103d9ba9b94c63ce80a2358bf642bd679bcc742",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "psutil",
+        "py"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.8)",
+      "psutil",
+      "py"
+    ]
+  }
+}

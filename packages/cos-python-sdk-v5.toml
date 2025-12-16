@@ -1,0 +1,11 @@
+# Package configuration for cos-python-sdk-v5
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cos_python_sdk_v5-1.9.39-py3-none-any.whl" },
+  { filename = "cos_python_sdk_v5-1.9.38-py3-none-any.whl" },
+  { filename = "cos_python_sdk_v5-1.9.19-py3-none-any.whl" },
+  { filename = "cos_python_sdk_v5-1.9.18-py3-none-any.whl" },
+  { filename = "cos_python_sdk_v5-1.9.17-py3-none-any.whl" },
+]

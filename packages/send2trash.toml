@@ -1,0 +1,12 @@
+# Package configuration for send2trash
+conda_forge = "send2trash"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Send2Trash-1.8.3-py3-none-any.whl" },
+  { filename = "Send2Trash-1.8.2-py3-none-any.whl" },
+  { filename = "Send2Trash-1.8.0-py3-none-any.whl" },
+  { filename = "Send2Trash-1.7.1-py3-none-any.whl" },
+  { filename = "Send2Trash-1.5.0-py3-none-any.whl" },
+]

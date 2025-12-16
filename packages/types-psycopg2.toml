@@ -1,0 +1,12 @@
+# Package configuration for types-psycopg2
+conda_forge = "types-psycopg2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_psycopg2-2.9.21.20251012-py3-none-any.whl" },
+  { filename = "types_psycopg2-2.9.21.20250915-py3-none-any.whl" },
+  { filename = "types_psycopg2-2.9.21.20250809-py3-none-any.whl" },
+  { filename = "types_psycopg2-2.9.21.20250718-py3-none-any.whl" },
+  { filename = "types_psycopg2-2.9.21.20250516-py3-none-any.whl" },
+]

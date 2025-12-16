@@ -1,0 +1,12 @@
+# Package configuration for moviepy
+conda_forge = "moviepy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "moviepy-2.2.1-py3-none-any.whl" },
+  { filename = "moviepy-2.2.0-py3-none-any.whl" },
+  { filename = "moviepy-2.1.2-py3-none-any.whl" },
+  { filename = "moviepy-2.1.1-py3-none-any.whl" },
+  { filename = "moviepy-2.1.0-py3-none-any.whl" },
+]

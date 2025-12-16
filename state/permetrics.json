@@ -1,0 +1,88 @@
+{
+  "permetrics-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b7252fff81e2e2dec67ca7db3826f4d6ec65072cfa76b8e41bc534ab53f331e",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.15.1)",
+      "scipy (>=1.7.1)",
+      "pytest (>=7.0) ; extra == 'dev'",
+      "pytest-cov (==4.0.0) ; extra == 'dev'",
+      "flake8 (>=4.0.1) ; extra == 'dev'",
+      "scikit-learn (>=1.0.1) ; extra == 'dev'"
+    ]
+  },
+  "permetrics-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b967dd4e0dffb46346d4f06c156f16c8db3927d9b655106e68bf2e5cd562c1c",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.15.1",
+      "scipy >=1.7.1",
+      "pytest >=7.0 ; extra == 'dev'",
+      "pytest-cov ==4.0.0 ; extra == 'dev'",
+      "flake8 >=4.0.1 ; extra == 'dev'"
+    ]
+  },
+  "permetrics-1.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44a31ceededacc83078685ce4219e79a83be6828542c3bc5eaa485179279b475",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.15.1",
+      "scipy >=1.7.1",
+      "pytest >=7.0 ; extra == 'dev'",
+      "pytest-cov ==4.0.0 ; extra == 'dev'",
+      "flake8 >=4.0.1 ; extra == 'dev'"
+    ]
+  },
+  "permetrics-1.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ee6c44cbfa37be88cd21ad74055748ca7652f31f082db81d6f4b38ce0ad1f694",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.15.1",
+      "scipy >=1.7.1",
+      "pytest >=7.0 ; extra == 'dev'",
+      "pytest-cov ==4.0.0 ; extra == 'dev'",
+      "flake8 >=4.0.1 ; extra == 'dev'"
+    ]
+  },
+  "permetrics-1.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0cdd9d1d88a5348729045b119d8e19acfd307daf9d1e5bbb47384eb355de538d",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.15.1)",
+      "scipy (>=1.7.1)",
+      "pytest (>=7.0) ; extra == 'dev'",
+      "pytest-cov (==4.0.0) ; extra == 'dev'",
+      "flake8 (>=4.0.1) ; extra == 'dev'"
+    ]
+  }
+}

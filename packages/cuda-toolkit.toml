@@ -1,0 +1,11 @@
+# Package configuration for cuda-toolkit
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cuda_toolkit-13.0.1-py2.py3-none-any.whl" },
+  { filename = "cuda_toolkit-13.0.0-py2.py3-none-any.whl" },
+  { filename = "cuda_toolkit-12.9.1-py2.py3-none-any.whl" },
+  { filename = "cuda_toolkit-12.9.0-py2.py3-none-any.whl" },
+  { filename = "cuda_toolkit-12.8.1-py2.py3-none-any.whl" },
+]

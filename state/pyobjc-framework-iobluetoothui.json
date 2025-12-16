@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_iobluetoothui-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6d8ab98efa3029130577a57ee96b183c35c39b0f1c53a7534f8838260fab993",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-iobluetooth"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-IOBluetooth>=12.1"
+    ]
+  },
+  "pyobjc_framework_iobluetoothui-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2bfb0bf3589db9b4a06132503d2998490d5f2ad56e2259fb066c05f19b71754a",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-iobluetooth"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-IOBluetooth>=12.0"
+    ]
+  },
+  "pyobjc_framework_iobluetoothui-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c5a382d81f319a1ab9ab11b7ead04e53b758fdfeb604755d39c3039485eaac6",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-iobluetooth"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-IOBluetooth>=11.1"
+    ]
+  },
+  "pyobjc_framework_IOBluetoothUI-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0f94afeb5ecbde07712ea7658a38d6b0e3558154a6bc29c9a33b633f5952b2c3",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-iobluetooth"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-IOBluetooth >=11.0"
+    ]
+  },
+  "pyobjc_framework_IOBluetoothUI-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5cad8e43694656b62b9fabdf8d41132090cfc36d1f2cf0656a0cc3506263d16c",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-iobluetooth"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-IOBluetooth>=10.3.2"
+    ]
+  }
+}

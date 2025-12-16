@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-managedkafka
+conda_forge = "google-cloud-managedkafka"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_managedkafka-0.2.0-py3-none-any.whl" },
+  { filename = "google_cloud_managedkafka-0.1.12-py3-none-any.whl" },
+  { filename = "google_cloud_managedkafka-0.1.11-py3-none-any.whl" },
+  { filename = "google_cloud_managedkafka-0.1.10-py3-none-any.whl" },
+  { filename = "google_cloud_managedkafka-0.1.9-py3-none-any.whl" },
+]

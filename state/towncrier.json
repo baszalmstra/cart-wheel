@@ -1,0 +1,126 @@
+{
+  "towncrier-25.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b953d133d98f9aeae9084b56a3563fd2519dfc6ec33f61c9cd2c61ff243fb513",
+    "dependencies": {
+      "required": [
+        "click",
+        "importlib-metadata",
+        "importlib-resources",
+        "jinja2",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "importlib-metadata>=4.6; python_version < '3.10'",
+      "importlib-resources>=5; python_version < '3.10'",
+      "jinja2",
+      "tomli; python_version < '3.11'",
+      "furo>=2024.05.06; extra == 'dev'",
+      "nox; extra == 'dev'",
+      "packaging; extra == 'dev'",
+      "sphinx>=5; extra == 'dev'",
+      "twisted; extra == 'dev'"
+    ]
+  },
+  "towncrier-24.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9343209592b839209cdf28c339ba45792fbfe9775b5f9c177462fd693e127d8d",
+    "dependencies": {
+      "required": [
+        "click",
+        "importlib-metadata",
+        "importlib-resources",
+        "jinja2",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "importlib-metadata>=4.6; python_version < '3.10'",
+      "importlib-resources>=5; python_version < '3.10'",
+      "jinja2",
+      "tomli; python_version < '3.11'",
+      "furo>=2024.05.06; extra == 'dev'",
+      "nox; extra == 'dev'",
+      "packaging; extra == 'dev'",
+      "sphinx>=5; extra == 'dev'",
+      "twisted; extra == 'dev'"
+    ]
+  },
+  "towncrier-24.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "685e2a94335b5dc47537b4d3b449a25b18571ea85b07dcf6e8df31ba40f692dd",
+    "dependencies": {
+      "required": [
+        "click",
+        "importlib-metadata",
+        "importlib-resources",
+        "jinja2",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "importlib-metadata>=4.6; python_version < '3.10'",
+      "importlib-resources>=5; python_version < '3.10'",
+      "jinja2",
+      "tomli; python_version < '3.11'",
+      "furo>=2024.05.06; extra == 'dev'",
+      "nox; extra == 'dev'",
+      "packaging; extra == 'dev'",
+      "sphinx>=5; extra == 'dev'",
+      "twisted; extra == 'dev'"
+    ]
+  },
+  "towncrier-24.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "344ccdbd4a2af0e54e8fdad96b0082c4b5b988b9b021c8a65ccf54c25818ffbf",
+    "dependencies": {
+      "required": [
+        "click",
+        "importlib-metadata",
+        "importlib-resources",
+        "jinja2",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "importlib-metadata>=4.6; python_version < '3.10'",
+      "importlib-resources>=5; python_version < '3.10'",
+      "jinja2",
+      "tomli; python_version < '3.11'",
+      "furo>=2024.05.06; extra == 'dev'",
+      "nox; extra == 'dev'",
+      "packaging; extra == 'dev'",
+      "sphinx>=5; extra == 'dev'",
+      "twisted; extra == 'dev'"
+    ]
+  },
+  "towncrier-23.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e519ca619426d189e3c98c99558fe8be50c9ced13ea1fc20a4a353a95d2ded7",
+    "dependencies": {
+      "required": [
+        "click",
+        "importlib-resources",
+        "incremental",
+        "jinja2",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "importlib-resources>=5; python_version < '3.10'",
+      "incremental",
+      "jinja2",
+      "tomli; python_version < '3.11'",
+      "furo; extra == 'dev'",
+      "packaging; extra == 'dev'",
+      "sphinx>=5; extra == 'dev'",
+      "twisted; extra == 'dev'"
+    ]
+  }
+}

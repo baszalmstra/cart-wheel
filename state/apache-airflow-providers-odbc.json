@@ -1,0 +1,88 @@
+{
+  "apache_airflow_providers_odbc-4.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e754eee59f245437fc94c1c1aabc7717c80826d1ed3445a89d36beb1517f7960",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pyodbc",
+        "pyodbc"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "pyodbc>=5.0.0; python_version < '3.13'",
+      "pyodbc>=5.2.0; python_version >= '3.13'"
+    ]
+  },
+  "apache_airflow_providers_odbc-4.10.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b08ee21f5a279b214ba1cca1487a670c3abadd10b243df653778916d34031369",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pyodbc",
+        "pyodbc"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "pyodbc>=5.0.0; python_version < '3.13'",
+      "pyodbc>=5.2.0; python_version >= '3.13'"
+    ]
+  },
+  "apache_airflow_providers_odbc-4.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe999adaf8fee1e0297389070c1c1279b9fdc8de990202295150927f27c85a0a",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pyodbc",
+        "pyodbc"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "pyodbc>=5.0.0; python_version < '3.13'",
+      "pyodbc>=5.2.0; python_version >= '3.13'"
+    ]
+  },
+  "apache_airflow_providers_odbc-4.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9a724d21b28c9e67e00f6303cc7a3dad163f6cd88d67d75f92ab1754aa50f33",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pyodbc"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "pyodbc>=5.0.0"
+    ]
+  },
+  "apache_airflow_providers_odbc-4.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "58725c932e221ed76f2b2e13c1f64108a32f176b26e26cc939af2f17831e1e78",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pyodbc"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "pyodbc>=5.0.0"
+    ]
+  }
+}

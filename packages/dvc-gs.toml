@@ -1,0 +1,12 @@
+# Package configuration for dvc-gs
+conda_forge = "dvc-gs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dvc_gs-3.0.2-py3-none-any.whl" },
+  { filename = "dvc_gs-3.0.1-py3-none-any.whl" },
+  { filename = "dvc_gs-3.0.0-py3-none-any.whl" },
+  { filename = "dvc_gs-2.22.1-py3-none-any.whl" },
+  { filename = "dvc_gs-2.22.0-py3-none-any.whl" },
+]

@@ -1,0 +1,104 @@
+{
+  "py_txi-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d667f2fb36427e520df9bc14a719428c75438d59f0cf94a3b9027a6984c788c9",
+    "dependencies": {
+      "required": [
+        "docker",
+        "huggingface-hub",
+        "numpy",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "docker",
+      "huggingface-hub",
+      "numpy",
+      "aiohttp",
+      "ruff; extra == \"quality\"",
+      "pytest; extra == \"testing\""
+    ]
+  },
+  "py_txi-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9afa42f7b062e65d9229cd01d4401ae17db2fe006eaebe0f4e48c0f96354522",
+    "dependencies": {
+      "required": [
+        "docker",
+        "huggingface-hub",
+        "numpy",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "docker",
+      "huggingface-hub",
+      "numpy",
+      "aiohttp",
+      "ruff ; extra == 'quality'",
+      "pytest ; extra == 'testing'"
+    ]
+  },
+  "py_txi-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "04b740edaea537c204078d3720d129de5ade776934e8ff2db4bfaec8b8d6994e",
+    "dependencies": {
+      "required": [
+        "docker",
+        "huggingface-hub",
+        "numpy",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "docker",
+      "huggingface-hub",
+      "numpy",
+      "aiohttp",
+      "ruff ; extra == 'quality'",
+      "pytest ; extra == 'testing'"
+    ]
+  },
+  "py_txi-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90cfb3db85f9cfc9d352380f21af0177422131fdfaa8cb64039cb051d75674f4",
+    "dependencies": {
+      "required": [
+        "docker",
+        "huggingface-hub",
+        "numpy",
+        "aiohttp",
+        "coloredlogs"
+      ]
+    },
+    "original_requirements": [
+      "docker",
+      "huggingface-hub",
+      "numpy",
+      "aiohttp",
+      "coloredlogs",
+      "ruff ; extra == 'quality'",
+      "pytest ; extra == 'testing'"
+    ]
+  },
+  "py_txi-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "48b51d3ec077fb18feeb9308c14dd17b5dfad4db3db07e8e575ce434a3fa36fd",
+    "dependencies": {
+      "required": [
+        "docker",
+        "huggingface-hub",
+        "numpy",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "docker",
+      "huggingface-hub",
+      "numpy",
+      "aiohttp",
+      "ruff ; extra == 'quality'",
+      "pytest ; extra == 'testing'"
+    ]
+  }
+}

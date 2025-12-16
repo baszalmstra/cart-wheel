@@ -1,0 +1,9 @@
+# Package configuration for flake8-polyfill
+conda_forge = "flake8-polyfill"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_polyfill-1.0.2-py2.py3-none-any.whl" },
+  { filename = "flake8_polyfill-1.0.1-py2.py3-none-any.whl" },
+]

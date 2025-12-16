@@ -1,0 +1,12 @@
+# Package configuration for stdlib-list
+conda_forge = "stdlib-list"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "stdlib_list-0.12.0-py3-none-any.whl" },
+  { filename = "stdlib_list-0.11.1-py3-none-any.whl" },
+  { filename = "stdlib_list-0.11.0-py3-none-any.whl" },
+  { filename = "stdlib_list-0.10.0-py3-none-any.whl" },
+  { filename = "stdlib_list-0.9.0-py3-none-any.whl" },
+]

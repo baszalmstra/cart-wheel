@@ -1,0 +1,12 @@
+# Package configuration for oci
+conda_forge = "oci"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oci-2.164.1-py3-none-any.whl" },
+  { filename = "oci-2.164.0-py3-none-any.whl" },
+  { filename = "oci-2.163.1-py3-none-any.whl" },
+  { filename = "oci-2.163.0-py3-none-any.whl" },
+  { filename = "oci-2.162.0-py3-none-any.whl" },
+]

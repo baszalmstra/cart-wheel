@@ -1,0 +1,50 @@
+{
+  "torchdata-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52b940fbbe0e00fb21cabddf528449d1bec5bfb0d0823b7487b15f951658ee33",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "requests",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "urllib3>=1.25",
+      "requests",
+      "torch>=2"
+    ]
+  },
+  "torchdata-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30bfb8300d0e4bf406d72930e453e2995ed5e31afce06fa335518ae070da5dab",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "requests",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "urllib3 (>=1.25)",
+      "requests",
+      "torch (>=2)"
+    ]
+  },
+  "torchdata-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81c2299d150e8c1abdfe202b8af19a1668c8a8cb679c0540d284dacb727ead49",
+    "dependencies": {
+      "required": [
+        "urllib3",
+        "requests",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "urllib3>=1.25",
+      "requests",
+      "torch>=2"
+    ]
+  }
+}

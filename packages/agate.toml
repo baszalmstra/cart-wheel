@@ -1,0 +1,12 @@
+# Package configuration for agate
+conda_forge = "agate"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "agate-1.13.0-py2.py3-none-any.whl" },
+  { filename = "agate-1.12.0-py2.py3-none-any.whl" },
+  { filename = "agate-1.11.0-py2.py3-none-any.whl" },
+  { filename = "agate-1.10.2-py2.py3-none-any.whl" },
+  { filename = "agate-1.10.1-py2.py3-none-any.whl" },
+]

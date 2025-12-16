@@ -1,0 +1,44 @@
+{
+  "pep440-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "36d6ad73f2b5d07769294cafe183500ac89d848c922a3d3f521b968481880d51",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "check-manifest ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "pytest-console-scripts ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "pytest ; extra == \"test\""
+    ]
+  },
+  "pep440-0.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b67dfb82c59e82999da6287ad762b85a4e0eb6db89e30b46e5abd8aae4f23f29",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "pep440-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cebc1a29a7a20ee60c7fcb25a7a1c71c4c5efa7782f8f96f0f7840bed40c6bf3",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "pep440-0.0.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d30854e39b2fdbbe5852e8df1d783c74c787a6d898f68fa8534b7a218690892",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "pep440-0.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c485befadb5f01ff02d1e8a14287d158be6e904938a84762e1fffd2fb9951b2b",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

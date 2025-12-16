@@ -1,0 +1,162 @@
+{
+  "patronus-0.1.24-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39c7176bb9872e03faeb978e9f73248a6930b7b184dbba3d926fee4c64e878b5",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp",
+        "opentelemetry-sdk",
+        "patronus-api",
+        "pydantic-settings",
+        "pydantic",
+        "pyyaml",
+        "tqdm",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.27.0",
+      "opentelemetry-api>=1.31.1",
+      "opentelemetry-exporter-otlp>=1.31.0",
+      "opentelemetry-sdk>=1.31.1",
+      "patronus-api>=0.2.0",
+      "pydantic-settings>=2.4.0",
+      "pydantic>=2.8.2",
+      "pyyaml>=6.0.2",
+      "tqdm>=4.66.5",
+      "typing-extensions>=4.12.2",
+      "patronus-examples==0.1.24; extra == 'examples'",
+      "pandas>=2.0.0; extra == 'experiments'"
+    ]
+  },
+  "patronus-0.1.23-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30838d54618488b51e171fdcccd9ce6075ca088314789fc6ad657e9679a8367c",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp",
+        "opentelemetry-sdk",
+        "patronus-api",
+        "pydantic-settings",
+        "pydantic",
+        "pyyaml",
+        "tqdm",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.27.0",
+      "opentelemetry-api>=1.31.1",
+      "opentelemetry-exporter-otlp>=1.31.0",
+      "opentelemetry-sdk>=1.31.1",
+      "patronus-api>=0.2.0",
+      "pydantic-settings>=2.4.0",
+      "pydantic>=2.8.2",
+      "pyyaml>=6.0.2",
+      "tqdm>=4.66.5",
+      "typing-extensions>=4.12.2",
+      "patronus-examples==0.1.23; extra == 'examples'",
+      "pandas>=2.0.0; extra == 'experiments'"
+    ]
+  },
+  "patronus-0.1.22-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd4ae4f1e6d31d93bcf843056aa2bf3b2c74859cddb9df2d5567ac37151a633c",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp",
+        "opentelemetry-sdk",
+        "patronus-api",
+        "pydantic-settings",
+        "pydantic",
+        "pyyaml",
+        "tqdm",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.27.0",
+      "opentelemetry-api>=1.31.1",
+      "opentelemetry-exporter-otlp>=1.31.0",
+      "opentelemetry-sdk>=1.31.1",
+      "patronus-api>=0.2.0",
+      "pydantic-settings>=2.4.0",
+      "pydantic>=2.8.2",
+      "pyyaml>=6.0.2",
+      "tqdm>=4.66.5",
+      "typing-extensions>=4.12.2",
+      "patronus-examples==0.1.22; extra == 'examples'",
+      "pandas>=2.0.0; extra == 'experiments'"
+    ]
+  },
+  "patronus-0.1.21-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4dfacf701cdbc4932122ec945614fb8bf949ef4de4aab8c6cd2520cb7d3300bd",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp",
+        "opentelemetry-sdk",
+        "patronus-api",
+        "pydantic-settings",
+        "pydantic",
+        "pyyaml",
+        "tqdm",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.27.0",
+      "opentelemetry-api>=1.31.1",
+      "opentelemetry-exporter-otlp>=1.31.0",
+      "opentelemetry-sdk>=1.31.1",
+      "patronus-api>=0.2.0",
+      "pydantic-settings>=2.4.0",
+      "pydantic>=2.8.2",
+      "pyyaml>=6.0.2",
+      "tqdm>=4.66.5",
+      "typing-extensions>=4.12.2",
+      "patronus-examples==0.1.21; extra == 'examples'",
+      "pandas>=2.0.0; extra == 'experiments'"
+    ]
+  },
+  "patronus-0.1.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9c8b4cdf3e3994c07c27e3ba8e9f7e7f5c7aa83b5afb7922b375195a9217dcd",
+    "dependencies": {
+      "required": [
+        "httpx",
+        "opentelemetry-api",
+        "opentelemetry-exporter-otlp",
+        "opentelemetry-sdk",
+        "patronus-api",
+        "pydantic-settings",
+        "pydantic",
+        "pyyaml",
+        "tqdm",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "httpx>=0.27.0",
+      "opentelemetry-api>=1.31.1",
+      "opentelemetry-exporter-otlp>=1.31.0",
+      "opentelemetry-sdk>=1.31.1",
+      "patronus-api>=0.2.0",
+      "pydantic-settings>=2.4.0",
+      "pydantic>=2.8.2",
+      "pyyaml>=6.0.2",
+      "tqdm>=4.66.5",
+      "typing-extensions>=4.12.2",
+      "patronus-examples==0.1.20; extra == 'examples'",
+      "pandas>=2.0.0; extra == 'experiments'"
+    ]
+  }
+}

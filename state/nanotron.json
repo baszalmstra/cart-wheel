@@ -1,0 +1,89 @@
+{
+  "nanotron-0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c1834e91c17c651f430d46a1e779bc49991c33bda26cc237beae7d12b383ad9",
+    "dependencies": {
+      "required": [
+        "torch",
+        "pyyaml",
+        "numpy",
+        "packaging",
+        "safetensors",
+        "dacite",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "torch >=1.13.1",
+      "pyyaml",
+      "numpy",
+      "packaging",
+      "safetensors",
+      "dacite",
+      "tqdm",
+      "pre-commit ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "flash-attn >=2.5.0 ; extra == 'fast-modeling'",
+      "pytest ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'"
+    ]
+  },
+  "nanotron-0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e5902cbc4503847a3769ba8d804865a1ee54b434411faba701bbb1a8bd86c358",
+    "dependencies": {
+      "required": [
+        "torch",
+        "pyyaml",
+        "numpy",
+        "packaging",
+        "safetensors",
+        "dacite",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "torch >=1.13.1",
+      "pyyaml",
+      "numpy",
+      "packaging",
+      "safetensors",
+      "dacite",
+      "tqdm",
+      "pre-commit ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "flash-attn >=2.5.0 ; extra == 'fast-modeling'",
+      "pytest ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'"
+    ]
+  },
+  "nanotron-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b8751df66927cdf75ff51dd17bc427e0c571e36743f0377728b18080016cd05b",
+    "dependencies": {
+      "required": [
+        "torch",
+        "pyyaml",
+        "numpy",
+        "packaging",
+        "safetensors",
+        "dacite",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "torch >=1.13.1",
+      "pyyaml",
+      "numpy",
+      "packaging",
+      "safetensors",
+      "dacite",
+      "tqdm",
+      "pre-commit ; extra == 'dev'",
+      "pylint ; extra == 'dev'",
+      "flash-attn >=2.5.0 ; extra == 'fast-modeling'",
+      "pytest ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for array-api-strict
+conda_forge = "array-api-strict"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "array_api_strict-2.4.1-py3-none-any.whl" },
+  { filename = "array_api_strict-2.4-py3-none-any.whl" },
+  { filename = "array_api_strict-2.3.1-py3-none-any.whl" },
+  { filename = "array_api_strict-2.3-py3-none-any.whl" },
+  { filename = "array_api_strict-2.2-py3-none-any.whl" },
+]

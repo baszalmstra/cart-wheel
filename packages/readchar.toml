@@ -1,0 +1,12 @@
+# Package configuration for readchar
+conda_forge = "readchar"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "readchar-4.2.1-py3-none-any.whl" },
+  { filename = "readchar-4.2.0-py3-none-any.whl" },
+  { filename = "readchar-4.1.0-py3-none-any.whl" },
+  { filename = "readchar-4.0.6-py3-none-any.whl" },
+  { filename = "readchar-4.0.5-py3-none-any.whl" },
+]

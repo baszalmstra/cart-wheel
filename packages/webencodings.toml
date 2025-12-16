@@ -1,0 +1,8 @@
+# Package configuration for webencodings
+conda_forge = "webencodings"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "webencodings-0.5.1-py2.py3-none-any.whl" },
+]

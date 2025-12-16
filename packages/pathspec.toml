@@ -1,0 +1,12 @@
+# Package configuration for pathspec
+conda_forge = "pathspec"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pathspec-0.12.1-py3-none-any.whl" },
+  { filename = "pathspec-0.12.0-py3-none-any.whl" },
+  { filename = "pathspec-0.11.2-py3-none-any.whl" },
+  { filename = "pathspec-0.11.1-py3-none-any.whl" },
+  { filename = "pathspec-0.11.0-py3-none-any.whl" },
+]

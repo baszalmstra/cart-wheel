@@ -1,0 +1,8 @@
+# Package configuration for langchain-deepseek-official
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_deepseek_official-0.1.0.post1-py3-none-any.whl" },
+  { filename = "langchain_deepseek_official-0.1.0-py3-none-any.whl" },
+]

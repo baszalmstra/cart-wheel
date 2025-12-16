@@ -1,0 +1,12 @@
+# Package configuration for rotary-embedding-torch
+conda_forge = "rotary-embedding-torch"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rotary_embedding_torch-0.8.9-py3-none-any.whl" },
+  { filename = "rotary_embedding_torch-0.8.8-py3-none-any.whl" },
+  { filename = "rotary_embedding_torch-0.8.7-py3-none-any.whl" },
+  { filename = "rotary_embedding_torch-0.8.6-py3-none-any.whl" },
+  { filename = "rotary_embedding_torch-0.8.5-py3-none-any.whl" },
+]

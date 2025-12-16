@@ -1,0 +1,11 @@
+# Package configuration for ruamel.yaml.jinja2
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ruamel.yaml.jinja2-0.2.7-py2.py3-none-any.whl" },
+  { filename = "ruamel.yaml.jinja2-0.2.6-py2.py3-none-any.whl" },
+  { filename = "ruamel.yaml.jinja2-0.2.4-py2.py3-none-any.whl" },
+  { filename = "ruamel.yaml.jinja2-0.2.3-py2.py3-none-any.whl" },
+  { filename = "ruamel.yaml.jinja2-0.2.2-py2.py3-none-any.whl" },
+]

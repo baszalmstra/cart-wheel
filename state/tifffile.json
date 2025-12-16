@@ -1,0 +1,217 @@
+{
+  "tifffile-2025.12.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e3e3f1290ec6741ca248a5b5a997125209b5c2962f6bd9aef01ea9352c25d0ee",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "imagecodecs>=2025.11.11; extra == \"codecs\"",
+      "defusedxml; extra == \"xml\"",
+      "lxml; extra == \"xml\"",
+      "zarr>=3.1.3; extra == \"zarr\"",
+      "fsspec; extra == \"zarr\"",
+      "kerchunk; extra == \"zarr\"",
+      "matplotlib; extra == \"plot\"",
+      "imagecodecs>=2025.11.11; extra == \"all\"",
+      "matplotlib; extra == \"all\"",
+      "defusedxml; extra == \"all\"",
+      "lxml; extra == \"all\"",
+      "zarr>=3.1.3; extra == \"all\"",
+      "fsspec; extra == \"all\"",
+      "kerchunk; extra == \"all\"",
+      "cmapfile; extra == \"test\"",
+      "czifile; extra == \"test\"",
+      "dask; extra == \"test\"",
+      "defusedxml; extra == \"test\"",
+      "fsspec; extra == \"test\"",
+      "imagecodecs; extra == \"test\"",
+      "kerchunk; extra == \"test\"",
+      "lfdfiles; extra == \"test\"",
+      "lxml; extra == \"test\"",
+      "ndtiff; extra == \"test\"",
+      "oiffile; extra == \"test\"",
+      "psdtags; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "requests; extra == \"test\"",
+      "roifile; extra == \"test\"",
+      "xarray; extra == \"test\"",
+      "zarr>=3.1.3; extra == \"test\""
+    ]
+  },
+  "tifffile-2025.10.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41463d979c1c262b0a5cdef2a7f95f0388a072ad82d899458b154a48609d759c",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "imagecodecs>=2024.12.30; extra == \"codecs\"",
+      "defusedxml; extra == \"xml\"",
+      "lxml; extra == \"xml\"",
+      "zarr>=3.1.3; extra == \"zarr\"",
+      "fsspec; extra == \"zarr\"",
+      "kerchunk; extra == \"zarr\"",
+      "matplotlib; extra == \"plot\"",
+      "imagecodecs>=2024.12.30; extra == \"all\"",
+      "matplotlib; extra == \"all\"",
+      "defusedxml; extra == \"all\"",
+      "lxml; extra == \"all\"",
+      "zarr>=3.1.3; extra == \"all\"",
+      "fsspec; extra == \"all\"",
+      "kerchunk; extra == \"all\"",
+      "cmapfile; extra == \"test\"",
+      "czifile; extra == \"test\"",
+      "dask; extra == \"test\"",
+      "defusedxml; extra == \"test\"",
+      "fsspec; extra == \"test\"",
+      "imagecodecs; extra == \"test\"",
+      "kerchunk; extra == \"test\"",
+      "lfdfiles; extra == \"test\"",
+      "lxml; extra == \"test\"",
+      "ndtiff; extra == \"test\"",
+      "oiffile; extra == \"test\"",
+      "psdtags; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "requests; extra == \"test\"",
+      "roifile; extra == \"test\"",
+      "xarray; extra == \"test\"",
+      "zarr>=3.1.3; extra == \"test\""
+    ]
+  },
+  "tifffile-2025.10.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7687d691e49026053181470cec70fa9250e3a586b2041041297e38b10bbd34e1",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "imagecodecs>=2024.12.30; extra == \"codecs\"",
+      "defusedxml; extra == \"xml\"",
+      "lxml; extra == \"xml\"",
+      "zarr>=3.1.3; extra == \"zarr\"",
+      "fsspec; extra == \"zarr\"",
+      "kerchunk; extra == \"zarr\"",
+      "matplotlib; extra == \"plot\"",
+      "imagecodecs>=2024.12.30; extra == \"all\"",
+      "matplotlib; extra == \"all\"",
+      "defusedxml; extra == \"all\"",
+      "lxml; extra == \"all\"",
+      "zarr>=3.1.3; extra == \"all\"",
+      "fsspec; extra == \"all\"",
+      "kerchunk; extra == \"all\"",
+      "cmapfile; extra == \"test\"",
+      "czifile; extra == \"test\"",
+      "dask; extra == \"test\"",
+      "defusedxml; extra == \"test\"",
+      "fsspec; extra == \"test\"",
+      "imagecodecs; extra == \"test\"",
+      "kerchunk; extra == \"test\"",
+      "lfdfiles; extra == \"test\"",
+      "lxml; extra == \"test\"",
+      "ndtiff; extra == \"test\"",
+      "oiffile; extra == \"test\"",
+      "psdtags; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "requests; extra == \"test\"",
+      "roifile; extra == \"test\"",
+      "xarray; extra == \"test\"",
+      "zarr>=3.1.3; extra == \"test\""
+    ]
+  },
+  "tifffile-2025.9.30-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b2c42b6821583335407a8c48686358fcfee6e9e94f38895cbf9b111a6186c86",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "imagecodecs>=2024.12.30; extra == \"codecs\"",
+      "defusedxml; extra == \"xml\"",
+      "lxml; extra == \"xml\"",
+      "zarr>=3.1.3; extra == \"zarr\"",
+      "fsspec; extra == \"zarr\"",
+      "kerchunk; extra == \"zarr\"",
+      "matplotlib; extra == \"plot\"",
+      "imagecodecs>=2024.12.30; extra == \"all\"",
+      "matplotlib; extra == \"all\"",
+      "defusedxml; extra == \"all\"",
+      "lxml; extra == \"all\"",
+      "zarr>=3.1.3; extra == \"all\"",
+      "fsspec; extra == \"all\"",
+      "kerchunk; extra == \"all\"",
+      "cmapfile; extra == \"test\"",
+      "czifile; extra == \"test\"",
+      "dask; extra == \"test\"",
+      "defusedxml; extra == \"test\"",
+      "fsspec; extra == \"test\"",
+      "imagecodecs; extra == \"test\"",
+      "kerchunk; extra == \"test\"",
+      "lfdfiles; extra == \"test\"",
+      "lxml; extra == \"test\"",
+      "ndtiff; extra == \"test\"",
+      "oiffile; extra == \"test\"",
+      "psdtags; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "requests; extra == \"test\"",
+      "roifile; extra == \"test\"",
+      "xarray; extra == \"test\"",
+      "zarr>=3.1.3; extra == \"test\""
+    ]
+  },
+  "tifffile-2025.9.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "549dda2f2c65cc63b3d946942b9b43c09ae50caaae0aa7ea3d91a915acd45444",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "imagecodecs>=2024.12.30; extra == \"codecs\"",
+      "defusedxml; extra == \"xml\"",
+      "lxml; extra == \"xml\"",
+      "zarr>=3; extra == \"zarr\"",
+      "fsspec; extra == \"zarr\"",
+      "kerchunk; extra == \"zarr\"",
+      "matplotlib; extra == \"plot\"",
+      "imagecodecs>=2024.12.30; extra == \"all\"",
+      "matplotlib; extra == \"all\"",
+      "defusedxml; extra == \"all\"",
+      "lxml; extra == \"all\"",
+      "zarr>=3; extra == \"all\"",
+      "fsspec; extra == \"all\"",
+      "kerchunk; extra == \"all\"",
+      "cmapfile; extra == \"test\"",
+      "czifile; extra == \"test\"",
+      "dask; extra == \"test\"",
+      "defusedxml; extra == \"test\"",
+      "fsspec; extra == \"test\"",
+      "imagecodecs; extra == \"test\"",
+      "kerchunk; extra == \"test\"",
+      "lfdfiles; extra == \"test\"",
+      "lxml; extra == \"test\"",
+      "ndtiff; extra == \"test\"",
+      "oiffile; extra == \"test\"",
+      "psdtags; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "requests; extra == \"test\"",
+      "roifile; extra == \"test\"",
+      "xarray; extra == \"test\"",
+      "zarr>=3; extra == \"test\""
+    ]
+  }
+}

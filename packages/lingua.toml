@@ -1,0 +1,11 @@
+# Package configuration for lingua
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lingua-4.15.0-py2.py3-none-any.whl" },
+  { filename = "lingua-4.14-py2.py3-none-any.whl" },
+  { filename = "lingua-4.13-py2.py3-none-any.whl" },
+  { filename = "lingua-4.12-py2.py3-none-any.whl" },
+  { filename = "lingua-4.11-py2.py3-none-any.whl" },
+]

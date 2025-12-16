@@ -1,0 +1,187 @@
+{
+  "fastapi_pagination-0.15.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c0e8b3265270bfa46a580f7a3a24559b0825917625b5c4ed3a1cd60a173552f",
+    "dependencies": {
+      "required": [
+        "fastapi",
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "fastapi>=0.93.0",
+      "pydantic>=1.9.1",
+      "typing-extensions>=4.8.0",
+      "asyncpg>=0.24.0; extra == 'asyncpg'",
+      "sqlalchemy>=1.3.20; extra == 'asyncpg'",
+      "beanie>=2.0.0; extra == 'beanie'",
+      "bunnet>=1.1.0; extra == 'bunnet'",
+      "databases>=0.6.0; extra == 'databases'",
+      "databases>=0.6.0; extra == 'django'",
+      "django<6.0.0; extra == 'django'",
+      "elasticsearch-dsl>=8.13.0; extra == 'elasticsearch'",
+      "google-cloud-firestore>=2.19.0; extra == 'firestore'",
+      "mongoengine>=0.23.1; extra == 'mongoengine'",
+      "motor>=3.6.0; extra == 'motor'",
+      "odmantic>=1.0.2; extra == 'odmantic'",
+      "databases>=0.6.0; extra == 'orm'",
+      "orm>=0.3.1; extra == 'orm'",
+      "piccolo>=0.89; extra == 'piccolo'",
+      "scylla-driver>=3.25.6; extra == 'scylla-driver'",
+      "sqlakeyset>=2.0.1680321678; extra == 'sqlalchemy'",
+      "sqlalchemy>=1.3.20; extra == 'sqlalchemy'",
+      "sqlakeyset>=2.0.1680321678; extra == 'sqlmodel'",
+      "sqlmodel>=0.0.22; extra == 'sqlmodel'",
+      "tortoise-orm>=0.22.0; extra == 'tortoise'"
+    ]
+  },
+  "fastapi_pagination-0.15.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f8763a2e1caafe9c2a10ac860d6403935c31a067ffd6e93e57811bfec9873d87",
+    "dependencies": {
+      "required": [
+        "fastapi",
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "fastapi>=0.93.0",
+      "pydantic>=1.9.1",
+      "typing-extensions>=4.8.0",
+      "asyncpg>=0.24.0; extra == 'asyncpg'",
+      "sqlalchemy>=1.3.20; extra == 'asyncpg'",
+      "beanie>=2.0.0; extra == 'beanie'",
+      "bunnet>=1.1.0; extra == 'bunnet'",
+      "databases>=0.6.0; extra == 'databases'",
+      "databases>=0.6.0; extra == 'django'",
+      "django<6.0.0; extra == 'django'",
+      "elasticsearch-dsl>=8.13.0; extra == 'elasticsearch'",
+      "google-cloud-firestore>=2.19.0; extra == 'firestore'",
+      "mongoengine>=0.23.1; extra == 'mongoengine'",
+      "motor>=3.6.0; extra == 'motor'",
+      "odmantic>=1.0.2; extra == 'odmantic'",
+      "databases>=0.6.0; extra == 'orm'",
+      "orm>=0.3.1; extra == 'orm'",
+      "piccolo>=0.89; extra == 'piccolo'",
+      "scylla-driver>=3.25.6; extra == 'scylla-driver'",
+      "sqlakeyset>=2.0.1680321678; extra == 'sqlalchemy'",
+      "sqlalchemy>=1.3.20; extra == 'sqlalchemy'",
+      "sqlakeyset>=2.0.1680321678; extra == 'sqlmodel'",
+      "sqlmodel>=0.0.22; extra == 'sqlmodel'",
+      "tortoise-orm>=0.22.0; extra == 'tortoise'"
+    ]
+  },
+  "fastapi_pagination-0.15.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2a22a090db948ec9276bf0464e83be52aaea28109295e695c9e655d9a7da3b4",
+    "dependencies": {
+      "required": [
+        "fastapi",
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "fastapi>=0.93.0",
+      "pydantic>=1.9.1",
+      "typing-extensions>=4.8.0",
+      "asyncpg>=0.24.0; extra == 'asyncpg'",
+      "sqlalchemy>=1.3.20; extra == 'asyncpg'",
+      "beanie>=2.0.0; extra == 'beanie'",
+      "bunnet>=1.1.0; extra == 'bunnet'",
+      "databases>=0.6.0; extra == 'databases'",
+      "databases>=0.6.0; extra == 'django'",
+      "django<6.0.0; extra == 'django'",
+      "elasticsearch-dsl>=8.13.0; extra == 'elasticsearch'",
+      "google-cloud-firestore>=2.19.0; extra == 'firestore'",
+      "mongoengine>=0.23.1; extra == 'mongoengine'",
+      "motor>=3.6.0; extra == 'motor'",
+      "odmantic>=1.0.2; extra == 'odmantic'",
+      "databases>=0.6.0; extra == 'orm'",
+      "orm>=0.3.1; extra == 'orm'",
+      "piccolo>=0.89; extra == 'piccolo'",
+      "scylla-driver>=3.25.6; extra == 'scylla-driver'",
+      "sqlakeyset>=2.0.1680321678; extra == 'sqlalchemy'",
+      "sqlalchemy>=1.3.20; extra == 'sqlalchemy'",
+      "sqlakeyset>=2.0.1680321678; extra == 'sqlmodel'",
+      "sqlmodel>=0.0.22; extra == 'sqlmodel'",
+      "tortoise-orm>=0.22.0; extra == 'tortoise'"
+    ]
+  },
+  "fastapi_pagination-0.15.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ffef937e78903fcb6f356b8407ec1fb0620a06675087fa7d0c4e537a60aa0447",
+    "dependencies": {
+      "required": [
+        "fastapi",
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "fastapi>=0.93.0",
+      "pydantic>=1.9.1",
+      "typing-extensions<5,>=4.8.0",
+      "asyncpg>=0.24.0; extra == 'asyncpg'",
+      "sqlalchemy>=1.3.20; extra == 'asyncpg'",
+      "beanie>=2.0.0; extra == 'beanie'",
+      "bunnet<2,>=1.1.0; extra == 'bunnet'",
+      "databases>=0.6.0; extra == 'databases'",
+      "databases>=0.6.0; extra == 'django'",
+      "django<6.0.0; extra == 'django'",
+      "elasticsearch-dsl<9,>=8.13.0; extra == 'elasticsearch'",
+      "google-cloud-firestore<3,>=2.19.0; extra == 'firestore'",
+      "mongoengine<0.30.0,>=0.23.1; extra == 'mongoengine'",
+      "motor<4.0.0,>=3.6.0; extra == 'motor'",
+      "odmantic<2,>=1.0.2; extra == 'odmantic'",
+      "databases>=0.6.0; extra == 'orm'",
+      "orm>=0.3.1; extra == 'orm'",
+      "piccolo<1.25,>=0.89; extra == 'piccolo'",
+      "scylla-driver<4,>=3.25.6; extra == 'scylla-driver'",
+      "sqlakeyset<3,>=2.0.1680321678; extra == 'sqlalchemy'",
+      "sqlalchemy>=1.3.20; extra == 'sqlalchemy'",
+      "sqlakeyset<3,>=2.0.1680321678; extra == 'sqlmodel'",
+      "sqlmodel>=0.0.22; extra == 'sqlmodel'",
+      "tortoise-orm>=0.22.0; extra == 'tortoise'"
+    ]
+  },
+  "fastapi_pagination-0.14.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e87350b64010fd3b2df840218b1f65a21eec6078238cd3a1794c2468a03ea45f",
+    "dependencies": {
+      "required": [
+        "fastapi",
+        "pydantic",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "fastapi>=0.93.0",
+      "pydantic>=1.9.1",
+      "typing-extensions<5,>=4.8.0",
+      "asyncpg>=0.24.0; extra == 'asyncpg'",
+      "sqlalchemy>=1.3.20; extra == 'asyncpg'",
+      "beanie>=2.0.0; extra == 'beanie'",
+      "bunnet<2,>=1.1.0; extra == 'bunnet'",
+      "databases>=0.6.0; extra == 'databases'",
+      "databases>=0.6.0; extra == 'django'",
+      "django<6.0.0; extra == 'django'",
+      "elasticsearch-dsl<9,>=8.13.0; extra == 'elasticsearch'",
+      "google-cloud-firestore<3,>=2.19.0; extra == 'firestore'",
+      "mongoengine<0.30.0,>=0.23.1; extra == 'mongoengine'",
+      "motor<4.0.0,>=3.6.0; extra == 'motor'",
+      "odmantic<2,>=1.0.2; extra == 'odmantic'",
+      "databases>=0.6.0; extra == 'orm'",
+      "orm>=0.3.1; extra == 'orm'",
+      "piccolo<1.25,>=0.89; extra == 'piccolo'",
+      "scylla-driver<4,>=3.25.6; extra == 'scylla-driver'",
+      "sqlakeyset<3,>=2.0.1680321678; extra == 'sqlalchemy'",
+      "sqlalchemy>=1.3.20; extra == 'sqlalchemy'",
+      "sqlakeyset<3,>=2.0.1680321678; extra == 'sqlmodel'",
+      "sqlmodel>=0.0.22; extra == 'sqlmodel'",
+      "tortoise-orm>=0.22.0; extra == 'tortoise'"
+    ]
+  }
+}

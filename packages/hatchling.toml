@@ -1,0 +1,12 @@
+# Package configuration for hatchling
+conda_forge = "hatchling"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "hatchling-1.28.0-py3-none-any.whl" },
+  { filename = "hatchling-1.27.0-py3-none-any.whl" },
+  { filename = "hatchling-1.26.3-py3-none-any.whl" },
+  { filename = "hatchling-1.25.0-py3-none-any.whl" },
+  { filename = "hatchling-1.24.2-py3-none-any.whl" },
+]

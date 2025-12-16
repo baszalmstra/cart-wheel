@@ -1,0 +1,11 @@
+# Package configuration for pylons-sphinx-themes
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pylons_sphinx_themes-1.0.6-py2.py3-none-any.whl" },
+  { filename = "pylons_sphinx_themes-1.0.4-py2.py3-none-any.whl" },
+  { filename = "pylons_sphinx_themes-1.0.3-py2.py3-none-any.whl" },
+  { filename = "pylons_sphinx_themes-1.0.2-py2.py3-none-any.whl" },
+  { filename = "pylons_sphinx_themes-1.0.1-py2.py3-none-any.whl" },
+]

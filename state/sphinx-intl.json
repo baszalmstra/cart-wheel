@@ -1,0 +1,98 @@
+{
+  "sphinx_intl-2.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0082f9383066bab8406129a2ed531d21c38706d08467bf5ca3714e8914bb2be",
+    "dependencies": {
+      "required": [
+        "click",
+        "babel",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "click>=8.0.0",
+      "babel>=2.9.0",
+      "sphinx",
+      "pytest>=8.3.5; extra == \"test\""
+    ]
+  },
+  "sphinx_intl-2.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e3f4be80743e0e4c778fbc07e72b062c13c88c50645a69b62557a3f57a24b7fc",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "click",
+        "babel",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "click",
+      "babel",
+      "sphinx",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "sphinx_intl-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d753168145035a1378715523e0203fbcfe350b574bfab4d7ae432b36d338b4cf",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "click",
+        "babel",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "click",
+      "babel",
+      "sphinx",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "sphinx_intl-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "56ad5f360fae4aa1cb963448c802f141b55c87223bb32a7b29e936620bd1a381",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "click",
+        "babel",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "click",
+      "babel",
+      "sphinx",
+      "pytest ; extra == 'test'",
+      "mock ; extra == 'test'"
+    ]
+  },
+  "sphinx_intl-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9798946b995989de691387651d70c3fc191275b587e2e519655541edfd7bbd68",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "click",
+        "babel",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "setuptools",
+      "click",
+      "babel",
+      "sphinx",
+      "pytest ; extra == 'test'",
+      "mock ; extra == 'test'",
+      "six ; extra == 'test'"
+    ]
+  }
+}

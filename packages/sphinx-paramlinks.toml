@@ -1,0 +1,7 @@
+# Package configuration for sphinx-paramlinks
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_paramlinks-0.5.1-py3-none-any.whl" },
+]

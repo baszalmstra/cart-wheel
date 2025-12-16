@@ -1,0 +1,92 @@
+{
+  "DataProperty-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c61fcb2e2deca35e6d1eb1f251a7f22f0dcde63e80e61f0cc18c19f42abfd25b",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder",
+        "typepy"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder<2,>=1.0.0",
+      "typepy[datetime]<2,>=1.3.2",
+      "loguru<1,>=0.4.1; extra == \"logging\"",
+      "pytest>=6.0.1; extra == \"test\"",
+      "pytest-md-report>=0.6.2; extra == \"test\"",
+      "tcolorpy>=0.1.2; extra == \"test\""
+    ]
+  },
+  "DataProperty-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "75205eb1d16dab8e3baf241d1fef6e820b8f916741bc64f1f5634c93ee5b0606",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder",
+        "typepy"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder<2,>=1.0.0",
+      "typepy[datetime]<2,>=1.3.2",
+      "loguru<1,>=0.4.1; extra == \"logging\"",
+      "pytest>=6.0.1; extra == \"test\"",
+      "pytest-md-report>=0.6.2; extra == \"test\"",
+      "tcolorpy>=0.1.2; extra == \"test\""
+    ]
+  },
+  "DataProperty-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b8b07d4fb6453fcf975b53d35dea41f3cfd69c9d79b5010c3cf224ff0407a7a",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder",
+        "typepy"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder (<2,>=1.0.0)",
+      "typepy[datetime] (<2,>=1.2.0)",
+      "loguru (<1,>=0.4.1) ; extra == 'logging'",
+      "pytest (>=6.0.1) ; extra == 'test'",
+      "pytest-md-report (>=0.3) ; extra == 'test'",
+      "tcolorpy (>=0.1.2) ; extra == 'test'"
+    ]
+  },
+  "DataProperty-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9949307255ef2718d820312d4c068db1429f0fe54610b775c90551350ad84711",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder",
+        "typepy"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder (<2,>=1.0.0)",
+      "typepy[datetime] (<2,>=1.2.0)",
+      "loguru (<1,>=0.4.1) ; extra == 'logging'",
+      "pytest (>=6.0.1) ; extra == 'test'",
+      "pytest-md-report (>=0.3) ; extra == 'test'",
+      "tcolorpy (>=0.1.2) ; extra == 'test'"
+    ]
+  },
+  "DataProperty-0.55.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "54a5c1440b0b5ab2e902c29b451dd408dadefd93232ae21672e6f1305698f802",
+    "dependencies": {
+      "required": [
+        "mbstrdecoder",
+        "typepy"
+      ]
+    },
+    "original_requirements": [
+      "mbstrdecoder (<2,>=1.0.0)",
+      "typepy[datetime] (<2,>=1.2.0)",
+      "loguru (<1,>=0.4.1) ; extra == 'logging'",
+      "pytest (>=6.0.1) ; extra == 'test'",
+      "pytest-md-report (>=0.3) ; extra == 'test'",
+      "tcolorpy (>=0.1.2) ; extra == 'test'"
+    ]
+  }
+}

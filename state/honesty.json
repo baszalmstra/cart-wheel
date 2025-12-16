@@ -1,0 +1,81 @@
+{
+  "honesty-0.2.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f06125e718e71dfbf17fe3aeb6826c5ad7a665ed8525eeea979822869a6731ee",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "appdirs",
+        "click",
+        "infer-license",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.6)",
+      "appdirs (>=1.4)",
+      "click (>=7.0)",
+      "infer-license (>=0.0.6)",
+      "dataclasses (>=0.7) ; python_version < \"3.7\""
+    ]
+  },
+  "honesty-0.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74f6379bc98547fdd26349acc5f708ef987af7610dded93b2169fa3d71f74770",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "click",
+        "infer-license",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.6)",
+      "click (>=7.0)",
+      "infer-license (>=0.0.6)",
+      "dataclasses (>=0.7) ; python_version < \"3.7\""
+    ]
+  },
+  "honesty-0.1.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2b01c9bfef687441b33bec0d67c3aa1536c9b80fe095d0357f1b069d85e82141",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "click",
+        "infer-license",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.6)",
+      "click (>=7.0)",
+      "infer-license (>=0.0.6)",
+      "dataclasses (>=0.7) ; python_version < \"3.7\""
+    ]
+  },
+  "honesty-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf965ff3ff2f67dc7ef37b8591cf9d632734895a5ae10568489a97b0914f8073",
+    "dependencies": {
+      "required": [
+        "aiohttp",
+        "click",
+        "dataclasses"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (>=3.6)",
+      "click (>=7.0)",
+      "dataclasses (>=0.7) ; python_version < \"3.7\""
+    ]
+  },
+  "honesty-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "266be43f5616be375a5d351f545dba34080a2b0b3b72939217f48eef23df22a1",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

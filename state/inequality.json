@@ -1,0 +1,146 @@
+{
+  "inequality-1.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "66b88642476d74c7aadc2f0cb493c6e09cb1ed926fd67e367968af887db8fa92",
+    "dependencies": {
+      "required": [
+        "libpysal",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "libpysal>=4.12",
+      "matplotlib>=3.8",
+      "numpy>=1.26",
+      "pandas>=2.1",
+      "scipy>=1.12",
+      "pre-commit; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "nbsphinx; extra == \"docs\"",
+      "numpydoc; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "sphinxcontrib-bibtex; extra == \"docs\"",
+      "sphinx-gallery; extra == \"docs\"",
+      "sphinx_bootstrap_theme; extra == \"docs\"",
+      "pydata-sphinx-theme; extra == \"docs\"",
+      "codecov; extra == \"tests\"",
+      "folium; extra == \"tests\"",
+      "geopandas; extra == \"tests\"",
+      "jupyterlab; extra == \"tests\"",
+      "mapclassify; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "seaborn; extra == \"tests\"",
+      "seaborn; extra == \"pen\""
+    ]
+  },
+  "inequality-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "48f7e81f76285102db371b03e65111b755cc29133673d817fdafda16e6b06ab1",
+    "dependencies": {
+      "required": [
+        "libpysal",
+        "matplotlib",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "libpysal>=4.5",
+      "matplotlib>=3.6",
+      "numpy>=1.23",
+      "scipy>=1.8",
+      "pre-commit; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "nbsphinx; extra == \"docs\"",
+      "numpydoc; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "sphinxcontrib-bibtex; extra == \"docs\"",
+      "sphinx-gallery; extra == \"docs\"",
+      "sphinx_bootstrap_theme; extra == \"docs\"",
+      "pydata-sphinx-theme; extra == \"docs\"",
+      "codecov; extra == \"tests\"",
+      "mapclassify; extra == \"tests\"",
+      "jupyterlab; extra == \"tests\"",
+      "folium; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "seaborn; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "matplotlib; extra == \"pen\"",
+      "seaborn; extra == \"pen\"",
+      "pandas; extra == \"pen\""
+    ]
+  },
+  "inequality-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "daf45feaebde5d9f6ca496bc889301a8bbb8937bc98b402ea841d3a05f06c922",
+    "dependencies": {
+      "required": [
+        "libpysal",
+        "matplotlib",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "libpysal>=4.5",
+      "matplotlib>=3.6",
+      "numpy>=1.23",
+      "scipy>=1.8",
+      "pre-commit; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "nbsphinx; extra == \"docs\"",
+      "numpydoc; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "sphinxcontrib-bibtex; extra == \"docs\"",
+      "sphinx-gallery; extra == \"docs\"",
+      "sphinx_bootstrap_theme; extra == \"docs\"",
+      "pydata-sphinx-theme; extra == \"docs\"",
+      "codecov; extra == \"tests\"",
+      "mapclassify; extra == \"tests\"",
+      "jupyterlab; extra == \"tests\"",
+      "folium; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "seaborn; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "matplotlib; extra == \"pen\"",
+      "seaborn; extra == \"pen\"",
+      "pandas; extra == \"pen\""
+    ]
+  },
+  "inequality-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65b447f5f444b6e9998ecbe803f60023123a882da5a4e4c062fc5d6544ba28b8",
+    "dependencies": {
+      "required": [
+        "libpysal",
+        "numpy",
+        "scipy"
+      ]
+    },
+    "original_requirements": [
+      "libpysal >=4.5",
+      "numpy >=1.23",
+      "scipy >=1.8",
+      "black ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "ruff ; extra == 'dev'",
+      "nbsphinx ; extra == 'docs'",
+      "numpydoc ; extra == 'docs'",
+      "sphinx ; extra == 'docs'",
+      "sphinxcontrib-bibtex ; extra == 'docs'",
+      "sphinx-gallery ; extra == 'docs'",
+      "sphinx-bootstrap-theme ; extra == 'docs'",
+      "codecov ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'"
+    ]
+  }
+}

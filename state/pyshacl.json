@@ -1,0 +1,170 @@
+{
+  "pyshacl-0.30.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d7e0c21b25e948bb643dbc5db6258da64a90a8ac89055c1fe562b469031072aa",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "owlrl",
+        "packaging",
+        "prettytable",
+        "prettytable",
+        "rdflib"
+      ]
+    },
+    "original_requirements": [
+      "coverage (>6.1,!=6.1.1,<7) ; extra == \"dev-coverage\"",
+      "importlib-metadata (>6) ; python_version < \"3.12\"",
+      "mypy (>=1.13.0) ; extra == \"dev-type-checking\"",
+      "owlrl (>=7.1.2,<8)",
+      "packaging (>=21.3)",
+      "platformdirs ; extra == \"dev-coverage\"",
+      "platformdirs ; extra == \"dev-lint\"",
+      "platformdirs ; extra == \"dev-type-checking\"",
+      "prettytable (>=3.5.0) ; python_version < \"3.12\"",
+      "prettytable (>=3.7.0) ; python_version >= \"3.12\"",
+      "pyduktape2 (>=0.4.6,<1) ; extra == \"js\"",
+      "pytest-cov (>=2.8.1,<3) ; extra == \"dev-coverage\"",
+      "rdflib[html] (>=7.1.1,!=7.1.2,<8.0)",
+      "ruff (>=0.9.3,<0.10) ; extra == \"dev-lint\"",
+      "sanic (>=22.12,<23) ; extra == \"http\"",
+      "sanic-cors (==2.2.0) ; extra == \"http\"",
+      "sanic-ext (>=23.3,<23.6) ; extra == \"http\"",
+      "types-setuptools ; extra == \"dev-type-checking\""
+    ]
+  },
+  "pyshacl-0.30.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "093fa7b203bf5ae5f43490f0367ea71933a8b585e300680fcc442d2d6ac62c08",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "owlrl",
+        "packaging",
+        "prettytable",
+        "prettytable",
+        "rdflib"
+      ]
+    },
+    "original_requirements": [
+      "coverage (>6.1,!=6.1.1,<7) ; extra == \"dev-coverage\"",
+      "importlib-metadata (>6) ; python_version < \"3.12\"",
+      "mypy (>=1.13.0) ; extra == \"dev-type-checking\"",
+      "owlrl (>=7.1.2,<8)",
+      "packaging (>=21.3)",
+      "platformdirs ; extra == \"dev-coverage\"",
+      "platformdirs ; extra == \"dev-lint\"",
+      "platformdirs ; extra == \"dev-type-checking\"",
+      "prettytable (>=3.5.0) ; python_version < \"3.12\"",
+      "prettytable (>=3.7.0) ; python_version >= \"3.12\"",
+      "pyduktape2 (>=0.4.6,<1) ; extra == \"js\"",
+      "pytest-cov (>=2.8.1,<3) ; extra == \"dev-coverage\"",
+      "rdflib[html] (>=7.1.1,<8.0)",
+      "ruff (>=0.9.3,<0.10) ; extra == \"dev-lint\"",
+      "sanic (>=22.12,<23) ; extra == \"http\"",
+      "sanic-cors (==2.2.0) ; extra == \"http\"",
+      "sanic-ext (>=23.3,<23.6) ; extra == \"http\"",
+      "types-setuptools ; extra == \"dev-type-checking\""
+    ]
+  },
+  "pyshacl-0.29.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dd6320fe6e176d3778ea05af730fa6d8c38aef365a9eca0d7f9cbc0bf6149870",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "owlrl",
+        "packaging",
+        "prettytable",
+        "prettytable",
+        "rdflib"
+      ]
+    },
+    "original_requirements": [
+      "black (==24.3.0) ; extra == \"dev-lint\"",
+      "coverage (>6,<7,!=6.0.*,!=6.1,!=6.1.1) ; extra == \"dev-coverage\"",
+      "importlib-metadata (>6) ; python_version < \"3.12\"",
+      "mypy (>=1.13.0) ; extra == \"dev-type-checking\"",
+      "owlrl (>=7.1.2,<8)",
+      "packaging (>=21.3)",
+      "platformdirs ; extra == \"dev-lint\" or extra == \"dev-type-checking\" or extra == \"dev-coverage\"",
+      "prettytable (>=3.5.0) ; python_version >= \"3.8\" and python_version < \"3.12\"",
+      "prettytable (>=3.7.0) ; python_version >= \"3.12\"",
+      "pyduktape2 (>=0.4.6,<0.5.0) ; extra == \"js\"",
+      "pytest-cov (>=2.8.1,<3.0.0) ; extra == \"dev-coverage\"",
+      "rdflib[html] (>=7.1.1,<8.0)",
+      "ruff (>=0.1.5,<0.2.0) ; extra == \"dev-lint\"",
+      "sanic (>=22.12,<23) ; extra == \"http\"",
+      "sanic-cors (==2.2.0) ; extra == \"http\"",
+      "sanic-ext (>=23.3,<23.6) ; extra == \"http\"",
+      "types-setuptools ; extra == \"dev-type-checking\""
+    ]
+  },
+  "pyshacl-0.29.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b12d735f724e5602b14e2819c91047cde53b7b26de472885ce54d9d79cbcdcfc",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "owlrl",
+        "packaging",
+        "prettytable",
+        "prettytable",
+        "rdflib"
+      ]
+    },
+    "original_requirements": [
+      "black (==24.3.0) ; extra == \"dev-lint\"",
+      "coverage (>6,<7,!=6.0.*,!=6.1,!=6.1.1) ; extra == \"dev-coverage\"",
+      "importlib-metadata (>6) ; python_version < \"3.12\"",
+      "mypy (>=1.13.0) ; extra == \"dev-type-checking\"",
+      "owlrl (>=7.1.2,<8)",
+      "packaging (>=21.3)",
+      "platformdirs ; extra == \"dev-lint\" or extra == \"dev-type-checking\" or extra == \"dev-coverage\"",
+      "prettytable (>=3.5.0) ; python_version >= \"3.8\" and python_version < \"3.12\"",
+      "prettytable (>=3.7.0) ; python_version >= \"3.12\"",
+      "pyduktape2 (>=0.4.6,<0.5.0) ; extra == \"js\"",
+      "pytest-cov (>=2.8.1,<3.0.0) ; extra == \"dev-coverage\"",
+      "rdflib[html] (>=7.1.1,<8.0)",
+      "ruff (>=0.1.5,<0.2.0) ; extra == \"dev-lint\"",
+      "sanic (>=22.12,<23) ; extra == \"http\"",
+      "sanic-cors (==2.2.0) ; extra == \"http\"",
+      "sanic-ext (>=23.3,<23.6) ; extra == \"http\"",
+      "types-setuptools ; extra == \"dev-type-checking\""
+    ]
+  },
+  "pyshacl-0.28.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "345fe96fb2f38218c53a0f977329ed0aa1a54256526bf6de62243ac7ae823d6b",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "owlrl",
+        "packaging",
+        "prettytable",
+        "prettytable",
+        "rdflib"
+      ]
+    },
+    "original_requirements": [
+      "black (==24.3.0) ; extra == \"dev-lint\"",
+      "coverage (>6,<7,!=6.0.*,!=6.1,!=6.1.1) ; extra == \"dev-coverage\"",
+      "importlib-metadata (>6) ; python_version < \"3.12\"",
+      "mypy (>=0.812,<0.900) ; (python_version < \"3.10\") and (extra == \"dev-type-checking\")",
+      "mypy (>=0.900,<0.1000) ; (python_version >= \"3.10\") and (extra == \"dev-type-checking\")",
+      "owlrl (>=6.0.2,<7)",
+      "packaging (>=21.3)",
+      "platformdirs ; extra == \"dev-lint\" or extra == \"dev-type-checking\" or extra == \"dev-coverage\"",
+      "prettytable (>=3.5.0) ; python_version >= \"3.8\" and python_version < \"3.12\"",
+      "prettytable (>=3.7.0) ; python_version >= \"3.12\"",
+      "pyduktape2 (>=0.4.6,<0.5.0) ; extra == \"js\"",
+      "pytest-cov (>=2.8.1,<3.0.0) ; extra == \"dev-coverage\"",
+      "rdflib[html] (>=6.3.2,<8.0) ; python_full_version >= \"3.8.1\"",
+      "ruff (>=0.1.5,<0.2.0) ; extra == \"dev-lint\"",
+      "sanic (>=22.12,<23) ; extra == \"http\"",
+      "sanic-cors (==2.2.0) ; extra == \"http\"",
+      "sanic-ext (>=23.3,<23.6) ; extra == \"http\"",
+      "types-setuptools ; extra == \"dev-type-checking\""
+    ]
+  }
+}

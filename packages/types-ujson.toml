@@ -1,0 +1,12 @@
+# Package configuration for types-ujson
+conda_forge = "types-ujson"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_ujson-5.10.0.20250822-py3-none-any.whl" },
+  { filename = "types_ujson-5.10.0.20250326-py3-none-any.whl" },
+  { filename = "types_ujson-5.10.0.20240515-py3-none-any.whl" },
+  { filename = "types_ujson-5.9.0.0-py3-none-any.whl" },
+  { filename = "types_ujson-5.8.0.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for tbparse
+conda_forge = "tbparse"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tbparse-0.0.9-py3-none-any.whl" },
+  { filename = "tbparse-0.0.8-py3-none-any.whl" },
+  { filename = "tbparse-0.0.7-py3-none-any.whl" },
+  { filename = "tbparse-0.0.6-py3-none-any.whl" },
+  { filename = "tbparse-0.0.5-py3-none-any.whl" },
+]

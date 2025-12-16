@@ -1,0 +1,82 @@
+{
+  "numpy_groupies-0.11.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d4065dd5d56fda941ad5a7c80a7f80b49f671ed148aaa3e243a0e4caa71adcb3",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "numba; extra == \"fast\"",
+      "pytest; extra == \"dev\"",
+      "numba; extra == \"dev\"",
+      "pandas; extra == \"dev\""
+    ]
+  },
+  "numpy_groupies-0.11.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8d0d686160f860c12d97f12f457116f8b8bebfa33a68b8efcd24dcfedc2837f1",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pytest ; extra == 'dev'",
+      "numba ; extra == 'dev'",
+      "pandas ; extra == 'dev'",
+      "numba ; extra == 'fast'"
+    ]
+  },
+  "numpy_groupies-0.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c9f2471b0ee96e202fb0a591a551192c19fa3bdddad33df8665a7accbaf3263e",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pytest ; extra == 'dev'",
+      "numba ; extra == 'dev'",
+      "pandas ; extra == 'dev'",
+      "numba ; extra == 'fast'"
+    ]
+  },
+  "numpy_groupies-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7fa72f4ef85af50df4d84b3dd1f431dbf264eedd8a20cdde3a55eb016ef87e61",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pytest ; extra == 'dev'",
+      "numba ; extra == 'dev'",
+      "pandas ; extra == 'dev'",
+      "numba ; extra == 'fast'"
+    ]
+  },
+  "numpy_groupies-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24a574ecdd58c0d669749b67ec31dab971d27e04037b402bbc4f6bedaa2623bc",
+    "dependencies": {
+      "required": [
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "numpy",
+      "pytest ; extra == 'dev'",
+      "numba ; extra == 'dev'",
+      "pandas ; extra == 'dev'",
+      "numba ; extra == 'fast'"
+    ]
+  }
+}

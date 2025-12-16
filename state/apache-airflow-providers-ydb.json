@@ -1,0 +1,94 @@
+{
+  "apache_airflow_providers_ydb-2.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30ecf8a9f90ffc5bb55790378cf03a1108753c879c6fe6775d53c6eae82a649a",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "ydb",
+        "ydb-dbapi"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-common-sql>=1.20.0; python_version < '3.13'",
+      "ydb>=3.18.8; python_version < '3.13'",
+      "ydb-dbapi>=0.1.0; python_version < '3.13'"
+    ]
+  },
+  "apache_airflow_providers_ydb-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4abb78dd97ea345aa74bec4ea35e34c18256b1cf3ab748e4c5b2a31e13c016b0",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "ydb",
+        "ydb-dbapi"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-sql>=1.20.0; python_version < '3.13'",
+      "ydb>=3.18.8; python_version < '3.13'",
+      "ydb-dbapi>=0.1.0; python_version < '3.13'"
+    ]
+  },
+  "apache_airflow_providers_ydb-2.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a09313e9f99319adaf4dbb35088332f14e50336172b6269a7689d461681f403a",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "ydb",
+        "ydb-dbapi"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0; python_version < '3.13'",
+      "ydb>=3.18.8; python_version < '3.13'",
+      "ydb-dbapi>=0.1.0; python_version < '3.13'"
+    ]
+  },
+  "apache_airflow_providers_ydb-2.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "396bb1cb45a92eef93a99b03715a75f1c1185725dce45f68a0182c668b433496",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "ydb",
+        "ydb-dbapi"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0; python_version < '3.13'",
+      "ydb>=3.18.8; python_version < '3.13'",
+      "ydb-dbapi>=0.1.0; python_version < '3.13'"
+    ]
+  },
+  "apache_airflow_providers_ydb-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9fb77d182b9d20d214a0bb5eebf4ca83f9791762868c1f2df23b4a6fd05fdbeb",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "ydb",
+        "ydb-dbapi"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "ydb>=3.18.8",
+      "ydb-dbapi>=0.1.0"
+    ]
+  }
+}

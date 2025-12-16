@@ -1,0 +1,127 @@
+{
+  "azure_kusto_data-6.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "90d59cc84c0591ef1a5406377727dcf18b481128ee12c60252bd1ed50a7abc64",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "requests",
+        "azure-identity",
+        "msal",
+        "ijson",
+        "azure-core"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil>=2.9.0",
+      "requests>=2.32.4",
+      "azure-identity>=1.24.0,<2",
+      "msal>=1.34.0b1,<2",
+      "ijson~=3.4.0",
+      "azure-core>=1.35.0,<2",
+      "aiohttp>=3.12.15 ; extra == 'async'",
+      "asgiref>=3.9.1 ; extra == 'async'",
+      "pandas>=2.3.1 ; extra == 'pandas'"
+    ]
+  },
+  "azure_kusto_data-5.0.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c647152e2bb0543d2305aa15d094ea7ed162d5794331ce13afd4aeb22d8538ee",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "requests",
+        "azure-identity",
+        "msal",
+        "ijson",
+        "azure-core"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil>=2.8.0",
+      "requests>=2.32.3",
+      "azure-identity<2,>=1.21.0",
+      "msal<2,>=1.9.0",
+      "ijson~=3.1",
+      "azure-core<2,>=1.33.0",
+      "aiohttp<4,>=3.8.0; extra == \"aio\"",
+      "asgiref<4,>=3.2.3; extra == \"aio\"",
+      "pandas; extra == \"pandas\""
+    ]
+  },
+  "azure_kusto_data-5.0.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84609543c35904ed1c97f27549328fe2b7cc75f8f32f599dac89f91a5a22f22c",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "requests",
+        "azure-identity",
+        "msal",
+        "ijson",
+        "azure-core"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil>=2.8.0",
+      "requests>=2.32.3",
+      "azure-identity<2,>=1.21.0",
+      "msal<2,>=1.9.0",
+      "ijson~=3.1",
+      "azure-core<2,>=1.33.0",
+      "aiohttp<4,>=3.8.0; extra == \"aio\"",
+      "asgiref<4,>=3.2.3; extra == \"aio\"",
+      "pandas; extra == \"pandas\""
+    ]
+  },
+  "azure_kusto_data-5.0.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a60a9c3f206196f484dd59fe09fbdb4529580367f16594352c4cb7beb2264e6a",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "requests",
+        "azure-identity",
+        "msal",
+        "ijson",
+        "azure-core"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil>=2.8.0",
+      "requests>=2.32.3",
+      "azure-identity<2,>=1.21.0",
+      "msal<2,>=1.9.0",
+      "ijson~=3.1",
+      "azure-core<2,>=1.33.0",
+      "aiohttp<4,>=3.8.0; extra == \"aio\"",
+      "asgiref<4,>=3.2.3; extra == \"aio\"",
+      "pandas; extra == \"pandas\""
+    ]
+  },
+  "azure_kusto_data-5.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df37c656cd066c67c4f3e4db3e0421513b4d01ea04c44842d4cf39e416fcf826",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "requests",
+        "azure-identity",
+        "msal",
+        "ijson",
+        "azure-core"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil>=2.8.0",
+      "requests>=2.32.3",
+      "azure-identity<2,>=1.21.0",
+      "msal<2,>=1.9.0",
+      "ijson~=3.1",
+      "azure-core<2,>=1.11.0",
+      "aiohttp<4,>=3.8.0; extra == \"aio\"",
+      "asgiref<4,>=3.2.3; extra == \"aio\"",
+      "pandas; extra == \"pandas\""
+    ]
+  }
+}

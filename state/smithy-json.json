@@ -1,0 +1,44 @@
+{
+  "smithy_json-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5018a4e61731afa3094a02d737d4f956dbf270c271410c089045a17d86fc3b3b",
+    "dependencies": {
+      "required": [
+        "ijson",
+        "smithy-core"
+      ]
+    },
+    "original_requirements": [
+      "ijson>=3.3.0",
+      "smithy-core~=0.2.0"
+    ]
+  },
+  "smithy_json-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80ff64734dccdabf1ba6a2908555b97e60f62c07c3a27df48e421ee058413cb9",
+    "dependencies": {
+      "required": [
+        "ijson",
+        "smithy-core"
+      ]
+    },
+    "original_requirements": [
+      "ijson>=3.3.0",
+      "smithy-core~=0.1.0"
+    ]
+  },
+  "smithy_json-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50d3b441c369bc16507f271699ad4f73e3961fec762c0d827a0e17709424948c",
+    "dependencies": {
+      "required": [
+        "ijson",
+        "smithy-core"
+      ]
+    },
+    "original_requirements": [
+      "ijson>=3.3.0",
+      "smithy-core"
+    ]
+  }
+}

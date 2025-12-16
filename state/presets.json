@@ -1,0 +1,15 @@
+{
+  "presets-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f8cdfad5cc40e2ab9ff2ffd980256a1bf116352acc417cada56522da67b3af6e",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "numpydoc; extra == \"docs\"",
+      "coverage; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\""
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for portend
+conda_forge = "portend"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "portend-3.2.1-py3-none-any.whl" },
+  { filename = "portend-3.2.0-py3-none-any.whl" },
+  { filename = "portend-3.1.0-py3-none-any.whl" },
+  { filename = "portend-3.0.0-py3-none-any.whl" },
+  { filename = "portend-2.7.2-py3-none-any.whl" },
+]

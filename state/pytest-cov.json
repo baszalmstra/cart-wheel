@@ -1,0 +1,101 @@
+{
+  "pytest_cov-7.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3b8e9558b16cc1479da72058bdecf8073661c7f57f7d3c5f22a1c23507f2d861",
+    "dependencies": {
+      "required": [
+        "coverage",
+        "pluggy",
+        "pytest"
+      ]
+    },
+    "original_requirements": [
+      "coverage[toml]>=7.10.6",
+      "pluggy>=1.2",
+      "pytest>=7",
+      "process-tests; extra == 'testing'",
+      "pytest-xdist; extra == 'testing'",
+      "virtualenv; extra == 'testing'"
+    ]
+  },
+  "pytest_cov-6.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "440db28156d2468cafc0415b4f8e50856a0d11faefa38f30906048fe490f1749",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "coverage",
+        "pluggy"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2.5",
+      "coverage[toml]>=7.5",
+      "pluggy>=1.2",
+      "fields; extra == \"testing\"",
+      "hunter; extra == \"testing\"",
+      "process-tests; extra == \"testing\"",
+      "pytest-xdist; extra == \"testing\"",
+      "virtualenv; extra == \"testing\""
+    ]
+  },
+  "pytest_cov-6.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f5bc4c23f42f1cdd23c70b1dab1bbaef4fc505ba950d53e0081d0730dd7e86d5",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "coverage",
+        "pluggy"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6.2.5",
+      "coverage[toml]>=7.5",
+      "pluggy>=1.2",
+      "fields; extra == \"testing\"",
+      "hunter; extra == \"testing\"",
+      "process-tests; extra == \"testing\"",
+      "pytest-xdist; extra == \"testing\"",
+      "virtualenv; extra == \"testing\""
+    ]
+  },
+  "pytest_cov-6.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd19301caf600ead1169db089ed0ad7b8f2b962214330a696b8c85a0b497b2ff",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=4.6",
+      "coverage[toml]>=7.5",
+      "fields; extra == \"testing\"",
+      "hunter; extra == \"testing\"",
+      "process-tests; extra == \"testing\"",
+      "pytest-xdist; extra == \"testing\"",
+      "virtualenv; extra == \"testing\""
+    ]
+  },
+  "pytest_cov-6.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bddf29ed2d0ab6f4df17b4c55b0a657287db8684af9c42ea546b21b1041b3dde",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "coverage"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=4.6",
+      "coverage[toml]>=7.5",
+      "fields; extra == \"testing\"",
+      "hunter; extra == \"testing\"",
+      "process-tests; extra == \"testing\"",
+      "pytest-xdist; extra == \"testing\"",
+      "virtualenv; extra == \"testing\""
+    ]
+  }
+}

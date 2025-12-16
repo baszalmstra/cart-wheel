@@ -1,0 +1,12 @@
+# Package configuration for llama-index-readers-file
+conda_forge = "llama-index-readers-file"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "llama_index_readers_file-0.5.5-py3-none-any.whl" },
+  { filename = "llama_index_readers_file-0.5.4-py3-none-any.whl" },
+  { filename = "llama_index_readers_file-0.5.3-py3-none-any.whl" },
+  { filename = "llama_index_readers_file-0.5.2-py3-none-any.whl" },
+  { filename = "llama_index_readers_file-0.5.1-py3-none-any.whl" },
+]

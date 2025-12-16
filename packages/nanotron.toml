@@ -1,0 +1,9 @@
+# Package configuration for nanotron
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nanotron-0.4-py3-none-any.whl" },
+  { filename = "nanotron-0.2-py3-none-any.whl" },
+  { filename = "nanotron-0.1.0-py3-none-any.whl" },
+]

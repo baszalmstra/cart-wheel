@@ -1,0 +1,9 @@
+# Package configuration for configobj
+conda_forge = "configobj"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "configobj-5.0.9-py2.py3-none-any.whl" },
+  { filename = "configobj-5.0.8-py2.py3-none-any.whl" },
+]

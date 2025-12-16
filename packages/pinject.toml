@@ -1,0 +1,10 @@
+# Package configuration for pinject
+conda_forge = "pinject"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pinject-0.14.1-py3-none-any.whl" },
+  { filename = "pinject-0.12.6-py3-none-any.whl" },
+  { filename = "pinject-0.12.2-py3-none-any.whl" },
+]

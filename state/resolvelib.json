@@ -1,0 +1,101 @@
+{
+  "resolvelib-1.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb06b66c8da04172d9e72a21d7d06186d8919e32ae5ab5cdf5b9d920be805ac2",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruff; extra == \"lint\"",
+      "mypy; extra == \"lint\"",
+      "types-requests; extra == \"lint\"",
+      "packaging; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "build; extra == \"release\"",
+      "towncrier; extra == \"release\"",
+      "twine; extra == \"release\""
+    ]
+  },
+  "resolvelib-1.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8e3e2000beaf53fdfd8772fda1a7b1df97e803ab7c8925621bbb87c4d187a94d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruff; extra == \"lint\"",
+      "mypy; extra == \"lint\"",
+      "types-requests; extra == \"lint\"",
+      "packaging; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "build; extra == \"release\"",
+      "towncrier; extra == \"release\"",
+      "twine; extra == \"release\""
+    ]
+  },
+  "resolvelib-1.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f80de38ae744bcf4e918e27a681a5c6cb63a08d9a926c0989c0730bcdd089049",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruff; extra == \"lint\"",
+      "mypy; extra == \"lint\"",
+      "types-requests; extra == \"lint\"",
+      "build; extra == \"release\"",
+      "towncrier; extra == \"release\"",
+      "twine; extra == \"release\"",
+      "packaging; extra == \"test\"",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "resolvelib-1.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2da45d1a8dfee81bdd591647783e340ef3bcb104b54c383f70d422ef5cc7dbf",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "html5lib ; extra == 'examples'",
+      "packaging ; extra == 'examples'",
+      "pygraphviz ; extra == 'examples'",
+      "requests ; extra == 'examples'",
+      "black ; extra == 'lint'",
+      "flake8 ; extra == 'lint'",
+      "mypy ; extra == 'lint'",
+      "isort ; extra == 'lint'",
+      "types-requests ; extra == 'lint'",
+      "build ; extra == 'release'",
+      "towncrier ; extra == 'release'",
+      "twine ; extra == 'release'",
+      "commentjson ; extra == 'test'",
+      "packaging ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "resolvelib-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15f8572c5c33ff3ffc5987aa4b9d4594d9e27c88aec3b802ed2316e85e03f0b3",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "html5lib ; extra == 'examples'",
+      "packaging ; extra == 'examples'",
+      "pygraphviz ; extra == 'examples'",
+      "requests ; extra == 'examples'",
+      "black ; extra == 'lint'",
+      "flake8 ; extra == 'lint'",
+      "mypy ; extra == 'lint'",
+      "isort ; extra == 'lint'",
+      "types-requests ; extra == 'lint'",
+      "build ; extra == 'release'",
+      "towncrier ; extra == 'release'",
+      "twine ; extra == 'release'",
+      "commentjson ; extra == 'test'",
+      "packaging ; extra == 'test'",
+      "pytest ; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "bidict-0.23.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5dae8d4d79b552a71cbabc7deb25dfe8ce710b17ff41711e13010ead2abfc3e5",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "bidict-0.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f5154a0e42926b122f9b2cb06aeeb9af317f626eb864bd34c1b9cdc5eca8b040",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "bidict-0.22.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6ef212238eb884b664f28da76f33f1d28b260f665fc737b413b287d5487d1e7b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx ; extra == 'docs'",
+      "sphinx-copybutton ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "pre-commit ; extra == 'lint'",
+      "hypothesis ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-benchmark[histogram] ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-xdist ; extra == 'test'",
+      "sortedcollections ; extra == 'test'",
+      "sortedcontainers ; extra == 'test'",
+      "sphinx ; extra == 'test'"
+    ]
+  },
+  "bidict-0.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "415126d23a0c81e1a8c584a8fb1f6905ea090c772571803aeee0a2242e8e7ba0",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "bidict-0.21.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ac67daa353ecf853a1df9d3e924f005e729227a60a8dbada31a4c31aba7f654",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

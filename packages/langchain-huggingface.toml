@@ -1,0 +1,12 @@
+# Package configuration for langchain-huggingface
+conda_forge = "langchain-huggingface"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "langchain_huggingface-1.2.0-py3-none-any.whl" },
+  { filename = "langchain_huggingface-1.1.0-py3-none-any.whl" },
+  { filename = "langchain_huggingface-1.0.1-py3-none-any.whl" },
+  { filename = "langchain_huggingface-1.0.0-py3-none-any.whl" },
+  { filename = "langchain_huggingface-0.3.1-py3-none-any.whl" },
+]

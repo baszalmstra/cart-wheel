@@ -1,0 +1,217 @@
+{
+  "apache_airflow_providers_fab-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a722c2dd851a5ca1cfda704ab68aa196f54e83d23f45066c631bc2e6e82e3468",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "blinker",
+        "flask",
+        "flask-appbuilder",
+        "flask-login",
+        "flask-session",
+        "msgpack",
+        "flask-sqlalchemy",
+        "sqlalchemy",
+        "flask-wtf",
+        "connexion",
+        "jmespath",
+        "werkzeug",
+        "wtforms",
+        "flask-limiter"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.2",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "blinker>=1.6.2; python_version < '3.13'",
+      "flask>=2.2.1,<2.3; python_version < '3.13'",
+      "flask-appbuilder==5.0.1; python_version < '3.13'",
+      "flask-login>=0.6.2; python_version < '3.13'",
+      "flask-session>=0.8.0; python_version < '3.13'",
+      "msgpack>=1.0.0; python_version < '3.13'",
+      "flask-sqlalchemy>=3.0.5; python_version < '3.13'",
+      "sqlalchemy>=1.4.36,<2; python_version < '3.13'",
+      "flask-wtf>=1.1.0; python_version < '3.13'",
+      "connexion[flask]>=2.14.2,<3.0; python_version < '3.13'",
+      "jmespath>=0.7.0; python_version < '3.13'",
+      "werkzeug>=2.2,<4; python_version < '3.13'",
+      "wtforms>=3.0,<4; python_version < '3.13'",
+      "flask_limiter>3,<4,!=3.13",
+      "kerberos>=1.3.0 ; extra == \"kerberos\" and ( python_version < '3.13')"
+    ]
+  },
+  "apache_airflow_providers_fab-3.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3c762fa2b8c97bb53a3919563e81738229f685095dadca322cb0bfa7c5d3ca92",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "blinker",
+        "flask",
+        "flask-appbuilder",
+        "flask-login",
+        "flask-session",
+        "msgpack",
+        "flask-sqlalchemy",
+        "sqlalchemy",
+        "flask-wtf",
+        "connexion",
+        "jmespath",
+        "werkzeug",
+        "wtforms",
+        "flask-limiter"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.2",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "blinker>=1.6.2; python_version < '3.13'",
+      "flask>=2.2.1,<2.3; python_version < '3.13'",
+      "flask-appbuilder==5.0.1; python_version < '3.13'",
+      "flask-login>=0.6.2; python_version < '3.13'",
+      "flask-session>=0.8.0; python_version < '3.13'",
+      "msgpack>=1.0.0; python_version < '3.13'",
+      "flask-sqlalchemy>=3.0.5; python_version < '3.13'",
+      "sqlalchemy>=1.4.36,<2; python_version < '3.13'",
+      "flask-wtf>=1.1.0; python_version < '3.13'",
+      "connexion[flask]>=2.14.2,<3.0; python_version < '3.13'",
+      "jmespath>=0.7.0; python_version < '3.13'",
+      "werkzeug>=2.2,<4; python_version < '3.13'",
+      "wtforms>=3.0,<4; python_version < '3.13'",
+      "flask_limiter>3,<4,!=3.13",
+      "kerberos>=1.3.0 ; extra == \"kerberos\" and ( python_version < '3.13')"
+    ]
+  },
+  "apache_airflow_providers_fab-3.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb1dad339133d5c41055d8e90b5ae9a0cddb9ecaea0c5cc8028c3c064948ba70",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "blinker",
+        "flask",
+        "flask-appbuilder",
+        "flask-login",
+        "flask-session",
+        "msgpack",
+        "flask-sqlalchemy",
+        "sqlalchemy",
+        "flask-wtf",
+        "connexion",
+        "jmespath",
+        "werkzeug",
+        "wtforms",
+        "flask-limiter"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.2",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "blinker>=1.6.2; python_version < '3.13'",
+      "flask>=2.2.1,<2.3; python_version < '3.13'",
+      "flask-appbuilder==5.0.1; python_version < '3.13'",
+      "flask-login>=0.6.2; python_version < '3.13'",
+      "flask-session>=0.8.0; python_version < '3.13'",
+      "msgpack>=1.0.0; python_version < '3.13'",
+      "flask-sqlalchemy>=3.0.5; python_version < '3.13'",
+      "sqlalchemy>=1.4.36,<2; python_version < '3.13'",
+      "flask-wtf>=1.1.0; python_version < '3.13'",
+      "connexion[flask]>=2.14.2,<3.0; python_version < '3.13'",
+      "jmespath>=0.7.0; python_version < '3.13'",
+      "werkzeug>=2.2,<4; python_version < '3.13'",
+      "wtforms>=3.0,<4; python_version < '3.13'",
+      "flask_limiter>3,<4,!=3.13",
+      "kerberos>=1.3.0 ; extra == \"kerberos\" and ( python_version < '3.13')"
+    ]
+  },
+  "apache_airflow_providers_fab-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d0d895935985eba023d9da71b03ac1188943b6e4131da6b049e4492ed61ec026",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "blinker",
+        "flask",
+        "flask-appbuilder",
+        "flask-login",
+        "flask-session",
+        "msgpack",
+        "flask-sqlalchemy",
+        "sqlalchemy",
+        "flask-wtf",
+        "connexion",
+        "jmespath",
+        "werkzeug",
+        "wtforms",
+        "flask-limiter"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.2",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "blinker>=1.6.2; python_version < '3.13'",
+      "flask>=2.2.1,<2.3; python_version < '3.13'",
+      "flask-appbuilder==5.0.0; python_version < '3.13'",
+      "flask-login>=0.6.2; python_version < '3.13'",
+      "flask-session>=0.8.0; python_version < '3.13'",
+      "msgpack>=1.0.0; python_version < '3.13'",
+      "flask-sqlalchemy>=3.0.5; python_version < '3.13'",
+      "sqlalchemy<2; python_version < '3.13'",
+      "flask-wtf>=1.1.0; python_version < '3.13'",
+      "connexion[flask]>=2.14.2,<3.0; python_version < '3.13'",
+      "jmespath>=0.7.0; python_version < '3.13'",
+      "werkzeug>=2.2,<4; python_version < '3.13'",
+      "wtforms>=3.0,<4; python_version < '3.13'",
+      "flask_limiter>3,<4,!=3.13",
+      "kerberos>=1.3.0 ; extra == \"kerberos\" and ( python_version < '3.13')"
+    ]
+  },
+  "apache_airflow_providers_fab-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1357ac1e8d96992d8af297d1431158f2e2e1600b47c75eb1b49b2109a6924630",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "blinker",
+        "flask",
+        "flask-appbuilder",
+        "flask-login",
+        "flask-session",
+        "msgpack",
+        "flask-sqlalchemy",
+        "sqlalchemy",
+        "flask-wtf",
+        "connexion",
+        "jmespath",
+        "werkzeug",
+        "wtforms",
+        "flask-limiter"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.2",
+      "apache-airflow-providers-common-compat>=1.2.1",
+      "blinker>=1.6.2; python_version < '3.13'",
+      "flask>=2.2.1,<2.3; python_version < '3.13'",
+      "flask-appbuilder==5.0.0; python_version < '3.13'",
+      "flask-login>=0.6.2; python_version < '3.13'",
+      "flask-session>=0.8.0; python_version < '3.13'",
+      "msgpack>=1.0.0; python_version < '3.13'",
+      "flask-sqlalchemy>=3.0.5; python_version < '3.13'",
+      "sqlalchemy<2; python_version < '3.13'",
+      "flask-wtf>=1.1.0; python_version < '3.13'",
+      "connexion[flask]>=2.14.2,<3.0; python_version < '3.13'",
+      "jmespath>=0.7.0; python_version < '3.13'",
+      "werkzeug>=2.2,<4; python_version < '3.13'",
+      "wtforms>=3.0,<4; python_version < '3.13'",
+      "flask_limiter>3,<4,!=3.13",
+      "kerberos>=1.3.0 ; extra == \"kerberos\" and ( python_version < '3.13')"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "repl_session-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28cbc66459cf7b83c40d28eb16e9f6ff940bdbcb0a94d0978b9215e870e72d24",
+    "dependencies": {
+      "required": [
+        "argh",
+        "msgspec",
+        "pexpect"
+      ]
+    },
+    "original_requirements": [
+      "argh>=0.30.5",
+      "msgspec>=0.19.0",
+      "pexpect>=4.9.0"
+    ]
+  },
+  "repl_session-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3cc75d1c23a31a97b8e376a072ef9524fb500f81f93a4bd7a788295066126d47",
+    "dependencies": {
+      "required": [
+        "argh",
+        "msgspec",
+        "pexpect"
+      ]
+    },
+    "original_requirements": [
+      "argh>=0.30.5",
+      "msgspec>=0.19.0",
+      "pexpect>=4.9.0"
+    ]
+  }
+}

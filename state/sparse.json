@@ -1,0 +1,162 @@
+{
+  "sparse-0.17.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1922d1d97f692b1061c4f03a1dd6ee21850aedc88e171aa845715f5069952f18",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "numba"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.17",
+      "numba>=0.49",
+      "mkdocs-material; extra == \"docs\"",
+      "mkdocstrings[python]; extra == \"docs\"",
+      "mkdocs-gen-files; extra == \"docs\"",
+      "mkdocs-literate-nav; extra == \"docs\"",
+      "mkdocs-section-index; extra == \"docs\"",
+      "mkdocs-jupyter; extra == \"docs\"",
+      "sparse[extras]; extra == \"docs\"",
+      "dask[array]; extra == \"extras\"",
+      "sparse[finch]; extra == \"extras\"",
+      "scipy; extra == \"extras\"",
+      "scikit-learn; extra == \"extras\"",
+      "networkx; extra == \"extras\"",
+      "sparse[extras]; extra == \"tests\"",
+      "pytest>=3.5; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "pre-commit; extra == \"tests\"",
+      "pytest-codspeed; extra == \"tests\"",
+      "sparse[tests]; extra == \"tox\"",
+      "tox; extra == \"tox\"",
+      "sparse[tests]; extra == \"notebooks\"",
+      "nbmake; extra == \"notebooks\"",
+      "matplotlib; extra == \"notebooks\"",
+      "sparse[docs,mlir,notebooks,tox]; extra == \"all\"",
+      "matrepr; extra == \"all\"",
+      "finch-tensor>=0.2.12; extra == \"finch\"",
+      "finch-mlir>=0.0.2; extra == \"mlir\""
+    ]
+  },
+  "sparse-0.16.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "25d4463cf36315ee16a19b6951f1d6b8e9128a07dafd58f846eb6dfb4cd5b9d8",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "numba"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.17",
+      "numba>=0.49",
+      "mkdocs-material; extra == \"docs\"",
+      "mkdocstrings[python]; extra == \"docs\"",
+      "mkdocs-gen-files; extra == \"docs\"",
+      "mkdocs-literate-nav; extra == \"docs\"",
+      "mkdocs-section-index; extra == \"docs\"",
+      "mkdocs-jupyter; extra == \"docs\"",
+      "sparse[extras]; extra == \"docs\"",
+      "dask[array]; extra == \"extras\"",
+      "sparse[finch]; extra == \"extras\"",
+      "scipy; extra == \"extras\"",
+      "scikit-learn; extra == \"extras\"",
+      "networkx; extra == \"extras\"",
+      "sparse[extras]; extra == \"tests\"",
+      "pytest>=3.5; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "pre-commit; extra == \"tests\"",
+      "pytest-codspeed; extra == \"tests\"",
+      "sparse[tests]; extra == \"tox\"",
+      "tox; extra == \"tox\"",
+      "sparse[tests]; extra == \"notebooks\"",
+      "nbmake; extra == \"notebooks\"",
+      "matplotlib; extra == \"notebooks\"",
+      "sparse[docs,mlir,notebooks,tox]; extra == \"all\"",
+      "matrepr; extra == \"all\"",
+      "finch-tensor>=0.2.10; extra == \"finch\"",
+      "finch-mlir>=0.0.2; extra == \"mlir\""
+    ]
+  },
+  "sparse-0.15.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf608731f8564916443427bca323fe118e8c25a712ddf02dbe7673a961139706",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "numba"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.17",
+      "scipy>=0.19",
+      "numba>=0.49",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\"",
+      "dask[array]; extra == \"tests\"",
+      "pytest>=3.5; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pre-commit; extra == \"tests\"",
+      "sparse[tests]; extra == \"tox\"",
+      "tox; extra == \"tox\"",
+      "sparse[docs,tox]; extra == \"all\"",
+      "matrepr; extra == \"all\""
+    ]
+  },
+  "sparse-0.15.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "76ec76fee2aee82a84eb97155dd530a9644e3b1fdea2406bc4b454698b36d938",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "numba"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.17",
+      "scipy >=0.19",
+      "numba >=0.49",
+      "sparse[docs,tox] ; extra == 'all'",
+      "matrepr ; extra == 'all'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "dask[array] ; extra == 'tests'",
+      "pytest >=3.5 ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pre-commit ; extra == 'tests'",
+      "sparse[tests] ; extra == 'tox'",
+      "tox ; extra == 'tox'"
+    ]
+  },
+  "sparse-0.15.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d69b59cd0cc403bddcda8d4600eba2a424dbc2a231f1ef9c5e635606b0a4ef02",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "scipy",
+        "numba"
+      ]
+    },
+    "original_requirements": [
+      "numpy >=1.17",
+      "scipy >=0.19",
+      "numba >=0.49",
+      "sparse[docs,tox] ; extra == 'all'",
+      "matrepr ; extra == 'all'",
+      "sphinx ; extra == 'docs'",
+      "sphinx-rtd-theme ; extra == 'docs'",
+      "dask[array] ; extra == 'tests'",
+      "pytest >=3.5 ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pre-commit ; extra == 'tests'",
+      "sparse[tests] ; extra == 'tox'",
+      "tox ; extra == 'tox'"
+    ]
+  }
+}

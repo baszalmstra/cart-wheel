@@ -1,0 +1,12 @@
+# Package configuration for leather
+conda_forge = "leather"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "leather-0.4.0-py2.py3-none-any.whl" },
+  { filename = "leather-0.3.4-py2.py3-none-any.whl" },
+  { filename = "leather-0.3.3-py3-none-any.whl" },
+  { filename = "leather-0.3.2-py3-none-any.whl" },
+  { filename = "leather-0.3.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for flax
+conda_forge = "flax"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flax-0.12.1-py3-none-any.whl" },
+  { filename = "flax-0.12.0-py3-none-any.whl" },
+  { filename = "flax-0.11.2-py3-none-any.whl" },
+  { filename = "flax-0.11.1-py3-none-any.whl" },
+  { filename = "flax-0.11.0-py3-none-any.whl" },
+]

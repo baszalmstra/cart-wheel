@@ -1,0 +1,172 @@
+{
+  "easyocr-1.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5be12f9b0e595d443c9c3d10b0542074b50f0ec2d98b141a109cd961fd1c177c",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "opencv-python-headless",
+        "scipy",
+        "numpy",
+        "pillow",
+        "scikit-image",
+        "python-bidi",
+        "pyyaml",
+        "shapely",
+        "pyclipper",
+        "ninja"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "torchvision>=0.5",
+      "opencv-python-headless",
+      "scipy",
+      "numpy",
+      "Pillow",
+      "scikit-image",
+      "python-bidi",
+      "PyYAML",
+      "Shapely",
+      "pyclipper",
+      "ninja"
+    ]
+  },
+  "easyocr-1.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5b0a2e7cfdfc6c1ec99d9583663e570e4189dca6fbf373f074b21b8809e44d2b",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "opencv-python-headless",
+        "scipy",
+        "numpy",
+        "pillow",
+        "scikit-image",
+        "python-bidi",
+        "pyyaml",
+        "shapely",
+        "pyclipper",
+        "ninja"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "torchvision (>=0.5)",
+      "opencv-python-headless",
+      "scipy",
+      "numpy",
+      "Pillow",
+      "scikit-image",
+      "python-bidi",
+      "PyYAML",
+      "Shapely",
+      "pyclipper",
+      "ninja"
+    ]
+  },
+  "easyocr-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d9d33fd0a30288c4320117a79a7535d424a749da1ac9930f4ac8a10f2915b145",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "opencv-python-headless",
+        "scipy",
+        "numpy",
+        "pillow",
+        "scikit-image",
+        "python-bidi",
+        "pyyaml",
+        "shapely",
+        "pyclipper",
+        "ninja"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "torchvision (>=0.5)",
+      "opencv-python-headless",
+      "scipy",
+      "numpy",
+      "Pillow",
+      "scikit-image",
+      "python-bidi",
+      "PyYAML",
+      "Shapely",
+      "pyclipper",
+      "ninja"
+    ]
+  },
+  "easyocr-1.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c47015beb56c147b2712af3c9d8cc677691ebad42560257e6e145411773c66c3",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "opencv-python-headless",
+        "scipy",
+        "numpy",
+        "pillow",
+        "scikit-image",
+        "python-bidi",
+        "pyyaml",
+        "shapely",
+        "pyclipper",
+        "ninja"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "torchvision (>=0.5)",
+      "opencv-python-headless (<=4.5.4.60)",
+      "scipy",
+      "numpy",
+      "Pillow",
+      "scikit-image",
+      "python-bidi",
+      "PyYAML",
+      "Shapely",
+      "pyclipper",
+      "ninja"
+    ]
+  },
+  "easyocr-1.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0849a89be1f8b9be6a1780c2c900714de45d7207bde8f583b0b910c974895a63",
+    "dependencies": {
+      "required": [
+        "torch",
+        "torchvision",
+        "opencv-python-headless",
+        "scipy",
+        "numpy",
+        "pillow",
+        "scikit-image",
+        "python-bidi",
+        "pyyaml",
+        "shapely",
+        "pyclipper",
+        "ninja"
+      ]
+    },
+    "original_requirements": [
+      "torch",
+      "torchvision (>=0.5)",
+      "opencv-python-headless (<=4.5.4.60)",
+      "scipy",
+      "numpy",
+      "Pillow",
+      "scikit-image",
+      "python-bidi",
+      "PyYAML",
+      "Shapely",
+      "pyclipper",
+      "ninja"
+    ]
+  }
+}

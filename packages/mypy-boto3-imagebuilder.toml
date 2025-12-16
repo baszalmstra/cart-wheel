@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-imagebuilder
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_imagebuilder-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_imagebuilder-1.41.1-py3-none-any.whl" },
+  { filename = "mypy_boto3_imagebuilder-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_imagebuilder-1.40.74-py3-none-any.whl" },
+  { filename = "mypy_boto3_imagebuilder-1.40.55-py3-none-any.whl" },
+]

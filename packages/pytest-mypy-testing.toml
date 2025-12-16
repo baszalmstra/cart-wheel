@@ -1,0 +1,12 @@
+# Package configuration for pytest-mypy-testing
+conda_forge = "pytest-mypy-testing"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_mypy_testing-0.1.3-py3-none-any.whl" },
+  { filename = "pytest_mypy_testing-0.1.2-py3-none-any.whl" },
+  { filename = "pytest_mypy_testing-0.1.1-py3-none-any.whl" },
+  { filename = "pytest_mypy_testing-0.1.0-py3-none-any.whl" },
+  { filename = "pytest_mypy_testing-0.0.12-py3-none-any.whl" },
+]

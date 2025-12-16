@@ -1,0 +1,112 @@
+{
+  "terminado-0.18.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a4468e1b37bb318f8a86514f65814e1afc977cf29b3992a4500d9dd305dcceb0",
+    "dependencies": {
+      "required": [
+        "ptyprocess",
+        "pywinpty",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "ptyprocess; os_name != 'nt'",
+      "pywinpty>=1.1.0; os_name == 'nt'",
+      "tornado>=6.1.0",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "pre-commit; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest>=7.0; extra == 'test'",
+      "mypy~=1.6; extra == 'typing'",
+      "traitlets>=5.11.1; extra == 'typing'"
+    ]
+  },
+  "terminado-0.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "87b0d96642d0fe5f5abd7783857b9cab167f221a39ff98e3b9619a788a3c0f2e",
+    "dependencies": {
+      "required": [
+        "ptyprocess",
+        "pywinpty",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "ptyprocess; os_name != 'nt'",
+      "pywinpty>=1.1.0; os_name == 'nt'",
+      "tornado>=6.1.0",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "pre-commit; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest>=7.0; extra == 'test'",
+      "mypy~=1.6; extra == 'typing'",
+      "traitlets>=5.11.1; extra == 'typing'"
+    ]
+  },
+  "terminado-0.17.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8650d44334eba354dd591129ca3124a6ba42c3d5b70df5051b6921d506fdaeae",
+    "dependencies": {
+      "required": [
+        "ptyprocess",
+        "pywinpty",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "ptyprocess; os_name != 'nt'",
+      "pywinpty>=1.1.0; os_name == 'nt'",
+      "tornado>=6.1.0",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "pre-commit; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest>=7.0; extra == 'test'"
+    ]
+  },
+  "terminado-0.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf6fe52accd06d0661d7611cc73202121ec6ee51e46d8185d489ac074ca457c2",
+    "dependencies": {
+      "required": [
+        "ptyprocess",
+        "pywinpty",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "ptyprocess; os_name != 'nt'",
+      "pywinpty>=1.1.0; os_name == 'nt'",
+      "tornado>=6.1.0",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "pre-commit; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest>=7.0; extra == 'test'"
+    ]
+  },
+  "terminado-0.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e995072a7178a104c41134548ce9b03e4e7f0a538e9c29df4f1fbc81c7cfc75",
+    "dependencies": {
+      "required": [
+        "ptyprocess",
+        "pywinpty",
+        "tornado"
+      ]
+    },
+    "original_requirements": [
+      "ptyprocess; os_name != 'nt'",
+      "pywinpty>=1.1.0; os_name == 'nt'",
+      "tornado>=6.1.0",
+      "pre-commit; extra == 'test'",
+      "pytest-timeout; extra == 'test'",
+      "pytest>=6.0; extra == 'test'"
+    ]
+  }
+}

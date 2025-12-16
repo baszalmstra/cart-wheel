@@ -1,0 +1,10 @@
+# Package configuration for flake8-typechecking-import
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_typechecking_import-0.5-py3-none-any.whl" },
+  { filename = "flake8_typechecking_import-0.4-py3-none-any.whl" },
+  { filename = "flake8_typechecking_import-0.3-py2.py3-none-any.whl" },
+  { filename = "flake8_typechecking_import-0.2-py2.py3-none-any.whl" },
+]

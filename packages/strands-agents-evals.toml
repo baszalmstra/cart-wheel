@@ -1,0 +1,7 @@
+# Package configuration for strands-agents-evals
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "strands_agents_evals-0.1.0-py3-none-any.whl" },
+]

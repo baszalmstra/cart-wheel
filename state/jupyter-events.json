@@ -1,0 +1,186 @@
+{
+  "jupyter_events-0.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6464b2fa5ad10451c3d35fabc75eab39556ae1e2853ad0c0cc31b656731a97fb",
+    "dependencies": {
+      "required": [
+        "jsonschema",
+        "packaging",
+        "python-json-logger",
+        "pyyaml",
+        "referencing",
+        "rfc3339-validator",
+        "rfc3986-validator",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema[format-nongpl]>=4.18.0",
+      "packaging",
+      "python-json-logger>=2.0.4",
+      "pyyaml>=5.3",
+      "referencing",
+      "rfc3339-validator",
+      "rfc3986-validator>=0.1.1",
+      "traitlets>=5.3",
+      "click; extra == 'cli'",
+      "rich; extra == 'cli'",
+      "jupyterlite-sphinx; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme>=0.16; extra == 'docs'",
+      "sphinx>=8; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "click; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "pytest-asyncio>=0.19.0; extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest>=7.0; extra == 'test'",
+      "rich; extra == 'test'"
+    ]
+  },
+  "jupyter_events-0.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "36399b41ce1ca45fe8b8271067d6a140ffa54cec4028e95491c93b78a855cacf",
+    "dependencies": {
+      "required": [
+        "jsonschema",
+        "python-json-logger",
+        "pyyaml",
+        "referencing",
+        "rfc3339-validator",
+        "rfc3986-validator",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema[format-nongpl]>=4.18.0",
+      "python-json-logger>=2.0.4",
+      "pyyaml>=5.3",
+      "referencing",
+      "rfc3339-validator",
+      "rfc3986-validator>=0.1.1",
+      "traitlets>=5.3",
+      "click; extra == 'cli'",
+      "rich; extra == 'cli'",
+      "jupyterlite-sphinx; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme>=0.16; extra == 'docs'",
+      "sphinx>=8; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "click; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "pytest-asyncio>=0.19.0; extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest>=7.0; extra == 'test'",
+      "rich; extra == 'test'"
+    ]
+  },
+  "jupyter_events-0.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4b72130875e59d57716d327ea70d3ebc3af1944d3717e5a498b8a06c6c159960",
+    "dependencies": {
+      "required": [
+        "jsonschema",
+        "python-json-logger",
+        "pyyaml",
+        "referencing",
+        "rfc3339-validator",
+        "rfc3986-validator",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema[format-nongpl]>=4.18.0",
+      "python-json-logger>=2.0.4",
+      "pyyaml>=5.3",
+      "referencing",
+      "rfc3339-validator",
+      "rfc3986-validator>=0.1.1",
+      "traitlets>=5.3",
+      "click; extra == 'cli'",
+      "rich; extra == 'cli'",
+      "jupyterlite-sphinx; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "click; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "pytest-asyncio>=0.19.0; extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest>=7.0; extra == 'test'",
+      "rich; extra == 'test'"
+    ]
+  },
+  "jupyter_events-0.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e51f43d2c25c2ddf02d7f7a5045f71fc1d5cb5ad04ef6db20da961c077654b9b",
+    "dependencies": {
+      "required": [
+        "jsonschema",
+        "python-json-logger",
+        "pyyaml",
+        "referencing",
+        "rfc3339-validator",
+        "rfc3986-validator",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema[format-nongpl]>=4.18.0",
+      "python-json-logger>=2.0.4",
+      "pyyaml>=5.3",
+      "referencing",
+      "rfc3339-validator",
+      "rfc3986-validator>=0.1.1",
+      "traitlets>=5.3",
+      "click; extra == 'cli'",
+      "rich; extra == 'cli'",
+      "jupyterlite-sphinx; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "click; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "pytest-asyncio>=0.19.0; extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest>=7.0; extra == 'test'",
+      "rich; extra == 'test'"
+    ]
+  },
+  "jupyter_events-0.9.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d853b3c10273ff9bc8bb8b30076d65e2c9685579db736873de6c2232dde148bf",
+    "dependencies": {
+      "required": [
+        "jsonschema",
+        "python-json-logger",
+        "pyyaml",
+        "referencing",
+        "rfc3339-validator",
+        "rfc3986-validator",
+        "traitlets"
+      ]
+    },
+    "original_requirements": [
+      "jsonschema[format-nongpl]>=4.18.0",
+      "python-json-logger>=2.0.4",
+      "pyyaml>=5.3",
+      "referencing",
+      "rfc3339-validator",
+      "rfc3986-validator>=0.1.1",
+      "traitlets>=5.3",
+      "click; extra == 'cli'",
+      "rich; extra == 'cli'",
+      "jupyterlite-sphinx; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pydata-sphinx-theme; extra == 'docs'",
+      "sphinxcontrib-spelling; extra == 'docs'",
+      "click; extra == 'test'",
+      "pre-commit; extra == 'test'",
+      "pytest-asyncio>=0.19.0; extra == 'test'",
+      "pytest-console-scripts; extra == 'test'",
+      "pytest>=7.0; extra == 'test'",
+      "rich; extra == 'test'"
+    ]
+  }
+}

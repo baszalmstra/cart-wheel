@@ -1,0 +1,131 @@
+{
+  "panflute-2.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e44afd875b7b17ffebbbe58282849df06d9f1b20a45a2f933cd51bdcf4e89130",
+    "dependencies": {
+      "required": [
+        "click",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "click <9,>=6",
+      "pyyaml <7,>=3",
+      "configparser ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pandocfilters ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "requests ; extra == 'dev'",
+      "yamlloader <2,>=1 ; extra == 'extras'",
+      "docutils ; extra == 'pypi'",
+      "Pygments ; extra == 'pypi'",
+      "twine ; extra == 'pypi'",
+      "wheel ; extra == 'pypi'"
+    ]
+  },
+  "panflute-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "02673bcbdb521a805f08a2ca0ce864de86ad409ad406a01b3700fcf2aca81635",
+    "dependencies": {
+      "required": [
+        "click",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "click (<9,>=6)",
+      "pyyaml (<7,>=3)",
+      "configparser ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pandocfilters ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "requests ; extra == 'dev'",
+      "yamlloader (<2,>=1) ; extra == 'extras'",
+      "docutils ; extra == 'pypi'",
+      "Pygments ; extra == 'pypi'",
+      "twine ; extra == 'pypi'",
+      "wheel ; extra == 'pypi'"
+    ]
+  },
+  "panflute-2.2.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "410e799c193b186a38f5e1b9a0f489a27387dd8f9f3f3a9e8282cdd04dd922b6",
+    "dependencies": {
+      "required": [
+        "click",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "click (<9,>=6)",
+      "pyyaml (<7,>=3)",
+      "configparser ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pandocfilters ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "requests ; extra == 'dev'",
+      "yamlloader (<2,>=1) ; extra == 'extras'",
+      "docutils ; extra == 'pypi'",
+      "Pygments ; extra == 'pypi'",
+      "twine ; extra == 'pypi'",
+      "wheel ; extra == 'pypi'"
+    ]
+  },
+  "panflute-2.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7305f07e7f765360b8fc865c858fd8479cb824825b3f04edac52f4cddef07748",
+    "dependencies": {
+      "required": [
+        "click",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "click (<9,>=6)",
+      "pyyaml (<7,>=3)",
+      "configparser ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pandocfilters ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "requests ; extra == 'dev'",
+      "yamlloader (<2,>=1) ; extra == 'extras'",
+      "docutils ; extra == 'pypi'",
+      "Pygments ; extra == 'pypi'",
+      "twine ; extra == 'pypi'",
+      "wheel ; extra == 'pypi'"
+    ]
+  },
+  "panflute-2.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f914f5a3238105e7a5577f2f6db0f1cf077e7786a5e9e568a8da8f4fdef0569f",
+    "dependencies": {
+      "required": [
+        "click",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "click (<9,>=6)",
+      "pyyaml (<7,>=3)",
+      "configparser ; extra == 'dev'",
+      "coverage ; extra == 'dev'",
+      "flake8 ; extra == 'dev'",
+      "pandocfilters ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "requests ; extra == 'dev'",
+      "docutils ; extra == 'pypi'",
+      "Pygments ; extra == 'pypi'",
+      "twine ; extra == 'pypi'",
+      "wheel ; extra == 'pypi'"
+    ]
+  }
+}

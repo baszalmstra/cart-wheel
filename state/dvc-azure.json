@@ -1,0 +1,216 @@
+{
+  "dvc_azure-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07295bedc5c596c38b7cc1a4353307cd045a322fef59eae3e64e95b143d495f2",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "adlfs",
+        "azure-identity",
+        "knack"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "adlfs >=2023.12.0",
+      "azure-identity >=1.4.0",
+      "knack",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==6.2.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-servers[azure] >=0.3.0 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "mypy ==0.981 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_azure-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c862c5bb27de81b2303ef332e0f8804b08ab8cbcf00d592fefc1ffbfe8e6ad80",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "adlfs",
+        "azure-identity",
+        "knack"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "adlfs >=2023.10.0",
+      "azure-identity >=1.4.0",
+      "knack",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-test-utils ==0.0.8 ; extra == 'tests'",
+      "pytest-servers[azure] >=0.3.0 ; extra == 'tests'",
+      "pytest-docker <2,>=1 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "crc32c ==2.3.post0 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "pylint ==2.16.2 ; extra == 'tests'",
+      "pylint-plugin-utils ==0.6 ; extra == 'tests'",
+      "mypy ==0.981 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_azure-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e08e3a940582f1a2b8455e058a007a0da0e97ffb1664ea68d1ac675638bbb76",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "adlfs",
+        "azure-identity",
+        "knack"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "adlfs >=2023.10.0",
+      "azure-identity >=1.4.0",
+      "knack",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-test-utils ==0.0.8 ; extra == 'tests'",
+      "pytest-servers[azure] ==0.2.6 ; extra == 'tests'",
+      "pytest-docker <2,>=1 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "crc32c ==2.3.post0 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "pylint ==2.16.2 ; extra == 'tests'",
+      "pylint-plugin-utils ==0.6 ; extra == 'tests'",
+      "mypy ==0.981 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_azure-2.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb1fcfd7e6e40240169407dee1fa0a7b213c561ef436b1d78c757501416fde7a",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "adlfs",
+        "azure-identity",
+        "knack"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "adlfs >=2023.10.0",
+      "azure-identity >=1.4.0",
+      "knack",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-test-utils ==0.0.8 ; extra == 'tests'",
+      "pytest-servers[azure] ==0.2.6 ; extra == 'tests'",
+      "pytest-docker <2,>=1 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "crc32c ==2.3.post0 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "pylint ==2.16.2 ; extra == 'tests'",
+      "pylint-plugin-utils ==0.6 ; extra == 'tests'",
+      "mypy ==0.981 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_azure-2.22.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "295d7f032c7e1d66cdd1f5915279e81f042a0d729730ea59e2897290730feedb",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "adlfs",
+        "azure-identity",
+        "knack"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "adlfs >=2023.4.0",
+      "azure-identity >=1.4.0",
+      "knack",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==7.2.0 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-test-utils ==0.0.8 ; extra == 'tests'",
+      "pytest-servers[azure] ==0.2.4 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "crc32c ==2.3.post0 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "pylint ==2.15.9 ; extra == 'tests'",
+      "pylint-plugin-utils ==0.6 ; extra == 'tests'",
+      "mypy ==0.910 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  }
+}

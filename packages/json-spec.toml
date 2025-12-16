@@ -1,0 +1,12 @@
+# Package configuration for json-spec
+conda_forge = "json-spec"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "json_spec-0.12.0-py3-none-any.whl" },
+  { filename = "json_spec-0.11.0-py3-none-any.whl" },
+  { filename = "json_spec-0.10.1-py2.py3-none-any.whl" },
+  { filename = "json_spec-0.10.0-py2.py3-none-any.whl" },
+  { filename = "json_spec-0.9.17-py2.py3-none-any.whl" },
+]

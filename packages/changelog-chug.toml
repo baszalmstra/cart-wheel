@@ -1,0 +1,9 @@
+# Package configuration for changelog-chug
+conda_forge = "changelog-chug"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "changelog_chug-0.0.3-py3-none-any.whl" },
+  { filename = "changelog_chug-0.0.2-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for psycopg-pool
+conda_forge = "psycopg-pool"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "psycopg_pool-3.3.0-py3-none-any.whl" },
+  { filename = "psycopg_pool-3.2.8-py3-none-any.whl" },
+  { filename = "psycopg_pool-3.2.7-py3-none-any.whl" },
+  { filename = "psycopg_pool-3.2.6-py3-none-any.whl" },
+  { filename = "psycopg_pool-3.2.5-py3-none-any.whl" },
+]

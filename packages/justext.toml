@@ -1,0 +1,12 @@
+# Package configuration for justext
+conda_forge = "justext"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "justext-3.0.2-py2.py3-none-any.whl" },
+  { filename = "justext-3.0.1-py2.py3-none-any.whl" },
+  { filename = "jusText-3.0.0-py2.py3-none-any.whl" },
+  { filename = "jusText-2.2.0-py2.py3-none-any.whl" },
+  { filename = "jusText-2.1.1-py2.py3-none-any.whl" },
+]

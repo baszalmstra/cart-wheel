@@ -1,0 +1,98 @@
+{
+  "cmd2-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a564065a35f1bb172dfca1c2b9e8c17c930ab49af74f9cae8dfdf1891cff4595",
+    "dependencies": {
+      "required": [
+        "backports.strenum",
+        "gnureadline",
+        "pyperclip",
+        "pyreadline3",
+        "rich",
+        "rich-argparse"
+      ]
+    },
+    "original_requirements": [
+      "backports.strenum; python_version == \"3.10\"",
+      "gnureadline>=8; platform_system == \"Darwin\"",
+      "pyperclip>=1.8.2",
+      "pyreadline3>=3.4; platform_system == \"Windows\"",
+      "rich>=14.1.0",
+      "rich-argparse>=1.7.1"
+    ]
+  },
+  "cmd2-2.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c85faf603e8cfeb4302206f49c0530a83d63386b0d90ff6a957f2c816eb767d7",
+    "dependencies": {
+      "required": [
+        "gnureadline",
+        "pyperclip",
+        "pyreadline3",
+        "rich-argparse",
+        "wcwidth"
+      ]
+    },
+    "original_requirements": [
+      "gnureadline>=8; platform_system == \"Darwin\"",
+      "pyperclip>=1.8",
+      "pyreadline3>=3.4; platform_system == \"Windows\"",
+      "rich-argparse>=1.7.1",
+      "wcwidth>=0.2.10"
+    ]
+  },
+  "cmd2-2.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "adf0cf503c4745cdcd183305721bf29c0750e3b276c339a0a3249cb51459062d",
+    "dependencies": {
+      "required": [
+        "gnureadline",
+        "pyperclip",
+        "pyreadline3",
+        "wcwidth"
+      ]
+    },
+    "original_requirements": [
+      "gnureadline>=8; platform_system == \"Darwin\"",
+      "pyperclip>=1.8",
+      "pyreadline3>=3.4; platform_system == \"Windows\"",
+      "wcwidth>=0.2.10"
+    ]
+  },
+  "cmd2-2.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4c8e3a515a7e69061b7ebbaadeb9d7fae283b7fee1a44ff169e33e2ccb2eec3",
+    "dependencies": {
+      "required": [
+        "gnureadline",
+        "pyperclip",
+        "pyreadline3",
+        "wcwidth"
+      ]
+    },
+    "original_requirements": [
+      "gnureadline>=8; platform_system == \"Darwin\"",
+      "pyperclip>=1.8",
+      "pyreadline3>=3.4; platform_system == \"Windows\"",
+      "wcwidth>=0.2.10"
+    ]
+  },
+  "cmd2-2.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "832f8121c4f21ebf2af4292051b34579d7d4c9e917dc54f8e322feb911d76da1",
+    "dependencies": {
+      "required": [
+        "gnureadline",
+        "pyperclip",
+        "pyreadline3",
+        "wcwidth"
+      ]
+    },
+    "original_requirements": [
+      "gnureadline>=8; platform_system == \"Darwin\"",
+      "pyperclip>=1.8",
+      "pyreadline3>=3.4; platform_system == \"Windows\"",
+      "wcwidth>=0.2.10"
+    ]
+  }
+}

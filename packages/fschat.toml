@@ -1,0 +1,11 @@
+# Package configuration for fschat
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "fschat-0.2.36-py3-none-any.whl" },
+  { filename = "fschat-0.2.35-py3-none-any.whl" },
+  { filename = "fschat-0.2.34-py3-none-any.whl" },
+  { filename = "fschat-0.2.33-py3-none-any.whl" },
+  { filename = "fschat-0.2.32-py3-none-any.whl" },
+]

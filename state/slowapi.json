@@ -1,0 +1,66 @@
+{
+  "slowapi-0.1.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cfad116cfb84ad9d763ee155c1e5c5cbf00b0d47399a769b227865f5df576e36",
+    "dependencies": {
+      "required": [
+        "limits"
+      ]
+    },
+    "original_requirements": [
+      "limits (>=2.3)",
+      "redis (>=3.4.1,<4.0.0) ; extra == \"redis\""
+    ]
+  },
+  "slowapi-0.1.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "629fc415575bbffcd9d8621cc3ce326a78402c5f9b7b50b127979118d485c72e",
+    "dependencies": {
+      "required": [
+        "limits"
+      ]
+    },
+    "original_requirements": [
+      "limits (>=2.3)",
+      "redis (>=3.4.1,<4.0.0) ; extra == \"redis\""
+    ]
+  },
+  "slowapi-0.1.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94743ba5f68359455cfa1be214c086134c03f4e7072590682671fc65c744a615",
+    "dependencies": {
+      "required": [
+        "limits"
+      ]
+    },
+    "original_requirements": [
+      "limits (>=2.3,<3.0)"
+    ]
+  },
+  "slowapi-0.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc1dabf8cf88b2acc6cc505cc16ec0446c70d7b8d4110e85f1ded611d47c4454",
+    "dependencies": {
+      "required": [
+        "limits"
+      ]
+    },
+    "original_requirements": [
+      "limits (>=1.5,<2.0)"
+    ]
+  },
+  "slowapi-0.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb64b34c05cdc0a0c6779d83a8006fd8a204c89155b945ef185583fe6c200882",
+    "dependencies": {
+      "required": [
+        "limits",
+        "redis"
+      ]
+    },
+    "original_requirements": [
+      "limits (>=1.5,<2.0)",
+      "redis (>=3.4.1,<4.0.0)"
+    ]
+  }
+}

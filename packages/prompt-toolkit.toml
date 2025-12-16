@@ -1,0 +1,12 @@
+# Package configuration for prompt-toolkit
+conda_forge = "prompt_toolkit"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "prompt_toolkit-3.0.52-py3-none-any.whl" },
+  { filename = "prompt_toolkit-3.0.51-py3-none-any.whl" },
+  { filename = "prompt_toolkit-3.0.50-py3-none-any.whl" },
+  { filename = "prompt_toolkit-3.0.49-py3-none-any.whl" },
+  { filename = "prompt_toolkit-3.0.48-py3-none-any.whl" },
+]

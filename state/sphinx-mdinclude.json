@@ -1,0 +1,138 @@
+{
+  "sphinx_mdinclude-0.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "648e78edb067c0e4bffc22943278d49d54a0714494743592032fa3ad82a86984",
+    "dependencies": {
+      "required": [
+        "mistune",
+        "docutils",
+        "pygments",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "mistune >=3.0,<4.0",
+      "docutils >=0.19,<1.0",
+      "pygments >= 2.8",
+      "sphinx >= 6",
+      "docutils==0.20.1 ; extra == \"dev\" and ( python_version < '3.9')",
+      "docutils==0.21.2 ; extra == \"dev\" and ( python_version >= '3.9')",
+      "mistune==3.0.2 ; extra == \"dev\"",
+      "attribution==1.7.1 ; extra == \"dev\"",
+      "black==24.4.2 ; extra == \"dev\"",
+      "coverage==7.5.1 ; extra == \"dev\"",
+      "flake8==7.0.0 ; extra == \"dev\"",
+      "flit==3.9.0 ; extra == \"dev\"",
+      "mypy==1.10.0 ; extra == \"dev\"",
+      "sphinx==7.1.2 ; extra == \"dev\" and ( python_version < '3.9')",
+      "sphinx==7.3.7 ; extra == \"dev\" and ( python_version >= '3.9')",
+      "ufmt==2.5.1 ; extra == \"dev\"",
+      "usort==1.0.8.post1 ; extra == \"dev\""
+    ]
+  },
+  "sphinx_mdinclude-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d96cb01b8ab23dc8e5e3932c8fbc91d402e7e708aa5ba8d63a8e627d00275ae6",
+    "dependencies": {
+      "required": [
+        "mistune",
+        "docutils",
+        "pygments",
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "mistune >=3.0,<4.0",
+      "docutils >=0.16,<1.0",
+      "pygments >= 2.8",
+      "sphinx >= 6",
+      "docutils==0.20.1 ; extra == \"dev\" and ( python_version < '3.9')",
+      "docutils==0.21.2 ; extra == \"dev\" and ( python_version >= '3.9')",
+      "mistune==3.0.2 ; extra == \"dev\"",
+      "attribution==1.7.1 ; extra == \"dev\"",
+      "black==24.4.2 ; extra == \"dev\"",
+      "coverage==7.5.1 ; extra == \"dev\"",
+      "flake8==7.0.0 ; extra == \"dev\"",
+      "flit==3.9.0 ; extra == \"dev\"",
+      "mypy==1.10.0 ; extra == \"dev\"",
+      "sphinx==7.1.2 ; extra == \"dev\" and ( python_version < '3.9')",
+      "sphinx==7.3.7 ; extra == \"dev\" and ( python_version >= '3.9')",
+      "ufmt==2.5.1 ; extra == \"dev\"",
+      "usort==1.0.8.post1 ; extra == \"dev\""
+    ]
+  },
+  "sphinx_mdinclude-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "764b6aeee28002b9d02060758266761a2c724805594d264b19e6ceeaa3bad393",
+    "dependencies": {
+      "required": [
+        "mistune",
+        "docutils",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "mistune >=3.0,<4.0",
+      "docutils >=0.16,<1.0",
+      "pygments >= 2.8",
+      "docutils==0.20.1 ; extra == \"dev\" and ( python_version < '3.9')",
+      "docutils==0.21.1 ; extra == \"dev\" and ( python_version >= '3.9')",
+      "mistune==3.0.2 ; extra == \"dev\"",
+      "attribution==1.7.1 ; extra == \"dev\"",
+      "black==24.4.0 ; extra == \"dev\"",
+      "coverage==7.4.4 ; extra == \"dev\"",
+      "flake8==7.0.0 ; extra == \"dev\"",
+      "flit==3.9.0 ; extra == \"dev\"",
+      "mypy==1.9.0 ; extra == \"dev\"",
+      "sphinx==7.1.2 ; extra == \"dev\" and ( python_version < '3.9')",
+      "sphinx==7.3.7 ; extra == \"dev\" and ( python_version >= '3.9')",
+      "ufmt==2.5.1 ; extra == \"dev\"",
+      "usort==1.0.8.post1 ; extra == \"dev\""
+    ]
+  },
+  "sphinx_mdinclude-0.5.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8b04b7bbc82aa47d7567841c3b030301dbdfa1cbd188ef2d2f117dcca79f199",
+    "dependencies": {
+      "required": [
+        "mistune",
+        "docutils",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "mistune >=2.0,<3.0",
+      "docutils >=0.16,<1.0",
+      "pygments >= 2.8",
+      "docutils==0.20.1 ; extra == \"dev\" and ( python_version < '3.9')",
+      "docutils==0.21.1 ; extra == \"dev\" and ( python_version >= '3.9')",
+      "mistune==2.0.4 ; extra == \"dev\"",
+      "attribution==1.6.2 ; extra == \"dev\"",
+      "black==24.4.0 ; extra == \"dev\"",
+      "coverage==7.3.2 ; extra == \"dev\"",
+      "flake8==7.0.0 ; extra == \"dev\"",
+      "flit==3.9.0 ; extra == \"dev\"",
+      "mypy==1.9.0 ; extra == \"dev\"",
+      "sphinx==7.1.2 ; extra == \"dev\" and ( python_version < '3.9')",
+      "sphinx==7.3.7 ; extra == \"dev\" and ( python_version >= '3.9')",
+      "ufmt==2.5.1 ; extra == \"dev\"",
+      "usort==1.0.7 ; extra == \"dev\""
+    ]
+  },
+  "sphinx_mdinclude-0.5.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "02afadf4597aecf8255a702956eff5b8c5cb9658ea995c3d361722d2ed78cca9",
+    "dependencies": {
+      "required": [
+        "mistune",
+        "docutils",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "mistune >=2.0,<3.0",
+      "docutils >=0.16,<1.0",
+      "pygments >= 2.8"
+    ]
+  }
+}

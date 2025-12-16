@@ -1,0 +1,40 @@
+{
+  "pyzenodo3-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f62c5327c0e660b0137a8f107fda58727787ef2b84a04713f0f5d2891b9a12e",
+    "dependencies": {
+      "required": [
+        "requests",
+        "beautifulsoup4"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "Beautifulsoup4",
+      "pytest; extra == 'tests'",
+      "pytest-cov; extra == 'tests'",
+      "coveralls; extra == 'tests'",
+      "flake8; extra == 'tests'",
+      "mypy; extra == 'tests'"
+    ]
+  },
+  "pyzenodo3-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "09b61de5c310f285d9ee90239afd3d24a2f39f5ecf77b69b34e29b37c405755e",
+    "dependencies": {
+      "required": [
+        "requests",
+        "beautifulsoup4"
+      ]
+    },
+    "original_requirements": [
+      "requests",
+      "Beautifulsoup4",
+      "pytest; extra == 'tests'",
+      "pytest-cov; extra == 'tests'",
+      "coveralls; extra == 'tests'",
+      "flake8; extra == 'tests'",
+      "mypy; extra == 'tests'"
+    ]
+  }
+}

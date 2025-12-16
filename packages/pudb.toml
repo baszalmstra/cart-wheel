@@ -1,0 +1,12 @@
+# Package configuration for pudb
+conda_forge = "pudb"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pudb-2025.1.5-py3-none-any.whl" },
+  { filename = "pudb-2025.1.4-py3-none-any.whl" },
+  { filename = "pudb-2025.1.3-py3-none-any.whl" },
+  { filename = "pudb-2025.1.1-py3-none-any.whl" },
+  { filename = "pudb-2025.1-py3-none-any.whl" },
+]

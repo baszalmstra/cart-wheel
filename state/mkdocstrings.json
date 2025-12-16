@@ -1,0 +1,137 @@
+{
+  "mkdocstrings-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c50eb960bff6e05dfc631f6bc00dfabffbcb29c5ff25f676d64daae05ed82fa",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "markdown",
+        "markupsafe",
+        "mkdocs",
+        "mkdocs-autorefs",
+        "pymdown-extensions"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2>=3.1",
+      "Markdown>=3.6",
+      "MarkupSafe>=1.1",
+      "mkdocs>=1.6",
+      "mkdocs-autorefs>=1.4",
+      "pymdown-extensions>=6.3",
+      "mkdocstrings-crystal>=0.3.4; extra == \"crystal\"",
+      "mkdocstrings-python-legacy>=0.2.1; extra == \"python-legacy\"",
+      "mkdocstrings-python>=1.16.2; extra == \"python\""
+    ]
+  },
+  "mkdocstrings-0.30.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "41bd71f284ca4d44a668816193e4025c950b002252081e387433656ae9a70a82",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "markdown",
+        "markupsafe",
+        "mkdocs",
+        "mkdocs-autorefs",
+        "pymdown-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2>=2.11.1",
+      "Markdown>=3.6",
+      "MarkupSafe>=1.1",
+      "mkdocs>=1.6",
+      "mkdocs-autorefs>=1.4",
+      "pymdown-extensions>=6.3",
+      "importlib-metadata>=4.6; python_version < \"3.10\"",
+      "mkdocstrings-crystal>=0.3.4; extra == \"crystal\"",
+      "mkdocstrings-python-legacy>=0.2.1; extra == \"python-legacy\"",
+      "mkdocstrings-python>=1.16.2; extra == \"python\""
+    ]
+  },
+  "mkdocstrings-0.30.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae9e4a0d8c1789697ac776f2e034e2ddd71054ae1cf2c2bb1433ccfd07c226f2",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "markdown",
+        "markupsafe",
+        "mkdocs",
+        "mkdocs-autorefs",
+        "pymdown-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2>=2.11.1",
+      "Markdown>=3.6",
+      "MarkupSafe>=1.1",
+      "mkdocs>=1.6",
+      "mkdocs-autorefs>=1.4",
+      "pymdown-extensions>=6.3",
+      "importlib-metadata>=4.6; python_version < \"3.10\"",
+      "mkdocstrings-crystal>=0.3.4; extra == \"crystal\"",
+      "mkdocstrings-python-legacy>=0.2.1; extra == \"python-legacy\"",
+      "mkdocstrings-python>=1.16.2; extra == \"python\""
+    ]
+  },
+  "mkdocstrings-0.29.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37a9736134934eea89cbd055a513d40a020d87dfcae9e3052c2a6b8cd4af09b6",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "markdown",
+        "markupsafe",
+        "mkdocs",
+        "mkdocs-autorefs",
+        "pymdown-extensions",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2>=2.11.1",
+      "Markdown>=3.6",
+      "MarkupSafe>=1.1",
+      "mkdocs>=1.6",
+      "mkdocs-autorefs>=1.4",
+      "pymdown-extensions>=6.3",
+      "importlib-metadata>=4.6; python_version < \"3.10\"",
+      "mkdocstrings-crystal>=0.3.4; extra == \"crystal\"",
+      "mkdocstrings-python-legacy>=0.2.1; extra == \"python-legacy\"",
+      "mkdocstrings-python>=1.16.2; extra == \"python\""
+    ]
+  },
+  "mkdocstrings-0.29.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8ea98358d2006f60befa940fdebbbc88a26b37ecbcded10be726ba359284f73d",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "markdown",
+        "markupsafe",
+        "mkdocs",
+        "mkdocs-autorefs",
+        "pymdown-extensions",
+        "importlib-metadata",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "Jinja2>=2.11.1",
+      "Markdown>=3.6",
+      "MarkupSafe>=1.1",
+      "mkdocs>=1.6",
+      "mkdocs-autorefs>=1.4",
+      "pymdown-extensions>=6.3",
+      "importlib-metadata>=4.6; python_version < \"3.10\"",
+      "typing-extensions>=4.1; python_version < \"3.10\"",
+      "mkdocstrings-crystal>=0.3.4; extra == \"crystal\"",
+      "mkdocstrings-python-legacy>=0.2.1; extra == \"python-legacy\"",
+      "mkdocstrings-python>=1.16.2; extra == \"python\""
+    ]
+  }
+}

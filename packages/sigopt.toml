@@ -1,0 +1,12 @@
+# Package configuration for sigopt
+conda_forge = "sigopt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sigopt-8.8.3-py2.py3-none-any.whl" },
+  { filename = "sigopt-8.8.2-py2.py3-none-any.whl" },
+  { filename = "sigopt-8.8.1-py2.py3-none-any.whl" },
+  { filename = "sigopt-8.8.0-py2.py3-none-any.whl" },
+  { filename = "sigopt-8.7.0-py2.py3-none-any.whl" },
+]

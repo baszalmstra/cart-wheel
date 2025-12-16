@@ -1,0 +1,11 @@
+# Package configuration for aws-cdk.assets
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_cdk.assets-1.204.0-py3-none-any.whl" },
+  { filename = "aws_cdk.assets-1.203.0-py3-none-any.whl" },
+  { filename = "aws_cdk.assets-1.202.0-py3-none-any.whl" },
+  { filename = "aws_cdk.assets-1.201.0-py3-none-any.whl" },
+  { filename = "aws_cdk.assets-1.200.0-py3-none-any.whl" },
+]

@@ -1,0 +1,97 @@
+{
+  "livekit_plugins_aws-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ee99ce25b36645dae98238ce15e414de8ed7d3175b99db88432b2cd5dbba28df",
+    "dependencies": {
+      "required": [
+        "aioboto3",
+        "aws-sdk-transcribe-streaming",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "aioboto3>=14.1.0",
+      "aws-sdk-transcribe-streaming>=0.2.0; python_version >= '3.12'",
+      "livekit-agents>=1.3.6",
+      "aws-sdk-bedrock-runtime>=0.2.0; (python_version >= '3.12') and extra == 'realtime'",
+      "aws-sdk-signers>=0.0.3; (python_version >= '3.12') and extra == 'realtime'",
+      "boto3>1.35.10; extra == 'realtime'"
+    ]
+  },
+  "livekit_plugins_aws-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82f45eaf63a0de5827053b14fa50c976624db389670d8bf7779caf978b71448b",
+    "dependencies": {
+      "required": [
+        "aioboto3",
+        "amazon-transcribe",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "aioboto3>=14.1.0",
+      "amazon-transcribe>=0.6.4",
+      "livekit-agents>=1.3.5",
+      "aws-sdk-bedrock-runtime==0.0.2; (python_version >= '3.12') and extra == 'realtime'",
+      "aws-sdk-signers==0.0.3; (python_version >= '3.12') and extra == 'realtime'",
+      "boto3>1.35.10; extra == 'realtime'"
+    ]
+  },
+  "livekit_plugins_aws-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5aaa479ff4d8ec8cf358e851f62174141c09e726e25fc39c91f08ea587684d63",
+    "dependencies": {
+      "required": [
+        "aioboto3",
+        "amazon-transcribe",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "aioboto3>=14.1.0",
+      "amazon-transcribe>=0.6.4",
+      "livekit-agents>=1.3.4",
+      "aws-sdk-bedrock-runtime==0.0.2; (python_version >= '3.12') and extra == 'realtime'",
+      "aws-sdk-signers==0.0.3; (python_version >= '3.12') and extra == 'realtime'",
+      "boto3>1.35.10; extra == 'realtime'"
+    ]
+  },
+  "livekit_plugins_aws-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "64cb225f2159f93b89a1a30df942ac92b560290590a2ed0229952596acf7f226",
+    "dependencies": {
+      "required": [
+        "aioboto3",
+        "amazon-transcribe",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "aioboto3>=14.1.0",
+      "amazon-transcribe>=0.6.4",
+      "livekit-agents>=1.3.3",
+      "aws-sdk-bedrock-runtime==0.0.2; (python_version >= '3.12') and extra == 'realtime'",
+      "aws-sdk-signers==0.0.3; (python_version >= '3.12') and extra == 'realtime'",
+      "boto3>1.35.10; extra == 'realtime'"
+    ]
+  },
+  "livekit_plugins_aws-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4de847d6a4df56ef3866478fe92a734b7f94e4314fc8b3bc461d65ae66145caa",
+    "dependencies": {
+      "required": [
+        "aioboto3",
+        "amazon-transcribe",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "aioboto3>=14.1.0",
+      "amazon-transcribe>=0.6.4",
+      "livekit-agents>=1.3.2",
+      "aws-sdk-bedrock-runtime==0.0.2; (python_version >= '3.12') and extra == 'realtime'",
+      "aws-sdk-signers==0.0.3; (python_version >= '3.12') and extra == 'realtime'",
+      "boto3>1.35.10; extra == 'realtime'"
+    ]
+  }
+}

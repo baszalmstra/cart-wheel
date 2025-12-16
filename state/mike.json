@@ -1,0 +1,168 @@
+{
+  "mike-2.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d90c64077e84f06272437b464735130d380703a76a5738b152932884c60c062a",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "importlib-resources",
+        "jinja2",
+        "mkdocs",
+        "pyparsing",
+        "pyyaml",
+        "pyyaml-env-tag",
+        "verspec"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata",
+      "importlib-resources",
+      "jinja2 (>=2.7)",
+      "mkdocs (>=1.0)",
+      "pyparsing (>=3.0)",
+      "pyyaml (>=5.1)",
+      "pyyaml-env-tag",
+      "verspec",
+      "coverage ; extra == 'dev'",
+      "flake8-quotes ; extra == 'dev'",
+      "flake8 (>=3.0) ; extra == 'dev'",
+      "shtab ; extra == 'dev'",
+      "coverage ; extra == 'test'",
+      "flake8-quotes ; extra == 'test'",
+      "flake8 (>=3.0) ; extra == 'test'",
+      "shtab ; extra == 'test'"
+    ]
+  },
+  "mike-2.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d61d9b423ab412d634ca2bd520136d5114e3cc73f4bbd1aa6a0c6625c04918c0",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "importlib-resources",
+        "jinja2",
+        "mkdocs",
+        "pyparsing",
+        "pyyaml",
+        "pyyaml-env-tag",
+        "verspec"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata",
+      "importlib-resources",
+      "jinja2 (>=2.7)",
+      "mkdocs (>=1.0)",
+      "pyparsing (>=3.0)",
+      "pyyaml (>=5.1)",
+      "pyyaml-env-tag",
+      "verspec",
+      "coverage ; extra == 'dev'",
+      "flake8-quotes ; extra == 'dev'",
+      "flake8 (>=3.0) ; extra == 'dev'",
+      "shtab ; extra == 'dev'",
+      "coverage ; extra == 'test'",
+      "flake8-quotes ; extra == 'test'",
+      "flake8 (>=3.0) ; extra == 'test'",
+      "shtab ; extra == 'test'"
+    ]
+  },
+  "mike-2.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0b1d01a397a423284593eeb1b5f3194e37169488f929b860c9bfe95c0d5efb79",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "importlib-resources",
+        "jinja2",
+        "mkdocs",
+        "pyparsing",
+        "pyyaml",
+        "pyyaml-env-tag",
+        "verspec"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata",
+      "importlib-resources",
+      "jinja2 (>=2.7)",
+      "mkdocs (>=1.0)",
+      "pyparsing (>=3.0)",
+      "pyyaml (>=5.1)",
+      "pyyaml-env-tag",
+      "verspec",
+      "coverage ; extra == 'dev'",
+      "flake8-quotes ; extra == 'dev'",
+      "flake8 (>=3.0) ; extra == 'dev'",
+      "shtab ; extra == 'dev'",
+      "coverage ; extra == 'test'",
+      "flake8-quotes ; extra == 'test'",
+      "flake8 (>=3.0) ; extra == 'test'",
+      "shtab ; extra == 'test'"
+    ]
+  },
+  "mike-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3885f9b9e31fc4b0d61de473750d38ac170a6b291585076effb51a806245608",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "importlib-resources",
+        "jinja2",
+        "mkdocs",
+        "pyparsing",
+        "pyyaml",
+        "verspec"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata",
+      "importlib-resources",
+      "jinja2 (>=2.7)",
+      "mkdocs (>=1.0)",
+      "pyparsing (>=3.0)",
+      "pyyaml (>=5.1)",
+      "verspec",
+      "coverage ; extra == 'dev'",
+      "flake8-quotes ; extra == 'dev'",
+      "flake8 (>=3.0) ; extra == 'dev'",
+      "shtab ; extra == 'dev'",
+      "coverage ; extra == 'test'",
+      "flake8-quotes ; extra == 'test'",
+      "flake8 (>=3.0) ; extra == 'test'",
+      "shtab ; extra == 'test'"
+    ]
+  },
+  "mike-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "87f496a65900f93ba92d72940242b65c86f3f2f82871bc60ebdcffc91fad1d9e",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "importlib-resources",
+        "jinja2",
+        "mkdocs",
+        "pyparsing",
+        "pyyaml",
+        "verspec"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata",
+      "importlib-resources",
+      "jinja2 (>=2.7)",
+      "mkdocs (>=1.0)",
+      "pyparsing (>=3.0)",
+      "pyyaml (>=5.1)",
+      "verspec",
+      "coverage ; extra == 'dev'",
+      "flake8-quotes ; extra == 'dev'",
+      "flake8 (>=3.0) ; extra == 'dev'",
+      "shtab ; extra == 'dev'",
+      "coverage ; extra == 'test'",
+      "flake8-quotes ; extra == 'test'",
+      "flake8 (>=3.0) ; extra == 'test'",
+      "shtab ; extra == 'test'"
+    ]
+  }
+}

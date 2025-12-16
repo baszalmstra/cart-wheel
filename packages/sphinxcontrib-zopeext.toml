@@ -1,0 +1,11 @@
+# Package configuration for sphinxcontrib-zopeext
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_zopeext-0.4.3-py3-none-any.whl" },
+  { filename = "sphinxcontrib_zopeext-0.4.2-py3-none-any.whl" },
+  { filename = "sphinxcontrib_zopeext-0.3.3-py3-none-any.whl" },
+  { filename = "sphinxcontrib_zopeext-0.3.2-py3-none-any.whl" },
+  { filename = "sphinxcontrib_zopeext-0.3.1-py3-none-any.whl" },
+]

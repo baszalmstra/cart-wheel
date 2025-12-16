@@ -1,0 +1,172 @@
+{
+  "shinychat-0.2.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6742a2354257280458269a8b5675f1254e5583be34b6eb1a626de44c0323286a",
+    "dependencies": {
+      "required": [
+        "htmltools",
+        "shiny"
+      ]
+    },
+    "original_requirements": [
+      "htmltools>=0.6.0",
+      "shiny>=1.4.0",
+      "anthropic; (python_version >= '3.11') and extra == 'providers'",
+      "chatlas[mcp]>=0.12.0; extra == 'providers'",
+      "google-generativeai; extra == 'providers'",
+      "langchain-core; extra == 'providers'",
+      "ollama>=0.4.0; extra == 'providers'",
+      "openai; extra == 'providers'",
+      "pydantic; extra == 'providers'",
+      "tokenizers; extra == 'providers'",
+      "coverage>=7.8.2; extra == 'test'",
+      "faicons; extra == 'test'",
+      "ipyleaflet; extra == 'test'",
+      "pandas; extra == 'test'",
+      "playwright>=1.43.0; extra == 'test'",
+      "plotly; extra == 'test'",
+      "pyright>=1.1.398; extra == 'test'",
+      "pytest-playwright>=0.3.0; extra == 'test'",
+      "pytest>=6.2.4; extra == 'test'",
+      "shinylive; extra == 'test'",
+      "shinywidgets; extra == 'test'",
+      "tox-uv>=1; extra == 'test'"
+    ]
+  },
+  "shinychat-0.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c48bb56e5af05f9646b29b7e7808ce68b8f3918b688634154ac7d7f8cb39e02e",
+    "dependencies": {
+      "required": [
+        "htmltools",
+        "shiny"
+      ]
+    },
+    "original_requirements": [
+      "htmltools>=0.6.0",
+      "shiny>=1.4.0",
+      "anthropic; (python_version >= '3.11') and extra == 'providers'",
+      "chatlas[mcp]>=0.12.0; extra == 'providers'",
+      "google-generativeai; extra == 'providers'",
+      "langchain-core; extra == 'providers'",
+      "ollama>=0.4.0; extra == 'providers'",
+      "openai; extra == 'providers'",
+      "pydantic; extra == 'providers'",
+      "tokenizers; extra == 'providers'",
+      "coverage>=7.8.2; extra == 'test'",
+      "faicons; extra == 'test'",
+      "ipyleaflet; extra == 'test'",
+      "pandas; extra == 'test'",
+      "playwright>=1.43.0; extra == 'test'",
+      "plotly; extra == 'test'",
+      "pyright>=1.1.398; extra == 'test'",
+      "pytest-playwright>=0.3.0; extra == 'test'",
+      "pytest>=6.2.4; extra == 'test'",
+      "shinylive; extra == 'test'",
+      "shinywidgets; extra == 'test'",
+      "tox-uv>=1; extra == 'test'"
+    ]
+  },
+  "shinychat-0.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ced10a942478d68d2e8e877e9bebe19586d4a090265158c4295cb9023eb754b6",
+    "dependencies": {
+      "required": [
+        "htmltools",
+        "shiny"
+      ]
+    },
+    "original_requirements": [
+      "htmltools>=0.6.0",
+      "shiny>=1.4.0",
+      "anthropic; (python_version >= '3.11') and extra == 'providers'",
+      "chatlas[mcp]>=0.12.0; extra == 'providers'",
+      "google-generativeai; extra == 'providers'",
+      "langchain-core; extra == 'providers'",
+      "ollama>=0.4.0; extra == 'providers'",
+      "openai; extra == 'providers'",
+      "pydantic; extra == 'providers'",
+      "tokenizers; extra == 'providers'",
+      "coverage>=7.8.2; extra == 'test'",
+      "faicons; extra == 'test'",
+      "ipyleaflet; extra == 'test'",
+      "pandas; extra == 'test'",
+      "playwright>=1.43.0; extra == 'test'",
+      "plotly; extra == 'test'",
+      "pyright>=1.1.398; extra == 'test'",
+      "pytest-playwright>=0.3.0; extra == 'test'",
+      "pytest>=6.2.4; extra == 'test'",
+      "shinylive; extra == 'test'",
+      "shinywidgets; extra == 'test'",
+      "tox-uv>=1; extra == 'test'"
+    ]
+  },
+  "shinychat-0.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "911ace6708eeffb53624803c905e979b86a34453ca9ed20a6526d0450925f3fe",
+    "dependencies": {
+      "required": [
+        "htmltools",
+        "shiny"
+      ]
+    },
+    "original_requirements": [
+      "htmltools>=0.6.0",
+      "shiny>=1.4.0",
+      "anthropic; (python_version >= '3.11') and extra == 'providers'",
+      "chatlas[mcp]>=0.12.0; extra == 'providers'",
+      "google-generativeai; extra == 'providers'",
+      "langchain-core; extra == 'providers'",
+      "ollama>=0.4.0; extra == 'providers'",
+      "openai; extra == 'providers'",
+      "tokenizers; extra == 'providers'",
+      "coverage>=7.8.2; extra == 'test'",
+      "faicons; extra == 'test'",
+      "ipyleaflet; extra == 'test'",
+      "pandas; extra == 'test'",
+      "playwright>=1.43.0; extra == 'test'",
+      "plotly; extra == 'test'",
+      "pyright>=1.1.398; extra == 'test'",
+      "pytest-playwright>=0.3.0; extra == 'test'",
+      "pytest>=6.2.4; extra == 'test'",
+      "shinylive; extra == 'test'",
+      "shinywidgets; extra == 'test'",
+      "tox-uv>=1; extra == 'test'"
+    ]
+  },
+  "shinychat-0.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6460044ee32b3d73dbd359d477c697b745bb2de410e672a6e8aaf8cf1e7b9d1a",
+    "dependencies": {
+      "required": [
+        "chatlas",
+        "htmltools",
+        "shiny"
+      ]
+    },
+    "original_requirements": [
+      "chatlas>=0.12.0",
+      "htmltools>=0.6.0",
+      "shiny>=1.4.0",
+      "anthropic; (python_version >= '3.11') and extra == 'providers'",
+      "chatlas[mcp]>=0.11.1; extra == 'providers'",
+      "google-generativeai; extra == 'providers'",
+      "langchain-core; extra == 'providers'",
+      "ollama>=0.4.0; extra == 'providers'",
+      "openai; extra == 'providers'",
+      "tokenizers; extra == 'providers'",
+      "coverage>=7.8.2; extra == 'test'",
+      "faicons; extra == 'test'",
+      "ipyleaflet; extra == 'test'",
+      "pandas; extra == 'test'",
+      "playwright>=1.43.0; extra == 'test'",
+      "plotly; extra == 'test'",
+      "pyright>=1.1.398; extra == 'test'",
+      "pytest-playwright>=0.3.0; extra == 'test'",
+      "pytest>=6.2.4; extra == 'test'",
+      "shinylive; extra == 'test'",
+      "shinywidgets; extra == 'test'",
+      "tox-uv>=1; extra == 'test'"
+    ]
+  }
+}

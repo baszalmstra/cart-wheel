@@ -1,0 +1,147 @@
+{
+  "inflect-7.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2aea70e5e70c35d8350b8097396ec155ffd68def678c7ff97f51aa69c1d92344",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "typeguard",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "more_itertools>=8.5.0",
+      "typeguard>=4.0.1",
+      "typing_extensions; python_version < \"3.9\"",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "pygments; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "jaraco.tidelift>=1.4; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "inflect-7.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "85af0997ee2bda942b1c1eed8c8a827abda91aa3e22d1efaa0eea817f9350ce7",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "typeguard",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools >=8.5.0",
+      "typeguard >=4.0.1",
+      "typing-extensions ; python_version < \"3.9\"",
+      "pytest-checkdocs >=2.4 ; extra == 'check'",
+      "pytest-ruff >=0.2.1 ; (sys_platform != \"cygwin\") and extra == 'check'",
+      "pytest-cov ; extra == 'cover'",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest-enabler >=2.2 ; extra == 'enabler'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pygments ; extra == 'test'",
+      "pytest-mypy ; extra == 'type'"
+    ]
+  },
+  "inflect-7.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bedbae76877b054ecf0597153725677ab618fdd69abf189cc82e0f7a6720669d",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "typeguard",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools >=8.5.0",
+      "typeguard >=4.0.1",
+      "typing-extensions ; python_version < \"3.9\"",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'",
+      "pygments ; extra == 'test'"
+    ]
+  },
+  "inflect-7.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91f689dae31f9a0c28e6275f6161a0d39c7316524b71c5b6978920c7d362ce97",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "typeguard",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools",
+      "typeguard >=4.0.1",
+      "typing-extensions ; python_version < \"3.9\"",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'",
+      "pygments ; extra == 'test'"
+    ]
+  },
+  "inflect-7.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4ecaffaeccbc746251d973c0674c47d63b262fdad63f651fb98e878eee1f449",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "typeguard",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools",
+      "typeguard >=4.0.1",
+      "typing-extensions",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "jaraco.tidelift >=1.4 ; extra == 'docs'",
+      "pytest >=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-mypy ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'",
+      "pygments ; extra == 'testing'"
+    ]
+  }
+}

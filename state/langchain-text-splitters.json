@@ -1,0 +1,64 @@
+{
+  "langchain_text_splitters-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f00c8219d3468f2c5bd951b708b6a7dd9bc3c62d0cfb83124c377f7170f33b2e",
+    "dependencies": {
+      "required": [
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=1.0.0"
+    ]
+  },
+  "langchain_text_splitters-0.3.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf079131166a487f1372c8ab5d0bfaa6c0a4291733d9c43a34a16ac9bcd6a393",
+    "dependencies": {
+      "required": [
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=0.3.75"
+    ]
+  },
+  "langchain_text_splitters-0.3.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4bc6ebef274d954e79321d0781dc5ab89b79f40c3cb8ba3310cc2d05ff73c945",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "pip"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=0.3.75",
+      "pip>=25.2"
+    ]
+  },
+  "langchain_text_splitters-0.3.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cee0bb816211584ea79cc79927317c358543f40404bcfdd69e69ba3ccde54401",
+    "dependencies": {
+      "required": [
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<1.0.0,>=0.3.72"
+    ]
+  },
+  "langchain_text_splitters-0.3.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e75cc0f4ae58dcf07d9f18776400cf8ade27fadd4ff6d264df6278bb302f6f02",
+    "dependencies": {
+      "required": [
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<1.0.0,>=0.3.51"
+    ]
+  }
+}

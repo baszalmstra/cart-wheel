@@ -1,0 +1,89 @@
+{
+  "fabric-3.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91c47c0be68b14936c88b34da8a1f55e5710fd28397dac5d4ff2e21558113a6f",
+    "dependencies": {
+      "required": [
+        "invoke",
+        "paramiko",
+        "decorator",
+        "deprecated"
+      ]
+    },
+    "original_requirements": [
+      "invoke >=2.0",
+      "paramiko >=2.4",
+      "decorator >=5",
+      "deprecated >=1.2",
+      "pytest >=7 ; extra == 'pytest'"
+    ]
+  },
+  "fabric-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23440a56510a981c97aaa2d4be17c759d6c60e5691bc49a66eb70f319d55f118",
+    "dependencies": {
+      "required": [
+        "invoke",
+        "paramiko",
+        "decorator",
+        "deprecated"
+      ]
+    },
+    "original_requirements": [
+      "invoke (>=2.0)",
+      "paramiko (>=2.4)",
+      "decorator (>=5)",
+      "deprecated (>=1.2)",
+      "pytest (>=7) ; extra == 'pytest'"
+    ]
+  },
+  "fabric-3.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b6c5e3345da60b0d0c54d5ace22d110081550bbd03023b38c6edf1f3453c0b33",
+    "dependencies": {
+      "required": [
+        "invoke",
+        "paramiko",
+        "decorator"
+      ]
+    },
+    "original_requirements": [
+      "invoke (>=2.0)",
+      "paramiko (>=2.4)",
+      "decorator (>=5)",
+      "pytest (>=7) ; extra == 'pytest'"
+    ]
+  },
+  "fabric-3.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0a13217db1aa203167376119b0e165081c5906c31e2b2104410685d1310ef8fb",
+    "dependencies": {
+      "required": [
+        "invoke",
+        "paramiko",
+        "decorator"
+      ]
+    },
+    "original_requirements": [
+      "invoke (>=2.0)",
+      "paramiko (>=2.4)",
+      "decorator (>=5)",
+      "pytest (>=7) ; extra == 'pytest'"
+    ]
+  },
+  "fabric-3.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a616a47b0e929c46c0c85619634a8a7522aa03378e1aea275c0a548385653ddf",
+    "dependencies": {
+      "required": [
+        "invoke",
+        "paramiko"
+      ]
+    },
+    "original_requirements": [
+      "invoke (>=2.0)",
+      "paramiko (>=2.4)",
+      "pytest (>=7) ; extra == 'pytest'"
+    ]
+  }
+}

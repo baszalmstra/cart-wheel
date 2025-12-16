@@ -1,0 +1,74 @@
+{
+  "h2-4.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c438f029a25f7945c69e0ccf0fb951dc3f73a5f6412981daee861431b70e2bdd",
+    "dependencies": {
+      "required": [
+        "hyperframe",
+        "hpack"
+      ]
+    },
+    "original_requirements": [
+      "hyperframe<7,>=6.1",
+      "hpack<5,>=4.1"
+    ]
+  },
+  "h2-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "479a53ad425bb29af087f3458a61d30780bc818e4ebcf01f0b536ba916462ed0",
+    "dependencies": {
+      "required": [
+        "hyperframe",
+        "hpack"
+      ]
+    },
+    "original_requirements": [
+      "hyperframe<7,>=6.1",
+      "hpack<5,>=4.1"
+    ]
+  },
+  "h2-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03a46bcf682256c95b5fd9e9a99c1323584c3eec6440d379b9903d709476bc6d",
+    "dependencies": {
+      "required": [
+        "hyperframe",
+        "hpack"
+      ]
+    },
+    "original_requirements": [
+      "hyperframe (<7,>=6.0)",
+      "hpack (<5,>=4.0)"
+    ]
+  },
+  "h2-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac9e293a1990b339d5d71b19c5fe630e3dd4d768c620d1730d355485323f1b25",
+    "dependencies": {
+      "required": [
+        "hyperframe",
+        "hpack"
+      ]
+    },
+    "original_requirements": [
+      "hyperframe (<7,>=6.0)",
+      "hpack (<5,>=4.0)"
+    ]
+  },
+  "h2-3.2.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "61e0f6601fa709f35cdb730863b4e5ec7ad449792add80d1410d4174ed139af5",
+    "dependencies": {
+      "required": [
+        "hyperframe",
+        "hpack",
+        "enum34"
+      ]
+    },
+    "original_requirements": [
+      "hyperframe (<6,>=5.2.0)",
+      "hpack (<4,>=3.0)",
+      "enum34 (<2,>=1.1.6) ; python_version == \"2.7\""
+    ]
+  }
+}

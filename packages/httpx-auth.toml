@@ -1,0 +1,11 @@
+# Package configuration for httpx-auth
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "httpx_auth-0.23.1-py3-none-any.whl" },
+  { filename = "httpx_auth-0.23.0-py3-none-any.whl" },
+  { filename = "httpx_auth-0.22.0-py3-none-any.whl" },
+  { filename = "httpx_auth-0.21.0-py3-none-any.whl" },
+  { filename = "httpx_auth-0.20.0-py3-none-any.whl" },
+]

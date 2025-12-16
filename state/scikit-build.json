@@ -1,0 +1,196 @@
+{
+  "scikit_build-0.18.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6860e300f6807e76f21854163bdb9db16afc74eadf34bd6a9947d3fdfcd725a",
+    "dependencies": {
+      "required": [
+        "distro",
+        "packaging",
+        "setuptools",
+        "tomli",
+        "typing-extensions",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "distro",
+      "packaging",
+      "setuptools>=42.0.0",
+      "tomli; python_version < '3.11'",
+      "typing-extensions>=3.7; python_version < '3.8'",
+      "wheel>=0.32.0",
+      "coverage[toml]>=4.2; extra == 'cov'",
+      "pytest-cov>=2.7.1; extra == 'cov'",
+      "pygments; extra == 'docs'",
+      "sphinx-issues; extra == 'docs'",
+      "sphinx-rtd-theme>=1.0; extra == 'docs'",
+      "sphinx>=4; extra == 'docs'",
+      "sphinxcontrib-moderncmakedomain>=3.19; extra == 'docs'",
+      "ubelt>=0.8.2; extra == 'doctest'",
+      "xdoctest>=0.10.0; extra == 'doctest'",
+      "build>=0.7; extra == 'test'",
+      "cython>=0.25.1; extra == 'test'",
+      "importlib-metadata; (python_version < '3.8') and extra == 'test'",
+      "pip; extra == 'test'",
+      "pytest-mock>=1.10.4; extra == 'test'",
+      "pytest>=6.0.0; extra == 'test'",
+      "requests; extra == 'test'",
+      "virtualenv; extra == 'test'"
+    ]
+  },
+  "scikit_build-0.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ea171f5529e6e0b5b666193433831af61a28d7edf973b33884ec8c782a15ee38",
+    "dependencies": {
+      "required": [
+        "distro",
+        "packaging",
+        "setuptools",
+        "tomli",
+        "typing-extensions",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "distro",
+      "packaging",
+      "setuptools>=42.0.0",
+      "tomli; python_version < '3.11'",
+      "typing-extensions>=3.7; python_version < '3.8'",
+      "wheel>=0.32.0",
+      "coverage[toml]>=4.2; extra == 'cov'",
+      "pytest-cov>=2.7.1; extra == 'cov'",
+      "pygments; extra == 'docs'",
+      "sphinx-issues; extra == 'docs'",
+      "sphinx-rtd-theme>=1.0; extra == 'docs'",
+      "sphinx>=4; extra == 'docs'",
+      "sphinxcontrib-moderncmakedomain>=3.19; extra == 'docs'",
+      "ubelt>=0.8.2; extra == 'doctest'",
+      "xdoctest>=0.10.0; extra == 'doctest'",
+      "build>=0.7; extra == 'test'",
+      "cython>=0.25.1; extra == 'test'",
+      "importlib-metadata; (python_version < '3.8') and extra == 'test'",
+      "pip; extra == 'test'",
+      "pytest-mock>=1.10.4; extra == 'test'",
+      "pytest>=6.0.0; extra == 'test'",
+      "requests; extra == 'test'",
+      "virtualenv; extra == 'test'"
+    ]
+  },
+  "scikit_build-0.17.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18bd55e81841106eec93f30a297df4f301003791c41be46ef6428d58bd42d6b3",
+    "dependencies": {
+      "required": [
+        "distro",
+        "packaging",
+        "setuptools",
+        "tomli",
+        "typing-extensions",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "distro",
+      "packaging",
+      "setuptools>=42.0.0",
+      "tomli; python_version < '3.11'",
+      "typing-extensions>=3.7; python_version < '3.8'",
+      "wheel>=0.32.0",
+      "coverage[toml]>=4.2; extra == 'cov'",
+      "pytest-cov>=2.7.1; extra == 'cov'",
+      "pygments; extra == 'docs'",
+      "sphinx-issues; extra == 'docs'",
+      "sphinx-rtd-theme>=1.0; extra == 'docs'",
+      "sphinx>=4; extra == 'docs'",
+      "sphinxcontrib-moderncmakedomain>=3.19; extra == 'docs'",
+      "ubelt>=0.8.2; extra == 'doctest'",
+      "xdoctest>=0.10.0; extra == 'doctest'",
+      "build>=0.7; extra == 'test'",
+      "cython>=0.25.1; extra == 'test'",
+      "importlib-metadata; python_version < '3.8' and extra == 'test'",
+      "pytest-mock>=1.10.4; extra == 'test'",
+      "pytest>=6.0.0; extra == 'test'",
+      "requests; extra == 'test'",
+      "virtualenv; extra == 'test'"
+    ]
+  },
+  "scikit_build-0.17.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18861286b34fd2d685327d3bec6ebf4d33303adfaef28a08dd856710d16cf20f",
+    "dependencies": {
+      "required": [
+        "distro",
+        "packaging",
+        "setuptools",
+        "tomli",
+        "typing-extensions",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "distro",
+      "packaging",
+      "setuptools>=42.0.0",
+      "tomli; python_version < '3.11'",
+      "typing-extensions>=3.7; python_version < '3.8'",
+      "wheel>=0.32.0",
+      "coverage[toml]>=4.2; extra == 'cov'",
+      "pytest-cov>=2.7.1; extra == 'cov'",
+      "pygments; extra == 'docs'",
+      "sphinx-issues; extra == 'docs'",
+      "sphinx-rtd-theme>=1.0; extra == 'docs'",
+      "sphinx>=4; extra == 'docs'",
+      "sphinxcontrib-moderncmakedomain>=3.19; extra == 'docs'",
+      "ubelt>=0.8.2; extra == 'doctest'",
+      "xdoctest>=0.10.0; extra == 'doctest'",
+      "build>=0.7; extra == 'test'",
+      "cython>=0.25.1; extra == 'test'",
+      "importlib-metadata; python_version < '3.8' and extra == 'test'",
+      "pytest-mock>=1.10.4; extra == 'test'",
+      "pytest-virtualenv>=1.2.5; extra == 'test'",
+      "pytest>=6.0.0; extra == 'test'",
+      "requests; extra == 'test'",
+      "virtualenv; extra == 'test'"
+    ]
+  },
+  "scikit_build-0.17.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "daebe37cf52eb8529711b3ea600bc31a10a16c799e659d6814528daa5a329edf",
+    "dependencies": {
+      "required": [
+        "distro",
+        "packaging",
+        "setuptools",
+        "tomli",
+        "typing-extensions",
+        "wheel"
+      ]
+    },
+    "original_requirements": [
+      "distro",
+      "packaging",
+      "setuptools>=42.0.0",
+      "tomli; python_version < '3.11'",
+      "typing-extensions>=3.7; python_version < '3.8'",
+      "wheel>=0.32.0",
+      "coverage[toml]>=4.2; extra == 'cov'",
+      "pytest-cov>=2.7.1; extra == 'cov'",
+      "pygments; extra == 'docs'",
+      "sphinx-issues; extra == 'docs'",
+      "sphinx-rtd-theme>=1.0; extra == 'docs'",
+      "sphinx>=4; extra == 'docs'",
+      "sphinxcontrib-moderncmakedomain>=3.19; extra == 'docs'",
+      "ubelt>=0.8.2; extra == 'doctest'",
+      "xdoctest>=0.10.0; extra == 'doctest'",
+      "build>=0.7; extra == 'test'",
+      "cython>=0.25.1; extra == 'test'",
+      "importlib-metadata; python_version < '3.8' and extra == 'test'",
+      "pytest-mock>=1.10.4; extra == 'test'",
+      "pytest-virtualenv>=1.2.5; extra == 'test'",
+      "pytest>=6.0.0; extra == 'test'",
+      "requests; extra == 'test'",
+      "virtualenv; extra == 'test'"
+    ]
+  }
+}

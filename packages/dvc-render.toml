@@ -1,0 +1,12 @@
+# Package configuration for dvc-render
+conda_forge = "dvc-render"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dvc_render-1.0.2-py3-none-any.whl" },
+  { filename = "dvc_render-1.0.1-py3-none-any.whl" },
+  { filename = "dvc_render-1.0.0-py3-none-any.whl" },
+  { filename = "dvc_render-0.7.0-py3-none-any.whl" },
+  { filename = "dvc_render-0.6.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for dpkt
+conda_forge = "dpkt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dpkt-1.9.8-py3-none-any.whl" },
+  { filename = "dpkt-1.9.7.2-py3-none-any.whl" },
+  { filename = "dpkt-1.9.7.1-py3-none-any.whl" },
+  { filename = "dpkt-1.9.6-py3-none-any.whl" },
+  { filename = "dpkt-1.9.5-py3-none-any.whl" },
+]

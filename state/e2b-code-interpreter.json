@@ -1,0 +1,82 @@
+{
+  "e2b_code_interpreter-2.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15d35f025b4a15033e119f2e12e7ac65657ad2b5a013fa9149e74581fbee778a",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "e2b",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.3.0)",
+      "e2b (>=2.7.0,<3.0.0)",
+      "httpx (>=0.20.0,<1.0.0)"
+    ]
+  },
+  "e2b_code_interpreter-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "50cd1260fef3137464a05e156d449e5f700df251f85c3a8aacf446262dd306e6",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "e2b",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.3.0)",
+      "e2b (>=2.7.0,<3.0.0)",
+      "httpx (>=0.20.0,<1.0.0)"
+    ]
+  },
+  "e2b_code_interpreter-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dddca0a13c140ab5074f4003690cbfd9535224ed9e4a492f18c8a1a65894f2bf",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "e2b",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.3.0)",
+      "e2b (>=2.6.0,<3.0.0)",
+      "httpx (>=0.20.0,<1.0.0)"
+    ]
+  },
+  "e2b_code_interpreter-2.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c7e1102107cbcc921d6920e9c699ec39f57fc39bc037d2cc6b6258c7246d4df",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "e2b",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.3.0)",
+      "e2b (>=2.3.0,<3.0.0)",
+      "httpx (>=0.20.0,<1.0.0)"
+    ]
+  },
+  "e2b_code_interpreter-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e49b467b8ae6864ef5dd98910d6d4a637464f1d4db4a1f8bec9a43b61380b02",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "e2b",
+        "httpx"
+      ]
+    },
+    "original_requirements": [
+      "attrs (>=21.3.0)",
+      "e2b (>=2.3.0,<3.0.0)",
+      "httpx (>=0.20.0,<1.0.0)"
+    ]
+  }
+}

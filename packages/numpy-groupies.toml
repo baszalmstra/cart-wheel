@@ -1,0 +1,12 @@
+# Package configuration for numpy-groupies
+conda_forge = "numpy_groupies"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "numpy_groupies-0.11.3-py3-none-any.whl" },
+  { filename = "numpy_groupies-0.11.2-py3-none-any.whl" },
+  { filename = "numpy_groupies-0.11.1-py3-none-any.whl" },
+  { filename = "numpy_groupies-0.11.0-py3-none-any.whl" },
+  { filename = "numpy_groupies-0.10.2-py3-none-any.whl" },
+]

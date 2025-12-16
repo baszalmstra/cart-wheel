@@ -1,0 +1,168 @@
+{
+  "pyee-13.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "48195a3cddb3b1515ce0695ed76036b5ccc2ef3a9f963ff9f77aec0139845498",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "build; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "flake8-black; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-asyncio; python_version >= \"3.4\" and extra == \"dev\"",
+      "pytest-trio; python_version >= \"3.7\" and extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "jupyter-console; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocs-include-markdown-plugin; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "sphinx; extra == \"dev\"",
+      "toml; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "trio; extra == \"dev\"",
+      "trio; python_version > \"3.6\" and extra == \"dev\"",
+      "trio-typing; python_version > \"3.6\" and extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "twisted; extra == \"dev\"",
+      "validate-pyproject[all]; extra == \"dev\""
+    ]
+  },
+  "pyee-12.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "18a19c650556bb6b32b406d7f017c8f513aceed1ef7ca618fb65de7bd2d347ef",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "build; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "flake8-black; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "jupyter-console; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocs-include-markdown-plugin; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "sphinx; extra == \"dev\"",
+      "toml; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "trio; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "twisted; extra == \"dev\"",
+      "validate-pyproject[all]; extra == \"dev\"",
+      "trio; python_version > \"3.6\" and extra == \"dev\"",
+      "trio-typing; python_version > \"3.6\" and extra == \"dev\"",
+      "pytest-asyncio; python_version >= \"3.4\" and extra == \"dev\"",
+      "pytest-trio; python_version >= \"3.7\" and extra == \"dev\""
+    ]
+  },
+  "pyee-12.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9eba22324b5240741ff461817eef2395c1c3c008df837d591614861a732d76de",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "build; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "flake8-black; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "jupyter-console; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocs-include-markdown-plugin; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "sphinx; extra == \"dev\"",
+      "toml; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "trio; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "twisted; extra == \"dev\"",
+      "validate-pyproject[all]; extra == \"dev\"",
+      "trio; python_version > \"3.6\" and extra == \"dev\"",
+      "trio-typing; python_version > \"3.6\" and extra == \"dev\"",
+      "pytest-asyncio; python_version >= \"3.4\" and extra == \"dev\"",
+      "pytest-trio; python_version >= \"3.7\" and extra == \"dev\""
+    ]
+  },
+  "pyee-12.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7b14b74320600049ccc7d0e0b1becd3b4bd0a03c745758225e31a59f4095c990",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "build; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "flake8-black; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "jupyter-console; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocs-include-markdown-plugin; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "sphinx; extra == \"dev\"",
+      "toml; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "trio; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "twisted; extra == \"dev\"",
+      "validate-pyproject[all]; extra == \"dev\"",
+      "trio; python_version > \"3.6\" and extra == \"dev\"",
+      "trio-typing; python_version > \"3.6\" and extra == \"dev\"",
+      "pytest-asyncio; python_version >= \"3.4\" and extra == \"dev\"",
+      "pytest-trio; python_version >= \"3.7\" and extra == \"dev\""
+    ]
+  },
+  "pyee-11.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e4cdd7c2f9fcf247db94bad39a260aceffefdbe52286ce71be01959de34a5c2",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions",
+      "build; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "flake8-black; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "isort; extra == \"dev\"",
+      "jupyter-console; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocs-include-markdown-plugin; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "sphinx; extra == \"dev\"",
+      "toml; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "trio; extra == \"dev\"",
+      "twine; extra == \"dev\"",
+      "twisted; extra == \"dev\"",
+      "validate-pyproject[all]; extra == \"dev\"",
+      "trio; python_version > \"3.6\" and extra == \"dev\"",
+      "trio-typing; python_version > \"3.6\" and extra == \"dev\"",
+      "pytest-asyncio; python_version >= \"3.4\" and extra == \"dev\"",
+      "pytest-trio; python_version >= \"3.7\" and extra == \"dev\""
+    ]
+  }
+}

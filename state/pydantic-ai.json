@@ -1,0 +1,107 @@
+{
+  "pydantic_ai-1.32.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "99e27c81ee4665da5c7f048fb086f93e92003b325fa1a4e902c8fb9a244332c6",
+    "dependencies": {
+      "required": [
+        "pydantic-ai-slim"
+      ]
+    },
+    "original_requirements": [
+      "pydantic-ai-slim[ag-ui,anthropic,bedrock,cli,cohere,evals,fastmcp,google,groq,huggingface,logfire,mcp,mistral,openai,retries,temporal,ui,vertexai]==1.32.0",
+      "fasta2a>=0.4.1; extra == 'a2a'",
+      "pydantic-ai-slim[dbos]==1.32.0; extra == 'dbos'",
+      "pydantic-ai-examples==1.32.0; extra == 'examples'",
+      "pydantic-ai-slim[outlines-llamacpp]==1.32.0; extra == 'outlines-llamacpp'",
+      "pydantic-ai-slim[outlines-mlxlm]==1.32.0; (platform_system == 'Darwin' and platform_machine == 'arm64') and extra == 'outlines-mlxlm'",
+      "pydantic-ai-slim[outlines-sglang]==1.32.0; extra == 'outlines-sglang'",
+      "pydantic-ai-slim[outlines-transformers]==1.32.0; extra == 'outlines-transformers'",
+      "pydantic-ai-slim[outlines-vllm-offline]==1.32.0; extra == 'outlines-vllm-offline'",
+      "pydantic-ai-slim[prefect]==1.32.0; extra == 'prefect'"
+    ]
+  },
+  "pydantic_ai-1.31.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4c2d632425039ab0c2265b82699c56aacf715b4b8ac6421f20d5bb54f1903099",
+    "dependencies": {
+      "required": [
+        "pydantic-ai-slim"
+      ]
+    },
+    "original_requirements": [
+      "pydantic-ai-slim[ag-ui,anthropic,bedrock,cli,cohere,evals,fastmcp,google,groq,huggingface,logfire,mcp,mistral,openai,retries,temporal,ui,vertexai]==1.31.0",
+      "fasta2a>=0.4.1; extra == 'a2a'",
+      "pydantic-ai-slim[dbos]==1.31.0; extra == 'dbos'",
+      "pydantic-ai-examples==1.31.0; extra == 'examples'",
+      "pydantic-ai-slim[outlines-llamacpp]==1.31.0; extra == 'outlines-llamacpp'",
+      "pydantic-ai-slim[outlines-mlxlm]==1.31.0; (platform_system == 'Darwin' and platform_machine == 'arm64') and extra == 'outlines-mlxlm'",
+      "pydantic-ai-slim[outlines-sglang]==1.31.0; extra == 'outlines-sglang'",
+      "pydantic-ai-slim[outlines-transformers]==1.31.0; extra == 'outlines-transformers'",
+      "pydantic-ai-slim[outlines-vllm-offline]==1.31.0; extra == 'outlines-vllm-offline'",
+      "pydantic-ai-slim[prefect]==1.31.0; extra == 'prefect'"
+    ]
+  },
+  "pydantic_ai-1.30.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "213d32d1187468ab56a384971a7d92cd6bb5cb75db4d9b275fc6b6e7c4e7115e",
+    "dependencies": {
+      "required": [
+        "pydantic-ai-slim"
+      ]
+    },
+    "original_requirements": [
+      "pydantic-ai-slim[ag-ui,anthropic,bedrock,cli,cohere,evals,fastmcp,google,groq,huggingface,logfire,mcp,mistral,openai,retries,temporal,ui,vertexai]==1.30.1",
+      "fasta2a>=0.4.1; extra == 'a2a'",
+      "pydantic-ai-slim[dbos]==1.30.1; extra == 'dbos'",
+      "pydantic-ai-examples==1.30.1; extra == 'examples'",
+      "pydantic-ai-slim[outlines-llamacpp]==1.30.1; extra == 'outlines-llamacpp'",
+      "pydantic-ai-slim[outlines-mlxlm]==1.30.1; (platform_system == 'Darwin' and platform_machine == 'arm64') and extra == 'outlines-mlxlm'",
+      "pydantic-ai-slim[outlines-sglang]==1.30.1; extra == 'outlines-sglang'",
+      "pydantic-ai-slim[outlines-transformers]==1.30.1; extra == 'outlines-transformers'",
+      "pydantic-ai-slim[outlines-vllm-offline]==1.30.1; extra == 'outlines-vllm-offline'",
+      "pydantic-ai-slim[prefect]==1.30.1; extra == 'prefect'"
+    ]
+  },
+  "pydantic_ai-1.30.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d2696cb8880e48db2eef401afecee18b77acf9c83cd356f61ee84d507086b3d",
+    "dependencies": {
+      "required": [
+        "pydantic-ai-slim"
+      ]
+    },
+    "original_requirements": [
+      "pydantic-ai-slim[ag-ui,anthropic,bedrock,cli,cohere,evals,fastmcp,google,groq,huggingface,logfire,mcp,mistral,openai,retries,temporal,ui,vertexai]==1.30.0",
+      "fasta2a>=0.4.1; extra == 'a2a'",
+      "pydantic-ai-slim[dbos]==1.30.0; extra == 'dbos'",
+      "pydantic-ai-examples==1.30.0; extra == 'examples'",
+      "pydantic-ai-slim[outlines-llamacpp]==1.30.0; extra == 'outlines-llamacpp'",
+      "pydantic-ai-slim[outlines-mlxlm]==1.30.0; (platform_system == 'Darwin' and platform_machine == 'arm64') and extra == 'outlines-mlxlm'",
+      "pydantic-ai-slim[outlines-sglang]==1.30.0; extra == 'outlines-sglang'",
+      "pydantic-ai-slim[outlines-transformers]==1.30.0; extra == 'outlines-transformers'",
+      "pydantic-ai-slim[outlines-vllm-offline]==1.30.0; extra == 'outlines-vllm-offline'",
+      "pydantic-ai-slim[prefect]==1.30.0; extra == 'prefect'"
+    ]
+  },
+  "pydantic_ai-1.29.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7134963c0babb15d7e675a85db0a170d7f9d0b9e692de537b2aad7d3fb3a9865",
+    "dependencies": {
+      "required": [
+        "pydantic-ai-slim"
+      ]
+    },
+    "original_requirements": [
+      "pydantic-ai-slim[ag-ui,anthropic,bedrock,cli,cohere,evals,fastmcp,google,groq,huggingface,logfire,mcp,mistral,openai,retries,temporal,ui,vertexai]==1.29.0",
+      "fasta2a>=0.4.1; extra == 'a2a'",
+      "pydantic-ai-slim[dbos]==1.29.0; extra == 'dbos'",
+      "pydantic-ai-examples==1.29.0; extra == 'examples'",
+      "pydantic-ai-slim[outlines-llamacpp]==1.29.0; extra == 'outlines-llamacpp'",
+      "pydantic-ai-slim[outlines-mlxlm]==1.29.0; (platform_system == 'Darwin' and platform_machine == 'arm64') and extra == 'outlines-mlxlm'",
+      "pydantic-ai-slim[outlines-sglang]==1.29.0; extra == 'outlines-sglang'",
+      "pydantic-ai-slim[outlines-transformers]==1.29.0; extra == 'outlines-transformers'",
+      "pydantic-ai-slim[outlines-vllm-offline]==1.29.0; extra == 'outlines-vllm-offline'",
+      "pydantic-ai-slim[prefect]==1.29.0; extra == 'prefect'"
+    ]
+  }
+}

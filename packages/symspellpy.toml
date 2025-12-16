@@ -1,0 +1,11 @@
+# Package configuration for symspellpy
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "symspellpy-6.9.0-py3-none-any.whl" },
+  { filename = "symspellpy-6.8.0-py3-none-any.whl" },
+  { filename = "symspellpy-6.7.8-py3-none-any.whl" },
+  { filename = "symspellpy-6.7.7-py3-none-any.whl" },
+  { filename = "symspellpy-6.7.6-py3-none-any.whl" },
+]

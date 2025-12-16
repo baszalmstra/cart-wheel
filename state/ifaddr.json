@@ -1,0 +1,21 @@
+{
+  "ifaddr-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "085e0305cfe6f16ab12d72e2024030f5d52674afad6911bb1eee207177b8a748",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "ifaddr-0.1.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1f603952f0a71c9ab4e705754511e4e03b02565bc4cec7188ad6415ff534cd3",
+    "dependencies": {
+      "required": [
+        "ipaddress"
+      ]
+    },
+    "original_requirements": [
+      "ipaddress ; python_version < \"3.3\""
+    ]
+  }
+}

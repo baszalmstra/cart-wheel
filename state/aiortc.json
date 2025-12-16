@@ -1,0 +1,114 @@
+{
+  "aiortc-1.14.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:27.638102+00:00",
+    "conda_file": "aiortc-1.14.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aioice",
+        "av",
+        "cryptography",
+        "google-crc32c",
+        "pyee",
+        "pylibsrtp",
+        "pyopenssl"
+      ],
+      "optional": {
+        "dev": [
+          "aiohttp",
+          "coverage[extras=[toml]]",
+          "numpy"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aioice<1.0.0,>=0.10.1",
+      "av<17.0.0,>=14.0.0",
+      "cryptography>=44.0.0",
+      "google-crc32c>=1.1",
+      "pyee>=13.0.0",
+      "pylibsrtp>=0.10.0",
+      "pyopenssl>=25.0.0",
+      "aiohttp>=3.7.0; extra == \"dev\"",
+      "coverage[toml]>=7.2.2; extra == \"dev\"",
+      "numpy>=1.19.0; extra == \"dev\""
+    ]
+  },
+  "aiortc-1.13.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:27.773271+00:00",
+    "conda_file": "aiortc-1.13.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aioice",
+        "av",
+        "cffi",
+        "cryptography",
+        "google-crc32c",
+        "pyee",
+        "pylibsrtp",
+        "pyopenssl"
+      ],
+      "optional": {
+        "dev": [
+          "aiohttp",
+          "coverage[extras=[toml]]",
+          "numpy"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aioice<1.0.0,>=0.10.1",
+      "av<15.0.0,>=14.0.0",
+      "cffi>=1.0.0",
+      "cryptography>=44.0.0",
+      "google-crc32c>=1.1",
+      "pyee>=13.0.0",
+      "pylibsrtp>=0.10.0",
+      "pyopenssl>=25.0.0",
+      "aiohttp>=3.7.0; extra == \"dev\"",
+      "coverage[toml]>=7.2.2; extra == \"dev\"",
+      "numpy>=1.19.0; extra == \"dev\""
+    ]
+  },
+  "aiortc-1.12.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:27.903290+00:00",
+    "conda_file": "aiortc-1.12.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aioice",
+        "av",
+        "cffi",
+        "cryptography",
+        "google-crc32c",
+        "pyee",
+        "pylibsrtp",
+        "pyopenssl"
+      ],
+      "optional": {
+        "dev": [
+          "aiohttp",
+          "coverage[extras=[toml]]",
+          "numpy"
+        ]
+      }
+    },
+    "original_requirements": [
+      "aioice<1.0.0,>=0.10.1",
+      "av<15.0.0,>=14.0.0",
+      "cffi>=1.0.0",
+      "cryptography>=44.0.0",
+      "google-crc32c>=1.1",
+      "pyee>=13.0.0",
+      "pylibsrtp>=0.10.0",
+      "pyopenssl>=25.0.0",
+      "aiohttp>=3.7.0; extra == \"dev\"",
+      "coverage[toml]>=7.2.2; extra == \"dev\"",
+      "numpy>=1.19.0; extra == \"dev\""
+    ]
+  }
+}

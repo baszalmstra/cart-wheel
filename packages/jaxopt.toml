@@ -1,0 +1,12 @@
+# Package configuration for jaxopt
+conda_forge = "jaxopt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaxopt-0.8.5-py3-none-any.whl" },
+  { filename = "jaxopt-0.8.4-py3-none-any.whl" },
+  { filename = "jaxopt-0.8.3-py3-none-any.whl" },
+  { filename = "jaxopt-0.8.2-py3-none-any.whl" },
+  { filename = "jaxopt-0.8.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for advanced-alchemy
+conda_forge = "advanced-alchemy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "advanced_alchemy-1.8.2-py3-none-any.whl" },
+  { filename = "advanced_alchemy-1.8.1-py3-none-any.whl" },
+  { filename = "advanced_alchemy-1.8.0-py3-none-any.whl" },
+  { filename = "advanced_alchemy-1.7.0-py3-none-any.whl" },
+  { filename = "advanced_alchemy-1.6.3-py3-none-any.whl" },
+]

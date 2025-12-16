@@ -1,0 +1,12 @@
+# Package configuration for readthedocs-sphinx-ext
+conda_forge = "readthedocs-sphinx-ext"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "readthedocs_sphinx_ext-2.2.5-py2.py3-none-any.whl" },
+  { filename = "readthedocs_sphinx_ext-2.2.4-py2.py3-none-any.whl" },
+  { filename = "readthedocs_sphinx_ext-2.2.3-py2.py3-none-any.whl" },
+  { filename = "readthedocs_sphinx_ext-2.2.2-py2.py3-none-any.whl" },
+  { filename = "readthedocs_sphinx_ext-2.2.1-py2.py3-none-any.whl" },
+]

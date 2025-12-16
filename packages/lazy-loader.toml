@@ -1,0 +1,11 @@
+# Package configuration for lazy-loader
+conda_forge = "lazy_loader"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lazy_loader-0.4-py3-none-any.whl" },
+  { filename = "lazy_loader-0.3-py3-none-any.whl" },
+  { filename = "lazy_loader-0.2-py3-none-any.whl" },
+  { filename = "lazy_loader-0.1-py3-none-any.whl" },
+]

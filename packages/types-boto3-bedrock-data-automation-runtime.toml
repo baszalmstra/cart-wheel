@@ -1,0 +1,11 @@
+# Package configuration for types-boto3-bedrock-data-automation-runtime
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_boto3_bedrock_data_automation_runtime-1.42.3-py3-none-any.whl" },
+  { filename = "types_boto3_bedrock_data_automation_runtime-1.41.2-py3-none-any.whl" },
+  { filename = "types_boto3_bedrock_data_automation_runtime-1.41.1-py3-none-any.whl" },
+  { filename = "types_boto3_bedrock_data_automation_runtime-1.41.0-py3-none-any.whl" },
+  { filename = "types_boto3_bedrock_data_automation_runtime-1.40.55-py3-none-any.whl" },
+]

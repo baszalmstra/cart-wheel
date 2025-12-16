@@ -1,0 +1,11 @@
+# Package configuration for writerai
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "writerai-4.0.1-py3-none-any.whl" },
+  { filename = "writerai-4.0.0-py3-none-any.whl" },
+  { filename = "writerai-3.4.0-py3-none-any.whl" },
+  { filename = "writerai-3.3.0-py3-none-any.whl" },
+  { filename = "writerai-3.2.1-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for optuna-integration
+conda_forge = "optuna-integration"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "optuna_integration-4.6.0-py3-none-any.whl" },
+  { filename = "optuna_integration-4.5.0-py3-none-any.whl" },
+  { filename = "optuna_integration-4.4.0-py3-none-any.whl" },
+  { filename = "optuna_integration-4.3.0-py3-none-any.whl" },
+  { filename = "optuna_integration-4.2.1-py3-none-any.whl" },
+]

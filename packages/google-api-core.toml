@@ -1,0 +1,12 @@
+# Package configuration for google-api-core
+conda_forge = "google-api-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_api_core-2.28.1-py3-none-any.whl" },
+  { filename = "google_api_core-2.28.0-py3-none-any.whl" },
+  { filename = "google_api_core-2.27.0-py3-none-any.whl" },
+  { filename = "google_api_core-2.26.0-py3-none-any.whl" },
+  { filename = "google_api_core-2.25.2-py3-none-any.whl" },
+]

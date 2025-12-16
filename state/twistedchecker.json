@@ -1,0 +1,75 @@
+{
+  "twistedchecker-0.7.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f81efb2f0ea476c4e5eb3c28cacdda1f659d4dc637e4e13912b7eccbdd9e99f",
+    "dependencies": {
+      "required": [
+        "pylint",
+        "twisted"
+      ]
+    },
+    "original_requirements": [
+      "pylint (>=2.4.4)",
+      "twisted (>=15.0.0)",
+      "pyflakes ; extra == 'dev'",
+      "coverage ; extra == 'dev'"
+    ]
+  },
+  "twistedchecker-0.7.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "36169a487714a9d9569502967bd006cf96132c261ea492dafe49c2083ad82d33",
+    "dependencies": {
+      "required": [
+        "pylint",
+        "logilab-common",
+        "twisted"
+      ]
+    },
+    "original_requirements": [
+      "pylint (==1.5.6)",
+      "logilab-common (==1.2.1)",
+      "twisted (>=15.0.0)",
+      "pyflakes ; extra == 'dev'",
+      "coverage ; extra == 'dev'"
+    ]
+  },
+  "twistedchecker-0.7.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24374982cffd4f7101ef59fad8eea77ca0a0d733fa8033cddb36c77bfce9b92b",
+    "dependencies": {
+      "required": [
+        "logilab-common",
+        "pycodestyle",
+        "pylint",
+        "twisted"
+      ]
+    },
+    "original_requirements": [
+      "logilab-common (==1.2.1)",
+      "pycodestyle (==2.0.0)",
+      "pylint (==1.5.6)",
+      "twisted (>=15.0.0)",
+      "coverage; extra == 'dev'",
+      "pyflakes; extra == 'dev'"
+    ]
+  },
+  "twistedchecker-0.7.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f701b484adaf6c0d7f4a12795858d83a1267155fe461e2181a8b5e11dc40057",
+    "dependencies": {
+      "required": [
+        "pylint",
+        "logilab-common",
+        "pycodestyle"
+      ]
+    },
+    "original_requirements": [
+      "pylint (==1.5.6)",
+      "logilab-common (==1.2.1)",
+      "pycodestyle (==2.0.0)",
+      "twisted (>=15.0.0); extra == 'dev'",
+      "pyflakes; extra == 'dev'",
+      "coverage; extra == 'dev'"
+    ]
+  }
+}

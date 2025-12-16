@@ -1,0 +1,12 @@
+# Package configuration for erdantic
+conda_forge = "erdantic"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "erdantic-1.2.0-py3-none-any.whl" },
+  { filename = "erdantic-1.1.1-py3-none-any.whl" },
+  { filename = "erdantic-1.1.0.post1-py3-none-any.whl" },
+  { filename = "erdantic-1.1.0-py3-none-any.whl" },
+  { filename = "erdantic-1.0.5-py3-none-any.whl" },
+]

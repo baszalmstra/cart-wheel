@@ -1,0 +1,132 @@
+{
+  "sacred-0.8.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81bf159ebd1ccbbe5fcc37a15a94897dabb0616c21d1276b9064aa40c65c5099",
+    "dependencies": {
+      "required": [
+        "docopt-ng",
+        "jsonpickle",
+        "munch",
+        "wrapt",
+        "py-cpuinfo",
+        "colorama",
+        "packaging",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "docopt-ng<1.0,>=0.9",
+      "jsonpickle>=2.2.0",
+      "munch<5.0,>=2.5",
+      "wrapt<2.0,>=1.0",
+      "py-cpuinfo>=4.0",
+      "colorama>=0.4",
+      "packaging>=18.0",
+      "GitPython"
+    ]
+  },
+  "sacred-0.8.6-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0a89c338d8a72e92213c6a4aec744025a299c21278fc32a91793f75059ec1d99",
+    "dependencies": {
+      "required": [
+        "docopt-ng",
+        "jsonpickle",
+        "munch",
+        "wrapt",
+        "py-cpuinfo",
+        "colorama",
+        "packaging",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "docopt-ng <1.0,>=0.9",
+      "jsonpickle >=2.2.0",
+      "munch <5.0,>=2.5",
+      "wrapt <2.0,>=1.0",
+      "py-cpuinfo >=4.0",
+      "colorama >=0.4",
+      "packaging >=18.0",
+      "GitPython"
+    ]
+  },
+  "sacred-0.8.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91aaeb533c3c18911216c8c953168c3db27ca35fbd18bd14bbd8095b3b3ed7dc",
+    "dependencies": {
+      "required": [
+        "docopt",
+        "jsonpickle",
+        "munch",
+        "wrapt",
+        "py-cpuinfo",
+        "colorama",
+        "packaging",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "docopt <1.0,>=0.3",
+      "jsonpickle >=2.2.0",
+      "munch <5.0,>=2.5",
+      "wrapt <2.0,>=1.0",
+      "py-cpuinfo >=4.0",
+      "colorama >=0.4",
+      "packaging >=18.0",
+      "GitPython"
+    ]
+  },
+  "sacred-0.8.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "512c65d846e6557ba293568e89b816a46f4da88218571f70be8406e6e7ba14d0",
+    "dependencies": {
+      "required": [
+        "docopt",
+        "jsonpickle",
+        "munch",
+        "wrapt",
+        "py-cpuinfo",
+        "colorama",
+        "packaging",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "docopt (<1.0,>=0.3)",
+      "jsonpickle (>=1.2)",
+      "munch (<3.0,>=2.5)",
+      "wrapt (<2.0,>=1.0)",
+      "py-cpuinfo (>=4.0)",
+      "colorama (>=0.4)",
+      "packaging (>=18.0)",
+      "GitPython"
+    ]
+  },
+  "sacred-0.8.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b31e103bcd037816d480140722b82d3c2b34d6f99bfd93711c2aa582c2249bab",
+    "dependencies": {
+      "required": [
+        "docopt",
+        "jsonpickle",
+        "munch",
+        "wrapt",
+        "py-cpuinfo",
+        "colorama",
+        "packaging",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "docopt (<1.0,>=0.3)",
+      "jsonpickle (<2.0,>=1.2)",
+      "munch (<3.0,>=2.0.2)",
+      "wrapt (<2.0,>=1.0)",
+      "py-cpuinfo (>=4.0)",
+      "colorama (>=0.4)",
+      "packaging (>=18.0)",
+      "GitPython"
+    ]
+  }
+}

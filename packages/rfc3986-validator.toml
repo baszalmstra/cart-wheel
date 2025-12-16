@@ -1,0 +1,9 @@
+# Package configuration for rfc3986-validator
+conda_forge = "rfc3986-validator"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rfc3986_validator-0.1.1-py2.py3-none-any.whl" },
+  { filename = "rfc3986_validator-0.1.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for llama-index-embeddings-google-genai
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "llama_index_embeddings_google_genai-0.3.1-py3-none-any.whl" },
+  { filename = "llama_index_embeddings_google_genai-0.3.0-py3-none-any.whl" },
+  { filename = "llama_index_embeddings_google_genai-0.2.1-py3-none-any.whl" },
+  { filename = "llama_index_embeddings_google_genai-0.2.0-py3-none-any.whl" },
+  { filename = "llama_index_embeddings_google_genai-0.1.1-py3-none-any.whl" },
+]

@@ -1,0 +1,92 @@
+{
+  "dbt_singlestore-1.9.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3b88cee12e961df0a154d24e6e8b4b71fe58846fb0f261496798fcb7cdc02e3",
+    "dependencies": {
+      "required": [
+        "dbt-adapters",
+        "dbt-core",
+        "singlestoredb",
+        "dataclasses-json"
+      ]
+    },
+    "original_requirements": [
+      "dbt-adapters<2.0.0,>=1.0.0",
+      "dbt-core>=1.8",
+      "singlestoredb==1.15.8",
+      "dataclasses_json>=0.5.6"
+    ]
+  },
+  "dbt_singlestore-1.9.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aca5997561481bc8f9ac28a14f21ec65adc7215961a281feae97fde5322d717a",
+    "dependencies": {
+      "required": [
+        "dbt-adapters",
+        "dbt-core",
+        "singlestoredb",
+        "dataclasses-json"
+      ]
+    },
+    "original_requirements": [
+      "dbt-adapters<2.0.0,>=1.0.0",
+      "dbt-core>=1.8",
+      "singlestoredb==1.15.8",
+      "dataclasses_json>=0.5.6"
+    ]
+  },
+  "dbt_singlestore-1.8.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d2360b6f551103b52e9828ca8d22e969cc52321664e32f7483abda0fd7ca105",
+    "dependencies": {
+      "required": [
+        "dataclasses-json",
+        "dbt-adapters",
+        "dbt-core",
+        "singlestoredb"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses-json (>=0.5.6)",
+      "dbt-adapters (<2.0.0,>=1.0.0)",
+      "dbt-core (>=1.8)",
+      "singlestoredb (==1.2.0)"
+    ]
+  },
+  "dbt_singlestore-1.8.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bebac818f1d76a6457518f01fefd2f5122d4209bf9f69b87a038301e01e132c3",
+    "dependencies": {
+      "required": [
+        "dataclasses-json",
+        "dbt-adapters",
+        "dbt-core",
+        "singlestoredb"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses-json (>=0.5.6)",
+      "dbt-adapters (<2.0.0,>=1.0.0)",
+      "dbt-core (>=1.8)",
+      "singlestoredb (==1.2.0)"
+    ]
+  },
+  "dbt_singlestore-1.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2cbce1c3ba3da07291eec76bb555a574a2887c1be606269aca8e3efdc4639e27",
+    "dependencies": {
+      "required": [
+        "dataclasses-json",
+        "dbt-adapters",
+        "dbt-core",
+        "singlestoredb"
+      ]
+    },
+    "original_requirements": [
+      "dataclasses-json (>=0.5.6)",
+      "dbt-adapters (<2.0.0,>=1.0.0)",
+      "dbt-core (>=1.8)",
+      "singlestoredb (==1.2.0)"
+    ]
+  }
+}

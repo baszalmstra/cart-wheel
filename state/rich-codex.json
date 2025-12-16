@@ -1,0 +1,134 @@
+{
+  "rich_codex-1.2.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "33bceb126585e746b56b1a321d457c3487a9eac94d52b7398e9eceaf5268b882",
+    "dependencies": {
+      "required": [
+        "rich",
+        "rich-click",
+        "importlib-metadata",
+        "pyyaml",
+        "levenshtein",
+        "jsonschema",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "rich>=12.4.3",
+      "rich-click>=1.5",
+      "importlib-metadata; python_version < \"3.8\"",
+      "pyyaml",
+      "levenshtein>=0.18.1",
+      "jsonschema",
+      "GitPython",
+      "pre-commit; extra == \"dev\"",
+      "CairoSVG>=2.5.2; extra == \"cairo\""
+    ]
+  },
+  "rich_codex-1.2.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38664e4b82cc71e42c03e78cb7b33336b6426a7b018b9a10793b03fe4e937b3e",
+    "dependencies": {
+      "required": [
+        "rich",
+        "rich-click",
+        "importlib-metadata",
+        "pyyaml",
+        "levenshtein",
+        "jsonschema",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "rich>=12.4.3",
+      "rich-click>=1.5",
+      "importlib-metadata; python_version < \"3.8\"",
+      "pyyaml",
+      "levenshtein>=0.18.1",
+      "jsonschema",
+      "GitPython",
+      "CairoSVG>=2.5.2; extra == \"cairo\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  },
+  "rich_codex-1.2.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "38f5f55a851676aaa3e810cac08960aaba6b91aade5c7caad73845459ce5fd7c",
+    "dependencies": {
+      "required": [
+        "rich",
+        "rich-click",
+        "importlib-metadata",
+        "pyyaml",
+        "levenshtein",
+        "jsonschema",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "rich>=12.4.3",
+      "rich-click>=1.5",
+      "importlib-metadata; python_version < \"3.8\"",
+      "pyyaml",
+      "levenshtein>=0.18.1",
+      "jsonschema",
+      "GitPython",
+      "CairoSVG>=2.5.2; extra == \"cairo\"",
+      "pre-commit; extra == \"dev\""
+    ]
+  },
+  "rich_codex-1.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d0a360d21e15736bbaef6ed45aab62a5859045a1c83296cf440fa3778f269029",
+    "dependencies": {
+      "required": [
+        "rich",
+        "rich-click",
+        "pyyaml",
+        "levenshtein",
+        "jsonschema",
+        "gitpython",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "rich >=12.4.3",
+      "rich-click >=1.5",
+      "pyyaml",
+      "levenshtein >=0.18.1",
+      "jsonschema",
+      "GitPython",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "CairoSVG >=2.5.2 ; extra == 'cairo'",
+      "pre-commit ; extra == 'dev'"
+    ]
+  },
+  "rich_codex-1.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6ac4a9fa285e64ba56771a1c4fc9eb27424f2bbdc43191ffef7aedfca5f932bf",
+    "dependencies": {
+      "required": [
+        "rich",
+        "rich-click",
+        "rich-cli",
+        "pyyaml",
+        "levenshtein",
+        "jsonschema",
+        "gitpython",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "rich (>=12.4.3)",
+      "rich-click (>=1.5)",
+      "rich-cli",
+      "pyyaml",
+      "levenshtein (>=0.18.1)",
+      "jsonschema",
+      "GitPython",
+      "importlib-metadata ; python_version < \"3.8\"",
+      "CairoSVG (>=2.5.2) ; extra == 'cairo'",
+      "pre-commit ; extra == 'dev'"
+    ]
+  }
+}

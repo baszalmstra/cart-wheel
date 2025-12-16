@@ -1,0 +1,11 @@
+# Package configuration for neptune-api
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neptune_api-0.24.0-py3-none-any.whl" },
+  { filename = "neptune_api-0.23.0-py3-none-any.whl" },
+  { filename = "neptune_api-0.22.0-py3-none-any.whl" },
+  { filename = "neptune_api-0.21.0-py3-none-any.whl" },
+  { filename = "neptune_api-0.20.0-py3-none-any.whl" },
+]

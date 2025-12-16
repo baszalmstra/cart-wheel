@@ -1,0 +1,12 @@
+# Package configuration for click-config-file
+conda_forge = "click-config-file"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "click_config_file-0.6.0-py2.py3-none-any.whl" },
+  { filename = "click_config_file-0.5.0-py2.py3-none-any.whl" },
+  { filename = "click_config_file-0.4.5-py2.py3-none-any.whl" },
+  { filename = "click_config_file-0.4.4-py2.py3-none-any.whl" },
+  { filename = "click_config_file-0.4.3-py2.py3-none-any.whl" },
+]

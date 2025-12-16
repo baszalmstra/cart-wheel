@@ -1,0 +1,12 @@
+# Package configuration for pytorch-pretrained-bert
+conda_forge = "pytorch-pretrained-bert"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytorch_pretrained_bert-0.6.2-py3-none-any.whl" },
+  { filename = "pytorch_pretrained_bert-0.6.1-py3-none-any.whl" },
+  { filename = "pytorch_pretrained_bert-0.6.0-py3-none-any.whl" },
+  { filename = "pytorch_pretrained_bert-0.5.1-py3-none-any.whl" },
+  { filename = "pytorch_pretrained_bert-0.5.0-py3-none-any.whl" },
+]

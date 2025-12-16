@@ -1,0 +1,136 @@
+{
+  "devpi_client-7.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0dc11d8e3d73e38d87748f6bde07e451565aac0ed4bd99ce4634aa590035b5c3",
+    "dependencies": {
+      "required": [
+        "build",
+        "check-manifest",
+        "devpi-common",
+        "iniconfig",
+        "pkginfo",
+        "platformdirs",
+        "pluggy",
+        "colorama",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "build >=0.7.0",
+      "check-manifest >=0.28",
+      "devpi-common <5,>=4dev",
+      "iniconfig",
+      "pkginfo >=1.10.0",
+      "platformdirs",
+      "pluggy <2.0,>=0.6.0",
+      "colorama ; platform_system == \"Windows\"",
+      "tomli ; python_version < \"3.11\""
+    ]
+  },
+  "devpi_client-7.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d65a16277b5a7bb47ce04b2e902f8eab6e043d975d2e8345fe40fa3a55e6b1af",
+    "dependencies": {
+      "required": [
+        "build",
+        "check-manifest",
+        "devpi-common",
+        "iniconfig",
+        "pkginfo",
+        "platformdirs",
+        "pluggy",
+        "colorama",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "build >=0.7.0",
+      "check-manifest >=0.28",
+      "devpi-common <5,>=4dev",
+      "iniconfig",
+      "pkginfo >=1.4.2",
+      "platformdirs",
+      "pluggy <2.0,>=0.6.0",
+      "colorama ; platform_system == \"Windows\"",
+      "tomli ; python_version < \"3.11\""
+    ]
+  },
+  "devpi_client-7.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3090788aa5bffe3d35f5f8e5789eab77c28b211b4982b1c2b4b744fdb3f64e0b",
+    "dependencies": {
+      "required": [
+        "build",
+        "check-manifest",
+        "devpi-common",
+        "iniconfig",
+        "pkginfo",
+        "platformdirs",
+        "pluggy",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "build >=0.7.0",
+      "check-manifest >=0.28",
+      "devpi-common <5,>=4dev",
+      "iniconfig",
+      "pkginfo >=1.4.2",
+      "platformdirs",
+      "pluggy <2.0,>=0.6.0",
+      "colorama ; platform_system == \"Windows\""
+    ]
+  },
+  "devpi_client-7.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb63fd088dce1ddd7cbe9879f6cc95bf464eb3d48cbdf51fc9c7bdef5e4d1ba0",
+    "dependencies": {
+      "required": [
+        "build",
+        "check-manifest",
+        "devpi-common",
+        "iniconfig",
+        "pkginfo",
+        "platformdirs",
+        "pluggy",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "build",
+      "check-manifest >=0.28",
+      "devpi-common <5,>=4dev",
+      "iniconfig",
+      "pkginfo >=1.4.2",
+      "platformdirs",
+      "pluggy <2.0,>=0.6.0",
+      "colorama ; platform_system == \"Windows\""
+    ]
+  },
+  "devpi_client-7.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c5ab54e9119c7d5b3ea68f32294dd63ce755213be303b5b9d0d0c93b2b91a68e",
+    "dependencies": {
+      "required": [
+        "build",
+        "check-manifest",
+        "devpi-common",
+        "iniconfig",
+        "pkginfo",
+        "platformdirs",
+        "pluggy",
+        "colorama"
+      ]
+    },
+    "original_requirements": [
+      "build",
+      "check-manifest >=0.28",
+      "devpi-common <5,>=4dev",
+      "iniconfig",
+      "pkginfo >=1.4.2",
+      "platformdirs",
+      "pluggy <2.0,>=0.6.0",
+      "colorama ; platform_system == \"Windows\""
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "datapackage-1.15.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c8498b421ef29eb8f71228b789e2148d38663ef0a93680612f058aea2a31e5a2",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "chardet",
+        "requests",
+        "jsonschema",
+        "unicodecsv",
+        "jsonpointer",
+        "tableschema",
+        "dataflows-tabulator"
+      ]
+    },
+    "original_requirements": [
+      "six >=1.10",
+      "click >=6.7",
+      "chardet >=3.0",
+      "requests >=2.8",
+      "jsonschema >=2.5",
+      "unicodecsv >=0.14",
+      "jsonpointer >=1.10",
+      "tableschema >=1.20.4",
+      "dataflows-tabulator >=1.29",
+      "cchardet >=2.0 ; extra == 'cchardet'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "httpretty ; extra == 'develop'",
+      "tableschema-sql ; extra == 'develop'"
+    ]
+  },
+  "datapackage-1.15.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5d429d566482ddb5e2424a4f6ac80782340fd2eb707595d601511d077d6caaba",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "chardet",
+        "requests",
+        "jsonschema",
+        "unicodecsv",
+        "jsonpointer",
+        "tableschema",
+        "tabulator"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.10)",
+      "click (>=6.7)",
+      "chardet (>=3.0)",
+      "requests (>=2.8)",
+      "jsonschema (>=2.5)",
+      "unicodecsv (>=0.14)",
+      "jsonpointer (>=1.10)",
+      "tableschema (>=1.12.1)",
+      "tabulator (>=1.29)",
+      "cchardet (>=2.0) ; extra == 'cchardet'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "httpretty ; extra == 'develop'",
+      "tableschema-sql ; extra == 'develop'"
+    ]
+  },
+  "datapackage-1.15.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "66e1f3dc3efa8a24336b2ae9e9a1130065388ca5a731d31b408a388272bac78f",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "chardet",
+        "requests",
+        "jsonschema",
+        "unicodecsv",
+        "jsonpointer",
+        "tableschema",
+        "tabulator"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.10)",
+      "click (>=6.7)",
+      "chardet (>=3.0)",
+      "requests (>=2.8)",
+      "jsonschema (>=2.5)",
+      "unicodecsv (>=0.14)",
+      "jsonpointer (>=1.10)",
+      "tableschema (>=1.12.1)",
+      "tabulator (>=1.29)",
+      "cchardet (>=2.0) ; extra == 'cchardet'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "httpretty ; extra == 'develop'",
+      "tableschema-sql ; extra == 'develop'",
+      "tox ; extra == 'develop'"
+    ]
+  },
+  "datapackage-1.15.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24852ba179e07fd0b0ae4d8bf729d9037f0f52ddb1c75920a103ac25d18c2f83",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "chardet",
+        "requests",
+        "jsonschema",
+        "unicodecsv",
+        "jsonpointer",
+        "tableschema",
+        "tabulator"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.10)",
+      "click (>=6.7)",
+      "chardet (>=3.0)",
+      "requests (>=2.8)",
+      "jsonschema (>=2.5)",
+      "unicodecsv (>=0.14)",
+      "jsonpointer (>=1.10)",
+      "tableschema (>=1.12.1)",
+      "tabulator (>=1.29)",
+      "cchardet (>=2.0) ; extra == 'cchardet'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "httpretty ; extra == 'develop'",
+      "tableschema-sql ; extra == 'develop'",
+      "tox ; extra == 'develop'"
+    ]
+  },
+  "datapackage-1.14.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b7a776321b28515d3f0e72d4ec24a30135dd135b813ac236735c923e1588dd55",
+    "dependencies": {
+      "required": [
+        "six",
+        "click",
+        "chardet",
+        "requests",
+        "jsonschema",
+        "unicodecsv",
+        "jsonpointer",
+        "tableschema",
+        "tabulator"
+      ]
+    },
+    "original_requirements": [
+      "six (>=1.10)",
+      "click (>=6.7)",
+      "chardet (>=3.0)",
+      "requests (>=2.8)",
+      "jsonschema (>=2.5)",
+      "unicodecsv (>=0.14)",
+      "jsonpointer (>=1.10)",
+      "tableschema (>=1.12.1)",
+      "tabulator (>=1.29)",
+      "cchardet (>=2.0) ; extra == 'cchardet'",
+      "mock ; extra == 'develop'",
+      "pylama ; extra == 'develop'",
+      "pytest ; extra == 'develop'",
+      "pytest-cov ; extra == 'develop'",
+      "httpretty ; extra == 'develop'",
+      "tableschema-sql ; extra == 'develop'",
+      "tox ; extra == 'develop'"
+    ]
+  }
+}

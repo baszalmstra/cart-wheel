@@ -1,0 +1,11 @@
+# Package configuration for picobox
+conda_forge = "picobox"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "picobox-4.0.0-py3-none-any.whl" },
+  { filename = "picobox-3.0.0-py3-none-any.whl" },
+  { filename = "picobox-2.2.0-py2.py3-none-any.whl" },
+  { filename = "picobox-1.0.0-py3-none-any.whl" },
+]

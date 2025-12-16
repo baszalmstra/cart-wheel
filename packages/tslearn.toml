@@ -1,0 +1,12 @@
+# Package configuration for tslearn
+conda_forge = "tslearn"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tslearn-0.7.0-py3-none-any.whl" },
+  { filename = "tslearn-0.6.4-py3-none-any.whl" },
+  { filename = "tslearn-0.6.3-py3-none-any.whl" },
+  { filename = "tslearn-0.6.2-py3-none-any.whl" },
+  { filename = "tslearn-0.6.1-py3-none-any.whl" },
+]

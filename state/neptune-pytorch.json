@@ -1,0 +1,105 @@
+{
+  "neptune_pytorch-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1fe412453bd2df9787daed4c4ea3d5d92c41902e3a80117e3ab37d7004dd5501",
+    "dependencies": {
+      "required": [
+        "neptune-scale",
+        "numpy",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "neptune_scale (>=0.14.0)",
+      "numpy (>=1.20.0)",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "torch (>=1.11.0)",
+      "torchviz ; extra == \"dev\""
+    ]
+  },
+  "neptune_pytorch-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcd33d120882f7308f73444e41d0878b4579bbd1f26bbb10e0d9c4116e3bb891",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "torch (>1.8.0)",
+      "torchviz ; extra == \"dev\""
+    ]
+  },
+  "neptune_pytorch-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6bc07916820df204ca2b8508f1a3303ff93fefef96cf75153e9ebc278f60be18",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "torch (>1.8.0)",
+      "torchviz ; extra == \"dev\""
+    ]
+  },
+  "neptune_pytorch-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0de169bff175c03f850243475cfb73f976c975628bee4381047df53a39c43a13",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "torch",
+        "torchviz"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "torch (>1.8.0)",
+      "torchviz"
+    ]
+  },
+  "neptune_pytorch-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fdc0fdb00f72bb601bfe33a80902d36ad098eb357328c91b499a62b3c1bc5b92",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "torch",
+        "torchviz"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pydot ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "torch (>1.8.0)",
+      "torchviz"
+    ]
+  }
+}

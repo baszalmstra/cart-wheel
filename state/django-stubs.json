@@ -1,0 +1,122 @@
+{
+  "django_stubs-5.2.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3c63119fd7062ac63d58869698d07c9e5ec0561295c4e700317c54e8d26716c",
+    "dependencies": {
+      "required": [
+        "django",
+        "django-stubs-ext",
+        "tomli",
+        "types-pyyaml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "django",
+      "django-stubs-ext>=5.2.8",
+      "tomli ; python_full_version < '3.11'",
+      "types-pyyaml",
+      "typing-extensions>=4.11.0",
+      "mypy>=1.13,<1.20 ; extra == 'compatible-mypy'",
+      "oracledb ; extra == 'oracle'",
+      "redis ; extra == 'redis'",
+      "types-redis ; extra == 'redis'"
+    ]
+  },
+  "django_stubs-5.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2864e74b56ead866ff1365a051f24d852f6ed02238959664f558a6c9601c95bf",
+    "dependencies": {
+      "required": [
+        "django",
+        "django-stubs-ext",
+        "tomli",
+        "types-pyyaml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "django",
+      "django-stubs-ext>=5.2.7",
+      "tomli ; python_full_version < '3.11'",
+      "types-pyyaml",
+      "typing-extensions>=4.11.0",
+      "mypy>=1.13,<1.19 ; extra == 'compatible-mypy'",
+      "oracledb ; extra == 'oracle'",
+      "redis ; extra == 'redis'",
+      "types-redis ; extra == 'redis'"
+    ]
+  },
+  "django_stubs-5.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb517a60355474a2c8403a48d16ff906c8bc46d604f419206de10ac018a5f4bc",
+    "dependencies": {
+      "required": [
+        "django",
+        "django-stubs-ext",
+        "tomli",
+        "types-pyyaml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "django",
+      "django-stubs-ext>=5.2.6",
+      "tomli ; python_full_version < '3.11'",
+      "types-pyyaml",
+      "typing-extensions>=4.11.0",
+      "mypy>=1.13,<1.19 ; extra == 'compatible-mypy'",
+      "oracledb ; extra == 'oracle'",
+      "redis ; extra == 'redis'",
+      "types-redis ; extra == 'redis'"
+    ]
+  },
+  "django_stubs-5.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "223c1a3324cd4873b7629dec6e9adbe224a94508284c1926b25fddff7a92252b",
+    "dependencies": {
+      "required": [
+        "django",
+        "django-stubs-ext",
+        "tomli",
+        "types-pyyaml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "django",
+      "django-stubs-ext>=5.2.2",
+      "tomli; python_version < '3.11'",
+      "types-pyyaml",
+      "typing-extensions>=4.11.0",
+      "mypy<1.19,>=1.13; extra == 'compatible-mypy'",
+      "oracledb; extra == 'oracle'",
+      "redis; extra == 'redis'",
+      "types-redis; extra == 'redis'"
+    ]
+  },
+  "django_stubs-5.2.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "000d59e826a15b032070d4b1b7f95b281005d690493173b95837c4c07b68dcf6",
+    "dependencies": {
+      "required": [
+        "django",
+        "django-stubs-ext",
+        "tomli",
+        "types-pyyaml",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "django",
+      "django-stubs-ext>=5.2.2",
+      "tomli; python_version < '3.11'",
+      "types-pyyaml",
+      "typing-extensions>=4.11.0",
+      "mypy<1.19,>=1.13; extra == 'compatible-mypy'",
+      "oracledb; extra == 'oracle'",
+      "redis; extra == 'redis'",
+      "types-redis; extra == 'redis'"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "piq-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bad83f8e68bad6c09df09c2bdf50d1e8ccf5e852d7b64562317c27ed5eb63159",
+    "dependencies": {
+      "required": [
+        "torchvision"
+      ]
+    },
+    "original_requirements": [
+      "torchvision (>=0.10.0)"
+    ]
+  },
+  "piq-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "66cb888d5a95358da25853b026b536f8d1e4016bedba432a00207a198b834185",
+    "dependencies": {
+      "required": [
+        "torchvision"
+      ]
+    },
+    "original_requirements": [
+      "torchvision (!=0.9.0,>=0.6.1)"
+    ]
+  },
+  "piq-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a55dace8ddd0ffb5f873def8b346befccd344df340a0d4abde57d3196dec503",
+    "dependencies": {
+      "required": [
+        "torchvision"
+      ]
+    },
+    "original_requirements": [
+      "torchvision (!=0.9.*,>=0.6.1)"
+    ]
+  },
+  "piq-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f2888a2a073169eaebf86a7c2a4061507df0165e50d0cf4285da2ef12bb92fa7",
+    "dependencies": {
+      "required": [
+        "torchvision"
+      ]
+    },
+    "original_requirements": [
+      "torchvision (>=0.6.1)"
+    ]
+  },
+  "piq-0.5.5-1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3f084fdb1a97265a1c0809c2859d7182da4a8420b09aec3fb3ea75013092acb5",
+    "dependencies": {
+      "required": [
+        "torchvision"
+      ]
+    },
+    "original_requirements": [
+      "torchvision (>=0.6.1)"
+    ]
+  }
+}

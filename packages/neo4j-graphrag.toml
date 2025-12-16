@@ -1,0 +1,11 @@
+# Package configuration for neo4j-graphrag
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neo4j_graphrag-1.10.1-py3-none-any.whl" },
+  { filename = "neo4j_graphrag-1.10.0-py3-none-any.whl" },
+  { filename = "neo4j_graphrag-1.9.1-py3-none-any.whl" },
+  { filename = "neo4j_graphrag-1.9.0-py3-none-any.whl" },
+  { filename = "neo4j_graphrag-1.8.0-py3-none-any.whl" },
+]

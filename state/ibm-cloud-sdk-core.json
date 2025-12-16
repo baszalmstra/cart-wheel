@@ -1,0 +1,132 @@
+{
+  "ibm_cloud_sdk_core-3.24.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "432c0edd812a22a1c61af095bf48202e29a1c03a893fc735389399ace059ee64",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3",
+        "python-dateutil",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "requests<3.0.0,>=2.32.4",
+      "urllib3<3.0.0,>=2.4.0",
+      "python_dateutil<3.0.0,>=2.9.0",
+      "PyJWT<3.0.0,>=2.10.1",
+      "coverage<8.0.0,>=7.9.0; extra == \"dev\"",
+      "pylint<4.0.0,>=3.3.7; extra == \"dev\"",
+      "pytest<8.0.0,>=7.4.4; extra == \"dev\"",
+      "pytest-cov<5.0.0,>=4.1.0; extra == \"dev\"",
+      "responses<1.0.0,>=0.25.7; extra == \"dev\"",
+      "black<26.0.0,>=25.0.0; extra == \"dev\"",
+      "build; extra == \"publish\"",
+      "twine; extra == \"publish\""
+    ]
+  },
+  "ibm_cloud_sdk_core-3.24.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28eb70379977bac15318a07634e4b56d9de671186090d8accec180b77ffb7969",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3",
+        "python-dateutil",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "requests<3.0.0,>=2.31.0",
+      "urllib3<3.0.0,>=2.1.0",
+      "python_dateutil<3.0.0,>=2.8.2",
+      "PyJWT<3.0.0,>=2.8.0",
+      "coverage<8.0.0,>=7.3.2; extra == \"dev\"",
+      "pylint<4.0.0,>=3.0.0; extra == \"dev\"",
+      "pytest<8.0.0,>=7.4.2; extra == \"dev\"",
+      "pytest-cov<5.0.0,>=4.1.0; extra == \"dev\"",
+      "responses<1.0.0,>=0.23.3; extra == \"dev\"",
+      "black<25.0.0,>=24.0.0; extra == \"dev\"",
+      "build; extra == \"publish\"",
+      "twine; extra == \"publish\""
+    ]
+  },
+  "ibm_cloud_sdk_core-3.24.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cd6160318334d3515783344c68da08ec2df8ec206b6ccb2dbe09abae1f54d790",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3",
+        "python-dateutil",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "requests<3.0.0,>=2.31.0",
+      "urllib3<3.0.0,>=2.1.0",
+      "python_dateutil<3.0.0,>=2.8.2",
+      "PyJWT<3.0.0,>=2.8.0",
+      "coverage<8.0.0,>=7.3.2; extra == \"dev\"",
+      "pylint<4.0.0,>=3.0.0; extra == \"dev\"",
+      "pytest<8.0.0,>=7.4.2; extra == \"dev\"",
+      "pytest-cov<5.0.0,>=4.1.0; extra == \"dev\"",
+      "responses<1.0.0,>=0.23.3; extra == \"dev\"",
+      "black<25.0.0,>=24.0.0; extra == \"dev\"",
+      "build; extra == \"publish\"",
+      "twine; extra == \"publish\""
+    ]
+  },
+  "ibm_cloud_sdk_core-3.23.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9cbdd27de2306abd0916f6905b1d8aaa73b1bae510a4dc2a49fa2a62d40a6de5",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3",
+        "python-dateutil",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "requests<3.0.0,>=2.31.0",
+      "urllib3<3.0.0,>=2.1.0",
+      "python_dateutil<3.0.0,>=2.8.2",
+      "PyJWT<3.0.0,>=2.8.0",
+      "coverage<8.0.0,>=7.3.2; extra == \"dev\"",
+      "pylint<4.0.0,>=3.0.0; extra == \"dev\"",
+      "pytest<8.0.0,>=7.4.2; extra == \"dev\"",
+      "pytest-cov<5.0.0,>=4.1.0; extra == \"dev\"",
+      "responses<1.0.0,>=0.23.3; extra == \"dev\"",
+      "black<25.0.0,>=24.0.0; extra == \"dev\"",
+      "build; extra == \"publish\"",
+      "twine; extra == \"publish\""
+    ]
+  },
+  "ibm_cloud_sdk_core-3.22.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2195d34705b24c7e3a59ad51f01a974defc5bee3576570d9a0e219139550dd4",
+    "dependencies": {
+      "required": [
+        "requests",
+        "urllib3",
+        "python-dateutil",
+        "pyjwt"
+      ]
+    },
+    "original_requirements": [
+      "requests<3.0.0,>=2.31.0",
+      "urllib3<3.0.0,>=2.1.0",
+      "python_dateutil<3.0.0,>=2.8.2",
+      "PyJWT<3.0.0,>=2.8.0",
+      "coverage<8.0.0,>=7.3.2; extra == \"dev\"",
+      "pylint<4.0.0,>=3.0.0; extra == \"dev\"",
+      "pytest<8.0.0,>=7.4.2; extra == \"dev\"",
+      "pytest-cov<5.0.0,>=4.1.0; extra == \"dev\"",
+      "responses<1.0.0,>=0.23.3; extra == \"dev\"",
+      "black<25.0.0,>=24.0.0; extra == \"dev\"",
+      "build; extra == \"publish\"",
+      "twine; extra == \"publish\""
+    ]
+  }
+}

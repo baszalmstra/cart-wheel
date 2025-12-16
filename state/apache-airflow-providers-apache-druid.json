@@ -1,0 +1,140 @@
+{
+  "apache_airflow_providers_apache_druid-4.4.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:07.074400+00:00",
+    "conda_file": "apache-airflow-providers-apache-druid-4.4.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "apache-airflow-providers-common-compat",
+        "pydruid"
+      ],
+      "optional": {
+        "apache-hive": [
+          "apache-airflow-providers-apache-hive"
+        ],
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "pydruid>=0.6.6",
+      "apache-airflow-providers-apache-hive ; extra == \"apache-hive\"",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_druid-4.4.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:07.234576+00:00",
+    "conda_file": "apache-airflow-providers-apache-druid-4.4.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "apache-airflow-providers-common-compat",
+        "pydruid"
+      ],
+      "optional": {
+        "apache-hive": [
+          "apache-airflow-providers-apache-hive"
+        ],
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pydruid>=0.6.6",
+      "apache-airflow-providers-apache-hive ; extra == \"apache-hive\"",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_druid-4.3.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:07.195374+00:00",
+    "conda_file": "apache-airflow-providers-apache-druid-4.3.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "apache-airflow-providers-common-compat",
+        "pydruid"
+      ],
+      "optional": {
+        "apache-hive": [
+          "apache-airflow-providers-apache-hive"
+        ],
+        "common-compat": [
+          "apache-airflow-providers-common-compat"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "pydruid>=0.6.6",
+      "apache-airflow-providers-apache-hive ; extra == \"apache-hive\"",
+      "apache-airflow-providers-common-compat ; extra == \"common-compat\""
+    ]
+  },
+  "apache_airflow_providers_apache_druid-4.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:07.198308+00:00",
+    "conda_file": "apache-airflow-providers-apache-druid-4.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pydruid"
+      ],
+      "optional": {
+        "apache-hive": [
+          "apache-airflow-providers-apache-hive"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "pydruid>=0.6.6",
+      "apache-airflow-providers-apache-hive ; extra == \"apache-hive\""
+    ]
+  },
+  "apache_airflow_providers_apache_druid-4.2.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:50:07.421434+00:00",
+    "conda_file": "apache-airflow-providers-apache-druid-4.2.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "pydruid"
+      ],
+      "optional": {
+        "apache-hive": [
+          "apache-airflow-providers-apache-hive"
+        ]
+      }
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.26.0",
+      "pydruid>=0.6.6",
+      "apache-airflow-providers-apache-hive ; extra == \"apache-hive\""
+    ]
+  }
+}

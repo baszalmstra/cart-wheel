@@ -1,0 +1,12 @@
+# Package configuration for py-serializable
+conda_forge = "py-serializable"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "py_serializable-2.1.0-py3-none-any.whl" },
+  { filename = "py_serializable-2.0.0-py3-none-any.whl" },
+  { filename = "py_serializable-1.1.2-py3-none-any.whl" },
+  { filename = "py_serializable-1.1.1-py3-none-any.whl" },
+  { filename = "py_serializable-1.1.0-py3-none-any.whl" },
+]

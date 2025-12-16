@@ -1,0 +1,12 @@
+# Package configuration for atlassian-python-api
+conda_forge = "atlassian-python-api"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "atlassian_python_api-4.0.7-py3-none-any.whl" },
+  { filename = "atlassian_python_api-4.0.6-py3-none-any.whl" },
+  { filename = "atlassian_python_api-4.0.5-py3-none-any.whl" },
+  { filename = "atlassian_python_api-4.0.4-py3-none-any.whl" },
+  { filename = "atlassian_python_api-4.0.3-py3-none-any.whl" },
+]

@@ -1,0 +1,37 @@
+{
+  "standard_aifc-3.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f7ae09cc57de1224a0dd8e3eb8f73830be7c3d0bc485de4c1f82b4a7f645ac66",
+    "dependencies": {
+      "required": [
+        "standard-chunk",
+        "audioop-lts"
+      ]
+    },
+    "original_requirements": [
+      "standard-chunk ; python_version >= \"3.13\"",
+      "audioop-lts ; python_version >= \"3.13\""
+    ]
+  },
+  "standard_aifc-3.12.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c0659ebe54c0440db64b7e50d90428487ca8ed18a786c7af8171c21338c4a8c4",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "standard_aifc-3.11.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5097e98b1af2c6e072138449c10212e75e64f54531772a940ba59e99e747eab6",
+    "dependencies": {
+      "required": []
+    }
+  },
+  "standard_aifc-3.10.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "92669e1aaf1dfeb6ece6957b10d552b8f92a1f03484644f1452e948d01633af9",
+    "dependencies": {
+      "required": []
+    }
+  }
+}

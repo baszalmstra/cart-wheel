@@ -1,0 +1,12 @@
+# Package configuration for cubed-xarray
+conda_forge = "cubed-xarray"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "cubed_xarray-0.0.9-py3-none-any.whl" },
+  { filename = "cubed_xarray-0.0.8-py3-none-any.whl" },
+  { filename = "cubed_xarray-0.0.7-py3-none-any.whl" },
+  { filename = "cubed_xarray-0.0.6-py3-none-any.whl" },
+  { filename = "cubed_xarray-0.0.5-py3-none-any.whl" },
+]

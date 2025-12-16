@@ -1,0 +1,12 @@
+# Package configuration for db-dtypes
+conda_forge = "db-dtypes"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "db_dtypes-1.4.4-py3-none-any.whl" },
+  { filename = "db_dtypes-1.4.3-py3-none-any.whl" },
+  { filename = "db_dtypes-1.4.2-py2.py3-none-any.whl" },
+  { filename = "db_dtypes-1.4.1-py2.py3-none-any.whl" },
+  { filename = "db_dtypes-1.4.0-py2.py3-none-any.whl" },
+]

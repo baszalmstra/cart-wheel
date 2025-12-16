@@ -1,0 +1,141 @@
+{
+  "jaraco.envs-2.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b9e97e810a216d1c093e875fa35acdb316e0c09e1ab3dd93fda66fe9c1365415",
+    "dependencies": {
+      "required": [
+        "path",
+        "virtualenv",
+        "tox"
+      ]
+    },
+    "original_requirements": [
+      "path",
+      "virtualenv",
+      "tox",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "sphinx <7.2.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest >=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "pytest-black >=0.3.7 ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy >=0.9.1 ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.envs-2.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cb2fbac70a470c1dc27cf8090731120d75302a4fdae54712c03c8a18cd61790d",
+    "dependencies": {
+      "required": [
+        "path",
+        "virtualenv",
+        "tox"
+      ]
+    },
+    "original_requirements": [
+      "path",
+      "virtualenv",
+      "tox",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "sphinx <7.2.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest >=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "pytest-black >=0.3.7 ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy >=0.9.1 ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.envs-2.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "78f6dddd2bb009c5168fe774ecf7cc5b4ea03dabf8532c0379ec30cebb000de0",
+    "dependencies": {
+      "required": [
+        "path",
+        "virtualenv",
+        "tox"
+      ]
+    },
+    "original_requirements": [
+      "path",
+      "virtualenv",
+      "tox",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "sphinx <7.2.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest >=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "pytest-black >=0.3.7 ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy >=0.9.1 ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.envs-2.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eb4472496f857cc18daa1e7d82280ea04af85a1ebd197d968b1e8639c9a7b3c3",
+    "dependencies": {
+      "required": [
+        "path",
+        "virtualenv",
+        "tox"
+      ]
+    },
+    "original_requirements": [
+      "path",
+      "virtualenv",
+      "tox",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=9) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=1.0.1) ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.envs-2.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "40d259a4fe98627efec32929ea11e09a784789f94a7317c0dff2a8a8ddd32565",
+    "dependencies": {
+      "required": [
+        "path",
+        "virtualenv",
+        "tox"
+      ]
+    },
+    "original_requirements": [
+      "path",
+      "virtualenv",
+      "tox",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=9) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=1.0.1) ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for ppft
+conda_forge = "ppft"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ppft-1.7.7-py3-none-any.whl" },
+  { filename = "ppft-1.7.6.9-py3-none-any.whl" },
+  { filename = "ppft-1.7.6.8-py3-none-any.whl" },
+  { filename = "ppft-1.7.6.7-py3-none-any.whl" },
+  { filename = "ppft-1.7.6.6-py3-none-any.whl" },
+]

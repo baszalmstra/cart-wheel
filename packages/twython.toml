@@ -1,0 +1,12 @@
+# Package configuration for twython
+conda_forge = "twython"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "twython-3.9.1-py3-none-any.whl" },
+  { filename = "twython-3.9.0-py3-none-any.whl" },
+  { filename = "twython-3.8.2-py3-none-any.whl" },
+  { filename = "twython-3.8.1-py3-none-any.whl" },
+  { filename = "twython-3.8.0-py3-none-any.whl" },
+]

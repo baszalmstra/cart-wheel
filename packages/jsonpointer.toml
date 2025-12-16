@@ -1,0 +1,12 @@
+# Package configuration for jsonpointer
+conda_forge = "jsonpointer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jsonpointer-3.0.0-py2.py3-none-any.whl" },
+  { filename = "jsonpointer-2.4-py2.py3-none-any.whl" },
+  { filename = "jsonpointer-2.3-py2.py3-none-any.whl" },
+  { filename = "jsonpointer-2.2-py2.py3-none-any.whl" },
+  { filename = "jsonpointer-2.1-py2.py3-none-any.whl" },
+]

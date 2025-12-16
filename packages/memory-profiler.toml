@@ -1,0 +1,8 @@
+# Package configuration for memory-profiler
+conda_forge = "memory_profiler"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "memory_profiler-0.61.0-py3-none-any.whl" },
+]

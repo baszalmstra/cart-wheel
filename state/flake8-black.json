@@ -1,0 +1,92 @@
+{
+  "flake8_black-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "288762d0c9ea065782d87eeecbcc20c69079d17fe1d0f0445f0eb0b0ffb80c39",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "black",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "flake8>=3",
+      "black>=22.1.0",
+      "tomli; python_version < \"3.11\"",
+      "build; extra == \"develop\"",
+      "twine; extra == \"develop\""
+    ]
+  },
+  "flake8_black-0.3.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "366215fbe9ee3d5a7e72710da9be871f52392e568ebd2821a16cd5f3a046d291",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "black",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "flake8>=3",
+      "black<25.9.0,>=22.1.0",
+      "tomli; python_version < \"3.11\"",
+      "build; extra == \"develop\"",
+      "twine; extra == \"develop\""
+    ]
+  },
+  "flake8_black-0.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe8ea2eca98d8a504f22040d9117347f6b367458366952862ac3586e7d4eeaca",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "black",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3)",
+      "black (>=22.1.0)",
+      "tomli ; python_version < \"3.11\"",
+      "build ; extra == 'develop'",
+      "twine ; extra == 'develop'"
+    ]
+  },
+  "flake8_black-0.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4948a579fdddd98fbf935fd94255dfcfce560c4ddc1ceee08e3f12d6114c8619",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "black",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3)",
+      "black (>=22.1.0)",
+      "tomli",
+      "build ; extra == 'develop'",
+      "twine ; extra == 'develop'"
+    ]
+  },
+  "flake8_black-0.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fb52f258dfa6a25645c4ba8730eadc5f2ecd32057bf6c9fc21aef1cba9fefd74",
+    "dependencies": {
+      "required": [
+        "flake8",
+        "black",
+        "tomli"
+      ]
+    },
+    "original_requirements": [
+      "flake8 (>=3)",
+      "black (>=22.1.0)",
+      "tomli",
+      "build ; extra == 'develop'",
+      "twine ; extra == 'develop'"
+    ]
+  }
+}

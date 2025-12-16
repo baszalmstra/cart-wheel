@@ -1,0 +1,81 @@
+{
+  "sphinxcontrib_htmlhelp-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "166759820b47002d22914d64a075ce08f4c46818e17cfc9470a9786b759b19f8",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruff==0.5.5 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-docutils ; extra == \"lint\"",
+      "Sphinx>=5 ; extra == \"standalone\"",
+      "pytest ; extra == \"test\"",
+      "html5lib ; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_htmlhelp-2.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1b9af5a2671a61410a868fce050cab7ca393c218e6205cbc7f590136f207395c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "Sphinx>=5 ; extra == \"standalone\"",
+      "pytest ; extra == \"test\"",
+      "html5lib ; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_htmlhelp-2.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "393f04f112b4d2f53d93448d4bce35842f62b307ccdc549ec1585e950bc35e04",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "Sphinx>=5 ; extra == \"standalone\"",
+      "pytest ; extra == \"test\"",
+      "html5lib ; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_htmlhelp-2.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8001661c077a73c29beaf4a79968d0726103c5605e27db92b9ebed8bab1359e9",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx>=5",
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "pytest ; extra == \"test\"",
+      "html5lib ; extra == \"test\""
+    ]
+  },
+  "sphinxcontrib_htmlhelp-2.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "abee4e6c5471203ad2fc40dc6a16ed99884a5d6b15a6f79c9269a7e82cf04149",
+    "dependencies": {
+      "required": [
+        "sphinx"
+      ]
+    },
+    "original_requirements": [
+      "Sphinx>=5",
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "pytest ; extra == \"test\"",
+      "html5lib ; extra == \"test\""
+    ]
+  }
+}

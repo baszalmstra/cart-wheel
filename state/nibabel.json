@@ -1,0 +1,215 @@
+{
+  "nibabel-5.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e8b17423ee8464da3b69e6a15799eb19f2350a7d38377026d527b6b84938adac",
+    "dependencies": {
+      "required": [
+        "importlib-resources",
+        "numpy",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources>=5.12; python_version < '3.12'",
+      "numpy>=1.22",
+      "packaging>=20",
+      "typing-extensions>=4.6; python_version < '3.13'",
+      "h5py; extra == 'all'",
+      "pillow; extra == 'all'",
+      "pydicom>=2.3; extra == 'all'",
+      "pyzstd>=0.14.3; extra == 'all'",
+      "scipy; extra == 'all'",
+      "tox; extra == 'dev'",
+      "pydicom>=2.3; extra == 'dicom'",
+      "pillow; extra == 'dicomfs'",
+      "pydicom>=2.3; extra == 'dicomfs'",
+      "matplotlib>=3.5; extra == 'doc'",
+      "numpydoc; extra == 'doc'",
+      "sphinx; extra == 'doc'",
+      "texext; extra == 'doc'",
+      "tomli; (python_version < '3.11') and extra == 'doc'",
+      "tox; extra == 'doctest'",
+      "h5py; extra == 'minc2'",
+      "scipy; extra == 'spm'",
+      "tox; extra == 'style'",
+      "coverage>=7.2; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-doctestplus; extra == 'test'",
+      "pytest-httpserver; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "tox; extra == 'typing'",
+      "pyzstd>=0.14.3; extra == 'zstd'"
+    ]
+  },
+  "nibabel-5.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52970a5a8a53b1b55249cba4d9bcfaa8cc57e3e5af35a29d7352237e8680a6f8",
+    "dependencies": {
+      "required": [
+        "importlib-resources",
+        "numpy",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources>=5.12; python_version < '3.12'",
+      "numpy>=1.22",
+      "packaging>=20",
+      "typing-extensions>=4.6; python_version < '3.13'",
+      "h5py; extra == 'all'",
+      "pillow; extra == 'all'",
+      "pydicom>=2.3; extra == 'all'",
+      "pyzstd>=0.14.3; extra == 'all'",
+      "scipy; extra == 'all'",
+      "tox; extra == 'dev'",
+      "pydicom>=2.3; extra == 'dicom'",
+      "pillow; extra == 'dicomfs'",
+      "pydicom>=2.3; extra == 'dicomfs'",
+      "matplotlib>=3.5; extra == 'doc'",
+      "numpydoc; extra == 'doc'",
+      "sphinx; extra == 'doc'",
+      "texext; extra == 'doc'",
+      "tomli; (python_version < '3.11') and extra == 'doc'",
+      "tox; extra == 'doctest'",
+      "h5py; extra == 'minc2'",
+      "scipy; extra == 'spm'",
+      "tox; extra == 'style'",
+      "coverage>=7.2; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-doctestplus; extra == 'test'",
+      "pytest-httpserver; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "tox; extra == 'typing'",
+      "pyzstd>=0.14.3; extra == 'zstd'"
+    ]
+  },
+  "nibabel-5.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c04c7139d41a59ef92839f1cabbe73061edd5787340bf2c9a34ed71f0db9d07",
+    "dependencies": {
+      "required": [
+        "importlib-resources",
+        "numpy",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources>=5.12; python_version < '3.12'",
+      "numpy>=1.22",
+      "packaging>=20",
+      "typing-extensions>=4.6; python_version < '3.13'",
+      "h5py; extra == 'all'",
+      "pillow; extra == 'all'",
+      "pydicom>=2.3; extra == 'all'",
+      "pyzstd>=0.14.3; extra == 'all'",
+      "scipy; extra == 'all'",
+      "tox; extra == 'dev'",
+      "pydicom>=2.3; extra == 'dicom'",
+      "pillow; extra == 'dicomfs'",
+      "pydicom>=2.3; extra == 'dicomfs'",
+      "matplotlib>=3.5; extra == 'doc'",
+      "numpydoc; extra == 'doc'",
+      "sphinx; extra == 'doc'",
+      "texext; extra == 'doc'",
+      "tomli; (python_version < '3.11') and extra == 'doc'",
+      "tox; extra == 'doctest'",
+      "h5py; extra == 'minc2'",
+      "scipy; extra == 'spm'",
+      "tox; extra == 'style'",
+      "coverage>=7.2; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-doctestplus; extra == 'test'",
+      "pytest-httpserver; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "tox; extra == 'typing'",
+      "pyzstd>=0.14.3; extra == 'zstd'"
+    ]
+  },
+  "nibabel-5.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c2232fa8422c501d84e7af76304df5d2d16e3855ab328ca2d5185defccbf8506",
+    "dependencies": {
+      "required": [
+        "importlib-resources",
+        "numpy",
+        "packaging",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources>=5.12; python_version < '3.12'",
+      "numpy>=1.22",
+      "packaging>=20",
+      "typing-extensions>=4.6; python_version < '3.13'",
+      "h5py; extra == 'all'",
+      "pillow; extra == 'all'",
+      "pydicom>=2.3; extra == 'all'",
+      "pyzstd>=0.14.3; extra == 'all'",
+      "scipy; extra == 'all'",
+      "tox; extra == 'dev'",
+      "pydicom>=2.3; extra == 'dicom'",
+      "pillow; extra == 'dicomfs'",
+      "pydicom>=2.3; extra == 'dicomfs'",
+      "matplotlib>=3.5; extra == 'doc'",
+      "numpydoc; extra == 'doc'",
+      "sphinx; extra == 'doc'",
+      "texext; extra == 'doc'",
+      "tomli; (python_version < '3.11') and extra == 'doc'",
+      "tox; extra == 'doctest'",
+      "h5py; extra == 'minc2'",
+      "scipy; extra == 'spm'",
+      "tox; extra == 'style'",
+      "coverage>=7.2; extra == 'test'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-doctestplus; extra == 'test'",
+      "pytest-httpserver; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "tox; extra == 'typing'",
+      "pyzstd>=0.14.3; extra == 'zstd'"
+    ]
+  },
+  "nibabel-5.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2cbbc22985f7f9d39d050df47249771dfb8d48447f5e7a993177e4cabfe047f0",
+    "dependencies": {
+      "required": [
+        "importlib-resources",
+        "numpy",
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "importlib-resources>=1.3; python_version < '3.9'",
+      "numpy>=1.20",
+      "packaging>=17",
+      "nibabel[dicomfs,minc2,spm,zstd]; extra == 'all'",
+      "tox; extra == 'dev'",
+      "pydicom>=1.0.0; extra == 'dicom'",
+      "nibabel[dicom]; extra == 'dicomfs'",
+      "pillow; extra == 'dicomfs'",
+      "matplotlib>=1.5.3; extra == 'doc'",
+      "numpydoc; extra == 'doc'",
+      "sphinx; extra == 'doc'",
+      "texext; extra == 'doc'",
+      "tomli; (python_version < '3.11') and extra == 'doc'",
+      "tox; extra == 'doctest'",
+      "h5py; extra == 'minc2'",
+      "scipy; extra == 'spm'",
+      "tox; extra == 'style'",
+      "pytest; extra == 'test'",
+      "pytest-cov; extra == 'test'",
+      "pytest-doctestplus; extra == 'test'",
+      "pytest-httpserver; extra == 'test'",
+      "pytest-xdist; extra == 'test'",
+      "tox; extra == 'typing'",
+      "pyzstd>=0.14.3; extra == 'zstd'"
+    ]
+  }
+}

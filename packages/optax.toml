@@ -1,0 +1,12 @@
+# Package configuration for optax
+conda_forge = "optax"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "optax-0.2.6-py3-none-any.whl" },
+  { filename = "optax-0.2.5-py3-none-any.whl" },
+  { filename = "optax-0.2.4-py3-none-any.whl" },
+  { filename = "optax-0.2.3-py3-none-any.whl" },
+  { filename = "optax-0.2.2-py3-none-any.whl" },
+]

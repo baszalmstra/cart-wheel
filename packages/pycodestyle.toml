@@ -1,0 +1,12 @@
+# Package configuration for pycodestyle
+conda_forge = "pycodestyle"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pycodestyle-2.14.0-py2.py3-none-any.whl" },
+  { filename = "pycodestyle-2.13.0-py2.py3-none-any.whl" },
+  { filename = "pycodestyle-2.12.1-py2.py3-none-any.whl" },
+  { filename = "pycodestyle-2.12.0-py2.py3-none-any.whl" },
+  { filename = "pycodestyle-2.11.1-py2.py3-none-any.whl" },
+]

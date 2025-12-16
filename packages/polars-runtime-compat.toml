@@ -1,0 +1,8 @@
+# Package configuration for polars-runtime-compat
+conda_forge = "polars-runtime-compat"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "polars_runtime_compat-0.0.0-py3-none-any.whl" },
+]

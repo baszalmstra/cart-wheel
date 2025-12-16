@@ -1,0 +1,125 @@
+{
+  "docstub-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "142e69ca8fc4d8c5b9f8cc488e363735200bfdf32678eb6b7c10ab8410590cf4",
+    "dependencies": {
+      "required": [
+        "numpydoc",
+        "click",
+        "libcst",
+        "lark",
+        "black",
+        "isort"
+      ]
+    },
+    "original_requirements": [
+      "numpydoc>=1.7.0",
+      "click>=8.1.7",
+      "libcst>=1.3.1",
+      "lark>=1.1.9",
+      "black>=24.4.2",
+      "isort>=5.13.2"
+    ]
+  },
+  "docstub-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b2cbe4a86c822d88129fb16f2247f764c713af849138d7ff08dfd2b1f94c146",
+    "dependencies": {
+      "required": [
+        "numpydoc",
+        "click",
+        "libcst",
+        "lark",
+        "black",
+        "isort"
+      ]
+    },
+    "original_requirements": [
+      "numpydoc>=1.7.0",
+      "click>=8.1.7",
+      "libcst>=1.3.1",
+      "lark>=1.1.9",
+      "black>=24.4.2",
+      "isort>=5.13.2"
+    ]
+  },
+  "docstub-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08141696285366512f8e791c3fdd6c5306c163254dc1cda07e539a211bf53d1d",
+    "dependencies": {
+      "required": [
+        "numpydoc",
+        "click",
+        "libcst",
+        "lark",
+        "black",
+        "isort"
+      ]
+    },
+    "original_requirements": [
+      "numpydoc>=1.7.0",
+      "click>=8.1.7",
+      "libcst>=1.3.1",
+      "lark>=1.1.9",
+      "black>=24.4.2",
+      "isort>=5.13.2",
+      "pre-commit>=3.7; extra == \"dev\"",
+      "ipython; extra == \"dev\"",
+      "pytest>=5.0.0; extra == \"test\"",
+      "pytest-cov>=5.0.0; extra == \"test\"",
+      "mypy>=1.16.0; extra == \"test\"",
+      "basedpyright; extra == \"test\""
+    ]
+  },
+  "docstub-0.3.0.post0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac377e4289c717f1ca215574d3e341b06709cb9ec7bbf47066d6ee41ec536c35",
+    "dependencies": {
+      "required": [
+        "numpydoc",
+        "click",
+        "libcst",
+        "lark",
+        "black",
+        "isort"
+      ]
+    },
+    "original_requirements": [
+      "numpydoc>=1.7.0",
+      "click>=8.1.7",
+      "libcst>=1.3.1",
+      "lark>=1.1.9",
+      "black>=24.4.2",
+      "isort>=5.13.2",
+      "pre-commit>=3.7; extra == \"dev\"",
+      "ipython; extra == \"dev\"",
+      "pytest>=5.0.0; extra == \"test\"",
+      "pytest-cov>=5.0.0; extra == \"test\"",
+      "mypy; extra == \"test\"",
+      "basedpyright; extra == \"test\""
+    ]
+  },
+  "docstub-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a771f5753742f3be6fa58433cd6190e59e4b5241534e21edf290652328f39c82",
+    "dependencies": {
+      "required": [
+        "numpydoc",
+        "click",
+        "libcst",
+        "lark"
+      ]
+    },
+    "original_requirements": [
+      "numpydoc >=1.7.0",
+      "click >=8.1.7",
+      "libcst >=1.3.1",
+      "lark >=1.1.9",
+      "pre-commit >=3.7 ; extra == 'dev'",
+      "black >=24.4.2 ; extra == 'optional'",
+      "isort >=5.13.2 ; extra == 'optional'",
+      "pytest >=5.0.0 ; extra == 'test'",
+      "coverage >=7.5.0 ; extra == 'test'"
+    ]
+  }
+}

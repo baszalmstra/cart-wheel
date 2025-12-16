@@ -1,0 +1,210 @@
+{
+  "unstructured_inference-1.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e98020b6cb2832b3980e62e237ffc84a490bedc26689174464323fea3b266a8",
+    "dependencies": {
+      "required": [
+        "python-multipart",
+        "huggingface-hub",
+        "numpy",
+        "opencv-python",
+        "onnx",
+        "onnxruntime",
+        "matplotlib",
+        "torch",
+        "timm",
+        "transformers",
+        "accelerate",
+        "rapidfuzz",
+        "pandas",
+        "scipy",
+        "pypdfium2",
+        "pdfminer-six"
+      ]
+    },
+    "original_requirements": [
+      "python-multipart",
+      "huggingface-hub",
+      "numpy",
+      "opencv-python>=4.12",
+      "onnx",
+      "onnxruntime>=1.18.0",
+      "matplotlib",
+      "torch",
+      "timm",
+      "transformers>=4.25.1",
+      "accelerate",
+      "rapidfuzz",
+      "pandas",
+      "scipy",
+      "pypdfium2",
+      "pdfminer-six"
+    ]
+  },
+  "unstructured_inference-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "91f2ed33d79fbb8abb9dc43ab5499e258daf3a845bae1d37cd61baf19a054d09",
+    "dependencies": {
+      "required": [
+        "python-multipart",
+        "huggingface-hub",
+        "numpy",
+        "opencv-python",
+        "onnx",
+        "onnxruntime",
+        "matplotlib",
+        "torch",
+        "timm",
+        "transformers",
+        "accelerate",
+        "rapidfuzz",
+        "pandas",
+        "scipy",
+        "pypdfium2",
+        "pdfminer-six"
+      ]
+    },
+    "original_requirements": [
+      "python-multipart",
+      "huggingface-hub",
+      "numpy",
+      "opencv-python!=4.7.0.68",
+      "onnx",
+      "onnxruntime>=1.18.0",
+      "matplotlib",
+      "torch",
+      "timm",
+      "transformers>=4.25.1",
+      "accelerate",
+      "rapidfuzz",
+      "pandas",
+      "scipy",
+      "pypdfium2",
+      "pdfminer-six"
+    ]
+  },
+  "unstructured_inference-1.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ecbe385a6c58ca6b68b5723ed3cb540b70fd6317eecd1d5e6541516edf7071d0",
+    "dependencies": {
+      "required": [
+        "python-multipart",
+        "huggingface-hub",
+        "numpy",
+        "opencv-python",
+        "onnx",
+        "onnxruntime",
+        "matplotlib",
+        "torch",
+        "timm",
+        "transformers",
+        "accelerate",
+        "rapidfuzz",
+        "pandas",
+        "scipy",
+        "pypdfium2",
+        "pdfminer-six"
+      ]
+    },
+    "original_requirements": [
+      "python-multipart",
+      "huggingface-hub",
+      "numpy",
+      "opencv-python!=4.7.0.68",
+      "onnx",
+      "onnxruntime>=1.18.0",
+      "matplotlib",
+      "torch",
+      "timm",
+      "transformers>=4.25.1",
+      "accelerate",
+      "rapidfuzz",
+      "pandas",
+      "scipy",
+      "pypdfium2",
+      "pdfminer-six"
+    ]
+  },
+  "unstructured_inference-1.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "548514d3d10e7935213bcdf05e1dd7ba2671047e08e7d915e9ed8f5e263a5dec",
+    "dependencies": {
+      "required": [
+        "python-multipart",
+        "huggingface-hub",
+        "numpy",
+        "opencv-python",
+        "onnx",
+        "onnxruntime",
+        "matplotlib",
+        "torch",
+        "timm",
+        "transformers",
+        "accelerate",
+        "rapidfuzz",
+        "pandas",
+        "scipy",
+        "pypdfium2",
+        "pdfminer-six"
+      ]
+    },
+    "original_requirements": [
+      "python-multipart",
+      "huggingface-hub",
+      "numpy",
+      "opencv-python!=4.7.0.68",
+      "onnx",
+      "onnxruntime>=1.18.0",
+      "matplotlib",
+      "torch",
+      "timm",
+      "transformers>=4.25.1",
+      "accelerate",
+      "rapidfuzz",
+      "pandas",
+      "scipy",
+      "pypdfium2",
+      "pdfminer-six"
+    ]
+  },
+  "unstructured_inference-0.8.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bfea8923bb1ad7e94e0a6d0ac8f9c65a8d676f2974def9ccdc982101825d16ef",
+    "dependencies": {
+      "required": [
+        "python-multipart",
+        "huggingface-hub",
+        "numpy",
+        "opencv-python",
+        "onnx",
+        "onnxruntime",
+        "matplotlib",
+        "torch",
+        "timm",
+        "transformers",
+        "rapidfuzz",
+        "pandas",
+        "scipy",
+        "pypdfium2",
+        "pdfminer-six"
+      ]
+    },
+    "original_requirements": [
+      "python-multipart",
+      "huggingface-hub",
+      "numpy",
+      "opencv-python!=4.7.0.68",
+      "onnx",
+      "onnxruntime>=1.18.0",
+      "matplotlib",
+      "torch",
+      "timm",
+      "transformers>=4.25.1",
+      "rapidfuzz",
+      "pandas",
+      "scipy",
+      "pypdfium2",
+      "pdfminer-six"
+    ]
+  }
+}

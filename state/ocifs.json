@@ -1,0 +1,78 @@
+{
+  "ocifs-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b81bbe65405c1f1af3603af867e51c2f7534c4b72d799179a9215afa047c6e10",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "oci",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=0.8.7",
+      "oci>=2.43.1",
+      "requests"
+    ]
+  },
+  "ocifs-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2702cf1574f04f3b9405c7068a111af325409d9332cc010d2cd9e62f99262e62",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "oci",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=0.8.7",
+      "oci>=2.43.1",
+      "requests"
+    ]
+  },
+  "ocifs-1.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "55a96bfd4421f6bebadd11821a934bd5325d8fb51dc71ed56fd164b382c0af4c",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "oci",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=0.8.7",
+      "oci>=2.43.1",
+      "requests"
+    ]
+  },
+  "ocifs-1.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc2d4a97489ab25e491a4dee5702a01a80e3960505cf90839133d9458a52387e",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "oci"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=0.8.7",
+      "oci>=2.43.1"
+    ]
+  },
+  "ocifs-1.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e33d8bef808e393a7aaf3323badaee451af1519a66ca2f6c4f6560b4cd286758",
+    "dependencies": {
+      "required": [
+        "fsspec",
+        "oci"
+      ]
+    },
+    "original_requirements": [
+      "fsspec>=0.8.7",
+      "oci>=2.43.1"
+    ]
+  }
+}

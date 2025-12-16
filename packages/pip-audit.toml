@@ -1,0 +1,12 @@
+# Package configuration for pip-audit
+conda_forge = "pip-audit"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pip_audit-2.10.0-py3-none-any.whl" },
+  { filename = "pip_audit-2.9.0-py3-none-any.whl" },
+  { filename = "pip_audit-2.8.0-py3-none-any.whl" },
+  { filename = "pip_audit-2.7.3-py3-none-any.whl" },
+  { filename = "pip_audit-2.7.2-py3-none-any.whl" },
+]

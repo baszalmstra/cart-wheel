@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_corehaptics-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a3b07d36ddf5c86a9cdaa411ab53d09553d26ea04fc7d4f82d21a84f0fc05fc0",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1"
+    ]
+  },
+  "pyobjc_framework_corehaptics-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b04d1a7895b7c56371971bc87aacbb604bb3778896cab3d81d97caef4e89240a",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0"
+    ]
+  },
+  "pyobjc_framework_corehaptics-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8f8c47ccca5052d07f95d2f35e6e399c5ac1f2072ba9d9eaae902edf4e3a7af4",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1"
+    ]
+  },
+  "pyobjc_framework_CoreHaptics-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ff1d8f58dd3b29287dfad16a60bb45706c91f1910e400b632cb664eb2e56588b",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-Cocoa >=11.0"
+    ]
+  },
+  "pyobjc_framework_CoreHaptics-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7d09397cc514037b628b1d19716c9b750df8077410086e40071991ecc63cbda8",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-Cocoa>=10.3.2"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+# Package configuration for sphinxcontrib-github-alt
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinxcontrib_github_alt-1.2-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_github_alt-1.1-py2.py3-none-any.whl" },
+  { filename = "sphinxcontrib_github_alt-1.0-py2.py3-none-any.whl" },
+]

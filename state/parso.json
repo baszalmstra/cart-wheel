@@ -1,0 +1,69 @@
+{
+  "parso-0.8.5-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "646204b5ee239c396d040b90f9e272e9a8017c630092bf59980beb62fd033887",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == \"testing\"",
+      "docopt; extra == \"testing\"",
+      "flake8==5.0.4; extra == \"qa\"",
+      "mypy==0.971; extra == \"qa\"",
+      "types-setuptools==67.2.0.1; extra == \"qa\""
+    ]
+  },
+  "parso-0.8.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a418670a20291dacd2dddc80c377c5c3791378ee1e8d12bffc35420643d43f18",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "flake8 (==5.0.4) ; extra == 'qa'",
+      "mypy (==0.971) ; extra == 'qa'",
+      "types-setuptools (==67.2.0.1) ; extra == 'qa'",
+      "docopt ; extra == 'testing'",
+      "pytest ; extra == 'testing'"
+    ]
+  },
+  "parso-0.8.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c001d4636cd3aecdaf33cbb40aebb59b094be2a74c556778ef5576c175e19e75",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "flake8 (==3.8.3) ; extra == 'qa'",
+      "mypy (==0.782) ; extra == 'qa'",
+      "docopt ; extra == 'testing'",
+      "pytest (<6.0.0) ; extra == 'testing'"
+    ]
+  },
+  "parso-0.8.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8c4922db71e4fdb90e0d0bc6e50f9b273d3397925e5e60a717e719201778d22",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "flake8 (==3.8.3) ; extra == 'qa'",
+      "mypy (==0.782) ; extra == 'qa'",
+      "docopt ; extra == 'testing'",
+      "pytest (<6.0.0) ; extra == 'testing'"
+    ]
+  },
+  "parso-0.8.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "15b00182f472319383252c18d5913b69269590616c947747bc50bf4ac768f410",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "flake8 (==3.8.3) ; extra == 'qa'",
+      "mypy (==0.782) ; extra == 'qa'",
+      "docopt ; extra == 'testing'",
+      "pytest (<6.0.0) ; extra == 'testing'"
+    ]
+  }
+}

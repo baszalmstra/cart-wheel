@@ -1,0 +1,12 @@
+# Package configuration for coiled
+conda_forge = "coiled"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "coiled-1.129.4-py3-none-any.whl" },
+  { filename = "coiled-1.129.3-py3-none-any.whl" },
+  { filename = "coiled-1.129.2-py3-none-any.whl" },
+  { filename = "coiled-1.129.1-py3-none-any.whl" },
+  { filename = "coiled-1.129.0-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for griffe-typingdoc
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "griffe_typingdoc-0.3.0-py3-none-any.whl" },
+  { filename = "griffe_typingdoc-0.2.9-py3-none-any.whl" },
+  { filename = "griffe_typingdoc-0.2.8-py3-none-any.whl" },
+  { filename = "griffe_typingdoc-0.2.7-py3-none-any.whl" },
+  { filename = "griffe_typingdoc-0.2.6-py3-none-any.whl" },
+]

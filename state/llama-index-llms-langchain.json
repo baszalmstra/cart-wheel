@@ -1,0 +1,72 @@
+{
+  "llama_index_llms_langchain-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eaf9b465d98d30d5a0fa1355d2538cd8d31d37ff78d59109997ad0905cb34ce5",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "langchain>=0.1.7",
+      "llama-index-core<0.15,>=0.13.0"
+    ]
+  },
+  "llama_index_llms_langchain-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a155a8fdabefb61a2ce13a66e0432e6a8cbf395d4d0cc17710aa7ce5f732fd8",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "langchain>=0.1.7",
+      "llama-index-core<0.14,>=0.13.0"
+    ]
+  },
+  "llama_index_llms_langchain-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dff4320c29f1f67d2775ba4727655684e0abf1f80a78c1ad99eac1a5cd17128d",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "langchain (>=0.1.7)",
+      "llama-index-core (>=0.12.0,<0.13.0)"
+    ]
+  },
+  "llama_index_llms_langchain-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f4084572942445e13711d4a65d112d03b838b3cff2a28f1d87dcb541bcf4de2",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "langchain (>=0.1.7)",
+      "llama-index-core (>=0.12.0,<0.13.0)"
+    ]
+  },
+  "llama_index_llms_langchain-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1d4e90782ae2ef9ed088e567d3b00d88a27641c3df0be053c6fd00855510e4bc",
+    "dependencies": {
+      "required": [
+        "langchain",
+        "llama-index-core"
+      ]
+    },
+    "original_requirements": [
+      "langchain (>=0.1.3)",
+      "llama-index-core (>=0.12.0,<0.13.0)"
+    ]
+  }
+}

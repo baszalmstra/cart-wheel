@@ -1,0 +1,12 @@
+# Package configuration for rich
+conda_forge = "rich"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "rich-14.2.0-py3-none-any.whl" },
+  { filename = "rich-14.1.0-py3-none-any.whl" },
+  { filename = "rich-14.0.0-py3-none-any.whl" },
+  { filename = "rich-13.9.4-py3-none-any.whl" },
+  { filename = "rich-13.9.3-py3-none-any.whl" },
+]

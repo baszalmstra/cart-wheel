@@ -1,0 +1,11 @@
+# Package configuration for binaryornot
+conda_forge = "binaryornot"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "binaryornot-0.4.4-py2.py3-none-any.whl" },
+  { filename = "binaryornot-0.4.3-py2.py3-none-any.whl" },
+  { filename = "binaryornot-0.4.2-py2.py3-none-any.whl" },
+  { filename = "binaryornot-0.4.0-py2.py3-none-any.whl" },
+]

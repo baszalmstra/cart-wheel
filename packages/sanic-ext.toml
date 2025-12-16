@@ -1,0 +1,12 @@
+# Package configuration for sanic-ext
+conda_forge = "sanic-ext"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sanic_ext-24.12.0-py3-none-any.whl" },
+  { filename = "sanic_ext-23.12.0-py3-none-any.whl" },
+  { filename = "sanic_ext-23.6.0-py3-none-any.whl" },
+  { filename = "sanic_ext-23.3.0-py3-none-any.whl" },
+  { filename = "sanic_ext-22.12.0-py3-none-any.whl" },
+]

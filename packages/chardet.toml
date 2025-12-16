@@ -1,0 +1,12 @@
+# Package configuration for chardet
+conda_forge = "chardet"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "chardet-5.2.0-py3-none-any.whl" },
+  { filename = "chardet-5.1.0-py3-none-any.whl" },
+  { filename = "chardet-5.0.0-py3-none-any.whl" },
+  { filename = "chardet-4.0.0-py2.py3-none-any.whl" },
+  { filename = "chardet-3.0.4-py2.py3-none-any.whl" },
+]

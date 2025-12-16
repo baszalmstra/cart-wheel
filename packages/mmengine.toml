@@ -1,0 +1,12 @@
+# Package configuration for mmengine
+conda_forge = "mmengine"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mmengine-0.10.7-py3-none-any.whl" },
+  { filename = "mmengine-0.10.6-py3-none-any.whl" },
+  { filename = "mmengine-0.10.5-py3-none-any.whl" },
+  { filename = "mmengine-0.10.4-py3-none-any.whl" },
+  { filename = "mmengine-0.10.3-py3-none-any.whl" },
+]

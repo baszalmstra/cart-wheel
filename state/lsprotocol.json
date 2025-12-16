@@ -1,0 +1,44 @@
+{
+  "lsprotocol-2025.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9d78f25221f2a60eaa4a96d3b4ffae011b107537facee61d3da3313880995c7",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "cattrs"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "cattrs!=23.2.1"
+    ]
+  },
+  "lsprotocol-2023.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c75223c9e4af2f24272b14c6375787438279369236cd568f596d4951052a60f2",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "cattrs"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "cattrs!=23.2.1"
+    ]
+  },
+  "lsprotocol-2023.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e85fc87ee26c816adca9eb497bb3db1a7c79c477a11563626e712eaccf926a05",
+    "dependencies": {
+      "required": [
+        "attrs",
+        "cattrs"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "cattrs"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "pip_requirements_parser-32.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4659bc2a667783e7a15d190f6fccf8b2486685b6dba4c19c3876314769c57526",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pyparsing"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "pyparsing",
+      "Sphinx (>=3.3.1) ; extra == 'docs'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'docs'",
+      "doc8 (>=0.8.1) ; extra == 'docs'",
+      "pytest (!=7.0.0,>=6) ; extra == 'testing'",
+      "pytest-xdist (>=2) ; extra == 'testing'",
+      "aboutcode-toolkit (>=6.0.0) ; extra == 'testing'",
+      "black ; extra == 'testing'"
+    ]
+  },
+  "pip_requirements_parser-32.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa664781e69f82ecefda542d5210aa5b0f6533be95aea39a5453943db09359ed",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging (<22.0.0)",
+      "Sphinx (>=3.3.1) ; extra == 'docs'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'docs'",
+      "doc8 (>=0.8.1) ; extra == 'docs'",
+      "pytest (!=7.0.0,>=6) ; extra == 'testing'",
+      "pytest-xdist (>=2) ; extra == 'testing'",
+      "aboutcode-toolkit (>=6.0.0) ; extra == 'testing'",
+      "black ; extra == 'testing'"
+    ]
+  },
+  "pip_requirements_parser-31.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22fa213a987913385b2484d5698ecfa1d9cf4154978cdf929085548af55355b0",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "Sphinx (>=3.3.1) ; extra == 'docs'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'docs'",
+      "doc8 (>=0.8.1) ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-xdist (>=2) ; extra == 'testing'"
+    ]
+  },
+  "pip_requirements_parser-31.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "54b493455f59e8a29f634cb7b8b2dbb65c0cda8d765c9aec64f0cc6fb3851559",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "Sphinx (>=3.3.1) ; extra == 'docs'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'docs'",
+      "doc8 (>=0.8.1) ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-xdist (>=2) ; extra == 'testing'"
+    ]
+  },
+  "pip_requirements_parser-31.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e7e3270a4ecf5a639b472802d45cd55d123bb2c8b08f35f0adea4f3a77336025",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging",
+      "Sphinx (>=3.3.1) ; extra == 'docs'",
+      "sphinx-rtd-theme (>=0.5.0) ; extra == 'docs'",
+      "doc8 (>=0.8.1) ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-xdist (>=2) ; extra == 'testing'"
+    ]
+  }
+}

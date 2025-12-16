@@ -1,0 +1,12 @@
+# Package configuration for libtmux
+conda_forge = "libtmux"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "libtmux-0.52.1-py3-none-any.whl" },
+  { filename = "libtmux-0.52.0-py3-none-any.whl" },
+  { filename = "libtmux-0.51.0-py3-none-any.whl" },
+  { filename = "libtmux-0.50.1-py3-none-any.whl" },
+  { filename = "libtmux-0.50.0-py3-none-any.whl" },
+]

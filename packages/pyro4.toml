@@ -1,0 +1,12 @@
+# Package configuration for pyro4
+conda_forge = "pyro4"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Pyro4-4.82-py2.py3-none-any.whl" },
+  { filename = "Pyro4-4.81-py2.py3-none-any.whl" },
+  { filename = "Pyro4-4.80-py2.py3-none-any.whl" },
+  { filename = "Pyro4-4.79-py2.py3-none-any.whl" },
+  { filename = "Pyro4-4.78-py2.py3-none-any.whl" },
+]

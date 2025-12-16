@@ -1,0 +1,12 @@
+# Package configuration for ossfs
+conda_forge = "ossfs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ossfs-2025.5.0-py3-none-any.whl" },
+  { filename = "ossfs-2023.12.0-py3-none-any.whl" },
+  { filename = "ossfs-2023.8.0-py3-none-any.whl" },
+  { filename = "ossfs-2023.5.0-py3-none-any.whl" },
+  { filename = "ossfs-2023.4.0-py3-none-any.whl" },
+]

@@ -1,0 +1,9 @@
+# Package configuration for genson
+conda_forge = "genson"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "genson-1.3.0-py3-none-any.whl" },
+  { filename = "genson-0.1.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,72 @@
+{
+  "aiodns-3.6.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:13.218420+00:00",
+    "conda_file": "aiodns-3.6.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pycares"
+      ]
+    },
+    "original_requirements": [
+      "pycares<5,>=4.9.0"
+    ]
+  },
+  "aiodns-3.6.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:13.373350+00:00",
+    "conda_file": "aiodns-3.6.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pycares"
+      ]
+    },
+    "original_requirements": [
+      "pycares>=4.9.0"
+    ]
+  },
+  "aiodns-3.5.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:13.513854+00:00",
+    "conda_file": "aiodns-3.5.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pycares"
+      ]
+    },
+    "original_requirements": [
+      "pycares>=4.9.0"
+    ]
+  },
+  "aiodns-3.4.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:13.677711+00:00",
+    "conda_file": "aiodns-3.4.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pycares"
+      ]
+    },
+    "original_requirements": [
+      "pycares>=4.0.0"
+    ]
+  },
+  "aiodns-3.3.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:13.835188+00:00",
+    "conda_file": "aiodns-3.3.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "pycares"
+      ]
+    },
+    "original_requirements": [
+      "pycares>=4.0.0"
+    ]
+  }
+}

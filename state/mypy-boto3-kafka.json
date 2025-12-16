@@ -1,0 +1,62 @@
+{
+  "mypy_boto3_kafka-1.42.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ba2fc9118ab776e769a97d9c4641507e3be7fdf54394ce61ac7e5bb1023d17fa",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_kafka-1.41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e6fc3ad034fd2ca184f34258d683ac1f46d0b6ae51280312907377b2b17c064",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_kafka-1.40.76-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b1d1f9c88d7aad667799e5b2145574db1f6c864c1acd706790e7310003a9b91",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_kafka-1.40.70-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ca24e7eb816bd004cc6a449879e175dac63a6bdded2618204c934431c2f6e4f",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  },
+  "mypy_boto3_kafka-1.40.54-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d8751f6ad08bb83fa8d483fd59e77886db87fcd4c68250868146d9871fd78187",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

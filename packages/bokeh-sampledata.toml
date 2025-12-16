@@ -1,0 +1,9 @@
+# Package configuration for bokeh-sampledata
+conda_forge = "bokeh_sampledata"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "bokeh_sampledata-2025.0-py3-none-any.whl" },
+  { filename = "bokeh_sampledata-2024.2-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for arize
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "arize-7.51.2-py3-none-any.whl" },
+  { filename = "arize-7.51.1-py3-none-any.whl" },
+  { filename = "arize-7.51.0-py3-none-any.whl" },
+  { filename = "arize-7.50.0-py3-none-any.whl" },
+  { filename = "arize-7.49.3-py3-none-any.whl" },
+]

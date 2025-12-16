@@ -1,0 +1,10 @@
+# Package configuration for pyloudnorm
+conda_forge = "pyloudnorm"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyloudnorm-0.1.1-py3-none-any.whl" },
+  { filename = "pyloudnorm-0.1.0-py3-none-any.whl" },
+  { filename = "pyloudnorm-0.0.1-py3-none-any.whl" },
+]

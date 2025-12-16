@@ -1,0 +1,77 @@
+{
+  "retryrequests-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe58b7ae12020332560616499fe8c1cb078bb274dfac8bb62d56d6fdc547fa3e",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (<3.0.0,>=2.18.4)"
+    ]
+  },
+  "retryrequests-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ea3b344d98a0bca98f102c50b43a89d7a4c11ea2f7c55d445c74d34428473f6",
+    "dependencies": {
+      "required": [
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "requests (<3.0.0,>=2.18.4)"
+    ]
+  },
+  "retryrequests-0.0.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2e7e53a83586be880effa09283b75b024b26edb0e8aff38344876102dbd5a0f2",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "setuptools (>=38.3.0)",
+      "requests (<3.0.0,>=2.18.4)",
+      "twine ; extra == 'build'",
+      "wheel ; extra == 'build'",
+      "releasecmd (<0.1.0,>=0.0.18) ; extra == 'release'"
+    ]
+  },
+  "retryrequests-0.0.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a83c1e69cd631e5214616ccf3bc73fc745208d610369286723d705d52ffb0783",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "setuptools (>=38.3.0)",
+      "requests (<3.0.0,>=2.18.4)",
+      "twine ; extra == 'build'",
+      "wheel ; extra == 'build'",
+      "releasecmd (<0.1.0,>=0.0.18) ; extra == 'release'"
+    ]
+  },
+  "retryrequests-0.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "78ab5adada7adb8bd8dca89f9c88a809ddeae613bbae45b33f825e263745bb3f",
+    "dependencies": {
+      "required": [
+        "setuptools",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "setuptools (>=38.3.0)",
+      "requests (<3.0.0,>=2.21.0)",
+      "twine ; extra == 'build'",
+      "wheel ; extra == 'build'",
+      "releasecmd (<0.1.0,>=0.0.18) ; extra == 'release'"
+    ]
+  }
+}

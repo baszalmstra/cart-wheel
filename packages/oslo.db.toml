@@ -1,0 +1,11 @@
+# Package configuration for oslo.db
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oslo_db-17.4.0-py3-none-any.whl" },
+  { filename = "oslo_db-17.3.0-py3-none-any.whl" },
+  { filename = "oslo.db-17.2.1-py3-none-any.whl" },
+  { filename = "oslo.db-17.2.0-py3-none-any.whl" },
+  { filename = "oslo.db-17.1.0-py3-none-any.whl" },
+]

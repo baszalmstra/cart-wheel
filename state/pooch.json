@@ -1,0 +1,97 @@
+{
+  "pooch-1.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3529a57096f7198778a5ceefd5ac3ef0e4d06a6ddaf9fc2d609b806f25302c47",
+    "dependencies": {
+      "required": [
+        "platformdirs",
+        "packaging",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "platformdirs >=2.5.0",
+      "packaging >=20.0",
+      "requests >=2.19.0",
+      "tqdm <5.0.0,>=4.41.0 ; extra == 'progress'",
+      "paramiko >=2.7.0 ; extra == 'sftp'",
+      "xxhash >=1.4.3 ; extra == 'xxhash'"
+    ]
+  },
+  "pooch-1.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6b56611ac320c239faece1ac51a60b25796792599ce5c0b1bb87bf01df55e0a9",
+    "dependencies": {
+      "required": [
+        "platformdirs",
+        "packaging",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "platformdirs >=2.5.0",
+      "packaging >=20.0",
+      "requests >=2.19.0",
+      "tqdm <5.0.0,>=4.41.0 ; extra == 'progress'",
+      "paramiko >=2.7.0 ; extra == 'sftp'",
+      "xxhash >=1.4.3 ; extra == 'xxhash'"
+    ]
+  },
+  "pooch-1.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1bfba436d9e2ad5199ccad3583cca8c241b8736b5bb23fe67c213d52650dbb66",
+    "dependencies": {
+      "required": [
+        "platformdirs",
+        "packaging",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "platformdirs >=2.5.0",
+      "packaging >=20.0",
+      "requests >=2.19.0",
+      "tqdm <5.0.0,>=4.41.0 ; extra == 'progress'",
+      "paramiko >=2.7.0 ; extra == 'sftp'",
+      "xxhash >=1.4.3 ; extra == 'xxhash'"
+    ]
+  },
+  "pooch-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74258224fc33d58f53113cf955e8d51bf01386b91492927d0d1b6b341a765ad7",
+    "dependencies": {
+      "required": [
+        "platformdirs",
+        "packaging",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "platformdirs (>=2.5.0)",
+      "packaging (>=20.0)",
+      "requests (>=2.19.0)",
+      "tqdm (<5.0.0,>=4.41.0) ; extra == 'progress'",
+      "paramiko (>=2.7.0) ; extra == 'sftp'",
+      "xxhash (>=1.4.3) ; extra == 'xxhash'"
+    ]
+  },
+  "pooch-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3bf0e20027096836b8dbce0152dbb785a269abeb621618eb4bdd275ff1e23c9c",
+    "dependencies": {
+      "required": [
+        "appdirs",
+        "packaging",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "appdirs (>=1.3.0)",
+      "packaging (>=20.0)",
+      "requests (>=2.19.0)",
+      "tqdm (<5.0.0,>=4.41.0) ; extra == 'progress'",
+      "paramiko (>=2.7.0) ; extra == 'sftp'",
+      "xxhash (>=1.4.3) ; extra == 'xxhash'"
+    ]
+  }
+}

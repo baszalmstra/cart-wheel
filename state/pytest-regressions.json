@@ -1,0 +1,157 @@
+{
+  "pytest_regressions-2.8.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "72500dd95bde418c850f290a3108dacb56427067f364f7112cb5b16f6d6cc29c",
+    "dependencies": {
+      "required": [
+        "pytest-datadir",
+        "pytest",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pytest-datadir>=1.7.0",
+      "pytest>=6.2.0",
+      "pyyaml",
+      "matplotlib; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "numpy; extra == \"dev\"",
+      "pandas; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pyarrow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "restructuredtext-lint; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "numpy; extra == \"num\"",
+      "pandas; extra == \"num\"",
+      "pillow; extra == \"image\"",
+      "numpy; extra == \"image\"",
+      "numpy; extra == \"dataframe\"",
+      "pandas; extra == \"dataframe\""
+    ]
+  },
+  "pytest_regressions-2.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a0804c1ce66d8e4d9a3c7c68f42a3d436182edca8e86565c232caeaf9e080fc2",
+    "dependencies": {
+      "required": [
+        "pytest-datadir",
+        "pytest",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pytest-datadir>=1.7.0",
+      "pytest>=6.2.0",
+      "pyyaml",
+      "matplotlib; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "numpy; extra == \"dev\"",
+      "pandas; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pyarrow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "restructuredtext-lint; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "numpy; extra == \"num\"",
+      "pandas; extra == \"num\"",
+      "pillow; extra == \"image\"",
+      "numpy; extra == \"image\"",
+      "numpy; extra == \"dataframe\"",
+      "pandas; extra == \"dataframe\""
+    ]
+  },
+  "pytest_regressions-2.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bcae249df5214225bbe4bd77c146d8f331f19b0b26805486533b1e49680950a5",
+    "dependencies": {
+      "required": [
+        "pytest-datadir",
+        "pytest",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pytest-datadir>=1.7.0",
+      "pytest>=6.2.0",
+      "pyyaml",
+      "matplotlib; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "numpy; extra == \"dev\"",
+      "pandas; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pyarrow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "restructuredtext-lint; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "numpy; extra == \"num\"",
+      "pandas; extra == \"num\"",
+      "pillow; extra == \"image\"",
+      "numpy; extra == \"image\"",
+      "numpy; extra == \"dataframe\"",
+      "pandas; extra == \"dataframe\""
+    ]
+  },
+  "pytest_regressions-2.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2926f37efa5fd6793806b10352e274c5284a5469a845aeab6243e86f9214766f",
+    "dependencies": {
+      "required": [
+        "pytest-datadir",
+        "pytest",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pytest-datadir>=1.7.0",
+      "pytest>=6.2.0",
+      "pyyaml",
+      "matplotlib; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "numpy; extra == \"dev\"",
+      "pandas; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pyarrow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "restructuredtext-lint; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "numpy; extra == \"num\"",
+      "pandas; extra == \"num\"",
+      "pillow; extra == \"image\"",
+      "numpy; extra == \"image\"",
+      "numpy; extra == \"dataframe\"",
+      "pandas; extra == \"dataframe\""
+    ]
+  },
+  "pytest_regressions-2.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "69f5e3f03493cf0ef84d96d23e50a546617c198b1d7746f2e2b9e441cbab4847",
+    "dependencies": {
+      "required": [
+        "pytest-datadir",
+        "pytest",
+        "pyyaml"
+      ]
+    },
+    "original_requirements": [
+      "pytest-datadir>=1.2.0",
+      "pytest>=6.2.0",
+      "pyyaml",
+      "matplotlib; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "numpy; extra == \"dev\"",
+      "pandas; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pyarrow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "restructuredtext-lint; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "numpy; extra == \"num\"",
+      "pandas; extra == \"num\"",
+      "pillow; extra == \"image\"",
+      "numpy; extra == \"image\"",
+      "numpy; extra == \"dataframe\"",
+      "pandas; extra == \"dataframe\""
+    ]
+  }
+}

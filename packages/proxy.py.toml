@@ -1,0 +1,11 @@
+# Package configuration for proxy.py
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "proxy.py-2.4.10-py3-none-any.whl" },
+  { filename = "proxy.py-2.4.9-py3-none-any.whl" },
+  { filename = "proxy.py-2.4.8-py3-none-any.whl" },
+  { filename = "proxy.py-2.4.7-py3-none-any.whl" },
+  { filename = "proxy.py-2.4.5-py3-none-any.whl" },
+]

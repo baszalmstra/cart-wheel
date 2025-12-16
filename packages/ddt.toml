@@ -1,0 +1,12 @@
+# Package configuration for ddt
+conda_forge = "ddt"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ddt-1.7.2-py2.py3-none-any.whl" },
+  { filename = "ddt-1.7.1-py2.py3-none-any.whl" },
+  { filename = "ddt-1.6.0-py2.py3-none-any.whl" },
+  { filename = "ddt-1.5.0-py2.py3-none-any.whl" },
+  { filename = "ddt-1.4.4-py2.py3-none-any.whl" },
+]

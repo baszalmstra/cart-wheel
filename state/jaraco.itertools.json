@@ -1,0 +1,128 @@
+{
+  "jaraco_itertools-6.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d68d67a7261c3f3ac8ed39e8cd48ee93ef1b540e3d2066c76b92f17b61009c5",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "inflect"
+      ]
+    },
+    "original_requirements": [
+      "more_itertools>=4.0.0",
+      "inflect",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "jaraco_itertools-6.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ad08b7366c2a2843b352524a0b55d6523b8ce94ca48dbc38d20fcbf10f06f2c",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "inflect"
+      ]
+    },
+    "original_requirements": [
+      "more_itertools>=4.0.0",
+      "inflect",
+      "pytest!=8.1.*,>=6; extra == \"test\"",
+      "sphinx>=3.5; extra == \"doc\"",
+      "jaraco.packaging>=9.3; extra == \"doc\"",
+      "rst.linker>=1.9; extra == \"doc\"",
+      "furo; extra == \"doc\"",
+      "sphinx-lint; extra == \"doc\"",
+      "pytest-checkdocs>=2.4; extra == \"check\"",
+      "pytest-ruff>=0.2.1; sys_platform != \"cygwin\" and extra == \"check\"",
+      "pytest-cov; extra == \"cover\"",
+      "pytest-enabler>=2.2; extra == \"enabler\"",
+      "pytest-mypy; extra == \"type\""
+    ]
+  },
+  "jaraco.itertools-6.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b978404071b5f72373edef3baf71f1e509f9d3e546a6e67d4bd00b7f988e076",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "inflect"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools (>=4.0.0)",
+      "inflect",
+      "sphinx (>=3.5) ; extra == 'docs'",
+      "jaraco.packaging (>=9.3) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=2.2) ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.itertools-6.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "727ff3f49e2ecc63f3676de07d9bbc886e920eea7390938ea4ec09dfafc54d2b",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "inflect"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools (>=4.0.0)",
+      "inflect",
+      "sphinx (>=3.5) ; extra == 'docs'",
+      "jaraco.packaging (>=9.3) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=2.2) ; extra == 'testing'",
+      "pytest-ruff ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  },
+  "jaraco.itertools-6.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "68b8431b157df6582a618cb6266fba6b19b0ac95078c5690fc5ecd1a8b0cc924",
+    "dependencies": {
+      "required": [
+        "more-itertools",
+        "inflect"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools (>=4.0.0)",
+      "inflect",
+      "sphinx ; extra == 'docs'",
+      "jaraco.packaging (>=9) ; extra == 'docs'",
+      "rst.linker (>=1.9) ; extra == 'docs'",
+      "pytest (>=6) ; extra == 'testing'",
+      "pytest-checkdocs (>=2.4) ; extra == 'testing'",
+      "pytest-flake8 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-enabler (>=1.0.1) ; extra == 'testing'",
+      "pytest-black (>=0.3.7) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'",
+      "pytest-mypy (>=0.9.1) ; (platform_python_implementation != \"PyPy\") and extra == 'testing'"
+    ]
+  }
+}

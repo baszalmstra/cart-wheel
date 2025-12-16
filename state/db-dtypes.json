@@ -1,0 +1,94 @@
+{
+  "db_dtypes-1.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "32c13039982656a8598a0835f25f0e07e34c9a423e471ee60c2553240b7fcf1e",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "numpy",
+        "packaging",
+        "pandas",
+        "pyarrow"
+      ]
+    },
+    "original_requirements": [
+      "numpy<=2.2.6,>=1.24.0; python_version == \"3.10\"",
+      "numpy>=1.24.0; python_version != \"3.10\"",
+      "packaging>=24.2.0",
+      "pandas>=1.5.3",
+      "pyarrow>=13.0.0"
+    ]
+  },
+  "db_dtypes-1.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a1c92b819af947fae1701d80a71f2a0eac08f825ca52cf0c68aeba80577ae966",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "packaging",
+        "pandas",
+        "pyarrow"
+      ]
+    },
+    "original_requirements": [
+      "numpy>=1.24.0",
+      "packaging>=24.2.0",
+      "pandas>=1.5.3",
+      "pyarrow>=13.0.0"
+    ]
+  },
+  "db_dtypes-1.4.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3cd0128c8310a2e9ef249da2353e5cb07c62d8a3ce800c7990f9998eee74582",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pandas",
+        "pyarrow",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=17.0",
+      "pandas>=0.24.2",
+      "pyarrow>=3.0.0",
+      "numpy>=1.16.6"
+    ]
+  },
+  "db_dtypes-1.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84076e2f952174da3eea16c2692409a0d3ef88d27b68c24ee0c9262513fa26d4",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pandas",
+        "pyarrow",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=17.0",
+      "pandas>=0.24.2",
+      "pyarrow>=3.0.0",
+      "numpy>=1.16.6"
+    ]
+  },
+  "db_dtypes-1.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e97eeabced46e77a7eaa634098909f2392b29cae50b1c4900b2d9dc2c3dbf205",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "pandas",
+        "pyarrow",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=17.0",
+      "pandas>=0.24.2",
+      "pyarrow>=3.0.0",
+      "numpy>=1.16.6"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "mlserver_mlflow-1.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4a8620edb6a6e808316db85ada4d23b4aee5f3dc6722c4af7e8457fc9fef9f0b",
+    "dependencies": {
+      "required": [
+        "mlflow",
+        "mlserver"
+      ]
+    },
+    "original_requirements": [
+      "mlflow (>=2.19.0)",
+      "mlserver"
+    ]
+  },
+  "mlserver_mlflow-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1e00de1a0173dace379eef86db994750fd9fd2ce0ff025f0e3451d6996a5d278",
+    "dependencies": {
+      "required": [
+        "mlflow",
+        "mlserver"
+      ]
+    },
+    "original_requirements": [
+      "mlflow",
+      "mlserver"
+    ]
+  },
+  "mlserver_mlflow-1.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "769c2f51c2f11d2bee7818432daa29ad9a71646c8ade35eb1135b4fc23b3d48b",
+    "dependencies": {
+      "required": [
+        "mlflow",
+        "mlserver"
+      ]
+    },
+    "original_requirements": [
+      "mlflow",
+      "mlserver"
+    ]
+  },
+  "mlserver_mlflow-1.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2d767595d7e4d549565f9f8092ca0c1cd545ef3ca536fe3eafa33d907a1641f5",
+    "dependencies": {
+      "required": [
+        "mlflow",
+        "mlserver"
+      ]
+    },
+    "original_requirements": [
+      "mlflow",
+      "mlserver"
+    ]
+  },
+  "mlserver_mlflow-1.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a6d9c56647f0e40db5ff1c245ca2e0d47e727d797a55d1d792529b037501ba3f",
+    "dependencies": {
+      "required": [
+        "mlflow",
+        "mlserver",
+        "pydantic"
+      ]
+    },
+    "original_requirements": [
+      "mlflow",
+      "mlserver",
+      "pydantic (<2.0.0)"
+    ]
+  }
+}

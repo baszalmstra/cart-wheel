@@ -1,0 +1,12 @@
+# Package configuration for neptune-tensorflow-keras
+conda_forge = "neptune-tensorflow-keras"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "neptune_tensorflow_keras-2.2.2-py3-none-any.whl" },
+  { filename = "neptune_tensorflow_keras-2.2.1-py3-none-any.whl" },
+  { filename = "neptune_tensorflow_keras-2.2.0-py3-none-any.whl" },
+  { filename = "neptune_tensorflow_keras-2.1.1-py3-none-any.whl" },
+  { filename = "neptune_tensorflow_keras-2.1.0-py3-none-any.whl" },
+]

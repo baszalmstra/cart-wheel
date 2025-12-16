@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-tasks
+conda_forge = "google-cloud-tasks"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_tasks-2.20.0-py3-none-any.whl" },
+  { filename = "google_cloud_tasks-2.19.3-py3-none-any.whl" },
+  { filename = "google_cloud_tasks-2.19.2-py3-none-any.whl" },
+  { filename = "google_cloud_tasks-2.19.1-py2.py3-none-any.whl" },
+  { filename = "google_cloud_tasks-2.19.0-py2.py3-none-any.whl" },
+]

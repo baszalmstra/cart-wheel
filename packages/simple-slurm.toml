@@ -1,0 +1,12 @@
+# Package configuration for simple-slurm
+conda_forge = "simple_slurm"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "simple_slurm-0.3.6-py3-none-any.whl" },
+  { filename = "simple_slurm-0.3.5-py3-none-any.whl" },
+  { filename = "simple_slurm-0.3.4-py3-none-any.whl" },
+  { filename = "simple_slurm-0.3.3-py3-none-any.whl" },
+  { filename = "simple_slurm-0.3.2-py3-none-any.whl" },
+]

@@ -1,0 +1,156 @@
+{
+  "holoviews-1.22.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f4f0656336035cde1d8103ac6461d7c8ac9a60c4a6d883785cc81f2cc5b8702",
+    "dependencies": {
+      "required": [
+        "bokeh",
+        "colorcet",
+        "narwhals",
+        "numpy",
+        "packaging",
+        "pandas",
+        "panel",
+        "param",
+        "python-dateutil",
+        "pyviz-comms"
+      ]
+    },
+    "original_requirements": [
+      "bokeh>=3.1",
+      "colorcet",
+      "narwhals>=2",
+      "numpy>=1.21",
+      "packaging",
+      "pandas>=1.3",
+      "panel>=1.0",
+      "param<3.0,>=2.0",
+      "python-dateutil>=2.8.2",
+      "pyviz-comms>=2.1",
+      "matplotlib>=3; extra == 'recommended'",
+      "plotly>=4.0; extra == 'recommended'"
+    ]
+  },
+  "holoviews-1.22.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "452f8822c0abb9c8a443d6410d3e6c4c86d8fc7dd5c2ae244ff194a321b1a863",
+    "dependencies": {
+      "required": [
+        "bokeh",
+        "colorcet",
+        "narwhals",
+        "numpy",
+        "packaging",
+        "pandas",
+        "panel",
+        "param",
+        "python-dateutil",
+        "pyviz-comms"
+      ]
+    },
+    "original_requirements": [
+      "bokeh>=3.1",
+      "colorcet",
+      "narwhals>=2",
+      "numpy>=1.21",
+      "packaging",
+      "pandas>=1.3",
+      "panel>=1.0",
+      "param<3.0,>=2.0",
+      "python-dateutil>=2.8.2",
+      "pyviz-comms>=2.1",
+      "matplotlib>=3; extra == 'recommended'",
+      "plotly>=4.0; extra == 'recommended'"
+    ]
+  },
+  "holoviews-1.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74f3c01f35b9e8e2a8d6eb457a7ef05727de2a2a56509d59d7dc0d0409bc91c0",
+    "dependencies": {
+      "required": [
+        "bokeh",
+        "colorcet",
+        "numpy",
+        "packaging",
+        "pandas",
+        "panel",
+        "param",
+        "pyviz-comms"
+      ]
+    },
+    "original_requirements": [
+      "bokeh>=3.1",
+      "colorcet",
+      "numpy>=1.21",
+      "packaging",
+      "pandas>=1.3",
+      "panel>=1.0",
+      "param<3.0,>=2.0",
+      "pyviz-comms>=2.1",
+      "matplotlib>=3; extra == 'recommended'",
+      "plotly>=4.0; extra == 'recommended'"
+    ]
+  },
+  "holoviews-1.20.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1f892c04bc23e8a3a9cde082b606b9463c9ff78c3d0c00e2ddcc41fe6e738458",
+    "dependencies": {
+      "required": [
+        "bokeh",
+        "colorcet",
+        "numpy",
+        "packaging",
+        "pandas",
+        "panel",
+        "param",
+        "pyviz-comms"
+      ]
+    },
+    "original_requirements": [
+      "bokeh>=3.1",
+      "colorcet",
+      "numpy>=1.21",
+      "packaging",
+      "pandas>=1.3",
+      "panel>=1.0",
+      "param<3.0,>=2.0",
+      "pyviz-comms>=2.1",
+      "matplotlib>=3; extra == 'recommended'",
+      "plotly>=4.0; extra == 'recommended'",
+      "pytest; extra == 'tests'",
+      "pytest-asyncio; extra == 'tests'",
+      "pytest-rerunfailures; extra == 'tests'"
+    ]
+  },
+  "holoviews-1.20.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "479b43cacc0f150cf55d3fd51cc019354b42adbb715708d04d8f7aaf5d4466e9",
+    "dependencies": {
+      "required": [
+        "bokeh",
+        "colorcet",
+        "numpy",
+        "packaging",
+        "pandas",
+        "panel",
+        "param",
+        "pyviz-comms"
+      ]
+    },
+    "original_requirements": [
+      "bokeh>=3.1",
+      "colorcet",
+      "numpy>=1.21",
+      "packaging",
+      "pandas>=1.3",
+      "panel>=1.0",
+      "param<3.0,>=2.0",
+      "pyviz-comms>=2.1",
+      "matplotlib>=3; extra == 'recommended'",
+      "plotly>=4.0; extra == 'recommended'",
+      "pytest; extra == 'tests'",
+      "pytest-asyncio; extra == 'tests'",
+      "pytest-rerunfailures; extra == 'tests'"
+    ]
+  }
+}

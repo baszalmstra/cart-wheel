@@ -1,0 +1,12 @@
+# Package configuration for github-activity
+conda_forge = "github-activity"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "github_activity-1.1.1-py3-none-any.whl" },
+  { filename = "github_activity-1.1.0-py3-none-any.whl" },
+  { filename = "github_activity-1.0.3-py3-none-any.whl" },
+  { filename = "github_activity-0.3.0-py3-none-any.whl" },
+  { filename = "github_activity-0.2.0-py3-none-any.whl" },
+]

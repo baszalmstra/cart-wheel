@@ -1,0 +1,12 @@
+# Package configuration for blockbuster
+conda_forge = "python-blockbuster"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "blockbuster-1.5.26-py3-none-any.whl" },
+  { filename = "blockbuster-1.5.25-py3-none-any.whl" },
+  { filename = "blockbuster-1.5.24-py3-none-any.whl" },
+  { filename = "blockbuster-1.5.23-py3-none-any.whl" },
+  { filename = "blockbuster-1.5.22-py3-none-any.whl" },
+]

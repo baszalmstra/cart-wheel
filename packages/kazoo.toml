@@ -1,0 +1,12 @@
+# Package configuration for kazoo
+conda_forge = "kazoo"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kazoo-2.10.0-py2.py3-none-any.whl" },
+  { filename = "kazoo-2.9.0-py2.py3-none-any.whl" },
+  { filename = "kazoo-2.8.0-py2.py3-none-any.whl" },
+  { filename = "kazoo-2.7.0-py2.py3-none-any.whl" },
+  { filename = "kazoo-2.6.1-py2.py3-none-any.whl" },
+]

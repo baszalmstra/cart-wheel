@@ -1,0 +1,12 @@
+# Package configuration for mashumaro
+conda_forge = "mashumaro"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mashumaro-3.17-py3-none-any.whl" },
+  { filename = "mashumaro-3.16-py3-none-any.whl" },
+  { filename = "mashumaro-3.15-py3-none-any.whl" },
+  { filename = "mashumaro-3.14-py3-none-any.whl" },
+  { filename = "mashumaro-3.13.1-py3-none-any.whl" },
+]

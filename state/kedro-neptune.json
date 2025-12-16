@@ -1,0 +1,110 @@
+{
+  "kedro_neptune-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "98a40b899891eba82f040df7b7fa9853051b33c81399cc6e9f5e26ca6156f1a4",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "kedro",
+        "kedro-datasets",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "kedro (>=0.19.0)",
+      "kedro-datasets (>=2.0.0)",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "ruamel.yaml (>=0.17.0,<0.18.0)"
+    ]
+  },
+  "kedro_neptune-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d555e35b2e76d8d8ddc3b22e89af043afb1b41656acc39e21458945bdf1d2e79",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "kedro",
+        "kedro-datasets",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "kedro (>=0.19.0)",
+      "kedro-datasets (>=2.0.0)",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "ruamel.yaml (>=0.17.0,<0.18.0)"
+    ]
+  },
+  "kedro_neptune-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "661229ea824cdb8d3ecfb597c8a47f98f8f1010467f5eff9d2694c751bdcbf66",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "kedro",
+        "kedro-datasets",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "kedro (>=0.19.0)",
+      "kedro-datasets (>=2.0.0)",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "ruamel.yaml (>=0.17.0,<0.18.0)"
+    ]
+  },
+  "kedro_neptune-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd1c292edee23460b899c3174376bba5fdf8f328cdbb366c78b624dc44f7ccaa",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "kedro",
+        "kedro-datasets",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "kedro (>=0.18.5)",
+      "kedro-datasets (>=1.8.0)",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "ruamel.yaml (>=0.17.0,<0.18.0)"
+    ]
+  },
+  "kedro_neptune-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc6d20e3cdc87507199483efe64217ed9bad52040dbbff313bfbfa5436709efd",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "kedro",
+        "ruamel.yaml"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "kedro (>=0.18.0)",
+      "neptune (>=1.0.0) ; extra == \"dev\"",
+      "pre-commit ; extra == \"dev\"",
+      "pytest (>=5.0) ; extra == \"dev\"",
+      "pytest-cov (==2.10.1) ; extra == \"dev\"",
+      "ruamel.yaml (>=0.17.0,<0.18.0)"
+    ]
+  }
+}

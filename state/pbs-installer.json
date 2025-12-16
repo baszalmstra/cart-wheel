@@ -1,0 +1,62 @@
+{
+  "pbs_installer-2025.12.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1cc1977bbb8367bb3ce03a7954f58d6e765e184fd873b73674076f9e8788cd08",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "httpx<1,>=0.27.0; extra == \"download\"",
+      "zstandard>=0.21.0; extra == \"install\"",
+      "pbs-installer[download,install]; extra == \"all\""
+    ]
+  },
+  "pbs_installer-2025.12.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "906cb5346515a0e92ba1d37f4065d9229d6c0675c329e0a455396e01a796be71",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "httpx<1,>=0.27.0; extra == \"download\"",
+      "zstandard>=0.21.0; extra == \"install\"",
+      "pbs-installer[download,install]; extra == \"all\""
+    ]
+  },
+  "pbs_installer-2025.11.20-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5588b40a41b03101514c71cadb37ad75a3476dee43ba5fdaeec699e51ec0e94a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "httpx<1,>=0.27.0; extra == \"download\"",
+      "zstandard>=0.21.0; extra == \"install\"",
+      "pbs-installer[download,install]; extra == \"all\""
+    ]
+  },
+  "pbs_installer-2025.10.31-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f24e8f01f13fee9a203feb62e90c8d204d64d71ad0a3f3abfd69673b02bbc68b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "httpx<1,>=0.27.0; extra == \"download\"",
+      "zstandard>=0.21.0; extra == \"install\"",
+      "pbs-installer[download,install]; extra == \"all\""
+    ]
+  },
+  "pbs_installer-2025.10.28-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "329b0800df9ff8d50c79bfead69b0e05fa5c81d31e7e77377d1c422f94407eda",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "httpx<1,>=0.27.0; extra == \"download\"",
+      "zstandard>=0.21.0; extra == \"install\"",
+      "pbs-installer[download,install]; extra == \"all\""
+    ]
+  }
+}

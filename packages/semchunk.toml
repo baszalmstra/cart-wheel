@@ -1,0 +1,12 @@
+# Package configuration for semchunk
+conda_forge = "semchunk"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "semchunk-3.2.5-py3-none-any.whl" },
+  { filename = "semchunk-3.2.4-py3-none-any.whl" },
+  { filename = "semchunk-3.2.3-py3-none-any.whl" },
+  { filename = "semchunk-3.2.2-py3-none-any.whl" },
+  { filename = "semchunk-3.2.1-py3-none-any.whl" },
+]

@@ -1,0 +1,80 @@
+{
+  "apache_airflow_providers_openai-1.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd14f03b3cf9e1dd765fcb95ab8dd852046775a4e3f5c168c655d357fbc1c29f",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "openai[datalib]>=1.66.0"
+    ]
+  },
+  "apache_airflow_providers_openai-1.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51aa8a15c29ec8108835dfc22a441b2d2d6a32e604c4424b35f0ef8c6ee91c30",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "openai[datalib]>=1.66.0"
+    ]
+  },
+  "apache_airflow_providers_openai-1.6.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1056f16f6973611647da6911d3fe698cfbf10bd5d5ee5ee16c5d6251bb43c525",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "openai[datalib]>=1.66.0"
+    ]
+  },
+  "apache_airflow_providers_openai-1.6.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d4b2d3427c4990251018314be8b16aca312b3fb1d87c6f66096e348954a5187d",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "openai[datalib]>=1.66.0"
+    ]
+  },
+  "apache_airflow_providers_openai-1.6.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c29c38e4a7068c80d8a50a2bd418bba0d38c6bfe3c5d8f963bec7671438d65cc",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "openai[datalib]>=1.66.0"
+    ]
+  }
+}

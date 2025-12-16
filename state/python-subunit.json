@@ -1,0 +1,92 @@
+{
+  "python_subunit-1.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "254f85a144d8c4e62bf02cc53c834d2f36177056353fcd90a60a2745e229cf17",
+    "dependencies": {
+      "required": [
+        "iso8601",
+        "testtools"
+      ]
+    },
+    "original_requirements": [
+      "iso8601",
+      "testtools>=2.7",
+      "docutils; extra == \"docs\"",
+      "fixtures; extra == \"test\"",
+      "hypothesis; extra == \"test\"",
+      "testscenarios; extra == \"test\""
+    ]
+  },
+  "python_subunit-1.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "27b27909cfb20c3aa59add6ff97471afd869daa3c9035ac7ef5eed8dc394f7a5",
+    "dependencies": {
+      "required": [
+        "iso8601",
+        "testtools"
+      ]
+    },
+    "original_requirements": [
+      "iso8601",
+      "testtools (>=0.9.34)",
+      "docutils ; extra == 'docs'",
+      "fixtures ; extra == 'test'",
+      "testscenarios ; extra == 'test'",
+      "hypothesis ; extra == 'test'"
+    ]
+  },
+  "python_subunit-1.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "67bed9d7a923c3010446e821dac170da1b11bd4133e18095fa86c30d09b15006",
+    "dependencies": {
+      "required": [
+        "iso8601",
+        "testtools"
+      ]
+    },
+    "original_requirements": [
+      "iso8601",
+      "testtools (>=0.9.34)",
+      "docutils ; extra == 'docs'",
+      "fixtures ; extra == 'test'",
+      "testscenarios ; extra == 'test'",
+      "hypothesis ; extra == 'test'"
+    ]
+  },
+  "python_subunit-1.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c08d6de7e09bf6ac69dcd8e4e57a247a267d1e786493ba559cfb744747d82c8c",
+    "dependencies": {
+      "required": [
+        "extras",
+        "testtools"
+      ]
+    },
+    "original_requirements": [
+      "extras",
+      "testtools (>=0.9.34)",
+      "docutils ; extra == 'docs'",
+      "fixtures ; extra == 'test'",
+      "testscenarios ; extra == 'test'",
+      "hypothesis ; extra == 'test'"
+    ]
+  },
+  "python_subunit-1.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "840fad67988b43b6fc89495b29f85e3223771e19eec31ea7d74113727fa1925e",
+    "dependencies": {
+      "required": [
+        "extras",
+        "testtools"
+      ]
+    },
+    "original_requirements": [
+      "extras",
+      "testtools (>=0.9.34)",
+      "docutils ; extra == 'docs'",
+      "fixtures ; extra == 'test'",
+      "hypothesis ; extra == 'test'",
+      "testscenarios ; extra == 'test'"
+    ]
+  }
+}

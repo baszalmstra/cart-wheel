@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-workmail
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_workmail-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_workmail-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_workmail-1.40.57-py3-none-any.whl" },
+  { filename = "mypy_boto3_workmail-1.40.22-py3-none-any.whl" },
+  { filename = "mypy_boto3_workmail-1.40.19-py3-none-any.whl" },
+]

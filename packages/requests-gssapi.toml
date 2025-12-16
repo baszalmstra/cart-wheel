@@ -1,0 +1,9 @@
+# Package configuration for requests-gssapi
+conda_forge = "requests-gssapi"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "requests_gssapi-1.4.0-py3-none-any.whl" },
+  { filename = "requests_gssapi-1.3.0-py3-none-any.whl" },
+]

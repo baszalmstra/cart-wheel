@@ -1,0 +1,7 @@
+# Package configuration for control-ldm
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "control_ldm-0.1.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for openinference-semantic-conventions
+conda_forge = "openinference-semantic-conventions"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openinference_semantic_conventions-0.1.25-py3-none-any.whl" },
+  { filename = "openinference_semantic_conventions-0.1.24-py3-none-any.whl" },
+  { filename = "openinference_semantic_conventions-0.1.23-py3-none-any.whl" },
+  { filename = "openinference_semantic_conventions-0.1.22-py3-none-any.whl" },
+  { filename = "openinference_semantic_conventions-0.1.21-py3-none-any.whl" },
+]

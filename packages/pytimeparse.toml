@@ -1,0 +1,12 @@
+# Package configuration for pytimeparse
+conda_forge = "pytimeparse"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytimeparse-1.1.8-py2.py3-none-any.whl" },
+  { filename = "pytimeparse-1.1.7-py2.py3-none-any.whl" },
+  { filename = "pytimeparse-1.1.6-py3-none-any.whl" },
+  { filename = "pytimeparse-1.1.5-py3-none-any.whl" },
+  { filename = "pytimeparse-1.1.4-py3-none-any.whl" },
+]

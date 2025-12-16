@@ -1,0 +1,12 @@
+# Package configuration for parsy
+conda_forge = "parsy"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "parsy-2.2-py3-none-any.whl" },
+  { filename = "parsy-2.1-py3-none-any.whl" },
+  { filename = "parsy-2.0-py2.py3-none-any.whl" },
+  { filename = "parsy-1.4.0-py2.py3-none-any.whl" },
+  { filename = "parsy-1.3.0-py2.py3-none-any.whl" },
+]

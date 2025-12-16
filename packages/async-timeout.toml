@@ -1,0 +1,12 @@
+# Package configuration for async-timeout
+conda_forge = "async-timeout"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "async_timeout-5.0.1-py3-none-any.whl" },
+  { filename = "async_timeout-5.0.0-py3-none-any.whl" },
+  { filename = "async_timeout-4.0.3-py3-none-any.whl" },
+  { filename = "async_timeout-4.0.2-py3-none-any.whl" },
+  { filename = "async_timeout-4.0.1-py3-none-any.whl" },
+]

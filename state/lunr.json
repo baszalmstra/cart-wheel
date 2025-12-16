@@ -1,0 +1,144 @@
+{
+  "lunr-0.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2bc4e08dbb35b32723006bf2edbe6dc1f4f4b95955eea0d23165a184d276ce8",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata; python_version < '3.8'",
+      "typing-extensions; python_version < '3.8'",
+      "black; extra == 'dev'",
+      "build; extra == 'dev'",
+      "coverage; extra == 'dev'",
+      "flake8; extra == 'dev'",
+      "furo; extra == 'dev'",
+      "hatch-fancy-pypi-readme; extra == 'dev'",
+      "ipython; extra == 'dev'",
+      "mypy; extra == 'dev'",
+      "myst-parser; extra == 'dev'",
+      "nltk; extra == 'dev'",
+      "pdbpp; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-benchmark; extra == 'dev'",
+      "pytest-timeout; extra == 'dev'",
+      "sphinx; extra == 'dev'",
+      "sphinx-autobuild; extra == 'dev'",
+      "tox; extra == 'dev'",
+      "twine; extra == 'dev'",
+      "wheel; extra == 'dev'",
+      "furo; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-autobuild; extra == 'docs'",
+      "nltk; extra == 'languages'",
+      "black; extra == 'local'",
+      "build; extra == 'local'",
+      "flake8; extra == 'local'",
+      "hatch-fancy-pypi-readme; extra == 'local'",
+      "ipython; extra == 'local'",
+      "mypy; extra == 'local'",
+      "pdbpp; extra == 'local'",
+      "pytest-benchmark; extra == 'local'",
+      "twine; extra == 'local'",
+      "wheel; extra == 'local'",
+      "coverage; extra == 'tests'",
+      "nltk; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "pytest-timeout; extra == 'tests'",
+      "tox; extra == 'tests'"
+    ]
+  },
+  "lunr-0.7.0.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "77cce585d195d412cff362698799c9571ff3e285fc6bd8816ecbc9ec82dbb368",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata; python_version < '3.8'",
+      "typing-extensions; python_version < '3.8'",
+      "lunr[docs,local,tests]; extra == 'dev'",
+      "furo; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-autobuild; extra == 'docs'",
+      "nltk; extra == 'languages'",
+      "black; extra == 'local'",
+      "build; extra == 'local'",
+      "flake8; extra == 'local'",
+      "hatch-fancy-pypi-readme; extra == 'local'",
+      "ipython; extra == 'local'",
+      "mypy; extra == 'local'",
+      "pdbpp; extra == 'local'",
+      "pytest-benchmark; extra == 'local'",
+      "twine; extra == 'local'",
+      "wheel; extra == 'local'",
+      "coverage; extra == 'tests'",
+      "lunr[languages]; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "pytest-timeout; extra == 'tests'",
+      "tox; extra == 'tests'"
+    ]
+  },
+  "lunr-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a20e37c9394449f8a168fedf6b540b0917f8c1791e16abad85553ebf2b5e9cd",
+    "dependencies": {
+      "required": [
+        "importlib-metadata",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata; python_version < '3.8'",
+      "typing-extensions; python_version < '3.8'",
+      "lunr[docs,local,tests]; extra == 'dev'",
+      "furo; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "sphinx; extra == 'docs'",
+      "sphinx-autobuild; extra == 'docs'",
+      "nltk; extra == 'languages'",
+      "black; extra == 'local'",
+      "build; extra == 'local'",
+      "flake8; extra == 'local'",
+      "ipython; extra == 'local'",
+      "mypy; extra == 'local'",
+      "pdbpp; extra == 'local'",
+      "pytest-benchmark; extra == 'local'",
+      "twine; extra == 'local'",
+      "wheel; extra == 'local'",
+      "coverage; extra == 'tests'",
+      "lunr[languages]; extra == 'tests'",
+      "pytest; extra == 'tests'",
+      "pytest-timeout; extra == 'tests'",
+      "tox; extra == 'tests'"
+    ]
+  },
+  "lunr-0.6.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6fbf619e07ff97c6198f9cae0fc32d69a0d49fb0708c2559efbede45670cba06",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "nltk ; extra == 'languages'"
+    ]
+  },
+  "lunr-0.6.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcdb54613f2961fc4d83d38905efadaf4e820fd6c848c2b193aded9bf69d5def",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "nltk ; extra == 'languages'"
+    ]
+  }
+}

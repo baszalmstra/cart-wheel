@@ -1,0 +1,11 @@
+# Package configuration for keras-nlp
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "keras_nlp-0.24.0-py3-none-any.whl" },
+  { filename = "keras_nlp-0.23.0-py3-none-any.whl" },
+  { filename = "keras_nlp-0.22.2-py3-none-any.whl" },
+  { filename = "keras_nlp-0.22.1-py3-none-any.whl" },
+  { filename = "keras_nlp-0.22.0-py3-none-any.whl" },
+]

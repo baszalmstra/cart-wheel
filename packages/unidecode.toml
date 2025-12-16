@@ -1,0 +1,12 @@
+# Package configuration for unidecode
+conda_forge = "unidecode"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "Unidecode-1.4.0-py3-none-any.whl" },
+  { filename = "Unidecode-1.3.8-py3-none-any.whl" },
+  { filename = "Unidecode-1.3.7-py3-none-any.whl" },
+  { filename = "Unidecode-1.3.6-py3-none-any.whl" },
+  { filename = "Unidecode-1.3.4-py3-none-any.whl" },
+]

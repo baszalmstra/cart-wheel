@@ -1,0 +1,82 @@
+{
+  "livekit_plugins_langchain-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "646682f6eba1097c22e30afb3a4c8c49746d10a7358cc3fb1a7241d44e1f1b97",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langgraph",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.0",
+      "langgraph>=0.3.0",
+      "livekit-agents>=1.3.6"
+    ]
+  },
+  "livekit_plugins_langchain-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b978371b92d0ceb355fd4cc52effae55b62a2a3edd29f87ae049fd0ea1dd99cb",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langgraph",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.0",
+      "langgraph>=0.3.0",
+      "livekit-agents>=1.3.5"
+    ]
+  },
+  "livekit_plugins_langchain-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bbb4696d6f6fec6836bbc6756b0c344b39d99a4017ebc259afa33326e918cf60",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langgraph",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.0",
+      "langgraph>=0.3.0",
+      "livekit-agents>=1.3.4"
+    ]
+  },
+  "livekit_plugins_langchain-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c1e32ea6041d6ff909a414895986b7ba527d79d99f50b94583bebaa219e28d71",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langgraph",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.0",
+      "langgraph>=0.3.0",
+      "livekit-agents>=1.3.3"
+    ]
+  },
+  "livekit_plugins_langchain-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eb1f91658a9bf3bdefa62fcb22dd3b19c58e7caab6b3c8286c43bb4d82701f51",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langgraph",
+        "livekit-agents"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core>=0.3.0",
+      "langgraph>=0.3.0",
+      "livekit-agents>=1.3.2"
+    ]
+  }
+}

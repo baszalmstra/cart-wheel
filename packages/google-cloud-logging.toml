@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-logging
+conda_forge = "google-cloud-logging"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_logging-3.12.1-py2.py3-none-any.whl" },
+  { filename = "google_cloud_logging-3.12.0-py2.py3-none-any.whl" },
+  { filename = "google_cloud_logging-3.11.4-py2.py3-none-any.whl" },
+  { filename = "google_cloud_logging-3.11.3-py2.py3-none-any.whl" },
+  { filename = "google_cloud_logging-3.11.2-py2.py3-none-any.whl" },
+]

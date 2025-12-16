@@ -1,0 +1,12 @@
+# Package configuration for blessed
+conda_forge = "blessed"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "blessed-1.25.0-py3-none-any.whl" },
+  { filename = "blessed-1.24.0-py3-none-any.whl" },
+  { filename = "blessed-1.23.0-py3-none-any.whl" },
+  { filename = "blessed-1.22.0-py2.py3-none-any.whl" },
+  { filename = "blessed-1.21.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for toml
+conda_forge = "toml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "toml-0.10.2-py2.py3-none-any.whl" },
+  { filename = "toml-0.10.1-py2.py3-none-any.whl" },
+  { filename = "toml-0.10.0-py2.py3-none-any.whl" },
+  { filename = "toml-0.9.6-py2.py3-none-any.whl" },
+]

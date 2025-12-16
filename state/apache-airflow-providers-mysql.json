@@ -1,0 +1,131 @@
+{
+  "apache_airflow_providers_mysql-6.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b9ed8a583d33e90f3209bf3e2fa928a2e490c141ca709a3a9f5735a0cecc7fda",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "mysqlclient",
+        "mysql-connector-python",
+        "aiomysql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "mysqlclient>=2.2.5; sys_platform != \"darwin\"",
+      "mysql-connector-python>=9.1.0",
+      "aiomysql>=0.2.0",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "apache-airflow-providers-presto ; extra == \"presto\"",
+      "apache-airflow-providers-trino ; extra == \"trino\"",
+      "apache-airflow-providers-vertica ; extra == \"vertica\""
+    ]
+  },
+  "apache_airflow_providers_mysql-6.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7f226f6bed198df464884301c2d3e98ea5ceb2e4f9bbc47683f3500a55c46daa",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "mysqlclient",
+        "mysql-connector-python",
+        "aiomysql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "mysqlclient>=2.2.5; sys_platform != \"darwin\"",
+      "mysql-connector-python>=9.1.0",
+      "aiomysql>=0.2.0",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "apache-airflow-providers-presto ; extra == \"presto\"",
+      "apache-airflow-providers-trino ; extra == \"trino\"",
+      "apache-airflow-providers-vertica ; extra == \"vertica\""
+    ]
+  },
+  "apache_airflow_providers_mysql-6.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "65849b4e8993c28b6f607d1ea1906ac3815e01e21c560fab7d918db7aeb52765",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "mysqlclient",
+        "mysql-connector-python",
+        "aiomysql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "mysqlclient>=2.2.5; sys_platform != \"darwin\"",
+      "mysql-connector-python>=9.1.0",
+      "aiomysql>=0.2.0",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "apache-airflow-providers-presto ; extra == \"presto\"",
+      "apache-airflow-providers-trino ; extra == \"trino\"",
+      "apache-airflow-providers-vertica ; extra == \"vertica\""
+    ]
+  },
+  "apache_airflow_providers_mysql-6.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "68a3454728b75ff735a21201207bd775ea53ce4f3358f5a534269937b661f771",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "mysqlclient",
+        "mysql-connector-python",
+        "aiomysql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "mysqlclient>=2.2.5; sys_platform != \"darwin\"",
+      "mysql-connector-python>=9.0.0",
+      "aiomysql>=0.2.0",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "apache-airflow-providers-presto ; extra == \"presto\"",
+      "apache-airflow-providers-trino ; extra == \"trino\"",
+      "apache-airflow-providers-vertica ; extra == \"vertica\""
+    ]
+  },
+  "apache_airflow_providers_mysql-6.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2ca20ff426bafa412b55c811f89750b80f90b7a0124758882ab2ab8698b6e09",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-sql",
+        "mysqlclient",
+        "mysql-connector-python",
+        "aiomysql"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-sql>=1.20.0",
+      "mysqlclient>=2.2.5; sys_platform != \"darwin\"",
+      "mysql-connector-python>=9.0.0",
+      "aiomysql>=0.2.0",
+      "apache-airflow-providers-amazon ; extra == \"amazon\"",
+      "apache-airflow-providers-openlineage ; extra == \"openlineage\"",
+      "apache-airflow-providers-presto ; extra == \"presto\"",
+      "apache-airflow-providers-trino ; extra == \"trino\"",
+      "apache-airflow-providers-vertica ; extra == \"vertica\""
+    ]
+  }
+}

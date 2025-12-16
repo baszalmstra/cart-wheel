@@ -1,0 +1,11 @@
+# Package configuration for geographiclib
+conda_forge = "geographiclib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "geographiclib-2.1-py3-none-any.whl" },
+  { filename = "geographiclib-2.0-py3-none-any.whl" },
+  { filename = "geographiclib-1.52-py3-none-any.whl" },
+  { filename = "geographiclib-1.50-py3-none-any.whl" },
+]

@@ -1,0 +1,96 @@
+{
+  "awslogs-0.15.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c147e50ce81b01ac757318a2466e1a11033e30973a798bbb31baa27abb69f31f",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "jmespath",
+        "termcolor",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "boto3 >=1.34.75",
+      "jmespath >=1.0.1",
+      "termcolor >=2.4.0",
+      "python-dateutil >=2.9.0"
+    ]
+  },
+  "awslogs-0.14.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a47d368329679876c90ba9a5391dcdcb6c7fe237768dd1487c54752f835e2e76",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "jmespath",
+        "termcolor",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.5.0)",
+      "jmespath (<1.0.0,>=0.7.1)",
+      "termcolor (>=1.1.0)",
+      "python-dateutil (>=2.4.0)"
+    ]
+  },
+  "awslogs-0.13.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9f2af8c4bd64011ccccd2e3e7b1c9bbf97319ea9ec3ce1bca55dbac156e79c50",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "jmespath",
+        "termcolor",
+        "python-dateutil"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.5.0)",
+      "jmespath (<1.0.0,>=0.7.1)",
+      "termcolor (>=1.1.0)",
+      "python-dateutil (>=2.4.0)"
+    ]
+  },
+  "awslogs-0.11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "274beaafcfa977c992eb53d22a2275a58a83b5c8e74516762ac085f7cd2f2a01",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "jmespath",
+        "termcolor",
+        "python-dateutil",
+        "argparse"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.2.1)",
+      "jmespath (<1.0.0,>=0.7.1)",
+      "termcolor (>=1.1.0)",
+      "python-dateutil (>=2.4.0)",
+      "argparse (>=1.1.0) ; python_version in \"2.4, 2.5, 2.6\""
+    ]
+  },
+  "awslogs-0.10.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "242c45806a7086cc20b9f8461e7b989d51ccf918e65d0c2c904b4f07b5f3c63a",
+    "dependencies": {
+      "required": [
+        "boto3",
+        "jmespath",
+        "termcolor",
+        "python-dateutil",
+        "argparse"
+      ]
+    },
+    "original_requirements": [
+      "boto3 (>=1.2.1)",
+      "jmespath (<1.0.0,>=0.7.1)",
+      "termcolor (>=1.1.0)",
+      "python-dateutil (>=2.4.0)",
+      "argparse (>=1.1.0); python_version in \"2.4, 2.5, 2.6\""
+    ]
+  }
+}

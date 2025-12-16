@@ -1,0 +1,11 @@
+# Package configuration for aws-cdk.aws-iot1click
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aws_cdk.aws_iot1click-1.204.0-py3-none-any.whl" },
+  { filename = "aws_cdk.aws_iot1click-1.203.0-py3-none-any.whl" },
+  { filename = "aws_cdk.aws_iot1click-1.202.0-py3-none-any.whl" },
+  { filename = "aws_cdk.aws_iot1click-1.201.0-py3-none-any.whl" },
+  { filename = "aws_cdk.aws_iot1click-1.200.0-py3-none-any.whl" },
+]

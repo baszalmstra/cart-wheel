@@ -1,0 +1,78 @@
+{
+  "apache_airflow_providers_git-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2735cdef494f87eb1dd7ed323e70c3f428081bd375e100757640702845dd7df8",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "GitPython>=3.1.44"
+    ]
+  },
+  "apache_airflow_providers_git-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e91b68d748ec561a8422a31f4d08cfcdeb374dc4bfbb3cc4bade31a2531200c8",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "GitPython>=3.1.44"
+    ]
+  },
+  "apache_airflow_providers_git-0.0.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bcfcb1ae1b83edb8f55e86b934590b0ddf01592b3285ce76db7970a6196be155",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "GitPython>=3.1.44"
+    ]
+  },
+  "apache_airflow_providers_git-0.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d90abc15ffcc8715fc9399bfc66ea191aff5fa51f40ada82ee82e2cee8c67a78",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.0",
+      "GitPython>=3.1.44"
+    ]
+  },
+  "apache_airflow_providers_git-0.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6c1c7dc4f20d81c15f817f6a69482ccaa068e781054ad7d82cba5292a378f449",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "gitpython"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=3.0.0",
+      "GitPython>=3.1.44"
+    ]
+  }
+}

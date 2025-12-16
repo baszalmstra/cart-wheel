@@ -1,0 +1,96 @@
+{
+  "tensorflow_metadata-1.17.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7da3f8501d6ccfcdbe1a56e975c3624150ce6829048ab9efe62409c362d509b4",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "googleapis-common-protos",
+        "protobuf",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "absl-py<3.0.0,>=0.9",
+      "googleapis-common-protos<2,>=1.56.4; python_version >= \"3.11\"",
+      "protobuf>=4.25.2; python_version >= \"3.11\"",
+      "protobuf<4.22,>=4.21.6; python_version < \"3.11\""
+    ]
+  },
+  "tensorflow_metadata-1.17.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f60d6605a16094c46921ffcf064747ba4b57840adad9fad682e2f28d0bac20eb",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "googleapis-common-protos",
+        "protobuf",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "absl-py<3.0.0,>=0.9",
+      "googleapis-common-protos<2,>=1.56.4; python_version >= \"3.11\"",
+      "protobuf<6.0.0,>=4.25.2; python_version >= \"3.11\"",
+      "protobuf<4.22,>=4.21.6; python_version < \"3.11\""
+    ]
+  },
+  "tensorflow_metadata-1.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19e7fdd79c972830510f2349cb753a3357d1df622985537e9a7992adb53b4fb9",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "googleapis-common-protos",
+        "protobuf",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "absl-py<3.0.0,>=0.9",
+      "googleapis-common-protos<2,>=1.56.4; python_version >= \"3.11\"",
+      "protobuf<6.0.0,>=4.25.2; python_version >= \"3.11\"",
+      "protobuf<4.22,>=4.21.6; python_version < \"3.11\""
+    ]
+  },
+  "tensorflow_metadata-1.16.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2ce72ea31d78a00c0c74c6d465482335aa5cb2a3b2a104dedba0b258bc7bb18a",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "protobuf",
+        "googleapis-common-protos",
+        "googleapis-common-protos",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "absl-py<3.0.0,>=0.9",
+      "protobuf<4.21,>=3.20.3; python_version < \"3.11\"",
+      "googleapis-common-protos<2,>=1.56.4; python_version >= \"3.11\"",
+      "googleapis-common-protos<2,>=1.52.0; python_version >= \"3.11\"",
+      "protobuf<6.0.0dev,>=4.25.2; python_version >= \"3.11\""
+    ]
+  },
+  "tensorflow_metadata-1.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e54c66a3d9874510548411b65b95590a8d77a660c63e4c13cee85e0a00468a70",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "protobuf",
+        "googleapis-common-protos",
+        "googleapis-common-protos",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "absl-py<3.0.0,>=0.9",
+      "protobuf<4.21,>=3.20.3; python_version < \"3.11\"",
+      "googleapis-common-protos<2,>=1.56.4; python_version >= \"3.11\"",
+      "googleapis-common-protos<2,>=1.52.0; python_version >= \"3.11\"",
+      "protobuf<5,>=4.25.2; python_version >= \"3.11\""
+    ]
+  }
+}

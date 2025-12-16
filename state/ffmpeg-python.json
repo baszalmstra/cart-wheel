@@ -1,0 +1,50 @@
+{
+  "ffmpeg_python-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac441a0404e053f8b6a1113a77c0f452f1cfc62f6344a769475ffdc0f56c23c5",
+    "dependencies": {
+      "required": [
+        "future"
+      ]
+    },
+    "original_requirements": [
+      "future",
+      "future (==0.17.1) ; extra == 'dev'",
+      "numpy (==1.16.4) ; extra == 'dev'",
+      "pytest-mock (==1.10.4) ; extra == 'dev'",
+      "pytest (==4.6.1) ; extra == 'dev'",
+      "Sphinx (==2.1.0) ; extra == 'dev'",
+      "tox (==3.12.1) ; extra == 'dev'"
+    ]
+  },
+  "ffmpeg_python-0.1.18-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "975225f9a28e1e728c1950156e430facc5c97d33beb1ef874cf77fee43b2f1fd",
+    "dependencies": {
+      "required": [
+        "future"
+      ]
+    },
+    "original_requirements": [
+      "future",
+      "future (==0.17.1) ; extra == 'dev'",
+      "pytest-mock (==1.10.4) ; extra == 'dev'",
+      "pytest (==4.6.1) ; extra == 'dev'",
+      "Sphinx (==2.1.0) ; extra == 'dev'",
+      "tox (==3.12.1) ; extra == 'dev'",
+      "twine (==1.13.0) ; extra == 'dev'"
+    ]
+  },
+  "ffmpeg_python-0.1.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e160d0fb481e74614f257812da9c53d1188a57e3ee18e6f2852916b5cb1b4901",
+    "dependencies": {
+      "required": [
+        "future"
+      ]
+    },
+    "original_requirements": [
+      "future"
+    ]
+  }
+}

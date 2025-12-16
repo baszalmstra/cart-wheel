@@ -1,0 +1,11 @@
+# Package configuration for docstub
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "docstub-0.6.0-py3-none-any.whl" },
+  { filename = "docstub-0.5.0-py3-none-any.whl" },
+  { filename = "docstub-0.4.0-py3-none-any.whl" },
+  { filename = "docstub-0.3.0.post0-py3-none-any.whl" },
+  { filename = "docstub-0.2.1-py3-none-any.whl" },
+]

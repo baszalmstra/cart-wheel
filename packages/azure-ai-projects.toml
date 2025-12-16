@@ -1,0 +1,7 @@
+# Package configuration for azure-ai-projects
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_ai_projects-1.0.0-py3-none-any.whl" },
+]

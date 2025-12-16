@@ -1,0 +1,8 @@
+# Package configuration for asyncodbc
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "asyncodbc-0.1.1-py3-none-any.whl" },
+  { filename = "asyncodbc-0.1.0-py3-none-any.whl" },
+]

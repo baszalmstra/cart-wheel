@@ -1,0 +1,12 @@
+# Package configuration for robotframework-pythonlibcore
+conda_forge = "robotframework-pythonlibcore"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "robotframework_pythonlibcore-4.4.1-py2.py3-none-any.whl" },
+  { filename = "robotframework_pythonlibcore-4.4.0-py2.py3-none-any.whl" },
+  { filename = "robotframework_pythonlibcore-4.3.0-py2.py3-none-any.whl" },
+  { filename = "robotframework_pythonlibcore-4.2.0-py2.py3-none-any.whl" },
+  { filename = "robotframework_pythonlibcore-4.1.2-py2.py3-none-any.whl" },
+]

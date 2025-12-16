@@ -1,0 +1,11 @@
+# Package configuration for flake8-modern-annotations
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "flake8_modern_annotations-1.6.0-py3-none-any.whl" },
+  { filename = "flake8_modern_annotations-1.5.0-py3-none-any.whl" },
+  { filename = "flake8_modern_annotations-1.4.0-py3-none-any.whl" },
+  { filename = "flake8_modern_annotations-1.3.3-py3-none-any.whl" },
+  { filename = "flake8_modern_annotations-1.3.2-py3-none-any.whl" },
+]

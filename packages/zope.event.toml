@@ -1,0 +1,11 @@
+# Package configuration for zope.event
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "zope_event-6.1-py3-none-any.whl" },
+  { filename = "zope_event-6.0-py3-none-any.whl" },
+  { filename = "zope_event-5.1.1-py3-none-any.whl" },
+  { filename = "zope_event-5.1-py3-none-any.whl" },
+  { filename = "zope.event-5.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for python-semantic-release
+conda_forge = "python-semantic-release"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_semantic_release-10.5.2-py3-none-any.whl" },
+  { filename = "python_semantic_release-10.5.1-py3-none-any.whl" },
+  { filename = "python_semantic_release-10.5.0-py3-none-any.whl" },
+  { filename = "python_semantic_release-10.4.1-py3-none-any.whl" },
+  { filename = "python_semantic_release-10.4.0-py3-none-any.whl" },
+]

@@ -1,0 +1,11 @@
+# Package configuration for tavily-python
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tavily_python-0.7.15-py3-none-any.whl" },
+  { filename = "tavily_python-0.7.14-py3-none-any.whl" },
+  { filename = "tavily_python-0.7.13-py3-none-any.whl" },
+  { filename = "tavily_python-0.7.12-py3-none-any.whl" },
+  { filename = "tavily_python-0.7.11-py3-none-any.whl" },
+]

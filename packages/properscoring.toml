@@ -1,0 +1,8 @@
+# Package configuration for properscoring
+conda_forge = "properscoring"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "properscoring-0.1-py2.py3-none-any.whl" },
+]

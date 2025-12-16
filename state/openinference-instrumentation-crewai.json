@@ -1,0 +1,148 @@
+{
+  "openinference_instrumentation_crewai-0.1.17-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "072b740dd3e0aa512054426808d80ba8bf8626e75149f0fb1ff35848501dd752",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.21",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "crewai>=0.119.0; extra == 'instruments'",
+      "crewai==0.119.0; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "pytest-vcr; extra == 'test'",
+      "responses; extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation_crewai-0.1.16-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8eb19e755cdebb0306365144c47f12b21b7d80758b165ab7f9e3b6c56078899d",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.21",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "crewai>=0.119.0; extra == 'instruments'",
+      "crewai==0.119.0; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "pytest-vcr; extra == 'test'",
+      "responses; extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation_crewai-0.1.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0746cc3a7b8a1a31b337b7781cca4d52242b119a47d6f28cc5b7f42b55660ea",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.21",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "crewai>=0.119.0; extra == 'instruments'",
+      "crewai==0.119.0; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "pytest-vcr; extra == 'test'",
+      "responses; extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation_crewai-0.1.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "46e78843b40be971a0e3f304fb0f21a7622f7a13a167aa993947b540483dfc17",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.21",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "crewai>=0.119.0; extra == 'instruments'",
+      "crewai==0.119.0; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "pytest-vcr; extra == 'test'",
+      "responses; extra == 'test'"
+    ]
+  },
+  "openinference_instrumentation_crewai-0.1.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9689d66f3719623200a02e402e96661291ea00de4eefb97082daea34c005b5d3",
+    "dependencies": {
+      "required": [
+        "openinference-instrumentation",
+        "openinference-semantic-conventions",
+        "opentelemetry-api",
+        "opentelemetry-instrumentation",
+        "opentelemetry-semantic-conventions",
+        "typing-extensions",
+        "wrapt"
+      ]
+    },
+    "original_requirements": [
+      "openinference-instrumentation>=0.1.27",
+      "openinference-semantic-conventions>=0.1.21",
+      "opentelemetry-api",
+      "opentelemetry-instrumentation",
+      "opentelemetry-semantic-conventions",
+      "typing-extensions",
+      "wrapt",
+      "crewai>=0.119.0; extra == 'instruments'",
+      "crewai-tools==0.45.0; extra == 'test'",
+      "crewai==0.119.0; extra == 'test'",
+      "opentelemetry-sdk; extra == 'test'",
+      "pytest-vcr; extra == 'test'",
+      "responses; extra == 'test'"
+    ]
+  }
+}

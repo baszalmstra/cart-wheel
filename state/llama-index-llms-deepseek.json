@@ -1,0 +1,62 @@
+{
+  "llama_index_llms_deepseek-0.2.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81bf01d221a8f4b7a18db518af96219f79fae396e84ab102b9734b94695eebba",
+    "dependencies": {
+      "required": [
+        "llama-index-llms-openai-like"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-llms-openai-like<0.6,>=0.5.0"
+    ]
+  },
+  "llama_index_llms_deepseek-0.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "51d7ad157b8d132d9ed854408189d572eaeb33757e8cf6ec3ce48a16574ba33d",
+    "dependencies": {
+      "required": [
+        "llama-index-llms-openai-like"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-llms-openai-like<0.6,>=0.5.0"
+    ]
+  },
+  "llama_index_llms_deepseek-0.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82ff82847c7b27948898e77e1353f4117e53eed4cb8e31eb71752547184efac5",
+    "dependencies": {
+      "required": [
+        "llama-index-llms-openai-like"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-llms-openai-like<0.5,>=0.4.0"
+    ]
+  },
+  "llama_index_llms_deepseek-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4be26a8c640c15dd666861e0207ae61982d2e55cd7fa3e3c3ecd44a5f6b0d817",
+    "dependencies": {
+      "required": [
+        "llama-index-llms-openai-like"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-llms-openai-like<0.5,>=0.4.0"
+    ]
+  },
+  "llama_index_llms_deepseek-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ae41e7bf87f24da693b9a1cd603113b0f5595e28c8c8eb4b171af6f90a87151",
+    "dependencies": {
+      "required": [
+        "llama-index-llms-openai-like"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-llms-openai-like (>=0.3.3,<0.4.0)"
+    ]
+  }
+}

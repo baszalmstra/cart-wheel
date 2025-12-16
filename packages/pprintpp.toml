@@ -1,0 +1,12 @@
+# Package configuration for pprintpp
+conda_forge = "pprintpp"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pprintpp-0.4.0-py2.py3-none-any.whl" },
+  { filename = "pprintpp-0.3.0-py2.py3-none-any.whl" },
+  { filename = "pprintpp-0.2.3-py2.py3-none-any.whl" },
+  { filename = "pprintpp-0.2.2-py2.py3-none-any.whl" },
+  { filename = "pprintpp-0.2.1-py2.py3-none-any.whl" },
+]

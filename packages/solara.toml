@@ -1,0 +1,12 @@
+# Package configuration for solara
+conda_forge = "solara"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "solara-1.55.1-py3-none-any.whl" },
+  { filename = "solara-1.55.0-py3-none-any.whl" },
+  { filename = "solara-1.54.0-py3-none-any.whl" },
+  { filename = "solara-1.53.0-py3-none-any.whl" },
+  { filename = "solara-1.52.0-py3-none-any.whl" },
+]

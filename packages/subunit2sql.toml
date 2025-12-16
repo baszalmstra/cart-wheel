@@ -1,0 +1,11 @@
+# Package configuration for subunit2sql
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "subunit2sql-1.10.0-py2.py3-none-any.whl" },
+  { filename = "subunit2sql-1.9.0-py2.py3-none-any.whl" },
+  { filename = "subunit2sql-1.8.0-py2.py3-none-any.whl" },
+  { filename = "subunit2sql-1.7.0-py2.py3-none-any.whl" },
+  { filename = "subunit2sql-1.6.0-py2.py3-none-any.whl" },
+]

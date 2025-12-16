@@ -1,0 +1,82 @@
+{
+  "apache_airflow_providers_discord-3.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "be869847930b255c3d3cbf10ade1912a6a5ffa5b63c9cffe814abd2b2c3f16a5",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-http"
+    ]
+  },
+  "apache_airflow_providers_discord-3.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ee573561adc6f4ce9208d2ef928613ec14be29a0d67b82e71bb8276a26769b0",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.0",
+      "apache-airflow-providers-http"
+    ]
+  },
+  "apache_airflow_providers_discord-3.10.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "668ea0944082db5a1e23c26b702ee5f9a093c3d588d8993c91e0f7f39b32764d",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-http"
+    ]
+  },
+  "apache_airflow_providers_discord-3.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a553e4ddd5ec5850283fb2fa426370cbfa4ff0dcbc25ccf59e604f5508e40104",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "apache-airflow-providers-http"
+    ]
+  },
+  "apache_airflow_providers_discord-3.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dae966821495e701d015d1c3d9614088a3c556cf1661146502cc5bf3d52ea618",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.1",
+      "apache-airflow-providers-http"
+    ]
+  }
+}

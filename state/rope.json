@@ -1,0 +1,119 @@
+{
+  "rope-1.14.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "00a7ea8c0c376fc0b053b2f2f8ef3bfb8b50fecf1ebf3eb80e4f8bd7f1941918",
+    "dependencies": {
+      "required": [
+        "pytoolconfig"
+      ]
+    },
+    "original_requirements": [
+      "pytoolconfig[global]>=1.2.2",
+      "pytoolconfig[doc]; extra == \"doc\"",
+      "sphinx>=4.5.0; extra == \"doc\"",
+      "sphinx-autodoc-typehints>=1.18.1; extra == \"doc\"",
+      "sphinx-rtd-theme>=1.0.0; extra == \"doc\"",
+      "pytest>=7.0.1; extra == \"dev\"",
+      "pytest-cov>=4.1.0; extra == \"dev\"",
+      "pytest-timeout>=2.1.0; extra == \"dev\"",
+      "build>=0.7.0; extra == \"dev\"",
+      "pre-commit>=2.20.0; extra == \"dev\"",
+      "toml>=0.10.2; extra == \"release\"",
+      "twine>=4.0.2; extra == \"release\"",
+      "pip-tools>=6.12.1; extra == \"release\""
+    ]
+  },
+  "rope-1.13.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b435a0c0971244fdcd8741676a9fae697ae614c20cc36003678a7782f25c0d6c",
+    "dependencies": {
+      "required": [
+        "pytoolconfig"
+      ]
+    },
+    "original_requirements": [
+      "pytoolconfig[global] >=1.2.2",
+      "pytest >=7.0.1 ; extra == 'dev'",
+      "pytest-cov >=4.1.0 ; extra == 'dev'",
+      "pytest-timeout >=2.1.0 ; extra == 'dev'",
+      "build >=0.7.0 ; extra == 'dev'",
+      "pre-commit >=2.20.0 ; extra == 'dev'",
+      "pytoolconfig[doc] ; extra == 'doc'",
+      "sphinx >=4.5.0 ; extra == 'doc'",
+      "sphinx-autodoc-typehints >=1.18.1 ; extra == 'doc'",
+      "sphinx-rtd-theme >=1.0.0 ; extra == 'doc'",
+      "toml >=0.10.2 ; extra == 'release'",
+      "twine >=4.0.2 ; extra == 'release'",
+      "pip-tools >=6.12.1 ; extra == 'release'"
+    ]
+  },
+  "rope-1.12.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "01f06624159e6b2ec9b94412d519e8877a19eeabe392f469c36f7236df05d443",
+    "dependencies": {
+      "required": [
+        "pytoolconfig"
+      ]
+    },
+    "original_requirements": [
+      "pytoolconfig[global] >=1.2.2",
+      "pytest >=7.0.1 ; extra == 'dev'",
+      "pytest-timeout >=2.1.0 ; extra == 'dev'",
+      "build >=0.7.0 ; extra == 'dev'",
+      "pre-commit >=2.20.0 ; extra == 'dev'",
+      "pytoolconfig[doc] ; extra == 'doc'",
+      "sphinx >=4.5.0 ; extra == 'doc'",
+      "sphinx-autodoc-typehints >=1.18.1 ; extra == 'doc'",
+      "sphinx-rtd-theme >=1.0.0 ; extra == 'doc'",
+      "toml >=0.10.2 ; extra == 'release'",
+      "twine >=4.0.2 ; extra == 'release'",
+      "pip-tools >=6.12.1 ; extra == 'release'"
+    ]
+  },
+  "rope-1.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "62c9028353d1f020653bd1b090d659031539842ede6bd65985f86db3d6430932",
+    "dependencies": {
+      "required": [
+        "pytoolconfig"
+      ]
+    },
+    "original_requirements": [
+      "pytoolconfig[global] >=1.2.2",
+      "pytest >=7.0.1 ; extra == 'dev'",
+      "pytest-timeout >=2.1.0 ; extra == 'dev'",
+      "build >=0.7.0 ; extra == 'dev'",
+      "pre-commit >=2.20.0 ; extra == 'dev'",
+      "pytoolconfig[doc] ; extra == 'doc'",
+      "sphinx >=4.5.0 ; extra == 'doc'",
+      "sphinx-autodoc-typehints >=1.18.1 ; extra == 'doc'",
+      "sphinx-rtd-theme >=1.0.0 ; extra == 'doc'",
+      "toml >=0.10.2 ; extra == 'release'",
+      "twine >=4.0.2 ; extra == 'release'",
+      "pip-tools >=6.12.1 ; extra == 'release'"
+    ]
+  },
+  "rope-1.10.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4e9f06d7296708a8a6518590c49352c99394053d91fde5b1d74c9ffc85c76d5b",
+    "dependencies": {
+      "required": [
+        "pytoolconfig"
+      ]
+    },
+    "original_requirements": [
+      "pytoolconfig[global] >=1.2.2",
+      "pytest >=7.0.1 ; extra == 'dev'",
+      "pytest-timeout >=2.1.0 ; extra == 'dev'",
+      "build >=0.7.0 ; extra == 'dev'",
+      "pre-commit >=2.20.0 ; extra == 'dev'",
+      "pytoolconfig[doc] ; extra == 'doc'",
+      "sphinx >=4.5.0 ; extra == 'doc'",
+      "sphinx-autodoc-typehints >=1.18.1 ; extra == 'doc'",
+      "sphinx-rtd-theme >=1.0.0 ; extra == 'doc'",
+      "toml >=0.10.2 ; extra == 'release'",
+      "twine >=4.0.2 ; extra == 'release'",
+      "pip-tools >=6.12.1 ; extra == 'release'"
+    ]
+  }
+}

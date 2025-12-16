@@ -1,0 +1,109 @@
+{
+  "sphinxcontrib_websupport-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "365b4da67e03cc163dc4752ed44b3c4bc334172c8198102135a7eb7945111229",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "sphinx",
+        "sphinxcontrib-serializinghtml"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "Sphinx>=5",
+      "sphinxcontrib-serializinghtml",
+      "ruff==0.5.5 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-docutils ; extra == \"lint\"",
+      "pytest ; extra == \"test\"",
+      "sqlalchemy ; extra == \"whoosh\"",
+      "whoosh ; extra == \"whoosh\""
+    ]
+  },
+  "sphinxcontrib_websupport-1.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2dc179d7f821ebd54f31f93c894ca52435ebc5364e4e4dfb0da834ac119d51fd",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "sphinx",
+        "sphinxcontrib-serializinghtml"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "Sphinx>=5",
+      "sphinxcontrib-serializinghtml",
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "pytest ; extra == \"test\"",
+      "sqlalchemy ; extra == \"whoosh\"",
+      "whoosh ; extra == \"whoosh\""
+    ]
+  },
+  "sphinxcontrib_websupport-1.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c43c2031b93799ad688c2af233e330740768adc57c02746d5ec197e815b9469e",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "sphinx",
+        "sphinxcontrib-serializinghtml"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "Sphinx>=5",
+      "sphinxcontrib-serializinghtml",
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "pytest ; extra == \"test\"",
+      "sqlalchemy ; extra == \"test\"",
+      "whoosh ; extra == \"test\"",
+      "greenlet>=3.0.0a1 ; extra == \"test\" and ( python_version >= '3.12')"
+    ]
+  },
+  "sphinxcontrib_websupport-1.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e438d4bb72b4536c135768bfd88495fa43ad4e71b107df362d97cb8a6a30de00",
+    "dependencies": {
+      "required": [
+        "jinja2",
+        "sphinx",
+        "sphinxcontrib-serializinghtml"
+      ]
+    },
+    "original_requirements": [
+      "jinja2",
+      "Sphinx>=5",
+      "sphinxcontrib-serializinghtml",
+      "flake8 ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "docutils-stubs ; extra == \"lint\"",
+      "pytest ; extra == \"test\"",
+      "sqlalchemy ; extra == \"test\"",
+      "whoosh ; extra == \"test\"",
+      "greenlet>=3.0.0a1 ; extra == \"test\" and ( python_version >= '3.12')"
+    ]
+  },
+  "sphinxcontrib_websupport-1.2.4-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6fc9287dfc823fe9aa432463edd6cea47fa9ebbf488d7f289b322ffcfca075c7",
+    "dependencies": {
+      "required": [
+        "sphinxcontrib-serializinghtml"
+      ]
+    },
+    "original_requirements": [
+      "sphinxcontrib-serializinghtml",
+      "flake8 ; extra == 'lint'",
+      "pytest ; extra == 'test'",
+      "sqlalchemy ; extra == 'test'",
+      "whoosh ; extra == 'test'",
+      "Sphinx ; extra == 'test'"
+    ]
+  }
+}

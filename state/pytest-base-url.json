@@ -1,0 +1,77 @@
+{
+  "pytest_base_url-2.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3ad15611778764d451927b2a53240c1a7a591b521ea44cebfe45849d2d2812e6",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7.0.0",
+      "requests>=2.9",
+      "black>=22.1.0; extra == 'test'",
+      "flake8>=4.0.1; extra == 'test'",
+      "pre-commit>=2.17.0; extra == 'test'",
+      "pytest-localserver>=0.7.1; extra == 'test'",
+      "tox>=3.24.5; extra == 'test'"
+    ]
+  },
+  "pytest_base_url-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed36fd632c32af9f1c08f2c2835dcf42ca8fcd097d6ed44a09f253d365ad8297",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=3.0.0,<8.0.0)",
+      "requests (>=2.9)"
+    ]
+  },
+  "pytest_base_url-1.4.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8b6523a1a3af73c317bdae97b722dfb55a7336733d1ad411eb4a4931347ba77a",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.7.3)",
+      "requests (>=2.9)"
+    ]
+  },
+  "pytest_base_url-1.4.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "31e42366a5fc22f450b398837dc819bb7569f5e6bd5d74e494b2b9ec239876d1",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.7.3)",
+      "requests (>=2.9)"
+    ]
+  },
+  "pytest_base_url-1.4.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "580f010db979cb412fefdbe4b4e3978f30bbd726e4c2ff911c63bf4d06936a69",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "pytest (>=2.7.3)",
+      "requests"
+    ]
+  }
+}

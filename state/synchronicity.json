@@ -1,0 +1,69 @@
+{
+  "synchronicity-0.10.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8bcdbfe6f9456ddcfcb267e0ca853c3b7650f129acf3abae4af45caf85d66d16",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.12.2",
+      "sigtools>=4.0.1; extra == 'compile'"
+    ]
+  },
+  "synchronicity-0.10.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0e3f00b2123cf2a77a8bb3b65fbeccad04adea682bfbd50c01637b75a168c73b",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.12.2",
+      "sigtools>=4.0.1; extra == 'compile'"
+    ]
+  },
+  "synchronicity-0.10.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2b6a24176bebc7ec57711bd9786f1e631361652d8b535a46273577bc5deef9d",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions>=4.12.2",
+      "sigtools>=4.0.1; extra == 'compile'"
+    ]
+  },
+  "synchronicity-0.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ba1f8c02ca582ef068033300201e3c403e08d81e42553554f4e67b27f0d9bb1",
+    "dependencies": {
+      "required": [
+        "sigtools",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "sigtools>=4.0.1",
+      "typing-extensions>=4.12.2"
+    ]
+  },
+  "synchronicity-0.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "af9c077586cf4895aea88fe9104d966f50b8fac730f79117383591acb5489952",
+    "dependencies": {
+      "required": [
+        "sigtools",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "sigtools>=4.0.1",
+      "typing-extensions>=4.12.2"
+    ]
+  }
+}

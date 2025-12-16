@@ -1,0 +1,12 @@
+# Package configuration for google-cloud-container
+conda_forge = "google-cloud-container"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_container-2.61.0-py3-none-any.whl" },
+  { filename = "google_cloud_container-2.60.0-py3-none-any.whl" },
+  { filename = "google_cloud_container-2.59.0-py3-none-any.whl" },
+  { filename = "google_cloud_container-2.58.0-py3-none-any.whl" },
+  { filename = "google_cloud_container-2.57.0-py3-none-any.whl" },
+]

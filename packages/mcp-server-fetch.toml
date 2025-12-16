@@ -1,0 +1,12 @@
+# Package configuration for mcp-server-fetch
+conda_forge = "mcp-server-fetch"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mcp_server_fetch-2025.4.7-py3-none-any.whl" },
+  { filename = "mcp_server_fetch-2025.1.17-py3-none-any.whl" },
+  { filename = "mcp_server_fetch-2025.1.16-py3-none-any.whl" },
+  { filename = "mcp_server_fetch-2025.1.14-py3-none-any.whl" },
+  { filename = "mcp_server_fetch-0.6.2-py3-none-any.whl" },
+]

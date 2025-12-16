@@ -1,0 +1,12 @@
+# Package configuration for stdlibs
+conda_forge = "stdlibs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "stdlibs-2025.10.28-py3-none-any.whl" },
+  { filename = "stdlibs-2025.5.10-py3-none-any.whl" },
+  { filename = "stdlibs-2025.4.4-py3-none-any.whl" },
+  { filename = "stdlibs-2024.12.3-py3-none-any.whl" },
+  { filename = "stdlibs-2024.10.25-py3-none-any.whl" },
+]

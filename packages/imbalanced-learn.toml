@@ -1,0 +1,12 @@
+# Package configuration for imbalanced-learn
+conda_forge = "imbalanced-learn"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "imbalanced_learn-0.14.0-py3-none-any.whl" },
+  { filename = "imbalanced_learn-0.13.0-py3-none-any.whl" },
+  { filename = "imbalanced_learn-0.12.4-py3-none-any.whl" },
+  { filename = "imbalanced_learn-0.12.3-py3-none-any.whl" },
+  { filename = "imbalanced_learn-0.12.2-py3-none-any.whl" },
+]

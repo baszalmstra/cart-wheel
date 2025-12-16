@@ -1,0 +1,7 @@
+# Package configuration for videofeatures-clipit
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "videofeatures_clipit-0.1.0-py3-none-any.whl" },
+]

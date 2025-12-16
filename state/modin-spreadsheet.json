@@ -1,0 +1,56 @@
+{
+  "modin_spreadsheet-0.1.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "43729fe9367147eed6e39ab01bfbb868da9f071a7b1e5afb97f1c8764767fb2b",
+    "dependencies": {
+      "required": [
+        "jupyter",
+        "notebook",
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "jupyter (>=1.0.0)",
+      "notebook (>=6.0.3)",
+      "ipywidgets (>=7.0.0)",
+      "pytest (>=2.8.5) ; extra == 'test'",
+      "flake8 (>=3.6.0) ; extra == 'test'"
+    ]
+  },
+  "modin_spreadsheet-0.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c1e1c29f6a04194ebcfc573873171143d11c2120fceb4d4cead78cf52309ab52",
+    "dependencies": {
+      "required": [
+        "jupyter",
+        "notebook",
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "jupyter (>=1.0.0)",
+      "notebook (>=6.0.3)",
+      "ipywidgets (>=7.0.0)",
+      "pytest (>=2.8.5) ; extra == 'test'",
+      "flake8 (>=3.6.0) ; extra == 'test'"
+    ]
+  },
+  "modin_spreadsheet-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1064584b57134b3992a7a6ea2a9f93f7a29712bfaf66f21d071eea5115167c6b",
+    "dependencies": {
+      "required": [
+        "notebook",
+        "pandas",
+        "ipywidgets"
+      ]
+    },
+    "original_requirements": [
+      "notebook (>=4.0.0)",
+      "pandas (>=0.18.0)",
+      "ipywidgets (>=7.0.0)",
+      "pytest (>=2.8.5) ; extra == 'test'",
+      "flake8 (>=3.6.0) ; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for pypandoc
+conda_forge = "pypandoc"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pypandoc-1.16.2-py3-none-any.whl" },
+  { filename = "pypandoc-1.16-py3-none-any.whl" },
+  { filename = "pypandoc-1.15-py3-none-any.whl" },
+  { filename = "pypandoc-1.14-py3-none-any.whl" },
+  { filename = "pypandoc-1.13-py3-none-any.whl" },
+]

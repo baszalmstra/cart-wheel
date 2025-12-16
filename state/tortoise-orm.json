@@ -1,0 +1,132 @@
+{
+  "tortoise_orm-0.25.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df0ef7e06eb0650a7e5074399a51ee6e532043308c612db2cac3882486a3fd9f",
+    "dependencies": {
+      "required": [
+        "aiosqlite",
+        "iso8601",
+        "pypika-tortoise",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "aiomysql ; extra == \"aiomysql\"",
+      "aiosqlite (>=0.16.0,<1.0.0)",
+      "asyncmy (>=0.2.8,<1.0.0) ; (python_version < \"4.0\") and (extra == \"asyncmy\")",
+      "asyncodbc (>=0.1.1,<1.0.0) ; (python_version < \"4.0\") and (extra == \"asyncodbc\")",
+      "asyncpg ; extra == \"asyncpg\"",
+      "ciso8601 ; (sys_platform != \"win32\" and implementation_name == \"cpython\") and (extra == \"accel\")",
+      "iso8601 (>=2.1.0,<3.0.0) ; python_version < \"4.0\"",
+      "orjson ; extra == \"accel\"",
+      "psycopg[binary,pool] (>=3.0.12,<4.0.0) ; extra == \"psycopg\"",
+      "pypika-tortoise (>=0.6.1,<1.0.0) ; python_version < \"4.0\"",
+      "pytz",
+      "uvloop ; (sys_platform != \"win32\" and implementation_name == \"cpython\") and (extra == \"accel\")"
+    ]
+  },
+  "tortoise_orm-0.25.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b853acae52bc309800ec2954f3e261746cdac7e6b0e0a96ba20393dcb100a357",
+    "dependencies": {
+      "required": [
+        "aiosqlite",
+        "iso8601",
+        "pypika-tortoise",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "aiomysql ; extra == \"aiomysql\"",
+      "aiosqlite (>=0.16.0,<1.0.0)",
+      "asyncmy (>=0.2.8,<1.0.0) ; (python_version < \"4.0\") and (extra == \"asyncmy\")",
+      "asyncodbc (>=0.1.1,<1.0.0) ; (python_version < \"4.0\") and (extra == \"asyncodbc\")",
+      "asyncpg ; extra == \"asyncpg\"",
+      "ciso8601 ; (sys_platform != \"win32\" and implementation_name == \"cpython\") and (extra == \"accel\")",
+      "iso8601 (>=2.1.0,<3.0.0) ; python_version < \"4.0\"",
+      "orjson ; extra == \"accel\"",
+      "psycopg[binary,pool] (>=3.0.12,<4.0.0) ; extra == \"psycopg\"",
+      "pypika-tortoise (>=0.5.0,<1.0.0) ; python_version < \"4.0\"",
+      "pytz",
+      "uvloop ; (sys_platform != \"win32\" and implementation_name == \"cpython\") and (extra == \"accel\")"
+    ]
+  },
+  "tortoise_orm-0.24.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d2381b26f48bd2f5c5d978ddf9bb40b2b81b2dbb78dab6a17882a156de8b5c62",
+    "dependencies": {
+      "required": [
+        "aiosqlite",
+        "iso8601",
+        "pypika-tortoise",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "aiomysql ; extra == \"aiomysql\"",
+      "aiosqlite (>=0.16.0,<1.0.0)",
+      "asyncmy (>=0.2.8,<1.0.0) ; (python_version < \"4.0\") and (extra == \"asyncmy\")",
+      "asyncodbc (>=0.1.1,<1.0.0) ; (python_version < \"4.0\") and (extra == \"asyncodbc\")",
+      "asyncpg ; extra == \"asyncpg\"",
+      "ciso8601 ; (sys_platform != \"win32\" and implementation_name == \"cpython\") and (extra == \"accel\")",
+      "iso8601 (>=2.1.0,<3.0.0) ; python_version < \"4.0\"",
+      "orjson ; extra == \"accel\"",
+      "psycopg[binary,pool] (>=3.0.12,<4.0.0) ; extra == \"psycopg\"",
+      "pypika-tortoise (>=0.5.0,<1.0.0) ; python_version < \"4.0\"",
+      "pytz",
+      "uvloop ; (sys_platform != \"win32\" and implementation_name == \"cpython\") and (extra == \"accel\")"
+    ]
+  },
+  "tortoise_orm-0.24.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5ad15c516178cd5997c0f052207bb28d72e91abcae5eb039e1da1c3d24c5ae99",
+    "dependencies": {
+      "required": [
+        "aiosqlite",
+        "iso8601",
+        "pypika-tortoise",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "aiomysql ; extra == \"aiomysql\"",
+      "aiosqlite (>=0.16.0,<0.21.0)",
+      "asyncmy (>=0.2.8,<0.3.0) ; extra == \"asyncmy\"",
+      "asyncodbc (>=0.1.1,<0.2.0) ; extra == \"asyncodbc\"",
+      "asyncpg ; extra == \"asyncpg\"",
+      "ciso8601 ; (sys_platform != \"win32\" and implementation_name == \"cpython\") and (extra == \"accel\")",
+      "iso8601 (>=2.1.0,<3.0.0)",
+      "orjson ; extra == \"accel\"",
+      "psycopg[binary,pool] (>=3.0.12,<4.0.0) ; extra == \"psycopg\"",
+      "pypika-tortoise (>=0.5.0,<0.6.0)",
+      "pytz",
+      "uvloop ; (sys_platform != \"win32\" and implementation_name == \"cpython\") and (extra == \"accel\")"
+    ]
+  },
+  "tortoise_orm-0.24.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ee3b72b226767293b24c5c4906ae5f027d7cc84496cd503352c918564b4fd687",
+    "dependencies": {
+      "required": [
+        "aiosqlite",
+        "iso8601",
+        "pypika-tortoise",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "aiomysql ; extra == \"aiomysql\"",
+      "aiosqlite (>=0.16.0,<0.21.0)",
+      "asyncmy (>=0.2.8,<0.3.0) ; extra == \"asyncmy\"",
+      "asyncodbc (>=0.1.1,<0.2.0) ; extra == \"asyncodbc\"",
+      "asyncpg ; extra == \"asyncpg\"",
+      "ciso8601 ; (sys_platform != \"win32\" and implementation_name == \"cpython\") and (extra == \"accel\")",
+      "iso8601 (>=2.1.0,<3.0.0)",
+      "orjson ; extra == \"accel\"",
+      "psycopg[binary,pool] (>=3.0.12,<4.0.0) ; extra == \"psycopg\"",
+      "pypika-tortoise (>=0.5.0,<0.6.0)",
+      "pytz",
+      "uvloop ; (sys_platform != \"win32\" and implementation_name == \"cpython\") and (extra == \"accel\")"
+    ]
+  }
+}

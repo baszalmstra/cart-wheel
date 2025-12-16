@@ -1,0 +1,122 @@
+{
+  "xmlschema-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82d24a50eea5e7f2d603312813848cd66fddf8fa2b6730839c6aa3d66312e3b6",
+    "dependencies": {
+      "required": [
+        "elementpath"
+      ]
+    },
+    "original_requirements": [
+      "elementpath<6.0.0,>=5.0.1",
+      "jinja2; extra == \"codegen\"",
+      "coverage; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "lxml; extra == \"dev\"",
+      "lxml-stubs; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "psutil; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "xmlschema[docs]; extra == \"dev\"",
+      "jinja2; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\""
+    ]
+  },
+  "xmlschema-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eabf610f398a58700bc4ac94380ad9ce558297a3f9ca8b7722ed3f7888eb4498",
+    "dependencies": {
+      "required": [
+        "elementpath"
+      ]
+    },
+    "original_requirements": [
+      "elementpath<6.0.0,>=5.0.1",
+      "jinja2; extra == \"codegen\"",
+      "coverage; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "lxml; extra == \"dev\"",
+      "lxml-stubs; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "psutil; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "xmlschema[docs]; extra == \"dev\"",
+      "jinja2; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\""
+    ]
+  },
+  "xmlschema-4.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cf94d3380c5005fc027532ec4760b4bec414d6b4ead425285fa5bf8eb6c515c6",
+    "dependencies": {
+      "required": [
+        "elementpath"
+      ]
+    },
+    "original_requirements": [
+      "elementpath<6.0.0,>=4.8.0",
+      "jinja2; extra == \"codegen\"",
+      "coverage; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "lxml; extra == \"dev\"",
+      "lxml-stubs; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "psutil; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "xmlschema[docs]; extra == \"dev\"",
+      "jinja2; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\""
+    ]
+  },
+  "xmlschema-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "81d31525cfab6054cbafa2849f33c99fa46c8c8ddf5e03e2d4ecb7a6573eca76",
+    "dependencies": {
+      "required": [
+        "elementpath"
+      ]
+    },
+    "original_requirements": [
+      "elementpath<6.0.0,>=4.8.0",
+      "jinja2; extra == \"codegen\"",
+      "coverage; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "lxml; extra == \"dev\"",
+      "lxml-stubs; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "psutil; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "xmlschema[docs]; extra == \"dev\"",
+      "jinja2; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\""
+    ]
+  },
+  "xmlschema-3.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c91a2fca387dc4e8a2f2cb4a411ed23bef9da539968e5d858a3fe7f76a65464e",
+    "dependencies": {
+      "required": [
+        "elementpath"
+      ]
+    },
+    "original_requirements": [
+      "elementpath<5.0.0,>=4.4.0",
+      "jinja2; extra == \"codegen\"",
+      "coverage; extra == \"dev\"",
+      "flake8; extra == \"dev\"",
+      "lxml; extra == \"dev\"",
+      "lxml-stubs; extra == \"dev\"",
+      "memory_profiler; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "tox; extra == \"dev\"",
+      "xmlschema[docs]; extra == \"dev\"",
+      "jinja2; extra == \"docs\"",
+      "sphinx; extra == \"docs\"",
+      "sphinx_rtd_theme; extra == \"docs\""
+    ]
+  }
+}

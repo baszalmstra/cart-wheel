@@ -1,0 +1,11 @@
+# Package configuration for toonify
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "toonify-1.5.1-py3-none-any.whl" },
+  { filename = "toonify-1.5.0-py3-none-any.whl" },
+  { filename = "toonify-1.4.0-py3-none-any.whl" },
+  { filename = "toonify-1.3.0-py3-none-any.whl" },
+  { filename = "toonify-1.2.0-py3-none-any.whl" },
+]

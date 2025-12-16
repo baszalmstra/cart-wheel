@@ -1,0 +1,11 @@
+# Package configuration for google-cloud-discoveryengine
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_cloud_discoveryengine-0.15.0-py3-none-any.whl" },
+  { filename = "google_cloud_discoveryengine-0.14.0-py3-none-any.whl" },
+  { filename = "google_cloud_discoveryengine-0.13.12-py3-none-any.whl" },
+  { filename = "google_cloud_discoveryengine-0.13.11-py3-none-any.whl" },
+  { filename = "google_cloud_discoveryengine-0.13.10-py3-none-any.whl" },
+]

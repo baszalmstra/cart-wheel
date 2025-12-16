@@ -1,0 +1,11 @@
+# Package configuration for jaraco.packaging
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaraco.packaging-10.2.3-py3-none-any.whl" },
+  { filename = "jaraco.packaging-10.2.2-py3-none-any.whl" },
+  { filename = "jaraco.packaging-10.2.1-py3-none-any.whl" },
+  { filename = "jaraco.packaging-10.2.0-py3-none-any.whl" },
+  { filename = "jaraco.packaging-10.1.0-py3-none-any.whl" },
+]

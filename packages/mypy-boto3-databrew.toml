@@ -1,0 +1,11 @@
+# Package configuration for mypy-boto3-databrew
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mypy_boto3_databrew-1.42.3-py3-none-any.whl" },
+  { filename = "mypy_boto3_databrew-1.41.0-py3-none-any.whl" },
+  { filename = "mypy_boto3_databrew-1.40.54-py3-none-any.whl" },
+  { filename = "mypy_boto3_databrew-1.40.20-py3-none-any.whl" },
+  { filename = "mypy_boto3_databrew-1.40.0-py3-none-any.whl" },
+]

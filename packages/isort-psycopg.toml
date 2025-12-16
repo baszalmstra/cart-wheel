@@ -1,0 +1,8 @@
+# Package configuration for isort-psycopg
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "isort_psycopg-0.0.2-py3-none-any.whl" },
+  { filename = "isort_psycopg-0.0.1-py3-none-any.whl" },
+]

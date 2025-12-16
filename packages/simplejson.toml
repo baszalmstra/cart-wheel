@@ -1,0 +1,12 @@
+# Package configuration for simplejson
+conda_forge = "simplejson"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "simplejson-3.20.2-py3-none-any.whl" },
+  { filename = "simplejson-3.20.1-py3-none-any.whl" },
+  { filename = "simplejson-3.19.3-py3-none-any.whl" },
+  { filename = "simplejson-3.19.2-py3-none-any.whl" },
+  { filename = "simplejson-3.19.1-py3-none-any.whl" },
+]

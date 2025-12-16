@@ -1,0 +1,12 @@
+# Package configuration for azure-datalake-store
+conda_forge = "azure-datalake-store"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_datalake_store-1.0.1-py2.py3-none-any.whl" },
+  { filename = "azure_datalake_store-0.0.53-py2.py3-none-any.whl" },
+  { filename = "azure_datalake_store-0.0.52-py2.py3-none-any.whl" },
+  { filename = "azure_datalake_store-0.0.51-py2.py3-none-any.whl" },
+  { filename = "azure_datalake_store-0.0.50-py2.py3-none-any.whl" },
+]

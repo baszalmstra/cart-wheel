@@ -1,0 +1,12 @@
+# Package configuration for crawl4ai
+conda_forge = "crawl4ai"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "crawl4ai-0.7.8-py3-none-any.whl" },
+  { filename = "crawl4ai-0.7.7-py3-none-any.whl" },
+  { filename = "crawl4ai-0.7.6-py3-none-any.whl" },
+  { filename = "crawl4ai-0.7.5-py3-none-any.whl" },
+  { filename = "crawl4ai-0.7.4-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for pytest-cov
+conda_forge = "pytest-cov"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_cov-7.0.0-py3-none-any.whl" },
+  { filename = "pytest_cov-6.3.0-py3-none-any.whl" },
+  { filename = "pytest_cov-6.2.1-py3-none-any.whl" },
+  { filename = "pytest_cov-6.2.0-py3-none-any.whl" },
+  { filename = "pytest_cov-6.1.1-py3-none-any.whl" },
+]

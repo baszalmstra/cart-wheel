@@ -1,0 +1,12 @@
+# Package configuration for salib
+conda_forge = "salib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "salib-1.5.2-py3-none-any.whl" },
+  { filename = "salib-1.5.1-py3-none-any.whl" },
+  { filename = "salib-1.5.0-py3-none-any.whl" },
+  { filename = "salib-1.4.8-py3-none-any.whl" },
+  { filename = "salib-1.4.7-py3-none-any.whl" },
+]

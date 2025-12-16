@@ -1,0 +1,124 @@
+{
+  "aioice-0.10.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:19.779410+00:00",
+    "conda_file": "aioice-0.10.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "dnspython",
+        "ifaddr"
+      ],
+      "optional": {
+        "dev": [
+          "coverage[extras=[toml]]",
+          "mypy",
+          "pyopenssl",
+          "ruff",
+          "websockets"
+        ]
+      }
+    },
+    "original_requirements": [
+      "dnspython>=2.0.0",
+      "ifaddr>=0.2.0",
+      "coverage[toml]>=7.2.2; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pyopenssl; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "websockets; extra == \"dev\""
+    ]
+  },
+  "aioice-0.10.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:19.939641+00:00",
+    "conda_file": "aioice-0.10.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "dnspython",
+        "ifaddr"
+      ],
+      "optional": {
+        "dev": [
+          "coverage[extras=[toml]]",
+          "mypy",
+          "pyopenssl",
+          "ruff",
+          "websockets"
+        ]
+      }
+    },
+    "original_requirements": [
+      "dnspython>=2.0.0",
+      "ifaddr>=0.2.0",
+      "coverage[toml]>=7.2.2; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pyopenssl; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "websockets; extra == \"dev\""
+    ]
+  },
+  "aioice-0.10.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:20.063966+00:00",
+    "conda_file": "aioice-0.10.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "dnspython",
+        "ifaddr"
+      ],
+      "optional": {
+        "dev": [
+          "coverage[extras=[toml]]",
+          "mypy",
+          "pyopenssl",
+          "ruff",
+          "websockets"
+        ]
+      }
+    },
+    "original_requirements": [
+      "dnspython>=2.0.0",
+      "ifaddr>=0.2.0",
+      "coverage[toml]>=7.2.2; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pyopenssl; extra == \"dev\"",
+      "ruff; extra == \"dev\"",
+      "websockets; extra == \"dev\""
+    ]
+  },
+  "aioice-0.9.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:20.143510+00:00",
+    "conda_file": "aioice-0.9.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "dnspython",
+        "ifaddr"
+      ]
+    },
+    "original_requirements": [
+      "dnspython (>=2.0.0)",
+      "ifaddr (>=0.2.0)"
+    ]
+  },
+  "aioice-0.8.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:20.753545+00:00",
+    "conda_file": "aioice-0.8.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "dnspython",
+        "netifaces"
+      ]
+    },
+    "original_requirements": [
+      "dnspython (>=2.0.0)",
+      "netifaces"
+    ]
+  }
+}

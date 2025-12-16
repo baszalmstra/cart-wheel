@@ -1,0 +1,189 @@
+{
+  "elasticsearch_dsl-8.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0522c5bb20c7abae69855109e650bf1166d486cbf706b5e1b29c28936a9102a3",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "typing-extensions",
+        "elasticsearch",
+        "elastic-transport"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "typing-extensions",
+      "elasticsearch<9.0.0,>=8.0.0",
+      "elastic-transport<9.0.0,>=8.0.0",
+      "elasticsearch[async]<9.0.0,>=8.0.0; extra == \"async\"",
+      "elasticsearch[async]; extra == \"develop\"",
+      "unasync; extra == \"develop\"",
+      "jinja2; extra == \"develop\"",
+      "pytest; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "pytest-mock; extra == \"develop\"",
+      "pytest-asyncio; extra == \"develop\"",
+      "pytz; extra == \"develop\"",
+      "coverage; extra == \"develop\"",
+      "nltk; extra == \"develop\"",
+      "sentence_transformers; extra == \"develop\"",
+      "tqdm; extra == \"develop\"",
+      "sphinx>2; extra == \"develop\"",
+      "sphinx-rtd-theme>0.5; extra == \"develop\"",
+      "mypy; extra == \"develop\"",
+      "pyright; extra == \"develop\"",
+      "types-python-dateutil; extra == \"develop\"",
+      "types-pytz; extra == \"develop\"",
+      "types-tqdm; extra == \"develop\""
+    ]
+  },
+  "elasticsearch_dsl-8.17.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49ee12a6a8d43fcfc0af42b49649531a6ef228c9e4795325de27f6b309b62b6d",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "typing-extensions",
+        "elasticsearch",
+        "elastic-transport"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "typing-extensions",
+      "elasticsearch<9.0.0,>=8.0.0",
+      "elastic-transport<9.0.0,>=8.0.0",
+      "elasticsearch[async]<9.0.0,>=8.0.0; extra == \"async\"",
+      "elasticsearch[async]; extra == \"develop\"",
+      "unasync; extra == \"develop\"",
+      "jinja2; extra == \"develop\"",
+      "pytest; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "pytest-mock; extra == \"develop\"",
+      "pytest-asyncio; extra == \"develop\"",
+      "pytz; extra == \"develop\"",
+      "coverage; extra == \"develop\"",
+      "nltk; extra == \"develop\"",
+      "sentence-transformers; extra == \"develop\"",
+      "tqdm; extra == \"develop\"",
+      "sphinx>2; extra == \"develop\"",
+      "sphinx-rtd-theme>0.5; extra == \"develop\"",
+      "mypy; extra == \"develop\"",
+      "pyright; extra == \"develop\"",
+      "types-python-dateutil; extra == \"develop\"",
+      "types-pytz; extra == \"develop\"",
+      "types-tqdm; extra == \"develop\""
+    ]
+  },
+  "elasticsearch_dsl-8.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2096d196d473e0b11c3b190d0f1d5896e05d52c302c4170b29d3262d1164d555",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "typing-extensions",
+        "elasticsearch",
+        "elastic-transport"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "typing-extensions",
+      "elasticsearch<9.0.0,>=8.0.0",
+      "elastic-transport<9.0.0,>=8.0.0",
+      "elasticsearch[async]<9.0.0,>=8.0.0; extra == \"async\"",
+      "elasticsearch[async]; extra == \"develop\"",
+      "unasync; extra == \"develop\"",
+      "jinja2; extra == \"develop\"",
+      "pytest; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "pytest-mock; extra == \"develop\"",
+      "pytest-asyncio; extra == \"develop\"",
+      "pytz; extra == \"develop\"",
+      "coverage; extra == \"develop\"",
+      "nltk; extra == \"develop\"",
+      "sentence-transformers; extra == \"develop\"",
+      "tqdm; extra == \"develop\"",
+      "sphinx>2; extra == \"develop\"",
+      "sphinx-rtd-theme>0.5; extra == \"develop\"",
+      "mypy; extra == \"develop\"",
+      "pyright; extra == \"develop\"",
+      "types-python-dateutil; extra == \"develop\"",
+      "types-pytz; extra == \"develop\"",
+      "types-tqdm; extra == \"develop\""
+    ]
+  },
+  "elasticsearch_dsl-8.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "39b753804df885cbc71fcaf40efcece6ef5569e2d70f6fe79c5bdb7da066acb4",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "typing-extensions",
+        "elasticsearch",
+        "elastic-transport"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "typing-extensions",
+      "elasticsearch<9.0.0,>=8.0.0",
+      "elastic-transport<9.0.0,>=8.0.0",
+      "elasticsearch[async]<9.0.0,>=8.0.0; extra == \"async\"",
+      "elasticsearch[async]; extra == \"develop\"",
+      "unasync; extra == \"develop\"",
+      "jinja2; extra == \"develop\"",
+      "pytest; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "pytest-mock; extra == \"develop\"",
+      "pytest-asyncio; extra == \"develop\"",
+      "pytz; extra == \"develop\"",
+      "coverage; extra == \"develop\"",
+      "nltk; extra == \"develop\"",
+      "sentence-transformers; extra == \"develop\"",
+      "tqdm; extra == \"develop\"",
+      "sphinx>2; extra == \"develop\"",
+      "sphinx-rtd-theme>0.5; extra == \"develop\"",
+      "mypy; extra == \"develop\"",
+      "pyright; extra == \"develop\"",
+      "types-python-dateutil; extra == \"develop\"",
+      "types-pytz; extra == \"develop\"",
+      "types-tqdm; extra == \"develop\""
+    ]
+  },
+  "elasticsearch_dsl-8.15.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "300173a42e256f204d39414f3aa373a726c4b0c1b507df57a78cd1d63ba20485",
+    "dependencies": {
+      "required": [
+        "python-dateutil",
+        "typing-extensions",
+        "elasticsearch"
+      ]
+    },
+    "original_requirements": [
+      "python-dateutil",
+      "typing-extensions",
+      "elasticsearch<9.0.0,>=8.0.0",
+      "elasticsearch[async]<9.0.0,>=8.0.0; extra == \"async\"",
+      "elasticsearch[async]; extra == \"develop\"",
+      "unasync; extra == \"develop\"",
+      "pytest; extra == \"develop\"",
+      "pytest-cov; extra == \"develop\"",
+      "pytest-mock; extra == \"develop\"",
+      "pytest-asyncio; extra == \"develop\"",
+      "pytz; extra == \"develop\"",
+      "coverage; extra == \"develop\"",
+      "nltk; extra == \"develop\"",
+      "sentence-transformers; extra == \"develop\"",
+      "tqdm; extra == \"develop\"",
+      "sphinx>2; extra == \"develop\"",
+      "sphinx-rtd-theme>0.5; extra == \"develop\"",
+      "mypy; extra == \"develop\"",
+      "pyright; extra == \"develop\"",
+      "types-python-dateutil; extra == \"develop\"",
+      "types-pytz; extra == \"develop\"",
+      "types-tqdm; extra == \"develop\""
+    ]
+  }
+}

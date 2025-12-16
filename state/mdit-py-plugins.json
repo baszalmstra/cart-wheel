@@ -1,0 +1,98 @@
+{
+  "mdit_py_plugins-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "07a08422fc1936a5d26d146759e9155ea466e842f5ab2f7d2266dd084c8dab1f",
+    "dependencies": {
+      "required": [
+        "markdown-it-py"
+      ]
+    },
+    "original_requirements": [
+      "markdown-it-py>=2.0.0,<5.0.0",
+      "pre-commit ; extra == \"code-style\"",
+      "myst-parser ; extra == \"rtd\"",
+      "sphinx-book-theme ; extra == \"rtd\"",
+      "coverage ; extra == \"testing\"",
+      "pytest ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\""
+    ]
+  },
+  "mdit_py_plugins-0.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c673c3f889399a33b95e88d2f0d111b4447bdfea7f237dab2d488f459835636",
+    "dependencies": {
+      "required": [
+        "markdown-it-py"
+      ]
+    },
+    "original_requirements": [
+      "markdown-it-py>=1.0.0,<4.0.0",
+      "pre-commit ; extra == \"code_style\"",
+      "myst-parser ; extra == \"rtd\"",
+      "sphinx-book-theme ; extra == \"rtd\"",
+      "coverage ; extra == \"testing\"",
+      "pytest ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\""
+    ]
+  },
+  "mdit_py_plugins-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1020dfe4e6bfc2c79fb49ae4e3f5b297f5ccd20f010187acc52af2921e27dc6a",
+    "dependencies": {
+      "required": [
+        "markdown-it-py"
+      ]
+    },
+    "original_requirements": [
+      "markdown-it-py>=1.0.0,<4.0.0",
+      "pre-commit ; extra == \"code_style\"",
+      "myst-parser ; extra == \"rtd\"",
+      "sphinx-book-theme ; extra == \"rtd\"",
+      "coverage ; extra == \"testing\"",
+      "pytest ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\""
+    ]
+  },
+  "mdit_py_plugins-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b51b3bb70691f57f974e257e367107857a93b36f322a9e6d44ca5bf28ec2def9",
+    "dependencies": {
+      "required": [
+        "markdown-it-py"
+      ]
+    },
+    "original_requirements": [
+      "markdown-it-py>=1.0.0,<4.0.0",
+      "pre-commit ; extra == \"code_style\"",
+      "myst-parser ; extra == \"rtd\"",
+      "sphinx-book-theme ; extra == \"rtd\"",
+      "coverage ; extra == \"testing\"",
+      "pytest ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\""
+    ]
+  },
+  "mdit_py_plugins-0.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ca9a0714ea59a24b2b044a1831f48d817dd0c817e84339f20e7889f392d77c4e",
+    "dependencies": {
+      "required": [
+        "markdown-it-py"
+      ]
+    },
+    "original_requirements": [
+      "markdown-it-py>=1.0.0,<3.0.0",
+      "pre-commit ; extra == \"code_style\"",
+      "attrs ; extra == \"rtd\"",
+      "myst-parser~=0.16.1 ; extra == \"rtd\"",
+      "sphinx-book-theme~=0.1.0 ; extra == \"rtd\"",
+      "coverage ; extra == \"testing\"",
+      "pytest ; extra == \"testing\"",
+      "pytest-cov ; extra == \"testing\"",
+      "pytest-regressions ; extra == \"testing\""
+    ]
+  }
+}

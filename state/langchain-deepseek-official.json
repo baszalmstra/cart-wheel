@@ -1,0 +1,30 @@
+{
+  "langchain_deepseek_official-0.1.0.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23a1f89f3d61b1b3babd8831a87708b2f1d3ff0142b135f92743ed7c124d1009",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain-openai"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core (>=0.3.15,<0.4.0)",
+      "langchain-openai (>=0.3.3,<0.4.0)"
+    ]
+  },
+  "langchain_deepseek_official-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bf8736cb5e566530da52d266ad991f81872a2afde15495eec9b1e51ac5be4895",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain-openai"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core (>=0.3.15,<0.4.0)",
+      "langchain-openai (>=0.3.2,<0.4.0)"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Package configuration for branca
+conda_forge = "branca"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "branca-0.8.2-py3-none-any.whl" },
+  { filename = "branca-0.8.1-py3-none-any.whl" },
+  { filename = "branca-0.8.0-py3-none-any.whl" },
+  { filename = "branca-0.7.2-py3-none-any.whl" },
+  { filename = "branca-0.7.1-py3-none-any.whl" },
+]

@@ -1,0 +1,10 @@
+# Package configuration for pytest-console-scripts
+conda_forge = "pytest-console-scripts"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_console_scripts-1.4.1-py3-none-any.whl" },
+  { filename = "pytest_console_scripts-1.4.0-py3-none-any.whl" },
+  { filename = "pytest_console_scripts-1.3.1-py3-none-any.whl" },
+]

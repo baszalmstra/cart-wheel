@@ -1,0 +1,12 @@
+# Package configuration for quart
+conda_forge = "quart"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "quart-0.20.0-py3-none-any.whl" },
+  { filename = "quart-0.19.9-py3-none-any.whl" },
+  { filename = "quart-0.19.8-py3-none-any.whl" },
+  { filename = "quart-0.19.7-py3-none-any.whl" },
+  { filename = "quart-0.19.6-py3-none-any.whl" },
+]

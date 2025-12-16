@@ -1,0 +1,9 @@
+# Package configuration for easydict
+conda_forge = "easydict"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "easydict-1.13-py3-none-any.whl" },
+  { filename = "easydict-1.12-py3-none-any.whl" },
+]

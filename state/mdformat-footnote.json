@@ -1,0 +1,91 @@
+{
+  "mdformat_footnote-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fe23888fc8ddb68c080bae9787a65bb1e51253f5de2bea2633feffdb095e59cd",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.0",
+      "mdit-py-plugins >=0.4.0",
+      "pre-commit ; extra == \"dev\"",
+      "pytest>=8.0.0 ; extra == \"test\"",
+      "pytest-cov>=7.0.0 ; extra == \"test\""
+    ]
+  },
+  "mdformat_footnote-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30063aaa0f74c36257c2e80fa0cf00d7c71a5277f27e98109e8765ae8678a95b",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.8,<0.8.0",
+      "mdit-py-plugins",
+      "pre-commit ; extra == \"dev\"",
+      "pytest~=6.0 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_footnote-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2dd6c42d627c78d0d6c847d29a42ca35496f63ca757919e68fe90ef06ffdaac5",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.7.0,<0.8.0",
+      "mdit-py-plugins",
+      "pre-commit ; extra == \"dev\"",
+      "pytest~=6.0 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_footnote-0.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "197c9b1a7c0e28fe1463b73a17dcb59a7829c82d633884125693c5098e30690b",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.5.3,<0.6.0",
+      "mdit-py-plugins",
+      "pre-commit ; extra == \"dev\"",
+      "pytest~=6.0 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  },
+  "mdformat_footnote-0.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0d1d0e75b5e5f49a48f3b5c4e570d3b030becce84b8c5f585a3d07199514c077",
+    "dependencies": {
+      "required": [
+        "mdformat",
+        "mdit-py-plugins"
+      ]
+    },
+    "original_requirements": [
+      "mdformat >=0.5.3,<0.6.0",
+      "mdit-py-plugins",
+      "pre-commit ; extra == \"dev\"",
+      "pytest~=6.0 ; extra == \"test\"",
+      "coverage ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\""
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "gguf-0.17.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7bc5aa7eeb1931f7d39b48fdc5b38fda6b294b9dca75cf607ac69557840a3943",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pyyaml",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "PySide6 (>=6.9,<7.0) ; (python_version >= \"3.9\" and python_version < \"3.14\") and (extra == \"gui\")",
+      "numpy (>=1.17)",
+      "pyyaml (>=5.1)",
+      "tqdm (>=4.27)"
+    ]
+  },
+  "gguf-0.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "52f2759c6e0ab3d228d4d44f871e3eb140004712c31aed72e2ae82f61aa5aa05",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pyyaml",
+        "sentencepiece",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "PySide6 (>=6.9,<7.0) ; (python_version >= \"3.9\" and python_version < \"3.14\") and (extra == \"gui\")",
+      "numpy (>=1.17)",
+      "pyyaml (>=5.1)",
+      "sentencepiece (>=0.1.98,<=0.2.0)",
+      "tqdm (>=4.27)"
+    ]
+  },
+  "gguf-0.16.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "dcfef3916e180e11882f93269e4daec4b120be6c4df6231d9164aad32c7f3190",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pyyaml",
+        "sentencepiece",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "PySide6 (>=6.9,<7.0) ; (python_version >= \"3.9\" and python_version < \"3.14\") and (extra == \"gui\")",
+      "numpy (>=1.17)",
+      "pyyaml (>=5.1)",
+      "sentencepiece (>=0.1.98,<=0.2.0)",
+      "tqdm (>=4.27)"
+    ]
+  },
+  "gguf-0.16.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e73eb19b30fcc7c7f32894345024dda8b1a0c959b94a12b7c40ded8dd3f96810",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pyyaml",
+        "sentencepiece",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "PySide6 (>=6.9,<7.0) ; (python_version >= \"3.9\" and python_version < \"3.14\") and (extra == \"gui\")",
+      "numpy (>=1.17)",
+      "pyyaml (>=5.1)",
+      "sentencepiece (>=0.1.98,<=0.2.0)",
+      "tqdm (>=4.27)"
+    ]
+  },
+  "gguf-0.16.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "856ce646fc4f4a73c3d948aed9beb1746051a0fadf322d610623dcdbbd0367e4",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "pyyaml",
+        "sentencepiece",
+        "tqdm"
+      ]
+    },
+    "original_requirements": [
+      "numpy (>=1.17)",
+      "pyyaml (>=5.1)",
+      "sentencepiece (>=0.1.98,<=0.2.0)",
+      "tqdm (>=4.27)"
+    ]
+  }
+}

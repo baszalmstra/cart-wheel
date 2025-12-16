@@ -1,0 +1,76 @@
+{
+  "aioresponses-0.7.8-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:27.245618+00:00",
+    "conda_file": "aioresponses-0.7.8-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=22.0",
+      "aiohttp<4.0.0,>=3.3.0"
+    ]
+  },
+  "aioresponses-0.7.7-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:26.956567+00:00",
+    "conda_file": "aioresponses-0.7.7-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "packaging>=22.0",
+      "aiohttp<4.0.0,>=3.3.0"
+    ]
+  },
+  "aioresponses-0.7.6-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:27.193659+00:00",
+    "conda_file": "aioresponses-0.7.6-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (<4.0.0,>=3.3.0)"
+    ]
+  },
+  "aioresponses-0.7.5-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:27.336992+00:00",
+    "conda_file": "aioresponses-0.7.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (<4.0.0,>=3.3.0)"
+    ]
+  },
+  "aioresponses-0.7.4-py2.py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:27.380022+00:00",
+    "conda_file": "aioresponses-0.7.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "aiohttp (<4.0.0,>=2.0.0)"
+    ]
+  }
+}

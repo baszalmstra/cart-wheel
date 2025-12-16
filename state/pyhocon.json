@@ -1,0 +1,30 @@
+{
+  "pyhocon-0.3.61-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "73d0f064af9a7d454949c5557284ce1d716cfd8e1383ecc90095fc575d278df0",
+    "dependencies": {
+      "required": [
+        "pyparsing",
+        "pyparsing"
+      ]
+    },
+    "original_requirements": [
+      "pyparsing ~=2.0 ; python_version < \"3.0\"",
+      "pyparsing <4,>=2 ; python_version >= \"3.0\"",
+      "python-dateutil >=2.8.0 ; extra == 'duration'"
+    ]
+  },
+  "pyhocon-0.3.54-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aecd64e2628327f04079a91c39dc34a00a758286ca7eec24a13d1845d840f96b",
+    "dependencies": {
+      "required": [
+        "pyparsing"
+      ]
+    },
+    "original_requirements": [
+      "pyparsing (>=2.0.3)",
+      "python-dateutil (>=2.8.0) ; extra == 'duration'"
+    ]
+  }
+}

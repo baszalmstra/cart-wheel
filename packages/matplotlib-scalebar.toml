@@ -1,0 +1,12 @@
+# Package configuration for matplotlib-scalebar
+conda_forge = "matplotlib-scalebar"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "matplotlib_scalebar-0.9.0-py3-none-any.whl" },
+  { filename = "matplotlib_scalebar-0.8.1-py2.py3-none-any.whl" },
+  { filename = "matplotlib_scalebar-0.8.0-py2.py3-none-any.whl" },
+  { filename = "matplotlib_scalebar-0.7.2-py2.py3-none-any.whl" },
+  { filename = "matplotlib_scalebar-0.7.1-py2.py3-none-any.whl" },
+]

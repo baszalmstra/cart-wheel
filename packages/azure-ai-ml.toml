@@ -1,0 +1,12 @@
+# Package configuration for azure-ai-ml
+conda_forge = "azure-ai-ml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_ai_ml-1.30.0-py3-none-any.whl" },
+  { filename = "azure_ai_ml-1.29.0-py3-none-any.whl" },
+  { filename = "azure_ai_ml-1.28.1-py3-none-any.whl" },
+  { filename = "azure_ai_ml-1.27.1-py3-none-any.whl" },
+  { filename = "azure_ai_ml-1.27.0-py3-none-any.whl" },
+]

@@ -1,0 +1,143 @@
+{
+  "writerai-4.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d864ea44513ac52c19a0d0ab16f547658ce7e6e4a0a7628ba8534525604743f4",
+    "dependencies": {
+      "required": [
+        "writer-sdk"
+      ]
+    },
+    "original_requirements": [
+      "writer-sdk"
+    ]
+  },
+  "writerai-4.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ae1624babd4fd3d80d32549af1cd627b83b591a27430bc56bfe1b207294ae2f2",
+    "dependencies": {
+      "required": [
+        "writer-sdk"
+      ]
+    },
+    "original_requirements": [
+      "writer-sdk"
+    ]
+  },
+  "writerai-3.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fd740f6d48fa91564bbc89ac37cb2b97820017a1833f218a2780d1307c572ad0",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "charset-normalizer",
+        "dataclasses-json",
+        "idna",
+        "jsonpath-python",
+        "marshmallow",
+        "mypy-extensions",
+        "packaging",
+        "python-dateutil",
+        "requests",
+        "six",
+        "typing-inspect",
+        "typing-extensions",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi >=2023.7.22",
+      "charset-normalizer >=3.2.0",
+      "dataclasses-json >=0.6.4",
+      "idna >=3.4",
+      "jsonpath-python >=1.0.6",
+      "marshmallow >=3.19.0",
+      "mypy-extensions >=1.0.0",
+      "packaging >=23.1",
+      "python-dateutil >=2.8.2",
+      "requests >=2.31.0",
+      "six >=1.16.0",
+      "typing-inspect >=0.9.0",
+      "typing-extensions >=4.7.1",
+      "urllib3 >=1.26.18",
+      "pylint ==3.1.0 ; extra == 'dev'"
+    ]
+  },
+  "writerai-3.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f1ea5400127a793ccd5f3439ece08abf5e00166928d3d08e2381736ae8aa6d4b",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "charset-normalizer",
+        "dataclasses-json",
+        "idna",
+        "jsonpath-python",
+        "marshmallow",
+        "mypy-extensions",
+        "packaging",
+        "python-dateutil",
+        "requests",
+        "six",
+        "typing-inspect",
+        "typing-extensions",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi >=2023.7.22",
+      "charset-normalizer >=3.2.0",
+      "dataclasses-json >=0.6.4",
+      "idna >=3.4",
+      "jsonpath-python >=1.0.6",
+      "marshmallow >=3.19.0",
+      "mypy-extensions >=1.0.0",
+      "packaging >=23.1",
+      "python-dateutil >=2.8.2",
+      "requests >=2.31.0",
+      "six >=1.16.0",
+      "typing-inspect >=0.9.0",
+      "typing-extensions >=4.7.1",
+      "urllib3 >=1.26.18",
+      "pylint ==3.1.0 ; extra == 'dev'"
+    ]
+  },
+  "writerai-3.2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ba1b0703fcf8cf67c104ea9a4ed20b53f9b309da2ce3a452c1da51d9262a0d44",
+    "dependencies": {
+      "required": [
+        "certifi",
+        "charset-normalizer",
+        "dataclasses-json",
+        "idna",
+        "jsonpath-python",
+        "marshmallow",
+        "mypy-extensions",
+        "packaging",
+        "python-dateutil",
+        "requests",
+        "six",
+        "typing-inspect",
+        "typing-extensions",
+        "urllib3"
+      ]
+    },
+    "original_requirements": [
+      "certifi >=2023.7.22",
+      "charset-normalizer >=3.2.0",
+      "dataclasses-json >=0.6.4",
+      "idna >=3.4",
+      "jsonpath-python >=1.0.6",
+      "marshmallow >=3.19.0",
+      "mypy-extensions >=1.0.0",
+      "packaging >=23.1",
+      "python-dateutil >=2.8.2",
+      "requests >=2.31.0",
+      "six >=1.16.0",
+      "typing-inspect >=0.9.0",
+      "typing-extensions >=4.7.1",
+      "urllib3 >=1.26.18",
+      "pylint ==2.16.2 ; extra == 'dev'"
+    ]
+  }
+}

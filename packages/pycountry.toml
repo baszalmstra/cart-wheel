@@ -1,0 +1,12 @@
+# Package configuration for pycountry
+conda_forge = "pycountry"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pycountry-24.6.1-py3-none-any.whl" },
+  { filename = "pycountry-23.12.11-py3-none-any.whl" },
+  { filename = "pycountry-23.12.7-py3-none-any.whl" },
+  { filename = "pycountry-18.12.8-py2.py3-none-any.whl" },
+  { filename = "pycountry-18.5.26-py2.py3-none-any.whl" },
+]

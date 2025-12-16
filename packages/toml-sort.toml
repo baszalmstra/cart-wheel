@@ -1,0 +1,11 @@
+# Package configuration for toml-sort
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "toml_sort-0.24.3-py3-none-any.whl" },
+  { filename = "toml_sort-0.24.2-py3-none-any.whl" },
+  { filename = "toml_sort-0.24.1-py3-none-any.whl" },
+  { filename = "toml_sort-0.24.0-py3-none-any.whl" },
+  { filename = "toml_sort-0.23.1-py3-none-any.whl" },
+]

@@ -1,0 +1,115 @@
+{
+  "apache_airflow_providers_dbt_cloud-4.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6dc1cd23a7589a2c662b61c460082a3ab1c24068719d04abda8b3713b73b8c46",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http",
+        "asgiref",
+        "aiohttp",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-http",
+      "asgiref>=2.3.0",
+      "aiohttp>=3.9.2",
+      "tenacity>=8.3.0",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_dbt_cloud-4.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c6a0762a4c13ab775a176f63dc3d6451dc8c36b19a90c6dbec457aae5f20730",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http",
+        "asgiref",
+        "aiohttp",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-http",
+      "asgiref>=2.3.0",
+      "aiohttp>=3.9.2",
+      "tenacity>=8.3.0",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_dbt_cloud-4.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03207c70b1de092975968a15109523b7a4e66d5575b00250af94ab34cc434493",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http",
+        "asgiref",
+        "aiohttp",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-http",
+      "asgiref>=2.3.0",
+      "aiohttp>=3.9.2",
+      "tenacity>=8.3.0",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_dbt_cloud-4.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f9480a0379829645111bbebe0a7fa1cde407767a3904b01065db6f834c3da050",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http",
+        "asgiref",
+        "aiohttp",
+        "tenacity"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-http",
+      "asgiref>=2.3.0",
+      "aiohttp>=3.9.2",
+      "tenacity>=8.3.0",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\""
+    ]
+  },
+  "apache_airflow_providers_dbt_cloud-4.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "afc353f69b5d379fe61a0e459b7aaaf70f3f1acae9d779937a9877b7d0b607fe",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-http",
+        "asgiref",
+        "aiohttp"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.0",
+      "apache-airflow-providers-http",
+      "asgiref>=2.3.0",
+      "aiohttp>=3.9.2",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\""
+    ]
+  }
+}

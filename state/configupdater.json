@@ -1,0 +1,92 @@
+{
+  "ConfigUpdater-3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0f65a041627d7693840b4dd743581db4c441c97195298a29d075f91b79539df2",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx ; extra == 'testing'",
+      "flake8 ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'",
+      "pytest-randomly ; extra == 'testing'"
+    ]
+  },
+  "ConfigUpdater-3.1.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "805986dbeba317886c7a8d348b2e34986dc9e3128cd3761ecc35decbd372b286",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx ; extra == 'testing'",
+      "flake8 ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-virtualenv ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'"
+    ]
+  },
+  "ConfigUpdater-3.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "28e266bdb31369b682c15a7af1940b3f8de5ceac34b4715a121914d8ff1722b5",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx ; extra == 'testing'",
+      "flake8 ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-virtualenv ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'"
+    ]
+  },
+  "ConfigUpdater-3.0.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "579764c0798095d5e0e4cf5384c63cece6282a5859c19542455ad23de7a4ab9e",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx ; extra == 'testing'",
+      "flake8 ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-virtualenv ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'"
+    ]
+  },
+  "ConfigUpdater-3.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b9bd8179995b7810fc41b04dc541d00e75dbae6398209d319f599bd4ac080d55",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx ; extra == 'testing'",
+      "flake8 ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-virtualenv ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'"
+    ]
+  }
+}

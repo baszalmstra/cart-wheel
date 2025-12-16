@@ -1,0 +1,12 @@
+# Package configuration for types-click
+conda_forge = "types-click"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_click-7.1.8-py3-none-any.whl" },
+  { filename = "types_click-7.1.7-py3-none-any.whl" },
+  { filename = "types_click-7.1.6-py3-none-any.whl" },
+  { filename = "types_click-7.1.5-py3-none-any.whl" },
+  { filename = "types_click-7.1.4-py3-none-any.whl" },
+]

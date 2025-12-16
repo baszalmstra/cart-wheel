@@ -1,0 +1,12 @@
+# Package configuration for classify-imports
+conda_forge = "classify-imports"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "classify_imports-4.2.0-py2.py3-none-any.whl" },
+  { filename = "classify_imports-4.1.0-py2.py3-none-any.whl" },
+  { filename = "classify_imports-4.0.2-py2.py3-none-any.whl" },
+  { filename = "classify_imports-4.0.1-py2.py3-none-any.whl" },
+  { filename = "classify_imports-4.0.0-py2.py3-none-any.whl" },
+]

@@ -1,0 +1,92 @@
+{
+  "pre_commit_uv-4.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "cc1b56641e6c62d90a4d8b4f0af6f2610f1c397ce81af024e768c0f33715cb81",
+    "dependencies": {
+      "required": [
+        "pre-commit",
+        "uv"
+      ]
+    },
+    "original_requirements": [
+      "pre-commit>=4.3",
+      "uv>=0.9.1",
+      "covdefaults>=2.3; extra == 'testing'",
+      "pytest-cov>=7; extra == 'testing'",
+      "pytest-mock>=3.15.1; extra == 'testing'",
+      "pytest>=8.4.2; extra == 'testing'"
+    ]
+  },
+  "pre_commit_uv-4.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4805e45615b898c4ca6ea37bdb60a05bb7830f986c303a06a378d6b50c3aa9e",
+    "dependencies": {
+      "required": [
+        "pre-commit",
+        "uv"
+      ]
+    },
+    "original_requirements": [
+      "pre-commit>=3.8",
+      "uv>=0.4.7",
+      "covdefaults>=2.3; extra == 'testing'",
+      "pytest-cov>=5; extra == 'testing'",
+      "pytest-mock>=3.14; extra == 'testing'",
+      "pytest>=8.3.2; extra == 'testing'"
+    ]
+  },
+  "pre_commit_uv-4.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7f01fb494fa1caa5097d20a38f71df7cea0209197b2564699cef9b3f3aa9d135",
+    "dependencies": {
+      "required": [
+        "pre-commit",
+        "uv"
+      ]
+    },
+    "original_requirements": [
+      "pre-commit>=3.8",
+      "uv>=0.4.7",
+      "covdefaults>=2.3; extra == 'testing'",
+      "pytest-cov>=5; extra == 'testing'",
+      "pytest-mock>=3.14; extra == 'testing'",
+      "pytest>=8.3.2; extra == 'testing'"
+    ]
+  },
+  "pre_commit_uv-4.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2143c78cdf7797c17e8e344dfcfb83b27b3fad051a9aeb432f82c31e09678860",
+    "dependencies": {
+      "required": [
+        "pre-commit",
+        "uv"
+      ]
+    },
+    "original_requirements": [
+      "pre-commit>=3.8",
+      "uv>=0.4.7",
+      "covdefaults>=2.3; extra == 'testing'",
+      "pytest-cov>=5; extra == 'testing'",
+      "pytest-mock>=3.14; extra == 'testing'",
+      "pytest>=8.3.2; extra == 'testing'"
+    ]
+  },
+  "pre_commit_uv-4.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c0fafa06862e7878f90d8d976fd03f082c78b7d53e655a7f07fb26162788bd5",
+    "dependencies": {
+      "required": [
+        "pre-commit",
+        "uv"
+      ]
+    },
+    "original_requirements": [
+      "pre-commit>=3.8",
+      "uv>=0.4.7",
+      "covdefaults>=2.3; extra == 'testing'",
+      "pytest-cov>=5; extra == 'testing'",
+      "pytest-mock>=3.14; extra == 'testing'",
+      "pytest>=8.3.2; extra == 'testing'"
+    ]
+  }
+}

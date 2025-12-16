@@ -1,0 +1,12 @@
+# Package configuration for myst-parser
+conda_forge = "myst-parser"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "myst_parser-4.0.1-py3-none-any.whl" },
+  { filename = "myst_parser-4.0.0-py3-none-any.whl" },
+  { filename = "myst_parser-3.0.1-py3-none-any.whl" },
+  { filename = "myst_parser-3.0.0-py3-none-any.whl" },
+  { filename = "myst_parser-2.0.0-py3-none-any.whl" },
+]

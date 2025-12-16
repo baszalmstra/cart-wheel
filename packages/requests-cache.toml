@@ -1,0 +1,12 @@
+# Package configuration for requests-cache
+conda_forge = "requests-cache"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "requests_cache-1.2.1-py3-none-any.whl" },
+  { filename = "requests_cache-1.2.0-py3-none-any.whl" },
+  { filename = "requests_cache-1.1.1-py3-none-any.whl" },
+  { filename = "requests_cache-1.1.0-py3-none-any.whl" },
+  { filename = "requests_cache-1.0.1-py3-none-any.whl" },
+]

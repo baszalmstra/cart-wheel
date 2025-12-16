@@ -1,0 +1,12 @@
+# Package configuration for structlog
+conda_forge = "structlog"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "structlog-25.5.0-py3-none-any.whl" },
+  { filename = "structlog-25.4.0-py3-none-any.whl" },
+  { filename = "structlog-25.3.0-py3-none-any.whl" },
+  { filename = "structlog-25.2.0-py3-none-any.whl" },
+  { filename = "structlog-25.1.0-py3-none-any.whl" },
+]

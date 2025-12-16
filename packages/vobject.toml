@@ -1,0 +1,10 @@
+# Package configuration for vobject
+conda_forge = "vobject"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "vobject-0.9.9-py2.py3-none-any.whl" },
+  { filename = "vobject-0.9.8-py2.py3-none-any.whl" },
+  { filename = "vobject-0.9.7-py2.py3-none-any.whl" },
+]

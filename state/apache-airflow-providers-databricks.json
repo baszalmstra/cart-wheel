@@ -1,0 +1,197 @@
+{
+  "apache_airflow_providers_databricks-7.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1eb9087ee8c89470ce835429409da944fdadddb58fd41e2488ead41a89c4eb45",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "requests",
+        "databricks-sql-connector",
+        "databricks-sqlalchemy",
+        "aiohttp",
+        "mergedeep",
+        "pandas",
+        "pandas",
+        "pyarrow",
+        "pyarrow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.10.1",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "requests>=2.32.0,<3",
+      "databricks-sql-connector>=4.0.0",
+      "databricks-sqlalchemy>=1.0.2",
+      "aiohttp>=3.9.2, <4",
+      "mergedeep>=1.3.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "pyarrow>=18.0.0; python_version >= '3.13'",
+      "azure-identity>=1.3.1 ; extra == \"azure-identity\"",
+      "apache-airflow-providers-fab>=2.2.0 ; extra == \"fab\" and ( python_version < '3.13')",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\"",
+      "databricks-sdk==0.10.0 ; extra == \"sdk\"",
+      "apache-airflow-providers-standard ; extra == \"standard\""
+    ]
+  },
+  "apache_airflow_providers_databricks-7.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "075b21412a20850af0954f81f7ab94e66a70bddbb3aec36bee0193beae8408d5",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "requests",
+        "databricks-sql-connector",
+        "databricks-sqlalchemy",
+        "aiohttp",
+        "mergedeep",
+        "pandas",
+        "pandas",
+        "pyarrow",
+        "pyarrow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.11.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "requests>=2.32.0,<3",
+      "databricks-sql-connector>=4.0.0",
+      "databricks-sqlalchemy>=1.0.2",
+      "aiohttp>=3.9.2, <4",
+      "mergedeep>=1.3.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "pyarrow>=18.0.0; python_version >= '3.13'",
+      "azure-identity>=1.3.1 ; extra == \"azure-identity\"",
+      "apache-airflow-providers-fab>=2.2.0 ; extra == \"fab\" and ( python_version < '3.13')",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\"",
+      "databricks-sdk==0.10.0 ; extra == \"sdk\"",
+      "apache-airflow-providers-standard ; extra == \"standard\""
+    ]
+  },
+  "apache_airflow_providers_databricks-7.7.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bc3480d2c4b014f606a068cc3cd58f9e25b78aa7ddf712bbe13b3ac57aa6c844",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "requests",
+        "databricks-sql-connector",
+        "databricks-sqlalchemy",
+        "aiohttp",
+        "mergedeep",
+        "pandas",
+        "pandas",
+        "pyarrow",
+        "pyarrow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "requests>=2.32.0,<3",
+      "databricks-sql-connector>=4.0.0",
+      "databricks-sqlalchemy>=1.0.2",
+      "aiohttp>=3.9.2, <4",
+      "mergedeep>=1.3.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "pyarrow>=18.0.0; python_version >= '3.13'",
+      "azure-identity>=1.3.1 ; extra == \"azure-identity\"",
+      "apache-airflow-providers-fab>=2.2.0 ; extra == \"fab\" and ( python_version < '3.13')",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\"",
+      "databricks-sdk==0.10.0 ; extra == \"sdk\"",
+      "apache-airflow-providers-standard ; extra == \"standard\""
+    ]
+  },
+  "apache_airflow_providers_databricks-7.7.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4bd9c077cace03d2cb21c5927b52480f26573af67e68582e391b50f93e741da",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "requests",
+        "databricks-sql-connector",
+        "databricks-sqlalchemy",
+        "aiohttp",
+        "mergedeep",
+        "pandas",
+        "pandas",
+        "pyarrow",
+        "pyarrow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.8.0",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "requests>=2.32.0,<3",
+      "databricks-sql-connector>=4.0.0",
+      "databricks-sqlalchemy>=1.0.2",
+      "aiohttp>=3.9.2, <4",
+      "mergedeep>=1.3.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "pyarrow>=18.0.0; python_version >= '3.13'",
+      "azure-identity>=1.3.1 ; extra == \"azure-identity\"",
+      "apache-airflow-providers-fab>=2.2.0 ; extra == \"fab\" and ( python_version < '3.13')",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\"",
+      "databricks-sdk==0.10.0 ; extra == \"sdk\"",
+      "apache-airflow-providers-standard ; extra == \"standard\""
+    ]
+  },
+  "apache_airflow_providers_databricks-7.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d6338e42574ec54894fbd8e9f98816c145c57bf8d39e2a082b7be2799f7b09da",
+    "dependencies": {
+      "required": [
+        "apache-airflow",
+        "apache-airflow-providers-common-compat",
+        "apache-airflow-providers-common-sql",
+        "requests",
+        "databricks-sql-connector",
+        "databricks-sqlalchemy",
+        "aiohttp",
+        "mergedeep",
+        "pandas",
+        "pandas",
+        "pyarrow",
+        "pyarrow"
+      ]
+    },
+    "original_requirements": [
+      "apache-airflow>=2.10.0",
+      "apache-airflow-providers-common-compat>=1.6.0",
+      "apache-airflow-providers-common-sql>=1.27.0",
+      "requests>=2.32.0,<3",
+      "databricks-sql-connector>=4.0.0",
+      "databricks-sqlalchemy>=1.0.2",
+      "aiohttp>=3.9.2, <4",
+      "mergedeep>=1.3.4",
+      "pandas>=2.1.2; python_version <\"3.13\"",
+      "pandas>=2.2.3; python_version >=\"3.13\"",
+      "pyarrow>=16.1.0; python_version < '3.13'",
+      "pyarrow>=18.0.0; python_version >= '3.13'",
+      "azure-identity>=1.3.1 ; extra == \"azure-identity\"",
+      "apache-airflow-providers-fab>=2.2.0 ; extra == \"fab\" and ( python_version < '3.13')",
+      "apache-airflow-providers-openlineage>=2.3.0 ; extra == \"openlineage\"",
+      "databricks-sdk==0.10.0 ; extra == \"sdk\"",
+      "apache-airflow-providers-standard ; extra == \"standard\""
+    ]
+  }
+}

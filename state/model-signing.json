@@ -1,0 +1,128 @@
+{
+  "model_signing-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "98eeb28bad960d7a3728045d0d3e424afcaba1740792c6d31a6afbc269bf28e7",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "blake3",
+        "click",
+        "cryptography",
+        "in-toto-attestation",
+        "sigstore-models",
+        "sigstore",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto",
+      "blake3",
+      "click",
+      "cryptography",
+      "in-toto-attestation",
+      "sigstore-models>=0.0.5",
+      "sigstore>=4.0",
+      "typing-extensions",
+      "opentelemetry-api; extra == 'otel'",
+      "opentelemetry-distro; extra == 'otel'",
+      "opentelemetry-exporter-otlp; extra == 'otel'",
+      "opentelemetry-instrumentation; extra == 'otel'",
+      "opentelemetry-instrumentation-urllib3; extra == 'otel'",
+      "opentelemetry-sdk; extra == 'otel'",
+      "pykcs11; extra == 'pkcs11'"
+    ]
+  },
+  "model_signing-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "82e39e6a7e23569f06a626f83a0ff8bb58b94566e063cd46aee4afcb794a6520",
+    "dependencies": {
+      "required": [
+        "asn1crypto",
+        "blake3",
+        "click",
+        "cryptography",
+        "in-toto-attestation",
+        "sigstore-models",
+        "sigstore",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "asn1crypto",
+      "blake3",
+      "click",
+      "cryptography",
+      "in-toto-attestation",
+      "sigstore-models>=0.0.5",
+      "sigstore>=4.0",
+      "typing-extensions",
+      "opentelemetry-api; extra == 'otel'",
+      "opentelemetry-distro; extra == 'otel'",
+      "opentelemetry-exporter-otlp; extra == 'otel'",
+      "opentelemetry-instrumentation; extra == 'otel'",
+      "opentelemetry-instrumentation-urllib3; extra == 'otel'",
+      "opentelemetry-sdk; extra == 'otel'",
+      "pykcs11; extra == 'pkcs11'"
+    ]
+  },
+  "model_signing-1.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "74bd547071027b15cb8fd1463963d2e1753cdc5cb7a0e16753e6aca52bb37fa2",
+    "dependencies": {
+      "required": [
+        "click",
+        "cryptography",
+        "in-toto-attestation",
+        "sigstore",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "cryptography",
+      "in-toto-attestation",
+      "sigstore",
+      "typing-extensions"
+    ]
+  },
+  "model_signing-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "887612831d63efe78279605d2216b0efaa98d07bf8093247827df53082db0b13",
+    "dependencies": {
+      "required": [
+        "click",
+        "cryptography",
+        "in-toto-attestation",
+        "sigstore",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "cryptography",
+      "in-toto-attestation",
+      "sigstore",
+      "typing-extensions"
+    ]
+  },
+  "model_signing-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f4408f28ba2539ef27c0668abe1a4df85525e74f5cd869eab64f627d6a82748a",
+    "dependencies": {
+      "required": [
+        "click",
+        "cryptography",
+        "in-toto-attestation",
+        "sigstore",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "click",
+      "cryptography",
+      "in-toto-attestation",
+      "sigstore",
+      "typing-extensions"
+    ]
+  }
+}

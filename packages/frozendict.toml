@@ -1,0 +1,8 @@
+# Package configuration for frozendict
+conda_forge = "frozendict"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "frozendict-2.4.7-py3-none-any.whl" },
+]

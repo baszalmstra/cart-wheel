@@ -1,0 +1,12 @@
+# Package configuration for msgraph-core
+conda_forge = "msgraph-core"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "msgraph_core-1.3.8-py3-none-any.whl" },
+  { filename = "msgraph_core-1.3.5-py3-none-any.whl" },
+  { filename = "msgraph_core-1.3.4-py3-none-any.whl" },
+  { filename = "msgraph_core-1.3.3-py3-none-any.whl" },
+  { filename = "msgraph_core-1.3.2-py3-none-any.whl" },
+]

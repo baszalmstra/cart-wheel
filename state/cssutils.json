@@ -1,0 +1,133 @@
+{
+  "cssutils-2.11.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a67bfdfdff4f3867fab43698ec4897c1a828eca5973f4073321b3bccaf1199b1",
+    "dependencies": {
+      "required": [
+        "more-itertools"
+      ]
+    },
+    "original_requirements": [
+      "more-itertools",
+      "sphinx >=3.5 ; extra == 'doc'",
+      "jaraco.packaging >=9.3 ; extra == 'doc'",
+      "rst.linker >=1.9 ; extra == 'doc'",
+      "furo ; extra == 'doc'",
+      "sphinx-lint ; extra == 'doc'",
+      "jaraco.tidelift >=1.4 ; extra == 'doc'",
+      "pytest !=8.1.*,>=6 ; extra == 'test'",
+      "pytest-checkdocs >=2.4 ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "pytest-mypy ; extra == 'test'",
+      "pytest-enabler >=2.2 ; extra == 'test'",
+      "pytest-ruff >=0.2.1 ; extra == 'test'",
+      "cssselect ; extra == 'test'",
+      "jaraco.test >=5.1 ; extra == 'test'",
+      "lxml ; (python_version < \"3.11\") and extra == 'test'",
+      "importlib-resources ; (python_version < \"3.9\") and extra == 'test'"
+    ]
+  },
+  "cssutils-2.11.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "220816dc6d413e81281bbd568c473a8ae28f73b1af008b1bacf3a7ebd21e0334",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx >=3.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "jaraco.tidelift >=1.4 ; extra == 'docs'",
+      "pytest !=8.1.*,>=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-mypy ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'",
+      "cssselect ; extra == 'testing'",
+      "jaraco.test >=5.1 ; extra == 'testing'",
+      "lxml ; (python_version < \"3.11\") and extra == 'testing'",
+      "importlib-resources ; (python_version < \"3.9\") and extra == 'testing'"
+    ]
+  },
+  "cssutils-2.10.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "427bea159a9a54e17450c66b98bf93449cf1e6a1b0eaa26e566e9b381f94b7ea",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx >=3.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "jaraco.tidelift >=1.4 ; extra == 'docs'",
+      "pytest !=8.1.*,>=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-mypy ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'",
+      "cssselect ; extra == 'testing'",
+      "jaraco.test >=5.1 ; extra == 'testing'",
+      "lxml ; (python_version < \"3.11\") and extra == 'testing'",
+      "importlib-resources ; (python_version < \"3.9\") and extra == 'testing'"
+    ]
+  },
+  "cssutils-2.10.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4ad7d2f29270b22cf199f65a6b5e795f2c3130f3b9fb50c3d45e5054ef86e41a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx >=3.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "jaraco.tidelift >=1.4 ; extra == 'docs'",
+      "pytest >=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-mypy ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'",
+      "cssselect ; extra == 'testing'",
+      "jaraco.test >=5.1 ; extra == 'testing'",
+      "lxml ; (python_version < \"3.11\") and extra == 'testing'",
+      "importlib-resources ; (python_version < \"3.9\") and extra == 'testing'"
+    ]
+  },
+  "cssutils-2.10.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "aa9df93a0e4a9b80e08e9ad7f8a26f652a1fbfe0153f5a9bbe9fb45c82eda6fa",
+    "dependencies": {
+      "required": [
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "importlib-metadata ; python_version < \"3.8\"",
+      "sphinx >=3.5 ; extra == 'docs'",
+      "jaraco.packaging >=9.3 ; extra == 'docs'",
+      "rst.linker >=1.9 ; extra == 'docs'",
+      "furo ; extra == 'docs'",
+      "sphinx-lint ; extra == 'docs'",
+      "jaraco.tidelift >=1.4 ; extra == 'docs'",
+      "pytest >=6 ; extra == 'testing'",
+      "pytest-checkdocs >=2.4 ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-mypy ; extra == 'testing'",
+      "pytest-enabler >=2.2 ; extra == 'testing'",
+      "pytest-ruff >=0.2.1 ; extra == 'testing'",
+      "cssselect ; extra == 'testing'",
+      "jaraco.test >=5.1 ; extra == 'testing'",
+      "lxml ; (python_version < \"3.11\") and extra == 'testing'",
+      "importlib-resources ; (python_version < \"3.9\") and extra == 'testing'"
+    ]
+  }
+}

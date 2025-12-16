@@ -1,0 +1,124 @@
+{
+  "prefect_github-0.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a49683774f9bfcca241cd8805cf220b46f89164322a2274a0f5bd3c161f67fbb",
+    "dependencies": {
+      "required": [
+        "sgqlc",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "sgqlc>=15.0",
+      "prefect>=3.0.0"
+    ]
+  },
+  "prefect_github-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bec192b84a0ac20766073e23fa67eea952805272f7c32d2e045203832116724a",
+    "dependencies": {
+      "required": [
+        "sgqlc",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "sgqlc>=15.0",
+      "prefect>=3.0.0",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest>=8.3; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_github-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0ad22d7bc07e3e554aa4f08ab7b50e4da402997fb283d0427443283c283eb967",
+    "dependencies": {
+      "required": [
+        "sgqlc",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "sgqlc>=15.0",
+      "prefect>=3.0.0rc1",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-env; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\""
+    ]
+  },
+  "prefect_github-0.2.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "7aba98fbd56694f66fde85165435d64b8390a31249a3f41b4e95dbf8af8d89a4",
+    "dependencies": {
+      "required": [
+        "sgqlc",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "sgqlc>=15.0",
+      "prefect<3.0.0,>=2.20.0",
+      "coverage; extra == \"dev\"",
+      "interrogate; extra == \"dev\"",
+      "mkdocs-gen-files; extra == \"dev\"",
+      "mkdocs-material; extra == \"dev\"",
+      "mkdocs; extra == \"dev\"",
+      "mkdocstrings[python]; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "pillow; extra == \"dev\"",
+      "pre-commit; extra == \"dev\"",
+      "pytest-asyncio; extra == \"dev\"",
+      "pytest; extra == \"dev\"",
+      "pytest-xdist; extra == \"dev\"",
+      "mock; python_version < \"3.8\" and extra == \"dev\""
+    ]
+  },
+  "prefect_github-0.2.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4dd4ec8458e56872717b1ec2271768ef597ecf4e0be1d3bfcfafd7b6abcdd3c9",
+    "dependencies": {
+      "required": [
+        "sgqlc",
+        "prefect"
+      ]
+    },
+    "original_requirements": [
+      "sgqlc >=15.0",
+      "prefect <3.0.0,>=2.13.5",
+      "coverage ; extra == 'dev'",
+      "interrogate ; extra == 'dev'",
+      "mkdocs-gen-files ; extra == 'dev'",
+      "mkdocs-material ; extra == 'dev'",
+      "mkdocs ; extra == 'dev'",
+      "mkdocstrings[python] ; extra == 'dev'",
+      "mypy ; extra == 'dev'",
+      "pillow ; extra == 'dev'",
+      "pre-commit ; extra == 'dev'",
+      "pytest-asyncio ; extra == 'dev'",
+      "pytest ; extra == 'dev'",
+      "pytest-xdist ; extra == 'dev'",
+      "mock ; (python_version < \"3.8\") and extra == 'dev'"
+    ]
+  }
+}

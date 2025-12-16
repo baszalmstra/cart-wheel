@@ -1,0 +1,132 @@
+{
+  "alembic-1.17.2-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:36.681353+00:00",
+    "conda_file": "alembic-1.17.2-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "mako",
+        "typing-extensions",
+        "tomli;"
+      ],
+      "optional": {
+        "tz": [
+          "tzdata"
+        ]
+      }
+    },
+    "original_requirements": [
+      "SQLAlchemy>=1.4.0",
+      "Mako",
+      "typing-extensions>=4.12",
+      "tomli; python_version < \"3.11\"",
+      "tzdata; extra == \"tz\""
+    ]
+  },
+  "alembic-1.17.1-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:36.675887+00:00",
+    "conda_file": "alembic-1.17.1-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "mako",
+        "typing-extensions",
+        "tomli;"
+      ],
+      "optional": {
+        "tz": [
+          "tzdata"
+        ]
+      }
+    },
+    "original_requirements": [
+      "SQLAlchemy>=1.4.0",
+      "Mako",
+      "typing-extensions>=4.12",
+      "tomli; python_version < \"3.11\"",
+      "tzdata; extra == \"tz\""
+    ]
+  },
+  "alembic-1.17.0-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:36.833822+00:00",
+    "conda_file": "alembic-1.17.0-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "mako",
+        "typing-extensions",
+        "tomli;"
+      ],
+      "optional": {
+        "tz": [
+          "tzdata"
+        ]
+      }
+    },
+    "original_requirements": [
+      "SQLAlchemy>=1.4.0",
+      "Mako",
+      "typing-extensions>=4.12",
+      "tomli; python_version < \"3.11\"",
+      "tzdata; extra == \"tz\""
+    ]
+  },
+  "alembic-1.16.5-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:37.525267+00:00",
+    "conda_file": "alembic-1.16.5-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "mako",
+        "typing-extensions",
+        "tomli;"
+      ],
+      "optional": {
+        "tz": [
+          "tzdata"
+        ]
+      }
+    },
+    "original_requirements": [
+      "SQLAlchemy>=1.4.0",
+      "Mako",
+      "typing-extensions>=4.12",
+      "tomli; python_version < \"3.11\"",
+      "tzdata; extra == \"tz\""
+    ]
+  },
+  "alembic-1.16.4-py3-none-any.whl": {
+    "status": "converted",
+    "converted_at": "2025-12-13T20:49:37.520071+00:00",
+    "conda_file": "alembic-1.16.4-py_0.conda",
+    "subdir": "noarch",
+    "dependencies": {
+      "required": [
+        "sqlalchemy",
+        "mako",
+        "typing-extensions",
+        "tomli;"
+      ],
+      "optional": {
+        "tz": [
+          "tzdata"
+        ]
+      }
+    },
+    "original_requirements": [
+      "SQLAlchemy>=1.4.0",
+      "Mako",
+      "typing-extensions>=4.12",
+      "tomli; python_version < \"3.11\"",
+      "tzdata; extra == \"tz\""
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "devpi_common-4.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d1e48a1cb68ad473591fdaf562c39aee2a0ca2762a32228bd7b4235ea97c0679",
+    "dependencies": {
+      "required": [
+        "lazy",
+        "packaging-legacy",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "lazy",
+      "packaging-legacy",
+      "requests >=2.3.0"
+    ]
+  },
+  "devpi_common-4.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8a83b788ac821ade1e348d571db083575c5c5d92ba0932a3a8f75c6f8dde4d88",
+    "dependencies": {
+      "required": [
+        "lazy",
+        "packaging-legacy",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "lazy",
+      "packaging-legacy",
+      "requests >=2.3.0"
+    ]
+  },
+  "devpi_common-4.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d96be2e842fa76d7c67c185ec037e80e250b323271edaa716ccb31eecd0d73eb",
+    "dependencies": {
+      "required": [
+        "lazy",
+        "packaging",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "lazy",
+      "packaging >=22",
+      "requests >=2.3.0"
+    ]
+  },
+  "devpi_common-4.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "da4bdf47bf27bd70f3c0686c896a8e1620cf0b8cfa3564bbc449b271b6322534",
+    "dependencies": {
+      "required": [
+        "lazy",
+        "packaging",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "lazy",
+      "packaging >=22",
+      "requests >=2.3.0"
+    ]
+  },
+  "devpi_common-4.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "395ef7a740c7d871f1a3d7ba22e04bcab507d6456e6f225c03fcae7b7c699c9d",
+    "dependencies": {
+      "required": [
+        "lazy",
+        "packaging",
+        "requests"
+      ]
+    },
+    "original_requirements": [
+      "lazy",
+      "packaging >=22",
+      "requests >=2.3.0"
+    ]
+  }
+}

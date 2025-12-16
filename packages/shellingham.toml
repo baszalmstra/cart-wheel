@@ -1,0 +1,12 @@
+# Package configuration for shellingham
+conda_forge = "shellingham"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "shellingham-1.5.4-py2.py3-none-any.whl" },
+  { filename = "shellingham-1.5.3-py2.py3-none-any.whl" },
+  { filename = "shellingham-1.5.2-py2.py3-none-any.whl" },
+  { filename = "shellingham-1.5.0.post1-py2.py3-none-any.whl" },
+  { filename = "shellingham-1.4.0-py2.py3-none-any.whl" },
+]

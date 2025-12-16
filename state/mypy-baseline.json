@@ -1,0 +1,106 @@
+{
+  "mypy_baseline-0.7.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bd7fa899e687d75af2e3f392a9d6d1790e65dae3d31fe12525cc14f26d866b74",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx ; extra == \"docs\"",
+      "myst-parser ; extra == \"docs\"",
+      "flake8 ; extra == \"lint\"",
+      "isort ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-requests ; extra == \"lint\"",
+      "types-toml ; extra == \"lint\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "requests ; extra == \"test\"",
+      "responses ; extra == \"test\""
+    ]
+  },
+  "mypy_baseline-0.7.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "11db405082075f244c808d9268130ea95554ec2b8856b5c9bb09df539dc1836a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx ; extra == \"docs\"",
+      "myst-parser ; extra == \"docs\"",
+      "flake8 ; extra == \"lint\"",
+      "isort ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-requests ; extra == \"lint\"",
+      "types-toml ; extra == \"lint\"",
+      "unify ; extra == \"lint\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "requests ; extra == \"test\"",
+      "responses ; extra == \"test\""
+    ]
+  },
+  "mypy_baseline-0.7.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "08c0781451c67a8e36986da71418bd7131b66861c941c5b23fed7e7d6817ca80",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx ; extra == \"docs\"",
+      "myst-parser ; extra == \"docs\"",
+      "flake8 ; extra == \"lint\"",
+      "isort ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-requests ; extra == \"lint\"",
+      "types-toml ; extra == \"lint\"",
+      "unify ; extra == \"lint\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "requests ; extra == \"test\"",
+      "responses ; extra == \"test\""
+    ]
+  },
+  "mypy_baseline-0.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a8cad655aa01aac856bd95b5980dba78356bec76e1c49e7e530ae57d3047119c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx ; extra == \"docs\"",
+      "myst-parser ; extra == \"docs\"",
+      "flake8 ; extra == \"lint\"",
+      "isort ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-requests ; extra == \"lint\"",
+      "types-toml ; extra == \"lint\"",
+      "unify ; extra == \"lint\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "requests ; extra == \"test\"",
+      "responses ; extra == \"test\""
+    ]
+  },
+  "mypy_baseline-0.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a2c3646bdb57fc6753599b7a67b58836924c9132208ab41f14260ab510a60c6",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "sphinx ; extra == \"docs\"",
+      "myst-parser ; extra == \"docs\"",
+      "flake8 ; extra == \"lint\"",
+      "isort ; extra == \"lint\"",
+      "mypy ; extra == \"lint\"",
+      "types-requests ; extra == \"lint\"",
+      "types-toml ; extra == \"lint\"",
+      "unify ; extra == \"lint\"",
+      "pytest ; extra == \"test\"",
+      "pytest-cov ; extra == \"test\"",
+      "requests ; extra == \"test\"",
+      "responses ; extra == \"test\""
+    ]
+  }
+}

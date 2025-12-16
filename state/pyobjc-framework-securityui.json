@@ -1,0 +1,50 @@
+{
+  "pyobjc_framework_securityui-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3e988b83c9a2bb0393207eaa030fc023a8708a975ac5b8ea0508cdafc2b60705",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-security"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-Cocoa>=12.1",
+      "pyobjc-framework-Security>=12.1"
+    ]
+  },
+  "pyobjc_framework_securityui-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c7511241d19b416b79b1291eb57896ffc317528e6c342982722a32901a177a5",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-security"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-Cocoa>=12.0",
+      "pyobjc-framework-Security>=12.0"
+    ]
+  },
+  "pyobjc_framework_securityui-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3cdb101b03459fcf8e4064b90021d06761003f669181e02f43ff585e6ba2403d",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-cocoa",
+        "pyobjc-framework-security"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-Cocoa>=11.1",
+      "pyobjc-framework-Security>=11.1"
+    ]
+  }
+}

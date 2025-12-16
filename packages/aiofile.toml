@@ -1,0 +1,12 @@
+# Package configuration for aiofile
+conda_forge = "aiofile"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiofile-3.9.0-py3-none-any.whl" },
+  { filename = "aiofile-3.8.8-py3-none-any.whl" },
+  { filename = "aiofile-3.8.7-py3-none-any.whl" },
+  { filename = "aiofile-3.8.6-py3-none-any.whl" },
+  { filename = "aiofile-3.8.5-py3-none-any.whl" },
+]

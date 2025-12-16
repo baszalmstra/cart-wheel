@@ -1,0 +1,86 @@
+{
+  "sagemaker_mlops-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "931595092ad4df1e36aae903e51f82ed497704b07e33e0ccc2227747d059bd94",
+    "dependencies": {
+      "required": [
+        "sagemaker-core",
+        "sagemaker-train",
+        "sagemaker-serve",
+        "boto3",
+        "botocore"
+      ]
+    },
+    "original_requirements": [
+      "sagemaker-core>=2.1.1",
+      "sagemaker-train>=1.1.1",
+      "sagemaker-serve>=1.1.1",
+      "boto3<2.0,>=1.42.2",
+      "botocore<2.0,>=1.42.2",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "mock; extra == \"test\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "mock; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "flake8; extra == \"dev\""
+    ]
+  },
+  "sagemaker_mlops-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bb91e896081dab9f9628dc35e3fd54ee4594f8ff24953d580d3cf5f630134e79",
+    "dependencies": {
+      "required": [
+        "sagemaker-core",
+        "sagemaker-train",
+        "sagemaker-serve",
+        "boto3",
+        "botocore"
+      ]
+    },
+    "original_requirements": [
+      "sagemaker-core>=2.1.0",
+      "sagemaker-train>=1.1.0",
+      "sagemaker-serve>=1.1.0",
+      "boto3<2.0,>=1.42.2",
+      "botocore<2.0,>=1.42.2",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "mock; extra == \"test\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "mock; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "flake8; extra == \"dev\""
+    ]
+  },
+  "sagemaker_mlops-1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2af0c5fd26eb5827752fcff4727735f6917eb27d118c1b8a9e13cf5ed37ca900",
+    "dependencies": {
+      "required": [
+        "sagemaker-core",
+        "sagemaker-train",
+        "sagemaker-serve",
+        "boto3",
+        "botocore"
+      ]
+    },
+    "original_requirements": [
+      "sagemaker-core>=2.0.0",
+      "sagemaker-train>=0.1.0",
+      "sagemaker-serve>=0.1.0",
+      "boto3<2.0,>=1.35.75",
+      "botocore<2.0,>=1.35.75",
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "mock; extra == \"test\"",
+      "pytest; extra == \"dev\"",
+      "pytest-cov; extra == \"dev\"",
+      "mock; extra == \"dev\"",
+      "black; extra == \"dev\"",
+      "flake8; extra == \"dev\""
+    ]
+  }
+}

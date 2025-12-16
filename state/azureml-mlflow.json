@@ -1,0 +1,179 @@
+{
+  "azureml_mlflow-1.61.0.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b663bdc7f016bf88cd758bbe6f253c2dcc0ce53a60e539c503aa8e939469c4b9",
+    "dependencies": {
+      "required": [
+        "jsonpickle",
+        "mlflow-skinny",
+        "azure-identity",
+        "msrest",
+        "azure-core",
+        "azure-mgmt-core",
+        "azure-storage-blob",
+        "azure-common",
+        "cryptography",
+        "python-dateutil",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "jsonpickle<5.0.0",
+      "mlflow-skinny<=3.5.0",
+      "azure-identity",
+      "msrest>=0.6.18",
+      "azure-core!=1.22.0,<2.0.0,>=1.8.0",
+      "azure-mgmt-core<2.0.0,>=1.2.0",
+      "azure-storage-blob<=12.19.0,>=12.5.0",
+      "azure-common<2.0.0,>=1.1",
+      "cryptography<46.0.0",
+      "python-dateutil<3.0.0,>=2.7.3",
+      "pytz<=2025.2",
+      "flask; extra == \"deployments\"",
+      "numpy; extra == \"deployments\"",
+      "pandas; extra == \"deployments\""
+    ]
+  },
+  "azureml_mlflow-1.61.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9b3b457a01645bf713096215a0e889defb0c833e98e98857128815623e133234",
+    "dependencies": {
+      "required": [
+        "jsonpickle",
+        "mlflow-skinny",
+        "azure-identity",
+        "msrest",
+        "azure-core",
+        "azure-mgmt-core",
+        "azure-storage-blob",
+        "azure-common",
+        "cryptography",
+        "python-dateutil",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "jsonpickle<5.0.0",
+      "mlflow-skinny<=3.5.0",
+      "azure-identity",
+      "msrest>=0.6.18",
+      "azure-core!=1.22.0,<2.0.0,>=1.8.0",
+      "azure-mgmt-core<2.0.0,>=1.2.0",
+      "azure-storage-blob<=12.19.0,>=12.5.0",
+      "azure-common<2.0.0,>=1.1",
+      "cryptography<46.0.0",
+      "python-dateutil<3.0.0,>=2.7.3",
+      "pytz<=2025.2",
+      "flask; extra == \"deployments\"",
+      "numpy; extra == \"deployments\"",
+      "pandas; extra == \"deployments\""
+    ]
+  },
+  "azureml_mlflow-1.60.0.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2de4039ef1ac9e3a959ccd090af42cf265b71fdb44492e10b6912bc2383262f2",
+    "dependencies": {
+      "required": [
+        "jsonpickle",
+        "mlflow-skinny",
+        "azure-identity",
+        "msrest",
+        "azure-core",
+        "azure-mgmt-core",
+        "azure-storage-blob",
+        "azure-common",
+        "cryptography",
+        "python-dateutil",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "jsonpickle<5.0.0",
+      "mlflow-skinny<3.0.0",
+      "azure-identity",
+      "msrest>=0.6.18",
+      "azure-core!=1.22.0,<2.0.0,>=1.8.0",
+      "azure-mgmt-core<2.0.0,>=1.2.0",
+      "azure-storage-blob<=12.19.0,>=12.5.0",
+      "azure-common<2.0.0,>=1.1",
+      "cryptography",
+      "python-dateutil<3.0.0,>=2.7.3",
+      "pytz",
+      "flask; extra == \"deployments\"",
+      "numpy; extra == \"deployments\"",
+      "pandas; extra == \"deployments\""
+    ]
+  },
+  "azureml_mlflow-1.60.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9074fa389cf24f16f3aff7d7cda62a658c93b65a4aecc3dd50a5f1e45909687f",
+    "dependencies": {
+      "required": [
+        "jsonpickle",
+        "mlflow-skinny",
+        "azure-identity",
+        "msrest",
+        "azure-core",
+        "azure-mgmt-core",
+        "azure-storage-blob",
+        "azure-common",
+        "cryptography",
+        "python-dateutil",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "jsonpickle",
+      "mlflow-skinny",
+      "azure-identity",
+      "msrest>=0.6.18",
+      "azure-core!=1.22.0,<2.0.0,>=1.8.0",
+      "azure-mgmt-core<2.0.0,>=1.2.0",
+      "azure-storage-blob<=12.19.0,>=12.5.0",
+      "azure-common<2.0.0,>=1.1",
+      "cryptography",
+      "python-dateutil<3.0.0,>=2.7.3",
+      "pytz",
+      "flask; extra == \"deployments\"",
+      "numpy; extra == \"deployments\"",
+      "pandas; extra == \"deployments\""
+    ]
+  },
+  "azureml_mlflow-1.59.0.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c421e014d48c4949350aca7953cc9175e5467e269c0242adfa95506488b756b4",
+    "dependencies": {
+      "required": [
+        "jsonpickle",
+        "mlflow-skinny",
+        "azure-identity",
+        "msrest",
+        "azure-core",
+        "azure-mgmt-core",
+        "azure-storage-blob",
+        "azure-common",
+        "cryptography",
+        "python-dateutil",
+        "protobuf",
+        "pytz"
+      ]
+    },
+    "original_requirements": [
+      "jsonpickle",
+      "mlflow-skinny",
+      "azure-identity",
+      "msrest>=0.6.18",
+      "azure-core!=1.22.0,<2.0.0,>=1.8.0",
+      "azure-mgmt-core<2.0.0,>=1.2.0",
+      "azure-storage-blob<=12.19.0,>=12.5.0",
+      "azure-common<2.0.0,>=1.1",
+      "cryptography",
+      "python-dateutil<3.0.0,>=2.7.3",
+      "protobuf<=5.28.3",
+      "pytz",
+      "flask; extra == \"deployments\"",
+      "numpy; extra == \"deployments\"",
+      "pandas; extra == \"deployments\""
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# Package configuration for oslo.i18n
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "oslo_i18n-6.7.1-py3-none-any.whl" },
+  { filename = "oslo_i18n-6.7.0-py3-none-any.whl" },
+  { filename = "oslo_i18n-6.6.0-py3-none-any.whl" },
+  { filename = "oslo.i18n-6.5.1-py3-none-any.whl" },
+  { filename = "oslo.i18n-6.5.0-py3-none-any.whl" },
+]

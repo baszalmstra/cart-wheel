@@ -1,0 +1,70 @@
+{
+  "cron_descriptor-2.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "3a1c0d837c0e5a32e415f821b36cf758eb92d510e6beff8fbfe4fa16573d93d6",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions",
+      "ruff; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "polib; extra == \"dev\"",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "cron_descriptor-2.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "386a1d75c57410cf5cb719e08eefbea2c0c076c4a798aa6d7bf51816112fbbd1",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing_extensions",
+      "ruff; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "polib; extra == \"dev\"",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "cron_descriptor-2.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9e1bb97d49ee2e4fab30cdd79e73c783ec43f688ffadf09f919f3572c89c3958",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruff; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "polib; extra == \"dev\"",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "cron_descriptor-2.0.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "17a76079e1a680d3161fc619fb84c42fea1005bff88c32878b1d0579f30f08a6",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "ruff; extra == \"dev\"",
+      "mypy; extra == \"dev\"",
+      "polib; extra == \"dev\"",
+      "pytest; extra == \"test\""
+    ]
+  },
+  "cron_descriptor-1.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "736b3ae9d1a99bc3dbfc5b55b5e6e7c12031e7ba5de716625772f8b02dcd6013",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "polib ; extra == 'dev'"
+    ]
+  }
+}

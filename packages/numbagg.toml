@@ -1,0 +1,12 @@
+# Package configuration for numbagg
+conda_forge = "numbagg"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "numbagg-0.9.3-py3-none-any.whl" },
+  { filename = "numbagg-0.9.2-py3-none-any.whl" },
+  { filename = "numbagg-0.9.0-py3-none-any.whl" },
+  { filename = "numbagg-0.8.2-py3-none-any.whl" },
+  { filename = "numbagg-0.8.1-py3-none-any.whl" },
+]

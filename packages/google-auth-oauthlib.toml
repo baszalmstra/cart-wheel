@@ -1,0 +1,12 @@
+# Package configuration for google-auth-oauthlib
+conda_forge = "google-auth-oauthlib"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "google_auth_oauthlib-1.2.3-py3-none-any.whl" },
+  { filename = "google_auth_oauthlib-1.2.2-py3-none-any.whl" },
+  { filename = "google_auth_oauthlib-1.2.1-py2.py3-none-any.whl" },
+  { filename = "google_auth_oauthlib-1.2.0-py2.py3-none-any.whl" },
+  { filename = "google_auth_oauthlib-1.1.0-py2.py3-none-any.whl" },
+]

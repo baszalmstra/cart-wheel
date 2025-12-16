@@ -1,0 +1,26 @@
+{
+  "user_agents-2.2.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a98c4dc72ecbc64812c4534108806fb0a0b3a11ec3fd1eafe807cee5b0a942e7",
+    "dependencies": {
+      "required": [
+        "ua-parser"
+      ]
+    },
+    "original_requirements": [
+      "ua-parser (>=0.10.0)"
+    ]
+  },
+  "user_agents-2.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a0aadd6604d224ed01f94ee8783aa1e7ddf8c116ecadc460c9a98acdea20a66f",
+    "dependencies": {
+      "required": [
+        "ua-parser"
+      ]
+    },
+    "original_requirements": [
+      "ua-parser (>=0.10.0)"
+    ]
+  }
+}

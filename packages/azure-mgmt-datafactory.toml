@@ -1,0 +1,12 @@
+# Package configuration for azure-mgmt-datafactory
+conda_forge = "azure-mgmt-datafactory"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "azure_mgmt_datafactory-9.2.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_datafactory-9.1.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_datafactory-9.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_datafactory-8.0.0-py3-none-any.whl" },
+  { filename = "azure_mgmt_datafactory-7.1.0-py3-none-any.whl" },
+]

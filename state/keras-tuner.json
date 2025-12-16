@@ -1,0 +1,191 @@
+{
+  "keras_tuner-1.4.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "53034e71608051a17c7f764f282e1e54b52c4d69c05a30f1e8891c8e5ea7739f",
+    "dependencies": {
+      "required": [
+        "keras",
+        "packaging",
+        "requests",
+        "kt-legacy",
+        "grpcio",
+        "protobuf"
+      ]
+    },
+    "original_requirements": [
+      "keras",
+      "packaging",
+      "requests",
+      "kt-legacy",
+      "grpcio",
+      "protobuf",
+      "tensorflow>=2.0; extra == \"tensorflow\"",
+      "tensorflow-cpu>=2.0; extra == \"tensorflow-cpu\"",
+      "black; extra == \"tests\"",
+      "flake8; extra == \"tests\"",
+      "isort; extra == \"tests\"",
+      "ipython; extra == \"tests\"",
+      "pandas; extra == \"tests\"",
+      "portpicker; extra == \"tests\"",
+      "pytest; extra == \"tests\"",
+      "pytest-cov; extra == \"tests\"",
+      "pytest-xdist; extra == \"tests\"",
+      "namex; extra == \"tests\"",
+      "scikit-learn; extra == \"tests\"",
+      "scipy; extra == \"tests\"",
+      "scikit-learn; extra == \"bayesian\"",
+      "scipy; extra == \"bayesian\"",
+      "tensorflow-cpu; extra == \"build\"",
+      "namex; extra == \"build\"",
+      "build; extra == \"build\""
+    ]
+  },
+  "keras_tuner-1.4.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0bcf0220eccc74e7a6a9bd7c8e58531a1af8515019e6bc2dc495833155c07fe2",
+    "dependencies": {
+      "required": [
+        "keras",
+        "packaging",
+        "requests",
+        "kt-legacy"
+      ]
+    },
+    "original_requirements": [
+      "keras",
+      "packaging",
+      "requests",
+      "kt-legacy",
+      "scikit-learn ; extra == 'bayesian'",
+      "scipy ; extra == 'bayesian'",
+      "tensorflow-cpu ; extra == 'build'",
+      "namex ; extra == 'build'",
+      "build ; extra == 'build'",
+      "tensorflow >=2.0 ; extra == 'tensorflow'",
+      "tensorflow-cpu >=2.0 ; extra == 'tensorflow-cpu'",
+      "black ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "isort ; extra == 'tests'",
+      "ipython ; extra == 'tests'",
+      "pandas ; extra == 'tests'",
+      "portpicker ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "namex ; extra == 'tests'",
+      "scikit-learn ; extra == 'tests'",
+      "scipy ; extra == 'tests'"
+    ]
+  },
+  "keras_tuner-1.4.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d708fc8fda0ecc70c70c4bbe0efd4b53e46e22297c66b7e839f141d0df1cde2c",
+    "dependencies": {
+      "required": [
+        "keras",
+        "packaging",
+        "requests",
+        "kt-legacy"
+      ]
+    },
+    "original_requirements": [
+      "keras",
+      "packaging",
+      "requests",
+      "kt-legacy",
+      "scikit-learn ; extra == 'bayesian'",
+      "scipy ; extra == 'bayesian'",
+      "tensorflow-cpu ; extra == 'build'",
+      "namex ; extra == 'build'",
+      "build ; extra == 'build'",
+      "tensorflow >=2.0 ; extra == 'tensorflow'",
+      "tensorflow-cpu >=2.0 ; extra == 'tensorflow-cpu'",
+      "black ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "isort ; extra == 'tests'",
+      "ipython ; extra == 'tests'",
+      "pandas ; extra == 'tests'",
+      "portpicker ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "namex ; extra == 'tests'",
+      "scikit-learn ; extra == 'tests'",
+      "scipy ; extra == 'tests'"
+    ]
+  },
+  "keras_tuner-1.4.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e469fcba6a9c3852fd32b80fed5bd9bb8ac4d5cb5034e43443d7bc7f33913f17",
+    "dependencies": {
+      "required": [
+        "keras-core",
+        "packaging",
+        "requests",
+        "kt-legacy"
+      ]
+    },
+    "original_requirements": [
+      "keras-core",
+      "packaging",
+      "requests",
+      "kt-legacy",
+      "scikit-learn ; extra == 'bayesian'",
+      "scipy ; extra == 'bayesian'",
+      "tensorflow-cpu ; extra == 'build'",
+      "namex ; extra == 'build'",
+      "build ; extra == 'build'",
+      "tensorflow >=2.0 ; extra == 'tensorflow'",
+      "tensorflow-cpu >=2.0 ; extra == 'tensorflow-cpu'",
+      "black ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "isort ; extra == 'tests'",
+      "ipython ; extra == 'tests'",
+      "pandas ; extra == 'tests'",
+      "portpicker ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "namex ; extra == 'tests'",
+      "scikit-learn ; extra == 'tests'",
+      "scipy ; extra == 'tests'"
+    ]
+  },
+  "keras_tuner-1.4.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d38c07ee50ec6fb321baa0dabc6f73a10c3a9d9f5b5b8d7c002d6e52b98b2f2e",
+    "dependencies": {
+      "required": [
+        "keras-core",
+        "packaging",
+        "requests",
+        "kt-legacy"
+      ]
+    },
+    "original_requirements": [
+      "keras-core",
+      "packaging",
+      "requests",
+      "kt-legacy",
+      "scikit-learn ; extra == 'bayesian'",
+      "scipy ; extra == 'bayesian'",
+      "tensorflow-cpu ; extra == 'build'",
+      "namex ; extra == 'build'",
+      "build ; extra == 'build'",
+      "tensorflow >=2.0 ; extra == 'tensorflow'",
+      "tensorflow-cpu >=2.0 ; extra == 'tensorflow-cpu'",
+      "black ; extra == 'tests'",
+      "flake8 ; extra == 'tests'",
+      "isort ; extra == 'tests'",
+      "ipython ; extra == 'tests'",
+      "pandas ; extra == 'tests'",
+      "portpicker ; extra == 'tests'",
+      "pytest ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "pytest-xdist ; extra == 'tests'",
+      "namex ; extra == 'tests'",
+      "scikit-learn ; extra == 'tests'",
+      "scipy ; extra == 'tests'"
+    ]
+  }
+}

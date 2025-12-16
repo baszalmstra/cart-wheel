@@ -1,0 +1,12 @@
+# Package configuration for pytest-base-url
+conda_forge = "pytest-base-url"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_base_url-2.1.0-py3-none-any.whl" },
+  { filename = "pytest_base_url-2.0.0-py3-none-any.whl" },
+  { filename = "pytest_base_url-1.4.2-py2.py3-none-any.whl" },
+  { filename = "pytest_base_url-1.4.1-py2.py3-none-any.whl" },
+  { filename = "pytest_base_url-1.4.0-py2.py3-none-any.whl" },
+]

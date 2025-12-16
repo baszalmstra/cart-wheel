@@ -1,0 +1,11 @@
+# Package configuration for funcsigs
+conda_forge = "funcsigs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "funcsigs-1.0.2-py2.py3-none-any.whl" },
+  { filename = "funcsigs-1.0.1-py2.py3-none-any.whl" },
+  { filename = "funcsigs-1.0.0-py2.py3-none-any.whl" },
+  { filename = "funcsigs-0.4-py2.py3-none-any.whl" },
+]

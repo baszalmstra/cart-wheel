@@ -1,0 +1,73 @@
+{
+  "svg_path-7.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "447cb1e16a95acea2dd867fe737fa99cb75d587b4fc64dbee709a8dd6891ad9c",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == \"test\"",
+      "pytest-cov; extra == \"test\"",
+      "Pillow; extra == \"test\"",
+      "black; extra == \"test\"",
+      "flake8; extra == \"test\"",
+      "pyroma; extra == \"test\"",
+      "check-manifest; extra == \"test\"",
+      "mypy; extra == \"test\"",
+      "zest.releaser[recommended]; extra == \"test\""
+    ]
+  },
+  "svg.path-6.3-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4bd4747679b527f8db9868e1623bee9f416540b658285d903885768d8a427e5a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Pillow ; extra == 'test'",
+      "black ; extra == 'test'",
+      "check-manifest ; extra == 'test'",
+      "flake8 ; extra == 'test'",
+      "pyroma ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'",
+      "zest.releaser[recommended] ; extra == 'test'"
+    ]
+  },
+  "svg.path-6.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c3b12e6d372771b466078837252eb13b655ea2658437c426cc67fc6262433dc8",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Pillow ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "svg.path-6.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03fe9d9df412e8ee3eb6d54c319a6b55d41f1787806eb6fd92c751af76e9a6da",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Pillow ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  },
+  "svg.path-6.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "609e676201befe817433d2df6d0fd94ff4103b45d13bc545e8bd37d37f5d482a",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "Pillow ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-cov ; extra == 'test'"
+    ]
+  }
+}

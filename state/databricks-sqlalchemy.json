@@ -1,0 +1,82 @@
+{
+  "databricks_sqlalchemy-2.0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "755b6f9dc2aaabfdc1243064f4054b8dc325da342bc9939b84988e00938b3c56",
+    "dependencies": {
+      "required": [
+        "databricks-sql-connector",
+        "pyarrow",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "databricks_sql_connector (>=4.0.0)",
+      "pyarrow (>=14.0.1)",
+      "sqlalchemy (>=2.0.21)"
+    ]
+  },
+  "databricks_sqlalchemy-2.0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "84e40ebd96440ae9456935acb34bfb51fa71745ee0ebc7c5c64948d09203b9f2",
+    "dependencies": {
+      "required": [
+        "databricks-sql-connector",
+        "pyarrow",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "databricks_sql_connector (>=4.0.0)",
+      "pyarrow (>=14.0.1)",
+      "sqlalchemy (>=2.0.21)"
+    ]
+  },
+  "databricks_sqlalchemy-2.0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "97de6739d41461cf37f8a42f1096b0c51ca105b5e963e79655d606126c1eb112",
+    "dependencies": {
+      "required": [
+        "databricks-sql-connector",
+        "pyarrow",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "databricks_sql_connector (>=4.0.0)",
+      "pyarrow (>=14.0.1)",
+      "sqlalchemy (>=2.0.21)"
+    ]
+  },
+  "databricks_sqlalchemy-2.0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "22c13340cc85fab03e067726c32d0569a9de7d6e975bfb6914771f7c8c347307",
+    "dependencies": {
+      "required": [
+        "databricks-sql-connector",
+        "pyarrow",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "databricks_sql_connector (>=4.0.0)",
+      "pyarrow (>=14.0.1,<17)",
+      "sqlalchemy (>=2.0.21)"
+    ]
+  },
+  "databricks_sqlalchemy-2.0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b429b151a4a5f0aeacfe32996595fbc7d775b4796a0de01429e59a2c7d47970b",
+    "dependencies": {
+      "required": [
+        "databricks-sql-connector",
+        "pyarrow",
+        "sqlalchemy"
+      ]
+    },
+    "original_requirements": [
+      "databricks_sql_connector (>=4.0.0)",
+      "pyarrow (>=14.0.1,<17)",
+      "sqlalchemy (>=2.0.21)"
+    ]
+  }
+}

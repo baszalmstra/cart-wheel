@@ -1,0 +1,11 @@
+# Package configuration for sigstore-rekor-types
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sigstore_rekor_types-0.0.18-py3-none-any.whl" },
+  { filename = "sigstore_rekor_types-0.0.17-py3-none-any.whl" },
+  { filename = "sigstore_rekor_types-0.0.13-py3-none-any.whl" },
+  { filename = "sigstore_rekor_types-0.0.11-py3-none-any.whl" },
+  { filename = "sigstore_rekor_types-0.0.9-py3-none-any.whl" },
+]

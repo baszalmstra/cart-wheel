@@ -1,0 +1,91 @@
+{
+  "fasta2a-0.6.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "23d49307f6a372e07b9ec9a21187a0864429145e8ded4a41262bd33e2ecaee4c",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "opentelemetry-api",
+        "pydantic",
+        "starlette"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2.2; python_version <= '3.9'",
+      "opentelemetry-api>=1.28.0",
+      "pydantic>=2.10",
+      "starlette>0.29.0",
+      "logfire>=2.3; extra == 'logfire'"
+    ]
+  },
+  "fasta2a-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "806f4bbd6cd2858ca631d47e75f3bbf4746ff0752ccca38edbfe85930c4ffbe2",
+    "dependencies": {
+      "required": [
+        "eval-type-backport",
+        "opentelemetry-api",
+        "pydantic",
+        "starlette"
+      ]
+    },
+    "original_requirements": [
+      "eval-type-backport>=0.2.2; python_version <= '3.9'",
+      "opentelemetry-api>=1.28.0",
+      "pydantic>=2.10",
+      "starlette>0.29.0",
+      "logfire>=2.3; extra == 'logfire'"
+    ]
+  },
+  "fasta2a-0.4.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f0b4a8162bd7fc9a363ef3724c395c5cb97e87d9d03769b9faaf675389c7fdfb",
+    "dependencies": {
+      "required": [
+        "opentelemetry-api",
+        "pydantic",
+        "starlette"
+      ]
+    },
+    "original_requirements": [
+      "opentelemetry-api>=1.28.0",
+      "pydantic>=2.10",
+      "starlette>0.29.0",
+      "logfire>=2.3; extra == 'logfire'"
+    ]
+  },
+  "fasta2a-0.4.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3cb97038f829370668c45e086658b010442a067e48f5b04b9b0066b54cd259b",
+    "dependencies": {
+      "required": [
+        "opentelemetry-api",
+        "pydantic",
+        "starlette"
+      ]
+    },
+    "original_requirements": [
+      "opentelemetry-api>=1.28.0",
+      "pydantic>=2.10",
+      "starlette>0.29.0",
+      "logfire>=2.3; extra == 'logfire'"
+    ]
+  },
+  "fasta2a-0.3.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "80ef70bc8c8e1698e359dc03e7acccb4a82fc62049eae866ea2e5594fb8a8204",
+    "dependencies": {
+      "required": [
+        "opentelemetry-api",
+        "pydantic",
+        "starlette"
+      ]
+    },
+    "original_requirements": [
+      "opentelemetry-api>=1.28.0",
+      "pydantic>=2.10",
+      "starlette>0.29.0",
+      "logfire>=2.3; extra == 'logfire'"
+    ]
+  }
+}

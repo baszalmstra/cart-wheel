@@ -1,0 +1,94 @@
+{
+  "pytorch_optimizer-3.8.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1719d8d3253696a78df9a448677341d8c4344bcda5e5b2212a10762329204a65",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "numpy",
+        "torch",
+        "torch",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "numpy (<=1.24.4) ; python_version < \"3.9\"",
+      "numpy (>1.24.4) ; python_version >= \"3.9\"",
+      "torch (>=1.10) ; python_version >= \"3.10\"",
+      "torch (>=1.10,<2.5) ; python_version < \"3.9\"",
+      "torch (>=1.10,<2.9) ; python_version == \"3.9\""
+    ]
+  },
+  "pytorch_optimizer-3.8.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0c1f6f726359a992137c2265cada4c25055bfcc9bdae10aa61024d7053994c15",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "numpy",
+        "torch",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "numpy (<=1.24.4) ; python_version < \"3.9\"",
+      "numpy (>1.24.4) ; python_version >= \"3.9\"",
+      "torch (>=1.10) ; python_version >= \"3.9\"",
+      "torch (>=1.10,<2.5) ; python_version < \"3.9\""
+    ]
+  },
+  "pytorch_optimizer-3.8.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c5df524558e379d5076102db64ed361cdb905fd02a18d20d854513e77c9b66e1",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "numpy",
+        "torch",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "numpy (<=1.24.4) ; python_version < \"3.9\"",
+      "numpy (>1.24.4) ; python_version >= \"3.9\"",
+      "torch (>=1.10) ; python_version >= \"3.9\"",
+      "torch (>=1.10,<2.5) ; python_version < \"3.9\""
+    ]
+  },
+  "pytorch_optimizer-3.7.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "70290a519a321db075588ef7115eecda7e90c5f1e1540dbf69844fd21078de37",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "numpy",
+        "torch",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "numpy (<=1.24.4) ; python_version < \"3.9\"",
+      "numpy (>1.24.4) ; python_version >= \"3.9\"",
+      "torch (>=1.10) ; python_version >= \"3.9\"",
+      "torch (>=1.10,<2.5) ; python_version < \"3.9\""
+    ]
+  },
+  "pytorch_optimizer-3.6.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f3db5ed089d229f7d8722f340d3bbde513ff8838fb9b0650eef03be8c3dacc5",
+    "dependencies": {
+      "required": [
+        "numpy",
+        "numpy",
+        "torch",
+        "torch"
+      ]
+    },
+    "original_requirements": [
+      "numpy (<=1.24.4) ; python_version < \"3.9\"",
+      "numpy (>1.24.4) ; python_version >= \"3.9\"",
+      "torch (>=1.10) ; python_version >= \"3.9\"",
+      "torch (>=1.10,<2.5) ; python_version < \"3.9\""
+    ]
+  }
+}

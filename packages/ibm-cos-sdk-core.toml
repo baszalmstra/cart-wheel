@@ -1,0 +1,8 @@
+# Package configuration for ibm-cos-sdk-core
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "ibm_cos_sdk_core-1.2.0-py2.py3-none-any.whl" },
+  { filename = "ibm_cos_sdk_core-1.1.1-py2.py3-none-any.whl" },
+]

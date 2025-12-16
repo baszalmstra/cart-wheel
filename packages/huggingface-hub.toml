@@ -1,0 +1,12 @@
+# Package configuration for huggingface-hub
+conda_forge = "huggingface_hub"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "huggingface_hub-1.2.3-py3-none-any.whl" },
+  { filename = "huggingface_hub-1.2.2-py3-none-any.whl" },
+  { filename = "huggingface_hub-1.2.1-py3-none-any.whl" },
+  { filename = "huggingface_hub-1.2.0-py3-none-any.whl" },
+  { filename = "huggingface_hub-1.1.7-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for apeye
+conda_forge = "apeye"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "apeye-1.4.1-py3-none-any.whl" },
+  { filename = "apeye-1.4.0-py3-none-any.whl" },
+  { filename = "apeye-1.3.0-py3-none-any.whl" },
+  { filename = "apeye-1.2.0-py3-none-any.whl" },
+  { filename = "apeye-1.1.0-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for expecttest
+conda_forge = "expecttest"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "expecttest-0.3.0-py3-none-any.whl" },
+  { filename = "expecttest-0.2.1-py3-none-any.whl" },
+  { filename = "expecttest-0.2.0-py3-none-any.whl" },
+  { filename = "expecttest-0.1.6-py3-none-any.whl" },
+  { filename = "expecttest-0.1.5-py3-none-any.whl" },
+]

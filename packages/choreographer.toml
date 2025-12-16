@@ -1,0 +1,12 @@
+# Package configuration for choreographer
+conda_forge = "choreographer"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "choreographer-1.2.1-py3-none-any.whl" },
+  { filename = "choreographer-1.2.0-py3-none-any.whl" },
+  { filename = "choreographer-1.1.2-py3-none-any.whl" },
+  { filename = "choreographer-1.1.1-py3-none-any.whl" },
+  { filename = "choreographer-1.1.0-py3-none-any.whl" },
+]

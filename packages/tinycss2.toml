@@ -1,0 +1,12 @@
+# Package configuration for tinycss2
+conda_forge = "tinycss2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tinycss2-1.5.1-py3-none-any.whl" },
+  { filename = "tinycss2-1.5.0-py3-none-any.whl" },
+  { filename = "tinycss2-1.4.0-py3-none-any.whl" },
+  { filename = "tinycss2-1.3.0-py3-none-any.whl" },
+  { filename = "tinycss2-1.2.1-py3-none-any.whl" },
+]

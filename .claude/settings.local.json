@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(pixi run:*)"
+      "Bash(pixi run:*)",
+      "Bash(git checkout:*)"
     ]
   }
 }

@@ -1,0 +1,72 @@
+{
+  "pyobjc_framework_searchkit-12.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "844ce62b7296b19da8db7dedd539d07f7b3fb3bb8b029c261f7bcf0e01a97758",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-coreservices"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.1",
+      "pyobjc-framework-CoreServices>=12.1"
+    ]
+  },
+  "pyobjc_framework_searchkit-12.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "12dd4a566df2616dad316c95eb5b77fe7f98428a8cb707aee814328ce07bd6a8",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-coreservices"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=12.0",
+      "pyobjc-framework-CoreServices>=12.0"
+    ]
+  },
+  "pyobjc_framework_searchkit-11.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9c9d6ca71cef637ccc3627225fb924a460b3d0618ed79bb0b3c12fcbe9270323",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-coreservices"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=11.1",
+      "pyobjc-framework-CoreServices>=11.1"
+    ]
+  },
+  "pyobjc_framework_SearchKit-11.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "332f9d30ec3b223efaac681fbdd923ba660575e241abb4ed5e03207c97799530",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-coreservices"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core >=11.0",
+      "pyobjc-framework-CoreServices >=11.0"
+    ]
+  },
+  "pyobjc_framework_SearchKit-10.3.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e0d80867d2367b6c1b0367b9f5cb8295284608c5a589f85c0ce3479593918479",
+    "dependencies": {
+      "required": [
+        "pyobjc-core",
+        "pyobjc-framework-coreservices"
+      ]
+    },
+    "original_requirements": [
+      "pyobjc-core>=10.3.2",
+      "pyobjc-framework-CoreServices>=10.3.2"
+    ]
+  }
+}

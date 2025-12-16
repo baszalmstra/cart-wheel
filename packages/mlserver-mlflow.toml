@@ -1,0 +1,11 @@
+# Package configuration for mlserver-mlflow
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mlserver_mlflow-1.7.1-py3-none-any.whl" },
+  { filename = "mlserver_mlflow-1.7.0-py3-none-any.whl" },
+  { filename = "mlserver_mlflow-1.6.1-py3-none-any.whl" },
+  { filename = "mlserver_mlflow-1.6.0-py3-none-any.whl" },
+  { filename = "mlserver_mlflow-1.5.0-py3-none-any.whl" },
+]

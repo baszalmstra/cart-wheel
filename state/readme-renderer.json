@@ -1,0 +1,87 @@
+{
+  "readme_renderer-44.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2fbca89b81a08526aadf1357a8c2ae889ec05fb03f5da67f9769c9a592166151",
+    "dependencies": {
+      "required": [
+        "nh3",
+        "docutils",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "nh3 >=0.2.14",
+      "docutils >=0.21.2",
+      "Pygments >=2.5.1",
+      "cmarkgfm >=0.8.0 ; extra == 'md'"
+    ]
+  },
+  "readme_renderer-43.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "19db308d86ecd60e5affa3b2a98f017af384678c63c88e5d4556a380e674f3f9",
+    "dependencies": {
+      "required": [
+        "nh3",
+        "docutils",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "nh3 >=0.2.14",
+      "docutils >=0.13.1",
+      "Pygments >=2.5.1",
+      "cmarkgfm >=0.8.0 ; extra == 'md'"
+    ]
+  },
+  "readme_renderer-42.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "13d039515c1f24de668e2c93f2e877b9dbe6c6c32328b90a40a49d8b2b85f36d",
+    "dependencies": {
+      "required": [
+        "nh3",
+        "docutils",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "nh3 >=0.2.14",
+      "docutils >=0.13.1",
+      "Pygments >=2.5.1",
+      "cmarkgfm >=0.8.0 ; extra == 'md'"
+    ]
+  },
+  "readme_renderer-41.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a38243d5b6741b700a850026e62da4bd739edc7422071e95fd5c4bb60171df86",
+    "dependencies": {
+      "required": [
+        "bleach",
+        "docutils",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "bleach >=2.1.0",
+      "docutils >=0.13.1",
+      "Pygments >=2.5.1",
+      "cmarkgfm >=0.8.0 ; extra == 'md'"
+    ]
+  },
+  "readme_renderer-40.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e18feb2a1e7706f2865b81ebb460056d93fb29d69daa10b223c00faa7bd9a00a",
+    "dependencies": {
+      "required": [
+        "bleach",
+        "docutils",
+        "pygments"
+      ]
+    },
+    "original_requirements": [
+      "bleach (>=2.1.0)",
+      "docutils (>=0.13.1)",
+      "Pygments (>=2.5.1)",
+      "cmarkgfm (>=0.8.0) ; extra == 'md'"
+    ]
+  }
+}

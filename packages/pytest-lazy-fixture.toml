@@ -1,0 +1,12 @@
+# Package configuration for pytest-lazy-fixture
+conda_forge = "pytest-lazy-fixture"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pytest_lazy_fixture-0.6.3-py3-none-any.whl" },
+  { filename = "pytest_lazy_fixture-0.6.2-py3-none-any.whl" },
+  { filename = "pytest_lazy_fixture-0.6.1-py3-none-any.whl" },
+  { filename = "pytest_lazy_fixture-0.6.0-py3-none-any.whl" },
+  { filename = "pytest_lazy_fixture-0.5.2-py3-none-any.whl" },
+]

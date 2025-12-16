@@ -1,0 +1,12 @@
+# Package configuration for click-option-group
+conda_forge = "click-option-group"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "click_option_group-0.5.9-py3-none-any.whl" },
+  { filename = "click_option_group-0.5.8-py3-none-any.whl" },
+  { filename = "click_option_group-0.5.7-py3-none-any.whl" },
+  { filename = "click_option_group-0.5.6-py3-none-any.whl" },
+  { filename = "click_option_group-0.5.5-py3-none-any.whl" },
+]

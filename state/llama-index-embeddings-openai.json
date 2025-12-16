@@ -1,0 +1,72 @@
+{
+  "llama_index_embeddings_openai-0.5.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a2fcda3398bbd987b5ce3f02367caee8e84a56b930fdf43cc1d059aa9fd20ca5",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.15,>=0.13.0",
+      "openai>=1.1.0"
+    ]
+  },
+  "llama_index_embeddings_openai-0.5.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d817edb22e3ff475e8cd1833faf1147028986bc1d688f7894ef947558864b728",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core<0.14,>=0.13.0",
+      "openai>=1.1.0"
+    ]
+  },
+  "llama_index_embeddings_openai-0.3.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f15a3d13da9b6b21b8bd51d337197879a453d1605e625a1c6d45e741756c0290",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core (>=0.12.0,<0.13.0)",
+      "openai (>=1.1.0)"
+    ]
+  },
+  "llama_index_embeddings_openai-0.3.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f6817b856ed3b1afc0d0e1974ef3590f23f3bd9601737a50ccf485485d048e2d",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core (>=0.12.0,<0.13.0)",
+      "openai (>=1.1.0)"
+    ]
+  },
+  "llama_index_embeddings_openai-0.2.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "823c8311e556349ba19dda408a64a314fa3dafe0e5759709c54d33a0269aa6ba",
+    "dependencies": {
+      "required": [
+        "llama-index-core",
+        "openai"
+      ]
+    },
+    "original_requirements": [
+      "llama-index-core (>=0.11.0,<0.12.0)",
+      "openai (>=1.1.0)"
+    ]
+  }
+}

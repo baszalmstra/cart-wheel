@@ -1,0 +1,82 @@
+{
+  "langchain_db2-1.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1c089684b205487fef4d602fc7813b8419288c58f5eca5d3dc68fb3791b98632",
+    "dependencies": {
+      "required": [
+        "langchain-core",
+        "langchain-community",
+        "ibm-db"
+      ]
+    },
+    "original_requirements": [
+      "langchain-core<2.0.0,>=1.0.0",
+      "langchain-community<2.0.0,>=0.4.0",
+      "ibm-db<4.0.0,>=3.2.6"
+    ]
+  },
+  "langchain_db2-0.1.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "44984794c7bac79fa56f9f00c571588cfeada3597c00d8550f7bb1e356b2fe11",
+    "dependencies": {
+      "required": [
+        "ibm-db",
+        "langchain-community",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "ibm-db (>=3.2.6,<4.0.0)",
+      "langchain-community (>=0.3.20,<0.4.0)",
+      "langchain-core (>=0.3.15,<0.4.0)"
+    ]
+  },
+  "langchain_db2-0.1.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "49392b71169ec8e7ec4116b29f41a2369acc773f6521d465174733f04d58e79f",
+    "dependencies": {
+      "required": [
+        "ibm-db",
+        "langchain-community",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "ibm-db (>=3.2.6,<4.0.0)",
+      "langchain-community (>=0.3.20,<0.4.0)",
+      "langchain-core (>=0.3.15,<0.4.0)"
+    ]
+  },
+  "langchain_db2-0.1.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0303c7a8c5872826bad928be2a1f09d8f9d0496926fb6c590718117cde8877cf",
+    "dependencies": {
+      "required": [
+        "ibm-db",
+        "langchain-community",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "ibm-db (>=3.2.6,<4.0.0)",
+      "langchain-community (>=0.3.20,<0.4.0)",
+      "langchain-core (>=0.3.15,<0.4.0)"
+    ]
+  },
+  "langchain_db2-0.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5cd8165c19eff5aceaa37af3f49a2890129732615f6f9213142e11b6092ff8c8",
+    "dependencies": {
+      "required": [
+        "ibm-db",
+        "langchain-community",
+        "langchain-core"
+      ]
+    },
+    "original_requirements": [
+      "ibm-db (>=3.2.6,<4.0.0)",
+      "langchain-community (>=0.3.20,<0.4.0)",
+      "langchain-core (>=0.3.15,<0.4.0)"
+    ]
+  }
+}

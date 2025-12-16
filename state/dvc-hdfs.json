@@ -1,0 +1,119 @@
+{
+  "dvc_hdfs-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "00329d905eeed9942080f849afca00a2565d150749413d8bfedc5f387b5ea57b",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "fsspec"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "fsspec[arrow]",
+      "wheel ==0.37.0 ; extra == 'tests'",
+      "dvc[testing] ; extra == 'tests'",
+      "pytest ==6.2.5 ; extra == 'tests'",
+      "pytest-cov ==3.0.0 ; extra == 'tests'",
+      "pytest-xdist ==2.4.0 ; extra == 'tests'",
+      "pytest-mock ==3.6.1 ; extra == 'tests'",
+      "pytest-lazy-fixture ==0.6.3 ; extra == 'tests'",
+      "pytest-docker <2,>=1 ; extra == 'tests'",
+      "flaky ==3.7.0 ; extra == 'tests'",
+      "mock ==4.0.3 ; extra == 'tests'",
+      "wget ==3.2 ; extra == 'tests'",
+      "filelock ==3.3.2 ; extra == 'tests'",
+      "crc32c ==2.3 ; extra == 'tests'",
+      "xmltodict ==0.12.0 ; extra == 'tests'",
+      "Pygments ==2.10.0 ; extra == 'tests'",
+      "collective.checkdocs ==0.2 ; extra == 'tests'",
+      "pydocstyle ==6.1.1 ; extra == 'tests'",
+      "pylint ==2.16.2 ; extra == 'tests'",
+      "pylint-pytest ==1.1.2 ; extra == 'tests'",
+      "pylint-plugin-utils ==0.6 ; extra == 'tests'",
+      "mypy ==0.981 ; extra == 'tests'",
+      "types-requests ==2.25.11 ; extra == 'tests'",
+      "types-tabulate ==0.8.3 ; extra == 'tests'",
+      "types-toml ==0.10.1 ; extra == 'tests'",
+      "pywin32 >=225 ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_hdfs-2.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5c56b3fbd0e58d98021a2aa8b4f7ac929b971ab172595ab811913699e2cbe4e0",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "fsspec"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "fsspec[arrow]",
+      "wheel (==0.37.0) ; extra == 'tests'",
+      "dvc ; extra == 'tests'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "pytest-docker (==0.10.3) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "mock (==4.0.3) ; extra == 'tests'",
+      "wget (==3.2) ; extra == 'tests'",
+      "filelock (==3.3.2) ; extra == 'tests'",
+      "crc32c (==2.3) ; extra == 'tests'",
+      "xmltodict (==0.12.0) ; extra == 'tests'",
+      "Pygments (==2.10.0) ; extra == 'tests'",
+      "collective.checkdocs (==0.2) ; extra == 'tests'",
+      "pydocstyle (==6.1.1) ; extra == 'tests'",
+      "pylint (==2.11.1) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "pylint-plugin-utils (==0.6) ; extra == 'tests'",
+      "mypy (==0.910) ; extra == 'tests'",
+      "types-requests (==2.25.11) ; extra == 'tests'",
+      "types-tabulate (==0.8.3) ; extra == 'tests'",
+      "types-toml (==0.10.1) ; extra == 'tests'",
+      "pywin32 (>=225) ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  },
+  "dvc_hdfs-0.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5193c1805916c79a9640b60650c53781cf7dfcfac0910f3b3f22f3b177beb762",
+    "dependencies": {
+      "required": [
+        "dvc",
+        "fsspec"
+      ]
+    },
+    "original_requirements": [
+      "dvc",
+      "fsspec[arrow]",
+      "wheel (==0.37.0) ; extra == 'tests'",
+      "dvc ; extra == 'tests'",
+      "pytest (==6.2.5) ; extra == 'tests'",
+      "pytest-cov (==3.0.0) ; extra == 'tests'",
+      "pytest-xdist (==2.4.0) ; extra == 'tests'",
+      "pytest-mock (==3.6.1) ; extra == 'tests'",
+      "pytest-lazy-fixture (==0.6.3) ; extra == 'tests'",
+      "pytest-docker (==0.10.3) ; extra == 'tests'",
+      "flaky (==3.7.0) ; extra == 'tests'",
+      "mock (==4.0.3) ; extra == 'tests'",
+      "wget (==3.2) ; extra == 'tests'",
+      "filelock (==3.3.2) ; extra == 'tests'",
+      "crc32c (==2.3) ; extra == 'tests'",
+      "xmltodict (==0.12.0) ; extra == 'tests'",
+      "Pygments (==2.10.0) ; extra == 'tests'",
+      "collective.checkdocs (==0.2) ; extra == 'tests'",
+      "pydocstyle (==6.1.1) ; extra == 'tests'",
+      "pylint (==2.11.1) ; extra == 'tests'",
+      "pylint-pytest (==1.1.2) ; extra == 'tests'",
+      "pylint-plugin-utils (==0.6) ; extra == 'tests'",
+      "mypy (==0.910) ; extra == 'tests'",
+      "types-requests (==2.25.11) ; extra == 'tests'",
+      "types-tabulate (==0.8.3) ; extra == 'tests'",
+      "types-toml (==0.10.1) ; extra == 'tests'",
+      "pywin32 (>=225) ; (sys_platform == \"win32\") and extra == 'tests'"
+    ]
+  }
+}

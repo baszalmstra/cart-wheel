@@ -1,0 +1,150 @@
+{
+  "tensorboard-2.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9dc9f978cb84c0723acf9a345d96c184f0293d18f166bb8d59ee098e6cfaaba6",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "grpcio",
+        "markdown",
+        "numpy",
+        "packaging",
+        "pillow",
+        "protobuf",
+        "setuptools",
+        "tensorboard-data-server",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "absl-py>=0.4",
+      "grpcio>=1.48.2",
+      "markdown>=2.6.8",
+      "numpy>=1.12.0",
+      "packaging",
+      "pillow",
+      "protobuf!=4.24.0,>=3.19.6",
+      "setuptools>=41.0.0",
+      "tensorboard-data-server<0.8.0,>=0.7.0",
+      "werkzeug>=1.0.1"
+    ]
+  },
+  "tensorboard-2.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5e71b98663a641a7ce8a6e70b0be8e1a4c0c45d48760b076383ac4755c35b9a0",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "grpcio",
+        "markdown",
+        "numpy",
+        "packaging",
+        "protobuf",
+        "setuptools",
+        "six",
+        "tensorboard-data-server",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "absl-py>=0.4",
+      "grpcio>=1.48.2",
+      "markdown>=2.6.8",
+      "numpy>=1.12.0",
+      "packaging",
+      "protobuf!=4.24.0,>=3.19.6",
+      "setuptools>=41.0.0",
+      "six>1.9",
+      "tensorboard-data-server<0.8.0,>=0.7.0",
+      "werkzeug>=1.0.1"
+    ]
+  },
+  "tensorboard-2.18.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "107ca4821745f73e2aefa02c50ff70a9b694f39f790b11e6f682f7d326745eab",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "grpcio",
+        "markdown",
+        "numpy",
+        "packaging",
+        "protobuf",
+        "setuptools",
+        "six",
+        "tensorboard-data-server",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "absl-py>=0.4",
+      "grpcio>=1.48.2",
+      "markdown>=2.6.8",
+      "numpy>=1.12.0",
+      "packaging",
+      "protobuf!=4.24.0,>=3.19.6",
+      "setuptools>=41.0.0",
+      "six>1.9",
+      "tensorboard-data-server<0.8.0,>=0.7.0",
+      "werkzeug>=1.0.1"
+    ]
+  },
+  "tensorboard-2.17.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "253701a224000eeca01eee6f7e978aea7b408f60b91eb0babdb04e78947b773e",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "grpcio",
+        "markdown",
+        "numpy",
+        "packaging",
+        "protobuf",
+        "setuptools",
+        "six",
+        "tensorboard-data-server",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "absl-py>=0.4",
+      "grpcio>=1.48.2",
+      "markdown>=2.6.8",
+      "numpy>=1.12.0",
+      "packaging",
+      "protobuf!=4.24.0,>=3.19.6",
+      "setuptools>=41.0.0",
+      "six>1.9",
+      "tensorboard-data-server<0.8.0,>=0.7.0",
+      "werkzeug>=1.0.1"
+    ]
+  },
+  "tensorboard-2.17.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "859a499a9b1fb68a058858964486627100b71fcb21646861c61d31846a6478fb",
+    "dependencies": {
+      "required": [
+        "absl-py",
+        "grpcio",
+        "markdown",
+        "numpy",
+        "protobuf",
+        "setuptools",
+        "six",
+        "tensorboard-data-server",
+        "werkzeug"
+      ]
+    },
+    "original_requirements": [
+      "absl-py >=0.4",
+      "grpcio >=1.48.2",
+      "markdown >=2.6.8",
+      "numpy >=1.12.0",
+      "protobuf !=4.24.0,<5.0.0,>=3.19.6",
+      "setuptools >=41.0.0",
+      "six >1.9",
+      "tensorboard-data-server <0.8.0,>=0.7.0",
+      "werkzeug >=1.0.1"
+    ]
+  }
+}

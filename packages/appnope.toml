@@ -1,0 +1,11 @@
+# Package configuration for appnope
+conda_forge = "appnope"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "appnope-0.1.4-py2.py3-none-any.whl" },
+  { filename = "appnope-0.1.3-py2.py3-none-any.whl" },
+  { filename = "appnope-0.1.2-py2.py3-none-any.whl" },
+  { filename = "appnope-0.1.0-py2.py3-none-any.whl" },
+]

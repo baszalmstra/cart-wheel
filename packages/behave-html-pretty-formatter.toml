@@ -1,0 +1,12 @@
+# Package configuration for behave-html-pretty-formatter
+conda_forge = "behave-html-pretty-formatter"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "behave_html_pretty_formatter-1.16-py3-none-any.whl" },
+  { filename = "behave_html_pretty_formatter-1.15.1-py3-none-any.whl" },
+  { filename = "behave_html_pretty_formatter-1.15-py3-none-any.whl" },
+  { filename = "behave_html_pretty_formatter-1.14.2-py3-none-any.whl" },
+  { filename = "behave_html_pretty_formatter-1.14.1-py3-none-any.whl" },
+]

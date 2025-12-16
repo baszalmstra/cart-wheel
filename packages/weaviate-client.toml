@@ -1,0 +1,12 @@
+# Package configuration for weaviate-client
+conda_forge = "weaviate-client"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "weaviate_client-4.18.3-py3-none-any.whl" },
+  { filename = "weaviate_client-4.18.2-py3-none-any.whl" },
+  { filename = "weaviate_client-4.18.1-py3-none-any.whl" },
+  { filename = "weaviate_client-4.18.0-py3-none-any.whl" },
+  { filename = "weaviate_client-4.17.0-py3-none-any.whl" },
+]

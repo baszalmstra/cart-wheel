@@ -1,0 +1,7 @@
+# Package configuration for pandoc
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pandoc-1.1.0-py3-none-any.whl" },
+]

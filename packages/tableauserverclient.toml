@@ -1,0 +1,12 @@
+# Package configuration for tableauserverclient
+conda_forge = "tableauserverclient"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "tableauserverclient-0.38-py3-none-any.whl" },
+  { filename = "tableauserverclient-0.37-py3-none-any.whl" },
+  { filename = "tableauserverclient-0.36-py3-none-any.whl" },
+  { filename = "tableauserverclient-0.35-py3-none-any.whl" },
+  { filename = "tableauserverclient-0.34-py3-none-any.whl" },
+]

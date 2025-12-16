@@ -1,0 +1,12 @@
+# Package configuration for python-magic
+conda_forge = "python-magic"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "python_magic-0.4.27-py2.py3-none-any.whl" },
+  { filename = "python_magic-0.4.26-py2.py3-none-any.whl" },
+  { filename = "python_magic-0.4.25-py2.py3-none-any.whl" },
+  { filename = "python_magic-0.4.24-py2.py3-none-any.whl" },
+  { filename = "python_magic-0.4.23-py2.py3-none-any.whl" },
+]

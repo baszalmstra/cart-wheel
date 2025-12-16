@@ -1,0 +1,14 @@
+{
+  "types_aiobotocore_route53globalresolver-3.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "243ce687430b3d6e8d5d9e7491e4f6abacdbf276bffcb9d5e00ae0913120015d",
+    "dependencies": {
+      "required": [
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "typing-extensions; python_version < \"3.12\""
+    ]
+  }
+}

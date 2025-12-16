@@ -1,0 +1,47 @@
+{
+  "pyrepl-0.11.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ac30d6340267a21c39e1b1934f92bca6b8735017d14b17e40f903b2d1563541d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == \"tests\"",
+      "pytest-coverage; extra == \"tests\"",
+      "pytest-timeout; extra == \"tests\"",
+      "pexpect; extra == \"tests\"",
+      "ruff==0.11.8; extra == \"dev\"",
+      "pyrepl[tests]; extra == \"dev\""
+    ]
+  },
+  "pyrepl-0.11.3.post1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "59fcd67588892731dc6e7aff106c380d303d54324ff028827804a2b056223d92",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == \"tests\"",
+      "pytest-coverage; extra == \"tests\"",
+      "pytest-timeout; extra == \"tests\"",
+      "pexpect; extra == \"tests\"",
+      "ruff==0.9.3; extra == \"dev\"",
+      "pyrepl[tests]; extra == \"dev\""
+    ]
+  },
+  "pyrepl-0.11.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4134f8bafe258f00fe83decf5087151b56959196939abe2106eeb1d48333fa2d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest; extra == \"tests\"",
+      "pytest-coverage; extra == \"tests\"",
+      "pytest-timeout; extra == \"tests\"",
+      "pexpect; extra == \"tests\"",
+      "ruff==0.9.3; extra == \"dev\"",
+      "pyrepl[tests]; extra == \"dev\""
+    ]
+  }
+}

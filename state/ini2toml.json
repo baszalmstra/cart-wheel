@@ -1,0 +1,154 @@
+{
+  "ini2toml-0.15-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ad97b4abed0930b2682f232d874e17ce01a14c2b6b1d0461b363fd8366411a8d",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "packaging >=20.7",
+      "setuptools >=59.6",
+      "configupdater <4,>=3.0.1 ; extra == 'all'",
+      "tomlkit <2,>=0.10.0 ; extra == 'all'",
+      "tomli-w <2,>=0.4.0 ; extra == 'all'",
+      "pyproject-fmt <2,>=0.4.0 ; (python_version >= \"3.7\") and extra == 'experimental'",
+      "configupdater <4,>=3.0.1 ; extra == 'full'",
+      "tomlkit <2,>=0.10.0 ; extra == 'full'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'full'",
+      "tomli-w <2,>=0.4.0 ; extra == 'lite'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'lite'",
+      "isort ; extra == 'testing'",
+      "setuptools ; extra == 'testing'",
+      "tomli ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'",
+      "pytest-randomly ; extra == 'testing'",
+      "validate-pyproject <2,>=0.6 ; extra == 'testing'",
+      "typing-extensions ; (python_version < \"3.8\") and extra == 'typechecking'"
+    ]
+  },
+  "ini2toml-0.14-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d833518ea45cad6f7b2cc656bac45bb662eb81051349ff55e6297286736cf401",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "packaging >=20.7",
+      "setuptools >=59.6",
+      "configupdater <4,>=3.0.1 ; extra == 'all'",
+      "tomlkit <2,>=0.10.0 ; extra == 'all'",
+      "tomli-w <2,>=0.4.0 ; extra == 'all'",
+      "pyproject-fmt >=0.4.0 ; (python_version >= \"3.7\") and extra == 'experimental'",
+      "configupdater <4,>=3.0.1 ; extra == 'full'",
+      "tomlkit <2,>=0.10.0 ; extra == 'full'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'full'",
+      "tomli-w <2,>=0.4.0 ; extra == 'lite'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'lite'",
+      "isort ; extra == 'testing'",
+      "setuptools ; extra == 'testing'",
+      "tomli ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'",
+      "pytest-randomly ; extra == 'testing'",
+      "validate-pyproject <2,>=0.6 ; extra == 'testing'",
+      "typing-extensions ; (python_version < \"3.8\") and extra == 'typechecking'"
+    ]
+  },
+  "ini2toml-0.13-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "6f07c0ce09cdca17999f830adc4e7406d1fecc0218f5ae67e2654cc9198b0b97",
+    "dependencies": {
+      "required": [
+        "packaging",
+        "setuptools"
+      ]
+    },
+    "original_requirements": [
+      "packaging >=20.7",
+      "setuptools >=59.6",
+      "configupdater <4,>=3.0.1 ; extra == 'all'",
+      "tomlkit <2,>=0.10.0 ; extra == 'all'",
+      "tomli-w <2,>=0.4.0 ; extra == 'all'",
+      "pyproject-fmt >=0.4.0 ; (python_version >= \"3.7\") and extra == 'experimental'",
+      "configupdater <4,>=3.0.1 ; extra == 'full'",
+      "tomlkit <2,>=0.10.0 ; extra == 'full'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'full'",
+      "tomli-w <2,>=0.4.0 ; extra == 'lite'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'lite'",
+      "isort ; extra == 'testing'",
+      "setuptools ; extra == 'testing'",
+      "tomli ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'",
+      "pytest-randomly ; extra == 'testing'",
+      "validate-pyproject <2,>=0.6 ; extra == 'testing'",
+      "typing-extensions ; (python_version < \"3.8\") and extra == 'typechecking'"
+    ]
+  },
+  "ini2toml-0.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "1a569fc2b70d75f562120b153c939f277de911a4cdfcb439f69ecaaad3dcca35",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging (>=20.7)",
+      "configupdater (<4,>=3.0.1) ; extra == 'all'",
+      "tomlkit (<2,>=0.10.0) ; extra == 'all'",
+      "tomli-w (<2,>=0.4.0) ; extra == 'all'",
+      "pyproject-fmt (>=0.4.0) ; (python_version >= \"3.7\") and extra == 'experimental'",
+      "configupdater (<4,>=3.0.1) ; extra == 'full'",
+      "tomlkit (<2,>=0.10.0) ; extra == 'full'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'full'",
+      "tomli-w (<2,>=0.4.0) ; extra == 'lite'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'lite'",
+      "setuptools ; extra == 'testing'",
+      "tomli ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "pytest-xdist ; extra == 'testing'",
+      "pytest-randomly ; extra == 'testing'",
+      "validate-pyproject (<2,>=0.6) ; extra == 'testing'",
+      "typing-extensions ; (python_version < \"3.8\") and extra == 'typechecking'"
+    ]
+  },
+  "ini2toml-0.11.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c1b2417983323a02dd0167a6fb6c17478147b4fa405b59bf23d728c97282432b",
+    "dependencies": {
+      "required": [
+        "packaging"
+      ]
+    },
+    "original_requirements": [
+      "packaging (>=20.7)",
+      "configupdater (<4,>=3.0.1) ; extra == 'all'",
+      "tomlkit (<2,>=0.10.0) ; extra == 'all'",
+      "tomli-w (<2,>=0.4.0) ; extra == 'all'",
+      "pyproject-fmt (>=0.4.0) ; (python_version >= \"3.7\") and extra == 'experimental'",
+      "configupdater (<4,>=3.0.1) ; extra == 'full'",
+      "tomlkit (<2,>=0.10.0) ; extra == 'full'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'full'",
+      "tomli-w (<2,>=0.4.0) ; extra == 'lite'",
+      "importlib-metadata ; (python_version < \"3.8\") and extra == 'lite'",
+      "setuptools ; extra == 'testing'",
+      "tomli ; extra == 'testing'",
+      "pytest ; extra == 'testing'",
+      "pytest-cov ; extra == 'testing'",
+      "validate-pyproject (<2,>=0.6) ; extra == 'testing'",
+      "typing-extensions ; (python_version < \"3.8\") and extra == 'typechecking'"
+    ]
+  }
+}

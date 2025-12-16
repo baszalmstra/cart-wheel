@@ -1,0 +1,12 @@
+# Package configuration for grpcio-status
+conda_forge = "grpcio-status"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "grpcio_status-1.76.0-py3-none-any.whl" },
+  { filename = "grpcio_status-1.75.1-py3-none-any.whl" },
+  { filename = "grpcio_status-1.75.0-py3-none-any.whl" },
+  { filename = "grpcio_status-1.74.0-py3-none-any.whl" },
+  { filename = "grpcio_status-1.73.1-py3-none-any.whl" },
+]

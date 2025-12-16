@@ -1,0 +1,12 @@
+# Package configuration for aiohttp-jinja2
+conda_forge = "aiohttp-jinja2"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "aiohttp_jinja2-1.6-py3-none-any.whl" },
+  { filename = "aiohttp_jinja2-1.5.1-py3-none-any.whl" },
+  { filename = "aiohttp_jinja2-1.5-py3-none-any.whl" },
+  { filename = "aiohttp_jinja2-1.4.2-py3-none-any.whl" },
+  { filename = "aiohttp_jinja2-1.4.1-py3-none-any.whl" },
+]

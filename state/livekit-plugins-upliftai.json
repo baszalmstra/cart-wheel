@@ -1,0 +1,72 @@
+{
+  "livekit_plugins_upliftai-1.3.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c4a141342cb3b2f92f97d862398dae4d96e1aaec98accdc835a7c7d2919322a5",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs]>=1.3.6",
+      "numpy>=1.26"
+    ]
+  },
+  "livekit_plugins_upliftai-1.3.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "c03f767d34145b4ac67cf91a9af707d47eeab32966e527f17d13b2a7190b4e42",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs]>=1.3.5",
+      "numpy>=1.26"
+    ]
+  },
+  "livekit_plugins_upliftai-1.3.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "fc70b2ea3600502bdf300bedb03c469e462bd49013d5a53a2299b881e4e8647b",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs]>=1.3.4",
+      "numpy>=1.26"
+    ]
+  },
+  "livekit_plugins_upliftai-1.3.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d060b4a2bdfb8c2dff53aa112d77c73b7805366be13294d9e4060ea69549fc0a",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs]>=1.3.3",
+      "numpy>=1.26"
+    ]
+  },
+  "livekit_plugins_upliftai-1.3.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "94c2679568c7f605eda1f01103bf6b3f06789d73b3968ca1df2e210446ef34d9",
+    "dependencies": {
+      "required": [
+        "livekit-agents",
+        "numpy"
+      ]
+    },
+    "original_requirements": [
+      "livekit-agents[codecs]>=1.3.2",
+      "numpy>=1.26"
+    ]
+  }
+}

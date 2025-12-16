@@ -1,0 +1,12 @@
+# Package configuration for kombu
+conda_forge = "kombu"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "kombu-5.6.1-py3-none-any.whl" },
+  { filename = "kombu-5.6.0-py3-none-any.whl" },
+  { filename = "kombu-5.5.4-py3-none-any.whl" },
+  { filename = "kombu-5.5.3-py3-none-any.whl" },
+  { filename = "kombu-5.5.2-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for mkdocstrings-python-xref
+conda_forge = "mkdocstrings-python-xref"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "mkdocstrings_python_xref-1.16.4-py3-none-any.whl" },
+  { filename = "mkdocstrings_python_xref-1.16.3-py3-none-any.whl" },
+  { filename = "mkdocstrings_python_xref-1.16.2-py3-none-any.whl" },
+  { filename = "mkdocstrings_python_xref-1.16.1-py3-none-any.whl" },
+  { filename = "mkdocstrings_python_xref-1.16-py3-none-any.whl" },
+]

@@ -1,0 +1,12 @@
+# Package configuration for sshfs
+conda_forge = "sshfs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sshfs-2025.11.0-py3-none-any.whl" },
+  { filename = "sshfs-2025.10.0-py3-none-any.whl" },
+  { filename = "sshfs-2025.2.0-py3-none-any.whl" },
+  { filename = "sshfs-2024.9.0-py3-none-any.whl" },
+  { filename = "sshfs-2024.6.0-py3-none-any.whl" },
+]

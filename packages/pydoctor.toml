@@ -1,0 +1,11 @@
+# Package configuration for pydoctor
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pydoctor-25.10.1-py3-none-any.whl" },
+  { filename = "pydoctor-25.10.0-py3-none-any.whl" },
+  { filename = "pydoctor-25.4.0-py3-none-any.whl" },
+  { filename = "pydoctor-24.11.2-py3-none-any.whl" },
+  { filename = "pydoctor-24.11.1-py3-none-any.whl" },
+]

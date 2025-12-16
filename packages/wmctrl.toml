@@ -1,0 +1,8 @@
+# Package configuration for wmctrl
+conda_forge = "wmctrl"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "wmctrl-0.5-py2.py3-none-any.whl" },
+]

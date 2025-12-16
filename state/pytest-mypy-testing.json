@@ -1,0 +1,72 @@
+{
+  "pytest_mypy_testing-0.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "86f2451a403ff50fe1620c798ca70123bef255ed24c77aa3f73b8fca6fce9f25",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "mypy"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7,<9",
+      "mypy>=1.0"
+    ]
+  },
+  "pytest_mypy_testing-0.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "30ca8a4bd879af21955da957bf50becc2174af1ad30a4e1f3a55a069dc825450",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "mypy"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7,<9",
+      "mypy>=1.0"
+    ]
+  },
+  "pytest_mypy_testing-0.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "2c10a079e4333550f648e66e1ab7ab5fc53f7791a690584abba549398e3441d7",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "mypy"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7,<8",
+      "mypy>=0.931"
+    ]
+  },
+  "pytest_mypy_testing-0.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d5dce971c6be44feacba4ece8164f433da81dfd18013455460f7b510aafa97a3",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "mypy"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=7,<8",
+      "mypy>=0.931"
+    ]
+  },
+  "pytest_mypy_testing-0.0.12-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "24cf0f86a58b8456fba5c5aa30b5922b3a109f69e3ac913a87b7142ecd71b7ba",
+    "dependencies": {
+      "required": [
+        "pytest",
+        "mypy"
+      ]
+    },
+    "original_requirements": [
+      "pytest>=6,<8",
+      "mypy"
+    ]
+  }
+}

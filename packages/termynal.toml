@@ -1,0 +1,11 @@
+# Package configuration for termynal
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "termynal-0.13.1-py3-none-any.whl" },
+  { filename = "termynal-0.13.0-py3-none-any.whl" },
+  { filename = "termynal-0.12.3-py3-none-any.whl" },
+  { filename = "termynal-0.12.2-py3-none-any.whl" },
+  { filename = "termynal-0.12.1-py3-none-any.whl" },
+]

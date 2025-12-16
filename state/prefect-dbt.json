@@ -1,0 +1,152 @@
+{
+  "prefect_dbt-0.7.11-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a22ede6f3a39fcae62b6738d5807b74cc2a81e1de816024608e28c0bb26d19eb",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "dbt-core",
+        "prefect-shell",
+        "sgqlc"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.4.9",
+      "dbt-core>=1.7.0",
+      "prefect_shell>=0.3.0",
+      "sgqlc>=16.0.0",
+      "prefect-snowflake>=0.28.0; extra == \"snowflake\"",
+      "dbt-snowflake; extra == \"snowflake\"",
+      "prefect-gcp[bigquery]>=0.6.0; extra == \"bigquery\"",
+      "dbt-bigquery; extra == \"bigquery\"",
+      "prefect-sqlalchemy>=0.5.1; extra == \"postgres\"",
+      "dbt-postgres; extra == \"postgres\"",
+      "dbt-bigquery; extra == \"all-extras\"",
+      "dbt-postgres; extra == \"all-extras\"",
+      "dbt-snowflake; extra == \"all-extras\"",
+      "prefect-gcp[bigquery]>=0.6.0; extra == \"all-extras\"",
+      "prefect-snowflake>=0.28.0; extra == \"all-extras\"",
+      "prefect-sqlalchemy>=0.5.1; extra == \"all-extras\""
+    ]
+  },
+  "prefect_dbt-0.7.10-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d3219303e6ca7f9aecb4055b1ce31d3f85f66bbf41818fea6c978d62b9b149bc",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "dbt-core",
+        "prefect-shell",
+        "sgqlc"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.4.9",
+      "dbt-core>=1.7.0",
+      "prefect_shell>=0.3.0",
+      "sgqlc>=16.0.0",
+      "prefect-snowflake>=0.28.0; extra == \"snowflake\"",
+      "dbt-snowflake; extra == \"snowflake\"",
+      "prefect-gcp[bigquery]>=0.6.0; extra == \"bigquery\"",
+      "dbt-bigquery; extra == \"bigquery\"",
+      "prefect-sqlalchemy>=0.5.1; extra == \"postgres\"",
+      "dbt-postgres; extra == \"postgres\"",
+      "dbt-bigquery; extra == \"all-extras\"",
+      "dbt-postgres; extra == \"all-extras\"",
+      "dbt-snowflake; extra == \"all-extras\"",
+      "prefect-gcp[bigquery]>=0.6.0; extra == \"all-extras\"",
+      "prefect-snowflake>=0.28.0; extra == \"all-extras\"",
+      "prefect-sqlalchemy>=0.5.1; extra == \"all-extras\""
+    ]
+  },
+  "prefect_dbt-0.7.9-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "321006303a32087890973094dcbde2667af9bb57ac2655305339c00c711e9313",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "dbt-core",
+        "prefect-shell",
+        "sgqlc"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.4.9",
+      "dbt-core>=1.7.0",
+      "prefect_shell>=0.3.0",
+      "sgqlc>=16.0.0",
+      "prefect-snowflake>=0.28.0; extra == \"snowflake\"",
+      "dbt-snowflake; extra == \"snowflake\"",
+      "prefect-gcp[bigquery]>=0.6.0; extra == \"bigquery\"",
+      "dbt-bigquery; extra == \"bigquery\"",
+      "prefect-sqlalchemy>=0.5.1; extra == \"postgres\"",
+      "dbt-postgres; extra == \"postgres\"",
+      "dbt-bigquery; extra == \"all-extras\"",
+      "dbt-postgres; extra == \"all-extras\"",
+      "dbt-snowflake; extra == \"all-extras\"",
+      "prefect-gcp[bigquery]>=0.6.0; extra == \"all-extras\"",
+      "prefect-snowflake>=0.28.0; extra == \"all-extras\"",
+      "prefect-sqlalchemy>=0.5.1; extra == \"all-extras\""
+    ]
+  },
+  "prefect_dbt-0.7.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "de8f86dbbe64342e0d3f5d2cba17ad49b1301985a5886e84e4c279a85275a1a5",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "dbt-core",
+        "prefect-shell",
+        "sgqlc"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.4.9",
+      "dbt-core>=1.7.0",
+      "prefect_shell>=0.3.0",
+      "sgqlc>=16.0.0",
+      "prefect-snowflake>=0.28.0; extra == \"snowflake\"",
+      "dbt-snowflake; extra == \"snowflake\"",
+      "prefect-gcp[bigquery]>=0.6.0; extra == \"bigquery\"",
+      "dbt-bigquery; extra == \"bigquery\"",
+      "prefect-sqlalchemy>=0.5.1; extra == \"postgres\"",
+      "dbt-postgres; extra == \"postgres\"",
+      "dbt-bigquery; extra == \"all-extras\"",
+      "dbt-postgres; extra == \"all-extras\"",
+      "dbt-snowflake; extra == \"all-extras\"",
+      "prefect-gcp[bigquery]>=0.6.0; extra == \"all-extras\"",
+      "prefect-snowflake>=0.28.0; extra == \"all-extras\"",
+      "prefect-sqlalchemy>=0.5.1; extra == \"all-extras\""
+    ]
+  },
+  "prefect_dbt-0.7.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "92d7221180b037905cd5ed816382e29c1e0a22f22a69bc6ffbf3a8850d4716fc",
+    "dependencies": {
+      "required": [
+        "prefect",
+        "dbt-core",
+        "prefect-shell",
+        "sgqlc"
+      ]
+    },
+    "original_requirements": [
+      "prefect>=3.4.9",
+      "dbt-core>=1.7.0",
+      "prefect_shell>=0.3.0",
+      "sgqlc>=16.0.0",
+      "prefect-snowflake>=0.28.0; extra == \"snowflake\"",
+      "dbt-snowflake; extra == \"snowflake\"",
+      "prefect-gcp[bigquery]>=0.6.0; extra == \"bigquery\"",
+      "dbt-bigquery; extra == \"bigquery\"",
+      "prefect-sqlalchemy>=0.5.1; extra == \"postgres\"",
+      "dbt-postgres; extra == \"postgres\"",
+      "dbt-bigquery; extra == \"all-extras\"",
+      "dbt-postgres; extra == \"all-extras\"",
+      "dbt-snowflake; extra == \"all-extras\"",
+      "prefect-gcp[bigquery]>=0.6.0; extra == \"all-extras\"",
+      "prefect-snowflake>=0.28.0; extra == \"all-extras\"",
+      "prefect-sqlalchemy>=0.5.1; extra == \"all-extras\""
+    ]
+  }
+}

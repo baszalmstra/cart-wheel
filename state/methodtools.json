@@ -1,0 +1,38 @@
+{
+  "methodtools-0.4.7-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5e188c780b236adc12e75b5f078c5afb419ef99eb648569fc6d7071f053a1f11",
+    "dependencies": {
+      "required": [
+        "wirerope"
+      ]
+    },
+    "original_requirements": [
+      "wirerope >=0.4.7",
+      "sphinx ; extra == 'doc'",
+      "pytest >=4.6.7 ; extra == 'test'",
+      "pytest-cov >=2.6.1 ; extra == 'test'",
+      "functools32 >=3.2.3-2 ; (python_version < \"3\") and extra == 'test'"
+    ]
+  },
+  "methodtools-0.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "0876910f21f11ce196d7208bd73076b9296b52cec44a21d2a0e8db0a7169eab7",
+    "dependencies": {
+      "required": [
+        "wirerope"
+      ]
+    },
+    "original_requirements": [
+      "wirerope (>=0.2.1)",
+      "pytest (>=3.0.2) ; extra == 'dev'",
+      "pytest-cov ; extra == 'dev'",
+      "functools32 (>=3.2.3-2) ; extra == 'dev'",
+      "sphinx ; extra == 'dev'",
+      "sphinx ; extra == 'docs'",
+      "pytest (>=3.0.2) ; extra == 'tests'",
+      "pytest-cov ; extra == 'tests'",
+      "functools32 (>=3.2.3-2) ; extra == 'tests'"
+    ]
+  }
+}

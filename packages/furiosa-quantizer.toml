@@ -1,0 +1,11 @@
+# Package configuration for furiosa-quantizer
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "furiosa_quantizer-0.10.2-py3-none-any.whl" },
+  { filename = "furiosa_quantizer-0.10.1-py3-none-any.whl" },
+  { filename = "furiosa_quantizer-0.10.0-py3-none-any.whl" },
+  { filename = "furiosa_quantizer-0.9.1-py3-none-any.whl" },
+  { filename = "furiosa_quantizer-0.9.0-py3-none-any.whl" },
+]

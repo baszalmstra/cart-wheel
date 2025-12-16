@@ -1,0 +1,88 @@
+{
+  "maison-2.0.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "835de804aa8063795b48c4fe2b4918106cfda4e5df515e8784ec9fa64cd28191",
+    "dependencies": {
+      "required": [
+        "loguru",
+        "platformdirs",
+        "tomli",
+        "typer",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "loguru>=0.7.3",
+      "platformdirs>=4.3.8",
+      "tomli>=2.2.1; python_full_version < \"3.11\"",
+      "typer>=0.15.4",
+      "typing-extensions>=4.13.2"
+    ]
+  },
+  "maison-2.0.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8676af9dbe8878a9966aa9fdb3f22f99559dd2657a02693b64fbea5ed0c98704",
+    "dependencies": {
+      "required": [
+        "loguru",
+        "platformdirs",
+        "tomli",
+        "typer",
+        "typing-extensions"
+      ]
+    },
+    "original_requirements": [
+      "loguru>=0.7.3",
+      "platformdirs>=4.3.8",
+      "tomli>=2.2.1; python_full_version < \"3.11\"",
+      "typer>=0.15.4",
+      "typing-extensions>=4.13.2"
+    ]
+  },
+  "maison-2.0.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e684fbab833f0f049d6e3556a127b8c5abe7cd18620f5b751a483e103dc4cbb5",
+    "dependencies": {
+      "required": [
+        "click",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "click (>=8.0.1,<9.0.0)",
+      "toml (>=0.10.2,<0.11.0)"
+    ]
+  },
+  "maison-1.4.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "a36208d0befb3bd8aa3b002ac198ce6f6e61efe568b195132640f4032eff46ac",
+    "dependencies": {
+      "required": [
+        "click",
+        "pydantic",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "click (>=8.0.1,<9.0.0)",
+      "pydantic (>=2.5.3,<3.0.0)",
+      "toml (>=0.10.2,<0.11.0)"
+    ]
+  },
+  "maison-1.4.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b63fe6751494935fc453dfb76319af223e4cb8bab32ac5464c2a9ca0edda8765",
+    "dependencies": {
+      "required": [
+        "click",
+        "pydantic",
+        "toml"
+      ]
+    },
+    "original_requirements": [
+      "click (>=8.0.1,<9.0.0)",
+      "pydantic (>=1.10.13,<2.0.0)",
+      "toml (>=0.10.2,<0.11.0)"
+    ]
+  }
+}

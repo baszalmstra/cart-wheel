@@ -1,0 +1,12 @@
+# Package configuration for types-cachetools
+conda_forge = "types-cachetools"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "types_cachetools-6.2.0.20251022-py3-none-any.whl" },
+  { filename = "types_cachetools-6.2.0.20250827-py3-none-any.whl" },
+  { filename = "types_cachetools-6.1.0.20250717-py3-none-any.whl" },
+  { filename = "types_cachetools-6.0.0.20250525-py3-none-any.whl" },
+  { filename = "types_cachetools-5.5.0.20240820-py3-none-any.whl" },
+]

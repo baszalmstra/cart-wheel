@@ -1,0 +1,11 @@
+# Package configuration for jaraco.windows
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "jaraco_windows-5.10.0-py3-none-any.whl" },
+  { filename = "jaraco.windows-5.9.1-py3-none-any.whl" },
+  { filename = "jaraco.windows-5.9.0-py3-none-any.whl" },
+  { filename = "jaraco.windows-5.8.0-py3-none-any.whl" },
+  { filename = "jaraco.windows-5.7.0-py3-none-any.whl" },
+]

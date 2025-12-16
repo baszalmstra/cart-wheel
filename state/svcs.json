@@ -1,0 +1,211 @@
+{
+  "svcs-25.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "df49cb7d1a05dfd2dd60af1a2cb84b9c3bb0a74728833cb8c54a7ceeecce6c97",
+    "dependencies": {
+      "required": [
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "aiohttp; extra == 'dev'",
+      "fastapi; extra == 'dev'",
+      "flask; extra == 'dev'",
+      "httpx; extra == 'dev'",
+      "mypy>=1.4; extra == 'dev'",
+      "pyramid; extra == 'dev'",
+      "pytest; extra == 'dev'",
+      "pytest-asyncio; extra == 'dev'",
+      "starlette; extra == 'dev'",
+      "sybil>=6; extra == 'dev'",
+      "tox-uv; extra == 'dev'",
+      "tox>4; extra == 'dev'",
+      "aiohttp; extra == 'docs'",
+      "fastapi; extra == 'docs'",
+      "flask; extra == 'docs'",
+      "furo>=2023.8.17; extra == 'docs'",
+      "httpx; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pyramid; extra == 'docs'",
+      "pytest; extra == 'docs'",
+      "pytest-asyncio; extra == 'docs'",
+      "sphinx-copybutton; extra == 'docs'",
+      "sphinx-design; extra == 'docs'",
+      "sphinx-notfound-page; extra == 'docs'",
+      "sphinx>=7.2.2; extra == 'docs'",
+      "sphinxext-opengraph; extra == 'docs'",
+      "sqlalchemy; extra == 'docs'",
+      "starlette; extra == 'docs'",
+      "sybil; extra == 'docs'",
+      "pytest; extra == 'tests'",
+      "pytest-asyncio; extra == 'tests'",
+      "sybil>=6; extra == 'tests'",
+      "aiohttp; extra == 'typing'",
+      "fastapi; extra == 'typing'",
+      "flask; extra == 'typing'",
+      "mypy>=1.4; extra == 'typing'",
+      "pyramid; extra == 'typing'",
+      "starlette; extra == 'typing'"
+    ]
+  },
+  "svcs-24.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f050f4a6fcf163aa3a5d5e17b66bbf5efa3ed2164018aebecd70fc27794ecf6b",
+    "dependencies": {
+      "required": [
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "httpx; extra == 'dev'",
+      "svcs[tests,typing]; extra == 'dev'",
+      "tox>4; extra == 'dev'",
+      "aiohttp; extra == 'docs'",
+      "fastapi; extra == 'docs'",
+      "flask; extra == 'docs'",
+      "furo>=2023.8.17; extra == 'docs'",
+      "httpx; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pyramid; extra == 'docs'",
+      "pytest; extra == 'docs'",
+      "sphinx-copybutton; extra == 'docs'",
+      "sphinx-design; extra == 'docs'",
+      "sphinx-notfound-page; extra == 'docs'",
+      "sphinx>=7.2.2; extra == 'docs'",
+      "sphinxext-opengraph; extra == 'docs'",
+      "sqlalchemy; extra == 'docs'",
+      "starlette; extra == 'docs'",
+      "sybil; extra == 'docs'",
+      "pytest; extra == 'tests'",
+      "pytest-asyncio; extra == 'tests'",
+      "sybil>=6; extra == 'tests'",
+      "typing-extensions; (python_version < '3.9') and extra == 'tests'",
+      "aiohttp; extra == 'typing'",
+      "fastapi; extra == 'typing'",
+      "flask; extra == 'typing'",
+      "mypy>=1.4; extra == 'typing'",
+      "pyramid; extra == 'typing'",
+      "starlette; extra == 'typing'"
+    ]
+  },
+  "svcs-23.21.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5f7c0cab2d022db627abad1f89d5c8a82401cd27bd9b55a701099970192b1e8b",
+    "dependencies": {
+      "required": [
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "httpx; extra == 'dev'",
+      "svcs[tests,typing]; extra == 'dev'",
+      "tox>4; extra == 'dev'",
+      "aiohttp; extra == 'docs'",
+      "fastapi; extra == 'docs'",
+      "flask; extra == 'docs'",
+      "furo>=2023.8.17; extra == 'docs'",
+      "httpx; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pyramid; extra == 'docs'",
+      "pytest; extra == 'docs'",
+      "sphinx-copybutton; extra == 'docs'",
+      "sphinx-design; extra == 'docs'",
+      "sphinx-notfound-page; extra == 'docs'",
+      "sphinx>=7.2.2; extra == 'docs'",
+      "sphinxext-opengraph; extra == 'docs'",
+      "sqlalchemy; extra == 'docs'",
+      "starlette; extra == 'docs'",
+      "sybil; extra == 'docs'",
+      "pytest; extra == 'tests'",
+      "pytest-asyncio; extra == 'tests'",
+      "sybil; extra == 'tests'",
+      "typing-extensions; python_version < '3.9' and extra == 'tests'",
+      "aiohttp; python_version < '3.12' and extra == 'typing'",
+      "fastapi; extra == 'typing'",
+      "flask; extra == 'typing'",
+      "mypy>=1.4; extra == 'typing'",
+      "pyramid; python_version < '3.12' and extra == 'typing'",
+      "starlette; extra == 'typing'"
+    ]
+  },
+  "svcs-23.20.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "ed6af9db0b07b83e660223b6272b04103d9a58ec71fbbd96b307ae1dcf24730f",
+    "dependencies": {
+      "required": [
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "httpx; extra == 'dev'",
+      "svcs[tests,typing]; extra == 'dev'",
+      "tox>4; extra == 'dev'",
+      "aiohttp; extra == 'docs'",
+      "fastapi; extra == 'docs'",
+      "flask; extra == 'docs'",
+      "furo>=2023.8.17; extra == 'docs'",
+      "httpx; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pyramid; extra == 'docs'",
+      "pytest; extra == 'docs'",
+      "sphinx-copybutton; extra == 'docs'",
+      "sphinx-design; extra == 'docs'",
+      "sphinx-notfound-page; extra == 'docs'",
+      "sphinx>=7.2.2; extra == 'docs'",
+      "sphinxext-opengraph; extra == 'docs'",
+      "starlette; extra == 'docs'",
+      "sybil; extra == 'docs'",
+      "pytest; extra == 'tests'",
+      "pytest-asyncio; extra == 'tests'",
+      "sybil; extra == 'tests'",
+      "aiohttp; python_version < '3.12' and extra == 'typing'",
+      "fastapi; extra == 'typing'",
+      "flask; extra == 'typing'",
+      "mypy>=1.4; extra == 'typing'",
+      "pyramid; python_version < '3.12' and extra == 'typing'",
+      "starlette; extra == 'typing'"
+    ]
+  },
+  "svcs-23.19.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bcc2957b9d904ad2bea718ff6558c06b95b4b2110d3b08b913c045fbceca6f67",
+    "dependencies": {
+      "required": [
+        "attrs"
+      ]
+    },
+    "original_requirements": [
+      "attrs>=21.3.0",
+      "httpx; extra == 'dev'",
+      "svcs[tests,typing]; extra == 'dev'",
+      "tox>4; extra == 'dev'",
+      "aiohttp; extra == 'docs'",
+      "fastapi; extra == 'docs'",
+      "flask; extra == 'docs'",
+      "furo>=2023.8.17; extra == 'docs'",
+      "httpx; extra == 'docs'",
+      "myst-parser; extra == 'docs'",
+      "pyramid; extra == 'docs'",
+      "pytest; extra == 'docs'",
+      "sphinx-copybutton; extra == 'docs'",
+      "sphinx-inline-tabs; extra == 'docs'",
+      "sphinx>=7.2.2; extra == 'docs'",
+      "sphinxext-opengraph; extra == 'docs'",
+      "starlette; extra == 'docs'",
+      "sybil; extra == 'docs'",
+      "pytest; extra == 'tests'",
+      "pytest-asyncio; extra == 'tests'",
+      "sybil; extra == 'tests'",
+      "aiohttp; python_version < '3.12' and extra == 'typing'",
+      "fastapi; extra == 'typing'",
+      "flask; extra == 'typing'",
+      "mypy>=1.4; extra == 'typing'",
+      "pyramid; python_version < '3.12' and extra == 'typing'",
+      "starlette; extra == 'typing'"
+    ]
+  }
+}

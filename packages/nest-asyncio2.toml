@@ -1,0 +1,11 @@
+# Package configuration for nest-asyncio2
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "nest_asyncio2-1.7.1-py3-none-any.whl" },
+  { filename = "nest_asyncio2-1.7.0-py3-none-any.whl" },
+  { filename = "nest_asyncio2-1.6.3-py3-none-any.whl" },
+  { filename = "nest_asyncio2-1.6.2-py3-none-any.whl" },
+  { filename = "nest_asyncio2-1.6.1-py3-none-any.whl" },
+]

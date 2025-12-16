@@ -1,0 +1,9 @@
+# Package configuration for pyperclip
+conda_forge = "pyperclip"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "pyperclip-1.11.0-py3-none-any.whl" },
+  { filename = "pyperclip-1.10.0-py3-none-any.whl" },
+]

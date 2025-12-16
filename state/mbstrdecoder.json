@@ -1,0 +1,77 @@
+{
+  "mbstrdecoder-1.1.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "03dae4ec50ec0d2ff4743e63fdbd5e0022815857494d35224b60775d3d934a8c",
+    "dependencies": {
+      "required": [
+        "chardet"
+      ]
+    },
+    "original_requirements": [
+      "chardet<6,>=3.0.4",
+      "Faker>=1.0.2; extra == \"test\"",
+      "pytest>=6.0.1; extra == \"test\"",
+      "pytest-md-report>=0.6.2; extra == \"test\""
+    ]
+  },
+  "mbstrdecoder-1.1.3-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "d66c1ed3f2dc4e7c5d87cd44a75be10bc5af4250f95b38bbaedd7851308ce938",
+    "dependencies": {
+      "required": [
+        "chardet"
+      ]
+    },
+    "original_requirements": [
+      "chardet (<6,>=3.0.4)",
+      "Faker (>=1.0.2) ; extra == 'test'",
+      "pytest (>=6.0.1) ; extra == 'test'",
+      "pytest-md-report (>=0.1) ; extra == 'test'"
+    ]
+  },
+  "mbstrdecoder-1.1.2-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "27dd749eb46484a3d032aa1cea80743cd094922245764579e0153f70813845de",
+    "dependencies": {
+      "required": [
+        "chardet"
+      ]
+    },
+    "original_requirements": [
+      "chardet (<6,>=3.0.4)",
+      "Faker (>=1.0.2) ; extra == 'test'",
+      "pytest (>=6.0.1) ; extra == 'test'",
+      "pytest-md-report (>=0.1) ; extra == 'test'"
+    ]
+  },
+  "mbstrdecoder-1.1.1-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "37a7739a365f1bf8aa5ff2de2d66b1a84e96dcb41868cc97c480c20b40c3670b",
+    "dependencies": {
+      "required": [
+        "chardet"
+      ]
+    },
+    "original_requirements": [
+      "chardet (<6,>=3.0.4)",
+      "Faker (>=1.0.2) ; extra == 'test'",
+      "pytest (>=6.0.1) ; extra == 'test'",
+      "pytest-md-report (>=0.1) ; extra == 'test'"
+    ]
+  },
+  "mbstrdecoder-1.1.0-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "153443c34b5e0c9b2263a1f8480d33156190b3e03e1e89cccd9239581aaef0ed",
+    "dependencies": {
+      "required": [
+        "chardet"
+      ]
+    },
+    "original_requirements": [
+      "chardet (<5,>=3.0.4)",
+      "Faker (>=1.0.2) ; extra == 'test'",
+      "pytest (>=6.0.1) ; extra == 'test'",
+      "pytest-md-report (>=0.1) ; extra == 'test'"
+    ]
+  }
+}

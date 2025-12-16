@@ -1,0 +1,12 @@
+# Package configuration for dj-database-url
+conda_forge = "dj-database-url"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "dj_database_url-3.0.1-py3-none-any.whl" },
+  { filename = "dj_database_url-3.0.0-py3-none-any.whl" },
+  { filename = "dj_database_url-2.3.0-py3-none-any.whl" },
+  { filename = "dj_database_url-2.2.0-py3-none-any.whl" },
+  { filename = "dj_database_url-2.1.0-py3-none-any.whl" },
+]

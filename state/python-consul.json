@@ -1,0 +1,56 @@
+{
+  "python_consul-1.1.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "eeaaeeae87807ad1bc0d476ca3a9c53823ed5d514832951acebeca671eb54b20",
+    "dependencies": {
+      "required": [
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.0)",
+      "six (>=1.4)",
+      "aiohttp; extra == 'asyncio'",
+      "tornado; extra == 'tornado'",
+      "twisted; extra == 'twisted'",
+      "treq; extra == 'twisted'"
+    ]
+  },
+  "python_consul-1.0.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "f24bd48977033b53d1b02bf3261f71044eab037ab909dff1f404ce2534f8ed7f",
+    "dependencies": {
+      "required": [
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.0)",
+      "six (>=1.4)",
+      "aiohttp; extra == 'asyncio'",
+      "tornado; extra == 'tornado'",
+      "twisted; extra == 'twisted'",
+      "treq; extra == 'twisted'"
+    ]
+  },
+  "python_consul-0.7.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "5dc9cf561c064dc1eda118ced1052b5250eac4deb60024ea33ada8f305536de2",
+    "dependencies": {
+      "required": [
+        "requests",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "requests (>=2.0)",
+      "six (>=1.4)",
+      "aiohttp; extra == 'asyncio'",
+      "tornado; extra == 'tornado'",
+      "treq; extra == 'twisted'",
+      "twisted; extra == 'twisted'"
+    ]
+  }
+}

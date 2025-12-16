@@ -1,0 +1,11 @@
+# Package configuration for simplesqlite
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "simplesqlite-1.5.4-py3-none-any.whl" },
+  { filename = "SimpleSQLite-1.5.3-py3-none-any.whl" },
+  { filename = "SimpleSQLite-1.5.2-py3-none-any.whl" },
+  { filename = "SimpleSQLite-1.4.0-py3-none-any.whl" },
+  { filename = "SimpleSQLite-1.3.2-py3-none-any.whl" },
+]

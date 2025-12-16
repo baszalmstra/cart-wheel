@@ -1,0 +1,11 @@
+# Package configuration for lmdb
+conda_forge = "python-lmdb"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "lmdb-1.7.5-py3-none-any.whl" },
+  { filename = "lmdb-1.7.3-py3-none-any.whl" },
+  { filename = "lmdb-1.7.2-py3-none-any.whl" },
+  { filename = "lmdb-1.7.1-py3-none-any.whl" },
+]

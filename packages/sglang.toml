@@ -1,0 +1,11 @@
+# Package configuration for sglang
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sglang-0.5.6.post2-py3-none-any.whl" },
+  { filename = "sglang-0.5.6.post1-py3-none-any.whl" },
+  { filename = "sglang-0.5.6-py3-none-any.whl" },
+  { filename = "sglang-0.5.5.post3-py3-none-any.whl" },
+  { filename = "sglang-0.5.5.post2-py3-none-any.whl" },
+]

@@ -1,0 +1,10 @@
+# Package configuration for openml
+conda_forge = "openml"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "openml-0.15.1-py3-none-any.whl" },
+  { filename = "openml-0.15.0-py3-none-any.whl" },
+  { filename = "openml-0.13.0-py3-none-any.whl" },
+]

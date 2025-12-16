@@ -1,0 +1,88 @@
+{
+  "pybtex-0.25.1-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9053b0d619409a0a83f38abad5d9921de5f7b3ede00742beafcd9f10ad0d8c5c",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "latexcodec",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML>=3.01",
+      "latexcodec>=1.0.4",
+      "importlib_metadata; python_version < \"3.10\"",
+      "pytest; extra == \"test\"",
+      "sphinx; extra == \"doc\""
+    ]
+  },
+  "pybtex-0.25.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "bbc211abd458b42c5256d50185ea4f80000f43351959e1d5a3e86cd567a07a6d",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "latexcodec",
+        "importlib-metadata"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML>=3.01",
+      "latexcodec>=1.0.4",
+      "importlib_metadata; python_version < \"3.10\"",
+      "pytest; extra == \"test\"",
+      "sphinx; extra == \"doc\""
+    ]
+  },
+  "pybtex-0.24.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e1e0c8c69998452fea90e9179aa2a98ab103f3eed894405b7264e517cc2fcc0f",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "latexcodec",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=3.01)",
+      "latexcodec (>=1.0.4)",
+      "six",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "pybtex-0.23.0-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4d0dd7a45641976b318a413368e4ae07dc942dd8e3ab81e389b1df4f598944f7",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "latexcodec",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=3.01)",
+      "latexcodec (>=1.0.4)",
+      "six",
+      "pytest ; extra == 'test'"
+    ]
+  },
+  "pybtex-0.22.2-py2.py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "9ce2ce13d8d4f5a8d3848463f58167dbbbe75a53511f1088eaa6197637cdf8cf",
+    "dependencies": {
+      "required": [
+        "pyyaml",
+        "latexcodec",
+        "six"
+      ]
+    },
+    "original_requirements": [
+      "PyYAML (>=3.01)",
+      "latexcodec (>=1.0.4)",
+      "six"
+    ]
+  }
+}

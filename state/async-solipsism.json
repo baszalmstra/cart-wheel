@@ -1,0 +1,65 @@
+{
+  "async_solipsism-0.8-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "e8e31375b2791fcab3e9196c66531116d6e291f6a49d94f599a19cbd7fa78b1f",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pre-commit; extra == \"test\"",
+      "pytest; extra == \"test\"",
+      "pytest-asyncio>=0.23; extra == \"test\"",
+      "pytest-mock; extra == \"test\""
+    ]
+  },
+  "async_solipsism-0.7-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "4f00bd29ec4e284d8a37b17ead35f2ab588e058fbda5c5858eb657bb89adea9d",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pre-commit ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-asyncio >=0.23 ; extra == 'test'",
+      "pytest-mock ; extra == 'test'"
+    ]
+  },
+  "async_solipsism-0.6-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "8566ac1a524f4fcea37fac2f1ae94ac777e348e66e6336792b73f678276efd09",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pre-commit ; extra == 'test'",
+      "pytest ; extra == 'test'",
+      "pytest-asyncio >=0.23 ; extra == 'test'",
+      "pytest-mock ; extra == 'test'"
+    ]
+  },
+  "async_solipsism-0.5-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "281905d69ce7c30677c27e66503e5c0316433ec3b3285fa7da8f6badb6d52477",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "pytest-mock ; extra == 'test'"
+    ]
+  },
+  "async_solipsism-0.4-py3-none-any.whl": {
+    "status": "pending",
+    "sha256": "b3c4d382dd179f9545f3cfdc2088c776f4ce7a4fbc8e0713a636c83f81312a9b",
+    "dependencies": {
+      "required": []
+    },
+    "original_requirements": [
+      "pytest ; extra == 'test'",
+      "pytest-asyncio ; extra == 'test'",
+      "pytest-mock ; extra == 'test'"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+# Package configuration for sphinx-inline-tabs
+conda_forge = "sphinx-inline-tabs"
+version_constraint = ""
+skip_versions = []
+
+wheels = [
+  { filename = "sphinx_inline_tabs-2023.4.21-py3-none-any.whl" },
+]
